@@ -1,7 +1,7 @@
 ---
 title: "Voice Commands Mastery: Keyboard Shortcut Compendium on Win 11"
-date: 2024-08-27T16:02:04.398Z
-updated: 2024-08-28T16:02:04.398Z
+date: 2024-11-12T16:45:07.127Z
+updated: 2024-11-15T16:20:43.691Z
 tags:
   - windows10
   - windows11
@@ -26,36 +26,38 @@ thumbnail: https://thmb.techidaily.com/5350e79af12b414e304e4335d5b2d88e62b5e0973
 
  If your recording sounds a little low-quality, it may be time to upgrade your microphone. Fortunately, we have a guide on[what to look for when buying a studio microphone](https://www.makeuseof.com/buying-studio-microphone-what-to-look-for/) to help you pick the right one.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Add a New Marker to the Recording
 
 **Ctrl + M** is another useful and intuitive shortcut. It adds a marker to the recording, making it easy to find and reference audio content. Markers allow you to quickly jump between various points in a recording without having to search through large amounts of audio data.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Delete the Selected Recording
 
  There is nothing more helpful in any program than shortcuts, and this is particularly true in Voice Recorder. With the**Delete** shortcut, you can quickly delete unwanted recordings without having to navigate through the menu system.
 
 ![Delete Recording in Voice Recorder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/delete-recording-in-voice-recorder.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
  To use the shortcut, you need to select the recording you want to delete and then press the**Delete** key. If you see a confirmation pop-up, click**OK** . This will immediately remove the selected recording from your library and free up space for new recordings.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. Play or Pause
 
  A simple press of the**Spacebar** lets you play or pause recorded files on your computer, allowing you to control playback easily. This shortcut can help you save time and improve your workflow.
 
  When a sound file is open in Windows Media Player, hitting the Spacebar once will play it from where it left off. Pressing it again pauses whatever is currently playing; then pressing it again resumes the song from that point forward. With this convenient feature, you can increase your productivity while staying focused on your tasks.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Go Back
 
  The**backspace** key is one of the most essential components of a keyboard. It's used for a variety of applications, including deleting mistakes and navigating menus.
@@ -68,9 +70,6 @@ thumbnail: https://thmb.techidaily.com/5350e79af12b414e304e4335d5b2d88e62b5e0973
 
 ![Rename a file in Voice Recorder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/rename-a-file-in-voice-recorder.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To use this feature, simply choose the desired file, then press F2 on your keyboard. After that, give the file a name and click**Rename** to save it.
 
 ## 7\. Show in Folder
@@ -81,14 +80,25 @@ thumbnail: https://thmb.techidaily.com/5350e79af12b414e304e4335d5b2d88e62b5e0973
 
 ![Show Recording in Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/show-recording-in-folder.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
  To open a folder, select the recording you want to open and then press O – this will launch an Explorer window displaying all of your audio recordings. With this shortcut, you do not have to search through numerous files to find what you need. It takes just one quick keystroke to access all of your recorded audio files!
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Share a Recording
 
  With the**S** keyboard shortcut, you can quickly share recordings without having to navigate menus. All you have to do is select the recording you want to share and press**S** . From there, choose the platform and send it off to someone else.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Jump Ahead or Back While Playing a Recording
 
@@ -104,13 +114,16 @@ thumbnail: https://thmb.techidaily.com/5350e79af12b414e304e4335d5b2d88e62b5e0973
 
  Using the shift right arrow key will take you forward 5 seconds at a time while using the shift left arrow key will take you backward. It is especially helpful when dealing with long blocks of audio since it eliminates the need to scroll around in the timeline bar.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ## 11\. Jump to the Start of the Recording
 
  It is very useful to have the**Home** key shortcut in Windows Voice Recorder, which allows you to quickly jump to the start of the recording. To use it, just press the**Home** key while playing or recording a clip, and it will jump back to the beginning instantly.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 12\. Jump to the End of the Recording
 
@@ -120,14 +133,11 @@ thumbnail: https://thmb.techidaily.com/5350e79af12b414e304e4335d5b2d88e62b5e0973
 
  When it comes to recording audio files, a vocal recorder keyboard shortcut can prove to be extremely helpful. It provides quick and easy access to essential functions and improves the overall experience. However, it is important to know that some shortcuts might not work on your system.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -136,4 +146,24 @@ thumbnail: https://thmb.techidaily.com/5350e79af12b414e304e4335d5b2d88e62b5e0973
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-the-unsung-heroes-of-canvas-open-source-paintings/"><u>[New] 2024 Approved The Unsung Heroes of Canvas Open-Source Paintings</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-brief-snippet-analysis-for-beginners-for-2024/"><u>[New] Brief Snippet Analysis for Beginners for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-superior-animation-suites-top-3d-modelers/"><u>[New] In 2024, Superior Animation Suites Top 3D Modelers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-proven-methods-for-effective-screen-capture-using-adobe-captive-toolkit/"><u>[New] Proven Methods for Effective Screen Capture Using Adobe Captive Toolkit</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-innovative-ideas-to-make-your-youtube-shorts-exceptional/"><u>[Updated] 2024 Approved Innovative Ideas to Make Your YouTube Shorts Exceptional</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/does-starting-fresh-with-steam-mean-losing-your-game-library/"><u>Does Starting Fresh with Steam Mean Losing Your Game Library?</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-windows-partition-integration-strategies/"><u>Efficient Windows Partition Integration Strategies</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficiently-resolving-windows-audio-glitches-error-code-9999/"><u>Efficiently Resolving Windows Audio Glitches: Error Code 9999</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-your-game-amplifying-graphics-power-in-windows-1011/"><u>Elevate Your Game: Amplifying Graphics Power in Windows 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevating-device-safety-with-custom-lock-patterns-in-windows-11/"><u>Elevating Device Safety with Custom Lock Patterns in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminate-no-errors-comprehensible-guide-to-fixing-win11-issues/"><u>Eliminate No Errors: Comprehensible Guide to Fixing Win11 Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-wordsmithing-effortlessly-with-top-apps-windows/"><u>Enhance Wordsmithing Effortlessly With Top Apps (Windows)</u></a></li>
+<li><a href="https://windows11.techidaily.com/enriching-windows-taskmanager-with-cli-tab-feature/"><u>Enriching Windows TaskManager with CLI Tab Feature</u></a></li>
+<li><a href="https://windows11.techidaily.com/eradicate-black-screen-on-win11-top-easy-fixes/"><u>Eradicate Black Screen on Win11: Top Easy Fixes!</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fixing-folder-anomalies-icons-in-macos/"><u>Fixing Folder Anomalies: ? Icons in macOS</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/master-the-darkness-an-insightful-look-into-the-resilient-and-portable-design-of-j5-tactical-v1-pro-lights/"><u>Master the Darkness: An Insightful Look Into the Resilient and Portable Design of J5 Tactical V1 Pro Lights</u></a></li>
+<li><a href="https://fox-making.techidaily.com/solution-found-overcoming-challenges-with-acronis-true-image-and-crucial-clone/"><u>Solution Found: Overcoming Challenges with Acronis True Image and Crucial Clone</u></a></li>
+</ul></div>
 

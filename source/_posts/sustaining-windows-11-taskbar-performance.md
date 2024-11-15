@@ -1,7 +1,7 @@
 ---
 title: Sustaining Windows 11 Taskbar Performance
-date: 2024-08-22T21:43:12.672Z
-updated: 2024-08-23T21:43:12.672Z
+date: 2024-11-10T16:41:03.403Z
+updated: 2024-11-15T17:23:37.021Z
 tags:
   - windows10
   - windows11
@@ -38,6 +38,13 @@ To restart a Windows Explorer service:
 
 ![reinstall re_register all Windows 11 apps powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reinstall-re_register-all-windows-11-apps-powershell.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The Windows 11 taskbar can stop working due to issues with the built-in apps and the user account. To fix the problem, you can reinstall and re-register all the built-in apps using a PowerShell cmdlet. Doing so will restore the taskbar to its working state.
 
 To reinstall and register all Windows apps:
@@ -51,25 +58,16 @@ To reinstall and register all Windows apps:
 `PS C:\Users\Administrator>`
 5. Close PowerShell and restart your computer. If you don’t want to perform a system reboot, restart Windows Explorer in Task Manager.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## 3\. Uninstall the Recently Installed Windows Update
 
  If the taskbar starts to act up after installing a Windows update, uninstall the update to see if it helps fix the issue. Feature Windows updates can sometimes break more things they intend to fix.
 
  Fortunately, you can[uninstall updates in Windows 11](https://www.makeuseof.com/windows-11-uninstall-updates/) using the update history feature. Update history shows all the recent updates installed for Windows 11\. You may need to dig around a bit to find an update that coincides with when the taskbar stopped working. Next, uninstall the update and restart your PC to see if the taskbar is working again.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Close Conflicting System Services
 
 ![close system services task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/close-system-services-task-manager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Issues with some system services, such as searchhost.exe and runtimebroker.exe, can cause the taskbar to stop working. You can restart these services in Task Manager to resolve the issue.
 
 To restart system services in Task Manager:
@@ -85,6 +83,13 @@ To restart system services in Task Manager:
 
  RuntimeBroker.exe`
 4. After you restart all the services, close Task Manager and restart your computer. After the computer restarts, check if the taskbar is working.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Enable XAML for Start Menu Using Registry Editor
 
@@ -104,10 +109,20 @@ To make the Start menu use XAML:
 6. Next, double-click on the newly created**EnableXamlStartMenu** value to modify it.  
 ![registry editor advanced new dword value data 0](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/registry-editor-advanced-new-dword-value-data-0.jpg)
 7. Type**0** in the**Value data** field and click**OK** to save the changes.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 8. Close Registry Editor and restart your PC.
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Run System File Checker and DISM
 
@@ -127,9 +142,6 @@ To make the Start menu use XAML:
 2. Type**rstrui.exe** and click**OK** .  
 ![system restore select restore point recommended](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-restore-select-restore-point-recommended.jpg)
 3. In the**System Restore** dialog, you may be prompted to use a recommended restore point. Ensure the restore point was created before the taskbar stopped working, and click**Next** .
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Alternatively, select**Choose a different restore point** option and click**Next** .  
 ![system restore select restore point](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-restore-select-restore-point.jpg)
 5. Here, select the**Show more restore points option** to view all restore points available.
@@ -139,14 +151,24 @@ To make the Start menu use XAML:
  Your system may restart a few times when system restore is in progress. Leave the system idle and wait for the process to complete. When the system restarts, you’ll see a success message. If not, try again with the same or another restore point if available.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 8\. Create a New User Account
 
  A corrupt user profile can cause some system functions to stop working. To fix the issue, create a new user account and try to access the taskbar.
 
  You can[create a new user account in Windows 11](https://www.makeuseof.com/windows-11-create-local-user-account/) from the Settings panel, using the User Accounts dialog, Command Prompt, and Local Users and Groups. Next, log in to your new user account and check if the taskbar works.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Easy Fixes to Restore the Windows 11 Taskbar
 
@@ -154,14 +176,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  If the issue persists, check and uninstall bad Windows updates, restart system services, reinstall Windows built-in apps, and perform a restore using restore points.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -170,4 +189,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-the-path-to-autoplay-configuring-youtube-content-for-uninterrupted-streaming/"><u>[Updated] In 2024, The Path to Autoplay Configuring Youtube Content for Uninterrupted Streaming</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-investigating-instagrams-videography-cap-for-2024/"><u>[Updated] Investigating Instagram's Videography Cap for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-steps-for-installing-the-newest-amd-radeon-video-card-drivers-v2410/"><u>Essential Steps for Installing the Newest AMD Radeon Video Card Drivers V24.10</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/facetune-photos-app-complete-review-and-guide-2024/"><u>Facetune Photos App Complete Review and Guide 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/guidelines-to-correct-err-87-on-windows-loadlib/"><u>Guidelines to Correct Err 87 on Windows LoadLib</u></a></li>
+<li><a href="https://windows11.techidaily.com/harness-full-potential-of-windows-11-task-manager-filters-and-themes-at-your-fingertips/"><u>Harness Full Potential of Windows 11 Task Manager: Filters & Themes at Your Fingertips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-maximize-impact-with-onestreams-streaming-solutions-for-2024/"><u>How to Maximize Impact with OneStream's Streaming Solutions for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/immediate-intervention-for-directdraw-fails-in-windows-1011/"><u>Immediate Intervention for DirectDraw Fails in Windows 10/11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-c12-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Nokia C12 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://windows11.techidaily.com/safeguarding-your-os-managing-usb-device-use/"><u>Safeguarding Your OS: Managing USB Device Use</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-for-common-disk-errors-on-windows-devices/"><u>Solutions for Common Disk Errors on Windows Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-rotation-rulebook-six-secrets-to-snap-spins-in-windows-11/"><u>The Rotation Rulebook: Six Secrets to Snap-Spins in Windows 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-speedy-photographers-guide-to-google-collage-crafting/"><u>The Speedy Photographer's Guide to Google Collage Crafting</u></a></li>
+<li><a href="https://windows11.techidaily.com/turbo-steam-downloads-overcoming-frustrating-speed-halts/"><u>Turbo Steam Downloads: Overcoming Frustrating Speed Halts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-filmoras-most-attractive-edits/"><u>Unveiling Filmora's Most Attractive Edits</u></a></li>
+</ul></div>
 

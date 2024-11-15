@@ -1,7 +1,7 @@
 ---
 title: Removing Block by System Admins From Windows
-date: 2024-10-29T03:56:04.266Z
-updated: 2024-11-04T23:18:43.825Z
+date: 2024-11-10T16:49:05.023Z
+updated: 2024-11-15T16:08:35.141Z
 tags:
   - windows10
   - windows11
@@ -43,13 +43,6 @@ To unblock an app on Windows:
 4. Click**Apply** and**OK** to save the changes.
 5. Launch the app again to see if the error is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Run the App Using the Command Prompt
 
  You can run and launch apps using Command Prompt on Windows. All you need is a file path followed by the file name. Command Prompt offers a faster way to open apps on Windows; however, you can also use it if you can't open an app from File Explorer.
@@ -66,9 +59,23 @@ To open Windows apps using Command Prompt:
 ![run program using command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-program-using-command-prompt.jpg)
 6. Next, press the**Win** key and type**cmd** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Right-click on**Command Prompt** , and select**Run as administrator.**
 8. Next, press**Ctrl + V** to paste the copied file path in Command Prompt. Make sure to add the .exe file name at the end of the file path.
 9. Press**Enter** to launch the app.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Run the Apps as an Administrator
 
@@ -103,19 +110,19 @@ Reset the Microsoft Store app:
 
 ![reset-microsoft-teams-windows-11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-microsoft-teams-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Resetting an app will delete its data, including sign-in details and preferences.
 
 1. Press**Win + I** to open**Settings** .
 2. Open the**Apps** tab and click on**Installed Apps** .
 3. Click the**three-dots menu** near the app name and select**Advanced options** .
 4. Scroll down and click the**Reset** button. Click**Reset** again to confirm the action. Similar to Repair, you'll see a checkmark when the reset process is complete.
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Disable Microsoft Defender SmartScreen
 
@@ -132,10 +139,10 @@ Reset the Microsoft Store app:
  If the error is resolved, add the app to your security program's allowed list. You can also[allowlist files and apps on Windows Defender](https://www.makeuseof.com/how-to-whitelist-files-windows-defender/) if you use it as the primary security application.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Modify the Windows Registry to Remove Admin Block
@@ -155,13 +162,6 @@ To remove the admin block using Registry Editor:
 ![enable lua modify registry editor windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-lua-modify-registry-editor-windows.jpg)
 6. Right-click on the**EnableLUA** value and select**Modify** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Type**0** in the**Value data** field and click**OK** to save the changes.  
 ![enable lua modify registry editor value 0 windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-lua-modify-registry-editor-value-0-windows.jpg)
 8. Close Registry Editor and restart your computer to apply the changes. After the restart, launch the app to see if the error is resolved.
@@ -169,10 +169,10 @@ To remove the admin block using Registry Editor:
 9. If you are using a school or work computer, your organization may put some restrictions on its use. If you can't find the UAC settings, contact your IT administrator to resolve the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Unblock the Apps Blocked by Your System Administrator
@@ -196,21 +196,18 @@ To remove the admin block using Registry Editor:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-tiktoks-take-jujutsu-kaisen-challenges-and-laughs/"><u>[New] TikTok's Take Jujutsu Kaisen Challenges and Laughs</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-punches-over-views-the-great-debate/"><u>[Updated] In 2024, Punches Over Views The Great Debate</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-cinematography-insights-the-leading-5-secrets/"><u>2024 Approved Cinematography Insights The Leading 5 Secrets</u></a></li>
-<li><a href="https://windows11.techidaily.com/combatting-efail-error-code-0x80004005-in-virtualbox/"><u>Combatting E_FAIL (Error Code: 0X80004005) in Virtualbox</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-seven-key-upgrades-elevating-googles-bard-ai-with-palm-2-technology/"><u>Discover the Seven Key Upgrades Elevating Google's Bard AI with PaLM 2 Technology</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-add-a-hidden-items-context-menu-option-in-windows-10-and-11/"><u>How to Add a Hidden Items Context Menu Option in Windows 10 & 11</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-stepwise-strategies-to-record-flawless-screens-with-adobe-captive/"><u>In 2024, Stepwise Strategies to Record Flawless Screens with Adobe Captive</u></a></li>
-<li><a href="https://windows11.techidaily.com/initiating-changes-accessing-fax-editor-in-the-newest-os/"><u>Initiating Changes: Accessing Fax Editor in the Newest OS</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/kunt-u-mij-vertellen-hoe-ik-alle-fotos-in-windows/"><u>Kunt U Mij Vertellen Hoe Ik Alle Foto's in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/launching-the-system-rescue-console-easily/"><u>Launching the System Rescue Console Easily</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/list-of-pokemon-go-joysticks-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Realme GT Neo 5 | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/seamless-integration-effortlessly-managing-tabs-in-windows-11/"><u>Seamless Integration: Effortlessly Managing Tabs in Windows 11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/sending-and-receiving-imessages-from-your-pc-with-windows-a-complete-guide/"><u>Sending & Receiving iMessages From Your PC with Windows: A Complete Guide</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/skype-recording-top-10-picks-for-optimal-audio/"><u>Skype Recording Top 10 Picks for Optimal Audio</u></a></li>
-<li><a href="https://windows11.techidaily.com/swift-recovery-overcoming-black-screen-issues-in-wins/"><u>Swift Recovery: Overcoming Black-Screen Issues in Wins</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-the-stalled-windows-system-insight/"><u>Troubleshooting the Stalled Windows System Insight</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-dreamlands-choice-ultimate-10-affordable-rpg-games-for-2024/"><u>[New] Dreamland's Choice Ultimate 10 Affordable RPG Games for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-10-best-gba-emulators-for-android/"><u>[New] In 2024, The 10 Best GBA Emulators for Android</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-asmr-mastery-in-action-strategies-for-dynamic-and-effective-videos/"><u>[Updated] 2024 Approved ASMR Mastery in Action Strategies for Dynamic and Effective Videos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-a-comparative-look-at-rgb-and-srgb-for-designers/"><u>[Updated] In 2024, A Comparative Look at Rgb and Srgb for Designers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-for-repairing-your-itunes-sound-setup-errors-efficiently/"><u>Expert Tips for Repairing Your iTunes Sound Setup Errors Efficiently</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-extracting-files-to-the-temporary-location-error-1152-in-windows-1110/"><u>How to Fix the “Extracting Files to the Temporary Location” Error 1152 in Windows 11/10</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-honor-magic-6-phone-by-drfone-android/"><u>How to Unlock a Network Locked Honor Magic 6 Phone?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-browser-management-in-windows/"><u>Mastering the Art of Browser Management in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/record-games-like-a-pro-with-windows-and-intels-command-center/"><u>Record Games Like a Pro with Windows & Intel's Command Center</u></a></li>
+<li><a href="https://games-able.techidaily.com/revive-playstation-4s-wi-fi-connection-with-these-fixes/"><u>Revive PlayStation 4'S Wi-Fi Connection with These Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/upgrade-your-windows-to-a-dynamic-tiling-desktop-with-fancywm/"><u>Upgrade Your Windows to a Dynamic Tiling Desktop With FancyWM</u></a></li>
 </ul></div>
 

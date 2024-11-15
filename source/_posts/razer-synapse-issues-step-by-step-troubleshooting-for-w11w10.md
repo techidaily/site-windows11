@@ -1,7 +1,7 @@
 ---
 title: "Razer Synapse Issues: Step-by-Step Troubleshooting for W11/W10"
-date: 2024-08-27T16:02:01.418Z
-updated: 2024-08-28T16:02:01.418Z
+date: 2024-11-11T16:10:59.643Z
+updated: 2024-11-15T16:53:21.894Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/0232d564f9edec1eb792bb4bc9c0ce9205dc45825
 6. Press **Apply** to set the new compatibility setting.
 7. Click **OK** to exit Synapse’s properties window.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Set Synapse to Run as An Administrator
 
  A lack of system admin permissions can sometimes be a cause for Razer Synapse not working. To address that, open the **Compatibility** tab for Synapse as covered within steps one to three of the previous resolution. Select the **Run as administrator** option on the Compatibility tab and click **Apply** \> **OK**.
@@ -46,17 +53,15 @@ thumbnail: https://thmb.techidaily.com/0232d564f9edec1eb792bb4bc9c0ce9205dc45825
 3. Click the **Change** button for Razer Synapse.  
 ![The Change button for Razer Synapse](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/change-button.jpg)
 4. Press the **Repair** button.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Repair button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-repair-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
+
 ## 4\. Start or Restart the Razer Services
 
  A couple of services need to be running for Razer Synapse to work. Some users have fixed Synapse not working by restarting the Razer Synapse Service or Razer Central Service. Try starting those two services as follows:
@@ -66,16 +71,36 @@ thumbnail: https://thmb.techidaily.com/0232d564f9edec1eb792bb4bc9c0ce9205dc45825
 3. Double-click the **Razer Synapse Service**.  
 ![The Razer Synapse Service in the Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/razer-synapse-service.jpg)
 4. If the Razer Synapse Service has been disabled, change the **Startup type** option to **Automatic**.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click **Start** within the service’s window.  
 ![The Razer Synapse Service Properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/razer-synapse-service-properties-window.jpg)
 6. Select **Apply** to save the Razer Synapse Service settings.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Press **OK** to exit the service window.
 8. Repeat steps three to seven for the Razer Central Service.
 9. If those services are already running when you check them, right-click on them and select **Restart**. Or you can open the properties windows for the services and click Stop and Start.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5\. Clear Razer Synapse’s Cache Data
 
  Razer Synapse has a data folder that includes cache files. Clearing that folder can resolve Synapse issues caused by accumulated or corrupted cached data. You can clear Synapse’s cached data folder by deleting it as follows:
@@ -85,16 +110,17 @@ thumbnail: https://thmb.techidaily.com/0232d564f9edec1eb792bb4bc9c0ce9205dc45825
 3. Next, click **AppData** in Explorer’s address bar to view that directory.  
 ![The AppData folder in Explorer's address bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/appdata-folder-in-explorer-s-address-bar.jpg)
 4. Double-click the **Local** folder to open it.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 5. Right-click the **Razer** folder in that directory to select **Delete**.  
 ![The Delete option for the Razer folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-delete-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ## 6\. Install .NET Framework 4.8.1
 
  Although a .NET Framework version will likely be installed on your Windows 11/10 PC, you might need to update it for Razer Synapse to work. Try downloading and installing the latest .NET Framework 4.8.1 as follows:
@@ -107,15 +133,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 5. Select **I have read and accept the license terms** box.  
 ![The Microsoft .NET Framework setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/microsoft-net-framework-box.jpg)
 6. Click **Install** to proceed with the .NET Framework 4.8.1 installation.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 
  You can also try repairing the current .NET Framework installation on your PC. To do so, check out our guide to [repairing .NET Framework on Windows PCs](https://www.makeuseof.com/windows-repair-net-framework/).
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Temporarily Disable Firewalls
 
  Firewalls can cause Synapse startup issues to occur when they’re set to block that software’s internet connectivity. You can quickly check if Microsoft Defender Firewall is causing the issue by disabling it. Follow the instructions in this [how to disable Microsoft Defender Firewall guide](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) to apply this potential solution. Then run Razer Synapse with the firewall off.
@@ -123,8 +143,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![The Turn off Windows Defender Firewall radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/turn-off-windows-firewall.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If the software works with the firewall off, configure MDF to allow Razer Synapse through it. Our article about [allowing apps through the Windows firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) tells you how to do so.
 
  This potential resolution also applies to third-party firewalls. Temporarily disable whatever firewall you’ve got installed (or a firewall antivirus component) to see if that makes any difference. If it does, add Synapse to the firewall’s allowed apps list.
@@ -149,11 +173,27 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Razer Synapse not working means users can’t open and utilize that software when needed. Is your Synapse software effectively broken as well? If so, this is how you can fix Razer Synapse not opening on a Windows 11/10 PC.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-rapid-restoration-of-reddit-archives-removed/"><u>[New] In 2024, Rapid Restoration of Reddit Archives Removed</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-the-easiest-path-to-personalizing-your-pubg-characters-speech/"><u>[New] The Easiest Path to Personalizing Your PUBG Character’s Speech</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-viewership-victors-the-worlds-top-10-video-content-makers/"><u>2024 Approved Viewership Victors The World's Top 10 Video Content Makers</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-vivo-v29-pro-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Vivo V29 Pro Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-selective-guide-to-exceptional-twitch-download-apps/"><u>A Selective Guide to Exceptional Twitch Download Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-command-line-master-20-key-cmd-commands/"><u>Efficient Command Line: Master 20 Key CMD Commands</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-usability-and-style-for-windows-1011-in-8-ways/"><u>Elevate Usability and Style for Windows 10/11 in 8 Ways</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-we-encountered-an-error-oculus-w11w10-guide/"><u>Eliminating We Encountered an Error: Oculus W11/W10 Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/embarking-on-a-journey-with-ai-copilot-in-windows-11/"><u>Embarking on a Journey with AI Copilot in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/empowering-windows-11-android-phone-webcam-utilization/"><u>Empowering Windows 11: Android Phone Webcam Utilization</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-qbittorrent-performance-after-a-halt/"><u>Enhancing qBittorrent Performance After a Halt</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-capture-the-moment-freezing-frames-in-videos-with-ease/"><u>In 2024, Capture the Moment Freezing Frames in Videos with Ease</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
+</ul></div>
+

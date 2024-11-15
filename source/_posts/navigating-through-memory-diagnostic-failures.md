@@ -1,7 +1,7 @@
 ---
 title: Navigating Through Memory Diagnostic Failures
-date: 2024-10-28T21:45:59.953Z
-updated: 2024-11-04T17:13:12.543Z
+date: 2024-11-10T16:56:53.406Z
+updated: 2024-11-15T17:25:04.728Z
 tags:
   - windows10
   - windows11
@@ -30,10 +30,10 @@ thumbnail: https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc7
  This error is often triggered after a blue screen of death (BSOD) or the system freezing issues. The reason for the error can vary and include faulty memory slots and memory sticks. It can also be a false positive due to a Windows OS glitch.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Check for Overclocking Issues
@@ -57,29 +57,16 @@ thumbnail: https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc7
 ![run windows hardware troubleshooter command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/run-windows-hardware-troubleshooter-command-prompt.jpg)
 3. In the Command Prompt window, type the following command and press **Enter**:  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 `msdt.exe -id DeviceDiagnostic`
 4. In the **Hardware and Devices** dialog, click **Next**. By default, the troubleshooter is set to apply any repairs available. To disable automatic repair, click **Advanced** and uncheck the **Apply repairs automatically** option.  
 ![hardware and devices troubleshooter windows 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/hardware-and-devices-troubleshooter-windows-1.jpg)
 5. It will scan your computer for issues, which may take a few minutes. If an issue is detected, select to automatically apply the repair.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. If the suggested problem is unrelated to memory, you can skip it to see the next problem. The troubleshooter will detect additional issues. If an issue is found, apply the fixes and check for any improvements.
@@ -95,6 +82,13 @@ thumbnail: https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc7
  If you determine a faulty RAM slot to have caused the issue, repairing it is tedious. First, RAM slots aren’t easily accessible like memory sticks. Second, to replace the slot, you’ll need to find a spare but compatible motherboard with working slots and then solder the connections onto your motherboard.
 
  If repairing the slots is not possible, your only option is a motherboard replacement. Depending on your system configuration, this can be an expensive solution. Or you can continue to use the system without utilizing the faulty memory slot, albeit with reduced performance.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Test Your RAM with MemTest86+
 
@@ -117,6 +111,13 @@ thumbnail: https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc7
 ![memtest86 plus memory integrity test in progress](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/memtest86-plus-memory-integrity-test-in-progress.png)
 7. Next, plug the Memtest86+ bootable USB drive into your computer and turn it on.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Boot into the Boot Menu and select the bootable USB drive as the boot device. The hotkey key to enter the Boot Menu may vary depending on your computer manufacturer. You can press **F9** on an **HP** computer, **F12** on a **Dell** computer and so on to access the **Boot Menu**.
 9. Memtest86+ will automatically start the memory integrity check. Let Memtest86+ complete at least 2 passes; the more, the better. Press the **Esc** key to stop the test if there are no errors after multiple passes.
 
@@ -129,13 +130,6 @@ thumbnail: https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc7
  If the Windows Memory Diagnostic tool continues to show the hardware problem was detected error, even after the Memtest86+ passed the test, check if the problem is due to issues with the Windows operating system.
 
  To fix critical issues with your Windows image, you can perform a [repair reinstall of Windows 11 without deleting apps](https://www.makeuseof.com/windows-11-reinstall-without-deleting-apps/). If that does not work, perform a clean install. This will reinstall the operating system but delete all your apps and data from the computer. So, backup any data you need before attempting a clean install.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fixing the Memory Diagnostic Tool "Hardware Problem Detected" Error
 
@@ -155,20 +149,20 @@ thumbnail: https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-fixing-the-no-thumbnail-issue-in-youtubes-shorts-videos/"><u>[New] 2024 Approved Fixing the No-Thumbnail Issue in YouTubes Shorts Videos</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-gopro-mastery-top-15-dynamic-color-look-up-table-reviews-for-2024/"><u>[New] GoPro Mastery Top 15 Dynamic Color Look-Up Table Reviews for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-step-by-step-voice-memo-creation-on-ios-devices-for-2024/"><u>[New] Step-by-Step Voice Memo Creation on iOS Devices for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-here-is-how-asmr-helps-with-sleep-and-best-asmrtist-recommendation/"><u>[Updated] 2024 Approved Here Is How ASMR Helps with Sleep & Best ASMRtist Recommendation</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-the-impactful-journey-with-gopro-hero5/"><u>[Updated] The Impactful Journey with GoPro Hero5</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-secrets-of-lut-customization-in-premiere/"><u>[Updated] Unveiling the Secrets of LUT Customization in Premiere</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-step-by-step-approach-to-fixing-to-do-sync-issues/"><u>A Step-by-Step Approach to Fixing To Do Sync Issues</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/best-ios-tools-for-psp-gaming-top-5/"><u>Best iOS Tools for PSP Gaming, Top 5</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypassing-chromes-black-pixels-issue/"><u>Bypassing Chrome's Black Pixels Issue</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/dealing-with-the-binkw32dll-missing-error-effective-solutions-inside/"><u>Dealing with the Binkw32.dll MISSING Error: Effective Solutions Inside</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-isarcextract-error-a-window-11-solution/"><u>Overcoming ISArcExtract Error: A Window 11 Solution</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-fixes-making-intellij-unison-function-in-win11/"><u>Quick Fixes: Making IntelliJ Unison Function in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-resolve-windows-11-zoom-malfunction-1132/"><u>Steps to Resolve Windows 11 Zoom Malfunction #1132</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-ultimate-guide-leaving-s-mode-on-win-1110/"><u>The Ultimate Guide: Leaving S Mode on Win 11/10</u></a></li>
-<li><a href="https://windows11.techidaily.com/trends-in-firmware-enhancement-what-every-surface-user-needs-to-know/"><u>Trends in Firmware Enhancement: What Every Surface User Needs to Know</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-optimal-frame-rate-mastery-through-controller-tweaks/"><u>[New] Optimal Frame Rate Mastery Through Controller Tweaks</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-best-tech-to-preserve-classroom-interactions/"><u>2024 Approved Best Tech to Preserve Classroom Interactions</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-poco-x5-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Poco X5 Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-galaxy-a05s-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Galaxy A05s.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/definitive-solutions-to-overcome-audio-stuttering-issues-for-windows-117-users/"><u>Definitive Solutions to Overcome Audio Stuttering Issues for Windows 11/7 Users</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-drivers-now-smooth-installation-for-your-microsoft-wireless-mouse-5000/"><u>Download Drivers Now! Smooth Installation for Your Microsoft Wireless Mouse 5000</u></a></li>
+<li><a href="https://windows11.techidaily.com/establishing-alternate-view-for-windows-pdfs/"><u>Establishing Alternate View for Windows PDFs</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-unable-to-launch-java-vm-on-windows-systems/"><u>Fixing Unable to Launch Java VM on Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/method-to-detach-onedrive-from-microsoft-id-in-windows/"><u>Method to Detach OneDrive From Microsoft ID in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-maze-fixing-windows-11-access-issues/"><u>Navigating the Maze: Fixing Windows 11 Access Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/overhauling-the-default-administrator-model-for-windows-users/"><u>Overhauling the Default Administrator Model for Windows Users</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-oppo-a1-5g-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Oppo A1 5G</u></a></li>
+<li><a href="https://windows11.techidaily.com/secrets-of-storage-the-top-6-win11-techniques-for-capturing-file-and-directory-paths/"><u>Secrets of Storage: The Top 6 Win11 Techniques for Capturing File & Directory Paths</u></a></li>
+<li><a href="https://windows11.techidaily.com/traversing-the-digital-landscape-with-ease/"><u>Traversing the Digital Landscape with Ease</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-microphone-settings-on-windows-os/"><u>Unveiling Microphone Settings on Windows OS</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Supercharge Your Workday: Mastery Tips for Multitasking Windows 11"
-date: 2024-08-22T21:40:52.899Z
-updated: 2024-08-23T21:40:52.899Z
+date: 2024-11-09T16:14:55.438Z
+updated: 2024-11-15T17:11:17.446Z
 tags:
   - windows10
   - windows11
@@ -44,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/0e4e69a266c0e21cfaa72121cb274553aaa959ab8
 
  Minimizing one app from the group will automatically minimize the rest; the same goes for maximizing. Also, you can adjust snap groups from the snap layout settings on Windows 11 PCs.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Create Virtual Desktops
 
  Think of virtual desktops as multiple workspaces within your computer that allow you to focus only on the apps and windows each of them contains. Using the virtual desktop feature, you can set up multiple desktops and view an array of windows and apps you’ve opened within them.
@@ -52,11 +59,15 @@ thumbnail: https://thmb.techidaily.com/0e4e69a266c0e21cfaa72121cb274553aaa959ab8
 
 ![launch new desktop on windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/launc-new-desktop-settings-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This gives you fresh space within which you can open up a different set of apps and windows and designate them for a particular task. In addition, to toggle between desktops, you can use the task view menu.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Set Up Multiple Displays
 
  Using a second screen or additional monitor displays increases screen space, making it much easier to view and use multiple windows. This makes for improved efficiency with tasks and a greater productivity rate.
@@ -67,9 +78,6 @@ thumbnail: https://thmb.techidaily.com/0e4e69a266c0e21cfaa72121cb274553aaa959ab8
 
 ![screenshot of windows 11 multiple display settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-windows-11-multiple-display-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Changing the viewing mode of your displays can be achieved in two ways. You can select a display in**Multiple Display** settings and pick a viewing option from the drop-down menu that comes up.
 
  Alternatively, you can use the shortcut**Win + P** to open a prompt containing viewing modes for you to select.
@@ -80,18 +88,17 @@ thumbnail: https://thmb.techidaily.com/0e4e69a266c0e21cfaa72121cb274553aaa959ab8
 
  You can further[set up your external displays on Windows 11](https://www.makeuseof.com/windows-11-multiple-monitor-set-up/) by customizing the background, display resolution, and many other features.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## 5\. Use the Task View Feature to Manage Windows
 
 ![Screenshot of windows 11 task view](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-windows-11-task-view.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Windows 11’s**Task View** gives you a detailed view of all open windows on your desktop. Select a task to bring into focus, manage open apps and windows effectively here, and toggle between desktops. You can move an app to a different desktop by dragging and dropping it on the Desktop pane below.
 
  To create a snap group from the apps in a desktop, right-click on an app. You can choose from the drop-down menu to snap into the left or right position or move to a different desktop. Also, you can choose to have windows from an app appear on all created desktops.
@@ -99,25 +106,23 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 ![Screenshot of windows 11 task view v2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-windows-11-task-view-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
+
 ## Boost Your Productivity Through Multitasking Features on Windows 11
 
  The power of multitasking lies in organization. By arranging multiple desktops within your computer’s system or having a multi-view app set up through Snap Assist, you can make the most out of your experience.
 
  Want your desktop to be easier to manage and toggle between apps? Or do you want to achieve a more organized workflow system? Windows 11 brings you the best of multitasking, and with a few clicks, you can set up your desktop for optimum productivity.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -126,4 +131,22 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-voice-versus-video-making-the-right-media-selection/"><u>[Updated] In 2024, Voice Versus Video Making the Right Media Selection</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-leading-the-edge-professional-cameras-that-rotate-full-circle-2023/"><u>[Updated] Leading the Edge Professional Cameras That Rotate Full Circle - 2023</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/geforce-rtx-3070-ti-driver-installation-guide-for-windows-11-8-and-7-users/"><u>GeForce RTX 3070 Ti Driver Installation Guide for Windows 11, 8 and 7 Users</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-13-pro-max-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock iPhone 13 Pro Max Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-reimagine-virtual-participation-google-meets-customizable-screenscape/"><u>In 2024, Reimagine Virtual Participation Google Meet's Customizable Screenscape</u></a></li>
+<li><a href="https://windows11.techidaily.com/instant-fix-resetting-windows-update-issues/"><u>Instant Fix: Resetting Windows Update Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-screen-stumbles-winning-at-full-screen-in-sonic-frontiers-on-windows-11/"><u>Overcoming Screen Stumbles: Winning at Full-Screen in Sonic Frontiers on Windows 11</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210188013-9781641845007-shine/"><u>Shine | Free Book</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-system-resources-for-better-gaming-experience/"><u>Streamlining System Resources for Better Gaming Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-restoring-windows-dashboard-functionality/"><u>Tips for Restoring Windows Dashboard Functionality</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-slow-playback-perfecting-vlc-videos/"><u>Troubleshooting Slow Playback: Perfecting VLC Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-linux-potential-with-windows-programming/"><u>Unlocking Linux Potential with Windows Programming</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unparalleled-templates-for-meme-artists/"><u>Unparalleled Templates for Meme Artists</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-the-power-of-a-budget-gaming-rig-in-depth-review-of-dell-g5-5090-and-its-abundance-of-customization-options/"><u>Unveiling the Power of a Budget Gaming Rig: In-Depth Review of Dell G5 5090 and Its Abundance of Customization Options</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-clipchamp-hurdle-heres-the-fix-guide/"><u>Win11 ClipChamp Hurdle? Here's the Fix Guide</u></a></li>
+</ul></div>
 

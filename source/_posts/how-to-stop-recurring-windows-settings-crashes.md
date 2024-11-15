@@ -1,7 +1,7 @@
 ---
 title: How to Stop Recurring Windows Settings Crashes
-date: 2024-10-30T07:01:04.594Z
-updated: 2024-11-05T07:12:38.427Z
+date: 2024-11-10T16:48:09.355Z
+updated: 2024-11-15T17:25:10.730Z
 tags:
   - windows10
   - windows11
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/499d16f8fa9d73db2896cc95dd1103614d6afb1a8
 
  Now that we know about the potential causes behind the issue, let’s have a look at the troubleshooting methods you can try to fix the problem once and for all.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Restart Your PC
 
  This might seem too simple to work, but resetting the computer at times can eliminate any temporary bugs or corruption issues, resolving the error in the process.
@@ -63,6 +56,13 @@ Here is all that you need to do:
 ![Click on the Download & install button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/settings-windows-update-download-and-install.jpg)
 4. After the updates are installed, restart your system and check if the issue is resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In some rare cases, the issue can also start occurring after installing an update. This typically happens when the update itself was corrupt. If this scenario applies to you, you can[uninstall the installed Windows update](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) and then check if that makes any difference.
 
 ## 3\. Update Your Drivers
@@ -81,10 +81,16 @@ Follow these steps to proceed:
 5. Once found, follow the on-screen instructions to install it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Finally, restart your computer to implement the changes.
@@ -92,10 +98,10 @@ Follow these steps to proceed:
  Alternatively, you can also choose an updated driver manually by choosing the**Browse my computer for drivers** option in the 4th step. If an outdated driver is a culprit, this should resolve the problem in no time.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Reset or Re-Register the Settings App
@@ -111,19 +117,6 @@ Here is all that you need to do:
 ![Choose App Settings from the context menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/taskbar-windows-icon-app-settings.jpg)
 3. In the following window, head over to the**Reset** section. You will have two options here; Repair and Reset.
 
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. First, click on**Repair** and once the process is completed, check if the problem is fixed.
 5. If not, click on**Reset** and follow the on-screen instructions to proceed.  
 ![Repair or reset the application](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/app-settings-reset-and-repair.jpg)
@@ -138,6 +131,13 @@ Get-AppxPackage *windows.immersivecontrolpanel* | Reset-AppxPackage
 4. Finally, close the Powershell window and reboot.
 
 Hopefully, this should fix the problem once and for all.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Windows Settings App Crash Issue, Now Resolved
 
@@ -158,24 +158,24 @@ Hopefully, this should fix the problem once and for all.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-deciphering-snss-hdr-capabilities-and-comparisons/"><u>[New] Deciphering SNS's HDR Capabilities and Comparisons</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-unmasking-the-potential-of-recordcast/"><u>[New] In 2024, Unmasking the Potential of RecordCast</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-isolating-visual-snapshots-from-videos-using-the-windows-10-photos-tool/"><u>[New] Isolating Visual Snapshots From Videos Using the Windows 10 Photos Tool</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-digital-arena-100plus-titles-for-the-true-gamer/"><u>[Updated] 2024 Approved Digital Arena 100+ Titles for the True Gamer</u></a></li>
-<li><a href="https://windows11.techidaily.com/automate-image-display-7-clever-strategies-for-windows-11/"><u>Automate Image Display: 7 Clever Strategies for Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/cleaning-slates-in-windows-the-3-reset-routes/"><u>Cleaning Slates in Windows: The 3 Reset Routes</u></a></li>
-<li><a href="https://windows11.techidaily.com/cost-effective-solutions-affordable-windows-11-key-access/"><u>Cost-Effective Solutions: Affordable Windows 11 Key Access</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhancing-remote-access-stability-a-step-by-step-approach/"><u>Enhancing Remote Access Stability: A Step-by-Step Approach</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-nokia-c300-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Nokia C300 to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/immediate-guide-forcibly-disabledelete-printer-on-pc/"><u>Immediate Guide: Forcibly Disable/Delete Printer on PC</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Honor Play 7T? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/openai-transitions-gpts-horizon-altered/"><u>OpenAI Transitions, GPT's Horizon Altered</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-chrome-freeze-windows-edition/"><u>Overcoming Chrome Freeze: Windows Edition</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-fix-for-inverted-keyboard-input-windows/"><u>Quick Fix for Inverted Keyboard Input Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-invalid-temp-directories-in-windows-11/"><u>Resolving Invalid Temp Directories in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/taskbar-chatting-feature-in-windows-11-user-implications/"><u>Taskbar Chatting Feature in Windows 11: User Implications</u></a></li>
-<li><a href="https://windows11.techidaily.com/turbocharging-windows-solid-state-drives-utilizing-fresh-tools/"><u>Turbocharging Windows' Solid State Drives - Utilizing Fresh Tools</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/ultimate-guide-on-iphone-6-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide on iPhone 6 iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/understanding-the-aftermath-in-depth-insights-into-windows-cufflinks-7-end-of-support-and-lifecycle-conclusion/"><u>Understanding the Aftermath: In-Depth Insights Into Windows Cufflinks 7 End of Support and Lifecycle Conclusion</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixed-windows-driver-foundation-using-high-cpu/"><u>[Fixed] Windows Driver Foundation Using High CPU</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-androids-photo-editor-showdown-can-pickup-claim-victory/"><u>[New] 2024 Approved Android's Photo Editor Showdown Can PickUp Claim Victory?</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/1728461407476-windows/"><u>如何在不上网的情况下，用Windows</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211322739--black-psychedelic-revolution/"><u>Black Psychedelic Revolution | Free Book</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/grosster-fehler-bei-der-richtplandatenbankerstellung-schwierigkeiten-aufkommen-beim-aufbau-eines-windows-verzeichnisses/"><u>Größter Fehler Bei Der Richtplandatenbankerstellung – Schwierigkeiten Aufkommen Beim Aufbau Eines Windows-Verzeichnisses</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-laugh-ledger-pinpointing-prime-meme-generators/"><u>In 2024, Laugh Ledger Pinpointing Prime Meme Generators</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-vivo-y100i-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Vivo Y100i Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://windows11.techidaily.com/integrate-your-windows-fileshare-seamlessly/"><u>Integrate Your Windows Fileshare Seamlessly</u></a></li>
+<li><a href="https://windows11.techidaily.com/keeping-winrunhist-intact-for-future-use/"><u>Keeping WinRunHist Intact for Future Use</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimized-browsing-the-least-ram-and-cpu-hungry-on-all-major-operating-systems/"><u>Optimized Browsing: The Least RAM & CPU-Hungry On All Major Operating Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/perfecting-your-powerpoint-presentations-printouts-on-windows-platforms/"><u>Perfecting Your PowerPoint Presentations' Printouts on Windows Platforms</u></a></li>
+<li><a href="https://windows11.techidaily.com/re-estaminig-balanced-sound-from-both-sides-of-win-audio-device/"><u>Re-Estaminig Balanced Sound From Both Sides of Win Audio Device</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/sky-in-spectacue-prime-platforms-showcasing-hdr-imagery-for-2024/"><u>Sky in Spectacue - Prime Platforms Showcasing HDR Imagery for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-intricate-world-of-user-identification-in-win11/"><u>The Intricate World of User Identification in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-secret-recognizing-and-resolving-non-installed-hdd-issue-win-11-style/"><u>Unveiling the Secret: Recognizing & Resolving Non-Installed HDD Issue, Win 11 Style</u></a></li>
+<li><a href="https://driver-download.techidaily.com/updating-nvidia-geforce-rtx-3070-drivers-compatible-with-windows-1110-systems/"><u>Updating NVIDIA GeForce RTX 3070 Drivers: Compatible with Windows 11/10 Systems</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/vlcmp4/"><u>VLCメディアプレーヤーでのシームレスなMP4変換 - 無料</u></a></li>
+<li><a href="https://windows11.techidaily.com/why-windows-supercomputers-are-game-changers/"><u>Why Windows Supercomputers Are Game-Changers</u></a></li>
+<li><a href="https://windows11.techidaily.com/wintools-comparison-how-chkdsk-and-sfc-differ-from-dissect/"><u>WinTools Comparison: How CHKDSK and SFC Differ From Dissect</u></a></li>
 </ul></div>
 

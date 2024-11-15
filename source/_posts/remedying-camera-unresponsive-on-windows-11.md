@@ -1,7 +1,7 @@
 ---
 title: Remedying Camera Unresponsive on Windows 11
-date: 2024-11-03T16:09:56.853Z
-updated: 2024-11-04T19:06:19.692Z
+date: 2024-11-13T16:26:19.709Z
+updated: 2024-11-15T17:09:34.229Z
 tags:
   - windows10
   - windows11
@@ -62,16 +62,16 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
 
 ![Enable the Camera in the Bluetooth and Devices Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/2-enable-the-camera-in-the-bluetooth-and-devices-tab-of-the-windows-settings-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In case the camera is already enabled, continue to the next step.
 
  If no camera is listed under **Connected cameras**, the system has failed to detect any camera on your device. If that is the case, recheck the camera connection.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Run the Camera and Microsoft Store Apps Troubleshooters
 
@@ -80,31 +80,17 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
 ![The Camera troubleshooting window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/camera-troubleshooter-window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Windows also offers another troubleshooter called Windows Store Apps, which helps scan and fix problems with Microsoft Store apps (formerly known as Windows Store). Since the Camera app is a Microsoft Store app, running this troubleshooter might also help resolve issues with it.
 
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-windows-store-apps-troubleshooter.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Therefore, follow our guide on [how to run any troubleshooter in Windows 10 and 11](https://www.makeuseof.com/run-troubleshooter-windows-10-11/) to run the Camera and Windows Store Apps troubleshooter.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Check Your Camera Permissions
 
@@ -115,10 +101,23 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
 ![Enable the Camera Access in the Privacy and Security Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/3-enable-the-camera-access-in-the-privacy-and-security-tab-of-the-windows-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Update, Reinstall, or Rollback the Camera Drivers
@@ -129,20 +128,27 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
 
 ![Update the Relevant Camera Driver From Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/4-update-the-relevant-camera-driver-from-windows-device-manager.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If updating the driver doesn't help, right-click on the driver again and choose **Uninstall device**. Then, restart your device, and Windows will install the most recent driver for you.
 
 ![Uninstall the Camera Driver From Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/5-uninstall-the-camera-driver-from-windows-device-manager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Roll back the driver update if you have encountered the issue under discussion after updating the driver. To do so, right-click the driver and select **Properties**. Navigate to the **Driver** tab and click **Roll Back Driver**.
 
 ![properties camera device device manager roll back driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/properties-camera-device-device-manager-roll-back-driver.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Repair and Reset the App
 
@@ -170,24 +176,21 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://windows11.techidaily.com/bypassing-windows-update-issue-the-0x800736cc-method/"><u>Bypassing Windows Update Issue: The 0X800736CC Method</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/como-mover-archivos-sin-coste-tecnicas-faciles-para-pasar-de-la-unidad-c-a-la-d/"><u>Cómo Mover Archivos Sin Coste: Técnicas Fáciles Para Pasar De La Unidad C a La D</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-bluescreenviews-purpose/"><u>Decoding BlueScreenView's Purpose</u></a></li>
-<li><a href="https://windows11.techidaily.com/enabling-forgotten-windows-add-ons-and-utilities-in-7-ways/"><u>Enabling Forgotten Windows Add-Ons and Utilities in 7 Ways</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhancing-system-appearance-with-custom-pointer-design/"><u>Enhancing System Appearance with Custom Pointer Design</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-your-latest-dell-driver-updates-for-windows-7-system/"><u>Get Your Latest Dell Driver Updates for Windows 7 System</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-apple-iphone-12-mini-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass Apple iPhone 12 mini Passcode Easily Video Inside</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Vivo Y77t? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-quicklooker-windows-11s-speedy-photo-viewer/"><u>In 2024, QuickLooker Windows 11'S Speedy Photo Viewer</u></a></li>
-<li><a href="https://windows11.techidaily.com/journey-to-mastery-original-diablo-basics-explained/"><u>Journey to Mastery: Original Diablo Basics Explained</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/perfecting-virtual-presentations-key-practices-for-using-skypes-screen-share-feature-for-2024/"><u>Perfecting Virtual Presentations Key Practices for Using Skype’s Screen Share Feature for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/stop-the-nullzero-error-fixes-for-new-users-on-win11/"><u>Stop the Null/Zero Error: Fixes for New Users on Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/tactics-for-installing-unverified-windows-drivers/"><u>Tactics for Installing Unverified Windows Drivers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-best-places-to-watch-movies-for-kids-without-spending-a-penny/"><u>The Best Places to Watch Movies for Kids Without Spending a Penny</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-list-of-favorite-online-diaries-selecting-the-best-6-for-you/"><u>The Ultimate List of Favorite Online Diaries: Selecting the Best 6 For You</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/ultimate-visual-upgrade-mastery-of-video-enhancer-version-22-for-2024/"><u>Ultimate Visual Upgrade Mastery of Video Enhancer Version 2.2 for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-efficiency-folders-and-files-converge-in-win-11/"><u>Unlocking Efficiency: Folders & Files Converge in Win 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-quick-access-shortcuts-adjacent-to-power-in-win11/"><u>Unveiling Quick Access: Shortcuts Adjacent to Power in Win11</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-beginners-tutorial-stream-to-facebook-with-obs-studio/"><u>Updated 2024 Approved Beginners Tutorial Stream to Facebook With OBS Studio</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-vinyls-virtual-voyage-transferring-music-selections/"><u>[New] 2024 Approved Vinyl's Virtual Voyage Transferring Music Selections</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-essential-5-online-video-capture-apps/"><u>2024 Approved Essential 5 Online Video Capture Apps</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/capturing-marine-magic-pro-tips-for-filming-oceanic-scenes-using-gopro-for-2024/"><u>Capturing Marine Magic Pro Tips for Filming Oceanic Scenes Using GoPro for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-our-curated-list-of-the-most-engaging-offroad-racing-titles-for-free-2024-edition/"><u>Explore Our Curated List of the Most Engaging Offroad Racing Titles for Free, 2024 Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-execution-hiccups-in-malwarebytes-for-windows-1110-pcs/"><u>Fixing Execution Hiccups in Malwarebytes for Windows 11/10 PCs</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-realme-c55-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-use-dev-drive-for-developers-on-windows-11/"><u>How to Use Dev Drive for Developers on Windows 11</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premium-data-recorder-compatible-with-sony-a7s/"><u>In 2024, Premium Data Recorder Compatible with Sony A7S</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-for-rectifying-media-error-0xc10100bf/"><u>Methods for Rectifying Media Error 0XC10100BF</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/rapid-runners-prime-fastest-titles-for-pc-mobile-devices/"><u>Rapid Runners Prime Fastest Titles for PC, Mobile Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-resolve-synapse-device-errors-in-windows/"><u>Steps to Resolve Synapse Device Errors in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/sustaining-windows-11-taskbar-performance/"><u>Sustaining Windows 11 Taskbar Performance</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/inancial-breakdown-of-youtube-shorts-royalties-for-2024/"><u>The Financial Breakdown of YouTube Shorts Royalties for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-38-unbeatable-cyber-week-savings-at-costco-exclusive-discounts-on-tvs-laptops-and-more-sale-roundup/"><u>Top 38 Unbeatable Cyber Week Savings at Costco: Exclusive Discounts on TVs, Laptops & More - Sale Roundup</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-purposes-of-vcplusplus-redistributions/"><u>Understanding Purposes of VC++ Redistributions</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-ways-to-weed-out-windows-11s-waits-and-delays/"><u>Winning Ways to Weed Out Windows 11'S Waits and Delays</u></a></li>
 </ul></div>
 

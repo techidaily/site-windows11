@@ -1,7 +1,7 @@
 ---
 title: Proactive Approach to Prevent Dwarven Woes on WIN
-date: 2024-08-22T21:41:44.354Z
-updated: 2024-08-23T21:41:44.354Z
+date: 2024-11-09T16:32:48.362Z
+updated: 2024-11-15T16:55:20.312Z
 tags:
   - windows10
   - windows11
@@ -38,9 +38,6 @@ thumbnail: https://thmb.techidaily.com/9f88f4d439bd19afe08962ae532d3a6f41b689b2a
 
  The game being on the Steam platform brings with it another share of troubleshooting steps. Take a look at our guide on[troubleshooting Steam issues on Windows](https://www.makeuseof.com/troubleshoot-windows-steam-games-not-playing/) and make sure you at least verify the integrity of the game files. That, combined with a system restart, is sometimes all you need to do.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## 2\. Force Dwarf Fortress to Use Dedicated Graphics
 
 ![screenshot of the AMD radeon program showing the games list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_amd_games_list-1.jpg)
@@ -52,16 +49,23 @@ thumbnail: https://thmb.techidaily.com/9f88f4d439bd19afe08962ae532d3a6f41b689b2a
  This process varies depending on what brand or model your graphics card is. We have a guide that explains[how to make games use your dedicated GPU](https://www.makeuseof.com/how-to-set-default-gpu/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Disable Full Screen Optimizations
 
 ![screenshot dwarf fortress properties disabling fullscreen optimizations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_dwarf_fortress_properties_disable_fullscreen_optimizations.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  There's a common Windows function that can cause problems for Dwarf Fortress. To disable full-screen optimization, follow these steps:
 
 1. Right-click on Dwarf Fortress in Steam. Hover over**Manage** and click**Browse local files.**
@@ -71,8 +75,12 @@ The ultimate burning program for all your needs!</a>
  Now give it a go. This option doesn't actually affect the visuals or gameplay in any way, so this option is safe to turn on as a "just in case" measure.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. Set the Resolution to Non-Widescreen
 
 ![screenshot of dwarf fortress video settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_dwarf_fortress_video_settings.jpg)
@@ -83,13 +91,17 @@ The ultimate burning program for all your needs!</a>
 
  The first screen that opens is the video settings screen. Simply change the**Resolution** drop-down to something below 1920x1080.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Delete Save Data
 
 ![screenshot of dwarf fortress save folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_dwarf_fortress_saves.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
  Don't worry, this won't involve losing any progress. However, deleting save files is always risky, so make sure you back up your saves before you proceed.
 
  Dwarf Fortress can crash if the save files become too bloated. This can happen after a long period of play, or even after a short period if you create enough new units and structures.
@@ -104,10 +116,6 @@ The ultimate burning program for all your needs!</a>
 
  By doing this, you'll be repopulating your world, history, and timeline. However, your structures and units will remain. While this isn't a desirable option, there are a handful of crashes that can only be fixed in this way.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ## New Game Version, New Game Crashes
 
  You would think that such an old game would have plenty of fixes for possible crashes. However, this is a new version of Dwarf Fotress, and that introduces new problems.
@@ -122,8 +130,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,4 +137,23 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-comprehensive-srt-education-and-resources/"><u>[New] Comprehensive SRT Education and Resources</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-mobile-mastery-youtube-video-thumbnails-made-easy/"><u>[New] Mobile Mastery YouTube Video Thumbnails Made Easy</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-crafting-viral-tiktok-videos-on-desktop-platforms-for-2024/"><u>[Updated] Crafting Viral TikTok Videos on Desktop Platforms for 2024</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-infinix-hot-40-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Infinix Hot 40 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-xiaomi-support-mkv-video-files-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Xiaomi support MKV video files?</u></a></li>
+<li><a href="https://windows11.techidaily.com/guidelines-to-halt-safe-screensaver-modifications/"><u>Guidelines to Halt Safe Screensaver Modifications</u></a></li>
+<li><a href="https://windows11.techidaily.com/handling-the-file-not-displayed-problem-in-outlook-on-windows/"><u>Handling the File Not Displayed Problem in Outlook on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-enhance-your-os-with-psoft-menu-tools/"><u>How to Enhance Your OS with PSoft Menu Tools</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-90-lite-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Honor 90 Lite Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-11-parent-lock-configurations/"><u>Mastering Windows 11 Parent Lock Configurations</u></a></li>
+<li><a href="https://windows11.techidaily.com/minimizing-background-activity-windows/"><u>Minimizing Background Activity Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/overhauling-dormant-windows-keys-for-functionality/"><u>Overhauling Dormant Windows Keys for Functionality</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-lava-blaze-2-pro-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Lava Blaze 2 Pro to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://win-web3.techidaily.com/ricostruisci-i-tuoi-file-zip-eliminati-senza-costi-in-windows-1011-passaggi-dettagliati/"><u>Ricostruisci I Tuoi File ZIP Eliminati Senza Costi in Windows 10/11 - Passaggi Dettagliati</u></a></li>
+<li><a href="https://windows11.techidaily.com/steer-clear-of-windows-http-error-reduce-excessive-requests/"><u>Steer Clear of Window's HTTP Error: Reduce Excessive Requests</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-vivo-y100-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Vivo Y100 to iPhone 14/15 | Dr.fone</u></a></li>
+</ul></div>
 

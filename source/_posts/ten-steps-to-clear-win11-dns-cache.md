@@ -1,7 +1,7 @@
 ---
 title: Ten Steps to Clear Win11 DNS Cache
-date: 2024-11-01T19:40:04.735Z
-updated: 2024-11-04T18:35:17.272Z
+date: 2024-11-14T17:36:25.276Z
+updated: 2024-11-15T17:32:32.728Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/3826690fad2bdad4d7aa62bd8a31b6771b0779110
 
  There are multiple methods to flush the DNS cache on Windows 11\. You can use the Run command box, Command Prompt, or even PowerShell. In addition, you can use a batch file to clear the DNS cache in a few clicks, any time you want. Here are the four ways to clear DNS on Windows 11:
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Using the Run Command Box
 
 To flush the DNS cache using the Run command box, do as follows:
@@ -47,10 +54,10 @@ To flush the DNS cache using the Run command box, do as follows:
 3. Press**Ctrl + Shift + Enter** keys at once. The Command Prompt will launch, execute the flush command, and close automatically.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Using CMD
@@ -64,10 +71,10 @@ To flush the DNS cache using the Run command box, do as follows:
 4. You will see a “**Successfully flushed the DNS Resolver Cache.** ” message after the command execution.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Using PowerShell
@@ -80,17 +87,10 @@ To flush the DNS cache using the Run command box, do as follows:
 3. You won’t see a message after the command executes successfully. But you can open PowerShell again and view the DNS cache to confirm.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Using a Batch File
@@ -140,15 +140,17 @@ Repeat the following steps to create a DNS-clearing batch file:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-craft-captivating-facebook-coverage/"><u>[New] 2024 Approved Craft Captivating Facebook Coverage</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-expert-list-superior-gaming-live-options-for-2024/"><u>[Updated] Expert List Superior Gaming Live Options for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-tailored-trends-the-pathway-to-a-specialized-youtube-niche-for-2024/"><u>[Updated] Tailored Trends The Pathway to a Specialized Youtube Niche for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/2024s-most-advanced-mesh-networking-devices-reviewed-and-ranked/"><u>2024'S Most Advanced Mesh Networking Devices Reviewed and Ranked!</u></a></li>
-<li><a href="https://windows11.techidaily.com/converting-ical-data-for-smooth-windows-11-use/"><u>Converting iCal Data for Smooth Windows 11 Use</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/enhancing-efficiency-the-key-to-srt-export-in-premiere/"><u>Enhancing Efficiency The Key to SRT Export in Premiere</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-the-samsung-galaxy-watch-perfect-blend-of-style-and-technology/"><u>In-Depth Analysis of the Samsung Galaxy Watch: Perfect Blend of Style & Technology</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-the-frustrations-of-code-1132-on-win-1011/"><u>Resolving the Frustrations of Code 1132 on Win 10/11</u></a></li>
-<li><a href="https://windows11.techidaily.com/swiftly-updating-windows-cards-a-comprehensive-guide/"><u>Swiftly Updating Windows Cards: A Comprehensive Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/taskers-curiosity-non-edge-process-puzzles/"><u>Tasker's Curiosity: Non-Edge Process Puzzles</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-premium-fb-video-tools-optimized-for-firefox-users/"><u>[New] In 2024, Premium FB Video Tools - Optimized For FireFox Users</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-rediscovering-the-riches-delving-into-literary-masterpieces-of-yore/"><u>[New] In 2024, Rediscovering the Riches Delving Into Literary Masterpieces of Yore</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-perfect-methods-for-computer-based-vhs-artistic-touches/"><u>[New] Perfect Methods for Computer-Based VHS Artistic Touches</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-engaging-audiences-making-popular-youtube-shorts-for-2024/"><u>[Updated] Engaging Audiences Making Popular YouTube Shorts for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-shot-solidity-choose-the-right-mobile-tripod/"><u>[Updated] In 2024, Shot Solidity Choose the Right Mobile Tripod</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-motorola-moto-g04-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/race-the-rating-effective-techniques-for-measuring-network-adapter-speed-on-windows/"><u>Race the Rating: Effective Techniques for Measuring Network Adapter Speed on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/reconnecting-to-ea-servers-after-connection-failures-in-windows/"><u>Reconnecting to EA Servers After Connection Failures in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-resolve-error-0x0000011b-on-windows-11/"><u>Steps to Resolve Error 0X0000011B on Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/stunning-celestinas-and-skies-online-directory-for-2024/"><u>Stunning Celestinas and Skies Online Directory for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-essential-guide-to-choosing-top-fps-counter-software-for-windows-11/"><u>The Essential Guide to Choosing Top FPS Counter Software for Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11s-restricted-interface-an-overview/"><u>Windows 11'S Restricted Interface: An Overview</u></a></li>
 </ul></div>
 

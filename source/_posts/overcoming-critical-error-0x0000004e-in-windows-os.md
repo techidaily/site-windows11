@@ -1,7 +1,7 @@
 ---
 title: Overcoming Critical Error 0X0000004E in Windows OS
-date: 2024-11-01T19:36:09.777Z
-updated: 2024-11-05T09:41:17.091Z
+date: 2024-11-12T17:21:58.067Z
+updated: 2024-11-15T16:15:27.844Z
 tags:
   - windows10
   - windows11
@@ -54,18 +54,18 @@ chkdsk /f
 ![CHKDSK command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chkdsk-command.jpg)
 5. If prompted, type Y and hit **Enter**. This will schedule a disk check upon the next system restart.
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Finally, restart your computer. Upon reboot, Check Disk will run and scan your hard drive for issues.
 
  This process may take a while, so hang in there. We also recommend keeping a backup of your important files and data before you run Check Disk, just to be safe.
 
  You can also diagnose and fix a faulty RAM or memory-related issues [using the Memory Diagnostic tool in Windows](https://www.makeuseof.com/ways-to-open-windows-memory-diagnostic/). If the Check Disk utility failed to fix the problem, run the Memory Diagnostic tool and check the results in the Event Viewer. You can then take the necessary steps to fix the problem based on the underlying cause.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Disable Your Antivirus
 
@@ -78,10 +78,16 @@ chkdsk /f
 ![Disable antivirus in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/disable-antivirus-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If the error does not appear after disabling the antivirus, then we highly recommend switching to a different, better security program. You can also configure Windows Defender Firewall properly if you do not want to trust a third-party security solution again.
@@ -89,10 +95,10 @@ chkdsk /f
  If you're already using Windows Defender, be sure to check out [how to turn off Windows Defender](https://www.makeuseof.com/how-to-turn-off-windows-defender/) and see if that fixes the BSOD.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Other Generic Windows BSOD Fixes to Try
@@ -104,10 +110,10 @@ chkdsk /f
  Finally, it's time to pull out the reliable fixes. Windows BSODs are usually due to a common pool of issues, and fixing those problems can fix almost any BSOD, including the 0x0000004E error. As such. be sure to check out our [tips to help you fix a Windows BSOD](https://www.makeuseof.com/tag/4-tips-fix-blue-screen-error/) for all the ways you can fix this issue, and any potential ones you encounter in the future.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## PFN\_LIST\_CORRUPT BSOD, Fixed
@@ -126,20 +132,24 @@ chkdsk /f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-lightweight-pc-video-grabber-w10-compatible-for-2024/"><u>[New] Lightweight PC Video Grabber, W10 Compatible for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-snapshot-preservation-android-and-mac-techniques/"><u>[New] Snapshot Preservation Android & Mac Techniques</u></a></li>
-<li><a href="https://windows11.techidaily.com/5-unconventional-methods-to-activate-windows-applications/"><u>5 Unconventional Methods to Activate Windows Applications</u></a></li>
-<li><a href="https://windows11.techidaily.com/advancing-windows-technology-for-real-world-use/"><u>Advancing Windows Technology for Real-World Use</u></a></li>
-<li><a href="https://windows11.techidaily.com/altering-start-page-in-windows-11-task-manager/"><u>Altering Start Page in Windows 11 Task Manager</u></a></li>
-<li><a href="https://windows11.techidaily.com/banish-baffling-silence-solutions-for-windows-spacebar/"><u>Banish Baffling Silence: Solutions for Windows Spacebar</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypassing-os-admin-error-run-blocked-apps/"><u>Bypassing OS Admin Error: Run Blocked Apps</u></a></li>
-<li><a href="https://windows11.techidaily.com/cant-open-the-credential-manager-on-windows-try-these-fixes/"><u>Can’t Open the Credential Manager on Windows? Try These Fixes</u></a></li>
-<li><a href="https://windows11.techidaily.com/deciphering-disconnect-adjustable-gif-sizes-for-discord-on-windows/"><u>Deciphering Disconnect: Adjustable GIF Sizes for Discord on Windows</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-innovative-hardware-solutions-on-toms-review-platform/"><u>Discover Innovative Hardware Solutions on Tom’s Review Platform</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-oppo-a58-4g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Oppo A58 4G Phone that is Locked?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/solve-overloaded-chatgpt-issues-in-windows-with-these-effective-tips/"><u>Solve Overloaded ChatGPT Issues in Windows with These Effective Tips</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/step-by-step-implementing-auto-captions-in-reels/"><u>Step-by-Step Implementing Auto Captions in Reels</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-nokia-c12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Nokia C12 | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/windows-11-tutorial-easily-disable-and-remove-web-browser-plug-ins/"><u>Windows 11 Tutorial: Easily Disable and Remove Web Browser Plug-Ins</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-advanced-techniques-for-quieter-video-calls-on-skype/"><u>[New] 2024 Approved Advanced Techniques for Quieter Video Calls on Skype</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-transform-images-top-5-android-tools/"><u>[New] Transform Images Top 5 Android Tools</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-interactive-display-decode-for-2024/"><u>[Updated] Interactive Display Decode for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-art-of-video-filming-across-various-computing-platforms/"><u>[Updated] The Art of Video Filming Across Various Computing Platforms</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-elevating-video-quality-sharing-imovie-work-via-youtube/"><u>2024 Approved Elevating Video Quality Sharing iMovie Work via YouTube</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-xiaomi-redmi-k70e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/discord-camera-malfunction-solved-easy-fixes-for-video-chat-troubles/"><u>Discord Camera Malfunction Solved - Easy Fixes for Video Chat Troubles</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-your-connectivity-experience-swap-out-microsoft-phone-link-with-our-exceptional-app/"><u>Elevate Your Connectivity Experience - Swap Out Microsoft Phone Link with Our Exceptional App!</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-gameplay-experience-by-managing-keyboard-shortcuts-in-windows-and-preventing-altplustabsticky-key-issues/"><u>Enhancing Gameplay Experience by Managing Keyboard Shortcuts in Windows and Preventing Alt+Tab/Sticky Key Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-the-new-era-microsofts-wi-fi-7-experiments-with-windows-11-systems/"><u>Exploring the New Era: Microsoft's Wi-Fi 7 Experiments with Windows 11 Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-the-new-generation-of-windows-portables-and-beneath-the-surface-plans-from-spotify-your-weekly-tech-briefing/"><u>Exploring the New Generation of Windows Portables and Beneath-the-Surface Plans From Spotify – Your Weekly Tech Briefing</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/manage-your-memory-microsoft-edge-beta-rollout-with-integrated-ram-control-tools/"><u>Manage Your Memory: Microsoft Edge Beta Rollout with Integrated RAM Control Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-goal-setting-with-microsoft-word-a-unique-twist-on-digital-bullet-journaling/"><u>Mastering the Art of Goal-Setting with Microsoft Word: A Unique Twist on Digital Bullet Journaling</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximize-performance-on-the-go-the-asus-expertbook-p5-unveiled-offering-next-generation-power-efficiency-and-up-to-32gb-ram/"><u>Maximize Performance on the Go: The ASUS ExpertBook P5 Unveiled, Offering Next Generation Power Efficiency & Up to 32GB RAM</u></a></li>
+<li><a href="https://windows11.techidaily.com/netflix-discontinuing-offline-viewing-feature-on-pcs-effective-soon/"><u>Netflix Discontinuing Offline Viewing Feature on PCs Effective Soon</u></a></li>
+<li><a href="https://windows11.techidaily.com/prepare-for-the-compulsory-rollout-of-windows-11-version-23h2-heres-why-it-matters/"><u>Prepare for the Compulsory Rollout of Windows 11 Version 23H2 - Here's Why It Matters</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-portable-speaker-systems/"><u>Top-Rated Portable Speaker Systems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/transcoding-essentials-how-to-change-mp4-files-into-aac-with-movavis-video-transformation-tool/"><u>Transcoding Essentials: How to Change MP4 Files Into AAC with Movavi's Video Transformation Tool</u></a></li>
 </ul></div>
 

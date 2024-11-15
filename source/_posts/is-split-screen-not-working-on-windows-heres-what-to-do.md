@@ -1,7 +1,7 @@
 ---
 title: Is Split Screen Not Working on Windows? Here's What to Do
-date: 2024-10-29T03:37:41.962Z
-updated: 2024-11-05T06:49:33.088Z
+date: 2024-11-09T16:24:55.291Z
+updated: 2024-11-15T17:18:34.893Z
 tags:
   - windows10
   - windows11
@@ -54,7 +54,21 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
 ![Enable Snap windows in Multitasking](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/enable-snap-windows-in-multitasking.jpg)
 4. Now click the down arrow key and ensure all the checkboxes are selected.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After making these changes, close the Settings window and check if it solves the issue.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Check Your Display Settings
 
@@ -63,13 +77,6 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
  To get started, [open Windows Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) and navigate to **System** \> **Display**. In the right pane, scroll down to the **Scale & layout** section.
 
 ![Display Resolution in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/display-resolution-in-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now click the **Display resolution** drop-down menu and adjust the resolution to fit your connected display. Once you've done that, try using split screen again.
 
@@ -87,22 +94,15 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
 5. Now click **Run new task** at the top of the Task Manager window.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Type **explorer.exe** in the Open field and click **OK**. This will start a new Windows Explorer instance.
 
  After restarting Windows Explorer, try split screen again and see if it works now.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Uninstall Third-Party Software
 
@@ -128,10 +128,10 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
  Similarly, press **Win + Up Arrow** or **Down Arrow** to snap windows into a quarter-screen size, allowing you to have four windows open simultaneously.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Manage Apps and Tasks Simultaneously to Enhance Your Productivity on Windows
@@ -148,24 +148,21 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-2024-approved-unite-in-style-the-bestdiscords-batch-of-top-10-themes/"><u>[New] 2024 Approved Unite in Style The BestDiscord's Batch of Top 10 Themes</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-youtubes-best-love-stories-perfectly-captured-weddings/"><u>[New] In 2024, YouTube's Best Love Stories Perfectly Captured Weddings</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-hitting-your-targets-with-these-8-social-media-planners/"><u>[Updated] 2024 Approved Hitting Your Targets with These 8 Social Media Planners</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-embedding-youtube-music-in-media-files/"><u>[Updated] Embedding YouTube Music in Media Files</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-ensure-flawless-playback-how-to-set-youtube-video-size-right/"><u>[Updated] Ensure Flawless Playback How to Set YouTube Video Size Right</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-infinix-note-30i-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Infinix Note 30i without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/4-ways-to-check-your-network-adapter-speed-on-windows/"><u>4 Ways to Check Your Network Adapter Speed on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/6-fixes-for-windows-gone-dark-and-unresponsive/"><u>6 Fixes for Windows Gone Dark and Unresponsive</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-detailed-guide-turning-off-windows-update-restrictions/"><u>A Detailed Guide: Turning Off Windows Update Restrictions</u></a></li>
-<li><a href="https://windows11.techidaily.com/adding-comprehensive-firewall-tools-to-windows-11s-menu-bar/"><u>Adding Comprehensive Firewall Tools to Windows 11’S Menu Bar</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoidance-of-memory-limitations-strategies-for-windows/"><u>Avoidance of Memory Limitations: Strategies for Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/combatting-common-downloads-dilemmas-on-windows-pcs/"><u>Combatting Common Downloads Dilemmas on Windows PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-bsod-0x0000003b-and-resolution-steps-in-windows-os/"><u>Decoding BSOD -0X0000003B & Resolution Steps in Windows OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/diagnosing-and-repairing-dormant-window-control/"><u>Diagnosing and Repairing Dormant Window Control</u></a></li>
-<li><a href="https://windows11.techidaily.com/disabling-fatal-component-error-in-win10win11-system/"><u>Disabling Fatal Component Error in Win10/Win11 System</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-xiaomi-redmi-k70e-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Xiaomi Redmi K70E Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/independent-evaluation-the-3dr-solo-experience-for-2024/"><u>Independent Evaluation The '3DR' Solo Experience for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/the-anatomy-of-a-perfect-lower-third-fcpx-best-practices-for-2024/"><u>The Anatomy of a Perfect Lower Third FCPX Best Practices for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-portuguese-voice-vowels-variation-study/"><u>The Portuguese Voice Vowels Variation Study</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-navigating-text-to-audio-in-tiktok-world/"><u>[New] 2024 Approved Navigating Text to Audio in TikTok World</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-effortlesssave-expert-perspective-for-2024/"><u>[Updated] EffortlessSave Expert Perspective for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-television-or-projector-for-peak-4k-performance/"><u>[Updated] Television or Projector for Peak 4K Performance?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-unlock-potential-top-free-video-opener-hacks-for-2024/"><u>[Updated] Unlock Potential Top Free Video Opener Hacks for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-realme-gt-5-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Realme GT 5 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-enriching-youtube-channels-amp-up-with-songs/"><u>2024 Approved Enriching Youtube Channels Amp up with Songs</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-tecno-spark-10-5g-easily-by-drfone-android/"><u>How To Unlock a Tecno Spark 10 5G Easily?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-image-transformation-with-effective-use-of-3d-lut-in-ps-for-2024/"><u>Mastering Image Transformation with Effective Use of 3D LUT in PS for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-use-of-windows-11-desktop-widgets/"><u>Mastering the Use of Windows 11 Desktop Widgets</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-best-image-to-video-converters-free-and-paid-options/"><u>New In 2024, Best Image to Video Converters Free and Paid Options</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-the-deadly-windows-error-c0000022-breakdown/"><u>Overcoming the Deadly Window's Error C0000022 Breakdown</u></a></li>
+<li><a href="https://windows11.techidaily.com/perfect-images-at-fingertips-top-4-webp-viewer-windows/"><u>Perfect Images at Fingertips: Top 4 WebP Viewer Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-sync-immediate-notebook-access-after-boot-up/"><u>Seamless Sync: Immediate Notebook Access After Boot-Up</u></a></li>
+<li><a href="https://windows11.techidaily.com/start-with-style-not-sponsorship-in-w11/"><u>Start with Style, Not Sponsorship in W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/supercharge-windows-5-top-auto-click-wizards/"><u>Supercharge Windows: 5 Top Auto Click Wizards</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-strategies-to-overcome-steam-login-stalls-rustwindows-approach/"><u>Unveiling Strategies to Overcome Steam Login Stalls: Rust/Windows Approach</u></a></li>
 </ul></div>
 

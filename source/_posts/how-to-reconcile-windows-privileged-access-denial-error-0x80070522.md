@@ -1,7 +1,7 @@
 ---
 title: How To Reconcile Windows' Privileged Access Denial (Error 0X80070522)
-date: 2024-11-01T23:55:13.138Z
-updated: 2024-11-05T05:58:50.855Z
+date: 2024-11-08T16:35:14.486Z
+updated: 2024-11-15T17:05:09.765Z
 tags:
   - windows10
   - windows11
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
 ![The Run this program in compatibility mode checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-run-as-administrator-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Set an Admin Account on Windows
@@ -47,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
 ![The Administrator radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-administrator-radio-button.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Turn Off User Account Control (in Three Different Ways)
@@ -68,31 +68,31 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
 ![The Properties option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-properties-option.jpg)
 3. Click the**Sharing** tab.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Press the**Advanced Sharing** button.
 5. Select the**Share this folder** checkbox.  
 ![The Share this folder checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/share-this-folder-checkbox.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Click the**Permissions** button.
 2. Select the**Full control** option’s**Allow checkbox for the Everyone** group.  
 ![The Full control checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-full-control-checkbox.jpg)
 3. Click the**Apply** and**OK** on the Permissions and Advanced Sharing windows.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Select**Close** to exit the properties window.
 5. Then click**Power** and select**Restart** within your Start menu.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Perform the Required File or Folder Actions on Windows
 
@@ -115,17 +115,19 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-non-retweeted-video-tweet-guide-for-iphone-and-android-users/"><u>[New] 2024 Approved Non-Retweeted Video Tweet Guide for iPhone & Android Users</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-template-tips-for-efficient-and-effective-youtube-intros/"><u>[New] 2024 Approved Template Tips for Efficient and Effective YouTube Intros</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-breathe-life-into-your-reels-adding-drama-with-slow-motion/"><u>[Updated] 2024 Approved Breathe Life Into Your Reels Adding Drama with Slow Motion</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-microsoft-hololens-review-a-glimpse-of-holographic-future/"><u>[Updated] In 2024, Microsoft HoloLens Review- a Glimpse of Holographic Future</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-stream-like-a-pro-optimizing-your-360-youtube-broadcasts/"><u>2024 Approved Stream Like a Pro Optimizing Your 360° Youtube Broadcasts</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-dive-into-and-remove-windows-usage-logs/"><u>How to Dive Into and Remove Windows Usage Logs</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-oppo-a58-4g-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Oppo A58 4G to PC? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/preserving-windows-default-time-configuration/"><u>Preserving Windows' Default Time Configuration</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/reimagining-content-craft-with-chatgpt/"><u>Reimagining Content Craft with ChatGPT</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-address-systemsettings-errors-in-windows-11/"><u>Steps to Address SystemSettings Errors in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/three-strategies-to-redo-windows-11-user-preferences/"><u>Three Strategies to Redo Windows 11 User Preferences</u></a></li>
-<li><a href="https://windows11.techidaily.com/unraveling-package-not-registered-image-glitches-in-win11/"><u>Unraveling 'Package Not Registered' Image Glitches in Win11</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-harmonic-storage-pc-audio-and-speech/"><u>[New] Harmonic Storage PC Audio and Speech</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-time-honored-treasures-free-of-restrictions-for-2024/"><u>[New] Time-Honored Treasures, Free of Restrictions for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-enhance-your-binge-watch-list-with-these-six-mac-methods-for-netflix-recording/"><u>[Updated] 2024 Approved Enhance Your Binge-Watch List with These Six Mac Methods for Netflix Recording</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-inside-outlook-what-youre-missing-as-a-story-viewer/"><u>[Updated] In 2024, Inside Outlook What You're Missing as a Story Viewer</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-masterpiece-creation-in-ae-with-top-tier-plugin-selection/"><u>2024 Approved Masterpiece Creation in AE with Top-Tier Plugin Selection</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-winning-tv-recorder-strategies-no-cost-no-hassle/"><u>2024 Approved Winning TV Recorder Strategies (No-Cost, No Hassle)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/cr2-a-tiff-online-sin-coste-convertir-con-eficacia-usando-herramientas-de-imagenes-libres/"><u>CR2 a TIFF Online Sin Coste: Convertir Con Eficacia Usando Herramientas De Imágenes Libres</u></a></li>
+<li><a href="https://windows11.techidaily.com/explore-extreme-device-integration-the-power-of-galaxys-dex-app/"><u>Explore Extreme Device Integration: The Power of Galaxy's DeX App</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-turn-off-windows-surveillance-features/"><u>How To Turn Off Windows Surveillance Features</u></a></li>
+<li><a href="https://windows11.techidaily.com/iis-mastery-guide-navigating-with-ease-and-speed/"><u>IIS Mastery Guide: Navigating with Ease and Speed</u></a></li>
+<li><a href="https://windows11.techidaily.com/keyboard-command-guide-to-streamline-win-11s-voice-input/"><u>Keyboard Command Guide to Streamline Win 11'S Voice Input</u></a></li>
+<li><a href="https://windows11.techidaily.com/understated-applications-the-real-throttlers-of-pc-performance/"><u>Understated Applications: The Real Throttlers of PC Performance</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unleashing-the-iphones-full-potential-with-10-composition-principles/"><u>Unleashing the iPhone's Full Potential with 10 Composition Principles</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-best-top-7-no-cost-password-tools-for-win-users/"><u>Unveiling the Best: Top 7 No-Cost Password Tools for Win Users</u></a></li>
 </ul></div>
 

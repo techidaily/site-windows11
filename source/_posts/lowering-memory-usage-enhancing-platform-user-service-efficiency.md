@@ -1,7 +1,7 @@
 ---
 title: "Lowering Memory Usage: Enhancing Platform User Service Efficiency"
-date: 2024-10-30T21:11:39.342Z
-updated: 2024-11-05T00:44:35.222Z
+date: 2024-11-12T16:53:30.743Z
+updated: 2024-11-15T17:23:02.720Z
 tags:
   - windows10
   - windows11
@@ -39,30 +39,43 @@ thumbnail: https://thmb.techidaily.com/8984f3e954dc5418ee2dd74f85120f2ef763c0382
 
  Now, check Task Manager to see if the service is still consuming too much RAM.
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Remove the ActivitiesCache.db file
 
  Some users have reported that deleting the ActivitiesCache.db file on their computer has helped solve the problem. To delete it, start by disabling the Connected Devices Platform User Service, as discussed above. Then, press **Win + R** to open Windows Run, copy and paste **%localappdata%\\ConnectedDevicesPlatform\\** in the text, and then hit the **Enter** key.
 
 ![navigating-to-the-connecteddevicesplatform-folder-in-windows-run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/navigating-to-the-connecteddevicesplatform-folder-in-windows-run.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This will open the **ConnectedDevicesPlatform** folder. You'll see several files and folders in there, so open each of the folders and delete the **ActivitiesCache.db** file in all of them.
 
 ![the-activitiescab-file-on-windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/the-activitiescab-file-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you do, restart your computer and see if Connected Devices Platform User Service is still causing RAM consumption issues.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Check for Issues With Your Computer's Hardware
@@ -78,22 +91,15 @@ thumbnail: https://thmb.techidaily.com/8984f3e954dc5418ee2dd74f85120f2ef763c0382
 ![the-properties-window-of-a-device-on-windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/the-properties-window-of-a-device-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If it doesn't, you will see an error message and a code. Take note of both so you can start troubleshooting the problem. You can start by using [one of the troubleshooters on Windows](https://www.makeuseof.com/run-troubleshooter-windows-10-11/) to check for and fix the hardware problem you're seeing.
 
  If all the steps above don't work then you might need to [use a system restore point](https://www.makeuseof.com/use-system-restore-windows/) that you created before it started using too much RAM. And if that doesn't work as well, you might have to reset your Windows computer
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Free Your RAM From Connected Devices Platform User Service
 
@@ -111,22 +117,20 @@ thumbnail: https://thmb.techidaily.com/8984f3e954dc5418ee2dd74f85120f2ef763c0382
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-amplifying-online-videos-best-5-tools-and-tricks/"><u>[New] 2024 Approved Amplifying Online Videos Best 5 Tools & Tricks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/0x80072ee7-in-windows-store-solved/"><u>0X80072EE7 in Windows Store [SOLVED]</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-art-of-capturing-attention-top-6-videos-to-watch/"><u>2024 Approved The Art of Capturing Attention Top 6 Videos to Watch</u></a></li>
-<li><a href="https://windows11.techidaily.com/3-ways-to-check-if-windows-11-is-activated/"><u>3 Ways to Check If Windows 11 Is Activated</u></a></li>
-<li><a href="https://windows11.techidaily.com/4-ways-to-check-the-hardware-ids-of-your-devices-on-windows/"><u>4 Ways to Check the Hardware IDs of Your Devices on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-guide-to-overhauling-the-settings-app-in-win11/"><u>A Guide to Overhauling the Settings App in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-non-operational-state-of-ccleaner-on-win1011-systems/"><u>Addressing Non-Operational State of CCleaner on Win10/11 Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoid-decreased-size-of-your-windows-11-icons/"><u>Avoid Decreased Size of Your Windows 11 Icons</u></a></li>
-<li><a href="https://windows11.techidaily.com/breaking-down-the-workflow-of-windows-11s-recovery-features/"><u>Breaking Down the Workflow of Windows 11'S Recovery Features</u></a></li>
-<li><a href="https://windows11.techidaily.com/concealing-windows-11s-taskbar-search-function/"><u>Concealing Windows 11'S Taskbar Search Function</u></a></li>
-<li><a href="https://windows11.techidaily.com/create-your-own-windows-speech-recognition-app-with-autohotkey-and-whisper/"><u>Create Your Own Window's Speech Recognition App with AutoHotkey and Whisper</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-sony-xperia-1-v-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Sony Xperia 1 V Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-nokia-c22-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Nokia C22 to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/introducing-apples-latest-innovation-the-new-airpods-pro-with-advanced-locator-feature-and-enhanced-charging-capability-technewsz/"><u>Introducing Apple's Latest Innovation: The New AirPods Pro with Advanced Locator Feature & Enhanced Charging Capability - TechNewsZ</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/pioneering-open-worlds-worth-your-time/"><u>Pioneering Open Worlds Worth Your Time</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Motorola Razr 40 | Dr.fone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-adobe-premiere-2023-a-step-by-step-guide-to-importing-and-exporting-videos/"><u>Updated 2024 Approved Adobe Premiere 2023 A Step-by-Step Guide to Importing and Exporting Videos</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-expert-tips-mixing-visual-filters-and-melodies-in-windows-10-photos/"><u>[New] 2024 Approved Expert Tips Mixing Visual Filters & Melodies in Windows 10 Photos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-premiere-reviews-exploring-the-best-8k-cameras/"><u>[New] Premiere Reviews Exploring the Best 8K Cameras</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/diy-filming-hacks-to-learn-and-implement-at-home/"><u>DIY Filming Hacks to Learn and Implement at Home</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/downloading-standardized-youtube-images-with-ease-and-precision/"><u>Downloading Standardized Youtube Images with Ease & Precision</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/effortlessly-record-your-screen-on-windows-78-with-step-by-step-guide/"><u>Effortlessly Record Your Screen on Windows 7/8 with Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-resolve-code-0x0001-issue-with-nvidia-experience/"><u>How to Resolve Code 0X0001 Issue with Nvidia Experience</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-tecno-pop-7-pro-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Tecno Pop 7 Pro for Streaming | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/non-procreate-windows-drawers-the-top-five/"><u>Non-Procreate Windows Drawers: The Top Five</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-common-windows-key-problems-including-the-enter-key/"><u>Overcoming Common Windows Key Problems, Including the Enter Key</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-app-malfunctions-7-effective-strategies/"><u>Overcoming Windows App Malfunctions: 7 Effective Strategies</u></a></li>
+<li><a href="https://windows11.techidaily.com/return-to-simplicity-using-icons-for-the-windows-11-search-bar/"><u>Return to Simplicity: Using Icons for the Windows 11 Search Bar</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-instructions-on-leveraging-windows-telnet-client/"><u>Step-by-Step Instructions on Leveraging Windows Telnet Client</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-beginners-guide-to-old-championship-manager/"><u>The Ultimate Beginner's Guide to Old Championship Manager</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-the-power-of-three-column-widgets-in-win11/"><u>Unlocking the Power of Three-Column Widgets in Win11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unsticking-a-halted-itunes-update-process-6-effective-tips-for-ios-devices/"><u>Unsticking a Halted iTunes Update Process: 6 Effective Tips for iOS Devices</u></a></li>
 </ul></div>
 

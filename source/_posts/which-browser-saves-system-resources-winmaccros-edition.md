@@ -1,7 +1,7 @@
 ---
 title: Which Browser Saves System Resources? Win/Mac/CrOS Edition
-date: 2024-08-27T16:01:10.030Z
-updated: 2024-08-28T16:01:10.030Z
+date: 2024-11-08T17:03:49.796Z
+updated: 2024-11-15T17:13:48.546Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/23bcbbd5e45bcabcdfd0dcf9f0d56055fdfa4178e
 
  For example, a browser using more RAM on a Windows device from a specific manufacturer might use less RAM on a device with more efficient RAM. To provide a baseline, we will list the specifications of the devices used in the test.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Which Browser Uses the Least Memory and CPU Resources on a Windows Device?
 
  For Windows, we will analyze the resource consumption of Edge, Opera, Firefox, and Chrome browser to determine which one you should use. The following image shows the specifications of the Windows device we are running this test on:
@@ -51,18 +58,12 @@ thumbnail: https://thmb.techidaily.com/23bcbbd5e45bcabcdfd0dcf9f0d56055fdfa4178e
 
  If you use a browser that consumes lots of CPU resources and can't switch to another for some reason, turn on efficiency mode for the browser's processes. It's a feature introduced in Windows 11 that makes the processes low-priority, making the processor allocate fewer resources, thereby limiting their CPU usage.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Which Browser Consumes the Least Memory and CPU Resources on ChromeOS?
 
  For [the Chromebook operating system, ChromeOS](https://www.makeuseof.com/what-is-chrome-os/), we will analyze the resource consumption of Opera, Firefox, and Chrome. Microsoft Edge is not available by default, so we'll exclude this browser. The following image shows the specifications of the Chromebook we are running this test on:
 
 ![Lenovo Yoga N23 Chromebook Specifications](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/lenovo-yoga-n23-chromebook-specifications.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
  After running the same processes on ChromeOS as we did on Windows, here's the breakdown of resources consumed by different browsers:
 
 | Browser Name    | RAM Usage (MBs) | CPU Usage (Percentage) |
@@ -78,14 +79,24 @@ thumbnail: https://thmb.techidaily.com/23bcbbd5e45bcabcdfd0dcf9f0d56055fdfa4178e
 **Verdict:** If your Chromebook's processor isn't powerful, you can choose Opera. Chrome is a good choice for users having limited memory at their disposal.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Which Browser Consumes the Least RAM and CPU on macOS?
 
  For macOS, we will analyze the resource consumption of Safari, Opera, Firefox, and Chrome. In the following image, you can see the specifications of the macOS device we are using for the test:
 
 ![Specifications of Macbook Air 2015](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/specifications-of-macbook-air-2015.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Below, you can find a breakdown of the resources consumed by each browser when running the same processes on a MacBook:
 
@@ -108,9 +119,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  But how can you test which browser consumes the least resources, aside from those we have already tested?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ## How to Test Other Browsers' Resource Consumption Yourself
 
  To check how much strain any browser puts on your device's hardware, follow these steps:
@@ -121,14 +129,14 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 4. Observe how many resources your browser consumes in the monitoring app.  
 ![Resources Consumption of Brave Browser in Task Manager on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/resources-consumption-of-brave-browser-in-task-manager-on-windows.jpg)
 5. To compare this browser's resource consumption with others, run the same processes on other browsers and compare their results.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Use the Most Efficient Browser
 
  Browsers consume the most resources and hinder our user experience the most. Hopefully, our evaluations comparing the resources consumed by different browsers will help you choose the right one for your device. Furthermore, if the less popular browser consumes fewer resources on your device, you might be better off using it.
@@ -137,11 +145,33 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  In this article, we'll compare the RAM and CPU resources consumed by different browsers on Windows, macOS, and ChromeOS; so you can see which browser uses the least resources on your device.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-best-tech-to-preserve-classroom-interactions-for-2024/"><u>[New] Best Tech to Preserve Classroom Interactions for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-building-a-solid-foundation-youtube-video-script-basics/"><u>[New] In 2024, Building a Solid Foundation YouTube Video Script Basics</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-echo-music-into-your-whatsapp-narrative/"><u>[Updated] 2024 Approved Echo Music Into Your WhatsApp Narrative</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harnessing-imovies-potential-for-youtube-broadcasting/"><u>[Updated] 2024 Approved Harnessing iMovie's Potential for YouTube Broadcasting</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/analyzing-and-ranking-lowest-priced-cloud-services/"><u>Analyzing & Ranking Lowest-Priced Cloud Services</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-strategies-for-toolbar-mastery-in-mspcm-win11/"><u>Expert Strategies for Toolbar Mastery in MSPCM Win11</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oneplus-ace-3-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on OnePlus Ace 3 Devices | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/guidelines-to-correct-nvidia-control-panel-access-problem/"><u>Guidelines to Correct Nvidia Control Panel Access Problem</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-correctly-manage-the-0x80070003-updater-error-on-windows/"><u>How to Correctly Manage the 0X80070003 Updater Error on Windows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-tecno-spark-20c-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Tecno Spark 20C to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-samsung-galaxy-m34-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Samsung Galaxy M34 for Parents | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/journey-from-gifs-to-stickers-perfect-instructions-for-all-chat-platforms-for-2024/"><u>Journey From GIFs to Stickers Perfect Instructions for All Chat Platforms for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/manage-battery-saver-functionality-on-your-laptop-seamlessly/"><u>Manage Battery Saver Functionality on Your Laptop Seamlessly</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-backdrop-blur-on-windows-11-a-visual-masterclass-in-photo-editing/"><u>Navigating Backdrop Blur on Windows 11: A Visual Masterclass in Photo Editing</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-obstacles-essential-tips-for-restoring-your-iphones-chatgpt-functionality/"><u>Overcoming Obstacles: Essential Tips for Restoring Your iPhone's ChatGPT Functionality</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-unwanted-discoloration-clean-your-windows-pc-screen/"><u>Overcoming Unwanted Discoloration: Clean Your Windows Pc Screen</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-overcoming-onedrive-cloud-operation-issues/"><u>Strategies for Overcoming OneDrive Cloud Operation Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-iphone-bargains-unbeatable-offers-in-july-2024-spotted/"><u>Top iPhone Bargains: Unbeatable Offers in July 2024 - Spotted</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-guide-win1110s-nvidia-access-problems/"><u>Troubleshooting Guide: Win11/10's NVidia Access Problems</u></a></li>
+</ul></div>
+

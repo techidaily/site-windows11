@@ -1,7 +1,7 @@
 ---
 title: "Unlocking: How to Fix Older User Credential Message"
-date: 2024-08-27T16:02:38.315Z
-updated: 2024-08-28T16:02:38.315Z
+date: 2024-11-09T16:05:10.291Z
+updated: 2024-11-15T16:14:39.416Z
 tags:
   - windows10
   - windows11
@@ -40,21 +40,19 @@ thumbnail: https://thmb.techidaily.com/0c6d2fd1a73159563e57dda315b30eb330741092c
 
  Try your Microsoft account password, any pin you’ve used with the device, and your commonly used passwords.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## 2\. Press Enter While the Password Field Is Blank
 
 ![Enter Key on Laptop Keyboard in Red](https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6d231984ceb0349e3e717f14.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Some people who have encountered this error claim that you can resolve it by pressing the Enter key with the password field empty. This should work if you've never set up a password for the local admin account, and it works for some people.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Reset Your Windows Password
 
  If you recall from earlier, you can set the Windows password to something you'll remember later on. As such, the final and most effective fix is to set up or reset your local admin account password and use it as the current Windows password.
@@ -65,28 +63,40 @@ thumbnail: https://thmb.techidaily.com/0c6d2fd1a73159563e57dda315b30eb330741092c
 2. On the Settings page, select the **Accounts** option. You should [check that your Windows account has admin rights](https://www.makeuseof.com/check-windows-account-admin-rights/) before continuing.  
 ![Accounts Page in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/accounts-page-in-windows-11.jpg)
 3. Then, select **Sign-In Options** \> **Passwords**. You’ll find **Add** if you’re creating a password for the first time. Otherwise, you’ll find **Change**, meaning you’ll need to [reset your local admin account password](https://www.makeuseof.com/tag/3-ways-to-reset-the-forgotten-windows-administrator-password/).  
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
-![Password Option under Sign-In Options in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/password-option-under-sign-in-options-in-windows-11.jpg)
-4. If you click **Add**, you’ll be directed to a page where you can set up a password.  
-![Create New Password for Local Admin Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/create-new-password-for-local-admin-account.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Password Option under Sign-In Options in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/password-option-under-sign-in-options-in-windows-11.jpg)
+4. If you click **Add**, you’ll be directed to a page where you can set up a password.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![Create New Password for Local Admin Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/create-new-password-for-local-admin-account.jpg)
+
  Once you have created or reset your Windows password, you can proceed to sign into your Microsoft account. Once you’re asked to insert your “current Windows password,” swiftly input your newly minted password.
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Don’t Let the “We’ll Need Your Current Windows Password One Last Time” Error Stop You
 
  While this error is a headache for sure, you can easily resolve it with a little password tinkering. Keep calm, try the steps above, and enjoy your newly set-up device.
 
  However, this error can be easily resolved. Here’s everything you need to know.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -94,3 +104,21 @@ thumbnail: https://thmb.techidaily.com/0c6d2fd1a73159563e57dda315b30eb330741092c
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-open-source-gaming-soundtracks-library/"><u>[New] 2024 Approved Open Source Gaming Soundtracks Library</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-transformative-tech-effortlessly-turning-phones-into-vr-gear/"><u>[Updated] Transformative Tech Effortlessly Turning Phones Into VR Gear</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-quick-launch-to-laughter-ifunnys-meme-app-made-simple/"><u>2024 Approved Quick Launch to Laughter IFunny's Meme App Made Simple</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-vanguard-of-virtual-storage-top-choices/"><u>2024 Approved The Vanguard of Virtual Storage Top Choices</u></a></li>
+<li><a href="https://windows11.techidaily.com/easy-way-installing-google-play-on-win11/"><u>Easy Way: Installing Google Play on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-common-windows-installer-problems/"><u>Eliminating Common Windows Installer Problems</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-genuineness-errors-in-adobe-windows/"><u>Eliminating Genuineness Errors in Adobe Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-your-subnet-configuration-in-win11/"><u>Enhance Your Subnet Configuration in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/eradicating-screen-annoyances-in-sonic-frontiers-on-windows-11/"><u>Eradicating Screen Annoyances in Sonic Frontiers on Windows 11</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-mastering-video-enlargement-on-youtube/"><u>In 2024, Mastering Video Enlargement on YouTube</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/tech-savvy-guide-to-excellent-recording-apps-for-2024/"><u>Tech-Savvy Guide to Excellent Recording Apps for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/turning-videos-into-dollars-the-ultimate-mobile-focused-youtubers-manual-for-2e24-for-2024/"><u>Turning Videos Into Dollars The Ultimate Mobile-Focused YouTuber's Manual for 2E24 for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unseen-battles-umbraheroes-black-versus-luminaryheroes-silver/"><u>Unseen Battles Umbraheroes (Black) Versus Luminaryheroes (Silver)</u></a></li>
+</ul></div>
+

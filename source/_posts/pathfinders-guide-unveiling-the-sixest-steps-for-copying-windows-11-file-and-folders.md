@@ -1,7 +1,7 @@
 ---
 title: "Pathfinder's Guide: Unveiling the Sixest Steps for Copying Windows 11 File & Folders"
-date: 2024-10-31T21:52:10.563Z
-updated: 2024-11-05T02:31:01.836Z
+date: 2024-11-10T17:32:21.180Z
+updated: 2024-11-15T16:09:30.203Z
 tags:
   - windows10
   - windows11
@@ -40,26 +40,26 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
 
 ![A copied path with inverted commas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/a-copied-path.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. How to Select the Default Context Menu Option for Copying Paths
 
  Alternatively, you can select a **Copy as path** option via Explorer’s context menu. To do so, open up a directory that includes a file or folder path to copy. Then right-click the file or folder and select **Copy as path**.
 
 ![The Copy as path option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/copy-as-path.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also copy multiple paths. To do so, select multiple files and folders by holding the **Ctrl** key. Then right-click one to select **Copy as path**.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. How to Copy Paths With a Hotkey
@@ -69,19 +69,6 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
  That’s the hotkey for the **Copy as path** context menu option. You can see if your Windows 11 build version has that hotkey by right-clicking a file or folder. That hotkey won’t work if you can’t see **Ctrl** \+ **Shift** \+ **C** beside the **Copy as path** option on the context menu.
 
  If your Windows 11 version doesn’t have that hotkey, you’ll need to update the platform. You can do that with one of the methods in our guide about [manually updating Windows 11](https://www.makeuseof.com/update-windows-manually/#:~:text=Press%20the%20Win%20%2B%20I%20hotkeys,the%20Check%20for%20updates%20button.). Select to install the latest build of the platform if you’re utilizing an older version.
-
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. How to Copy Paths With File Explorer’s Address Bar Options
 
@@ -98,13 +85,20 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
 ![The Target box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/target-box.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To copy a target path, right-click a desktop shortcut and select **Properties**; click inside the **Target** box on the **Shortcut** tab to select the path’s text. Press the standard **Ctrl** \+ **C** hotkey to copy the selected path text. Then paste that copied path into File Explorer’s address bar with **Ctrl** \+ **V**.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. How to Copy Paths With the Path Copy Copy Software
 
@@ -124,13 +118,6 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
 ![The Path Copy submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/path-copy-submenu.jpg)
 5. Select the **Long path** option to copy the full location. Now you’ve copied a long path for pasting anywhere you need.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The great thing about Path Copy Copy is that it provides many more options for copying folders and file paths. However, only a few of them are on the **Copy Path** submenu to default. To add all options, click **Settings** on the **Path Copy** submenu. Then select all the submenu checkboxes in the window and click **Apply** \> **OK**.
 
 ![The Path Copy Copy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/path-copy-copy-window.jpg)
@@ -142,6 +129,13 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
  You can configure how the paths get copied by changing settings within Path Copy Copy’s **Options** tab. For example, your copied paths will include quote marks around them if you select the **Add quotes around copied paths** checkbox. Select the **Add < and > around copied paths** option to include brackets around copied brackets.
 
 ![The Options tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/options-tab.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Copy Paths on Windows Whichever Way You Like Best
 
@@ -159,21 +153,22 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-your-first-step-designing-attractive-videos-on-a-mac/"><u>[New] 2024 Approved Your First Step Designing Attractive Videos on a Mac</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-virtual-studio-compiling-the-best-dj-visuals-for-download/"><u>[New] In 2024, Virtual Studio Compiling the Best DJ Visuals for Download</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-the-filmmakers-pathway-to-youtube-success-with-professional-360-video-edits/"><u>2024 Approved The Filmmaker's Pathway to YouTube Success with Professional 360 Video Edits</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-infinix-hot-40-pro-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Infinix Hot 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoidance-tactics-against-flaky-saving-mechanism-in-nvidia-gui/"><u>Avoidance Tactics Against Flaky Saving Mechanism in Nvidia GUI</u></a></li>
-<li><a href="https://windows11.techidaily.com/combating-writing-denials-in-windows-11-environment/"><u>Combating Writing Denials in Windows 11 Environment</u></a></li>
-<li><a href="https://windows11.techidaily.com/comparative-overview-of-installation-methods-exe-and-msi-files/"><u>Comparative Overview of Installation Methods: Exe & Msi Files</u></a></li>
-<li><a href="https://windows11.techidaily.com/corrective-measures-for-xc0351000-hyprocvisor-not-found/"><u>Corrective Measures for XC0351000: Hyprocvisor Not Found</u></a></li>
-<li><a href="https://windows11.techidaily.com/customizing-graphics-output-dpi-adjustment-guide/"><u>Customizing Graphics Output: DPI Adjustment Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-the-complexity-of-wintoys-your-guide-to-a-versatile-tool/"><u>Decoding the Complexity of 'WinToys': Your Guide to a Versatile Tool</u></a></li>
-<li><a href="https://windows11.techidaily.com/demystifying-microsofts-code-companion-for-enhanced-programming/"><u>Demystifying Microsoft's Code Companion for Enhanced Programming</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Vivo T2 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-infinix-hot-40-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Infinix Hot 40 to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-android-os-updates-a-comprehensive-guide/"><u>Mastering Android OS Updates - A Comprehensive Guide</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/seamless-techniques-for-downscaling-from-hd-1080p-to-sd-720p-videos-without-compromising-quality/"><u>Seamless Techniques for Downscaling From HD 1080P to SD 720P Videos Without Compromising Quality</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-guide-to-video-visibility-for-youtubers-for-2024/"><u>The Ultimate Guide to Video Visibility (For YouTubers) for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-perfecting-the-art-of-twitter-broadcasts-for-2024/"><u>[New] Perfecting the Art of Twitter Broadcasts for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-charting-the-differences-in-youtubes-ownership-and-cc-models/"><u>[Updated] In 2024, Charting the Differences in YouTube's Ownership and CC Models</u></a></li>
+<li><a href="https://windows11.techidaily.com/discovering-value-with-the-2020-apple-iphone-se-where-smart-meets-affordable/"><u>Discovering Value with the 2020 Apple iPhone SE: Where Smart Meets Affordable</u></a></li>
+<li><a href="https://windows11.techidaily.com/five-keys-to-unlock-frozen-windows-hibernate/"><u>Five Keys to Unlock Frozen Windows Hibernate</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-hilarity-unleashed-kinemaster-meme-creation/"><u>In 2024, Hilarity Unleashed KineMaster Meme Creation</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/innovative-immersion-a-guide-to-the-leaders/"><u>Innovative Immersion A Guide to the Leaders</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-application-setup-on-windows-11/"><u>Mastering the Art of Application Setup on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/rectifying-in-game-communication-hurdles-with-windows-speech-tools/"><u>Rectifying In-Game Communication Hurdles with Windows Speech Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/revising-chromes-erroneous-security-warnings-tips-and-tricks/"><u>Revising Chrome's Erroneous Security Warnings: Tips & Tricks</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-fileshare-on-windows-11/"><u>Streamlining Fileshare on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackle-vbox-setup-head-on-devices-and-deps-first/"><u>Tackle VBox Setup Head-On: Devices and Deps First</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-8-creative-prompts-for-impressive-ai-art-with-dall-e-3/"><u>Top 8 Creative Prompts for Impressive AI Art with DALL-E 3</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-choosing-the-right-dry-and-drop-proof-phone-case/"><u>Ultimate Guide: Choosing the Right Dry & Drop-Proof Phone Case</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-potential-virus-clues-in-windows-task-scheduling/"><u>Understanding Potential Virus Clues in Window's Task Scheduling</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-top-tier-quality-of-the-samsung-galaxy-s10-an-elite-device-exposed/"><u>Unveiling the Top-Tier Quality of the Samsung Galaxy S10: An Elite Device Exposed</u></a></li>
+<li><a href="https://windows11.techidaily.com/unwrapping-the-mystery-of-windows-store-error-code-0x80072efd/"><u>Unwrapping the Mystery of Windows Store Error Code 0X80072EFD</u></a></li>
 </ul></div>
 

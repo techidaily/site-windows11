@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting LSA Problem in Windows XP/Vista
-date: 2024-11-02T19:29:32.440Z
-updated: 2024-11-04T19:13:24.653Z
+date: 2024-11-14T16:14:52.874Z
+updated: 2024-11-15T16:50:01.058Z
 tags:
   - windows10
   - windows11
@@ -31,9 +31,35 @@ thumbnail: https://thmb.techidaily.com/2df210d64d34d4b3dc09759541c3c9d53d18577f1
 
  This error is usually triggered when Windows attempts to enable Local Security Authority (LSA) protection and fails. In some cases, the error may also appear after you enabled LSA protection and restarted your computer.
 
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Restart Your PC
 
  As the error message suggests, you first restart your Windows system. This minor step can fix several system-level errors and is worth a try. Restarting your computer involves shutting down all running programs and starting it up again.
+
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Scan for Malicious Programs
 
@@ -47,6 +73,19 @@ thumbnail: https://thmb.techidaily.com/2df210d64d34d4b3dc09759541c3c9d53d18577f1
 4. Click **Scan options** on the right side of the screen.  
 ![Full Scan Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/full-scan-windows-security.jpg)
 5. Select **Full scan** and click **Scan now**.
+
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now wait for the scan to finish. If malicious programs are detected, Windows Security will remove them from your system automatically.
 
@@ -66,10 +105,10 @@ Administrative Templates > System > Local Security Authority
 6. Now, in the window that appears, alter the settings from **Not Configured** to **Enabled**.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Under the Options section, click the drop-down menu for **Configure LSASS to run as a protected process** and select **Enabled with UEFI Lock**.  
@@ -77,13 +116,6 @@ Administrative Templates > System > Local Security Authority
 8. Now click **Apply > OK** to save the changes.
 
  After making the above changes, restart your computer and check if the error is resolved.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Tweak the Registry Editor
 
@@ -98,13 +130,6 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 5. In the right pane, double-click on **RunAsPPL** to open Edit DWORD (32-bit) Value.  
 ![Change RunAsPPL regsitry values](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/change-runasppl-regsitry-values.jpg)
 6. Change the Value data from 0 to **2** and click **OK**.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Similarly, find the **RunAsPPLBoot** key and set its value to **2**.  
  If you don't find the **RunAsPPL** and **RunAsPPLBoot** keys in the LSA folder, you'll need to create them manually. To do this, right-click on the LSA folder and select **New > DWORD (32-bit) Value**. Name the new value **RunAsPPL** and set its value to 2\. Then repeat this process for the **RunAsPPLBoot** key.
@@ -125,19 +150,6 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 7. If the confirmation window pops up, click **Reset** to continue.
 
  Wait for the reset process to finish and restart your computer. After restarting, check if the error is still present.
-
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Perform Some Generic Fixes
 
@@ -161,22 +173,21 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-screencapture-evaluation-interface/"><u>[Updated] In 2024, ScreenCapture Evaluation Interface</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-key-methods-to-customize-song-speed-on-spotify/"><u>2024 Approved Key Methods to Customize Song Speed on Spotify</u></a></li>
-<li><a href="https://windows11.techidaily.com/3-key-fixes-for-sudden-disk-full-situations/"><u>3 Key Fixes for Sudden Disk Full Situations</u></a></li>
-<li><a href="https://windows11.techidaily.com/5-secure-operating-system-tactics-when-bitlocker-is-offline/"><u>5 Secure Operating System Tactics When BitLocker Is Offline</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/addressing-key-component-deterioration-on-your-windows-11-machine-solution-found/"><u>Addressing Key Component Deterioration on Your Windows 11 Machine – Solution Found!</u></a></li>
-<li><a href="https://windows11.techidaily.com/building-artificially-inspired-pictures-in-paint-cocreator-win11/"><u>Building Artificially-Inspired Pictures in Paint Cocreator (Win11)</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypassing-windows-10-upgrade-fault-code-0xc004f050/"><u>Bypassing Windows 10 Upgrade Fault: Code 0XC004F050</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypassing-windows-login-blockers-with-these-8-steps/"><u>Bypassing Windows Login Blockers with These 8 Steps</u></a></li>
-<li><a href="https://windows11.techidaily.com/craft-an-individualized-look-for-your-schedule-in-windows-outlook/"><u>Craft an Individualized Look for Your Schedule in Windows Outlook</u></a></li>
-<li><a href="https://windows11.techidaily.com/crafting-precise-user-level-group-policies-in-windows-devices/"><u>Crafting Precise User-Level Group Policies in Windows Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/dealing-with-inaccessible-steam-servers-in-home-pc-setups/"><u>Dealing With Inaccessible Steam Servers in Home PC Setups</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-xs-max-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone XS Max without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-explore-djis-aesthetics-first-20-no-cost-drone-vfx-trials/"><u>In 2024, Explore DJI's Aesthetics – First 20 No-Cost Drone VFX Trials</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Samsung Galaxy S23? | Dr.fone</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/step-by-step-tutorial-replicating-your-nvme-ssd-minimized-damage-to-the-drives-surface-comprehensive-manual/"><u>Step-by-Step Tutorial: Replicating Your NVMe SSD, Minimized Damage to the Drive's Surface [Comprehensive Manual]</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-power-of-magix-clip-studio-for-2024/"><u>Unveiling the Power of MAGIX Clip Studio for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/vivid-visual-victory-professional-image-coloration-for-2024/"><u>Vivid Visual Victory Professional Image Coloration for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-iphonescreen-recording-a-straightforward-guide/"><u>[Updated] In 2024, IPhonescreen Recording A Straightforward Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-ultimate-playstation-4-guide-to-perfect-gameplay-recording/"><u>[Updated] The Ultimate PlayStation 4 Guide to Perfect Gameplay Recording</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-simplifying-vfx-with-magix-video-pro-x/"><u>2024 Approved Simplifying VFX with Magix Video Pro X</u></a></li>
+<li><a href="https://windows11.techidaily.com/arm-powered-windows-computers-get-official-chrome-support/"><u>ARM-Powered Windows Computers Get Official Chrome Support</u></a></li>
+<li><a href="https://windows11.techidaily.com/best-budget-friendly-options-for-adobe-photoshop-and-illustrator-on-windows-systems/"><u>Best Budget-Friendly Options for Adobe Photoshop and Illustrator on Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/comprehensive-analysis-and-ratings-keychron-kc3-chroma-wireless-mechanical-keyboard-premium-quality-at-excellent-value/"><u>Comprehensive Analysis & Ratings: Keychron KC3 Chroma Wireless Mechanical Keyboard – Premium Quality at Excellent Value!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-blh4100-blade-fpv-rtf-indooroutdoor-copter-evaluation/"><u>Comprehensive BLH4100 Blade FPV RTF Indoor/Outdoor Copter Evaluation</u></a></li>
+<li><a href="https://windows11.techidaily.com/discover-the-ultimate-free-utilities-for-tracking-and-managing-disk-usage-on-windows-systems/"><u>Discover the Ultimate Free Utilities for Tracking and Managing Disk Usage on Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/discover-the-ultimate-list-of-key-apps-your-windows-computer-needs-explained/"><u>Discover the Ultimate List of Key Apps Your Windows Computer Needs, Explained!</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210800701-9781399949569-fear-not-the-spiritual-truth/"><u>Fear not the Spiritual Truth | Free Book</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On OnePlus Nord 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-experts-picks-for-high-quality-vector-websites/"><u>In 2024, The Expert's Picks for High-Quality Vector Websites</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-free-video-editing-for-dummies-top-picks-for-beginners-for-2024/"><u>New Free Video Editing for Dummies Top Picks for Beginners for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-7-critical-microsoft-excel-tools-you-need-for-effective-budget-management/"><u>Top 7 Critical Microsoft Excel Tools You Need for Effective Budget Management</u></a></li>
+<li><a href="https://windows11.techidaily.com/transitioning-from-hours-to-fractions-a-step-by-step-guide-on-converting-time-to-decimal-format-in-excel/"><u>Transitioning From Hours to Fractions: A Step-by-Step Guide on Converting Time to Decimal Format in Excel</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unveiling-fix-for-videography-hiccup-0xc10100be/"><u>Unveiling Fix for Videography Hiccup: 0XC10100be</u></a></li>
 </ul></div>
 

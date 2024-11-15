@@ -1,7 +1,7 @@
 ---
 title: Using iCloud Keychain for iOS/Android Network Access
-date: 2024-11-01T22:19:06.068Z
-updated: 2024-11-04T21:26:50.366Z
+date: 2024-11-08T16:17:53.973Z
+updated: 2024-11-15T16:20:37.836Z
 tags:
   - windows10
   - windows11
@@ -29,13 +29,6 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 
  Windows Network Share utilizes the SMB protocol internally to make files, directories, or, entire drives available for read/write access for devices on the local network. While it's super easy and swift to set up, it's also a common target for adversaries. So, it's wise that you learn [how the SMB protocol works and some common SMB vulnerabilities](https://www.makeuseof.com/what-is-smb-protocol-and-what-are-its-risks/) to ensure that your network perimeter isn't breached.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Share a Windows Drive on Your Local Network
 
  To access your computer's files, you need to share them on the local network. For the demonstration, I'll be sharing a drive on the local network. If you wish to share a folder or a single file instead, you can follow the same steps but with only the folder(s) and file(s) selected.
@@ -50,27 +43,20 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 ![sharing tab open in properties menu of a drive-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sharing-tab-open-in-properties-menu-of-a-drive-1.jpg)
 4. Click on **Advanced Settings** in the new pop-up menu, check the **Share this folder** box, and wait, it's not over yet. Now to prevent unsolicited access to your locally shared drives, click on **Permissions**.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. In the new menu that pops up, click on **Add**. Yet another box should pop up. Here, type in the username of your user account. Use a dedicated user account only for network access or use your primary account's username and press **Enter**. You should find your name is present on the list of users with permission to the shared drive.  
 ![Adding a new user in the access group of the shared drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/adding-a-new-user-in-the-access-group-of-the-shared-drive.jpg)
 6. Finally, click on your account name, and in the **Permissions for <account name>** section, check the **Full Control** box and hit **Apply**.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Adding permissions to the user account and confimring changes by pressing on Apply](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/adding-permissions-to-the-user-account-and-confimring-changes-by-pressing-on-apply.jpg)
 
  That's all the steps to share your drive on the local network. However, if you run into any trouble, it's recommended you check out the [dedicated guide on enabling Windows Network Share](https://www.makeuseof.com/how-network-file-share-windows-10/).
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Access Your Windows Files From an Android Device
 
@@ -87,13 +73,26 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 
 ![Selecting SMB Protocol](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/selecting-smb-protocol.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Manually adding the device and account details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/manually-adding-the-device-and-account-details.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Access established to the drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/access-established-to-the-drive.jpg)
@@ -103,13 +102,6 @@ Close
  Now, you should be able to access files on your Windows PC from your Android device. You can modify the files or download them to your Android device. All done without ever needing any external application!
 
  On some devices, such as Samsung phones, when you click on **Network Storage**, you might be asked to update the Files app to add the network access functionality. Proceed to do so, and then return to the guide.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Access Your Windows Files From an iOS Device
 
@@ -123,18 +115,32 @@ Close
 
 ![Connecting to the shared drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/connecting-to-the-shared-drive.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Typing in the IP of the Windows PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/typing-in-the-ip-of-the-windows-pc.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Typing in user account credentials](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/typing-in-user-account-credentials.jpeg)
 
 ![Access established to the drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/access-established-to-the-drive.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![The shared drive being listed on the Browse Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-shared-drive-being-listed-on-the-browse-menu.jpeg)
 
@@ -158,20 +164,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-achieving-success-in-your-youtube-endeavours-a-step-by-step-blueprint/"><u>[New] In 2024, Achieving Success in Your YouTube Endeavours A Step-by-Step Blueprint</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-navigating-the-best-free-srt-translation-services/"><u>[Updated] In 2024, Navigating the Best FREE SRT Translation Services</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/apple-watch-ultra-must-have-accessory-now-available-again-non-apple-branded-zdnet/"><u>Apple Watch Ultra Must-Have Accessory Now Available Again - Non-Apple Branded | Zdnet</u></a></li>
-<li><a href="https://extra-information.techidaily.com/beginners-guide-to-perfecting-gopro-footage-for-2024/"><u>Beginner's Guide to Perfecting GoPro Footage for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/cutting-edge-solutions-exclusive-windows-systems-for-dsswitch-players/"><u>Cutting-Edge Solutions: Exclusive Windows Systems for DS/Switch Players</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/guide-complet-pour-recuperer-votre-video-supprimee-de-la-camera/"><u>Guide Complet Pour Récuperer Votre Vidéo Supprimée De La Caméra</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-activate-hyper-v-in-the-latest-windows-os/"><u>How To Activate Hyper-V in the Latest Windows OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-0x80072efd-microsoft-store-error-in-windows-11-and-windows-10/"><u>How to Fix the 0X80072EFD Microsoft Store Error in Windows 11 and Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-activate-bluetooth-in-windows-1110-quickly-and-easily/"><u>How To: Activate Bluetooth in Windows 11/10 Quickly & Easily</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-usb-20-navigating-through-high-speed-data-transfer-connector-diversity-and-cord-choices/"><u>Mastering USB 2.0: Navigating Through High-Speed Data Transfer, Connector Diversity & Cord Choices</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-precision-best-keyboard-cars-for-windows/"><u>Quick Precision: Best Keyboard Cars for Windows</u></a></li>
-<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-infinix-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Infinix</u></a></li>
-<li><a href="https://windows11.techidaily.com/secretive-startup-strategies-conceal-the-shutdown-command/"><u>Secretive Startup Strategies: Conceal the Shutdown Command</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-decrease-high-cpu-usage-from-dropbox-on-windows-pcs/"><u>Strategies to Decrease High CPU Usage From Dropbox on Windows PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-system-updates-for-compatibility-with-intel-graphics/"><u>Streamlining System Updates for Compatibility with Intel Graphics</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-ignite-your-creativity-making-dynamic-splitscreen-videos/"><u>[New] 2024 Approved Ignite Your Creativity Making Dynamic Splitscreen Videos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-enhancing-filmmaking-top-choices-in-camera-lenses-for-2024/"><u>[New] Enhancing Filmmaking Top Choices in Camera Lenses for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-low-end-pc-visual-logging-software/"><u>[Updated] Low-End PC Visual Logging Software</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/asus-launches-the-pioneering-rog-nuc-desktop-pc-with-high-end-specs-including-core-ultra-9-processors-and-rtx-4070-graphics-from-1629/"><u>Asus Launches the Pioneering ROG NUC Desktop PC with High-End Specs Including Core Ultra 9 Processors and RTX 4070 Graphics From $1,629</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-lenovo-thinkpad-x1-carbon-gen-10-assessment-is-it-the-top-choice-for-professionals-insights/"><u>Comprehensive Lenovo ThinkPad X1 Carbon Gen 10 Assessment: Is It the Top Choice for Professionals? Insights</u></a></li>
+<li><a href="https://fox-info.techidaily.com/fortified-process-for-adding-tiktok-profile-hyperlinks-for-2024/"><u>Fortified Process for Adding TikTok Profile Hyperlinks for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/from-typing-to-tech-wizardry-discover-the-raspberry-pi-400s-mini-pc-magic-in-this-comprehensive-review/"><u>From Typing to Tech Wizardry: Discover the Raspberry Pi 400'S Mini PC Magic in This Comprehensive Review</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-add-a-desktop-trash-bin-for-permanently-deleting-files-on-windows-10-and-11/"><u>How to Add a Desktop Trash Bin for Permanently Deleting Files on Windows 10 & 11</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/inside-the-specs-and-performance-of-a-modest-contender-dells-inspiron-3671-desktop-critique/"><u>Inside the Specs and Performance of a Modest Contender: Dell's Inspiron 3671 Desktop Critique</u></a></li>
+<li><a href="https://windows11.techidaily.com/minimizing-time-outs-and-lag-in-windows-discord-service/"><u>Minimizing Time-Outs and Lag in Windows Discord Service</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-usb30-device-failure-on-windows-oses/"><u>Resolving USB3.0 Device Failure on Windows OSes</u></a></li>
+<li><a href="https://windows11.techidaily.com/secure-your-system-top-5-ways-to-reactivate-defender-threat-detection/"><u>Secure Your System: Top 5 Ways to Reactivate Defender Threat Detection</u></a></li>
+<li><a href="https://windows11.techidaily.com/setting-new-preferred-pdf-reader-in-windows/"><u>Setting New Preferred PDF Reader in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-the-obstacle-of-file-creation-windows-error-30005/"><u>Tackling the Obstacle of File Creation - Windows Error 30005</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-guide-to-restoring-charge-on-a-plugged-in-yet-unresponsive-surface-device/"><u>The Ultimate Guide To Restoring Charge On A Plugged In, Yet Unresponsive Surface Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/turn-on-windows-11s-direct-image-viewing/"><u>Turn On Windows 11'S Direct Image Viewing</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-impactful-windows-11-service-disabling/"><u>Understanding Impactful Windows 11 Service Disabling</u></a></li>
+<li><a href="https://windows11.techidaily.com/upgrade-security-mastering-windows-11-password-change/"><u>Upgrade Security: Mastering Windows 11 Password Change</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-hardware-drivers-in-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated hardware drivers in Windows 11/10/7</u></a></li>
 </ul></div>
 

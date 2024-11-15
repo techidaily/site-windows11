@@ -1,7 +1,7 @@
 ---
 title: Recovering Dormant Backup Service on OS X
-date: 2024-10-31T03:02:47.402Z
-updated: 2024-11-05T05:53:08.783Z
+date: 2024-11-09T17:26:46.441Z
+updated: 2024-11-15T16:41:20.635Z
 tags:
   - windows10
   - windows11
@@ -41,10 +41,10 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
  Restart those shadow copy services if they’re already set as required. You can do that by right-clicking on those services and selecting the Restart context menu options for them.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Repair Your System Files With the SFC and DISM Commands
@@ -54,10 +54,10 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 ![The sfc scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/sfc-scannow-error.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Run the Check Disk Utility
@@ -72,13 +72,6 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Don’t leave your antivirus shield permanently disabled. If possible, select to disable it for a few hours before attempting the backup or system restoration operation again. Or manually re-enable your antivirus if you can’t select a temporary option.
 
 ## 5\. Disable Any Active Firewalls
@@ -89,22 +82,29 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 
 ![The Turn off Windows Defender Firewall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/turn-off-firewall-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Set Windows to Perform a Clean Boot
 
 ![The Startup type](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/startup-tab.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Conflicting background apps or services are another potential cause of Volume Shadow Copy errors. Third-party backup utilities with snapshot managers are the most likely software packages to conflict with the Volume Shadow Copy Service. If you know you’ve installed a third-party backup manager, uninstalling it could be the best way to ensure it doesn’t cause any conflicts.
 
  However, you can [perform a clean boot](https://www.makeuseof.com/clean-boot-windows-11/) to stop third-party apps and services from starting with Windows to prevent conflicts from arising. This involves disabling startup items and services with Task Manager and MSConfig and restarting Windows. Then try utilizing the Windows Backup and Restore or System Restore tools after clean booting your PC to see if the VSS error persists.
 
  If it does, this means something you disabled during the clean boot is causing the problem. Now you can slowly re-enable each app until the problem reappears, then either uninstall or update the offending app.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Back up and Restore Windows Again
 
@@ -120,24 +120,24 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-mobile-creativity-boost-identifying-the-best-video-editing-tools/"><u>[New] 2024 Approved Mobile Creativity Boost Identifying the Best Video Editing Tools</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-learn-quick-image-text-alteration-online-resources/"><u>[Updated] Learn Quick Image Text Alteration Online Resources</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-find-x7-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo Find X7 | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/device-dialogue-diplomacy-android-plus-pc-sync-guide/"><u>Device Dialogue Diplomacy: Android + PC Sync Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/elevate-your-ride-on-windows-discover-top-5-budget-enhancers/"><u>Elevate Your Ride on Windows: Discover Top 5 Budget Enhancers</u></a></li>
-<li><a href="https://windows11.techidaily.com/elevating-output-amplitude-for-external-windows-11-audio/"><u>Elevating Output Amplitude for External Windows 11 Audio</u></a></li>
-<li><a href="https://driver-install.techidaily.com/fix-compatibility-with-hardware-package/"><u>Fix Compatibility with Hardware Package</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/flat-screen-care-101-best-practices-for-keeping-your-tv-immaculate/"><u>Flat Screen Care 101: Best Practices for Keeping Your TV Immaculate</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-batch-convert-heic-images-to-jpeg-format-in-windows-10-and-11/"><u>How to Batch Convert HEIC Images to JPEG Format in Windows 10 & 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-nvidia-control-panel-not-opening-in-windows-11/"><u>How to Fix the NVIDIA Control Panel Not Opening in Windows 11</u></a></li>
-<li><a href="https://fox-http.techidaily.com/how-to-shoot-a-green-screen-video-for-2024/"><u>How to Shoot a Green Screen Video for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-honor-play-7t-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Honor Play 7T to Protect Your Individual Information</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/keinohrhasen-filmdvd-download-und-streaming-fur-iphoneipad-sicher-and-legal/"><u>Keinohrhasen Filmdvd-Download Und Streaming Für iPhone/iPad - Sicher & Legal</u></a></li>
-<li><a href="https://windows11.techidaily.com/no-more-erratic-arrows-fixes-for-the-frustrated/"><u>No More Erratic Arrows: Fixes for the Frustrated</u></a></li>
-<li><a href="https://windows11.techidaily.com/remedying-system-crash-code-0xc0000001/"><u>Remedying System Crash Code 0xC0000001</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolved-a-comprehensive-guide-on-repairing-non-functional-csgo-mic-connections/"><u>Resolved: A Comprehensive Guide on Repairing Non-Functional CS:GO Mic Connections</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-art-of-unmasking-user-ids-a-guide-to-sids-in-windows-11/"><u>The Art of Unmasking User IDs: A Guide to SIDs in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-the-secrets-of-a-smoother-click-lock-in-windows/"><u>Unveiling the Secrets of a Smoother Click Lock in Windows</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-top-reaction-video-creators-you-need-to-know/"><u>Updated 2024 Approved Top Reaction Video Creators You Need to Know</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-the-solitary-path-to-podcast-popularity/"><u>[New] The Solitary Path to Podcast Popularity</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-step-by-step-guide-to-stunning-instagram-videos/"><u>[Updated] 2024 Approved Step-by-Step Guide to Stunning Instagram Videos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-amplify-your-voice-on-youtube-mastery-through-tubebuddy/"><u>[Updated] In 2024, Amplify Your Voice on YouTube - Mastery Through TubeBuddy</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-screen-streaming-showdown-go-obs-vs-shadowtoolkit/"><u>[Updated] In 2024, Screen Streaming Showdown Go OBS! Vs ShadowToolkit</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/8-ferramentas-efetivas-para-remover-marcas-dagua-de-videos-on-line-gratuita/"><u>8 Ferramentas Efetivas Para Remover Marcas D'água De Vídeos On-Line Gratuita</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/add-cinematic-shake-to-images-using-ps-for-2024/"><u>Add Cinematic Shake to Images Using PS for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/community-shared-music-collections-copyright-free-for-2024/"><u>Community-Shared Music Collections (Copyright-Free) for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722977766938-download-and-latest-updates-for-canon-mg3022-printer-drivers/"><u>Download & Latest Updates for Canon MG3022 Printer Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphic-device-debugged-43-fix/"><u>Graphic Device Debugged #43 Fix</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-remove-the-onedrive-icon-from-file-explorer-in-windows-11/"><u>How to Remove the OneDrive Icon From File Explorer in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-set-up-your-own-keyboard-shortcuts-in-windows-11/"><u>How to Set Up Your Own Keyboard Shortcuts in Windows 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-civi-3-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Civi 3 Bootloader Easily</u></a></li>
+<li><a href="https://windows11.techidaily.com/merge-functionality-and-elegance-in-windows-10plus/"><u>Merge Functionality and Elegance in Windows 10+</u></a></li>
+<li><a href="https://windows11.techidaily.com/removing-curved-edges-from-windows-11/"><u>Removing Curved Edges From Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-for-reversing-loadlibrary-misload-on-windows/"><u>Techniques for Reversing LoadLibrary Misload on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-hidden-power-of-windows-firewall-management/"><u>The Hidden Power of Windows' Firewall Management</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-quickest-way-to-shift-your-windows-qbittorrent-software/"><u>The Quickest Way to Shift Your Windows qBittorrent Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-transformation-ai-integration-into-windows-11/"><u>The Transformation: AI Integration Into Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/turbocharge-your-windows-printer-with-quick-fixes/"><u>Turbocharge Your WIndows Printer with Quick Fixes</u></a></li>
 </ul></div>
 

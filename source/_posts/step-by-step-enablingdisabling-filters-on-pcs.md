@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Enabling/Disabling Filters on PCs"
-date: 2024-08-27T16:01:31.553Z
-updated: 2024-08-28T16:01:31.553Z
+date: 2024-11-10T17:28:49.023Z
+updated: 2024-11-15T16:00:07.178Z
 tags:
   - windows10
   - windows11
@@ -45,9 +45,12 @@ thumbnail: https://thmb.techidaily.com/5ee746dbc8ada474503544ca04e806e436db5d410
 ![Turn Filter Keys On or Off via the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/turn-filter-keys-on-or-off-via-the-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. How to Enable or Disable Filter Keys Using the Control Panel
 
  Although Microsoft plans to retire Control Panel at some point in the future, you can use it to configure most of the settings on your Windows computer for now.
@@ -65,11 +68,12 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 ![Turn Filter Keys On or Off via the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/turn-filter-keys-on-or-off-via-the-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
+
 ## 4\. How to Enable or Disable Filter Keys From the Sign-In Screen
 
  Both Windows 10 and 11 offer the convenience of managing accessibility settings from the sign-in screen. If you are looking to enable or disable Filter Keys from the sign-in screen, use these steps:
@@ -79,27 +83,32 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 ![Turn Filter Keys On or Off via the Sign-in Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/turn-filter-keys-on-or-off-via-the-sign-in-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Similarly, you can also enable or disable Sticky Keys from the sign-in screen. For more information on this, check our guide on[different ways to turn Sticky Keys on or off on Windows 11](https://www.makeuseof.com/windows-11-sticky-keys-on-off/) .
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Enabling or Disabling Filter Keys on Windows Is Easy
 
  As we just saw, enabling or disabling Filter Keys on your Windows 10 or 11 computer should be a quick process, regardless of the method you use.
 
  Filter Keys isn’t the only accessibility feature available in Windows. If you need some extra help using your computer, there are plenty of useful accessibility options on Windows.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -108,4 +117,24 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-e-lecture-documentation/"><u>[Updated] 2024 Approved E-Lecture Documentation</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-the-path-to-professional-gopro-time-lapse-cinematography/"><u>[Updated] The Path to Professional GoPro Time-Lapse Cinematography</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-tips-for-effective-mov-file-saving-on-windows-11/"><u>[Updated] Tips for Effective MOV File Saving on Windows 11</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/11-audiophiles-choice-for-sound-capture/"><u>11 Audiophile's Choice for Sound Capture</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-your-execution-shortcuts-for-microsoft-project-success/"><u>Elevate Your Execution: Shortcuts for Microsoft Project Success</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevating-your-windows-screenshot-game-with-these-fixes/"><u>Elevating Your Windows Screenshot Game with These Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminate-random-shutdowns-on-windows-11-pcs/"><u>Eliminate Random Shutdowns on Windows 11 PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminate-yellow-tint-on-windows-lcd-monitor/"><u>Eliminate Yellow Tint on Windows LCD Monitor</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-barriers-to-successful-printer-use/"><u>Eliminating Barriers to Successful Printer Use</u></a></li>
+<li><a href="https://windows11.techidaily.com/elite-compilation-prime-windows-systems-for-nds-simulation/"><u>Elite Compilation: Prime Windows Systems for NDS Simulation</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-efficiency-crafting-shortcuts-next-to-power-on-windows-11/"><u>Enhancing Efficiency: Crafting Shortcuts Next to Power on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-pointer-visibility-on-win11/"><u>Enhancing Pointer Visibility on Win11</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-oneplus-nord-n30-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-realme-10t-5g-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Realme 10T 5G Is Unlocked</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-iphone-14-drfone-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/invisible-insights-into-instagram-story-viewing/"><u>Invisible Insights Into Instagram Story Viewing</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-a38-by-fonelab-android-recover-data/"><u>The way to get back lost data from A38</u></a></li>
+</ul></div>
 

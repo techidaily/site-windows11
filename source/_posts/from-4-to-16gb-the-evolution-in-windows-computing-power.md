@@ -1,7 +1,7 @@
 ---
 title: "From 4 to 16GB: The Evolution in Windows Computing Power"
-date: 2024-10-31T22:19:38.819Z
-updated: 2024-11-05T02:45:56.616Z
+date: 2024-11-14T16:22:32.069Z
+updated: 2024-11-15T16:50:26.383Z
 tags:
   - windows10
   - windows11
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
 * [Why Is Microsoft Setting a Baseline of 16GB of RAM?](#why-is-microsoft-setting-a-baseline-of-16gb-of-ram)
 * [Is Setting 16GB RAM as the New Standard Good News for You?](#is-setting-16gb-ram-as-the-new-standard-good-news-for-you)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Microsoft is pushing for 16GB of RAM as the minimum for new devices, possibly to support AI-based processes.
@@ -43,15 +36,22 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
 
  As operating systems become more complex, the minimum specifications for new PCs rise to meet them. Recent reports claim that Microsoft is pushing to have 16GB of RAM become the minimum amount of memory for new devices. But why would it make that change, and is this good for you?
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Is RAM?
 
 ![Inside of computer with ram sticks and cpu cooler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/inside-of-computer-with-ram-sticks-and-cpu-cooler.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Pexels](https://www.pexels.com/photo/interior-of-computer-15109653/)
@@ -72,6 +72,13 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
 
 ![The Microsoft Copilot logo](https://thmb.techidaily.com/a9744aafdac80a7e4f169749236f6a9a3444533f48662a5ae5f051ec41bdae27.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Unsplash](https://unsplash.com/photos/blue-and-pink-light-illustration-LeG68PrXA6Y)
 
  You may have noticed an interesting term in TrendForce's quote: "AI PCs." While it may sound insignificant, this is why Microsoft is pushing for more RAM.
@@ -81,10 +88,10 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
  An "AI PC" could be a machine where AI powers the operating system itself. It might also be a flashy marketing term for a regular PC with some simple AI tools pre-installed. Regardless of how AI PCs go, those special processing tools will need more memory to run properly.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### The Potential Set Up for Windows 12
@@ -98,13 +105,6 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
 [Copilot is Microsoft's personal AI assistant](https://www.makeuseof.com/what-is-microsoft-365-copilot/), powered by ChatGPT. Right now, you can find a dedicated Copilot button on Windows 10 and 11, Microsoft Edge, and Office. The company has already released a standalone Copilot app for Android, too.
 
  Windows 12 is currently believed to have a 2025 release date, which gives Microsoft a lot of time to work on implementing artificial intelligence into its operating system. And for people to make the most of Windows 12, Microsoft needs new PCs to have enough RAM to support it; hence the 16GB suggestion.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is Setting 16GB RAM as the New Standard Good News for You?
 
@@ -126,19 +126,22 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-interlinking-platforms-twitch-to-facebook-transfer-for-2024/"><u>[New] Interlinking Platforms Twitch to Facebook Transfer for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-journey-from-gifs-to-stickers-perfect-instructions-for-all-chat-platforms/"><u>[New] Journey From GIFs to Stickers Perfect Instructions for All Chat Platforms</u></a></li>
-<li><a href="https://win-best.techidaily.com/0swfgif-movavi/"><u>0円で簡単なSWFファイルからGIFへの変換: Movavi</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-infinix-smart-8-hd-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Infinix Smart 8 HD | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-absence-of-files-alert-in-windows-11/"><u>Addressing Absence of Files Alert in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/automating-network-drives-on-win11/"><u>Automating Network Drives on Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-the-application-encountered-an-unrecoverable-error-in-roblox-on-windows/"><u>How to Fix the “The Application Encountered an Unrecoverable Error in Roblox on Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/last-call-for-epic-gaming-blowouts-in-october-202-the-best-prime-day-deals-save-big-s-insider-tips/"><u>Last Call for Epic Gaming Blowouts in October 202 The Best Prime Day Deals | Save Big 'S Insider Tips!</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-windows-fixing-exit-code-errors/"><u>Mastering Windows: Fixing Exit Code Errors</u></a></li>
-<li><a href="https://review-topics.techidaily.com/play-hevc-h-265-on-14-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on 14, is it possible?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionary-l-formatted-power-units-by-lian-li-ideal-for-dual-chamber-gaming-rigs/"><u>Revolutionary L-Formatted Power Units by Lian Li Ideal for Dual Chamber Gaming Rigs</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-overcome-audio-glitch-in-win1011/"><u>Strategies to Overcome Audio Glitch in Win10/11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-cyberpunk-2077-wont-utilize-graphics-card-in-windows-10/"><u>Troubleshooting: Cyberpunk 2077 Won't Utilize Graphics Card in Windows 10</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-12-essential-animation-makers-to-elevate-your-video-content/"><u>Updated 12 Essential Animation Makers to Elevate Your Video Content</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-quick-guide-capturing-moments-with-snap-in-real-time-conferencing/"><u>[New] In 2024, Quick Guide Capturing Moments with Snap in Real-Time Conferencing</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-facebook-media-extractor-mp3-focus/"><u>[Updated] 2024 Approved Facebook Media Extractor – MP3 Focus</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-the-step-by-step-guide-to-obs-streaming-success/"><u>[Updated] In 2024, The Step-by-Step Guide to OBS Streaming Success</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-low-cost-android-facetime-alternatives-list-for-2024/"><u>[Updated] Low-Cost Android FaceTime Alternatives List for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-navigate-the-digital-landscape-effective-use-of-screen-sharing-on-skype-at-home/"><u>2024 Approved Navigate the Digital Landscape Effective Use of Screen Sharing on Skype at Home</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-samsung-galaxy-z-flip-5-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Samsung Galaxy Z Flip 5 Through Google Earth?</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-utilize-the-windows-odbc-tools/"><u>How to Utilize the Windows ODBC Tools?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-from-concept-to-reality-an-elaborate-breakdown-of-toolwiz-photosapp-2023-edition/"><u>In 2024, From Concept to Reality An Elaborate Breakdown of Toolwiz PhotosApp, 2023 Edition</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/optimizing-your-multi-monitor-setup-fixing-delay-issues-during-games-on-windows-systems/"><u>Optimizing Your Multi-Monitor Setup: Fixing Delay Issues During Games on Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-java-setup-issues-on-windows-systems/"><u>Resolving Java Setup Issues on Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/securing-administrator-level-powershell-execution-window-in-w11/"><u>Securing Administrator-Level PowerShell Execution Window in W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/smooth-play-ahead-mastering-windows-11s-full-screen-gaming-with-sonic/"><u>Smooth Play Ahead! Mastering Windows 11'S Full Screen Gaming with Sonic</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-stalled-scans-with-win11-and-ccleaner/"><u>Streamlining Stalled Scans with Win11 & CCleaner</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-seasoned-guide-to-windows-pc-ages/"><u>The Seasoned Guide to Windows PC Ages</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-for-resolving-installation-fails-in-discord/"><u>The Ultimate Guide for Resolving Installation Fails in Discord</u></a></li>
+<li><a href="https://windows11.techidaily.com/ultimate-review-of-highest-quality-range-boosters-to-optimize-your-home-network/"><u>Ultimate Review of Highest Quality Range Boosters to Optimize Your Home Network</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-the-gradual-diminishment-of-audio-fidelity-in-adobe-rush-for-2024/"><u>Updated The Gradual Diminishment of Audio Fidelity in Adobe Rush for 2024</u></a></li>
 </ul></div>
 

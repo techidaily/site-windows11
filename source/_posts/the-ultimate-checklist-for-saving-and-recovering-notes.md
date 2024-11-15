@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Checklist for Saving and Recovering Notes
-date: 2024-11-02T05:29:43.639Z
-updated: 2024-11-04T20:25:39.794Z
+date: 2024-11-08T16:17:58.783Z
+updated: 2024-11-15T17:28:32.921Z
 tags:
   - windows10
   - windows11
@@ -45,10 +45,10 @@ thumbnail: https://thmb.techidaily.com/4a1fd1f32e402d9cdb76f6617f2af3bb610c32d54
  To restore the notes on another computer, open the Sticky Notes app (make sure the PC is connected to the internet) and sign in with your Microsoft account. Once signed in, the app will load all the notes you previously synced. Furthermore, every time you finish writing a Sticky Note or edit one, the app will automatically back it up to the cloud.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Manually Back Up and Restore Your Sticky Notes
@@ -63,20 +63,20 @@ thumbnail: https://thmb.techidaily.com/4a1fd1f32e402d9cdb76f6617f2af3bb610c32d54
 3. In the **LocalState** folder, copy the **plum.sqlite** file.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![the plum database for Sticky Notes on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/the-plum-database-for-sticky-notes-on-windows.jpg)
 4. Paste the **plum.sqlite** file to an external drive, such as a flash drive or external SDD, or upload it to cloud storage, such as OneDrive or Google Drive, for safekeeping.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To manually restore your sticky notes on another Windows computer, follow the steps below:
@@ -90,10 +90,10 @@ thumbnail: https://thmb.techidaily.com/4a1fd1f32e402d9cdb76f6617f2af3bb610c32d54
  Now when you open Sticky Notes, it will load the **plum.sqlite** file, and you should see all your notes appear in the app.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Never Lose Your Sticky Notes Again
@@ -112,24 +112,19 @@ thumbnail: https://thmb.techidaily.com/4a1fd1f32e402d9cdb76f6617f2af3bb610c32d54
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-easy-peasy-guide-to-capturing-online-events-for-mac-and-windows-users/"><u>2024 Approved Easy-Peasy Guide to Capturing Online Events For Mac & Windows Users</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-launching-into-the-world-of-web-flipping-videos-from-mac/"><u>2024 Approved Launching Into the World of Web-Flipping Videos From Mac</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-blackwhite-displays-in-windows-store-app/"><u>Addressing Black/White Displays in Windows Store App</u></a></li>
-<li><a href="https://windows11.techidaily.com/bridging-the-gap-top-6-ways-to-solve-network-hardware-issues-in-windows-systems/"><u>Bridging the Gap - Top 6 Ways to Solve Network Hardware Issues in Windows Systems</u></a></li>
-<li><a href="https://facebook.techidaily.com/building-bridges-between-games-and-growth-integrating-social-accounts-on-xbox/"><u>Building Bridges Between Games and Growth: Integrating Social Accounts on Xbox</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypass-chaos-with-these-three-windows-reset-methods/"><u>Bypass Chaos with These Three Windows Reset Methods</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypassing-chrome-block-strategies-for-w11-users/"><u>Bypassing Chrome Block: Strategies for W11 Users</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/calculating-earnings-ad-revenues-in-the-world-of-youtube-in-2024/"><u>Calculating Earnings Ad Revenues in the World of YouTube, In 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/chkdsk-vs-scan-disk-delving-into-dissects-function-in-system-repairing/"><u>Chkdsk Vs. Scan Disk: Delving Into Dissect's Function in System Repairing</u></a></li>
-<li><a href="https://windows11.techidaily.com/clarifying-windows-approach-to-isolated-audiosystems/"><u>Clarifying Windows' Approach to Isolated Audiosystems</u></a></li>
-<li><a href="https://windows11.techidaily.com/curtailing-windows-updates-and-restarts/"><u>Curtailing Windows Updates and Restarts</u></a></li>
-<li><a href="https://windows11.techidaily.com/decades-of-taskbars-windows-journey-19852023/"><u>Decades of Taskbars: Windows' Journey (1985–2023)</u></a></li>
-<li><a href="https://windows11.techidaily.com/dive-into-deeper-game-experience-incorporating-achievements-in-vintage-titles-through-retroarch/"><u>Dive Into Deeper Game Experience: Incorporating Achievements in Vintage Titles Through Retroarch</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/expert-analysis-the-amazing-features-of-the-google-pixelbook-go-despite-its-high-cost/"><u>Expert Analysis: The Amazing Features of the Google Pixelbook Go Despite Its High Cost</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-google-pixel-8-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Google Pixel 8</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-resolve-virtualboxs-0x80004005-failure-in-windows/"><u>How to Resolve VirtualBox's 0X80004005 Failure in Windows</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/how-to-successfully-upload-your-bcpf-document-on-youtube/"><u>How to Successfully Upload Your BCPF Document on YouTube</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-y36i-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo Y36i Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-tecno-spark-go-2023-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Tecno Spark Go (2023) Device</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/eciphering-the-wealth-of-mr-beast-for-2024/"><u>[New] Deciphering the Wealth of Mr. Beast for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-5-innovative-yt-tales-share-your-life-journey/"><u>[Updated] 2024 Approved 5 Innovative YT Tales Share Your Life Journey</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-premier-guidance-leading-ringtone-artisans-iphone-for-2024/"><u>[Updated] Premier Guidance Leading Ringtone Artisans iPhone for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1-step-by-step-guide-integrating-your-id-and-driving-permit-into-apple-wallet-location-specific-instructions/"><u>1. Step-by-Step Guide: Integrating Your ID and Driving Permit Into Apple Wallet - Location-Specific Instructions</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-seamlessly-record-your-screen-while-watching-netflix/"><u>2024 Approved Seamlessly Record Your Screen While Watching Netflix</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-checklist-for-perfectly-crafted-podcast-titles-including-ideas/"><u>2024 Approved The Ultimate Checklist for Perfectly Crafted Podcast Titles, Including Ideas</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-14-features-why-google-sheets-outshines-microsoft-excel/"><u>Essential 14 Features: Why Google Sheets Outshines Microsoft Excel</u></a></li>
+<li><a href="https://windows11.techidaily.com/excel-strategies-decoded-leveraging-pivot-tables-to-compute-percent-change-easily/"><u>Excel Strategies Decoded: Leveraging Pivot Tables to Compute Percent Change Easily</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/from-novice-to-pro-creating-impressive-fb-covers-for-2024/"><u>From Novice to Pro Creating Impressive FB Covers for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-on-isolating-month-and-year-values-from-date-entries-in-ms-excel-efficiently/"><u>Guide on Isolating Month and Year Values From Date Entries in MS Excel Efficiently</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-altering-your-spreadsheets-cell-address-style-in-microsoft-excel/"><u>Guide: Altering Your Spreadsheet's Cell Address Style in Microsoft Excel</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-creating-cross-sheet-references-within-your-microsoft-excel-workbooks/"><u>Guide: Creating Cross-Sheet References Within Your Microsoft Excel Workbooks</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-demonstrating-data-alterations-using-microsoft-excel-on-your-pc/"><u>Guide: Demonstrating Data Alterations Using Microsoft Excel on Your PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-oppo-reno-11-pro-5g-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Oppo Reno 11 Pro 5G FRP Without Computer</u></a></li>
 </ul></div>
 

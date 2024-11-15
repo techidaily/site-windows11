@@ -1,7 +1,7 @@
 ---
 title: Remedy for Color Discrepanenas of Store Interface
-date: 2024-08-22T21:42:13.306Z
-updated: 2024-08-23T21:42:13.306Z
+date: 2024-11-13T17:32:15.230Z
+updated: 2024-11-15T17:32:51.899Z
 tags:
   - windows10
   - windows11
@@ -34,11 +34,25 @@ Open Microsoft Store again and check if it’s now working.
 
  If you're encountering a lot of glitches that go away after a restart, you might be leaving your PC on for too long. Check out these[reasons why you should turn off your PC every night](https://www.makeuseof.com/reasons-why-should-shut-down-computer/) for some inspiration.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Check Your Internet Connection
 
  There might be nothing wrong with Microsoft Store, but you’re simply having an internet connectivity problem. If you’re[dealing with an unstable WiFi connection](https://www.makeuseof.com/tag/fix-slow-unstable-wi-fi-connection/) or downloading a large file, Microsoft Store might display a black or white screen.
 
  If possible, access the store from a different device. If everything works as usual, the problem is limited to your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Run the Microsoft Store Troubleshooter
 
@@ -63,23 +77,6 @@ Open Microsoft Store again and check if it’s now working.
 
  This should open a blank Command Prompt window for several seconds. Once it deletes the cache, Windows will close Command Prompt and launch the Microsoft Store app.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ## 5\. Run the SFC Tool
 
  There’s a chance that Microsoft Store isn’t working as usual due to corrupt or damaged system files. To fix the issue, you should run the Windows System File Checker tool.
@@ -91,11 +88,12 @@ Key features:
 ![Run SFC scan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/sfc-scan-1-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
+
 ## 6\. Check Your System's Set Time and Region
 
  Microsoft Store servers must be synced with your system, so everything works properly. If your computer’s time and region, Microsoft Store will show a black, white, or even blue screen.
@@ -111,13 +109,14 @@ Go through the below steps to change the Windows region:
 ![Change Windows region](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-region-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Also, you can[manually change Windows date and time settings](https://www.makeuseof.com/windows-11-change-date-time/) .
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## 7\. Re-register the Microsoft Store
 
  If you couldn’t get Microsoft Store to work using the above solutions, you should re-register the app through PowerShell. The process is quite easy and fast.
@@ -130,23 +129,17 @@ Go through the below steps to change the Windows region:
 
  If Microsoft Store showing a black or white screen isn’t the only problem you noticed, there might be some deep corruption within your system files. In this case, you could try to[factory reset your Windows PC](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) . This will revert it back to its factory settings, so make sure you back up all essential data.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Get the Microsoft Store Working Again
 
  It can be frustrating when you need to install a new app, but Microsoft Store isn’t working. Instead of looking for the same app on not-so-trustworthy websites, you can use the above solutions to fix Microsoft Store.
 
  But if you can’t find a specific app, there are several websites where you can download apps without compromising your system security.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -155,4 +148,21 @@ Go through the below steps to change the Windows region:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-customizing-your-windows-photos-app-filters-and-music-sync-feature/"><u>[New] In 2024, Customizing Your Window's Photos App Filters & Music Sync Feature</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-key-tools-selecting-best-6-fb-lite-videos/"><u>[New] In 2024, Key Tools Selecting Best 6 FB Lite Videos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/david-vs-goliath-revisited-a-tale-of-innovative-crowdfunding-and-its-unexpected-endgame/"><u>David vs Goliath Revisited: A Tale of Innovative Crowdfunding and Its Unexpected Endgame</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/polished-portraits-how-to-use-iphone-for-crisp-cuts-for-2024/"><u>Polished Portraits How to Use iPhone for Crisp Cuts for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/prtscn-not-for-snip-stop-windows-11s-snipping-tool-by-default/"><u>PrtScn Not for Snip: Stop Windows 11'S Snipping Tool by Default</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-display-issue-with-error-x0001-geforce/"><u>Resolving Display Issue with Error X0001, GeForce</u></a></li>
+<li><a href="https://windows11.techidaily.com/searching-for-ideal-windows-hello-friendly-camera/"><u>Searching for Ideal Windows Hello-Friendly Camera</u></a></li>
+<li><a href="https://fox-search.techidaily.com/tecnicas-efectivas-para-realizar-una-restauracion-desde-un-punto-de-restauracion-en-windows-10-y-11-4-formas-sencillas-que-funcionan/"><u>Técnicas Efectivas Para Realizar Una Restauración Desde Un Punto De Restauración en Windows 10 Y 11 (4 Formas Sencillas Que Funcionan)</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-stopping-self-opening-search-bar-in-win11/"><u>Tips for Stopping Self-Opening Search Bar in Win11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-6-solutions-to-stop-hogwarts-legacy-game-lag/"><u>Top 6 Solutions to Stop Hogwarts Legacy Game Lag !</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-for-unresponsive-win11-media-player/"><u>Troubleshooting for Unresponsive Win11 Media Player</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-not-found-in-windows-os-fixes/"><u>Unraveling 'Not Found' In Windows OS Fixes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/what-is-the-concept-of-wi-fi-calling-and-how-it-works/"><u>What Is the Concept of Wi-Fi Calling and How It Works?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-back-your-elusive-5ghz-connection-with-these-solutions/"><u>Win Back Your Elusive 5GHz Connection with These Solutions</u></a></li>
+</ul></div>
 

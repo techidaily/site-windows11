@@ -1,7 +1,7 @@
 ---
 title: Resolving uTorrent's Non-Downloading Issue in Windows
-date: 2024-11-03T07:43:15.596Z
-updated: 2024-11-05T10:39:24.540Z
+date: 2024-11-08T17:02:06.957Z
+updated: 2024-11-15T17:03:01.319Z
 tags:
   - windows10
   - windows11
@@ -54,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/c74a6f4cbc3131991d1108cc0cd3851c9f4624d9f
 
  Restart your uTorrent client after making each change explained below; otherwise, they may not take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Check for Interference From Your ISP
 
  Does your Internet service provider allow you to download BitTorrent files? Sadly, most ISPs do not. Perhaps that's also the case with you, resulting in the peer's connection being blocked and stopping your download. If you're using an internet connection at school or work, where such downloading is prohibited, you're more likely to experience this.
@@ -68,35 +75,15 @@ thumbnail: https://thmb.techidaily.com/c74a6f4cbc3131991d1108cc0cd3851c9f4624d9f
 
 ![Selecting the Forced in the Outgoing Dropdown Menu in the Protocol Encryption Section of the BitTorrent Tab in the uTorrent Client for Desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/2-Selecting-the-Forced-in-the-Outgoing-Dropdown-Menu-in-the-Protocol-Encryption-Section-of-the-BitTorrent-Tab-in-the-uTorrent-Client-for-Desktop.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Afterward, enable port forwarding or mapping to ensure your network firewall doesn't interfere with the connection. For that, go to the **Connection** tab in the left panel, and tick the **Enable UPnP port mapping** and **Enable NAT-PMP port mapping** boxes.
 
 ![Checking the Boxes for Enable UPnP Port Mapping and Enable NAT-PMP Port Mapping in the Connections Tab of uTorrent Client for Desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/3-Checking-the-Boxes-for-Enable-UPnP-Port-Mapping-and-Enable-NAT-PMP-Port-Mapping--in-the-Connections-Tab-of-uTorrent-Client-for-Desktop.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Rule Out Interference From Your Windows Firewall or Antivirus
@@ -107,6 +94,20 @@ thumbnail: https://thmb.techidaily.com/c74a6f4cbc3131991d1108cc0cd3851c9f4624d9f
 * Disable your antivirus temporarily if you are using one. If you can't do that, you should at least whitelist the uTorrent client through your antivirus settings.
 * Navigate to **Options > Preferences** and select the **Connection** tab in the left panel. On that page, check the box for **Add Windows Firewall exception**.  
 ![Checking the Box for Add Windows Firewall Exception in the Connections Tab of uTorrent Client for Desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/4-Checking-the-Box-for-Add-Windows-Firewall-Exception-in-the-Connections-Tab-of-uTorrent-Client-for-Desktop.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Check the Storage Space Available
 
@@ -124,20 +125,27 @@ thumbnail: https://thmb.techidaily.com/c74a6f4cbc3131991d1108cc0cd3851c9f4624d9f
 ![Clicking on the Update Tracker Option by Right-clicking on the Tracker in the uTorrent Client for Desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/5-Clicking-on-the-Update-Tracker-Option-by-Right-clicking-on-the-Tracker-in-the-uTorrent-Client-for-Desktop.jpg)
 2. If a few trackers remain stuck after updating them, right-click on them and select **Remove Tracker** from the menu.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Clicking on the Delete Tracker Option by Right-clicking the Tracker in uTorrent Client for Desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/6-Clicking-on-the-Delete-Tracker-Option-by-Right-clicking-the-Tracker-in-uTorrent-Client-for-Desktop.jpg)
 3. The next step is to add torrent trackers with high uptime in the uTorrent client. So, find and copy the torrent trackers from any trusted website (such as [FossBytes](https://fossbytes.com/torrent-trackers-list/)). Then, right-click the file stuck on downloading in the uTorrent client and select **Properties**.  
 
 ![Opening Properties of Downloaded File by Right-Clicking on the File in the uTorrent Client for Desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/7-Opening-Properties-of-Downloaded-File-by-Right-Clicking-on-the-File-in-the-uTorrent-Client-for-Desktop.jpg)  
  After that, paste the copied list of torrent trackers at the end of the **Trackers** box in the Properties window.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Adding the List of Torrent Trackers in the Trackers Box in the Properties Window of Downloaded File in uTorrent Client for Desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/8-Adding-the-List-of-Torrent-Trackers-in-the-Trackers-Box-in-the-Properties-Window-of-Downloaded-File-in-uTorrent-Client-for-Desktop.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Try the Network Configuration Test
 
@@ -154,6 +162,13 @@ thumbnail: https://thmb.techidaily.com/c74a6f4cbc3131991d1108cc0cd3851c9f4624d9f
 ![Clicking on the Run Tests Button After Selecting the Test Location in the Dropdown Menu Next to Bandwidth in the Setup Guide Settings of the uTorrent Client for Desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/10-Clicking-on-the-Run-Tests-Button-After-Selecting-the-Test-Location-in-the-Dropdown-Menu-Next-to-Bandwidth-in-the-Setup-Guide-Settings-of-the-uTorrent-Client-for-Desktop.jpg)
 5. Click **Save and Close** once the test has ended.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Remove the Upload Rate Limit
 
  Similar to other torrent clients, uTorrent allows users to limit the upload rate, the rate at which the torrent client shares the downloaded torrent files on your device with other users. While it can help us dedicate most bandwidth to downloading, this can sometimes hinder or even halt the download process. Therefore, removing such a limit may help resolve the issue.
@@ -166,10 +181,10 @@ thumbnail: https://thmb.techidaily.com/c74a6f4cbc3131991d1108cc0cd3851c9f4624d9f
 ![Resetting the Gloal Maximum Upload Rate in uTorrent's Bandwidth Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/resetting-the-gloal-maximum-upload-rate-in-utorrent-s-bandwidth-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Wait for the Seeders or Peers to Go Live
@@ -183,19 +198,6 @@ thumbnail: https://thmb.techidaily.com/c74a6f4cbc3131991d1108cc0cd3851c9f4624d9f
 * Allow the torrent download to run in the background for a few hours so the client can connect to strong seeders and peers once they become available and successfully download files.
 * Choose a torrent file with more seeders and fewer leechers—users who do not share the file but only cause strain on the swarm.
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9\. Clear the Peer List
 
  Downloads would get stuck at connecting to peers if the peers the uTorrent client is attempting to connect to are inactive or sharing files very slowly. Of the many ways to get around this issue, clearing the peer list is the simplest. Clearing the peer list clears the peer cache and gives you a bunch of new and powerful peers to connect to, which could help resolve the issue.
@@ -204,21 +206,7 @@ thumbnail: https://thmb.techidaily.com/c74a6f4cbc3131991d1108cc0cd3851c9f4624d9f
 
 ![Clearing the Peer List for a Torrent in uTorrent](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/clearing-the-peer-list-for-a-torrent-in-utorrent.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Restart the torrent client after that. Hopefully, the torrent client will resume downloading files once strong peers are connected.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## uTorrent Client Still Stuck on Peer Connection? Try Some Alternatives
 
@@ -236,20 +224,21 @@ thumbnail: https://thmb.techidaily.com/c74a6f4cbc3131991d1108cc0cd3851c9f4624d9f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-the-balance-of-serene-visuals/"><u>[Updated] In 2024, The Balance of Serene Visuals</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-owning-your-sound-instagrams-ip-framework/"><u>[Updated] Owning Your Sound Instagram's IP Framework</u></a></li>
-<li><a href="https://windows11.techidaily.com/assessment-of-differences-onsite-vs-cloud-based-windows-downloads/"><u>Assessment of Differences: Onsite vs Cloud-Based Windows Downloads</u></a></li>
-<li><a href="https://windows11.techidaily.com/fine-tuning-windows-11-taskbar-date-and-time-display/"><u>Fine-Tuning Windows 11 Taskbar Date and Time Display</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-y27-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Y27 5G</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-on-iphone-12-mini-by-drfone-ios/"><u>How To Remove the Two Factor Authentication On iPhone 12 mini</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-10-free-online-video-loopers-to-loop-video/"><u>In 2024, Best 10 Free Online Video Loopers to Loop Video</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-fixes-for-windows-1011-photography-problems/"><u>Mastering Fixes for Windows 10/11 Photography Problems</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-w11-printer-error-fixes-related-to-ad-ds/"><u>Mastering W11 Printer Error Fixes Related to AD DS</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-through-windows-onedrive-error-0x80070194/"><u>Navigating Through Windows' OneDrive Error 0X80070194</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-lava-yuva-3-pro-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Lava Yuva 3 Pro Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-to-update-windows-spotlight-imagery/"><u>Step-by-Step to Update Windows Spotlight Imagery</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-ultimate-video-upgrade-with-enhancer-22-for-2024/"><u>The Ultimate Video Upgrade with Enhancer 2.2 for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/triumph-over-microsoft-teams-stumbling-block-80080300-on-w11/"><u>Triumph over Microsoft Teams' Stumbling Block #80080300 on W11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unraveling-computer-secrets-with-toms-hardware-experts/"><u>Unraveling Computer Secrets with Tom's Hardware Experts</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-latest-pulse-of-facebooks-evolution-for-2024/"><u>[Updated] Latest Pulse of Facebook's Evolution for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-streamline-your-watching-with-edge-free-youtube-content/"><u>[Updated] Streamline Your Watching with Edge-Free YouTube Content</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/effizientes-syncing-mit-dropbox-die-top-2-methoden-zum-verbinden-von-ordnern-mit-einem-netzlaufwerk/"><u>Effizientes Syncing Mit Dropbox: Die Top 2 Methoden Zum Verbinden Von Ordnern Mit Einem Netzlaufwerk</u></a></li>
+<li><a href="https://win-dash.techidaily.com/enhance-your-gaming-experience-with-the-newest-nvidia-drivers-for-windows-systems/"><u>Enhance Your Gaming Experience with the Newest NVIDIA Drivers for Windows Systems</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-zte-nubia-flip-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on ZTE Nubia Flip 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-over-sticky-notifications-maximizing-win-11-potential/"><u>Mastery over Sticky Notifications: Maximizing Win 11 Potential</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/movavis-enhanced-toolset-examining-plus-edition-2024/"><u>Movavi's Enhanced Toolset Examining Plus Edition 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-to-remedying-post-windows-update-glitches/"><u>Quick Guide to Remedying Post-Windows Update Glitches</u></a></li>
+<li><a href="https://windows11.techidaily.com/speed-up-redoing-tasks-on-windows-with-key-combinations/"><u>Speed Up Redoing Tasks on Windows with Key Combinations</u></a></li>
+<li><a href="https://windows11.techidaily.com/speeding-up-sluggish-excel-troubleshooting-steps-for-windows-users/"><u>Speeding Up Sluggish Excel: Troubleshooting Steps for Windows Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-list-best-photovideo-maker-pairs-with-music/"><u>The Ultimate List Best Photo/Video Maker Pairs with Music</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-epic-games-sign-in-problems-on-pc/"><u>Troubleshooting Epic Games Sign-In Problems on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-resolving-robloxs-error-code-277-on-your-pc/"><u>Ultimate Guide to Resolving Roblox's Error Code 277 on Your PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-off-screen-app-functionality-win-1011s-best-recovery-approaches-6-key-techniques/"><u>Unlock Off-Screen App Functionality: Win 10/11'S Best Recovery Approaches (6 Key Techniques)</u></a></li>
+<li><a href="https://windows11.techidaily.com/validating-or-rejecting-window-login-attempts-with-precision/"><u>Validating or Rejecting Window Login Attempts with Precision</u></a></li>
 </ul></div>
 

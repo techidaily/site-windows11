@@ -1,7 +1,7 @@
 ---
 title: Navigating Speaker or Headphones Non-Detection Errors on PC
-date: 2024-08-22T21:41:29.603Z
-updated: 2024-08-23T21:41:29.603Z
+date: 2024-11-12T17:12:48.270Z
+updated: 2024-11-15T16:35:33.791Z
 tags:
   - windows10
   - windows11
@@ -40,6 +40,13 @@ To run the troubleshooter:
 
  If the troubleshooter left a good impression on you, check out our[guide to every troubleshooter on Windows 11](https://www.makeuseof.com/windows-11-troubleshooters/) for more of them.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Perform an Audio Device Driver Rollback
 
  If a Windows or driver update has messed up your audio device, you can perform a driver rollback to reinstall the last known good driver. You can use the Device Manager to[roll back a driver in Windows](https://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) .
@@ -47,8 +54,12 @@ To run the troubleshooter:
  To roll back an audio device driver, follow our guide on[how to roll back a driver in Windows](https://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) . You'll likely find your audio drivers in the**Sound, video, and game controllers** section of Device Manager.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Add Network Service and Local Services to the Local Administrator Group
 
  Another way to fix this error is to add**Network service** and**Local Services** to the Local Administrator Group. Network Service and Local Service are predefined accounts part of the service control manager. Adding these accounts to the Local Administrator Group should help you fix the sound problem on your Windows PC.
@@ -64,9 +75,14 @@ To run the troubleshooter:
 4. In the right pane, double-click on**Groups** to view all the local accounts.  
 ![local users and groups administrator properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/local-users-and-groups-administrator-properties.jpg)
 5. Select and right-click on the**Administrators** account and select**Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![administrator properties local users and groups](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/administrator-properties-local-users-and-groups.jpg)
 
 1. Click the**Add** button in the**Administrator Properties** dialog.
@@ -74,9 +90,6 @@ To run the troubleshooter:
 3. Next, type**network service** and click**Check Names** . It should change the object name to**NETWORK SERVICE.**  
 ![add network service local administrator group](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-network-service-local-administrator-group.jpg)
 4. Click**OK** to add network service to the local user group.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 5. In the**Administrator Properties** dialog, you'll see**NT Authority\\Network Service added as the member.**
 6. Click the**Add** button again and repeat the steps to add**Local Services** to the group as well.
 7. Once done, click**Apply** and**OK** to save the changes.
@@ -86,8 +99,18 @@ To run the troubleshooter:
 ![add network service local administrator group command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-network-service-local-administrator-group-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 1. Press the**Win** key and type**cmd** .
 2. Right-click on**Command Prompt** and select**Run as administrator.**
 3. In the Command Prompt window, type the following to add "local service" to the Local Group Administrator:  
@@ -98,8 +121,12 @@ To run the troubleshooter:
 6. Restart your PC and check if the error is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. Uninstall the Audio Device and Driver
 
  Temporary glitches with the audio device driver can cause this error on Windows. To fix the issue, uninstall the audio device and the associated driver from Device Manager. After the restart, Windows will automatically reinstall the driver to resolve the issue.
@@ -118,9 +145,6 @@ To uninstall an audio device:
 
  If the issue persists, manually reinstall the audio device driver from the manufacturer.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Manually Reinstall the Audio Device Driver
 
  If the automatic reinstall doesn't work, check if your computer manufacturer or the audio device OEM has a stable driver version available. On a laptop, visit your computer manufacturer's website and download the latest audio drivers. On a desktop, you can download the latest drivers for your sound card from the manufacturer's website.
@@ -142,14 +166,11 @@ To uninstall an audio device:
 
  The error often occurs due to a bad driver update. To fix it, you can perform a rollback or manually reinstall the audio device driver. In addition, try to update the audio device driver from the manufacturer's website.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -158,4 +179,24 @@ To uninstall an audio device:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-the-ultimate-guide-to-mp4-devices/"><u>[New] In 2024, The Ultimate Guide to MP4 Devices</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-visual-archive-top-hd-video-recorders-unveiled/"><u>[New] In 2024, The Visual Archive Top HD Video Recorders Unveiled</u></a></li>
+<li><a href="https://common-error.techidaily.com/efficient-use-of-wmi-in-windows-11-for-better-performance/"><u>Efficient Use of WMI in Windows 11 for Better Performance</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/expert-selections-of-innovative-vtuber-sound-tools/"><u>Expert Selections of Innovative Vtuber Sound Tools</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-motorola-g54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/getting-to-know-you-your-pc-unveiling-the-brand-and-model/"><u>Getting to Know You (Your PC): Unveiling the Brand and Model</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-carry-out-a-thorough-sfc-scan-in-windows/"><u>How to Carry Out a Thorough SFC Scan in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-reroute-malwarebytes-database-access-post-error/"><u>How to Reroute Malwarebytes' Database Access Post Error</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-poco-c51-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Poco C51</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximizing-efficiency-with-customized-troubleshooters-shortcuts/"><u>Maximizing Efficiency with Customized Troubleshooters Shortcuts</u></a></li>
+<li><a href="https://windows11.techidaily.com/personalized-scheduling-in-outlook-for-windows-enthusiasts/"><u>Personalized Scheduling in Outlook for Windows Enthusiasts</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-the-attempted-switch-from-dpc-error-on-your-pc/"><u>Resolving the 'Attempted Switch From DPC' Error on Your PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solution-found-fixing-cyberpunk-2077s-persistent-chilling-glitches/"><u>Solution Found: Fixing Cyberpunk 2077'S Persistent Chilling Glitches</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackle-clipchamps-windows-11-setup-obstacles-with-precision/"><u>Tackle ClipChamp's Windows 11 Setup Obstacles with Precision</u></a></li>
+<li><a href="https://windows11.techidaily.com/what-does-microsoft-copilot-offer-programmers/"><u>What Does Microsoft Copilot Offer Programmers?</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-10-steps-to-rectify-defective-usb-hardware/"><u>Windows 10: Steps to Rectify Defective USB Hardware</u></a></li>
+</ul></div>
 

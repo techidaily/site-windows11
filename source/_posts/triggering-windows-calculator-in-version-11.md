@@ -1,7 +1,7 @@
 ---
 title: Triggering Windows Calculator in Version 11
-date: 2024-08-27T16:03:25.228Z
-updated: 2024-08-28T16:03:25.228Z
+date: 2024-11-09T16:25:08.483Z
+updated: 2024-11-15T16:17:53.082Z
 tags:
   - windows10
   - windows11
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/c8cc0b50d6a862024b28911d2e2409173d05c3a9f
 
  After opening the Calculator, you can begin using it to perform basic math operations. If you need more advanced features, such as scientific or programmer modes, click the navigation button in the top left corner and select the desired mode.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. How to Open Calculator Via Run Command
 
  Run is a Windows accessory that lets you open built-in programs quickly by typing commands into the Run command box. In order to start the Calculator, you can use the Run command as follows:
@@ -36,11 +43,22 @@ thumbnail: https://thmb.techidaily.com/c8cc0b50d6a862024b28911d2e2409173d05c3a9f
 2. Type "calc" into the Run dialog box and press Enter.  
 ![Open Calculator Using Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-calculator-using-run-command.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This will bring up the Calculator so you can get started with your calculations.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. How to Open Calculator From File Explorer
 
  Did you know you can open Calculator directly from the File Explorer? It's a handy way to bring up the app if you're knee-deep in your file system.
@@ -48,9 +66,6 @@ thumbnail: https://thmb.techidaily.com/c8cc0b50d6a862024b28911d2e2409173d05c3a9f
 1. Open Windows File Explorer (see[how to open the Windows File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) ).
 2. In the address bar, type "calc" and press**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. How to Open Calculator Using Command Prompt
 
  Command Prompt is an important tool to have when working with computers. It allows users to access the inner workings of their device, making it easier to troubleshoot problems, automate processes and even run applications and programs.
@@ -62,8 +77,12 @@ thumbnail: https://thmb.techidaily.com/c8cc0b50d6a862024b28911d2e2409173d05c3a9f
 ![Open Calculator Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-calculator-using-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 This will launch your Calculator application.
 
 ## 5\. How to Open Calculator Using Windows PowerShell
@@ -81,8 +100,12 @@ To open Calculator using Windows PowerShell, follow these steps:
 4. This command will cause the Calculator application to open quickly.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6\. How to Open Calculator Through Task Manager
 
  Task Manager has been a part of the Windows operating system since its inception. It manages the performance of your computer as well as opens different applications.
@@ -94,9 +117,6 @@ To open the Calculator application on Windows 11, use these steps:
 ![Open Calculator Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-calculator-using-task-manager.jpg)
 3. Type “calc” into the text box and click**OK** to open the Calculator.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. How to Open Calculator From Start Menu
 
  The Start Menu makes it easy for users to open popular programs like Calculator without having to go to any other location. Here is how you can get access to it.
@@ -105,8 +125,12 @@ To open the Calculator application on Windows 11, use these steps:
 2. From there, tap**All apps** and scroll to**Calculator** .  
 ![Open Calculator Using Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-calculator-using-start-menu.jpg)
 3. Once you find it, click on it and a pop-up window will appear with all its features.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 You are now ready to start performing calculations!
@@ -121,9 +145,6 @@ You are now ready to start performing calculations!
 2. In the "Create Shortcut" window, type "**C:\\WINDOWS\\system32\\calc.exe** ".  
 ![Open Calculator Using Desktop Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-calculator-using-desktop-shortcut.jpg)
 3. Click**Next** , and then give your shortcut a name, such as Calculator.
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 4. To complete the process, click**Finish** .
 5. You will see a shortcut icon appear on the desktop of your computer.
 6. Double-click it to open the Calculator application.
@@ -157,14 +178,11 @@ To do this, follow these steps:
 
  The Calculator app is one of the most common tools used on computers running Windows, and it is indispensable for many different tasks. If you need help opening this tool, try one of the many methods covered here and get calculating quicker.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -173,4 +191,22 @@ To do this, follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-best-photo-background-blur-apps-for-iphone-and-android/"><u>[New] Best Photo Background Blur Apps for iPhone and Android</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-expert-advice-incorfluttering-web-pages-into-ig-stories-and-posts/"><u>[New] Expert Advice Incorfluttering Web Pages Into IG Stories & Posts</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-simplified-screen-capture-methods-for-stories-for-2024/"><u>[New] Simplified Screen Capture Methods for Stories for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-pinnacle-top-5-ultra-light-action-camera-list/"><u>[Updated] 2024 Approved Pinnacle Top 5 Ultra-Light Action Camera List</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-guide-to-seamless-inshot-video-segments/"><u>2024 Approved A Guide to Seamless Inshot Video Segments</u></a></li>
+<li><a href="https://windows11.techidaily.com/achieving-perfect-boot-strategies-to-configure-startup-services-in-win11/"><u>Achieving Perfect Boot: Strategies to Configure Startup Services in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/adjusting-time-display-in-the-taskbar-of-window-11/"><u>Adjusting Time Display in the Taskbar of Window 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/banish-file-explorer-errors-essential-fixes-for-win11-users/"><u>Banish File Explorer Errors: Essential Fixes for Win11 Users</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/best-9-virtual-mic-recorders-to-enhance-remote-sessions-23-for-2024/"><u>Best 9 Virtual Mic Recorders to Enhance Remote Sessions ('23) for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/cutting-edge-tweaks-for-your-pc-explore-alomwares-capabilities/"><u>Cutting-Edge Tweaks for Your PC: Explore AlomWare's Capabilities</u></a></li>
+<li><a href="https://windows11.techidaily.com/dealing-with-access-issues-fixing-the-no-write-allowed-error/"><u>Dealing with Access Issues: Fixing the No Write Allowed Error</u></a></li>
+<li><a href="https://windows11.techidaily.com/diagnosing-and-fixing-printmanagement-error-on-windows-os/"><u>Diagnosing and Fixing 'PrintManagement' Error on Windows OS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-through-a-step-by-step-fix-for-d3dx928dll-not-found-issues/"><u>Navigating Through: A Step-by-Step Fix for d3dx9_28.dll Not Found Issues</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-xiaomi-redmi-note-13-proplus-5g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Xiaomi Redmi Note 13 Pro+ 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://win11.techidaily.com/1719358387590-troubleshoot-frozen-shift-key-on-pc/"><u>Troubleshoot Frozen Shift Key on PC.</u></a></li>
+</ul></div>
 

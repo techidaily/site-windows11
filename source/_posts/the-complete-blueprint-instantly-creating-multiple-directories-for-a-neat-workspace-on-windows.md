@@ -1,7 +1,7 @@
 ---
 title: "The Complete Blueprint: Instantly Creating Multiple Directories for a Neat Workspace on Windows"
-date: 2024-11-03T05:34:54.947Z
-updated: 2024-11-05T02:23:01.686Z
+date: 2024-11-12T17:04:14.012Z
+updated: 2024-11-15T16:39:37.977Z
 tags:
   - windows10
   - windows11
@@ -68,10 +68,16 @@ thumbnail: https://thmb.techidaily.com/7e377b50c4e513bd18b3a4caf17d4fa401f54e28d
  Finally, close the Powershell window and check if the folders have been created.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Use the Notepad to Create Multiple Folders at Once
@@ -90,30 +96,37 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
 ![Notepad command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win11-notepad-command.jpg)
 4. After you have typed down the names of all the folders and subfolders that you want to create, navigate to **File** in the top-left corner and choose **Save as**.  
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Save as option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/notepad-save-as.jpg)
 5. Give your file a name followed by **.bat**. For instance, we named our file as makeuseof.bat.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Notepad file name](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/notepad-file-name.jpg)
 6. Expand the dropdown for Save as type and choose **All files**.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Click **OK** and close the Notepad.
 8. Now, navigate to the location of the folder and open the bat file. Opening it should create the folders and their subfolders for you.
 
  Now that you have created multiple files and folders, [organizing these files on Windows](https://www.makeuseof.com/tag/automatically-organize-files-windows/) is also worth considering if you do not want to spend a lot of time looking for information in them. Additionally, Windows also allows you to [rename multiple folders at once](https://www.makeuseof.com/cool-folder-tips-windows/), which can be helpful when organizing them.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Use a Third-Party Application
 
@@ -134,13 +147,6 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
 3. Click **Yes** in the confirmation prompt.  
 ![Clicking Yes in the UAC prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/folder-frenzy-agreement.jpg)
 4. Once the Folder Frenzy dialog launches, type the names of the folders you want to create and click on the **Create Folder** button. These folders will be created in the Folder Frenzy file.  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Create folder in Folder Frenzy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/folder-frenzy-create-folder.jpg)
 
@@ -164,19 +170,14 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-hilarious-youtube-moments-top-10-quirky-short-film-concepts/"><u>[New] 2024 Approved Hilarious YouTube Moments Top 10 Quirky Short Film Concepts</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-prime-panzoid-layout-libraries-for-2024/"><u>[New] Prime Panzoid Layout Libraries for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-step-by-step-guide-to-fix-windows-non-functional-start/"><u>A Step-by-Step Guide to Fix Window's Non-Functional Start</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-complete-guidebook-to-evaluating-your-videos-impact-and-earning-power/"><u>In 2024, Complete Guidebook to Evaluating Your Video's Impact and Earning Power</u></a></li>
-<li><a href="https://windows11.techidaily.com/polishing-old-videos-windows-madvr-techniques-unveiled/"><u>Polishing Old Videos: Windows MadVR Techniques Unveiled</u></a></li>
-<li><a href="https://extra-support.techidaily.com/pro-tips-acquiring-clip-art-without-cost-for-2024/"><u>Pro Tips Acquiring Clip-Art Without Cost for 2024</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/schutz-ihres-iphone-14-lose-abhangigkeit-von-itunes-und-icloud/"><u>Schutz Ihres iPhone 14: Lose Abhängigkeit Von iTunes Und iCloud!</u></a></li>
-<li><a href="https://windows11.techidaily.com/securing-standard-account-access-a-windows-guide/"><u>Securing Standard Account Access: A Windows Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-activate-and-deactivate-window-icons-successfully/"><u>Steps to Activate and Deactivate Window Icons Successfully</u></a></li>
-<li><a href="https://windows11.techidaily.com/tailored-commands-for-keyboard-in-winos/"><u>Tailored Commands for Keyboard in WinOS</u></a></li>
-<li><a href="https://windows11.techidaily.com/tailored-nvidia-driver-recommendations-entertainment-sector/"><u>Tailored Nvidia Driver Recommendations: Entertainment Sector</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/top-rated-exercise-monitors/"><u>Top Rated Exercise Monitors</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-ps5-audio-gear-ultimate-list-for-23/"><u>Top-Rated PS5 Audio Gear: Ultimate List for 2^3!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unlocking-time-lapse-potential-on-samsung-screens/"><u>Unlocking Time-Lapse Potential on Samsung Screens</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevating-brand-awareness-with-tailored-engaging-youtube-banners/"><u>[New] 2024 Approved Elevating Brand Awareness with Tailored, Engaging YouTube Banners</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-exploring-ios-screenshot-apps-deeply-for-2024/"><u>[Updated] Exploring iOS Screenshot Apps Deeply for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-virtualbox-usb-connectivity-glitches-and-errors/"><u>Navigating Through VirtualBox USB Connectivity Glitches & Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-file-limit-anomaly-in-windows/"><u>Overcoming File Limit Anomaly in Windows</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/perfectpic-pro-high-quality-windowsmac-images/"><u>PerfectPic Pro High-Quality Windows/Mac Images</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-windows-troubleshooting-with-8-tips/"><u>Streamlining Windows Troubleshooting with 8 Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailor-filenames-in-bulk-using-windows-powertools/"><u>Tailor Filenames in Bulk Using Windows PowerTools</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/g-off-in-tutorials-the-beginners-guide-to-fashionable-mac-footage-for-2024/"><u>Taking Off in Tutorials The Beginner’s Guide to Fashionable Mac Footage for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-device-discovery-razer-and-windows-11-compatibility/"><u>Unlocking Device Discovery: Razer and Windows 11 Compatibility</u></a></li>
 </ul></div>
 

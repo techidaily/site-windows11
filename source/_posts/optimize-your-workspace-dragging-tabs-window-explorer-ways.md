@@ -1,7 +1,7 @@
 ---
 title: "Optimize Your Workspace: Dragging Tabs, Window Explorer Ways"
-date: 2024-11-03T18:19:03.173Z
-updated: 2024-11-05T00:15:25.113Z
+date: 2024-11-12T17:27:59.350Z
+updated: 2024-11-15T16:28:05.721Z
 tags:
   - windows10
   - windows11
@@ -36,16 +36,10 @@ thumbnail: https://thmb.techidaily.com/98a99e3eeb7551ca233212f1d8efc0e3f75521fee
  Thankfully, the latest Insider build 25290 has a hidden feature that makes it possible to drag out tabs.
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Enable the Drag-Out Feature in File Explorer
@@ -53,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/98a99e3eeb7551ca233212f1d8efc0e3f75521fee
  This feature is exclusive to Windows 11 Insider builds and is in the testing phase. So, you will have to download and install the build version 25290 and then use the ViveTool to enable the feature.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Update to the Latest Insider Build
@@ -64,19 +58,6 @@ thumbnail: https://thmb.techidaily.com/98a99e3eeb7551ca233212f1d8efc0e3f75521fee
  To update to the latest insider build, head over to the Settings page and[check for Windows updates](https://www.makeuseof.com/tag/update-windows-software-guide/) . After that, install the latest 25920 build or newer on your system. You will have to restart your system for the changes to take effect.
 
  If you haven’t enrolled in the Windows Insider program and still want to try out this new feature, take the help of UUP Dump. You can easily[download the latest Windows Insider builds using UUP Dump](https://www.makeuseof.com/windows-11-download-insider-iso-without-insider-program/) . Install the build and then proceed to the next step.
-
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Enable the Feature Using ViveTool
 
@@ -90,16 +71,23 @@ thumbnail: https://thmb.techidaily.com/98a99e3eeb7551ca233212f1d8efc0e3f75521fee
 ![Enabling Tabs Dragging Feature In File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enabling-tabs-dragging-feature-in-file-explorer.jpg)
 6. **Exit** the command prompt window after the ViveTool command executes successfully.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Restart your system to apply the changes.
 8. Log into Windows and press**Win + E** to launch File Explorer. Now, open two tabs and click and hold on any of the open tabs.  
 ![Tabs Dragging Feature in Action in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/tabs-dragging-feature-in-action-in-file-explorer.jpg)
 9. Try to drag the tabs out of File Explorer. It will open in a second window. You can stack them on each side if you like.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can You Restore the Tab to the File Explorer Window?
@@ -127,16 +115,24 @@ thumbnail: https://thmb.techidaily.com/98a99e3eeb7551ca233212f1d8efc0e3f75521fee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-best-in-class-streaming-capture-software-for-youtubers/"><u>[New] 2024 Approved Best-in-Class Streaming Capture Software For YouTubers</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-platform-power-playout-which-streams-better-obs-or-twitch-studio/"><u>[Updated] 2024 Approved Platform Power Playout Which Streams Better - OBS or Twitch Studio?</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-the-leading-edge-of-virtual-reality-technology-2023-edition/"><u>[Updated] 2024 Approved The Leading Edge of Virtual Reality Technology - 2023 Edition</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-top-12-screen-recorder-no-time-limits/"><u>2024 Approved Top 12 Screen Recorder No Time Limits</u></a></li>
-<li><a href="https://windows11.techidaily.com/best-android-apps-for-windows-computer-enthusiasts/"><u>Best Android Apps for Windows Computer Enthusiasts</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-mac-graphics-revolution-top-10-freeware-drawings/"><u>In 2024, Mac Graphics Revolution Top 10 Freeware Drawings</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-poco-c55-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Poco C55</u></a></li>
-<li><a href="https://windows11.techidaily.com/integrating-image-browsing-into-file-explorer/"><u>Integrating Image Browsing Into File Explorer</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-for-restoring-bluetooth-visibility-win/"><u>Steps for Restoring Bluetooth Visibility WIN</u></a></li>
-<li><a href="https://windows11.techidaily.com/unwinding-windows-11s-0x8004def5-onedrive-snags/"><u>Unwinding Windows 11'S 0X8004DEF5 Onedrive Snags</u></a></li>
-<li><a href="https://windows11.techidaily.com/winning-at-win-11-games-easy-steps-for-enhancing-fun-and-performance/"><u>Winning at Win 11 Games: Easy Steps for Enhancing Fun and Performance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-deep-dive-into-linus-tech-tips-security-breach-understanding-chatgpt-issues-and-the-checkmark-alert-on-twitter/"><u>A Deep Dive Into Linus Tech Tips' Security Breach, Understanding ChatGPT Issues and the Checkmark Alert on Twitter</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ace-academics-and-save-big-how-to-nail-a-student-discount-on-tidal/"><u>Ace Academics & Save Big: How To Nail A Student Discount on Tidal</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/distinguishing-features-of-commercial-chatgpt/"><u>Distinguishing Features of Commercial ChatGPT</u></a></li>
+<li><a href="https://solve-news.techidaily.com/ensuring-data-protection-as-an-sco-meet-milos-savic-of-abbyy/"><u>Ensuring Data Protection as an SCO - Meet Miloš Savić of ABBYY</u></a></li>
+<li><a href="https://windows11.techidaily.com/explore-and-set-up-your-windows-11-home/"><u>Explore and Set Up Your Windows 11 Home</u></a></li>
+<li><a href="https://win-guides.techidaily.com/guide-facile-creer-un-itineraire-rapide-depuis-une-base-de-donnees-collective-mise-en-place-anterieurement/"><u>Guide Facile : Créer Un Itinéraire Rapide Depuis Une Base De Données Collective Mise en Place Antérieurement</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-remedy-missing-router-control-center/"><u>How to Remedy Missing Router Control Center</u></a></li>
+<li><a href="https://windows11.techidaily.com/ignore-non-essential-feedback-alerts-suggestions-on-windows/"><u>Ignore Non-Essential Feedback Alerts, Suggestions on Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-enjoy-anytime-anywhere-with-our-12-channel-stream/"><u>In 2024, Enjoy Anytime, Anywhere with Our 12 Channel Stream</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-samsung-galaxy-f34-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Samsung Galaxy F34 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-11-webcam-fixes-error-a00f4289/"><u>Mastering Windows 11 Webcam Fixes - Error A00F4289</u></a></li>
+<li><a href="https://windows11.techidaily.com/nine-steps-to-overcome-0x8004def5-onedrive-error-in-win11/"><u>Nine Steps to Overcome 0X8004Def5 Onedrive Error in Win11</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/proven-steps-to-distance-friendly-podcasting-excellence-for-2024/"><u>Proven Steps to Distance-Friendly Podcasting Excellence for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/reduce-cpu-peaks-with-the-help-of-windows-rm-insights/"><u>Reduce CPU Peaks with the Help of Windows RM Insights</u></a></li>
+<li><a href="https://windows11.techidaily.com/shielding-windows-key-tactics-for-uac-protection/"><u>Shielding Windows: Key Tactics for UAC Protection</u></a></li>
+<li><a href="https://windows11.techidaily.com/steering-clear-of-xboxs-dead-end-road-error-on-modern-os/"><u>Steering Clear of Xbox's Dead-End Road Error on Modern OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-correctly-handle-windows-update-failure-error-0x80070003/"><u>Strategies to Correctly Handle Windows Update Failure (Error 0X80070003)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/vob-3gp-movavi/"><u>VOBファイルから自由にダウンロード: 3GP形式への簡単変換 - Movavi</u></a></li>
 </ul></div>
 

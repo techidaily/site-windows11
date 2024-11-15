@@ -1,7 +1,7 @@
 ---
 title: What's Behind Windows 11'S Improved Backup System?
-date: 2024-08-22T21:43:00.269Z
-updated: 2024-08-23T21:43:00.269Z
+date: 2024-11-14T17:10:48.708Z
+updated: 2024-11-15T16:43:36.945Z
 tags:
   - windows10
   - windows11
@@ -43,9 +43,30 @@ thumbnail: https://thmb.techidaily.com/0656fd665c6180b1a80265c93dba7068c3a0cbd85
 3. Click on the **arrow** icon next to the Folders option. Enable the **toggles** of all the folders that you want to select for backup.  
 ![Configuring Windows Backup app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/configuring-windows-backup-app.jpg)
 4. After that, you can pick the types of settings, credentials, and apps to back up using the rest of the options listed in the app.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Lastly, click on the **Backup** button to start the process. It will take a while to upload all the files and settings.  
 ![Windows Backup in progress](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-backup-in-progress.jpg)
 6. Click on the **Close** button to terminate the app.
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The backup part is complete now. Whenever you reset your PC or install Windows on a new PC, you can import this backup in one go. The setup page will ask you to sign in to your account while installing Windows 11\.
 
@@ -53,11 +74,15 @@ thumbnail: https://thmb.techidaily.com/0656fd665c6180b1a80265c93dba7068c3a0cbd85
 
 ![Install Old Apps Using Microsoft Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-old-apps-using-microsoft-account.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You will see all the pinned app icons in the Start menu, and Taskbar, and can click on the icon to restore the app. Windows will direct you to the official website to download and install the apps that aren’t available on the Microsoft Store. You can even restore all the Store apps by launching the Microsoft Store app and selecting the Restore All option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ## The Windows Backup App vs. Legacy Backup Options
 
  The Windows Backup app relies on cloud storage to store all your data. It makes it more convenient to access files via OneDrive and restore all your personal settings and apps.
@@ -69,15 +94,17 @@ thumbnail: https://thmb.techidaily.com/0656fd665c6180b1a80265c93dba7068c3a0cbd85
  But you may have to upgrade to the paid tier of OneDrive if your personal files take up too much space. Another caveat is that is super easy to restore the Microsoft Store apps but all the third-party software will still be missing from the picture. After restoring the data, you will have to install all these apps manually.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Your Windows Backup Made Easy
 
  You can use the Windows Backup app or hop into the Settings app and configure the backup settings from there. Transitioning to a new PC is significantly easy with the cloud backup and Microsoft Account linking approach. However, you will need to upgrade storage (in some cases) and reinstall third-party software manually.
 
  Instead of manually copying every file or creating a gigantic system image, you can manage backups of most of the personal data of your Windows PC within a single app. Wondering how the app works and what data it can back up? Let's find out.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -85,3 +112,21 @@ thumbnail: https://thmb.techidaily.com/0656fd665c6180b1a80265c93dba7068c3a0cbd85
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-breakdown-of-leading-free-video-conferencing-services-for-commercial-and-academic-use-for-2024/"><u>[New] Breakdown of Leading Free Video Conferencing Services for Commercial and Academic Use for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-rhythmic-beak-boogie/"><u>[Updated] In 2024, Rhythmic Beak Boogie</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-make-quick-cash-on-reddit-with-these-no-experience-techniques/"><u>[Updated] Make Quick Cash on Reddit with These No Experience Techniques</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-the-heart-of-vimeo-celebrating-independent-cinema-for-2024/"><u>[Updated] The Heart of Vimeo Celebrating Independent Cinema for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-windows-11-ignore-or-prevent-expiry-errors/"><u>Fixing Windows 11: Ignore or Prevent 'Expiry' Errors?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/identifying-songs-on-youtube-a-comprehensive-guide/"><u>Identifying Songs on YouTube: A Comprehensive Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/interactive-insights-microsofts-innovative-ai-hub/"><u>Interactive Insights: Microsoft's Innovative AI Hub</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/preserve-ios-photos-and-declutter-icloud-easy-deletion-techniques/"><u>Preserve iOS Photos & Declutter iCloud - Easy Deletion Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/unblock-onedrive-windows-methods-to-reclaim-file-storage/"><u>Unblock OneDrive: Windows Methods to Reclaim File Storage</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-poco-x6-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Poco X6 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-adjusting-your-personalized-fn-keys/"><u>Windows 11: Adjusting Your Personalized FN Keys</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-paper-management-reboot-steps/"><u>Windows Paper Management Reboot Steps</u></a></li>
+</ul></div>
+

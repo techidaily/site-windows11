@@ -1,7 +1,7 @@
 ---
 title: Mastery of Remedying World of Warcraft’s Error Code 132
-date: 2024-11-01T23:02:25.704Z
-updated: 2024-11-04T23:20:41.830Z
+date: 2024-11-10T16:45:07.379Z
+updated: 2024-11-15T16:46:17.367Z
 tags:
   - windows10
   - windows11
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/f44a3055113623243d984e90c974cbd9f7a475110
 
  The Windows 11 Settings app doesn’t include that option. However, you can access the same option within the Game Bar app. Press the **Windows** key + **G** and select **Settings** \> **Capturing** in the Game Bar. Then deselect the **Record in the background while I’m playing a game** checkbox.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Rename World of Warcraft’s Cache, WTF, and Interface Folders
 
  Renaming World of Warcraft’s **Cache**, **Interface**, and **WTF** folders will reset the game’s UI. This troubleshooting method can fix a variety of WoW issues and could also fix error 132\. This is how you can rename World of Warcraft’s **Cache**, **Interface**, and **WTF** folders:
@@ -56,15 +49,15 @@ thumbnail: https://thmb.techidaily.com/f44a3055113623243d984e90c974cbd9f7a475110
 ![A screenshot of the Retail folder in the system files for World of Warcraft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/retail-folder.jpg)
 5. Then right-click on the **Interface** subfolder, select **Rename**, and input **InterfaceOld** for the new name.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Repeat the previous step for the **Classic** and **WTF** folders. Rename those folders to **ClassicOld** and **WTFOld**.  
 ![A screenshot of the system file options for the Cache folder for World of Warcraft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/rename-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then go back to the Battle.net software to launch World of Warcraft. The renamed folders will be recreated, which resets the UI for the World of Warcraft game. The game might initially start more slowly than usual because of that, but hopefully, you’ll be able to play it without further issues.
 
@@ -82,10 +75,16 @@ thumbnail: https://thmb.techidaily.com/f44a3055113623243d984e90c974cbd9f7a475110
 3. Select **Game Settings** \> **World of Warcraft**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Click on the **Additional command line arguments** box to activate a text box.
@@ -95,22 +94,29 @@ thumbnail: https://thmb.techidaily.com/f44a3055113623243d984e90c974cbd9f7a475110
 
  Restart the Blizzard software after setting this new command line argument for World of Warcraft. Then start WoW to see if this possible resolution makes a difference.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Add World of Warcraft to Your Security Software Exclusions List
 
  Security software packages (antivirus tools and firewalls) could be causing error 132 on your PC by blocking World of Warcraft or other Blizzard processes from running. You can check this by disabling Microsoft Defender or an alternative third-party antivirus tool on your PC. However, it’s not ideal to have to turn off security features every time you want to play World of Warcraft.
 
 ![A screenshot of the option to Add An Exclusion to the Windows Security Exclusions List](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/add-an-exclusion.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To ensure your security software never blocks World of Warcraft, add the game’s .exe (application) file to your antivirus and firewall exception lists. You can [whitelist files for Microsoft Defender](https://www.makeuseof.com/how-to-whitelist-files-windows-defender/#:~:text=Under%20Protection%20areas%2C%20select%20Virus,type%2C%20or%20process%20to%20exclude.) by clicking the **Add an exclusion** button in the Windows Security app. If you’ve installed a third-party antivirus tool, set a WoW exception in that app’s exclusion list instead.
 
  If adding World of Warcraft to your Windows Defender Exclusion List doesn’t fix error 132, you may want to [run the System File Checker for Windows](https://www.makeuseof.com/system-file-checker-sfc-windows/) instead. This could repair any corrupted files causing the error.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Enjoy World of Warcraft Again
 
@@ -128,24 +134,20 @@ thumbnail: https://thmb.techidaily.com/f44a3055113623243d984e90c974cbd9f7a475110
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-innovations-for-crafting-striking-fb-video-ads-for-2024/"><u>[New] Innovations for Crafting Striking FB Video Ads for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-mastering-video-acquisition-top-10-vimeo-downloader-software/"><u>[New] Mastering Video Acquisition Top 10 Vimeo Downloader Software</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unlock-better-videos-a-22-enhancer-users-manual/"><u>[New] Unlock Better Videos A 2.2 Enhancer User's Manual</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/abbyyblue-prism/"><u>ABBYYとBlue Prismが提案する最先端プロセスインテリジェンス: 自動化パフォーマンスの大幅な改善</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/achieve-market-success-through-precision-targeting-with-cookiebot-technology/"><u>Achieve Market Success Through Precision Targeting with Cookiebot Technology</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-word-2000-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signature - For Word 2000</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-troubleshoot-windows-obs-studio-crashes/"><u>How to Troubleshoot Windows OBS Studio Crashes</u></a></li>
-<li><a href="https://windows11.techidaily.com/improve-download-efficiency-boosting-steam-and-windows-speed/"><u>Improve Download Efficiency: Boosting Steam and Windows Speed</u></a></li>
-<li><a href="https://extra-information.techidaily.com/iphones-best-camera-combo-utilities/"><u>IPhone's Best Camera Combo Utilities</u></a></li>
-<li><a href="https://win-able.techidaily.com/league-of-legends-players-manual-for-2e4-overcoming-the-notorious-black-screen-dilemma/"><u>League of Legends Player's Manual for 2E4: Overcoming the Notorious Black Screen Dilemma.</u></a></li>
-<li><a href="https://windows11.techidaily.com/master-9-techniques-to-modify-windows-audio-interface/"><u>Master 9 Techniques to Modify Windows Audio Interface</u></a></li>
-<li><a href="https://windows11.techidaily.com/maximizing-efficiency-top-6-ideas-to-overhaul-windows-11s-taskbar-layout/"><u>Maximizing Efficiency: Top 6 Ideas to Overhaul Windows 11'S Taskbar Layout</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-windows-onedrive-errors-efficient-steps-for-instant-folder-addition/"><u>Overcoming Windows OneDrive Errors - Efficient Steps for Instant Folder Addition</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-fixed-top-10-windows-glitch-solvers/"><u>Quick Fixed: Top 10 Windows Glitch Solvers</u></a></li>
-<li><a href="https://windows11.techidaily.com/reintroduce-forgotten-bluetooth-items-devices-mgr/"><u>Reintroduce Forgotten Bluetooth Items Devices Mgr</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-nubia-z50s-pro-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Nubia Z50S Pro Device</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-variances-microsoft-account-versus-conventional-local-login/"><u>Unveiling Variances: Microsoft Account Versus Conventional Local Login</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-how-to-auto-translate-youtube-videos-into-different-languages-for-2024/"><u>Updated How To Auto Translate YouTube Videos Into Different Languages for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/what-is-the-windows-portable-executable-file-format/"><u>What Is the Windows Portable Executable File Format?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovating-realms-history-of-vr/"><u>[New] Innovating Realms History of VR</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-elevate-your-mobile-music-collection-with-inshot/"><u>[Updated] 2024 Approved Elevate Your Mobile Music Collection with InShot</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-the-essential-tiktok-to-twitter-sharing/"><u>[Updated] 2024 Approved The Essential TikTok to Twitter Sharing</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-simplified-guide-to-transform-vimeo-video-into-mp3/"><u>[Updated] Simplified Guide to Transform Vimeo Video Into MP3</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-youtube-prodigy-vs-creative-hub-beta-edition/"><u>[Updated] YouTube Prodigy Vs. Creative Hub Beta Edition</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/cyberpunk-2077-analysis-a-work-of-art-with-imperfections/"><u>Cyberpunk 2077 Analysis: A Work of Art with Imperfections</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-oppo-reno-10-pro-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Oppo Reno 10 Pro 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/integrating-aguard-technology-into-windows-11s-edge-web-experience/"><u>Integrating Aguard Technology Into Windows 11'S Edge Web Experience</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/online-konvertor-voor-mp2-naar-wmv-vrije-dienst-movavi-solutions/"><u>Online Konvertor Voor MP2 Naar WMV Vrije Dienst - Movavi Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/steady-app-placement-tips-for-windows-task-manager/"><u>Steady App Placement Tips for Windows Task Manager</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-address-file-system-problems-in-win11/"><u>Strategies to Address File System Problems in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/swift-solutions-overcome-blue-screen-on-win11s-hypervisor/"><u>Swift Solutions: Overcome Blue Screen on Win11's HYPERVISOR</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackle-microsoft-store-login-challenges/"><u>Tackle Microsoft Store Login Challenges</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-windows-climate-trackers-windows-1011/"><u>Top Windows Climate Trackers (Windows 10/11)</u></a></li>
+<li><a href="https://windows11.techidaily.com/unblocking-windows-hello-tips-for-fingerprint-issues/"><u>Unblocking Windows Hello: Tips for Fingerprint Issues</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Tackling the Busy Resource Issue in Windows Environments (153 Chars)
-date: 2024-10-28T22:56:16.203Z
-updated: 2024-11-04T18:28:29.442Z
+date: 2024-11-08T16:05:04.721Z
+updated: 2024-11-15T17:35:55.160Z
 tags:
   - windows10
   - windows11
@@ -46,25 +46,11 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 ![The Preview pane option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/preview-pane-option.jpg)
 5. Then try moving or copying your files again.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The layout in Windows 10 File Explorer is a little different. To disable preview panes in that file manager, you’ll need to click the **View** tab. Then click **Preview pane** to deselect that option.
 
 ![The View tab in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-view-tab.jpg)
 
  Note that just disabling the preview pane might not always be enough. If that doesn’t work, try turning off the icon file view. To do so in Windows 11 File Explorer, click **View** and select the **List** or **Details view** option. You can select the same options on the **View** tab in Windows 10 File Explorer.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Run a Malware Scan
 
@@ -74,16 +60,23 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 2. Click **Virus & threat protection** \> **Scan options** to access the Microsoft Defender antivirus tool.  
 ![The Scan options navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-scan-options.jpg)
 3. Select the **Full scan** setting.
+
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click **Scan now** to initiate the malware scanning.  
 ![The Scan now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-full-scan-radio-button.jpg)
 5. Wait for the scanning to finish and select **Start actions** to remove detected malware.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you find Microsoft Defender is disabled and cannot turn it on, that’s a surefire sign the SmartService malware has infected your PC. SmartService is a rootkit trojan that blocks users from utilizing antivirus tools. That malware can also block the installation of some antivirus apps. In this case, the “requested resource in use” error can also occur when you try to run security apps.
 
@@ -92,16 +85,23 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 ![windows 11 startup settings safe mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-startup-settings-safe-mode.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982596">
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1983549">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Disable Any Unknown Programs in Task Manager
@@ -116,16 +116,10 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 5. Then restart your PC to see if the issue persists.
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Uninstall Any Suspicious-Looking Programs
@@ -138,6 +132,13 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 2. Look through the list of installed software to see if there’s any suspicious-looking program there. Look for a program you can’t recall installing with an unknown publisher title.  
 ![The Uninstall option in Programs and Features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-uninstall-option4.jpg)
 3. Right-click on the suspected SmartService malware and select **Uninstall**.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. If you can’t uninstall the suspicious software, restart Windows in safe mode. Then try removing the same suspicious item via Programs and Features in safe mode.
 
@@ -167,20 +168,24 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-cutting-edge-techniques-for-audience-engagement-on-twitch/"><u>[New] Cutting-Edge Techniques for Audience Engagement on Twitch</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Honor X50 GT | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-unparalleled-20-anime-series-themes/"><u>2024 Approved Unparalleled 20 Anime Series Themes</u></a></li>
-<li><a href="https://windows11.techidaily.com/advancing-mouse-functionality-through-clicklock-mechanism/"><u>Advancing Mouse Functionality Through ClickLock Mechanism</u></a></li>
-<li><a href="https://windows11.techidaily.com/breakdown-utilizing-bluescreenview-for-professionals/"><u>Breakdown: Utilizing BlueScreenView for Professionals</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/elevating-visual-clarity-uncovering-iphone-xs-precision-camera/"><u>Elevating Visual Clarity Uncovering iPhone X’s Precision Camera</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-fixes-regaining-full-synapse-functionality/"><u>Essential Fixes: Regaining Full Synapse Functionality</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-guide-to-selecting-a-best-fit-video-codec-in-windows/"><u>Essential Guide to Selecting a Best Fit Video Codec in Windows</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/imperator-rome-the-ultimate-challenge-for-empire-builders-revealed/"><u>Imperator: Rome - The Ultimate Challenge for Empire Builders Revealed</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-infinix-zero-5g-2023-turbo-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Infinix Zero 5G 2023 Turbo FRP?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/lenovo-ideapad-3-15-inch-i7-gtx-1660-ti-in-depth-analysis-of-an-affordable-powerhouse-for-gamers/"><u>Lenovo IdeaPad 3 15-Inch (I7, GTX 1660 Ti) - In-Depth Analysis of an Affordable Powerhouse for Gamers</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/navigate-to-constant-watch-enable-auto-play-feature-for-youtube-videos-on-fb/"><u>Navigate to Constant Watch Enable Auto-Play Feature for YouTube Videos on FB</u></a></li>
-<li><a href="https://windows11.techidaily.com/solving-issues-with-windows-underperforming-monitor-app/"><u>Solving Issues with Windows' Underperforming Monitor App</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-power-indicators-set-up-full-charge-notification-in-win11/"><u>Streamlining Power Indicators: Set Up Full Charge Notification in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/win11s-0x8007045d-an-effective-resolution-blueprint/"><u>Win11's 0X8007045D: An Effective Resolution Blueprint</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-complete-slomo-recording-app-analysis-consumers/"><u>[New] Complete SloMo Recording App Analysis Consumers</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-understanding-adobe-storage-alternatives-explained/"><u>[New] Understanding Adobe Storage, Alternatives Explained</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-10-pro-photoshop-tricks-for-newcomers/"><u>[Updated] Top 10 Pro Photoshop Tricks for Newcomers</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphering-the-apple-homepod-mini-exceptional-sound-intelligent-siri-functionality-and-more/"><u>Deciphering the Apple HomePod Mini – Exceptional Sound, Intelligent Siri Functionality, and More!</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For HTC U23 Pro? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-itel-a60s-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Itel A60s Devices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-optimizing-footage-variety-in-your-video-production/"><u>In 2024, Optimizing Footage Variety in Your Video Production</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-file-access-toggling-windows-11-filters/"><u>Mastering File Access: Toggling Windows 11 Filters</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-maze-finding-windows-11s-mac-addresses/"><u>Navigating the Maze: Finding Windows 11'S MAC Addresses</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stay-ahead-of-the-curve-without-moving-to-win11/"><u>Stay Ahead of The Curve without Moving to Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-adding-outlook-preview-to-windows-devices/"><u>Step-by-Step: Adding Outlook Preview to Windows Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-path-to-gaming-bliss-guide-to-drive-selection/"><u>The Path to Gaming Bliss: Guide to Drive Selection</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-ultimate-list-of-affordable-iphone-collage-creation-apps/"><u>The Ultimate List of Affordable, iPhone Collage Creation Apps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-solving-fortnite-warzone-lag-issues/"><u>Ultimate Guide: Solving Fortnite Warzone Lag Issues</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/undead-uprising-top-8-unleashed-in-video-game-realm-for-2024/"><u>Undead Uprising - Top 8 Unleashed in Video Game Realm for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-default-windows-11-terminal-features/"><u>Unlock Default Windows 11 Terminal Features</u></a></li>
+<li><a href="https://windows11.techidaily.com/unmasking-windows-remote-desktop-glitch-dark-screen/"><u>Unmasking Windows Remote Desktop Glitch: Dark Screen</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-hidden-truth-behind-windows-activation-error-0x8007251d/"><u>Unveiling the Hidden Truth Behind Windows Activation Error 0X8007251D</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-lol-skirting-startup-snags-and-stalls/"><u>Win: LOL – Skirting Startup Snags and Stalls</u></a></li>
 </ul></div>
 

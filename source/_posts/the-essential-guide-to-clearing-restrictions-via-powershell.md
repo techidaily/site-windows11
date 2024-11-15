@@ -1,7 +1,7 @@
 ---
 title: The Essential Guide to Clearing Restrictions via PowerShell
-date: 2024-11-01T07:13:57.833Z
-updated: 2024-11-05T10:35:20.056Z
+date: 2024-11-13T16:52:22.097Z
+updated: 2024-11-15T17:02:46.319Z
 tags:
   - windows10
   - windows11
@@ -49,16 +49,10 @@ thumbnail: https://thmb.techidaily.com/029b0eb85077c27446243e8d1c815878a76764b76
  There’s a way you can tell Windows to always trust files you download from the internet. To do that, please read our guide on[how to stop Windows 10 from blocking your downloaded files](https://www.makeuseof.com/stop-windows-10-from-blocking-your-downloaded-files/) . The instructions in the tutorial use the Registry Editor and Local Group Policy Editor, so they should also work on Windows 11.
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Now You Know How to Unblock Files You Know Are Safe
@@ -80,24 +74,22 @@ thumbnail: https://thmb.techidaily.com/029b0eb85077c27446243e8d1c815878a76764b76
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-enhance-branding-the-ultimate-guide-to-custom-urls-for-youtube-for-2024/"><u>[New] Enhance Branding The Ultimate Guide to Custom URLs for YouTube for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-strategies-for-syncing-zoom-meetings-across-devices/"><u>[New] In 2024, Strategies for Syncing Zoom Meetings Across Devices</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-master-picks-for-commercial-cloud-space/"><u>[New] Master Picks for Commercial Cloud Space</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-network-growth-strategy-share-twitch-live-links-on-fb/"><u>[New] Network Growth Strategy Share Twitch Live Links on FB</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-direct-recording-tool-for-chrome-os/"><u>[Updated] 2024 Approved Direct Recording Tool for Chrome OS</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-telegram-the-ultimate-step-by-step-guide/"><u>[Updated] Mastering Telegram The Ultimate Step-By-Step Guide</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/come-connettere-la-tua-libreria-di-rete-con-google-drive-in-modo-effettivo/"><u>Come Connettere La Tua Libreria Di Rete Con Google Drive in Modo Effettivo</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-the-file-error-puzzle-finding-solution-for-0x80070570-on-windows-11/"><u>Decoding the File Error Puzzle - Finding Solution for 0X80070570 on Windows 11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/from-simple-ai-to-sophisticated-gpt-4/"><u>From Simple AI to Sophisticated GPT-4</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-address-geforce-nows-error-code-xc0f1103f/"><u>How To Address GeForce Now's Error Code Xc0f1103f</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-an-attempt-was-made-to-reference-a-token-error-in-windows-1110/"><u>How to Fix the “An Attempt Was Made to Reference a Token” Error in Windows 11/10</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-motorola-g54-5g-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Motorola G54 5G</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-camera-access-notification-controls-on-win11/"><u>Mastering Camera Access Notification Controls on Win11</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/navigating-instagrams-voice-customization-features/"><u>Navigating Instagram's Voice Customization Features</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719373513910-reawaken-chrome-on-win11-essential-troubleshooting-steps/"><u>Reawaken Chrome on Win11 – Essential Troubleshooting Steps.</u></a></li>
-<li><a href="https://windows11.techidaily.com/reignite-your-windows-11-search-top-11-fixes-here/"><u>Reignite Your Windows 11 Search: Top 11 Fixes Here</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719374357320-seven-big-mistakes-new-users-could-make-in-windows-11-to-avoid/"><u>Seven Big Mistakes New Users Could Make in Windows 11 - To Avoid!</u></a></li>
-<li><a href="https://windows11.techidaily.com/slashing-gpu-energy-on-desktop-window-manager/"><u>Slashing GPU Energy on Desktop Window Manager</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-install-non-verified-windows-applications/"><u>Steps to Install Non-Verified Windows Applications</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-game-on-excavating-elite-escape-chamber-quests/"><u>[New] In 2024, Game On Excavating Elite Escape Chamber Quests</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-capture-it-all-webcams-to-transform-podcasts-for-2024/"><u>[Updated] Capture It All Webcams to Transform Podcasts for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-top-strategies-for-apples-triumph-over-tech-giants-at-wwdc-2024-outsmarting-openai-microsoft-and-google-insights-from-zdnet/"><u>1. Top Strategies for Apple's Triumph Over Tech Giants at WWDC 2024: Outsmarting OpenAI, Microsoft & Google - Insights From ZDNet</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-nokia-150-2023-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Nokia 150 (2023) to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-c12-pro-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Nokia C12 Pro PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-step-by-step-tutorial-for-transforming-profile-photographs-on-social-networks/"><u>In 2024, Step-by-Step Tutorial for Transforming Profile Photographs on Social Networks</u></a></li>
+<li><a href="https://win11.techidaily.com/lost-in-the-web-seven-win-friendly-fixes-for-non-opening-sites/"><u>Lost in the Web? Seven Win-Friendly Fixes for Non-Opening Sites</u></a></li>
+<li><a href="https://windows11.techidaily.com/organizing-ideas-visual-note-taking-using-obsidian/"><u>Organizing Ideas: Visual Note-Taking Using Obsidian</u></a></li>
+<li><a href="https://windows11.techidaily.com/proactive-pc-management-keeping-windows-11s-amd-drivers-current/"><u>Proactive PC Management: Keeping Windows 11'S AMD Drivers Current</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/projector-shopping-smarts-what-to-consider-before-you-buy/"><u>Projector Shopping Smarts: What to Consider Before You Buy</u></a></li>
+<li><a href="https://windows11.techidaily.com/quickly-restart-print-spool-in-windows/"><u>Quickly Restart Print Spool in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/reconfiguring-system-settings-managed-by-your-organization-on-windows-11/"><u>Reconfiguring System Settings Managed by Your Organization on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-non-responsive-windows-netflix-application/"><u>Resolving Non-Responsive Windows Netflix Application</u></a></li>
+<li><a href="https://windows11.techidaily.com/stop-windows-update-failures-with-these-fixes/"><u>Stop Windows Update Failures with These Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-coding-process-essential-wsl-2-tips-and-tricks-for-dev/"><u>Streamline Coding Process: Essential WSL 2 Tips and Tricks for Dev</u></a></li>
+<li><a href="https://discover-community.techidaily.com/transformar-flac-en-mp3-con-garantia-de-alta-fidelidad-servicio-rapido-y-completamente-libre-de-costos/"><u>Transformar FLAC en MP3 Con Garantía De Alta Fidelidad, Servicio Rápido Y Completamente Libre De Costos</u></a></li>
+<li><a href="https://windows11.techidaily.com/zip-file-chameleon-techniques-for-windows-images/"><u>ZIP File Chameleon Techniques for Windows Images</u></a></li>
 </ul></div>
 

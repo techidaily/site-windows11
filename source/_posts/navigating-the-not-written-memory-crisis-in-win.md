@@ -1,7 +1,7 @@
 ---
 title: Navigating the 'Not Written' Memory Crisis in Win
-date: 2024-10-31T22:25:53.428Z
-updated: 2024-11-04T20:35:12.565Z
+date: 2024-11-11T16:09:54.131Z
+updated: 2024-11-15T16:48:37.774Z
 tags:
   - windows10
   - windows11
@@ -42,10 +42,10 @@ Here are a few solutions to fix this annoying problem.
 ![Run SFC scan in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sfc-scan-1-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Refer to our[guide on running the SFC scan](https://www.makeuseof.com/system-file-checker-sfc-windows/) if you aren't familiar with using it and analyzing its results.
@@ -55,13 +55,6 @@ Here are a few solutions to fix this annoying problem.
  Another solution suggested by users in the[Microsoft Community thread](https://answers.microsoft.com/en-us/windows/forum/all/the-memory-could-not-be-written/21e2d589-04d7-42bd-9836-d089067edbb2) is to perform a clean boot. Technically, performing a clean boot means starting Windows with minimal drivers and without third-party apps and services. This technique helps identify whether a conflict from another app is responsible for the issue.
 
 ![hide all microsoft services clean boot windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/hide-all-microsoft-services-clean-boot-windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It's easy to clean boot your PC. If you're unfamiliar with it, refer to our guide on performing a clean boot on[Windows 11](https://www.makeuseof.com/clean-boot-windows-11/) or[Windows 10](https://www.makeuseof.com/how-perform-clean-boot-windows-10/) .
 
@@ -74,10 +67,10 @@ Here are a few solutions to fix this annoying problem.
  If the system detects any problems with your RAM, get it checked as soon as possible. If a severe technical issue affects your PC's memory, it could fail at the most inopportune moment. If you keep using it without having it at least checked, your memory modules might break while you're in the middle of catching a deadline. Avoid this trouble by installing reliable RAM sticks on your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Increase the Virtual Memory
@@ -86,20 +79,13 @@ Here are a few solutions to fix this annoying problem.
 
 ![The Virtual Memory window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/custom-radio-button.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you've never changed the virtual memory before, refer to our guide about[increasing the virtual memory in Windows 11](https://www.makeuseof.com/how-increase-virtual-memory-windows-11/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Repair Corrupted App or Game Files
@@ -116,6 +102,19 @@ Here are a few solutions to fix this annoying problem.
 
  If you are unfamiliar with the process, see our guide on[creating a restore point in Windows 11](https://www.makeuseof.com/windows-11-create-restore-point/) for instructions on performing a System Restore. However, remember that you can only restore your system if you have already created a restore point. If you haven't made it before, you can skip this step.
 
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Repair the .Net Framework on Windows
 
  The .Net framework a necessary for running many apps on your PC. If it's corrupted, it can cause memory issues and more. To fix this issue, you can run the SFC scan we mentioned in step two. You can also check out the other ways to[repair the .Net framework on Windows](https://www.makeuseof.com/windows-repair-net-framework/) to get it running again.
@@ -123,6 +122,19 @@ Here are a few solutions to fix this annoying problem.
 ## 9\. Configure the Problem App to Use a Different GPU
 
  If you get the error with a GPU-intensive app, like AAA games, it might use too much RAM on your integrated GPU. To solve this,[configure the problematic app to use your dedicated GPU](https://www.makeuseof.com/windows-10-choose-preferred-gpu/) . That way, you can ensure that it uses the more powerful video card instead of the less powerful integrated GPU on your CPU that shares your system RAM.
+
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Get Rid of Annoying Memory-Related Errors
 
@@ -145,21 +157,15 @@ Here are a few solutions to fix this annoying problem.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-medium-article-imagery-scales/"><u>[New] 2024 Approved Medium Article Imagery Scales</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-capturing-the-action-top-four-ways-to-record-on-xbox-one/"><u>[Updated] 2024 Approved Capturing the Action Top Four Ways to Record on Xbox One</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-decoding-the-vertical-video-enigma-on-insta/"><u>[Updated] Decoding the Vertical Video Enigma on Insta</u></a></li>
-<li><a href="https://windows11.techidaily.com/6-methods-for-reviving-windows-command-line-interface/"><u>6 Methods for Reviving Windows' Command Line Interface</u></a></li>
-<li><a href="https://windows11.techidaily.com/address-common-printer-glitches-in-windows-11/"><u>Address Common Printer Glitches in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoid-dual-defense-opt-for-single-antivirus-in-windows-systems/"><u>Avoid Dual Defense: Opt for Single Antivirus in Windows Systems</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-realme-gt-5-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Realme GT 5 Pro Location Settings | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-to-dismantle-spotlight-icons-in-win11/"><u>Guide to Dismantle Spotlight Icons in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-override-windows-automatic-regional-adjustment/"><u>How to Override Windows' Automatic Regional Adjustment</u></a></li>
-<li><a href="https://games-able.techidaily.com/keychrons-pioneering-leap-introducing-lemokey-l3/"><u>Keychron's Pioneering Leap: Introducing Lemokey L3</u></a></li>
-<li><a href="https://windows11.techidaily.com/recover-lost-windows-customizations-on-reboot/"><u>Recover Lost Windows Customizations on Reboot</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-art-of-choosing-and-changing-screensavers-in-win11/"><u>The Art of Choosing and Changing Screensavers in Win11</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-lava-yuva-3-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Lava Yuva 3 Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-stopping-discord-startup-and-updates/"><u>Troubleshooting: Stopping Discord Startup and Updates</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/understanding-and-utilizing-the-registry-keys-tab-in-windows-systems/"><u>Understanding and Utilizing the Registry Keys Tab in Windows Systems</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-tecno-camon-30-pro-5g-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Tecno Camon 30 Pro 5G Device</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-how-to-make-a-3d-text-effect-in-photoshop/"><u>[Updated] How to Make a 3D Text Effect in Photoshop</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-the-top-20-must-play-sandbox-adventures/"><u>[Updated] In 2024, The Top 20 Must-Play Sandbox Adventures</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-innovative-discussion-themes-for-vloggers/"><u>[Updated] Innovative Discussion Themes for Vloggers</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-translate-videos-like-a-pro-with-subtitle-cat-your-essential-guide/"><u>2024 Approved Translate Videos Like a Pro with Subtitle Cat Your Essential Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-realme-c33-2023-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Realme C33 2023 Phone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-mute-windows-11-monitoring-tools/"><u>How to Mute Windows 11 Monitoring Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-fast-filesaving-top-6-tips-for-powerpoint-in-win11/"><u>Mastering the Art of Fast Filesaving: Top 6 Tips for PowerPoint in Win11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-through-gpt-restrictions/"><u>Navigating Through GPT Restrictions</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-bridging-gaps-between-pc-and-phone/"><u>Windows 11: Bridging Gaps Between PC and Phone</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-settings-guide-managing-usb-devices-effectively/"><u>Windows Settings Guide: Managing USB Devices Effectively</u></a></li>
 </ul></div>
 

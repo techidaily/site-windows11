@@ -1,7 +1,7 @@
 ---
 title: Remedying Microsoft's 0X800713F Mail Glitch in Win11
-date: 2024-08-22T21:41:48.298Z
-updated: 2024-08-23T21:41:48.298Z
+date: 2024-11-08T17:01:31.624Z
+updated: 2024-11-15T16:49:38.756Z
 tags:
   - windows10
   - windows11
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/4099437332566bc0717087ad155c53eccdb95fb25
 
  The same troubleshooter is available in Windows 10, but the steps for accessing it in Settings are a little different. You’ll need to select the**Update & Security** category in Windows 10’s Settings app. Then select the**Troubleshoot** tab and**Additional troubleshooters** to view the list of troubleshooting tools.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Change the Privacy Settings for the Mail App
 
  The 0x800713f error can occur when the Mail and Calendar app isn’t allowed to access your email. So, you may need to enable email access for Mail via Settings, which is one of the most widely confirmed ways to fix the 0x800713f error. This is how you can change that privacy setting:
@@ -43,6 +50,14 @@ thumbnail: https://thmb.techidaily.com/4099437332566bc0717087ad155c53eccdb95fb25
 3. Click the**Email** navigation option.  
 ![The Email navigation option in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/email-navigation-option.jpg)
 4. Turn on**Email access** if that option isn’t enabled.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click**Let apps access your email** to expand options.  
 ![The Let apps access your email option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/let-apps-access-your-email.jpg)
 6. Toggle the**Mail and Calendar** app on if it’s not already.
@@ -56,9 +71,6 @@ thumbnail: https://thmb.techidaily.com/4099437332566bc0717087ad155c53eccdb95fb25
 
 ![The Reset button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-reset-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Allow Mail and Calendar Through Windows Defender Firewall
 
  The Windows firewall filters inbound and outbound internet data. That firewall could be causing error 0x800713f by blocking the Mail and Calendar app. First, try temporarily disabling Windows Defender Firewall before opening Mail like this:
@@ -67,9 +79,6 @@ thumbnail: https://thmb.techidaily.com/4099437332566bc0717087ad155c53eccdb95fb25
 2. Click the**Turn Windows Defender Firewall on or off** option situated along the left side of the WDF applet.  
 ![The Windows Defender Firewall applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-windows-defender-firewall-option.jpg)
 3. Select the two**Turn off Windows Defender Firewall** settings available for public and private networks.  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Turn off Windows Defender Firewall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-off-windows-defender-firewall-options.jpg)
 4. Next, press the**OK** button below the firewall settings.
 5. Then bring up Mail and try adding an email account to it.
@@ -78,14 +87,8 @@ thumbnail: https://thmb.techidaily.com/4099437332566bc0717087ad155c53eccdb95fb25
 
 ![Windows Defender Firewall's allowed apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/allowed-firewall-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
  Do you have a third-party firewall on your desktop or laptop? If you do, that software could also be causing Mail app issues. Try disabling third-party firewall software to see if that makes a difference. If it does, check the firewall’s permission settings to ensure Mail is allowed through.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Log in to Windows With a Local User Account
 
  Do you log in to Windows 11 with a Microsoft account? If yes, try logging in with a local user account and utilizing Mail from there. To do that, you’ll need to switch to a local one by changing your account settings like this:
@@ -96,16 +99,42 @@ thumbnail: https://thmb.techidaily.com/4099437332566bc0717087ad155c53eccdb95fb25
 4. Select the**Sign in** **with a local account** **instead** option.  
 ![The Sign in with a local account instead](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sign-in-with-a-local-user-account.jpg)
 5. Click**Next** on the window that asks for confirmation about switching to a local account.
+
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Type in your Microsoft account password or PIN.
 2. Then fill out the local account boxes, and select the**Next** option.  
 ![Local account info boxes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/enter-your-local-account-info.jpg)
 3. Press the**Sign out** **and** **Finish** button.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Sign out and finish button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-sign-out-and-finish-button.jpg)
 4. Log in to your local user account.
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Open**Mail** to check if the 0x800713f error has been fixed.
 
 ## 6\. Reinstall Mail and Calendar
@@ -117,9 +146,14 @@ thumbnail: https://thmb.techidaily.com/4099437332566bc0717087ad155c53eccdb95fb25
 3. Select Mail and Calendar’s**Uninstall** option from there.  
 ![The Uninstall option for Mail and Calendar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-uninstall-option2.jpg)
 4. Click**Uninstall** a second time to remove the app.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 5. Next, open the Mail and Calendar store page in whatever alternative browser you utilize.
 6. Press the**Get in Store** app button on the Mail and Calendar page.  
 ![The Get in Store app button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-get-in-store-app-button.jpg)
@@ -128,9 +162,6 @@ thumbnail: https://thmb.techidaily.com/4099437332566bc0717087ad155c53eccdb95fb25
 
  The steps for reinstalling Mail in Windows 10 Settings are similar. You’ll need to select the**Apps** category in Settings. Then select Mail and Calendar in Apps & features, and press its**Uninstall** button.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Send More Emails With the Mail App
 
  Those are six fixes that will probably resolve Mail’s 0x800713f error in most cases. They’re relatively quick and straightforward potential solutions to apply. With the 0x800713f error sorted, you’ll be able to add your email account and send messages in Mail again.
@@ -141,8 +172,6 @@ thumbnail: https://thmb.techidaily.com/4099437332566bc0717087ad155c53eccdb95fb25
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,4 +179,24 @@ thumbnail: https://thmb.techidaily.com/4099437332566bc0717087ad155c53eccdb95fb25
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-balance-relaxation-and-growth-with-this-ultimate-guide-to-multitasking-and-podcasting/"><u>[New] Balance Relaxation and Growth With This Ultimate Guide to Multitasking & Podcasting</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-ceasing-noise-during-obs-recordings-for-2024/"><u>[Updated] Ceasing Noise During OBS Recordings for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/get-to-know-your-characters-on-windows-11/"><u>Get to Know Your Characters on Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-itel-p55t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Itel P55T? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-this-app-has-been-blocked-for-your-protection-error-on-windows/"><u>How to Fix This App Has Been Blocked for Your Protection Error on Windows</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/integrating-your-vimeo-videos-into-instagram/"><u>Integrating Your Vimeo Videos Into Instagram</u></a></li>
+<li><a href="https://techtrends.techidaily.com/master-the-art-of-growing-an-instagram-fanbase-strategies-that-work/"><u>Master the Art of Growing an Instagram Fanbase: Strategies That Work!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-your-mind-proven-study-tactics-for-windowed-learners/"><u>Master Your Mind: Proven Study Tactics for Windowed Learners</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-multi-os-environments-windows-host-for-linux-virtual-machines/"><u>Mastering Multi-OS Environments: Windows Host for Linux Virtual Machines</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-rainmeter-hiccups-with-easy-fixes/"><u>Mastering Window's Rainmeter Hiccups with Easy Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-wallet-growth-unlocking-windows-11-pro-offers/"><u>Optimize Wallet Growth - Unlocking Windows 11 Pro Offers</u></a></li>
+<li><a href="https://windows11.techidaily.com/resurrecting-the-clock-actions-to-restore-windows-server-time/"><u>Resurrecting the Clock: Actions to Restore Windows Server Time</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/the-essential-guide-to-noindex-directive-impact-on-seo-and-expert-tips-for-website-owners/"><u>The Essential Guide to Noindex Directive: Impact on SEO & Expert Tips for Website Owners</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/the-ultimate-tutorial-on-downloading-howstuffworks-tv-episodes-in-various-video-codecs-such-as-mp4-avi-and-mov/"><u>The Ultimate Tutorial on Downloading HowStuffWorks TV Episodes in Various Video Codecs Such as MP4, AVI & MOV</u></a></li>
+<li><a href="https://windows11.techidaily.com/trail-clearing-techniques-deciphering-and-erasing-windows-history/"><u>Trail-Clearing Techniques: Deciphering and Erasing Windows History</u></a></li>
+<li><a href="https://windows11.techidaily.com/trouble-on-windows-discover-assistance-methods/"><u>Trouble on Windows? Discover Assistance Methods</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-premium-weather-apps-for-windows-11/"><u>Unveiling Premium Weather Apps for Windows 11</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Rectifying WoW Crashes: Error 132"
-date: 2024-10-28T20:15:34.115Z
-updated: 2024-11-05T08:21:33.235Z
+date: 2024-11-13T16:59:12.871Z
+updated: 2024-11-15T16:06:44.825Z
 tags:
   - windows10
   - windows11
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/7e475b588f2cf5836119cf29eeb77a68a0d6cc175
 
  The Windows 11 Settings app doesn’t include that option. However, you can access the same option within the Game Bar app. Press the **Windows** key + **G** and select **Settings** \> **Capturing** in the Game Bar. Then deselect the **Record in the background while I’m playing a game** checkbox.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Rename World of Warcraft’s Cache, WTF, and Interface Folders
 
  Renaming World of Warcraft’s **Cache**, **Interface**, and **WTF** folders will reset the game’s UI. This troubleshooting method can fix a variety of WoW issues and could also fix error 132\. This is how you can rename World of Warcraft’s **Cache**, **Interface**, and **WTF** folders:
@@ -46,31 +53,17 @@ thumbnail: https://thmb.techidaily.com/7e475b588f2cf5836119cf29eeb77a68a0d6cc175
 ![A screenshot of the Show In Explorer option for World of Warcraft in Battle Net](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/show-in-file-explorer.jpg)
 4. Next, open either the **\_retail\_** or **\_classic\_** subfolder. For example, open the **\_classic\_** folder if you play World of Warcraft Classic or **\_retail\_** for the current version.  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![A screenshot of the Retail folder in the system files for World of Warcraft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/retail-folder.jpg)
 5. Then right-click on the **Interface** subfolder, select **Rename**, and input **InterfaceOld** for the new name.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Repeat the previous step for the **Classic** and **WTF** folders. Rename those folders to **ClassicOld** and **WTFOld**.  
 ![A screenshot of the system file options for the Cache folder for World of Warcraft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/rename-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then go back to the Battle.net software to launch World of Warcraft. The renamed folders will be recreated, which resets the UI for the World of Warcraft game. The game might initially start more slowly than usual because of that, but hopefully, you’ll be able to play it without further issues.
@@ -78,6 +71,13 @@ thumbnail: https://thmb.techidaily.com/7e475b588f2cf5836119cf29eeb77a68a0d6cc175
  Some WoW players have also confirmed deleting that game’s **Cache** folder can fix error 132\. To do that, open the **\_retail\_** or **\_classic\_** subfolder in the World of Warcraft directory as outlined in the steps above. Then right-click the **Cache** and **Interface** subfolders and select **Delete**.
 
  If error 132 still affects your game, even after renaming folders, you may want to try other ways to [fix World of Warcraft not launching in Windows 10/11](https://www.makeuseof.com/windows-11-10-world-of-warcraft-not-launching/). Some potential fixes associated with launching WoW may also fix error 132\.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Enable DirectX Legacy Mode
 
@@ -87,13 +87,6 @@ thumbnail: https://thmb.techidaily.com/7e475b588f2cf5836119cf29eeb77a68a0d6cc175
 2. Click on the Blizzard logo button and **Settings**.  
 ![A screenshot of the Main Menu Options for Battle Net](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/settings-menu-option.jpg)
 3. Select **Game Settings** \> **World of Warcraft**.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Click on the **Additional command line arguments** box to activate a text box.
 5. Input **\-d3d11legacy** inside the text box.  
@@ -112,6 +105,13 @@ thumbnail: https://thmb.techidaily.com/7e475b588f2cf5836119cf29eeb77a68a0d6cc175
 
  If adding World of Warcraft to your Windows Defender Exclusion List doesn’t fix error 132, you may want to [run the System File Checker for Windows](https://www.makeuseof.com/system-file-checker-sfc-windows/) instead. This could repair any corrupted files causing the error.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Enjoy World of Warcraft Again
 
  Applying all the error 132 troubleshooting methods here will likely fix World of Warcraft’s persistent fatal crashing. Error 132 isn’t always an easy issue to resolve, and you may have to try a few of those potential resolutions to get the WoW game working on Windows 11/10\. With error 132 fixed, you can enjoy all the thrills of World of Warcraft again.
@@ -128,24 +128,24 @@ thumbnail: https://thmb.techidaily.com/7e475b588f2cf5836119cf29eeb77a68a0d6cc175
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-channel-growth-strategy-going-with-studio-or-beta-progression/"><u>[New] 2024 Approved Channel Growth Strategy Going with Studio or Beta Progression</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/5-solutions-for-vivo-v29-pro-unlock-without-password-by-drfone-android/"><u>5 Solutions For Vivo V29 Pro Unlock Without Password</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-non-existent-files-message-on-windows-11/"><u>Addressing Non-Existent Files Message on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/antiquated-tech-awakened-atlasos-upgrade/"><u>Antiquated Tech Awakened: AtlasOS Upgrade</u></a></li>
-<li><a href="https://windows11.techidaily.com/breaking-free-from-the-frozen-windows-terminal/"><u>Breaking Free From the Frozen Windows Terminal</u></a></li>
-<li><a href="https://windows11.techidaily.com/changing-default-user-directory-labels-windows-11/"><u>Changing Default User Directory Labels (Windows 11)</u></a></li>
-<li><a href="https://windows11.techidaily.com/consistent-experience-migrating-powertoys-on-new-pcs/"><u>Consistent Experience: Migrating PowerToys on New PCs</u></a></li>
-<li><a href="https://article-helps.techidaily.com/consumers-speak-the-vllo-narrative-for-2024/"><u>Consumers Speak The VLLO Narrative for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/customize-your-window-11-experience-dynamic-wallpapers-guide/"><u>Customize Your Window 11 Experience: Dynamic Wallpapers Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/cutting-down-unnecessary-memory-use-by-webview2-on-edge/"><u>Cutting Down Unnecessary Memory Use by WebView2 on Edge</u></a></li>
-<li><a href="https://windows11.techidaily.com/dealing-with-the-extract-to-temp-directory-glitch-fix-for-error-1152/"><u>Dealing with the 'Extract to Temp Directory' Glitch: Fix for Error 1152</u></a></li>
-<li><a href="https://windows11.techidaily.com/discover-unique-applications-the-best-10-uses-for-powertoys/"><u>Discover Unique Applications: The Best 10 Uses for PowerToys</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722956748991-get-the-latest-d3-drivers-for-your-gigabyte-z370p-system-now/"><u>Get the Latest D3 Drivers for Your Gigabyte Z3^70P System Now!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-oneplus-nord-ce-3-lite-5g-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From OnePlus Nord CE 3 Lite 5G to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, iPogo will be the new iSpoofer On Apple iPhone 6s Plus? | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-secrets-unveiled-successful-podcast-on-apple-store/"><u>In 2024, Secrets Unveiled Successful Podcast on Apple Store</u></a></li>
-<li><a href="https://win-community.techidaily.com/simple-steps-restore-lost-wav-audio-in-no-time/"><u>Simple Steps: Restore Lost WAV Audio in No Time!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-review-on-google-nest-hello-intelligent-facial-recognition-innovative-package-sensing-and-advanced-home-automation-features/"><u>The Ultimate Review on Google Nest Hello: Intelligent Facial Recognition, Innovative Package Sensing, and Advanced Home Automation Features</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-fix-windows-7-microphone-issues-step-by-step-solutions/"><u>Troubleshoot & Fix Windows 7 Microphone Issues - Step-by-Step Solutions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-how-to-restore-windows-photo-viewer-in-windows-10-2-methods/"><u>[New] How to Restore Windows Photo Viewer in Windows 10 (2 Methods)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-tomorrows-scrutiny-innovative-perspectives/"><u>[New] Tomorrow’s Scrutiny Innovative Perspectives</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-implementing-gradual-intensity-boost-in-audio-projects/"><u>[Updated] Implementing Gradual Intensity Boost in Audio Projects</u></a></li>
+<li><a href="https://windows11.techidaily.com/1-mastering-excel-a-step-by-step-guide-to-revealing-hidden-data/"><u>1. Mastering Excel: A Step-by-Step Guide to Revealing Hidden Data</u></a></li>
+<li><a href="https://windows11.techidaily.com/change-excel-gridlines-hue-a-comprehensive-tutorial/"><u>Change Excel Gridlines Hue: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://windows11.techidaily.com/easy-steps-implementing-macros-into-your-quick-access-toolbar/"><u>Easy Steps: Implementing Macros Into Your Quick Access Toolbar</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/edit-like-a-pro-the-ultimate-free-guide-to-gopro-video-editing/"><u>Edit Like a Pro The Ultimate Free Guide to GoPro Video Editing</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficiently-converting-dynamic-excel-equations-to-fixed-numbers-in-excel-2013/"><u>Efficiently Converting Dynamic Excel Equations to Fixed Numbers in Excel 2013</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-add-wow-to-your-videos-best-animated-text-apps-for-phone/"><u>In 2024, Add Wow to Your Videos Best Animated Text Apps for Phone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-from-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password From Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/innovative-mobility-in-the-amazon-echo-show-10-3rd-gen-unveiled-a-comprehensive-review/"><u>Innovative Mobility in the Amazon Echo Show 10 - 3Rd Gen Unveiled: A Comprehensive Review</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-comment-filtering-a-step-by-step-guide-on-searching-within-excel-comments/"><u>Mastering Comment Filtering: A Step-by-Step Guide on Searching Within Excel Comments</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-empty-folder-location-and-deletion-in-windows/"><u>Mastering Empty Folder Location and Deletion in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/rectifying-operational-issues-with-windows-tablet-stylus/"><u>Rectifying Operational Issues with Windows Tablet Stylus</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/safekeep-stories-the-unlimited-save-service-for-2024/"><u>Safekeep Stories The Unlimited Save Service for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-complete-guide-to-downloading-and-enjoying-ifunny-memes/"><u>The Complete Guide to Downloading and Enjoying iFunny Memes</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-disabling-onedrive-on-windows-11s-explore/"><u>Tips for Disabling OneDrive on Windows 11'S Explore</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/troubleshooting-flawed-videos-in-macos-systems/"><u>Troubleshooting Flawed Videos in macOS Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-powered-disk-cloning-no-add-ons-needed/"><u>Windows-Powered Disk Cloning, No Add-Ons Needed</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Tackling Fall Guys Disconnect in Windows Environment
-date: 2024-10-30T21:55:55.379Z
-updated: 2024-11-04T18:49:08.640Z
+date: 2024-11-10T16:35:05.305Z
+updated: 2024-11-15T16:33:13.250Z
 tags:
   - windows10
   - windows11
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/010139d6077f90333f3025af8c182332c9900266f
 
  Now that we know all the possible culprits behind the issue, let's jump into the fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Check Your Connection
 
  Before making any changes to your network settings, ensure that a weak internet connection is not causing the issue. You can check this by visiting an[internet-speed testing website](https://www.makeuseof.com/best-free-websites-test-internet-speed/) .
@@ -49,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/010139d6077f90333f3025af8c182332c9900266f
  If the results show that your connection is unstable and weak, then you'll have to troubleshoot your connection. Check out our guide on[network diagnostic tricks you can try](https://www.makeuseof.com/tag/7-simple-steps-diagnose-network-problem/) for ways to get your connection fixed again.
 
  f manual troubleshooting makes no difference, consider contacting your ISP.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Close Network Hogging Applications from Background
 
@@ -62,13 +62,6 @@ thumbnail: https://thmb.techidaily.com/010139d6077f90333f3025af8c182332c9900266f
 
  Then, right-click on all such applications, and choose**End task.** After that, restart Fall Guys and check if the problem persists.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Temporarily Disable the Windows Firewall
 
  Windows Firewall can interfere with the working of Fall Guys and cause connection errors. The solution, in this case, is to temporarily disable the Windows Firewall.
@@ -80,14 +73,14 @@ Here's how you can do that:
 ![Turn Windows Defender on or off option in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/turn-windows-defender-on-or-off.jpg)
 3. Choose**Turn off Windows Defender Firewall (not recommended)** option for both**private** and**public** network settings.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Turn off firewall option in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/turn-off-firewall.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now, check if the problem continues. If not, enable the Windows Defender Firewall and then add Fall Guys to the Windows Firewall exception list. Here's how:
 
@@ -100,7 +93,21 @@ Here's how you can do that:
 5. Select**FallGuys\_client.exe** and click**Add.**  
 ![FallGuys file in browse option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/fallguys-file.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  That's it! Fall Guys has now been added to the Windows Firewall exception list.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Disable Any Active Proxy Servers
 
@@ -109,13 +116,6 @@ Here's how you can do that:
 1. Open the Windows Search, type**Command Prompt,** and choose**Run as administrator** from the right pane.
 2. In the console, type**netsh winhttp reset proxy** and press**Enter** .  
 ![Disabling proxy command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disabling-proxy.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Connect to a Different DNS Server
 
@@ -131,10 +131,10 @@ Follow the below steps to change to Google DNS:
 5. Select the**Use the following DNS server addresses** option.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. If you're on IPv4, type**8.8.8.8** in the**Preferred DNS server** and**8.8.4.4** in the**Alternate DNS server.**
@@ -165,6 +165,13 @@ RetryTime=0.5`
 
 Launch Fall Guys and check if the problem persists.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Reset Winsock Settings
 
  Winsock is a program that allows programs to connect to the internet through Transmission Control Protocol/ Internet Protocol (TCP/IP). If there's something wrong with this program, apps like Fall Guys will struggle to connect to the internet.
@@ -176,13 +183,6 @@ Launch Fall Guys and check if the problem persists.
 ![Reset Winsock command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/reset-winsock-command.jpg)
 
 Now, restart your computer and check if the problem is fixed.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Your Fall Guys Connection Errors, Fixed
 
@@ -203,24 +203,22 @@ Now, restart your computer and check if the problem is fixed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-unlocking-a-world-of-talent-with-the-top-10-low-cost-youtube-creators/"><u>[New] 2024 Approved Unlocking a World of Talent with the Top 10 Low-Cost YouTube Creators</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-securing-high-quality-sound-from-anywhere/"><u>[New] Securing High-Quality Sound From Anywhere</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-leading-brands-of-steadicams-for-professional-drones-in-film/"><u>[Updated] Leading Brands of Steadicams for Professional Drones in Film</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-the-blueprint-for-traffic-boost-masterful-techniques-for-effective-fb-videos-for-2024/"><u>[Updated] The Blueprint for Traffic Boost Masterful Techniques for Effective FB Videos for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/brighten-up-a-step-by-step-guide-to-an-eye-catching-cursor/"><u>Brighten Up: A Step-by-Step Guide to an Eye-Catching Cursor</u></a></li>
-<li><a href="https://windows11.techidaily.com/choosing-wisely-windows-terminal-as-your-primary-cli/"><u>Choosing Wisely: Windows Terminal as Your Primary CLI</u></a></li>
-<li><a href="https://windows11.techidaily.com/decrypt-the-mystery-of-win11-blue-screen-with-11-hacks/"><u>Decrypt the Mystery of Win11 Blue Screen with 11 Hacks</u></a></li>
-<li><a href="https://windows11.techidaily.com/easing-into-windows-backup-restoration-procedures/"><u>Easing Into Windows Backup Restoration Procedures</u></a></li>
-<li><a href="https://fox-info.techidaily.com/enhance-visuals-in-video-calls-with-ms-teams-zoom-for-2024/"><u>Enhance Visuals in Video Calls with MS Teams Zoom for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-grayed-out-memory-protection-in-win11-update/"><u>Fixing Grayed-Out Memory Protection in Win11 Update</u></a></li>
-<li><a href="https://games-able.techidaily.com/get-ready-fortnite-returns-to-ios-devices-learn-your-options-for-immediate-gameplay-tech-insights/"><u>Get Ready: Fortnite Returns to iOS Devices! Learn Your Options For Immediate Gameplay - Tech Insights</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-dropboxs-high-cpu-usage-on-windows/"><u>How to Fix Dropbox's High CPU Usage on Windows</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-your-motorola-moto-g04-lock-screen-password-by-drfone-android/"><u>How to Reset your Motorola Moto G04 Lock Screen Password</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-essential-templates-and-makers-insights-for-end-credits/"><u>In 2024, Essential Templates & Makers' Insights for End Credits</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-mastering-text-overlays-on-photos-in-windows-10s-photos-app/"><u>In 2024, Mastering Text Overlays on Photos in Windows 10'S Photos App</u></a></li>
-<li><a href="https://windows11.techidaily.com/learn-to-handle-text-emphasis-on-windows-11/"><u>Learn to Handle Text Emphasis on Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rebooting-device-for-functional-asus-camera/"><u>Rebooting Device for Functional Asus Camera</u></a></li>
-<li><a href="https://windows11.techidaily.com/reviving-system-8-routes-for-windows-restart/"><u>Reviving System: 8 Routes for Windows Restart</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlock-the-power-of-your-keyboard-for-app-dimension-control-in-win11/"><u>Unlock the Power of Your Keyboard for App Dimension Control in Win11</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-webcammastery-practicalrecordingsteps/"><u>[New] 2024 Approved WebCamMastery PracticalRecordingSteps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-behind-the-scenes-manycams-recording-system-evolution/"><u>[Updated] 2024 Approved Behind the Scenes ManyCam's Recording System Evolution</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-best-top-xbox-hdds-your-ultimate-list/"><u>[Updated] Best Top Xbox HDDs Your Ultimate List</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-splendid-scenery-crafting-visuals-with-strategic-lighting/"><u>2024 Approved Splendid Scenery Crafting Visuals with Strategic Lighting</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-the-ultimate-guide-obs-streams-to-facebook-success/"><u>2024 Approved The Ultimate Guide OBS Streams to Facebook Success</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-effortlessly-engage-with-windows-11-service-tools/"><u>How to Effortlessly Engage with Windows 11 Service Tools</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/key-factors-what-you-need-to-think-about-before-buying-a-vr-device/"><u>Key Factors: What You Need to Think About Before Buying a VR Device</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/liveoutnow-an-in-depth-look-at-effortless-podcast-live-streaming-for-2024/"><u>LiveOutNow An In-Depth Look at Effortless Podcast Live Streaming for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-fixes-reconciling-obs-server-disconnections-on-windows/"><u>Mastering the Fixes: Reconciling OBS Server Disconnections on Windows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/optimizing-stability-stop-microsoft-edge-from-crashing-under-windows-11/"><u>Optimizing Stability: Stop Microsoft Edge From Crashing Under Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-guide-turning-off-a-non-responsive-windows-11-system/"><u>Resolved Guide: Turning Off a Non-Responsive Windows 11 System</u></a></li>
+<li><a href="https://windows11.techidaily.com/secure-and-protect-win-11-edge-instalment-of-microsofts-aguard-feature/"><u>Secure and Protect Win 11 Edge: Instalment of Microsoft's Aguard Feature</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-tackling-windows-disk-errors/"><u>The Ultimate Guide to Tackling Windows Disk Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/title-perfecting-space-between-windows-widgets/"><u>Title: Perfecting Space Between Windows Widgets</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-non-responsive-windows-enter-key/"><u>Troubleshooting Non-Responsive Windows Enter Key</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-gif-size-limits-a-guide-to-fixed-errors-in-discord-win11/"><u>Unraveling GIF Size Limits: A Guide to Fixed Errors in Discord (Win11)</u></a></li>
+<li><a href="https://windows11.techidaily.com/uptime-expertise-for-win11-devices-discover-the-top-5-methods/"><u>Uptime Expertise for Win11 Devices - Discover the Top 5 Methods</u></a></li>
 </ul></div>
 

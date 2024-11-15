@@ -1,7 +1,7 @@
 ---
 title: "Secure Access: Learning How to Lock and Unlock (Fn) Key"
-date: 2024-11-04T10:20:43.951Z
-updated: 2024-11-04T23:35:09.280Z
+date: 2024-11-14T17:36:12.393Z
+updated: 2024-11-15T17:34:30.015Z
 tags:
   - windows10
   - windows11
@@ -41,13 +41,6 @@ thumbnail: https://thmb.techidaily.com/cbf413290d1b7e29d9934e3ea1990c5dc72e7e77a
 
  To lock the Fn key, simply press the Fn key and the Esc key together. Once the lock icon lights up, the Fn key has been successfully locked. To unlock, you can press both keys together again.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Access the BIOS Settings
 
  You can also change the hardware settings of your computer via the BIOS settings. Here is how you can lock or unlock the Fn key via BIOS:
@@ -60,13 +53,6 @@ thumbnail: https://thmb.techidaily.com/cbf413290d1b7e29d9934e3ea1990c5dc72e7e77a
 ![Windows 10 Troubleshoot Advanced Options UEFI Firmware Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/05/uefi-screenshot.jpg)
 4. Once the computer restarts, the BIOS will launch.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Head over to the System Configuration section and choose the**Action Key Mode** .
 6. Disable**Action Key Mode** .
 7. Alternatively, in the Advanced tab, access the**Function key behavior** .
@@ -75,10 +61,17 @@ thumbnail: https://thmb.techidaily.com/cbf413290d1b7e29d9934e3ea1990c5dc72e7e77a
 9. Click F10 to save the changes, and then click**Yes** in the User Account Control prompt.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Use the Windows Mobility Center
@@ -92,13 +85,20 @@ Follow these steps to proceed:
 ![Function key row section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/function-key-row.jpg)
 3. Choose the**Function key** option from the dropdown to lock the key. To unlock, choose the**Multimedia key** option.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This should allow you to use the function keys without pressing the Fn key. In case you no longer want to use the Fn key and think that you will be better off disabling it, you can use the KeyTweak app to perform this action. Check out our guide on[how to disable specific keys on your keyboard in Windows](https://www.makeuseof.com/tag/disable-specific-keys-keyboard-windows-10/) for more information about KeyTweak.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Manage Your Fn Key Better on Windows
@@ -120,24 +120,22 @@ Follow these steps to proceed:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-elite-audio-gear-guide-for-4k-camera-quality-production/"><u>[New] 2024 Approved Elite Audio Gear Guide for 4K Camera Quality Production</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-leading-animals-in-play-androids-favorites-list/"><u>[New] 2024 Approved Leading Animals in Play Android's Favorites List</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-unleash-creativity-learning-sony-vegas-techniques-for-youtube-video-editing/"><u>[New] 2024 Approved Unleash Creativity Learning Sony Vegas Techniques for YouTube Video Editing</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/outubes-dimensions-decoded-a-comprehensive-ratio-handbook/"><u>[New] YouTube's Dimensions Decoded A Comprehensive Ratio Handbook</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/blackout-blitz-premiere-pro-60s/"><u>Blackout Blitz Premiere Pro 60S</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/for-efficient-workflow-the-keyboard-shortcuts-cannot-be-beaten-so-here-i-list-top-20-adobe-premiere-shortcuts-you-will-use-when-editing-video-for-2024/"><u>For Efficient Workflow, the Keyboard Shortcuts Cannot Be Beaten. So Here I List Top 20 Adobe Premiere Shortcuts You Will Use when Editing Video for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/hefty-helpers-airborne-lifting-titans-unveiled-for-2024/"><u>Hefty Helpers Airborne Lifting Titans Unveiled for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-turn-off-desktop-input-on-your-win-device/"><u>How to Turn Off Desktop Input on Your Win Device</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-network-nuances-7-fixes-for-connectivity-in-obs-studio/"><u>Navigating Network Nuances: 7 Fixes for Connectivity in OBS Studio</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-openers-dive-into-windows-performance-data/"><u>Quick Openers: Dive Into Windows Performance Data</u></a></li>
-<li><a href="https://windows11.techidaily.com/realign-your-windows-clock-through-chrome-settings/"><u>Realign Your Windows Clock Through Chrome Settings</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/schritt-fur-schritt-leitfaden-zur-aktualisierung-von-windows-server-2016-auf-version-2019/"><u>Schritt-Für-Schritt-Leitfaden Zur Aktualisierung Von Windows Server 2016 Auf Version 2019</u></a></li>
-<li><a href="https://windows11.techidaily.com/setting-new-reset-limit-on-account-lockouts-in-windows-1011/"><u>Setting New Reset Limit on Account Lockouts in Windows 10/11</u></a></li>
-<li><a href="https://windows11.techidaily.com/smart-scheduling-for-improved-resource-allocation-on-android-wsl/"><u>Smart Scheduling for Improved Resource Allocation on Android WSL</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726028165521-swfmp4/"><u>SWFからMP4に変換方法・失敗した原因と解決策</u></a></li>
-<li><a href="https://windows11.techidaily.com/uncharted-territory-innovations-to-windows-11s-explorer-interface/"><u>Uncharted Territory: Innovations to Windows 11'S Explorer Interface</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-two-less-known-yet-crucial-windows-tools/"><u>Unveiling Two Less-Known, Yet Crucial Windows Tools</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-uncontrollable-scroll-troubleshooting-steps/"><u>Windows Uncontrollable Scroll: Troubleshooting Steps</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-mastering-free-video-text-dynamics/"><u>[New] In 2024, Mastering FREE Video Text Dynamics</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-innovating-image-vision-mastering-hdr-in-photoshop/"><u>[Updated] 2024 Approved Innovating Image Vision Mastering HDR in Photoshop</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-record-pc-sounds-effortlessly-with-x-recorder/"><u>[Updated] Record PC Sounds Effortlessly with X-Recorder</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/advanced-technology-showcase-reviewing-the-top-5-slow-motion-cameras-for-2024/"><u>Advanced Technology Showcase Reviewing the Top 5 Slow-Motion Cameras for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-tips-for-sticky-notes-on-windows-11/"><u>Expert Tips for Sticky Notes on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-windows-blue-screen-0x8007007e-problems/"><u>Fixing Windows Blue Screen 0X8007007E Problems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-online-conversion-change-avi-files-into-mov-format-with-ease-moveavi/"><u>Free Online Conversion: Change AVI Files Into MOV Format with Ease - Moveavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/handling-non-microsoft-verified-application-warnings/"><u>Handling Non-Microsoft Verified Application Warnings</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-convert-a-batch-file-into-an-exe-file-on-windows/"><u>How to Convert a Batch File Into an EXE File on Windows</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-poco-m6-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Poco M6 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-motorola-moto-g14-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Motorola Moto G14 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-understanding-av1-a-first-step-for-beginners/"><u>In 2024, Understanding AV1 A First Step for Beginners</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-9-ways-to-engage-windows-11s-volume-management/"><u>Master 9 Ways to Engage Windows 11'S Volume Management</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcome-grayed-extended-volume-options-in-windows/"><u>Overcome Grayed Extended Volume Options in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/swift-recovery-plan-from-0x800713f-disruption-in-windows-email-sphere/"><u>Swift Recovery Plan From 0X800713F Disruption in Windows' Email Sphere</u></a></li>
+<li><a href="https://windows11.techidaily.com/swift-synonym-searches-in-windows-11/"><u>Swift Synonym Searches in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-pathway-to-improved-speed-optimizing-virtual-memory-in-windows-11/"><u>The Pathway to Improved Speed: Optimizing Virtual Memory in Windows 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Win-Specific Error Recovery: Reinstating Non-Functional Software"
-date: 2024-08-27T16:02:29.540Z
-updated: 2024-08-28T16:02:29.540Z
+date: 2024-11-08T16:11:29.537Z
+updated: 2024-11-15T17:02:48.745Z
 tags:
   - windows10
   - windows11
@@ -34,11 +34,22 @@ thumbnail: https://thmb.techidaily.com/6fd0cef62e823c305fb86e64196b6559e3c33c787
 2. Type **WSReset.exe** in the dialog box and press Enter.  
 ![Clear Microsoft Store Cache File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/clear-microsoft-store-cache-file.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  A command prompt appears on the screen confirming that the Windows Store cache is cleared. Once you've completed these steps, check if it solves the error.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Check for Microsoft Store Updates
 
  Another potential reason for this error is the outdated Windows Store version. Microsoft regularly releases updates to fix bugs and improve Store performance. So, make sure that you are using the latest version. To check for Windows Store updates, follow these steps.
@@ -51,9 +62,6 @@ thumbnail: https://thmb.techidaily.com/6fd0cef62e823c305fb86e64196b6559e3c33c787
 
  After following the steps above, restart your computer and see if it resolves the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ## 4\. Run the Windows Store Apps Troubleshooter
 
  Windows comes with a built-in troubleshooter that diagnoses and resolves various problems. You can use it to fix the “This app will not work on your device” error as well. To run the troubleshooter, follow these steps:
@@ -62,11 +70,15 @@ thumbnail: https://thmb.techidaily.com/6fd0cef62e823c305fb86e64196b6559e3c33c787
 2. From the left pane, click **System > Troubleshoot > Other troubleshooters**.  
 ![Other troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/other-troubleshooters.jpg)
 3. Scroll down to **Windows Store Apps** and click the **Run** button.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Run Windows Store Apps Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/run-windows-store-apps-troubleshooter.jpg)
 4. Wait for the troubleshooter to detect any problem and fix it if necessary.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After performing the instructions, try launching the app again and see if it works. If not, you can try the next solution below.
 
@@ -79,9 +91,6 @@ thumbnail: https://thmb.techidaily.com/6fd0cef62e823c305fb86e64196b6559e3c33c787
 3. Scroll down to find the **Application Identity** service and double-click on it.  
 ![Restart the Application Identity Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/restart-the-application-identity-service.jpg)
 4. In the Properties window, set the **Startup type** to **Automatic**.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 5. Also, click on the **Start** button under Service status.
 6. Finally, click **Apply > OK** to save the changes.
 
@@ -98,12 +107,16 @@ thumbnail: https://thmb.techidaily.com/6fd0cef62e823c305fb86e64196b6559e3c33c787
 5. Next, scroll down to **Virus & threat protection settings** and click **Manage settings**.  
 ![Manage settings in Windows security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/manage-settings-in-windows-security.jpg)
 6. Turn off the **Real-time protection** toggle.  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![Turn off the Real-time protection toggle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/turn-off-the-real-time-protection-toggle.jpg)
 
  Now restart your computer and try launching the app again. If the error still persists, turn on Real-time protection and try the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Enable Hyper-V in Windows Features
 
@@ -114,9 +127,14 @@ thumbnail: https://thmb.techidaily.com/6fd0cef62e823c305fb86e64196b6559e3c33c787
 3. In the Windows Features dialog, scroll down to **Hyper-V** and check the box next to it.  
 ![Enable Hyper-V in Windows Features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/enable-hyper-v-in-windows-features.jpg)
 4. Similarly, search for **Virtual Machine Platform** and **Windows Hypervisor Platform** and enable them as well.
+
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 5. Once done, click **OK > Apply** to save the changes.
 
  Finally, restart your computer and check if the problem is resolved.
@@ -130,15 +148,17 @@ thumbnail: https://thmb.techidaily.com/6fd0cef62e823c305fb86e64196b6559e3c33c787
  If there are still problems, you can try [performing a clean boot](https://www.makeuseof.com/clean-boot-windows-11/). It will launch the device with a minimal set of drivers and programs, allowing you to identify any 3rd-party applications that may be causing the error. Once done, restart your computer normally and check if the error has been fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Keep Your Apps Up and Running on Windows
 
  It's okay if you receive a "this app will not work on your device" message; it just means that your system doesn't meet an app's requirements or there is a corrupted Microsoft Store cache. Thankfully, our guide offers solutions to resolve this issue quickly.
 
  There could be various reasons for this issue depending on the app, such as a corrupted cache file or system problems. Read this guide to learn more about this error and how to fix it.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -146,3 +166,25 @@ thumbnail: https://thmb.techidaily.com/6fd0cef62e823c305fb86e64196b6559e3c33c787
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-elite-6-software-solutions-for-flawless-signature-hiding-for-2024/"><u>[New] Elite 6 Software Solutions for Flawless Signature Hiding for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-navigating-network-growth-strategies-for-instagram-success/"><u>[New] In 2024, Navigating Network Growth Strategies for Instagram Success</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-stepwise-guide-to-smoothing-out-audio-dynamics/"><u>[New] In 2024, Stepwise Guide to Smoothing Out Audio Dynamics</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-real-time-instagram-friends-departure-tracking-for-2024/"><u>[New] Real-Time Instagram Friends Departure Tracking for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/dvd-7/"><u>「ビデオ、オーディオ、DVD再生手順集 - 包括的な指南7章」</u></a></li>
+<li><a href="https://fox-info.techidaily.com/digital-imaging-from-basic-to-cutting-edge-hdr-techniques-for-2024/"><u>Digital Imaging From Basic to Cutting-Edge HDR Techniques for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortless-access-key-strategies-for-w11s-rdc/"><u>Effortless Access: Key Strategies for W11's RDC</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminate-unmet-windows-11-specifications-warning/"><u>Eliminate Unmet Windows 11 Specifications Warning</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-cannot-view-messages-from-your-microsoft-office-mail/"><u>Eliminating 'Cannot View' Messages From Your Microsoft Office Mail</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-windows-11-zoom-problem-code-1132/"><u>Eliminating Windows 11 Zoom Problem: Code 1132</u></a></li>
+<li><a href="https://windows11.techidaily.com/enabling-hyper-v-a-quick-win11-guide/"><u>Enabling Hyper-V: A Quick Win11 Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-and-streamlining-windows-based-discord-searches/"><u>Enhancing and Streamlining Windows-Based Discord Searches</u></a></li>
+<li><a href="https://windows11.techidaily.com/eradicating-code-0x800700e1-complications-on-windows-11-pcs/"><u>Eradicating Code 0X800700E1 Complications on Windows 11 PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/eradicating-empty-directory-warning-code-0x80070091-in-windows-11-os/"><u>Eradicating Empty Directory Warning Code 0X80070091 in Windows 11 OS</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-hp-scanjet-drivers-windows-10-8-and-7-supported/"><u>Get the Newest HP Scanjet Drivers – Windows 10, 8 and 7 Supported</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-innovative-groups-shaping-future-of-vr-worlds/"><u>In 2024, Innovative Groups Shaping Future of VR Worlds</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-the-ultimate-guide-to-stock-investing-channels-online/"><u>In 2024, The Ultimate Guide to Stock Investing Channels Online</u></a></li>
+</ul></div>
+

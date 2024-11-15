@@ -1,7 +1,7 @@
 ---
 title: How to Show or Hide the “Dim Display After” Option in the Power Options Menu on Windows
-date: 2024-11-01T21:56:31.018Z
-updated: 2024-11-05T04:49:36.693Z
+date: 2024-11-11T16:21:31.403Z
+updated: 2024-11-15T17:09:27.829Z
 tags:
   - windows10
   - windows11
@@ -42,10 +42,10 @@ powercfg -attributes SUB_VIDEO 17aaa29b-8b43-4b94-aafe-35f64daaf1ee +ATTRIB_HIDE
  After entering the command you want, hit the **Enter** key on your keyboard for PowerShell to execute it. Afterward, the **Dim display after** option should appear or disappear accordingly in the Power Options menu.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Show or Hide the “Dim display after” Option Using the Registry Editor
@@ -55,10 +55,10 @@ powercfg -attributes SUB_VIDEO 17aaa29b-8b43-4b94-aafe-35f64daaf1ee +ATTRIB_HIDE
 ![regedit](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/regedit.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Click **Yes** to bypass the UAC prompt.
@@ -72,10 +72,10 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\7516b95f
 ![the attributes entry in the windows registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/regedit-dim-display-after-attributes-entry.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then, in the **Value data** text box, enter **1** to hide **Dim display after** in the Power Options menu or **2** to show it.
@@ -85,10 +85,10 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\7516b95f
  Now you can open the Power Options menu (see [how to open the power options on Windows 10](https://www.makeuseof.com/windows-10-open-power-options/)) and check under **Display** to see if the **Dim display after** option is there or not.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Controlling the “Dim Display After” Option in the Power Options Menu
@@ -110,16 +110,21 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\7516b95f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-echoes-of-antiquity-tracing-the-footsteps-of-ancient-scribes/"><u>[New] In 2024, Echoes of Antiquity Tracing the Footsteps of Ancient Scribes</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-cutting-edge-free-and-easy-top-11-youtube-title-inventors/"><u>[Updated] 2024 Approved Cutting-Edge, Free, and Easy Top 11 YouTube Title Inventors</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-bandicam-mastery-your-essential-checklist/"><u>[Updated] In 2024, Bandicam Mastery – Your Essential Checklist</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-z2-masterclass-smartphone-smarter-than-ever/"><u>[Updated] In 2024, Z2 Masterclass Smartphone Smarter Than Ever?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-modern-photo-editing-wonders-frame-integration-essentials-2023/"><u>2024 Approved Modern Photo Editing Wonders Frame Integration Essentials, 2023</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-closer-look-at-windows-11s-backup-processing-methods/"><u>A Closer Look at Windows 11'S Backup Processing Methods</u></a></li>
-<li><a href="https://windows11.techidaily.com/boost-efficiency-on-pc-best-apps-for-personalized-time-themed-screen-saver-creation/"><u>Boost Efficiency on PC: Best Apps for Personalized Time-Themed Screen Saver Creation</u></a></li>
-<li><a href="https://windows11.techidaily.com/boosting-browsing-security-enhanced-graphics-on-edge/"><u>Boosting Browsing Security: Enhanced Graphics on Edge</u></a></li>
-<li><a href="https://windows11.techidaily.com/control-your-machines-invisible-operations-on-window-11/"><u>Control Your Machine's Invisible Operations on Window 11</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/resolve-grainy-videos-sharpening-feed-and-playback-quality-online/"><u>Resolve Grainy Videos Sharpening Feed & Playback Quality Online</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-the-best-free-iphone-video-editing-apps-for-rotation-2023-review-for-2024/"><u>Updated The Best Free iPhone Video Editing Apps for Rotation 2023 Review for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-click-into-art-ultimate-edits-for-stunning-snaps/"><u>[New] 2024 Approved Click Into Art Ultimate Edits for Stunning Snaps</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-revolutionary-6-sustainable-minecraft-homes/"><u>[New] In 2024, Revolutionary 6 Sustainable Minecraft Homes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/controler-facilement-le-format-video-convertissez-votre-mkv-en-avi-sans-frais-via-notre-service-en-ligne-videaste-pro-expertise/"><u>Contrôler Facilement Le Format Vidéo: Convertissez Votre MKV en AVI Sans Frais via Notre Service en Ligne - Vidéaste Pro-Expertise</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decode-and-resolve-why-isnt-my-apple-watch-capturing-every-move/"><u>Decode and Resolve: Why Isn't My Apple Watch Capturing Every Move?</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-windows-junk-uninstall-list-revealed/"><u>Essential Windows Junk: Uninstall List Revealed</u></a></li>
+<li><a href="https://windows11.techidaily.com/guiding-steps-for-ms-office-installation-on-windows-1011/"><u>Guiding Steps for MS Office Installation on Windows 10/11</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-nubia-red-magic-8s-pro-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-apple-iphone-12-pro-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Photos from Apple iPhone 12 Pro to other iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-error-code-0x0001-on-nvidias-geforce-with-windows-11/"><u>Resolving Error Code 0X0001 on Nvidia's GeForce with Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-vanished-windows-badge-icons/"><u>Reviving Vanished Windows Badge Icons</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-phone-integration-for-retailers-using-windows-11-and-intel-unison/"><u>Seamless Phone Integration for Retailers Using Windows 11 & Intel Unison</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/step-by-step-process-to-get-a-clean-canvas-in-figma/"><u>Step-by-Step Process to Get a Clean Canvas in Figma</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-disregard-error-components-not-present-in-win10win11/"><u>Steps to Disregard Error: Components Not Present in Win10/Win11</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/top-10-animation-software-for-creating-stunning-animated-videos-for-2024/"><u>Top 10 Animation Software for Creating Stunning Animated Videos for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-12-prominent-xiaomi-redmi-k70-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Xiaomi Redmi K70 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-virtual-machines-matching-windows-11-specs/"><u>Winning Virtual Machines Matching Windows 11 Specs</u></a></li>
 </ul></div>
 

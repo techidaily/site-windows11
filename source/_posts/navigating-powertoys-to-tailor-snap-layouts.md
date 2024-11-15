@@ -1,7 +1,7 @@
 ---
 title: Navigating PowerToys to Tailor Snap Layouts
-date: 2024-08-22T21:41:38.686Z
-updated: 2024-08-23T21:41:38.686Z
+date: 2024-11-08T16:31:15.539Z
+updated: 2024-11-15T17:16:52.868Z
 tags:
   - windows10
   - windows11
@@ -52,6 +52,13 @@ thumbnail: https://thmb.techidaily.com/0f08e68155172a78a589fb6b8f18fbb5a0a1a4069
 
 ![Snap Layout on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/snap-layout-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Customize FancyZones Settings in PowerToys
 
  In addition to creating personalized snap layouts,[PowerToys offers multiple options](https://www.makeuseof.com/tag/windows-10-powertoys/) to customize zone appearance, modify window behavior, exclude specific apps, and more. Let’s see how to use them.
@@ -59,6 +66,13 @@ thumbnail: https://thmb.techidaily.com/0f08e68155172a78a589fb6b8f18fbb5a0a1a4069
  Open PowerToys and navigate to the**FancyZones** tab. In the**Zone appearance** section, you can customize the look of zones by adjusting colors, opacity, and other aspects.
 
 ![Customize Zone Appeareance in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/customize-zone-appeareance-in-powertoys.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Similarly, in the**Window behavior** section, you can use the checkboxes to specify how windows should behave when you use FancyZones. You can, for example, configure windows to revert to their original size when unsnapped using the**Restore the original size of windows when unsnapping** checkbox.
 
@@ -68,25 +82,33 @@ thumbnail: https://thmb.techidaily.com/0f08e68155172a78a589fb6b8f18fbb5a0a1a4069
 
 ![Overide Windows Snap Setting in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/overide-windows-snap-setting-in-powertoys.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  With FancyZones, you can prevent specific apps and programs from snapping to zones. To do so, scroll down to the**Excluded apps** section in the FancyZones tab. Then, type in the name of the app you want to exclude. For instance, if you wanted to prevent File Explorer from snapping to zones, you’d type**explorer.exe** in the text field.
 
 ![Exlude Apps in FancyZones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/exlude-apps-in-fancyzones.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Multitask Better With Custom Snap Layouts on Windows 11
 
  If the default snap layout options do not meet your needs, you can always use PowerToys to create custom snap layouts. However, that is not the only thing you can do with PowerToys. You can use it to rename files, resize images in bulk, keep your computer awake, and do a variety of other things.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -95,4 +117,16 @@ thumbnail: https://thmb.techidaily.com/0f08e68155172a78a589fb6b8f18fbb5a0a1a4069
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://iphone-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-se-drfone-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-best-online-stock-market-channels-reviewed/"><u>In 2024, Best Online Stock Market Channels Reviewed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-movement-enhancing-your-photos-with-illustrators-motion-blur/"><u>In 2024, The Art of Movement Enhancing Your Photos with Illustrator's Motion Blur</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-amd-radeon-hd-graphics-software-on-windows-7/"><u>Installing AMD Radeon HD Graphics Software on Windows 7</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximizing-efficiency-set-predefined-app-sizes-in-win11/"><u>Maximizing Efficiency: Set Predefined App Sizes in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/suppress-windows-extra-audio-functionality/"><u>Suppress Windows Extra Audio Functionality</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailor-your-own-lock-pattern-in-windows-11/"><u>Tailor Your Own Lock Pattern in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-enigma-of-windows-11s-invisibles-menus-and-tools/"><u>The Enigma of Windows 11'S Invisibles Menus and Tools</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Tecno Spark Go (2023) | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unblock and Unlock Notepad on Windows: 7 Proven Tricks to Open It Up"
-date: 2024-10-29T22:08:42.813Z
-updated: 2024-11-05T06:17:45.081Z
+date: 2024-11-12T16:51:37.964Z
+updated: 2024-11-15T17:38:41.775Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/2527931ff4c659441e41ccebfbfcddf054977d94a
 
  You could also ask Cortana to open Notepad. However, if none of these methods work, proceed to the next solution.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Set Notepad as the Default Text Editor
 
  If Notepad is not set as the default text editor app on Windows, your text files may open in a different app. If you don't want that, use these steps to set Notepad as the default text editor app.
@@ -51,10 +58,10 @@ thumbnail: https://thmb.techidaily.com/2527931ff4c659441e41ccebfbfcddf054977d94a
 Try opening a few text files and see if they open in Notepad.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Repair or Reset the Notepad App
@@ -71,10 +78,10 @@ To repair the Notepad app on Windows:
 ![Repair or Reset the Notepad App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/repair-or-reset-the-notepad-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You should see a checkmark next to the Repair button once the process is complete. Then, try to[open the Notepad app](https://www.makeuseof.com/windows-11-open-notepad/) again.
@@ -86,13 +93,6 @@ To repair the Notepad app on Windows:
 3. Under the Reset section, click the**Reset** button.
 
  Windows will reset the Notepad app to its default version, which should resolve any issues with it.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Reinstall the Notepad App
 
@@ -112,10 +112,10 @@ To repair the Notepad app on Windows:
 ![Install Notepad App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/install-notepad-app-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Wait for Windows to install Notepad on your computer and then try to open it using the search menu.
@@ -147,16 +147,10 @@ To run the SFC scan on Windows:
  If you perform a clean boot and Notepad opens normally, it means that the culprit causing the issue got disabled. If you'd like to learn more about the topic, check out our guide on[how to perform a clean boot on Windows](https://www.makeuseof.com/how-perform-clean-boot-windows-10/) and follow the steps listed there.
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Create Another User Account
@@ -194,24 +188,24 @@ To create a new user account on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-demystifying-mac-audio-capture-via-audacity/"><u>[New] 2024 Approved Demystifying Mac Audio Capture via Audacity</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-enlightening-the-path-to-professional-photo-videos-with-pixiz-for-2024/"><u>[New] Enlightening the Path to Professional Photo Videos with Pixiz for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-discovering-the-wonders-of-a-vr-device/"><u>[New] In 2024, Discovering the Wonders of a VR Device</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/agging-and-title-strategies-for-youtube-success-stories/"><u>[New] Tagging and Title Strategies for YouTube Success Stories</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-the-hidden-paths-to-pristine-stock-photography/"><u>[Updated] In 2024, The Hidden Paths to Pristine Stock Photography</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-nokia-c12-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Nokia C12 Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-oneplus-12-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your OnePlus 12 Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95683675-9781440534379-a-haunted-october/"><u>A Haunted October | Free Book</u></a></li>
-<li><a href="https://windows11.techidaily.com/convenience-at-a-click-discover-how-to-enable-gestures-on-edge-windows-11/"><u>Convenience at a Click: Discover How to Enable Gestures on Edge (Windows 11)</u></a></li>
-<li><a href="https://windows11.techidaily.com/deciphering-epochal-passphrase-problem-in-windows-os/"><u>Deciphering “Epochal Passphrase Problem in Windows OS”</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-step-into-success-with-instant-youtube-thumbnail-skills/"><u>In 2024, Step Into Success with Instant YouTube Thumbnail Skills</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-poco-x6-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Poco X6 Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://windows11.techidaily.com/mending-the-absence-of-dxgidll-in-new-os-windows-11/"><u>Mending the Absence of Dxgi.dll in New OS, Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-windows-11-multi-display-setup/"><u>Navigating Windows 11 Multi-Display Setup</u></a></li>
-<li><a href="https://windows11.techidaily.com/power-preservation-pitfalls-the-reality-of-modern-standby/"><u>Power Preservation Pitfalls: The Reality of Modern Standby</u></a></li>
-<li><a href="https://windows11.techidaily.com/preventing-dual-device-names-on-your-windows-network/"><u>Preventing Dual Device Names on Your Windows Network</u></a></li>
-<li><a href="https://windows11.techidaily.com/solving-absence-of-windows-1011-search-outcomes/"><u>Solving Absence of Windows 10/11 Search Outcomes</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-ultimate-list-of-windows-11-navshortcuts/"><u>The Ultimate List of Windows 11 NavShortcuts</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-zoom-error-1132-on-windows-11/"><u>Troubleshooting Zoom Error 1132 on Windows 11</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-going-from-end-to-start-the-instagram-video-technique/"><u>[New] 2024 Approved Going From End to Start The Instagram Video Technique</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-capture-screens-in-windows-8-4-methods/"><u>[New] In 2024, Capture Screens in Windows 8 4 Methods</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-techniques-for-enlarging-content-on-youtube-platform/"><u>[New] Techniques for Enlarging Content on YouTube Platform</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-top-screen-capture-contenders-a-comprehensive-review/"><u>[Updated] In 2024, Top Screen Capture Contenders A Comprehensive Review</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-perfecting-visual-output-integrating-luts-into-ae-projects/"><u>2024 Approved Perfecting Visual Output Integrating LUTs Into AE Projects</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-subscriber-supreme-ranked-global-youtube-personalities-by-numbers/"><u>2024 Approved Subscriber Supreme Ranked Global YouTube Personalities by Numbers</u></a></li>
+<li><a href="https://facebook.techidaily.com/cut-the-cord-the-essential-steps-before-dismantling-your-fb-life/"><u>Cut the Cord - The Essential Steps Before Dismantling Your FB Life</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-manually-install-a-driver-in-windows-1110-by-drivereasy-guide/"><u>How to Manually Install a Driver in Windows 11/10</u></a></li>
+<li><a href="https://windows11.techidaily.com/key-to-command-line-shorthand-in-program-launches/"><u>Key to Command Line Shorthand in Program Launches</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-8-windows-cutting-apps-for-videos/"><u>Master 8 Windows Cutting Apps for Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-connection-4-ways-to-determine-router-speed-on-windows/"><u>Optimize Connection: 4 Ways to Determine Router Speed on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/pathway-to-windows-11-utilizing-windows-7-key-as-a-gateway/"><u>Pathway to Windows 11: Utilizing Windows 7 Key as a Gateway</u></a></li>
+<li><a href="https://windows11.techidaily.com/proving-win-hardware-with-top-6-graphics-testing-apps/"><u>Proving Win Hardware with Top 6 Graphics Testing Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/regain-access-to-sd-card-in-file-explorer-window/"><u>Regain Access to SD Card in File Explorer Window</u></a></li>
+<li><a href="https://windows11.techidaily.com/resetting-icons-the-step-by-step-process/"><u>Resetting Icons: The Step-by-Step Process</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-control-panel-error-with-missing-display-adjustments/"><u>Resolving Control Panel Error with Missing Display Adjustments</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snag-your-iphone-for-a-bargain-this-october-get-the-latest-macbook-air-with-m2-processor-on-sale-for-just-749-during-amazons-prime-day-event-insider-details11/"><u>Snag Your iPhone for a Bargain This October! Get the Latest MacBook Air with M2 Processor on Sale for Just $749 During Amazon's Prime Day Event – Insider Details</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailoring-user-experience-customizing-windows-pin-lengths/"><u>Tailoring User Experience: Customizing Windows PIN Lengths</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-chatgpt-could-be-your-go-to-resource-for-health-tips/"><u>Why ChatGPT Could Be Your Go-To Resource for Health Tips?</u></a></li>
 </ul></div>
 

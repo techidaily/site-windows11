@@ -1,7 +1,7 @@
 ---
 title: "Tackling the Win 11 Challenge: Reversing the Operation Elevation Mistake"
-date: 2024-10-30T02:44:59.838Z
-updated: 2024-11-04T19:02:31.280Z
+date: 2024-11-12T17:29:50.266Z
+updated: 2024-11-15T16:30:14.199Z
 tags:
   - windows10
   - windows11
@@ -32,10 +32,10 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 ![The Run this program as an administrator checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/run-this-program-as-an-administrator.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Set Programs to Run in Compatibility Mode
@@ -55,17 +55,10 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 ![The User Account Control Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/user-account-control-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Adjust Folder Permission Settings
@@ -81,6 +74,13 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 5. Click **Advanced** to access more security settings.  
 ![The Security tab and Advanced button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-security-tab3.jpg)
 6. Select the **Replace all child object permissions entries with inheritable permission entries from this object** checkbox.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![The Replace all child object permission entries checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/replace-all-child-objects-option.jpg)
 7. Click **Apply** on the Advanced Security Settings window.
@@ -105,13 +105,6 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 ![The Elevate without prompting option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/elevate-without-prompting.jpg)
 7. Click **Apply** to set the **Elevate without prompting policy**.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8. Select **OK** to close the policy setting’s window.
 9. Then reboot Windows after closing Group Policy Editor.
 
@@ -123,6 +116,13 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 2. Double-click the **User Account Control: Admin Approval Mode for the Built-in Administrator account** policy setting.  
 ![The Admin Approval Mode policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/admin-approval-mode-policy.jpg)
 3. Click the **Disabled** radio button if this policy is enabled.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![the-enabled-radio-button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-enabled-radio-button.jpg)
 4. Select **Apply** to turn off Admin Approval Mode.
@@ -138,16 +138,10 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If disabling the security software works, you don’t necessarily have to turn the security software off whenever you want to run the application file. Your antivirus software will probably include an exclusion list to which you can add trustworthy program file exceptions. Add the affected EXE file there to exclude it from the antivirus protection.
@@ -159,10 +153,16 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 ![The Add account option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/add-account-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To apply this troubleshooting method for the “requested operation requires elevation” error, follow the instructions within this article about [how to fix Windows issues by creating new user accounts](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/). First, you’ll need to set up and sign in to the new admin account to see if the error occurs there. If not, transfer user files into the new account as covered there.
@@ -183,15 +183,21 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-boosting-your-short-form-video-content-on-youtube/"><u>[New] 2024 Approved Boosting Your Short-Form Video Content on Youtube</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-early-bird-shooters-guide-to-cams-of-24/"><u>[New] 2024 Approved Early Bird Shooter’s Guide to Cams of '24</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-unleash-speed-in-your-youtube-videography-with-rapid-techniques/"><u>[New] In 2024, Unleash Speed in Your YouTube Videography with Rapid Techniques</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-charting-2023s-social-trend-peaks-in-graphs/"><u>[Updated] 2024 Approved Charting 2023'S Social Trend Peaks in Graphs</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-professional-image-perfection-the-premier-iphone-object-removal-apps/"><u>[Updated] Professional Image Perfection The Premier iPhone Object Removal Apps</u></a></li>
-<li><a href="https://windows11.techidaily.com/bringing-windows-backups-back-to-basics/"><u>Bringing Windows Backups Back to Basics</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-device-disabled-issue-with-error-code-22-on-windows-11/"><u>Correcting Device Disabled Issue with Error Code 22 on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-install-access-denied-windows-setup-issue/"><u>Correcting Install Access Denied Windows Setup Issue</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719298315535-solving-your-full-screen-capture-predicament-with-snip-and-sketch/"><u>Solving Your Full-Screen Capture Predicament with Snip & Sketch.</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-step-by-step-process-of-wiping-your-dell-pc/"><u>Ultimate Guide: Step-by-Step Process of Wiping Your Dell PC</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-unlocking-the-potential-of-quantum-hdr/"><u>[Updated] In 2024, Unlocking the Potential of Quantum HDR</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-spawn-a-shared-chuckle/"><u>2024 Approved Spawn a Shared Chuckle</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/audew-travel-friendly-compressor-pump-detailed-expert-review/"><u>Audew Travel-Friendly Compressor Pump - Detailed Expert Review</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-the-secrets-of-advanced-virtualization/"><u>In 2024, Unlocking the Secrets of Advanced Virtualization</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-performance-hiccups-keeping-pc-fall-guys-running-smoothly/"><u>Resolving Performance Hiccups: Keeping [PC] Fall Guys Running Smoothly</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-ultimate-hack-for-blocking-youtube-ads-on-all-browsers-for-2024/"><u>The Ultimate Hack for Blocking YouTube Ads on All Browsers for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-in-depth-reviews-and-analysis-of-the-latest-hardware/"><u>Tom's Tech Insights: In-Depth Reviews and Analysis of the Latest Hardware</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-picks-superior-non-adobe-tools-boosting-your-upcoming-design-endeavors/"><u>Top Picks: Superior Non-Adobe Tools Boosting Your Upcoming Design Endeavors</u></a></li>
+<li><a href="https://windows11.techidaily.com/transitioning-to-windows-11-the-top-features-im-nostalgic-for-from-windows-10/"><u>Transitioning to Windows 11: The Top Features I'm Nostalgic for From Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixes-restoring-audio-in-apex-legends/"><u>Troubleshooting Fixes: Restoring Audio in Apex Legends</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-guide-resolving-issues-with-google-maps-functionality/"><u>Troubleshooting Guide: Resolving Issues with Google Maps Functionality</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-tips-fixing-the-an-error-has-happened-while-solving-problems-on-windows-11-or-10/"><u>Troubleshooting Tips: Fixing the 'An Error Has Happened While Solving Problems' On Windows 11 or 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleash-the-potential-of-local-ai-driven-imagery-creation-the-ultimate-windows-solution/"><u>Unleash the Potential of Local AI-Driven Imagery Creation: The Ultimate Windows Solution</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleashing-productivity-leveraging-microsoft-copilot-for-enhanced-windows-11-performance/"><u>Unleashing Productivity: Leveraging Microsoft Copilot for Enhanced Windows 11 Performance</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-control-panel-powers-launching-group-policy-editor-in-windows-10/"><u>Unlocking Control Panel Powers: Launching Group Policy Editor in Windows 10</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-avi-video-editing-on-a-budget-top-5-free-options-for-2024/"><u>Updated AVI Video Editing on a Budget Top 5 Free Options for 2024</u></a></li>
 </ul></div>
 

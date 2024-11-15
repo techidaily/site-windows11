@@ -1,7 +1,7 @@
 ---
 title: How to Mend Nvidia's GeForce Experience Errors in Windows
-date: 2024-08-22T21:42:39.839Z
-updated: 2024-08-23T21:42:39.839Z
+date: 2024-11-11T17:02:46.237Z
+updated: 2024-11-15T16:06:00.726Z
 tags:
   - windows10
   - windows11
@@ -37,9 +37,24 @@ Follow these steps to add a game or app for optimization manually:
 1. Click the toggle next to your account name and select**Account** .  
 ![GeForce Experience Dashboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/geforce-experience-dashboard.jpg)
 2. Click**GAMES & APPS > ADD** to open the Windows File Explorer.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Select the folder where you've installed the game or app and click**Select Folder** .  
 ![Game Folder Location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/game-folder-location.jpg)
 4. Click**SCAN NOW** to let GeForce Experience add your selected game to its dashboard.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This is a simple and quick way to add your games to GeForce Experience manually. If this method doesn't work for you, consider the advanced solutions below.
 
@@ -57,10 +72,14 @@ Follow these steps to add a game or app for optimization manually:
 4. Right-click on it and select the**Restart** option from the context menu.  
 ![NVIDIA Display Container Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/nvidia-display-container-service.jpg)
 5. Do the same process, i.e., restart the service with**NVIDIA LocalSystem Container** and**Cryptographic** **Services** .  
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![Cryptographic Windows Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/cryptographic-windows-service.jpg)
 6. Once done, make sure to restart your PC once.
 
@@ -68,9 +87,6 @@ Follow these steps to add a game or app for optimization manually:
 
  Please note that restarting the Windows services is not the only fix! If you're still struggling to scan your game, move forward to try some advanced troubleshooting measures.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Run GeForce Experience as an Administrator
 
  Running GeForce Experience as an administrator can help you fix scanning-related issues. Running an application in administrator mode allows a program to run with system-level permissions and access the necessary system resources without restrictions.
@@ -103,25 +119,25 @@ Follow these steps to add a game or app for optimization manually:
 2. Type**%LocalAppData%** on its navigation bar and press**Enter** .  
 ![LocalAppData Explorer Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/localappdata-explorer-command.jpg)
 3. Search for the**NVIDIA Corporation** folder and delete it. You can select**NVIDIA Corporation** and press**Shift + Del** to delete the folder permanently.  
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![NVIDIA Corporation Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/nvidia-corporation-folder.jpg)
 4. Once you delete the folder, open GeForce Experience and check for scanning issues.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  We advise you to be very careful while deleting files from the AppData folder. Deleting the wrong file can lead to other problems that may leave you in trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6\. Reinstall GeForce Experience on Your Desktop
 
  No matter how big the Windows issue is, reinstalling the affected program works most of the time.
@@ -136,13 +152,14 @@ Follow these steps to add a game or app for optimization manually:
 4. On the**NVIDIA Installer** window, click**AGREE AND INSTALL** .  
 ![NVIDIA Installer Overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/nvidia-installer-overview.jpg)
 5. Follow the on-screen instructions to set up the program on your desktop.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 6. Once the setup is over, you can click the three-dot menu and then**Scan for games & apps** . This will scan your entire Windows system for installed games or apps for optimization.  
 ![GeForce Experience Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/geforce-experience-menu.jpg)
 
@@ -154,14 +171,11 @@ No advertising on the website.
 
  Hopefully, all the mentioned methods should help you regain the scanning feature in one go. Once you are ready for scanning, you will love its ease-of-optimization capabilities for sure.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -170,4 +184,24 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-effortless-subscriber-acquisition-for-enhanced-viewership/"><u>[Updated] 2024 Approved Effortless Subscriber Acquisition for Enhanced Viewership</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-impact-of-instant-subscribing-on-online-viewing-habits/"><u>[Updated] The Impact of Instant Subscribing on Online Viewing Habits</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-steps-for-recognizing-and-fixing-disabled-hard-drives-in-windows-11/"><u>Essential Steps for Recognizing and Fixing Disabled Hard Drives in Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-correctly-install-and-repair-hp-envy-4520-printer-drivers-on-your-window-machine/"><u>How to Correctly Install and Repair HP Envy 4520 Printer Drivers on Your Window Machine</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-immediately-stop-windows-iomap64-bsod/"><u>How To Immediately Stop Windows IOMap64 BSOD</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-infinix-note-30-5g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Infinix Note 30 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-poco-c51-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Poco C51 to Protect Your Individual Information</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-startup-routine-creating-shortcuts-near-power-button-for-win11/"><u>Optimizing Startup Routine: Creating Shortcuts Near Power Button for Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/rectifying-winrar-summation-errors-a-sixfold-approach/"><u>Rectifying WinRAR Summation Errors: A Sixfold Approach</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/repairing-password-management-on-windows-systems/"><u>Repairing Password Management on Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/swiftly-tackling-windows-application-issues-with-7-solutions/"><u>Swiftly Tackling Windows Application Issues with 7 Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-essential-guide-to-playing-ps1-on-windows-duckstation/"><u>The Essential Guide to Playing PS1 on Windows - Duckstation</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-connect-now-message-in-windows-bluetooth/"><u>Troubleshooting Connect Now Message in Windows Bluetooth</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unlocking-high-quality-videos-youtubes-enhancement-secrets-revealed-for-2024/"><u>Unlocking High-Quality Videos YouTube's Enhancement Secrets Revealed for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/virtual-readiness-confirm-your-webcammic-functionality-windows/"><u>Virtual Readiness: Confirm Your Webcam/Mic Functionality (Windows)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/winxdvd-free-download-offer-with-promotional-discount-code/"><u>WinXDVD FREE Download Offer with Promotional Discount Code</u></a></li>
+<li><a href="https://program-issues.techidaily.com/wsappx-explained-methods-to-tackle-high-disk-and-cpu-utilization-efficiently/"><u>WSAPPX Explained: Methods to Tackle High Disk and CPU Utilization Efficiently</u></a></li>
+</ul></div>
 

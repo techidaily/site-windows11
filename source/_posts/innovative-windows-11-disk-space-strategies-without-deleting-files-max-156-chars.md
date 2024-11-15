@@ -1,7 +1,7 @@
 ---
 title: Innovative Windows 11 Disk Space Strategies Without Deleting Files (Max 156 Chars)
-date: 2024-10-28T22:35:25.773Z
-updated: 2024-11-05T03:35:55.381Z
+date: 2024-11-12T16:22:01.729Z
+updated: 2024-11-15T17:09:53.532Z
 tags:
   - windows10
   - windows11
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 
  Exactly how much drive space NTFS compression will free up can be variable. If you have many uncompressed user document files on your drive, then NTFS will likely free up at least a few gigabytes of storage space. However, this compression won’t free up so much space if there aren’t many user files on your PC’s drive. The only way to find out is to try it on at least one large folder.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Disable System Restore
 
  System Restore is a troubleshooting tool for restoring Windows to saved system snapshots (restore points). Restore points consume gigabytes of hard drive space, even when set to low usage. Disabling System Restore will stop that utility from saving further restoration points, which will free up space on your C: drive in the future. This is how you can disable System Restore:
@@ -51,25 +44,19 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 ![The Configure button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-configure-button.jpg)
 5. Click the **Disable system protection** option.  
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Disable system protection radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-system-protection-option.jpg)
 6. Select **Apply** to save the system protection settings.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Click the System Protection window’s **OK** option.
 
  If you prefer to keep **System Restore** on, you can still at least reduce that utility’s disk usage. To do so, drag the **Max Usage** bar’s slider left on the System Protection window.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Convert Your Saved Video Files Into the MP4 Format
 
@@ -86,6 +73,13 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 ![The Choose File button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/from-a-device-option.jpg)
 5. Press **Open** to add the selected videos.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Click **Start** to convert the video to MP4\.
 7. Select **Download** to save the converted MP4 videos.
 
@@ -100,10 +94,17 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 ![The image format conversion web app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/image-format-conversion-tool.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Reduce the Recycle Bin’s Size
@@ -119,10 +120,10 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 4. Click **Apply** and **OK** in the Recycle Bin Properties window.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Create ZIP Archives for Storing Files
@@ -141,6 +142,13 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 
 ![Google Drive cloud storage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/google-drive-storage.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Utilize Third-Party Web Apps and Portable Programs
 
  Installing more software packages consumes the most space on your PC’s C: drive. You can save C: drive space by utilizing the many freely available web apps instead of installing desktop software.
@@ -152,13 +160,6 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
  Utilizing portable apps is another good way to save drive space, because you don't need to install them. You can even run the portable apps from a USB stick instead of your PC’s local drive. To do so, download the files for portable app versions to your USB stick from their websites.
 
  You can also [add a portable app menu to Windows 11](https://www.makeuseof.com/windows-add-portable-software-menu/#) with software like LiberKey and SyMenu. The [PortableApps](https://portableapps.com/) program also enables you to install and access many portable apps from a dedicated menu.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Free Up Your Windows Drive Space Without Deleting a Thing
 
@@ -178,16 +179,22 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-how-to-effortlessly-record-your-iphone-screen/"><u>[Updated] 2024 Approved How to Effortlessly Record Your iPhone Screen</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-instant-impact-facebook-vids/"><u>[Updated] In 2024, Instant Impact Facebook Vids</u></a></li>
-<li><a href="https://windows11.techidaily.com/5-ways-to-close-multiple-apps-simultaneously-on-windows/"><u>5 Ways to Close Multiple Apps Simultaneously on Windows</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/3gpwma-movavi/"><u>線上即時 3GP至WMA無成本導航 - Movavi 轉換器解決方案</u></a></li>
-<li><a href="https://techtrends.techidaily.com/amazon-prime-tutorial-how-to-turn-off-subtitle-functionality-for-optimal-watching/"><u>Amazon Prime Tutorial: How To Turn Off Subtitle Functionality For Optimal Watching</u></a></li>
-<li><a href="https://windows11.techidaily.com/beating-steam-disk-write-failures-on-windows-pc/"><u>Beating Steam Disk Write Failures on Windows PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/boosting-windows-vram-a-step-by-step-guide/"><u>Boosting Windows VRAM: A Step-by-Step Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/detecting-correct-credentials-vs-error-logins-on-your-winpc/"><u>Detecting Correct Credentials vs Error Logins on Your WinPC</u></a></li>
-<li><a href="https://windows11.techidaily.com/disable-auto-updates-in-windows-and-office-instantly/"><u>Disable Auto-Updates in Windows & Office Instantly</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-xiaomi-civi-3-disney-100th-anniversary-edition-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Xiaomi Civi 3 Disney 100th Anniversary Edition Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/terraria-stability-issues-try-these-2024-fixes-and-tricks/"><u>Terraria Stability Issues? Try These 2024 Fixes & Tricks!</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-how-to-shave-seconds-off-your-youtube-video-submission/"><u>[New] 2024 Approved How to Shave Seconds Off Your YouTube Video Submission</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-unmasking-the-hype-fact-based-insights-into-instagrams-reels/"><u>[Updated] 2024 Approved Unmasking the Hype Fact-Based Insights Into Instagram's Reels</u></a></li>
+<li><a href="https://windows11.techidaily.com/1-uncontrollable-mouse-movements-effective-solutions-to-regain-control/"><u>1. Uncontrollable Mouse Movements: Effective Solutions to Regain Control</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-realme-11-5g-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Realme 11 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/future-of-windows-11s-copilot-feature-understanding-the-phasing-out-process/"><u>Future of Windows 11'S Copilot Feature: Understanding the Phasing Out Process</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-oneplus-open-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove OnePlus Open Fingerprint Lock</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722964711297-latest-brother-mfc-7860dw-drivers-for-windows-free-downloads-available/"><u>Latest Brother MFC- 7860DW Drivers for Windows - Free Downloads Available</u></a></li>
+<li><a href="https://windows11.techidaily.com/microsoft-successfully-addresses-persistent-problems-with-latest-windows-update-releases/"><u>Microsoft Successfully Addresses Persistent Problems with Latest Windows Update Releases</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/overcoming-group-policy-constraints-on-windows-defender-your-ultimate-4-step-solution/"><u>Overcoming Group Policy Constraints on Windows Defender – Your Ultimate 4-Step Solution</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-tutorial-on-locking-your-system-via-the-windows-11-command-line/"><u>Step-by-Step Tutorial on Locking Your System via the Windows 11 Command Line</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-microsoft-edge-by-disabling-redundant-features-techniques-and-tips/"><u>Streamlining Microsoft Edge by Disabling Redundant Features - Techniques and Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-10-fundamental-windows-terminal-commands-every-new-user-should-know/"><u>Top 10 Fundamental Windows Terminal Commands Every New User Should Know</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-10-places-for-accessing-gratis-graphics-for-2024/"><u>Top 10 Places for Accessing Gratis Graphics for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-7-linux-qualities-deserving-a-spot-in-the-next-windows-update/"><u>Top 7 Linux Qualities Deserving a Spot in the Next Windows Update</u></a></li>
+<li><a href="https://windows11.techidaily.com/transform-messy-script-into-neat-text-with-microsoft-onenotes-new-feature/"><u>Transform Messy Script Into Neat Text with Microsoft OneNote's New Feature!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transforma-tu-formato-multimedia-conversion-sin-costo-mkv-a-mp3-en-linea-por-expertos-soluciones-de-movavi/"><u>Transforma Tu Formato Multimedia: Conversión Sin Costo MKV a MP3 en Línea Por Expertos - Soluciones De Movavi</u></a></li>
 </ul></div>
 

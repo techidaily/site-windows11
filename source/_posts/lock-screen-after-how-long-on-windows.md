@@ -1,7 +1,7 @@
 ---
 title: Lock Screen After How Long on Windows?
-date: 2024-10-29T01:46:11.364Z
-updated: 2024-11-04T16:54:54.617Z
+date: 2024-11-14T16:21:33.657Z
+updated: 2024-11-15T16:12:06.389Z
 tags:
   - windows10
   - windows11
@@ -46,10 +46,10 @@ thumbnail: https://thmb.techidaily.com/7180d1f46214638b981f44d739909bb52ccedea12
 2. Click the down arrow next to**Local Policies** in the left pane to expand it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Click on**Security Options** to open it.
@@ -58,10 +58,10 @@ thumbnail: https://thmb.techidaily.com/7180d1f46214638b981f44d739909bb52ccedea12
 5. Under the section**Machine will be locked after** , enter the time in seconds after which you want your PC to get locked automatically. This time is the time of machine inactivity or the time when your PC is idle. You can enter the time between**0** to**599940** seconds. For this tutorial, we'll enter**300 seconds** which is five minutes. Now click on**Apply** and then**OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Finally, close the Local Security Policy window and restart your computer for the change to take effect.
@@ -84,21 +84,14 @@ thumbnail: https://thmb.techidaily.com/7180d1f46214638b981f44d739909bb52ccedea12
 ![Navigate to System Key in Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/navigate-to-system-key-in-registry-editor.jpg)
 4. Click on the**System** key in the left pane and its components will open up in the right pane. Now scroll down to get to the**InactivityTimeoutSecs** DWORD.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Scroll to InactivityTimeoutSecs in System Key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/scroll-to-inactivitytimeoutsecs.jpg)
 5. Double-click on the**InactivityTimeoutSecs** DWORD to modify its value. Select**Decimal** under**Base** , and under**Value data** , enter a number between**0** to**599940** —this is the time in seconds after which your PC will get locked automatically. Like in the Local Security Policy method, we'll give it a time of**300 seconds** or five minutes. Now tap on**OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. In case you do not find the**InactivityTimeoutSecs** DWORD in your registry, you can create it. Right-click on the**System** key folder in the left pane or right-click on a space in the right pane of the**System** key. Select**New** , then select**DWORD (32-bit) Value** .  
@@ -111,6 +104,13 @@ thumbnail: https://thmb.techidaily.com/7180d1f46214638b981f44d739909bb52ccedea12
  Now your PC will get locked if you're not using it or are away from it after the time you have set in the Registry Editor. If you're on a Windows 11 machine, you can also[explore a few other ways to lock your PC](https://www.makeuseof.com/windows-11-ways-to-lock/) .
 
  To stop your PC from getting locked automatically, modify the**InactivityTimeoutSecs** DWORD value in the Registry Editor by changing the time to**0** seconds.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Work Worry-Free on Your Windows PC With a Custom Time-Out Lock
 
@@ -133,24 +133,18 @@ thumbnail: https://thmb.techidaily.com/7180d1f46214638b981f44d739909bb52ccedea12
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-mastering-instagrams-qanda-feature-beyond-the-basics-for-2024/"><u>[New] Mastering Instagram's Q&A Feature Beyond the Basics for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-exclusive-apps-to-record-on-iphone/"><u>[Updated] Exclusive Apps to Record on iPhone</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-crafting-effective-teacher-videos-on-youtube-top-10-strategies/"><u>[Updated] In 2024, Crafting Effective Teacher Videos on YouTube – Top 10 Strategies</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-through-the-lens-through-the-mind-advanced-photo-editing-mastery/"><u>[Updated] In 2024, Through the Lens, Through the Mind Advanced Photo Editing Mastery</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoid-installation-issues-fixing-zero-error-on-win11/"><u>Avoid Installation Issues: Fixing Zero Error on Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehending-winservicesexe-for-effective-troubleshooting/"><u>Comprehending Winservices.exe for Effective Troubleshooting</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/conquer-your-pcs-blues-in-depth-strategies-for-dealing-with-the-stop-error-0x0000001a-on-windows-machines/"><u>Conquer Your PC's Blues: In-Depth Strategies for Dealing With the STOP Error 0X0000001A on Windows Machines</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-flawed-setups-a-guide-to-windows-package-woes/"><u>Fixing Flawed Setups: A Guide to Windows Package Woes</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-enabling-or-disabling-wi-fi-cost-tracking-in-windows-11/"><u>Guide: Enabling or Disabling Wi-Fi Cost Tracking in Windows 11</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-navigating-online-marketplaces-for-yt-channel-sales/"><u>In 2024, Navigating Online Marketplaces for YT Channel Sales</u></a></li>
-<li><a href="https://windows11.techidaily.com/insights-on-how-to-utilize-execution-nicknames/"><u>Insights on How to Utilize Execution Nicknames</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-heic-file-compatibility-on-windows-operating-systems-for-optimal-viewing-experience/"><u>Mastering HEIC File Compatibility on Windows Operating Systems for Optimal Viewing Experience</u></a></li>
-<li><a href="https://windows11.techidaily.com/methods-for-lowering-tiworkerexe-process-resource-use/"><u>Methods for Lowering TiWorker.exe Process Resource Use</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-multi-screen-brightness-best-tools-to-light-up-your-windows-monitors/"><u>Navigating Multi-Screen Brightness: Best Tools to Light Up Your Windows Monitors</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-installation-hurdles-downloading-and-setting-up-age-of-empires-iv-from-the-microsoft-marketplace/"><u>Overcome Installation Hurdles: Downloading and Setting up Age of Empires IV From the Microsoft Marketplace</u></a></li>
-<li><a href="https://windows11.techidaily.com/smart-task-management-microsofts-ai-copilot-for-windows-11-enhances-workflow/"><u>Smart Task Management: Microsoft's AI Copilot for Windows 11 Enhances Workflow</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-solution-to-cease-iomap64-syscall-freezes-on-windows/"><u>Step-by-Step Solution to Cease IOMap64 Syscall Freezes on Windows</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/total-mastery-of-powerdirector-with-our-review-and-guide/"><u>Total Mastery of PowerDirector with Our Review & Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-security-beyond-bitlocker-top-4-choices/"><u>Windows Security Beyond BitLocker: Top 4 Choices</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-the-content-dilemma-deciding-on-the-best-platform-igtv-or-youtube/"><u>[New] 2024 Approved The Content Dilemma Deciding on the Best Platform - IGTV or YouTube</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-the-pinnacle-of-voice-recording-a-comprehensive-tome/"><u>[Updated] The Pinnacle of Voice Recording A Comprehensive Tome</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/cam-division-is-splitcam-the-1-choice-in-2024/"><u>Cam Division Is SplitCam the #1 Choice, In 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/cracking-down-on-problematic-crashes-stable-gameplay-for-pathfinder-the-wrath-of-the-righteous-fixes-revealed/"><u>Cracking Down on Problematic Crashes: Stable Gameplay for Pathfinder - The Wrath of the Righteous Fixes Revealed</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-a-twitchy-pointer-in-your-desktop-environment/"><u>Fixing a Twitchy Pointer in Your Desktop Environment</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-powertoys-to-tailor-snap-layouts/"><u>Navigating PowerToys to Tailor Snap Layouts</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-to-windows-11-on-mac-via-parallels-installer/"><u>Navigating to Windows 11 on Mac via Parallels Installer</u></a></li>
+<li><a href="https://extra-information.techidaily.com/professional-video-techniques-top-10-edits/"><u>Professional Video Techniques Top 10 Edits</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-slow-or-inactive-windows-downloads-directory/"><u>Reviving Slow or Inactive Windows Downloads Directory</u></a></li>
+<li><a href="https://windows11.techidaily.com/swift-strategies-for-re-booting-windows-explorer-11/"><u>Swift Strategies for Re-Booting Windows Explorer 11</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-samsung-galaxy-a25-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Samsung Galaxy A25 5G? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-honor-x50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-wu-and-wuo-sync-mechanisms/"><u>Understanding WU & WUO Sync Mechanisms</u></a></li>
 </ul></div>
 

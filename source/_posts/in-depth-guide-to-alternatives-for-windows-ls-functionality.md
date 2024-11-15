@@ -1,7 +1,7 @@
 ---
 title: In-Depth Guide to Alternatives for Windows' LS Functionality
-date: 2024-10-30T00:59:06.082Z
-updated: 2024-11-05T00:13:35.730Z
+date: 2024-11-14T17:24:24.715Z
+updated: 2024-11-15T16:29:03.580Z
 tags:
   - windows10
   - windows11
@@ -32,10 +32,10 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
  By using the “ls” command, users can list the contents of the current working directory, similarly, you can also [switch directories using Command Prompt](http://www.makeuseof.com/how-to-change-directory-in-cmd/). On Windows, the usage of "ls" in Command Prompt is slightly different compared to Linux, but it can accomplish the same task.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use the “ls” Command in Command Prompt on Windows 10 and 11
@@ -49,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
 ![Use dir command to list files in Windows CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/dir-command-cmd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To list files and directories using the equivalent of "ls" in Command Prompt on Windows 10 and 11:
@@ -60,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
 1. Click on the **Start** menu icon, search for **Command Prompt**, right-click the Best Match, and select **Run as administrator**.
 2. Once the Command Prompt window is open, navigate to the directory you want to view and type **dir**.
 3. Command Prompt will now list all of the files in the current working directory, along with their sizes and last modified date.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Use "ls" Command in Windows PowerShell
 
@@ -70,10 +77,10 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
 ![powershell-ls](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/powershell-ls-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Follow these steps to view a file directory using the "**ls**" command on Windows using Windows PowerShell:
@@ -82,13 +89,6 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
 2. Navigate to your target directory using the **cd** command.
 3. Type the **ls** command and press enter to view all of the listed files and folders within your target directory.
 4. Similarly, you can even use the **dir** or **gci** command to view the contents of a folder.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## A Handy Tool for Both Linux and Windows Users
 
@@ -108,20 +108,24 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-battle-of-worthies-black-gopros-challenger-is-sony-x1000v/"><u>[New] In 2024, Battle of Worthies Black GoPro's Challenger Is Sony X1000V</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-revolutionizing-travel-a-dive-into-vr-tour-possibilities/"><u>[New] In 2024, Revolutionizing Travel A Dive Into VR Tour Possibilities</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-steps-to-enhance-your-ability-as-an-effective-interviewer-for-2024/"><u>[New] Steps to Enhance Your Ability as an Effective Interviewer for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-tutorial-blocking-youtube-ads-on-all-platforms/"><u>[New] The Ultimate Tutorial Blocking YouTube Ads on All Platforms</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-amazon-primes-trending-series-twitters-choice-2023/"><u>2024 Approved Amazon Prime's Trending Series - Twitter's Choice, 2023</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Infinix GT 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-writing-permission-failure-in-windows-10-and-11/"><u>Fixing Writing Permission Failure in Windows 10 & 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/flipping-a-non-working-search-bar-in-windows-11s-settings/"><u>Flipping a Non-Working Search Bar in Windows 11’S Settings</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-network-error-0x800704b3-in-windows-11-and-11/"><u>How to Fix the Network Error 0X800704b3 in Windows 11 & 11</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>Planning to Use a Pokemon Go Joystick on Apple iPhone 7 Plus? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-guide-to-tackling-error-1053-unresponsive-windows-services/"><u>Quick Guide to Tackling Error 1053: Unresponsive Windows Services</u></a></li>
-<li><a href="https://windows11.techidaily.com/stepwise-strategy-for-full-removal-of-wsl-on-windows-11/"><u>Stepwise Strategy for Full Removal of WSL on Windows 11</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/supercharge-your-fcpx-experience-10-free-plugins-you-wont-want-to-miss/"><u>Supercharge Your FCPX Experience 10 Free Plugins You Wont Want to Miss</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-hidden-dangers-in-bot-made-win-11-codes/"><u>The Hidden Dangers in Bot-Made Win 11 Codes</u></a></li>
-<li><a href="https://windows11.techidaily.com/upgrade-your-win11s-connectivity-with-these-high-priority-solutions/"><u>Upgrade Your Win11's Connectivity with These High-Priority Solutions</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-maximizing-social-media-roi-with-judicious-facebook-hash-usage/"><u>[New] 2024 Approved Maximizing Social Media ROI with Judicious Facebook Hash Usage</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-enhancing-user-experience-strategic-placement-of-alerts-on-youtube-content/"><u>[Updated] Enhancing User Experience Strategic Placement of Alerts on YouTube Content</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-essential-interview-questions-for-engaged-audience-for-2024/"><u>[Updated] Essential Interview Questions for Engaged Audience for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-supreme-audiovisual-hints-pack-for-2024/"><u>[Updated] Supreme Audiovisual Hints Pack for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ng-crusaders-youtube-stars-serving-up-deliciousness-for-2024/"><u>Cooking Crusaders YouTube Stars Serving Up Deliciousness for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/first-contact-with-langchain-llm-an-introductory-roadmap-for-starters/"><u>First Contact with LangChain LLM: An Introductory Roadmap for Starters</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-itel-s23plus-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Itel S23+ is off? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-passwords-in-windows-11-the-ultimate-4-allies/"><u>Mastering Passwords in Windows 11: The Ultimate 4 Allies</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-repair-of-windows-hyper-v-error-0x8009030e/"><u>Mastering the Repair of Windows Hyper-V Error 0X8009030E</u></a></li>
+<li><a href="https://windows11.techidaily.com/power-up-windows-for-video-on-demand-via-dynamic-transcoding-by-tdarr/"><u>Power Up Windows for Video-on-Demand via Dynamic Transcoding by Tdarr</u></a></li>
+<li><a href="https://windows11.techidaily.com/preparing-your-devices-for-a-win-11-app-transfer-transition/"><u>Preparing Your Devices for a Win 11 App Transfer Transition</u></a></li>
+<li><a href="https://windows11.techidaily.com/reactivating-deactivated-rulesets-in-office-365windows-outlook/"><u>Reactivating Deactivated Rulesets in Office 365/Windows Outlook</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/refine-visuals-effortlessly-editing-videos-using-storyremix-in-windows-11/"><u>Refine Visuals Effortlessly Editing Videos Using StoryRemix in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedy-for-color-discrepanenas-of-store-interface/"><u>Remedy for Color Discrepanenas of Store Interface</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/screengrabzer-facebook-group/"><u>ScreenGrabzer Facebook Group</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-tech-giants-showdown-comparing-apple-dell-and-other-leading-brands-insights-from-zdnet/"><u>Top Tech Giants Showdown: Comparing Apple, Dell, and Other Leading Brands - Insights From ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-obs-errors-unknown-failure-recorded/"><u>Troubleshooting OBS Errors: Unknown Failure Recorded</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-microsoft-store-app-in-windows-11-os/"><u>Unlocking Microsoft Store App in Windows 11 OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-arm-setup-via-iso-file-instructions-inside/"><u>Windows 11 ARM Setup Via ISO File - Instructions Inside</u></a></li>
 </ul></div>
 

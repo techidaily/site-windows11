@@ -1,7 +1,7 @@
 ---
 title: Reimagine Your Workspace with Direct Desktop Drawings in Windows 11
-date: 2024-08-22T21:40:56.840Z
-updated: 2024-08-23T21:40:56.840Z
+date: 2024-11-09T16:49:53.502Z
+updated: 2024-11-15T16:24:03.202Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/eeef901d1f6e0f72044944aeb5612974e0f0cbfc3
 
 Now you can get scribbling on the Windows desktop.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Use Epic Pen to Draw on Your Desktop
 
  Click the**pen** button on Epic Pen’s drawing toolbar. To change the pen width, click**pen size** and select smaller or larger options. You can select one of four colors on the toolbar’s palette. Hold down the**left mouse button** and move the cursor around to draw on your desktop.
@@ -62,9 +69,12 @@ Now you can get scribbling on the Windows desktop.
 ![The options for enabling Epic Pen Pro features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-pro-features-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Draw on the Windows Desktop With gInk
 
  The gInk app is an open-source alternative to Epic Pen you can utilize for on-screen annotations in Windows 11/10 much the same. This is also a portable app for which no installation is needed. However, you’ll still need to download and extract the gInk archive like this:
@@ -74,17 +84,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 3. Next, you’ll need to extract gInk’s ZIP file. Follow the guidelines in our article about[how to unzip files on Windows](https://www.makeuseof.com/unzip-files-windows-10/) to extract the ZIP archive.  
 ![The Extract Compressed tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/extract-compressed-window3.jpg)
 4. Double-click**gInk.exe** inside the extracted gInk folder to launch the desktop drawing tool.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 
  Now you can try out the gInk on-screen drawing (or annotation) tool in Windows. Click the**Pen 1** option, and scribble on the desktop by holding the**left mouse button** and moving the cursor. You can also select three other pen options for different colors.
 
 ![The qInk toolbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/qink-toolbar.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
  The fifth pen is a transparent highlighter option. Click**Pen 5** to activate the tool’s highlighter. You can utilize this tool for highlighting things in presentations.
 
  You can adjust the drawing tool’s widths by selecting**Pen width** . Drag the slider along the bar to increase or decrease the width of your pen.
@@ -92,8 +96,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![The pen width bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/pen-width-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The gInk toolbar includes a screenshot tool you can use for taking snapshots of what you’ve drawn on the desktop. Click the**Snapshot** (camera) button on the app’s toolbar to activate it. Drag the rectangle around an area to include in the captured output to take the picture. That snapshot will automatically save to a folder path specified within gInk’s**General** tab.
 
  The gInk app includes five pens on its toolbar by default, but you can add four more. To do so, you’ll need to close gInk’s toolbar first by clicking its**Exit** drawing option. Then right-click the gInk system tray icon and select**Options** .
@@ -102,18 +110,15 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![The Pens tab in qInk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/pens-tab.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
  You can also set custom hotkeys for accessing the pens. Click the**Hotkeys** tab to view gInk’s default keyboard shortcuts. Then click inside one of the**Pen** boxes and press an alternative hotkey to set one.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Get Scribbling on Your Windows Desktop With These Apps
 
  Epic Pen and gInk are intuitive and straightforward to utilize apps with drawing tools that enable you to annotate what’s on your desktop for illustrative purposes. They’re great for showing information on Windows PCs presenting a screencast, projection, or video conference, and they can even capture annotated screenshots.
@@ -124,8 +129,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -133,4 +136,24 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-pinnaclescreenpro-capturing-like-a-pro-on-w10/"><u>[Updated] 2024 Approved PinnacleScreenPro Capturing Like a Pro on W10</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/chill-bites-analysis-in-depth-review-of-ice-cream-recorder-for-2024/"><u>Chill Bites Analysis In-Depth Review of Ice Cream Recorder for 2024</u></a></li>
+<li><a href="https://win-great.techidaily.com/complete-step-by-step-instructions-integrating-icloud-mail-with-microsoft-outlook/"><u>Complete Step-by-Step Instructions: Integrating iCloud Mail with Microsoft Outlook</u></a></li>
+<li><a href="https://techtrends.techidaily.com/determining-the-specific-type-of-macbook-you-own-through-its-unique-numbering-system/"><u>Determining the Specific Type of MacBook You Own Through Its Unique Numbering System</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-15-pro-max-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone 15 Pro Max Without a Passcode</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-of-the-best-6-superior-signature-background-removers/"><u>In 2024, Best of the Best 6 Superior Signature Background Removers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-learn-the-art-of-saving-and-logging-periscope-content/"><u>In 2024, Learn the Art of Saving & Logging Periscope Content</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, Which is the Best Fake GPS Joystick App On Apple iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/jump-starting-windows-setup-with-nine-troubleshooting-steps/"><u>Jump-Starting Windows Setup with Nine Troubleshooting Steps</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-network-stability-in-windows-1011/"><u>Navigating Network Stability in Windows 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-the-file-history-error-in-windows-os/"><u>Overcoming the File History Error in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-the-0x80004005-problem-in-windows-virtualbox/"><u>Resolving the 0X80004005 Problem in Windows Virtualbox</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-correcting-windows-xps-c0000005-error/"><u>Steps to Correcting Windows XP's C0000005 Error</u></a></li>
+<li><a href="https://windows11.techidaily.com/swiftly-delve-into-windows-system-statistics/"><u>Swiftly Delve Into Windows System Statistics</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-tecno-pova-5-pro-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Tecno Pova 5 Pro Android SIM Unlock APK</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-the-secrets-of-your-system-quick-guide-for-model-names/"><u>Unlock the Secrets of Your System: Quick Guide for Model Names</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-4-secrets-how-to-delete-a-disks-division-in-windows/"><u>Unveiling 4 Secrets: How to Delete a Disk's Division in Windows</u></a></li>
+</ul></div>
 

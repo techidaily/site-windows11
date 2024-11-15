@@ -1,7 +1,7 @@
 ---
 title: How To Successfully Retry Failed Application Downloads on Marketplace
-date: 2024-11-03T01:06:05.338Z
-updated: 2024-11-05T05:19:39.254Z
+date: 2024-11-10T16:30:52.000Z
+updated: 2024-11-15T17:08:26.764Z
 tags:
   - windows10
   - windows11
@@ -38,6 +38,13 @@ To run the Windows Store Apps troubleshooter:
 3. Next, click on**Other troubleshooters.**
 4. Scroll down and click on the**Run** button for Windows Store Apps. The troubleshooter will perform a scan and recommend fixed. Apply any recommended fixes and check for improvements.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Clear and Reset the Windows Store Cache Using WSReset
 
 ![wsreset clear microsoft store cache](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/wsreset-clear-microsoft-store-cache.jpg)
@@ -49,6 +56,13 @@ To reset the Windows Store cache:
 1. Press the**Win** key and type**wsreset** .
 2. Click on**wsreset** –**run command** from the search result. This will open a black Window that will reset the Windows Store cache. The window will close automatically and launch Microsoft Store.
 3. Close Microsoft Store and then relaunch the app to see if the error is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Restart the Microsoft Store Install Service
 
@@ -71,13 +85,6 @@ To restart Microsoft Store Install Service:
 ![microsoft store install service restart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microsoft-store-install-service-restart.jpg)
 7. Click**Apply** and**OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8. Next, right-click on**Microsoft Store Install Services** and select**Restart** .
 
  Close the Services snap-in and launch Microsoft Store. Then, try to install the app and check if the error is resolved.
@@ -87,10 +94,16 @@ To restart Microsoft Store Install Service:
 ![repair microsoft store windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/repair-microsoft-store-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can use the built-in repair tool to fix common issues that may prevent the Microsoft Store from triggering such errors. Follow these steps to repair the Microsoft Store app.
@@ -104,23 +117,9 @@ To restart Microsoft Store Install Service:
 7. Click on**Repair** and wait for the process to complete.
 8. Once done, relaunch Microsoft Store and try to install the app to see if the error is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Manually Reset Microsoft Store Apps
 
 ![reset microsoft store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/reset-microsoft-store.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can manually reset the Microsoft Store app from the Settings app. The Reset option will delete all the app data, and you may need to log in to use Microsoft Store again.
 
@@ -138,10 +137,10 @@ To reset Microsoft Store:
  Launch Microsoft Store and sign in with your Microsoft Account if required. Then, try to install the app and check for any improvements.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Re-register the Microsoft Store App
@@ -173,10 +172,10 @@ To reinstall Microsoft Store:
 3. Next, in the PowerShell Windows, type the following command and press Enter:  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 `get-appxpackage *store |remove-appxpackage`
@@ -187,6 +186,13 @@ To reinstall Microsoft Store:
 5. Wait for the app to install successfully. Then, type**exit** and press**Enter** to close PowerShell.  
 ![reinstall microsoft store powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/reinstall-microsoft-store-powershell.jpg)
 6. Press**Win** key and type**Microsoft Store** to launch the app.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fixing the "This App Couldn’t Be Installed" Error on Windows
 
@@ -209,15 +215,19 @@ To reinstall Microsoft Store:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-unwind-with-youtube-tricks-for-reducing-playback-velocity-49-chars/"><u>[Updated] Unwind with YouTube Tricks for Reducing Playback Velocity (49 Chars)</u></a></li>
-<li><a href="https://windows11.techidaily.com/ai-driven-evolution-in-windows-software-design/"><u>AI-Driven Evolution in Windows Software Design</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-sony-xperia-1-v-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Sony Xperia 1 V? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/dji-mini-air-2-mix-like-a-pro-20-custom-luts-complimentary/"><u>DJI Mini, Air 2 Mix Like a Pro - 20 Custom LUTs Complimentary</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixes-for-stumbling-windows-discord-search-bar/"><u>Fixes for Stumbling Windows Discord Search Bar</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-mend-the-pairing-glitch-fixing-connection-issues-in-win-11/"><u>How to Mend the Pairing Glitch: Fixing Connection Issues in Win 11</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-resolve-iphone-text-message-issues-with-these-10-effective-tips/"><u>How to Resolve iPhone Text Message Issues with These 10 Effective Tips</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-realme-c67-4g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Realme C67 4G to Roku | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-stuck-context-menus-a-quick-guide-to-solutions/"><u>Overcoming Stuck Context Menus: A Quick Guide to Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/tailoring-windows-11-firewall-settings-through-the-context-menu/"><u>Tailoring Windows 11 Firewall Settings Through the Context Menu</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-an-in-depth-examination-of-vivavideo-app/"><u>[New] An In-Depth Examination of VivaVideo App</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-4-time-saving-ways-to-perfect-loops-in-your-instagram-videos-for-2024/"><u>[Updated] 4 Time-Saving Ways to Perfect Loops in Your Instagram Videos for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-skyrocket-your-channel-the-ultimate-guide-to-youtube-backlinks-for-2024/"><u>[Updated] Skyrocket Your Channel The Ultimate Guide to YouTube Backlinks for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-ultimate-hdr-experience-with-asuss-4k-monitor-for-2024/"><u>[Updated] The Ultimate HDR Experience with Asus's 4K Monitor for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/8-slick-techniques-to-launch-iis-manager/"><u>8 Slick Techniques to Launch IIS Manager</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixer-upper-for-missing-second-display-on-w11/"><u>Fixer-Upper for Missing Second Display on W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-locating-and-displaying-every-named-range-within-your-excel-spreadsheet/"><u>Guide: Locating and Displaying Every Named Range Within Your Excel Spreadsheet</u></a></li>
+<li><a href="https://games-able.techidaily.com/highlights-in-led-technology-year-2024/"><u>Highlights in LED Technology: Year 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-infinix-smart-8-hd-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Infinix Smart 8 HD</u></a></li>
+<li><a href="https://windows11.techidaily.com/introducing-vivetool-unleashing-upcoming-features-for-windows-users/"><u>Introducing ViVeTool: Unleashing Upcoming Features for Windows Users</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/key-differences-between-free-and-pro-versions-of-ipod-video-converter-factory/"><u>Key Differences Between Free and Pro Versions of iPod Video Converter Factory</u></a></li>
+<li><a href="https://windows11.techidaily.com/one-key-to-close-clustered-applications-windows-edition/"><u>One Key to Close Clustered Applications: Windows Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-video-ram-limitations-in-magic-educational-platforms/"><u>Overcoming Video RAM Limitations in Magic-Educational Platforms</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-overwatch-2-writable-device-error/"><u>Solving Overwatch 2' Writable Device Error</u></a></li>
 </ul></div>
 

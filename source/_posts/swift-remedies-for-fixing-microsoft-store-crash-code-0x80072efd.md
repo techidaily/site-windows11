@@ -1,7 +1,7 @@
 ---
 title: Swift Remedies for Fixing Microsoft Store Crash Code 0X80072EFD
-date: 2024-10-30T02:35:47.461Z
-updated: 2024-11-05T05:29:22.153Z
+date: 2024-11-14T16:52:09.850Z
+updated: 2024-11-15T16:06:36.111Z
 tags:
   - windows10
   - windows11
@@ -58,22 +58,29 @@ net stop msiserver`
 ![The rename SoftwareDistribution.old folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/rename-softwaredistribution-old-folder.jpg)
 6. Also, rename a catroot2 directory with this command:  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `ren C:\Windows\System32\catroot2 catroot2.old`  
 ![The rename catroot2 command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/rename-catroot2-command.jpg)
 7. Restart the turned-off services by inputting and executing the following commands:  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 `net start wuaserv  
 net start cryptSvcc  
 net start bits  
 net start msiserver`
 8. Then bring up your Start menu to select**Restart** .
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Reset the Microsoft Store's Cache
 
@@ -82,23 +89,10 @@ net start msiserver`
 ![The Reset button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-button.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Turn Off Proxy Server
@@ -110,13 +104,6 @@ net start msiserver`
 3. Select**Connections** \>**LAN settings** to reach a**Use a proxy server** setting.  
 ![The LAN settings button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/advanced-tab.jpg)
 4. Uncheck the checkbox for**Use a proxy server** if it's selected.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Click the**Automatically detect settings** option to select it.  
 ![The Use a proxy server for your LAN checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/use-a-proxy-server-option.jpg)
@@ -131,18 +118,18 @@ net start msiserver`
 ![The Date & time navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/date-time-tab.jpg)
 3. Select to turn off the**Set time zone** option there.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Make sure the correct time zone for your location is selected in the**Time Zone** drop-down menu.  
 ![The Set the time zone automatically option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/set-the-time-automatically-option.jpg)
 5. Then press the**Sync now** button.  
 
 ![The Sync now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sync-now-button.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Alternatively, you can manually set the time by disabling the Set the time automatically option. Press the**Change** button for the**Set the date and time manually** option. Check the date and exact time for your location via online sources, and then enter it inside the**Change date & time** box.
 
@@ -158,10 +145,10 @@ net start msiserver`
 5. Click**Apply** to set the protocol options.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Select**OK** to exit the Internet Options window.
@@ -178,20 +165,27 @@ net start msiserver`
 ![The reregister MS Store command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reregister-ms-store-command.jpg)
 5. Wait until you're sure the command has finished.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Then exit PowerShell, and select the**Restart** option.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Reset Your Network
 
  Resetting network settings in Windows is another 0x80072EFD error fix that's worked for some users. Note that this measure will erase Wi-Fi and Ethernet connection details, so you'll need to re-establish your connection after applying it. You can apply this potential fix as covered in our[how-to reset networks in Windows 11](https://www.makeuseof.com/reset-network-settings-windows-11/) guide.
 
 ![The Reset now button for networks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-now-network-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Get Shopping in Microsoft Store Again
 
@@ -212,19 +206,21 @@ net start msiserver`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-recharge-and-reflect-top-ideas-for-combining-podcast-listening-and-tasks/"><u>[New] Recharge and Reflect Top Ideas for Combining Podcast Listening & Tasks</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-mastering-podcast-playback-iphone-edition/"><u>[Updated] In 2024, Mastering Podcast Playback IPhone Edition</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-the-pathway-to-popularity-on-instagram-from-zero-to-a-thousand-in-30-days/"><u>[Updated] The Pathway to Popularity on Instagram From Zero to a Thousand in 30 Days</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-searching-for-monetary-rewards-of-review-vlogs/"><u>2024 Approved Searching for Monetary Rewards of Review Vlogs</u></a></li>
-<li><a href="https://windows11.techidaily.com/cutting-edge-techniques-for-launching-programs-in-windows/"><u>Cutting-Edge Techniques for Launching Programs in Windows</u></a></li>
-<li><a href="https://extra-information.techidaily.com/discover-prime-streaming-options-for-churches-today/"><u>Discover Prime Streaming Options for Churches Today</u></a></li>
-<li><a href="https://windows11.techidaily.com/exploring-aggregatorhostexe-in-windows-how-it-works-and-safety-aspects/"><u>Exploring AggregatorHost.exe in Windows: How It Works and Safety Aspects</u></a></li>
-<li><a href="https://windows11.techidaily.com/free-windows-11-slideshows-the-seventh-way-unveiled/"><u>Free Windows 11 Slideshows - The Seventh Way Unveiled</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Realme GT Neo 5? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-error-0x80300024-in-windows-xp/"><u>Overcoming Error 0X80300024 in Windows XP</u></a></li>
-<li><a href="https://techidaily.com/remove-the-lock-of-reno-11-pro-5g-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Reno 11 Pro 5G</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/rings-surprising-gem-the-spotlight-cam-pro-shines-brightly-in-an-unforeseen-revelation-insights-from-zdnet/"><u>Ring's Surprising Gem: The Spotlight Cam Pro Shines Brightly in an Unforeseen Revelation | Insights From ZDNET</u></a></li>
-<li><a href="https://windows11.techidaily.com/securing-memory-integrity-with-win11-tweaks-and-tricks/"><u>Securing Memory Integrity with Win11 Tweaks & Tricks</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/step-by-step-tutorial-high-quality-avi-compression-techniques-for-windows-10-users/"><u>Step-by-Step Tutorial: High-Quality AVI Compression Techniques for Windows 10 Users</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-framemaker-screen-capturing-mastery-review-2023-edition/"><u>[New] 2024 Approved 'FrameMaker' Screen Capturing Mastery Review, 2023 Edition</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-your-pathway-to-instagram-stardom-top-video-strategies/"><u>[New] 2024 Approved Your Pathway to Instagram Stardom Top Video Strategies</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-ultimate-guide-to-choosing-a-screen-recorder-tool/"><u>[New] Ultimate Guide to Choosing a Screen Recorder Tool</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-shedding-light-on-luts-impact-on-image-quality-for-2024/"><u>[Updated] Shedding Light on LUTs' Impact on Image Quality for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-tutorial-turning-on-hdr-for-windows-11-users/"><u>2024 Approved Tutorial Turning on HDR for Windows 11 Users</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/8-top-notch-free-editors-to-enhance-your-youtube-content-efficiency/"><u>8 Top-Notch Free Editors to Enhance Your YouTube Content Efficiency</u></a></li>
+<li><a href="https://windows11.techidaily.com/insight-into-windows-maintenance-framework/"><u>Insight Into Windows Maintenance Framework</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-your-ipad-an-in-depth-look-at-each-iteration-of-ipados/"><u>Mastering Your iPad: An In-Depth Look at Each Iteration of iPadOS</u></a></li>
+<li><a href="https://windows11.techidaily.com/methodology-to-fix-inactive-thumbnails/"><u>Methodology to Fix Inactive Thumbnails</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-windows-11-hidden-folders-reveal/"><u>Optimizing Windows 11: Hidden Folders Reveal</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinstating-active-windows-11-taskbar/"><u>Reinstating Active Windows 11 Taskbar</u></a></li>
+<li><a href="https://windows11.techidaily.com/safe-navigation-in-windows-11-the-top-8-to-steer-clear-of/"><u>Safe Navigation in Windows 11: The Top 8 To Steer Clear Of</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-for-clearing-and-refreshing-icons/"><u>The Ultimate Guide for Clearing and Refreshing Icons</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-tips-and-solutions-for-fixing-a-non-responsive-ps4-microphone/"><u>Top Tips & Solutions for Fixing a Non-Responsive PS4 Microphone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/video-editing-on-chromebook-a-step-by-step-guide-to-using-any-app/"><u>Video Editing on Chromebook A Step-by-Step Guide to Using Any App</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-display-reclaiming-optimal-performance/"><u>Windows 11 Display: Reclaiming Optimal Performance</u></a></li>
 </ul></div>
 

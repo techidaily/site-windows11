@@ -1,7 +1,7 @@
 ---
 title: Fixing Common OneDrive Crash Code in W11, W10
-date: 2024-10-29T10:19:10.580Z
-updated: 2024-11-05T05:42:13.954Z
+date: 2024-11-13T17:33:20.681Z
+updated: 2024-11-15T16:37:18.919Z
 tags:
   - windows10
   - windows11
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/7dae447899f95c82a6cf6fb6c187f3946b55a92e5
 ![The Resume syncing option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/resume-syncing-option.jpg)
 6. Click the**Resume Syncing** option.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Reset OneDrive with Command Prompt Commands
 
  Corrupted data in OneDrive's cache is a common cause for error 0x80070194\. Many OneDrive users have confirmed that clearing that cache by resetting OneDrive with the Command Prompt fixes error 0x80070194\. This is how you can reset OneDrive:
@@ -48,29 +55,15 @@ thumbnail: https://thmb.techidaily.com/7dae447899f95c82a6cf6fb6c187f3946b55a92e5
 ![The reset OneDrive command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-onedrive-command.jpg)
 3. Next, execute the following command:  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 `%localappdata%\Microsoft\OneDrive\onedrive.exe`  
 ![Run OneDrive command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/onedrive-command.jpg)
 4. Start OneDrive to see if the issue persists.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Disable Files On-Demand
@@ -83,6 +76,20 @@ thumbnail: https://thmb.techidaily.com/7dae447899f95c82a6cf6fb6c187f3946b55a92e5
 4. Select**Advanced Settings** to expand the**Sync and backup** tab.  
 ![The Files On-Demand option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/files-on-demand-option.jpg)
 5. Turn off the**File On-Demand** option.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Unlink and Relink Your OneDrive Account
 
@@ -105,19 +112,6 @@ thumbnail: https://thmb.techidaily.com/7dae447899f95c82a6cf6fb6c187f3946b55a92e5
 ![The Choose new folder button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/choose-new-folder-button.jpg)
 4. Then keep selecting**Next** to reach the mobile app step.
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Click**Later** to skip the mobile app.
 6. Press the**Open my OneDrive folder** button.
 
@@ -129,14 +123,14 @@ thumbnail: https://thmb.techidaily.com/7dae447899f95c82a6cf6fb6c187f3946b55a92e5
 
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-uninstall-option2.jpg)
 
- To reinstall the app, open the[OneDrive MS Store page](https://apps.microsoft.com/store/detail/onedrive/9WZDNCRFJ1P3?hl=en-gb&gl=gb&rtc=1) in a browser. Click**Get in Store** app >**Open Microsoft Store** to bring up an**Install** option for the app. Click**Get** to download and install OneDrive. Then you'll need to open OneDrive and sign in to an account again.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ To reinstall the app, open the[OneDrive MS Store page](https://apps.microsoft.com/store/detail/onedrive/9WZDNCRFJ1P3?hl=en-gb&gl=gb&rtc=1) in a browser. Click**Get in Store** app >**Open Microsoft Store** to bring up an**Install** option for the app. Click**Get** to download and install OneDrive. Then you'll need to open OneDrive and sign in to an account again.
 
 ## Open and Copy Files in Your OneDrive Folder
 
@@ -157,20 +151,24 @@ thumbnail: https://thmb.techidaily.com/7dae447899f95c82a6cf6fb6c187f3946b55a92e5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-cost-efficient-filmmaking-action-cams-under-100-guide-for-2024/"><u>[New] Cost-Efficient Filmmaking ACTION Cams Under $100 Guide for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-unleash-creativity-with-top-9-free-tools-to-craft-your-brand-for-2024/"><u>[Updated] Unleash Creativity with Top 9 Free Tools to Craft Your Brand for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-windows-10s-leading-screen-capture-tools-a-comprehensive-list/"><u>[Updated] Windows 10'S Leading Screen Capture Tools A Comprehensive List</u></a></li>
-<li><a href="https://windows11.techidaily.com/accelerating-windows-11-app-launches/"><u>Accelerating Windows 11 App Launches</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-windows-services-that-dont-launch/"><u>Addressing Windows Services That Don't Launch</u></a></li>
-<li><a href="https://windows11.techidaily.com/advanced-tips-for-adding-sound-in-snipping-tool-recordings-max-156/"><u>Advanced Tips for Adding Sound in Snipping Tool Recordings (Max 156)</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/best-kostenloser-dvd-ripper-fur-windows-10-und-11-auffallige-alternativen-im-direkten-vergleich-2023/"><u>Best Kostenloser DVD-Ripper Für Windows 10 Und 11: Auffällige Alternativen Im Direkten Vergleich 2023</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-incompatible-drivers-on-windows-11/"><u>Correcting Incompatible Drivers on Windows 11</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/decoding-the-characters-of-nihongo-writing-system/"><u>Decoding the Characters of Nihongo Writing System</u></a></li>
-<li><a href="https://windows11.techidaily.com/distinguishing-key-features-of-exe-and-msi-formats/"><u>Distinguishing Key Features of EXE and MSI Formats</u></a></li>
-<li><a href="https://windows11.techidaily.com/diving-deep-using-the-netstat-command-in-windows-11-os/"><u>Diving Deep: Using the Netstat Command in Windows 11 OS</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/efficiently-install-your-hp-officejet-abridged-4650-on-windows-with-official-drivers/"><u>Efficiently Install Your HP OfficeJet Abridged-4650 on Windows with Official Drivers</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-oneplus-open-by-fonelab-android-recover-music/"><u>How to retrieve erased music from OnePlus Open</u></a></li>
-<li><a href="https://extra-information.techidaily.com/innovative-and-simple-18-vlogging-projects/"><u>Innovative & Simple 18 Vlogging Projects</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/the-best-free-video-editing-software-for-gaming-content-creators-for-2024/"><u>The Best Free Video Editing Software for Gaming Content Creators for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-illuminate-your-gaming-recordings-avoid-black-screens-with-obs-for-2024/"><u>[New] Illuminate Your Gaming Recordings Avoid Black Screens with OBS for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-asmr-unraveled-enhancing-mental-wellness/"><u>[New] In 2024, ASMR Unraveled Enhancing Mental Wellness</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-fine-tune-your-visual-storytelling-in-videoleap-footage/"><u>[New] In 2024, Fine-Tune Your Visual Storytelling in Videoleap Footage</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-master-essential-zoom-techniques-for-iphone-users/"><u>[New] In 2024, Master Essential Zoom Techniques for iPhone Users</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-streamlined-process-altering-video-direction-in-vlc-for-2024/"><u>[New] Streamlined Process Altering Video Direction in VLC for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essence-of-sound-diminishment-a-lumafusion-insight/"><u>2024 Approved The Essence of Sound Diminishment A Lumafusion Insight</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elite-game-sound-experiences-top-headset-reviews/"><u>Elite Game Sound Experiences: Top Headset Reviews</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-bypassing-do-not-have-permission-windows-errors/"><u>Guide to Bypassing 'Do Not Have Permission' Windows Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-recover-from-failed-discord-windows-updates/"><u>Guide to Recover From Failed Discord Windows Updates</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/lenovo-thinkpad-x1-nano-review/"><u>Lenovo ThinkPad X1 Nano Review</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-of-multitasking-reviving-non-operational-keys-in-windows-os/"><u>Mastery of Multitasking: Reviving Non-Operational Keys in Windows OS</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/restore-missing-bluetooth-top-9-fixes-for-windows-11-users/"><u>Restore Missing Bluetooth: Top 9 Fixes for Windows 11 Users</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-google-pixel-7a-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Google Pixel 7a</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-windows-11-browsing-key-techniques-unveiled/"><u>Streamlining Windows 11 Browsing: Key Techniques Unveiled</u></a></li>
+<li><a href="https://windows11.techidaily.com/subtle-enhancements-stealthy-menu-edits-windows-edition/"><u>Subtle Enhancements: Stealthy Menu Edits, Windows Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleash-peak-performance-tuning-amd-graphics-on-windows/"><u>Unleash Peak Performance: Tuning AMD Graphics on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-global-dialogues-utilizing-hotkey-tricks-in-windows-language-switching/"><u>Unlock Global Dialogues: Utilizing Hotkey Tricks in Windows Language Switching</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-the-power-of-painting-ms-paint-in-windows-11/"><u>Unlocking the Power of Painting: MS Paint in Windows 11</u></a></li>
 </ul></div>
 

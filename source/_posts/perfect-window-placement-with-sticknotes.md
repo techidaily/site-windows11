@@ -1,7 +1,7 @@
 ---
 title: Perfect Window Placement with StickNotes
-date: 2024-08-22T21:41:54.044Z
-updated: 2024-08-23T21:41:54.044Z
+date: 2024-11-10T17:33:15.429Z
+updated: 2024-11-15T17:10:17.665Z
 tags:
   - windows10
   - windows11
@@ -59,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/1950983d0af24cf7ccce7d0d9b553dd604417e3bd
 
 ![The Note Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/note-settings-window.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Stick Sticky Notes to Software Windows With Notezilla
 
  Notezilla is a more comprehensive sticky note app for Windows 11/10/8/7\. You can stick notes to the desktop area and software windows with Notezilla. This software also packs text-formatting options for notes, among other more advanced features.
@@ -74,6 +81,14 @@ thumbnail: https://thmb.techidaily.com/1950983d0af24cf7ccce7d0d9b553dd604417e3bd
 1. Press**Install** to proceed with Notezilla's installation.  
 ![The Install button for Notezilla](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-install-button-for-stick-a-note.jpg)
 2. Click**Finish** with the Launch Notezilla checkbox selected.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Bring up a software window to add your note.
 4. Press the**Ctrl** +**Shift** +**U** hotkey to bring up a sticky note.
 5. Type some content into the sticky note.
@@ -81,6 +96,14 @@ thumbnail: https://thmb.techidaily.com/1950983d0af24cf7ccce7d0d9b553dd604417e3bd
 1. Drag the sticky note onto the top area of the software's window.  
 ![A sticky note added with Notezilla](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/a-notezilla-sticky-note.jpg)
 2. Press**Alt** +**Space** to bring up the note's menu.  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Stick to window option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/stick-to-window-option.jpg)
 3. Select the**Stick to window** option, which also has a**Ctrl** +**W** hotkey.
 4. Next, select the checkbox for the software to add the note to in the window that opens.  
@@ -102,8 +125,12 @@ thumbnail: https://thmb.techidaily.com/1950983d0af24cf7ccce7d0d9b553dd604417e3bd
 ![sticky-note-formatting-options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sticky-note-formatting-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Add Sticky Notes to Software in Windows 11 and Windows 10
 
  Forget about merely sticking notes to the Windows 11 and the Windows 10 desktop like in Windows 7\. Stick A Note and Notezilla give you an entirely new way to add notes without cluttering the desktop by sticking them to app windows. Now you can add handy sticky notes to windows that apply to specific software packages or webpages and files.
@@ -114,8 +141,6 @@ thumbnail: https://thmb.techidaily.com/1950983d0af24cf7ccce7d0d9b553dd604417e3bd
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -123,4 +148,17 @@ thumbnail: https://thmb.techidaily.com/1950983d0af24cf7ccce7d0d9b553dd604417e3bd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-extended-scrutiny-gopro-slr4-black-edition-model/"><u>[New] 2024 Approved Extended Scrutiny GoPro SLR4 Black Edition Model</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-vr-treadmills-review/"><u>[New] Top VR Treadmills Review</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-chinas-bargain-bin-of-virtual-reality-gear/"><u>[Updated] In 2024, China's Bargain Bin of Virtual Reality Gear</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-vivo-y27-4g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Vivo Y27 4G to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/microsoft-enhances-windows-11-with-ai-taskbar-companion-for-effortless-management/"><u>Microsoft Enhances Windows 11 with AI Taskbar Companion for Effortless Management</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolve-system-hiccups-with-these-10-windows-tools/"><u>Resolve System Hiccups with These 10 Windows Tools</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-issue-top-7-methods-to-restore-icloud-photo-synchronization-on-ios-devices/"><u>Solving the Issue: Top 7 Methods to Restore iCloud Photo Synchronization on iOS Devices</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/transferencia-segura-del-sistema-al-nuevo-ssd-en-windows-11-mediante-clonacion-de-unidad-c/"><u>Transferencia Segura Del Sistema Al Nuevo SSD en Windows 11 Mediante Clonación De Unidad C</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-your-way-out-of-secure-boot-stumbles-with-these-fixes/"><u>Win Your Way Out of Secure Boot Stumbles with These Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/workaround-to-avoid-discord-autostarting-on-pc/"><u>Workaround to Avoid Discord Autostarting on PC</u></a></li>
+</ul></div>
 

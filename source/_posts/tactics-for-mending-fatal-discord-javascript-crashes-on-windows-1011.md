@@ -1,7 +1,7 @@
 ---
 title: Tactics for Mending Fatal Discord Javascript Crashes on Windows 10/11
-date: 2024-11-03T01:55:08.246Z
-updated: 2024-11-04T23:40:00.654Z
+date: 2024-11-14T16:05:21.360Z
+updated: 2024-11-15T16:20:36.643Z
 tags:
   - windows10
   - windows11
@@ -44,14 +44,14 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 ![The Uninstall BetterDiscord option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-betterdiscord-option.jpg)
 7. Choose a**Discord** version.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8. Click**Uninstall** to finish.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Delete Discord’s Data Folders
 
@@ -67,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 5. Open Windows Explorer with**Win + E** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Type**%appdata%** inside Explorer’s address bar and press**Return** .
@@ -78,13 +78,20 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 ![A discord folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/discord-folder.jpg)
 8. Input**%LocalAppData%** in Explorer’s address bar and press**Enter** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 9. Next, click the Discord folder with the mouse’s right button and select**Delete** .
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Reinstall Discord
@@ -96,13 +103,6 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 3. Then select**Uninstall** when prompted for app removal confirmation.  
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-option2.jpg)
 4. Delete leftover Discord app data subfolders as outlined for the third resolution.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Reboot your Windows PC before reinstalling the Discord software.
 6. Open up the[download page for Discord](https://discord.com/download) .
@@ -127,15 +127,15 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 ![The Virus & threat protection tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/virus-threat-protection.jpg)
 3. Click**Manage Settings** to view the options.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Toggle off the**Real-time protection** option to disable background antivirus scanning.  
 ![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/real-time-protection-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Check the Quality Windows Audio Video Experience Service is Enabled
 
@@ -146,13 +146,6 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 3. Select**OK** to launch the Services app.  
 ![The Services app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-services-app.jpg)
 4. Then double-click**Quality Windows Audio Video Experience** inside the Services window.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. If Quality Windows Audio Video Experience is disabled, select the**Automatic** startup option.  
 ![The Startup type drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-startup-type-drop-down-menu.jpg)
@@ -166,6 +159,13 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 10. Click**OK** to close out of the Select user window.
 11. To save the service’s new settings, select its**Apply** option.
 12. Then exit the window by selecting**OK** .
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Start Chatting in Discord Again on Windows
 
@@ -186,24 +186,22 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-fifth-place-winners-excellent-recorder-apps/"><u>[New] 2024 Approved Fifth Place Winners Excellent Recorder Apps</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-choosing-the-right-gimbal-dslr-vs-mirrorless-edition-for-2024/"><u>[New] Choosing the Right Gimbal DSLR vs Mirrorless Edition for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-twitters-required-video-aspect-ratios-explained-for-2024/"><u>[New] Twitter's Required Video Aspect Ratios Explained for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-the-evolution-of-auto-hdr-and-its-role-in-todays-photography/"><u>[Updated] The Evolution of Auto HDR and Its Role in Today's Photography</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-optimal-steadicam-devices-for-professional-drone-cinematography/"><u>2024 Approved Optimal Steadicam Devices for Professional Drone Cinematography</u></a></li>
-<li><a href="https://windows11.techidaily.com/clearing-up-blank-login-issues-on-win1011-pcs/"><u>Clearing Up Blank Login Issues on WIN10/11 PCs</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723014559727-cutting-edge-techniques-to-eliminate-discord-echo-glitches-on-pc-in-202-groovy-trending-methods-for-a-crystal-clear-voice-chat/"><u>Cutting-Edge Techniques to Eliminate Discord Echo Glitches on PC in 202 Groovy-Trending Methods for a Crystal Clear Voice Chat!</u></a></li>
-<li><a href="https://windows11.techidaily.com/expert-strategies-for-effortless-integration-of-directories-win-11/"><u>Expert Strategies for Effortless Integration of Directories, Win 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/fast-factor-essential-steps-for-assessing-lan-router-speed/"><u>Fast Factor: Essential Steps for Assessing LAN Router Speed</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-a-faulty-windows-11-temporary-storage/"><u>Fixing a Faulty Windows 11 Temporary Storage</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-to-eliminating-pin-security-on-your-windows-11-device/"><u>Guide to Eliminating PIN Security on Your Windows 11 Device</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-download-fonts-for-all-languages-on-windows/"><u>How to Download Fonts for All Languages on Windows</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-evolution-from-rgb-to-srgb-in-graphic-media/"><u>In 2024, The Evolution From RGB to Srgb in Graphic Media</u></a></li>
-<li><a href="https://program-issues.techidaily.com/increase-your-fps-ultimate-tips-and-tricks-for-ring-of-elysium/"><u>Increase Your FPS: Ultimate Tips & Tricks for Ring of Elysium</u></a></li>
-<li><a href="https://blog-min.techidaily.com/konverten-van-pgm-in-tiff-im-handumdrehen-gunstiges-web-basiertes-umwandlungsprogramm-von-movavi/"><u>Konverten Van PGM in TIFF Im Handumdrehen - Günstiges Web-Basiertes Umwandlungsprogramm Von Movavi</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-terminal-personalize-colors-and-style/"><u>Mastering Terminal: Personalize Colors & Style</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-non-existent-device-alerts-on-windows-1011/"><u>Resolving Non-Existent Device Alerts on Windows 10/11</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11s-upcoming-moment-anticipated-new-features/"><u>Windows 11'S Upcoming Moment: Anticipated New Features</u></a></li>
-<li><a href="https://windows11.techidaily.com/winrars-corrected-compression-overcoming-sum-errors/"><u>WinRAR's Corrected Compression: Overcoming Sum Errors</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-10-fastest-growing-youtube-channels-to-light-up-your-mind-for-2024/"><u>[Updated] 10 Fastest Growing YouTube Channels to Light Up Your Mind for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-avoid-delays-swift-time-lapse-recording-on-iphone/"><u>2024 Approved Avoid Delays Swift Time-Lapse Recording on iPhone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unleashing-the-full-power-of-apple-podcasts-downloads/"><u>2024 Approved Unleashing the Full Power of Apple Podcasts Downloads</u></a></li>
+<li><a href="https://blog-min.techidaily.com/comprehensive-evaluation-of-intels-midrange-powerhouse-the-core-i5-14600k-processor/"><u>Comprehensive Evaluation of Intel's Midrange Powerhouse - The Core I5-14600K Processor</u></a></li>
+<li><a href="https://solve-news.techidaily.com/conversion-sans-frais-de-videos-m4v-en-format-portable-3g2-sur-la-plateforme-web-de-movavi-suivez-les-etapes-rapides-et-faciles/"><u>Conversion Sans Frais De Vidéos M4V en Format Portable 3G2 Sur La Plateforme Web De Movavi - Suivez Les Étapes Rapides Et Faciles !</u></a></li>
+<li><a href="https://windows11.techidaily.com/fix-lacking-steam-icon-issues-on-windows-pc/"><u>Fix Lacking Steam Icon Issues on Windows PC</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/free-online-converter-change-ogg-files-to-avi-format-with-ease/"><u>Free Online Converter: Change OGG Files to AVI Format with Ease</u></a></li>
+<li><a href="https://windows11.techidaily.com/from-novice-to-pro-setting-up-hyper-v-on-win-11-for-home-users/"><u>From Novice to Pro: Setting Up Hyper-V on Win 11 for Home Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/increase-dynamic-display-speed-of-task-manager-win-11/"><u>Increase Dynamic Display Speed of Task Manager Win 11</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-no-watermark-no-problem-free-and-paid-solutions-for-filmora-for-2024/"><u>New No Watermark, No Problem Free and Paid Solutions for Filmora for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-errors-in-windows-memory-check-tool/"><u>Overcoming Errors in Windows Memory Check Tool</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-stubborn-windows-key-issues/"><u>Overcoming Stubborn Windows Key Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/reactivating-windows-11-search-tool-performance/"><u>Reactivating Windows 11 Search Tool Performance</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-tackle-errortoomanyretries-in-wsl-subsystem/"><u>Strategies to Tackle ERROR_TOO_MANY_RETRIES in WSL Subsystem</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-secrets-to-seamless-zoom-talks-mastering-online-communication-skills/"><u>The Secrets to Seamless Zoom Talks Mastering Online Communication Skills</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/the-ultimate-guide-to-personalized-phone-tones-for-android-users-for-2024/"><u>The Ultimate Guide to Personalized Phone Tones for Android Users for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/upgrade-taskbar-appearance-instructions-to-include-a-weather-icon-in-windows-11-system-tray/"><u>Upgrade Taskbar Appearance: Instructions to Include a Weather Icon in Windows 11 System Tray</u></a></li>
 </ul></div>
 

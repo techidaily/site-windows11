@@ -1,7 +1,7 @@
 ---
 title: Streamline the Prime Viewing Experience on Windows 11 Devices
-date: 2024-10-29T04:07:06.023Z
-updated: 2024-11-04T22:22:47.773Z
+date: 2024-11-09T17:04:35.483Z
+updated: 2024-11-15T16:31:53.323Z
 tags:
   - windows10
   - windows11
@@ -44,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/5c8db21fb7e97eed2eddd025f3f66d3a9e58c7bc7
 
 ![Sign in option of Prime Video](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/sign-in-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Eliminate Browser Issues
 
  If you access Prime Video via the web, your browser's corrupt cache data is probably causing the problem. You'll have to manually[clear your browser's cache data](https://www.makeuseof.com/how-to-clear-cookies-cache-in-chrome/) to fix the issue.
@@ -58,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/5c8db21fb7e97eed2eddd025f3f66d3a9e58c7bc7
  Browser extensions usually help to increase productivity. But some extensions can do more harm than good. So,[disable all browser extensions](https://www.makeuseof.com/tag/how-to-clean-up-your-browser-extensions-the-easy-way/) from your browser and see if that fixes the subtitles not working in Prime Video.
 
  The problem can also occur due to an issue in the current version of your browser. In this case, you can[update your browser](https://www.makeuseof.com/how-to-update-chrome-firefox-edge-desktop-mobile/) to fix the issue.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Repair and Reset the Prime Video App
 
@@ -70,10 +70,10 @@ thumbnail: https://thmb.techidaily.com/5c8db21fb7e97eed2eddd025f3f66d3a9e58c7bc7
 ![Repair option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Wait till Windows repairs the app. You will see a checkmark next to the repair button when it's done.
@@ -81,16 +81,10 @@ thumbnail: https://thmb.techidaily.com/5c8db21fb7e97eed2eddd025f3f66d3a9e58c7bc7
  If repairing the app wasn't helpful, you can use the reset option, which will clear all its data. Doing this will be helpful if corrupt Prime Video files are causing the issue. To reset the Prime Video app, click the**Reset** button.
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Reinstall the Prime Video App
@@ -99,14 +93,14 @@ thumbnail: https://thmb.techidaily.com/5c8db21fb7e97eed2eddd025f3f66d3a9e58c7bc7
 
 ![Prime Video for Windows in the Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/prime-video-for-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After the download is complete, log in with your credentials, and you'll see that you are no longer facing the subtitles not working issue.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fixing the Prime Video Subtitles on Windows 11
 
@@ -127,20 +121,16 @@ thumbnail: https://thmb.techidaily.com/5c8db21fb7e97eed2eddd025f3f66d3a9e58c7bc7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-summit-creation-pro-x-evaluation/"><u>[New] 2024 Approved Summit Creation Pro X Evaluation</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-instagram-music-copyright-rules-for-2024/"><u>[Updated] Instagram Music Copyright Rules for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-dull-to-dynamic-top-11-techniques-for-improved-colors/"><u>2024 Approved From Dull to Dynamic Top 11 Techniques for Improved Colors</u></a></li>
-<li><a href="https://windows11.techidaily.com/audible-improvements-for-windows-users-stepwise-audio-driver-revamp/"><u>Audible Improvements for Windows Users: Stepwise Audio Driver Revamp</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoiding-blue-screen-blues-fixing-error-740-on-winos/"><u>Avoiding Blue Screen Blues: Fixing Error 740 on WINOS</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypassing-windows-update-four-techniques/"><u>Bypassing Windows Update: Four Techniques</u></a></li>
-<li><a href="https://windows11.techidaily.com/conquer-the-unseen-scroll-phenomenon-in-windows/"><u>Conquer the Unseen Scroll Phenomenon in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/dive-into-windows-powertoys-the-ultimate-guide-to-its-best-uses/"><u>Dive Into Windows PowerToys: The Ultimate Guide to Its Best Uses</u></a></li>
-<li><a href="https://windows11.techidaily.com/diving-into-windows-n-types-benefits-and-downfalls/"><u>Diving Into Windows N Types: Benefits and Downfalls</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-samsung-galaxy-a14-4g-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Samsung Galaxy A14 4G Phones</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/massive-discount-alert-philips-hue-smart-lighting-now-at-56-off-exclusive-sale-on-amazon/"><u>Massive Discount Alert: Philips Hue Smart Lighting Now at 56% Off - Exclusive Sale on Amazon!</u></a></li>
-<li><a href="https://article-helps.techidaily.com/showcasing-contributions-and-thought-leadership/"><u>Showcasing Contributions & Thought Leadership</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-hp-laptop-non-functional-keys-with-these-simple-steps/"><u>Troubleshoot HP Laptop Non-Functional Keys with These Simple Steps</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-poco-c51-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Poco C51? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/why-isnt-my-receiver-working-expert-tips-for-fixing-sound-problems/"><u>Why Isn't My Receiver Working? Expert Tips for Fixing Sound Problems</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-enrich-your-knowledge-student-approved-history-youtubes-to-watch/"><u>[New] In 2024, Enrich Your Knowledge Student-Approved History YouTubes To Watch</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-golivefacebook-a-practical-guide-for-android-and-ios-enthusiasts/"><u>[Updated] 2024 Approved GoLiveFacebook A Practical Guide for Android & iOS Enthusiasts</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-navigating-the-world-of-drone-races-and-top-fpv-choices/"><u>[Updated] In 2024, Navigating the World of Drone Races & Top FPV Choices</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/essential-steps-for-logging-virtual-exchanges-for-2024/"><u>Essential Steps for Logging Virtual Exchanges for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimized-drivers-for-geforce-gtx-1060-model/"><u>Optimized Drivers for GeForce GTX 1060 Model</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/revealing-mondlys-updated-user-assistance-guide/"><u>Revealing Mondly's Updated User Assistance Guide</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-youtube-makeup-craft-color-correction-essentials/"><u>The YouTube Makeup Craft Color Correction Essentials</u></a></li>
+<li><a href="https://windows11.techidaily.com/toggle-onoff-managing-your-gaming-experience-with-windows-10s-xbox-game-bar-feature/"><u>Toggle On/Off: Managing Your Gaming Experience with Windows 10'S Xbox Game Bar Feature</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-windows-11-issues-on-legacy-processors/"><u>Troubleshooting Windows 11 Issues on Legacy Processors</u></a></li>
+<li><a href="https://windows11.techidaily.com/weekly-tech-insights-atandt-data-leak-incident-and-latest-innovations-in-samsungs-phone-line-up/"><u>Weekly Tech Insights: AT&T Data Leak Incident & Latest Innovations in Samsung's Phone Line-Up</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-devices-exposed-new-threats-in-the-ipv6-network-landscape/"><u>Windows Devices Exposed: New Threats in the IPv6 Network Landscape</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Win 11'S Blanked Outspots: How to Replace Them"
-date: 2024-11-02T16:05:26.392Z
-updated: 2024-11-04T20:07:37.312Z
+date: 2024-11-09T16:04:45.999Z
+updated: 2024-11-15T16:47:09.734Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/72ad6224a96d1332d870ccac31eeed89a25da9895
 
 ![Show Desktop Icons on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Show-Desktop-Icons-on-Windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Check Desktop Icon Settings
 
  If you're only missing a few desktop icons, such as This PC, Recycle Bin, Control Panel, and others, you may have disabled them in the "Desktop Icon Settings" window. In that case, you can use the following steps to re-enable those desktop icons.
@@ -47,13 +54,6 @@ thumbnail: https://thmb.techidaily.com/72ad6224a96d1332d870ccac31eeed89a25da9895
 
  Once you complete the above steps, your icons should appear on the desktop.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Restart Windows Explorer
 
  The Windows Explorer process handles the Graphical User Interface (GUI) for a number of utilities, including the desktop. If this service encounters any issues, your desktop and taskbar icons may disappear. If this is the case, you can restart the Windows Explorer process to fix the problem.
@@ -62,13 +62,6 @@ thumbnail: https://thmb.techidaily.com/72ad6224a96d1332d870ccac31eeed89a25da9895
 2. Select**Task Manager** from the list.
 3. In the**Processes** tab, locate**Windows Explorer** . Right-click on it and select**Restart** .  
 ![Restart Windows Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Restart-Windows-Explorer.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Your taskbar will disappear for a brief moment and then reappear. Following this, your desktop icons should be visible.
 
@@ -94,6 +87,13 @@ To rebuild icon cache on Windows 11:
 
  Once you complete the above steps, restart your PC and see if the desktop icons appear.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Update Your PC’s Graphics Driver
 
  An outdated graphics driver on Windows can also lead to such anomalies. You can try updating the faulty driver using Device Manager to see if that helps. Here's how to do it.
@@ -104,19 +104,6 @@ To rebuild icon cache on Windows 11:
 4. Right-click on your graphics driver and select**Update driver** .
 5. Select**Search automatically for drivers** to let Windows find and install the best drivers.  
 ![Update Graphics Driver on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Update-Graphics-Driver-on-Windows.jpg)
-
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the issue persists even after updating the driver, your graphics driver may be corrupt. In that case, you'll need to reinstall the graphics driver on your PC. Refer to our guide on[how to fix corrupt drivers on Windows](https://www.makeuseof.com/how-to-fix-corrupt-drivers-on-windows-10/) for more instructions on how to fix this.
 
@@ -134,6 +121,13 @@ To rebuild icon cache on Windows 11:
 6. Click**Apply** followed by**OK** .  
 ![Enable Desktop Icons on Windows 11 via Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Enable-Deskop-Icons-on-Windows-11-via-Group-Policy-Editor-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Perform a System Restore
 
  There's a chance that a recent system change is to blame for the missing desktop icons in Windows 11\. If you can't figure out what it is, you can use System Restore to restore Windows to a previous state.
@@ -148,7 +142,21 @@ Follow these steps to perform a system restore on Windows:
 6. Click on**Finish** .  
 ![System Restore Dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/System-Restore-Dialog.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wait for Windows to reboot and revert to the specified restore point. Following that, your desktop icons should appear.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Manually Restore the Desktop Shortcut Icons
 
@@ -158,23 +166,9 @@ Follow these steps to perform a system restore on Windows:
 
 ![Create Desktop Shortcut From Start Menu in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Create-Desktop-Shortcut-From-Start-Menu-in-Windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Alternatively, you can create a shortcut on your desktop by using the Create Shortcut wizard. To do so, right-click anywhere on the desktop and select**New > Shortcut** . Then, click the**Browse** button to locate the file, folder, or app you want to add to your desktop. Then, click**Next** followed by**Finish** .
 
  We covered this topic in more detail in our guide to[how to add icons to the desktop on Windows](https://www.makeuseof.com/how-to-add-icon-to-desktop-windows/) .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Restore the Missing Desktop Icons on Windows 11
 
@@ -195,22 +189,14 @@ Follow these steps to perform a system restore on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-exclusive-list-digital-dominators-in-av-production/"><u>[New] Exclusive List Digital Dominators in AV Production</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-explore-the-top-15-youtube-binge-spots-for-anime-lovers/"><u>[New] Explore the Top 15 YouTube Binge Spots for Anime Lovers</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-video-magic-begins-macbooks-webcam-guide-for-2024/"><u>[New] Video Magic Begins MacBook's Webcam Guide for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-battle-for-honor-other-10-great-games-like-tsushi/"><u>[Updated] Battle for Honor Other 10 Great Games Like Tsushi</u></a></li>
-<li><a href="https://windows11.techidaily.com/6-expert-windows-programs-for-video-editors/"><u>6 Expert Windows Programs for Video Editors</u></a></li>
-<li><a href="https://windows11.techidaily.com/6-underestimated-downsides-of-saving-on-activation-keys/"><u>6 Underestimated Downsides of Saving on Activation Keys</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-tecno-spark-10-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Tecno Spark 10 4G | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-compreenasian-approach-to-fixing-winget-on-windows-11/"><u>A Compreenasian Approach to Fixing Winget on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-one-side-output-in-windows-10-headphones/"><u>Addressing One Side Output in Windows 10 Headphones</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoid-panic-recover-lost-data-with-these-steps/"><u>Avoid Panic, Recover Lost Data with These Steps</u></a></li>
-<li><a href="https://windows11.techidaily.com/chkdsk-sfc-and-dism-windows-tools-unveiled-and-explained/"><u>CHKDSK, SFC & DISM: Windows Tools Unveiled and Explained</u></a></li>
-<li><a href="https://windows11.techidaily.com/cut-through-the-frustration-swift-solutions-for-ms-teams-error-80080300-in-win11/"><u>Cut Through the Frustration: Swift Solutions for MS Teams Error 80080300 in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/decreasing-cpu-load-in-setup-hosts/"><u>Decreasing CPU Load in Setup Hosts</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-updated-hp-scanjet-drivers-for-windows-users-ensure-smooth-printing-on-pcs/"><u>Download Updated HP Scanjet Drivers for Windows Users: Ensure Smooth Printing on PCs</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebook-cmo-resignation-new-chapter-ahead/"><u>Facebook CMO Resignation: New Chapter Ahead</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-vivo-y27s-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Vivo Y27s to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/mastering-the-art-of-reading-ebooks-a-guide-to-accessing-and-displaying-web-pages-on-your-kindle/"><u>Mastering the Art of Reading eBooks: A Guide to Accessing and Displaying Web Pages on Your Kindle</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-step-into-virtual-entertainment-and-gain-notoriety/"><u>[Updated] 2024 Approved How to Step Into Virtual Entertainment and Gain Notoriety</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-low-cost-hardware-obs-optimization-tips/"><u>2024 Approved Low-Cost Hardware OBS Optimization Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/easy-guide-ripping-audio-cds-successfully-with-your-windows-pc/"><u>Easy Guide: Ripping Audio CDs Successfully with Your Windows PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/end-of-windows-10-maintenance-in-year-exploring-alternative-os-choices/"><u>End of Windows 10 Maintenance in [Year]: Exploring Alternative OS Choices</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-from-capture-to-sharing-fb-video-uploads-via-pc-plus-android/"><u>In 2024, From Capture to Sharing FB Video Uploads via PC + Android</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/innovation-unleashed-experience-our-6-best-signature-removers-for-2024/"><u>Innovation Unleashed – Experience Our 6 Best Signature Removers for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-ultimate-check-dji-fpv-drone-spectacles-features/"><u>The Ultimate Check DJi FPV Drone Spectacles' Features</u></a></li>
+<li><a href="https://windows11.techidaily.com/why-microsofts-copilotplus-and-its-advanced-upscaling-technology-make-it-essential-gear-for-serious-gamers/"><u>Why Microsoft's CoPilot+ and Its Advanced Upscaling Technology Make It Essential Gear for Serious Gamers</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-upgrades-simplified-step-by-step-instructions-for-keeping-your-software-current/"><u>Windows 11 Upgrades Simplified: Step-by-Step Instructions for Keeping Your Software Current</u></a></li>
 </ul></div>
 

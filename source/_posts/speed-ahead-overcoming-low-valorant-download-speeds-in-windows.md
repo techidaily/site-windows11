@@ -1,7 +1,7 @@
 ---
 title: "Speed Ahead: Overcoming Low Valorant Download Speeds in Windows"
-date: 2024-08-27T16:02:57.214Z
-updated: 2024-08-28T16:02:57.214Z
+date: 2024-11-14T17:20:20.044Z
+updated: 2024-11-15T17:05:29.995Z
 tags:
   - windows10
   - windows11
@@ -30,22 +30,23 @@ thumbnail: https://thmb.techidaily.com/f7aa9f91ee25ba92e513ec309ccac0797742d37b7
 
  Thankfully, you can quickly resolve the problem with a few simple fixes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Restart the Download
 
  Let's start with the basic but most effective solution—restarting the download. As it turns out, the problem can result from a temporary glitch in the Riot Client. In this situation, just give the download a restart and check if it solves the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Check Your Internet Connection
 
  The Riot Client will fail to download or update Valorant if you are connected to a weak and unstable internet connection. You can check internet stability and speed by visiting an[internet speed checking website](https://www.makeuseof.com/best-free-websites-test-internet-speed/) . If you notice that you are getting a comparatively lower speed, try rebooting the router.
 
  If power cycling the router didn't improve your download speeds, contact your ISP and ask that they resolve the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Close All the Discord Services From the Background
 
  Valorant's download speed may reduce to a crawl if Discord or any of its related services is running in the background. As it turns out, Discord is known for consuming a major part of available bandwidth and adversely affecting other applications' downloads.
@@ -59,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/f7aa9f91ee25ba92e513ec309ccac0797742d37b7
  Along with Discord, you can also consider closing all other network-consuming applications like Chrome and Spotify from the background.
 
  Next, launch the Riot Client, start the downloading process, and check if the problem continues.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Switch to Google's DNS Server
 
@@ -78,6 +86,13 @@ thumbnail: https://thmb.techidaily.com/f7aa9f91ee25ba92e513ec309ccac0797742d37b7
 ![Edit DNS settings screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/IPv6-settings.jpg)
 9. Click on Save.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Check if you are still facing the problem.
 
 ## 5\. Allow the Riot Client to Communicate Through the Windows Defender Firewall
@@ -89,10 +104,6 @@ Check if you are still facing the problem.
 3. Checkmark both**Private** and**Public** boxes next to**Riot Client** .  
 ![Allow app to communicate through the Firewall screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Riot-Client.jpg)
 4. Click on OK to save the changes.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 
  Try to download Valorant and check if the problem continues. If yes, try the next solution on the list.
 
@@ -106,9 +117,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  After that, follow the on-screen instruction to complete the uninstallation process.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ## 7\. Flush the DNS Cache
 
  The DNS cache stores data of all your computer's DNS queries for future use. However, if the DNS cache gets corrupt for some reason, it can cause connection issues.
@@ -120,9 +128,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![The flush DNS command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/flushdns-command.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Wait until you see the message "Successfully flushed the DNS Resolver Cache." After that, reboot the system and check for the problem.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Update Your Network Drivers
 
@@ -139,8 +158,12 @@ Here are the steps for downloading the latest network drivers:
  Windows will now look for and install the best available network driver for the system. Once the update process is complete, reboot the system and check if the problem is fixed or not.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 9\. Change Riot Client Priority
 
  The next solution on the list is to change the priority of Riot Client. After changing the priority to high, Windows will give more importance to Riot Client, automatically fixing the problem at hand.
@@ -152,9 +175,6 @@ Here are the steps you need to follow.
 3. Right-click on**RiotClientServices.exe** , hover the cursor to**Set priority** , and choose**High** from the context menu.  
 ![Task Manager Detail tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Set-Priority-.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Relaunch the client, and you will notice that you are no longer facing the problem.
 
 ## 10\. Reset the Network Settings
@@ -167,13 +187,14 @@ Here's how to reset the network settings:
 2. Click the**Reset now** button next to**Network reset** .  
 ![Reset now button in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/reset-now-button-1.jpg)
 3. Click**Yes** to the UAC that crops up.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Valorant Downloading Issue Fixed
 
  It's a very straightforward process to download or update Valorant using the Riot Client. But the client can run into issues from time to time as well.
@@ -186,8 +207,6 @@ Here's how to reset the network settings:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,4 +214,19 @@ Here's how to reset the network settings:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-extreme-expeditions-the-hero5-black-vs-hero5-session-showdown-for-2024/"><u>[New] Extreme Expeditions The Hero5 Black Vs Hero5 Session Showdown for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-fundamentals-of-using-ffpm-in-firefox/"><u>[New] The Fundamentals of Using FFPM in Firefox</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twitters-crown-jewels-the-most-liked-and-binge-watched-content-for-2024/"><u>[New] Twitter's Crown Jewels The Most Liked & Binge-Watched Content for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/adjusting-settings-for-smooth-run-as-functionality/"><u>Adjusting Settings for Smooth 'Run As' Functionality</u></a></li>
+<li><a href="https://windows11.techidaily.com/audio-capture-while-screen-recording-with-snipping-tool-max-156/"><u>Audio Capture While Screen Recording with Snipping Tool (Max 156)</u></a></li>
+<li><a href="https://windows11.techidaily.com/automation-made-simple-windows-task-scheduler-batch/"><u>Automation Made Simple: Windows Task Scheduler Batch</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/charismatic-communicator-overview-part-8/"><u>Charismatic Communicator Overview, Part 8</u></a></li>
+<li><a href="https://windows11.techidaily.com/delve-into-multi-display-setup-in-windows-11/"><u>Delve Into Multi-Display Setup in Windows 11</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/from-long-to-brief-how-to-shorten-youtube-footage-for-2024/"><u>From Long to Brief How to Shorten YouTube Footage for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-image-potential-the-importance-of-luts/"><u>In 2024, Unlocking Image Potential The Importance of LUTs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-review-of-microsofts-best-seller-flight-simulator-x-gold-edition/"><u>In-Depth Review of Microsoft's Best Seller: Flight Simulator X Gold Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719306890834-key-collectors-rejoice-get-the-perfect-pair-of-keys-and-essential-windows-11-612lifetime/"><u>Key Collectors Rejoice – Get the Perfect Pair of Keys & Essential Windows 11, $6.12/Lifetime</u></a></li>
+</ul></div>
 

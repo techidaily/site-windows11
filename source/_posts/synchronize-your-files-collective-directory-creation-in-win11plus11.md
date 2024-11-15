@@ -1,7 +1,7 @@
 ---
 title: "Synchronize Your Files: Collective Directory Creation in Win11+11"
-date: 2024-11-02T03:49:24.659Z
-updated: 2024-11-05T00:15:41.334Z
+date: 2024-11-13T17:15:43.526Z
+updated: 2024-11-15T16:14:00.503Z
 tags:
   - windows10
   - windows11
@@ -83,36 +83,37 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
 ![Notepad command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win11-notepad-command.jpg)
 4. After you have typed down the names of all the folders and subfolders that you want to create, navigate to **File** in the top-left corner and choose **Save as**.  
 
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Save as option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/notepad-save-as.jpg)
 5. Give your file a name followed by **.bat**. For instance, we named our file as makeuseof.bat.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Notepad file name](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/notepad-file-name.jpg)
 6. Expand the dropdown for Save as type and choose **All files**.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Click **OK** and close the Notepad.
 8. Now, navigate to the location of the folder and open the bat file. Opening it should create the folders and their subfolders for you.
 
  Now that you have created multiple files and folders, [organizing these files on Windows](https://www.makeuseof.com/tag/automatically-organize-files-windows/) is also worth considering if you do not want to spend a lot of time looking for information in them. Additionally, Windows also allows you to [rename multiple folders at once](https://www.makeuseof.com/cool-folder-tips-windows/), which can be helpful when organizing them.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Use a Third-Party Application
 
@@ -134,22 +135,15 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
 ![Clicking Yes in the UAC prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/folder-frenzy-agreement.jpg)
 4. Once the Folder Frenzy dialog launches, type the names of the folders you want to create and click on the **Create Folder** button. These folders will be created in the Folder Frenzy file.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Create folder in Folder Frenzy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/folder-frenzy-create-folder.jpg)
 
  From here, you can even take a step further and learn [how to launch multiple programs with one shortcut on Windows](https://www.makeuseof.com/tag/launch-multiple-programs-single-shortcut-using-batch-file/) to increase your productivity at work or school. In case you no longer need the tool after creating bulk folders, you can uninstall it. This won't automatically delete the folders you have created using the tool, unless the uninstallation process explicitly offers to do so and you confirm that action.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create Multiple Folders in a Few Clicks on Windows
@@ -170,18 +164,16 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-unlocking-the-art-of-engaging-with-tweets-in-videos/"><u>[New] 2024 Approved Unlocking the Art of Engaging with Tweets in Videos</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/our-first-step-designing-attractive-videos-on-a-mac-for-2024/"><u>[New] Your First Step Designing Attractive Videos on a Mac for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-are-vloggers-compensated-for-product-critiques/"><u>[Updated] 2024 Approved Are Vloggers Compensated for Product Critiques?</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-simple-steps-for-incorporating-videos-into-articles/"><u>[Updated] 2024 Approved Simple Steps for Incorporating Videos Into Articles</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-pro-iphone-tips-for-capturing-the-perfect-landscape-moments-for-2024/"><u>[Updated] Pro iPhone Tips for Capturing the Perfect Landscape Moments for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-short-film-synopsis-must-know-points-in-2024/"><u>[Updated] Short Film Synopsis Must-Know Points, In 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-lost-extra-screen-in-w11/"><u>Addressing Lost Extra Screen in W11</u></a></li>
-<li><a href="https://windows11.techidaily.com/augmenting-windows-functionality-with-these-top-6-android-apps/"><u>Augmenting Windows Functionality with These Top 6 Android Apps</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoidance-of-soon-to-end-windows-license-issues/"><u>Avoidance of Soon-to-End Windows License Issues</u></a></li>
-<li><a href="https://windows11.techidaily.com/begin-your-media-adventure-windows-media-player/"><u>Begin Your Media Adventure: Windows Media Player</u></a></li>
-<li><a href="https://windows11.techidaily.com/configure-windows-11-to-optimize-system-audio-performance/"><u>Configure Windows 11 to Optimize System Audio Performance</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-clock-divergence-chrome-vs-windows/"><u>Correcting Clock Divergence: Chrome vs Windows</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-11-best-free-audio-editors-for-windows-and-mac-totally-free-for-2024/"><u>Updated 11 Best Free Audio Editors for Windows and Mac (Totally Free) for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-choosing-a-champion-dslr-or-mirrorless-camera-in-2024/"><u>[New] Choosing a Champion DSLR or Mirrorless Camera, In 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-best-of-free-and-paid-8-ranked-android-videomosaic-apps-explored/"><u>[Updated] The Best of Free & Paid #8 Ranked Android Videomosaic Apps Explored</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-proving-ideal-for-iphone-users-9-photo-watermarking-tools/"><u>2024 Approved Proving Ideal for iPhone Users 9 Photo Watermarking Tools</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/choosing-the-best-screen-capture-app-obs-vs-fraps/"><u>Choosing the Best Screen Capture App – OBS vs Fraps</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-realme-12-pro-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixed-attempt-connection-error-blocking-device-linkage/"><u>Fixed: 'Attempt Connection' Error Blocking Device Linkage</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-unstick-apps-from-windows-11-installations/"><u>How to Unstick Apps From Windows 11 Installations</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-keep-it-flowing-repasting-content-on-ig/"><u>In 2024, Keep It Flowing Repasting Content on IG</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-no-sound-error-in-powerpoint-screen-capture/"><u>Overcoming No Sound Error in PowerPoint Screen Capture</u></a></li>
+<li><a href="https://win11.techidaily.com/win-11-start-spotlight-free-from-ads/"><u>Win 11 Start Spotlight: Free From Ads</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-terminal-vs-powershell-decoding-what-makes-them-diverge/"><u>Windows Terminal Vs. PowerShell: Decoding What Makes Them Diverge</u></a></li>
 </ul></div>
 

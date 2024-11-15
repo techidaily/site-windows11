@@ -1,7 +1,7 @@
 ---
 title: The Art of Managing Windows Users via CLI
-date: 2024-08-22T21:40:37.161Z
-updated: 2024-08-23T21:40:37.161Z
+date: 2024-11-11T16:48:19.425Z
+updated: 2024-11-15T17:14:18.755Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/98381f75da9e421b6eb855209185ef7a1fbf0a3e4
 `net user`
 
  Keep the names you see in mind, as you will need them as you use the **net user** command.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Show All the Information of a User Account
 
@@ -61,12 +68,22 @@ thumbnail: https://thmb.techidaily.com/98381f75da9e421b6eb855209185ef7a1fbf0a3e4
  Now net user will remove the account from the computer.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. Enable and Disable a User Account
 
 ![deactivating an account with net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/deactivating-an-account-with-net-user.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If there's a user you wish to temporarily restrict so they can't access their account, you can simply disable it instead of deleting it. Here's the basic syntax of that action, making sure to use the **/active:no** switch at the end of the command to tell **net user** you're disabling it:
 
@@ -77,6 +94,13 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 `net user Jack /active:no`
 
  And if you want to enable a disabled account, you just have to change the **/active:no** switch to **/active:yes**.
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Enable and Disable a Domain User Account
 
@@ -110,6 +134,13 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![setting an account expiriation date with net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/setting-an-account-expiriation-date-with-net-user.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  By default, accounts are set to never expire, but you can change that if you have a user you want to be active for a specific period of time. You will need to use the **/expires** parameter while specifying the year, month, and expiration date. Here's the basic command structure:
 
 `net user Username /expires:DD/MM/YYYY`
@@ -120,18 +151,12 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  With the above command, Windows will disable the on the date you've set above.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## 8\. Change the Password of a User Account
 
  You can also use the **net user** command to [change the password of a user account in Command Prompt](https://www.makeuseof.com/tag/quick-tip-change-the-windows-user-password-via-command-line/). This will make it so that you can quickly change the password of any local account with a single command, instead of having to do it through the Settings app, which requires many clicks.
 
  The beauty of it is that you can also use it to change passwords for multiple accounts without leaving the Command Prompt window.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## 9\. Change the Password of a Domain User Account
 
  You can also change the password of a user on a domain by appending the **/domain** switch at the end of the command for changing a user account. The syntax for this is as follows:
@@ -144,9 +169,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![setting an account policy with net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/setting-account-policy-with-net-user.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you need a particular user to change the password during their next login, you can use the **net user** command along with the **/passwordchg:yes** parameter (by default, the parameter is **/passwordchg:no**). Here's the basic syntax:
 
 `net user Username /passwordchg:yes`
@@ -157,9 +179,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  So, the next time Jack logs into the computer, he will get a prompt asking him to change his password before he can access his user account.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ## 11\. Set a Home Directory for Users
 
  When creating a new user profile using **net user**, you can set the home directory, which is where Windows will store the user's personal files and settings. By default, Windows places the home directory of each user account in **This PC > Local Disk (C:) > Users**. To change this with **net user** during account creation, the basic syntax is as follows:
@@ -172,10 +191,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  The above command will place the home directory of **Jack**, as it creates the account, in the **D:\\Other Users\\Jack** folder.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Take Control of Your Computer's Users Accounts With the Net User Command
 
  Net user is a simple command to understand, allowing you to effectively manage your accounts from one location: Command Prompt. Of course, we haven't covered everything here, as there are too many parameters and switches to cover in a single guide.
@@ -184,11 +199,30 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  In this guide, we're going to show you how to use the net user command to perform various actions on user accounts on a Windows computer.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-affordable-leading-chromeos-screen-recorders/"><u>[Updated] In 2024, Affordable Leading ChromeOS Screen Recorders</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-oppo-k11-5g-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Oppo K11 5G</u></a></li>
+<li><a href="https://windows11.techidaily.com/evaluating-windows-n-models-should-you-upgrade/"><u>Evaluating Windows N Models: Should You Upgrade?</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-take-on-fifa-19-the-pinnacle-of-online-soccer-games-explored/"><u>Expert Take on FIFA 19 - The Pinnacle of Online Soccer Games Explored</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/how-to-effortlessly-preserve-linkedin-videos-top-6-tools-here-for-2024/"><u>How to Effortlessly Preserve LinkedIn Videos - Top 6 Tools Here for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-y77t-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Vivo Y77t</u></a></li>
+<li><a href="https://windows11.techidaily.com/making-windows-easier-personalized-text-transcription-using-ahk-and-whisper/"><u>Making Windows Easier: Personalized Text Transcription Using AHK & Whisper</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-flashing-issues-on-windows-11-pcs/"><u>Overcoming Flashing Issues on Windows 11 PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/pinpointing-your-internet-ip-using-terminal-commands/"><u>Pinpointing Your Internet IP Using Terminal Commands</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/premier-biking-game-showcase-for-2024/"><u>Premier Biking Game Showcase for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/rescuing-your-windows-application-performance-in-a-hurry-7-solutions/"><u>Rescuing Your Window's Application Performance in a Hurry (7 Solutions)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/superior-animation-suites-top-3d-modelers-for-2024/"><u>Superior Animation Suites Top 3D Modelers for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/the-great-ai-challenge-which-offers-superior-content-generation/"><u>The Great AI Challenge: Which Offers Superior Content Generation?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-vivo-v27e-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Vivo V27e Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/transform-your-file-management-with-powerrename/"><u>Transform Your File Management with PowerRename</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-over-common-mmc-snapshot-glitches/"><u>Winning Over Common MMC Snapshot Glitches</u></a></li>
+</ul></div>
+

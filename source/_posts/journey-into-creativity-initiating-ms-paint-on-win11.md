@@ -1,7 +1,7 @@
 ---
 title: "Journey Into Creativity: Initiating MS Paint on Win11"
-date: 2024-08-27T16:03:31.864Z
-updated: 2024-08-28T16:03:31.864Z
+date: 2024-11-10T16:56:38.187Z
+updated: 2024-11-15T16:00:30.886Z
 tags:
   - windows10
   - windows11
@@ -37,8 +37,12 @@ thumbnail: https://thmb.techidaily.com/1323edf73cef5ddeb6760a28b46d407c0ed89a315
 3. This will launch Microsoft Paint within seconds.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. How to Open Microsoft Paint From Start Menu
 
  Alternatively, you could also look through the list of apps under All Apps if you know where it is located in your OS folder structure. To do this in Windows 11, simply follow these instructions:
@@ -48,10 +52,14 @@ thumbnail: https://thmb.techidaily.com/1323edf73cef5ddeb6760a28b46d407c0ed89a315
 3. Once you find**Paint** , click it to begin using the program.  
 ![Open Paint From Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-paint-from-start-menu.jpg)
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
  If you're having trouble finding it, try typing "Paint" into the Start menu search bar; this should narrow down the results.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. How to Open Microsoft Paint From File Explorer
 
@@ -70,13 +78,17 @@ Now that Microsoft Paint is open, you can start working.
 2. In the Command Prompt, type**mspaint** and press**Enter** .  
 ![Open Paint Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-paint-using-command-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The Microsoft Paint program will launch immediately and be ready for use.
 
  Check out our[beginner's guide to the Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) if you really want to make use of this handy tool.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. How to Open Microsoft Paint via Windows PowerShell
 
  PowerShell is a command-line shell and associated scripting language that automates tasks and manages configurations. You can use this tool to access Windows applications on your device.
@@ -90,9 +102,6 @@ To open the Microsoft Paint application, follow the steps below:
 
 The Microsoft Paint application will appear on your screen.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## 7\. How to Open Microsoft Paint Through Task Manager
 
  The Task Manager provides you with detailed information about currently running applications, processes, and background services. It also offers options for managing and controlling them.
@@ -106,11 +115,22 @@ The Microsoft Paint application will appear on your screen.
 ![Open Paint Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-paint-using-task-manager.jpg)
 5. Click**OK** to launch the application.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The Microsoft Paint application should now be open and ready to use!
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 8\. How to Open Microsoft Paint Using a Desktop Shortcut
 
  If you want to save time and make your workflow more efficient, you can create a shortcut for Microsoft Paint on your desktop. The program starts with a click, so you don't have to scroll through menus or type commands.
@@ -121,6 +141,20 @@ Here's how you can use this tool to open the Paint application:
 2. In the "Create Shortcut" window, type**mspaint.exe** and click**Next** .  
 ![Open Paint With Desktop Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-paint-with-desktop-shortcut.jpg)
 3. You can then give your shortcut a name (like Paint).
+
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. To save the changes, click**Finish** .
 
  You can also create a desktop shortcut using Windows File Explorer. Here's how:
@@ -131,9 +165,6 @@ Here's how you can use this tool to open the Paint application:
 
  A desktop shortcut will appear on your computer. Double-clicking it will open the Paint application
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9\. How to Open Microsoft Paint via a Shortcut Key
 
  If you prefer using keyboard shortcuts, you can create a shortcut key to open Microsoft Paint in Windows 11\. The steps are as follows:
@@ -145,23 +176,17 @@ Create a desktop shortcut as explained above.
 3. To save your selections, click**Apply > OK** .  
 ![Create Shortcut key of Paint](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/create-shortcut-key-of-paint.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Press**Ctrl + Alt** and then type the letter or number you want as a shortcut. For example, if you select**8** , then you can press**Ctrl + Alt + 8** on your keyboard to open Microsoft Paint.
 
 ## Get Access to Microsoft Paint Easily
 
  Microsoft Paint is one of the most popular image editing applications available on Windows 11\. If you are having trouble opening this tool, hopefully once of the methods we covered has made it easier to get Paint open.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -170,4 +195,21 @@ Create a desktop shortcut as explained above.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-boundless-adventures-exploring-vr-in-games/"><u>[New] Boundless Adventures Exploring VR in Games</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-5-simple-tricks-for-aspiring-photoshop-editors/"><u>[New] In 2024, 5 Simple Tricks for Aspiring Photoshop Editors</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft-total-video-converter-for-win/"><u>Aiseesoft Total Video Converter for Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-unstartable-lunar-client-in-windows-issues/"><u>Avoiding Unstartable: Lunar Client in Windows Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosted-windows-11-app-launch-strategies/"><u>Boosted Windows 11 App Launch Strategies</u></a></li>
+<li><a href="https://windows11.techidaily.com/camouflage-linguistic-separator-on-win11-status-bar/"><u>Camouflage Linguistic Separator on Win11 Status Bar</u></a></li>
+<li><a href="https://windows11.techidaily.com/command-line-conjuring-windows-new-feature/"><u>Command Line Conjuring: Windows' New Feature</u></a></li>
+<li><a href="https://windows11.techidaily.com/comprehending-windows-role-in-memory-reservation/"><u>Comprehending Windows' Role in Memory Reservation</u></a></li>
+<li><a href="https://windows11.techidaily.com/disclosing-windows-11s-elusive-icons/"><u>Disclosing Windows 11'S Elusive Icons</u></a></li>
+<li><a href="https://fox-http.techidaily.com/high-end-steadicam-selections-for-superior-dslr-cinematography/"><u>High-End Steadicam Selections for Superior DSLR Cinematography</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-can-you-tell-if-chatgpt-is-operational-discover-five-reliable-methods/"><u>How Can You Tell if ChatGPT Is Operational? Discover Five Reliable Methods</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-twitter-video-reconfiguration-audio-version/"><u>In 2024, Twitter Video Reconfiguration Audio Version</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-realme-narzo-60-pro-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Realme Narzo 60 Pro 5G Running Slow and Freezing | Dr.fone</u></a></li>
+</ul></div>
 

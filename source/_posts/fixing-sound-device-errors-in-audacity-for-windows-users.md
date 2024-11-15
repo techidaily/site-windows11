@@ -1,7 +1,7 @@
 ---
 title: Fixing Sound Device Errors in Audacity for Windows Users
-date: 2024-08-27T16:01:19.018Z
-updated: 2024-08-28T16:01:19.018Z
+date: 2024-11-13T16:50:01.915Z
+updated: 2024-11-15T16:01:14.654Z
 tags:
   - windows10
   - windows11
@@ -45,7 +45,35 @@ thumbnail: https://thmb.techidaily.com/4e313b1018e0c2499cbd20182728d1887cb747f9b
 6. Right-click the input recording device you want to utilize and select**Enable** if disabled.  
 ![The Enable device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-option.jpg)
 7. Then right-click the playback and recording devices you need to utilize with Audacity and select**Set as default devices** and**Set as Default Communication Device** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Set as Default Device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/set-as-default-device.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Check Audacity’s Device Settings Match up With Your Default Devices
 
@@ -58,9 +86,6 @@ thumbnail: https://thmb.techidaily.com/4e313b1018e0c2499cbd20182728d1887cb747f9b
 4. Next, select the**Devices** tab.  
 ![The Devices tab in Audacity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/devices-tab.jpg)
 5. Click the**Playback Device** drop-down menu to select your default playback device.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 6. Then select your default recording device on the**Recording Device** drop-down menu.
 7. Also, select**Windows WASAPI** on the**Host** drop-down menu if that option is set differently.
 8. Select**OK** on the Preferences Devices window.
@@ -76,14 +101,8 @@ thumbnail: https://thmb.techidaily.com/4e313b1018e0c2499cbd20182728d1887cb747f9b
 5. Then click the**Quality** tab.  
 ![The Sample Rate drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/default-sample-rate.jpg)
 6. Set the**Default Sample Rate** option there to match the sampling rate of your recording device.
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 7. Alternatively, you can change the sampling rate on the**Default format** drop-down menu for the recording device to match the one set in Audacity.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Turn Off Software Playthrough
 
  Audacity’s Software playthrough setting can cause recording issues when selected. So, that’s another option you should check when trying to fix the “Error while opening sound device” issue. Follow these steps to deselect Software playthrough.
@@ -93,13 +112,7 @@ thumbnail: https://thmb.techidaily.com/4e313b1018e0c2499cbd20182728d1887cb747f9b
 3. Deselect the**Software playthrough** **of input** if you’ve got that setting selected.  
 ![The Software playthrough option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/sofware-playthrough-option.jpg)
 4. Click the Preferences window’s**OK** button.
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Restart the Windows Audio Endpoint Builder Service
 
  Some Audacity users confirm restarting the Windows Audio Endpoint Builder service fixes this issue. Restarting that service will refresh your PC’s sound controls. This is how you can restart Windows Audio Endpoint Builder:
@@ -108,7 +121,22 @@ thumbnail: https://thmb.techidaily.com/4e313b1018e0c2499cbd20182728d1887cb747f9b
 2. Enter**services** and open the Services app.
 3. ![The Restart service option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-restart-service-option.jpg)
 4. Right-click the**Windows Audio Endpoint Builder** service and select**Restart** .
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. If you find the Windows Audio Endpoint Builder service isn’t running, right-click it and select the**Start** context menu option instead.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Update Your PC’s Audio Device Driver
 
@@ -127,15 +155,16 @@ thumbnail: https://thmb.techidaily.com/4e313b1018e0c2499cbd20182728d1887cb747f9b
 6. Click**Uninstall Device** to confirm the action.  
 ![The Delete the driver software for this device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/delete-the-driver-option.jpg)
 7. Restarting Windows should then automatically reinstall a sound driver on your PC. If not, click**Action** \>**Scan for hardware changes** in Device Manager to reinstall the missing driver.
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  There could also be an issue with the driver for the microphone you’re trying to utilize when Audacity’s recording isn’t working right. So, consider reinstalling the driver for the audio input device as well. You can do so by double-clicking the**Audio inputs and outputs** category and selecting to uninstall the microphone from there.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Get Back to Recording and Playing Audio in Audacity
 
  Applying those potential resolutions will likely fix the “Error while opening sound device” issue in most cases. Then you can get back to recording/playing audio in Audacity. If those potential fixes aren't enough, there could be a hardware issue with your PC’s sound card or some of the audio devices you’re trying to utilize with Audacity.
@@ -146,8 +175,6 @@ thumbnail: https://thmb.techidaily.com/4e313b1018e0c2499cbd20182728d1887cb747f9b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +182,24 @@ thumbnail: https://thmb.techidaily.com/4e313b1018e0c2499cbd20182728d1887cb747f9b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-soundscapes-synopsis-a-guide-to-visual-tunes/"><u>[New] Soundscapes Synopsis A Guide to Visual Tunes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-streamline-your-sound-key-audio-interfaces-for-podcasters/"><u>[New] Streamline Your Sound Key Audio Interfaces for Podcasters</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-joyful-jokes-youtubes-funniest-creators-to-relax-with-for-2024/"><u>[Updated] Joyful Jokes YouTube's Funniest Creators to Relax With for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-secrets-of-effective-screen-capture-with-dell-devices-for-2024/"><u>[Updated] Secrets of Effective Screen Capture with Dell Devices for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-top-group-video-chat-apps-for-video-conferences-and-meetings-for-2024/"><u>[Updated] Top Group Video Chat Apps For Video Conferences and Meetings for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-the-latest-hp-laserjet-p1007-printer-drivers-updated-guide/"><u>Download & Install the Latest HP LaserJet P1007 Printer Drivers: Updated Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/flippant-entry-and-exit-tips/"><u>Flippant Entry & Exit Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-ignore-microsofts-app-verification-warnings/"><u>How to Ignore Microsoft's App Verification Warnings</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-resolve-offline-printer-problems-in-os/"><u>How To Resolve Offline Printer Problems in OS</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/husqvarnas-sky-high-adventure-with-h501s-x4-review-for-2024/"><u>Husqvarna's Sky-High Adventure with H501S X4 Review for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-motorola-edge-40-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Motorola Edge 40 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-calculators-dark-scheme/"><u>Mastering Windows Calculator's Dark Scheme</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-resolve-failed-page-loading-on-ms-store/"><u>Steps to Resolve Failed Page Loading on MS Store</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-resolve-windows-1110s-nvidia-access-problem/"><u>Strategies to Resolve Windows 11/10'S NVidia Access Problem</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-collection-of-task-management-tools-for-windows-11-users/"><u>The Ultimate Collection of Task Management Tools for Windows 11 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-file-download-issues-on-windows-11-6/"><u>Troubleshooting File Download Issues on Windows 11 (6)</u></a></li>
+<li><a href="https://windows11.techidaily.com/what-are-windows-bsod-memory-dumps-and-how-can-they-help-you/"><u>What Are Windows BSoD Memory Dumps, and How Can They Help You?</u></a></li>
+</ul></div>
 

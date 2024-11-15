@@ -1,7 +1,7 @@
 ---
 title: Fixing WSL Distributor Error 0X80370102 on Windows Systems
-date: 2024-11-04T09:53:40.937Z
-updated: 2024-11-04T18:35:42.052Z
+date: 2024-11-13T16:54:28.210Z
+updated: 2024-11-15T16:31:04.946Z
 tags:
   - windows10
   - windows11
@@ -38,10 +38,16 @@ thumbnail: https://thmb.techidaily.com/b55c24263d5a9a2d0075e95ed2cba33cc134d0a45
  In case you are using an Insider Build of Windows, consider installing a stable Windows version, since a version under development is prone to errors like this one.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Enable Hyper-V
@@ -56,21 +62,14 @@ Here is how you can enable Hyper-V on your PC:
 3. Click on**Turn Windows Feature on or off** in the left pane.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Turn Windows features on or off option in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-windows-features-on-or-off.jpg)
 4. In the following dialog, checkmark the box associated with**Hyper-V** and click**OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Enable Hyper-V in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/hyper-v-setting.jpg)
 5. Once done, restart your computer and check if the issue is resolved. While you are at it, we also recommend checking if the Virtual Machine Platform feature is enabled by following the same steps. If it is disabled, enabling it should help you fix the issue as well.
@@ -86,25 +85,11 @@ Here is how you can enable Hyper-V on your PC:
 ![Virtualization in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/virtualization-setting.jpg)
 5. Alternatively, open Run by pressing the**Win + R** keys together.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Type cmd in the text field and press**Ctrl + Shift + Enter** to open Command Prompt as admin.
 7. Click**Yes** in the User Account Control Prompt.
 8. Type systeminfo in Command Prompt and hit Enter.
 9. Wait for the command to execute, and then head over to the**Hyper-V requirements** section. You should be able to see if the Virtualization is enabled from there.  
 ![Check Hyper-V requirements in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/hyper-v-requirements.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the service is disabled,[enabling the Hyper-V technology on Windows](https://www.makeuseof.com/windows-11-enable-hyper-v/) should fix the problem for you.
 
@@ -123,6 +108,13 @@ Here is how you can do that:
 ![LxssManager service properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/lxssmanager-utility.jpg)
 5. Now, click on the**Stop** button, wait for a few seconds, and then hit**Start** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Click on the Start button in the Properties dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/stop-button.jpg)
 6. Once the service is restarted, check if the issue is resolved.
 
@@ -139,11 +131,25 @@ Set-VMProcessor <VMName> -ExposeVirtualizationExtensions $true
 ![Execute the entered command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/powershell-command-hyperv.jpg)
 4. Now, launch the Hyper-V manager and right-click on the virtual machine.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Choose**Settings** from the context menu.
 6. Click on**Memory** in the left pane.
 7. Now, increase the Startup RAM value by double and uncheck the box for**Enable Dynamic Memory** .  
 ![Modify the memory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/configure-hyper-v-dynamic-memory.jpg)
 8. Click**Apply** \>**OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 9. Now, right-click on your virtual machine again and choose**Connect** .
 10. Let the system restart and try installing/running Ubuntu again.
@@ -167,24 +173,20 @@ Set-VMProcessor <VMName> -ExposeVirtualizationExtensions $true
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-best-energy-efficient-laptops-with-gamers-features/"><u>[New] In 2024, Best Energy-Efficient Laptops with Gamers' Features</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-premier-handwear-for-immersive-vr-experiences/"><u>[Updated] In 2024, Premier Handwear for Immersive VR Experiences</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-audiovisual-powerhouses-select-best-laptops-for-editing/"><u>2024 Approved Audiovisual Powerhouses Select Best Laptops for Editing</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-craft-stunning-iphone-snaps-heed-these-10-guidelines/"><u>2024 Approved Craft Stunning iPhone Snaps - Heed These 10 Guidelines</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoid-the-wow-breakdown-cure-windows-error-code-132/"><u>Avoid the WoW Breakdown: Cure Windows Error Code 132</u></a></li>
-<li><a href="https://windows11.techidaily.com/detailed-guide-turning-secure-boot-and-tpm-onoff-in-vbox/"><u>Detailed Guide: Turning Secure Boot and TPM On/Off in VBox</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-nokia-c210-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Nokia C210 FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhance-visual-coherence-integrating-this-pc-icon/"><u>Enhance Visual Coherence: Integrating 'This PC' Icon</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhancing-your-windows-11-journey-top-6-multitasking-android-apps/"><u>Enhancing Your Windows 11 Journey: Top 6 Multitasking Android Apps</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ing-vlog-subjects-daily-selection-for-2024/"><u>Exciting Vlog Subjects Daily Selection for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-identify-some-outdated-drivers-with-windows-device-manager-in-windows-10-and-7-by-drivereasy-guide/"><u>How to identify some outdated drivers with Windows Device Manager in Windows 10 & 7</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mastering-dual-screen-work-in-excel-a-comprehensive-guide/"><u>Mastering Dual-Screen Work in Excel: A Comprehensive Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimizing-powershell-access-control-settings/"><u>Optimizing PowerShell Access Control Settings</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-guide-to-solving-disk-errors-uninitialized-scenarios/"><u>Quick Guide to Solving Disk Errors: Uninitialized Scenarios</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-guide-configure-time-zones-on-windows-manually/"><u>Quick Guide: Configure Time Zones on Windows Manually</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723011968230-resolved-cyberpunk-2077s-notorious-lag-and-stutter-issues-now-tackled/"><u>Resolved: Cyberpunk 2077'S Notorious Lag & Stutter Issues Now Tackled</u></a></li>
-<li><a href="https://windows11.techidaily.com/reversing-camera-apps-loss-of-recorded-images/"><u>Reversing Camera App's Loss of Recorded Images</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-reinstate-normal-startup-procedure-in-outlook/"><u>Steps to Reinstate Normal Startup Procedure in Outlook</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-7th-generation-kindle-paperwhite-from-amazon-an-in-depth-book-lovers-guide-and-review/"><u>The 7Th Generation Kindle Paperwhite From Amazon - An In-Depth Book Lover's Guide & Review</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-adobe-premiere-pro/"><u>「2024年版: Adobe Premiere Proでのマスターピースサウンドズレ定規解消技術ガイド」</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-splitcam-breakdown-best-or-not-amongst-recorders/"><u>2024 Approved SplitCam Breakdown Best or Not Amongst Recorders?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-squaring-the-circle-your-imovie-path-to-perfect-instagram-videos/"><u>2024 Approved Squaring the Circle Your iMovie Path to Perfect Instagram Videos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-utilizing-jump-cuts-to-amplify-your-vlog-impact/"><u>2024 Approved Utilizing Jump Cuts to Amplify Your Vlog Impact</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-lava-yuva-3-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Lava Yuva 3 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/illuminating-your-way-with-a-clearer-cursor-in-win-11/"><u>Illuminating Your Way with a Clearer Cursor in Win 11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-oppo-reno-10-pro-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Oppo Reno 10 Pro 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-keep-your-videos-secure-youtube-to-mp4-downloading-safely/"><u>In 2024, Keep Your Videos Secure - YouTube-to-MP4 Downloading Safely</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/journey-through-audio-production-initiating-with-auditions-fade-in-for-2024/"><u>Journey Through Audio Production Initiating with Audition’s Fade In for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-steam-permission-hurdles-in-windows-11-environment/"><u>Overcoming Steam Permission Hurdles in Windows 11 Environment</u></a></li>
+<li><a href="https://windows11.techidaily.com/perfect-window-placement-with-sticknotes/"><u>Perfect Window Placement with StickNotes</u></a></li>
+<li><a href="https://windows11.techidaily.com/photography-made-hassle-free-troubleshooting-windows-camera/"><u>Photography Made Hassle-Free: Troubleshooting Windows Camera</u></a></li>
+<li><a href="https://windows11.techidaily.com/reconnect-the-unreachable-your-guide-to-fixing-usb-wi-fi-in-windows/"><u>Reconnect the Unreachable: Your Guide to Fixing USB Wi-Fi in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/transform-your-workflow-top-7-methods-for-windows-11-excellence-42/"><u>Transform Your Workflow: Top 7 Methods for Windows 11 Excellence (42)</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-techniques-for-launching-repair-tools/"><u>Unveiling Techniques for Launching Repair Tools</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Windows 11: Simultaneous Folder Creation Techniques"
-date: 2024-08-22T21:42:54.512Z
-updated: 2024-08-23T21:42:54.512Z
+date: 2024-11-13T17:16:55.040Z
+updated: 2024-11-15T17:11:43.806Z
 tags:
   - windows10
   - windows11
@@ -62,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/1eb9ced51df0b5377c33b33676973c39490da0549
 
  Finally, close the Powershell window and check if the folders have been created.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Use the Notepad to Create Multiple Folders at Once
 
  Though it may come as a surprise, the Windows Notepad can perform more advanced technical operations than just writing to-do lists.
@@ -77,6 +84,14 @@ thumbnail: https://thmb.techidaily.com/1eb9ced51df0b5377c33b33676973c39490da0549
 md "MUOJan"\"Windows" "MUOFeb"\"Android"`  
 ![Notepad command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win11-notepad-command.jpg)
 4. After you have typed down the names of all the folders and subfolders that you want to create, navigate to **File** in the top-left corner and choose **Save as**.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Save as option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/notepad-save-as.jpg)
 5. Give your file a name followed by **.bat**. For instance, we named our file as makeuseof.bat.  
 ![Notepad file name](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/notepad-file-name.jpg)
@@ -86,9 +101,6 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
 
  Now that you have created multiple files and folders, [organizing these files on Windows](https://www.makeuseof.com/tag/automatically-organize-files-windows/) is also worth considering if you do not want to spend a lot of time looking for information in them. Additionally, Windows also allows you to [rename multiple folders at once](https://www.makeuseof.com/cool-folder-tips-windows/), which can be helpful when organizing them.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Use a Third-Party Application
 
  Last but not least, if you think using Command Prompt and Notepad is too time-consuming, you can try using a third-party application.
@@ -108,19 +120,31 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
 3. Click **Yes** in the confirmation prompt.  
 ![Clicking Yes in the UAC prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/folder-frenzy-agreement.jpg)
 4. Once the Folder Frenzy dialog launches, type the names of the folders you want to create and click on the **Create Folder** button. These folders will be created in the Folder Frenzy file.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
-![Create folder in Folder Frenzy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/folder-frenzy-create-folder.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Create folder in Folder Frenzy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/folder-frenzy-create-folder.jpg)
+
  From here, you can even take a step further and learn [how to launch multiple programs with one shortcut on Windows](https://www.makeuseof.com/tag/launch-multiple-programs-single-shortcut-using-batch-file/) to increase your productivity at work or school. In case you no longer need the tool after creating bulk folders, you can uninstall it. This won't automatically delete the folders you have created using the tool, unless the uninstallation process explicitly offers to do so and you confirm that action.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Create Multiple Folders in a Few Clicks on Windows
 
  Creating several folders manually is a mundane task, and you can spend the same energy doing something more productive. The steps we have outlined above should help you automate this task, saving time for things that actually bring in some value.
@@ -129,11 +153,30 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
 
  There is more than one method of creating multiple files and folders in Windows, and we have outlined the best ways of doing so for you below. Read through the methods and proceed with the one you want.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/resolved-dxgkrnlsys-causing-winbsod-error/"><u>[Resolved] dxgkrnl.sys Causing WinBSOD Error</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-camstudio-updates-the-2023-guide-for-screen-recording-pros/"><u>[Updated] 2024 Approved CamStudio Updates The 2023 Guide for Screen Recording Pros</u></a></li>
+<li><a href="https://fox-that.techidaily.com/a-step-by-step-guide-resolving-iphone-issues-with-apples-official-support-application/"><u>A Step-by-Step Guide: Resolving iPhone Issues with Apple's Official Support Application</u></a></li>
+<li><a href="https://win-updates.techidaily.com/comment-retrouver-un-fichier-excel-perdant-dans-windows-10-guide-facile-et-complet/"><u>Comment Retrouver Un Fichier Excel Perdant Dans Windows 10 : Guide Facile Et Complet</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-change-the-microsoft-account-administrator-name-in-windows-11/"><u>How to Change the Microsoft Account Administrator Name in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-halt-windows-push-notifications-for-updates/"><u>How to Halt Windows Push Notifications for Updates</u></a></li>
+<li><a href="https://windows11.techidaily.com/implementing-effective-end-task-controls-in-windows-11-interface-design/"><u>Implementing Effective End Task Controls in Windows 11 Interface Design</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-digital-cinemas-on-iphone-apples-no1-freepluspaid-movie-app-guide/"><u>In 2024, Digital Cinemas on iPhone Apple's No.1, FREE+PAID Movie App Guide</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-guide-to-microsoft-surface-ergonomic-keyboard-unpacking-its-superior-quality/"><u>In-Depth Guide to Microsoft Surface Ergonomic Keyboard – Unpacking Its Superior Quality</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/launch-of-whatsapps-channel-capability-across-select-nations-a-comprehensive-guide-by-zdnet/"><u>Launch of WhatsApp's Channel Capability Across Select Nations – A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-the-art-dependencies-prior-to-vbox-for-windows/"><u>Master the Art: Dependencies Prior to VBox for Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/multi-monitor-magic-custom-wallpapers-for-each-screen/"><u>Multi-Monitor Magic: Custom Wallpapers for Each Screen</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-speed-fixing-slow-microsoft-edge-win10win11/"><u>Optimizing Speed: Fixing Slow Microsoft Edge (Win10/Win11)</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-missing-launcher-dilemma-for-ubisoft-games/"><u>Overcoming Missing Launcher Dilemma for Ubisoft Games</u></a></li>
+<li><a href="https://fox-where.techidaily.com/resolved-why-usb-drive-storage-is-in-use-but-files-are-hidden-detailed-guide/"><u>Resolved: Why USB Drive Storage Is In Use But Files Are Hidden – Detailed Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207936743-solution-found-compatibility-issues-with-display-input-timing-fixed/"><u>Solution Found: Compatibility Issues with Display Input Timing Fixed</u></a></li>
+</ul></div>
+

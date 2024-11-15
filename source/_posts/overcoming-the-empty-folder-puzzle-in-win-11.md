@@ -1,7 +1,7 @@
 ---
 title: Overcoming the Empty Folder Puzzle in Win 11
-date: 2024-10-31T01:28:13.926Z
-updated: 2024-11-05T01:52:47.851Z
+date: 2024-11-08T16:48:12.284Z
+updated: 2024-11-15T17:32:28.674Z
 tags:
   - windows10
   - windows11
@@ -47,15 +47,22 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
 3. Click **Stop** to turn off the ADSM service.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Save your service settings by clicking **Apply** and **OK**.
 5. Once done, remove the ASUS Data Security Manager using any method in our [ways to uninstall Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) guide.  
 ![The Programs and Features applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-windows-uninstaller.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Perform a Clean Boot
 
@@ -78,10 +85,10 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
 ![The System Restore window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/system-restore-window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Perform a Windows Factory Reset
@@ -93,23 +100,16 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
 ![The Keep my files option in the Reset this PC tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-keep-my-files-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Save Your Files Again on Windows
@@ -128,20 +128,24 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-mastering-media-management-on-instagram/"><u>[New] In 2024, Mastering Media Management on Instagram</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-revealing-the-rich-detail-of-your-roblox-journey/"><u>[New] Revealing the Rich Detail of Your Roblox Journey</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/solved-the-iphone-cannot-be-synced-itunes-error-54-after-windows-10-upgrade/"><u>[Solved] The iPhone Cannot Be Synced iTunes Error (-54) After Windows 10 Upgrade</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-vimeo-simplified-platform-for-content-creators/"><u>[Updated] In 2024, Vimeo Simplified Platform for Content Creators</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-live-google-meet-on-youtube-streaming-tutorial-for-beginners/"><u>[Updated] Live Google Meet on YouTube – Streaming Tutorial for Beginners</u></a></li>
-<li><a href="https://windows11.techidaily.com/10-ways-to-fix-onedrive-sync-issues-on-windows-11/"><u>10 Ways to Fix OneDrive Sync Issues on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/activating-automatic-color-tuning-on-win11-devices/"><u>Activating Automatic Color Tuning on Win11 Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/advanced-system-maintenance-locating-and-resolving-win-os-error-codes-via-command-prompt-expertise/"><u>Advanced System Maintenance: Locating and Resolving Win-OS Error Codes via Command Prompt Expertise</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoiding-performance-pitfalls-high-cpu-usage-with-rm/"><u>Avoiding Performance Pitfalls: High CPU Usage with RM</u></a></li>
-<li><a href="https://windows11.techidaily.com/command-your-way-through-windows-11-nircmd-tips-and-tricks/"><u>Command Your Way Through Windows 11: NirCmd Tips & Tricks</u></a></li>
-<li><a href="https://windows11.techidaily.com/deciphering-and-rectifying-non-functional-batches-in-windows/"><u>Deciphering and Rectifying Non-Functional Batches in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/disentangling-common-errors-in-windows-11-zoom-app/"><u>Disentangling Common Errors in Windows 11 Zoom App</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ps5-dvd-abspielfunktion-funktionsweise-und-anleitung-zum-betrachten-von-filmen-auf-der-playstation-5/"><u>PS5 DVD-Abspielfunktion: Funktionsweise Und Anleitung Zum Betrachten Von Filmen Auf Der PlayStation 5</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/ultimate-guide-solving-the-puzzle-of-a-stagnant-icloud-music-library-update/"><u>Ultimate Guide: Solving the Puzzle of a Stagnant iCloud Music Library Update</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/your-guide-to-gaining-facebooks-elite-verification-badge-for-2024/"><u>Your Guide to Gaining Facebook's Elite Verification Badge for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-motion-analysis-report-2023/"><u>[New] 2024 Approved Motion Analysis Report 2023</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-top-10-no-cost-digital-video-editors-the-2023-guide/"><u>[New] Top 10 No-Cost Digital Video Editors The 2023 Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-crafting-captivating-images-using-leading-lines-iphone/"><u>[Updated] Crafting Captivating Images Using Leading Lines (iPhone)</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-infographic-8-ways-to-make-money-on-youtube-for-beginners/"><u>2024 Approved Infographic - 8 Ways to Make Money on YouTube for Beginners</u></a></li>
+<li><a href="https://fox-access.techidaily.com/elevating-your-live-stream-with-periscope/"><u>Elevating Your Live Stream with Periscope</u></a></li>
+<li><a href="https://win-able.techidaily.com/excel-basics-unveiled-easy-techniques-for-incorporating-percentage-formulas-into-your-spreadsheets/"><u>Excel Basics Unveiled: Easy Techniques for Incorporating Percentage Formulas Into Your Spreadsheets</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-chatgpts-built-in-features-understanding-its-default-plugins/"><u>Exploring ChatGPT's Built-In Features: Understanding Its Default Plugins</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-absent-mfc71udll-steps-for-windows-users/"><u>Fixing Absent Mfc71u.dll: Steps for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-windows-components-administration-tool/"><u>Guide to Windows Components Administration Tool</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-swiftly-overcome-directdraw-errors-in-win1011-environments/"><u>How to Swiftly Overcome DirectDraw Errors in Win10/11 Environments</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-winscombsvr-crashes-in-windows/"><u>Navigating Through WinScombSvr Crashes in Windows</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-time-lapse-video-editing-software-roundup-for-2024/"><u>New The Ultimate Time-Lapse Video Editing Software Roundup for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-security-updating-user-passwords-on-win-11/"><u>Optimizing Security: Updating User Passwords on Win 11</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/prime-windows-10-photoviewing-suite-for-2024/"><u>Prime Windows 10 Photoviewing Suite for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/should-you-leap-to-the-latest-trend-a-detailed-review-of-the-iphone-16-pro-against-its-predecessor-the-14-pro-zdnet/"><u>Should You Leap to the Latest Trend? A Detailed Review of the iPhone 16 Pro Against Its Predecessor, the 14 Pro | ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-inability-to-run-os-disk-organizer/"><u>Tackling Inability to Run OS Disk Organizer</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshoot-windows-not-recognizing-an-interface/"><u>Troubleshoot Windows Not Recognizing an Interface</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-windows-11-with-non-admin-steps/"><u>Unlocking Windows 11 With Non-Admin Steps</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-secrets-of-fax-cover-page-editing-in-win11/"><u>Unveiling the Secrets of Fax Cover Page Editing in Win11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "One Key to Close Clustered Applications: Windows Edition"
-date: 2024-08-22T21:41:35.272Z
-updated: 2024-08-23T21:41:35.272Z
+date: 2024-11-13T16:47:05.140Z
+updated: 2024-11-15T16:53:37.840Z
 tags:
   - windows10
   - windows11
@@ -57,8 +57,12 @@ thumbnail: https://thmb.techidaily.com/d560431f923ced226ef363014bbd59707b7820d52
 3. Right-click on one of the results and select **Resume Process**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Use the Command Prompt
 
 ![Person using a Windows PC while placing it on a lap](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Person-using-a-Windows-PC-while-placing-it-on-a-lap.jpg)
@@ -74,9 +78,6 @@ thumbnail: https://thmb.techidaily.com/d560431f923ced226ef363014bbd59707b7820d52
 
 ![Opening the Command Prompt using the Start menu search bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/opening-the-command-prompt-using-the-start-menu-search-bar.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
  Let’s say you want to close multiple File Explorer windows simultaneously. To do that, type the following command in the Command Prompt and press **Enter**:
 
 taskkill /f /im explorer.exe
@@ -84,15 +85,16 @@ taskkill /f /im explorer.exe
  The “taskkill /f /im” command is the one that closes the program, and the “explorer.exe” command is the name of the app. To close multiple windows of your other apps, replace the “explorer.exe” part with the relevant command.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. Create a Batch Script for Closing Multiple Apps Simultaneously
 
 ![A person using a Windows device on a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-person-using-a-Windows-device-on-a-desk.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
  We’ve already discovered that the Command Prompt can only help you close multiple windows of the same app.
 
  But if you apply a few tricks, you can close multiple apps using some commands. However, you’d need to [create a batch script](https://www.makeuseof.com/tag/write-simple-batch-bat-file/) for that.
@@ -115,9 +117,6 @@ taskkill /f /im paintdotnet.exe /T > nul
 
 ![Creating a Batch Script for Closing Multiple Apps Simultaneously](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/creating-a-batch-script-for-closing-multiple-apps-simultaneously.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
  From there, follow these steps:
 
 1. Press the **File** tab in the top-left corner of the text file.
@@ -142,8 +141,12 @@ taskkill /f /im paintdotnet.exe /T > nul
 ![The Close All Windows Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-close-all-windows-tool.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You can also quickly close your multiple active apps using a third-party program like the [Close All Windows tool](https://www.softpedia.com/get/System/System-Miscellaneous/AA-Close-All-Windows.shtml). The tool is lightweight, which means it won’t take up much of your disk space.
 
  This app works almost like the Windows built-in Resource Monitor. However, it comes with a basic and easy-to-understand interface. When you open the tool, it immediately displays all your active apps. All you need to do is tick the relevant boxes and then click the **OK** button to close those apps.
@@ -156,20 +159,24 @@ taskkill /f /im paintdotnet.exe /T > nul
 
 **Download**: Close All Windows for [Windows](https://www.softpedia.com/get/System/System-Miscellaneous/AA-Close-All-Windows.shtml) (Free, subscription available)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Close Your Multiple Apps Simultaneously With Just a Few Clicks
 
  It’s always frustrating when your Windows device suddenly becomes slow or buggy. In most cases, such issues are caused by running tons of apps simultaneously.
 
  Want a quick way to speed up your device? Close your multiple active programs simultaneously using the tips we’ve covered. And if you end up closing some apps by mistake, you can apply some quick tricks to restore them again.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -178,4 +185,18 @@ taskkill /f /im paintdotnet.exe /T > nul
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-guide-to-correct-age-information-for-tiktok-users/"><u>[New] 2024 Approved Guide to Correct Age Information for TikTok Users</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-8-strategies-livestreaming-webinars-without-costs/"><u>[New] 8 Strategies Livestreaming Webinars Without Costs</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-unraveling-the-mysteries-of-fb-instream-ads-configuration-and-evaluation-for-2024/"><u>[Updated] Unraveling the Mysteries of FB Instream Ads Configuration & Evaluation for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-the-significance-of-versions-in-windows-updates/"><u>Exploring the Significance of Versions in Windows Updates</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-rectify-file-history-fault-in-windows/"><u>Guide to Rectify “File History Fault” In Windows</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-from-zero-to-hero-how-to-generate-fb-trends/"><u>In 2024, From Zero to Hero How to Generate Fb Trends</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-unleash-your-twitter-potential-premium-video-upload-tools/"><u>In 2024, Unleash Your Twitter Potential Premium Video Upload Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-resolve-razer-devices-not-detected-by-synapse-on-windows/"><u>Steps to Resolve Razer Devices Not Detected by Synapse on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-embellishing-system-tray-with-a-favorite-weather-symbol-in-windows-11/"><u>The Ultimate Guide to Embellishing System Tray With a Favorite Weather Symbol in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-windows-11-explorer-guide-pinpointing-your-machines-mac/"><u>The Windows 11 Explorer Guide: Pinpointing Your Machine's MAC</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/vervullende-oplossingen-voor-deelnemers-van-harde-schijven-begin-je-reparatie/"><u>Vervullende Oplossingen Voor Deelnemers Van Harde Schijven - Begin Je Reparatie!</u></a></li>
+</ul></div>
 

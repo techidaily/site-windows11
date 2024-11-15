@@ -1,7 +1,7 @@
 ---
 title: Rectifying 'Device Not Initialized' Warning in Win 11
-date: 2024-11-04T04:55:33.115Z
-updated: 2024-11-04T18:02:57.021Z
+date: 2024-11-11T17:09:10.429Z
+updated: 2024-11-15T17:29:30.951Z
 tags:
   - windows10
   - windows11
@@ -45,10 +45,10 @@ thumbnail: https://thmb.techidaily.com/857cad2a82232e03f92aad9809b4a548e4964a8c9
  Sometimes, the message can appear due to corruption in the OS version installed on your computer. The solution, in this case, is to download the latest Windows update. To do this,[open the Settings menu](https://www.makeuseof.com/windows-ways-to-open-system-settings/) , and select**Windows Update** from the left panel. Click the**Check for updates** button and wait until Windows checks for and download any available updates.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Look for Hardware Changes
@@ -60,20 +60,13 @@ thumbnail: https://thmb.techidaily.com/857cad2a82232e03f92aad9809b4a548e4964a8c9
 3. Right-click on the**Universal Serial Bus controllers** node and select the**Scan for hardware changes** option.  
 ![Scan for hardware changes option in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/scan-for-hardware-changes-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  That's it. Now, wait until the scan is complete. Once done, check if the issue continues.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Use the Hardware and Devices Troubleshooter
@@ -91,6 +84,13 @@ Here's how to use the Hardware and Devices troubleshooter:
 
  The Hardware and Devices troubleshooter will now look for and automatically fix any available hardware issues on your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Disable Fast Startup
 
  Windows has a[fast startup feature](https://www.makeuseof.com/what-is-windows-fast-startup-why-disable-it/) that you can enable to fasten your computer's boot speed. But on the negative side, enabling this feature can also result in different system issues, including the Unknown USB Device, Port Reset Failed error.
@@ -106,6 +106,13 @@ Here's how to use the Hardware and Devices troubleshooter:
 ![Disable Fast Startup in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Disable-Fast-Starup.jpg)
 7. Click the**Save changes** button.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Next, restart your computer and check for the problem.
 
 ## 5\. Download the Latest Driver Update
@@ -118,6 +125,13 @@ Next, restart your computer and check for the problem.
 ![Update driver option in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/update-driver-option.jpg)
 4. In the new window that crops up, select the**Search automatically for drivers** option.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now, wait until Windows searches for any available driver update online and install it on your computer.
 
 ## 6\. Reinstall All the USB Controllers
@@ -129,13 +143,6 @@ Next, restart your computer and check for the problem.
 
  Next, restart your computer and plug in the USB device again. Check if you still see the error message. If yes, continue with the guide.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Disable the USB Selective Suspend Setting
 
  Disabling the USB Selective Suspend setting is another thing you can do to get rid of the problem at hand. Here's how to do it:
@@ -146,13 +153,6 @@ Next, restart your computer and check for the problem.
 4. Choose**Disabled** for both**On battery** and**Plugged in** options.  
 ![Disable USB Selective Setting in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-usb-selective-setting.jpg)
 5. Click**Apply** \>**OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Update Your BIOS
 
@@ -181,20 +181,24 @@ Next, restart your computer and check for the problem.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://windows11.techidaily.com/additional-updates-available-in-windows-11s-latest-release/"><u>Additional Updates Available in Windows 11'S Latest Release</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-offline-status-of-valve-games-via-steam-desktop-client/"><u>Addressing Offline Status of Valve Games via Steam Desktop Client</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-steps-to-switch-off-stuck-theme-on-pc/"><u>Essential Steps to Switch Off Stuck Theme on PC</u></a></li>
-<li><a href="https://discover-best.techidaily.com/fixing-davinci-resolve-solving-common-webm-file-transfer-problems/"><u>Fixing DaVinci Resolve: Solving Common WebM File Transfer Problems</u></a></li>
-<li><a href="https://windows11.techidaily.com/future-proof-computing-with-top-windows-laptop-choices/"><u>Future-Proof Computing with Top Windows Laptop Choices</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210613885-9791029913891-gleanings-of-a-mystic/"><u>Gleanings of a Mystic | Free Book</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-xiaomi-civi-3-disney-100th-anniversary-edition-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Xiaomi Civi 3 Disney 100th Anniversary Edition Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-fix-the-apple-iphone-7-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>How to Fix the Apple iPhone 7 GPS not Working Issue | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Motorola Moto G24 | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-nokia-c02-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Nokia C02 and Browser | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reveal-your-pcs-intel-core-gen-via-8-windows-tips/"><u>Reveal Your PC's Intel Core Gen via 8 Windows Tips</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-premier-lineup-of-zero-cost-must-haves-for-windows-11/"><u>The Premier Lineup of Zero-Cost Must-Haves for Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-ultimate-alomware-resource-for-windows-tweakers/"><u>The Ultimate AlomWare Resource for Windows Tweakers</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-for-capturing-and-organizing-uac-alert-snaps/"><u>Tips for Capturing and Organizing UAC Alert Snaps</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-non-functioning-pc-audio-fast-fixes/"><u>Troubleshoot Non-Functioning PC Audio: Fast Fixes</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-12-ultimate-insta-image-enhancers/"><u>[Updated] 12 Ultimate Insta Image Enhancers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-ballot-box-bonanza-topping-politic-simulations/"><u>[Updated] 2024 Approved Ballot Box Bonanza Topping Politic Simulations</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/adeptness-at-mobile-app-development-for-luts/"><u>Adeptness at Mobile App Development for LUTs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/canon-eos-driver-installation-and-update-guide/"><u>Canon EOS Driver Installation & Update Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhancing-virtual-meeting-clarity-with-zoom-focus/"><u>Enhancing Virtual Meeting Clarity with Zoom Focus</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-guide-to-using-microsoft-copilot-in-development/"><u>Essential Guide to Using Microsoft Copilot in Development</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-tips-troubleshooting-missing-steam-controllers/"><u>Essential Tips: Troubleshooting Missing Steam Controllers</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-your-unresponsive-xbox-controllers-on-pc/"><u>Fixing Your Unresponsive Xbox Controllers on PC</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-poco-c55-to-mac-drfone-by-drfone-android/"><u>How to Mirror Poco C55 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-unlock-pin-related-bluetooth-disconnects-in-win11win10/"><u>How To Unlock PIN-Related Bluetooth Disconnects in Win11/Win10</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-meaning-of-windows-mbr-error-messages/"><u>Mastering the Meaning of Windows MBR Error Messages</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-easily-getting-outlook-preview-on-winoss/"><u>Navigate Easily: Getting Outlook Preview on WinOSs</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-code-0x0000004e-anomalies/"><u>Navigating Through Code 0X0000004E Anomalies</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/prime-picks-best-photo-displayers/"><u>Prime Picks Best Photo Displayers</u></a></li>
+<li><a href="https://techidaily.com/sony-xperia-5-v-messages-recovery-recover-deleted-messages-from-sony-xperia-5-v-by-fonelab-android-recover-messages/"><u>Sony Xperia 5 V Messages Recovery - Recover Deleted Messages from Sony Xperia 5 V</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-nvidia-connection-failures-in-10-and-11-editions/"><u>Streamlining Nvidia Connection Failures in 10 & 11 Editions</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/transforma-tus-videos-3g2-en-archivo-wmv-de-alta-calidad-de-gratis-utilizando-movavi/"><u>Transforma Tus Videos 3G2 en Archivo WMV De Alta Calidad De Gratis Utilizando Movavi</u></a></li>
+<li><a href="https://article-posts.techidaily.com/unlock-the-potential-of-close-up-videos-using-videoleap/"><u>Unlock the Potential of Close-Up Videos Using Videoleap</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-specific-error-recovery-reinstating-non-functional-software/"><u>Win-Specific Error Recovery: Reinstating Non-Functional Software</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Safe Navigation in Windows 11: The Top 8 To Steer Clear Of"
-date: 2024-08-22T21:44:11.271Z
-updated: 2024-08-23T21:44:11.271Z
+date: 2024-11-08T17:19:54.064Z
+updated: 2024-11-15T16:45:08.126Z
 tags:
   - windows10
   - windows11
@@ -32,9 +32,23 @@ thumbnail: https://thmb.techidaily.com/32b091bb5633d3a9c4c2a4da4b60ec3b4374fdb76
 
  However, if you're confused about whether you should purchase antivirus software, [check out if Microsoft Defender is good enough for you](https://www.makeuseof.com/is-microsoft-defender-the-best-antivirus-for-your-pc-in-2021/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. You Should Not Download Software From Untrusted Sources
 
 ![The Microsoft Store app](https://thmb.techidaily.com/2ce1793b7eb9df5d73bd2287ee2fb75c54bfd7ec38a9d51d9c25c70c5f788347.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  No matter how advanced antivirus software you use on your PC, never download software from untrusted sources. And if you're not much of an internet person, it can be tricky to identify trustworthy sources.
 
@@ -42,26 +56,33 @@ thumbnail: https://thmb.techidaily.com/32b091bb5633d3a9c4c2a4da4b60ec3b4374fdb76
 
  If you're not good at searching the internet, try using Microsoft Store to download your apps. Apps available on the Microsoft Store are checked by Microsoft and considered safe. Notably, downloading anything from Microsoft Store will require a Microsoft account.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## 3\. Windows Updates Are Important, Never Miss Them
 
 ![Checking for Available Windows Updates in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Image-1-Checking-for-Available-Windows-Updates-in-Windows-Settings-App.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
  After releasing a major Windows update, Microsoft continues to push security updates to keep your PC safe from the latest malware. Avoiding or delaying installing those monthly security updates will put your PC at severe risk.
 
  Besides security updates, the company also pushes quality updates and small feature updates, giving you access to the latest new features and improvements.
 
  Granted, Windows updates can cause annoyance sometimes and impact your workflow. But most of the time, only a small set of users with specific pieces of hardware are affected. And even if you're part of that small set of users, Microsoft is quick enough to issue a fix via a software update. In short, the rewards are bigger than the risks.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. You Should Not Choose Weak Passwords
 
 ![Password and lock symbol on white background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/remove-passwords-browser.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  While being able to log in to our online accounts and services without having to type a password sounds like a great idea, we're not quite there yet. We use passwords everywhere to keep our online and offline accounts safe.
 
@@ -77,9 +98,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![connecting to a virtual private network on laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/laptop-screen-showing-a-vpn-connection.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Public Wi-Fi services can come to your rescue if you've run out of mobile data and don't have broadband at home. It's essentially free internet offered by businesses, organizations, or municipalities in public places, helping you save money.
 
  Before the benefits lure you into logging into public WiFi, just be aware of the risk involved. However, you can mitigate the risks by using a VPN service.
@@ -87,8 +105,12 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
  A VPN service will not expose your true identity to hackers, thus helping you stay protected and protect your privacy. We have a guide to help you choose between the [fastest VPN services](https://www.makeuseof.com/tag/5-great-free-vpn-services-compared-which-is-fastest/).
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6\. Outdated Software Can Give You Trouble, Try to Avoid Them
 
  An outdated piece of software may put your PC at risk, not just in Windows 11 but in other OSes as well. It's easier for a hacker to infect an old piece of software with malware than a new one.
@@ -107,18 +129,12 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  Unless you're an advanced user wanting to bypass those prompts, you should never [disable the UAC prompt](https://www.makeuseof.com/windows-11-disable-user-account-control-prompt/). When UAC is turned off, you won't get any prompts to warn you about the consequences of the change. So, if you're a casual user, you better avoid changing the UAC's default state.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Avoid Installing Too Many Programs on Your PC
 
  When you're no longer using a program, it's always better to get rid of it. We recommend you uninstall all the programs that are no longer essential to you. By uninstalling them, you can free the system's memory and improve the overall performance of your PCs.
 
  Moreover, you should always keep an eye on the number of apps running in the background. And if too many of them are in the background, the app currently in use may not be as responsive as you'd want it to be. Installing too many apps on your PC makes your system more cluttered and makes it difficult to find them.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Now You're Aware of What You Shouldn't Do in Windows 11
 
  All the features you find in Windows 11 are meant to achieve something, but they're not for everyone. Just because you're allowed to do something doesn't mean the OS encourages you to do that.
@@ -127,11 +143,23 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  We've put together a list of things you should never do in Windows 11\. Not only that, but we're also giving reasons why you should not change them on your PC.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-enhancing-youtube-content-via-finalcut-pro-techniques-for-2024/"><u>[Updated] Enhancing YouTube Content via FinalCut Pro Techniques for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/4-ways-to-mirror-apple-iphone-8-plus-to-laptop-via-usb-or-wi-fi-drfone-by-drfone-ios/"><u>4 Ways to Mirror Apple iPhone 8 Plus to Laptop via USB or Wi-Fi | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-guide-turn-off-hardware-assisted-gpgpus-on-widno/"><u>Essential Guide: Turn Off Hardware-Assisted GPGPUs on WIDNO</u></a></li>
+<li><a href="https://windows11.techidaily.com/harmonizing-operations-combining-windows-11-and-tablet-for-peak-efficiency/"><u>Harmonizing Operations: Combining Windows 11 & Tablet for Peak Efficiency</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/how-to-make-reels-on-instagram-like-a-ninja-for-2024/"><u>How to Make Reels on Instagram Like a Ninja for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/launching-home-screen-in-windows-11-easily/"><u>Launching Home Screen in Windows 11 Easily</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-a-closer-look-at-vn-video-editor-for-pc-is-it-worth-it-in-2024/"><u>New A Closer Look at VN Video Editor for PC Is It Worth It, In 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategizing-onedrives-positioning-within-windows-directory-space/"><u>Strategizing OneDrive's Positioning Within Windows Directory Space</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unboxing-the-market-strategic-essentials-for-2024/"><u>Unboxing the Market Strategic Essentials for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Jumpstart Joy: Eliminate Windows 11'S Sluggishness"
-date: 2024-10-31T10:59:58.929Z
-updated: 2024-11-04T22:04:58.360Z
+date: 2024-11-12T17:35:24.587Z
+updated: 2024-11-15T17:37:02.538Z
 tags:
   - windows10
   - windows11
@@ -32,10 +32,10 @@ thumbnail: https://thmb.techidaily.com/860b3898b4af7e1c1dc6c593b5d2eb5997c8c8e6a
  If you suspect that having insufficient storage space could be degrading the performance of your device, turn on Storage Sense to boost your device's performance. If you're unfamiliar with this process, see our guide on[using Storage Sense on Windows 11](https://www.makeuseof.com/windows-11-storage-sense-guide/) .
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Set the Power Plan to Best Performance
@@ -45,10 +45,10 @@ thumbnail: https://thmb.techidaily.com/860b3898b4af7e1c1dc6c593b5d2eb5997c8c8e6a
  Changing your device's power plan to high performance can significantly improve its performance. So, you should[change the power plan](https://www.makeuseof.com/windows-11-change-power-plan/) from balanced to high-performance. Note that switching to this plan will increase your device's performance but will also increase its power consumption. So, expect that your laptop's battery will drain faster than usual.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Disable Some Third-Party Services
@@ -65,13 +65,6 @@ To turn off these services, follow these steps:
 4. Click**Disable all** \>**Apply** \>**OK** .  
 ![Hit OK After Disabling Certain Services in Windows System Configuration App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/hit-ok-after-disabling-certain-services-in-windows-system-configuration-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Disable Notifications
 
  Windows sends notifications regularly to inform users of new app updates, unresolved issues with installed apps, improper syncing, etc. While such notifications are sometimes handy, they consume a ton of system resources. So, disabling these notifications for specific apps and services can make your device more efficient.
@@ -82,17 +75,30 @@ To turn off these notifications, follow the below steps:
 ![Go to Notifications Settings in the System Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/go-to-notifications-settings-in-the-system-tab-of-the-windows-settings-app.jpg)
 2. Disable the toggle next to**Notifications** to stop receiving all notifications.  
 
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Turn Off the Toggle Next to Notifications to Disable Notifications](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-the-toggle-next-to-notifications-to-disable-notifications.jpg)
 3. Disable the toggle next to specific apps in the**Notifications from apps and other senders** section.  
 
-![Disable the Toggle Next to Specific Apps in the Notifications From Apps and Other Senders Section in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/disable-the-toggle-next-to-specific-apps-in-the-notifications-from-apps-and-other-senders-section-in-windows-settings-app.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Disable the Toggle Next to Specific Apps in the Notifications From Apps and Other Senders Section in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/disable-the-toggle-next-to-specific-apps-in-the-notifications-from-apps-and-other-senders-section-in-windows-settings-app.jpg)
 
 ## 5\. Disable Some Windows Permissions
 
@@ -102,6 +108,20 @@ To turn off these notifications, follow the below steps:
 2. Select the**Privacy & security** tab.
 3. Go through all the settings under**Windows permissions** and disable the ones you think won't affect any Windows features you might need.  
 ![Windows Permissions Settings in the Privacy and Security Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-permissions-settings-in-the-privacy-and-security-tab-of-the-windows-settings-app.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Don't Let Windows Updates Hamper Your Device's Performance
 
@@ -127,20 +147,6 @@ To pause updates, follow these steps:
  To do that, click on the column header of that component in Task Manager to sort the processes consuming the most resources in descending order. Then, filter out the processes causing that component a great deal of stress and terminate them. To close a task, right-click on the task and click**End task** .
 
 ![high cpu usage service task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/high-cpu-usage-service-task-manager.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Some Other Ways to Improve Performance
 
@@ -169,18 +175,14 @@ So, try them out to boost your system's performance.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-effortless-crossposting-youtube-links-to-ig-stories/"><u>[New] Effortless Crossposting YouTube Links to IG Stories</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-masterpieces-come-to-life-with-top-photo-frame-tools-for-2024/"><u>[Updated] Masterpieces Come to Life with Top Photo Frame Tools for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/all-you-need-to-know-about-psvr-2-pricing-launch-date-and-detailed-tech-specs-covered/"><u>All You Need to Know About PSVR 2 - Pricing, Launch Date, and Detailed Tech Specs Covered</u></a></li>
-<li><a href="https://windows11.techidaily.com/boosting-windows-discord-speed-a-step-by-step-guide/"><u>Boosting Windows Discord Speed: A Step-by-Step Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/customizing-window-11-ui-elements-larger-icons/"><u>Customizing Window 11 UI Elements - Larger Icons</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-master-the-use-of-winservicesexe-on-windows/"><u>How to Master the Use of Winservices.exe on Windows</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-nokia-c12-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Nokia C12 Devices | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-apple-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, Top 11 Free Apps to Check IMEI on Apple iPhone 12 Pro Max</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-second-screen-harmony-windows-plus-android-tablets/"><u>Mastering Second Screen Harmony: Windows + Android Tablets</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-the-best-of-the-best-top-5-online-stop-motion-creators/"><u>New The Best of the Best Top 5 Online Stop Motion Creators</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-access-to-troubleshooters-in-windows-11-with-custom-keys/"><u>Quick Access to Troubleshooters in Windows 11 with Custom Keys</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-key-ingredients-for-successful-instagram-unboxing-reels-for-2024/"><u>The Key Ingredients for Successful Instagram Unboxing Reels for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-7-fixes-for-rename-restrictions-on-files-and-directories-of-windows-11/"><u>Top 7 Fixes for Rename Restrictions on Files and Directories of Windows 11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-key-principles-of-metaverse-commercial-strategy/"><u>2024 Approved Key Principles of Metaverse Commercial Strategy</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-professionally-enhancing-photos-with-effective-use-of-3d-lut-filters/"><u>2024 Approved Professionally Enhancing Photos with Effective Use of 3D LUT Filters</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/building-your-own-rotatable-photobook-from-physical-images-with-flipbuilder-techniques/"><u>Building Your Own Rotatable Photobook From Physical Images with FlipBuilder Techniques</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/days-gone-review-a-biker-take-on-the-zombie-apocalypse/"><u>Days Gone Review: A Biker Take on the Zombie Apocalypse</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-pioneering-performance-exclusive-insights-into-oculus-headsets/"><u>In 2024, Pioneering Performance Exclusive Insights Into Oculus Headsets</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-over-window-colors-and-style-in-terminal/"><u>Mastery over Window Colors & Style in Terminal</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-windows-0x80072af9-obstacle/"><u>Navigating Through Windows' 0X80072AF9 Obstacle</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-glitches-in-windows-system-insights-tracker/"><u>Overcoming Glitches in Windows System Insights Tracker</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-to-avoid-vscode-crashing-on-new-os/"><u>Tips to Avoid VSCode Crashing on New OS</u></a></li>
 </ul></div>
 

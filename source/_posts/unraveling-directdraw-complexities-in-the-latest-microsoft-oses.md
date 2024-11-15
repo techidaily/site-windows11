@@ -1,7 +1,7 @@
 ---
 title: Unraveling DirectDraw Complexities in the Latest Microsoft OSes
-date: 2024-08-27T16:02:42.584Z
-updated: 2024-08-28T16:02:42.584Z
+date: 2024-11-09T16:12:19.205Z
+updated: 2024-11-15T17:25:47.929Z
 tags:
   - windows10
   - windows11
@@ -51,13 +51,26 @@ thumbnail: https://thmb.techidaily.com/6d08ef0c51b7d66c7e631fe3667e11cb568cec8b1
 4. Next, click on the **Display resolution** drop-down menu.  
 ![The Display resolution option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/display-resolution-setting.jpg)
 5. Select a lower-resolution option on the menu.  
-![Resolution options in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/resolution-options.jpg)
-6. Then click the **Keep Changes** button to set the selected resolution.
-7. Try starting the game or software.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Resolution options in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/resolution-options.jpg)
+6. Then click the **Keep Changes** button to set the selected resolution.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+7. Try starting the game or software.
+
 ## 3\. Enable Legacy Component Features
 
  Some users might need to enable older legacy component features to resolve the DirectDraw error. To be more specific, an older game might need the deprecated **DirectPlay** feature enabled to run. This is how you can enable legacy component features on Windows 11/10:
@@ -66,19 +79,27 @@ thumbnail: https://thmb.techidaily.com/6d08ef0c51b7d66c7e631fe3667e11cb568cec8b1
 2. Click on the **Turn Windows features on or off navigation** option along the left side of the uninstaller tool.  
 ![The Turn Windows features on or off option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-turn-windows-features-on-or-off-option.jpg)
 3. Double-click **Legacy Components** to expand it.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Then select the **DirectPlay** checkbox.  
 ![The DirectPlay option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/directplay-option.jpg)
 5. Select the **.NET Framework 3.5 (includes .NET 2.0 and 3.0)** checkbox if it’s not selected.  
 ![The .NET Framework 3.5 option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-features-options.jpg)
 6. Press **OK** to install the features.
 7. Restart Windows after installing the features.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Install Missing DirectX Runtime Components
 
@@ -93,52 +114,49 @@ No advertising on the website.
 ![The DirectX Runtime installer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/directx-installer.jpg)
 6. Select **Next** to install DirectX 9, 10, and 11 runtime components.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Try Some Basic Windows Fixes
 
  If nothing has worked yet, there are some simple Windows tricks that usually fix display issues with software and games.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Update Your Video Card’s Driver
 
  This error can also feasibly occur because an outdated or corrupted graphics driver is causing DirectDraw display component issues. Installing the latest graphics driver available for your PC’s GPU could remedy such issues. Our guide to [updating GPU drivers on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) includes instructions for installing new graphics drivers in five different ways.
 
 ![The NVIDIA graphics driver download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/nvidia-driver-downloads-page.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Run the Affected App in Windowed Mode
 
  Running the game or software in windowed mode can also address resolution issues. To do so, check out our article about [forcing games into windowed mode on Windows](https://www.makeuseof.com/windows-10-11-windowed-mode-games/). Follow the instructions for that guide’s third method to set the software to start in windowed mode.
 
 ![The Target box for a Windows game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/target-box-for-a-game-shortcut.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Reinstall the Affected Game or Software
 
  Reinstall affected games or software packages if you’re still trying to fix the DirectDraw error after applying other possible resolutions in this guide. If you’ve installed a game with gaming client software like Steam, Epic, or GOG, you can uninstall it with the same software. Or remove the software within the Control Panel or Settings with a method in this [guide to uninstalling programs on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/).
 
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/uninstall-option-in-epic-games.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When you’ve done that, restart Windows and reinstall the game with your gaming client software. If the game has a DVD/CD, you’ll need to reinstall it with that disc.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ## Enjoy Your Retro Games or Apps on Windows
 
  Those are the best and most likely potential resolutions to work for fixing the DirectDraw error on Windows 11/10 PCs. One of the possible solutions in this guide will likely get the DirectDraw error sorted on your PC since many users have fixed that issue by applying them. Then you can return to playing the games that didn’t start because of that error.
 
  Consequently, players can’t play older games like Age of Empires, Might and Magic 7, and Diablo because of the DirectDraw error. The same error can also occur for art and design software. This is how you can fix the DirectDraw error on a Windows 11/10 PC.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -146,3 +164,21 @@ No advertising on the website.
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-eliminating-fb-live-ads-a-step-by-step-guide/"><u>[New] 2024 Approved Eliminating FB Live Ads A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-comparing-cloud-prices-for-maximum-savings/"><u>2024 Approved Comparing Cloud Prices for Maximum Savings</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-raising-awareness-with-youtubes-cc-membership-tips-for-view-growth/"><u>2024 Approved Raising Awareness with YouTube's CC Membership Tips for View Growth</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-qt-plugin-initialization-failure-error/"><u>Addressing Qt Plugin Initialization Failure Error</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-quit-notifications-from-roblox-on-your-computer/"><u>Avoiding Quit Notifications From Roblox on Your Computer</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-pc-maintenance-speed-customizing-win-1011-hotkeys/"><u>Boosting PC Maintenance Speed: Customizing Win 10/11 Hotkeys</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-wacatacbml-barriers-a-guide-for-safe-windows-navigation/"><u>Bypassing Wacatac.B!ml Barriers - A Guide for Safe Windows Navigation</u></a></li>
+<li><a href="https://windows11.techidaily.com/command-line-tip-disable-amdnvidia-gpu-enhancements/"><u>Command Line Tip: Disable AMD/Nvidia GPU Enhancements</u></a></li>
+<li><a href="https://windows11.techidaily.com/compact-windows-powered-systems-unveiled/"><u>Compact Windows-Powered Systems Unveiled</u></a></li>
+<li><a href="https://blog-min.techidaily.com/converti-dvd-gratis-in-mp4-guida-completa-per-windows-e-mac/"><u>Converti DVD Gratis in MP4: Guida Completa per Windows E Mac</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-avoid-unnecessary-interactions-block-strategies/"><u>In 2024, Avoid Unnecessary Interactions Block Strategies</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-movavi-pro-video-review-the-new-standard/"><u>In 2024, Movavi Pro Video Review – The New Standard</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-snowshoe-hare-and-lynx-populations-in-north-america-provide-a-classic-example-of-these-dynamics/"><u>The Snowshoe Hare and Lynx Populations in North America Provide a Classic Example of These Dynamics.</u></a></li>
+</ul></div>
+

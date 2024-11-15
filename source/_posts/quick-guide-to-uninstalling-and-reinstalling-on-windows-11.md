@@ -1,7 +1,7 @@
 ---
 title: Quick Guide to Uninstalling and Reinstalling on Windows 11
-date: 2024-10-30T10:59:17.885Z
-updated: 2024-11-05T01:48:47.760Z
+date: 2024-11-13T16:45:58.372Z
+updated: 2024-11-15T16:50:04.806Z
 tags:
   - windows10
   - windows11
@@ -44,10 +44,16 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
  Confirm you want to reset the app by clicking**Reset** again in the pop-up.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Reset an App on Windows 10
@@ -57,10 +63,10 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 ![the apps and features screen in the windows 10 settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/apps-features-windows-10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Find the app you want to reset from the list of installed apps and click on it. Then, click the**Advanced options** link that appears below the name of the app.
@@ -68,25 +74,19 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 ![the alarm clock advanced options in the windows 10 settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/alarm-clock-windows-10-advanced-options.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You will find the button to reset the app in the**Reset** section of its advanced settings, and you should click it. Finally, confirm that this is what you want to do by clicking**Reset** in the pop-up as well.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Windows Apps Just Need a Reset Sometimes
@@ -110,19 +110,18 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-efficiently-incorporate-youtube-playlists-for-engaging-pages/"><u>[New] 2024 Approved Efficiently Incorporate YouTube Playlists for Engaging Pages</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevate-views-not-video-length-expert-guide-to-yt-desc-templates/"><u>[New] 2024 Approved Elevate Views, Not Video Length Expert Guide to YT Desc Templates</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-from-concept-to-completion-producing-a-viral-facebook-reel/"><u>[New] 2024 Approved From Concept to Completion Producing a Viral Facebook Reel</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-concept-to-classroom-a-guide-to-creating-engaging-edu-videos-on-youtube-for-2024/"><u>[New] From Concept to Classroom A Guide to Creating Engaging Edu-Videos on YouTube for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-visual-voyages-the-most-motivating-instagram-images/"><u>[New] In 2024, Visual Voyages The Most Motivating Instagram Images</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/1728472618895-windows-11/"><u>最適化されたクローニングソフトウェアがWindows 11にマッチ - 安定した起動体験を提供する方法</u></a></li>
-<li><a href="https://windows11.techidaily.com/deciding-on-the-best-nvidia-driver-type/"><u>Deciding on the Best Nvidia Driver Type</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhancing-screen-recordings-add-audio-to-snipping-tool-features-max-156/"><u>Enhancing Screen Recordings: Add Audio to Snipping Tool Features (Max 156)</u></a></li>
-<li><a href="https://windows11.techidaily.com/identifying-superior-video-encoders-for-windows-computing/"><u>Identifying Superior Video Encoders for Windows Computing</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-aesthetic-adjustments-iphones-pro-image-cropping-apps/"><u>In 2024, Aesthetic Adjustments IPhone's Pro Image Cropping Apps</u></a></li>
-<li><a href="https://windows11.techidaily.com/solving-alt-key-code-issues-in-windows-systems/"><u>Solving ALT Key Code Issues in Windows Systems</u></a></li>
-<li><a href="https://extra-support.techidaily.com/start-saving-memories-using-lunapic-for-beginners-for-2024/"><u>Start Saving Memories Using LunaPic for Beginners for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/switch-onoff-windows-filter-keys-guide/"><u>Switch On/Off: Window's Filter Keys Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/what-does-s-mode-mean-in-the-world-of-windows-11-updates/"><u>What Does 'S Mode' Mean in the World of Windows 11 Updates?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-step-into-pro-audio-recording-on-your-mac-using-audacity/"><u>[New] Step Into Pro Audio Recording on Your Mac Using Audacity</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-chromebook-webcam-usage-recording-made-easy/"><u>[Updated] Chromebook Webcam Usage Recording Made Easy</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-high-quality-videos-at-your-fingertesps-selecting-the-right-fps/"><u>[Updated] High-Quality Videos at Your Fingertesps Selecting the Right FPS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-financial-fortitude-for-youtubers-beyond-basic-earnings/"><u>[Updated] In 2024, Financial Fortitude for YouTubers Beyond Basic Earnings</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/analyzing-and-ranking-lowest-priced-cloud-services/"><u>Analyzing & Ranking Lowest-Priced Cloud Services</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-xiaomi-redmi-note-12r-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Xiaomi Redmi Note 12R?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-guide-to-effortless-telegram-web-use/"><u>In 2024, Step-by-Step Guide to Effortless Telegram Web Use</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-11-sign-in-shift-move-from-pin-to-password-effortlessly/"><u>Mastering Windows 11 Sign-In Shift: Move From PIN to Password Effortlessly</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-crash-zeroing-in-on-error-0x800f0831/"><u>Overcoming Windows Crash: Zeroing In on Error 0X800F0831</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-nvidia-control-panel-save-issue/"><u>Resolving Nvidia Control Panel Save Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-secret-behind-timeless-game-aesthetics-retroarcs-shaders/"><u>The Secret Behind Timeless Game Aesthetics - RetroArc's Shaders</u></a></li>
+<li><a href="https://windows11.techidaily.com/uncover-the-file-location-for-your-desktop-images/"><u>Uncover the File Location for Your Desktop Images</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-edges-ongoing-role-in-win11-systems/"><u>Understanding Edge's Ongoing Role in Win11 Systems</u></a></li>
 </ul></div>
 

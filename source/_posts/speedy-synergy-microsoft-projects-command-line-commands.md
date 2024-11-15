@@ -1,7 +1,7 @@
 ---
 title: "Speedy Synergy: Microsoft Project's Command-Line Commands"
-date: 2024-08-27T16:01:32.768Z
-updated: 2024-08-28T16:01:32.768Z
+date: 2024-11-13T17:14:31.281Z
+updated: 2024-11-15T16:36:41.386Z
 tags:
   - windows10
   - windows11
@@ -24,13 +24,17 @@ thumbnail: https://thmb.techidaily.com/0275b65ec50c26c096fbd58891ad5416742f7595b
 
  Here are some shortcuts that you may need frequently to use in Microsoft Project:
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Open a Project File
 
 **Ctrl + O:** It is important to keep track of all projects that are being worked.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Save a Project File
 
 **Ctrl + S:** It is essential to save all changes made to a project often as it helps to keep track of and prevent data loss.
@@ -39,23 +43,14 @@ thumbnail: https://thmb.techidaily.com/0275b65ec50c26c096fbd58891ad5416742f7595b
 
 **Ctrl + T:** This will open up a new task window and allow you to enter the necessary information for their project.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Close the Program Window
 
 **Alt + F4:** This will instantly close the Microsoft Project window and end the current session.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5\. Open a New Window
 
 **Shift + F11:** This will open up a blank window that can be used for any tasks or projects that need to be created.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 6\. Activate the Project Control Menu
 
 **Alt + Spacebar:** This will open up the project control menu, which can be used to manage the various aspects of a project.
@@ -64,9 +59,23 @@ thumbnail: https://thmb.techidaily.com/0275b65ec50c26c096fbd58891ad5416742f7595b
 
 **Shift + F2:** This will open up a window with detailed information about any selected tasks.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 9\. Turn On or off Auto Calculate
 
 **Ctrl + F** **:** This will enable or disable the auto-calculate feature, which automatically updates any changes made to a project.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 10\. Clear or Reset the Selected Field
 
@@ -77,24 +86,27 @@ thumbnail: https://thmb.techidaily.com/0275b65ec50c26c096fbd58891ad5416742f7595b
 **Ctrl + C:** This will automatically copy the data that is currently selected and allow it to be pasted into any other location.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 12\. Cut the Selected Data
 
 **Ctrl + X:** This will remove the data from its current location.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ### 13\. Set the Task to Auto Schedule
 
 **Ctrl + Shift + Alt:** This will enable the auto-schedule feature for any selected tasks, which automatically updates the schedule based on any changes that are made.
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 14\. Set the Task To Manually Schedule
 
 **Ctrl + Alt + M:** This will enable the manual schedule feature for any selected tasks, which requires users to manually update the schedule.
@@ -207,14 +219,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Here you will find a comprehensive overview of the most common Project keyboard shortcuts to help you get more done. These shortcuts can help you save time while using Microsoft Project and focus on the relevant tasks at hand.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -223,4 +232,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-leading-edge-in-mobile-chats-discover-the-top-1-cookie-haven-by-lilys-bakery/"><u>[New] 2024 Approved Leading Edge in Mobile Chats Discover the Top 1 Cookie Haven by Lily's Bakery</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-silent-spectator-of-social-media-snippets/"><u>[New] 2024 Approved Silent Spectator of Social Media Snippets</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-boost-your-post-with-three-video-border-methods/"><u>[New] In 2024, Boost Your Post with Three Video Border Methods</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-unveiling-the-hidden-gems-that-challenge-vlc/"><u>[New] Unveiling the Hidden Gems That Challenge VLC</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-harness-natural-light-for-iphone-photography/"><u>[Updated] 2024 Approved Harness Natural Light for iPhone Photography</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/advanced-hdr-creation-in-photoshop-workflows-for-2024/"><u>Advanced HDR Creation in Photoshop Workflows for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/drone-photography-faceoff-dji-mavic-x-and-hero-4-silver/"><u>Drone Photography Faceoff DJi Mavic X & Hero 4 Silver</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-explorer-exploration-shun-common-pitfalls/"><u>Efficient Explorer Exploration: Shun Common Pitfalls</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-connectivity-expert-instructions-for-dns-configuration/"><u>Elevate Connectivity: Expert Instructions for DNS Configuration</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-your-language-input-with-customized-keyboard-options-in-win-11/"><u>Elevate Your Language Input with Customized Keyboard Options in Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevating-poorly-performing-ccleaner-in-win11/"><u>Elevating Poorly Performing CCleaner in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-non-functional-behavior-of-ccleaner-in-windows/"><u>Eliminating Non-Functional Behavior of CCleaner in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/empowered-scripting-in-windows-mastering-execution-policies/"><u>Empowered Scripting in Windows: Mastering Execution Policies</u></a></li>
+<li><a href="https://windows11.techidaily.com/empowering-windows-users-with-access-to-apples-imessage/"><u>Empowering Windows Users with Access to Apple's iMessage</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-creativity-ranking-the-best-drawers-for-win-11/"><u>Enhance Creativity: Ranking the Best Drawers for Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-windows-experience-selecting-top-free-car-upgraders/"><u>Enhance Windows Experience: Selecting Top Free Car Upgraders</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-itel-p55-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Itel P55 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/protecting-vehicles-from-viral-theft-how-hyundai-and-kias-latest-software-innovation-combats-the-tiktok-challenge/"><u>Protecting Vehicles From Viral Theft: How Hyundai & Kia's Latest Software Innovation Combats the TikTok Challenge</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/windows-11-compatibility-with-seagate-tools-finding-reliable-substitutes-for-dashboard-management/"><u>Windows 11 Compatibility with Seagate Tools - Finding Reliable Substitutes for Dashboard Management</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Seamlessly Retrieve Content From a Shared Windows Space
-date: 2024-10-29T21:53:54.753Z
-updated: 2024-11-05T02:49:39.812Z
+date: 2024-11-09T16:49:56.774Z
+updated: 2024-11-15T16:02:33.473Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/f93e229fc5f13225e3ec37018bd561a2847508d52
 
  If all your devices are on the same network, check if your Wi-Fi router is functioning properly or experiencing issues.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Ask the Owner to Change the Permissions
 
  While setting up a shared folder, Windows allows you to set custom permissions, such as allowing or denying full control, read and write permissions, etc.
@@ -50,26 +57,19 @@ thumbnail: https://thmb.techidaily.com/f93e229fc5f13225e3ec37018bd561a2847508d52
 ![Shared Folder Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/shared-folder-context-menu.jpg)
 3. In the**Properties** window, click on**Sharing > Advanced Sharing** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Sharing Folder Sharing Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sharing-folder-sharing-options.jpg)
 4. Click**Permissions** to edit all the sharing permissions. If you have not allowed**Everyone** to access the files, make sure to click**Add...** and add the user manually.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Edit the permissions as needed, and then click**OK** to apply the changes.
 
  By giving your friend or teammate the right access permissions, they should now be able to easily access the files. However, if the problem persists, move on to some advanced troubleshooting steps.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Restart the Networking Services
 
@@ -89,13 +89,20 @@ Follow this step-by-step guide to restart the networking services:
 5. Repeat the same procedure (right-click and select**Restart**) with the following services, one by one:**Network Connections** **SSDP Discovery** **TCP/IP NetBIOS Helper** **UPnP Device Host**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  These services are responsible for various networking functions on Windows. Restarting them can help resolve issues that may be causing problems with accessing shared folders.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Turn on Network Discovery in Windows Settings
 
@@ -111,6 +118,13 @@ To turn on Network discovery, follow these steps:
 4. Under**Private networks** , turn**On** the**Network discovery** option.  
 ![Windows Advanced Sharing Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-advanced-sharing-settings.jpg)
 5. Turn**On** the**File and printer sharing** option as well.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you want to disable login abilities for accessing the shared folder, toggle**Password protected sharing** to**Off** .
 
@@ -130,13 +144,6 @@ Here's how you can fix all the firewall issues on your computer:
 ![Windows Security App Preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-security-preview.jpg)
 4. Uncheck or disable the option saying**Block all incoming connections** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Perform the same step with**Domain network** and**Private network** as well.
 6. Restart your PC to make sure the firewall is not blocking any Internet connections now.
 
@@ -154,13 +161,6 @@ Here's how to reset the network settings on Windows:
 2. Select the best match, and from the right-side menu, click**Run as administrator** .  
 ![CMD In Search Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/cmd-in-search-bar.jpg)
 3. In the Command Prompt window, type the**netsh int ip reset** command without the double quotes.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Ip Reset Command In Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ip-reset-command.jpg)
 4. Press**Enter** to execute the command. This will reset your network settings.
@@ -186,18 +186,20 @@ Here's how to reset the network settings on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-unlock-the-power-of-high-quality-webcam-videos/"><u>[Updated] 2024 Approved Unlock the Power of High-Quality Webcam Videos</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-the-snapchat-savants-handbook-perfecting-every-boomerang-for-2024/"><u>[Updated] The Snapchat Savant's Handbook Perfecting Every Boomerang for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/9-insights-on-how-pc-outperforms-a-mac-in-essential-areas/"><u>9 Insights on How PC Outperforms a Mac in Essential Areas</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-closer-look-at-windows-sound-system-segregation/"><u>A Closer Look at Windows' Sound System Segregation</u></a></li>
-<li><a href="https://windows11.techidaily.com/boosting-print-speed-on-pcs-tips-for-windows-users/"><u>Boosting Print Speed on PCs: Tips for Windows Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/comparing-ease-of-use-in-soft-installation-tools/"><u>Comparing Ease of Use in Soft Installation Tools</u></a></li>
-<li><a href="https://windows11.techidaily.com/cracking-the-code-fixing-windows-pin-failures/"><u>Cracking the Code: Fixing Windows PIN Failures</u></a></li>
-<li><a href="https://windows11.techidaily.com/credential-control-in-win11-quick-ways-to-unlock-passwords/"><u>Credential Control in Win11: Quick Ways to Unlock Passwords</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-infinix-smart-8-drfone-by-drfone-android/"><u>How to Screen Mirroring Infinix Smart 8? | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-lava-blaze-2-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Lava Blaze 2 5G Devices | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-realme-narzo-60x-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Realme Narzo 60x 5G FRP In 3 Different Ways</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-audio-plays-a-vital-role-in-every-video-shot-by-beginners-and-professionals-thus-if-you-are-a-mac-user-get-to-know-how-to-remove-backgroun/"><u>New 2024 Approved Audio Plays a Vital Role in Every Video Shot by Beginners and Professionals. Thus, if You Are a Mac User, Get to Know How to Remove Background Noise in Final Cut Pro X in This Article</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/treamers-crossroad-navigating-between-vimeo-youtube-dailymotion-for-2024/"><u>The Streamer's Crossroad Navigating Between Vimeo, YouTube, Dailymotion for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-achieving-maximum-compactness-with-mac-recordings-on-snapchat/"><u>[New] In 2024, Achieving Maximum Compactness with Mac Recordings on Snapchat</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-visionary-film-titles-that-inspire-and-invigorate-for-2024/"><u>[New] Visionary Film Titles That Inspire and Invigorate for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-exploring-the-possibility-of-monthly-youtube-income/"><u>[Updated] 2024 Approved Exploring the Possibility of Monthly YouTube Income</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-a-step-by-step-journey-through-vo-and-powerpoint-magic/"><u>[Updated] A Step-by-Step Journey Through VO and Powerpoint Magic</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-unlocking-the-process-for-final-deactivation-of-an-account-on-instagram/"><u>[Updated] In 2024, Unlocking the Process for Final Deactivation of an Account on Instagram</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/a-comprehensive-guide-to-iphone-xr-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>A Comprehensive Guide to iPhone XR Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/explore-the-leading-budget-friendly-cell-service-deals-for-this-year/"><u>Explore the Leading Budget-Friendly Cell Service Deals for This Year</u></a></li>
+<li><a href="https://windows11.techidaily.com/harness-windows-11s-in-built-color-control-feature/"><u>Harness Windows 11’S In-Built Color Control Feature</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-administrator-has-set-policies-to-prevent-this-installation-windows-error/"><u>How to Fix the “Administrator Has Set Policies to Prevent This Installation” Windows Error</u></a></li>
+<li><a href="https://windows11.techidaily.com/managing-screen-transition-aesthetics-on-pcs/"><u>Managing Screen Transition Aesthetics on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-dialer-in-windows-11-os/"><u>Mastering the Dialer in Windows 11 OS</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/practical-tips-and-tricks-for-integrating-artificial-intelligence-agents-into-your-web-browser-with-agentgpt/"><u>Practical Tips and Tricks for Integrating Artificial Intelligence Agents Into Your Web Browser with AgentGPT</u></a></li>
+<li><a href="https://windows11.techidaily.com/quash-the-quirks-no-more-wandering-windows/"><u>Quash the Quirks: No More Wandering Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-power-of-a-fresh-start-for-your-windows-apps/"><u>The Power of a Fresh Start for Your Windows Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-list-of-free-vfx-websites-for-2024/"><u>The Ultimate List of FREE VFX Websites for 2024</u></a></li>
 </ul></div>
 

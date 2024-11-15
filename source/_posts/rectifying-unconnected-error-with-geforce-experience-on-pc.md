@@ -1,7 +1,7 @@
 ---
 title: Rectifying Unconnected Error with GeForce Experience on PC
-date: 2024-08-22T21:40:48.519Z
-updated: 2024-08-23T21:40:48.519Z
+date: 2024-11-12T16:45:38.046Z
+updated: 2024-11-15T16:36:06.149Z
 tags:
   - windows10
   - windows11
@@ -65,13 +65,18 @@ thumbnail: https://thmb.techidaily.com/26c79816e74e12a8f414621a79d8575a6f7513edd
 2. Then double-click an NVIDIA service in the window to open its properties window.  
 ![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/nvidia-services.jpg)
 3. Select the**Start** option in the properties window if the service isn’t running (stopped).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click**Apply** and**OK** to save settings and exit the service’s window.  
 ![A NVIDIA service properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/a-nvidia-service-properties-window.jpg)
 5. Repeat those steps for all NVIDIA services you can find.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Manually Update the NVIDIA Graphics Driver With Device Manager
 
  Updating the NVIDIA graphics driver is a potential resolution some users confirm to fix the “Unable to connect” error. However, users can’t update their graphics drivers with GeForce Experience because of the issue. Instead, manually update your NVIDIA GPU’s driver with Device Manager like this:
@@ -80,27 +85,30 @@ thumbnail: https://thmb.techidaily.com/26c79816e74e12a8f414621a79d8575a6f7513edd
 2. Select your graphics card model and PC OS in the drop-down menus and click**Search** .  
 ![The NVIDIA driver downloads page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/nvidia-driver-downloads.jpg)
 3. Select**Download** to obtain the NVIDIA driver pack.
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Then open Device Manager, which you can access by right-clicking your**Start** button in Windows and selecting the shortcut for that tool. You can also use one of the other[ways to open the Device Manager](https://www.makeuseof.com/windows-open-device-manager/) .
 5. Next, click the arrow beside the**Display adapters** to view that category.
 6. Right-click the NVIDIA GPU to select**Update driver** on the context menu.  
 ![The Update driver option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/update-driver-option.jpg)
 7. Select**Browse my computer** to locate a driver package.
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 8. Click**Browse** to select the downloaded driver package.  
 ![the-browse-button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-browse-button.jpg)
 9. Select**Next** to install the selected NVIDIA driver.
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. Edit the Hosts File
 
  Hosts is a file for mapping domain names. The “Unable to connect to NVIDIA” error occurs when the localhost value in it equals 0.0.0.0\. Some GeForce Experience users have fixed the “Unable to connect to NVIDIA” error by changing the localhost value to 127.0.0.1 in the hosts file like this:
@@ -113,9 +121,14 @@ thumbnail: https://thmb.techidaily.com/26c79816e74e12a8f414621a79d8575a6f7513edd
 4. If the localhost is set to**0.0.0.0** , or another value, change it to**127.0.0.1** as shown in the image below.  
 ![The localhost value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/localhost-value.jpg)
 5. Then click**File** at the top of Notepad to select a**Save** option.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 6. Select**All Files** on the drop-down menu and click**Save** .  
 ![The All files option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-all-files-option.jpg)
 
@@ -129,6 +142,13 @@ thumbnail: https://thmb.techidaily.com/26c79816e74e12a8f414621a79d8575a6f7513edd
 
 ![The Uninstall option for NVIDIA GeForce Experience](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/programs-and-features-applet.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When you’ve uninstalled the old software version, open the[GeForce website](https://www.nvidia.com/en-gb/geforce/geforce-experience/) . Click**Download Now** to obtain the setup wizard for the latest GeForce Experience version. Go into File Explorer, open the folder containing the downloaded setup file, and double-click**GeForce\_Experience\_v3.27.0.112.exe** . Then select**Agree and Install** within the setup wizard.
 
 ## Get the “Unable to connect to NVIDIA” Error Sorted
@@ -141,8 +161,6 @@ thumbnail: https://thmb.techidaily.com/26c79816e74e12a8f414621a79d8575a6f7513edd
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,4 +168,26 @@ thumbnail: https://thmb.techidaily.com/26c79816e74e12a8f414621a79d8575a6f7513edd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-expert-guide-amplifying-your-tiktok-post-reach-with-hashtags/"><u>[New] Expert Guide Amplifying Your TikTok Post Reach with Hashtags</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-sharpen-your-viewing-experience-mastering-camera-focus-online-for-2024/"><u>[New] Sharpen Your Viewing Experience Mastering Camera Focus Online for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-understanding-the-importance-of-professional-images-as-thumbnails/"><u>[New] Understanding the Importance of Professional Images as Thumbnails</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-free-high-quality-passport-pictures-download-and-print-in-seconds/"><u>2024 Approved Free High-Quality Passport Pictures - Download & Print in Seconds</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/diy-solutions-for-logitech-g430-microphone-connectivity-problems/"><u>DIY Solutions for Logitech G430 Microphone Connectivity Problems</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-motorola-edgeplus-2023-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from Motorola Edge+ (2023)</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/engaging-spectacle-top-6-video-strategies-that-work-for-2024/"><u>Engaging Spectacle Top 6 Video Strategies That Work for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-fix-bluetooth-absence-in-device-mgr/"><u>Guide to Fix Bluetooth Absence in Device Mgr</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-properly-utilize-system-restore-on-microsoft-windows/"><u>How to Properly Utilize System Restore on Microsoft Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-realign-read-aloud-settings-on-word-app/"><u>How To Realign Read Aloud Settings on Word App</u></a></li>
+<li><a href="https://windows11.techidaily.com/immediate-measures-for-repairing-post-windows-upgrade-failures/"><u>Immediate Measures for Repairing Post-Windows Upgrade Failures</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-samsung-galaxy-s23plus-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tips-and-tricks-to-tell-if-your-apple-iphone-14-pro-max-is-unlocked-by-drfone-ios/"><u>In 2024, Tips And Tricks To Tell if Your Apple iPhone 14 Pro Max Is Unlocked</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-file-access-harness-the-power-of-win11s-checkboxes/"><u>Optimize File Access: Harness the Power of Win11's Checkboxes</u></a></li>
+<li><a href="https://windows11.techidaily.com/skirting-microsofts-app-verification-system-on-pc/"><u>Skirting Microsoft's App Verification System on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-frozen-grammarly-on-your-computer-system/"><u>Solving Frozen Grammarly on Your Computer System</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-fix-xbox-game-download-failures-on-pc/"><u>Steps to Fix Xbox Game Download Failures on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-recover-from-a-blank-login-display-window/"><u>Steps to Recover From a Blank Login Display Window</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-comprehensive-list-of-leading-graphic-design-tools/"><u>The Comprehensive List of Leading Graphic Design Tools</u></a></li>
+</ul></div>
 

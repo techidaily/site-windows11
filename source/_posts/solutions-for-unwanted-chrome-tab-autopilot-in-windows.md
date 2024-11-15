@@ -1,7 +1,7 @@
 ---
 title: Solutions for Unwanted Chrome Tab Autopilot in Windows
-date: 2024-11-03T00:21:27.563Z
-updated: 2024-11-05T02:22:54.915Z
+date: 2024-11-08T16:41:31.706Z
+updated: 2024-11-15T16:57:28.704Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 * [Update Chrome to the latest version](https://www.makeuseof.com/how-to-update-google-chrome/).
 * Incorrectly configured keyboard and mouse managers can also cause apps like Chrome to malfunction. Disable or delete such an app if you also use one.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Ensure That the "Open New Tabs" Shortcut Keys Aren't Pressed Down
 
  If Chrome opens new tabs immediately upon launch and doesn't stop until you close the browser, the shortcut keys for opening new tabs are probably pressed down on your keyboard. You can confirm that using the onscreen keyboard in Windows.
@@ -44,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
  Simply press **CTRL + Win + O** to open the on-screen keyboard and check whether the shortcut keys to open a new tab in Chrome (**CTRL + T)** are pressed. If you see them pressed, check that the keys aren't stuck. If the keys are in their normal position but appear pressed on the on-screen keyboard, there is likely a hardware issue with the keys.
 
 ![Check if the Shortcut Keys to Open New Tabs in Chrome Aren’t Pressed on the On-Screen Keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/2-check-if-the-shortcut-keys-to-open-new-tabs-in-chrome-aren-t-pressed-on-the-on-screen-keyboard.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If this is the case, unplug or [temporarily turn off your keyboard](https://www.makeuseof.com/windows-disable-laptop-keyboard/) and have it inspected. However, if no keys appear to be pressed, move on to the next step.
 
@@ -58,14 +72,14 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 ![Open See All Search Settings in the Chrome Quick Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/3-open-see-all-search-settings-in-the-chrome-quick-settings.jpg)
 3. Navigate to the **Where results open** section and uncheck the box beside **Open each selected result in a new browser window**.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Uncheck the Box Beside Open Each Selected Result in a New Browser Window Option in See All Search Settings in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/4-uncheck-the-box-beside-open-each-selected-result-in-a-new-browser-window-option-in-see-all-search-settings-in-chrome.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Stop Chrome From Opening New Tabs on PC Startup or Browser Launch
 
@@ -81,17 +95,17 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 ![Select Open the New Tab Option in the On Startup Tab of Chrome Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/6-select-open-the-new-tab-option-in-the-on-startup-tab-of-chrome-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Ensure That the Website You Are on Isn’t Malicious
@@ -114,21 +128,7 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 
 ![Click Restore Settings to their Original Defaults Option to Reset Chrome Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/7-click-restore-settings-to-their-original-defaults-option-to-reset-chrome-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If resetting the browser also doesn't work, you can reinstall the browser from scratch, which is the least desirable solution. Before you begin the new installation, ensure you properly remove the old installation using our guide on [uninstalling apps on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/).
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Stop Chrome From Opening New Tabs on Windows
 
@@ -152,20 +152,22 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-perfect-your-iphone-videographyphoto-expertise-with-add-ons/"><u>[New] 2024 Approved Perfect Your iPhone Videography/Photo Expertise With Add-Ons</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-precision-steps-for-hassle-free-ipad-and-iphone-recordings/"><u>[Updated] In 2024, Precision Steps for Hassle-Free iPad & iPhone Recordings</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-lannister-line-up-top-list-of-websites-for-game-ringtones/"><u>[Updated] The Lannister Line-Up Top List of Websites for Game Ringtones</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-premium-energy-packs-for-gopro-hero5-black-certified-and-counterfeit-options/"><u>2024 Approved Premium Energy Packs for GoPro Hero5 Black – Certified & Counterfeit Options</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/alexa-showdown-deciding-between-echo-pop-and-echo-dot-a-comprehensive-guide-for-your-perfect-smart-speaker-zdnet/"><u>Alexa Showdown: Deciding Between Echo Pop and Echo Dot - A Comprehensive Guide for Your Perfect Smart Speaker [ZDNet]</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-evaluation-of-netgear-c3700-a-hybrid-modemrouter/"><u>Comprehensive Evaluation of Netgear C3700: A Hybrid Modem/Router</u></a></li>
-<li><a href="https://windows11.techidaily.com/detailed-guide-to-installing-ms-work-on-windows-11/"><u>Detailed Guide to Installing MS Work on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-regain-missing-router-interface-on-pc/"><u>How to Regain Missing Router Interface on PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-resolve-windows-11s-update-error-0x800f0922/"><u>How to Resolve Windows 11'S Update Error 0X800f0922</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-microphone-errors-in-xbox-app-on-windows-11-systems/"><u>Navigating Microphone Errors in Xbox App on Windows 11 Systems</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/nostruggle-livecast-how-to-simplify-your-podcast-broadcast-for-2024/"><u>NoStruggle Livecast How to Simplify Your Podcast Broadcast for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/swift-strategy-become-system-admin-now/"><u>Swift Strategy: Become System Admin Now</u></a></li>
-<li><a href="https://windows11.techidaily.com/tactics-to-bypass-admin-access-denied-message-on-pc/"><u>Tactics to Bypass 'Admin Access Denied' Message on PC</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/troubleshooting-windows-10-fixes-when-file-history-fails/"><u>Troubleshooting Windows 10: Fixes When File History Fails</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/44k544oe44ob44or44ov44o844ks5yplusw44kk5oi744gb77ya5a656yep5lin6laz44go5yuv5l2c44gu6ygf44gv44o744ov44oq44o844k66kej5rai5pa55rov/"><u>スマホパワーを取り戻せ：容量不足と動作の遅さ・フリーズ解消方法</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-in-depth-assessment-photo-editing-tool-for-creatives/"><u>[Updated] 2024 Approved In-Depth Assessment Photo Editing Tool for Creatives</u></a></li>
+<li><a href="https://windows11.techidaily.com/handling-win11-screensaver-failures-effectively/"><u>Handling WIN11 Screensaver Failures Effectively</u></a></li>
+<li><a href="https://blog-min.techidaily.com/historic-top-10-highest-scoring-players-from-the-uefa-euro-championships/"><u>Historic Top 10 Highest-Scoring Players From the UEFA Euro Championships</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-unresponsive-hp-notebook-keys-with-this-quick-guide-step-by-step-article-title-detailed-user-friendly-tips-techtalker406-chars/"><u>How To Fix Unresponsive HP Notebook Keys with This Quick Guide – Step by Step (Article Title) – Detailed, User Friendly Tips | TechTalker—406 Chars</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-from-your-iphone-11-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID From your iPhone 11?</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-reset-audio-driver-error-unresponsive-device-issue/"><u>How To Reset Audio Driver Error: Unresponsive Device Issue</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastering-the-art-of-selecting-peak-pace-for-slow-video-capture-for-2024/"><u>Mastering the Art of Selecting Peak Pace for Slow Video Capture for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/meta-quest-3-512gb-steals-this-october-top-pick-for-prime-day-vr-bargains-according-to-zdnet-experts/"><u>Meta Quest 3 512GB Steals This October! Top Pick for Prime Day VR Bargains, According to ZDNET Experts</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-runtime-issues-with-malwarebytes-in-modern-windows-systems/"><u>Overcoming Runtime Issues with Malwarebytes in Modern Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/path-retrieval-pro-unveiling-six-strategies-for-copying-windows-11-directory-structures/"><u>Path Retrieval Pro: Unveiling Six Strategies for Copying Windows 11 Directory Structures</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-lsasuxcomplision-error-on-windows-systems/"><u>Resolving LSASUX_COMPLISION ERROR on Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-installing-and-setting-up-win11/"><u>Steps for Installing and Setting Up Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/transforming-vintage-films-with-a-windows-based-madvr-approach/"><u>Transforming Vintage Films with a Windows-Based MadVR Approach</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-solutions-for-continuous-discord-app-crashes/"><u>Ultimate Guide: Solutions for Continuous Discord App Crashes</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleashing-winmcs-potential-solving-wi-fi-issues/"><u>Unleashing WinMC's Potential: Solving Wi-Fi Issues</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/unlocking-the-full-potential-of-obs-for-your-mac/"><u>Unlocking the Full Potential of OBS for Your Mac</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-samsung-galaxy-xcover-6-pro-tactical-edition-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Samsung Galaxy XCover 6 Pro Tactical Edition Auto Does Not Work | Dr.fone</u></a></li>
 </ul></div>
 

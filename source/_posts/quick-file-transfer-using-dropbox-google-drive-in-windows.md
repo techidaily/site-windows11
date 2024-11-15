@@ -1,7 +1,7 @@
 ---
 title: "Quick File Transfer: Using Dropbox, Google Drive in Windows"
-date: 2024-08-27T16:01:27.995Z
-updated: 2024-08-28T16:01:27.995Z
+date: 2024-11-08T16:09:24.630Z
+updated: 2024-11-15T16:58:58.575Z
 tags:
   - windows10
   - windows11
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/f00def1c04cb418f21da5c60f199b078da943127e
 
  The major case against them is that there's no reason to use more software than you need.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why Not Just Use Google Drive's Folders?
 
  Let's see how Google Drive fails to offer proper access to its local folder through a letter.
@@ -52,11 +59,15 @@ thumbnail: https://thmb.techidaily.com/f00def1c04cb418f21da5c60f199b078da943127e
 3. Try "entering" that folder and marvel at how the **path** changes to the true one where Google Drive's folder is stored, potentially breaking some apps.  
 ![Google Drive True Folder Path](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/google-drive-true-folder-path.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now, let's fix, or rather "sidestep" this little issue by exploiting how network folders work on Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## How to Set Up Windows Shared Folders
 
  The first part of the process will be "sharing" the actual folder used by the cloud storage service that we want to access directly from a drive. Don't worry; you won't be sharing anything with anyone (apart from the cloud service provider where you already keep your files).
@@ -66,16 +77,25 @@ thumbnail: https://thmb.techidaily.com/f00def1c04cb418f21da5c60f199b078da943127e
 1. Run your favorite file manager and visit the path "directly above" your cloud storage folder (so that you can see it in your file manager).  
 ![Dropbox Folder In Windows Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/dropbox-folder-in-windows-explorer.jpg)
 2. Right-click on the folder and choose **Properties**.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Dropbox Folder Windows Explorer Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/dropbox-folder-windows-explorer-properties.jpg)
 3. Move to the **Sharing** tab and enable sharing for your folder. If you need help, check our guide on [how to access shared folders on Windows](https://www.makeuseof.com/unable-to-access-shared-folder-windows/).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Dropbox Folder Windows Explorer Properties Sharing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/dropbox-folder-windows-explorer-properties-sharing.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Assign Letters to “Networked” Cloud Storage Folders
 
  Your folder should be accessible "as a share" by now, but it still isn't mapped to a letter. For that, we'll use Windows' ability to assign letters to "network drives" for easy access.
@@ -85,21 +105,20 @@ thumbnail: https://thmb.techidaily.com/f00def1c04cb418f21da5c60f199b078da943127e
 1. Type "**\\\\localhost**" in your file manager's location bar to see all the shared folders on your local PC. Among them should be your newly shared cloud storage folder.  
 ![Windows Explorer Localhost Shared Folders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-explorer-localhost-shared-folders.jpg)
 2. Right-click on it and choose **Map network drive**.  
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Windows Explorer Localhost Shared Folders Menu Map Network Drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-explorer-localhost-shared-folders-menu-map-network-drive.jpg)
 3. Choose the **letter** you want to assign to your cloud storage folder from the drop-down menu next to **Drive**. Click **Finish** to apply the change.  
-![Windows Explorer Map Network Drive Letter Selection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-explorer-map-network-drive-letter-selection.jpg)
-4. Visit your "new drive" using the letter you assigned, and you should have direct access to your cloud storage's contents.  
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
-![Windows Explorer Direct Access To Dropbox Folder From Letter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-explorer-direct-access-to-dropbox-folder-from-letter.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Windows Explorer Map Network Drive Letter Selection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-explorer-map-network-drive-letter-selection.jpg)
+4. Visit your "new drive" using the letter you assigned, and you should have direct access to your cloud storage's contents.  
+![Windows Explorer Direct Access To Dropbox Folder From Letter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-explorer-direct-access-to-dropbox-folder-from-letter.jpg)
+
  The above implies that you'll set up your cloud storage client to fully sync all files and folders/keep them stored locally.
 
 ## What About Using Subst?
@@ -126,11 +145,31 @@ subst Z: "C:\Cloud Drives\Dropbox"
 
  That's why you can find extra third-party tools that assist in using cloud storage "as a normal drive". For this article, though, we'll do the same by exploiting Windows' built-in shared folders functionality!
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-saving-your-focus-a-guide-to-quieting-naysayers-on-google-video-calls/"><u>[New] 2024 Approved Saving Your Focus A Guide to Quieting Naysayers on Google Video Calls</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-ideal-photo-and-video-shows-on-latest-iphone-models-xr-ios12/"><u>[New] Ideal Photo & Video Shows on Latest iPhone Models (XR-iOS12)</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unlocking-potential-mastering-facebooks-best-practices-for-video-advertising-for-2024/"><u>[New] Unlocking Potential Mastering Facebook's Best Practices for Video Advertising for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/easy-steps-to-activate-hyper-v-on-w11-home-pcs/"><u>Easy Steps to Activate Hyper-V on W11 Home PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/effective-dns-clearing-on-the-newest-windows-os/"><u>Effective DNS Clearing on the Newest Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortless-theme-changes-for-a-stylish-windows-11-desktop/"><u>Effortless Theme Changes for a Stylish Windows 11 Desktop</u></a></li>
+<li><a href="https://windows11.techidaily.com/enabling-failed-driver-loading-in-windows-11/"><u>Enabling Failed Driver Loading in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/energy-efficiency-windows-rest-states-analysis/"><u>Energy Efficiency: Windows' Rest States Analysis</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-onedrive-performance-a-comprehensive-guide-for-pc-users/"><u>Enhancing OneDrive Performance: A Comprehensive Guide for PC Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-windows-installer-security-for-user-privileges/"><u>Enhancing Windows Installer Security for User Privileges</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-wsl-2s-docker-capabilities-key-insights/"><u>Enhancing WSL 2'S Docker Capabilities: Key Insights</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-a-disable-iphone-se-2020-using-itunes-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock a disable iPhone SE (2020) using itunes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-70-lite-5g-bootloader-easily-by-drfone-android/"><u>How to Unlock Honor 70 Lite 5G Bootloader Easily</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-video-resolution-converter-for-windowsmaconline/"><u>In 2024, Best Video Resolution Converter [for Windows/Mac/Online]</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pixel-perfect-photography-excelling-in-the-best-6-4k-dslrs/"><u>In 2024, Pixel Perfect Photography Excelling in the Best 6 4K DSLRs</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/premier-video-communication-tools-the-top-10-for-ios-and-android/"><u>Premier Video Communication Tools The Top 10 for iOS & Android</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/1718439585996-twitch-vs-youtube-an-in-depth-comparative-analysis-for-2024/"><u>Twitch vs YouTube An In-Depth Comparative Analysis for 2024</u></a></li>
+</ul></div>
+

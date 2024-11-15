@@ -1,7 +1,7 @@
 ---
 title: Restoring the Essential Escape Function in Windows 7/8
-date: 2024-10-28T17:19:00.520Z
-updated: 2024-11-04T17:20:01.526Z
+date: 2024-11-11T16:35:27.808Z
+updated: 2024-11-15T17:35:46.372Z
 tags:
   - windows10
   - windows11
@@ -36,10 +36,10 @@ thumbnail: https://thmb.techidaily.com/8e45fcad350df735f2b4416d42d7d71c8933e8227
  Another thing you can do is connect your keyboard to a different computer and test the Esc key. This will help you rule out any potential hardware-related issues.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Restart Your Computer
@@ -49,13 +49,6 @@ thumbnail: https://thmb.techidaily.com/8e45fcad350df735f2b4416d42d7d71c8933e8227
  Open the**Start menu** , click the**power icon** , and select**Restart** from the resulting menu.
 
 ![Restart Windows Computer From Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Restart-Windows-Computer-From-Start-Menu.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Run the Windows Troubleshooters
 
@@ -77,10 +70,10 @@ To run the keyboard troubleshooter on Windows:
 ![Hardware and Devices Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Hardware-and-Devices-Troubleshooter-on-Windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Turn Off Filter Keys
@@ -92,15 +85,22 @@ To run the keyboard troubleshooter on Windows:
 3. Turn off the toggle next to**Sticky keys** .  
 ![Disable Sticky Keys in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-sticky-keys-in-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Uninstall Any Key Mapping Software
 
  Are you using any key mapping software on your PC? If so, you need to ensure that the Esc key isn’t disabled or mapped to a different function. If it is, you can either restore the key mapping to its default or remove the key remapping software entirely. In case you need help with the latter, check our guide on[different ways to uninstall software in Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) .
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Run SFC and DISM Scans
@@ -116,13 +116,6 @@ To run the keyboard troubleshooter on Windows:
 3. Right-click on your keyboard and select**Update driver** .
 4. Select**Search automatically for driver** and allow Windows to update the driver.  
 ![Update Keyboard Driver in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/update-keyboard-driver-in-windows.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the Esc key does not work even after this, the keyboard driver may be corrupt. In that case, uninstall the problematic driver using Device Manager.
 
@@ -141,10 +134,16 @@ To run the keyboard troubleshooter on Windows:
  Make sure you take[the necessary steps if you discover malware on your computer](https://www.makeuseof.com/tag/10-steps-to-take-when-you-discover-malware-on-your-computer/) .
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10\. Troubleshoot in Clean Boot State
@@ -152,6 +151,13 @@ To run the keyboard troubleshooter on Windows:
  At times, background apps and services running on your computer can also conflict with Windows and prevent it from registering your keystrokes. If you suspect that to be the case, you can try using the Esc key in a clean boot state. For more information on this, check our guide on[how to perform a clean boot on Windows](https://www.makeuseof.com/clean-boot-windows-11/) .
 
  If the Esc key works fine during a clean boot, it means one of the apps or programs is responsible for the issue. Apps and programs that you have installed fairly recently are more likely to have caused the issue.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 11\. Perform a System Restore
 
@@ -186,16 +192,19 @@ To perform a system restore on Windows, use these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-oppo-find-x7-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Oppo Find X7 by Name | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/automating-agendas-integrating-ifttt-with-to-do/"><u>Automating Agendas: Integrating IFTTT with To-Do</u></a></li>
-<li><a href="https://windows11.techidaily.com/effortless-setup-of-microsofts-powertoys-win11/"><u>Effortless Setup of Microsoft's PowerToys (Win11)</u></a></li>
-<li><a href="https://windows11.techidaily.com/expert-solutions-for-error-0x80042306-during-system-restore/"><u>Expert Solutions for Error 0X80042306 During System Restore</u></a></li>
-<li><a href="https://windows11.techidaily.com/from-raw-esd-to-refined-iso-windows-conversion-techniques/"><u>From Raw ESD to Refined ISO: Windows Conversion Techniques</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Infinix Note 30 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-samsung-galaxy-xcover-6-pro-tactical-edition-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Samsung Galaxy XCover 6 Pro Tactical Edition Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your HTC U23 | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-samsung-galaxy-m14-5g-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Samsung Galaxy M14 5G Phones</u></a></li>
-<li><a href="https://windows11.techidaily.com/restoring-functional-link-to-mb-services-on-win11-devices/"><u>Restoring Functional Link to MB Services on Win11 Devices</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-realme-c33-2023-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Realme C33 2023</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-maximizing-your-camera-masterful-android-time-lapse-videography/"><u>[New] 2024 Approved Maximizing Your Camera Masterful Android Time-Lapse Videography</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-speech-reader-feedback-summary/"><u>[New] Speech Reader Feedback Summary</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-control-youtube-audio-mobiledesktop-approach/"><u>[Updated] 2024 Approved Control YouTube Audio Mobile/Desktop Approach</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-essential-tips-for-ppt-screen-capture/"><u>[Updated] Essential Tips for PPT Screen Capture</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-ultimate-mp3-compilation-top-youtube-transformers-for-2024/"><u>[Updated] Ultimate MP3 Compilation Top YouTube Transformers for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-prime-locations-for-buying-cutting-edge-cell-phones/"><u>Discover Prime Locations for Buying Cutting-Edge Cell Phones</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-power-settings-on-windows-desktops/"><u>Exploring Power Settings on Windows Desktops</u></a></li>
+<li><a href="https://extra-information.techidaily.com/high-fidelity-videos-our-selection-of-the-three-finest-phones/"><u>High Fidelity Videos Our Selection of the Three Finest Phones</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-mastering-the-craft-of-digital-cinematography-with-ipad/"><u>In 2024, Mastering the Craft of Digital Cinematography with iPad</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-pioneering-viewer-retention-discovering-6-video-forms/"><u>In 2024, Pioneering Viewer Retention Discovering 6 Video Forms</u></a></li>
+<li><a href="https://windows11.techidaily.com/managing-antivirus-softwares-ram-consumption/"><u>Managing Antivirus Software’s RAM Consumption</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-the-empty-folder-message-on-windows-11/"><u>Remedying the Empty Folder Message on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/resuscitation-guide-bring-back-function-of-wsreset-on-pcs/"><u>Resuscitation Guide: Bring Back Function of WSReset on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-package-unregistered-photo-problems-in-windows-os/"><u>Solving 'Package Unregistered' Photo Problems in Windows OS</u></a></li>
 </ul></div>
 

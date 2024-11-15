@@ -1,7 +1,7 @@
 ---
 title: "Streamlined Microsoft Teams: Quick & Lightweight"
-date: 2024-10-29T16:35:29.353Z
-updated: 2024-11-05T02:29:00.588Z
+date: 2024-11-11T16:39:17.013Z
+updated: 2024-11-15T16:09:46.822Z
 tags:
   - windows10
   - windows11
@@ -36,10 +36,10 @@ thumbnail: https://thmb.techidaily.com/3b3b313aac4422406d268b9ec86a52f71522ac5df
  Another significant change is the introduction of the new architecture. Microsoft Teams has now fully transitioned from AngularJS to React for its web development framework needs. Where Fluent UI’s UX controls provide standardized common component support, WebView2 replaces Electron as the rendering engine for the app.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Other Features That Boost Collaboration and Productivity in Teams
@@ -53,10 +53,10 @@ thumbnail: https://thmb.techidaily.com/3b3b313aac4422406d268b9ec86a52f71522ac5df
  Apart from these, Microsoft also plans to bring some new features later this year, including third-party and Line-of-Business(LOB) apps support and advanced calling and meeting feature.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Try the Teams Public Preview
@@ -64,10 +64,10 @@ thumbnail: https://thmb.techidaily.com/3b3b313aac4422406d268b9ec86a52f71522ac5df
 ![Microsoft teams update policies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/microsoft-teams-update-policies.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The new Teams is only available as a public preview build and is available for commercial users now. While the company plans to bring it to Education and platforms like VDI and web later this year, here’s how to set an Update policy and enable Teams public preview for organizations.
@@ -87,10 +87,16 @@ To set the Update policy and enable public preview:
  To enable new Teams, launch the app and toggle the**new Teams** switch to starting using the latest iteration of Teams. You can switch between the classic and new Teams app without restrictions.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Microsoft Teams is Now More Efficient and Faster
@@ -114,20 +120,20 @@ To set the Update policy and enable public preview:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-implementing-invisible-sound-transitions-in-premiere-pro/"><u>[New] Implementing Invisible Sound Transitions in Premiere Pro</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-noir-effects-in-adobe-premiere/"><u>[New] In 2024, Noir Effects in Adobe Premiere</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-platform-precision-examining-obs-against-twitch-hub-for-2024/"><u>[New] Platform Precision Examining OBS Against Twitch Hub for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-tickling-your-sense-of-humor-tiktoks-20-joke-highlights-for-2024/"><u>[New] Tickling Your Sense of Humor TikTok's 20 Joke Highlights for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-ultimate-list-selecting-excellent-webcams-for-podcasts/"><u>[Updated] In 2024, Ultimate List Selecting Excellent Webcams for Podcasts</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-leveraging-visual-appeal-in-facebook-slideshows-for-2024/"><u>[Updated] Leveraging Visual Appeal in Facebook Slideshows for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/5-tips-for-turning-around-a-frozen-windows-hello-system/"><u>5 Tips for Turning Around a Frozen Windows Hello System</u></a></li>
-<li><a href="https://windows11.techidaily.com/boosting-charge-awareness-customizing-battery-indicators-in-win11/"><u>Boosting Charge Awareness: Customizing Battery Indicators in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-something-went-wrong-office-error-on-windows/"><u>How to Fix the “Something Went Wrong” Office Error on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-most-common-blue-screen-errors-on-windows/"><u>How to Fix the Most Common Blue Screen Errors on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/methods-to-work-around-microsoft-verified-app-restrictions/"><u>Methods to Work Around Microsoft-Verified App Restrictions</u></a></li>
-<li><a href="https://windows11.techidaily.com/sync-software-unlocking-the-fourfold-compatibility-troubleshooter/"><u>Sync Software: Unlocking the Fourfold Compatibility Troubleshooter</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-artisans-approach-to-high-dynamic-range-mastery-on-windows-11/"><u>The Artisan’s Approach to High Dynamic Range Mastery on Windows 11</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/the-illustrator-guide-to-dynamic-text-art/"><u>The Illustrator Guide to Dynamic Text Art</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/who-are-the-brainpower-driving-chatgpt-exploring-its-ownership-and-innovators/"><u>Who Are the Brainpower Driving ChatGPT? Exploring Its Ownership and Innovators</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ake-an-impression-with-youtube-clips-step-by-step-into-the-world-of-gif-making/"><u>[New] Make an Impression With YouTube Clips Step-by-Step Into the World of Gif Making</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-unveiling-mastery-the-ultimate-animoji-guide-for-iphone-x-for-2024/"><u>[New] Unveiling Mastery The Ultimate Animoji Guide for iPhone X for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-size-it-up-right-instagrams-best-videography-practices/"><u>[Updated] 2024 Approved Size It Up Right Instagram's Best Videography Practices</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-enhance-engagement-top-12-tactics-for-youtube-success/"><u>[Updated] In 2024, Enhance Engagement Top 12 Tactics for YouTube Success</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-photo-enhancing-apps-for-smartphones-with-overlays-top-10/"><u>Best Photo-Enhancing Apps for Smartphones with Overlays (Top 10)</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-samsung-galaxy-m34-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Samsung Galaxy M34 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-steps-to-locate-gpo-in-windows-os/"><u>Essential Steps to Locate GPO in Windows OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-updated-video-card-software-for-your-toshiba-notebook-windows-edition/"><u>Installing Updated Video Card Software for Your Toshiba Notebook - Windows Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-control-of-windows-installer-on-devices/"><u>Master Control of Windows Installer on Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-unverified-app-errors-in-windows/"><u>Overcoming Unverified App Errors in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/revive-security-settings-windows-11-admin-control-restoration/"><u>Revive Security Settings: Windows 11 Admin Control Restoration</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-top-9-benefits-of-choosing-a-pc-over-a-mac/"><u>The Top 9 Benefits of Choosing a PC Over a Mac</u></a></li>
+<li><a href="https://windows11.techidaily.com/unfreeze-shift-button-on-your-pc/"><u>Unfreeze Shift Button on Your PC.</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-secrets-activate-cortana-with-vivetool/"><u>Unveiling the Secrets: Activate Cortana with ViveTool</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-a-step-by-step-guide-to-restoring-usb-port-functionality/"><u>Windows 11: A Step-by-Step Guide to Restoring USB Port Functionality</u></a></li>
 </ul></div>
 

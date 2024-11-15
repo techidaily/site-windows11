@@ -1,7 +1,7 @@
 ---
 title: "Key Fixes for Creative Block: Photoshop Stuck in Windows 10/11"
-date: 2024-10-30T20:07:40.855Z
-updated: 2024-11-05T01:17:40.980Z
+date: 2024-11-09T16:34:17.840Z
+updated: 2024-11-15T16:13:28.178Z
 tags:
   - windows10
   - windows11
@@ -33,19 +33,6 @@ thumbnail: https://thmb.techidaily.com/0177669a9f7e47198243a9fecb2a2f8d7897c9576
 
 ![The Run this program as an administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-this-program-as-administrator3.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Start Photoshop Without Plugins
 
  Third-party plugins can generate Photoshop startup issues. If you utilize Photoshop with plugins, try disabling them. To do so, hold the **Shift** when you click to run Photoshop. Then select **Yes** to skip the loading of optional plugins.
@@ -70,24 +57,32 @@ thumbnail: https://thmb.techidaily.com/0177669a9f7e47198243a9fecb2a2f8d7897c9576
 ![The Windows Security icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-security-icon.jpg)
 2. Select the **Virus & threat** (shield) tab on Windows Security’s sidebar.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Next, click **Manage ransomware protection** to reach Windows Security’s Controlled folder access setting.  
 ![The Manage ransomware protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/manage-ransomware-option.jpg)
 4. Click the switch for the **Controlled folder access** option to disable that setting if it’s turned on.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![The Controlled Folder Access setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/controlled-folder-access-option.jpg)
 5. Then try launching Adobe Photoshop with controlled folder access disabled.
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Disable Your PC’s Display Adapter
@@ -101,22 +96,15 @@ thumbnail: https://thmb.techidaily.com/0177669a9f7e47198243a9fecb2a2f8d7897c9576
 ![The Disable device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/disable-device-option.jpg)
 5. Select **Yes** to disable the device.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Launch Photoshop with the graphics adapter disabled.
 
  You can always re-enable the graphics adapter when you’re not utilizing Photoshop. To do so, right-click your graphics card in Device Manager and select Enable device.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Clear Photoshop’s Font Cache
@@ -132,26 +120,26 @@ thumbnail: https://thmb.techidaily.com/0177669a9f7e47198243a9fecb2a2f8d7897c9576
 ![The Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-delete-option4.jpg)
 5. Double-click the Recycle Bin desktop shortcut and select **Empty Recycle Bin**.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Reinstall Photoshop
 
  Uninstalling and reinstalling Photoshop will replace that software’s files with fresh ones. So, this resolution could be the one you need if others here don’t work for you. You can remove Adobe Photoshop via Settings or the Control Panel, as covered within our guide for [uninstalling software packages on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/).
 
 ![The Programs and Features applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/uninstall-option-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When you’ve uninstalled Photoshop, restart your PC. Then open the Adobe Creative Cloud app. Install Adobe Photoshop from the Creative Cloud app.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Edit Your Images in Adobe Photoshop Again
@@ -170,19 +158,22 @@ thumbnail: https://thmb.techidaily.com/0177669a9f7e47198243a9fecb2a2f8d7897c9576
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-expand-your-horizons-with-these-elite-science-yts/"><u>[New] 2024 Approved Expand Your Horizons with These Elite Science YTs</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-unveiling-advanced-methods-to-harness-screencapture-tools/"><u>[Updated] In 2024, Unveiling Advanced Methods to Harness ScreenCapture Tools</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-premium-internet-spots-for-glossy-3d-text-effects/"><u>[Updated] Premium Internet Spots for Glossy 3D Text Effects</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-starter-guide-8-easy-youtube-money-makers/"><u>[Updated] Starter Guide 8 Easy YouTube Money-Makers</u></a></li>
-<li><a href="https://windows11.techidaily.com/aoemi-made-simple-unifying-dual-window-desktops/"><u>AOEMi Made Simple: Unifying Dual Window Desktops</u></a></li>
-<li><a href="https://windows11.techidaily.com/best-video-splitters-and-editors-on-windows-systems/"><u>Best Video Splitters & Editors on Windows Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/boost-windows-with-top-2023-ms-store-winners/"><u>Boost Windows with Top 2023 MS Store Winners</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypassing-onedrive-failure-in-folder-addition-on-desktop-os/"><u>Bypassing OneDrive Failure in Folder Addition on Desktop OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/digital-dilemma-deciphered-7-strategies-to-reopen-browsers-in-win-os/"><u>Digital Dilemma Deciphered: 7 Strategies to Reopen Browsers in WIN OS</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/effortless-gameplay-enhancement-with-simple-screen-recorders/"><u>Effortless Gameplay Enhancement with Simple Screen Recorders</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-fitness-protocols-through-ai-assisted-customization/"><u>Enhancing Fitness Protocols Through AI-Assisted Customization</u></a></li>
-<li><a href="https://driver-download.techidaily.com/optimize-your-gaming-experience-with-the-newest-nvidia-geforce-gtx-980-ti-drivers/"><u>Optimize Your Gaming Experience with the Newest Nvidia GeForce GTX 980 Ti Drivers</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1138141-9781609259242-the-chemical-wedding-of-christian-rosenkreutz/"><u>The Chemical Wedding of Christian Rosenkreutz | Free Book</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/the-true-score-analyzing-recordcasts-performance-for-2024/"><u>The True Score Analyzing RecordCast's Performance for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-1-3-in-ipad-voice-memos-and-recorders-for-2024/"><u>[Updated] 1-3 in iPad Voice Memos & Recorders for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-best-chosen-templates-for-viral-ae-content/"><u>[Updated] Best Chosen Templates for Viral AE Content</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-easily-obtain-and-install-drivers-for-your-gigabyte-wb86ebody-867d-graphics-card/"><u>How to Easily Obtain and Install Drivers for Your Gigabyte WB86ebody 867D Graphics Card</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-to-make-amazing-slow-motion-video-on-android-easily/"><u>How to Make Amazing Slow Motion Video on Android Easily</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-11-pro-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 11 Pro Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-deep-dive-into-an-individuals-3dr-experience/"><u>In 2024, A Deep Dive Into an Individual's '3DR' Experience</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-infinix-hot-40i-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Infinix Hot 40i Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-future-of-work-6-essential-tips-to-excel-amidst-rising-artificial-intelligence/"><u>Mastering the Future of Work: 6 Essential Tips to Excel Amidst Rising Artific#ial Intelligence</u></a></li>
+<li><a href="https://windows11.techidaily.com/revamped-microsoft-office-web-suite-experience-the-latest-aesthetic-upgrade/"><u>Revamped Microsoft Office Web Suite: Experience the Latest Aesthetic Upgrade</u></a></li>
+<li><a href="https://windows11.techidaily.com/single-page-layout-mastering-the-art-of-condensing-excel-spreadsheets/"><u>Single-Page Layout: Mastering the Art of Condensing Excel Spreadsheets</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-adding-a-summary-row-at-the-end-of-your-microsoft-excel-tables/"><u>Step-by-Step Guide: Adding a Summary Row at the End of Your Microsoft Excel Tables</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-extracting-data-from-microsoft-excels-status-bar/"><u>Step-by-Step Guide: Extracting Data From Microsoft Excel's Status Bar</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-integrating-windows-calculator-into-microsoft-excel-2013s-quick-access-bar/"><u>Step-by-Step Guide: Integrating Windows Calculator Into Microsoft Excel 2013'S Quick Access Bar</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-using-excels-fill-handler-for-quick-sequential-data-entry/"><u>Step-by-Step Guide: Using Excel's Fill Handler for Quick Sequential Data Entry</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-tutorial-on-setting-fixed-columns-and-rows-in-microsoft-excel/"><u>Step-by-Step Tutorial on Setting Fixed Columns & Rows in Microsoft Excel</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-tutorial-constructing-self-updating-overview-charts-using-excel/"><u>Step-by-Step Tutorial: Constructing Self-Updating Overview Charts Using Excel</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-realme-c33-2023-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Realme C33 2023? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
 

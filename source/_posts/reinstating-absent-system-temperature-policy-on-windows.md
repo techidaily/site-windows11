@@ -1,7 +1,7 @@
 ---
 title: Reinstating Absent System Temperature Policy on Windows
-date: 2024-10-31T17:43:07.808Z
-updated: 2024-11-05T08:29:58.366Z
+date: 2024-11-10T17:17:03.215Z
+updated: 2024-11-15T16:19:37.643Z
 tags:
   - windows10
   - windows11
@@ -44,10 +44,10 @@ Here’s how to do that.
  If you go back to the Power Options menu, you’ll find that it’s gone.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Fix a Missing System Cooling Policy Using the Windows Registry
@@ -59,10 +59,10 @@ Here’s how to do that.
 ![creating a text document on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/creating-text-doc-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 In the text document, enter the following code:
@@ -74,10 +74,10 @@ In the text document, enter the following code:
 ![message to continue merging a registry file with the windows registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/message-continue-merge-reg-gile.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You should now see the system cooling policy in the Power Options menu.
@@ -89,10 +89,16 @@ In the text document, enter the following code:
  Once you run this file, the system cooling policy will be hidden again in the Power Options menu.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bringing Back the System Cooling Policy on Windows
@@ -114,15 +120,24 @@ In the text document, enter the following code:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-leveraging-your-roku-setup-for-exclusive-fb-live-content-for-2024/"><u>[New] Leveraging Your Roku Setup for Exclusive FB Live Content for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-leveraging-hashtags-to-skyrocket-your-engagement/"><u>[Updated] Leveraging Hashtags to Skyrocket Your Engagement</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-oppo-reno-8t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Oppo Reno 8T | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-repeatedly-spotted-edge-buttons/"><u>Fixing Repeatedly Spotted Edge Buttons</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-on-your-apple-iphone-se-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card on Your Apple iPhone SE Apple ID and Apple Pay</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-with-imei-code-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XS with IMEI Code?</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigate-through-windows-sound-settings-9-easy-methods-quickly/"><u>Navigate Through Windows' Sound Settings: 9 Easy Methods, Quickly</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/premier-choice-10-leading-intro-maker-tools-iphoneandroid-for-2024/"><u>Premier Choice 10 Leading Intro Maker Tools (iPhone/Android) for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/seamless-integration-how-to-get-and-run-msibundle-and-appxappxbundles/"><u>Seamless Integration: How to Get & Run MsiBundle & Appx/Appxbundles</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlock-the-full-potential-of-the-windows-11-taskbar/"><u>Unlock the Full Potential of the Windows 11 Taskbar</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-the-best-hashtags-for-youtube-gaming-videos/"><u>[New] The Best Hashtags for YouTube Gaming Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-express-originality-craft-professional-logos-from-template-designs-free/"><u>2024 Approved Express Originality Craft Professional Logos From Template Designs (Free)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/convert-your-swf-files-into-professional-quality-mp4-videos-for-free-with-ease-moveavee/"><u>Convert Your SWF Files Into Professional-Quality MP4 Videos for Free with Ease - Moveavee</u></a></li>
+<li><a href="https://windows11.techidaily.com/exposing-the-trojan-terror-defending-your-windows-against-wacatacbml/"><u>Exposing the Trojan Terror: Defending Your Windows Against Wacatac.B!ml</u></a></li>
+<li><a href="https://windows11.techidaily.com/fix-your-pcs-missing-piece-how-to-restore-bluetooth-on-windows-11/"><u>Fix Your PC's Missing Piece: How to Restore Bluetooth on Windows 11</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-honor-90-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Honor 90? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-xiaomi-civi-3-disney-100th-anniversary-edition-phone-by-drfone-android/"><u>How to Reset a Locked Xiaomi Civi 3 Disney 100th Anniversary Edition Phone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Vivo X Flip? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/learn-the-hack-no-more-pins-for-windows-11-projecting/"><u>Learn the Hack: No More PINs for WIndows 11 Projecting</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-outlook-preview-in-windows-11-pro/"><u>Mastering Outlook Preview in Windows 11 Pro</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/maximizing-your-android-game-adventure-with-kinemaster-review-for-2024/"><u>Maximizing Your Android Game Adventure with KineMaster Review for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/optimal-chatgpt-command-strategies-unveiled/"><u>Optimal ChatGPT Command Strategies Unveiled</u></a></li>
+<li><a href="https://windows11.techidaily.com/pro-tips-using-hotkeys-to-simplify-windows-changes/"><u>Pro Tips: Using Hotkeys to Simplify Windows Changes</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/real-time-view-count-detectors-for-2024/"><u>Real-Time View Count Detectors for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/rush-your-print-jobs-how-to-spur-a-slow-windows-printer/"><u>Rush Your Print Jobs: How to Spur a Slow Windows Printer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/steps-to-recover-lost-dbghelpdll-and-solve-registry-issues-on-windows/"><u>Steps to Recover Lost dBghelp.dll and Solve Registry Issues on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-address-failing-windows-alt-codes/"><u>Strategies to Address Failing Windows ALT Codes</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-why-windows-11-upgrade-remains-unpopular/"><u>Understanding Why Windows 11 Upgrade Remains Unpopular</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-mishap-resolution-fix-for-error-code-0x0000011b/"><u>Win11 Mishap Resolution: Fix for Error Code 0X0000011B</u></a></li>
 </ul></div>
 

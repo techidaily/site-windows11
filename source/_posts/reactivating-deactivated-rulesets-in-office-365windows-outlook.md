@@ -1,7 +1,7 @@
 ---
 title: Reactivating Deactivated Rulesets in Office 365/Windows Outlook
-date: 2024-08-22T21:42:20.101Z
-updated: 2024-08-23T21:42:20.101Z
+date: 2024-11-14T16:51:07.857Z
+updated: 2024-11-15T16:12:56.235Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,19 @@ thumbnail: https://thmb.techidaily.com/b21b5439f80b1a102ace85a9da59aeae7943c3aff
 3. Under the **Email Rules** tab, make sure the boxes next to your rules are checked.  
 ![Enable Outlook Rules](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/enable-outlook-rules.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Rename Outlook Rules
 
  Using lengthy names for your Outlook rules can cause them to become larger in size, leading to unexpected issues with their functionality. To address this, try assigning shorter names to your Outlook rules and see if that gets things moving again.
@@ -43,9 +56,6 @@ thumbnail: https://thmb.techidaily.com/b21b5439f80b1a102ace85a9da59aeae7943c3aff
 6. Click **Apply** to save the changes.  
 ![Rename Outlook Rule](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/rename-outlook-rule.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ## 3\. Delete Unwanted Outlook Rules
 
  Apart from renaming rules, you can also consider deleting rules that you no longer need to prevent conflicts or unexpected behavior. Here’s how.
@@ -57,8 +67,12 @@ thumbnail: https://thmb.techidaily.com/b21b5439f80b1a102ace85a9da59aeae7943c3aff
 ![Delete a Outlook Rule](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/delete-a-outlook-rule.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. Reset the Outlook SRS File
 
  Microsoft Outlook stores essential account configuration in an SRS (Send and Receive Settings) file on your PC. If this file somehow becomes corrupted, Outlook rules won’t work. To fix this, you can force Outlook to recreate the SRS file by renaming the old file. Here's how.
@@ -71,9 +85,6 @@ thumbnail: https://thmb.techidaily.com/b21b5439f80b1a102ace85a9da59aeae7943c3aff
 
  Restart Outlook after completing the above steps and check if your rules work as expected.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Disable the Stop Processing More Rules Option
 
  By adjusting the settings in the Outlook app, you can instruct it to halt the processing of additional rules once a specific rule has run. However, this can lead to Outlook ignoring all subsequent rules, giving a false impression that your rules are not functioning correctly. To avoid this, you need to disable the “stop processing more rules” option by following the steps below.
@@ -86,8 +97,12 @@ thumbnail: https://thmb.techidaily.com/b21b5439f80b1a102ace85a9da59aeae7943c3aff
 5. Click **Finish** and then **Apply**.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6\. Configure Outlook Rules to Run on All Devices
 
  Another reason why your Outlook rules may not work is if you have configured them to run on a specific device only. Here’s how you can change that.
@@ -98,9 +113,6 @@ thumbnail: https://thmb.techidaily.com/b21b5439f80b1a102ace85a9da59aeae7943c3aff
 4. Hit **Finish** followed by **Apply**.  
 ![Configure Outlook Rule](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/configure-outlook-rule.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ## 7\. Activate Cached Exchange Mode
 
  When you enable the Cached Exchange Mode, Outlook retains a copy of your mailbox within the Outlook data file. This can help the app implement your rules without any issues.
@@ -114,10 +126,6 @@ thumbnail: https://thmb.techidaily.com/b21b5439f80b1a102ace85a9da59aeae7943c3aff
 5. Tick the **Use Cached Exchange Mode** checkbox.
 6. Hit **Apply** followed by **OK**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ## 8\. Run the Outlook Inbox Repair Tool
 
  When you use Microsoft Outlook on your Windows PC, it generates OST and PST files to store your account data locally. If these data files become inaccessible for some reason, your Outlook rules may stop working. Fortunately, Outlook includes an inbox repair tool that can help you [repair Outlook data files with ease](https://www.makeuseof.com/how-to-repair-corrupted-pst-and-ost-files-in-microsoft-outlook-using-recovery-toolbox/). Here’s how to run it.
@@ -131,9 +139,6 @@ thumbnail: https://thmb.techidaily.com/b21b5439f80b1a102ace85a9da59aeae7943c3aff
 5. Select the profile you want to repair and then click **Start**.  
 ![Outlook Inbox Repair Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/outlook-inbox-repair-tool.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Restart Outlook after this and check if the issue is still there.
 
 ## 9\. Update the Outlook App
@@ -145,7 +150,21 @@ thumbnail: https://thmb.techidaily.com/b21b5439f80b1a102ace85a9da59aeae7943c3aff
 3. Click **Update Options > Update Now**.  
 ![Update Outlook App in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/update-outlook-app-in-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wait for Microsoft Office to check for new updates and install them. Following that, Outlook rules should start working.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Reset All the Rules
 
@@ -158,15 +177,17 @@ thumbnail: https://thmb.techidaily.com/b21b5439f80b1a102ace85a9da59aeae7943c3aff
  Once Outlook deletes all the rules, head to **Manage Rules & Alerts** and set them up again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Manage Your Emails Efficiently With Outlook Rules
 
  Without Outlook rules, organizing your inbox can be quite challenging, especially if you receive a lot of emails throughout the day. Hopefully, one or more of the above tips have proven useful, and Outlook rules are now working as before.
 
  To help out, we have compiled a list of useful solutions that should get Outlook rules to work again.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -174,3 +195,22 @@ thumbnail: https://thmb.techidaily.com/b21b5439f80b1a102ace85a9da59aeae7943c3aff
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-6-proven-strategies-to-add-facebook-live-features/"><u>[Updated] 2024 Approved 6 Proven Strategies to Add Facebook Live Features</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-the-ultimate-guide-to-vr-fitness-treadmills/"><u>[Updated] 2024 Approved The Ultimate Guide to VR Fitness Treadmills</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-softening-audio-routine/"><u>[Updated] Step-by-Step Softening Audio Routine</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-how-to-choose-best-free-youtube-video-editor-apps-on-ios/"><u>2024 Approved How to Choose Best-Free YouTube Video Editor Apps on iOS</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-oppo-find-x7-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Oppo Find X7 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/combining-elegance-and-exercise-the-ultimate-review-of-garmin-vivomove-hr-for-health-conscious-individuals/"><u>Combining Elegance & Exercise: The Ultimate Review of Garmin Vivomove HR for Health-Conscious Individuals</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easily-update-or-install-focusrite-scarlett-2i4-audio-drivers-for-optimal-performance-in-windows/"><u>Easily Update or Install Focusrite Scarlett 2I4 Audio Drivers for Optimal Performance in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-tips-to-boost-your-speed-in-3d-paint-keys/"><u>Essential Tips to Boost Your Speed in 3D Paint Keys</u></a></li>
+<li><a href="https://windows11.techidaily.com/exclusive-w10w11-climate-software-roundup/"><u>Exclusive W10/W11 Climate Software Roundup</u></a></li>
+<li><a href="https://windows11.techidaily.com/five-key-insights-into-how-win11-tracks-your-life/"><u>Five Key Insights Into How Win11 Tracks Your Life</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-honor-100-pro-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Honor 100 Pro and Browser | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/prtscn-and-snipping-tool-tie-in-in-windows-11-how-to-break-it/"><u>PrtScn & Snipping Tool Tie-In in Windows 11 - How to Break It</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedy-cease-random-file-explorer-launch/"><u>Remedy: Cease Random File Explorer Launch</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/the-ultimate-guide-8-leading-music-creation-suites-for-mac-and-windows/"><u>The Ultimate Guide 8 Leading Music Creation Suites for Mac & Windows</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Windows 11: Unveiling the Triple Widget Configuration Steps"
-date: 2024-08-22T21:41:09.136Z
-updated: 2024-08-23T21:41:09.136Z
+date: 2024-11-13T17:10:34.533Z
+updated: 2024-11-15T16:38:51.832Z
 tags:
   - windows10
   - windows11
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/829f3e424c1b3b1991d559a20a197c8257f098aee
 
 Simply put, they have no separation in the two-column Widgets view.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Is the ViveTool and Why Do You Need It to Enable the New Widgets Board?
 
  ViveTool is a third-party application that helps you enable features many Windows Insiders or the general public cannot use in Windows 11\. In other words, the tool allows us to enable hidden features in Windows 11\. We have a detailed guide on[downloading and using ViveTool to enable unreleased features](http://www.makeuseof.com/vivetool-windows-guide/) .
@@ -39,15 +46,29 @@ Simply put, they have no separation in the two-column Widgets view.
  For convenience, set up ViveTool and its extracted contents in the**C:/ViVeTool** folder.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Enable the New Widgets Panel in Windows 11
 
 ![Screenshot showing how to enable three column widget panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/three-column-widget-panel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Now that you have successfully set up ViveTool on your PC, you can jump straight to the steps required to enable the specific feature ID for the three-column Widgets view.
 
 1. Open Command Prompt as an Administrator (see[how to open Command Prompt as Administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) for steps).
@@ -60,46 +81,38 @@ vivetool /enable /id:43028164
 
  Now, launch the Widgets panel from the taskbar. If you do not have the Widgets icon in the taskbar, you can tweak the taskbar setting and bring that icon to your taskbar.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Will the Widgets Panel Be Available for Other Insider Channels?
 
  Every feature that Microsoft tests in Canary Channel build may or may not make it to other Insider Channels. The new Widgets Board is no exception.
 
  But since Microsoft has officially confirmed that it will be available to more Insiders in the coming days, we are hopeful it will make its way to other channels and, eventually, to a stable Windows 11 release.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ## Will Widgets Panel Always Have Three Columns in the Future?
 
 ![Three Column Widget panel screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/three-column-widget-panel-screenshot-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
  It is likely that the new Widgets Board will completely replace the one with two columns. Once you enable the three-column Widgets using ViveTool, there are no ways to return to using the old Widgets board.
 
  However, we cannot rule out the possibility of Microsoft making the larger Widgets board optional in the future, allowing users to decide which suits them best.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## New Widgets Board in Windows 11, Enabled
 
  The new Widgets panel offers a more organized canvas and is super simple to enable using ViveTool. After enabling the new Widgets board, every other setting remains the same.
 
  In other words, you can tweak Windows 11's Widgets settings to get the most out of it even when it shows all your widgets and the feed content in a single panel.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -108,4 +121,24 @@ vivetool /enable /id:43028164
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-achieving-fluidity-in-audio-blending-using-audacity-tools-for-2024/"><u>[New] Achieving Fluidity in Audio Blending Using Audacity Tools for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-device-guide-for-google-meet-access/"><u>[New] In 2024, Device Guide for Google Meet Access</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-inside-screencasting-obs-tools-analyzed-for-optimal-broadcasts/"><u>[New] Inside Screencasting OBS Tools Analyzed for Optimal Broadcasts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2024dvdwindows-1011/"><u>最新推荐的2024自由播放大型DVD软件：适用于Windows 10和11系统</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-celebrated-scripts-spanning-eight-movie-segments/"><u>In 2024, Celebrated Scripts Spanning Eight Movie Segments</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-navigating-the-landscape-of-color-correction-innovative-uses-of-luts-in-video-editing/"><u>In 2024, Navigating the Landscape of Color Correction Innovative Uses of LUTs in Video Editing</u></a></li>
+<li><a href="https://windows11.techidaily.com/laymans-guide-to-setting-up-a-triple-column-board-on-windows-11/"><u>Layman's Guide to Setting Up a Triple Column Board on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-outdated-windows-password-a-guide/"><u>Overcoming Outdated Window's Password: A Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/reflecting-on-the-legacy-of-oneplus-one-a-decade-after-its-release/"><u>Reflecting on the Legacy of OnePlus One a Decade After Its Release</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-touchpad-glitches-on-your-windows-machine/"><u>Remedying Touchpad Glitches on Your Windows Machine</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/side-by-side-showdown-evaluating-the-differences-between-apple-watch-series-9-and-fitbit-charge-6/"><u>Side by Side Showdown: Evaluating the Differences Between Apple Watch Series 9 and Fitbit Charge 6</u></a></li>
+<li><a href="https://fox-links.techidaily.com/soundscape-adjustments-fading-volume-with-precision-in-logic-pro-for-2024/"><u>Soundscape Adjustments Fading Volume with Precision in Logic Pro for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-into-yesteryear-classic-pc-gaming-via-dosbox-x/"><u>Step Into Yesteryear: Classic PC Gaming via DOSBox-X</u></a></li>
+<li><a href="https://windows11.techidaily.com/transforming-your-cursor-display-with-windows-1011-tweaks/"><u>Transforming Your Cursor Display with Windows 10/11 Tweaks</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-resolving-synapse-on-pcs-with-windows-11-and-10/"><u>Troubleshooting: Resolving Synapse on PCs with Windows 11 & 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-network-auditing-for-unguarded-ip-ports/"><u>Windows Network Auditing for Unguarded IP Ports</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-wisdom-commanding-app-and-browser-flow/"><u>Windows Wisdom: Commanding App & Browser Flow</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming Greyed-Out Remove PIN Feature on Windows 11
-date: 2024-11-01T17:04:50.747Z
-updated: 2024-11-05T07:16:04.108Z
+date: 2024-11-12T17:34:51.976Z
+updated: 2024-11-15T16:47:59.276Z
 tags:
   - windows10
   - windows11
@@ -39,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/8467c9e20d909c3a99e5604c440b3f79e42d4e9a9
 6. With the option disabled, you can now remove PIN for Windows 11.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Remove the PIN Using the I Forgot My PIN Window
@@ -61,13 +61,6 @@ To remove PIN using forgot my PIN:
 ![confirmation dialog windows hello PIN remove](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/confirmation-dialog-windows-hellow-pin-remove.jpg)
 6. Next, enter your Microsoft account details to sign in.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![set up a pin cancel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/set-up-a-pin-cancel.jpg)
 7. When the**Set up a PIN** dialog appears, click on**Cancel** .  
 
@@ -84,6 +77,13 @@ That's it! You have successfully removed the Windows Hello PIN.
 2. Open the**Accounts** tab and click on**Your Info.**  
 ![windows 11 account manage my accounts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-account-manage-my-accounts.jpg)
 3. Scroll down to the**Related setting** s section and click on**Accounts** (Manage my account). This will open the Microsoft account security page online.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. Sign in to your Microsoft account.
 5. Next, open the**Security** tab.
@@ -103,10 +103,10 @@ That's it! You have successfully removed the Windows Hello PIN.
 ![windows 11 remove pin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-remove-pin.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once the option is restored, follow these steps to remove Windows Hello PIN from the Settings app:
@@ -119,10 +119,10 @@ That's it! You have successfully removed the Windows Hello PIN.
 6. Enter your account password and click OK to remove the PIN.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix the Grayed-Out Remove PIN Option
@@ -144,18 +144,15 @@ That's it! You have successfully removed the Windows Hello PIN.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-how-to-zoom-in-on-minecraft/"><u>[New] 2024 Approved How to Zoom in on Minecraft</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-navigate-through-the-5-best-mac-sniping-apps-easily/"><u>[Updated] 2024 Approved Navigate Through The 5 Best Mac Sniping Apps Easily</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-how-to-accelerate-your-youtube-upload-with-effective-rendering/"><u>[Updated] How to Accelerate Your YouTube Upload with Effective Rendering</u></a></li>
-<li><a href="https://facebook.techidaily.com/avoiding-the-invisible-barriers-shadowban-in-digital-realms/"><u>Avoiding the Invisible Barriers (Shadowban) in Digital Realms</u></a></li>
-<li><a href="https://windows11.techidaily.com/decluttering-your-win11-desktop-wallpaper-symbol/"><u>Decluttering Your Win11 Desktop Wallpaper Symbol</u></a></li>
-<li><a href="https://windows11.techidaily.com/demystifying-the-incompatible-gpu-mystery-wins11-and-win10-edition/"><u>Demystifying the Incompatible GPU Mystery: Wins11 & Win10 Edition</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-instaphoto-tips-for-seamless-sharing/"><u>In 2024, InstaPhoto Tips for Seamless Sharing</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-making-a-splash-with-youtube-ad-banners-and-thumbnails/"><u>In 2024, Making a Splash with YouTube Ad Banners & Thumbnails</u></a></li>
-<li><a href="https://windows11.techidaily.com/techniques-to-rectify-unresponsive-windows-key/"><u>Techniques to Rectify Unresponsive Windows Key</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/the-ultimate-guide-to-mastering-the-top-30-essential-rules-of-email-etiquette-with-massmail/"><u>The Ultimate Guide to Mastering the Top 30 Essential Rules of Email Etiquette with MassMail</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-pen-pad-issues-on-windows-os/"><u>Troubleshooting: Pen Pad Issues on Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-ancestry-the-surviving-features-from-the-seventh-era/"><u>Windows Ancestry: The Surviving Features From the Seventh Era</u></a></li>
-<li><a href="https://windows11.techidaily.com/winservicesexe-what-it-is-and-fixing-errors/"><u>Winservices.exe: What It Is and Fixing Errors</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-10-easy-to-use-drones-kids-edition/"><u>[New] Top 10 Easy-to-Use Drones - Kids Edition</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-xiaomi-civi-3-disney-100th-anniversary-edition-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Xiaomi Civi 3 Disney 100th Anniversary Edition Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beyond-chatgpt-the-next-wave-in-generative-ai-and-conversational-bots/"><u>Beyond ChatGPT: The Next Wave in Generative AI and Conversational Bots</u></a></li>
+<li><a href="https://win-online.techidaily.com/focus-t25-dvd/"><u>FOCUS T25エクササイズ DVD リッピングテクニック - 詳しい手順とヒント</u></a></li>
+<li><a href="https://windows11.techidaily.com/powertoys-lockmaster-a-compreayers-guide-to-files/"><u>PowerToys Lockmaster: A Compreayer's Guide to Files</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-access-errors-with-epic-launcher/"><u>Resolving Access Errors with Epic Launcher</u></a></li>
+<li><a href="https://windows11.techidaily.com/team-chat-freezing-heres-a-fix/"><u>Team Chat Freezing? Here’s a Fix</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshoot-no-display-on-pc-startup/"><u>Troubleshoot No-Display on PC Startup</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-resolving-persistent-outlook-app-failures/"><u>Troubleshooting Tips: Resolving Persistent Outlook App Failures</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unveiling-secrets-low-light-iphone-photography/"><u>Unveiling Secrets Low Light iPhone Photography</u></a></li>
 </ul></div>
 

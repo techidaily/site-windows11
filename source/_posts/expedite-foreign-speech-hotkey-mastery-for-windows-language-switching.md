@@ -1,7 +1,7 @@
 ---
 title: "Expedite Foreign Speech: Hotkey Mastery for Windows Language Switching"
-date: 2024-08-27T16:00:52.816Z
-updated: 2024-08-28T16:00:52.816Z
+date: 2024-11-12T16:05:18.954Z
+updated: 2024-11-15T17:25:27.676Z
 tags:
   - windows10
   - windows11
@@ -55,11 +55,22 @@ thumbnail: https://thmb.techidaily.com/4ac54b51c1cafa3a284440c31d27701c82afd968d
 
 ![The Theme drop-down menu in DeepL](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-theme-drop-down-menu.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you like translating text on the web, check out the[best browser tools to translate web pages](https://www.makeuseof.com/tag/10-top-browser-tools-translate-web-pages/) .
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Translate Text in Windows Software With DeepL
 
  DeepL is the online translator service's official Windows desktop program. That software has freemium, starter, advanced, and ultimate versions. The freemium version has a 5,000-word character translation limit. DeepL has similar hotkey functionality to QTranslate with which you can translate text passages as follows:
@@ -73,44 +84,38 @@ thumbnail: https://thmb.techidaily.com/4ac54b51c1cafa3a284440c31d27701c82afd968d
 7. Press the**Ctrl** +**C** hotkey twice to bring up the DeepL translation window. That window shows the selected text alongside an English translation for it.  
 ![The DeepL translation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-deepl-translation-window.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  There you can select different languages to translate by clicking the drop-down menu on the right side of the DeepL window. You can also look up translations for specific words. Select a word with the cursor and click**Dictionary entries** at the bottom of the window to look it up.
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### How to Translate Files With DeepL
 
  DeepL also enables you to select files to translate. Click the**Translate Files** tab at the top of its window. Then press the**Browse** button to select a file for translation and click the**Open** .
 
 ![The Translate files tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-translate-files-tab.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 **Ctrl** +**F9** is an alternative hotkey you can press for DeepL translations. Selecting text and pressing**Ctrl** +**F9** will bring up a smaller quick translate window. There you can click a**Copy** option to add the translation to your clipboard for pasting elsewhere.
 
 ![The main QTranslate translation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-main-qtranslate-window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you would like to change the keyboard shortcuts, click the menu button at the top right of DeepL’s window. Select Settings to view hotkey options for the software. There you can select alternative**Alt** ,**Ctrl** ,**Key** , and**Shift** keys for each hotkey. Click in the boxes to set combination keys by pressing them.
 
  DeepL has a hotkey for a text-capturing translation feature that isn’t enabled by default. Click the**Capture text on screen** option in the settings to enable that feature. Pressing**Ctrl** +**F8** will activate a tool with which you can select text for translation by dragging a grey box over it.
 
  DeepL matches your system’s dark or light mode by default. However, you can select for the app to be dark or light. Click the**Select dark or light mode** drop-down menu to choose your preference.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## Translate Text With Handy Hotkeys in Windows
 
  QTranslate’s and DeepL’s hotkeys enable you to quickly and easily translate in Windows 11 and 10\. You can press those convenient keyboard shortcuts to translate text in websites and documents across all Windows software whenever needed. The hotkey functionality those software packages provide makes them preferable alternatives to the Google and Microsoft translation tools.
@@ -121,8 +126,6 @@ thumbnail: https://thmb.techidaily.com/4ac54b51c1cafa3a284440c31d27701c82afd968d
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +133,24 @@ thumbnail: https://thmb.techidaily.com/4ac54b51c1cafa3a284440c31d27701c82afd968d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/outube-profile-picture-templates-free-downloads-in-2024/"><u>[New] YouTube Profile Picture Templates – Free Downloads, In 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-image-ink-best-captioning-apps-for-photo-enthusiasts-iosandroid/"><u>[Updated] In 2024, Image Ink Best Captioning Apps for Photo Enthusiasts (iOS/Android)</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-fongo-evaluation-a-closer-look-at-canadian-voip-offering/"><u>Comprehensive Fongo Evaluation: A Closer Look at Canadian VoIP Offering</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-guide-solving-pc-game-stuttering-issues-tips/"><u>Comprehensive Guide: Solving PC Game Stuttering Issues (Tips )</u></a></li>
+<li><a href="https://fox-access.techidaily.com/enhance-your-footage-the-top-15-luts-for-gopro-videos/"><u>Enhance Your Footage The Top 15 LUTs for GoPro Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-create-a-linux-virtual-machine-inside-a-windows-virtual-machine-using-hyper-v/"><u>How to Create a Linux Virtual Machine Inside a Windows Virtual Machine Using Hyper-V</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-stop-windows-from-automatically-locking-itself/"><u>How to Stop Windows From Automatically Locking Itself</u></a></li>
+<li><a href="https://windows11.techidaily.com/leading-the-pack-best-windows-11-for-fps-tracking/"><u>Leading the Pack: Best Windows 11 for FPS Tracking</u></a></li>
+<li><a href="https://games-able.techidaily.com/massive-discount-alert-grab-the-deal-before-labor-day-save-25-on-a-spectacular-85-tcl-television-with-hdmi-ports/"><u>Massive Discount Alert! Grab the Deal Before Labor Day - Save 25% On a Spectacular 85 TCL Television With HDMI Ports!</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-directdraw-repair-techniques-on-the-latest-version-of-windows/"><u>Mastering DirectDraw Repair Techniques on the Latest Version of Windows</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-are-you-wondering-how-to-slow-down-videos-or-speed-them-up-here-are-three-ways-to-do-it-speed-up-or-slow-down-your-videos-on-pc-online-and-phone-for-202/"><u>New Are You Wondering How to Slow Down Videos or Speed Them up, Here Are Three Ways to Do It. Speed up or Slow Down Your Videos on PC, Online, and Phone for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fixes-resetting-and-restoring-search-on-windows-11-settings-ui/"><u>Quick Fixes: Resetting and Restoring Search on Windows 11 Settings UI</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-tutorial-how-to-efficiently-divide-data-using-excels-split-function/"><u>Step-by-Step Tutorial: How to Efficiently Divide Data Using Excel's Split Function</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-adjust-standard-user-permissions-in-windows/"><u>Steps to Adjust Standard User Permissions in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/tactical-plan-to-vanquish-wows-deadly-error-132-in-osxwin/"><u>Tactical Plan to Vanquish WoW's Deadly Error #132 in OSX/Win</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-convert-mts-for-motorola-edgeplus-2023-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Motorola Edge+ (2023)</u></a></li>
+<li><a href="https://windows11.techidaily.com/turbocharge-storage-space-with-win11-defrag-guide/"><u>Turbocharge Storage Space with Win11 Defrag Guide</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Cannot Reach Server Error in Win 10 & 11 for MB
-date: 2024-10-29T22:46:18.327Z
-updated: 2024-11-05T07:51:39.762Z
+date: 2024-11-08T16:50:47.295Z
+updated: 2024-11-15T16:29:45.586Z
 tags:
   - windows10
   - windows11
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/ef0c500c1ff8cdea11d6b2ce7132e969a27a23353
 
 ![The Run this program as an administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-this-program-as-an-administrator-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Check That the Malwarebytes Service Is Enabled and Running
 
  The Malwarebytes Service is needed for the Malwarebytes software to run properly. The "unable to connect the service" error message may occur if this service isn't running. So, check that the Malwarebytes Service is enabled and running as follows:
@@ -62,19 +55,6 @@ thumbnail: https://thmb.techidaily.com/ef0c500c1ff8cdea11d6b2ce7132e969a27a23353
 
 ![The Windows Management Instrumentation service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-management-instrumentation-service.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Repair Malwarebytes With Its Dedicated Support Tool
 
  Malwarebytes has a support tool many users have confirmed has helped them resolve the "unable to connect to service" error. That utility includes a**Repair System** option that could be useful for resolving this issue.
@@ -91,14 +71,21 @@ Here is how you can repair Malwarebytes with its support tool:
 7. Select all four checkboxes for the**Repair System** option.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Press the**Repair System** button.
 9. Restart your PC when prompted.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Run a Malware Scan With Windows Security
 
@@ -109,14 +96,21 @@ Here is how you can repair Malwarebytes with its support tool:
 ![The Scan options navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/scan-options.jpg)
 3. Click the radio button labeled**Full Scan** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Scan now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/scan-now-button.jpg)
 4. Press**Scan now** to start a Microsoft Defender scan.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Reinstall Malwarebytes
@@ -129,17 +123,17 @@ Here is how you can repair Malwarebytes with its support tool:
 ![The Malwarebytes Cleanup dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/malwarebytes-cleanup-dialog.jpg)
 4. Select**OK** to restart the PC.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Click**Yes** in the window that pops up after the restart.
 6. Select**Yes** in the Reinstall Malwarebytes for Windows popup dialog box that opens.
 7. Click the**Personal Computer** option.
 8. Finally, select**Yes** to reinstall Malwarebytes.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Now You Can (Probably) Utilize Malwarebytes
 
@@ -162,20 +156,24 @@ Here is how you can repair Malwarebytes with its support tool:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-convert-tweets-into-audible-format-with-ease/"><u>[New] Convert Tweets Into Audible Format with Ease</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-subtitle-strategies-for-multilingual-instagram-videos/"><u>[Updated] In 2024, Subtitle Strategies for Multilingual Instagram Videos</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-streamlining-the-recording-process-in-virtual-gatherings/"><u>[Updated] Streamlining the Recording Process in Virtual Gatherings</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-resetting-video-issue-for-smooth-windows-use/"><u>Addressing Resetting Video Issue for Smooth Windows Use</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-wwinplusprint-error-on-your-computer-successfully/"><u>Addressing WWin+Print Error on Your Computer Successfully.</u></a></li>
-<li><a href="https://windows11.techidaily.com/bring-life-to-windows-11-desktops-with-interactive-wallpapers/"><u>Bring Life to Windows 11 Desktops with Interactive Wallpapers</u></a></li>
-<li><a href="https://windows11.techidaily.com/covertly-masking-taskbars-language-feature-in-win11/"><u>Covertly Masking Taskbar's Language Feature in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-and-overcoming-the-windows-virtualbox-efail-error/"><u>Decoding and Overcoming the Windows Virtualbox E_FAIL Error</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-fixes-for-realtek-digital-output-ensuring-sound-quality-returns-in-6-easy-steps/"><u>Expert Fixes for Realtek Digital Output: Ensuring Sound Quality Returns in 6 Easy Steps</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-creative-possibilities-free-use-of-dall-e-3-with-microsoft-bing-for-imaginative-content-generation/"><u>Exploring Creative Possibilities: Free Use of DALL-E 3 with Microsoft Bing for Imaginative Content Generation</u></a></li>
-<li><a href="https://win-top.techidaily.com/modern-techniques-in-cell-phone-marketing-and-text-message-campaigns-insights-tools-and-tips-from-massmail-software-revamped-edition-2023/"><u>Modern Techniques in Cell Phone Marketing and Text Message Campaigns: Insights, Tools, and Tips From Massmail Software - Revamped Edition 2023</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719205436965-open-that-locked-handbrake-on-windows-now/"><u>Open That Locked HandBrake on Windows Now!</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/transform-your-broadcasts-streamlabs-with-obs-on-mac/"><u>Transform Your Broadcasts Streamlabs with OBS on Mac</u></a></li>
-<li><a href="https://win-answers.techidaily.com/understanding-wsappx-identifying-the-cause-behind-excessive-memory-and-processor-consumption/"><u>Understanding WSAPPX: Identifying the Cause Behind Excessive Memory & Processor Consumption</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/1728473488568-windows-7/"><u>Windows 7 におけるディレクトリサービス復元モードを使用した再起動手順</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-best-no-cost-voice-altering-app-for-valorant-enthusiasts/"><u>[New] In 2024, Best No-Cost Voice Altering App for Valorant Enthusiasts</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-swift-transition-from-tiktok-creations-to-fb-for-2024/"><u>[New] Swift Transition From TikTok Creations to FB for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/1-crafting-personalized-borders-in-excel-a-step-by-step-guide/"><u>1. Crafting Personalized Borders in Excel: A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/1-seamless-integration-microsoft-office-and-libreoffice-working-together-smoothly/"><u>1. Seamless Integration: Microsoft Office and LibreOffice Working Together Smoothly</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-list-top-10-live-streaming-networks-ranked/"><u>2024 Approved Exclusive List Top 10 Live Streaming Networks Ranked</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-look-at-the-greatest-advances-in-technology-since-1844/"><u>A Look at the Greatest Advances in Technology Since 1844</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/curiosity-sparked-by-ios-alert-deciphering-apples-message-on-your-active-life-and-step-counting/"><u>Curiosity Sparked by iOS Alert: Deciphering Apple's Message on Your Active Life and Step Counting</u></a></li>
+<li><a href="https://windows11.techidaily.com/effective-strategies-for-tracking-edits-and-modifications-in-real-time-with-excel-online/"><u>Effective Strategies for Tracking Edits and Modifications in Real-Time with Excel Online</u></a></li>
+<li><a href="https://windows11.techidaily.com/honesty-required-secure-your-exclusive-50-discount-on-microsoft-365-today/"><u>Honesty Required: Secure Your Exclusive 50% Discount on Microsoft 365 Today!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-mastering-visual-storytelling-live-broadcasts-of-360-videos-on-facebook/"><u>In 2024, Mastering Visual Storytelling Live Broadcasts of 360 Videos on Facebook</u></a></li>
+<li><a href="https://windows11.techidaily.com/no-more-surprises-how-microsoft-excel-stops-forcing-dates-on-you/"><u>No More Surprises: How Microsoft Excel Stops Forcing Dates on You</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/professional-reactaspnet-core-integration-for-ultimate-dashboard-templates-creative-tim-premium-edition/"><u>Professional React/ASP.NET Core Integration for Ultimate Dashboard Templates @ Creative Tim - Premium Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-creating-and-personalizing-your-own-signature-block-in-excel/"><u>Step-by-Step Guide: Creating & Personalizing Your Own Signature Block in Excel</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-generating-word-mailing-labels-using-your-excel-spreadsheet/"><u>Step-by-Step Guide: Generating Word Mailing Labels Using Your Excel Spreadsheet</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-tutorial-on-leveraging-sumif-in-excel-techniques-and-strategies-for-effective-data-analysis/"><u>The Ultimate Tutorial on Leveraging SUMIF in Excel: Techniques and Strategies for Effective Data Analysis</u></a></li>
+<li><a href="https://windows11.techidaily.com/transform-your-productivity-microsoft-office-suite-available-in-immersive-quest-vr-experience/"><u>Transform Your Productivity: Microsoft Office Suite Available in Immersive Quest VR Experience!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-and-stop-chrome-from-locking-up-in-windows-11-quickly/"><u>Troubleshoot and Stop Chrome From Locking Up in Windows 11 Quickly</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-to-choosing-a-portable-battery-pack-spotlight-on-halo-bolt-product/"><u>Ultimate Guide to Choosing a Portable Battery Pack: Spotlight on Halo Bolt Product</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On HTC U23 Pro? | Dr.fone</u></a></li>
 </ul></div>
 

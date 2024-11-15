@@ -1,7 +1,7 @@
 ---
 title: "Time Traveling Your Data: Modifying Windows File Dates"
-date: 2024-10-30T08:27:19.918Z
-updated: 2024-11-05T01:21:27.858Z
+date: 2024-11-13T16:17:48.428Z
+updated: 2024-11-15T17:36:59.137Z
 tags:
   - windows10
   - windows11
@@ -96,34 +96,34 @@ $(Get-Item File-Name).lastwritetime=$(Get-Date "mm/dd/yyyy")`
 2. Once the application opens, check the box beside **Modify date and time stamps** to make the date field editable.
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Change the date and time when a file was first created and the last time you accessed or modified it according to your preference.  
 ![changing the attributes of a file from the atribute changer app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/changing-the-attributes-of-a-file-from-the-atribute-changer-app.jpg)
 4. Once you've made your changes, click **Apply** to make them permanent.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Click **Yes** in the confirmation pop-up, and the file attributes will be changed successfully.
 
  In the same way that we changed the attributes of a file, you can also change the attributes of a folder using Attribute Changer.
 
  Using third-party tools to modify attributes requires you to grant apps permission to access the file. Therefore, if the documents you want to modify the dates for are confidential, don't use third-party apps to change the attributes; instead, use the official methods offered by Windows.
+
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Remove Other File Attributes Using File Explorer
 
@@ -137,10 +137,10 @@ $(Get-Item File-Name).lastwritetime=$(Get-Date "mm/dd/yyyy")`
 5. To remove all possible properties automatically, check the circle beside **Create a copy with all possible properties removed**. This will create a duplicate of the file at the exact location after deleting all possible attributes.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Removing possible file attributes in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/removing-possible-file-attributes-in-file-explorer.jpg)
@@ -166,17 +166,20 @@ $(Get-Item File-Name).lastwritetime=$(Get-Date "mm/dd/yyyy")`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-a-decade-of-dreamy-vacation-flicks-top-10-titles/"><u>[New] A Decade of Dreamy Vacation Flicks Top 10 Titles</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-muting-the-youtube-video-peek-mechanism/"><u>[New] Muting the YouTube Video Peek Mechanism</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-push-boundaries-expert-advice-on-snapchat-zooms/"><u>2024 Approved Push Boundaries Expert Advice on Snapchat Zooms</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-blank-display-in-windows-remoting-services/"><u>Addressing Blank Display in Windows Remoting Services</u></a></li>
-<li><a href="https://windows11.techidaily.com/banishing-glitches-fix-windows-11-screen-flash/"><u>Banishing Glitches: Fix Windows 11 Screen Flash</u></a></li>
-<li><a href="https://windows11.techidaily.com/eliminating-restricted-settings-due-to-user-level-administrator-controls/"><u>Eliminating Restricted Settings Due to User-Level Administrator Controls</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-to-fix-a-non-responsive-xbox-app-on-windows-11-update-troubles/"><u>How to Fix a Non-Responsive Xbox App on Windows 11 - Update Troubles</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-use-the-windows-11-device-manager-to-update-your-drivers/"><u>How to Use the Windows 11 Device Manager to Update Your Drivers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-battery-life-with-apple-watchs-low-power-mode-a-guide-for-optimal-performance-discover-how-at-zdnet/"><u>Mastering Battery Life with Apple Watch's Low Power Mode - A Guide for Optimal Performance | Discover How at ZDNET</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/persistent-adware-understanding-its-recurrence-and-how-to-prevent-it/"><u>Persistent Adware: Understanding Its Recurrence and How to Prevent It</u></a></li>
-<li><a href="https://windows11.techidaily.com/seamless-integration-windows-pc-plus-galaxy-via-samsung-flow/"><u>Seamless Integration: Windows PC + Galaxy via Samsung Flow</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/successfully-solving-astro-a40-microphone-issues-step-by-step-guide/"><u>Successfully Solving Astro A40 Microphone Issues - Step-by-Step Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-keeping-content-copyright-compliant-with-instra-watermarking-for-2024/"><u>[New] Keeping Content Copyright-Compliant with Instra Watermarking for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-investment-guidelines-for-effective-youtube-campaigns/"><u>[Updated] 2024 Approved Investment Guidelines for Effective YouTube Campaigns</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-premier-virtual-classrooms-a-selection-without-udemy/"><u>[Updated] Premier Virtual Classrooms A Selection without Udemy</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/omic-hold-techniques-for-clarity-for-2024/"><u>Ergonomic Hold Techniques for Clarity for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-unfreeze-google-chrome-in-windows-11-fastly-find-out-now/"><u>How to Unfreeze Google Chrome in Windows 11 Fastly? Find Out Now!</u></a></li>
+<li><a href="https://windows11.techidaily.com/identifying-your-device-top-6-windows-pc-model-names/"><u>Identifying Your Device: Top 6 Windows PC Model Names</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-enhancing-video-quality-on-youtube/"><u>In 2024, Enhancing Video Quality on YouTube</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-guide-to-lenovos-screen-recording-process/"><u>In 2024, Guide to Lenovo's Screen Recording Process</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/insights-on-mohu-blade-television-antenna-exceptional-interior-functionality-and-standout-design/"><u>Insights on Mohu Blade Television Antenna: Exceptional Interior Functionality & Standout Design</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-non-operational-windows-programs-with-7-strategies/"><u>Navigating Non-Operational Windows Programs with 7 Strategies</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-text-pasting-in-powertoys-quickly/"><u>Navigating Text Pasting in PowerToys Quickly</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/al-strategies-for-editing-and-upgrading-youtube-profiles/"><u>Optimal Strategies for Editing and Upgrading YouTube Profiles</u></a></li>
+<li><a href="https://windows11.techidaily.com/reclaim-lost-boot-prompts-uefi-fixes/"><u>Reclaim Lost Boot Prompts: UEFI Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/transformative-ways-to-customize-windows-11-ui/"><u>Transformative Ways to Customize Windows 11 UI</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleash-potential-understanding-function-fn-key-operations/"><u>Unleash Potential: Understanding Function (Fn) Key Operations</u></a></li>
 </ul></div>
 

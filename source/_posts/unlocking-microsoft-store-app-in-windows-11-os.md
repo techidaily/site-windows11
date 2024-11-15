@@ -1,7 +1,7 @@
 ---
 title: Unlocking Microsoft Store App in Windows 11 OS
-date: 2024-08-22T21:42:14.424Z
-updated: 2024-08-23T21:42:14.424Z
+date: 2024-11-10T16:07:15.698Z
+updated: 2024-11-15T16:17:22.933Z
 tags:
   - windows10
   - windows11
@@ -36,16 +36,17 @@ thumbnail: https://thmb.techidaily.com/a830d2a24e442aebcbf388f14e166b1639967eaf0
 
  But if this didn’t fix the problem, move on to the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Reset Microsoft Store
 
  You might be dealing with restricted actions in Microsoft Store due to outdated or corrupted cache files. Fortunately, there are multiple[ways to reset Microsoft Store](https://www.makeuseof.com/windows-10-11-reset-microsoft-store/) and fix the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. Edit the Group Policy
 
  You may get the “Microsoft Store is blocked” error if it has been disabled through Group Policy. However, you can enable it by going through the below steps:
@@ -60,11 +61,25 @@ thumbnail: https://thmb.techidaily.com/a830d2a24e442aebcbf388f14e166b1639967eaf0
 ![Disabling or Enabling the Microsoft Store using the LGPE](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Disabling-or-Enabling-the-Microsoft-Store-using-the-LGPE.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5\. Check Registry Editor
 
  If you’re using Windows Home, there’s a chance the Group Policy is missing on your computer. However, you can edit the Registry to unblock the Microsoft Store.
@@ -76,23 +91,21 @@ thumbnail: https://thmb.techidaily.com/a830d2a24e442aebcbf388f14e166b1639967eaf0
 ![Clicking the “RemoveWindowsStore” value in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Clicking-the-“RemoveWindowsStore”-value-in-the-Registry-Editor.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## Unblock the Microsoft Store on Windows
 
  Hopefully, you’ve unblocked the Microsoft Store and can now install new apps on your computer. While it’s usually overlooked, there are a lot of useful apps that you can get for free through the store.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -101,4 +114,20 @@ thumbnail: https://thmb.techidaily.com/a830d2a24e442aebcbf388f14e166b1639967eaf0
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-video-hub-usability-and-quality-audit-for-2024/"><u>[New] Video Hub Usability & Quality Audit for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-insights-cutting-edge-chroma-techniques-for-kinemaster/"><u>[Updated] Expert Insights Cutting-Edge Chroma Techniques for KineMaster</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-streamlining-song-selection-for-youtube-playlist-curation/"><u>[Updated] Streamlining Song Selection for YouTube Playlist Curation</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-maximize-your-device-choose-from-the-7-best-android-adblockers/"><u>2024 Approved Maximize Your Device Choose From the 7 Best Android AdBlockers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-your-lava-blaze-2-lock-screen-password-by-drfone-android/"><u>How to Reset your Lava Blaze 2 Lock Screen Password</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/link-sounds-to-visual-elements-in-ppt/"><u>Link Sounds to Visual Elements in PPT</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-to-counteract-windows-11-error-x80049dd3/"><u>Step-by-Step Guide to Counteract Windows 11 Error X80049DD3</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-windows-store-trouble-fix-for-error-x80072f17/"><u>Tackling Windows Store Trouble: Fix for Error X80072F17</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-secret-tips-for-accessing-win11s-credential-vault-in-under-a-minute/"><u>Top Secret Tips for Accessing Win11's Credential Vault in Under a Minute</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleash-the-power-of-your-digital-brush-on-windows-11-with-paint-cocreator-for-ai-artistry/"><u>Unleash the Power of Your Digital Brush on Windows 11 with Paint Cocreator for AI Artistry</u></a></li>
+<li><a href="https://windows11.techidaily.com/what-lies-behind-the-numbers-in-windows-updates/"><u>What Lies Behind the Numbers in Windows Updates?</u></a></li>
+<li><a href="https://windows11.techidaily.com/windowing-ways-to-keep-notes-above-the-rest/"><u>Windowing Ways to Keep Notes Above the Rest</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-mastery-integrating-custom-directories-into-menus/"><u>Windows 11 Mastery: Integrating Custom Directories Into Menus</u></a></li>
+</ul></div>
 

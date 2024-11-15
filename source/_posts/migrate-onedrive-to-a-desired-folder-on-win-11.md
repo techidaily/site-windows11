@@ -1,7 +1,7 @@
 ---
 title: Migrate OneDrive to a Desired Folder on Win 11
-date: 2024-11-02T03:31:42.721Z
-updated: 2024-11-05T08:37:03.548Z
+date: 2024-11-12T16:42:14.120Z
+updated: 2024-11-15T17:21:20.999Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,19 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 
  If you’re new to the concept, check out our articles on[what OneDrive is](https://www.makeuseof.com/what-is-onedrive/) and[why you should use it](https://www.makeuseof.com/microsoft-onedrive-personal-benefits/) .
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Unlinking OneDrive
 
  The first thing to do is to[unlink your OneDrive folder from your Microsoft account](https://www.makeuseof.com/unlink-onedrive-microsoft-account-windows/) so that files on the cloud no longer sync to their current location.
@@ -38,10 +51,10 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
  Once you’ve done this, you will be presented with a window to set up OneDrive. Leave this open for the moment. You will need to revisit it once you’ve moved your OneDrive folder to a different location on your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Moving Your OneDrive Folder
@@ -54,27 +67,20 @@ With that done, you can now relocate your OneDrive folder.
 ![Moving Your OneDrive folder on your PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/01-move-onedrive-folder.jpg)
 4. From the drop-down that appears, click on the**Choose location** option.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Move your OneDrive folder to new location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/02-move-onedrive-folder-to-location.jpg)
 5. A pop-up will appear. Browse to the location you want your new OneDrive folder to reside, and click on the**Move** button on the bottom of the pop-up.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Move OneDrive folder to a new location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/03-choose-new-local-onedrive-location.jpg)
 6. Windows will start to move your OneDrive folder and all of its contents to the new location you’ve selected. This may take a while depending on the size of the folder.
 
  That’s it! You’ve moved your OneDrive folder to a new location on your Windows PC.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Re-Linking OneDrive
 
@@ -86,16 +92,16 @@ With that done, you can now relocate your OneDrive folder.
 ![Change where OneDrive syncs your files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/04-change-onedrive-location.jpg)
 4. Then browse to the new location where you moved your OneDrive folder on your PC, and click on the**Select Folder** button.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. You’ll be presented with a warning screen, telling you that files already exist in this folder. Click on the**Use this folder** button.  
 ![Choose where OneDrive saves files on your PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/07-choose-onedrive-location.jpg)
 6. Verify that the location you’ve selected is the correct one, and click on**Next** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 7. You’ll be presented with a welcome screen. Scroll through it and close the setup window.
 
@@ -122,20 +128,18 @@ With that done, you can now relocate your OneDrive folder.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-comparing-huawei-p10-with-industry-standards-of-smartphones/"><u>[New] Comparing Huawei P10 with Industry Standards of Smartphones</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-vanguard-enterprises-of-spatial-display-tech/"><u>[Updated] 2024 Approved Vanguard Enterprises of Spatial Display Tech</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/7-essentielle-strategien-zur-defektbehebung-von-usb-sticks-keine-datenbeschadigung/"><u>7 Essentielle Strategien Zur Defektbehebung Von USB-Sticks - Keine Datenbeschädigung!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/a-tale-of-three-ais-facing-the-same-crafted-prompts/"><u>A Tale of Three AI's Facing the Same Crafted Prompts</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-windows-11-unable-to-load-driver-errors/"><u>Addressing Windows 11: Unable to Load Driver Errors</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-turn-off-chrome-prompts-windows-users/"><u>How to Turn Off Chrome Prompts Windows Users</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Nubia Red Magic 9 Pro+? | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-navigate-the-world-of-instagram-videos-for-maximum-impact/"><u>In 2024, Navigate the World of Instagram Videos for Maximum Impact</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-printer-sharing-challenges-in-windows/"><u>Navigating Printer Sharing Challenges in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-to-resolve-winerror-0x8007043c/"><u>Navigating to Resolve WinError 0X8007043C</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-most-of-your-mobile-devices-malfunctions-with-this-one-minute-tech-tip/"><u>Solve Most of Your Mobile Device's Malfunctions with This One-Minute Tech Tip</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-effortlessly-switch-between-windows-terminal-focus-and-normal-states/"><u>Steps to Effortlessly Switch Between Windows Terminal Focus and Normal States</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-your-windows-11-program-choices/"><u>Streamlining Your Windows 11 Program Choices</u></a></li>
-<li><a href="https://windows11.techidaily.com/supercharge-performance-conquering-windows-lag-issues/"><u>Supercharge Performance: Conquering Windows Lag Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/win11-image-camouflage-techniques-for-zip-files/"><u>Win11 Image Camouflage Techniques for ZIP Files</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-live-footage-at-its-best-gamers-recording-tips/"><u>[Updated] Live Footage at Its Best Gamers' Recording Tips</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-the-world-of-windows-11-backdrop-choices/"><u>2024 Approved Navigating the World of Windows 11 Backdrop Choices</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-vivo-s18-pro-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Vivo S18 Pro? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/effortlessly-insert-logos-or-watermarks-into-videos-a-comprehensive-tutorial-for-pc-and-mac-users/"><u>Effortlessly Insert Logos or Watermarks Into Videos - A Comprehensive Tutorial for PC and Mac Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/expedite-foreign-speech-hotkey-mastery-for-windows-language-switching/"><u>Expedite Foreign Speech: Hotkey Mastery for Windows Language Switching</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-iphone-12-pro-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your iPhone 12 Pro When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-troubleshoot-apex-legends-crashing-on-windows-11/"><u>How to Troubleshoot Apex Legends Crashing on Windows 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-se-without-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone SE Without Passcode?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Infinix Hot 40 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/react-material-kit-complimentary-material-ui-themed-user-interface-collection-by-creative-tim/"><u>React Material Kit: Complimentary Material-UI Themed User Interface Collection by Creative Tim</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-default-settings-for-system-backups-in-windows/"><u>Restoring Default Settings for System Backups in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/taming-technology-troubles-fixing-absentee-tab-functionality/"><u>Taming Technology Troubles: Fixing Absentee Tab Functionality</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/the-ultimate-color-matching-guide-for-powerdirector-users/"><u>The Ultimate Color Matching Guide for PowerDirector Users</u></a></li>
 </ul></div>
 

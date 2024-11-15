@@ -1,7 +1,7 @@
 ---
 title: Maximize Space and Speed with These 5 Win Folders Methods
-date: 2024-08-22T21:42:45.504Z
-updated: 2024-08-23T21:42:45.504Z
+date: 2024-11-12T16:02:17.799Z
+updated: 2024-11-15T17:03:33.035Z
 tags:
   - windows10
   - windows11
@@ -56,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 
  This way, you can name several folders together—quickly and easily.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Duplicate a Folder Window
 
  This simple tip will save time and enhance your efficiency.
@@ -64,14 +71,8 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 
 ![Duplicate Folder Window Created](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/duplicate-folder-window.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now with two folder windows, you can move and navigate easily between subfolders and files.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Change Folder Size With the Mouse
 
  You'll find this tip handy if you use a desktop PC with a mouse or a mouse with your laptop.
@@ -90,37 +91,44 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 3. Then click **Options** and then **Change folder and search options**.  
 ![Select Change Folder and Search Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/change-folder-options-file-explorer.jpg)
 4. In **Folder Options**, select the **View** tab.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 5. Under **Advanced settings**, turn on the option to **Show hidden files, folders, and drives**. Then click **OK**.  
 ![Select Show Hidden Files, Folders, and Drives](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/select-show-hidden-folders.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  On Windows 11 and new Windows 10 versions, click the **View** tab in **File Explorer**.
 
 ![Hidden Items Checkbox Ticked in View Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/tick-hidden-items-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Then tick the checkbox next to **Hidden items** to make the hidden files and folders visible. You can then access the folders you are looking for.
 
  You can also explore [many other folder options in File Explorer](https://www.makeuseof.com/windows-folder-options-guide/) and learn how to enable them to suit your needs.
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Use and Enjoy These Folder Tips and Tricks
 
  You'll find the folder tips and tricks explained above simple and easy—you'll enjoy using them. Try them to save time, work smarter, and elevate your Windows experience.
 
  Surely you'd like to know ways to make working with folders easier and better. So here are a few quick folder tips and tricks that make things easy and fun.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -128,3 +136,25 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-leaders-of-the-digital-age-videoaudio-innovators-index/"><u>[New] In 2024, Leaders of the Digital Age Video/Audio Innovators Index</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/1716069086370-new-in-2024-next-gen-online-meeting-apps-azoom-no-more/"><u>[New] In 2024, Next-Gen Online Meeting Apps Azoom No More!</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-maximizing-4k-imaging-top-lens-choices/"><u>[New] Maximizing 4K Imaging Top Lens Choices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-steps-for-writing-engaging-video-blogging-content-for-2024/"><u>[New] Steps for Writing Engaging Video Blogging Content for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-fast-forward-your-twitch-experience-for-2024/"><u>[Updated] Fast-Forward Your Twitch Experience for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-advanced-methods-for-fisheye-imaging-excellence/"><u>2024 Approved Advanced Methods for Fisheye Imaging Excellence</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-unblock-chrome-from-firewall-settings-on-windows-1011/"><u>How to Unblock Chrome From Firewall Settings on Windows 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/integrating-microsofts-pc-manager-into-windows-11/"><u>Integrating Microsoft's PC Manager Into Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/keyboard-tricks-for-immediate-translation-on-modern-windows-os/"><u>Keyboard Tricks for Immediate Translation on Modern Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/launching-linux-virtualization-effortlessly-within-hyper-v-windows/"><u>Launching Linux Virtualization Effortlessly Within Hyper-V Windows</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/maximize-your-youtube-srt-a-three-pronged-plan/"><u>Maximize Your Youtube SRT A Three-Pronged Plan</u></a></li>
+<li><a href="https://windows11.techidaily.com/post-cortana-windows-the-next-4-interfaces/"><u>Post-Cortana Windows: The Next 4 Interfaces</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-display-hiccup-with-windows-11-and-nvidia/"><u>Resolving Display Hiccup with Windows 11 & Nvidia</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/reviewing-the-fusion-of-sleek-design-and-dynamic-power-on-the-apple-215-4k-imac/"><u>Reviewing the Fusion of Sleek Design and Dynamic Power on the Apple 21.5 4K iMac</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Vivo Y56 5G? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-fall-guys-disconnect-issues-in-windows/"><u>Troubleshooting Fall Guys Disconnect Issues in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-generation-gauge-guide/"><u>Windows Generation Gauge Guide</u></a></li>
+</ul></div>
+

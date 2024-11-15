@@ -1,7 +1,7 @@
 ---
 title: "Windows 11: Bridging Gaps Between PC and Phone"
-date: 2024-08-27T16:02:12.800Z
-updated: 2024-08-28T16:02:12.800Z
+date: 2024-11-14T16:21:54.339Z
+updated: 2024-11-15T16:26:57.332Z
 tags:
   - windows10
   - windows11
@@ -30,31 +30,29 @@ thumbnail: https://thmb.techidaily.com/33bb4081d4eeefa2b002761f140e6d8a1ab23c4b8
 
  However, after spending significant time using Phone Link, you might realize the app is missing some key features. Here are some areas we think it could be improved.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. The Ability to Forward Text Messages
 
  One of the major offerings of the Phone Link is that it allows you to receive and send text messages from your PC. This eliminates the need to reach your phone to see if you received any text messages while working on your PC.
 
  However, Microsoft can take the messaging experience of Phone Link to the next level by adding more capabilities. For one, it can add the ability to forward a text message right from the Phone Link app, just like how easily it can be done on phones.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. A Password Protection Feature for the Phone Link App
 
  The Phone Link app can display your private photos, text messages, and apps that you use. And if you are sharing the login information with someone else and your phone gets automatically connected to your PC, all the personal photos and text messages will be a click away.
 
  Microsoft should allow users to lock the app when necessary to prevent anyone from accessing their photos and text messages via the Phone Link. You can [password-protect a folder on Windows 11](https://www.makeuseof.com/windows-11-password-protect-folder/), but the same privilege is not available for apps.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. The Photo Sharing Feature on Phone Link Could Be Improved
 
 ![Screenshot showing the ability to copy image in Phone Link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/copy-image-edit.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can copy and share your phone photos via the Phone Link app on your PC. However, the sharing experience is pretty basic in the app. For example, you can not select multiple photos and copy or share them.
 
  If you need to copy or share multiple photos at once quickly, it is better to reach your phone rather than use the Phone Link app for it. This is because it will take some time to send them by copying or sharing each photo one by one.
@@ -70,8 +68,12 @@ thumbnail: https://thmb.techidaily.com/33bb4081d4eeefa2b002761f140e6d8a1ab23c4b8
  Instead of needing to hover the mouse cursor over the message to see the time it was received, we should be able to see the time right after the message ends, just like on the messaging app on your mobile phone. This way, it would be much more straightforward.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5\. The Ability to Delete Messages
 
  Since Microsoft has a high ambition with Phone Link, the messaging experience should not be limited to sending and receiving text messages. If you think the messages received are not worth keeping in your inbox, you should be able to delete them from your PC via the Phone Link app.
@@ -80,9 +82,6 @@ thumbnail: https://thmb.techidaily.com/33bb4081d4eeefa2b002761f140e6d8a1ab23c4b8
 
  Apart from being able to delete individual text messages, Microsoft should also introduce functionality to delete multiple messages simultaneously. This will save even more time, as the ability to bulk delete eliminates the need to delete them individually.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## 6\. A More Robust Copy and Paste Experience
 
  Phone Link app allows copy and paste between your phone and PC. You can copy and paste text and images between the devices. However, when you copy an image of more than 1 MB, Phone Link will automatically resize it when you paste it.
@@ -90,13 +89,24 @@ thumbnail: https://thmb.techidaily.com/33bb4081d4eeefa2b002761f140e6d8a1ab23c4b8
  Microsoft should address this issue by allowing users to keep the image quality intact. Another missing feature it can add to Phone Link is the ability to copy and paste link addresses between phone and PC.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 7\. Added Support for More Devices
 
  Microsoft recommends installing the latest version of Windows, Android, and iOS on your devices for Phone Link to work best. The minimum requirement is this: Windows 10 with the May 2019 Update or later, or Windows 11, Android 7.0, iOS 14 on iPhone. However, not every phone Link feature will work even if you are running the latest version of Windows, Android, or iOS.
 
  Features such as the ability to run phone apps on your PC via Phone Link, Phone screen, and RCS messaging are limited to select Samsung, Surface Duo, and HONOR handsets. Microsoft should make these capabilities available to more devices with lower specifications.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Microsoft Needs to Do More With Phone Link
 
@@ -104,11 +114,25 @@ thumbnail: https://thmb.techidaily.com/33bb4081d4eeefa2b002761f140e6d8a1ab23c4b8
 
  In this article, we are suggesting some features and improvements to existing functionalities in Phone Link to alleviate the overall experience. But before that, here is a brief introduction about what the Phone Link can do.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-tinyvid-recorder-examination-and-reviews/"><u>[New] TinyVid Recorder Examination & Reviews</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-functionality-and-visual-impact-of-win11-taskbar-icons/"><u>Boosting Functionality & Visual Impact of Win11 Taskbar Icons</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-techniques-overcoming-wwe-2k23-crash-issues-in-windows/"><u>Efficient Techniques: Overcoming WWE 2K23 Crash Issues in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-your-windows-experience-with-tpm-and-secure-boot-setup/"><u>Elevate Your Windows Experience with TPM & Secure Boot Setup</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-hexadecimal-errors-the-zeroxc000003e-guide/"><u>Eliminating Hexadecimal Errors: The ZeroXC000003E Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/enabling-end-task-feature-for-optimized-window-management-in-windows-11-ui/"><u>Enabling End Task Feature for Optimized Window Management in Windows 11 UI</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-virtual-machine-speed-in-windows-a-6-step-guide/"><u>Enhance Virtual Machine Speed in Windows - A 6-Step Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-x50-phone-without-google-account-by-drfone-android/"><u>How to Unlock Honor X50 Phone without Google Account?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/perfecting-artificial-intelligence-choose-the-best-5-tools/"><u>Perfecting Artificial Intelligence: Choose the Best 5 Tools</u></a></li>
+<li><a href="https://video-capture.techidaily.com/unlimited-realms-top-10-no-cost-roleplaying-worlds-for-2024/"><u>Unlimited Realms Top 10 No-Cost Roleplaying Worlds for 2024</u></a></li>
+</ul></div>
+

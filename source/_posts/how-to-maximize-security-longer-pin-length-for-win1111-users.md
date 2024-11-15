@@ -1,7 +1,7 @@
 ---
 title: "How to Maximize Security: Longer PIN Length for Win11/11 Users"
-date: 2024-11-02T20:33:21.310Z
-updated: 2024-11-05T05:59:32.535Z
+date: 2024-11-10T17:36:05.967Z
+updated: 2024-11-15T16:38:13.170Z
 tags:
   - windows10
   - windows11
@@ -63,16 +63,10 @@ thumbnail: https://thmb.techidaily.com/4599f50b602c6cf6fd2e770298cbc820ac519a960
  If you’ve not set a Windows Hello PIN before, you can do so via Settings. Our guide to [setting a PIN in Windows](https://www.makeuseof.com/setup-remove-pin-windows-11/) includes instructions for how to do so. Your PIN must have the minimum number of characters set with the **PINComplexity** registry key.
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Extend the PIN Length With Group Policy Editor
@@ -86,28 +80,21 @@ thumbnail: https://thmb.techidaily.com/4599f50b602c6cf6fd2e770298cbc820ac519a960
 ![Administrative Templates in Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/administrative-templates.jpg)
 5. Then click the arrow by **System** and select **PIN Complexity**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Double-click on the **Minimum PIN Length** policy.  
 ![The PIN Complexity policy settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/pin-complexity.jpg)
 2. Click the **Enabled** radio button to activate a **Minimum PIN Length** box.
 
 <!-- affiliate ads begin -->
-<span id="1983575">
+<span id="1983472">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Then input a higher value in the **Minimum PIN Length** box.  
@@ -115,14 +102,21 @@ thumbnail: https://thmb.techidaily.com/4599f50b602c6cf6fd2e770298cbc820ac519a960
 4. Select **Apply** and **OK** to set the new PIN length policy.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. You can also set a max PIN length much the same by clicking the **Maximum PIN Length** policy, selecting **Enabled**, and inputting a new value. Then click on **Apply** and **OK** within the Maximum PIN length window.  
 ![The Maximum PIN Length policy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/maximum-pin-length-policy.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Extend Your Windows PIN to Make It More Secure
 
@@ -142,19 +136,20 @@ thumbnail: https://thmb.techidaily.com/4599f50b602c6cf6fd2e770298cbc820ac519a960
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-mastering-zoom-establishing-a-top-tier-video-conferencing-space/"><u>[New] 2024 Approved Mastering Zoom Establishing a Top-Tier Video Conferencing Space</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-ultimate-moment-in-vr-infinity-for-2024/"><u>[New] Ultimate Moment in VR Infinity for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-jokecrafters-generate-smiles-app/"><u>[Updated] JokeCrafters Generate Smiles (App)</u></a></li>
-<li><a href="https://article-files.techidaily.com/building-dynamic-photographic-ensembles/"><u>Building Dynamic Photographic Ensembles</u></a></li>
-<li><a href="https://windows11.techidaily.com/deciphering-the-role-of-copilot-key-in-your-windows-11-pc/"><u>Deciphering the Role of Copilot Key in Your Windows 11 PC</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/dissecting-machine-might-strong-vs-weak-ai/"><u>Dissecting Machine Might: Strong Vs. Weak AI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/find-the-ultimate-tablets-at-rock-bottom-prices-during-amazons-202n-prime-day-hot-deals-curated/"><u>Find the Ultimate Tablets at Rock-Bottom Prices During Amazon's 202N Prime Day - Hot Deals Curated</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-xiaomi-13-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Xiaomi 13 Ultra | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Honor 90 Pro? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-depth-look-at-adobes-cloud-and-comparable-services-for-2024/"><u>In-Depth Look at Adobe's Cloud & Comparable Services for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-windows-1011-a-workshop-for-custom-pattern-crafting/"><u>Navigating Windows 10/11: A Workshop for Custom Pattern Crafting</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigational-aid-embracing-apple-maps-in-windows-systems/"><u>Navigational Aid: Embracing Apple Maps in Windows Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-your-ctrl-commands-full-potential-on-windows-11/"><u>Unlocking Your Ctrl Command's Full Potential on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-smart-unlock-hacked-is-it-safe-to-use/"><u>Windows Smart Unlock Hacked – Is It Safe to Use?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-infuse-your-slides-with-clear-voice-communication/"><u>[Updated] 2024 Approved Infuse Your Slides with Clear Voice Communication</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-essential-racing-games-the-ultimate-5-list/"><u>[Updated] In 2024, Essential Racing Games The Ultimate 5-List</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-step-by-step-guide-to-creating-breathtaking-tile-art-for-2024/"><u>[Updated] Step-by-Step Guide to Creating Breathtaking Tile Art for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/get-your-printer-back-online-solving-has-stopped-working-issues-in-32-bit-drivers/"><u>Get Your Printer Back Online: Solving 'Has Stopped Working' Issues in 32-Bit Drivers</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-correct-over-saturated-colors-on-laptops/"><u>How to Correct Over-Saturated Colors on Laptops</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-lava-blaze-curve-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Lava Blaze Curve 5G FRP Bypass</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-w11s-auto-hdr-a-step-by-step-guide/"><u>Mastering W11's Auto HDR: A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-based-qbittorrent-halt-problems/"><u>Overcoming Windows-Based qBittorrent Halt Problems</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-accessibility-for-non-starting-store-programs/"><u>Restoring Accessibility for Non-Starting Store Programs</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-original-touchscreen-layout-on-windows-11/"><u>Restoring Original Touchscreen Layout on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/sharpen-your-pc-queries-with-everythingapp/"><u>Sharpen Your PC Queries with EverythingApp</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-aesthetic-edge-crafting-podcast-logos-with-panache-for-2024/"><u>The Aesthetic Edge Crafting Podcast Logos with Panache for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-nokia-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Nokia</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/ye-olde-seafaring-slang-a-pirates-vocabulary-list/"><u>Ye Olde Seafaring Slang: A Pirate’s Vocabulary List</u></a></li>
 </ul></div>
 

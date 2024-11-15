@@ -1,7 +1,7 @@
 ---
 title: Fixing Reference Mistake for Token in Windows 10/11
-date: 2024-10-31T03:27:39.076Z
-updated: 2024-11-05T08:38:29.306Z
+date: 2024-11-10T16:36:20.262Z
+updated: 2024-11-15T17:37:58.958Z
 tags:
   - windows10
   - windows11
@@ -41,6 +41,19 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 ![The Create new task window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/create-new-task.jpg)
 8. Select **Create this task with administrative privileges** and click **OK** to restart Explorer.
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Reregister Windows DLL Files
 
  Users who’ve needed to fix the “reference a token” error have confirmed reregistering the Windows DLL (Dynamic Link Library) files works. That highlights the token reference error can occur because some Windows DLL files aren’t correctly registered. This is how you can reregister Windows DLL files:
@@ -54,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 5. Wait for the command to finish reregistering DLLs.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Close your Command Prompt app, bring up the Start menu, and select **Restart**.
@@ -65,13 +78,6 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 ## 3\. Try Some More Generic Windows Fixes
 
  If nothing has worked, try these Windows fixes that can fix a wide variety of errors, including this one.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Scan and Repair System Files With SFC
 
@@ -90,13 +96,6 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 
  If that option is grayed out, you can also try restoring the previous Windows build from the **Advanced options** menu. Open recovery options in Settings as outlined in steps one and two above and click **Restart** **now**. Then select **Troubleshoot** \> **Advanced** options and the **Go back** **to previous build** option if available.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Go Back to a Previous Restore Point
 
  System Restore is another tool that can resolve system file issues causing the “reference a token” error, but only if you have that utility enabled on your PC. If there’s a suitable restore point on your PC, you can roll back Windows to a previous point in time that predates the token reference error. Doing so might undo updates and other system changes that triggered the issue.
@@ -104,13 +103,20 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 ![The System Restore tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/system-restore-point.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To apply this resolution, check out our [article about creating and utilizing restore points](https://www.makeuseof.com/windows-11-create-restore-point/). Choose a restore point that will roll Windows back to when you didn’t need to fix the token reference error. However, note that a system restore point will remove software packages installed after its date.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Reset Windows
 
@@ -132,19 +138,18 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-snap-your-world-how-to-watch-360-videos-on-android/"><u>[Updated] 2024 Approved Snap Your World How to Watch 360 Videos on Android</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-blending-audio-and-visuals-in-a-trailer/"><u>2024 Approved The Art of Blending Audio and Visuals in a Trailer</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ai-assistant-copilot-and-its-role-in-streamlining-microsoft-teams-user-experience/"><u>AI Assistant Copilot and Its Role in Streamlining Microsoft Teams User Experience</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoiding-unnoticed-use-of-your-pcs-cam-on-windows-11/"><u>Avoiding Unnoticed Use of Your PC's Cam on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-another-program-uses-device-in-windows-sound-system/"><u>Correcting 'Another Program Uses Device' In Windows Sound System</u></a></li>
-<li><a href="https://windows11.techidaily.com/cutting-edge-tips-for-individualized-pattern-security-on-windows/"><u>Cutting-Edge Tips for Individualized Pattern Security on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/dazzling-holiday-windows-a-celebration-of-joy-and-light/"><u>Dazzling Holiday Windows: A Celebration of Joy & Light</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-and-fixing-error-0x80040610-in-microsoft-office-suite/"><u>Decoding and Fixing Error 0X80040610 in Microsoft Office Suite</u></a></li>
-<li><a href="https://extra-information.techidaily.com/dive-into-downloaded-subtitles-unlocking-youtubes-srt-files-with-a-trifecta-of-strategies/"><u>Dive Into Downloaded Subtitles Unlocking YouTube's SRT Files with a Trifecta of Strategies</u></a></li>
-<li><a href="https://fox-http.techidaily.com/newbies-pathway-to-stunning-photo-edits-in-ps/"><u>Newbie's Pathway to Stunning Photo Edits in PS</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719340671976-run-a-zero-cost-locally-accessible-gpt-on-your-pc-use-gpt4all/"><u>Run a Zero-Cost, Locally Accessible GPT on Your PC – Use GPT4All</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/step-by-step-tutorial-blocking-intrusive-prompts-and-endorsements-in-windows-11-environment/"><u>Step-by-Step Tutorial: Blocking Intrusive Prompts and Endorsements in Windows 11 Environment</u></a></li>
-<li><a href="https://blog-min.techidaily.com/the-ultimate-guide-transforming-your-dvd-collection-into-mp4-files-on-pc-and-mac-discover-the-easiest-techniques/"><u>The Ultimate Guide: Transforming Your DVD Collection Into MP4 Files on PC & Mac - Discover the Easiest Techniques!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>Which is the Best Fake GPS Joystick App On Apple iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-instagram-to-tik-tok-a-social-pivot-blueprint/"><u>[New] In 2024, Instagram to Tik Tok - A Social Pivot Blueprint</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-leading-the-way-in-iphonecomputer-video-format-conversion/"><u>[New] Leading the Way in iPhone/Computer Video Format Conversion</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-optimized-video-scale-to-mac-aspect-proportion/"><u>[New] Optimized Video Scale to Mac Aspect Proportion</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-the-essence-of-burst-in-gopro-filming-techniques/"><u>[New] The Essence of Burst in GoPro Filming Techniques</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-echoes-of-sound-how-to-enhance-tweeted-visuals-for-2024/"><u>[Updated] Echoes of Sound How to Enhance Tweeted Visuals for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-maximize-monetization-the-step-by-step-for-youtube-profiles-for-2024/"><u>[Updated] Maximize Monetization The Step-by-Step for YouTube Profiles for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-top-15-youtube-recording-software-for-gamers/"><u>[Updated] Top 15 YouTube Recording Software for Gamers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/gamers-dream-deal-save-hundreds-on-the-razer-blade-15-laptop-in-2n3-best-offer-ever/"><u>Gamer's Dream Deal! Save Hundreds on the Razer Blade 15 Laptop in 2N3 - Best Offer Ever!</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-restoring-malwarebytes-database-connection-on-win-oses/"><u>Guide to Restoring Malwarebytes Database Connection on WIN OSes</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-the-deadly-script-error-a-win-11-discord-fix-guide/"><u>Overcoming the Deadly Script Error: A Win 11 Discord Fix Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/painting-a-picture-sketching-on-windows-11-devices/"><u>Painting a Picture: Sketching on Windows 11 Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-network-link-lost-on-windows/"><u>Tackling Network Link Lost on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-8-best-pomodoro-timers-for-windows/"><u>The 8 Best Pomodoro Timers for Windows</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Solve Microsoft Office 365 Glitches: Error 30015-26"
-date: 2024-08-27T16:03:06.759Z
-updated: 2024-08-28T16:03:06.759Z
+date: 2024-11-10T16:37:17.701Z
+updated: 2024-11-15T17:27:50.117Z
 tags:
   - windows10
   - windows11
@@ -52,38 +52,37 @@ thumbnail: https://thmb.techidaily.com/0553b37a2d0bfe56c6f7794ae22609d4c46a2b30d
  There are some general tricks you can use on the Office app which help fix app-based errors in general.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Repair the Office App
 
  If running the Disk Cleanup tool didn’t solve the issue, you should repair Microsoft 365\. To do so, launch Windows Settings and go to **Apps > Installed apps**. Open the **three-dot** menu next to Microsoft 365 and click **Modify**. Then, click the **Repair** button and confirm the action in the pop-up window.
 
 ![Repair Microsoft 365](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-microsoft-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
  If you’re still facing the error code 30015-26, go through the instruction again and select **Online repair** for a more detailed fixing process.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ### Check for Corrupted Files
 
  Windows relies on system files to fetch the information it needs to work smoothly. There’s a chance Microsoft 365 is showing the 30015-26 error code if some of the system files are missing or got corrupted.
 
 ![Run SFC scan in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sfc-scan-1-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
  Fortunately, there’s an easy fix for you to try. Log into your administrator account and [run the SFC scan](https://www.makeuseof.com/system-file-checker-sfc-windows/) to automatically detect and replace any corrupted system files.
 
  If you get the **Windows Resource Protection did not find any integrity violations** message after running the scan, there’s nothing wrong with your system files.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Reinstall Office
 
  As always, if nothing worked, and you still can’t figure out what's wrong, it’s time to reinstall Microsoft 365\. Before doing so, make sure you have access to the product key.
@@ -93,8 +92,12 @@ thumbnail: https://thmb.techidaily.com/0553b37a2d0bfe56c6f7794ae22609d4c46a2b30d
 ![Uninstall Microsoft 365 in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/uninstall-microsoft365-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Once the process is complete, go to the [Microsoft 365 website](https://www.microsoft.com/microsoft-365) and download the app. Alternatively, you could download Microsoft 365 through the Microsoft Store.
 
 ### Turn Off the Antivirus
@@ -102,6 +105,13 @@ thumbnail: https://thmb.techidaily.com/0553b37a2d0bfe56c6f7794ae22609d4c46a2b30d
  When updating, Microsoft 365 is establishing a connection with Microsoft’s servers. However, a third-party antivirus software, or even a VPN, might wrongly identify this connection as dangerous and block it.
 
  In this case, try to temporarily turn off the antivirus or disconnect your VPN to see if Microsoft 365 can now update.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix Unreadable Content in Word
 
@@ -111,11 +121,31 @@ thumbnail: https://thmb.techidaily.com/0553b37a2d0bfe56c6f7794ae22609d4c46a2b30d
 
  Now, let’s take a look at how you can get rid of the 30015-26 error code.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-groundbreaking-footage-starts-here-basics-for-novice-filmmakers-for-2024/"><u>[New] Groundbreaking Footage Starts Here Basics for Novice Filmmakers for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-professional-filmmaking-made-easy-with-right-lenses/"><u>[New] In 2024, Professional Filmmaking Made Easy with Right Lenses</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoid-the-blank-screen-top-techniques-to-recover-vanished-panes-in-windows-11/"><u>Avoid the Blank Screen: Top Techniques to Recover Vanished Panes in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoidance-of-windows-updates-interruptions/"><u>Avoidance of Windows Updates Interruptions</u></a></li>
+<li><a href="https://windows11.techidaily.com/bring-back-windows-photo-viewer-a-1111-edition-guide/"><u>Bring Back Windows Photo Viewer: A 11/11 Edition Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/bring-back-your-bandsaw-methods-for-fixing-lost-windows-time/"><u>Bring Back Your Bandsaw: Methods for Fixing Lost Windows Time</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-limited-it-admin-power-in-security-warning/"><u>Bypassing 'Limited IT Admin Power' In Security Warning</u></a></li>
+<li><a href="https://windows11.techidaily.com/command-line-interface-cli-addition-to-task-manager-in-windows-11/"><u>Command Line Interface (CLI) Addition to Task Manager in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/decode-your-digital-identity-how-to-find-out-what-computer-you-have/"><u>Decode Your Digital Identity: How to Find Out What Computer You Have</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-poco-f5-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Poco F5 5G to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-voice-recording-access-review-and-evaluate/"><u>In 2024, Voice Recording Access, Review & Evaluate</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/location-forgeries-made-simple-changing-your-position-readouts-on-an-android-smartphone/"><u>Location Forgeries Made Simple: Changing Your Position Readouts on an Android Smartphone</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719297453407-mastery-overprint-how-to-reactivate-the-missing-windows-functionality/"><u>Mastery Overprint: How to Reactivate the Missing Windows Functionality</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/overcoming-issues-with-moving-your-iphone-footage-onto-a-pc-or-mac/"><u>Overcoming Issues with Moving Your iPhone Footage Onto a PC or Mac</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211393909-9781507300534-skeleton-keys/"><u>Skeleton Keys | Free Book</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-performance-in-compact-size-an-in-depth-jbl-clip-5-wireless-speaker-assessment/"><u>Top Performance in Compact Size: An In-Depth JBL Clip #5 Wireless Speaker Assessment</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-the-secrets-of-free-apple-music-access-a-comprehensive-guide-for-students/"><u>Unlocking the Secrets of Free Apple Music Access: A Comprehensive Guide for Students</u></a></li>
+</ul></div>
+

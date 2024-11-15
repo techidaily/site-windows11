@@ -1,7 +1,7 @@
 ---
 title: Mastery of Windows Display Settings
-date: 2024-10-31T02:54:16.835Z
-updated: 2024-11-05T04:56:43.916Z
+date: 2024-11-13T17:09:22.485Z
+updated: 2024-11-15T17:24:35.774Z
 tags:
   - windows10
   - windows11
@@ -46,10 +46,10 @@ thumbnail: https://thmb.techidaily.com/214585cc6f04e9f51b09b50240658d386b443c6b6
 ![Using Windows System Settings to Change the Lock Screen Timeout Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Using-Windows-System-Settings-to-Change-the-Lock-Screen-Timeout-Settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Apply the same settings for the **When plugged** in option on the right-hand side pane. From there, close the **system settings** and restart your device to save these changes.
@@ -70,13 +70,6 @@ thumbnail: https://thmb.techidaily.com/214585cc6f04e9f51b09b50240658d386b443c6b6
 6. Finally, click the **Save changes** button.
 
 ![Using the Edit Plan Settings to Change the Lock Screen Timeout Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Using-the-Edit-Plan-Settings-to-Change-the-Lock-Screen-Timeout-Settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Use the Advanced Power Options (via the Control Panel)
 
@@ -122,10 +115,16 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
  Now, let's explore how you can change the screen saver timeout settings.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Use the System Settings
@@ -150,6 +149,13 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 
  Finally, press **Apply** and then press **OK** to save these changes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Use the Local Group Policy Editor
 
  The Local Group Policy Editor (LGPE) is an incredible tool that makes it easy for you to configure various system settings. Now, here's how you can use this tool to configure the screen saver timeout settings:
@@ -162,10 +168,10 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 ![Using the LGPE to Change the Screen Saver Timeout Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Using-the-LGPE-to-Change-the-Screen-Saver-Timeout-Settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In the next window, select the **Enabled** option. From there, use the **arrow buttons** next to the **Seconds** box to select the duration of the screen saver.
@@ -181,28 +187,15 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
  Still looking for more tips on how to increase screen time on your laptop? We've got one more solution for you!
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Use the Registry Editor
 
 ![A person typing commands on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-person-typing-commands-on-a-laptop.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The Registry Editor can help you tweak the screen-saver timeout settings with ease. But it's quite a sensitive tool, so you should consider [backing up the Registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) first before you proceed.
 
@@ -221,6 +214,13 @@ HKEY_USERS\.DEFAULT\Control Panel\Desktop
  Next, double-click the **ScreenSaveTimeOut** value.
 
 ![Clicking the "ScreenSaveTimeOut" value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/clicking-the-screensavetimeout-value.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now, type the screen saver timeout duration (in seconds) in the **Value data** box. The default option is usually **900** seconds (15 minutes), but you can enter your desired value. Finally, click **OK** and then restart your device to save these changes.
 
@@ -245,24 +245,19 @@ HKEY_USERS\.DEFAULT\Control Panel\Desktop
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-best-mobile-film-and-picture-capture-tools-for-iphones-and-androids/"><u>[New] In 2024, Best Mobile Film & Picture Capture Tools for iPhones & Androids</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-infuse-illustration-with-life-techniques-for-motion-in-ai-images/"><u>[New] Infuse Illustration with Life Techniques for Motion in AI Images</u></a></li>
-<li><a href="https://windows11.techidaily.com/achieving-a-clearer-taskbar-windows-11-guide/"><u>Achieving a Clearer Taskbar: Windows 11 Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/activate-virtualization-your-step-by-step-guide-for-win-11-homes/"><u>Activate Virtualization: Your Step by Step Guide for Win 11 Homes</u></a></li>
-<li><a href="https://techtrends.techidaily.com/choosing-an-iphone-for-games-the-best-options-reviewed-and-compared/"><u>Choosing an iPhone for Games: The Best Options Reviewed and Compared</u></a></li>
-<li><a href="https://windows11.techidaily.com/decreasing-cpu-and-ram-usage-tackling-unrealcefsubprocess-issues/"><u>Decreasing CPU and RAM Usage: Tackling UnrealCEFSubprocess Issues</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-downloading-and-updating-canon-pixma-mg2522-driver-software-for-windows-pcs/"><u>Easy Guide to Downloading & Updating Canon Pixma MG2522 Driver Software for Windows PCs</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-counter-strike-16-not-starting-correctly-expert-advice/"><u>Fixing Counter-Strike 1.6 Not Starting Correctly – Expert Advice</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/free-yourself-from-video-edges-on-youtube-for-2024/"><u>Free Yourself From Video Edges on YouTube for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/handling-incomplete-updates-in-your-windows-based-discord/"><u>Handling Incomplete Updates in Your Windows-Based Discord</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-muted-audio-recordings-in-obs-studio-on-windows-11-pcs/"><u>How to Fix Muted Audio Recordings in OBS Studio on Windows 11 PCs</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-get-your-brother-printer-back-up-and-running-on-windows/"><u>How to Get Your Brother Printer Back Up & Running on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/lessen-malware-apps-resource-usage-for-performance-gain/"><u>Lessen Malware App’s Resource Usage for Performance Gain</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mac-users-check-your-hardware-for-big-sur/"><u>Mac Users, Check Your Hardware for Big Sur</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/outdoor-entertainment-boosted-with-sunbrite-tvs-robust-55-inch-4k-hdr-smart-tv-resilient-and-reliable/"><u>Outdoor Entertainment Boosted with SunBrite TV's Robust 55-Inch 4K HDR Smart TV - Resilient & Reliable!</u></a></li>
-<li><a href="https://windows11.techidaily.com/remedying-failed-jvm-launch-windows-guide/"><u>Remedying Failed JVM Launch: Windows Guide</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96164924-9781620557938-the-mother-mantra/"><u>The Mother Mantra | Free Book</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooters-and-their-role-on-windows-11-systems/"><u>Troubleshooters and Their Role on Windows 11 Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/volume-vanishing-act-top-remedies-for-muted-keys-in-windows/"><u>Volume Vanishing Act? Top Remedies for Muted Keys in Windows</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-turn-your-vlogs-into-tunes-with-an-insta-mp3-conversion-hack/"><u>[New] Turn Your Vlogs Into Tunes with an Insta-Mp3 Conversion Hack</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-leading-5-chatbot-ai-therapists-and-mobile-solutions-tackling-psychological-issues/"><u>Discover the Leading 5 Chatbot AI Therapists and Mobile Solutions Tackling Psychological Issues</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-insights-on-the-linksys-ea9500-triple-band-wifi-router-a-game-changer-in-smart-home-connectivity/"><u>Expert Insights on the Linksys EA9500 Triple Band WiFi Router – A Game Changer in Smart Home Connectivity</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-resolving-winerror-0x8007043c-on-media-creator/"><u>Guide to Resolving WinError 0X8007043C on Media Creator</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/ideal-video-snapper-for-your-chromebook-for-2024/"><u>Ideal Video Snapper For Your Chromebook for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-itel-p40plus-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Itel P40+</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-the-essential-framework-for-saving-instagram-vids-from-desktop-systems/"><u>In 2024, The Essential Framework for Saving Instagram Vids From Desktop Systems</u></a></li>
+<li><a href="https://techidaily.com/inside-scoop-on-high-performance-hardware-at-toms-tech-corner/"><u>Inside Scoop on High-Performance Hardware at Tom's Tech Corner</u></a></li>
+<li><a href="https://windows11.techidaily.com/keyboard-prodigy-tips-for-windows-photoshop/"><u>Keyboard Prodigy Tips for Windows Photoshop</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-windows-11-typing-troubles-addressing-zerox-code-0x80049dd3/"><u>Navigating Through Windows 11 Typing Troubles: Addressing Zerox (Code: 0X80049DD3)</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-rpc-issues-on-windows-key-strategies/"><u>Resolving RPC Issues on Windows: Key Strategies</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/say-goodbye-to-windows-10-photos-top-8-image-editing-solutions-youll-love/"><u>Say Goodbye to Windows 10 Photos Top 8 Image Editing Solutions Youll Love</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-windows-write-operations-error/"><u>Tackling Windows Write Operations Error</u></a></li>
 </ul></div>
 

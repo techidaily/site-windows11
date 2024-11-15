@@ -1,7 +1,7 @@
 ---
 title: How to Fix Your Headset Mic Not Working on Windows
-date: 2024-10-30T10:51:06.280Z
-updated: 2024-11-04T21:44:25.194Z
+date: 2024-11-09T16:34:09.164Z
+updated: 2024-11-15T17:07:15.948Z
 tags:
   - windows10
   - windows11
@@ -40,10 +40,16 @@ thumbnail: https://thmb.techidaily.com/d02f0d2061399f021d19d9bbfd673d9a86e502373
  If none of the above checks and fixes work, apply the remaining fixes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Ensure That the Microphone Isn't Muted
@@ -58,6 +64,13 @@ thumbnail: https://thmb.techidaily.com/d02f0d2061399f021d19d9bbfd673d9a86e502373
 4. Also, if the **Main Volume** is too low, increase it to close to **100**.  
 ![Unmute the Headset Microphone in the Realtek Audio Control App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/1-unmute-the-headset-microphone-in-the-realtek-audio-control-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you don't have the Realtek audio console installed on your device, you can download it from the [Microsoft Store](https://apps.microsoft.com/store/detail/realtek-audio-control/9P2B8MCSVPLN?hl=en-us&gl=us).
 
 ## 3\. Ensure That the Microphone Is Properly Plugged In
@@ -68,13 +81,6 @@ thumbnail: https://thmb.techidaily.com/d02f0d2061399f021d19d9bbfd673d9a86e502373
 
 **Y**ou may not see any popups when connecting the headset to a laptop; just ensure you have plugged your headset correctly.
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Make Sure Your Headset Microphone Isn't Faulty
 
 ![Green and Black Razer Headset Sitting on Mousepad on Gamer’s Desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/green-and-black-razer-headset-sitting-on-mousepad-on-gamer-s-desk.jpg)
@@ -83,13 +89,6 @@ thumbnail: https://thmb.techidaily.com/d02f0d2061399f021d19d9bbfd673d9a86e502373
 
  If your headset mic also doesn't work on your other device, it could be faulty. If that is the case, you should have your hardware inspected by a nearby technician. However, if the other device detects the microphone, your hardware isn't faulty; probably misconfigured OS settings are to blame.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Select the Right Microphone and Test It
 
  To use your headset microphone as your primary audio input device, you must properly select it in the sound settings. Therefore, make sure the headset microphone is selected there, especially if you have more than one audio input device connected to your device.
@@ -97,6 +96,13 @@ thumbnail: https://thmb.techidaily.com/d02f0d2061399f021d19d9bbfd673d9a86e502373
  To find out which microphone you're using, open the **Settings** app and navigate to **System > Sound**. Here, select the headset microphone and click on it to open its settings.
 
 ![Select the Main Headset Microphone in Sound Settings of the Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/select-the-main-headset-microphone-in-sound-settings-of-the-settings-app.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After that, test the microphone by clicking the **Start test** button. If your microphone successfully records the sound, the headset is now configured correctly.
 
@@ -128,21 +134,28 @@ thumbnail: https://thmb.techidaily.com/d02f0d2061399f021d19d9bbfd673d9a86e502373
 ![Go to the Microphone Option Under App Permissions in the Privacy and Security Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/8-go-to-the-microphone-option-under-app-permissions-in-the-privacy-and-security-tab-of-the-windows-settings-app.jpg)
 4. Turn on the toggle next to **Microphone access**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. After that, locate the app where the headset microphone isn't working and turn on the toggle next to it.  
 ![Turn On the Toggle Next to App to Enable Microphone Access in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/9-turn-on-the-toggle-next-to-app-to-enable-microphone-access-in-windows-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Select the Correct Microphone in the App's Settings
@@ -150,13 +163,6 @@ thumbnail: https://thmb.techidaily.com/d02f0d2061399f021d19d9bbfd673d9a86e502373
  If the headset microphone still does not work after following the steps above, likely, the app where the microphone does not work doesn't have the correct microphone selected in its settings.
 
  Therefore, ensure the headset microphone is selected as the primary audio input device in the app's settings. Also, check that the microphone isn't muted there and its volume isn't too low.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Get Your Headset Microphone Working Again
 
@@ -174,20 +180,14 @@ thumbnail: https://thmb.techidaily.com/d02f0d2061399f021d19d9bbfd673d9a86e502373
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-crafting-memorable-visual-narratives-with-instagram-captions/"><u>[New] Crafting Memorable Visual Narratives with Instagram Captions</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mastering-proportional-adjustments-online/"><u>[New] Mastering Proportional Adjustments Online</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-masterclass-in-adding-srt-overlay-on-mp4-file-playback/"><u>[Updated] Masterclass in Adding SRT Overlay on MP4 File Playback</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-simple-steps-to-a-stellar-vlog-journey/"><u>[Updated] Simple Steps to a Stellar Vlog Journey</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-engaging-audiences-with-smart-instavideo-marketing-tactics/"><u>2024 Approved Engaging Audiences with Smart InstaVideo Marketing Tactics</u></a></li>
-<li><a href="https://windows11.techidaily.com/7-proven-methods-to-enhance-your-windows-11-experience-35/"><u>7 Proven Methods to Enhance Your Windows 11 Experience (35)</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-service-failed-message-on-windows-disk-management/"><u>Addressing 'Service Failed' Message on Windows Disk Management</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-problems-with-software-installations-from-windows-store/"><u>Addressing Problems with Software Installations From Windows Store</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-windows-error-the-msvcr120dll-is-missing/"><u>Addressing Windows Error: The 'Msvcr120_dll' Is Missing</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/adobe-advances-bringing-text-into-three-dimensional-space-for-2024/"><u>Adobe Advances Bringing Text Into Three-Dimensional Space for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/best-practices-choosing-the-right-win-video-codec/"><u>Best Practices: Choosing the Right Win Video Codec</u></a></li>
-<li><a href="https://windows11.techidaily.com/boosting-your-cursors-appearance-in-windows-os/"><u>Boosting Your Cursor's Appearance in Windows OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/ditching-windows-11-standards-top-10-app-list/"><u>Ditching Windows 11 Standards: Top 10 App List</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-vivo-y55s-5g-2023-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Vivo Y55s 5G (2023) Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-tutorial-for-finding-model-identifiers-on-a-macbook/"><u>The Ultimate Tutorial for Finding Model Identifiers on a MacBook</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-navigating-win11-like-a-pro-your-guidebook/"><u>[New] Navigating Win11 Like a Pro - Your Guidebook</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-premium-panzoid-structure-packs/"><u>2024 Approved Premium Panzoid Structure Packs</u></a></li>
+<li><a href="https://windows11.techidaily.com/discover-microsoft-excels-innovative-integration-of-chatgpt-technology-for-enhanced-productivity/"><u>Discover Microsoft Excel's Innovative Integration of ChatGPT Technology for Enhanced Productivity</u></a></li>
+<li><a href="https://windows11.techidaily.com/easy-steps-for-changing-sheet-names-in-microsoft-excel/"><u>Easy Steps for Changing Sheet Names in Microsoft Excel</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-methods-to-modify-text-casing-in-microsoft-excel-2013-with-built-in-formulae/"><u>Efficient Methods to Modify Text Casing in Microsoft Excel 2013 with Built-In Formulae</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-techniques-for-merging-transforming-and-scaling-down-data-tables-in-microsoft-excel/"><u>Efficient Techniques for Merging, Transforming, and Scaling Down Data Tables in Microsoft Excel</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Realme 12+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/techniques-for-eliminating-drivers-without-error/"><u>Techniques for Eliminating Drivers Without Error</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-vlog-editing-made-easy-top-14-software-for-creating-engaging-content/"><u>Updated In 2024, Vlog Editing Made Easy Top 14 Software for Creating Engaging Content</u></a></li>
 </ul></div>
 

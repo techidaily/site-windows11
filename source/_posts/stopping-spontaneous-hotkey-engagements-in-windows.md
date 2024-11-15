@@ -1,7 +1,7 @@
 ---
 title: Stopping Spontaneous Hotkey Engagements in Windows
-date: 2024-10-30T07:26:38.905Z
-updated: 2024-11-05T08:33:54.166Z
+date: 2024-11-14T16:55:53.591Z
+updated: 2024-11-15T16:38:38.285Z
 tags:
   - windows10
   - windows11
@@ -36,10 +36,10 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
 ![turn off filter stickey keys windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/turn-off-filter-stickey-keys-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Sticky Keys and Filter Keys are Windows accessibility features that can be activated by pressing **Shift** repeatedly or for a long period. If you haven’t activated any of these accessibility features intentionally, make sure it is turned off and see if that returns things back to normal.
@@ -51,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
 3. Scroll down to the Interaction section and click **Keyboard**.
 4. Next, toggle the switch for the **Sticky** and **Filter Keys**.
 5. Close the Settings app and restart your computer. After the system restarts, check if your keyboard is working.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Run the Keyboard Troubleshooter (Windows 10 Only)
 
@@ -96,17 +103,10 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
 3. Close the **Settings** dialog and check for any improvements.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Quit and Disable Auto Startup for Windows Ink Workspace
@@ -122,10 +122,10 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
 6. Close Task Manager and check if you can type on your keyboard without triggering the app.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Disable Windows Ink Workspace
@@ -142,21 +142,23 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
 5. Right-click the **Microsoft** key in the left pane, select **New > Key**.  
 ![create new key WindowsInkWorkspace for microsoft subkey registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/create-new-key-windowsinkworkspace-for-microsoft-subkey-registry-editor.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Rename the key as **WindowsInkWorkspace**.
 2. Next, right-click on the **WindowsInkWorkspace** key and select **New > DWORD (32-bit) Value**.  
 ![create new value AllowWindowsInkWorkspace for microsoft subkey registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/create-new-value-allowwindowsinkworkspace-for-microsoft-subkey-registry-editor.jpg)
 3. Rename the new values as **AllowWindowsInkWorkspace**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Next, double-click on the **AllowWindowsInkWorkspace** value to open its properties.  
 ![disable windowsinkworkspace registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-windowsinkworkspace-registry-editor.jpg)
 5. Type **0** in the **Value data** field and click **OK**.
+
+6. Close the Registry Editor and restart your computer.
 
 <!-- affiliate ads begin -->
 <a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
@@ -164,8 +166,6 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
 </a>
 <img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-6. Close the Registry Editor and restart your computer.
 
 ## 6\. Other Troubleshooting Steps You Can Try
 
@@ -195,24 +195,24 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-economical-4k-dslrmirrorless-cameras/"><u>[Updated] Economical 4K DSLR/Mirrorless Cameras</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-harness-the-power-of-post-production-top-11-techniques-for-vibrant-colors/"><u>2024 Approved Harness the Power of Post-Production Top 11 Techniques for Vibrant Colors</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-perfect-your-video-pacing-with-these-snapchat-tips/"><u>2024 Approved Perfect Your Video Pacing with These Snapchat Tips</u></a></li>
-<li><a href="https://windows11.techidaily.com/approaches-to-fix-failed-launch-of-lunar-client-in-windows/"><u>Approaches to Fix Failed Launch of Lunar Client in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/breaking-through-qbittorrent-lag-a-windows-guide/"><u>Breaking Through qBittorrent Lag: A Windows Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-the-start-up-sequence-of-windows-os/"><u>Decoding the Start-Up Sequence of Windows OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/diminishing-high-cpu-impact-of-tiworkerexe-applications/"><u>Diminishing High CPU Impact of TiWorker.exe Applications</u></a></li>
-<li><a href="https://win11.techidaily.com/guiding-windows-11-users-on-restarting-mobile-hotspots/"><u>Guiding Windows 11 Users on Restarting Mobile Hotspots</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-igfxem-driver-errors-and-restore-graphics-functionality/"><u>How to Fix igfxEM Driver Errors and Restore Graphics Functionality</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Realme 10T 5G | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/innovative-photoplusmusic-recorder-software-of-the-year-for-2024/"><u>Innovative Photo+Music Recorder Software of the Year for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/must-visit-websites-for-obtaining-desired-youtube-ringtones/"><u>Must-Visit Websites for Obtaining Desired YouTube Ringtones</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ng-8-real-time-strategies-to-grow-youtube-success/"><u>Ranking 8 Real-Time Strategies to Grow YouTube Success</u></a></li>
-<li><a href="https://windows11.techidaily.com/revitalize-memory-integrity-for-secure-systems-on-win11/"><u>Revitalize Memory Integrity for Secure Systems on Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/techniques-for-tranquil-application-management-in-window-11/"><u>Techniques for Tranquil Application Management in Window 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-premier-selection-of-cost-free-high-efficiency-driver-utilities/"><u>The Premier Selection of Cost-Free, High-Efficiency Driver Utilities</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-decluttering-your-w11-desktop/"><u>The Ultimate Guide to Decluttering Your W11 Desktop</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-maximum-cursor-visibility-on-win-11-desktop/"><u>Unlocking Maximum Cursor Visibility on Win 11 Desktop</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-aukey-usb-hub-30-a-stylish-straightforward-top-pick-for-rapid-connectivity/"><u>Unveiling the Aukey USB Hub 3.0: A Stylish, Straightforward Top Pick for Rapid Connectivity</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/astering-asmr-filming-techniques-essential-tips-unveiled/"><u>[New] Mastering ASMR Filming Techniques Essential Tips Unveiled</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-ultimate-free-screenshot-tool-showdown-for-2024/"><u>[New] The Ultimate Free Screenshot Tool Showdown for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-beyond-replication-innovating-virtual-reality-experiences-for-2024/"><u>[Updated] Beyond Replication Innovating Virtual Reality Experiences for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-enhanced-clarity-clear-background-in-cam-recordings-for-2024/"><u>[Updated] Enhanced Clarity Clear Background in Cam Recordings for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-gaming-for-everyone-accessible-channels/"><u>2024 Approved Gaming for Everyone Accessible Channels</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/accidental-file-disappearance-solved-powerpoint-and-ppt-retrieval-using-ifinds-free-tools/"><u>Accidental File Disappearance Solved: PowerPoint and PPT Retrieval Using iFind's Free Tools</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/factory-reset-iphone-xs-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-infinix-smart-8-pro-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Infinix Smart 8 Pro</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-vlc-key-mac-functions-explained/"><u>In 2024, Mastering VLC Key Mac Functions Explained</u></a></li>
+<li><a href="https://windows11.techidaily.com/malware-softwares-impact-on-system-ram-allocation/"><u>Malware Software's Impact on System RAM Allocation</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-windows-11-workflow-activating-outlook-preview-app/"><u>Master Windows 11 Workflow: Activating Outlook Preview App</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-through-windows-pen-pad-malfunctions/"><u>Navigate Through Windows Pen Pad Malfunctions</u></a></li>
+<li><a href="https://windows11.techidaily.com/reignite-windows-update-success-with-this-guide/"><u>Reignite Windows Update Success With This Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/shifting-win11-to-new-subnets-easily/"><u>Shifting Win11 to New Subnets Easily</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-ease-capped-chatgpt-use/"><u>Strategies to Ease Capped ChatGPT Use</u></a></li>
+<li><a href="https://windows11.techidaily.com/system-sync-up-top-tactics-to-troubleshoot-unsupported-boots/"><u>System Sync-Up: Top Tactics to Troubleshoot Unsupported Boots</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-significance-of-aliases-in-application-launches/"><u>The Significance of Aliases in Application Launches</u></a></li>
+<li><a href="https://windows11.techidaily.com/transformative-notations-boosting-usability-with-comments-in-windows-11/"><u>Transformative Notations: Boosting Usability with Comments in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-resolving-isdonedll-faults-on-windows-11/"><u>Troubleshooting: Resolving ISDone.dll Faults on Windows 11</u></a></li>
 </ul></div>
 

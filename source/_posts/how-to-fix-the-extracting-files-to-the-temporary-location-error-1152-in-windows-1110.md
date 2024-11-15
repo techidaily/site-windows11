@@ -1,7 +1,7 @@
 ---
 title: How to Fix the “Extracting Files to the Temporary Location” Error 1152 in Windows 11/10
-date: 2024-08-22T21:42:08.804Z
-updated: 2024-08-23T21:42:08.804Z
+date: 2024-11-08T17:02:23.573Z
+updated: 2024-11-15T16:12:13.827Z
 tags:
   - windows10
   - windows11
@@ -34,7 +34,22 @@ thumbnail: https://thmb.techidaily.com/d108669ab03559524bb77121c4032c30df350e077
 4. Click on the **Edit** button to view a permission window.  
 ![The Edit button on the temp Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/edit-button.jpg)
 5. Next, click **Add** to bring up an object name selection window.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Select Users or Groups window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/select-user-or-groups-window.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Type **everyone** inside the object name box, then click **Check Names**.
 2. Select **OK** to add the **Everyone** group.
@@ -42,14 +57,19 @@ thumbnail: https://thmb.techidaily.com/d108669ab03559524bb77121c4032c30df350e077
 4. Select the **Full control** permission checkbox.  
 ![Full control checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/full-control-checkbox.jpg)
 5. Apply and OK out of all windows.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. It’s also recommended to repeat those steps for the Temp folder in the local directory. You can reach that folder at the following path:  
 `C:\Users\<user folder>\AppData\Local`
 
  If the **Security** tab says you need read permissions, click **Advanced** \> **Change**. Input **Everyone** in the group user box, as instructed above, select **System** on the Advanced Security window, and press the **Add** button. That will bring up another Select User or Group window in which you must input **Everyone** again. Then select the **Full control** checkbox from there.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## 3\. Clear the Temporary Files Folder
 
  Corrupted data in the Temp folder is also a known cause of error 1152\. You can address such a cause by clearing the data in that folder. There are a few ways you can do that, but erasing data in that folder with the Disk Cleanup tool is recommended.
@@ -58,12 +78,6 @@ thumbnail: https://thmb.techidaily.com/d108669ab03559524bb77121c4032c30df350e077
 
 ![The Temporary files checkbox in the Disk Clean-up tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/temporary-files-checkbox.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Perform a Clean Boot
 
  Performing a clean boot means restarting Windows 11/10 without any third-party background apps and services enabled. This is a recommended troubleshooting method for error 1152 because it could eliminate background items conflicting with your software installation. You might then be able to install the software as required after the clean boot.
@@ -73,19 +87,17 @@ thumbnail: https://thmb.techidaily.com/d108669ab03559524bb77121c4032c30df350e077
 ![The Hide all Microsoft services checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hide-all-microsoft-services-checkbox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Install the Windows Software You Need Again
 
  There aren’t that many confirmed resolutions for error 1152\. However, the ones covered here have worked for many users who’ve needed to fix that Windows software installation issue.
 
  The error 1152 message highlights something has gone wrong with the extraction of files during installation. It also mentions extraction to a temporary location, a clue for a possible cause. This is how you can fix Error 1152 on a Windows 10 or 11 PC.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -93,3 +105,24 @@ thumbnail: https://thmb.techidaily.com/d108669ab03559524bb77121c4032c30df350e077
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-monetize-youtube-video-the-ultimate-guide-to-ad-revenue-for-2024/"><u>[Updated] Monetize YouTube Video | The Ultimate Guide to Ad Revenue for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-unlocking-potential-key-aspects-of-using-twistedwaves-advanced-audio-tools/"><u>2024 Approved Unlocking Potential Key Aspects of Using TwistedWaves Advanced Audio Tools</u></a></li>
+<li><a href="https://video-capture.techidaily.com/discover-the-hidden-path-resolved-errors-with-wonderfoxs-expertise/"><u>Discover the Hidden Path: Resolved Errors with WonderFox's Expertise</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevate-your-drone-game-with-top-tier-lipo-tech/"><u>Elevate Your Drone Game with Top-Tier LiPo Tech</u></a></li>
+<li><a href="https://windows11.techidaily.com/expanding-external-devices-in-explorers-side/"><u>Expanding External Devices in Explorer's Side</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-non-working-windows-performance-indicator/"><u>Fixing Non-Working Window's Performance Indicator</u></a></li>
+<li><a href="https://windows11.techidaily.com/identify-and-secure-open-tcpip-in-windows/"><u>Identify and Secure Open TCP/IP in Windows</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/immediate-window-image-on-pc-win/"><u>Immediate Window Image on PC (Win)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Lava Blaze Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-htc-u23-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost HTC U23 for Free? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/list-of-pokemon-go-joysticks-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/lofree-edge-assessment-reviewed-slimmer-lighter-alternative-with-a-premium-cost-over-the-magic-keyboard-by-apple/"><u>Lofree Edge Assessment Reviewed: Slimmer, Lighter Alternative with a Premium Cost Over the Magic Keyboard by Apple</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-unreadable-messages-in-discord-chat/"><u>Remedying Unreadable Messages in Discord Chat</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-swiftly-eradicating-windows-steams-e84-error/"><u>Strategies for Swiftly Eradicating Windows Steam's E84 Error</u></a></li>
+<li><a href="https://windows11.techidaily.com/two-email-systems-together-merging-gmail-and-outlook-in-windows/"><u>Two Email Systems Together: Merging Gmail and Outlook in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-customized-windows-power-schemes/"><u>Unlocking Customized Windows Power Schemes</u></a></li>
+</ul></div>
+

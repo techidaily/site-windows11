@@ -1,7 +1,7 @@
 ---
 title: How to Use Dev Drive for Developers on Windows 11
-date: 2024-08-22T21:43:19.330Z
-updated: 2024-08-23T21:43:19.330Z
+date: 2024-11-11T16:16:21.019Z
+updated: 2024-11-15T16:47:35.230Z
 tags:
   - windows10
   - windows11
@@ -28,6 +28,19 @@ thumbnail: https://thmb.techidaily.com/8e847bcd25e1bb956f9c0d5ed5c3e1ee40f922a7b
 
  As a developer using Dev Home, you no longer need to constantly switch between different apps, navigate to the relevant file system directories repeatedly, and juggle multiple sign-in identities to get the job done.
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Use Dev Drive on Windows 11
 
  At the time of writing, Dev Drive is in preview to Windows Insiders only. If you’re on the Dev Channel of the Windows Insider Program, you can immediately start using Dev Drive on Windows 11\. Otherwise, you’ll have to wait for Microsoft to ship Dev Drive with the next major Windows 11 update.
@@ -44,37 +57,42 @@ Image Credit: [Microsoft](https://learn.microsoft.com/en-us/windows/dev-drive/)
 2. Select **Resize an existing volume** and choose the volume you want to split to make space for a new Dev Drive. You’ll need to ensure the volume you select has at least 50GB of available storage (the minimum capacity of a Dev Drive) and click on **Next**.  
 ![dev drive choose location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/dev-drive-choose-location-1.jpg)  
 Image Credit: [Microsoft](https://learn.microsoft.com/en-us/windows/dev-drive/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. When asked to enter the size of your new volume, enter the required size based on your project requirements and click on **Next**.  
 ![new drive drive size](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/dev-drive-new-1.jpg)  
 Image Credit: [Microsoft](https://learn.microsoft.com/en-us/windows/dev-drive/)
 4. You now need to give the Dev Drive volume a label and a drive letter. Once again, also enter the size you want to allocate to the newly created Dev Drive. Finally, click on **Format** to finish setting up your Dev Drive.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## What Should You Use Dev Drive For?
 
  Microsoft recommends using Dev Drive to store source code repositories, project files, package caches, and the required build files. You shouldn’t use Dev Drive to install IDEs or dev tools such as Visual Studio, Windows SDKs, etc. Microsoft recommends housing these tools on your primary drive.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Make Your Dream Developer PC With Windows 11
 
  With the comvbination of Dev Home and Dev Drive, Windows 11 is a powerful tool for developers. Now you know what Dev Drive is and how it works.
 
  Read on as we explain what Dev Drive is and how developers can get started with it.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -82,3 +100,23 @@ Image Credit: [Microsoft](https://learn.microsoft.com/en-us/windows/dev-drive/)
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-unraveling-the-mystery-choosing-music-for-movie-trailers/"><u>[New] Unraveling the Mystery Choosing Music for Movie Trailers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-breakthrough-beginnings-in-panzoids/"><u>[Updated] 2024 Approved Breakthrough Beginnings in Panzoids</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-hp-zbook-ebook-15-g3-drivers-on-windows-complete-guide/"><u>Download & Install HP ZBook eBook 15 G3 Drivers on Windows: Complete Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-guide-to-updating-to-the-newest-freelibreoffice-on-linux-systems/"><u>Easy Guide to Updating to the Newest FreeLibreOffice on Linux Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-temp-storage-errors-in-the-latest-win11-version/"><u>Fixing Temp Storage Errors in the Latest Win11 Version</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/raw-footage-to-final-cut-chroma-mastery/"><u>From Raw Footage to Final Cut Chroma Mastery</u></a></li>
+<li><a href="https://windows11.techidaily.com/less-is-more-compact-view-strategies-for-windows-11/"><u>Less Is More: Compact View Strategies for Windows 11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/leverage-advanced-transcription-tools-within-microsoft-word-to-boost-productivity-for-2024/"><u>Leverage Advanced Transcription Tools Within Microsoft Word to Boost Productivity for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-the-art-of-drag-and-drop-in-w11-folder-moving/"><u>Master the Art of Drag & Drop in W11 Folder Moving</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-network-management-wi-fi-removal-guide/"><u>Mastering Network Management: Wi-Fi Removal Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/self-identification/"><u>Self-Identification</u></a></li>
+<li><a href="https://windows11.techidaily.com/speed-up-task-managers-dynamic-display-in-windows-11/"><u>Speed up Task Manager's Dynamic Display in Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-advice-expert-guidance-on-hardware/"><u>Tom's Tech Advice: Expert Guidance on Hardware</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-a-fresh-start-with-these-steam-game-tips/"><u>Unlock a Fresh Start with These Steam Game Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-system-tray-and-concealed-options-on-win11/"><u>Unveiling System Tray & Concealed Options on Win11</u></a></li>
+</ul></div>
+

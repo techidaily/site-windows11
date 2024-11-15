@@ -1,7 +1,7 @@
 ---
 title: Tactics to Mute Hidden Windows 11 Processes
-date: 2024-10-29T03:15:16.482Z
-updated: 2024-11-05T00:06:59.923Z
+date: 2024-11-12T16:33:45.280Z
+updated: 2024-11-15T16:14:56.177Z
 tags:
   - windows10
   - windows11
@@ -52,13 +52,6 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 ![power and battery usage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/power-and-batter-usage.png)
 4. Click the drop-down for **Battery levels** and select **Last 7 days.** Windows will load all the apps using the battery power in the last seven days.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![manage background activity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/manage-background-activity.png)
 5. To change the background app permission, click the **three-dots menu** beside the app name, and click on **Manage background productivity**. This option is only available for Microsoft Store apps.
 
@@ -68,10 +61,10 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
  In addition to disabling background apps, try to create and use [custom Windows power plans to extend your laptop battery life](https://www.makeuseof.com/tag/save-energy-extend-battery-life-custom-windows-power-plans/). With custom power plans, you can tweak your processor and other components to configure low-power modes to achieve an improved battery life.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. How to Disable Background Apps for the Current User
@@ -88,10 +81,16 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 3. In the Notepad file, copy and paste the following content:  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 `Windows Registry Editor Version 5.00  
@@ -116,13 +115,6 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 
 ![reg file content background app disable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/reg-file-content-background-app-disable.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 `Windows Registry Editor Version 5.00  
 [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications]  
 "GlobalUserDisabled"=-  
@@ -144,10 +136,10 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 5. Right-click on the **Windows** key and select **New > Key.** Rename the key as **AppPrivacy.**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Right-click on the **AppPrivacy** key and select **New > DWORD (32-bit) Value**. Rename the value as **LetAppsRunInBackground.**  
@@ -176,6 +168,13 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 ![disable background app group policy editor policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/disable-background-app-group-policy-editor-policy.png)
 4. In the new window that appears, select **Enabled**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Next, under the **Options** section, click the drop-down for **Default for all apps** and select **Force Deny**.  
 ![disable background app group policy editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/disable-background-app-group-policy-editor.png)
 6. Click **OK** and **Apply** to save the changes.
@@ -183,6 +182,13 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
  Alternatively, you can set the Let Windows apps run in the background policy to **Disabled** and apply the changes. However, when set to **Disabled** or **Not Configured**, individual employees in your organization can configure the apps to run in the background.
 
  On the contrary, setting this policy to **Force Deny** will prevent the app from running in the background, with no option for the employees to change the policy.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Disabling Background Apps in Windows 11
 
@@ -202,17 +208,22 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-expert-picks-top-12-screen-recording-software-no-time-limit/"><u>[New] Expert Picks Top 12 Screen Recording Software, No Time Limit</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/he-youtubers-guide-to-picking-perfect-recording-tools/"><u>[New] The YouTuber's Guide to Picking Perfect Recording Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-10-plugins-to-enhance-fcp/"><u>[New] Ultimate 10 Plugins to Enhance FCP</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/1716036878728-new-unlock-the-full-potential-of-skype-written-in-spanish-but-not-widely-known-among-english-speakers-it-was-used-as-a-basis-for-creating-new-models-like-be/"><u>[New] Unlock the Full Potential of Skype’ Written in Spanish, but Not Widely Known Among English Speakers. It Was Used as a Basis for Creating New Models Like BERT and GPT-3. How Can I Access This Model for 2024 Is It Free to Use?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-latest-trends-in-360-cameras-a-shoppers-companion/"><u>2024 Approved Latest Trends in 360 Cameras – A Shopper's Companion</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-lava-yuva-2-pro-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Lava Yuva 2 Pro</u></a></li>
-<li><a href="https://windows11.techidaily.com/fast-track-to-windows-11-arm-with-easy-iso-setup-instructions/"><u>Fast Track to Windows 11 ARM with Easy ISO Setup Instructions</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-the-maze-of-non-downloading-on-windows-devices/"><u>Navigating the Maze of Non-Downloading on Windows Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-fixes-restoring-windows-defender-threat-shield-functionality/"><u>Quick Fixes: Restoring Windows Defender Threat Shield Functionality</u></a></li>
-<li><a href="https://windows11.techidaily.com/reshaping-administration-workflow-in-the-windows-ecosystem/"><u>Reshaping Administration Workflow in the Windows Ecosystem</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-troubled-windows-registry-with-effective-solutions/"><u>Tackling Troubled Windows Registry with Effective Solutions</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-infinix-smart-8-pro-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Infinix Smart 8 Pro Device</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-ultimate-guide-to-top-6-creative-mojave-dwellings/"><u>[New] Ultimate Guide to Top 6 Creative Mojave Dwellings</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-copycatting-charisma-making-ingenious-parodies/"><u>[Updated] In 2024, Copycatting Charisma Making Ingenious Parodies</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-obs-timeline-expertise-crafting-custom-countdown-features/"><u>[Updated] Obs Timeline Expertise Crafting Custom Countdown Features</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-streamlining-the-process-of-converting-zip-to-srt-for-2024/"><u>[Updated] Streamlining the Process of Converting Zip to Srt for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-top-30-innovative-anime-concepts-for-viral-video-creators-for-2024/"><u>[Updated] Top 30 Innovative Anime Concepts for Viral Video Creators for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-all-about-hand-based-interface-technology/"><u>2024 Approved All About Hand-Based Interface Technology</u></a></li>
+<li><a href="https://blog-min.techidaily.com/convert-mp4-videos-into-mp3-audio-files-for-free-with-movavis-user-friendly-conversion-tool/"><u>Convert MP4 Videos Into MP3 Audio Files for Free with Movavi's User-Friendly Conversion Tool</u></a></li>
+<li><a href="https://windows11.techidaily.com/fix-it-faster-quick-solutions-for-winning-at-powerpoint-prints-in-windows/"><u>Fix It Faster: Quick Solutions for Winning at PowerPoint Prints in Windows</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-sony-xperia-10-v-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Sony Xperia 10 V to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-windows-1011-photography-troubles-with-ease/"><u>Navigate Windows 10/11 Photography Troubles with Ease</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/ps4-live-broadcasting-101-with-obs-recording-tips-for-2024/"><u>PS4 Live Broadcasting 101 with OBS Recording Tips for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/steady-the-shaky-xbox-experience-in-windows/"><u>Steady the Shaky Xbox Experience in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/stopping-self-initiated-file-explorer-windows/"><u>Stopping Self-Initiated File Explorer Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-your-computer-experience-enabledisable-windows-key/"><u>Streamline Your Computer Experience: Enable/Disable Windows Key</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-necessity-of-vcplusplus-redistribution-packages/"><u>The Necessity of VC++ Redistribution Packages</u></a></li>
+<li><a href="https://windows11.techidaily.com/transition-smoothly-chrome-adaptation-tips-for-windows-11/"><u>Transition Smoothly: Chrome Adaptation Tips for Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/what-is-windows-modern-standby-and-why-does-it-suck/"><u>What Is Windows Modern Standby (and Why Does It Suck?)</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Methods to Fix Windows Update: Code Error 0X8024800C"
-date: 2024-08-22T21:40:27.499Z
-updated: 2024-08-23T21:40:27.499Z
+date: 2024-11-08T17:06:51.954Z
+updated: 2024-11-15T16:58:01.288Z
 tags:
   - windows10
   - windows11
@@ -32,6 +32,19 @@ thumbnail: https://thmb.techidaily.com/cbd55a60b36d243580c486b7896cd6baf0fe5a1c6
 
  Having explored the causes, let's now see how to fix this problem.
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Check Your Internet Connection
 
  If you aren't able to download Windows updates, check your internet connection first. Chances are that a slow or unstable internet connection is causing this error. To test your connection, try accessing other websites in your browser. If you have a fine internet connection, but it's very slow, you just need to [troubleshoot your network](https://www.makeuseof.com/things-slowing-down-home-wifi-network/).
@@ -50,16 +63,25 @@ thumbnail: https://thmb.techidaily.com/cbd55a60b36d243580c486b7896cd6baf0fe5a1c6
 4. Now move to the right pane and click **Troubleshoot > Other troubleshooters**.  
 ![Other trouble-shooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/other-trouble-shooters.jpg)
 5. Click the **Run** button next to Windows Update.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![Run Windows Update Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-windows-update-troubleshooter.jpg)
 
  After following the above steps, the troubleshooter will scan your system for errors. When it’s done, the troubleshooter will present you with any solutions it finds. Follow the on-screen instructions and apply any recommendations to fix the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. Clear the SoftwareDistribution Folder
 
  The Software Distribution folder is where Windows stores data related to updates. It includes temporary files and download logs. Corrupted or missing system files in this folder can cause the 0x8024800C issue. To fix it, you must delete these files from your system. Here’s how:
@@ -76,8 +98,12 @@ net stop bits`
 ![Clear SoftwareDistribution Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/clear-softwaredistribution-folder.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Once you're done, go back to the Command Prompt and type the following commands:
 
 `net start wuauserv  
@@ -158,30 +184,19 @@ net start cryptsvc`
 7. Name your file **WUReset.bat** and save it on your desktop.  
 ![Reset Windows Update Components](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-windows-update-components.jpg)
 8. Once you have created the file, right-click on it and choose **Run as administrator**.
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 9. If you see a UAC prompt, click **Yes** to confirm.
 
  This will reset the Windows Update components and fix the 0x8024800C error. After that, you can try updating Windows again.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Perform Some Generic Fixes
 
  After trying all of the above solutions, you should also try some generic fixes. This includes [running System File Checker](https://www.makeuseof.com/system-file-checker-sfc-windows/) to repair corrupted system files and running Disk Cleanup to [remove unnecessary junk files](https://www.makeuseof.com/windows-10-remove-junk-files/). You may also want to use the Deployment Image Servicing and Management tool to repair corrupt system images.
 
  If the problem isn't fixed, you can [try either system restore](https://www.makeuseof.com/windows-11-create-restore-point/) or reinstalling Windows. These options will reset your computer to its original settings, which will most likely resolve any software-related problems. And remember to [back up your Windows data](https://www.makeuseof.com/tag/backup-windows-computer-cloud/) before trying these solutions so you have something to fall back on if something goes wrong.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## Fixing Windows Update Error 0x8024800C
 
  Having trouble downloading and installing Windows updates? You might be facing Windows Update Error 0x8024800C, which prevents your PC from accessing the latest updates and security patches. Thankfully we have some easy solutions that may help you fix this error code on your Windows PC.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -189,3 +204,24 @@ net start cryptsvc`
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-haunting-horrors-the-ultimate-list-of-engaging-zombie-games/"><u>[New] Haunting Horrors The Ultimate List of Engaging Zombie Games</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-understanding-optimal-frames-per-second-in-cinema-slow-mo/"><u>[New] Understanding Optimal Frames Per Second in Cinema Slow-Mo</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-enhancing-scene-clarity-with-zoom-cinematography/"><u>[Updated] Enhancing Scene Clarity with ZOOM Cinematography</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-the-art-of-vlog-script-creation/"><u>[Updated] Mastering the Art of Vlog Script Creation</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-review-on-the-twelve-south-compass-pro-intuitively-designed-for-unmatched-stability/"><u>Expert Review on the Twelve South Compass Pro: Intuitively Designed for Unmatched Stability</u></a></li>
+<li><a href="https://win-blog.techidaily.com/god-of-war-runtime-optimization-fixes-to-reduce-cpu-resource-consumption/"><u>God of War Runtime Optimization: Fixes to Reduce CPU Resource Consumption</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-enable-mouse-clicklock-to-work-easier-on-windows/"><u>How to Enable Mouse ClickLock to Work Easier on Windows</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-on-apple-iphone-11-pro-max-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock On Apple iPhone 11 Pro Max?</u></a></li>
+<li><a href="https://windows11.techidaily.com/jump-over-compatibility-obstacles-with-these-simple-fixes/"><u>Jump Over Compatibility Obstacles with These Simple Fixes.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leveraging-the-power-of-gpt-3-within-your-python-workflows-expert-techniques-uncovered/"><u>Leveraging the Power of GPT-3 Within Your Python Workflows: Expert Techniques Uncovered</u></a></li>
+<li><a href="https://windows11.techidaily.com/procurement-primer-essential-considerations-for-laptop-shoppers/"><u>Procurement Primer: Essential Considerations for Laptop Shoppers</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-start-windows-os-on-your-playstation-steam-device/"><u>Quick Start: Windows OS on Your PlayStation Steam Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-any-conflicts-between-wsl-subsystem-and-win-11-upgrade/"><u>Resolving Any Conflicts Between WSL Subsystem and Win 11 Upgrade</u></a></li>
+<li><a href="https://windows11.techidaily.com/say-no-more-to-failed-uploads-in-google-chrome-for-your-pc-win/"><u>Say No More to Failed Uploads in Google Chrome for Your PC, WIN</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-internet-explorer-stopped-responding-a-step-by-step-guide/"><u>Solving 'Internet Explorer Stopped Responding' - A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleash-administrative-potential-with-advanced-task-management-in-win11/"><u>Unleash Administrative Potential with Advanced Task Management in Win11</u></a></li>
+</ul></div>
+

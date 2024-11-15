@@ -1,7 +1,7 @@
 ---
 title: "Windows Revival: Unlocking the Power of 3 Resets"
-date: 2024-08-22T21:41:13.597Z
-updated: 2024-08-23T21:41:13.597Z
+date: 2024-11-08T16:12:16.546Z
+updated: 2024-11-15T16:34:15.460Z
 tags:
   - windows10
   - windows11
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 
  Make sure you [know what to back up from your computer](https://www.makeuseof.com/tag/backup-windows-files-folders/), then see our [Windows data backup guide](https://www.makeuseof.com/tag/ultimate-windows-10-data-backup-guide/). Once you have a safe copy of everything, you can proceed with reinstalling Windows.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. How to Factory Reset Windows 10 or Windows 11 Using the Built-In Method
 
  Factory resetting Windows was once an inconvenient process, but Microsoft introduced a much easier way to do so starting in Windows 8\. As this is also included in Windows 10 and Windows 11, it's the best way to factory reset a Windows computer in most cases.
@@ -39,8 +46,12 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 ![Reset This PC Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Reset-This-PC-Windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Keep Your Files or Remove Everything?
 
  You'll have two initial options to choose from when you factory reset Windows 10 or 11 this way: **Keep my files** or **Remove everything**.
@@ -54,8 +65,12 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 ![Windows 11 Factory Reset Keep Files Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Windows-11-Factory-Reset-Keep-Files-Option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Cloud Download vs. Local Reinstall
 
  You'll next have to choose how you want to reinstall Windows. There are two ways: **Cloud download** or **Local reinstall**.
@@ -69,9 +84,12 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 ![Windows 10 Cloud Reinstall Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/Windows-10-Cloud-Reinstall-Option.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Options When Resetting Windows 10 and 11
 
  Next, you'll see an **Additional settings** menu that has a **Current settings** section, containing a summary of what you've chosen to do so far. There's also a **Change settings** link you can click for more options.
@@ -86,9 +104,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Turn on **Delete files from all drives?** to erase everything on all drives you have connected to your computer. This includes external hard drives and recovery drives. Because you probably have backups and other important files on those drives, you shouldn't use this unless you want to permanently erase everything associated with your computer. Be careful with this option!
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Confirm the Windows Factory Reset Operation
 
  Click **Confirm** when you're satisfied with the options above. The final screen before you start the factory reset is titled **Ready to reset this PC**.
@@ -109,11 +124,25 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Create installation media for Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/muo-windows-install-usb-media2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you need to reinstall Windows 8.1 from scratch for some reason, you can use [Microsoft's Windows 8.1 download tool](https://www.microsoft.com/en-us/software-download/windows8ISO). This lets you download an [ISO to burn onto a flash drive](https://www.makeuseof.com/tag/10-tools-make-bootable-usb-iso-file/) or DVD so you can reinstall Windows. Simply insert the USB drive or disc containing your installation media, then [boot from the removable device](https://www.makeuseof.com/tag/how-to-change-the-boot-order-on-your-pc-so-you-can-boot-from-usb/). You'll be greeted with the Windows setup screen, which you can proceed through to install a clean copy. Remember that doing this will remove everything currently on the drive where you install Windows.
 
  Since Windows 7 has been out of support for years, Microsoft no longer offers an official Windows 7 download. We recommend that you [upgrade to a modern version of Windows](https://www.makeuseof.com/why-you-shouldnt-use-old-windows/); don't download Windows 7 from a random website, as it may contain malware.
 
  Note that the methods in #1 above allow you to reinstall Windows in effectively the same way without manually creating a USB installer, so they're much more convenient.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Factory Reset Windows 10 or 11 From Boot Using Advanced Methods
 
@@ -135,9 +164,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  To cover all the bases: there is no way to factory reset Windows from the BIOS. While you can reset the BIOS to its default options, you can't factory reset Windows itself through the BIOS. There's also no way to factory reset your laptop without turning it on; you need power to perform all the above operations.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## If You're on an Older Version of Windows 10
 
  Microsoft used to offer an option called **Fresh Start** for resetting your Windows 10 PC. Starting with Windows 10 version 2004, this option was replaced by the process described above.
@@ -148,13 +174,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Windows 10 Security Fresh Start](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/04/Windows-10-Security-Fresh-Start.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## Now You Know How to Factory Reset Your Windows Computer
 
  You have several options for factory resetting a Windows computer. On Windows 10 or 11, the built-in factory reset option is quick and easy. If you prefer, all users of modern Windows can download an image from Microsoft and perform a clean installation that way.
@@ -163,11 +182,30 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  Depending on your setup and installed version of Windows, you have a few different ways to factory reset a Windows laptop or desktop. We'll show you how to reset a Windows 11, 10, or earlier computer as easily as possible.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/0-must-try-microphones-for-exceptional-asmr-sounds/"><u>[New] 10 Must-Try Microphones for Exceptional ASMR Sounds</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-enhancing-televised-experiences-with-fb-live-techniques/"><u>[New] In 2024, Enhancing Televised Experiences with FB Live Techniques</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-musical-embellishments-for-digital-images/"><u>[New] Musical Embellishments for Digital Images</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-setting-up-your-vlog-fb-preferred-dimensions/"><u>[New] Setting Up Your Vlog FB Preferred Dimensions</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-master-the-art-of-meeting-management-the-finest-10-free-recorders-for-slack/"><u>[Updated] 2024 Approved Master the Art of Meeting Management The Finest 10 Free Recorders for Slack</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-tecno-spark-20-pro-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-ineffectual-system-defrag-functionality/"><u>Fixing Ineffectual System Defrag Functionality</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-8-plus-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone 8 Plus Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Realme GT Neo 5? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-the-art-of-logging-into-windows-11-with-password-instead-of-pin/"><u>Master the Art of Logging Into Windows 11 with Password Instead of PIN</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-csgo-not-starting-in-windows-11/"><u>Overcoming CS:GO Not Starting in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-taskbar-freeze-on-windows-systems/"><u>Resolving Taskbar Freeze on Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/revitalizing-network-safety-5-firewall-tips/"><u>Revitalizing Network Safety: 5 Firewall Tips</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/unleashing-creativity-with-magix-video-pro-x/"><u>Unleashing Creativity with Magix Video Pro X</u></a></li>
+<li><a href="https://windows11.techidaily.com/unpack-and-deploy-quick-apk-installation-guide-in-windows-11/"><u>Unpack and Deploy: Quick APK Installation Guide in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/usb-ports-not-working-how-to-diagnose-and-fix-the-issue-in-windows/"><u>USB Ports Not Working? How to Diagnose and Fix the Issue in Windows</u></a></li>
+</ul></div>
+

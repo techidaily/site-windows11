@@ -1,7 +1,7 @@
 ---
 title: Tips for Restricting Removable Storage via Windows Settings
-date: 2024-11-03T02:08:37.727Z
-updated: 2024-11-05T01:15:52.422Z
+date: 2024-11-12T17:06:41.297Z
+updated: 2024-11-15T16:48:50.156Z
 tags:
   - windows10
   - windows11
@@ -34,16 +34,10 @@ thumbnail: https://thmb.techidaily.com/6bec6b49ef7ec1e5a2c1ba4a21123755124d462c6
 ![Using a Windows laptop on a brown desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Using-a-Windows-laptop-on-a-brown-desk.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The Local Group Policy Editor (LGPE) is a reliable tool for troubleshooting system errors. Interestingly, you can also use it for other tasks such as [preventing others from changing your Windows desktop background](https://www.makeuseof.com/stop-others-change-windows-desktop-background/).
@@ -58,10 +52,10 @@ thumbnail: https://thmb.techidaily.com/6bec6b49ef7ec1e5a2c1ba4a21123755124d462c6
 ![Clicking the prevent installation of removable devices option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Clicking-the-prevent-installation-of-removable-devices-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Select **Enabled** on the next screen to prevent others from installing removable storage devices into your PC. Alternatively, select **Disabled** or **Not Configured** to restore the default settings.
@@ -70,21 +64,22 @@ thumbnail: https://thmb.techidaily.com/6bec6b49ef7ec1e5a2c1ba4a21123755124d462c6
 
  Struggling to access the LGPE on Windows Home? There are a few tricks you can apply to [access the LGPE on Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/). But if that sounds complicated to you, then skip to the Registry Editor method.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Using the Registry Editor
 
 ![A person typing commands on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-person-typing-commands-on-a-laptop.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The Registry Editor is another reliable tool you can use for tweaking system settings and troubleshooting PC issues.
@@ -106,13 +101,6 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows
 3. Click the **Restrictions** folder, right-click on a blank space on the right, and then select **New > DWORD (32-bit) Value**. From there, name the value as **DenyRemovableDevices** and press **Enter**.
 
 ![Clicking the DenyRemovableDevices value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Clicking-the-DenyRemovableDevices-value.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now, follow these steps:
 
@@ -139,22 +127,19 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-unplugged-gaming-world-the-ultimate-list-of-best-free-mobile-apps/"><u>[New] In 2024, Unplugged Gaming World - The Ultimate List of Best Free Mobile Apps</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-your-key-to-effortless-igtv-media-downloads/"><u>[New] In 2024, Your Key to Effortless IGTV Media Downloads</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/96641762-updated-2024-approved-download-premium-video-covers-free-fast-and-easy/"><u>[Updated] 2024 Approved Download Premium Video Covers - Free, Fast & Easy</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-essential-steps-for-youtube-video-preservation/"><u>[Updated] 2024 Approved Essential Steps for YouTube Video Preservation</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-essential-green-screen-strategies-in-video-editing-with-kinemaster/"><u>[Updated] Essential Green Screen Strategies in Video Editing with Kinemaster</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-innovating-image-presentations-how-to-add-text-and-captions-to-videos-within-windows-10-photos/"><u>[Updated] Innovating Image Presentations How to Add Text and Captions to Videos Within Windows 10 Photos</u></a></li>
-<li><a href="https://windows11.techidaily.com/adjusting-onedrives-abode-in-the-windows-11-ecosystem/"><u>Adjusting OneDrive's Abode in the Windows 11 Ecosystem</u></a></li>
-<li><a href="https://windows11.techidaily.com/cease-windows-logging-each-app-opener/"><u>Cease Windows Logging Each App Opener</u></a></li>
-<li><a href="https://games-able.techidaily.com/escape-the-gaming-gridlock-minecraft-world-exportation/"><u>Escape the Gaming Gridlock: Minecraft World Exportation</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-modify-calculators-color-scheme-dark/"><u>How To Modify Calculator's Color Scheme (Dark)</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-windowed-play-top-6-windows-11-fps-counters/"><u>Mastering Windowed Play: Top 6 Windows 11 FPS Counters</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-through-non-existent-printmanagement-in-settings/"><u>Navigating Through Non-Existent 'PrintManagement' In Settings</u></a></li>
-<li><a href="https://windows11.techidaily.com/reset-windows-strategies-8-techniques-unveiled/"><u>Reset Windows Strategies: 8 Techniques Unveiled</u></a></li>
-<li><a href="https://windows11.techidaily.com/reviving-windows-sluggish-discord-overlay-performance/"><u>Reviving Windows' Sluggish Discord Overlay Performance</u></a></li>
-<li><a href="https://windows11.techidaily.com/tactics-to-troubleshoot-loaded-lol-screens/"><u>Tactics to Troubleshoot Loaded LOL Screens</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-login-audit-success-or-no-go-indicators/"><u>Windows Login Audit: Success or No-Go Indicators</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/png-pgm-movavi/"><u>웹 안에서 비용 없이 PNG을 PGM로 전환하는 방법 - Movavi</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-supercharge-your-channels-a-guide-to-the-best-keyword-research-software/"><u>[New] In 2024, Supercharge Your Channels A Guide to the Best Keyword Research Software</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-dissecting-a-day-in-the-life-hero5-edition/"><u>[Updated] Dissecting a Day in the Life Hero5 Edition</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-capture-every-moment-the-power-of-spring-screenrecorder/"><u>2024 Approved Capture Every Moment - The Power of Spring ScreenRecorder</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-xiaomi-redmi-a2-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Xiaomi Redmi A2 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/best-websites-for-digital-gold-and-silver-text-effects-for-2024/"><u>Best Websites for Digital Gold and Silver Text Effects for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-vivo-x-flip-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Vivo X Flip Phone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-itel-a70-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-revert-the-search-bar-lookup-of-windows-11/"><u>How to Revert the Search Bar Lookup of Windows 11</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-virtualdub-review-still-a-relevant-video-editor-explore-the-best-alternatives/"><u>New Virtualdub Review Still a Relevant Video Editor ? Explore the Best Alternatives</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-bandwidth-issues-for-steam-broadcasting/"><u>Overcoming Bandwidth Issues for Steam Broadcasting</u></a></li>
+<li><a href="https://windows11.techidaily.com/personalize-learning-mode-in-win-11/"><u>Personalize Learning Mode in Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-windows-charmap-issues-a-practical-guide/"><u>Unlocking Windows CharMap Issues: A Practical Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/which-browser-saves-system-resources-winmaccros-edition/"><u>Which Browser Saves System Resources? Win/Mac/CrOS Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-against-interfaces-not-supported-by-windows/"><u>Win Against Interfaces Not Supported by Windows</u></a></li>
 </ul></div>
 

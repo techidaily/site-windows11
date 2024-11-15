@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Operational Obligations: Avoiding Sudden Freezes on Your PC"
-date: 2024-08-22T21:41:10.243Z
-updated: 2024-08-23T21:41:10.243Z
+date: 2024-11-08T16:14:55.374Z
+updated: 2024-11-15T17:10:15.951Z
 tags:
   - windows10
   - windows11
@@ -38,9 +38,6 @@ thumbnail: https://thmb.techidaily.com/4b0cf62f8598176374094f1d5008db55cda943f9c
 
  The game being on the Steam platform brings with it another share of troubleshooting steps. Take a look at our guide on[troubleshooting Steam issues on Windows](https://www.makeuseof.com/troubleshoot-windows-steam-games-not-playing/) and make sure you at least verify the integrity of the game files. That, combined with a system restart, is sometimes all you need to do.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Force Dwarf Fortress to Use Dedicated Graphics
 
 ![screenshot of the AMD radeon program showing the games list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_amd_games_list-1.jpg)
@@ -55,9 +52,6 @@ thumbnail: https://thmb.techidaily.com/4b0cf62f8598176374094f1d5008db55cda943f9c
 
 ![screenshot dwarf fortress properties disabling fullscreen optimizations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_dwarf_fortress_properties_disable_fullscreen_optimizations.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  There's a common Windows function that can cause problems for Dwarf Fortress. To disable full-screen optimization, follow these steps:
 
 1. Right-click on Dwarf Fortress in Steam. Hover over**Manage** and click**Browse local files.**
@@ -66,29 +60,41 @@ thumbnail: https://thmb.techidaily.com/4b0cf62f8598176374094f1d5008db55cda943f9c
 
  Now give it a go. This option doesn't actually affect the visuals or gameplay in any way, so this option is safe to turn on as a "just in case" measure.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Set the Resolution to Non-Widescreen
 
 ![screenshot of dwarf fortress video settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_dwarf_fortress_video_settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Dwarf Fortress doesn't play nice with widescreen resolutions. Note that this refers to non-standard widescreen resolutions. If you have a particularly large monitor, it's worth it to try setting the in-game resolution of Dwarf Fortress to something standard. For example, 1920x1080.
 
  To do this, navigate to the video settings of Dwarf Fortress by clicking**Settings** in the main menu.
 
  The first screen that opens is the video settings screen. Simply change the**Resolution** drop-down to something below 1920x1080.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Delete Save Data
 
 ![screenshot of dwarf fortress save folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_dwarf_fortress_saves.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Don't worry, this won't involve losing any progress. However, deleting save files is always risky, so make sure you back up your saves before you proceed.
 
  Dwarf Fortress can crash if the save files become too bloated. This can happen after a long period of play, or even after a short period if you create enough new units and structures.
@@ -104,8 +110,12 @@ thumbnail: https://thmb.techidaily.com/4b0cf62f8598176374094f1d5008db55cda943f9c
  By doing this, you'll be repopulating your world, history, and timeline. However, your structures and units will remain. While this isn't a desirable option, there are a handful of crashes that can only be fixed in this way.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## New Game Version, New Game Crashes
 
  You would think that such an old game would have plenty of fixes for possible crashes. However, this is a new version of Dwarf Fotress, and that introduces new problems.
@@ -120,8 +130,6 @@ thumbnail: https://thmb.techidaily.com/4b0cf62f8598176374094f1d5008db55cda943f9c
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -129,4 +137,23 @@ thumbnail: https://thmb.techidaily.com/4b0cf62f8598176374094f1d5008db55cda943f9c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-navigating-the-world-of-mac-screenshot-with-confidence/"><u>[New] In 2024, Navigating the World of Mac Screenshot with Confidence</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-at-the-forefront-haptic-enhanced-headgear/"><u>[Updated] 2024 Approved At the Forefront Haptic-Enhanced Headgear</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-iphone-screen-capture-simplified-guide/"><u>[Updated] IPhone Screen Capture Simplified Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unifying-visual-experience-in-iphone-recording/"><u>[Updated] Unifying Visual Experience in iPhone Recording</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-tips-for-steams-persistent-error-code-e84/"><u>Expert Tips for Steam's Persistent Error Code E84</u></a></li>
+<li><a href="https://driver-install.techidaily.com/gtx-1650-windows-11-driver-download/"><u>GTX 1650: Windows 11 Driver Download</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-inshot-free-pc-video-editing-solutions/"><u>In 2024, Inshot-Free PC Video Editing Solutions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-xr-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock iPhone XR Without Passcode Easily</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-low-usb-support-error-in-windows/"><u>Overcoming Low USB Support Error in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinstate-your-image-tiles-on-windows-11-quick-guide/"><u>Reinstate Your Image Tiles on Windows 11 – Quick Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/securing-winrar-data-transfers-addressing-checksum-mistakes/"><u>Securing WinRAR Data Transfers: Addressing Checksum Mistakes</u></a></li>
+<li><a href="https://win-updates.techidaily.com/step-by-step-guide-retrieving-information-from-raw-hard-drive-formats/"><u>Step-by-Step Guide: Retrieving Information From RAW Hard Drive Formats</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategic-use-of-powertoys-locksmith-for-files/"><u>Strategic Use of PowerToys Locksmith for Files</u></a></li>
+<li><a href="https://windows11.techidaily.com/take-charge-of-your-workspace-filter-and-theme-mastery-in-the-windows-11-task-manager/"><u>Take Charge of Your Workspace: Filter and Theme Mastery in the Windows 11 Task Manager</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-essentials-of-using-microsoft-family-safety/"><u>The Essentials of Using Microsoft Family Safety</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/asfmp3/"><u>スムーズなASFからMP3への変換手順：一目でわかる方法</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Reverting Terminal Setup on the Latest Windows 11
-date: 2024-10-30T09:51:48.150Z
-updated: 2024-11-05T07:19:08.421Z
+date: 2024-11-09T16:41:08.944Z
+updated: 2024-11-15T17:26:37.508Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/b55c24263d5a9a2d0075e95ed2cba33cc134d0a45
 
  Let's now move to the below sections and see how it can be reset.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Reset Windows Terminal Settings by Clearing JSON Files
 
  In order to reset the settings back to the original defaults, you will need to delete the settings.json file. Here's how to do it.
@@ -49,10 +56,10 @@ thumbnail: https://thmb.techidaily.com/b55c24263d5a9a2d0075e95ed2cba33cc134d0a45
  Next time you open the app, a new configuration with all the default settings will be created automatically.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Reset Windows Terminal Settings Using Command Prompt
@@ -66,21 +73,14 @@ thumbnail: https://thmb.techidaily.com/b55c24263d5a9a2d0075e95ed2cba33cc134d0a45
 ![Reset Windows Terminal Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-windows-terminal-using-command-prompt.jpg)  
 del /f /s /q /a "%LocalAppData%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json"
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Now press the**Enter** key to delete the settings.json file.
 4. You can now exit the command prompt.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Reset Windows Terminal Settings Using Windows PowerShell
@@ -92,6 +92,13 @@ del /f /s /q /a "%LocalAppData%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe
 ![Reset Windows Terminal Using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-windows-terminal-using-powershell.jpg)  
 Remove-Item -Path "$env:LOCALAPPDATA\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json" -Force
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Press**Enter** to execute the command.
 
 ## How to Reset Windows Terminal Settings From File Explorer
@@ -102,13 +109,6 @@ Remove-Item -Path "$env:LOCALAPPDATA\Packages\Microsoft.WindowsTerminal_8wekyb3d
 2. Copy and paste the following path into the address bar:  
 ![Reset Windows Terminal Using File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-windows-terminal-using-file-explorer.jpg)  
 %LocalAppData%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. On the next page, right-click on**settings.json** and select**Delete** from the context menu.
 
@@ -133,16 +133,16 @@ Remove-Item -Path "$env:LOCALAPPDATA\Packages\Microsoft.WindowsTerminal_8wekyb3d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-leading-edge-computers-for-your-office/"><u>[New] 2024 Approved Leading-Edge Computers for Your Office</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-the-ultimate-directory-30plus-zero-cost-online-tools-for-visual-effects/"><u>[New] The Ultimate Directory 30+ Zero-Cost Online Tools for Visual Effects</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-difference-between-srgb-and-rgb/"><u>2024 Approved The Difference Between Srgb & Rgb</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/bridging-the-gap-when-printer-is-offline/"><u>Bridging the Gap When Printer Is Offline</u></a></li>
-<li><a href="https://windows11.techidaily.com/command-prompt-mastery-inserting-directories-into-windows-11-menu/"><u>Command Prompt Mastery: Inserting Directories Into Window's 11 Menu</u></a></li>
-<li><a href="https://windows11.techidaily.com/easy-steps-to-revive-your-black-screen-windows-11/"><u>Easy Steps to Revive Your Black Screen Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-guide-to-office-works-setup-on-win-11/"><u>Essential Guide to Office Works Setup on Win 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-to-open-installation-packages-resolving-windows-errors/"><u>Guide to Open Installation Packages: Resolving Windows Errors</u></a></li>
-<li><a href="https://fox-that.techidaily.com/quick-fix-for-slow-mobile-internet-accelerate-with-simple-steps/"><u>Quick Fix for Slow Mobile Internet: Accelerate with Simple Steps</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-audio-problems-a-step-by-step-guide-for-repairing-airpods-mic-on-windows-10-systems/"><u>Solving Audio Problems: A Step-by-Step Guide for Repairing AirPods Mic on Windows 10 Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/tactics-for-overcoming-license-expiration-notice-in-win11/"><u>Tactics for Overcoming License Expiration Notice in Win11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-channel-success-story-optimal-themes-and-ideas-to-boost-content-for-2024/"><u>[Updated] Channel Success Story Optimal Themes and Ideas to Boost Content for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-masterful-monitoring-with-the-latest-asus-proart-4k-display/"><u>[Updated] Masterful Monitoring with the Latest ASUS ProArt 4K Display</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-platform-showdown-vimeos-edge-vs-youtube-and-dailymotion-for-2024/"><u>[Updated] Platform Showdown Vimeo's Edge vs YouTube & Dailymotion for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/descargas-gratuita-de-mp3-online-desde-archivos-mpg-con-convertidor-gratuitos/"><u>Descargas Gratuita De MP3 Online Desde Archivos MPG Con Convertidor Gratuitos</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-boot-time-fixes-for-windows-audiovisual-issues/"><u>Mastering Boot-Time Fixes for Windows Audiovisual Issues</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-compress-videos-for-free-10-best-online-tools-with-no-downloads-for-2024/"><u>New Compress Videos for Free 10 Best Online Tools with No Downloads for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-print-device-non-response-windows-11/"><u>Overcoming Print Device Non-Response (Windows 11)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/restore-clarity-to-your-monitor-effective-solutions-for-color-abnormalities-and-visual-distortions/"><u>Restore Clarity to Your Monitor: Effective Solutions for Color Abnormalities & Visual Distortions</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailor-your-workflow-perfecting-the-use-of-window-11s-search-box/"><u>Tailor Your Workflow: Perfecting the Use of Window 11'S Search Box</u></a></li>
+<li><a href="https://windows11.techidaily.com/tech-savvy-access-three-ways-to-game-directories/"><u>Tech Savvy Access: Three Ways to Game Directories</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-nextgen-access-mastering-upcoming-features-with-vivetool/"><u>Windows NextGen Access: Mastering Upcoming Features with ViVeTool</u></a></li>
 </ul></div>
 

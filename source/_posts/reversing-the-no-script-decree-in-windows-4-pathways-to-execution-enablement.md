@@ -1,7 +1,7 @@
 ---
 title: "Reversing the No-Script Decree in Windows: 4 Pathways to Execution Enablement"
-date: 2024-10-29T05:21:20.595Z
-updated: 2024-11-04T22:49:55.524Z
+date: 2024-11-11T16:25:53.558Z
+updated: 2024-11-15T16:23:07.266Z
 tags:
   - windows10
   - windows11
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/8e847bcd25e1bb956f9c0d5ed5c3e1ee40f922a7b
 
  And if that doesn’t help, check out [the various ways to open Windows PowerShell](https://www.makeuseof.com/windows-open-command-prompt-powershell/). But you should only focus on the methods that show you how to run the tool with administrative privileges.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Change the Execution Policy in PowerShell
 
  In some instances, changing the execution policy could help. But before we explore the solutions, let’s first take you through what the execution policy is and how it works.
@@ -72,13 +79,6 @@ thumbnail: https://thmb.techidaily.com/8e847bcd25e1bb956f9c0d5ed5c3e1ee40f922a7b
 
  Now that everything is clear, let’s explore how you can execute the relevant policies to tackle the "PowerShell cannot load" issue.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Change the Execution Policy to "Unrestricted"
 
  The best way to tackle the issue at hand is to change the execution policy to "unrestricted." But before that, you need to check how each execution policy is configured.
@@ -101,18 +101,18 @@ thumbnail: https://thmb.techidaily.com/8e847bcd25e1bb956f9c0d5ed5c3e1ee40f922a7b
 
 ![Setting the execution policy on PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/setting-the-execution-policy-on-powershell.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To change the execution policy to “Unrestricted” for all users, type the following command and press **Enter**:
 
 `Set-ExecutionPolicy Unrestricted -Scope LocalMachine`
 
  When you finish running the command, close PowerShell and restart your PC to save these changes.
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Change the Execution Policy to "ByPass"
 
@@ -128,16 +128,16 @@ thumbnail: https://thmb.techidaily.com/8e847bcd25e1bb956f9c0d5ed5c3e1ee40f922a7b
 
  When you finish, close PowerShell and then restart your device.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Change the Execution Policy Via the Local Group Policy Editor
 
 ![A lady using a Windows PC while holding a cup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-lady-using-a-Windows-PC-while-holding-a-cup.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The Local Group Policy Editor (LGPE) also makes it easy for you to change the execution policy. In fact, this tool can also help you configure various system settings or troubleshoot tons of PC issues.
 
@@ -152,10 +152,10 @@ thumbnail: https://thmb.techidaily.com/8e847bcd25e1bb956f9c0d5ed5c3e1ee40f922a7b
 ![Clicking the Turn on Script Execution option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-the-turn-on-script-execution-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Check the **Enabled** box. From there, click the **Execution Policy** drop-down menu and select **Allow local scripts and remote signed scripts**. This option is similar to the "RemoteSigned" option that we discovered earlier.
@@ -167,19 +167,6 @@ thumbnail: https://thmb.techidaily.com/8e847bcd25e1bb956f9c0d5ed5c3e1ee40f922a7b
 ## 4\. Change the Execution Policy Using the Registry Editor
 
 ![A lady using her Windows PC while sitting on bed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-lady-using-her-Windows-PC-while-sitting-on-bed.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the other methods didn’t help, then try changing the execution policy using the Registry Editor. However, you need to be careful when editing Registry keys. If you tweak the wrong keys, then you might end up damaging your PC.
 
@@ -194,6 +181,13 @@ thumbnail: https://thmb.techidaily.com/8e847bcd25e1bb956f9c0d5ed5c3e1ee40f922a7b
  Locate the **ExecutionPolicy** value on the right-hand side.
 
 ![Selecting the ExecutionPolicy value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/selecting-the-executionpolicy-value.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If the value is missing, create it through these steps:
 
@@ -227,20 +221,20 @@ thumbnail: https://thmb.techidaily.com/8e847bcd25e1bb956f9c0d5ed5c3e1ee40f922a7b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://blue-screen-error.techidaily.com/fixed-bugcodendisdriver-error/"><u>[FIXED] BUGCODE_NDIS_DRIVER Error</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-a-complete-breakdown-of-what-pfp-means-on-tiktok/"><u>[New] 2024 Approved A Complete Breakdown of What PFP Means on TikTok</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-compensated-analysis-the-vlog-perspective-on-goods/"><u>[New] Compensated Analysis The Vlog Perspective on Goods?</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-unleash-the-power-of-stories-free-online-and-mobile-solutions/"><u>[New] In 2024, Unleash the Power of Stories – Free, Online & Mobile Solutions</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-windows-11s-latest-traits-unveiled-for-2024/"><u>[Updated] Windows 11'S Latest Traits Unveiled for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-set-the-mood-music-for-whatsapp-status/"><u>2024 Approved Set the Mood Music for WhatsApp Status</u></a></li>
-<li><a href="https://windows11.techidaily.com/ace-windows-with-key-based-configuration-tweaks/"><u>Ace Windows with Key-Based Configuration Tweaks</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-error-0x80300024-on-a-windows-pc/"><u>Addressing Error 0X80300024 on a Windows PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/androidiphone-to-windows-recording-connection-guide/"><u>Android/iPhone to Windows Recording Connection Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-something-went-wrong-with-outlook-on-pcs/"><u>Decoding Something Went Wrong with Outlook on PCs</u></a></li>
-<li><a href="https://article-tips.techidaily.com/decoding-the-mystery-of-laptop-video-editing-with-inshot-for-2024/"><u>Decoding the Mystery of Laptop Video Editing With Inshot for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-reestablish-connectivity-for-print-devices-on-pcs/"><u>How to Reestablish Connectivity for Print Devices on PCs</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-top-10-alternatives-of-facetime-on-android/"><u>In 2024, Top 10 Alternatives of FaceTime on Android</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-perfect-clean-a-how-to-manual-for-refreshing-your-lcd-tv-screen/"><u>The Perfect Clean: A How-To Manual for Refreshing Your LCD TV Screen</u></a></li>
-<li><a href="https://windows11.techidaily.com/trailblazing-through-windows-11-the-mac-hunt-guide/"><u>Trailblazing Through Windows 11: The MAC Hunt Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/0-youtube-music-rippers-for-android-and-ios-for-2024/"><u>[New] 10 YouTube Music Rippers for Android and iOS for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-cutting-edge-editing-techniques-youtube-and-comparable-tools/"><u>[New] In 2024, Cutting-Edge Editing Techniques YouTube & Comparable Tools</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-delving-into-ffmpeg-unaltered-audio-extraction/"><u>[New] In 2024, Delving Into FFmpeg Unaltered Audio Extraction</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-the-best-aviation-start-syma-x5c-reviewed-for-droning-beginners/"><u>[New] In 2024, The Best Aviation Start Syma X5C Reviewed for Droning Beginners</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-gopro-vs-yi-4k-evaluating-2023s-best-for-high-speed-cameras/"><u>[Updated] 2024 Approved GoPro Vs. Yi 4K Evaluating 2023'S Best for High-Speed Cameras</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-elite-5-non-twitter-channels-online/"><u>[Updated] In 2024, Elite 5 Non-Twitter Channels Online</u></a></li>
+<li><a href="https://windows11.techidaily.com/guidelines-to-fix-non-working-google-writes-on-pc/"><u>Guidelines to Fix Non-Working Google' Writes on PC</u></a></li>
+<li><a href="https://fox-info.techidaily.com/illuminating-insight-the-ultimate-guide-to-choosing-a-stunning-4k-screen/"><u>Illuminating Insight The Ultimate Guide to Choosing a Stunning 4K Screen</u></a></li>
+<li><a href="https://windows11.techidaily.com/internal-naming-systems-a-detailed-approach-to-folders-in-explorer/"><u>Internal Naming Systems: A Detailed Approach to Folders in Explorer</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-hard-drive-images-in-windows-os/"><u>Mastering Hard Drive Images in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-to-install-powertoys-on-win11-pro/"><u>Navigating to Install PowerToys on Win11 Pro</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-windows-your-input-not-recognized-by-vlc/"><u>Resolving Windows: Your Input Not Recognized by VLC</u></a></li>
+<li><a href="https://windows11.techidaily.com/transitioning-qbittorrent-to-another-system-step-by-step-guide/"><u>Transitioning qBittorrent to Another System: Step-by-Step Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723001188252-troubleshooting-continuous-freezing-in-sony-vegas-pro-solutions-inside/"><u>Troubleshooting Continuous Freezing in Sony Vegas Pro - Solutions Inside</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719578481846-why-learn-croatian-discover-these-7-reasons-to-start-your-journey-today/"><u>Why Learn Croatian? - Discover These 7 Reasons to Start Your Journey Today!</u></a></li>
 </ul></div>
 

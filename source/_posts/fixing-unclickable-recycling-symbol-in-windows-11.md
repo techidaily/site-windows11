@@ -1,7 +1,7 @@
 ---
 title: Fixing Unclickable Recycling Symbol in Windows 11
-date: 2024-10-30T23:13:16.492Z
-updated: 2024-11-04T20:27:40.861Z
+date: 2024-11-10T16:22:50.450Z
+updated: 2024-11-15T17:01:18.895Z
 tags:
   - windows10
   - windows11
@@ -60,16 +60,10 @@ thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f
  If you can’t access Group Policy Editor or if the issue persists, you can use the Registry Editor to fix this problem.
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Modify the Recycle Bin Registry Settings
@@ -89,10 +83,10 @@ thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f
 5. If it does not exist, you’ll need to create a new value. To do this, right-click on the **NonEnum** subkey folder in the left pane and select **New > DWORD (32-bit) Value**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Rename the value as **{645FF040-5081-101B-9F08-00AA002F954E}**.
@@ -101,10 +95,10 @@ thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f
 8. Type **0** in the Value data field and click **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 9. Close Registry Editor and restart your computer. Sometimes, you’ll need to restart your computer for the new registry modifications to work.
@@ -112,10 +106,10 @@ thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f
  If the issue persists, try to [create a new user account with administrative rights](https://www.makeuseof.com/windows-11-create-local-user-account/), [perform a system restore](https://www.makeuseof.com/use-system-restore-windows/), or [repair corrupted Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get Access to the Recycle Bin Desktop Icon Setting Again
@@ -134,21 +128,20 @@ thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-copyright-safe-techniques-for-youtube-to-mp4/"><u>[New] 2024 Approved Copyright-Safe Techniques for Youtube-to-MP4</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-the-complete-guide-to-masterful-lunapic-photography/"><u>[New] The Complete Guide to Masterful LunaPic Photography</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-how-to-unearth-your-secret-snapshots/"><u>[Updated] In 2024, How to Unearth Your Secret Snapshots</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-leading-mac-snipper-programs-analyzed/"><u>[Updated] Leading Mac Snipper Programs Analyzed</u></a></li>
-<li><a href="https://windows11.techidaily.com/accelerate-vm-performance-on-windows-6-precise-tips-and-tricks/"><u>Accelerate VM Performance on Windows: 6 Precise Tips & Tricks</u></a></li>
-<li><a href="https://windows11.techidaily.com/boost-your-productivity-with-w11-desktop-organization/"><u>Boost Your Productivity with W11 Desktop Organization</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-does-windows-handle-sound-data-separation/"><u>How Does Windows Handle Sound Data Separation?</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-visual-storytelling-for-social-media-editing-vt-videos-in-fcpx/"><u>In 2024, Visual Storytelling for Social Media Editing VT Videos in FCPX</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-ais-pitfalls-the-risks-of-chatbots-in-windows-keys/"><u>Navigating AI's Pitfalls: The Risks of Chatbots in Windows Keys</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimize-pc-performance-top-6-monitoring-apps-recommended-for-win/"><u>Optimize PC Performance: Top 6 Monitoring Apps Recommended for Win</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/revel-in-richness-of-ranks-the-top-25-instagram-titans-unveiled-for-2024/"><u>Revel in Richness of Ranks The Top 25 Instagram Titans Unveiled for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/stopping-google-chrome-alerts-tips-for-windows/"><u>Stopping Google Chrome Alerts: Tips for Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-for-controlling-file-compression-in-windows-11/"><u>Strategies for Controlling File Compression in Windows 11</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/401658-9780316055017-the-love-magic-book/"><u>The Love Magic Book | Free Book</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-phasing-out-of-microsofts-windows-xp-7-and-81-lifeline/"><u>The Phasing Out of Microsoft's Windows XP, 7 & 8.1 Lifeline</u></a></li>
-<li><a href="https://discover-able.techidaily.com/mpeg-aiff/"><u>인터넷으로 제공 MPEG AIFF 바이네이트화 - 모보아비</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-simplifying-the-screen-recording-process-for-dell-users/"><u>[New] Simplifying the Screen-Recording Process for Dell Users</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-the-power-of-quantum-hdr-in-visual-arts/"><u>[New] The Power of Quantum HDR in Visual Arts</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/ace-your-photograph-preservation-with-our-expert-pick-of-top-10-restoration-applications-pcmac/"><u>Ace Your Photograph Preservation with Our Expert Pick of Top 10 Restoration Applications (PC/Mac)</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-advice-remedying-non-boot-virtual-machines-on-wm11os/"><u>Expert Advice: Remedying Non-Boot Virtual Machines on WM11OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/halt-auto-restarts-windows-11-troubleshooting/"><u>Halt Auto Restarts: Windows 11 Troubleshooting</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-motorola-moto-g34-5g-frp-by-drfone-android/"><u>How Can We Bypass Motorola Moto G34 5G FRP?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-oppo-find-n3-flip-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Oppo Find N3 Flip</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-lock-your-nokia-c110-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Nokia C110 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-the-art-of-window-tweaking-using-alomware-suite/"><u>Master the Art of Window Tweaking Using AlomWare Suite</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-htc-u23-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For HTC U23</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-windows-update-problem-error-0x8024800c/"><u>Solving Windows Update Problem: Error 0X8024800C</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-addressing-blackwhite-monochrome-in-shop/"><u>Strategies for Addressing Black/White Monochrome in Shop</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-the-latency-problem-with-gpsvc/"><u>Tackling the Latency Problem with GPSVC</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-and-overcoming-display-errors-in-win1011/"><u>Understanding and Overcoming Display Errors in Win10/11</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-best-10-emoji-makers-to-create-your-own-emojis-pconlineandroidiphone-for-2024/"><u>Updated Best 10 Emoji Makers to Create Your Own Emojis PC/Online/Android/iPhone for 2024</u></a></li>
 </ul></div>
 

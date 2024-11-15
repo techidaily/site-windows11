@@ -1,7 +1,7 @@
 ---
 title: How to Overcome Windows 11 Cortana Non-Responsiveness
-date: 2024-08-22T21:41:26.253Z
-updated: 2024-08-23T21:41:26.253Z
+date: 2024-11-13T16:40:23.085Z
+updated: 2024-11-15T16:57:17.800Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,19 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 
  These are just a few reasons why Voice access might not be running correctly. Now, let's move on to the solutions to get your Voice access back up and running.
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Try These Quick Fixes First
 
  Voice access might not be working due to some minor Windows issues. In such a case, you should double-check:
@@ -44,6 +57,13 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 * **Other apps controlling Voice access:** Check if any other voice-controlled applications are running in the background. These can interfere with Voice access. If you find any, try closing them and see if Voice access starts working.
 
  If these basic fixes don't restore Voice access, don't worry—we have more targeted solutions coming up that should identify and resolve the problem.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Ensure Your Microphone is Working Correctly
 
@@ -57,8 +77,12 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 3. Choose your connected microphone on the Recording Audio troubleshooter window. If you're [unable to find your microphone](https://www.makeuseof.com/windows-not-detecting-microphone/) in the list, you've got your first hint. Please check the microphone cable connection and ensure they are properly connected to the correct port.  
 ![Recording Audio Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/recording-audio-troubleshooter.jpg)
 4. Click on **Next** to proceed with troubleshooting. Follow the on-screen instructions to check for any issues with your microphone.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you've followed the instructions, return to Voice access settings and try toggling it on or off. If it's still unresponsive, don't worry, our remaining solutions will help fix the issue.
@@ -74,16 +98,9 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 1. Ensure that Voice access is set up by clicking **Download**.  
 ![Voice Access Setup Preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/voice-access-setup-preview.jpg)
 2. Once the setup is complete, click the **settings** or **gear** icon on the Voice access bar.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 3. Click **Languages** and the **download** icon next to your preferred language.  
 ![Voice Access Bar On Desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/voice-access-bar-on-desktop.jpg)
 4. Click on **Download** again to install the chosen language.
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Once the language pack is ready, say "**Voice access wake up**" to check whether it's working.
 
  If you cannot install the required language, you can do it from **Time & Language > Language & Region** settings.
@@ -98,6 +115,14 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Type "services.msc" in the **Run** text box and press **Enter**.  
 ![Services Command On Run App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/services-command-on-run.jpg)
 3. Look for the **Agent Activation Runtime**, **Human Interface Device Service**, and **Windows Audio Endpoint Builder** services in the list.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Right-click on each mentioned service. Now a context menu will appear where you've to click on **Restart**. Don't worry; restarting these services is safe and won't affect your work.  
 ![Agent Activation Runtime Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/agent-activation-runtime-service.jpg)
 
@@ -105,9 +130,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  There are so many presets of commands that you can use to improve your all-voice-control experience. Check the [Microsoft Support article](https://support.microsoft.com/en-us/topic/voice-access-command-list-dac0f091-87ce-454d-8d57-bef38d3d8563) to know more about some of the useful commands.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ## 5\. Disable Windows Speech Recognition
 
  Voice access is an upgraded version of the traditional Windows Speech Recognition feature. The issue is, sometimes, the older feature may interfere with Voice access.
@@ -120,13 +142,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![Windows Speech Recognition Toggle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-speech-recognition-toggle.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Note that Voice Access is superior to the traditional Windows Speech Recognition feature. So, there's no reason to use the older feature. Additionally, Microsoft may phase out the older feature soon.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## You're All Set to Command Windows With Your Voice Again
 
  Now that you can use Voice Access without issues, we recommend going through the Voice Access commands to utilize this feature entirely.
@@ -135,11 +164,33 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  So, let's see how to troubleshoot and fix issues with Voice access on Windows 11\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-warriors-pantheon-valhalla-rebirth-for-2024/"><u>[New] Warriors' Pantheon Valhalla Rebirth for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-crafting-immersive-experiences-with-green-screen-technology/"><u>[Updated] 2024 Approved Crafting Immersive Experiences with Green Screen Technology</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-free-easy-online-downloader-for-your-pin-videos/"><u>2024 Approved Free, Easy Online Downloader for Your Pin Videos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-screencaptureapps-recording-your-next-google-meet/"><u>2024 Approved ScreenCaptureApps Recording Your Next Google Meet</u></a></li>
+<li><a href="https://windows11.techidaily.com/explore-football-fantasyland-how-to-thrive-in-ocm-without-spending-money/"><u>Explore Football Fantasyland: How to Thrive in OCM Without Spending Money</u></a></li>
+<li><a href="https://windows11.techidaily.com/five-free-methods-to-jot-down-on-windows-11/"><u>Five Free Methods to Jot Down on Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-inside-scoop-on-unbeatable-labor-day-sales-for-notebooks-featuring-top-picks/"><u>Get the Inside Scoop on Unbeatable Labor Day Sales for Notebooks - Featuring Top Picks</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-hp-deskjet-2600-driver-software-for-win7win8win10-systems/"><u>Get the Latest HP Deskjet 2600 Driver Software for Win7/Win8/Win10 Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-overcoming-wrong-character-display/"><u>Guide to Overcoming Wrong Character Display</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-shadowy-time-lapse-recording-methods/"><u>In 2024, Shadowy Time-Lapse Recording Methods</u></a></li>
+<li><a href="https://windows11.techidaily.com/integrating-taskbar-on-modern-windows-11-tablets/"><u>Integrating Taskbar on Modern Windows 11 Tablets</u></a></li>
+<li><a href="https://windows11.techidaily.com/journey-to-enhanced-productivity-integrating-android-and-windows-11-devices/"><u>Journey to Enhanced Productivity: Integrating Android and Windows 11 Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/micromobility-sphere-update-major-milestones-current-news-chat-and-additional-facts/"><u>Micromobility Sphere Update: Major Milestones, Current News, Chat and Additional Facts</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-video-translator-wondershare-virbo/"><u>New In 2024, Video Translator | Wondershare Virbo</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-s-best-free-mkv-editors-for-cutting-and-trimming-for-2024/"><u>New S Best Free MKV Editors for Cutting and Trimming for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategic-approach-to-overcoming-wows-unrecoverable-error-132/"><u>Strategic Approach to Overcoming WoW’s Unrecoverable Error 132</u></a></li>
+<li><a href="https://windows11.techidaily.com/trigger-microsoft-word-to-open-email-attachments-in-read-pane/"><u>Trigger Microsoft Word to Open Email Attachments in Read Pane</u></a></li>
+<li><a href="https://windows11.techidaily.com/unheard-voices-in-meet-solving-windows-microphone-problems/"><u>Unheard Voices in Meet: Solving Windows Microphone Problems</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-world-unravested-formulating-and-examining-diagnostic-data/"><u>Windows World Unravested: Formulating & Examining Diagnostic Data</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Navigating to Windows 11 on Mac via Parallels Installer
-date: 2024-08-22T21:41:36.429Z
-updated: 2024-08-23T21:41:36.429Z
+date: 2024-11-11T16:33:37.170Z
+updated: 2024-11-15T16:52:27.991Z
 tags:
   - windows10
   - windows11
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/922f3c41ec2a1fbc3c661b8fc51d0028e0ed70c9a
 
  In February 2023, Microsoft announced official support for Windows virtualization on ARM via Parallels Desktop 18.1\. With it, you can safely run the ARM version of Windows 11 on Apple silicon Macs and regular Windows versions on Intel-based Macs, knowing Microsoft has blessed this solution from a licensing perspective.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Windows 11 Virtualization With Parallels 18
 
  As a result of this collaboration, Parallels customers can download, install, and configure Windows 11 on their Macs in just a few clicks. Parallels 18.1 also provides a virtual[TPM chip](https://www.makeuseof.com/what-is-a-trusted-platform-module-tpm/) and support for Windows features like BitLocker, Secure Boot, and Windows Hello. Getting these security features is one of the[reasons to install Windows on a Mac](https://www.makeuseof.com/tag/reasons-install-windows-mac/) .
@@ -40,12 +47,16 @@ thumbnail: https://thmb.techidaily.com/922f3c41ec2a1fbc3c661b8fc51d0028e0ed70c9a
 
  Parallels 18 will automatically download the Windows installer, but you can also provide a copy of the installer if you've[downloaded a Windows 11 ISO file](https://www.makeuseof.com/windows-11-download-iso/) on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ## Step 1: Download Parallels Desktop 18
 
 ![The Parallels Desktop 18 installer in the macOS Finder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/parallels-desktop-18-macos-installer-finder.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Grab a free trial of Parallels Desktop 18 for macOS by visiting the[Parallels Desktop website](https://parallels.sjv.io/c/119570/1081277/13842?subId1=UUmuoUeUpU2013712&subId2=emuo&u=https%3A%2F%2Fwww.parallels.com%2Fproducts%2Fdesktop%2Ftrial%2F) , then click the**Download Free Trial** button. You can use Parallels features without restriction during your 14-day trial period. With the installer downloaded, open the**Install Parallels Desktop** disk image from your Downloads folder.
 
@@ -53,32 +64,40 @@ thumbnail: https://thmb.techidaily.com/922f3c41ec2a1fbc3c661b8fc51d0028e0ed70c9a
 
  With the disk image mounted, double-click the**Install Parallels Desktop** app. To finish installing Parallels, you must accept the terms, provide your Mac's username and password, and permit Parallels to access your Mac.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Step 2: Install Windows 11 in Parallels
 
 ![Installation Assistant in Parallels Desktop 18 for macOS offering to download and install Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/parallels-desktop-18-macos-installation-assistant-download-install-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
  Launch Parallels, and the Installation Assistant should take over. If it doesn't show up, click the**File** menu and choose**New** to create a fresh virtual machine. If the Installation Assistant offers to download and install Windows 11, accept by clicking the**Install Windows** button.
 
 ![A "Downloading Windows 11" message in Parallels Desktop 18 for macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/parallels-desktop-18-macos-installation-assistant-downloading-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  People with a Windows 11 ISO file already downloaded can optionally choose the**Install Windows or another OS from a DVD or image file** option and hit**Continue** . Assuming you've opted for automatic installation, Parallels will now automatically download a version of the Windows 11 ISO from Microsoft's website that's appropriate for your Mac hardware.
 
 ![Windows Setup running in Parallels Desktop 18 for macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/parallels-desktop-18-macos-installing-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  With that done, Parallels will validate and launch the installer. It may take a while to install Windows 11—be patient as Parallels optimizes Windows 11 on your Mac. You'll see an "Installation Complete" message at the end of the process. At that point, click the mouse to continue.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Step 3: Complete the Installation
 
  You'll be prompted to create a free Parallels account, but you can**Sign in with Apple** and avoid sharing your real email address. Parallels Desktop 18 includes a free trial without limitations. After it expires, you'll need to buy a license from the[Parallels website](https://parallels.sjv.io/c/119570/1081277/13842?subId1=UUmuoUeUpU2013712&subId2=emuo&u=https%3A%2F%2Fwww.parallels.com%2Fproducts%2Fdesktop%2Fbuy%2F) .
@@ -87,15 +106,19 @@ thumbnail: https://thmb.techidaily.com/922f3c41ec2a1fbc3c661b8fc51d0028e0ed70c9a
 
 ![Windows 11 running in Parallels Desktop 18 alongside macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/parallels-desktop-18-macos-windows-11-dektop-edge-browser.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You should now land on the Windows 11 desktop in a macOS window. With everything installed and set up correctly, you can run your favorite Windows apps and games alongside macOS!
 
 ## Step 4\. Install the Parallels Toolbox
 
 ![Accessing Parallels Desktop Toolbox from the macOS menu bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Parallels-Desktop-Toolbox-macOS-menu-bar.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
  This step is optional, but the Parallels Toolbox includes a variety of helpful utilities for freeing up storage space, content creation, optimizing computer settings for a presentation, and more. To get them, launch Parallels Desktop and click**Parallels > Install Parallels Toolbox for Mac** from the menu bar, then click**Install Now** .
 
  You can access the various apps in the Parallels Toolbox from the macOS menu bar in the top-right corner. Parallels Toolbox won't replace the need for multiple apps, so we wholeheartedly recommend installing your favorite Windows apps, too.
@@ -104,9 +127,6 @@ thumbnail: https://thmb.techidaily.com/922f3c41ec2a1fbc3c661b8fc51d0028e0ed70c9a
 
  For inspiration, check out our list of[must-have Windows apps for any new PC](https://www.makeuseof.com/new-windows-pc-must-have-applications-to-install-first/) .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step 5\. Customize Your Windows 11 Virtual Machine
 
 ![Choosing primary Windows 11 use case in Parallels Desktop 18 for macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/parallels-desktop-18-macos-settings-configure-for.jpg)
@@ -116,6 +136,13 @@ thumbnail: https://thmb.techidaily.com/922f3c41ec2a1fbc3c661b8fc51d0028e0ed70c9a
  You can give your Windows 11 virtual machine a custom title in the**Name** field.
 
 ![Adjusting Windows 11 virtual machine graphics in Parallels Desktop 18 for macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/parallels-desktop-18-macos-settings-graphics.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Next, click the**Hardware** tab to fine-tune your virtual machine by adjusting the amount of virtual RAM, processors, graphics cores, and other features available to Windows 11.
 
@@ -138,14 +165,11 @@ thumbnail: https://thmb.techidaily.com/922f3c41ec2a1fbc3c661b8fc51d0028e0ed70c9a
 
  Or, maybe you want to check out cool Windows games on your Mac. Regardless of your reason, virtualization software like Parallels is a very convenient method to run Microsoft's latest and greatest operating system alongside macOS with minimal effort.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -154,4 +178,22 @@ thumbnail: https://thmb.techidaily.com/922f3c41ec2a1fbc3c661b8fc51d0028e0ed70c9a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/updated-ideal-iphone-and-android-gopro-apps-cutting-edge-edits/"><u>[Updated] Ideal iPhone & Android GoPro Apps Cutting-Edge Edits</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-unseen-battles-umbraheroes-black-versus-luminaryheroes-silver/"><u>[Updated] Unseen Battles Umbraheroes (Black) Versus Luminaryheroes (Silver)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-action-cam-faceoff-hero5-black-and-yis-4k-battle-revisited/"><u>2024 Approved Action Cam Faceoff Hero5 Black and Yi's 4K Battle Revisited</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-on-pc-components-at-toms-equipment-source/"><u>Expert Analysis on PC Components at Tom's Equipment Source</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixes-for-recurrent-disk-filling-on-windows-pcs/"><u>Fixes for Recurrent Disk Filling on Windows PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/flipping-the-script-revisiting-timeless-pc-games/"><u>Flipping the Script: Revisiting Timeless PC Games</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-nokia-c12-plus-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Nokia C12 Plus Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-oneplus-nord-ce-3-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your OnePlus Nord CE 3 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-multitasking-running-windows-11-in-macos-with-parallels/"><u>Mastering Multitasking: Running Windows 11 in MacOS with Parallels</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-network-snags-seven-strategies-to-connect-in-obs-windows/"><u>Navigating Network Snags: Seven Strategies to Connect in OBS Windows</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/simplified-tech-livestreaming-of-facebook-using-obs-studio-for-2024/"><u>Simplified Tech Livestreaming of Facebook Using OBS Studio for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solution-steps-for-when-davinci-resolve-fails-to-start-up-in-windows-environment/"><u>Solution Steps for When DaVinci Resolve Fails to Start Up in Windows Environment</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-stopping-windows-11s-observer-mode/"><u>Strategies for Stopping Windows 11'S Observer Mode</u></a></li>
+<li><a href="https://windows11.techidaily.com/triumph-over-trapped-troubleshooting-of-windows-update/"><u>Triumph Over Trapped Troubleshooting of Windows Update</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-windows-11s-auto-hdr-capabilities/"><u>Unveiling Windows 11'S Auto HDR Capabilities</u></a></li>
+</ul></div>
 

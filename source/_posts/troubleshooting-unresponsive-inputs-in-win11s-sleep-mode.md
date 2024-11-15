@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Unresponsive Inputs in Win11's Sleep Mode
-date: 2024-08-27T16:01:53.084Z
-updated: 2024-08-28T16:01:53.084Z
+date: 2024-11-10T17:22:03.059Z
+updated: 2024-11-15T16:10:04.391Z
 tags:
   - windows10
   - windows11
@@ -47,8 +47,12 @@ thumbnail: https://thmb.techidaily.com/ccf2cd6688a4adcaeda8d922b0b91ea561ec3cf29
  Also, it might sound obvious, but make sure that your keyboard and mouse are working properly overall. If they suddenly don't do anything, they of course won't wake your PC from sleep. We've shown[how to fix an unresponsive laptop keyboard](https://www.makeuseof.com/tag/laptop-keyboard-not-working/) .
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Stop Your PC From Shutting Off USB Ports
 
  There's also a chance that your computer reduces power to its USB ports while asleep. In these cases, it won't pick up the signal when you move your mouse or press a key. To troubleshoot this, head back to the Device Manager and expand the**Universal Serial Bus controllers** section.
@@ -62,34 +66,43 @@ thumbnail: https://thmb.techidaily.com/ccf2cd6688a4adcaeda8d922b0b91ea561ec3cf29
 ![Windows 10 USB Suspend Power Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/Windows-10-USB-Suspend-Power-Options.png)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  This will keep your system from shutting off USB ports to save power, which should help it wake from sleep with a keyboard and mouse more reliably.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### For Bluetooth Mice and Keyboards
 
  If you use a Bluetooth mouse and keyboard, your computer might not receive Bluetooth signals while it's asleep. You can't tweak this in the Device Manager, so your best bets are to update your Bluetooth driver or consider getting a newer Bluetooth adapter with better power management. Run through our list of[steps to fix Bluetooth in Windows](https://www.makeuseof.com/tag/bluetooth-not-working-windows-10/) , as well, to rule out any deeper problems.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Wake Your Computer From Sleep the Easy Way
 
  Hopefully, you're now able to wake your computer from sleep just by pressing a key or moving your mouse. Problems with this usually come down to USB power management, which you can fix with the above.
 
  Unfortunately, this isn't the only issue you can run into with sleep mode in Windows, either.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -98,4 +111,22 @@ thumbnail: https://thmb.techidaily.com/ccf2cd6688a4adcaeda8d922b0b91ea561ec3cf29
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-harnessing-social-potential-a-compreenasculated-blueprint-for-smm-mastery/"><u>[New] 2024 Approved Harnessing Social Potential A Compreenasculated Blueprint for SMM Mastery</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigating-beginners-vlogging-landscape/"><u>[New] Navigating Beginner's Vlogging Landscape</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-shorten-videos-for-instagram-a-mac-guide-for-2024/"><u>[New] Shorten Videos for Instagram A Mac Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-cryptic-conundrums-bidding-on-the-invisible-artifacts-of-2023/"><u>[Updated] 2024 Approved Cryptic Conundrums Bidding on the Invisible Artifacts of 2023</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-complete-breakdown-of-instagrams-audio-copyright-rules/"><u>2024 Approved A Complete Breakdown of Instagram's Audio Copyright Rules</u></a></li>
+<li><a href="https://windows11.techidaily.com/easy-steps-for-activating-outlook-preview-in-windows-11-os/"><u>Easy Steps for Activating Outlook Preview in Windows 11 OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficiently-run-windows-11-news-and-video-sites-without-strain/"><u>Efficiently Run Windows 11 News & Video Sites without Strain</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-unexpected-closure-notifications-from-roblox-games/"><u>Eliminating Unexpected Closure Notifications From Roblox Games</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-windows-0x800704b3-network-hurdles/"><u>Eliminating Windows' 0X800704B3 Network Hurdles</u></a></li>
+<li><a href="https://windows11.techidaily.com/elusive-archive-tucked-away-zip-and-images-on-windows-11/"><u>Elusive Archive Tucked Away: ZIP & Images on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-windows-event-viewer-functionality/"><u>Enhancing Windows Event Viewer Functionality</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oppo-reno-9a-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Oppo Reno 9A to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/lass-nichts-unter-den-teppich-fallen-die-kunst-geloschte-videos-auf-deinem-laptop-wiederherzustellen-windows-11/"><u>Lass Nichts Unter Den Teppich Fallen! Die Kunst, Gelöschte Videos Auf Deinem Laptop Wiederherzustellen (Windows 11)</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/maximizing-views-6-simple-strategies-for-youtube-success-for-2024/"><u>Maximizing Views 6 Simple Strategies for YouTube Success for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/privacy-principles-for-the-digital-age-critical-tips-and-traps/"><u>Privacy Principles for the Digital Age: Critical Tips & Traps</u></a></li>
+</ul></div>
 

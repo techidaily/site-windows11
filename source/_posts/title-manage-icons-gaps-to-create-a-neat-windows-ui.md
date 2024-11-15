@@ -1,7 +1,7 @@
 ---
 title: "Title: Manage Icons Gaps to Create a Neat Windows UI"
-date: 2024-11-02T21:14:02.643Z
-updated: 2024-11-05T07:08:47.195Z
+date: 2024-11-10T17:10:07.634Z
+updated: 2024-11-15T16:43:59.922Z
 tags:
   - windows10
   - windows11
@@ -65,7 +65,21 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 ![The Extract All button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/extract-all-button4.jpg)
 5. Select the checkbox for the**Show extracted files when complete** setting on the Extract Compressed (Zipped) Folders window.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Extract Compressed window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/the-extract-compressed-window3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. To unzip the archive, click**Extract** .
 2. Double-click the installer file for Winaero Tweaker to bring up the software’s setup wizard.
@@ -81,6 +95,13 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 ![The Icons option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/icons-option.jpg)
 5. Then drag the slider for the**Vertical spacing** bar left or right to adjust the amount of vertical space for desktop icons.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Press the**Apply changes** button.
 7. Click the**Sign out now** option to restart your PC and apply the icon spacing changes.
 
@@ -93,22 +114,15 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 ![The Font window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/font-window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  There you can select a different icon font from a wide variety of alternatives in the**Font** menu. The**Font style** menu there includes 12 different styles for icon fonts to choose from. Input a higher or lower value in the**Size** box to increase or decrease the font size. You can also select**Strikeout** and**Underline** text effect options there.
 
  Click**OK** when you’ve customized the desktop icon font, and then select the**Apply Changes** and**Sign out** now options.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Change Desktop Icon Spacing With DesktopOK
 
@@ -125,24 +139,10 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 ![The Windows-Metrics option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-metrics-option.jpg)
 3. Select**Windows-Metrics** on the**Tools** menu.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Click**Yes** on the confirmation dialog prompt.
 5. Drag the**Horizontal Space** bar’s slider to change horizontal desktop icon spacing.  
 ![The spacing bars](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/spacing-bars.jpg)
 6. Then drag the**Vertical Space** bar’s slider to adjust vertical icon spacing.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also change desktop icon sizes from the Windows-Metrics window. Click the**Desktop icon size** drop-down menu to choose an alternative size from there. If you select the largest icon sizes, you’ll need to increase the spacing between them to prevent them overlapping.
 
@@ -165,24 +165,20 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-comparing-streaming-software-obs-vs-shadowplay-for-2024/"><u>[Updated] Comparing Streaming Software OBS vs ShadowPlay for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-gaming-frontier-exploration-premium-oculus-players-guide/"><u>2024 Approved Gaming Frontier Exploration Premium Oculus Players Guide</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/a-revolutionary-e-reader-for-book-lovers-the-kobo-forma-committed-to-quality-reading/"><u>A Revolutionary E-Reader for Book Lovers: The Kobo Forma Committed to Quality Reading</u></a></li>
-<li><a href="https://blog-min.techidaily.com/discover-ideal-codecs-maximizing-your-stream-with-the-right-plex-compatible-videos/"><u>Discover Ideal Codecs: Maximizing Your Stream with the Right Plex-Compatible Videos</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-install-hyper-v-on-windows-11-home/"><u>How to Install Hyper-V on Windows 11 Home</u></a></li>
-<li><a href="https://windows11.techidaily.com/ideal-guide-efficiently-change-heic-images-to-jpeg-format-on-windows-11/"><u>Ideal Guide: Efficiently Change HEIC Images to JPEG Format on Windows 11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-tecno-spark-20c-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Tecno Spark 20C Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-through-windows-security-entry-error/"><u>Navigating Through Windows 'Security Entry Error'</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimize-pc-management-with-customized-windows-troubleshooters-buttons/"><u>Optimize PC Management with Customized Windows Troubleshooters Buttons</u></a></li>
-<li><a href="https://windows11.techidaily.com/quelling-overzealousness-after-a-peak-life-period-on-windows/"><u>Quelling Overzealousness After a Peak Life Period on Windows</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/real-time-gamcapture-hacks-and-insights/"><u>Real-Time GamCapture Hacks and Insights</u></a></li>
-<li><a href="https://windows11.techidaily.com/revive-lost-control-secrets-for-steam-in-windows/"><u>Revive Lost Control: Secrets for Steam in Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/s620-driver-installation-manual-step-by-step/"><u>S620 Driver Installation Manual - Step by Step</u></a></li>
-<li><a href="https://blog-min.techidaily.com/step-by-step-guide-transforming-avi-files-into-quicktime-mov-format-on-macos-big-sur/"><u>Step-by-Step Guide: Transforming AVI Files Into QuickTime MOV Format on macOS Big Sur</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-on-adding-soundtracks-to-insta-clips/"><u>Step-by-Step Tutorial on Adding Soundtracks to Insta Clips</u></a></li>
-<li><a href="https://windows11.techidaily.com/timeless-upgrades-essential-time-saver-tools-for-pcs/"><u>Timeless Upgrades: Essential Time Saver Tools for PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/ultimate-7-list-cost-free-windows-media-centers/"><u>Ultimate 7 List: Cost-Free Windows Media Centers</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/unveiling-the-magic-transforming-scenes-with-gopro-timelapse/"><u>Unveiling the Magic Transforming Scenes with GoPro Timelapse</u></a></li>
-<li><a href="https://windows11.techidaily.com/zap-zaps-revitalizing-a-sluggish-windows-11-experience/"><u>Zap Zaps: Revitalizing a Sluggish Windows 11 Experience</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-from-raw-to-masterpiece-the-premier-free-mobile-editors-for-android/"><u>[New] 2024 Approved From Raw to Masterpiece The Premier Free Mobile Editors for Android</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-unleash-creative-expression-your-guide-to-sending-gifs-via-snapchat/"><u>[Updated] Unleash Creative Expression Your Guide to Sending Gifs via Snapchat</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-elevate-content-discovery-the-tubebuddy-way/"><u>2024 Approved Elevate Content Discovery The TubeBuddy Way</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-guide-overcoming-outlook-crashing-issues/"><u>Essential Guide: Overcoming Outlook Crashing Issues</u></a></li>
+<li><a href="https://fox-http.techidaily.com/exploring-the-high-fidelity-world-of-samsungs-4k-s8/"><u>Exploring the High-Fidelity World of Samsung's 4K S8</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-get-past-a-non-starting-battlenet-interface/"><u>How to Get Past a Non-Starting Battle.net Interface</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-13-mini-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 13 mini without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-dialogue-dynamics-connecting-with-your-youtube-crowd/"><u>In 2024, Dialogue Dynamics Connecting With Your YouTube Crowd</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-the-art-of-regaining-win-folder-entry/"><u>Master the Art of Regaining Win Folder Entry</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-11s-uptime-failure-error-code-0x80246007/"><u>Overcoming Windows 11’S Uptime Failure: Error Code 0X80246007</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinstate-audio-preferences-winvolume-issue-resolution/"><u>Reinstate Audio Preferences: WinVolume Issue Resolution</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-essential-guide-to-windows-11-widget-bar-activation/"><u>The Essential Guide to Windows 11 Widget Bar Activation</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-windows-11-help-app-restoration/"><u>Tips for Windows 11 Help App Restoration</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/ultimate-guide-to-secure-connectivity-discover-the-best-12-protection-tools-for-wireless-networks-featuring-malwarefox/"><u>Ultimate Guide to Secure Connectivity: Discover the Best 12 Protection Tools for Wireless Networks Featuring MalwareFox</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-fcpx-not-your-cup-of-tea-discover-10-exceptional-video-editing-alternatives/"><u>Updated In 2024, FCPX Not Your Cup of Tea? Discover 10 Exceptional Video Editing Alternatives</u></a></li>
 </ul></div>
 

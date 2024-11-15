@@ -1,7 +1,7 @@
 ---
 title: "Explore & Connect: Advanced Drives Mapping on Windows 11"
-date: 2024-08-22T21:44:17.698Z
-updated: 2024-08-23T21:44:17.698Z
+date: 2024-11-13T16:06:04.648Z
+updated: 2024-11-15T16:35:24.118Z
 tags:
   - windows10
   - windows11
@@ -56,6 +56,14 @@ Here's what you need to do to use File Explorer for mapping:
 2. Right-click on**This PC** and select the**Map network drive...** button in the context menu that appears.  
 ![This PC Context Menu In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/this-pc-context-menu-in-windows.jpg)
 3. Choose a unique drive letter in the**Map Network Drive** window. This is the drive you'll use to access the shared folder from your computer. As an example, we've selected**A:** as the drive letter.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Enter the path to the shared folder you want to map in the**Folder:** field. This can be a local path on the computer, such as**\\\\YourComputer\\SharedFolder** , or a network path, such as**\\\\ServerName\\SharedFolder** .  
 ![Windows Shared Network Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-shared-network-folder.jpg)
 5. If you need a username and password to access the shared folder, check the**Connect using different credentials** box and enter the required information.
@@ -66,9 +74,6 @@ Here's what you need to do to use File Explorer for mapping:
 
  Want to access the shared folder in milliseconds? You can create a shortcut to the mapped network drive on your desktop for quick access.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ## 2\. Use Windows PowerShell for Mapping
 
  Windows PowerShell is a Windows command-line utility that provides a powerful set of tools and commands. One of the tasks you can perform using PowerShell is to map a network drive.
@@ -81,17 +86,18 @@ Follow these instructions to map a drive using Windows PowerShell:
 New-PSDrive -Name DRIVE -PSProvider FileSystem -Root \\ServerName\SharedFolder  
 ![PowerShell Mapping Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/powershell-mapping-command.jpg)
 4. If the shared folder requires a username and password to access, you can add the -Credential parameter to the command, followed by a username and password in the format username and password. For example:  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 New-PSDrive -Name X -PSProvider FileSystem -Root \\ServerName\SharedFolder -Credential username password
 5. Hit**Enter** to allow PowerShell to map the network drive. You can access the mapped drive from File Explorer now.
 
  Besides mapping, you can do a wide range of things, like managing and automating tasks on Windows. For that, you must know some[useful PowerShell commands](https://www.makeuseof.com/windows-powershell-commands-cmdlets/) .
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Use Command Prompt for Mapping
 
  Just like you used PowerShell earlier, you can use the Windows Command Prompt tool to map a network drive.
@@ -105,15 +111,23 @@ net use DRIVE \\ServerName\SharedFolder
 net use DRIVE \\ServerName\SharedFolder /user:username pass  
 ![Mapping In Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/mapping-in-command-prompt.jpg)
 4. Once you've made the required changes, hit**Enter** to execute the command.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  That's it. It'll take a few seconds, and then you can access the mapped drive from File Explorer with one click.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Disconnect a Mapped Network Drive
 
  Disconnecting the network drive is a no-brainer if you no longer need access to the files on it.
@@ -127,23 +141,17 @@ net use DRIVE \\ServerName\SharedFolder /user:username pass
 
  The mapped network drive will now disappear from File Explorer, and you can no longer access it from the drive letter you created earlier.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Map Network Drives Easily in Windows 11
 
  Mapping a network drive in Windows 11 is a great way to access shared folders on other computers or servers. This can save you time and make managing and organizing your files easier.
 
  While mapping is only useful in the case of network drives, there are many other methods to share files without a network setup. For example, you can use external storage, cloud storage services, a data transfer cable, etc.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -152,4 +160,24 @@ net use DRIVE \\ServerName\SharedFolder /user:username pass
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-proposal-anthems-top-10-love-ballads-and-their-meanings/"><u>[New] 2024 Approved Proposal Anthems Top 10 Love Ballads and Their Meanings</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-prime-7-free-screen-recorders-for-old-computers/"><u>[New] In 2024, Prime 7 Free Screen Recorders for Old Computers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-flawless-offline-viewing-your-guide-to-mobile-video-downloads-for-idevices-for-2024/"><u>[Updated] Flawless Offline Viewing Your Guide to Mobile Video Downloads for iDevices for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-transforming-your-archive-adding-instagram-filters-to-old-media/"><u>[Updated] In 2024, Transforming Your Archive Adding Instagram Filters to Old Media</u></a></li>
+<li><a href="https://fox-search.techidaily.com/1-quick-and-simple-guide-migrate-all-your-data-from-hotmail-to-gmail-seamlessly/"><u>1. Quick & Simple Guide: Migrate All Your Data From Hotmail to Gmail Seamlessly</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-guide-repairing-jvmdll-is-missing-or-corrupt-issues/"><u>Comprehensive Guide: Repairing 'JVM.DLL Is Missing or Corrupt' Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-fixes-for-frozen-terminal-apps-on-windows/"><u>Essential Fixes for Frozen Terminal Apps on Windows</u></a></li>
+<li><a href="https://fox-http.techidaily.com/exploring-the-heart-of-srt-in-depth-for-2024/"><u>Exploring the Heart of SRT in Depth for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/google-wallet-expands-on-wear-os-now-features-loyalty-program-integration-with-partners-like-starbucks-and-cvs/"><u>Google Wallet Expands on Wear OS: Now Features Loyalty Program Integration with Partners Like Starbucks and CVS</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-correcting-invalid-profiles-on-windows-oses/"><u>Guide to Correcting Invalid Profiles on Windows OSes</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Lava Blaze Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/immediate-resolution-for-windows-network-proxy-issue/"><u>Immediate Resolution for Windows Network Proxy Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-tips-for-repairing-video-playback-errors/"><u>Quick Tips for Repairing Video Playback Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fix-resolving-iphone-photos-import-error-in-windows-pcs/"><u>Quick-Fix: Resolving iPhone Photos Import Error in Windows PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/transition-without-subsys-optimizing-for-upcoming-android-solutions/"><u>Transition Without Subsys: Optimizing for Upcoming Android Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/unblocking-invisible-networks-microsoft-fix-it-guide/"><u>Unblocking Invisible Networks: Microsoft Fix-It Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-the-riddle-of-windows-winerror-woes/"><u>Unraveling the Riddle of Window's WinError Woes</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Minimizing CPU Overuse: A Practical Approach"
-date: 2024-08-22T21:42:57.980Z
-updated: 2024-08-23T21:42:57.980Z
+date: 2024-11-11T16:51:42.737Z
+updated: 2024-11-15T16:37:01.955Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,13 @@ thumbnail: https://thmb.techidaily.com/2ef59ce044e2e7e5ba0e6dcc5016c001910532c38
 
  As you can see, it is an extremely important process.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why Is Modern Setup Host Causing High CPU Usage?
 
  Many things can alert you that something on your computer is being wasteful with system resources. In the best-case scenario, your computer can become sluggish, and, in the worst-case scenario, it might outright crash. If Modern Setup Host is the culprit behind this, causing high CPU usage, the following could be the reasons why:
@@ -39,25 +46,33 @@ thumbnail: https://thmb.techidaily.com/2ef59ce044e2e7e5ba0e6dcc5016c001910532c38
 
  There are several things you can do to stop Modern Setup Host from causing high CPU usage, and we're going to cover several of them in this section. And if none of them work and the situation gets so bad that you can't operate your PC efficiently, you can consider [resetting your Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/)[Computer](http://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Run an SFC or DISM Scan
 
  When your computer has corrupted, damaged, or missing system files, it can affect system components, including Modern Setup Host. This can cause these components to not function properly, leading to high CPU usage. To fix this, you can [repair or replace the affected Windows system files](https://www.makeuseof.com/windows-built-in-repair-tools/) using built-in tools like the SFC and DISM scan.
 
 ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/sfc-scannow-command.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
  Once you run the scans, restart your computer and check if Modern Setup Host is still causing high CPU usage.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. Use the Update Troubleshooter
 
  The Update Troubleshooter is a tool on Windows that can help diagnose and fix common issues related to Windows Updates. And since Modern Setup Host is integral to the Windows Update process, running the troubleshooter can also help fix issues that affect it, including what's making it cause high CPU usage.
 
  To do that, you can learn [how to run any troubleshooter on Windows](https://www.makeuseof.com/run-troubleshooter-windows-10-11/), including the Update Troubleshooter.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Delete the Contents of the SoftwareDistribution Folder
 
@@ -67,39 +82,38 @@ thumbnail: https://thmb.techidaily.com/2ef59ce044e2e7e5ba0e6dcc5016c001910532c38
 
 ![services msc Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/services-msc-Windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
  Find **Windows Update** in the list of services, right-click it, and select **Stop**.
 
 ![Stop Windows Update Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/stop-windows-update-service.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
  Once the service stops, go to the SoftwareDistribution folder by [opening the Windows File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) and heading to **C: > Windows > SoftwareDistribution**.
 
 ![Clear SoftwareDistribution Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/clear-softwaredistribution-folder.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Now, press **Ctrl + A** to select everything inside the folder and press **Shift + Delete**. In the prompt, confirm that you want to clear the folder by clicking on **Yes**.
 
 ### 4\. Try a Clean Boot
 
  A clean boot can help you rule out third-party programs and services that could conflict with Modern Setup Host. In this mode, Windows will launch with only the essential programs and services it needs to run, allowing you to rule out the culprit. Luckily, [launching Windows in a clean boot state](https://www.makeuseof.com/clean-boot-windows-11/) is easy, and the instructions are the same for both Windows 10 and 11\.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Stop the Modern Setup Host From Negatively Impacting Your Computer
 
  Many things can cause high CPU usage on a Windows computer, and one of them is the Modern Setup Host. This process should be able to do its thing rather quickly when everything is in order during a Windows Update. But if there's something affecting the update process, it can stall and cause high CPU usage.
 
  So, try fixing corrupted or damaged system files, using the Update Troubleshooter, clearing the SoftwareDistrubiton folder, or performing a clean boot. Hopefully, the problem will go away before you have to reset your computer.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -107,3 +121,25 @@ thumbnail: https://thmb.techidaily.com/2ef59ce044e2e7e5ba0e6dcc5016c001910532c38
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-bring-back-sharpness-the-ultimate-choice-for-restoring-images/"><u>[New] 2024 Approved Bring Back Sharpness The Ultimate Choice for Restoring Images</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-envisioned-masterpieces-iphones-top-10-photographic-rules-for-2024/"><u>[New] Envisioned Masterpieces IPhone's Top 10 Photographic Rules for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-revolutionizing-tv-broadcasts-with-fb-live-streaming/"><u>[Updated] 2024 Approved Revolutionizing TV Broadcasts with FB Live Streaming</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-efficiently-incorporate-youtube-playlists-for-engaging-pages/"><u>[Updated] In 2024, Efficiently Incorporate YouTube Playlists for Engaging Pages</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-screen-protectors-that-enhance-vr-filming/"><u>[Updated] Screen Protectors That Enhance VR Filming</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/comprehensive-tutorial-updating-and-downloading-acer-aspire-graphics-and-chipset-drivers-for-windows-users/"><u>Comprehensive Tutorial: Updating and Downloading Acer Aspire Graphics & Chipset Drivers for Windows Users</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720062446482-effortless-hardware-enhancement-install-now/"><u>Effortless Hardware Enhancement, Install Now!</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-clearing-winsec-error-limited-administrator/"><u>Guide to Clearing WinSec Error - 'Limited Administrator'</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-guarantee-windows-screensaver-immobility/"><u>How to Guarantee Windows Screensaver Immobility</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-tackle-winservicesexe-malfunctions/"><u>How To Tackle WinServices.exe Malfunctions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-achieving-peak-picture-performance-without-dollars/"><u>In 2024, Achieving Peak Picture Performance, Without Dollars</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-vivo-x-flip-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Vivo X Flip to Mac? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-servers-problems-quick-and-effective-tips/"><u>Navigating Through Servers Problems: Quick & Effective Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/rejuvenating-pcs-essential-13-tricks-for-restoring-systems/"><u>Rejuvenating PCs: Essential 13 Tricks for Restoring Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-art-of-crafting-a-better-windows-11/"><u>The Art of Crafting a Better Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshoot-error-non-working-windows-11-voice-access/"><u>Troubleshoot Error: Non-Working Windows 11 Voice Access</u></a></li>
+<li><a href="https://windows11.techidaily.com/why-does-tasker-show-other-processes/"><u>Why Does Tasker Show Other Processes?</u></a></li>
+</ul></div>
+

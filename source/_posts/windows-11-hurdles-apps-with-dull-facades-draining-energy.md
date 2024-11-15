@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Hurdles: Apps With Dull Facades Draining Energy"
-date: 2024-10-30T22:48:49.911Z
-updated: 2024-11-05T06:04:41.976Z
+date: 2024-11-13T16:28:06.980Z
+updated: 2024-11-15T16:34:13.843Z
 tags:
   - windows10
   - windows11
@@ -38,10 +38,10 @@ thumbnail: https://thmb.techidaily.com/4344716e214d80fc0302240776bca3183fcb221b8
  The article claims that the processes take up a few hundred megabytes of RAM, but the real proof comes from [Out of Office Hours](https://oofhours.com/2022/01/30/the-overhead-of-widgets-and-teams-in-windows-11/), which posted a screenshot showing several WebView2 processes each taking their slice of the RAM pie.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Disable the Chat and Widget App and Save Your Ram
@@ -51,10 +51,10 @@ thumbnail: https://thmb.techidaily.com/4344716e214d80fc0302240776bca3183fcb221b8
  And that’s it—the Widget and Chat icons will be removed from the desktop and won’t occupy any RAM unnecessarily.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Find and Disable Other Apps
@@ -62,10 +62,10 @@ thumbnail: https://thmb.techidaily.com/4344716e214d80fc0302240776bca3183fcb221b8
  It's not uncommon to get your PC memory drained by apps or background processes that aren't actually doing anything. To prevent this from happening, you have a [drove of tools for finding and disabling these apps](https://www.makeuseof.com/windows-pc-too-many-background-processes/). Everything from Task Manager, System Configuration, and the Settings App will help you in this. So make sure you check out and disable these apps as well.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## An Unideal Welcome Party for Windows 11 Users
@@ -77,10 +77,16 @@ thumbnail: https://thmb.techidaily.com/4344716e214d80fc0302240776bca3183fcb221b8
  At the same time, it's not a true Windows launch unless things go a bit awry at the start. Hopefully, these little annoyances will end up being teething issues for Windows 11, and not the norm moving forward.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Out of Sight, Out of Mind (and Memory)
@@ -97,24 +103,18 @@ thumbnail: https://thmb.techidaily.com/4344716e214d80fc0302240776bca3183fcb221b8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-fix-youtube-buffering-on-mobile-fb-content/"><u>[New] In 2024, Fix YouTube Buffering on Mobile FB Content</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-complete-directors-guide-to-powerdirector-24-software/"><u>2024 Approved Complete Director's Guide to PowerDirector '24 Software</u></a></li>
-<li><a href="https://windows11.techidaily.com/8-ways-to-fix-the-windows-pin-not-working-in-windows-11-and-11/"><u>8 Ways to Fix the Windows PIN Not Working in Windows 11 & 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-the-high-demand-of-ntoskrnlexe-processes/"><u>Addressing the High Demand of Ntoskrnl.exe Processes</u></a></li>
-<li><a href="https://windows11.techidaily.com/bestow-magical-menus-on-your-pc/"><u>Bestow Magical Menus on Your PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypassing-black-backgrounds-on-your-windows-pc/"><u>Bypassing Black Backgrounds on Your Windows PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/cant-choose-a-drive-to-install-games-on-the-xbox-app-for-windows-try-these-fixes/"><u>Can't Choose a Drive to Install Games on the Xbox App for Windows? Try These Fixes</u></a></li>
-<li><a href="https://windows11.techidaily.com/clear-the-way-to-privacy-with-simple-steps-for-ms-defender/"><u>Clear the Way to Privacy with Simple Steps for MS Defender</u></a></li>
-<li><a href="https://windows11.techidaily.com/de-cluttering-notifications-tips-for-windows-11-users/"><u>De-Cluttering Notifications: Tips for Windows 11 Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/delving-into-windows-11s-data-preservation-capabilities/"><u>Delving Into Windows 11'S Data Preservation Capabilities</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-on-your-apple-iphone-6s-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID On Your Apple iPhone 6s</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Oppo A59 5G | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-motorola-moto-g24-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Motorola Moto G24 Phone</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719366391353-keyboards-on-the-ropes-reclaim-your-arrows/"><u>Keyboards on the Ropes? Reclaim Your Arrows!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-network-issues-in-civ-5/"><u>Resolving Network Issues in CIV 5</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-ntfs-file-system-issues-in-windows-11-a-comprehensive-guide/"><u>Resolving NTFS File System Issues in Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-tutorial-setting-up-windows-movie-maker-in-windows-11-environment/"><u>Step-by-Step Tutorial: Setting Up Windows Movie Maker in Windows 11 Environment</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-ultimate-step-by-step-guide-for-using-movie-maker-on-w11/"><u>The Ultimate Step-By-Step Guide for Using Movie Maker on W11</u></a></li>
-<li><a href="https://fox-http.techidaily.com/transformative-youtube-title-genesis-tools/"><u>Transformative YouTube Title Genesis Tools</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-the-rise-and-fall-of-vegas-pro-a-critical-look-for-2024/"><u>[New] The Rise and Fall of Vegas Pro A Critical Look for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-top-tier-strategies-for-flawless-srt-file-integration-on-vero-and-tumblr/"><u>[Updated] Top-Tier Strategies for Flawless SRT File Integration on Vero & Tumblr</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/diy-guide-enhancing-audio-performance-with-updated-usb-drivers-on-microsofts-latest-and-older-operating-systems/"><u>DIY Guide: Enhancing Audio Performance with Updated USB Drivers on Microsoft's Latest & Older Operating Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-tips-for-rectifying-display-driver-crashes/"><u>Essential Tips for Rectifying Display Driver Crashes</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-disable-hyper-v-in-windows-11/"><u>Guide to Disable Hyper-V in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/improve-efficiency-with-top-5-clock-screensaver-apps/"><u>Improve Efficiency with Top 5 Clock Screensaver Apps</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-itel-a05s-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Itel A05s Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-auto-shutdown-for-idle-windows-1011-machines/"><u>Mastering Auto-Shutdown for Idle Windows 10/11 Machines</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/pemulihan-iphone-dengan-perangkat-lunak-paling-terbaik-untuk-pc-ulasan-dan-nilai-keunggulan/"><u>Pemulihan iPhone Dengan Perangkat Lunak Paling Terbaik Untuk PC - Ulasan Dan Nilai Keunggulan!</u></a></li>
+<li><a href="https://howto.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-vivo-x-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tango-free-text-voice-and-video-calls/"><u>Tango - Free Text, Voice and Video Calls</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-non-functional-skype-microphone-on-windows-1n/"><u>Troubleshooting Guide: Fixing Non-Functional Skype Microphone on Windows 1N</u></a></li>
+<li><a href="https://driver-error.techidaily.com/where-are-my-nvidia-cards/"><u>Where Are My Nvidia Cards?</u></a></li>
 </ul></div>
 

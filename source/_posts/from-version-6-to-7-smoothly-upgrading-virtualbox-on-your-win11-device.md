@@ -1,7 +1,7 @@
 ---
 title: "From Version 6 to 7: Smoothly Upgrading VirtualBox on Your Win11 Device"
-date: 2024-08-27T16:01:49.396Z
-updated: 2024-08-28T16:01:49.396Z
+date: 2024-11-09T17:28:42.671Z
+updated: 2024-11-15T16:35:21.134Z
 tags:
   - windows10
   - windows11
@@ -31,8 +31,12 @@ thumbnail: https://thmb.techidaily.com/80c8f2832769bf50662b01ca1e988a4c71933b23e
  But that’s not all! If you connect USB devices to VirtualBox virtual machines, you will have to remove the old extension pack and install the latest one released for the new build. Lastly, you will have to install the new guest additions pack for VirtualBox 7.0\. So, let’s begin.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 1\. Download the VirtualBox 7.0 Installer File and the Extension Pack
 
  Repeat the following steps to download all the necessary files for VirtualBox 7.0.
@@ -47,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/80c8f2832769bf50662b01ca1e988a4c71933b23e
 
 Now, you have all the necessary files to upgrade to VirtualBox 7.0.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. Install VirtualBox 7.0
 
 To install VirtualBox 7.0, repeat the following steps:
@@ -62,22 +62,25 @@ To install VirtualBox 7.0, repeat the following steps:
 5. VirtualBox 7.0 installer will launch. Pick the installation destination and click on the**Yes** button.  
 ![Install VirtualBox 7.0](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-virtualbox-7-0.jpg)
 6. VirtualBox will warn you about temporarily shutting the network interfaces. It means you will lose internet connectivity for some time.
+
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 7. Click on the**Yes** button. The installer will notify you about the missing dependencies. Click on the**Yes** button to install them as well.
 8. Wait for the installation to complete. Click on the**Finish** button to close the installer window.
 
  VirtualBox 7.0 will launch on your system. But wait! Don’t close the app yet.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Install the New Extension Pack
 
@@ -114,14 +117,24 @@ To install the VirtualBox 7.0 extension pack, do as follows:
 5. Double-click to open the CD image directory. Scroll down and right-click on the**VBoxWindowsAdditions–amd64.exe** file. Select**Run as administrator** from the context menu.  
 ![Install the Guest Additions 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-the-guest-additions-1.jpg)
 6. UAC will pop up. Click on**Yes** to continue.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![Install the Guest Additions 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-the-guest-additions-2.jpg)
 7. Follows the on-screen prompts to install the Guest Additions on your system.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 8. Click on the**Reboot now** option to apply changes to the Windows virtual machine.
 
  It may take a while to install the guest additions. Once done, you can change the resolution of the virtual machine to match the display resolution.
@@ -130,21 +143,15 @@ To install the VirtualBox 7.0 extension pack, do as follows:
 
  Yes. VirtualBox 7.0 will run the old virtual machines that you created without any issues. But you have to install the extension pack and the guest additions otherwise it could crash or not run at all. We tried running old Windows 10 and 11 virtual machines that we created in version 6.1.32, and they worked fine.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Upgrade to VirtualBox 7.0 With Ease
 
  VirtualBox 7.0 is the first third-party hypervisor to introduce emulation of TPM 2.0 chips. Microsoft still impedes Windows 11 installation as a virtual machine if the hypervisor cannot emulate the chip. But VirtualBox 7.0 can now install Windows 11 after enabling the passthrough of the TPM 2.0 chip for a virtual machine.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -153,4 +160,24 @@ To install the VirtualBox 7.0 extension pack, do as follows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-how-to-live-streaming-360-video-to-youtube/"><u>[New] How to Live Streaming 360 Video to Youtube</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-download-premium-video-covers-free-fast-and-easy-for-2024/"><u>[Updated] Download Premium Video Covers - Free, Fast & Easy for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/a-complete-walkthrough-of-vlc-capture-settings-for-2024/"><u>A Complete Walkthrough of VLC Capture Settings for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/best-practices-in-altering-igtv-video-titles/"><u>Best Practices in Altering IGTV Video Titles</u></a></li>
+<li><a href="https://windows11.techidaily.com/dual-display-designs-selective-screen-splendor-in-win-1011/"><u>Dual-Display Designs: Selective Screen Splendor in Win 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/easy-steps-to-bypass-renaming-restrictions-on-windows-11/"><u>Easy Steps to Bypass Renaming Restrictions on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-data-management-controlling-ntfs-compression/"><u>Efficient Data Management: Controlling NTFS Compression</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficiently-managing-frame-rates-to-reduce-delay/"><u>Efficiently Managing Frame Rates to Reduce Delay</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-multisystem-video-processing-on-a-single-windows-setup-with-tdarr/"><u>Elevate Multisystem Video Processing on a Single Windows Setup with Tdarr</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-user-not-valid-error-on-windows-11-and-11/"><u>Eliminating 'User Not Valid' Error on Windows 11 & 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-gpu-freeze-fix-code-0x887a0006/"><u>Eliminating GPU Freeze: Fix Code 0X887A0006</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhanced-docker-functionality-via-optimized-wsl-2-use/"><u>Enhanced Docker Functionality via Optimized WSL 2 Use</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-nubia-z50s-pro-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Nubia Z50S Pro Phone When You Forget the Password</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-excellence-in-penmanship-8-screenplay-classics/"><u>In 2024, Excellence in Penmanship 8 Screenplay Classics</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-7-drfone-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-through-best-144hz-display-options/"><u>Navigating Through Best 144Hz Display Options</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-ampaque-andes-1500-an-in-depth-look-at-this-portable-energy-marvel/"><u>Unveiling the Ampaque Andes 1500: An In-Depth Look at This Portable Energy Marvel</u></a></li>
+</ul></div>
 

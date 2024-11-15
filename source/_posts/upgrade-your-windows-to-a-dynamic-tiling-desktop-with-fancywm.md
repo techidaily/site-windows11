@@ -1,7 +1,7 @@
 ---
 title: Upgrade Your Windows to a Dynamic Tiling Desktop With FancyWM
-date: 2024-08-22T21:42:07.674Z
-updated: 2024-08-23T21:42:07.674Z
+date: 2024-11-13T17:28:36.701Z
+updated: 2024-11-15T17:13:59.746Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/8b331b35c6d777fdf8e0a1e1e6e83a2b89a91f457
 
  FancyWM combines both approaches. The app grants Windows the ability to automatically "tile" windows on the screen. Still, you can switch the feature on and off at will or individually set windows to float. And although FancyWM relies on shortcuts, too, for advanced window management, it's also mouse-friendly.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Download and Install FancyWM
 
  You can read more about the app at [FancyWM's official GitHub page](https://github.com/FancyWM), but the best "source" for installing it is the Microsoft Store. Launch the Microsoft Store app and search for "fancywm", or visit the [FancyWM Microsoft Store page](https://apps.microsoft.com/store/detail/fancywm-dynamic-tiling-window-manager/9P1741LKHQS9?hl=en-us&gl=us) directly.
@@ -39,23 +46,37 @@ thumbnail: https://thmb.techidaily.com/8b331b35c6d777fdf8e0a1e1e6e83a2b89a91f457
  Install FancyWM from its Microsoft Store page, and then launch it.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Start Moving Windows With Your Keyboard With FancyWM
 
  With FancyWM running, try opening two windows, and each will be "tiled" next to the other, each taking up half your screen.
 
 ![FancyWM Spotify Notepad Vertical Split](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/fancywm-spotify-notepad-vertical-split.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
  The same will happen if you open more windows. If one takes up "more than its share", that's because some windows have a "locked" minimum width and height.
 
 ![FancyWM Spotify Notepad Microsoft Edge Vertical Split](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/fancywm-spotify-notepad-microsoft-edge-vertical-split.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Interactions with FancyWM start with its activation hotkey, by default mapped to the **Shift** \+ **Windows key** combination, followed by another key. If you only press the initial activation hotkey, FancyWM will show you a panel with the actions you can perform at any time.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Managing Window Groups
 
@@ -71,32 +92,27 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![FancyWM Resizing Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/fancywm-resizing-window.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To move windows around in the layout with your keyboard instead of the mouse, hit FancyWM's activation key followed by **CTRL** \+ **Cursor Keys**. To have windows swap positions, use **Shift** \+ **Cursor Keys** instead.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ### Working With Stacks
 
  To assist with navigation, FancyWM presents each stacked window's title on a bar on the top of the group. You can switch between the windows by clicking on their titles.
 
 ![FancyWM Split Vertical Layout with Stacked Spotify Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/fancywm-split-vertical-layout-with-stacked-spotify-notepad.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Using All Your Virtual Desktops & Monitors
 
  If you press FancyWM's activation key and then one of the **numerical keys** (from 1 to 9), you can switch between desktops. To move a window to another desktop, keep **Shift** held while pressing the desktop's number.
 
  Are you using multiple monitors with your computer? You can switch between the displays (after using FancyWM's activation key) with the **function keys** (F1-F9). To move a window to any of them, keep **Shift** held while pressing a function key.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Use Floating Windows With FancyWM
 
  To temporarily turn off FancyWM's automatic tiling, use its activation key followed by **F11**. Do the same to re-enable it.
@@ -122,27 +138,31 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![FancyWM Tray Icon Menu Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/fancywm-tray-icon-menu-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
  If you like how it upgrades window management and decide to keep using it, on the **General** page, under **Startup**, you can set FancyWM to **Run automatically at system startup**. Also, enable **Run with administrator privileges** if you want it to manage any windows with elevated privileges (otherwise, it won't "have the rights" to do so).
 
 ![FancyWM Settings Startup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/fancywm-settings-startup.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To make FancyWM feel zippier, especially on older or underpowered PCs, scroll down to the **Window movement** section and turn off **Animate window movement**. From the same spot, you can set FancyWM to **Automatically activate the moved window**.
 
 ![FancyWM Settings Window Movement](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/fancywm-settings-window-movement.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Would you like to increase or decrease the gap between tiled windows? Scroll down and, under **Interface**, adjust the **Window gap** value.
 
 ![FancyWM Settings Window Gap](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/fancywm-settings-window-gap.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Are you using more than one monitor? You can choose from the **Displays** page if FancyWM should tile windows on all of them.
 
@@ -152,21 +172,22 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![FancyWM Settings Keybinding](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/fancywm-settings-keybinding.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  As its name implies, from the **Rules** page, you can "tell" FancyWM to skip managing particular windows and have them always **float** (until you manually "tile them").
 
 ![FancyWM Settings Rules](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/fancywm-settings-rules.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you check out FancyWM's **Advanced** Settings page, you'll find AutoHotkey. This lets you create complex scripts for managing your windows.
 
  If you've never heard of this tool before, you can [use AutoHotkey to create app-specific hotkeys](https://www.makeuseof.com/autohotkey-app-specific-hotkeys/) or even make your own [note-taking](https://www.makeuseof.com/windows-autohotkey-note-taking-app/) or [transcription apps](https://www.makeuseof.com/make-transcription-app-whisper-autohotkey/).
 
 ![FancyWM Settings Advanced](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/fancywm-settings-advanced.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Power User's Approach to Window Management
 
@@ -176,11 +197,29 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  The "tiling" approach is regaining popularity in the world of Linux but, tools like FancyWM bring window tiling to Microsoft's Windows. Here's how it can help you keep your desktop clean and organized and, as a bonus, boost your productivity.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-a-deep-dive-into-youtube-mastery-using-sony-vegas-software-for-2024/"><u>[Updated] A Deep Dive Into YouTube Mastery Using Sony Vegas Software for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-comprehensive-list-of-vimeo-downloader-utilities/"><u>[Updated] In 2024, Comprehensive List of Vimeo Downloader Utilities</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-ultimate-laptop-recording-mastering-screenrec-for-2024/"><u>[Updated] Ultimate Laptop Recording Mastering ScreenRec for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-self-filmed-brilliance-secrets-for-youtube-success/"><u>2024 Approved Self-Filmed Brilliance Secrets for YouTube Success</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-enable-or-disable-in-hand-typing-windows-10/"><u>How to Enable or Disable In-Hand Typing Windows 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-x50iplus-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of X50i+ using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-meme-mastery-10-essential-apps-for-android-and-ios/"><u>In 2024, Meme Mastery 10 Essential Apps for Android and iOS</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-secrets-revealed-mastering-chapter-integration-in-youtube-videos/"><u>In 2024, Secrets Revealed Mastering Chapter Integration in YouTube Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/los-reproductores-fan-favoritos-para-contenido-mkv-en-windowsmac-top-10-opiniones-y-consejos-para-la-descarga-de-2aturas-del-ano-2020/"><u>Los Reproductores Fan Favoritos Para Contenido MKV en Windows/Mac (Top 10): Opiniones Y Consejos Para La Descarga De 2Aturas Del Año 2020</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-projection-failure-issue/"><u>Overcoming Windows Projection Failure Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/reclaim-your-lost-5ghz-lan-link-in-windows-11-heres-how/"><u>Reclaim Your Lost 5GHz LAN Link in Windows 11 Here's How</u></a></li>
+<li><a href="https://windows11.techidaily.com/regaining-power-a-windows-guide-to-net-repair-max-156/"><u>Regaining Power: A Windows Guide to .NET Repair (Max 156)</u></a></li>
+<li><a href="https://windows11.techidaily.com/simplified-guide-for-converting-bat-files-into-exes/"><u>Simplified Guide for Converting .bat Files Into EXEs</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-samsung-galaxy-m34-by-drfone-android/"><u>Top 10 Password Cracking Tools For Samsung Galaxy M34</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-8-personalization-hacks-for-windows-1011-via-bubbleui/"><u>Top 8 Personalization Hacks for Windows 10/11 via BubbleUI</u></a></li>
+</ul></div>
+

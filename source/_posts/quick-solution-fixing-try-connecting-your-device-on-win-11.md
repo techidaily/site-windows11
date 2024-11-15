@@ -1,7 +1,7 @@
 ---
 title: "Quick Solution: Fixing 'Try Connecting Your Device' On Win 11"
-date: 2024-08-22T21:43:36.434Z
-updated: 2024-08-23T21:43:36.434Z
+date: 2024-11-14T17:09:47.986Z
+updated: 2024-11-15T16:00:56.935Z
 tags:
   - windows10
   - windows11
@@ -44,7 +44,22 @@ thumbnail: https://thmb.techidaily.com/9ed1822c884a606f5ae36981b782d8b43a1eaddd1
 4. Double-click**Bluetooth Support Service** to open its properties window.  
 ![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-services-window.jpg)
 5. Choose**Automatic** within the**Startup type** menu.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Startup type drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-startup-type-drop-down-menu.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Select the properties window’s**Start** option to run Bluetooth Support Service. If the service is already running, click**Stop** and**Start** to restart it.
 2. Click**Apply** to save the new Bluetooth Support Service settings.
@@ -52,9 +67,6 @@ thumbnail: https://thmb.techidaily.com/9ed1822c884a606f5ae36981b782d8b43a1eaddd1
 4. Repeat the above steps for all other Bluetooth-related services.
 5. Restart your PC after adjusting the Bluetooth services.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Reconfigure the Log On Settings for the Bluetooth Support Service
 
  Reconfiguring logon settings for the Bluetooth Support Service is another potential resolution some users confirm fixes the “try connecting your device again” error. To apply this fix, reconfigure the Bluetooth Support Service like this:
@@ -69,15 +81,9 @@ thumbnail: https://thmb.techidaily.com/9ed1822c884a606f5ae36981b782d8b43a1eaddd1
 1. Select**Local Services** in the search results.  
 ![The Find Now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/user-search-results.jpg)
 2. Click the Select User window’s**OK** button a couple of times.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. Erase the text in the**Password** and**Confirm password** boxes to clear them.  
 ![The Log On tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-log-on-tab.jpg)
 4. Select**Apply** \>**OK** to set the new logon settings.
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 5. Right-click the Bluetooth Support Service and select**Stop** if running. Then restart that same service by right-clicking and selecting**Start** .
 6. Right-click the**Bluetooth Handsfree Service** and select**Start** if that service is stopped.
 
@@ -100,14 +106,16 @@ Now we need to access the Bluetooth settings:
 5. Then right-click the Bluetooth adapter and select its**Uninstall device** option.  
 ![The Uninstall device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-uninstall-device-option.jpg)
 6. Select**Uninstall** when prompted to confirm the chosen option.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![The Uninstall button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-uninstall-button3.jpg)
 7. Restart the PC for Windows to reinstall a generic Bluetooth driver.
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Alternatively, you can download the latest Bluetooth adapter device driver from the manufacturer’s website for manual installation. Uninstall the Bluetooth driver as outlined in the steps above. Then double-click the downloaded Bluetooth driver setup package to install the latest driver.
 
@@ -117,6 +125,13 @@ Now we need to access the Bluetooth settings:
 
  There are some things you can do to the Windows system to correct this error.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Restore Windows 11/10 to an Earlier Date
 
  Restoring Windows to a restoration point could be a viable fix for the “Try connecting your device” issue. Much depends on whether there’s a system restore point that predates the error on your PC. If so, selecting to roll Windows back to the restore point saved before the error occurred could work.
@@ -124,13 +139,20 @@ Now we need to access the Bluetooth settings:
 ![The System Restore tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-system-restore-utility.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Note that you’ll need to reinstall software packages installed after a restore point’s date after applying this potential resolution. Our guide to[setting up and utilizing restore points on Windows](https://www.makeuseof.com/windows-11-create-restore-point/) tells you how to roll back Windows to an earlier time. Choose the oldest restore point you can if you’re not sure what to select.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ### Reinstall Windows 11
 
  Reinstalling Windows might sound a bit drastic, but some users confirm that to be a potential fix for the “Try connecting your device” error that works. Furthermore, you can reinstall the platform without losing software or user files with the in-place upgrade method.
@@ -138,6 +160,13 @@ Now we need to access the Bluetooth settings:
  Follow the instructions in this article about[performing an in-place Windows 11 upgrade](https://www.makeuseof.com/in-place-upgrade-windows-11/) to reinstall the platform without deleting software.
 
 ![The Windows 11 setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-windows-11-setup-window.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Utilize Your Connected Bluetooth Devices Again on Windows
 
@@ -149,8 +178,6 @@ Now we need to access the Bluetooth settings:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,4 +185,19 @@ Now we need to access the Bluetooth settings:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-able.techidaily.com/1726028545015-pc/"><u>「PCで映像録画手順ガイド」</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-screen-grabs-revealed-gaming-edition-reviewed/"><u>2024 Approved Screen Grabs Revealed Gaming Edition Reviewed</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/android-developers-choice-premier-tools-for-extracting-fb-videos-for-2024/"><u>Android Developer's Choice Premier Tools for Extracting FB Videos for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/creating-connection-identifying-the-best-6-videos/"><u>Creating Connection Identifying the Best 6 Videos</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-ultimate-gaming-experience-free-download-steelseries-engine-on-windows-10/"><u>Get Your Ultimate Gaming Experience: [Free Download] SteelSeries Engine on Windows 10</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Honor Magic 5? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/instructional-insights-into-activating-windows-11s-wireless-feature/"><u>Instructional Insights Into Activating Windows 11'S Wireless Feature</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/lenovo-introduces-innovative-2-in-1-device-a-hybrid-of-windows-laptop-and-android-tablet/"><u>Lenovo Introduces Innovative 2-in-1 Device: A Hybrid of Windows Laptop and Android Tablet</u></a></li>
+<li><a href="https://windows11.techidaily.com/make-your-file-explorer-reliable-fixes-that-work-in-windows-11/"><u>Make Your File Explorer Reliable: Fixes That Work in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-startup-fixes-for-frozen-windows-obs-studio/"><u>Mastering Startup Fixes for Frozen Windows OBS Studio</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-straightforward-speech-modification-software-overview-principles-and-comparable-alternatives/"><u>New 2024 Approved Straightforward Speech Modification Software Overview, Principles, & Comparable Alternatives</u></a></li>
+<li><a href="https://windows11.techidaily.com/setting-window-cookie-expiry-post-login-errors/"><u>Setting Window' Cookie Expiry Post-Login Errors</u></a></li>
+</ul></div>
 

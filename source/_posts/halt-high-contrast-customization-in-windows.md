@@ -1,7 +1,7 @@
 ---
 title: Halt High Contrast Customization in Windows
-date: 2024-08-22T21:40:36.049Z
-updated: 2024-08-23T21:40:36.049Z
+date: 2024-11-11T16:02:13.300Z
+updated: 2024-11-15T16:39:58.485Z
 tags:
   - windows10
   - windows11
@@ -32,16 +32,10 @@ thumbnail: https://thmb.techidaily.com/32a49341dcd2e3ff58b1a58ec7c331011d71244cd
 
  If High Contrast Mode has been turned on and you'd like to change that, there are multiple ways to get the job done.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ### 1\. Using the High Contrast Mode Shortcut keys
 
  To disable high contrast mode on Windows using keyboard shortcuts, press the**Left Alt + Left Shift + Print Screen** keys at once. You won’t see any pop-up window to confirm the action, but you will hear a “beep” sound before the system reverts to the default theme. You can use this shortcut again if you need to re-enable High Contrast mode.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. Using the Settings app
 
  To disable the high contrast mode using the Settings app on Windows 8 and above, do as follows.
@@ -62,8 +56,12 @@ thumbnail: https://thmb.techidaily.com/32a49341dcd2e3ff58b1a58ec7c331011d71244cd
 3. The Accessibility menu will pop up. Click on the**Contrast Theme** toggle to disable it.  
 ![Disable High Contrast Mode Using Sign In Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-high-contrast-mode-using-sign-in-screen.jpg)
 4. Windows will revert to the default theme. Enter your PIN or password and log in.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Using the Control Panel
@@ -76,6 +74,20 @@ thumbnail: https://thmb.techidaily.com/32a49341dcd2e3ff58b1a58ec7c331011d71244cd
 4. Now, select the**Choose a high contrast theme** option.  
 ![Disable High Contrast Mode Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-high-contrast-mode-using-control-panel.jpg)
 5. Navigate to**Themes > Contrast Themes** .
+
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Click on the drop-down menu in the Contrast Themes option and select the**None** option.
 7. Then, click on the**Apply** button.
 
@@ -86,11 +98,6 @@ thumbnail: https://thmb.techidaily.com/32a49341dcd2e3ff58b1a58ec7c331011d71244cd
 3. Click on the Windows classic theme or any other system theme.
 4. Windows 7 will switch from the high contrast theme to a normal theme.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ### 5\. Using the Run Dialog Box
 
  Repeat the following steps to disable high contrast mode using the run command box:
@@ -99,10 +106,14 @@ The powerful video editing program for your Windows PC</a>
 2. Type “**shell:::{ED834ED6-4B5A-4bfe-8F11-A626DCB6A921}** ” in the text input area and press the Enter key.  
 ![Disable High Contrast Mode Using Run Box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-high-contrast-mode-using-run-box.jpg)
 3. The old personalization settings control panel window will launch.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Click on any system theme. It will deactivate the current high-contrast theme and apply the selected theme.
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6\. Using Another Theme
 
@@ -116,9 +127,6 @@ The powerful video editing program for your Windows PC</a>
 
  If you want to re-enable the high-contrast theme, you have to visit the "high contrast theme" section here and choose a compatible theme.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 7\. Using a Script
 
  It is also possible to revert to a system theme using a script file on Windows. It will take less time as opposed to navigating the settings app to disable the high contrast mode. Here’s how to do it:
@@ -129,13 +137,25 @@ The powerful video editing program for your Windows PC</a>
 3. Now, press**Ctrl + S** to save the file. Type the name “**disablehc.bat** ” and click on the**save** button.  
 ![Disable High Contrast Mode Using a script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-high-contrast-mode-using-a-script.jpg)
 4. Go to the desktop again and right-click on the newly created .bat file.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Select the**Run as administrator** option in the context menu.
 6. UAC will pop up. Click on the**Yes** button to grant administrator privileges to the .bat file. Otherwise, it won’t be able to make changes to the system theme.
 7. The command prompt will pop up for a few seconds, run the script, and then close automatically. Your Windows system will disable the high contrast mode and switch to the aero theme.
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## The Windows High Contrast Theme Won’t Bother You Anymore
 
  These were the seven methods using which you can disable the high contrast theme on Windows. The quickest way is to use the hotkeys for contrast themes or use a BAT script. If you want to save your eyes from the harsh white light but cannot stand high-contrast themes, use a dark theme on Windows 11.
@@ -146,8 +166,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +173,19 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-beginners-blueprint-for-zoom-engagements/"><u>[New] Beginner’s Blueprint for Zoom Engagements</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-winning-over-viewers-the-top-20-must-try-tiktok-caption-strategies-for-2024/"><u>[New] Winning Over Viewers The Top 20 Must-Try TikTok Caption Strategies for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-navigating-youtube-video-production-tools/"><u>[Updated] 2024 Approved Navigating YouTube Video Production Tools</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-academic-engagement-lecture-capture-via-mac-computers/"><u>2024 Approved Academic Engagement Lecture Capture via Mac Computers</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/best-online-discounts-amazons-exclusive-tech-deals-for-prime-day-2angs/"><u>Best Online Discounts: Amazon's Exclusive Tech Deals for Prime Day 2Angs</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-guide-to-streamline-program-access-via-context-menu/"><u>Expert Guide to Streamline Program Access via Context Menu</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-the-artistry-behind-capturing-evening-light-and-people/"><u>In 2024, The Artistry Behind Capturing Evening Light and People</u></a></li>
+<li><a href="https://windows11.techidaily.com/pioneering-the-future-running-windows-11-on-legacy-pcs-through-to-go-and-rufus/"><u>Pioneering the Future: Running Windows 11 on Legacy PCs Through To Go & Rufus</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-preventing-windows-dwarf-fortress-crashes/"><u>Quick Guide: Preventing Windows-Dwarf Fortress Crashes</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/rectifying-graphics-glitch-post-win10-update/"><u>Rectifying Graphics Glitch Post-Win10 Update</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-quintessence-of-productivity-win-11s-top-7-widgets/"><u>The Quintessence of Productivity: Win 11’S Top 7 Widgets</u></a></li>
+<li><a href="https://windows11.techidaily.com/tutorial-empowering-end-task-capability-on-windows-11/"><u>Tutorial: Empowering End Task Capability on Windows 11</u></a></li>
+</ul></div>
 

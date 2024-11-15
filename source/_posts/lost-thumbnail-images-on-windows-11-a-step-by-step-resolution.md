@@ -1,7 +1,7 @@
 ---
 title: "Lost Thumbnail Images on Windows 11: A Step-by-Step Resolution"
-date: 2024-08-22T21:42:25.226Z
-updated: 2024-08-23T21:42:25.226Z
+date: 2024-11-10T16:39:40.712Z
+updated: 2024-11-15T16:31:41.636Z
 tags:
   - windows10
   - windows11
@@ -34,6 +34,20 @@ thumbnail: https://thmb.techidaily.com/48b04798818f256a08d1adf91e6795699ee9e8d50
 2. Click on**three horizontal dots** at the right end of the ribbon tabs and then choose**Options** from the menu.  
 ![Go to Folder Options in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1-go-to-folder-options-in-windows-file-explorer.jpg)
 3. In the**Folder Options** window, uncheck the box beside**Always show icons, never thumbnails** (if it's checked).
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click**Apply** and hit**Ok** .  
 ![Uncheck the Box Beside Always Show Icons Never Thumbnails.in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-uncheck-the-box-beside-always-show-icons-never-thumbnails-in-windows-file-explorer.jpg)
 
@@ -50,9 +64,12 @@ thumbnail: https://thmb.techidaily.com/48b04798818f256a08d1adf91e6795699ee9e8d50
 ![Change the View Style of Folders in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/4-change-the-view-style-of-folders-in-file-explorer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. Check for Files or Format Specific Issues
 
  There are some file types and image file formats for which Windows does not display thumbnails by default. For instance, Windows doesn't show thumbnails for files in the Photoshop Document (PSD) format, a format used for images created with Adobe Photoshop, which is a graphics design and image editing software.
@@ -62,8 +79,12 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  Sometimes, users have to manually enable thumbnail previews in the software settings. Check if the software you use offers such a feature, and if it does, enable it, and you'll begin to see thumbnails for that software's files. However, if the software does not offer this feature, you will have to use third-party file managers to see thumbnails for its files.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5\. Close Interfering Apps
 
  Using third-party apps lets users preview thumbnails for file formats that Windows don't natively support. However, these third-party apps can interfere with the basic functionality of Windows' features, causing many of them to stop working.
@@ -75,17 +96,18 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 ![Closing the OBS Studio Process in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/end-task.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6\. Rebuild the Thumbnail Cache
 
  By using the thumbnail cache, Windows displays thumbnail images of files so that you can visually identify them. If cache files become corrupted, thumbnails can get affected. Clearing the thumbnail cache instructs Windows to rebuild the cache, which usually resolves thumbnail issues.
 
  So, if you haven't cleared it yet,[clear the thumbnail cache](https://www.makeuseof.com/windows-11-clear-thumbnail-cache/) and restart your device so Windows can rebuild it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Restart File Explorer
 
  Restarting File Explorer is usually enough to fix most issues with icons, navigation panes, ribbons, tabs, and everything related. If you have not restarted File Explorer yet, you should; it may help you resolve the thumbnail issue. To restart File Explorer, open Task Manager, locate the**File Explorer** (or**Windows Explorer**) process, right-click on it, and click**Restart** .
@@ -101,15 +123,36 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 1. In Windows Search, type**"Adjust the appearance** " and click on**Adjust the appearance and performance of Windows** .  
 ![Open Visual Effects Settings From Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/5-open-adjust-visual-effects-settings-from-windows-search.jpg)
 2. Check the circle beside**Adjust for best appearance** in the**Performance Options** window.
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Then, ensure the box beside**Show thumbnails** **instead of icons** is checked.  
 ![Change Visual Effects to Get the Best Appearance](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/6-enable-certain-options-in-visual-effects-tab-of-performance-options-in-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## 9\. Apply Generic Windows 11 Fixes
 
  Hopefully, one of the fixes listed above will resolve your issue, but if they don't, try these:
@@ -118,9 +161,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 * [Change the default app in Windows 11](https://www.makeuseof.com/change-windows-11-default-apps/) for files that don't have thumbnails.
 * Install any pending Windows updates.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## Quickly Find Relevant Files Using Thumbnails on Windows 11
 
  When a folder contains hundreds of images without proper names, finding the desired ones without seeing thumbnails can be difficult. Hopefully, the above fixes will resolve the issue and restore thumbnails, making finding files more manageable. If you still have trouble viewing thumbnails, try any File Explorer alternatives for better file management.
@@ -131,8 +171,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,4 +178,18 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-navigating-novelty-a-deep-exploration-of-filter-innovations/"><u>[New] 2024 Approved Navigating Novelty A Deep Exploration of Filter Innovations</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-leveraging-instagrams-newest-filters-techniques-and-trends/"><u>[New] Leveraging Instagram's Newest Filters - Techniques and Trends</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-infinix-hot-40-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Infinix Hot 40</u></a></li>
+<li><a href="https://windows11.techidaily.com/faster-printouts-with-easy-windows-troubleshooting/"><u>Faster Printouts with Easy WIndows Troubleshooting</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-samsung-galaxy-s23-femirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Samsung Galaxy S23 FEMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-nokia-g22-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Nokia G22 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/macbook-pro-reboot-tactics-effortless-steps-unveiled/"><u>MacBook Pro Reboot Tactics: Effortless Steps Unveiled</u></a></li>
+<li><a href="https://windows11.techidaily.com/new-era-of-productivity-microsofts-ai-integration-in-windows-11-taskbar/"><u>New Era of Productivity: Microsoft's AI Integration in Windows 11 Taskbar</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-windows-for-productivity-add-software-actions/"><u>Optimizing Windows for Productivity: Add Software Actions</u></a></li>
+<li><a href="https://windows11.techidaily.com/restarting-windows-security-fix-for-flawed-functions/"><u>Restarting Windows Security: Fix for Flawed Functions</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-7-windows-cryptography-tools-under-156-chars/"><u>Top 7 Windows Cryptography Tools (Under 156 Chars)</u></a></li>
+</ul></div>
 
