@@ -1,7 +1,7 @@
 ---
 title: Fixing Common OneDrive Crash Code in W11, W10
-date: 2024-11-13T17:33:20.681Z
-updated: 2024-11-15T16:37:18.919Z
+date: 2024-11-22T18:58:07.958Z
+updated: 2024-11-24T20:09:53.706Z
 tags:
   - windows10
   - windows11
@@ -39,10 +39,7 @@ thumbnail: https://thmb.techidaily.com/7dae447899f95c82a6cf6fb6c187f3946b55a92e5
 6. Click the**Resume Syncing** option.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Reset OneDrive with Command Prompt Commands
@@ -59,13 +56,6 @@ thumbnail: https://thmb.techidaily.com/7dae447899f95c82a6cf6fb6c187f3946b55a92e5
 ![Run OneDrive command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/onedrive-command.jpg)
 4. Start OneDrive to see if the issue persists.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Disable Files On-Demand
 
  Files On-Demand is a feature that can sometimes cause OneDrive issues to arise. So, try disabling Files On-Demand in OneDrive to see if that makes any difference. You can turn off that feature as follows:
@@ -78,17 +68,11 @@ thumbnail: https://thmb.techidaily.com/7dae447899f95c82a6cf6fb6c187f3946b55a92e5
 5. Turn off the**File On-Demand** option.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Unlink and Relink Your OneDrive Account
@@ -112,8 +96,16 @@ thumbnail: https://thmb.techidaily.com/7dae447899f95c82a6cf6fb6c187f3946b55a92e5
 ![The Choose new folder button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/choose-new-folder-button.jpg)
 4. Then keep selecting**Next** to reach the mobile app step.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click**Later** to skip the mobile app.
 6. Press the**Open my OneDrive folder** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Reinstall the OneDrive App
 
@@ -124,10 +116,7 @@ thumbnail: https://thmb.techidaily.com/7dae447899f95c82a6cf6fb6c187f3946b55a92e5
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-uninstall-option2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To reinstall the app, open the[OneDrive MS Store page](https://apps.microsoft.com/store/detail/onedrive/9WZDNCRFJ1P3?hl=en-gb&gl=gb&rtc=1) in a browser. Click**Get in Store** app >**Open Microsoft Store** to bring up an**Install** option for the app. Click**Get** to download and install OneDrive. Then you'll need to open OneDrive and sign in to an account again.
@@ -151,24 +140,21 @@ thumbnail: https://thmb.techidaily.com/7dae447899f95c82a6cf6fb6c187f3946b55a92e5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-illuminate-your-gaming-recordings-avoid-black-screens-with-obs-for-2024/"><u>[New] Illuminate Your Gaming Recordings Avoid Black Screens with OBS for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-asmr-unraveled-enhancing-mental-wellness/"><u>[New] In 2024, ASMR Unraveled Enhancing Mental Wellness</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-fine-tune-your-visual-storytelling-in-videoleap-footage/"><u>[New] In 2024, Fine-Tune Your Visual Storytelling in Videoleap Footage</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-master-essential-zoom-techniques-for-iphone-users/"><u>[New] In 2024, Master Essential Zoom Techniques for iPhone Users</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-streamlined-process-altering-video-direction-in-vlc-for-2024/"><u>[New] Streamlined Process Altering Video Direction in VLC for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-essence-of-sound-diminishment-a-lumafusion-insight/"><u>2024 Approved The Essence of Sound Diminishment A Lumafusion Insight</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/elite-game-sound-experiences-top-headset-reviews/"><u>Elite Game Sound Experiences: Top Headset Reviews</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-to-bypassing-do-not-have-permission-windows-errors/"><u>Guide to Bypassing 'Do Not Have Permission' Windows Errors</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-to-recover-from-failed-discord-windows-updates/"><u>Guide to Recover From Failed Discord Windows Updates</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/lenovo-thinkpad-x1-nano-review/"><u>Lenovo ThinkPad X1 Nano Review</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastery-of-multitasking-reviving-non-operational-keys-in-windows-os/"><u>Mastery of Multitasking: Reviving Non-Operational Keys in Windows OS</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On OnePlus 12 | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/restore-missing-bluetooth-top-9-fixes-for-windows-11-users/"><u>Restore Missing Bluetooth: Top 9 Fixes for Windows 11 Users</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-google-pixel-7a-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Google Pixel 7a</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-windows-11-browsing-key-techniques-unveiled/"><u>Streamlining Windows 11 Browsing: Key Techniques Unveiled</u></a></li>
-<li><a href="https://windows11.techidaily.com/subtle-enhancements-stealthy-menu-edits-windows-edition/"><u>Subtle Enhancements: Stealthy Menu Edits, Windows Edition</u></a></li>
-<li><a href="https://windows11.techidaily.com/unleash-peak-performance-tuning-amd-graphics-on-windows/"><u>Unleash Peak Performance: Tuning AMD Graphics on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlock-global-dialogues-utilizing-hotkey-tricks-in-windows-language-switching/"><u>Unlock Global Dialogues: Utilizing Hotkey Tricks in Windows Language Switching</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-the-power-of-painting-ms-paint-in-windows-11/"><u>Unlocking the Power of Painting: MS Paint in Windows 11</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/1-step-by-step-guide-converting-and-editing-flv-videos-in-sony-vegas/"><u>1. Step-by-Step Guide: Converting & Editing FLV Videos in Sony Vegas</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/10-best-photo-frame-apps-of-2024/"><u>10 Best Photo Frame Apps of 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-how-to-make-a-hyperlapse-video/"><u>2024 Approved How to Make A Hyperlapse Video</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-photography-editing-tips-for-creating-stunning-photos/"><u>2024 Approved Photography Editing Tips for Creating Stunning Photos</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-and-correcting-windows-security-faults-in-windows-11/"><u>Avoiding and Correcting Windows Security Faults in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/immediate-actions-for-resolving-directdraw-failures-on-windows-1011/"><u>Immediate Actions for Resolving DirectDraw Failures on Windows 10/11</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-iphone-tricks-capturing-and-editing-high-speed-visual-storytelling/"><u>In 2024, IPhone Tricks Capturing & Editing High-Speed Visual Storytelling</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-yules-magic-unfolds-access-nine-premium-whole-film-holiday-movies-for-free/"><u>In 2024, Yule's Magic Unfolds Access Nine Premium, Whole-Film Holiday Movies for Free</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/joke-geniuses-at-your-service-free-of-charges/"><u>Joke Geniuses at Your Service Free of Charges</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-screen-disruptions-secure-smooth-play-on-w11-with-sonic-frontiers/"><u>Overcoming Screen Disruptions: Secure Smooth Play on W11 with Sonic Frontiers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/precision-in-film-craft-advanced-kinemaster-strategies-for-2024/"><u>Precision in Film Craft Advanced Kinemaster Strategies for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/simple-guide-streaming-avi-videos-on-apple-tv-without-hitches/"><u>Simple Guide: Streaming AVI Videos on Apple TV Without Hitches</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-fixing-steam-file-connections-issue/"><u>Strategies for Fixing Steam File Connections Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/taking-flight-with-windows-accessibility-novice-style/"><u>Taking Flight with Windows Accessibility, Novice Style</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-the-impact-of-ntfs-compression-on-data-saving/"><u>Understanding the Impact of NTFS Compression on Data Saving</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-windows-11-internet-options/"><u>Unlocking Windows 11 Internet Options</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Essential Guide to Windows 11 Widget Bar Activation
-date: 2024-08-22T21:39:32.498Z
-updated: 2024-08-23T21:39:32.498Z
+date: 2024-11-17T22:07:50.604Z
+updated: 2024-11-24T20:50:28.490Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/0177669a9f7e47198243a9fecb2a2f8d7897c9576
 
  In this guide, we'll explore how to enable the Widgets Toolbar so that you can reap its benefits.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Enable the Widgets Toolbar in Windows 11
 
  In order to enable and use the widget's toolbar, you will need to [download ViveTool from GitHub](https://github.com/thebookisclosed/ViVe/releases). Once the zip file has been downloaded, extract its contents into the folder **C:/ViVeTool** on your computer.
@@ -32,6 +36,10 @@ c:\vivetool\vivetool /enable /id:40772499
 
 ![Enable Toolbar for Widgets in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-toolbar-for-widgets-in-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once the command is executed on your computer, you will see a message saying "Successfully set feature configuration (s)". After executing the above command, restart your device for the changes to take effect.
 
  So that's it. You have now enabled the new toolbar in Windows 11\. It provides various useful features, including maps, news, and other options that you can find through its popular services.
@@ -42,20 +50,25 @@ c:\vivetool\vivetool /disable /id:40772499
 
 ![Disable Widgets Toolbar in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-widgets-toolbar-in-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After executing the program, you should restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Windows 11 Now Has a New Toolbar for Widgets
 
  With Windows 11 build 25227, there is a new toolbar that provides quick access to critical services on the Widgets menu. Hopefully, we have helped you enable and disable the Widgets Toolbar to access these Microsoft services easily.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -64,8 +77,24 @@ c:\vivetool\vivetool /disable /id:40772499
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-incorporating-yt-music-streams-into-videos/"><u>[New] In 2024, Incorporating YT Music Streams Into Videos</u></a></li>
+<li><a href="https://win-lab.techidaily.com/conversion-gratuit-des-fichiers-mpe-vers-linternet-utilisez-les-services-de-movavi-pour-un-processus-facile-et-rapide/"><u>Conversion Gratuit Des Fichiers MPE Vers L'internet : Utilisez Les Services De Movavi Pour Un Processus Facile Et Rapide</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-windows-canary-a-guide-for-first-timers/"><u>Exploring Windows Canary: A Guide for First-Timers</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-unlisted-device-detected-error-in-win1011/"><u>Fixing Unlisted Device Detected Error in Win10/11</u></a></li>
+<li><a href="https://fox-links.techidaily.com/from-camera-roll-to-feed-adding-photos-on-instagram-for-2024/"><u>From Camera Roll to Feed Adding Photos on Instagram for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-add-digital-signature-to-a-pdf-v10-document-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to add digital signature to a PDF v1.0 document</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-motorola-moto-g14-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Motorola Moto G14?</u></a></li>
+<li><a href="https://windows11.techidaily.com/insights-into-ftdibussys-the-implications-for-windows-memory-safety/"><u>Insights Into ftdibus.sys: The Implications for Windows Memory Safety</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/making-your-channels-subscribe-button-pop-for-2024/"><u>Making Your Channel's Subscribe Button Pop for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/msi-b350-toms-tomahawk-driver-software-for-pcs-running-on-windows-117-download-now/"><u>MSI B350 TOM'S TOMAHAWK Driver Software for PCs Running on Windows 11/7 – Download Now</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-stand-out-from-the-crowd-top-video-resume-builders-free-templates/"><u>New In 2024, Stand Out From the Crowd Top Video Resume Builders Free Templates</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-inaudible-audio-on-wireless-devices/"><u>Resolving Inaudible Audio on Wireless Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-memory-safety-in-windows-11s-system-settings/"><u>Restoring Memory Safety in Windows 11'S System Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-silent-setbacks-ccleaner-issues-in-windows-11/"><u>Solving Silent Setbacks: CCleaner Issues in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategic-steps-launching-your-admin-privileged-powershell-console/"><u>Strategic Steps: Launching Your Admin Privileged PowerShell Console</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-easy-switch-for-classic-gaming-in-the-windows-photo-hub/"><u>The Easy Switch for Classic Gaming in the Windows Photo Hub</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/why-bother-with-reddit-get-the-best-filmora-deals-right-here/"><u>Why Bother with Reddit? Get the Best Filmora Deals Right Here</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->

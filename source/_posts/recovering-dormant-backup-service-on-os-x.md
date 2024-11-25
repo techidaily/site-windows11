@@ -1,7 +1,7 @@
 ---
 title: Recovering Dormant Backup Service on OS X
-date: 2024-11-09T17:26:46.441Z
-updated: 2024-11-15T16:41:20.635Z
+date: 2024-11-19T22:43:26.219Z
+updated: 2024-11-24T16:41:43.990Z
 tags:
   - windows10
   - windows11
@@ -32,6 +32,11 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 3. Double-click the **Volume Shadow Copy Service**.  
 ![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/services-window.jpg)
 4. Click the drop-down menu labeled **Startup type** and select **Automatic** if the service is set differently.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Startup type drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/startup-type-drop-down-menu.jpg)
 5. Press **Start** in the Volume Shadow Copy Service window.
 6. Click on the service window’s **Apply** and **OK** buttons to set the changed options.
@@ -40,13 +45,6 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 
  Restart those shadow copy services if they’re already set as required. You can do that by right-clicking on those services and selecting the Restart context menu options for them.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Repair Your System Files With the SFC and DISM Commands
 
  Corrupted system files can affect Windows services, such as Volume Shadow Copy. So, some users may need to repair system files to fix the Volume Shadow Copy Service when it’s not working. You can do that by running System File Checker and Deployment Image Servicing Management scans, as covered in this article about [repairing corrupt Windows files](https://www.makeuseof.com/windows-built-in-repair-tools/).
@@ -54,10 +52,7 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 ![The sfc scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/sfc-scannow-error.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Run the Check Disk Utility
@@ -66,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 
 ![The CHKDSK command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chkdsk-scan-command.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Disable Antivirus Shields
 
  Sometimes third-party antivirus software can interfere with and prevent Volume Shadow Copy from functioning correctly. So, try disabling third-party antivirus shields before attempting to back up or restore Windows. The usual way to do that is to right-click on an antivirus app’s system tray icon and select a disable/turn off shield protection option from there.
@@ -73,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
  Don’t leave your antivirus shield permanently disabled. If possible, select to disable it for a few hours before attempting the backup or system restoration operation again. Or manually re-enable your antivirus if you can’t select a temporary option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Disable Any Active Firewalls
 
@@ -83,22 +86,12 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 ![The Turn off Windows Defender Firewall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/turn-off-firewall-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Set Windows to Perform a Clean Boot
 
 ![The Startup type](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/startup-tab.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Conflicting background apps or services are another potential cause of Volume Shadow Copy errors. Third-party backup utilities with snapshot managers are the most likely software packages to conflict with the Volume Shadow Copy Service. If you know you’ve installed a third-party backup manager, uninstalling it could be the best way to ensure it doesn’t cause any conflicts.
 
@@ -120,24 +113,16 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-the-solitary-path-to-podcast-popularity/"><u>[New] The Solitary Path to Podcast Popularity</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-step-by-step-guide-to-stunning-instagram-videos/"><u>[Updated] 2024 Approved Step-by-Step Guide to Stunning Instagram Videos</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-amplify-your-voice-on-youtube-mastery-through-tubebuddy/"><u>[Updated] In 2024, Amplify Your Voice on YouTube - Mastery Through TubeBuddy</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-screen-streaming-showdown-go-obs-vs-shadowtoolkit/"><u>[Updated] In 2024, Screen Streaming Showdown Go OBS! Vs ShadowToolkit</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/8-ferramentas-efetivas-para-remover-marcas-dagua-de-videos-on-line-gratuita/"><u>8 Ferramentas Efetivas Para Remover Marcas D'água De Vídeos On-Line Gratuita</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/add-cinematic-shake-to-images-using-ps-for-2024/"><u>Add Cinematic Shake to Images Using PS for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/community-shared-music-collections-copyright-free-for-2024/"><u>Community-Shared Music Collections (Copyright-Free) for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722977766938-download-and-latest-updates-for-canon-mg3022-printer-drivers/"><u>Download & Latest Updates for Canon MG3022 Printer Drivers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphic-device-debugged-43-fix/"><u>Graphic Device Debugged #43 Fix</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-remove-the-onedrive-icon-from-file-explorer-in-windows-11/"><u>How to Remove the OneDrive Icon From File Explorer in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-set-up-your-own-keyboard-shortcuts-in-windows-11/"><u>How to Set Up Your Own Keyboard Shortcuts in Windows 11</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-civi-3-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Civi 3 Bootloader Easily</u></a></li>
-<li><a href="https://windows11.techidaily.com/merge-functionality-and-elegance-in-windows-10plus/"><u>Merge Functionality and Elegance in Windows 10+</u></a></li>
-<li><a href="https://windows11.techidaily.com/removing-curved-edges-from-windows-11/"><u>Removing Curved Edges From Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/techniques-for-reversing-loadlibrary-misload-on-windows/"><u>Techniques for Reversing LoadLibrary Misload on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-hidden-power-of-windows-firewall-management/"><u>The Hidden Power of Windows' Firewall Management</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-quickest-way-to-shift-your-windows-qbittorrent-software/"><u>The Quickest Way to Shift Your Windows qBittorrent Software</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-transformation-ai-integration-into-windows-11/"><u>The Transformation: AI Integration Into Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/turbocharge-your-windows-printer-with-quick-fixes/"><u>Turbocharge Your WIndows Printer with Quick Fixes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-8-best-youtube-video-promotion-services-real/"><u>[New] 2024 Approved 8 Best YouTube Video Promotion Services (Real)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-crafting-cinematic-projects-utilizing-movie-maker-on-windows-8-pcs/"><u>[New] Crafting Cinematic Projects Utilizing Movie Maker on Windows 8 PCs</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-profitable-video-content-starting-and-scaling-up/"><u>[Updated] Profitable Video Content Starting and Scaling Up</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-fixes-for-common-windows-os-office-problems/"><u>Essential Fixes for Common Windows OS Office Problems</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/generate-giggle-worthy-graphics-for-2024/"><u>Generate Giggle-Worthy Graphics for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hacking-into-windows-11s-silent-camera-alert-system/"><u>Hacking Into Windows 11'S Silent Camera Alert System</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-missing-msvcr110dll-in-windows-environment/"><u>Overcoming Missing msvcr110.dll in Windows Environment</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/playful-prodigies-the-ultimate-kids-game-compilation-for-2024/"><u>Playful Prodigies The Ultimate Kids' Game Compilation for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-10-windows-diagnostics-powerhouses/"><u>Top 10 Windows Diagnostics Powerhouses</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleash-the-potential-of-task-scheduler-in-windows/"><u>Unleash the Potential of Task Scheduler in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-process-windows-11-ms-work-installation/"><u>Unveiling the Process: Windows 11 MS Work Installation</u></a></li>
 </ul></div>
 

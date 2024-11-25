@@ -1,7 +1,7 @@
 ---
 title: Fine-Tune Your Pointer's Response Time and Visibility on Windows 11
-date: 2024-10-27T16:00:14.434Z
-updated: 2024-10-30T16:16:00.502Z
+date: 2024-11-20T23:24:06.538Z
+updated: 2024-11-24T21:46:02.463Z
 tags:
   - windows10
   - windows11
@@ -36,11 +36,23 @@ So, without further ado, let’s get into them.
 
 ![Screenshot accessibility settings windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-accessibility-settings-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, click the**Mouse pointer and touch** category. You have the options White, Black, Inverted, and Custom under**Mouse pointer style.** As such, you can choose any of them to change your pointer style.
 
 ![Screenshot of mouse pointer settings page windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-mouse-pointer-settings-page-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Using the**Custom** item, you can choose a custom color for your pointer from the recommended ones or click**Choose another color** beneath to use a different one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Adjusting Your Mouse Cursor Size
 
@@ -49,23 +61,7 @@ So, without further ado, let’s get into them.
 ![Screenshot showing size slider on mouse pointer settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-mouse-pointer-settings-page-windows-11-2.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Increasing your Mouse Pointer Speed
@@ -73,13 +69,6 @@ So, without further ado, let’s get into them.
  Your mouse’s pointer speed has a great impact on its performance and is often crucial to improving your efficiency. To adjust your pointer speed, go to**Settings > Bluetooth & devices** and click on the**Mouse** category.
 
 ![screenshot of mouse pointer speed settings windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-mouse-pointer-speed-settings-windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Drag the**Mouse pointer speed** slider to adjust your pointer speed.
 
@@ -95,29 +84,19 @@ So, without further ado, let’s get into them.
 
 ![Screenshot of primary mouse button settings page windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-primary-mouse-button-settings-page-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Additional Mouse Pointer Settings
 
  To tweak your mouse further, head over to**Additional mouse settings** on the same page.
 
 ![screenshot of additional mouse settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-additional-mouse-settings-page.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  From here, you can enable**ClickLock** to let you drag and drop without holding down the mouse button.
 
 ![how to enable ClickLock on additional mouse settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-additional-mouse-settings-page-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click the**Pointers** tab to select a mouse scheme and customize the different shapes of the mouse pointer. You can also[use a custom mouse cursor](https://www.makeuseof.com/windows-11-custom-mouse-cursor/) by clicking**Browse** to download online. Lastly, you can tick the**Enhance pointer shadow** checkbox if you’d prefer that.
 
@@ -129,6 +108,10 @@ So, without further ado, let’s get into them.
 
  Hit**Apply** afterward to implement your changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Customize Your Text Cursor
 
  The text cursor is that blinking vertical line that indicates the point where you can enter or highlight text on your screen. The following settings show you how to enhance the look of your text cursor.
@@ -139,13 +122,6 @@ So, without further ado, let’s get into them.
 
  To turn it on, open **Settings > Accessibility** and select the **Text cursor** option.  Toggle on the text cursor indicator. ![screenshot of text cursor settings page windows 11](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-text-cursor-settings-page-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To change the indicator’s color, choose one of the displayed colors or select a custom one. You can also adjust its size by dragging the**Size** slider. View the top to preview your changes.
 
 ### 2\. Changing the Text Cursor’s Thickness
@@ -155,10 +131,7 @@ So, without further ado, let’s get into them.
 ![screenshot of text cursor thickness settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-text-cursor-thickness-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Configuring Your Mouse Pointer Makes Your PC More Accessible
@@ -182,15 +155,17 @@ So, without further ado, let’s get into them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-windows-10s-video-creation-capabilities/"><u>[New] The Ultimate Guide to Windows 10'S Video Creation Capabilities</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-gif-hacks-for-iphone-users-storage-tips-and-playtime-tricks/"><u>[Updated] 2024 Approved GIF Hacks for iPhone Users Storage Tips and Playtime Tricks</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-premium-viewership-the-ultimate-youtube-wealth-for-2024/"><u>[Updated] Premium Viewership The Ultimate YouTube Wealth for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-unclickable-recycling-symbol-in-windows-11/"><u>Fixing Unclickable Recycling Symbol in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/future-focused-laptop-innovations-at-ifa-2023/"><u>Future-Focused Laptop Innovations at IFA 2023</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/kotion-g200n-mic-woes-heres-how-you-can-repair-them-yourself/"><u>Kotion G200n Mic Woes? Here's How You Can Repair Them Yourself</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-computers-with-tom-essential-hardware-guides/"><u>Navigating the World of Computers with Tom: Essential Hardware Guides</u></a></li>
-<li><a href="https://windows11.techidaily.com/reverting-terminal-setup-on-the-latest-windows-11/"><u>Reverting Terminal Setup on the Latest Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/solutions-for-unwanted-chrome-tab-autopilot-in-windows/"><u>Solutions for Unwanted Chrome Tab Autopilot in Windows</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/unable-to-locate-the-webpage-understanding-404-errors/"><u>Unable to Locate the Webpage: Understanding 404 Errors</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-tailored-gaming-journey-disabling-crossplay-for-solo-apex-players/"><u>[New] 2024 Approved Tailored Gaming Journey - Disabling Crossplay for Solo Apex Players</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-top-windows-photo-inspector-fast-edition/"><u>[New] 2024 Approved Top Windows Photo Inspector, Fast Edition</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-convenient-tutorial-snapchat-installation-macos-style/"><u>[Updated] Convenient Tutorial Snapchat Installation macOS-Style</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-drawdream-in-depth-analysis-and-teaching-guide-2024/"><u>[Updated] DrawDream In-Depth Analysis & Teaching Guide 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-dive-deep-reviewing-the-cutting-edge-lg-vr-technology/"><u>2024 Approved Dive Deep Reviewing the Cutting-Edge LG VR Technology</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/aprender-a-controlar-tiempo-con-botones/"><u>Aprender a Controlar Tiempo Con Botones</u></a></li>
+<li><a href="https://windows11.techidaily.com/decorating-windows-11-with-a-christmas-twist/"><u>Decorating Windows 11 with a Christmas Twist</u></a></li>
+<li><a href="https://facebook.techidaily.com/easy-process-for-detaching-spotify-from-facebook/"><u>Easy Process for Detaching Spotify From Facebook</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailoring-your-pcs-protection-the-firewall-guide/"><u>Tailoring Your PC's Protection: The Firewall Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-secrets-to-overcome-directdraw-challenges-in-11-series-windows/"><u>Unveiling the Secrets to Overcome DirectDraw Challenges in 11-Series Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/window-brightness-prodigies-a-list-of-premier-tools-for-multiscreeners/"><u>Window Brightness Prodigies: A List of Premier Tools for Multiscreeners</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-at-workplace-presentations-fixing-powerpoints-print-problems-in-windows/"><u>Winning at Workplace Presentations: Fixing PowerPoint's Print Problems in Windows</u></a></li>
 </ul></div>
 

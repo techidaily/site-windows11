@@ -1,7 +1,7 @@
 ---
 title: "Secure Access: Learning How to Lock and Unlock (Fn) Key"
-date: 2024-11-14T17:36:12.393Z
-updated: 2024-11-15T17:34:30.015Z
+date: 2024-11-21T18:10:38.837Z
+updated: 2024-11-25T02:45:05.590Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/cbf413290d1b7e29d9934e3ea1990c5dc72e7e77a
 
  When you want to use the default functions again, you can simply unlock the Fn key again
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Lock and Unlock the Function Key in Windows
 
  Below, we have listed different ways of locking and unlocking the Fn key in Windows.
@@ -41,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/cbf413290d1b7e29d9934e3ea1990c5dc72e7e77a
 
  To lock the Fn key, simply press the Fn key and the Esc key together. Once the lock icon lights up, the Fn key has been successfully locked. To unlock, you can press both keys together again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Access the BIOS Settings
 
  You can also change the hardware settings of your computer via the BIOS settings. Here is how you can lock or unlock the Fn key via BIOS:
@@ -50,8 +58,16 @@ thumbnail: https://thmb.techidaily.com/cbf413290d1b7e29d9934e3ea1990c5dc72e7e77a
 ![Advanced options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win10-troubleshoot-advanced-options-1.jpg)
 3. Click on**UEFI Firmware Settings** and hit**Restart** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Windows 10 Troubleshoot Advanced Options UEFI Firmware Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/05/uefi-screenshot.jpg)
 4. Once the computer restarts, the BIOS will launch.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Head over to the System Configuration section and choose the**Action Key Mode** .
 6. Disable**Action Key Mode** .
@@ -61,17 +77,7 @@ thumbnail: https://thmb.techidaily.com/cbf413290d1b7e29d9934e3ea1990c5dc72e7e77a
 9. Click F10 to save the changes, and then click**Yes** in the User Account Control prompt.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Use the Windows Mobility Center
@@ -85,21 +91,7 @@ Follow these steps to proceed:
 ![Function key row section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/function-key-row.jpg)
 3. Choose the**Function key** option from the dropdown to lock the key. To unlock, choose the**Multimedia key** option.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This should allow you to use the function keys without pressing the Fn key. In case you no longer want to use the Fn key and think that you will be better off disabling it, you can use the KeyTweak app to perform this action. Check out our guide on[how to disable specific keys on your keyboard in Windows](https://www.makeuseof.com/tag/disable-specific-keys-keyboard-windows-10/) for more information about KeyTweak.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Manage Your Fn Key Better on Windows
 
@@ -120,22 +112,15 @@ Follow these steps to proceed:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-mastering-free-video-text-dynamics/"><u>[New] In 2024, Mastering FREE Video Text Dynamics</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-innovating-image-vision-mastering-hdr-in-photoshop/"><u>[Updated] 2024 Approved Innovating Image Vision Mastering HDR in Photoshop</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-record-pc-sounds-effortlessly-with-x-recorder/"><u>[Updated] Record PC Sounds Effortlessly with X-Recorder</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/advanced-technology-showcase-reviewing-the-top-5-slow-motion-cameras-for-2024/"><u>Advanced Technology Showcase Reviewing the Top 5 Slow-Motion Cameras for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/expert-tips-for-sticky-notes-on-windows-11/"><u>Expert Tips for Sticky Notes on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-windows-blue-screen-0x8007007e-problems/"><u>Fixing Windows Blue Screen 0X8007007E Problems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/free-online-conversion-change-avi-files-into-mov-format-with-ease-moveavi/"><u>Free Online Conversion: Change AVI Files Into MOV Format with Ease - Moveavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/handling-non-microsoft-verified-application-warnings/"><u>Handling Non-Microsoft Verified Application Warnings</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-convert-a-batch-file-into-an-exe-file-on-windows/"><u>How to Convert a Batch File Into an EXE File on Windows</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-poco-m6-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Poco M6 5G Location by Number | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-motorola-moto-g14-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Motorola Moto G14 with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-understanding-av1-a-first-step-for-beginners/"><u>In 2024, Understanding AV1 A First Step for Beginners</u></a></li>
-<li><a href="https://windows11.techidaily.com/master-9-ways-to-engage-windows-11s-volume-management/"><u>Master 9 Ways to Engage Windows 11'S Volume Management</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcome-grayed-extended-volume-options-in-windows/"><u>Overcome Grayed Extended Volume Options in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/swift-recovery-plan-from-0x800713f-disruption-in-windows-email-sphere/"><u>Swift Recovery Plan From 0X800713F Disruption in Windows' Email Sphere</u></a></li>
-<li><a href="https://windows11.techidaily.com/swift-synonym-searches-in-windows-11/"><u>Swift Synonym Searches in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-pathway-to-improved-speed-optimizing-virtual-memory-in-windows-11/"><u>The Pathway to Improved Speed: Optimizing Virtual Memory in Windows 11</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-elevate-your-game-with-immediate-skilled-valorant-thumbnails/"><u>[Updated] 2024 Approved Elevate Your Game with Immediate, Skilled Valorant Thumbnails</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-how-to-boost-youtube-video-spacing/"><u>[Updated] 2024 Approved How to Boost YouTube Video Spacing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-engineering-video-excerpts-for-online-platforms-for-2024/"><u>[Updated] Engineering Video Excerpts for Online Platforms for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-essential-no-cost-webcams-for-seamless-chats/"><u>2024 Approved Essential No-Cost Webcams for Seamless Chats</u></a></li>
+<li><a href="https://windows11.techidaily.com/conquering-the-not-an-empty-directory-alert-error-code-0x80070091-in-win11/"><u>Conquering the Not an Empty Directory Alert (Error Code: 0X80070091) in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-windows-upgrade-glitch-error-0xc1900101/"><u>Decoding Windows Upgrade Glitch: Error #0xC1900101</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/invisible-disk-hiding-tricks-in-win11w10/"><u>Invisible Disk Hiding Tricks in Win11/W10</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/revealing-the-future-with-microsofts-hololens-analysis/"><u>Revealing the Future with Microsoft's HoloLens Analysis</u></a></li>
+<li><a href="https://windows11.techidaily.com/simple-steps-for-stellar-cursors-in-windows-1011/"><u>Simple Steps for Stellar Cursors in Windows 10/11</u></a></li>
 </ul></div>
 

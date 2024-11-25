@@ -1,7 +1,7 @@
 ---
 title: "Regaining Lost Plans: Windows 11 Power Reset"
-date: 2024-10-29T16:26:04.466Z
-updated: 2024-10-30T17:08:10.994Z
+date: 2024-11-21T21:38:03.869Z
+updated: 2024-11-25T00:06:23.616Z
 tags:
   - windows10
   - windows11
@@ -36,16 +36,13 @@ thumbnail: https://thmb.techidaily.com/f1a796c007bdb54a5d32d237286b0c583ae30258c
 4. Next, click on**Power Options** .
 5. Expand the**Show additional plans** section.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Change Power Mode From the Settings Panel
 
 ![change power mode windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/change-power-mode-windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [On Windows 11, you can change the power mode from the Settings app](https://www.makeuseof.com/windows-11-change-power-plan/) . You can choose between the Best power efficiency, Balanced, and Best performance power modes in the Power & battery settings.
 
@@ -75,10 +72,7 @@ To reset Windows default power plans:
 ![restore default power plan windows 11 command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restore-default-power-plan-windows-1-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can restore the missing default power plans on Windows using the Command Prompt. We’ll use the**powercfg** command-line feature to duplicate the existing but missing power plans.
@@ -114,6 +108,10 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61`
 
  If the power plans are still missing, check if Modern Standby (S0) is enabled. If yes, you’ll need to disable Modern Standby to restore the missing power plans.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Disable Modern Standby (S0) to Restore Default Power Plans
 
  If you have a Modern Standby (S0) compatible system, check if this sleep state is enabled. When enabled, the default power plans may be disabled to prevent any conflict when the system is in a low-power idle state.
@@ -121,6 +119,10 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61`
  As you may have guessed already, in this situation, you’ll need to[disable Modern Standby (S0) on Windows](https://www.makeuseof.com/windows-disable-modern-standby/) to restore the default power plans on Windows. After you disable Modern Standby (S0), open Power Options to use the default power plans.
 
  Conversely, you may encounter BSOD and other critical errors after disabling Modern Standby (S0). If yes, enable Modern Standby again to fix the issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Manually Create the Power Plans
 
@@ -135,36 +137,23 @@ To create a custom Power Plan on Windows:
 ![control panel create power plan windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/control-panel-create-power-plan-windows-11.jpg)
 5. In the left pane, click on**Create a Power Plan.**  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![control panel create power plan power saver windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/control-panel-create-power-plan-power-saver-windows-11.jpg)
 6. Next, select the power plan you want to restore and enter a name for the plan under the**Plan name field.**  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![control panel create power plan configure](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/control-panel-create-power-plan-configure.jpg)
 7. Next, configure the settings for the new power plan.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8. Click**Create** .\`
 
  Your new custom power plan will appear in Power Options. To remove the power plan, unselect the plan and click on**Change plan** settings. Next, click on**Delete this plan** and click**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Restore the Missing Default Power Plans on Windows
 
@@ -187,24 +176,19 @@ To create a custom Power Plan on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-extract-subtitles-for-free-top-10-tools-reviewed/"><u>[Updated] Extract Subtitles for Free Top 10 Tools Reviewed</u></a></li>
-<li><a href="https://windows11.techidaily.com/4-ways-to-flush-the-dns-cache-on-windows-11/"><u>4 Ways to Flush the DNS Cache on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoiding-in-use-device-naming-5-fixes-for-windows-errors/"><u>Avoiding In-Use Device Naming: 5 Fixes for Windows Errors</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/boost-your-productivity-splitting-screens-on-macbook-air-simplified/"><u>Boost Your Productivity: Splitting Screens on MacBook Air Simplified</u></a></li>
-<li><a href="https://windows11.techidaily.com/defining-new-default-for-reading-pdfs-on-pc/"><u>Defining New Default for Reading PDFs on PC</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-your-search-experience-why-perplexity-reigns-as-the-supreme-ai-powered-tool-for-google-queries/"><u>Elevate Your Search Experience: Why Perplexity Reigns as the Supreme AI-Powered Tool for Google Queries</u></a></li>
-<li><a href="https://windows11.techidaily.com/from-novice-to-pro-a-guide-to-github-desktop-and-windows-integration/"><u>From Novice to Pro: A Guide to GitHub Desktop & Windows Integration</u></a></li>
-<li><a href="https://blog-min.techidaily.com/guide-running-windows-powershell-with-administrator-privileges-on-windows-11/"><u>Guide: Running Windows PowerShell with Administrator Privileges on Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/immediate-solutions-fix-hp-print-problems-in-win11/"><u>Immediate Solutions: Fix HP Print Problems in Win11</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Nokia 150 (2023) | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-essential-methods-for-recording-youtube-live-streaming/"><u>In 2024, Essential Methods for Recording YouTube LIVE Streaming</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-no1-free-dailymotion-to-mp4-converter-online/"><u>New 2024 Approved No.1 Free Dailymotion to MP4 Converter Online</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimizing-mp3s-into-listenable-audio-cds-using-windows-and-imgburn-techniques/"><u>Optimizing MP3s Into Listenable Audio Cds Using Windows and ImgBurn Techniques</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-ad-ds-printing-issues-in-windows-11-pro/"><u>Overcoming AD DS Printing Issues in Windows 11 Pro</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-common-errors-in-microsoft-office-activation/"><u>Overcoming Common Errors in Microsoft Office Activation</u></a></li>
-<li><a href="https://facebook.techidaily.com/retrospect-significant-stories-from-google/"><u>Retrospect: Significant Stories From Google</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-special-features-that-define-artificited-computers/"><u>The Special Features that Define Artificited Computers</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-titles-need-top-tech-for-optimal-play/"><u>Top Titles Need Top Tech for Optimal Play</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-screen-notebook-techniques-for-win-1011/"><u>Top-Screen Notebook Techniques for Win 10/11</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-detailed-syma-x8c-assessment/"><u>[Updated] Detailed Syma X8C Assessment</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-expert-guide-to-crafting-immersive-experiences-through-instagram-vids/"><u>[Updated] In 2024, Expert Guide to Crafting Immersive Experiences Through Instagram Vids</u></a></li>
+<li><a href="https://windows11.techidaily.com/activation-indicators-for-windows-11-systems/"><u>Activation Indicators for Windows 11 Systems</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comprehensive-review-navigating-adobe-cloud-plus-comparing-rivals-for-2024/"><u>Comprehensive Review Navigating Adobe Cloud + Comparing Rivals for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/dell-xps-13-7390-2-in-1-laptop-evaluation-an-exquisite-and-versatile-ultrathin-computer/"><u>Dell XPS 13 (7390) 2-in-1 Laptop Evaluation: An Exquisite & Versatile Ultrathin Computer</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-mistakes-to-dodge-on-windows-11-upgrade/"><u>Essential Mistakes to Dodge on Windows 11 Upgrade</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exciting-samsung-z-fold-4-release-get-insights-on-launch-timeline-pricing-and-device-specs/"><u>Exciting Samsung Z Fold 4 Release! Get Insights on Launch Timeline, Pricing & Device Specs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-connect-sony-wireless-earbuds-a-simple-guide/"><u>How To Connect Sony Wireless Earbuds: A Simple Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-windows-signing-you-in-with-a-temporary-profile/"><u>How to Fix Windows Signing You In With a Temporary Profile</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-13-mini-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, Apple iPhone 13 mini Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-process-of-deleting-voice-components-from-mp4-media-for-2024/"><u>New The Process of Deleting Voice Components From MP4 Media for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-non-signed-file-blockade-on-w10w11/"><u>Overcoming Non-Signed File Blockade on W10/W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/stop-the-sleepy-slumber-of-hibernation-woes/"><u>Stop the Sleepy Slumber of Hibernation Woes</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/universal-iptv-broadcasting-for-2024/"><u>Universal IPTV Broadcasting for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Quickest Way to Shift Your Windows qBittorrent Software
-date: 2024-08-22T21:38:56.784Z
-updated: 2024-08-23T21:38:56.784Z
+date: 2024-11-18T22:13:33.110Z
+updated: 2024-11-24T17:08:24.885Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
  You might have upgraded your computer, reinstalled Windows, or moved your HDDs around. Is there a way to keep using qBittorrent like before without losing any of the torrents you'd added? Can you continue your downloads from where you left them without re-adding everything to qBittorrent's list from scratch?
 
  The answer's likely a positive "yes," but the way to do it isn't as simple as copying a folder from point A to point B. However, as we'll see next, it's not too complicated.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Setting Up a Plan of Action for Moving qBittorrent
 
@@ -45,13 +49,20 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 1. Launch a file manager on the source PC from which you want to move your qBittorrent installation to the new PC. Visit your user account's folder, and within it, navigate to `AppData > Local > qBittorrent`. The path in our case was: `c:\Users\koura\AppData\Local\qBittorrent`. Copy this folder's contents to the equivalent path on your new PC. Remember to update the username part of the path if it's different on your second computer.  
 ![Windows Explorer AppData Local qBittorrent Path](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-explorer-appdata-local-qbittorrent-path.jpg)
 2. Return to your user account's folder on the original PC, and this time navigate into the `AppData > Roaming > qBittorrent` path. Do the same as above, and copy all its contents to the equivalent path on your new PC.  
-![Windows Explorer AppData Roaming qBittorrent Path](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-explorer-appdata-roaming-qbittorrent-path.jpg)
-3. For the final data transfer, you must move the folder where your torrents were stored from your old PC to the new one. We can't offer specifics for that because their setup depends on your qBittorrent configuration. In our case, we had two separate folders, one for **incoming** torrents and another for those that had **completed** downloading. Both conveniently placed within a "torrents" folder on an external hard disk drive. Unplugging it from the old PC and reconnecting it to the new one was all needed for "transferring our torrents".  
-![Windows Explorer New Torrent Files Location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-explorer-new-torrent-files-location.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Windows Explorer AppData Roaming qBittorrent Path](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-explorer-appdata-roaming-qbittorrent-path.jpg)
+3. For the final data transfer, you must move the folder where your torrents were stored from your old PC to the new one. We can't offer specifics for that because their setup depends on your qBittorrent configuration. In our case, we had two separate folders, one for **incoming** torrents and another for those that had **completed** downloading. Both conveniently placed within a "torrents" folder on an external hard disk drive. Unplugging it from the old PC and reconnecting it to the new one was all needed for "transferring our torrents".  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![Windows Explorer New Torrent Files Location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-explorer-new-torrent-files-location.jpg)
+
 ## The Problem With Moving qBittorrent to a Different Drive Letter
 
  Moving your torrent collection to your new PC should be a breeze if you kept it on an external hard disk like us. Still, you might meet a slight problem: the drive might be assigned a different letter on your new PC, preventing qBittorrent's installation from finding your torrents. qBittorrent will seek them on Drive `D`, while your torrent drive was assigned the letter `H`.
@@ -63,20 +74,13 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 ![qBittorrent Loading Torrents](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/qbittorrent-loading-torrents.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  And yet, swapping drive letters may be impossible or lead to other issues. For example, you might have started using your new PC and already actively used another drive with the same letter your torrent drive had on your previous PC. In this case, changing your torrent drive's letter to "fix" qBittorrent could break other software.
 
  Thankfully, there's a solution for that, too, as we'll see next. However, it is more complicated than reassigning a letter.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ## Update and Double-Check Your Folder Paths
 
  If you can't or don't want to change your torrent's drive letter, or you did, but qBittorrent still doesn't detect your torrents, you should make sure it's looking at the right place. For that, with qBittorrent running...
@@ -84,16 +88,15 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 1. Click the app's **Options** button (with the little cog icon).  
 ![qBittorrent Options Button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/qbittorrent-options-button.jpg)
 2. Select the **Downloads** page from the list on the left, and scroll down a bit to find **Default Save Path**. Make sure it points to the correct path for your downloaded torrents folder. Here, if, like us, you also used a second folder for incomplete torrents, make sure the option **Use another path for incomplete torrents** is enabled and that the field on its right points to the correct folder for your half-downloaded files, too. Click **OK** to save your changes to qBittorrent's configuration, and exit the **Options** window.  
+
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![qBittorrent Options Downloads Default Save Path](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/qbittorrent-options-downloads-default-save-path.jpg)
 3. Fully exit qBittorrent and rerun it. This time it should find and start importing your torrents. However, it may fail to detect their progress and general state correctly. To fix that, highlight all your torrent files in qBittorrent's transfers list, right-click on them, and select **Force Recheck**. If your transfer list adds up to a multi-gigabyte sum, and especially if stored on an old and slow HDD, this process can take a while. When it finishes, your migrated qBittorrent installation should be indistinguishable from the original.  
 ![qBittorrent Right Click Menu Force Recheck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/qbittorrent-right-click-menu-force-recheck.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  And yet again, that might not be enough. qBittorrent also supports **categories**, each of which can have its own path. So, if you used that feature to have your torrents downloaded to different folders, you must also update each category's path.
 
  Unfortunately, each category might point to a different path. There's no way to fix them all with a single move. You will have to right-click on each category and select **Edit Category**. Then, under **Save Path**, click on the button with the folder icon, and point the requester to the correct path on your PC.
@@ -102,9 +105,6 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 
  When you eventually start downloading again, don't seek torrent links at shoddy sites: qBittorrent comes with a built-in search function you can use to find new torrents. Plus, we've covered how you can make it even more useful by [expanding it with more search engines](https://www.makeuseof.com/qBittorrent-add-search-engines/).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ## A Seamless Transition for qBittorrent
 
  It might involve taking an external hard disk drive from your old PC and plugging it into your new one, but migrating your qBittorrent installation between computers is not as simple.
@@ -115,11 +115,31 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 
  The answer's likely a positive "yes," but the way to do it isn't as simple as copying a folder from point A to point B. However, as we'll see next, it's not too complicated.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-beginners-vlogging-toolkit-gear-and-software/"><u>[New] 2024 Approved Beginner's Vlogging Toolkit Gear and Software</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-mastering-hp-laptop-ultimate-guide-to-screen-recording-methods-for-2024/"><u>[New] Mastering HP Laptop Ultimate Guide to Screen Recording Methods for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-unfollowers-alert-on-your-instagram-map/"><u>[New] Unfollowers Alert on Your Instagram Map</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/conquer-the-stars-in-depth-analysis-of-stellaris-galactic-adventures/"><u>Conquer the Stars: In-Depth Analysis of Stellaris' Galactic Adventures</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-it-vivo-x-fold-2-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Vivo X Fold 2 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Watch Hulu Outside US On Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/insider-tips-for-manual-windows-security-scanning/"><u>Insider Tips for Manual Windows Security Scanning</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimal-6-tracking-applications-to-enhance-pc-productivity/"><u>Optimal 6 Tracking Applications to Enhance PC Productivity</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-0x80246007-update-obstacle-on-windows-1011/"><u>Overcoming 0X80246007 Update Obstacle on Windows 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/recovering-lost-access-to-windows-command-center/"><u>Recovering Lost Access to Windows Command Center</u></a></li>
+<li><a href="https://windows11.techidaily.com/removing-aw-snap-from-your-chrome-browser-on-windows/"><u>Removing “Aw, Snap!” From Your Chrome Browser on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/simplifying-the-windows-search-interface-no-graphics/"><u>Simplifying the Windows Search Interface: No Graphics</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-4-apple-devices-on-hold-smart-purchasing-decisions-revealed/"><u>Top 4 Apple Devices on Hold: Smart Purchasing Decisions Revealed</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/ultimate-list-of-7-exceptional-vids-on-mac-for-2024/"><u>Ultimate List of 7 Exceptional Vids on Mac for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-secrets-of-microsoft-family-safety/"><u>Unveiling the Secrets of Microsoft Family Safety</u></a></li>
+<li><a href="https://windows11.techidaily.com/websites-as-apps-step-by-step-windows-installation/"><u>Websites as Apps: Step-by-Step Windows Installation</u></a></li>
+</ul></div>
+

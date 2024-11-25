@@ -1,7 +1,7 @@
 ---
 title: "Seamless Play: Eradicating Xbox Service Block"
-date: 2024-08-22T21:35:56.287Z
-updated: 2024-08-23T21:35:56.287Z
+date: 2024-11-23T23:35:08.247Z
+updated: 2024-11-24T16:41:39.480Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/40d4b8ee7a20cbf9725c025acb55ef566e92109bc
 
  Error 0x00000001 is an issue that players paying for the Xbox Game Pass subscription must get fixed to play their games. Some might contact the Xbox help service about the issue. However, you can fix error 0x00000001 in Windows with these potential solutions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Run the Troubleshooter for Fixing Apps
 
  As error 0x00000001 occurs in the Xbox app, the Windows Store Apps troubleshooter could be useful for fixing that issue. That troubleshooter resolves issues for MS Store apps that aren’t working right. These are the steps for running the Windows Store App troubleshooter:
@@ -30,7 +34,16 @@ thumbnail: https://thmb.techidaily.com/40d4b8ee7a20cbf9725c025acb55ef566e92109bc
 4. Now press the**Run** button for launching the Windows Store App.  
 ![The Run option for Windows Store Apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-option-for-windows-store-apps.jpg)
 5. The troubleshooter may apply some fixes automatically. If it suggests any potential solutions, select to apply them.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-store-apps-troubleshooter.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To access the same troubleshooter in Windows 10, click**Update & Security** \>**Troubleshoot** . You can bring up the troubleshooting tool list by clicking**Additional troubleshooters** . Then click Windows Store Apps’**Run the troubleshooter** option.
 
@@ -39,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/40d4b8ee7a20cbf9725c025acb55ef566e92109bc
  The Xbox, Microsoft Store, and Game Services apps are three that can feasibly cause error 0x00000001 when they’re corrupted. Repairing and resetting all those apps via Settings could clear any issues with them and resolve 0x00000001 with that. You can clear all those apps’ data as instructed in our guide to[resetting apps on Windows 10 and 11](https://www.makeuseof.com/windows-reset-app/) .
 
 ![The Reset button for the Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-reset-repair-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  However, it’s better to try repairing an app before clearing its data. You’ll find a**Repai** r option for the Xbox, Microsoft Store, and Game Services apps just above their**Reset** buttons. So, select**Repair** first, and if that option doesn’t make a difference go for a reset.
 
@@ -58,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/40d4b8ee7a20cbf9725c025acb55ef566e92109bc
 6. If you don’t reinstall Gaming Services with PowerShell, the Xbox app might prompt you to download it when you start it. In this case, you can click the download icon within Xbox app instead.
 7. Click**Get** on the Gaming Services MS Store page the command opens.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Start the Xbox Live Auth Manager Service
 
  Xbox Live Auth Manager provides Xbox Live authentication services. Xbox app issues can occur when that service is disabled. So, make sure that the service is enabled and running like this:
@@ -69,15 +83,14 @@ thumbnail: https://thmb.techidaily.com/40d4b8ee7a20cbf9725c025acb55ef566e92109bc
 2. Enter**Services** to find that app and select its result.  
 ![The Services app window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-services-window.jpg)
 3. Double-click**Xbox Live Auth Manager** to access the properties window for that service.
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 4. Set the service’s startup type to**Automatic** by selecting that option on the**Startup type** menu.  
 ![The Automatic startup option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-automatic-startup-type-option.jpg)
 5. Click Xbox Live Auth Manager’s**Start** button.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. To save the settings, select**Apply** .
 7. Close the Xbox Live Auth Manager window by clicking**OK** .
 8. Repeat steps four to eight for the Xbox Live Networking Service and Xbox Live Game Save services.
@@ -88,9 +101,6 @@ thumbnail: https://thmb.techidaily.com/40d4b8ee7a20cbf9725c025acb55ef566e92109bc
 
 ![The flush DNS command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-flush-dns-command.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Run the Windows Image and System File Scans
 
  System file corruption affecting the Xbox app's dependencies could be causing the 0x00000001 error on your PC. If other resolutions here haven’t worked for you, try running scans for repairing the Windows image and system files.
@@ -102,20 +112,19 @@ thumbnail: https://thmb.techidaily.com/40d4b8ee7a20cbf9725c025acb55ef566e92109bc
 `DISM.exe /Online /Cleanup-image /Restorehealth`  
 ![The Deployment Image and Servicing Management command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-image-repair-command.jpg)
 3. Then start a System File Checker scan by inputting this text and hitting**Enter** :  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `sfc /scannow`  
 ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/sfc-command.jpg)
 4. The SFC scan will take maybe 20-30 minutes to finish. Don’t exit Command Prompt until that tool has completed scanning and shown a Windows Resource Protection outcome message.
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Reinstall the Xbox App
 
  If repairing and resetting the Xbox app didn’t do the trick, try reinstalling it instead. Applying this potential resolution will refresh all the Xbox app’s files. You can uninstall and reinstall Xbox as follows:
@@ -129,9 +138,6 @@ No advertising on the website.
 6. Reinstall Xbox by clicking its**Get** button.  
 ![The Get button for the Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-get-button-for-xbox-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ## Install and Play Your Xbox Game Pass Titles Again
 
  You’ll probably be able to install Game Pass titles via the Xbox app again after applying the potential error 0x00000001 fixes above. That doesn’t mean they’re guaranteed error 0x00000001 solutions, but they have worked for many users.
@@ -144,8 +150,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,4 +157,23 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-automated-opener-your-srt-files-windows-and-mac/"><u>[New] 2024 Approved Automated Opener Your SRT Files, Windows & Mac</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-compile-list-of-cost-efficient-vecto-art-sites/"><u>[New] 2024 Approved Compile List of Cost-Efficient Vecto Art Sites</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-enhancing-visual-narratives-through-vsco-editing-for-2024/"><u>[New] Enhancing Visual Narratives Through VSCO Editing for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-open-air-fb-audio-downloads/"><u>2024 Approved Open Air FB Audio Downloads</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-on-apple-iphone-xr-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons On Apple iPhone XR? Find the Best Solution Here</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixes-for-photocapture-error-on-windows-os/"><u>Fixes for PhotoCapture Error on Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-install-and-run-chatgpt-as-a-windows-app/"><u>How to Install and Run ChatGPT as a Windows App</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-vivo-s17t-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Vivo S17t to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-vivo-v29e-by-drfone-android/"><u>In 2024, How to Bypass FRP from Vivo V29e?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-nokia-c02-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Nokia C02 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-secure-browsing-a-comprehensive-tutorial-for-setting-up-a-vpn-on-android-smartphones/"><u>Mastering Secure Browsing: A Comprehensive Tutorial for Setting Up a VPN on Android Smartphones</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-virtualbox-v70-upgrades-for-windows-11-enthusiasts/"><u>Mastering VirtualBox v7.0 Upgrades for Windows 11 Enthusiasts</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-complex-projects-using-github-desktop-in-win-11/"><u>Navigating Complex Projects Using GitHub Desktop in Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/selecting-the-best-power-mode-for-windows-users/"><u>Selecting the Best Power Mode for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-hidden-workings-and-purpose-of-runtime-brokers/"><u>The Hidden Workings and Purpose of Runtime Brokers</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-the-game-selecting-the-best-5-budget-friendly-software-boosters/"><u>Win the Game: Selecting the Best 5 Budget-Friendly Software Boosters</u></a></li>
+</ul></div>
 

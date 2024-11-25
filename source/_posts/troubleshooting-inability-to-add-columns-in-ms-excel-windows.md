@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Inability to Add Columns in MS Excel (Windows)"
-date: 2024-09-27T16:18:34.635Z
-updated: 2024-10-01T22:45:51.108Z
+date: 2024-11-22T18:53:31.413Z
+updated: 2024-11-24T20:59:24.031Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 
  If you are facing a similar problem, don’t fret. This guide will walk you through some effective solutions that should fix the problem in no time.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Disable Cell Protection
 
  A common reason why you may not be able to insert new rows or columns in an Excel sheet is if the existing cells are protected. In that case, you won't be able to make any changes unless you disable the cell protection feature using these steps:
@@ -33,10 +37,7 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
  After disabling the cell protection feature, try to insert new cells again.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Unfreeze the Panes
@@ -51,21 +52,7 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 4. Select **Unfreeze Panes** from the resulting menu.  
 ![Unfreeze Pane in Microsoft Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/unfreeze-pane-in-microsoft-excel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you unfreeze the panes, Excel should let you insert new cells.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Unmerge the Cells
 
@@ -81,15 +68,16 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 
 ![Clear Excel Last Column](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/clear-excel-last-column.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To clear entries from the last row, select any cell in the first column and press the **Ctrl + Down arrow** key to quickly navigate to the last row of your sheet. Click the row number to select the entire last row. Then, switch to the **Home** tab and select **Editing > Clear > Clear All**.
 
 ![Clear Excel Last Row](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/clear-excel-last-row.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Repair the Corrupted Excel Workbook
@@ -101,6 +89,10 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 3. In the **Open** dialog box, locate the corrupted file and select it.
 4. Click the arrow beside the **Open** button and select **Open and Repair**.  
 ![Repair Excel File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/repair-excel-file.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Wait for Excel to fix any issues with your worksheet and then open it. After that, check if the issue is still there.
 
@@ -116,6 +108,10 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 
  After completing the above steps, you should be able to insert new rows and columns without any errors.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Update Microsoft Excel
 
  Have you [disabled automatic updates for Office apps on Windows](https://www.makeuseof.com/windows-stop-automatic-office-updates/)? If so, you may be using an outdated version of Excel, which can sometimes cause problems. Try updating Microsoft Excel manually on your PC and see if that fixes the problem.
@@ -128,13 +124,6 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 ![Update Microsoft Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/update-microsoft-excel.jpg)
 
  Wait for Microsoft Office to update Excel along with other Office apps and check if that fixes the problem.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Run the Office Repair Tool
 
@@ -166,20 +155,20 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-social-media-hitmakers-top-10-music-video-recipes-for-fb/"><u>[New] Social Media Hitmakers - TOP 10 Music Video Recipes for FB</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-ideal-shade-modifier-software/"><u>[Updated] Ideal Shade Modifier Software</u></a></li>
-<li><a href="https://windows11.techidaily.com/best-digital-journals-navigate-your-pen-for-windows/"><u>Best Digital Journals: Navigate Your Pen for Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/defining-windows-corners-straighten-them-out/"><u>Defining Windows' Corners: Straighten Them Out</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-windows-update-issue-with-error-0x8024800c/"><u>Fixing Windows Update Issue with Error 0X8024800C</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-8-plus-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 8 Plus to other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-elevate-your-video-edits-ken-burns-in-camtasia/"><u>In 2024, Elevate Your Video Edits Ken Burns in Camtasia</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-oneplus-nord-ce-3-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your OnePlus Nord CE 3 5G Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-use-of-toolbars-an-insight-into-mspcm-windows-11/"><u>Mastering the Use of Toolbars: An Insight Into MSPCM, Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/peeling-back-the-layers-of-runtime-brokers-on-pcs/"><u>Peeling Back the Layers of Runtime Brokers on PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-fix-bypassing-the-components-not-found-issue-on-w10w11/"><u>Quick Fix: Bypassing the Components Not Found Issue on W10/W11</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/step-by-step-guide-transforming-your-kindle-ebooks-into-editable-pdf-format/"><u>Step-by-Step Guide: Transforming Your Kindle eBooks Into Editable PDF Format</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/uncomplicated-techniques-for-adding-igtv-to-your-story-for-2024/"><u>Uncomplicated Techniques for Adding IGTV to Your Story for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unlocking-chuckles-on-a-budget-memetic-creators-guide/"><u>Unlocking Chuckles on a Budget - Memetic Creator’s Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/unraveling-the-cause-of-unregistered-packages-in-windows/"><u>Unraveling the Cause of Unregistered Packages in Windows</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagram-success-stories-leveraging-highlights-for-growth-for-2024/"><u>[New] Instagram Success Stories Leveraging Highlights for Growth for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-thriving-on-both-sides-work-and-youtubing-tips/"><u>2024 Approved Thriving on Both Sides Work and YouTubing Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-absence-of-files-alert-in-windows-11/"><u>Addressing Absence of Files Alert in Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-nvidia-geforce-rtx-30-series-drivers-for-windows-11-quick-and-secure/"><u>Download NVIDIA GeForce RTX 30 Series Drivers for Windows 11 - Quick & Secure</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-a-frozen-frostpunk-screen-troubleshooting-tips-and-solutions/"><u>Fixing a Frozen Frostpunk Screen: Troubleshooting Tips and Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/from-blackout-to-bright-lights-expert-fixes-for-the-star-wars-battlefront-2-visual-conundrum/"><u>From Blackout to Bright Lights: Expert Fixes for the Star Wars Battlefront 2 Visual Conundrum</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-the-application-encountered-an-unrecoverable-error-in-roblox-on-windows/"><u>How to Fix the “The Application Encountered an Unrecoverable Error in Roblox on Windows</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-simplified-webinar-recording-methods-for-windows-and-mac-users/"><u>In 2024, Simplified Webinar Recording Methods for Windows & Mac Users</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Oppo A56s 5G? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-fixing-exit-code-errors/"><u>Mastering Windows: Fixing Exit Code Errors</u></a></li>
+<li><a href="https://extra-information.techidaily.com/prime-sites-where-your-presents-stand-out-in-a-sea-of-boxes/"><u>Prime Sites Where Your Presents Stand Out in a Sea of Boxes</u></a></li>
+<li><a href="https://windows11.techidaily.com/realign-your-windows-clock-through-chrome-settings/"><u>Realign Your Windows Clock Through Chrome Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-overcome-audio-glitch-in-win1011/"><u>Strategies to Overcome Audio Glitch in Win10/11</u></a></li>
+<li><a href="https://change-location.techidaily.com/where-is-the-best-place-to-catch-dratini-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-uncontrollable-scroll-troubleshooting-steps/"><u>Windows Uncontrollable Scroll: Troubleshooting Steps</u></a></li>
 </ul></div>
 

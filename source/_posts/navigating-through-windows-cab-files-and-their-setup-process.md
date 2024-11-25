@@ -1,7 +1,7 @@
 ---
 title: Navigating Through Windows' CAB Files and Their Setup Process
-date: 2024-11-09T17:03:24.524Z
-updated: 2024-11-15T16:27:00.866Z
+date: 2024-11-18T20:42:54.707Z
+updated: 2024-11-25T00:30:11.189Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/fa651493e7721486825be5cb6becb6ac17b9f6602
 
  Now that you have a brief understanding of CAB files, let's check out how you can install it on Windows 11\.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Install a CAB File on Windows 11
 
  You can easily install a CAB file on Windows 11 using Command Prompt and Windows PowerShell. In the Command Prompt method, you'll have to use the [DISM command](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/). Whereas, in the PowerShell method, you'll use the Add-WindowsPackage command.
@@ -45,13 +49,6 @@ thumbnail: https://thmb.techidaily.com/fa651493e7721486825be5cb6becb6ac17b9f6602
 2. Right-click the CAB file, and choose **Copy as path**.  
 ![Copy as path option in context menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/copy-as-path-option.jpg)
 3. Press **Win** key to open the **Start Menu**, type **Command Prompt** in the search bar, and choose **Run as administrator** from the right pane.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. In the elevated Command Prompt window, type the following command and press Enter. Make sure to replace "**CAB location**" with the copied path.  
 `dism /Online /Add-Package /PackagePath:"CAB location"`  
@@ -67,13 +64,14 @@ thumbnail: https://thmb.techidaily.com/fa651493e7721486825be5cb6becb6ac17b9f6602
 `  
 ![Powershell window with command to install a CAB file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/powershell-window.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That's it. PowerShell will install the content of the CAB file on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Install Driver Updates From a CAB File
@@ -86,23 +84,13 @@ thumbnail: https://thmb.techidaily.com/fa651493e7721486825be5cb6becb6ac17b9f6602
 3. Choose the location where you want to extract the contents of the CAB file and click **Extract**.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Press **Win + X** hotkey to open the Power User menu and choose **Device Manager**.
 5. Right-click the device for which you have downloaded the driver update and choose **Update driver**.  
 ![Update driver option in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/update-driver.jpg)
 6. Click **Browse my computer for drivers**.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Browse my computer for drivers in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/browse-my-computer-for-drivers.jpg)
 7. Click **Browse** and navigate to the location where you have extracted the CAB file.
@@ -114,6 +102,10 @@ thumbnail: https://thmb.techidaily.com/fa651493e7721486825be5cb6becb6ac17b9f6602
 ![Next option in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/next-option.jpg)
 
  The Device Manager will now install the driver update on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## CAB Files: Everything You Need to Know
 
@@ -131,18 +123,19 @@ thumbnail: https://thmb.techidaily.com/fa651493e7721486825be5cb6becb6ac17b9f6602
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-dive-into-the-world-of-expertise-with-youtubes-top-10-makeup-vloggers-for-2024/"><u>[New] Dive Into the World of Expertise with YouTube's Top 10 Makeup Vloggers for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ost-reliable-platforms-to-gather-video-intro-templates-for-2024/"><u>[New] Most Reliable Platforms to Gather Video Intro Templates for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-snapseed-simplified-the-photographers-first-toolkit/"><u>[New] Snapseed Simplified The Photographer's First Toolkit</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-zte-axon-40-lite-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your ZTE Axon 40 Lite</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/best-in-class-networking-server-frameworks-2024s-top-picks-unveiled/"><u>Best-In-Class Networking Server Frameworks: 2024'S Top Picks Unveiled</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-sound-devices-not-opened-by-audacity-in-win-os/"><u>How to Fix Sound Devices Not Opened by Audacity in Win OS</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-calendar-on-iphone-6s-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover lost Calendar on iPhone 6s | Stellar</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-edge-40-pro-phone-without-password-by-drfone-android/"><u>How To Unlock Motorola Edge 40 Pro Phone Without Password?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-itel-a60-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Itel A60 Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-windows-camera-software-hurdles/"><u>Tackling Windows Camera Software Hurdles</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-for-overcoming-generic-sound-failure-in-windows/"><u>Tips for Overcoming Generic Sound Failure in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-tweaks-for-swifter-epic-games-setup/"><u>Windows Tweaks for Swifter Epic Games Setup</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-how-to-easily-disableremove-youtube-shorts-permanently/"><u>[New] 2024 Approved How to Easily Disable/Remove YouTube Shorts Permanently?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exposing-the-pinnacle-5-digital-title-artists/"><u>[New] Exposing the Pinnacle 5 Digital Title Artists</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-streaming-made-simple-convert-and-broadcast-mp3-songs-online/"><u>[Updated] Streaming Made Simple Convert and Broadcast MP3 Songs Online</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-essential-techniques-for-downloading-fb-stories-desktop-and-mobile/"><u>2024 Approved Essential Techniques for Downloading FB Stories (Desktop & Mobile)</u></a></li>
+<li><a href="https://windows11.techidaily.com/ace-in-the-game-winning-at-full-screen-with-sonic-adventure-w11-edition/"><u>Ace in the Game: Winning at Full Screen with Sonic Adventure, W11 Edition</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatterbot-security-staying-one-step-ahead/"><u>Chatterbot Security: Staying One Step Ahead</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/crafting-smart-ai-solutions-with-gpt-3-in-the-realm-of-openai-playground/"><u>Crafting Smart AI Solutions with GPT-3 in the Realm of OpenAI Playground</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-your-system-interaction-in-command-prompt/"><u>Elevate Your System Interaction in Command Prompt</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-ai-copilot-enriches-windows-11-for-everyday-users/"><u>How AI Copilot Enriches Windows 11 for Everyday Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximizing-performance-monitoring-pcs-ram-gpu-and-cpu/"><u>Maximizing Performance: Monitoring PC's RAM, GPU & CPU</u></a></li>
+<li><a href="https://windows11.techidaily.com/protecting-windows-users-best-free-software-downloaders/"><u>Protecting Windows Users: Best Free Software Downloaders</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-resolving-cant-connect-issues-in-windows-11/"><u>Quick Guide: Resolving 'Can't Connect' Issues in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-windows-default-battery-usage-protocol/"><u>Restoring Window's Default Battery Usage Protocol</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ultimate-selection-of-leading-pc-soundcards-for-the-year-2024/"><u>Ultimate Selection of Leading PC Soundcards for the Year 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Super-Fast Windows Query with EverythingApp
-date: 2024-08-22T21:35:14.681Z
-updated: 2024-08-23T21:35:14.681Z
+date: 2024-11-23T21:09:04.527Z
+updated: 2024-11-24T18:16:41.718Z
 tags:
   - windows10
   - windows11
@@ -36,11 +36,23 @@ thumbnail: https://thmb.techidaily.com/157145562d322ac42b18debf7cc17b6e328143a79
 
 ![Everything app install options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/installing-everything-on-windows-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, click**Yes** on the**User Account Control** prompt and tap**Finish** to close the installer and launch Everything.
 
  Wait for a few seconds, and Everything will create a database by indexing all the files and folders on your computer
 
 ![Everything search indexed database](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/everything-search-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Perform Basic Everything Configuration
 
@@ -48,9 +60,6 @@ thumbnail: https://thmb.techidaily.com/157145562d322ac42b18debf7cc17b6e328143a79
 
 ![Everything search options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/everything-search-app-options.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 We recommend enabling the following options from here:
 
 1. **Search History:** To view all your previous searches. Click on**History** and check off the**Enable search history** checkbox. Also, set the duration for how long you want Everything to remember your searches.
@@ -60,12 +69,13 @@ We recommend enabling the following options from here:
 
  Finally, click**Apply** to apply the settings and click**OK** to close the window.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Find Files and Folders on Windows With Everything
 
  Finding files and folders with Everything is easy. Here are all the different kinds of searches and operations you can perform in Everything.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Search for a File or Folder
 
@@ -73,25 +83,16 @@ We recommend enabling the following options from here:
 
 ![simple search in Everything](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/search-file-folder-on-everything.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
  If you want to limit your search to a particular drive, you can specify the drive letter in your search query. For example, using**d:\\** before your query will show you only those files and folders that are present in the**D** drive.
 
  Similarly, you can specify a folder name to tell Everything to find a file or folder inside that specific folder. For instance, if you'd like to search files inside the**Music** directory in**D** drive, your query would look like this:**d:\\music.**
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. Get More Information and Perform Operations on Search Results
 
  If you wish to find out details about a file/folder in the results, select it, and Everything will show its details in the status bar below.
 
 ![view details about a file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/get-details-about-a-file.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Similarly, you can double-click on a file or folder to open it in File Explorer. Or right-click on it to bring up the context menu.
 
  Depending on what file or folder you're doing this on, you'll see a range of options in this menu, like rename, copy full path, open path, cut, copy, delete, and more. Most of the actions you perform here will apply directly to the file/folder on the file system and reflect in the File Explorer.
@@ -101,6 +102,10 @@ We recommend enabling the following options from here:
  If Everything returns multiple files and folders matching your query, you can sort them by different properties to quickly get to the item you need. To do this, click on**View** , select**Sort by** , and select a sorting option.
 
 ![Everything sorting options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/everything-sort-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Filter Results by Type
 
@@ -113,8 +118,9 @@ We recommend enabling the following options from here:
  Everything will filter the results and only show you files and folders that match the specified type.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 5\. Match Case to Find Accurate Results
 
  When you search for a file or folder in Everything, it doesn't take into consideration the case style to filter results. As a result, if you've named a file or folder in a particular case style, looking it up using a regular search will simply return too many results.
@@ -124,8 +130,9 @@ We recommend enabling the following options from here:
 ![match case option in Everything](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/match-case-in-everything-search.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Everything will then return only those files and folders that match the specified case style.
 
 ### 6\. Use Advanced Search
@@ -168,8 +175,6 @@ We recommend enabling the following options from here:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -177,4 +182,23 @@ We recommend enabling the following options from here:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-channel-titles-that-shine-how-to-innovate/"><u>[New] 2024 Approved Channel Titles That Shine How to Innovate</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-seamless-gamewatching-unlock-nba-livestream-top-15-hacks/"><u>[Updated] 2024 Approved Seamless Gamewatching Unlock NBA Livestream (Top 15 Hacks)</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-fundamentals-of-motion-design-and-practical-application-for-2024/"><u>[Updated] Fundamentals of Motion Design & Practical Application for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-error-code-0xc0000001-on-windows-10-or-11/"><u>How to Fix Error Code 0Xc0000001 on Windows 10 or 11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-apple-iphone-x-video-to-computer-drfone-by-drfone-ios/"><u>How to Stream Apple iPhone X Video to Computer? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-itel-a60s-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Itel A60s Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-vivo-v30-lite-5g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Vivo V30 Lite 5G PC | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-from-your-apple-iphone-11-pro-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID from Your Apple iPhone 11 Pro?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-courtesy-essential-when-interacting-with-voice-assistants-like-chatgpt-alexa-or-siri/"><u>Is Courtesy Essential When Interacting with Voice Assistants Like ChatGPT, Alexa, or Siri?</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-resolution-of-windows-store-error-0x80073d26/"><u>Navigating the Resolution of Windows Store Error 0X80073D26</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/no-money-no-problem-learn-to-edit-videos-for-free-on-vimeo/"><u>No Money, No Problem! Learn to Edit Videos for FREE on Vimeo</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-deal-with-microsoft-offices-error-code-0x80041015/"><u>Strategies to Deal with Microsoft Office's Error Code: 0X80041015</u></a></li>
+<li><a href="https://windows11.techidaily.com/swift-remedy-for-win-11-store-failures-code-x00000000/"><u>Swift Remedy for Win 11 Store Failures: Code X00000000</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-the-busy-resource-issue-in-windows-environments-153-chars/"><u>Tackling the Busy Resource Issue in Windows Environments (153 Chars)</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-complete-blueprint-instantly-creating-multiple-directories-for-a-neat-workspace-on-windows/"><u>The Complete Blueprint: Instantly Creating Multiple Directories for a Neat Workspace on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-overcoming-onedrives-add-folder-unsuccessful-on-pc/"><u>Troubleshooting: Overcoming OneDrive's 'Add Folder Unsuccessful' On PC</u></a></li>
+</ul></div>
 

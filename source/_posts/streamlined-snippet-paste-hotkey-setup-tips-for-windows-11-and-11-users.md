@@ -1,7 +1,7 @@
 ---
 title: "Streamlined Snippet Paste: Hotkey Setup Tips for Windows 11 and 11 Users"
-date: 2024-10-26T16:06:41.985Z
-updated: 2024-10-30T16:36:41.086Z
+date: 2024-11-20T20:33:51.212Z
+updated: 2024-11-24T21:05:07.621Z
 tags:
   - windows10
   - windows11
@@ -38,6 +38,11 @@ thumbnail: https://thmb.techidaily.com/698acf9899d7549d0c21beb422c9a4efb393d0c10
 6. Now input some text you want to set up a custom paste hotkey for within the**Add** **text** box.  
 ![The QuickTextPaste window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-quicktextpaste-window.jpg)
 7. Select the keys to include within your hotkey on the two drop-down menus at the bottom of the QuickTextPaste window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Press the**Add** button. You should see your new hotkey listed within the Keyboard Shortcuts column.
 
  You can now try out your new custom paste hotkey. Click QuickTextPaste’s**To-Tray** button to minimize the app to the system tray area. Open Notepad, or any other text editor or word processor, to paste in. Then press whatever custom hotkey you set up to paste in its predefined text snippet.
@@ -62,16 +67,7 @@ thumbnail: https://thmb.techidaily.com/698acf9899d7549d0c21beb422c9a4efb393d0c10
 ![The Extract All context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/extract-all-option.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Double-click**HotkeyP.exe** within the hotkeyp\_64bit folder.
@@ -97,17 +93,7 @@ thumbnail: https://thmb.techidaily.com/698acf9899d7549d0c21beb422c9a4efb393d0c10
 ![The General tab in HotkeyP's Options window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-general-tab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Creating Other Hotkeys With HotkeyP
@@ -117,15 +103,16 @@ thumbnail: https://thmb.techidaily.com/698acf9899d7549d0c21beb422c9a4efb393d0c10
 ![The System hotkey options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/system-hotkey-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or you can set up some custom window control hotkeys. Select**Window** on the command menu to view the various window keyboard shortcut options. There you can select**Always on Top** ,**Maximize window** ,**Minimize others** ,**Window snapshot,** **Close window** , and**Opacity** hotkey options, to name a few.
 
  You can set up a program keyboard shortcut by selecting an app’s path within the Hot Key window. Click the**ellipses (…)** button for the**Command** box to select a program for a keyboard shortcut to open. Then you can also select additional**Process priority** and**Run as administrator** settings for the software the hotkey launches.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Create Handy Hotkeys for Pasting Pre-Defined Text in Windows
 
@@ -146,19 +133,17 @@ thumbnail: https://thmb.techidaily.com/698acf9899d7549d0c21beb422c9a4efb393d0c10
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guide-to-structuring-youtube-content-with-separate-chapters/"><u>[New] In 2024, Guide to Structuring YouTube Content with Separate Chapters</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-enhance-tv-viewing-with-global-news-and-events-via-fb-live-roku-style/"><u>[Updated] Enhance TV Viewing with Global News & Events via FB Live, Roku Style</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-secure-and-effective-methods-for-facetime-audio-preservation-for-2024/"><u>[Updated] Secure and Effective Methods for FaceTime Audio Preservation for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-mastering-social-media-creating-effective-fb-videos/"><u>2024 Approved Mastering Social Media Creating Effective FB Videos</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-secrets-to-super-views-hashtag-hacks-for-game-streams/"><u>2024 Approved Secrets to Super Views Hashtag Hacks for Game Streams</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/8-risks-trusting-ai-for-mental-health/"><u>8 Risks: Trusting AI for Mental Health</u></a></li>
-<li><a href="https://windows11.techidaily.com/fine-tune-your-pointers-response-time-and-visibility-on-windows-11/"><u>Fine-Tune Your Pointer's Response Time and Visibility on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-defenders-barrier-on-third-party-av-software/"><u>Overcoming Defender's Barrier on Third-Party AV Software</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/spotting-and-purging-redundant-photographs-in-external-memory-drives-a-step-by-step-guide/"><u>Spotting & Purging Redundant Photographs in External Memory Drives: A Step-by-Step Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/techniques-for-bypassing-check-pin-error-in-windows-1110-bluetooth/"><u>Techniques for Bypassing Check Pin Error in Windows 11/10 Bluetooth</u></a></li>
-<li><a href="https://windows11.techidaily.com/transformative-strategies-to-supercharge-windows-11/"><u>Transformative Strategies to Supercharge Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/transition-to-new-background-in-winterminal/"><u>Transition to New Background in WinTerminal</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-windows-wonders-creating-and-interpreting-reports/"><u>Unveiling Windows Wonders: Creating & Interpreting Reports</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/why-microsoft-copilot-is-superior-to-chatgpt-four-compelling-reasons/"><u>Why Microsoft Copilot Is Superior to ChatGPT – Four Compelling Reasons</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-optimal-hue-refiner-app/"><u>[New] In 2024, Optimal Hue Refiner App</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-10-best-powerpoint-to-video-converters-free-and-paid/"><u>[Updated] 2024 Approved 10 Best PowerPoint to Video Converters [Free and Paid]</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-photo-prospectus-top-10-professional-lens-choices/"><u>[Updated] In 2024, Photo Prospectus Top 10 Professional Lens Choices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/decoding-how-to-grab-youtube-captions-3-effective-techniques-revealed/"><u>Decoding How To Grab YouTube Captions 3 Effective Techniques Revealed</u></a></li>
+<li><a href="https://win-premium.techidaily.com/error-al-realizar-respaldo-en-windows-11-soluciones-efectivas-para-sistemas-actuales/"><u>Error Al Realizar Respaldo en Windows 11? Soluciones Efectivas Para Sistemas Actuales</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-master-video-creation-understanding-the-role-of-camera-lenses-in-vlogging/"><u>In 2024, Master Video Creation Understanding the Role of Camera Lenses in Vlogging</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-activation-error-0x803f700f-fix-guide/"><u>Overcoming Windows Activation Error: 0X803F700F Fix Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-start-adding-windows-hello-to-your-pc/"><u>Quick Start: Adding Windows Hello to Your PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/security-concerns-how-safe-is-chatgpt/"><u>Security Concerns: How Safe Is ChatGPT?</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-essential-guide-to-generating-gpo-data-with-gpresult/"><u>The Essential Guide to Generating GPO Data with GPResult</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-failed-auto-detection-of-windows-proxy/"><u>Troubleshooting Failed Auto-Detection of Windows Proxy</u></a></li>
 </ul></div>
 

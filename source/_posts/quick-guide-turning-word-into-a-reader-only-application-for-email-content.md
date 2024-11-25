@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: Turning Word Into a Reader-Only Application for Email Content"
-date: 2024-11-11T16:06:43.806Z
-updated: 2024-11-15T16:29:13.332Z
+date: 2024-11-19T23:17:03.333Z
+updated: 2024-11-24T16:40:11.386Z
 tags:
   - windows10
   - windows11
@@ -36,13 +36,14 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
 5. Check the box that reads **Open e-mail attachments and other uneditable files in reading view** and click on**OK** .  
 ![Word Startup Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Word-Startup-Options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you complete the above steps, Word will open email attachments in reading view by default.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. How to Change the Local Group Policy to Open Email Attachments in Reading View in Microsoft Word
@@ -58,10 +59,7 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
 ![Configure Word to Open Email Attachments in Reading View Using Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Configure-Word-to-Open-Email-Attachments-in-Reading-View-Using-Group-Policy-Editor.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. How to Tweak the Windows Registry to Open Email Attachments in Reading View in Microsoft Word
@@ -82,25 +80,13 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
 ![Configure Word to Open Email Attachments in Reading View Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Configure-Word-to-Open-Email-Attachments-in-Reading-View-Using-Registry-Editor.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Restart your PC for the changes to take effect. Following that, Word will open all your email attachments in reading view.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Opening Email Attachments in Microsoft Word's Reading View
@@ -122,20 +108,22 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-master-your-screen-time-discover-these-top-7-android-adblockers/"><u>[New] 2024 Approved Master Your Screen Time Discover These Top 7 Android AdBlockers</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-beneath-the-surface-exploring-the-invisible-aspects-of-viewing-stories/"><u>[New] Beneath the Surface Exploring The Invisible Aspects of Viewing Stories</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-mastering-instagram-reel-creating-stunning-slow-motion-content/"><u>[New] Mastering Instagram Reel Creating Stunning Slow-Motion Content</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-elevating-the-chilly-selecting-five-warm-video-backgrounds/"><u>[Updated] Elevating the Chilly Selecting Five Warm Video Backgrounds</u></a></li>
-<li><a href="https://win-popular.techidaily.com/come-risolvere-i-problemi-di-blocco-dei-transferimenti-di-file-su-windows-10/"><u>Come Risolvere I Problemi Di Blocco Dei Transferimenti Di File Su Windows 10</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/design-revolutionaries-discovering-6-icon-and-logo-banks-online/"><u>Design Revolutionaries Discovering 6 Icon & Logo Banks Online</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/finding-your-niche-in-the-snapchat-economy-for-2024/"><u>Finding Your Niche in the Snapchat Economy for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-samsung-galaxy-a25-5g-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Samsung Galaxy A25 5G</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-through-system-performance-metrics/"><u>Navigating Through System Performance Metrics</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-infinix-note-30-vip-racing-edition-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Infinix Note 30 VIP Racing Edition</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-windows-error-0xc0000001-a-step-by-step-guide/"><u>Resolving Windows Error 0xC0000001: A Step-by-Step Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-if-windows-ignores-or-cannot-find-powershell-command/"><u>Steps if Windows Ignores or Cannot Find PowerShell Command</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-partition-management-in-windows-os/"><u>Streamlining Partition Management in Windows OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/unwanted-file-explorer-activation-stopped/"><u>Unwanted File Explorer Activation Stopped</u></a></li>
-<li><a href="https://windows11.techidaily.com/xbox-crash-reset-and-restart-to-fix-it/"><u>Xbox Crash? Reset and Restart to Fix It</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-film-makers-guide-to-selecting-between-hero-and-cube-videos/"><u>[New] Film Maker's Guide to Selecting Between Hero and Cube Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-free-templates-for-sustainable-storytelling/"><u>[Updated] 2024 Approved Free Templates for Sustainable Storytelling</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-mastering-visual-storytelling-live-broadcasts-of-360-videos-on-facebook/"><u>[Updated] 2024 Approved Mastering Visual Storytelling Live Broadcasts of 360 Videos on Facebook</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gear-up-yourself-selecting-prime-lenses-for-successful-vlogging/"><u>[Updated] In 2024, Gear Up Yourself Selecting Prime Lenses for Successful Vlogging</u></a></li>
+<li><a href="https://windows11.techidaily.com/curing-stale-boot-option-imagery/"><u>Curing Stale BOOT Option Imagery</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guida-completa-come-scaricare-immagini-con-lo-strato-di-trasparenza-in-modo-facile/"><u>Guida Completa: Come Scaricare Immagini Con Lo Strato Di Trasparenza in Modo Facile</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-pro-3-ways-to-unlock-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 12 Pro 3 Ways To Unlock</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-methods-for-3d-text-illustration/"><u>In 2024, Innovative Methods for 3D Text Illustration</u></a></li>
+<li><a href="https://windows11.techidaily.com/least-ram-and-cpu-hungry-browsers-on-triple-operating-systems/"><u>Least RAM and CPU-Hungry Browsers on Triple Operating Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/maintaining-calculator-prominence-in-windows-os/"><u>Maintaining Calculator Prominence in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-multi-monitor-setup-changes/"><u>Mastering Multi-Monitor Setup Changes</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-obs-troubleshooting-techniques-for-win-11-users/"><u>Mastering OBS Troubleshooting Techniques for Win 11 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-access-denied-barrier-the-solution-is-here/"><u>Overcoming the Access Denied Barrier - The Solution Is Here</u></a></li>
+<li><a href="https://windows11.techidaily.com/rewind-to-file-explorer-classics-in-w11/"><u>Rewind to File Explorer Classics in W11</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/step-by-step-guide-building-a-toshiba-satellite-rescue-drive-and-booting-from-it/"><u>Step-by-Step Guide: Building a Toshiba Satellite Rescue Drive & Booting From It</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-policy-settings-with-proven-gpo-update-methods/"><u>Streamlining Policy Settings with Proven GPO Update Methods</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-shortcut-for-character-viewing/"><u>Windows 11 Shortcut for Character Viewing</u></a></li>
 </ul></div>
 

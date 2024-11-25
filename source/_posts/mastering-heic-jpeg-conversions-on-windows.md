@@ -1,7 +1,7 @@
 ---
 title: Mastering HEIC-JPEG Conversions on Windows
-date: 2024-08-22T21:39:25.635Z
-updated: 2024-08-23T21:39:25.635Z
+date: 2024-11-17T16:44:41.212Z
+updated: 2024-11-25T01:02:56.464Z
 tags:
   - windows10
   - windows11
@@ -51,6 +51,14 @@ thumbnail: https://thmb.techidaily.com/485fa639637af95e40bb39955015be2d5660936e6
 
 ![A HEIC image preview in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-heic-image-preview.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Batch Convert HEIC Images to JPEG With FoneTool
 
  FoneTool is a more general software utility for transferring iPhone files to and from Windows PCs. That software incorporates phone file transfer, backup, and HEIC conversion tools. Its HEIC converter enables you to batch-convert multiple HEIC images to JPEG and PNG formats. This is how you can batch convert your HEIC images to JPEG with the freeware FoneTool version:
@@ -86,8 +94,9 @@ Now it's time to convert images with FoneTool:
 ![The Photo Deduplication tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/photo-duplication-tool.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Bach Convert HEIC Images With HEIC to JPEG Free Online Converter
 
  There are various[online HEIC to JPEG conversion tools](https://www.makeuseof.com/convert-heic-files-tools/) you can utilize in Windows browsers. HEIC to JPEG Free Online Converter is a web app with which you can convert up to 100 images simultaneously to JPEG, PNG, or BMP formats. These are the steps for converting HEIC images to JPEG alternatives with that web app:
@@ -96,23 +105,22 @@ Now it's time to convert images with FoneTool:
 2. Press the**Add HEIC files** button.  
 ![The Add HEIC files button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-heic-files-button.jpg)
 3. Choose a HEIC image to convert and click the**Open** option. As you can only select one image at a time, you’ll need to repeat steps two and three to add more files.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 4. Click (Select output format) to expand options.
 5. Select**JPEG** on the**Convert to** drop-down menu.  
 ![The Convert to option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/convert-to-option.jpg)
 6. Then set a value in the**Quality** box.
+
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 7. Select the**I consent** checkbox. You can click the**Privacy Policy** link to view further info about the fCoder Solutions' data-sharing policy.
 8. Press**Convert** to perform the conversion.  
 ![The Convert button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/convert-button.jpg)
 9. Click**Download all** to save the JPEG files.
+
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also utilize this tool for batch-resizing images. To do so, click the**Set image size, remove all EXIF information** option. Then input values in the new width and new height text boxes.
@@ -120,11 +128,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![Image resize options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-image-size-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## Make iPhone Photos More Accessible on Windows
 
  Converting HEIC images to JPEG format will enable you to open, view, and edit them with a much wider variety of Windows software. If you have lots of them, it’s best to utilize a batch conversion tool for converting HEIC files to JPEG format. You can quickly convert masses of HEIC images in Windows 11 and 10 with CopyTrans HEIC, FoneTool, and HEIC to JPEG Free Online Converter.
@@ -135,8 +141,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +148,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-twitta-videos-new-audio-formats-for-2024/"><u>[New] Twitta Videos New Audio Formats for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-ensuring-every-snapchatter-friendly-footage-via-mac/"><u>[Updated] Ensuring Every Snapchatter-Friendly Footage via Mac</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-essential-top-5-compact-camcorders-for-adventure-for-2024/"><u>[Updated] Essential Top 5 Compact Camcorders for Adventure for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-evaluation-of-the-ring-video-doorbell-pro-version/"><u>Comprehensive Evaluation of the Ring Video Doorbell Pro Version</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-excessive-cpu-use-by-svchostexe-on-windows-11-complete-guide/"><u>Fixing Excessive CPU Use by svchost.exe on Windows 11 - Complete Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-through-the-signature-verification-failure-of-windows-1011/"><u>Guide Through the Signature Verification Failure of Windows 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/hide-your-wireless-signal-windows-techniques/"><u>Hide Your Wireless Signal: Windows Techniques</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Motorola G54 5G? | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-ideal-apps-to-transform-vtuber-speech-patterns/"><u>In 2024, Ideal Apps to Transform Vtuber Speech Patterns</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-top-8-cameras-unmatched-live-stream-quality/"><u>In 2024, Top 8 Cameras Unmatched Live Stream Quality</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-psycho-stress-keeping-your-ps4-controller-tethered-to-windows/"><u>Preventing Psycho-Stress: Keeping Your PS4 Controller Tethered to Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-invalid-profiles-on-microsoft-oses-win1011-fix/"><u>Resolving Invalid Profiles on Microsoft OSes: Win10/11 Fix</u></a></li>
+<li><a href="https://windows11.techidaily.com/secure-your-system-save-big-keys-fans-black-friday-treat-for-windows-11/"><u>Secure Your System, Save Big - Keys Fan's Black Friday Treat for Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/sync-hp-envy-drivers-with-win-11-os/"><u>Sync HP Envy Drivers with Win 11 OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-a-shimmering-window-title-bar-in-win11/"><u>Tips for A Shimmering Window Title Bar in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-a-non-operational-media-player-in-windows-11/"><u>Troubleshooting a Non-Operational Media Player in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-disappearing-windows-screen/"><u>Troubleshooting Disappearing Windows Screen</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Quick Guide to Uninstalling and Reinstalling on Windows 11
-date: 2024-11-13T16:45:58.372Z
-updated: 2024-11-15T16:50:04.806Z
+date: 2024-11-21T19:45:02.217Z
+updated: 2024-11-24T18:12:38.864Z
 tags:
   - windows10
   - windows11
@@ -25,11 +25,19 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Reset an App on Windows 11
 
  To reset an app on Windows 11, start by pressing**Win + I** to bring up the Settings app. Then, navigate to**Apps > Installed apps** .
 
 ![the installed apps screen in the windows 11 settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/installed-apps-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Scroll through the list of apps on your computer until you get to the one you want. Once you’ve found it, click on the**three horizontal dots** on its right and select**Advanced options** from the menu.
 
@@ -41,20 +49,11 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 
 ![reseting an app in the Windows settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/reseting-spotify.jpg)
 
- Confirm you want to reset the app by clicking**Reset** again in the pop-up.
-
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Confirm you want to reset the app by clicking**Reset** again in the pop-up.
 
 ## How to Reset an App on Windows 10
 
@@ -62,31 +61,18 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 
 ![the apps and features screen in the windows 10 settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/apps-features-windows-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Find the app you want to reset from the list of installed apps and click on it. Then, click the**Advanced options** link that appears below the name of the app.
 
 ![the alarm clock advanced options in the windows 10 settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/alarm-clock-windows-10-advanced-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You will find the button to reset the app in the**Reset** section of its advanced settings, and you should click it. Finally, confirm that this is what you want to do by clicking**Reset** in the pop-up as well.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Windows Apps Just Need a Reset Sometimes
@@ -110,18 +96,21 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-step-into-pro-audio-recording-on-your-mac-using-audacity/"><u>[New] Step Into Pro Audio Recording on Your Mac Using Audacity</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-chromebook-webcam-usage-recording-made-easy/"><u>[Updated] Chromebook Webcam Usage Recording Made Easy</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-high-quality-videos-at-your-fingertesps-selecting-the-right-fps/"><u>[Updated] High-Quality Videos at Your Fingertesps Selecting the Right FPS</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-financial-fortitude-for-youtubers-beyond-basic-earnings/"><u>[Updated] In 2024, Financial Fortitude for YouTubers Beyond Basic Earnings</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/analyzing-and-ranking-lowest-priced-cloud-services/"><u>Analyzing & Ranking Lowest-Priced Cloud Services</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-xiaomi-redmi-note-12r-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Xiaomi Redmi Note 12R?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-guide-to-effortless-telegram-web-use/"><u>In 2024, Step-by-Step Guide to Effortless Telegram Web Use</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-windows-11-sign-in-shift-move-from-pin-to-password-effortlessly/"><u>Mastering Windows 11 Sign-In Shift: Move From PIN to Password Effortlessly</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-windows-crash-zeroing-in-on-error-0x800f0831/"><u>Overcoming Windows Crash: Zeroing In on Error 0X800F0831</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-nvidia-control-panel-save-issue/"><u>Resolving Nvidia Control Panel Save Issue</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-secret-behind-timeless-game-aesthetics-retroarcs-shaders/"><u>The Secret Behind Timeless Game Aesthetics - RetroArc's Shaders</u></a></li>
-<li><a href="https://windows11.techidaily.com/uncover-the-file-location-for-your-desktop-images/"><u>Uncover the File Location for Your Desktop Images</u></a></li>
-<li><a href="https://windows11.techidaily.com/understanding-edges-ongoing-role-in-win11-systems/"><u>Understanding Edge's Ongoing Role in Win11 Systems</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-precision-in-action-3-methods-for-gaming-footage/"><u>[New] 2024 Approved Precision in Action 3 Methods for Gaming Footage</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-mastering-camtasia-ken-burns-technique-unveiled/"><u>[New] Mastering Camtasia Ken Burns Technique Unveiled</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-capturing-charm-sage-advice-on-editing-digital-art/"><u>2024 Approved Capturing Charm Sage Advice on Editing Digital Art</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/6-effektive-wege-um-automatische-windows-11-updates-zu-deaktivieren-schritt-fur-schritt-anleitung/"><u>6 Effektive Wege, Um Automatische Windows 11-Updates Zu Deaktivieren: Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-windows-11s-compatibility-diagnostic-tool/"><u>Decoding Windows 11'S Compatibility Diagnostic Tool</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-sweep-away-delayed-input-fasten-your-fingers-for-windows-11/"><u>How to Sweep Away Delayed Input: Fasten Your Fingers for Windows 11</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-method-to-identify-recent-instagram-unfollows/"><u>In 2024, Method to Identify Recent Instagram Unfollows</u></a></li>
+<li><a href="https://windows11.techidaily.com/minimizing-power-drain-addressing-vanguard-ums-overuse-on-pcs/"><u>Minimizing Power Drain: Addressing Vanguard UMS Overuse on PCs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-pixizs-tools-for-photo-video-craftsmanship-for-2024/"><u>Navigating Pixiz's Tools for Photo-Video Craftsmanship for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fix-eliminate-startup-disruption-due-to-winscombsvc-errors/"><u>Quick Fix: Eliminate Startup Disruption Due to WinScombSvc Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-windows-11-in-place-update-mastery/"><u>Step-by-Step Windows 11, In-Place Update Mastery</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-making-the-cursor-more-noticeable-in-windows/"><u>Step-by-Step: Making the Cursor More Noticeable in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-access-permissions-biometrics-on-w11-domains/"><u>Streamlining Access Permissions: Biometrics on W11, Domains</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-illustrator-wizards-guide-to-3d-text/"><u>The Illustrator Wizard's Guide to 3D Text</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-in-depth-reviews-and-guides-by-toms-hardware/"><u>Tom's Tech: In-Depth Reviews and Guides by Tom's Hardware</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/top-10-best-4k-camera-phone/"><u>Top 10 Best 4K Camera Phone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Is Enhancement or Extra Cost Justified for Win 11'S Add-Ons?
-date: 2024-08-22T21:37:17.788Z
-updated: 2024-08-23T21:37:17.788Z
+date: 2024-11-23T18:16:35.586Z
+updated: 2024-11-25T01:29:22.187Z
 tags:
   - windows10
   - windows11
@@ -20,15 +20,27 @@ thumbnail: https://thmb.techidaily.com/d52ef143e5ac406fb5edcd5e28a24a2a1379f299e
 
  Now, in Windows 11, they've brought back a similar concept with the Widgets panel, aiming to boost user productivity. Keep reading as we delve into what widgets are and share our thoughts on their comeback.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Are Widgets on Windows 11?
 
  In Windows 11, we were treated to a dedicated Widgets panel displaying multiple cards, each featuring real-time data to reflect your interests. Thanks to the handy widget board, you can easily [personalize cards or widgets](https://www.makeuseof.com/windows-11-how-to-use-widgets/) according to what you want to see.
 
 ![Windows 11 widgets sliding-in from the left of the screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Windows-11-Widgets-Screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Widgets are essentially a minified version of apps and services that are already set up on your Windows 11 system. They allow you to quickly glance over things that matter to you, like stocks, news, weather, and sports, without opening each app or website individually.
 
  The weather widget you use will be an extension of Microsoft Weather. Similarly, the news widget will be powered by various news feeds globally.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which Widgets Can I Add to Windows 11?
 
@@ -42,8 +54,9 @@ thumbnail: https://thmb.techidaily.com/d52ef143e5ac406fb5edcd5e28a24a2a1379f299e
  Of course, everyone's use cases are different, so the widgets you may find interesting may be different from the ones I listed here and vice versa.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Pros and Cons of Using Widgets on Windows
 
  Fortunately, you don’t need special skills to set up widgets on Windows 11\. It’s a simple point-and-click exercise, and you can start by checking out [how to add widgets to the Windows 11 desktop](https://www.makeuseof.com/windows-11-add-widgets-desktop/).
@@ -53,24 +66,20 @@ thumbnail: https://thmb.techidaily.com/d52ef143e5ac406fb5edcd5e28a24a2a1379f299e
 ![Full View Widgets Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/full-view-widgets-panel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  More importantly, the widgets panel isn’t very convenient. It has a clunky design, and I personally would find widgets more helpful if I could pin them to my desktop. Fortunately, you can use a [third-party app to pin widgets to the desktop](https://www.makeuseof.com/windows-11-add-widgets-desktop/).
 
  You should also bear in mind that since widgets run in the background, you should keep an eye on the amount of CPU they use. Fortunately, you can [fix a high CPU usage from Windows widgets](https://www.makeuseof.com/windows-widgets-high-cpu-fix/) if things get a little too much. Also, their network usage can make a dent in a metered network connection's usage.
 
  Widgets are certainly a step in the right direction, but [Microsoft can improve upon Windows 11's widgets](https://www.makeuseof.com/ways-microsoft-improve-windows-11-widgets/) to make them more accessible and useful for us all.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Our Verdict: Are Windows 11's Widgets Worth It?
 
  Widgets are an incredible addition to Windows 11, and while we can’t pin them to the desktop directly, they are still a fantastic feature. I highly recommend you start using the widgets panel on Windows to stay looped in on the latest news events, sports, weather updates, and stock market developments.
 
  Now, in Windows 11, they've brought back a similar concept with the Widgets panel, aiming to boost user productivity. Keep reading as we delve into what widgets are and share our thoughts on their comeback.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -78,3 +87,27 @@ thumbnail: https://thmb.techidaily.com/d52ef143e5ac406fb5edcd5e28a24a2a1379f299e
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-best-webcams-for-zoom/"><u>[New] Best Webcams for Zoom</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-a-step-by-step-pathway-to-messaging-media-download/"><u>2024 Approved A Step-by-Step Pathway to Messaging Media Download</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-master-windows-odbc-connection-management/"><u>How to Master Windows ODBC Connection Management</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-snap-edit-share-your-initial-guide-to-lunapic/"><u>In 2024, Snap, Edit, Share Your Initial Guide to LunaPic</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-switch-cards-between-apple-iphone-12-pro-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Switch Cards Between Apple iPhone 12 Pro and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-apple-iphone-6s-without-passcode-easily-drfone-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 6s Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/insert-signature-in-word-2010-by-ldigisigner-sign-a-word-sign-a-word/"><u>Insert signature in Word 2010</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-to-reduceeliminate-laptop-screen-yellow-hue/"><u>Methods to Reduce/Eliminate Laptop Screen Yellow Hue</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-from-digital-songs-to-physical-cds-using-imgburn-windows-for-mp3-conversion/"><u>Quick Guide: From Digital Songs to Physical CDs - Using ImgBurn (Windows) for Mp3 Conversion</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-tips-for-efficient-text-editing-in-win-11s-snipt/"><u>Quick Tips for Efficient Text Editing in Win 11'S Snipt</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailoring-your-workspace-with-enabled-wsl-in-windows/"><u>Tailoring Your Workspace with Enabled WSL in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/turn-your-favorite-websites-into-windows-tools/"><u>Turn Your Favorite Websites Into Windows Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleash-your-inner-explorer-optimal-classic-gaming-in-hd-on-pcs-via-scummvm/"><u>Unleash Your Inner Explorer: Optimal Classic Gaming in HD on PCs via ScummVM</u></a></li>
+<li><a href="https://blog-min.techidaily.com/unlock-full-access-to-premium-macxdvd-suite-for-a-complimentary-membership/"><u>Unlock Full Access to Premium MacXDVD Suite for a Complimentary Membership</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-full-potential-install-and-configure-wsl/"><u>Unlocking Full Potential: Install and Configure WSL</u></a></li>
+<li><a href="https://windows11.techidaily.com/utilizing-microsoft-copilot-for-enhanced-software-design/"><u>Utilizing Microsoft Copilot for Enhanced Software Design</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-wont-my-iphone-touchscreen-respond-exploring-7-critical-factors/"><u>Why Won't My iPhone Touchscreen Respond? Exploring 7 Critical Factors</u></a></li>
+</ul></div>
+

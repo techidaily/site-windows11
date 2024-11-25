@@ -1,7 +1,7 @@
 ---
 title: Fixing Missing Drivers on Windows 11 Start-Up Process
-date: 2024-09-26T00:26:42.924Z
-updated: 2024-10-01T20:45:09.568Z
+date: 2024-11-19T23:48:22.198Z
+updated: 2024-11-24T23:30:06.327Z
 tags:
   - windows10
   - windows11
@@ -24,11 +24,19 @@ thumbnail: https://thmb.techidaily.com/346f1b42c3595ddf32b42f331ce9c1b3e2f211597
 
 ![usb stick plugged into a port](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/usb-stick-plugged-into-a-port.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you are installing your Windows from a USB stick, it's possible to encounter this error if something has gone wrong with the USB port.
 
  Hardware components go bust all the time, which may be why the "No device drivers were found" error occurred in your PC in this case. So, try a different port for the installation and see if that fixes the issue for you.
 
  If that's not possible, plug in the USB in a different PC and see if the installation goes smoothly there.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Check Your Installation Media
 
@@ -37,10 +45,7 @@ thumbnail: https://thmb.techidaily.com/346f1b42c3595ddf32b42f331ce9c1b3e2f211597
  Whether something is wrong with the USB or it's the installation setup that's gone off, you can check this by trying the installation media on another PC. If the setup works fine there, then the trouble is most likely with your PC; jump down to the methods below for fixing it.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Use the Command Prompt
@@ -62,13 +67,6 @@ select disk 1
 
  Note that this method will remove all your previous data (we are clearing the hard disk here), and you will have to start from ground zero. Finally, type _Clean_ and hit **Enter**. You will be face the error from there on.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Insert USB Into an Alternate Port
 
  At MUO, we are big fans of clever hacks or tweaks that can get your stuff working in one way or the other. This method is a picture-perfect example of that.
@@ -78,16 +76,7 @@ select disk 1
  You should be able to get past the "No Device Drivers Were Found" error through this short trick. If the error persists, don't worry; move to the next method below.
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Try a Different Hard Drive
@@ -97,10 +86,7 @@ select disk 1
  If that turns out to be the case for you, then trying out a different hard drive will be worth the effort. You can [install a new hard drive](https://www.makeuseof.com/tag/install-hard-drive-replace/) or try getting one from your friend. If the culprit was indeed your hard disk, then the error will be fixed for good.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixing the "No Device Drivers Were Found" Error While Installing Windows
@@ -118,18 +104,19 @@ select disk 1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-launch-your-live-stream-a-comprehensive-beginners-manual/"><u>[New] 2024 Approved Launch Your Live Stream A Comprehensive Beginner's Manual</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-speedy-windows-file-review-strategies/"><u>[New] Speedy Windows File Review Strategies</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-starting-point-learning-to-thrive-in-instagrams-virtual-spaces/"><u>[Updated] In 2024, Starting Point Learning to Thrive in Instagram's Virtual Spaces</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/a-comprehensive-guide-to-mastering-ipogo-for-pokemon-go-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>A Comprehensive Guide to Mastering iPogo for Pokémon GO On Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-oppo-reno-10-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Oppo Reno 10 5G | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-os-x-mavericks-video-editing-101-from-beginner-to-pro/"><u>New OS X Mavericks Video Editing 101 From Beginner to Pro</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-fix-for-invisible-login-window-in-win1011/"><u>Quick Fix for Invisible Login Window in Win10/11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-redmi-k70e-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Redmi K70E</u></a></li>
-<li><a href="https://windows11.techidaily.com/shrouding-outage-with-code-0xc00d36b4-in-windows/"><u>Shrouding Outage with Code 0XC00D36B4 in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/simplify-and-beautify-your-w11-desktop-with-ease/"><u>Simplify & Beautify Your W11 Desktop with Ease</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-microphone-setup-with-the-latest-windows-11-features/"><u>Streamlining Microphone Setup with the Latest Windows 11 Features</u></a></li>
-<li><a href="https://windows11.techidaily.com/tactics-to-stop-fluctuating-printer-choices-on-pc/"><u>Tactics to Stop Fluctuating Printer Choices on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-use-of-electrospinning-techniques-for-the-production-of-nanofibers-allowing-precise-control-over-their-properties-for-targeted-pollutant-capture/"><u>The Use of Electrospinning Techniques for the Production of Nanofibers, Allowing Precise Control over Their Properties for Targeted Pollutant Capture</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-economical-microphones-catered-to-vloggers/"><u>[New] 2024 Approved Economical Microphones Catered to Vloggers</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-exquisite-solution-for-vr-adventures/"><u>[New] 2024 Approved Exquisite Solution for VR Adventures</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ashtag-hacks-for-amplifying-gamer-content/"><u>[New] Hashtag Hacks for Amplifying Gamer Content</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-essential-guide-to-best-10-no-cost-srt-converters/"><u>2024 Approved Essential Guide to Best 10 No-Cost Srt Converters</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-ownership-deciphering-in-instasongs/"><u>2024 Approved Ownership Deciphering in InstaSongs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-top-10-4k-screens/"><u>2024 Approved The Ultimate Guide to #Top 10 4K Screens</u></a></li>
+<li><a href="https://windows11.techidaily.com/bridging-the-gap-for-stuck-files-in-windows-11-ecosystems/"><u>Bridging the Gap for Stuck Files in Windows 11 Ecosystems</u></a></li>
+<li><a href="https://windows11.techidaily.com/brighten-up-windows-11-screens-with-easy-adjustments/"><u>Brighten Up Windows 11 Screens with Easy Adjustments!</u></a></li>
+<li><a href="https://windows11.techidaily.com/compreeable-approach-to-tackle-type-troubles-in-windows-11-error-0x80049dd3/"><u>Compreeable Approach to Tackle Type Troubles in Windows 11 (Error: 0X80049DD3)</u></a></li>
+<li><a href="https://windows11.techidaily.com/configuring-win11-remote-storage-paths/"><u>Configuring Win11 Remote Storage Paths</u></a></li>
+<li><a href="https://windows11.techidaily.com/defunct-windows-characteristics-youll-miss/"><u>Defunct Windows Characteristics You'll Miss</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-nubia-red-magic-8s-proplus-by-drfone-android/"><u>In 2024, How to Bypass FRP on Nubia Red Magic 8S Pro+?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-xiaomi-redmi-13c-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Xiaomi Redmi 13C without Them Knowing | Dr.fone</u></a></li>
 </ul></div>
 

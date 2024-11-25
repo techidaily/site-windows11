@@ -1,7 +1,7 @@
 ---
 title: Is the Windows Start Button Not Working? Here's How to Fix It
-date: 2024-10-24T16:43:41.352Z
-updated: 2024-10-30T17:09:59.026Z
+date: 2024-11-21T00:42:29.770Z
+updated: 2024-11-24T22:07:00.698Z
 tags:
   - windows10
   - windows11
@@ -27,13 +27,6 @@ thumbnail: https://thmb.techidaily.com/c8cc0b50d6a862024b28911d2e2409173d05c3a9f
  You’d be surprised how many issues a simple, quick restart can fix on your Windows PC. In fact, rebooting is often suggested as a first recourse to even many hardware problems, such as[unresponsive keyboard buttons](https://www.makeuseof.com/tag/laptop-keyboard-not-working/) . One of the reasons for this is that a restart clears away your RAM, which can otherwise face memory leaks over long-term use. This can cause hiccups in your workflow, like problems with the Start button in your case here.
 
  So, restart your PC and see if the Windows Start button still isn't working on the next boot-up. If the problem was because of memory or similar low-level issues, a restart should be enough to get everything back to work.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Update Windows
 
@@ -61,6 +54,10 @@ To sign out of your PC:
 
  Although this is a sort of hack and not a “solid” solution, this simple trick can save you from having to take more drastic measures like editing the registry entries or restarting Windows Explorer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Restart Windows Explorer
 
  Windows Explorer is Windows’ default file manager. Microsoft first introduced Window Explorer in Windows 95\. Explorer allows you to see, interact with, and modify files present on your system.
@@ -74,13 +71,6 @@ To restart Explorer:
 3. Wait for the Explorer to boot up.
 
 ![Restarting Windows Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/start-menu-not-working-restart-explorer.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  When you restart Windows Explorer, the Explorer application will quit, causing the GUI that sits on top of the file system to disappear momentarily. So, don’t worry if you see everything go blank for a sec.
 
@@ -98,13 +88,6 @@ Start the Command Prompt with administrative privileges. To do this:
 
  If Windows doesn’t find any integrity violations, there was no problem with the files. However, if Windows does find issues but couldn’t resolve them, you may need to perform additional scans. Here is a detailed[guide on the Windows built-in file system repair tools](https://www.makeuseof.com/windows-built-in-repair-tools/) that’ll help you do just that.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Re-register the Built-in Windows Apps Using PowerShell
 
  A temporary workaround when the Start Menu button is not working is to re-register the app using Windows PowerShell. But, before you pull the trigger, remember that you may need to repeat the process if the problem persists in the future.
@@ -114,6 +97,14 @@ Start the Command Prompt with administrative privileges. To do this:
 3. In PowerShell, paste this command and hit enter: **Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($\_.InstallLocation)AppXManifest.xml"}**
 
 ![Windows PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/start-menu-not-working-powershell.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Disable Temporary Cortana Files With the Command Prompt
 
@@ -141,29 +132,21 @@ Once Command Prompt starts, run the following commands in order:
 ![Windows 10 Startup Settings Safe Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/Windows-10-Startup-Settings-Safe-Mode.png)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 So, boot into Safe Mode and see if it fixes the Start Menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Perform a System Restore or Factory Reset
 
  If none of these solutions work it would mean that one of Windows' core functions is causing the Start Menu to misbehave. In that case, you may need to[restore or factory reset Windows](https://www.makeuseof.com/tag/system-restore-factory-reset-work-windows-10/) to get it working again.
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Give a Fresh Start to the Start Menu
@@ -185,17 +168,18 @@ So, boot into Safe Mode and see if it fixes the Start Menu.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-leveraging-xml-and-ttml-for-cutting-edge-srt-creation-processes-for-2024/"><u>[New] Leveraging XML & TTML for Cutting-Edge SRT Creation Processes for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-effective-ways-to-archive-and-record-youtube-events/"><u>2024 Approved Effective Ways to Archive and Record Youtube Events</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-in-class-8-webcams-perfect-for-streaming-professionals/"><u>Best-in-Class 8 Webcams Perfect For Streaming Professionals</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-y17s-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Vivo Y17s</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Tecno Pova 6 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Realme 12+ 5G | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-start-running-ai-on-windows-pcs/"><u>Quick Start: Running AI on Windows PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-user-profile-issues-steps-for-pcs/"><u>Resolving User Profile Issues: Steps for PCs</u></a></li>
-<li><a href="https://network-issues.techidaily.com/restoring-clear-windows-10-displays/"><u>Restoring Clear Windows 10 Displays</u></a></li>
-<li><a href="https://windows11.techidaily.com/simplified-process-for-downloading-and-running-msixbundle-extensions/"><u>Simplified Process for Downloading and Running MSixbundle Extensions</u></a></li>
-<li><a href="https://windows11.techidaily.com/synchronize-your-files-collective-directory-creation-in-win11plus11/"><u>Synchronize Your Files: Collective Directory Creation in Win11+11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-picks-ultimate-ebook-reader-seamlessly-converts-and-unlocks-ebook-content-everywhere/"><u>Top Picks: Ultimate eBook Reader - Seamlessly Converts and Unlocks eBook Content Everywhere!</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-inaccessible-page-errors-for-windows-store-apps/"><u>Addressing Inaccessible Page Errors for Windows Store Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/enabling-sound-for-windows-screencasts-with-powerpoint/"><u>Enabling Sound for Windows Screencasts with PowerPoint</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/expert-guide-to-selective-focus-imaging/"><u>Expert Guide to Selective Focus Imaging</u></a></li>
+<li><a href="https://windows11.techidaily.com/from-separate-to-shared-android-pc-harmony-guide/"><u>From Separate to Shared: Android-PC Harmony Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-xs-max-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-infinix-note-30-vip-racing-edition-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Infinix Note 30 VIP Racing Edition Device</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/itel-a60s-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Itel A60s ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://windows11.techidaily.com/personalize-your-pc-a-guide-to-alomwares-control-options/"><u>Personalize Your PC: A Guide to AlomWare's Control Options</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-snipkey-issues-resetting-windows-keys/"><u>Solving SnipKey Issues: Resetting Windows Keys</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-10-premium-video-editing-tools-for-windows-users/"><u>Top 10 Premium Video Editing Tools for Windows Users</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ate-guide-7-prime-free-video-tag-extractors/"><u>Ultimate Guide 7 Prime Free Video Tag Extractors</u></a></li>
+<li><a href="https://article-files.techidaily.com/unlock-social-media-success-a-comprehensive-10-step-plan/"><u>Unlock Social Media Success A Comprehensive 10-Step Plan</u></a></li>
+<li><a href="https://windows11.techidaily.com/winstorage-revival-guide-with-altwindirstat-insights/"><u>WinStorage Revival Guide with AltWinDirStat Insights</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fixing Unclickable Recycling Symbol in Windows 11
-date: 2024-11-10T16:22:50.450Z
-updated: 2024-11-15T17:01:18.895Z
+date: 2024-11-23T16:48:05.517Z
+updated: 2024-11-25T01:32:46.257Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Bring Back the Recycle Bin Using the Group Policy Editor
 
  The Group Policy Editor lets you show or hide the Recycle Bin icon from the desktop. Check if you have modified and accidentally disabled the Recycle Bin group policy recently. If so you can set the Remove Recycle Bin icon from the desktop policy to "Not Configured" which will restore it.
@@ -37,10 +41,20 @@ thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f
 2. Type **gpedit.msc** and click **OK** to open the **Group Policy Editor**.  
 ![gpedit msc windows 11 run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/gpedit-msc-windows-11-run.jpg)
 3. Next, navigate to the following location:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `User Configuration > Administrative Templates > Desktop`
 4. In the right pane, locate and double-click on the **Remove Recycle Bin icon from the desktop** option to open its properties.  
 ![edit remove recycle bin icon from settings gpedit policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/edit-remove-recycle-bin-icon-from-settings-gpedit-policy.jpg)
 5. In the **Properties** dialog, select **Not Configured**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![edit remove recycle bin icon from settings gpedit policy not configured](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/edit-remove-recycle-bin-icon-from-settings-gpedit-policy-not-configured.jpg)
 6. Click **Apply** and **OK** to save the changes.
 
@@ -59,13 +73,6 @@ thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f
 
  If you can’t access Group Policy Editor or if the issue persists, you can use the Registry Editor to fix this problem.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Modify the Recycle Bin Registry Settings
 
  Another way to resolve and restore the grayed-out Recycle Bin icon in the Desktop settings is via the Windows Registry. You can modify the registry entry value responsible for the settings and configurations of Recycle Bin working to restore the functionality.
@@ -83,10 +90,7 @@ thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f
 5. If it does not exist, you’ll need to create a new value. To do this, right-click on the **NonEnum** subkey folder in the left pane and select **New > DWORD (32-bit) Value**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Rename the value as **{645FF040-5081-101B-9F08-00AA002F954E}**.
@@ -95,22 +99,12 @@ thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f
 8. Type **0** in the Value data field and click **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 9. Close Registry Editor and restart your computer. Sometimes, you’ll need to restart your computer for the new registry modifications to work.
 
  If the issue persists, try to [create a new user account with administrative rights](https://www.makeuseof.com/windows-11-create-local-user-account/), [perform a system restore](https://www.makeuseof.com/use-system-restore-windows/), or [repair corrupted Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/).
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Get Access to the Recycle Bin Desktop Icon Setting Again
 
@@ -128,20 +122,18 @@ thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-simplifying-the-screen-recording-process-for-dell-users/"><u>[New] Simplifying the Screen-Recording Process for Dell Users</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-the-power-of-quantum-hdr-in-visual-arts/"><u>[New] The Power of Quantum HDR in Visual Arts</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/ace-your-photograph-preservation-with-our-expert-pick-of-top-10-restoration-applications-pcmac/"><u>Ace Your Photograph Preservation with Our Expert Pick of Top 10 Restoration Applications (PC/Mac)</u></a></li>
-<li><a href="https://windows11.techidaily.com/expert-advice-remedying-non-boot-virtual-machines-on-wm11os/"><u>Expert Advice: Remedying Non-Boot Virtual Machines on WM11OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/halt-auto-restarts-windows-11-troubleshooting/"><u>Halt Auto Restarts: Windows 11 Troubleshooting</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-motorola-moto-g34-5g-frp-by-drfone-android/"><u>How Can We Bypass Motorola Moto G34 5G FRP?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-oppo-find-n3-flip-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Oppo Find N3 Flip</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-lock-your-nokia-c110-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Nokia C110 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://windows11.techidaily.com/master-the-art-of-window-tweaking-using-alomware-suite/"><u>Master the Art of Window Tweaking Using AlomWare Suite</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-htc-u23-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For HTC U23</u></a></li>
-<li><a href="https://windows11.techidaily.com/solving-windows-update-problem-error-0x8024800c/"><u>Solving Windows Update Problem: Error 0X8024800C</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-for-addressing-blackwhite-monochrome-in-shop/"><u>Strategies for Addressing Black/White Monochrome in Shop</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-the-latency-problem-with-gpsvc/"><u>Tackling the Latency Problem with GPSVC</u></a></li>
-<li><a href="https://windows11.techidaily.com/understanding-and-overcoming-display-errors-in-win1011/"><u>Understanding and Overcoming Display Errors in Win10/11</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/updated-best-10-emoji-makers-to-create-your-own-emojis-pconlineandroidiphone-for-2024/"><u>Updated Best 10 Emoji Makers to Create Your Own Emojis PC/Online/Android/iPhone for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-chronicle-samsung-games-with-precision-timing-for-2024/"><u>[New] Chronicle Samsung Games with Precision Timing for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-essential-frames-from-apples-display-max-length-156/"><u>[New] Essential Frames From Apple's Display (Max Length 156)</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-fast-fixes-syncing-iphone-photos-with-computer-for-2024/"><u>[New] Fast Fixes Syncing iPhone Photos with Computer for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/conquering-outlooks-glitch-the-path-to-fixed-error-0x80072746/"><u>Conquering Outlook's Glitch: The Path to Fixed Error 0X80072746</u></a></li>
+<li><a href="https://windows11.techidaily.com/dealing-with-nvidias-geforce-x0001-error-on-w10w11/"><u>Dealing with Nvidia's GeForce X0001 Error on W10/W11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/how-did-the-wii-u-conquer-gaming-markets-worldwide/"><u>How Did the Wii U Conquer Gaming Markets Worldwide?</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-tweak-the-mouse-pointer-accessibility-settings-on-windows-11/"><u>How to Tweak the Mouse Pointer Accessibility Settings on Windows 11</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-a-novices-choice-ideal-game-recording-and-editing-tools/"><u>In 2024, A Novice’s Choice Ideal Game Recording & Editing Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-tier-strategies-for-flawless-srt-file-integration-on-vero-and-tumblr/"><u>In 2024, Top-Tier Strategies for Flawless SRT File Integration on Vero & Tumblr</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/masterful-methods-to-overcome-security-errors-in-windows-11/"><u>Masterful Methods to Overcome Security Errors in Windows 11</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-rated-laptop-coolers-for-optimal-performance/"><u>Top-Rated Laptop Coolers for Optimal Performance</u></a></li>
 </ul></div>
 

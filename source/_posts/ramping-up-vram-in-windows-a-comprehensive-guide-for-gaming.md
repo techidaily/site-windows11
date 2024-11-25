@@ -1,7 +1,7 @@
 ---
 title: Ramping Up VRAM in Windows - A Comprehensive Guide for Gaming
-date: 2024-11-12T16:45:57.991Z
-updated: 2024-11-15T16:14:24.885Z
+date: 2024-11-17T19:31:04.912Z
+updated: 2024-11-25T00:25:23.378Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is Dedicated Video RAM (VRAM)?
 
  Video RAM (or VRAM, pronounced "VEE-ram") is a special type of RAM that works with your computer's graphics processing unit, or GPU.
@@ -34,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
  Your video RAM holds information that the GPU needs, including game textures and lighting effects. This allows the GPU to quickly access the info and output video to your monitor.
 
  Using video RAM for this task is much faster than using your system RAM because video RAM is right next to the GPU in the graphics card. VRAM is built for this high-intensity purpose and it's thus "dedicated."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Check Your VRAM in Windows 10 and Windows 11
 
@@ -47,15 +55,27 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
 
 ![Windows 10 Video RAM Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/Windows-10-Video-RAM-Information.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To reach this menu on Windows 11, go to**Settings > System > Display > Advanced display** . Then choose a display and click**Display adapter properties** .
 
  Under**Adapter Type** , you'll see the name of your**Nvidia** or**AMD** graphics card, depending on what device you have. If you see**AMD Accelerated Processing Unit** or**Intel HD Graphics** (more likely), you're[using integrated graphics](https://www.makeuseof.com/tag/can-shared-graphics-finally-compete-with-a-dedicated-graphics-card/) . We cover more on this below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Increase VRAM in Windows
 
  The best way to increase your video RAM is to purchase a new or better graphics card. If you're using integrated graphics and suffer from poor performance, upgrading to a dedicated card (even one of[the best budget graphics cards](https://www.makeuseof.com/tag/best-budget-graphics-card/) ) will do wonders for your video output.
 
  However, if this isn't an option for you (like on laptops), you may be able to increase your dedicated VRAM in two ways.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Increase VRAM in the BIOS
 
@@ -64,13 +84,6 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
  These should contain an option to adjust how much memory you allocate to the GPU. The default is usually**128MB** ; try upping this to**256MB** or**512MB** if you have enough to spare.
 
  Not every CPU or BIOS has this option, though. If you can't change it, there's a workaround that might help you.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Faking a VRAM Increase in Windows
 
@@ -89,13 +102,6 @@ Head to the following location:
  Select**New > DWORD (32-bit) Value** . Name this**DedicatedSegmentSize** and give it a value, making sure to select the**Decimal** option. In megabytes, the minimum value is**0** (disabling the entry) and the maximum is**512** . Set this value, restart your computer, and see if it helps a game run better. If not, try a higher value and repeat.
 
 ![Registry Intel Edit VRAM Value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/Registry-Intel-Edit-VRAM-Value.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  These methods aren't guaranteed to fix your video memory issues, but they're still worth a try if you run into problems. If you don't have a lot of system RAM and are having trouble running games with integrated graphics, try adding additional RAM or[freeing up RAM](https://www.makeuseof.com/tag/5-ways-clear-memory-increase-ram-windows-computer/) for the integrated graphics to use. With integrated graphics, your system will use your standard RAM, instead of dedicated video RAM in a graphics card, so you need plenty to run games smoothly.
 
@@ -117,23 +123,9 @@ Head to the following location:
 
 ![cyberpunk 2077 xbox series x](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/11/cyberpunk-2077.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Conversely, a cheap card with just 2GB of VRAM (or even integrated graphics with 8GB+ of system RAM) is sufficient for playing PC titles from 20-plus years ago. Games back then had nowhere near modern amounts of RAM at their disposal.
 
  Even if you're not interested in gaming, some popular software requires a fair amount of VRAM too. 3D design software like AutoCAD, particularly intense edits in Photoshop, and editing high-quality video will all suffer if you don't have enough video RAM.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Much VRAM Do I Need?
 
@@ -192,20 +184,21 @@ Head to the following location:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-behind-the-scenes-the-top-7-studio-programs-for-animators/"><u>[New] Behind the Scenes The Top 7 Studio Programs for Animators</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-top-tech-stream-cam-gear-reviewed-for-youtube-and-facebook-use-for-2024/"><u>[New] Top Tech Stream Cam Gear Reviewed for YouTube & Facebook Use for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-hitting-a-pixel-snag-a6400s-video-problems/"><u>[Updated] In 2024, Hitting a Pixel Snag A6400's Video Problems</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-the-essentials-to-carve-out-your-creative-space/"><u>[Updated] In 2024, The Essentials to Carve Out Your Creative Space</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-fb-a-resource-for-video-discovery-enthusiasts/"><u>2024 Approved FB A Resource for Video Discovery Enthusiasts</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-top-10-best-offline-android-games-you-can-find/"><u>2024 Approved Top 10 Best Offline Android Games You Can Find</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-transform-videos-with-these-premium-free-sound-options/"><u>2024 Approved Transform Videos with These Premium, Free Sound Options</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/essential-fbx-techniques-for-capturing-games/"><u>Essential FBX Techniques for Capturing Games</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-to-overcoming-lol-launch-lag/"><u>Guide to Overcoming LOL Launch Lag</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-no-signal-on-tv-a-detailed-guide/"><u>How to Resolve 'No Signal' On TV: A Detailed Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/modify-default-task-manager-viewport-in-win11/"><u>Modify Default Task Manager Viewport in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-usb-device-errors-on-windows-pcs/"><u>Overcoming USB Device Errors on Windows PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/smooth-operations-at-low-cost-leverage-w11-pro-key/"><u>Smooth Operations at Low Cost: Leverage W11 Pro Key</u></a></li>
-<li><a href="https://windows11.techidaily.com/stop-spontaneous-scrolls-a-winworlders-guide/"><u>Stop Spontaneous Scrolls: A Winworlder's Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/winning-with-both-wi-fi-and-ethernet-connections-on-your-computer/"><u>Winning with Both Wi-Fi & Ethernet Connections on Your Computer</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-earning-on-youtube-a-step-by-step-guide-for-newbies/"><u>[Updated] In 2024, Earning on YouTube A Step-by-Step Guide for Newbies</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-leveraging-url-posts-for-maximum-impact-on-insta-storypost/"><u>2024 Approved Leveraging URL Posts for Maximum Impact on Insta Story/Post</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-and-its-impact-are-student-essays-becoming-redundant/"><u>ChatGPT and Its Impact: Are Student Essays Becoming Redundant?</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-program-initiation-with-optimal-win11-settings/"><u>Enhance Program Initiation with Optimal Win11 Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-discord-app-lag-on-windows/"><u>How to Fix Discord App Lag on Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-it-when-you-forget-your-ipad-password-or-passcode/"><u>How to Fix It When You Forget Your iPad Password or Passcode</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-gopro-timelapses-top-editing-techniques/"><u>In 2024, Mastering GoPro Timelapses Top Editing Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximize-mouse-efficiency-altering-double-click-speed-in-windows/"><u>Maximize Mouse Efficiency: Altering Double-Click Speed in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/revitalize-your-services-explorer-effective-solutions-for-7-common-issues/"><u>Revitalize Your Services Explorer: Effective Solutions for 7 Common Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/starting-rapid-response-help-on-modern-windows-os/"><u>Starting Rapid Response Help on Modern Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/stop-error-non-compliant-windows-generic-audio-problems/"><u>Stop Error: Non-Compliant Windows Generic Audio Problems</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-list-of-top-sd-cards-for-gopro-hero-78/"><u>The Ultimate List of Top SD Cards for GoPro HERO 7/8</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-verdict-on-google-pixel-6-cameras-pros-cons-and-feature-review/"><u>The Verdict on Google Pixel 6 Cameras - Pros, Cons, and Feature Review</u></a></li>
+<li><a href="https://windows11.techidaily.com/title-managing-icons-alignment-and-separation-on-win-oss/"><u>Title: Managing Icons' Alignment and Separation on WIN OSs</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-the-unsupported-drive-issue-in-windows/"><u>Unraveling the 'Unsupported Drive' Issue in Windows</u></a></li>
 </ul></div>
 

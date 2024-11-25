@@ -1,7 +1,7 @@
 ---
 title: Executing an Instant, In-Place Windows 11 Boost
-date: 2024-08-22T21:38:12.092Z
-updated: 2024-08-23T21:38:12.092Z
+date: 2024-11-23T18:18:54.659Z
+updated: 2024-11-24T16:14:17.690Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/cb7e8a3ea1400b28d57368d581f169474fb4983f5
  Microsoft offers the option to repair or reset your Windows PC from Windows 8 onwards. Before that, you needed an installation media (DVD or USB) to format your system. But what if you don’t want to create an installation media and wipe out everything on your system just to upgrade to a newer Windows version? Well, that’s where Microsoft’s in-place upgrade can help you.
 
  We will elaborate on what exactly is an in-place upgrade and how it differs from a clean installation of Windows 11\. Moreover, you will learn about the detailed method to perform the upgrade if the need arises.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is an In-Place Upgrade on Windows?
 
@@ -39,8 +43,9 @@ thumbnail: https://thmb.techidaily.com/cb7e8a3ea1400b28d57368d581f169474fb4983f5
 * Ensure fast internet connectivity.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Perform an In-Place Upgrade on Windows 11
 
  To perform an in-place upgrade, you need to do two things. Firstly, you need to download the latest Windows 11 ISO file. Then, you need to run the setup from the ISO file, pick the appropriate in-place upgrade option, and proceed.
@@ -50,8 +55,9 @@ thumbnail: https://thmb.techidaily.com/cb7e8a3ea1400b28d57368d581f169474fb4983f5
  First of all, you need to grab the Windows 11 ISO image file. If you don't already have one on hand, check out[how to download a Windows ISO without the Media Creation tool](https://www.makeuseof.com/windows-iso-direct-download/) for some easy methods.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Perform an In-Place Upgrade Using the Windows11 ISO Image File
 
  After the download completes, you need to mount the image file in File Explorer. Repeat the following steps to perform an in-place upgrade:
@@ -66,36 +72,30 @@ thumbnail: https://thmb.techidaily.com/cb7e8a3ea1400b28d57368d581f169474fb4983f5
 1. On the**Choose what to keep** page, select the**Keep personal files and apps** option. Click on the**Next** button. Then click on the**Install** button.  
 ![Keep all your files and app in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/keep-all-your-files-and-app-in-windows-11.jpg)
 2. The setup will begin installing a new copy of Windows 11\. If you have an SSD, the installation won’t take more than 15 minutes. Your system will restart multiple times during this process.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Windows 11 Installation Phase](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-11-installation-phase.jpg)
 3. After the setup finishes installing updates, it will redirect you to the login screen.**Input** your password and press the**Enter** key to continue.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![Installing Updates in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/installing-updates-in-windows-11.jpg)
 4. Wait for the setup to prepare your system for the first boot. You will automatically enter the desktop.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Check your installed apps list, personal files, and settings. Everything will pretty much be the same.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Don’t Reset Windows 11 Before Trying an In-Place Upgrade
 
  Windows in-place upgrade is perfect when you want to upgrade your system but cannot do so manually. In addition, you can even fix some major issues with Windows 11 that hamper its normal functioning. Use system Reset or format your PC only when the in-place upgrade has little to no effect on your system problems.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -104,4 +104,24 @@ thumbnail: https://thmb.techidaily.com/cb7e8a3ea1400b28d57368d581f169474fb4983f5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-players-guide-to-unforgettable-virtual-realities/"><u>[New] 2024 Approved Players' Guide to Unforgettable Virtual Realities</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-the-artifact-explorer-cookbook-uncovering-older-facebook-features-on-devices-for-2024/"><u>[New] The Artifact Explorer' Cookbook Uncovering Older Facebook Features on Devices for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-insiders-guide-to-streaming-events-seamlessly-with-zoom-and-youtube/"><u>[Updated] The Insider's Guide to Streaming Events Seamlessly with Zoom and YouTube</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-3-ways-to-record-switch-gameplay/"><u>2024 Approved 3 Ways to Record Switch Gameplay</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-short-form-showdown-youtube-vs-tiktok-edition/"><u>2024 Approved Short-Form Showdown Youtube VS. TikTok Edition</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-guide-download-and-set-up-hps-cross-platform-print-driver-on-windows/"><u>Easy Guide: Download & Set Up HP's Cross-Platform Print Driver on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-notepad-tools-winning-for-pen-tablets/"><u>Essential Notepad Tools: Winning For Pen-Tablets</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-hide-a-zip-archive-within-an-image-file-in-windows-10-and-11/"><u>How to Hide a ZIP Archive Within an Image File in Windows 10 & 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-achievement-integration-in-vintage-games-using-retroarch/"><u>Mastering Achievement Integration in Vintage Games Using Retroarch</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-storage-management/"><u>Mastering Windows Storage Management</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-windows-lock-and-unlock-function-fn-key-steps/"><u>Navigating Windows: Lock and Unlock Function (Fn) Key Steps</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>Proven Ways in How To Hide Location on Life360 For Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fix-restoring-itunes-functionality-in-windows/"><u>Quick Fix: Restoring iTunes Functionality in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/slumber-procedures-for-windows-devices/"><u>Slumber Procedures for Windows Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-on-recovering-secrets-from-apples-macos-keychain-utility/"><u>Step-by-Step Tutorial on Recovering Secrets From Apple's macOS Keychain Utility</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-charge-your-playlist-exposure-youtube-style/"><u>Turbo-Charge Your Playlist Exposure, YouTube Style</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-whisperer-learning-to-activate-the-hidden-character-tracker/"><u>Windows Whisperer: Learning to Activate the Hidden Character Tracker</u></a></li>
+</ul></div>
 

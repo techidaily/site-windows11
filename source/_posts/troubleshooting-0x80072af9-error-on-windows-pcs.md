@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting 0X80072AF9 Error on Windows PCs
-date: 2024-08-22T21:35:36.036Z
-updated: 2024-08-23T21:35:36.036Z
+date: 2024-11-21T16:58:02.804Z
+updated: 2024-11-25T01:51:48.883Z
 tags:
   - windows10
   - windows11
@@ -45,8 +45,9 @@ thumbnail: https://thmb.techidaily.com/bc72bcdc29440f3559a7ac3b3d313c8c685d10379
  While it sounds counterintuitive, given this kind of error, a Windows update is often the best way to resolve most issues with your PC. So, if this error does not affect your update service, download and install any pending updates. If your Windows does not update automatically, you can try [updating Windows manually](https://www.makeuseof.com/update-windows-manually/).
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Run the Windows Update Troubleshooter
 
  The Windows Update Troubleshooter helps users resolve problems with their PCs. This tool removes the need for professional help when issues like the 0x80072AF9 error code pop up.
@@ -58,8 +59,9 @@ thumbnail: https://thmb.techidaily.com/bc72bcdc29440f3559a7ac3b3d313c8c685d10379
 ![Screenshot showing troubleshooter running](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-showing-troubleshooter-running.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Alternatively, open the **Settings** app by pressing **Win + I.** Select **Update and Security > Troubleshoot** and run the troubleshooter.
 
 ## 4\. Check And Update Microsoft Defender
@@ -71,9 +73,9 @@ thumbnail: https://thmb.techidaily.com/bc72bcdc29440f3559a7ac3b3d313c8c685d10379
 ![Screenshot of Windows Security Settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-windows-security-settings-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After this, search for the latest security intelligence updates for Microsoft Defender on the [official Defender website](https://www.microsoft.com/en-us/wdsi/defenderupdates). This page gives you information that you can compare with what you received previously. If the versions do not match, proceed with the manual updates.
 
 ## 5\. Uninstall Any External Antivirus Software
@@ -82,6 +84,10 @@ The ultimate burning program for all your needs!</a>
 
  As such, uninstalling the antivirus software eliminates the risk of these conflicts affecting your Windows updates. Usually, you can get rid of it using one of the [different ways to uninstall programs on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/), but some antivirus apps will need a special uninstaller from the developer's website.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Run an SFC Scan
 
  Running the command prompt as an administrator allows you to resolve many system issues, including the 0x80072AF9 error. You can use it to run the System File Checker (SFC), which helps you check for corrupt system files and attempts to repair them.
@@ -89,8 +95,9 @@ The ultimate burning program for all your needs!</a>
  If you don't know how to do this, check out [how to run the System File Checker on Windows](https://www.makeuseof.com/system-file-checker-sfc-windows/) for a full list of instructions.
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Clear Cache and Junk Files
 
  The effect of junk files on your computer’s performance and efficiency is often underestimated. While temporarily useful, they slow down your PC and use up large amounts of storage.
@@ -101,9 +108,6 @@ The ultimate burning program for all your needs!</a>
 
  After this, select **Clean up system files** to initiate the cleaning process.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Refresh Your Computer
 
  Refreshing your computer reinstalls your Windows while preserving your files and some settings. Before initiating the process, back up all important data to a device or cloud storage.
@@ -114,9 +118,6 @@ The ultimate burning program for all your needs!</a>
 
  The refresh duration depends on your computer’s speed and how much data the computer retains. When the refresh completes, you can reinstall all previous applications, including the latest version of Microsoft Defender.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixing the 0x80072AF9 Error Code Made Easy
 
  These solutions offer a range of options, from simple troubleshooting steps to more advanced techniques like refreshing your computer. In any case, selecting the most suitable approach depends on if there are any underlying issues that the simple techniques cannot bypass.
@@ -125,11 +126,33 @@ The ultimate burning program for all your needs!</a>
 
  In this article, we will delve into the intricacies of the 0x80072AF9 error and explain what causes it to pop up. We’ll also review some of the best solutions to prevent recurrences of this problem.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-step-by-step-techniques-for-seamless-youtube-subtitling-and-captions/"><u>[New] In 2024, Step-by-Step Techniques for Seamless YouTube Subtitling & Captions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-top-screen-capture-tools-explored-apowersoft-and-others-compared/"><u>[New] Top Screen Capture Tools Explored - Apowersoft and Others Compared</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-craft-compelling-fb-video-ads-free-toolkit-included/"><u>[Updated] 2024 Approved Craft Compelling FB Video Ads - Free Toolkit Included</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-affordable-mic-picks-for-aspiring-yt-bands-for-2024/"><u>[Updated] Affordable Mic Picks for Aspiring YT Bands for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-perfect-audio-the-10-premier-podcast-mics/"><u>[Updated] Perfect Audio The 10 Premier Podcast Mics</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-xiaomi-redmi-note-13-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/essential-guide-to-recording-films-on-windowsmac-and-phones/"><u>Essential Guide to Recording Films on Windows/Mac & Phones</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-optimize-windows-10-performance-by-deleting-browser-and-system-cache/"><u>How to Optimize Windows 10 Performance by Deleting Browser and System Cache</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Infinix Zero 5G 2023 Turbo? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-admin-access-unlocking-windows-control-panel/"><u>Mastering Admin Access: Unlocking Windows Control Panel</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-your-gaming-setup-for-valorants-peak-performance/"><u>Optimizing Your Gaming Setup for Valorant's Peak Performance</u></a></li>
+<li><a href="https://windows11.techidaily.com/pathfinders-guide-unveiling-the-sixest-steps-for-copying-windows-11-file-and-folders/"><u>Pathfinder's Guide: Unveiling the Sixest Steps for Copying Windows 11 File & Folders</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-start-running-ai-on-windows-pcs/"><u>Quick Start: Running AI on Windows PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-user-profile-issues-steps-for-pcs/"><u>Resolving User Profile Issues: Steps for PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-utorrent-setup-failures-on-windows-systems/"><u>Resolving uTorrent Setup Failures on Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/simplified-process-for-downloading-and-running-msixbundle-extensions/"><u>Simplified Process for Downloading and Running MSixbundle Extensions</u></a></li>
+<li><a href="https://windows11.techidaily.com/synchronize-your-files-collective-directory-creation-in-win11plus11/"><u>Synchronize Your Files: Collective Directory Creation in Win11+11</u></a></li>
+<li><a href="https://windows11.techidaily.com/transform-your-photos-innovative-erase-on-windows/"><u>Transform Your Photos: Innovative Erase on Windows</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting DirectX Installation Issues
-date: 2024-08-22T21:35:48.423Z
-updated: 2024-08-23T21:35:48.423Z
+date: 2024-11-19T16:06:21.401Z
+updated: 2024-11-24T18:59:11.306Z
 tags:
   - windows10
   - windows11
@@ -41,30 +41,30 @@ thumbnail: https://thmb.techidaily.com/3c65f68799b4050edde66f042974df77982abdb35
 3. Then, go to**Advanced network settings** .  
 ![Go to Advanced Network Settings in Network and Internet Tab of Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/1-go-to-advanced-network-settings-in-network-and-internet-tab-of-windows-settings-app.jpg)
 4. Click the**Disable** button next to the internet connection you are using.  
+
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Click Disable Next to Your Internet Connection in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-click-disable-next-to-your-internet-connection-in-windows-settings-app.jpg)
 5. Once you have disabled it, let it sit for 30 seconds, and then click**Enable** to enable the internet connection again.  
+
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Click Enable Next to Your Internet Connection in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3-click-enable-next-to-your-internet-connection-in-windows-settings-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Even though it isn't necessary, some users have recommended rebooting the router or disconnecting and reconnecting the Ethernet cable to resolve this issue.
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Flush the DNS Cache and Reset the Network Settings
 
  Your next step should be to flush the DNS cache and reset the network settings. Performing a DNS cache flush clears the old records in the cache. Similarly, resetting the network connection eliminates the likelihood of a misconfigured network setting causing the issue. Follow these steps to perform both fixes:
@@ -77,14 +77,8 @@ netsh winsock reset`
 
 ![Run Certain Commands in Windows Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/4-run-certain-commands-in-windows-command-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Temporarily Disable the Microsoft Defender Firewall
 
  Provided that you grant the DirectX setup file administrative rights, the installation should run smoothly without any problems. If the error persists despite that, Microsoft Defender could be interfering with the installation process—-it's common for the security suite to become overprotective when operating system changes are made.
@@ -101,6 +95,10 @@ netsh winsock reset`
 
  If the framework is already installed, you should repair it once. This step will prevent corrupted framework files from causing problems when installing DirectX. Need help repairing it? Check out our guide on[how to repair the .NET framework on Windows](https://www.makeuseof.com/windows-repair-net-framework/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Install DirectX Using DXSetup
 
  If you employ the above fixes properly, your DirectX setup should install successfully without any problems. If you encounter the same error again, try this simple trick:
@@ -109,20 +107,19 @@ netsh winsock reset`
 2. After that, create a new folder on your Windows desktop and name it whatever you want.  
 ![Create and Rename the New Folder on Windows Desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/5-create-and-rename-the-new-folder-on-windows-desktop.jpg)
 3. Then, go to the folder where you downloaded DirectX.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Run the setup file and accept the agreement by clicking**Yes** .
 5. Click**Browse** and select the location of the folder on your desktop. Click**OK** after selecting it.  
 ![Click OK After Selecting the Location of the Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/6-click-ok-after-selecting-the-location-of-the-folder.jpg)
 6. Then, click**OK** in the**DirectX** window, and its files will be extracted to the desktop folder.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Click OK in the DirectX Installation Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/7-click-ok-in-the-directx-installation-window.jpg)
 7. Now, locate**DXSetup** in the folder.  
 ![Locate DXSetup File in the DirectX Folder in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/8-locate-dxsetup-file-in-the-directx-folder-in-windows-file-explorer.jpg)
 8. Run the setup file and follow the on-screen instructions. Hopefully, it will be installed successfully this time.
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Creating a desktop folder and extracting DirectX files within it has proven effective for many users. Therefore, we recommend you pay close attention and carefully follow each step.
 
@@ -130,14 +127,11 @@ netsh winsock reset`
 
  Running a game and getting an error message about missing DirectX can be frustrating. And, when you get another error when installing DirectX, the situation gets even worse. If you follow the above steps correctly, you will hopefully be able to resolve the error and successfully install DirectX. Consequently, you will be able to play your favorite games again.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -146,4 +140,24 @@ netsh winsock reset`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-perfecting-skies-top-11-must-have-dji-accessories/"><u>[New] Perfecting Skies Top 11 Must-Have DJI Accessories</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-precision-playback-aligning-video-views-in-real-time/"><u>[New] Precision Playback Aligning Video Views in Real-Time</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/1728507103348-samsung-ssd/"><u>移動 Samsung 數據：成功地将大型硬盘材料复制到更小、更快的SSD</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-xiaomi-13t-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Xiaomi 13T? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-honor-magic-5-lite-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Honor Magic 5 Lite Phone? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/evaluating-the-need-for-an-rtx-graphics-card-upgrade-pros-and-cons/"><u>Evaluating the Need for an RTX Graphics Card Upgrade - Pros & Cons</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-motorola-g24-power-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/harnessing-the-power-windows-11-and-high-dynamic-range-explained/"><u>Harnessing the Power: Windows 11 and High Dynamic Range Explained</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-achieve-a-crystal-clear-taskbar-in-windows-11/"><u>How to Achieve a Crystal Clear Taskbar in Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/initiate-system-check-with-these-5-methods/"><u>Initiate System Check with These 5 Methods</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-to-file-explorer-through-onedrive-in-windows/"><u>Navigate to File Explorer Through OneDrive in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/prevent-spontaneous-shutdowns-on-windows-11-devices/"><u>Prevent Spontaneous Shutdowns on Windows 11 Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-windows-11s-search-bar-efficacy/"><u>Streamline Windows 11'S Search Bar Efficacy</u></a></li>
+<li><a href="https://windows11.techidaily.com/tick-the-box-quick-windows-fixes-to-modify-file-dates/"><u>Tick the Box: Quick Windows Fixes to Modify File Dates</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-techniques-to-fix-win11-system-call-errors/"><u>Troubleshooting Techniques to Fix Win11 System Call Errors</u></a></li>
+<li><a href="https://fox-access.techidaily.com/what-are-the-alternatives-to-googles-ar-appearance-in-2024/"><u>What Are The Alternatives To Google's AR Appearance, In 2024</u></a></li>
+</ul></div>
 

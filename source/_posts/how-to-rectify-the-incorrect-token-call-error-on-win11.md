@@ -1,7 +1,7 @@
 ---
 title: How to Rectify the “Incorrect Token Call” Error on Win11
-date: 2024-08-22T21:39:53.427Z
-updated: 2024-08-23T21:39:53.427Z
+date: 2024-11-20T18:53:44.763Z
+updated: 2024-11-24T21:50:36.264Z
 tags:
   - windows10
   - windows11
@@ -29,12 +29,26 @@ thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01
 3. Then right-click Windows Explorer and select **End task**.  
 ![The End task option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/end-task-option.jpg)
 4. Select **End process** to confirm. The background Windows desktop will go blank when you do that, and restarting Explorer will restore it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click **File** at the top of Task Manager.  
 ![The Run new task option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-new-task.jpg)
 6. Select **Run new task** to access a Create new task box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Input **Explorer.exe** inside the **Open** text box.  
 ![The Create new task window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/create-new-task.jpg)
 8. Select **Create this task with administrative privileges** and click **OK** to restart Explorer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Reregister Windows DLL Files
 
@@ -49,16 +63,10 @@ thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01
 5. Wait for the command to finish reregistering DLLs.
 6. Close your Command Prompt app, bring up the Start menu, and select **Restart**.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Try Some More Generic Windows Fixes
 
  If nothing has worked, try these Windows fixes that can fix a wide variety of errors, including this one.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Scan and Repair System Files With SFC
 
  The “reference a token” error is often a result of corrupted Windows system files. So, repairing system files is a likely potential solution for that error. You can check for and repair corrupted system files by [running the System File Checker tool](https://www.makeuseof.com/system-file-checker-sfc-windows/) within the Command Prompt.
@@ -66,12 +74,13 @@ thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01
 ![The sfc /scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sfc-scannow-command5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Go Back to a Previous Windows Build Version
 
  If the “reference a token” error occurs after a recent Windows feature update, restoring the previous build version might resolve that issue. However, you can only restore a previous build version for a limited period. This is how you can restore a previous Windows build version:
@@ -91,23 +100,15 @@ thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01
 
  To apply this resolution, check out our [article about creating and utilizing restore points](https://www.makeuseof.com/windows-11-create-restore-point/). Choose a restore point that will roll Windows back to when you didn’t need to fix the token reference error. However, note that a system restore point will remove software packages installed after its date.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ### Reset Windows
 
  Resetting Windows 11/10 is a last resort for fixing the “reference a token” error that will probably work. It’s best to save this probable resolution until last because you’ll need to reinstall all third-party UWP and desktop apps installed before the reset. You can apply this possible resolution as instructed within method one of our [how to factory reset Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/#:~:text=To%20run%20a%20Windows%20factory,%3E%20Update%20%26%20Security%20%3E%20Recovery.) guide.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Get the “Reference a Token” Error Sorted Out
 
  The “reference a token” error is serious when users can’t access essential native apps like File Explorer because of it. In many cases, corrupted Windows files are usually the culprit. Most of the resolutions in this guide will address that cause, and restarting File Explorer can also work when the issue affects that app or folders.
 
  Does the same error message pop up when you try to access Explorer, Device Manager, or another native Windows tool? If yes, try applying these potential remedies for the “reference a token” error.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -115,3 +116,25 @@ thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-ensuring-audio-clarity-amidst-remote-recording-challenges/"><u>[New] In 2024, Ensuring Audio Clarity Amidst Remote Recording Challenges</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-exceptional-top-ten-nintendo-switch-combat-games-max-156/"><u>2024 Approved Exceptional Top Ten Nintendo Switch Combat Games (Max 156)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/addressing-repeated-total-war-warhammer-iii-stability-problems-on-desktops-and-laptops/"><u>Addressing Repeated Total War: Warhammer III Stability Problems on Desktops and Laptops</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/aprendizaje-intuitivo-del-reloj-digital-en-espanol/"><u>Aprendizaje Intuitivo Del Reloj Digital en Español</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/audiorecorder-examination-for-2024/"><u>Audiorecorder Examination for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/embrace-simplicity-with-the-hp-stream-11-your-perfect-portable-companion/"><u>Embrace Simplicity with the HP Stream 11 - Your Perfect Portable Companion</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-recycle-bin-icon-setting-grayed-out-in-windows-11/"><u>How to Fix the Recycle Bin Icon Setting Grayed Out in Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-graphic-drivers-issues-in-forza-horizon-5/"><u>How to Resolve Graphic Drivers Issues in Forza Horizon 5</u></a></li>
+<li><a href="https://windows11.techidaily.com/idea-illumination-strategies-for-visual-notetaking-in-obsidian/"><u>Idea Illumination: Strategies for Visual Notetaking in Obsidian</u></a></li>
+<li><a href="https://windows11.techidaily.com/making-your-life-easier-deploying-multiple-apps-on-windows-11-via-winstall/"><u>Making Your Life Easier: Deploying Multiple Apps on Windows 11 via Winstall</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-on-screen-labels-and-descriptions-for-video-files-windows-11-for-2024/"><u>Mastering On-Screen Labels and Descriptions for Video Files (Windows 11) for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximizing-efficiency-three-ways-to-upgrade-double-click-rate/"><u>Maximizing Efficiency: Three Ways to Upgrade Double-Click Rate</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/premiere-experts-exceptional-instagram-highlight-craftsmen/"><u>Premiere Experts Exceptional Instagram Highlight Craftsmen</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinstating-lost-d3dx939dll-for-windows-11/"><u>Reinstating Lost D3DX9_39.dll for Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-nvidia-related-windows-connections/"><u>Tackling Nvidia-Related Windows Connections</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-guide-forcibly-remove-printers/"><u>Win11 Guide: Forcibly Remove Printers</u></a></li>
+<li><a href="https://windows11.techidaily.com/workaround-to-permit-chrome-network-connectivity-on-pc/"><u>Workaround to Permit Chrome Network Connectivity on PC</u></a></li>
+</ul></div>
+

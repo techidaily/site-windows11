@@ -1,7 +1,7 @@
 ---
 title: Uninstalling Edge From Windows 11 Pro
-date: 2024-10-25T16:39:59.153Z
-updated: 2024-10-30T16:29:05.699Z
+date: 2024-11-19T01:10:46.479Z
+updated: 2024-11-24T22:30:12.206Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/0275b65ec50c26c096fbd58891ad5416742f7595b
 
  It’s no secret that Microsoft wants users to use its own browser on Windows 11\. To that end, the company has made it difficult to remove the browser from Windows 11\. However, it’s still possible to do so. Here we'll show you three different ways to uninstall Microsoft Edge from your Windows 11 PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Uninstall Microsoft Edge Using the Command Prompt
 
  You can uninstall Microsoft Edge from your PC by running a few commands in the command prompt. The process requires you to know the version number of Microsoft Edge on your computer. Once you have that, you can get rid of the browser.
@@ -31,6 +35,11 @@ Here are the steps you need to follow.
 3. Copy Microsoft Edge's version number from the**About** section.  
 ![Check Microsoft Edge Version Number](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Microsoft-Edge-Version-Number.jpg)
 4. Press**Win + X** and select**Terminal (Admin)** from the menu that appears.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Select**Yes** when the User Account Control (UAC) prompt shows up.
 6. In the console, run the following commands to navigate to the directory where Microsoft Edge is installed:  
 `cd/  
@@ -44,13 +53,6 @@ cd %Program Files (x86)%\Microsoft\Edge\Application\EdgeVersion\Installer`
 
  If you'd like to get more out of this tool, be sure to check out[the Windows Command Prompt commands you must know](https://www.makeuseof.com/tag/15-cmd-commands-every-windows-user-know/) .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. How to Uninstall Microsoft Edge Using Windows PowerShell
 
  Like Command Prompt, you can also use Windows PowerShell to uninstall Microsoft Edge from your Windows 11 PC. Unlike the previous method, this one does not require you to know Microsoft Edge's version number. Here's how it works.
@@ -62,18 +64,15 @@ cd %Program Files (x86)%\Microsoft\Edge\Application\EdgeVersion\Installer`
 ![Uninstall Microsoft Edge With Windows PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Uninstall-Microsoft-Edge-Using-Windows-PowerShell-1.jpg)
 4. Highlight the text next to**PackageFullName** and press**Ctrl + C** to copy it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Run the following command to uninstall Microsoft Edge.  
 `Remove-appxpackage <PackageFullName>`  
  Replace**<PackageFullName>** in the above command with the package name copied earlier.
 
  Once you execute the above command, Microsoft Edge will be uninstalled.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. How to Uninstall Microsoft Edge Beta, Dev, or Canary Channel Builds Using the Settings App
 
@@ -89,10 +88,7 @@ cd %Program Files (x86)%\Microsoft\Edge\Application\EdgeVersion\Installer`
  Aside from the Settings app, you can uninstall the browser from the Start menu or the Control Panel. See our guide to learn different[ways to uninstall built-in apps on Windows 11](https://www.makeuseof.com/ways-to-uninstall-apps-windows-11/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Stop Microsoft Edge From Reinstalling on Windows 11
@@ -111,10 +107,7 @@ cd %Program Files (x86)%\Microsoft\Edge\Application\EdgeVersion\Installer`
  Once you complete the above steps, Windows will not reinstall Microsoft Edge with future updates.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Get Rid of Microsoft Edge
@@ -138,22 +131,22 @@ cd %Program Files (x86)%\Microsoft\Edge\Application\EdgeVersion\Installer`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-secrets-of-capturing-high-quality-xbox-games-on-screen-for-2024/"><u>[New] Secrets of Capturing High-Quality Xbox Games on Screen for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-ultimate-guide-to-high-quality-mac-frames-max-156-chars/"><u>[Updated] In 2024, Ultimate Guide to High-Quality Mac Frames (Max 156 Chars)</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-mastering-speed-removing-ssgnatures-immediately/"><u>[Updated] Mastering Speed Removing Ssgnatures Immediately</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/breaking-down-ai-concepts-in-simple-language/"><u>Breaking Down AI Concepts in Simple Language</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypassing-error-0x80070570-a-guide-for-fixed-damaged-files/"><u>Bypassing Error 0X80070570: A Guide for Fixed Damaged Files</u></a></li>
-<li><a href="https://windows11.techidaily.com/efficiently-managing-applications-with-wpm-in-windows-11/"><u>Efficiently Managing Applications with WPM in Windows 11</u></a></li>
-<li><a href="https://os-tips.techidaily.com/elevate-your-ipads-capabilities-introducing-orion-seamless-ipad-to-monitor-connectivity-for-enhanced-productivity/"><u>Elevate Your iPad's Capabilities: Introducing Orion - Seamless iPad to Monitor Connectivity for Enhanced Productivity</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-realme-11-pro-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Realme 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-realme-note-50-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Realme Note 50?</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-revive-non-starting-adobe-photoshop-on-ws11-and-11/"><u>How to Revive Non-Starting Adobe Photoshop on WS11 & 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-swiftly-handle-stalled-gpsvc-process/"><u>How to Swiftly Handle Stalled GPSVC Process</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-infinix-hot-40i-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Infinix Hot 40i to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-windows-audio-recorder-snag-with-error-9999-solution/"><u>Navigating Windows' Audio Recorder Snag with Error 9999 Solution</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimizing-task-execution-on-windows-adding-an-improved-run-utility/"><u>Optimizing Task Execution on Windows: Adding an Improved Run Utility</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimizing-windows-11-programs-for-faster-startups/"><u>Optimizing Windows 11 Programs for Faster Startups</u></a></li>
-<li><a href="https://windows11.techidaily.com/seamlessly-access-lately-used-documents-in-windows/"><u>Seamlessly Access Lately Used Documents in Windows</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-significance-of-heic-image-encoding-for-iphone-photography-key-facts-you-need-to-know/"><u>The Significance of HEIC Image Encoding for iPhone Photography: Key Facts You Need to Know</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-art-of-online-podcast-filming/"><u>[New] In 2024, The Art of Online Podcast Filming</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-ultimate-gameplay-best-4k-hdmi-21-display-for-players/"><u>[New] In 2024, Ultimate Gameplay Best 4K (HDMI 2.1) Display for Players</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-prime-audio-alteration-tech-for-influencer-marketers-for-2024/"><u>[Updated] Prime Audio Alteration Tech for Influencer Marketers for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-vivo-s17e-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-infinix-note-30-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Infinix Note 30 without App | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/audience-attracting-innovations-in-fb-video-ad-design-for-2024/"><u>Audience-Attracting Innovations in FB Video Ad Design for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/critics-choice-best-5-web-recording-applications/"><u>Critics' Choice Best 5 Web Recording Applications</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-camera-app-crash-microsofts-windows-error-0xa00f425d/"><u>Eliminating Camera App Crash: Microsoft's Windows Error 0xA00F425D</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-listings-prime-platforms-for-snapchat-melodies-download-for-2024/"><u>Expert Listings Prime Platforms for Snapchat Melodies Download for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/file-location-artistry-in-windows-11-exploring-best-practices-6-advanced-methods/"><u>File Location Artistry in Windows 11: Exploring Best Practices (6 Advanced Methods)</u></a></li>
+<li><a href="https://windows11.techidaily.com/fine-tune-your-system-control-delete-confirmations/"><u>Fine-Tune Your System: Control Delete Confirmations</u></a></li>
+<li><a href="https://windows11.techidaily.com/innovative-windows-search-techniques-that-dont-use-ls/"><u>Innovative Windows Search Techniques That Don't Use LS</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-memory-management-for-edges-webview2/"><u>Mastering Memory Management for Edge's WebView2</u></a></li>
+<li><a href="https://windows11.techidaily.com/rediscover-the-lost-treasures-within-windows-11s-features/"><u>Rediscover the Lost Treasures Within Windows 11'S Features</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-to-reduce-high-wmi-cpu-consumption/"><u>Solutions to Reduce High WMI CPU Consumption</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/story-1-the-misguided-belief-in-randomized-controlled-trials/"><u>Story 1: The Misguided Belief in Randomized Controlled Trials</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-mending-non-responsive-windows-network/"><u>Strategies for Mending Non-Responsive Windows Network</u></a></li>
 </ul></div>
 

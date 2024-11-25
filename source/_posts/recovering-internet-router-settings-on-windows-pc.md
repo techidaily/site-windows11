@@ -1,7 +1,7 @@
 ---
 title: Recovering Internet Router Settings on Windows PC
-date: 2024-08-22T21:38:07.517Z
-updated: 2024-08-23T21:38:07.517Z
+date: 2024-11-19T20:57:57.182Z
+updated: 2024-11-24T21:32:04.131Z
 tags:
   - windows10
   - windows11
@@ -37,15 +37,17 @@ https:\\ 192.168.1.1
 2. This should work If your router mandates using a secure version of HTTP to access the login page.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Verify if the IP Address Is Correct
 
 ![default gateway ip address windows command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/default-gateway-ip-address-windows-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Almost all the router manufacturer use 192.168.1.1, a private IP address, to log into a router’s admin panel and change the default router settings. However, some routers may use a different address. If so, you’ll likely encounter an error when accessing the login page using 192.168.1.1.
 
  To fix the problem, check if you are using the correct IP address. You can use the ipconfig command in Command Prompt to find your IP address.
@@ -69,17 +71,15 @@ To find your Default Gateway IP address for the router:
 2. Open the**Privacy and Security** tab in the left pane.  
 ![clear chrome browser cache](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/clear-chrome-browser-cache.jpg)
 3. Next, click**Clear browsing data** .
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Select a time range and click**Clear data** . If the router page suddenly stopped working, set the time range to last 7 days.
 
  Once the cache is cleared, relaunch the browser and check if you can access the router’s login page. If the issue persists, reinstalling the browser is an option. However, using a different browser to access your router’s login page is a much easier workaround.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Change TCP/IP Settings for Your Network Adapter
 
  You can configure your network adapter's TCP/IP settings to obtain an IP address automatically. You'll be unable to access your router login page if you have used incorrect IP settings for the network adapter.
@@ -96,22 +96,25 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 7. Next, double-click on**Internet Protocol Version 4 (TCP/IPv4)** to open its**Properties** .  
 ![disable internet protocol version 6 network properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-internet-protocol-version-6-network-properties.jpg)
 8. In the**Properties** dialog, select**Obtain an IP address automatically** . Next, select**Obtain DNS server address automatically** .  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The obtain DNS and IP address options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-automatic-dns-and-ip-address-options.jpg)
 9. Select the**Validate settings upon exit** option and click**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 10. Relaunch your browser and try to access the router page.
 
  If you use a different VPN service, check for similar features and disable it to resolve the problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Disable Invisibility on Any LAN VPNs
 
 ![Nordvpn disable invisibility on lan 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nordvpn-disable-invisibility-on-lan-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
  If you use a VPN, check if the client has an Invisibility on LAN feature enabled. Invisibility on LAN hides your computer from others on the same local area network. However, this feature can also prevent you from accessing your router’s login page.
 
 To disable Invisibility on LAN on NordVPN:
@@ -133,14 +136,11 @@ To disable Invisibility on LAN on NordVPN:
 
  If you have trouble reaching the router login page, make sure you are using the correct IP address. Use the ipconfing command in Command Prompt and verify if your IP address matches the Default Gateway address. Additionally, check your network adapter’s TCP/IP settings, perform a router power cycle, or reset the router to its factory default settings to resolve the problem.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -149,4 +149,20 @@ To disable Invisibility on LAN on NordVPN:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/framelock-the-future-of-screen-capturing-in-2024/"><u>'Framelock' – The Future of Screen Capturing, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-best-cameras-for-vlogging/"><u>[New] 2024 Approved Best Cameras for Vlogging</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-step-by-step-guide-to-using-bandicam-insights-users/"><u>[Updated] In 2024, Step-by-Step Guide to Using Bandicam – Insights Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/delving-into-ryujinxs-controller-integration-a-compreenasory-tutorial/"><u>Delving Into Ryujinx's Controller Integration: A Compreenasory Tutorial</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-hardware-problems-were-detected-error-in-the-windows-memory-diagnostic-tool/"><u>How to Fix the Hardware Problems Were Detected Error in the Windows Memory Diagnostic Tool</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-windows-system-crashes-fixing-c0000022-fatalities/"><u>Navigating Windows System Crashes: Fixing C0000022 Fatalities</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-tips-incorporating-video-from-youtube-into-google-presentations-for-2024/"><u>Quick Tips Incorporating Video From YouTube Into Google Presentations for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-windows-needs-old-pass-troubleshooting-tips/"><u>Resolving Windows Needs Old Pass: Troubleshooting Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/revising-windows-1011-login-limit-settings-post-failed-sign-ins/"><u>Revising Windows 10/11 Login Limit Settings Post-Failed Sign-Ins</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-art-of-image-rotation-on-your-windows-11-pc/"><u>The Art of Image Rotation on Your Windows 11 PC</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ultimate-guide-setting-up-misfit-mods-wizard-and-custom-builds-in-kodi/"><u>Ultimate Guide: Setting Up Misfit Mods Wizard & Custom Builds in Kodi</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/winx-dvd-copy-software-feature-comparison-and-edition-overview-digieity/"><u>WinX DVD Copy Software: Feature Comparison & Edition Overview | Digieity</u></a></li>
+</ul></div>
 

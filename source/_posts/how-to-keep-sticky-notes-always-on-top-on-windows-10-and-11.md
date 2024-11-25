@@ -1,7 +1,7 @@
 ---
 title: How to Keep Sticky Notes Always on Top on Windows 10 & 11
-date: 2024-10-24T16:26:22.345Z
-updated: 2024-10-30T17:22:09.869Z
+date: 2024-11-22T02:27:31.244Z
+updated: 2024-11-25T01:46:11.753Z
 tags:
   - windows10
   - windows11
@@ -38,12 +38,21 @@ thumbnail: https://thmb.techidaily.com/08c04182a5370a9894bbb7d5aedb620a94eb3a5d1
 5. Next, under**Activation** , note down the**Activation shortcut** . By default, it is set to**Win + Ctrl + T** . To change the shortcut combo, click the**Edit** button (Pencil icon) and make changes.  
 ![power toys always on top border off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/power-toys-always-on-top-border-off.jpg)
 6. Under**Appearances & behavior** , toggle the**Shows a border around the Pinned window** to disable the highlighted border for the pinned app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Next, open the Sticky Notes app. To do this, press the**Win** key**,** type**sticky notes** and open the app.
 8. To pin Sticky Notes, click on the app window and press**Win + Ctrl + T.** You will hear a sound when the window is pinned.
 
  Once pinned, Sticky Notes will always stay on top of other apps. To unpin the window, Press**Win + Ctrl + T** , and the app will act like any other open window on Windows. Make sure to allow PowerToys to run in the background for the Always On Top feature to work. Also, you’ll need to pin the apps each time you close and relaunch them.
 
  Impressed with PowerToys yet? Here are some more[impressive things you can do with Microsoft Toys on Windows](https://www.makeuseof.com/best-things-you-can-do-windows-powertoys/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Use DeskPins to Pin Sticky Notes
 
@@ -60,40 +69,24 @@ To pin Sticky Notes using DeskPins:
 4. Next, open the**system tray** (up arrow icon in the bottom left corner of your desktop) and click on the**DeskPins** icon to activate a Pin.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![desk pins pin windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-pin-windows.jpg)
 5. Next, click on the**Sticky Note** app window to keep it always on top.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Click the**Pin** icon to unpin the window.
 
 ![desk pins pin windows options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-pin-windows-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can further customize the app with Hotkeys, set auto pin rules, and customize pin color and tracking rate. To do this, right-click on the**DeskPins** icon and select**Options** to access the customization features.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Keep Sticky Notes Always on Top in Windows 10 and 11
@@ -115,24 +108,21 @@ To pin Sticky Notes using DeskPins:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-premier-sky-depot-for-enterprise-files/"><u>[New] Premier Sky Depot for Enterprise Files</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-master-the-art-of-live-content-utilizing-wirecast-for-fb-for-2024/"><u>[Updated] Master the Art of Live Content Utilizing Wirecast for FB for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-xsplits-prowess-in-streaming-the-obs-counterargument-for-2024/"><u>[Updated] XSplit's Prowess in Streaming? The OBS Counterargument for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-funnybox-simple-setup-for-content-creators/"><u>2024 Approved FunnyBox Simple Setup for Content Creators</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-on-the-lookout-for-economical-vr-experience-china/"><u>2024 Approved On the Lookout for Economical VR Experience (China)</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-samsung-galaxy-a14-4g-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Samsung Galaxy A14 4G by Name | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/boost-text-entry-learning-from-typingaid/"><u>Boost Text Entry: Learning From TypingAid</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-duo-app-configurations-to-resolve-errors/"><u>Correcting Duo App Configurations to Resolve Errors</u></a></li>
-<li><a href="https://windows11.techidaily.com/elevating-yuzu-emulation-speed-in-windows/"><u>Elevating Yuzu Emulation Speed in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-steps-for-muting-windows-11-tabs/"><u>Essential Steps for Muting Windows 11 Tabs</u></a></li>
-<li><a href="https://windows11.techidaily.com/fine-tuning-windows-filename-metadata/"><u>Fine-Tuning Windows Filename Metadata</u></a></li>
-<li><a href="https://windows11.techidaily.com/getting-acquainted-with-the-windows-odbc-system/"><u>Getting Acquainted with the Windows ODBC System</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-realme-11-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Realme 11 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Vivo V29 Pro | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/insightful-tips-for-timely-ping-execution-on-windows-pcs/"><u>Insightful Tips for Timely Ping Execution on Windows PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/leap-into-connectivity-unlocking-windows-remote-desktop/"><u>Leap Into Connectivity: Unlocking Windows Remote Desktop</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimizing-workflow-key-windows-programs-for-taskmasters/"><u>Optimizing Workflow: Key Windows Programs for Taskmasters</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-nokia-130-music-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Nokia 130 Music | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-the-elite-choices-for-augmented-reality-eyewear-insights-from-zdnet/"><u>Unveiling the Elite Choices for Augmented Reality Eyewear - Insights From ZDNet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-find-and-change-your-youtube-channel-url-super-easy-for-2024/"><u>[Updated] How to Find and Change Your YouTube Channel URL – Super Easy for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-pvr-uno-customizable-media-solution-for-2024/"><u>[Updated] PVR Uno Customizable Media Solution for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/1-superior-audio-performance-high-end-200-gaming-sound-card-revealed-on-zdnet/"><u>1. Superior Audio Performance: High-End $200 Gaming Sound Card Revealed on ZDNet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-humor-hub-essential-apps-for-meme-makers/"><u>2024 Approved Humor Hub Essential Apps for Meme Makers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-perfect-your-watchlist-with-controlled-netflix-frame-rate/"><u>2024 Approved Perfect Your Watchlist with Controlled Netflix Frame Rate</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixed-issue-cannot-modify-memory-at-address-0x-when-referenced-from-instruction/"><u>Fixed Issue: Cannot Modify Memory at Address 0X When Referenced From Instruction</u></a></li>
+<li><a href="https://windows11.techidaily.com/harness-window-11-a-productivity-playbook/"><u>Harness Window 11: A Productivity Playbook</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-deciphering-the-advantages-of-using-sns-hdr-over-others/"><u>In 2024, Deciphering the Advantages of Using SNS HDR Over Others</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-tricks-to-pinpoint-your-graphic-card-on-windows-11/"><u>Quick Tricks to Pinpoint Your Graphic Card on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/reducing-powerful-usage-in-modern-host-computers/"><u>Reducing Powerful Usage in Modern Host Computers</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinvigorate-windows-search-top-11-remedies-explored/"><u>Reinvigorate Windows Search: Top 11 Remedies Explored</u></a></li>
+<li><a href="https://windows11.techidaily.com/security-enhancement-manual-add-a-self-designed-lock-pattern/"><u>Security Enhancement Manual: Add a Self-Designed Lock Pattern</u></a></li>
+<li><a href="https://windows11.techidaily.com/swift-approach-to-bypass-cant-add-your-folder-now-error-in-windows-onedrive-drive/"><u>Swift Approach to Bypass 'Can't Add Your Folder Now' Error in Windows OneDrive Drive</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-7-win-11-desk-aids-boosting-workflow/"><u>Top 7 Win 11 Desk Aids Boosting Workflow</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-and-solutions-for-startech-device-drivers-on-windows-1087/"><u>Troubleshooting and Solutions for StarTech Device Drivers on Windows 10/8/7</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/ultimate-jpeg-fixer-programs-restore-and-repair-your-favorite-images-from-scratch/"><u>Ultimate JPEG Fixer Programs - Restore & Repair Your Favorite Images From Scratch</u></a></li>
 </ul></div>
 

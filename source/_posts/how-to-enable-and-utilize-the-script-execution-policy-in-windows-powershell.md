@@ -1,7 +1,7 @@
 ---
 title: How to Enable and Utilize the Script Execution Policy in Windows PowerShell
-date: 2024-11-14T17:09:17.830Z
-updated: 2024-11-15T16:39:51.684Z
+date: 2024-11-19T16:50:01.721Z
+updated: 2024-11-24T17:05:41.121Z
 tags:
   - windows10
   - windows11
@@ -43,10 +43,7 @@ To get your current execution policy for the current user:
  You’ll need to change the execution policy to RemoteSigned to run local scripts without the error. You can change the execution policy from the Settings app and PowerShell.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Enable PowerShell Execution Policy Using the Settings App
@@ -61,28 +58,23 @@ To change execution policy using Settings:
 ![windows 11 for developers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-for-developers.jpg)
 4. Click to expand the**PowerShell** section.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Toggle the switch to **change the execution policy to allow local PowerShell scripts to run without signing - Require signing for remote scripts** .  
 ![enable powershell script execution windows 11 settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-powershell-script-execution-windows-11-settings.jpg)
 6. Once done, open PowerShell, type get**executionpolicy,** and press**Enter** . The execution policy for the current user is now set to**RemoteSigned.**
 
 7. If you need to disable the execution policy, toggle the PowerShell switch and set it to**Off** .
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Allow Scripts to Run in PowerShell using PowerShell
 
 ![Powershell set execcution policy remotesigned](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/powershell-set-execcution-policy-remotesigned.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can use a[PowerShell cmdlet](https://www.makeuseof.com/windows-powershell-commands-cmdlets/) to set the execution policy to RemoteSigned. The command-line interface makes it easy to change execution policy quickly without using the Settings app.
 
@@ -99,10 +91,7 @@ To change the execution policy using PowerShell:
 5. Replace**CurrentUser** in the above command with other users (Scope) as per your requirement.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Remove Script Execution Policy Using PowerShell
@@ -151,10 +140,7 @@ The below table briefly explains all the execution policy scopes:
 | Process                | Affects current PowerShell session and automatically deleted when the session is closed. |
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Add or Remove PowerShell Script Execution Policy on Windows
@@ -178,22 +164,21 @@ The below table briefly explains all the execution policy scopes:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-boosting-your-instagram-game-with-collage-tips/"><u>[New] Boosting Your Instagram Game with Collage Tips</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-effortlessly-link-zoom-events-across-ios-android-and-desktops/"><u>[New] Effortlessly Link Zoom Events Across iOS, Android, and Desktops</u></a></li>
-<li><a href="https://windows11.techidaily.com/from-w10-to-w11-unveiling-major-operating-system-upgrades/"><u>From W10 to W11: Unveiling Major Operating System Upgrades</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/get-your-hands-on-asus-aura-pc-customization-tool-for-windows-11-users/"><u>Get Your Hands on ASUS AURA PC Customization Tool for Windows 11 Users</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Motorola Edge 2023 | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-nvidia-opengl-error-on-windows-11-quick-guide/"><u>Overcoming NVIDIA OpenGL Error on Windows 11 - Quick Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/practice-good-hygiene-urinate-frequently-especially-after-sexual-activity-to-help-flush-out-bacteria-from-your-urinary-tract-wipe-from-front-to-back-when-us551/"><u>Practice Good Hygiene: Urinate Frequently, Especially After Sexual Activity, to Help Flush Out Bacteria From Your Urinary Tract. Wipe From Front to Back when Using the Restroom, Which Can Help Prevent Bacteria From Spreading From the Anus to the Urethra.</u></a></li>
-<li><a href="https://windows11.techidaily.com/reconnecting-to-wi-fi-on-windows-system/"><u>Reconnecting to Wi-Fi on Windows System</u></a></li>
-<li><a href="https://windows11.techidaily.com/recover-lost-icons-steam-on-windows-edition/"><u>Recover Lost Icons: Steam on Windows Edition</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/recovering-from-a-mistaken-tiktok-reload-for-2024/"><u>Recovering From a Mistaken TikTok Reload for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-companion-to-your-ipad-os-journey-past-present-and-future/"><u>Step-by-Step Companion to Your iPad OS Journey - Past, Present & Future</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-implementing-task-management-features-for-windows-11-enthusiasts/"><u>Step-by-Step: Implementing Task Management Features for Windows 11 Enthusiasts</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-key-to-efficient-storage-how-to-manage-ntfs-compression-in-win11/"><u>The Key to Efficient Storage: How to Manage NTFS Compression in Win11</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/transforming-gifs-to-stickers-comprehensive-instruction-for-messaging-apps/"><u>Transforming GIFs to Stickers Comprehensive Instruction for Messaging Apps</u></a></li>
-<li><a href="https://windows11.techidaily.com/unleashing-the-full-potential-of-windows-11s-hotspot-feature/"><u>Unleashing the Full Potential of Windows 11'S Hotspot Feature</u></a></li>
-<li><a href="https://windows11.techidaily.com/unseen-constraints-the-struggle-for-authenticity-and-expression/"><u>Unseen Constraints: The Struggle for Authenticity and Expression</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/vubec-jak-je-tato-kniha-prekvapiva/"><u>Vůbec Jak Je Tato Kniha Překvapivá</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-ranking-the-greatest-9-mobile-video-communication-services-ios-android-for-2024/"><u>[New] Ranking the Greatest 9 Mobile Video Communication Services (iOS, Android) for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-from-iphone-6s-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock from iPhone 6s</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/annamasart-academy-access-exclusive-online-art-classes-and-educational-video-content-for-free-download/"><u>AnnamasArt Academy: Access Exclusive Online Art Classes and Educational Video Content for Free Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-guide-to-downloading-m-audio-fast-track-drivers-for-your-pc/"><u>Complete Guide to Downloading M-Audio Fast Track Drivers for Your PC</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-assessment-the-travel-friendly-pioneer-bdr-xs06-and-its-dvd-burning-capabilities/"><u>Comprehensive Assessment: The Travel-Friendly Pioneer BDR-XS06 and Its DVD Burning Capabilities</u></a></li>
+<li><a href="https://windows11.techidaily.com/distinguishing-between-hdd-and-ssd-drives-on-pc/"><u>Distinguishing Between HDD & SSD Drives on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-halt-microsoft-edge-icons-regularity/"><u>How to Halt Microsoft Edge Icons' Regularity</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-meizu-21-pro-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Meizu 21 Pro to New Phone | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigating-minimum-and-maximum-hardware-needs-for-software-applications/"><u>Navigating Minimum and Maximum Hardware Needs for Software Applications</u></a></li>
+<li><a href="https://games-able.techidaily.com/play-it-smart-spotting-real-vs-pretend-gameshows/"><u>Play It Smart: Spotting Real vs Pretend Gameshows</u></a></li>
+<li><a href="https://windows11.techidaily.com/rapid-and-secure-firmware-update-guide-for-surface-systems/"><u>Rapid & Secure Firmware Update Guide for Surface Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/reestablish-wi-fi-masterful-solutions-for-windows-usb-adapters/"><u>Reestablish Wi-Fi: Masterful Solutions for Windows USB Adapters</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-essentials-playstation-5-slim-pricing-strategies-expected-arrival-and-full-tech-overview/"><u>The Essentials: PlayStation 5 Slim Pricing Strategies, Expected Arrival, and Full Tech Overview</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-reducing-browsing-impact-on-system-performance/"><u>Tips for Reducing Browsing Impact on System Performance</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-windows-11-secrets-with-devhome-insights/"><u>Unlocking Windows 11 Secrets with DevHome Insights</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-update-halted-quick-solutions-for-a-perfect-installation/"><u>Windows Update Halted: Quick Solutions for a Perfect Installation</u></a></li>
 </ul></div>
 

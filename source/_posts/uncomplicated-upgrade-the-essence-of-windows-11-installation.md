@@ -1,7 +1,7 @@
 ---
 title: "Uncomplicated Upgrade: The Essence of Windows 11 Installation"
-date: 2024-11-11T16:43:22.922Z
-updated: 2024-11-15T16:13:16.416Z
+date: 2024-11-23T17:25:39.565Z
+updated: 2024-11-24T20:38:08.008Z
 tags:
   - windows10
   - windows11
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/b478b0983a67f36010d885714312f70db32d5d3a2
 * [What Is the Windows 11 Installation Assistant?](#what-is-the-windows-11-installation-assistant)
 * [Can You Install Windows 11 on a Virtual Machine?](#can-you-install-windows-11-on-a-virtual-machine)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Upgrading to Windows 11 is easy and can be done directly through Windows 10, or with a clean install for a fresh operating system feeling.
@@ -39,13 +43,6 @@ thumbnail: https://thmb.techidaily.com/b478b0983a67f36010d885714312f70db32d5d3a2
 
  There are a few things you need to prepare before you can proceed with your Windows 11 installation—specifically the Windows 11 ISO and the bootable Windows 11 USB flash drive you'll install it from. Furthermore, if you're installing Windows 11 on a new device, it's worth [considering Windows 11's minimum specifications](https://www.makeuseof.com/windows-11-old-pc-to-go-rufus/) to make sure your machine is up to scratch.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Download the Windows 11 Media Creation Tool
 
  The first thing you need is a copy of the Windows 11 [ISO, which is the disk image](https://www.makeuseof.com/what-is-a-disk-image-explained/) containing the Windows 11 installation files:
@@ -55,13 +52,6 @@ thumbnail: https://thmb.techidaily.com/b478b0983a67f36010d885714312f70db32d5d3a2
 3. Run the Media Creation Tool once it finishes downloading, then accept the terms and conditions.
 
 ![windows 11 media creation tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-11-media-creation-tool.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Download Windows 11 Disk Image ISO**
 
@@ -93,6 +83,10 @@ thumbnail: https://thmb.techidaily.com/b478b0983a67f36010d885714312f70db32d5d3a2
 
  Once finished, move to the next section.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Burn the Windows 11 ISO to a Bootable USB Flash Drive
 
  If you used the Windows 11 Media Creation Tool to create a bootable USB flash drive, you can skip forward to the next section.
@@ -107,7 +101,15 @@ thumbnail: https://thmb.techidaily.com/b478b0983a67f36010d885714312f70db32d5d3a2
 
 ![rufus iso to usb burning tool with windows 11 iso](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/rufus-iso-to-usb-burning-tool-with-windows-11-iso.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Windows 11 ISO burning process will take a few minutes, so go and make a cup of tea or coffee, and it'll be done when you return.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Install Windows 11 Using the Bootable USB
 
@@ -126,20 +128,10 @@ thumbnail: https://thmb.techidaily.com/b478b0983a67f36010d885714312f70db32d5d3a2
 ![windows 11 select language for installation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/windows-11-select-language-for-installation.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Work through the Windows 11 setup pages one by one, checking them as you go. There are options for privacy, location, data sharing, and more.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What Is the Windows 11 Installation Assistant?
 
@@ -148,13 +140,6 @@ thumbnail: https://thmb.techidaily.com/b478b0983a67f36010d885714312f70db32d5d3a2
  What this means is that you won't complete a clean Windows 11 installation but instead upgrade from Windows 10, which can leave behind some files, artifacts, and so on.
 
  However, it's still a useful way to upgrade to Windows 11, especially if you're not bothered about installing Windows 11 yourself and just want to get the upgrade done.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Can You Install Windows 11 on a Virtual Machine?
 
@@ -174,18 +159,14 @@ thumbnail: https://thmb.techidaily.com/b478b0983a67f36010d885714312f70db32d5d3a2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-achieve-professional-looking-motion-blur-with-just-a-few-steps-in-photoshop/"><u>[New] 2024 Approved Achieve Professional-Looking Motion Blur with Just a Few Steps in Photoshop</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-leveraging-facetimes-features-for-exceptional-audio-capturing/"><u>[New] 2024 Approved Leveraging FaceTime's Features for Exceptional Audio Capturing</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-premium-choices-in-video-calling-platforms-for-tech-users/"><u>[New] 2024 Approved Premium Choices in Video Calling Platforms for Tech Users</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-infinix-smart-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Infinix Smart 8 Pro? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-video-repair-tool-to-fix-and-repair-corrupt-mp4-mov-avi-video-files-of-xiaomi-13t-pro-by-stellar-video-repair-mobile-video-repair/"><u>Best Video Repair tool to Fix and Repair Corrupt MP4,MOV,AVI video files of Xiaomi 13T Pro</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/easy-steps-for-transforming-movavi-webp-photos-into-classic-jpg-by-mobavvicom/"><u>Easy Steps for Transforming Movavi WebP Photos Into Classic JPG by Mobavvi.com</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-to-postpone-windows-10-shutdown-during-active-processes/"><u>Guide to Postpone Windows 10 Shutdown During Active Processes</u></a></li>
-<li><a href="https://fox-links.techidaily.com/iconic-locales-for-stream-video-quality/"><u>Iconic Locales for Stream Video Quality</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-guide-how-to-attract-more-nfl-viewers-for-your-sports-live-streaming-channel-for-2024/"><u>New Guide How to Attract More NFL Viewers for Your Sports Live Streaming Channel for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/personalized-overheat-avoidance-bios-tutorial-for-win-users/"><u>Personalized Overheat Avoidance: BIOS Tutorial for Win Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-windows-update-failures-error-x712/"><u>Tackling Windows Update Failures: Error X712</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Honor Magic 6 Pro | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-1110-hacks-swift-recovery-of-synapse-functions/"><u>Windows 11/10 Hacks: Swift Recovery of Synapse Functions</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-expert-tips-for-converting-your-favorite-videos-into-animated-shareable-gifs/"><u>[New] 2024 Approved Expert Tips for Converting Your Favorite Videos Into Animated, Shareable GIFs</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-trailblazing-top-zooid-beginnings-list/"><u>[New] Trailblazing Top Zooid Beginnings List</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-newest-camstudio-capture-and-review-2023-update/"><u>2024 Approved Newest CamStudio Capture & Review 2023 Update</u></a></li>
+<li><a href="https://windows11.techidaily.com/accelerating-battlenet-game-updates-in-windows/"><u>Accelerating Battle.net Game Updates in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixes-for-inactive-snapshots-on-pcs/"><u>Fixes for Inactive Snapshots on PCs</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mending-malfunctioning-outlook-mail-signals-on-pc/"><u>Mending Malfunctioning Outlook Mail Signals on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-remedy-for-windows-uninitialized-disk-issue/"><u>Quick Remedy for Windows 'Uninitialized' Disk Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rapid-rectifications-quick-tricks-to-prevent-windows-crashes-in-games/"><u>Rapid Rectifications: Quick Tricks to Prevent Windows Crashes in Games</u></a></li>
 </ul></div>
 

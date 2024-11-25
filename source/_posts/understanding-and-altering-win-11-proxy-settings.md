@@ -1,7 +1,7 @@
 ---
 title: Understanding and Altering Win 11 Proxy Settings
-date: 2024-08-22T21:38:05.241Z
-updated: 2024-08-23T21:38:05.241Z
+date: 2024-11-17T19:42:55.775Z
+updated: 2024-11-24T19:05:12.172Z
 tags:
   - windows10
   - windows11
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/f353031385ec13b27002aeb25b2433c7b7f2839e2
 ## Understanding and Altering Win 11 Proxy Settings
 
  If you're unsure whether you're connected to a proxy server or need to check your proxy settings for any other reason, you've come to the right place. Here, we'll explore different ways to find your proxy server settings on Windows 11\. We'll also see how to reset the WinHTTP proxy server.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is a Proxy Server?
 
@@ -50,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/f353031385ec13b27002aeb25b2433c7b7f2839e2
 
  You'll see the proxy server details in the **Edit proxy server** window that crops up.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. How to Check Your Proxy Server Settings Using Internet Options
 
  The Internet Options menu on Windows allows you to configure internet-related settings on your computer. To view your proxy server settings, follow the below instructions:
@@ -60,14 +68,15 @@ thumbnail: https://thmb.techidaily.com/f353031385ec13b27002aeb25b2433c7b7f2839e2
 
  You'll get the details of your proxy server in the **Proxy Server** section.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### 3\. Check Your Proxy Server Settings Using Different Browsers
 
  You also use your browser to view your proxy server settings. To check in Google Chrome, type **chrome://net-internals/#proxy** in the address bar and press **Enter**.
 
 ![Proxy checking command in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/proxy-checking-command.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In Microsoft Edge, type **edge: //net-internals/#proxy** and hit **Enter**.
 
@@ -75,9 +84,6 @@ thumbnail: https://thmb.techidaily.com/f353031385ec13b27002aeb25b2433c7b7f2839e2
 
 ![Connections server section in Firefox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/connections-server.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
  A **Connection Settings** window will crop up where you can view and configure the proxy server settings.
 
 ### 4\. Check Your Proxy Server Settings Using Command-Line Tools
@@ -90,9 +96,6 @@ thumbnail: https://thmb.techidaily.com/f353031385ec13b27002aeb25b2433c7b7f2839e2
 
 ![Command Prompt with command to check proxy server settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/command-prompt-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
  To check your proxy server settings using PowerShell, launch Windows PowerShell as an administrator (see how to [run Windows PowerShell with administrative rights](https://www.makeuseof.com/windows-11-powershell-administrator/)), type the following command, and hit **Enter**.
 
 `Get-ItemProperty -Path 'HKCU:\Software\Microsoft\Windows\CurrentVersion\Internet Settings' | findstr ProxyServer`
@@ -100,22 +103,17 @@ thumbnail: https://thmb.techidaily.com/f353031385ec13b27002aeb25b2433c7b7f2839e2
 ![PowerShell window with command to check proxy server settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/powershell-window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  PowerShell will display the proxy server details in the result.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Reset the WinHTTP Proxy Settings
 
  WinHTTP or Windows HTTP Services allows the desktop applications and Windows services to communicate with the HTTP server. However, there may be times when you need to reset the WinHTTP proxy.
 
  If you face connectivity issues when updating Windows or using Microsoft Store or other UWP apps, try resetting the WinHTTP proxy. Here are the methods to do that.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ### 1\. Reset the WinHTTP Proxy Settings Using Command Prompt
 
  To reset the WinHTTP proxy using Command Prompt, launch Command Prompt as an administrator and execute the following command.
@@ -124,14 +122,12 @@ thumbnail: https://thmb.techidaily.com/f353031385ec13b27002aeb25b2433c7b7f2839e2
 
 ![Direct access (no proxy server) message in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/direct-access-no-proxy-server.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once the command is successfully executed, you will see a message that says **Direct access (no proxy server)**.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Reset the WinINET Proxy Settings Using Internet Options
 
  Most UWP apps use the WinINET library instead of WinHTTP. So, to reset the WinINET proxy using the Internet Options, follow these steps:
@@ -143,8 +139,9 @@ thumbnail: https://thmb.techidaily.com/f353031385ec13b27002aeb25b2433c7b7f2839e2
 ![Automatically detect settings box in Internet Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/automatically-detect-settings-box.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You've successfully reset the WinINET proxy.
 
 ## Manage Your Proxy Server Settings on Windows
@@ -154,11 +151,14 @@ thumbnail: https://thmb.techidaily.com/f353031385ec13b27002aeb25b2433c7b7f2839e2
  Whether you want to troubleshoot an internet-related problem or simply want to confirm your connection to a proxy server, you can quickly check your proxy server settings using the above methods.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## FAQ
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Q: Does Windows 11 Have a Proxy Server?
 
@@ -172,11 +172,29 @@ The powerful video editing program for your Windows PC</a>
 
  There are both good as well as bad [proxy servers out there](https://www.makeuseof.com/tag/best-free-online-proxy-server/). As long as you get your proxy server from a trusted company, your data should be safe with it. You shouldn't trust any random proxy server on the web.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-security-first-legitimate-tiktok-fan-buys/"><u>[New] 2024 Approved Security First Legitimate TikTok Fan Buys</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-convert-fb-footage-fast-free-720p-1080p-to-mp4-conversion/"><u>[Updated] Convert FB Footage Fast - Free 720P, 1080P to MP4 Conversion</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-from-flat-frames-to-bright-brilliance-the-ultimate-conversion-guide/"><u>[Updated] From Flat Frames to Bright Brilliance The Ultimate Conversion Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/easy-methods-for-uploading-dvd-media-files-onto-digital-cloud-services-including-google-drive-and-icloud/"><u>Easy Methods for Uploading DVD Media Files Onto Digital Cloud Services Including Google Drive & iCloud</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-13-mini-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone 13 mini</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-open-windows-media-player-simple-instructions/"><u>How to Open Windows Media Player: Simple Instructions</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-change-location-on-yik-yak-for-your-vivo-y100t-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Vivo Y100t to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-itel-s23-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Itel S23</u></a></li>
+<li><a href="https://windows11.techidaily.com/overhauling-deactivated-windows-11-keys/"><u>Overhauling Deactivated Windows 11 Keys</u></a></li>
+<li><a href="https://windows11.techidaily.com/reimagining-windows-focusing-on-essential-upgrades/"><u>Reimagining Windows: Focusing on Essential Upgrades</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-system-security-top-5-techniques-to-resolve-keys-mismatches-in-win11/"><u>Seamless System Security: Top 5 Techniques to Resolve Keys Mismatches in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailored-command-setup-easy-access-shortcuts-next-to-win11-writes/"><u>Tailored Command Setup: Easy Access Shortcuts Next to Win11' Writes</u></a></li>
+<li><a href="https://win-premium.techidaily.com/unlock-your-iphone-top-4-methods-to-bypass-the-icloud-activation-barrier-without-a-passcode/"><u>Unlock Your iPhone: Top 4 Methods to Bypass the iCloud Activation Barrier without a Passcode</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-based-problem-solving-tackling-error-9999-in-audacity/"><u>Win-Based Problem Solving: Tackling Error 9999 in Audacity</u></a></li>
+<li><a href="https://windows11.techidaily.com/win10win11-fixing-unidentified-device-errors/"><u>Win10/Win11: Fixing Unidentified Device Errors</u></a></li>
+</ul></div>
+

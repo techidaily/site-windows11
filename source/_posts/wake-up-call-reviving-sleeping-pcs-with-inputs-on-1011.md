@@ -1,7 +1,7 @@
 ---
 title: "Wake-Up Call: Reviving Sleeping PCs with Inputs on 10/11"
-date: 2024-08-22T21:40:26.383Z
-updated: 2024-08-23T21:40:26.383Z
+date: 2024-11-18T00:06:58.748Z
+updated: 2024-11-25T02:19:03.538Z
 tags:
   - windows10
   - windows11
@@ -34,9 +34,17 @@ thumbnail: https://thmb.techidaily.com/6b74a794374950c8c7d33f01e283b8595a0e02efb
 
 ![Windows Allow Device Wake Computer Sleep](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/Windows-Allow-Device-Wake-Computer-Sleep.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Be careful when using these options with a laptop. If you have a wireless mouse connected and forget to turn it off, you could accidentally wake your laptop from sleep when it's in a bag.[You can destroy your laptop](https://www.makeuseof.com/tag/5-ways-utterly-destroy-laptop-slowly-surely/) by leaving it in a bag while running, as this generates a lot of heat.
 
  For safety, you should put your laptop to sleep before putting it in a bag only if it will be there for a short time. For longer durations, shut down or hibernate for safety.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Other Fixes if a Keyboard and Mouse Don't Wake Your PC
 
@@ -47,8 +55,9 @@ thumbnail: https://thmb.techidaily.com/6b74a794374950c8c7d33f01e283b8595a0e02efb
  Also, it might sound obvious, but make sure that your keyboard and mouse are working properly overall. If they suddenly don't do anything, they of course won't wake your PC from sleep. We've shown[how to fix an unresponsive laptop keyboard](https://www.makeuseof.com/tag/laptop-keyboard-not-working/) .
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Stop Your PC From Shutting Off USB Ports
 
  There's also a chance that your computer reduces power to its USB ports while asleep. In these cases, it won't pick up the signal when you move your mouse or press a key. To troubleshoot this, head back to the Device Manager and expand the**Universal Serial Bus controllers** section.
@@ -62,34 +71,30 @@ thumbnail: https://thmb.techidaily.com/6b74a794374950c8c7d33f01e283b8595a0e02efb
 ![Windows 10 USB Suspend Power Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/Windows-10-USB-Suspend-Power-Options.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  This will keep your system from shutting off USB ports to save power, which should help it wake from sleep with a keyboard and mouse more reliably.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### For Bluetooth Mice and Keyboards
 
  If you use a Bluetooth mouse and keyboard, your computer might not receive Bluetooth signals while it's asleep. You can't tweak this in the Device Manager, so your best bets are to update your Bluetooth driver or consider getting a newer Bluetooth adapter with better power management. Run through our list of[steps to fix Bluetooth in Windows](https://www.makeuseof.com/tag/bluetooth-not-working-windows-10/) , as well, to rule out any deeper problems.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Wake Your Computer From Sleep the Easy Way
 
  Hopefully, you're now able to wake your computer from sleep just by pressing a key or moving your mouse. Problems with this usually come down to USB power management, which you can fix with the above.
 
  Unfortunately, this isn't the only issue you can run into with sleep mode in Windows, either.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -98,4 +103,20 @@ thumbnail: https://thmb.techidaily.com/6b74a794374950c8c7d33f01e283b8595a0e02efb
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-the-ultimate-stream-software-showdown-obs-vs-shadowplay-for-2024/"><u>[New] The Ultimate Stream Software Showdown OBS vs ShadowPlay for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-pro-iphones-capturing-perfect-silhouettes/"><u>[Updated] 2024 Approved Pro iPhones Capturing Perfect Silhouettes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-vocal-transformations-high-ranked-app-options/"><u>2024 Approved Mastering Vocal Transformations High-Ranked App Options</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/from-basic-to-exceptional-a-step-by-step-thumbnail-guide-for-2024/"><u>From Basic to Exceptional A Step-by-Step Thumbnail Guide for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-realme-narzo-n55-frp-by-drfone-android/"><u>Full Guide to Bypass Realme Narzo N55 FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-motorola-moto-g23-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Motorola Moto G23 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://windows11.techidaily.com/leveraging-system-restore-your-key-to-past-windows-configurations/"><u>Leveraging System Restore: Your Key to Past Windows Configurations</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-files-with-powertoys-a-comprehensive-tutorial/"><u>Optimizing Files with PowerToys: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-your-workflow-embracing-the-shift-in-ram-standards/"><u>Optimizing Your Workflow: Embracing the Shift in RAM Standards</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-prevent-windows-dwarf-fortress-crashes/"><u>Strategies to Prevent Windows-Dwarf Fortress Crashes</u></a></li>
+<li><a href="https://windows11.techidaily.com/tactics-for-fixing-no-available-on-nvidia-display-error/"><u>Tactics for Fixing 'No Available' On Nvidia Display Error</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-fix-it-list-reviving-sound-on-your-glitchy-airpods-in-10-steps/"><u>The Ultimate Fix-It List: Reviving Sound on Your Glitchy AirPods in 10 Steps</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-over-windows-11-22h2-fix-strategies/"><u>Winning Over Windows 11: 22H2 Fix Strategies</u></a></li>
+</ul></div>
 

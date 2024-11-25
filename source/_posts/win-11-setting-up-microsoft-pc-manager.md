@@ -1,7 +1,7 @@
 ---
 title: "Win 11: Setting Up Microsoft PC Manager"
-date: 2024-08-22T21:37:10.430Z
-updated: 2024-08-23T21:37:10.430Z
+date: 2024-11-23T21:53:57.470Z
+updated: 2024-11-25T01:05:31.594Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,11 @@ thumbnail: https://thmb.techidaily.com/517296fb76b2495d3ca7ac9af3e02d36cfd22dc3a
 3. Click the**Download** button to download the setup file on your system.  
 ![Download Microsoft PC Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/download-microsoft-pc-manager.jpg)
 4. Once the file downloads, visit the download location and right-click on the Microsoft PC Manager installer file. Select the**Run and administrator** option from the context menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. UAC will pop up. Click on the**Yes** button to continue.
 6. PC Manager installation window will launch. Click on the**I accept End User License and Privacy Agreements** check box. Then click on the**Install** button.  
 ![Install Microsoft PC Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/install-microsoft-pc-manager.jpg)
@@ -48,8 +53,9 @@ thumbnail: https://thmb.techidaily.com/517296fb76b2495d3ca7ac9af3e02d36cfd22dc3a
  Since it needs an internet connection to download files and the website was inaccessible at that time, the installation couldn’t complete. If you face a similar situation don’t worry, just close the installation window,[restart your Windows PC](https://www.makeuseof.com/windows-restart-methods/) , and retry after a few hours.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How To Configure and Use Microsoft PC Manager
 
  We covered the installation method in the above section. This section will highlight all the tools available in the app and how you can use them to improve your system’s performance.
@@ -64,9 +70,6 @@ thumbnail: https://thmb.techidaily.com/517296fb76b2495d3ca7ac9af3e02d36cfd22dc3a
 
 ![Boost your PC’s Performance](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/boost-your-pc-s-performance.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The**Health Check** tool presents a comprehensive roundup of problems that need attention. Once you click on the feature, it finds and lists all the potential issues which include cleanup items such as browser cache, temp files, and system logs. It also lists out potential security issues and the Startup items that you can disable to decrease loading time.
 
 ![Health Check in PC Manger app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/health-check-in-pc-manger-app.jpg)
@@ -79,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/517296fb76b2495d3ca7ac9af3e02d36cfd22dc3a
 
 ![Deep Cleanup in PC Manger app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/deep-cleanup-in-pc-manger-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The**Manage large files** tool helps you identify all the big files taking up space on the C drive. You can adjust the file type as well as the size you want to identify using this tool. The only drawback is that it can only identify C-drive items. Click on the**View in File Explorer** button to allow the app to list all the files in an explorer Window. You can manually move or delete these files.
 
 ![Manage large files in PC Manger app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/manage-large-files-in-pc-manger-app.jpg)
@@ -90,8 +97,9 @@ thumbnail: https://thmb.techidaily.com/517296fb76b2495d3ca7ac9af3e02d36cfd22dc3a
  Like process management,**Startup Apps** showcases the list of apps that slow down system startup. You can disable apps from there or open Task Manager for a more comprehensive view of all startup apps.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Security Tools
 
  You can scan for threats present in your system using the Scan option in the security tab. It performs a quick scan on the C drive only. Similarly, you can check and install all the available updates for Windows without leaving the Microsoft PC Manager app.
@@ -101,30 +109,22 @@ thumbnail: https://thmb.techidaily.com/517296fb76b2495d3ca7ac9af3e02d36cfd22dc3a
 ![Browser Protection in PC Manger app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/browser-protection-in-pc-manger-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The**Pop-up Management** tool prevents Windows apps from showing unnecessary pop-up windows while using the app. Click on the**Enable Pop-up block** toggle, and it will list all the apps that indulge in this activity.
 
 ![Pop-up Management in PC Manger app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/pop-up-management-in-pc-manger-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## A Free, Official Tool to Manage Your Windows PC
 
  Microsoft PC Manager is an impressive tool. It frees up memory and storage and manages system security all within one app. You will notice a few hiccups because it is the beta phase. One such issue is that it doesn’t switch to dark mode on Windows. It auto-starts every time you boot up Windows, but you can disable that using the app settings.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -133,4 +133,23 @@ thumbnail: https://thmb.techidaily.com/517296fb76b2495d3ca7ac9af3e02d36cfd22dc3a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-capturecraft-elite-precision-for-windowsmac-snaps/"><u>[New] In 2024, CaptureCraft Elite Precision for Windows/Mac Snaps</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-begin-recording-your-webcam-via-vlc-player/"><u>[Updated] 2024 Approved Begin Recording Your Webcam via VLC Player</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-straightforward-tips-for-mastering-simple-hdr-photography/"><u>[Updated] In 2024, Straightforward Tips for Mastering Simple HDR Photography</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/directing-emotions-choosing-sound-for-film-teasers-for-2024/"><u>Directing Emotions Choosing Sound for Film Teasers for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/explore-androids-best-podcast-apps-top-6-revealed/"><u>Explore Android's Best Podcast Apps - Top 6 Revealed</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-common-ad-ds-printer-problems-in-windows-10-and-11/"><u>Fixing Common AD DS Printer Problems in Windows 10 & 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-correct-the-isdonedll-error-in-windows-11/"><u>How to Correct the ISDone.dll Error in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-mail-error-0x80072746-in-windows/"><u>How to Fix the Mail Error 0X80072746 in Windows</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ipad-air-4-vs-galaxy-tab-s7plus-showdown-top-tier-tablet-battle-without-sacrifices/"><u>IPad Air 4 Vs. Galaxy Tab S7+ Showdown: Top-Tier Tablet Battle Without Sacrifices</u></a></li>
+<li><a href="https://video-capture.techidaily.com/nocturnal-nuances-essential-tips-for-moonlit-portraiture-for-2024/"><u>Nocturnal Nuances Essential Tips for Moonlit Portraiture for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/personalizing-user-access-a-guide-for-standard-windows-accounts/"><u>Personalizing User Access: A Guide for Standard Windows Accounts</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-lost-tabs-in-file-explorer/"><u>Restoring Lost Tabs in File Explorer</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722179690599-top-4-intelligent-ai-based-virtual-murder-mysteries-become-the-sleuth/"><u>Top 4 Intelligent AI-Based Virtual Murder Mysteries - Become the Sleuth!</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-full-screen-crashes-in-sonic-frontiers-pc-edition/"><u>Troubleshooting Full-Screen Crashes in Sonic Frontiers PC Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleashing-linux-power-within-windows-10/"><u>Unleashing Linux Power Within Windows 10</u></a></li>
+</ul></div>
 

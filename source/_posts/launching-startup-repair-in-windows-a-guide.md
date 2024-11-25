@@ -1,7 +1,7 @@
 ---
 title: "Launching Startup Repair in Windows: A Guide"
-date: 2024-08-22T21:38:35.278Z
-updated: 2024-08-23T21:38:35.278Z
+date: 2024-11-18T16:17:57.376Z
+updated: 2024-11-25T00:30:49.899Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/33c48593ec0173b68a8667f248e53142d39bc8c36
 
  This is the easiest way to go about launching the Startup Repair tool on Windows. So we will lay out this method first.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Use the Windows 11 Settings App
 
  Here’s how you can do it on Windows 11:
@@ -39,8 +43,9 @@ thumbnail: https://thmb.techidaily.com/33c48593ec0173b68a8667f248e53142d39bc8c36
  And that’s it. As soon as you click on the above option, the Startup Repair tool will be launched right then and there.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Use the Windows 10 Settings App
 
  While the basic structure of opening Startup Repair on Windows 10 remains the same, the particular instructions on the screen will be slightly different. So, here's how you can launch Startup Repair on Windows 10:
@@ -50,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/33c48593ec0173b68a8667f248e53142d39bc8c36
 3. Under the **Advanced startup** menu, click on **Restart now**.
 
  Your Windows will boot into **Windows Recovery Environment** (Win RE) as soon as you do this. From there, the steps are similar to the ones you followed for Windows 11\.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Run the Startup Repair Tool Through the Desktop
 
@@ -62,9 +71,6 @@ thumbnail: https://thmb.techidaily.com/33c48593ec0173b68a8667f248e53142d39bc8c36
 
 ![advanced options on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/advanced-options-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  The Startup Repair tool will be launched from here.
 
 ## 3\. Run the Startup Repair From BIOS
@@ -80,9 +86,6 @@ thumbnail: https://thmb.techidaily.com/33c48593ec0173b68a8667f248e53142d39bc8c36
 
  The Startup Repair tool will be launched from here, and it will look up and fix any issues it finds on your Windows computer.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Use the Command Prompt
 
  The Command Prompt is a free Windows utility that lets you manage your Windows settings and things in a way that makes using Windows a breeze.
@@ -96,27 +99,24 @@ shutdown /r /o
 ![windows cmd](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-cmd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  As soon as you hit **Enter**, your PC will be restarted in the **Advanced Startup Options** menu; you can then select the **Startup Repair** option from there.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Use the F11 Shortcut Key During Boot
 
  Sometimes, simply hitting the **F11** key repeatedly during the boot-up can take you to the **Advanced Options** menu on many computers. So, make sure you give this a go as well. From there, you can easily access the **Windows Startup Options** tool.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Opening the Startup Repair Tool on a Windows PC
 
  Like almost everything on Windows, there are many ways to open the Startup Repair tool on Windows. So even if one way of opening the tool doesn’t work, you have the others to try out.
 
  We have looked over a host of different ways to access the tool. So, let’s look at all of them one by one.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -124,3 +124,24 @@ shutdown /r /o
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-unlocking-real-time-collaboration-via-xbox-zoom/"><u>[New] In 2024, Unlocking Real-Time Collaboration via Xbox Zoom</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-unveiling-audio-magic-the-gradual-introduction-with-audition/"><u>[New] Unveiling Audio Magic The Gradual Introduction with Audition</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-the-dual-approach-mastering-two-point-of-view-techniques-in-your-youtube-reaction-video-content/"><u>[Updated] In 2024, The Dual Approach – Mastering Two-Point of View Techniques in Your YouTube Reaction Video Content</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-introducing-the-apple-m1-max-clip/"><u>[Updated] Introducing the Apple M1 Max Clip</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-maximizing-viewing-tweeting-in-high-definition-hd-for-2024/"><u>[Updated] Maximizing Viewing Tweeting in High Definition (HD) for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-celebratory-moments-captured-a-list-of-the-most-beautiful-wedding-videos-8/"><u>2024 Approved Celebratory Moments Captured A List of the Most Beautiful Wedding Videos (8)</u></a></li>
+<li><a href="https://windows11.techidaily.com/file-organization-made-easy-configuring-win11s-auto-delete/"><u>File Organization Made Easy: Configuring Win11's Auto Delete</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-leading-the-way-in-efficient-meeting-recording-zooms-finest-tools-reviewed/"><u>In 2024, Leading the Way in Efficient Meeting Recording Zoom’s Finest Tools Reviewed</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-application-dependency-resolution-with-wpm/"><u>Mastering Application Dependency Resolution with WPM</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mastering-the-art-of-video-screenshots-in-games-with-our-pick-of-the-12-finest-clipping-apps/"><u>Mastering the Art of Video Screenshots in Games with Our Pick of the 12 Finest Clipping Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-11-default-programs-configuration/"><u>Mastering Windows 11 Default Programs Configuration</u></a></li>
+<li><a href="https://windows11.techidaily.com/outsmarting-your-os-glitch-effective-script-solutions-for-windows/"><u>Outsmarting Your OS Glitch: Effective Script Solutions for Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-glance-uncovering-graphics-card-version-win11/"><u>Quick Glance: Uncovering Graphics Card Version, Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/speeding-up-purchases-on-microsofts-digital-shelf/"><u>Speeding Up Purchases on Microsoft's Digital Shelf</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-huge-advancements-a-comprehensive-look-at-the-elegoo-saturn-4-ultra-resin-printer/"><u>Unveiling Huge Advancements: A Comprehensive Look at the Elegoo Saturn 4 Ultra Resin Printer</u></a></li>
+<li><a href="https://windows11.techidaily.com/win1011-recycle-troubleshooting-restoring-corruption-error/"><u>Win10/11 Recycle Troubleshooting: Restoring Corruption Error</u></a></li>
+</ul></div>
+

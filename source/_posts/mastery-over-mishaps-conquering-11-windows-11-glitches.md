@@ -1,7 +1,7 @@
 ---
 title: "Mastery Over Mishaps: Conquering 11 Windows 11 Glitches"
-date: 2024-08-22T21:38:01.761Z
-updated: 2024-08-23T21:38:01.761Z
+date: 2024-11-18T00:23:51.443Z
+updated: 2024-11-25T01:46:50.817Z
 tags:
   - windows10
   - windows11
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
 
  Here we have constructed a list of common Windows 11 problems and how to fix them so that you can have the best experience using the best Windows OS version yet.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Unable to Upgrade from Windows 10 to 11
 
  With the much-desired design overhaul, Windows 11 is also tight on security requirements. When the OS was initially released, several old-gen but capable systems were left out of the upgrade queue.
@@ -35,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
  Even on Windows 11-compatible systems, you may run into the issue of Windows being unable to install updates. This will prevent you from installing the newer build version of Windows 11 OS successfully.
 
  The update issue can occur due to a corrupted software distribution folder and insufficient storage space. Explore our guide on[how to fix the Windows 11 Version 22H2 update not installing](https://www.makeuseof.com/windows-11-22h2-not-installing/) for more information.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Windows 11 No Sound Issues
 
@@ -56,9 +64,6 @@ To run the audio troubleshooter:
 
 ![taskbar alighnment windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/taskbar-alighnment-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
  With Windows 11, the default alignment of the Start menu is moved to the center of your screen. This makes sense both aesthetically and practically for most users. And for the most part, it feels new and smoother than its predecessor.
 
  However, if you prefer the classic left-side alignment, you can[customize the Start menu in Windows 11](https://www.makeuseof.com/customize-the-start-menu-in-windows-11/) to put it back where it belongs. Here is how to do it:
@@ -70,15 +75,17 @@ To run the audio troubleshooter:
  That said, the Start menu is still prone to some malfunction. A common issue includes the[missing Start menu icons](https://www.makeuseof.com/fix-missing-start-menu-icons-windows-11-10/) . Then you may also encounter the[Start menu critical error](https://www.makeuseof.com/windows-start-menu-critical-error-fix/) . These issues are often triggered due to temporary conflict with the Start menu services and third-party software that can be resolved quickly.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. The File Explorer Not Working on Windows 11
 
 ![restart file explorer process windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/restart-file-explorer-process-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  File Explorer has been around since Windows 95\. It's an extremely handy file manager application making it a breeze to access your file folders on your PC. With Windows 11, Microsoft has made the venerable file manager even better.
 
  With the latest 22H2 update, you can[multitask with Windows 11 File Explorer with multiple tabs](https://www.makeuseof.com/windows-11-22h2-file-explorer-multitask/) . You can further[customize File Explorer](https://www.makeuseof.com/windows-11-customize-file-explorer/) to change folder and file icons and more.
@@ -90,16 +97,14 @@ To run the audio troubleshooter:
 
  If not, explore more ways to fix[File Explorer not opening on Windows](https://www.makeuseof.com/windows-file-explorer-not-opening/) here.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Fixing Windows 11's Slow Performance
 
 ![disable startup apps windows 11 task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-startup-apps-windows-11-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Officially, Windows 11 needs 4GB of RAM and 64GB of storage to install the OS. But in a real-case scenario, you will need at least 8 GB of RAM and preferably a 128GB SSD boot drive for a smooth day-to-day operation.
 
  At times the performance issue can plague even higher-end computers running Windows 11\. Check out these[best tips to speed up a Windows computer](https://www.makeuseof.com/windows-11-speed-up-tricks/) to improve your system performance.
@@ -126,11 +131,13 @@ To do this:
 2. Open the**Network & internet** tab and then click on**Advanced network settings.**  
 ![advanced network settings windows 11 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/advanced-network-settings-windows-11-1.jpg)
 3. Scroll down and click on**Network reset.**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![network reset reset now windows 11 reset now](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/network-reset-reset-now-windows-11-reset-now.jpg)
 4. Click**Reset** now to confirm the action.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 
  In an ideal setup, an Ethernet connection is likely to cause fewer issues. It is also easy to set up and offers better speed and less lag over a wireless network. That said if the wired connection starts to act up, follow these troubleshooting steps to[fix your Ethernet connection on Windows 11](http://www.makeuseof.com/windows-11-ethernet-not-working/) .
 
@@ -150,6 +157,10 @@ To do this:
 
  If you encounter a black screen issue, try to[perform a repair install of Windows 11](https://www.makeuseof.com/windows-11-reinstall-without-deleting-apps/) . If that does not help, assuming that you don't have a hardware issue, a reset or fresh install may be necessary to fix the problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Disabling Bing Web Search in Windows 11
 
  The built-in Windows Search bar lets you find files and folders quickly. However, it does more than what the user asked for. By default, Windows Search shows matching search terms from Bing.
@@ -158,18 +169,12 @@ To do this:
 
  In addition, this can clutter the search dialog by showing unnecessary information. Fortunately, with the help of a registry tweak, you can[disable Bing web searches on Windows 11](https://www.makeuseof.com/windows-11-disable-bing-search/) .
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 10\. Disable Annoying Ads on Your Windows 11 Device
 
  Portable Windows 11 devices tend to come with some bloatware from the manufacturer installed. Apart from these, you may find some unnecessary apps recommendation in your Start menu on Windows 11.
 
  Then there are more subtle forms of ads. You may find ads on the lock screen, start menu, device usage recommendations, notifications, and even in File Explorer. Fortunately, most of these ads can be turned off without much effort. Follow our detailed guide to[remove all the annoying ads on Windows 11](https://www.makeuseof.com/windows-11-remove-ads/) .
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 11\. Disable Windows 11's Automatic Updates
 
 ![Windows update blocker disable update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-update-blocker-disable-update.jpg)
@@ -182,9 +187,6 @@ To do this:
 2. Run the tool and select**Disable updates.**
 3. Click**Apply Now** and restart your PC to apply the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixing Windows 11's Most Frequent Issues
 
  These are some of the general Windows 11 problems you'll encounter when running Microsoft's latest offering on your PC. While a no-issue Windows OS is an ideal ask, you can fix most of these issues without any expert assistance. Follow the referred links in the article for more in-depth solutions for the specified problem.
@@ -195,8 +197,6 @@ To do this:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -204,4 +204,19 @@ To do this:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-chromebook-tips-capturing-high-quality-webcams-for-2024/"><u>[New] Chromebook Tips Capturing High-Quality Webcams for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-mastering-comfortable-virtual-realities-for-2024/"><u>[New] Mastering Comfortable Virtual Realities for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-financial-overview-total-investment-for-music-clip-shootings/"><u>[Updated] 2024 Approved Financial Overview Total Investment for Music Clip Shootings</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-install-the-latest-driver-for-your-lenovo-docking-station/"><u>Easy Steps to Install the Latest Driver for Your Lenovo Docking Station</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-requested-operation-requires-elevation-error-740-on-windows-11-and-11/"><u>How to Fix the “Requested Operation Requires Elevation” Error 740 on Windows 11 & 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-poco-x5-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Poco X5 without App | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/instant-relief-guaranteed-solution-to-boot-time-sound-service-fix/"><u>Instant Relief: Guaranteed Solution to Boot-Time Sound Service Fix</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/picturecut-pro-for-2024/"><u>PictureCut Pro for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/priority-toolkit-best-free-resources-for-win11-power/"><u>Priority Toolkit: Best Free Resources for Win11 Power</u></a></li>
+<li><a href="https://windows11.techidaily.com/redefining-initial-web-portal-for-new-windows-user/"><u>Redefining Initial Web Portal for New Windows User</u></a></li>
+<li><a href="https://windows11.techidaily.com/unblocking-the-pathway-for-fixing-virtualboxs-efail-error/"><u>Unblocking the Pathway for Fixing Virtualbox's E_FAIL Error</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/why-apples-notification-says-youre-climbing-many-stairs-unveiling-the-mystery/"><u>Why Apple's Notification Says You're Climbing Many Stairs – Unveiling the Mystery</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Resolving Failures of File Segmentation Service
-date: 2024-08-22T21:37:05.953Z
-updated: 2024-08-23T21:37:05.953Z
+date: 2024-11-21T16:14:28.751Z
+updated: 2024-11-24T21:35:12.152Z
 tags:
   - windows10
   - windows11
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/33139754522d3393b0a998cc016bffa1b55254150
 
  Now we know what causes the Disk Defragmenter to stop working, it's time to look at some solutions that may help you fix the problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check Disk Defragmenter's Status
 
  If your computer is running slowly, one potential reason could be that the Disk Defragmenter service is not running properly. This service helps to optimize your hard drive by rearranging files so that they can be read more quickly and efficiently.
@@ -48,8 +52,9 @@ thumbnail: https://thmb.techidaily.com/33139754522d3393b0a998cc016bffa1b55254150
  After making the above changes, check if it solves the problem. If not, move on to the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Run the System File Checker tool
 
  Another way to fix your disk defragmenter is to run the System File Checker tool. This tool will scan all of your system files and replace any that are corrupt or missing.
@@ -66,14 +71,15 @@ To run the System File Checker, follow these steps:
 
 ![SFC and DISM Scan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/SFC-and-DISM-Scan.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
  If you're still having trouble with your Disk Defragmenter tool after running an SFC scan, you may need to use the DISM utility. To do this, open the Command Prompt as an administrator and run the below command line:
 
 `DISM /Online /Cleanup-Image /ScanHealth\nDism.exe /online /cleanup-image /restorehealth`
 
  Once the scan is complete, restart your computer and try defragmenting again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Run the CHKDSK Utility
 
@@ -86,9 +92,11 @@ To run the CHKDSK utility, follow the below steps:
 3. Click**Yes** if UAC prompts on your computer screen. This will open a Command Prompt with admin access.  
 ![Run chkdsk command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-chkdsk-command.jpg)
 4. When you're in Command Prompt, type the following command and press Enter:  
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 `chkdsk C: /f`
 
  In the command above,**"C:"** represents your drive, so you should replace it with the letter that refers to your drive.
@@ -97,9 +105,6 @@ To run the CHKDSK utility, follow the below steps:
 
  As it turns out, it may take several minutes for the scan to complete, depending on the size of your partition and sometimes it seems to get stuck. However, you should let it complete its task uninterrupted.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ## 4\. Close All Third-Party Applications
 
  Some third-party applications may interfere with Disk Defragmenter if they are running. In such a case, close all third-party programs and see if that helps the defragmenter to run properly.
@@ -112,25 +117,20 @@ To run the CHKDSK utility, follow the below steps:
 ![Close Programs Via Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Close-Programs-Via-Task-Manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After closing one, check if the disk defragmenter works again. If it does, the service you just closed is the culprit. Now you can either update, re-install, or even uninstall the problematic app so it stops interfering with Disk Defragmenter.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixing Windows Disk Defragmenter's Opening Issues
 
  Disk defragmentation can improve the situation by rearranging files so that they can be evenly distributed throughout the drive. However, sometimes the Disk Defragmenter tool doesn't work as expected. If you encounter this problem, the methods described above should help you resolve it.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -139,4 +139,20 @@ To run the CHKDSK utility, follow the below steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-6-devices-for-flawless-film-translation/"><u>[New] Ultimate 6 Devices for Flawless Film Translation</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-perfectly-suited-8-recommended-tools-for-subtitles-and-srts/"><u>2024 Approved Perfectly Suited 8 Recommended Tools for Subtitles & SRTs</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-ultimate-compendium-ios-gif-apps-reviewed/"><u>2024 Approved The Ultimate Compendium IOS GIF Apps Reviewed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-fixing-class-not-registered-problems-for-windows-10-apps/"><u>Diagnosing and Fixing 'Class Not Registered' Problems for Windows 10 Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-do-ai-systems-differ-from-conventional-pcs/"><u>How Do AI Systems Differ From Conventional PCs?</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-geforce-now-error-0xc0f1103f-in-windows-11-and-11/"><u>How to Fix the GeForce Now Error 0Xc0f1103f in Windows 11 & 11</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-for-iphone-15-lock-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone 15 Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-youtube-cash-flow-8-simple-money-making-tips/"><u>In 2024, YouTube Cash Flow 8 Simple Money-Making Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/innovating-windows-11-six-imperative-modifications-for-an-enhanced-taskbar-experience/"><u>Innovating Windows 11: Six Imperative Modifications for an Enhanced Taskbar Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailored-visuals-customizing-individual-monitors-with-win-1011-wallpapers/"><u>Tailored Visuals: Customizing Individual Monitors with Win 10/11 Wallpapers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-best-value-ssd-pineboards-hatdrive-nano-unleashed-for-raspberry-pi-5pi-4-users/"><u>The Best Value SSD: Pineboard's HatDrive! Nano Unleashed for Raspberry Pi 5/Pi 4 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-fast-launcher-downloads/"><u>The Ultimate Guide to Fast Launcher Downloads</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-zte-blade-a73-5g-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your ZTE Blade A73 5G Device</u></a></li>
+</ul></div>
 

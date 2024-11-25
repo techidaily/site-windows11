@@ -1,7 +1,7 @@
 ---
 title: How To Resolve Faulty Narration Function on Word (Windows)
-date: 2024-09-30T22:38:50.815Z
-updated: 2024-10-02T01:14:03.931Z
+date: 2024-11-22T18:23:16.703Z
+updated: 2024-11-25T01:59:45.029Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
  Read Aloud is a great productivity feature, especially when you want to give your eyes a break. You can have Word read the document for you starting from your cursor and even pause or skip forward and backward to re-listen to important parts.
 
  So it’s definitely inconvenient when Word’s Read Aloud feature stops working. If this happened to you, there’s no need to fret. We’ve put together a quick guide that will help you fix the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Restart Microsoft Word
 
@@ -45,14 +49,11 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
 
 ![Enable Word's read aloud feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-read-aloud-1.jpg)
 
- Now, the Read Aloud feature should be available in the **Review** tab, within the **Speech** menu.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Now, the Read Aloud feature should be available in the **Review** tab, within the **Speech** menu.
 
 ## 3\. Check Volume Mixer Settings
 
@@ -72,6 +73,14 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
 
 ![How to update Microsoft 365](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/update-microsoft365-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Repair the Word Doc
 
  If you notice the Read Aloud issue is limited to an individual document, there’s a chance you’re dealing with a corrupted Word doc. If possible, re-download the document or ask the sender for a different version.
@@ -84,14 +93,11 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
 
 ![How to repair a Word document](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/repair-doc-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Microsoft Word will now search and automatically fix any detected issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Repair Microsoft 365
 
@@ -108,13 +114,6 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
 
  If the Read Aloudfeature is still not working, go through the steps again and select **Online Repair**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Launch Word in Safe Mode
 
  Sometimes, add-ins might interfere with Word’s functionality and stop Read Aloud from working. To check if you’re dealing with a problematic add-in, launch Word in Safe Mode. Press **Windows key + R** to launch a Run dialog, type **winword / safe** and press **Enter**. Word will now open without any add-ins.
@@ -128,20 +127,6 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
 5. Then, re-enable the add-in one by one to identify which one is causing the issue.
 
 ![Manage word add-ins](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/word-addins-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Get Word Reading Your Docs Aloud
 
@@ -160,17 +145,18 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-transform-instagram-notifications-diy-sound-design/"><u>[Updated] In 2024, Transform Instagram Notifications DIY Sound Design</u></a></li>
-<li><a href="https://windows11.techidaily.com/deciphering-the-role-of-copilot-key-in-your-windows-11-pc/"><u>Deciphering the Role of Copilot Key in Your Windows 11 PC</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/1726029511721-dvd/"><u>DVDコピー保護対策に効果的なワザを学ぶ - ディスクの制限を取り除ける方法</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-learning-experience-winning-strategies-for-effective-windows-studying/"><u>Elevate Learning Experience: Winning Strategies for Effective Windows Studying</u></a></li>
-<li><a href="https://windows11.techidaily.com/enrich-your-windows-setup-with-personal-menus/"><u>Enrich Your Windows Setup with Personal Menus</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/get-back-to-battle-faster-expert-advice-on-fixing-slow-download-problems-with-lol/"><u>Get Back to Battle Faster: Expert Advice on Fixing Slow Download Problems with LoL</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-halt-unwanted-file-explorer-triggers/"><u>How to Halt Unwanted File Explorer Triggers</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Itel P55+? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/purpose-and-key-aspects-of-vcplusplus-distributions/"><u>Purpose & Key Aspects of VC++ Distributions</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-edit-videos-like-a-pro-on-mac-vn-video-editor-and-its-competitors/"><u>Updated 2024 Approved Edit Videos Like a Pro on Mac VN Video Editor and Its Competitors</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-the-ultimate-guide-to-hand-drawing-whiteboard-animation-software-for-2024/"><u>Updated The Ultimate Guide to Hand Drawing Whiteboard Animation Software for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-smart-unlock-hacked-is-it-safe-to-use/"><u>Windows Smart Unlock Hacked – Is It Safe to Use?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-unlocking-your-hp-laptops-full-screen-capture-capabilities/"><u>[Updated] 2024 Approved Unlocking Your HP Laptop's Full Screen Capture Capabilities</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-ace-10-budget-friendly-video-subtitle-grabs/"><u>2024 Approved Ace 10 Budget-Friendly Video Subtitle Grabs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-contrast-in-virtual-realm-highlights-and-low-points/"><u>2024 Approved The Contrast in Virtual Realm Highlights and Low Points</u></a></li>
+<li><a href="https://windows11.techidaily.com/boost-productivity-on-windows-by-adjusting-with-alomware/"><u>Boost Productivity on Windows by Adjusting with AlomWare</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-the-deadly-c0000022-breakdown-in-windows-10/"><u>Fixing the Deadly C0000022 Breakdown in Windows 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-successfully-upgrade-to-virtualbox-70-on-windows-11-pcs/"><u>How to Successfully Upgrade to VirtualBox 7.0 on Windows 11 PCs</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-accelerating-video-success-on-youtube-for-100kplus-views/"><u>In 2024, Accelerating Video Success on YouTube for 100K+ Views</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-the-windows-10-battery-report-tool-expert-insights-for-optimal-performance/"><u>Inside the Windows 10 Battery Report Tool: Expert Insights for Optimal Performance</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-microphone-errors-in-xbox-app-on-windows-11-systems/"><u>Navigating Microphone Errors in Xbox App on Windows 11 Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-android-usage-a-windows-11-webcam-setup/"><u>Optimizing Android Usage: A Windows 11 Webcam Setup</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/profiling-the-largest-blocs-of-francophone-populace/"><u>Profiling the Largest Blocs of Francophone Populace</u></a></li>
+<li><a href="https://fox-links.techidaily.com/tunetinker-tweaking-the-audio-map-for-2024/"><u>TuneTinker Tweaking the Audio Map for 2024</u></a></li>
 </ul></div>
 

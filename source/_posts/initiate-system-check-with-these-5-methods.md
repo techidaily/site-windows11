@@ -1,7 +1,7 @@
 ---
 title: Initiate System Check with These 5 Methods
-date: 2024-10-23T16:00:05.548Z
-updated: 2024-10-30T16:58:31.842Z
+date: 2024-11-18T02:48:22.586Z
+updated: 2024-11-24T18:36:26.967Z
 tags:
   - windows10
   - windows11
@@ -24,13 +24,6 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
 
  This is the easiest way to go about launching the Startup Repair tool on Windows. So we will lay out this method first.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Use the Windows 11 Settings App
 
  Here’s how you can do it on Windows 11:
@@ -44,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
  On the next boot-up of Windows, your PC will be launched in the **Windows Recovery Environmen**t. From there, click on **Troubleshoot > Advanced Options > Startup Repair**.
 
  And that’s it. As soon as you click on the above option, the Startup Repair tool will be launched right then and there.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Use the Windows 10 Settings App
 
@@ -73,13 +59,14 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
 
 ![advanced options on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/advanced-options-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Startup Repair tool will be launched from here.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Run the Startup Repair From BIOS
@@ -95,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
 
  The Startup Repair tool will be launched from here, and it will look up and fix any issues it finds on your Windows computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Use the Command Prompt
 
  The Command Prompt is a free Windows utility that lets you manage your Windows settings and things in a way that makes using Windows a breeze.
@@ -107,6 +98,10 @@ shutdown /r /o
 
 ![windows cmd](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-cmd.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As soon as you hit **Enter**, your PC will be restarted in the **Advanced Startup Options** menu; you can then select the **Startup Repair** option from there.
 
 ## 5\. Use the F11 Shortcut Key During Boot
@@ -114,10 +109,7 @@ shutdown /r /o
  Sometimes, simply hitting the **F11** key repeatedly during the boot-up can take you to the **Advanced Options** menu on many computers. So, make sure you give this a go as well. From there, you can easily access the **Windows Startup Options** tool.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Opening the Startup Repair Tool on a Windows PC
@@ -135,20 +127,16 @@ shutdown /r /o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-digital-dexterity-fine-tuning-funny-videos-for-facebook-and-insta-laughs/"><u>[New] 2024 Approved Digital Dexterity Fine-Tuning Funny Videos for Facebook and Insta Laughs</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-seamless-channel-transitions-with-customized-end-screens/"><u>[New] In 2024, Seamless Channel Transitions with Customized End Screens</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-speech-transcription-made-simple-utilizing-text-conversion-functionality-of-ms-word/"><u>[New] In 2024, Speech Transcription Made Simple Utilizing Text Conversion Functionality of MS Word</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-quick-start-to-mastering-io-screen-recording/"><u>2024 Approved Quick Start to Mastering IO Screen Recording</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-infinix-hot-30-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Infinix Hot 30 5G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-successfully-retry-failed-application-downloads-on-marketplace/"><u>How To Successfully Retry Failed Application Downloads on Marketplace</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-y27-4g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo Y27 4G Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/latest-fixes-for-optimizing-minecraft-performance-say-goodbye-to-lag/"><u>Latest Fixes for Optimizing Minecraft Performance: Say Goodbye to Lag</u></a></li>
-<li><a href="https://windows11.techidaily.com/lock-screen-after-how-long-on-windows/"><u>Lock Screen After How Long on Windows?</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/manage-your-disk-space-wisely-a-guide-on-turning-on-and-off-trim-feature-in-modern-windows-os/"><u>Manage Your Disk Space Wisely: A Guide on Turning On & Off Trim Feature in Modern Windows OS</u></a></li>
-<li><a href="https://win-blog.techidaily.com/movavi-cambia-facilmente-file-mp4-in-mov-online-e-liberamente/"><u>Movavi: Cambia Facilmente File MP4 in MOV Online E Liberamente!</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-windows-to-confirm-disk-type/"><u>Navigating Windows to Confirm Disk Type</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-stubbornness-in-windows-ui-elements/"><u>Overcoming Stubbornness in Windows UI Elements</u></a></li>
-<li><a href="https://windows11.techidaily.com/pioneer-windows-delving-into-upcoming-features-via-vivetool/"><u>Pioneer Windows: Delving Into Upcoming Features via ViVeTool</u></a></li>
-<li><a href="https://windows11.techidaily.com/reimagined-user-support-in-new-windows-release/"><u>Reimagined User Support in New Windows Release</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-the-route-to-richer-tiktok-bios-including-linktree-links/"><u>[New] The Route to Richer TikTok Bios Including Linktree Links</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-vuephoto-ai-powered-editing-for-2024/"><u>[New] VuePhoto AI-Powered Editing for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-logic-x-lore-guides-to-creating-crossfading-audio-for-2024/"><u>[Updated] Logic X Lore Guides to Creating Crossfading Audio for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-turnout-videos-backwards-easily-on-android/"><u>2024 Approved Turnout Videos Backwards Easily on Android</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-up-blank-login-issues-on-win1011-pcs/"><u>Clearing Up Blank Login Issues on WIN10/11 PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-strategies-for-effortless-integration-of-directories-win-11/"><u>Expert Strategies for Effortless Integration of Directories, Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/fast-factor-essential-steps-for-assessing-lan-router-speed/"><u>Fast Factor: Essential Steps for Assessing LAN Router Speed</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-nokia-c32-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Nokia C32</u></a></li>
+<li><a href="https://blog-min.techidaily.com/seamless-conversion-guide-transforming-trp-files-into-quicktime-format/"><u>Seamless Conversion Guide: Transforming TRP Files Into QuickTime Format</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-overcome-error-0x800700e1-in-windows-11/"><u>Techniques to Overcome Error 0X800700E1 in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11s-upcoming-moment-anticipated-new-features/"><u>Windows 11'S Upcoming Moment: Anticipated New Features</u></a></li>
 </ul></div>
 

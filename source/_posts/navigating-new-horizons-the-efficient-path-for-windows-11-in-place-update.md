@@ -1,7 +1,7 @@
 ---
 title: "Navigating New Horizons: The Efficient Path for Windows 11, In-Place Update"
-date: 2024-10-24T17:01:28.867Z
-updated: 2024-10-30T17:20:34.418Z
+date: 2024-11-19T02:48:08.319Z
+updated: 2024-11-24T20:08:28.675Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/5b41f1296863a8cc22d3a2c3dbb979d19c4362b2b
  Microsoft offers the option to repair or reset your Windows PC from Windows 8 onwards. Before that, you needed an installation media (DVD or USB) to format your system. But what if you don’t want to create an installation media and wipe out everything on your system just to upgrade to a newer Windows version? Well, that’s where Microsoft’s in-place upgrade can help you.
 
  We will elaborate on what exactly is an in-place upgrade and how it differs from a clean installation of Windows 11\. Moreover, you will learn about the detailed method to perform the upgrade if the need arises.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is an In-Place Upgrade on Windows?
 
@@ -38,27 +42,17 @@ thumbnail: https://thmb.techidaily.com/5b41f1296863a8cc22d3a2c3dbb979d19c4362b2b
 * Remove all external peripherals.
 * Ensure fast internet connectivity.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Perform an In-Place Upgrade on Windows 11
 
  To perform an in-place upgrade, you need to do two things. Firstly, you need to download the latest Windows 11 ISO file. Then, you need to run the setup from the ISO file, pick the appropriate in-place upgrade option, and proceed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Download the Windows 11 ISO Image File
 
  First of all, you need to grab the Windows 11 ISO image file. If you don't already have one on hand, check out[how to download a Windows ISO without the Media Creation tool](https://www.makeuseof.com/windows-iso-direct-download/) for some easy methods.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Perform an In-Place Upgrade Using the Windows11 ISO Image File
 
@@ -75,33 +69,25 @@ thumbnail: https://thmb.techidaily.com/5b41f1296863a8cc22d3a2c3dbb979d19c4362b2b
 ![Keep all your files and app in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/keep-all-your-files-and-app-in-windows-11.jpg)
 2. The setup will begin installing a new copy of Windows 11\. If you have an SSD, the installation won’t take more than 15 minutes. Your system will restart multiple times during this process.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Windows 11 Installation Phase](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-11-installation-phase.jpg)
 3. After the setup finishes installing updates, it will redirect you to the login screen.**Input** your password and press the**Enter** key to continue.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Installing Updates in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/installing-updates-in-windows-11.jpg)
 4. Wait for the setup to prepare your system for the first boot. You will automatically enter the desktop.
 
-5. Check your installed apps list, personal files, and settings. Everything will pretty much be the same.
-
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Check your installed apps list, personal files, and settings. Everything will pretty much be the same.
 
 ## Don’t Reset Windows 11 Before Trying an In-Place Upgrade
 
@@ -122,19 +108,19 @@ thumbnail: https://thmb.techidaily.com/5b41f1296863a8cc22d3a2c3dbb979d19c4362b2b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/updated-chucklecrafts-join-and-start-crafting-laughter/"><u>[Updated] ChuckleCrafts Join and Start Crafting Laughter</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/d-the-lens-innovative-ideas-for-youtube-video-creation/"><u>Beyond the Lens Innovative Ideas for YouTube Video Creation</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721479268047-can-iphone-save-images-in-the-cloud-post-deletion-top-8-solutions/"><u>Can iPhone Save Images in the Cloud Post-Deletion? Top 8 Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/decreasing-resource-consumption-handling-unrealcefsubprocess-in-windows/"><u>Decreasing Resource Consumption: Handling UnrealCEFSubprocess in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/eradicate-save-location-errors-in-windows-versions/"><u>Eradicate Save Location Errors in Windows Versions</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-add-live-wallpapers-to-windows-11s-desktop-with-lively-wallpaper/"><u>How to Add Live Wallpapers to Windows 11’S Desktop With Lively Wallpaper</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/in-depth-samsung-galaxy-watch-7-evaluation-outstanding-smartwatch-performance-with-minor-hiccups/"><u>In-Depth Samsung Galaxy Watch 7 Evaluation: Outstanding Smartwatch Performance with Minor Hiccups</u></a></li>
-<li><a href="https://windows11.techidaily.com/lowering-memory-usage-enhancing-platform-user-service-efficiency/"><u>Lowering Memory Usage: Enhancing Platform User Service Efficiency</u></a></li>
-<li><a href="https://windows11.techidaily.com/smooth-sailing-in-the-web-world-keeping-your-connection-steady/"><u>Smooth Sailing in the Web World: Keeping Your Connection Steady</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/solving-dvd-issues-with-macxdvd-tools-and-guides/"><u>Solving DVD Issues with MacXDVD Tools and Guides</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-mend-windows-11-assistive-tool/"><u>Strategies to Mend Windows 11 Assistive Tool</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-to-correct-failed-ui-module-load-in-steam/"><u>Tips to Correct Failed UI Module Load in Steam</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-prime-day-tech-bargains-exclusive-october-2024-laptops-on-sale-discovered-by-zdnet/"><u>Top Prime Day Tech Bargains: Exclusive October 2024 Laptops on Sale - Discovered by ZDNet</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-premier-data-syncing-apps-expertly-curated-selections/"><u>Windows' Premier Data Syncing Apps: Expertly Curated Selections</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/7x-plus-y-19/"><u> [7X + Y = -19 </u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-inside-the-innovative-world-of-kinemaster-your-android-game-companion/"><u>[New] 2024 Approved Inside the Innovative World of KineMaster - Your Android Game Companion</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-the-ultimate-list-of-livestream-streaming-strategies/"><u>[New] In 2024, The Ultimate List of Livestream Streaming Strategies</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-reimagined-review-sonys-s6700-overhaul/"><u>[Updated] Reimagined Review Sony's S6700 Overhaul</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-tailoring-your-videos-for-impact-on-instagram-feed/"><u>[Updated] Tailoring Your Videos for Impact on Instagram Feed</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-secure-your-travel-documents-grab-10-free-passport-photos-onlinedesktop/"><u>2024 Approved Secure Your Travel Documents Grab 10 FREE Passport Photos Online/Desktop</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-windowed-app-movement-windows-task-managing-tips/"><u>Avoiding Windowed App Movement: Windows Task Managing Tips</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/exclusive-the-leading-five-fb-videos-for-2024/"><u>Exclusive The Leading Five FB Videos for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-unauthorized-geforce-setting-error-on-modern-windows-versions/"><u>Fixing Unauthorized GeForce Setting Error on Modern Windows Versions</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-winxps-notorious-error-0x80300024/"><u>Fixing WinXP's Notorious Error 0X80300024</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-overcome-java-vm-not-found-on-pc/"><u>How to Overcome Java VM Not Found On PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-rectify-winscomrssvdll-errors-in-windows-os/"><u>How to Rectify WinscomrssvDLL Errors in Windows OS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-ai-transformations-in-employment-top-six-methods-to-flourish-and-excel/"><u>Navigating AI Transformations in Employment: Top Six Methods to Flourish and Excel</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcome-stubborn-windows-terminals-a-step-by-step-guide/"><u>Overcome Stubborn Windows Terminals: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

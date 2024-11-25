@@ -1,7 +1,7 @@
 ---
 title: Preserving Default Time on Windows PCs
-date: 2024-10-28T16:03:39.838Z
-updated: 2024-10-30T16:32:27.656Z
+date: 2024-11-23T23:18:29.959Z
+updated: 2024-11-24T16:02:58.509Z
 tags:
   - windows10
   - windows11
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 
  You’re using your Windows device and notice something strange in the date and time settings. Someone has changed the settings without your knowledge or permission. This makes it difficult to stay on schedule with tasks and activities. In this guide, we’ll show how to stop anonymous users from changing date and time settings on Windows computers.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How To Prevent Users From Changing the Date and Time on Windows
 
  There are two ways to prevent users from changing Windows date and time. The first is to use Group Policy Editor, a system administration tool designed to control computer behavior in an organization. While the second way is to use Registry Editor, which allows you to modify Windows registry settings.
@@ -25,10 +29,7 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
  For both methods, you need administrative access to the computer to change it. Once you’ve made the changes, nobody can alter the date and time settings. Let’s look at each method in more detail.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Use the Group Policy Editor
@@ -48,10 +49,7 @@ Computer Configuration > Administrative Templates > System > Locale Services
 5. In the pop-up window, check the **Enabled** radio button.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Then click **Apply** \> **OK** to save the changes.
@@ -80,10 +78,7 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Control Panel\International\
 8. In the pop-up window, change the Value data to **1** and click **OK**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you’ve made the changes, close the Registry Editor window and restart your computer.
@@ -91,10 +86,7 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Control Panel\International\
  To undo this restriction, delete the **PreventUserOverrides** DWORD value from the registry or change the value to **0**. Doing so will enable users to change the time and date again.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stop Windows Time and Date Changes
@@ -110,16 +102,19 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Control Panel\International\
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-detailed-insights-into-camstudio-capture-functionality/"><u>[Updated] 2024 Approved Detailed Insights Into CamStudio Capture Functionality</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-integrating-voices-into-videos-effectively/"><u>[Updated] Integrating Voices Into Videos Effectively</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/best-tecno-spark-20-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Tecno Spark 20 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://windows11.techidaily.com/customizing-security-a-comprehensive-guide-to-lock-patterns-in-windows-11/"><u>Customizing Security: A Comprehensive Guide to Lock Patterns in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-onedrive-login-hiccup-zero-based-code-error-on-win11/"><u>Fixing OneDrive Login Hiccup: Zero-Based Code Error on Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-looks-like-youre-stranded-xbox-app-error-in-windows-11-and-11/"><u>How to Fix the “Looks Like You’re Stranded” Xbox App Error in Windows 11 & 11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-find-n3-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Oppo Find N3 Location by Number | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/leveraging-social-media-5-pathways-to-earn-more/"><u>Leveraging Social Media: 5 Pathways to Earn More</u></a></li>
-<li><a href="https://windows11.techidaily.com/master-windows-performance-with-extended-display-setup/"><u>Master Window's Performance With Extended Display Setup</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-digital-marketing-triumphs-for-2024/"><u>The Ultimate Guide to Digital Marketing Triumphs for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/twitter-video-viral-2024/"><u>Twitter Video Viral 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-rhythmic-explorations-the-essential-15-videos-for-musicians/"><u>[New] In 2024, Rhythmic Explorations The Essential 15 Videos for Musicians</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-swiftly-overcome-video-send-errors-in-facebook-chat-for-iphones-android/"><u>[New] In 2024, Swiftly Overcome Video Send Errors in Facebook Chat for iPhones, Android</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-a-step-by-step-approach-to-rl-streaming/"><u>[Updated] A Step-by-Step Approach to RL Streaming</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-illuminating-images-techniques-in-color-science/"><u>[Updated] Illuminating Images Techniques in Color Science</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/5ywo55s75yop5asj5oplusb5asx5pwx44gu55cg55sx44ks55m66kal44gx44cb44op44oz44oj44ow44os44kk44kv44gn5aplusplus5yem44gz44kl5pa55rov/"><u>全画像変換失敗の理由を発見し、ハンドブレイクで対処する方法</u></a></li>
+<li><a href="https://windows11.techidaily.com/analyzing-how-windows-11-fuels-microsofts-earnings/"><u>Analyzing How Windows 11 Fuels Microsoft's Earnings</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/capturing-your-workspace-a-step-by-step-screenrec-guide/"><u>Capturing Your Workspace A Step-by-Step ScreenRec Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/ensure-office-applications-open-email-attachments-as-text-only-by-design/"><u>Ensure Office Applications Open Email Attachments as Text Only by Design</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-g310-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on G310?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-infinix-note-30-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Infinix Note 30 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://windows11.techidaily.com/redefine-reviving-with-modern-os-alternatives/"><u>Redefine Reviving with Modern OS Alternatives</u></a></li>
+<li><a href="https://windows11.techidaily.com/reduce-clutter-increase-efficiency-one-antivirus-rule/"><u>Reduce Clutter, Increase Efficiency: One Antivirus Rule!</u></a></li>
+<li><a href="https://windows11.techidaily.com/revolutionizing-ui-adding-cli-functionality-to-taskmgr-in-win11/"><u>Revolutionizing UI: Adding CLI Functionality to TaskMgr in Win11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-poco-m6-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Poco M6 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 </ul></div>
 

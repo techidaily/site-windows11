@@ -1,7 +1,7 @@
 ---
 title: "Windows Writers' Choice: Best Sticky Note Software Alternatives"
-date: 2024-11-10T16:27:43.837Z
-updated: 2024-11-15T17:18:01.548Z
+date: 2024-11-23T20:09:49.522Z
+updated: 2024-11-24T16:00:54.943Z
 tags:
   - windows10
   - windows11
@@ -34,10 +34,7 @@ thumbnail: https://thmb.techidaily.com/d9580a0fe0d295d2fe4ac5bc754f7348af6d4884b
 ![stickies app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/stickies-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The goal of a note-taking app is to simplify and not clutter. As such, an app with a clean, minimalist design is a perfect fit for the job, which will help you stay focused on your tasks.
@@ -48,13 +45,25 @@ thumbnail: https://thmb.techidaily.com/d9580a0fe0d295d2fe4ac5bc754f7348af6d4884b
 
 **Download:**[Stickies](https://www.zhornsoftware.co.uk/stickies/download.html) (Free)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Windows Sticky Notes
 
 ![sticky notes for windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/sticky-notes-for-windows.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  No list of note-taking apps will be complete without the original Sticky Notes. The app has been going strong since its release back in 2002, with its last update on August 7, 2019\. If nothing else, you won't have to worry about stability, that's for sure.
 
 ![sticky notes app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/sticky-notes-app.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Some apps are designed with a specific use case in mind. There are, for example, [special note-taking apps intended specifically for programmers](https://www.makeuseof.com/tag/best-note-taking-tools-programmers/). Similarly, Sticky Notes is your go-to option for a note-taking app if you're more of a creative person.
 
@@ -65,10 +74,7 @@ thumbnail: https://thmb.techidaily.com/d9580a0fe0d295d2fe4ac5bc754f7348af6d4884b
 **Download:**[Windows Sticky Notes](http://www.microsoft.com/en-us/p/microsoft-sticky-notes/9nblggh4qghw) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Notezilla
@@ -82,13 +88,6 @@ thumbnail: https://thmb.techidaily.com/d9580a0fe0d295d2fe4ac5bc754f7348af6d4884b
  The app is available for free. And if you go on to develop a liking for this sticky notes app, you can also get the paid version from [Conceptworld](http://www.conceptworld.com/Notezilla/BuyNow) with either a one-year subscription at $19.95 or a lifetime one-off purchase at $29.95\.
 
 **Download:**[Notezilla](http://www.conceptworld.com/Notezilla/download) (Free, Premium version available)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. 7 Sticky Notes
 
@@ -112,25 +111,11 @@ thumbnail: https://thmb.techidaily.com/d9580a0fe0d295d2fe4ac5bc754f7348af6d4884b
 
 **Download:**[7 Sticky Notes](http://www.7stickynotes.com/download.php) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Hott Notes
 
  This is probably the best all-around sticky note app for the desktop. It's simpler to set up than 7 Sticky Notes, while offering humorous commentary as you install it.
 
 ![hott notes installation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/hott-notes-installation.PNG)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It also has global hotkeys that allow you to start a note from anywhere, and it allows you to customize what double-clicking the icon in the notification tray will do. That's a small tweak, but super helpful.
 
@@ -148,31 +133,11 @@ thumbnail: https://thmb.techidaily.com/d9580a0fe0d295d2fe4ac5bc754f7348af6d4884b
 
 **Download:**[Hott Notes](http://www.hottnotes.com/) (Free)
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 6\. Sticky Notes 8
 
  One of the most popular options out there, Sticky Notes 8 is a must-see. You can choose between a few colors of notes, but there's nowhere near the customizability as some of the desktop apps for font size, color, etc. For some reason, all modern apps lag behind desktop apps in terms of features.
 
 ![sticky-notes-8-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/09/sticky-notes-8-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Ads are displayed within this free app (that is what the gray note above is), but they can be removed for $1.50\. Since ads can be moved out of the way, and you can even place other notes over top of them, they're not such a big deal.
 
@@ -190,23 +155,32 @@ thumbnail: https://thmb.techidaily.com/d9580a0fe0d295d2fe4ac5bc754f7348af6d4884b
 
 ![sticky-tiles-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/09/sticky-tiles-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When you open the app, you're immediately prompted to give a title and information for the Live Tile, choose the color, choose the style, and then pin it. It has the same three sizes as the others—small, medium, and wide—and you'll run into the same problem of limited space for text here.
 
 ![sticky-tiles-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/09/sticky-tiles-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Tapping on the Live Tile will open the note up for editing, without allowing you to create additional notes or view multiple at a time.
 
 ![sticky-tiles-3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/09/sticky-tiles-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It's not great for those who want to juggle dozens of notes, but for keeping a single pertinent note on your Start Screen, it's probably your best bet for a sticky notes app.
 
 **Download:**[Sticky Tiles](https://apps.microsoft.com/store/detail/sticky-tiles/9WZDNCRFJ1RP) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. StickyPad
@@ -239,22 +213,18 @@ thumbnail: https://thmb.techidaily.com/d9580a0fe0d295d2fe4ac5bc754f7348af6d4884b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-digital-memory-management-saving-snaps-from-social-platforms/"><u>[New] 2024 Approved Digital Memory Management Saving Snaps From Social Platforms</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-creating-a-memorable-tiktok-end-credits/"><u>[Updated] Creating a Memorable TikTok End Credits</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-sharing-tactics-igtv-for-a-larger-fb-audience/"><u>[Updated] Sharing Tactics IGTV for a Larger FB Audience</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-green-thumbs-up-the-best-farming-titles-for-group-playtime/"><u>2024 Approved Green Thumbs Up The Best Farming Titles for Group Playtime</u></a></li>
-<li><a href="https://extra-information.techidaily.com/adding-value-with-recommendations/"><u>Adding Value with Recommendations</u></a></li>
-<li><a href="https://windows11.techidaily.com/expose-the-invisible-uncover-windows-11s-concealed-settings/"><u>Expose the Invisible: Uncover Windows 11'S Concealed Settings</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-non-functioning-logitech-g933-microphone-troubleshooting-guide/"><u>How to Fix a Non-Functioning Logitech G933 Microphone: Troubleshooting Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-reactivate-a-frozen-qbittorrent-tracker/"><u>How to Reactivate a Frozen qBittorrent Tracker</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-unlock-customized-soundscape-in-ps4ps5-games/"><u>In 2024, Unlock Customized Soundscape in PS4/PS5 Games</u></a></li>
-<li><a href="https://windows11.techidaily.com/mending-the-could-not-call-runtime-problem-in-malwarebytes-windows/"><u>Mending the Could Not Call Runtime Problem in Malwarebytes Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/reverting-lost-presets-for-win-11-sleep-mode/"><u>Reverting Lost Presets for Win 11 Sleep Mode</u></a></li>
-<li><a href="https://windows11.techidaily.com/running-the-troubleshooter-in-windows-settings/"><u>Running the Troubleshooter in Windows Settings</u></a></li>
-<li><a href="https://windows11.techidaily.com/scripting-changes-to-fn-key-settings-in-win-1011/"><u>Scripting Changes to FN Key Settings in Win 10/11</u></a></li>
-<li><a href="https://driver-download.techidaily.com/swift-installation-guide-rs232-from-usb-drivers/"><u>Swift Installation Guide: RS232 From USB Drivers</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-choosing-between-snipping-tool-and-printscreen/"><u>The Ultimate Guide to Choosing Between Snipping Tool and PrintScreen</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-5-iphone-x-compatible-backdrop-change-tools-for-2024/"><u>Top 5 iPhone X-Compatible Backdrop Change Tools for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/understanding-and-fixing-winscomrssvdll-errors-in-windows-78/"><u>Understanding and Fixing WinscomrssvDll Errors in Windows 7/8</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-full-screen-mastery-for-premier-pro-users/"><u>[New] In 2024, Full Screen Mastery for Premier Pro Users</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-instant-visualization-techniques-for-timestamp-implementation-for-2024/"><u>[New] Instant Visualization Techniques for Timestamp Implementation for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-master-plan-top-6-modernist-minecraft-villas/"><u>[New] Master Plan Top 6 Modernist Minecraft Villas</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/centralize-your-online-data-effortlessly-link-and-control-various-cloud-drives-using-multcloud/"><u>Centralize Your Online Data: Effortlessly Link and Control Various Cloud Drives Using MultCloud</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-perfecting-images-slideshow-and-fix-in-windows-11-photos-app/"><u>Guide to Perfecting Images: Slideshow & Fix in Windows 11 Photos App</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-reinstating-original-size-for-win-11-icons/"><u>Guide to Reinstating Original Size for Win 11 Icons</u></a></li>
+<li><a href="https://windows11.techidaily.com/immediate-actions-for-non-displayed-windows-sign-ins/"><u>Immediate Actions for Non-Displayed Windows Sign-Ins</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-samsung-galaxy-f54-5g-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Samsung Galaxy F54 5G Phone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-master-the-art-of-garnering-more-facebook-fans/"><u>In 2024, Master the Art of Garnering More Facebook Fans</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/quick-fixes-for-hulu-error-code-p-dev323-get-uninterrupted-viewing-asap/"><u>Quick Fixes for Hulu Error Code P-DEV323 - Get Uninterrupted Viewing ASAP!</u></a></li>
+<li><a href="https://windows11.techidaily.com/simplifying-the-process-anydesk-fixes-for-windows-users/"><u>Simplifying the Process: AnyDesk Fixes for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/syncing-files-across-mobile-platforms-to-windows/"><u>Syncing Files Across Mobile Platforms to Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/tweaking-netconfigs-windows-11-edition/"><u>Tweaking NetConfigs: Windows 11 Edition</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Strategies to Avoid Frozen Game Launchers
-date: 2024-10-29T16:08:39.910Z
-updated: 2024-10-30T16:29:07.543Z
+date: 2024-11-19T23:14:23.938Z
+updated: 2024-11-25T02:17:11.336Z
 tags:
   - windows10
   - windows11
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5
 3. Click the **End task** option at the top.  
 ![Close Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/close-epic-games-launcher.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Reopen the Epic Games Launcher and try using it.
 
 ## 2\. Run Epic Games Launcher as an Administrator
@@ -42,14 +46,11 @@ thumbnail: https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5
 
 ![Run Epic Games Launcher as Admin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/run-epic-games-launcher-as-admin.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If this method gets Epic Games Launcher to operate smoothly, you can configure it to [always run as an administrator on Windows](https://www.makeuseof.com/tag/ways-to-run-a-program-as-administrator-in-windows/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Check the Epic Games Server Status
 
@@ -67,17 +68,7 @@ thumbnail: https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5
 ![Restart & Update option in Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/restart-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Disable Fullscreen Optimizations
@@ -90,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5
 4. Clear the **Disable fullscreen optimizations** checkbox.
 5. Hit **Apply** followed by **OK**.  
 ![Disable Fullscreen Optimizations for Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-fullscreen-optimizations-for-epic-games-launcher.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Clear the Epic Games Launcher’s Webcache Folder
 
@@ -104,19 +99,6 @@ thumbnail: https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5
 5. Locate and select **webcache** folders.
 6. Click the **trash icon** at the top to delete them.  
 ![Delete Epic Games Launcher Cache](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/delete-epic-games-launcher-cache.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Fix the D3DCOMPILER\_43.dll File
 
@@ -142,13 +124,14 @@ thumbnail: https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5
 6. Select **Yes** when the User Account Control (UAC) prompt shows up.  
 ![Repair Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/repair-epic-games-launcher.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Follow the on-screen instructions to repair the launcher and try using it again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Reinstall the Epic Games Launcher
@@ -163,13 +146,6 @@ thumbnail: https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5
 
 * **Update Graphics Driver:** Outdated or defective graphics drivers can also be the cause of such problems. Try [updating the graphics driver on your PC](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) to see if that resolves the issue.
 * **Scan for Malware:** If you are experiencing similar issues with other apps and programs as well, your PC may be infected with malware. To check for this possibility, [scan your Windows PC for malware](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/) and take the necessary steps to fix it.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fixing Epic Games Launcher Crashes on Windows
 
@@ -187,22 +163,22 @@ thumbnail: https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-how-to-add-animated-text-to-instagram-story/"><u>[New] How to Add Animated Text to Instagram Story</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-a-comprehensive-guide-to-high-quality-laptop-recordings/"><u>[New] In 2024, A Comprehensive Guide to High-Quality Laptop Recordings</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-quadcopters-unveiled-their-intricate-workings-revealed-for-2024/"><u>[Updated] Quadcopters Unveiled Their Intricate Workings Revealed for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/295380--buddhism-for-busy-people-2nd-ed/"><u>Buddhism for Busy People (2nd ed.) | Free Book</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comprehensive-list-of-apple-watch-models-compatible-with-watchos-11-whats-new-and-unsupported/"><u>Comprehensive List of Apple Watch Models Compatible with WatchOS 11: What's New and Unsupported?</u></a></li>
-<li><a href="https://windows11.techidaily.com/expert-guide-to-interpreting-system-messages-with-microsoft-on-w11/"><u>Expert Guide to Interpreting System Messages with Microsoft on W11</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On HTC U23 Pro | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/master-the-art-of-device-naming-without-conflicts-in-windows-pcs/"><u>Master the Art of Device Naming without Conflicts in Windows PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigate-with-speed-using-the-taskbars-search-in-windows-11/"><u>Navigate with Speed: Using the Taskbar's Search in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-new-horizons-the-efficient-path-for-windows-11-in-place-update/"><u>Navigating New Horizons: The Efficient Path for Windows 11, In-Place Update</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-cure-to-steams-online-connectivity-problems/"><u>Quick Cure to Steam's Online Connectivity Problems</u></a></li>
-<li><a href="https://fox-within.techidaily.com/solutions-detaillees-pour-les-cartes-sd-non-reconnues-par-windows-10-guerir-votre-probleme/"><u>Solutions Détaillées Pour Les Cartes SD Non Reconnues Par Windows 10 - Guérir Votre Problème</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-for-inspecting-a-pc-for-hidden-spyware/"><u>Steps for Inspecting a PC for Hidden Spyware</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-non-opening-fixes-for-double-click-failures-in-w10w11/"><u>Tackling Non-Opening: Fixes for Double-Click Failures in W10/W11</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/iques-for-swiftly-cleaning-your-youtube-buffered-queue/"><u>Techniques for Swiftly Cleaning Your YouTube Buffered Queue</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-windows-11-default-application-issues/"><u>Troubleshooting Windows 11 Default Application Issues</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/ultimate-unboxing-logitechs-professional-4k-pro-webcam-for-2024/"><u>Ultimate Unboxing Logitech's Professional 4K Pro Webcam for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-precision-planning-of-collaborative-slack-plus-filmora-meetings/"><u>[Updated] 2024 Approved Precision Planning of Collaborative Slack + Filmora Meetings</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-top-2-ios-video-editors-compared-cameo-versus-filmorago/"><u>[Updated] 2024 Approved Top 2 iOS Video Editors Compared Cameo Versus FilmoraGo</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-user-interface-fastest-uninstall-actions-with-context/"><u>Elevate User Interface: Fastest Uninstall Actions with Context</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/enhancing-campaign-performance-with-targeted-hash-tags-for-fb-ads/"><u>Enhancing Campaign Performance with Targeted Hash Tags for FB Ads</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-retrieving-your-location-history-from-an-iphone-or-ipad/"><u>Guide: Retrieving Your Location History From an iPhone or iPad</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-14-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 14 without Passcode</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-samsung-galaxy-s21-fe-5g-2023-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Samsung Galaxy S21 FE 5G (2023) Devices</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-top-tier-gaming-live-broadcast-tools/"><u>In 2024, Top-Tier Gaming Live Broadcast Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/is-windows-11-running-slow-or-lagging-on-your-computer-7-ways-to-fix-it/"><u>Is Windows 11 Running Slow or Lagging on Your Computer? 7 Ways to Fix It</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-past-the-activation-hurdle-in-microsoft-office/"><u>Navigating Past the Activation Hurdle in Microsoft Office</u></a></li>
+<li><a href="https://windows11.techidaily.com/pc-files-on-ios-via-smb-share-connection/"><u>PC Files on iOS via SMB Share Connection</u></a></li>
+<li><a href="https://windows11.techidaily.com/secrets-to-savings-on-windows-10-key-focused-strategies/"><u>Secrets to Savings on Windows 10: Key-Focused Strategies</u></a></li>
+<li><a href="https://windows11.techidaily.com/swift-file-scooping-6-routes-to-data-secrets/"><u>Swift File Scooping: 6 Routes to Data Secrets</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-the-no-sync-option-on-steam-library-error/"><u>Tackling the No Sync Option on Steam Library Error</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-risks-of-removing-bloatware-from-your-pc-better-solutions-for-a-streamlined-experience-with-insights-by-gadgetguru/"><u>The Risks of Removing Bloatware From Your PC - Better Solutions for a Streamlined Experience with Insights by GadgetGuru</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/uniting-conversations-across-platforms-twitter-vids-on-whatsapp-for-2024/"><u>Uniting Conversations Across Platforms Twitter Vids on WhatsApp for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-reimagined-make-it-mirror-macos-style-in-5-easy-ways/"><u>Windows Reimagined: Make It Mirror macOS Style in 5 Easy Ways</u></a></li>
 </ul></div>
 

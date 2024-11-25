@@ -1,7 +1,7 @@
 ---
 title: "Mastering Admin Access: Unlocking Windows Control Panel"
-date: 2024-11-13T17:39:11.150Z
-updated: 2024-11-15T16:00:26.132Z
+date: 2024-11-19T20:43:00.464Z
+updated: 2024-11-24T17:02:04.502Z
 tags:
   - windows10
   - windows11
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to open the Control Panel as an Administrator through Run Command
 
  The Control Panel is a powerful tool for managing Windows settings and making changes to your computer. However, if you intend to use it with administrator privileges, the Run dialog box is the way to go. This is how you do it.
@@ -30,15 +34,17 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 1. Right-click on Start and select**Run** or press**Win + I** on your keyboard. The Run dialog box will open.  
 ![Open Control Panel Using Run Dialog Box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-control-panel-using-run-dialog-box.jpg)
 2. Type**control** or**control panel** in the search box and press**Ctrl + Shift + Enter** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. If User Account Control (UAC) pops up on your screen, click**Yes** to allow access.
 
  This will open up the Control Panel with elevated privileges so that you can make changes effectively and safely. And while we're at it, did you know there are many[ways to open the Control Panel on Windows](https://www.makeuseof.com/windows-11-open-control-panel/) ?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. How to Open the Control Panel as an Administrator With a Desktop Shortcut
@@ -51,10 +57,7 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 C:\WINDOWS\system32\control.exe
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. You now need to name your shortcut (Control Panel) and click**Finish** . Once you’ve created the shortcut, it will be placed on your desktop.  
@@ -62,10 +65,7 @@ C:\WINDOWS\system32\control.exe
 4. Next, right-click on the shortcut and select**Properties** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. On the Shortcut tab, click on**Advanced** .
@@ -73,13 +73,6 @@ C:\WINDOWS\system32\control.exe
 7. Also, click**Apply > OK** in the Properties window.
 
  Now, whenever you need to access an elevated Control Panel, simply double-click on it.
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Get the Most Out of Elevated Control Panel
 
@@ -100,24 +93,24 @@ C:\WINDOWS\system32\control.exe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-hooking-audience-early-with-smart-intros/"><u>[New] Hooking Audience Early with Smart Intros</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-cutting-edge-video-meeting-techniques-on-slack-plus-filmora/"><u>[Updated] Cutting-Edge Video Meeting Techniques on Slack + Filmora</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-unlocking-the-secrets-to-outstanding-documentary-storytelling-for-2024/"><u>[Updated] Unlocking the Secrets to Outstanding Documentary Storytelling for 2024</u></a></li>
-<li><a href="https://win-data.techidaily.com/1-problemlos-migrieren-sie-ihre-daten-auf-einen-neuen-galaxy-handy/"><u>1. Problemlos Migrieren Sie Ihre Daten Auf Einen Neuen Galaxy-Handy</u></a></li>
-<li><a href="https://solve-help.techidaily.com/copy-and-convert-your-dvds-effortlessly-with-winx-dvd-ripper-pro-for-windows-10-users/"><u>Copy & Convert Your DVDs Effortlessly with WinX DVD Ripper Pro for Windows 10 Users</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-change-itel-p55t-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Itel P55T Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-enable-or-disable-the-smartscreen-filter-in-windows-10-and-11/"><u>How to Enable or Disable the SmartScreen Filter in Windows 10 & 11</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-your-ultimate-manual-for-opting-into-youtube-premium/"><u>In 2024, Your Ultimate Manual for Opting Into YouTube Premium</u></a></li>
-<li><a href="https://windows11.techidaily.com/microsoft-store-troubleshoot-guide-for-error-x80072f30/"><u>Microsoft Store Troubleshoot Guide for Error X80072F30</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/miui-screen-recorder-review-and-alternatives-for-2024/"><u>MIUI Screen Recorder Review and Alternatives for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-meizu-21-pro-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Meizu 21 Pro Black and White | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/remedy-for-inaudible-recordings-while-using-powerpoint/"><u>Remedy for Inaudible Recordings While Using PowerPoint</u></a></li>
-<li><a href="https://some-tips.techidaily.com/resolving-the-issue-of-excessive-cpu-consumption-by-windows-module-installer/"><u>Resolving the Issue of Excessive CPU Consumption by Windows Module Installer</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-into-flexibility-opening-fax-editor-on-windows-11-pcs/"><u>Step Into Flexibility: Opening Fax Editor on Windows 11 PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-for-eradicating-installer-problems-on-windows-11/"><u>Strategies for Eradicating Installer Problems on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/sustained-calculator-visibility-on-windows-os/"><u>Sustained Calculator Visibility on Windows OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/unexplored-avenues-in-windows-11-boost-your-usability/"><u>Unexplored Avenues in Windows 11 - Boost Your Usability</u></a></li>
-<li><a href="https://windows11.techidaily.com/unraveling-and-solving-windows-exit-point-error/"><u>Unraveling and Solving Windows Exit Point Error</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-tips-for-better-mouseclicklock-implementation/"><u>Unveiling Tips for Better MouseClickLock Implementation</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-discover-the-depths-of-funimate/"><u>[New] Discover the Depths of Funimate</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-revolutionizing-creativity-premier-tablet-apps-for-ipados/"><u>[New] Revolutionizing Creativity Premier Tablet Apps for iPadOS</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-skyward-haven-of-the-pennywise-clouds/"><u>[New] Skyward Haven of the Pennywise Clouds</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-streamlined-techniques-to-record-screen-dialogue-for-2024/"><u>[New] Streamlined Techniques to Record Screen Dialogue for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/10-command-prompt-wonders-you-didnt-know/"><u>10 Command Prompt Wonders You Didn’t Know!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-20-anime-openers-anthems-in-order-for-2024/"><u>Best 20 Anime Openers' Anthems in Order for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/enhance-tv-viewing-with-global-news-and-events-via-fb-live-roku-style-for-2024/"><u>Enhance TV Viewing with Global News & Events via FB Live, Roku Style for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-tracker-tools-the-ultimate-6-list-for-windows-users/"><u>Essential Tracker Tools: The Ultimate 6 List For Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-advice-overcoming-printer-error-0xfffffff/"><u>Expert Advice: Overcoming Printer Error 0xFFFFFFF</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/handbrackhigh-quality-2024/"><u>Handbrack产品的输出画质下降？揭秘手动配置High Quality设定技巧 - 2024版</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-unlock-and-reset-restricted-program-status/"><u>How to Unlock and Reset Restricted Program Status</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-14-pro-max-drfone-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-win11-pointer-adjustments-for-access/"><u>Mastering Win11 Pointer Adjustments for Access</u></a></li>
+<li><a href="https://windows11.techidaily.com/recover-lost-pin-following-system-breakdown-on-windows-11/"><u>Recover Lost PIN Following System Breakdown on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/rectify-stalling-windows-guard-mechanism-in-win-11/"><u>Rectify Stalling Windows Guard Mechanism in Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-completely-removing-wsl-in-win-11/"><u>Step-by-Step: Completely Removing WSL in Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-stopping-self-activating-store-app/"><u>Strategies for Stopping Self-Activating Store App</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/top-free-alternatives-a-acronis-clonezilla-como-elegir-la-mas-optima/"><u>Top Free Alternatives a Acronis CloneZilla: Cómo Elegir La Más Óptima</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transforming-the-game-with-improved-clarity-a-look-at-outriders-corrected-visuals-fixes/"><u>Transforming the Game with Improved Clarity: A Look at Outriders' Corrected Visuals Fixes</u></a></li>
 </ul></div>
 

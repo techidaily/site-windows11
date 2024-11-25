@@ -1,7 +1,7 @@
 ---
 title: Fixing Roblox On-Screen Stop Issues on Windows Systems
-date: 2024-08-22T21:33:59.524Z
-updated: 2024-08-23T21:33:59.524Z
+date: 2024-11-22T17:13:31.482Z
+updated: 2024-11-24T22:41:06.762Z
 tags:
   - windows10
   - windows11
@@ -43,9 +43,23 @@ thumbnail: https://thmb.techidaily.com/dd7a824e4ab8b6d6473fb0116a606a013dd12f046
 3. Move the cursor to the **maximize button** of the Roblox window and select the first set of layouts from Snap Layouts. This way, the screen will be split into two halves, with Roblox appearing on the right half.  
 ![Split the Screen Using Snap Layouts to Put Roblox on the Right Half](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/1-split-the-screen-using-snap-layouts-to-put-roblox-on-the-right-half.jpg)
 4. Select Task Manager from the left half of the window, and it will open on the left.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Select Task Manager From the Left Half of the Snap Layouts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/2-select-task-manager-from-the-left-half-of-the-snap-layouts.jpg)
 5. Analyze the resource usage percentage in the Task Manager as you play the game.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Analyze the Resource Usage Percentage in Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/3-analyze-the-resource-usage-percentage-in-windows-task-manager.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Examine whether any of the components' usage rises to 100 percent when the game crashes. If that is the case, that component is under severe stress, which causes Roblox to crash. To resolve the issue, reduce stress on the component so Roblox can efficiently use the resources it needs without overloading it.
 
@@ -63,9 +77,6 @@ thumbnail: https://thmb.techidaily.com/dd7a824e4ab8b6d6473fb0116a606a013dd12f046
 4. Find the **Roblox** folder here and delete it.  
 ![Clear Roblox Cache by Deleting the Roblox Folder From the Temp Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/4-clear-roblox-cache-by-deleting-the-roblox-folder-from-the-temp-folder.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To clear cookies for Roblox on Chrome, Firefox, or Edge, follow our guide on [how to clear cookies for a specific website](https://www.makeuseof.com/clear-chrome-firefox-edge-cookies-specific-site/).
 
 ## 4\. Remove Interfering Browser Extensions
@@ -80,9 +91,6 @@ thumbnail: https://thmb.techidaily.com/dd7a824e4ab8b6d6473fb0116a606a013dd12f046
 
  Based on the possibility of this switch resolving the problem, install the [Roblox Microsoft Store app](https://apps.microsoft.com/store/detail/roblox/9NBLGGGZM6WM) and use that for some time to check if it fixes the crashing issue.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Run Roblox in the Compatibility Mode
 
  Running Roblox in compatibility mode has resolved the crashing issue for some users. Therefore, you should configure the game to run in compatibility mode and see whether that fixes the problem. Follow these steps to do this:
@@ -91,27 +99,19 @@ thumbnail: https://thmb.techidaily.com/dd7a824e4ab8b6d6473fb0116a606a013dd12f046
 2. Right-click on the **Roblox Player** shortcut, and then select **Properties**.  
 ![Go to Properties of Roblox Player in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/6-go-to-properties-of-roblox-player-in-windows-file-explorer.jpg)
 3. Navigate to the **Compatibility** tab in the **Properties** window.
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Check the box beside **Run this program in compatibility mode for** and select **Windows 8** or **Windows 7** from the dropdown.  
 ![Select Windows Version After Checking the Box Beside Run this Program in Compatibility Mode For in the Compatibility Tab of Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/7-select-windows-version-after-checking-the-box-beside-run-this-program-in-compatibility-mode-for-in-the-compatibility-tab-of-properties-window.jpg)
 5. Then, click **Apply**.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 6. After that, click on the **Run compatibility troubleshooter** button.  
 ![Run Compatibility Troubleshooter After Applying the Changes in the Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/8-run-compatibility-troubleshooter-after-applying-the-changes-in-the-properties-window.jpg)
 7. Click on **Try recommended settings** \> **Test the program…**  
 ![Click on the Test the Program Button in the Troubleshooter Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/9-click-on-the-test-the-program-button-in-the-troubleshooter-window.jpg)
 8. Then, save the changes by following the on-screen instructions.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Reinstall the Roblox Client
 
  If none of the above fixes work and Roblox crashes frequently, your last resort should be reinstalling the Roblox client. This will ensure that corrupt client installation does not cause constant crashes. Don't forget to remove the previous installation before beginning the reinstallation process.
@@ -120,7 +120,15 @@ thumbnail: https://thmb.techidaily.com/dd7a824e4ab8b6d6473fb0116a606a013dd12f046
 
 ![Delete Roblox Folder From Its Installation Directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/10-delete-roblox-folder-from-its-installation-directory.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After that, go to Roblox's website or the Microsoft Store, depending on the Roblox application you want to install, and install it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Stop Roblox From Crashing Frequently
 
@@ -132,11 +140,26 @@ thumbnail: https://thmb.techidaily.com/dd7a824e4ab8b6d6473fb0116a606a013dd12f046
 
  If Roblox frequently crashes with this error and bothers you, here are some fixes and checks you can use to resolve the issue.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-comparing-the-most-popular-linux-snapshots-tools/"><u>[New] 2024 Approved Comparing the Most Popular Linux Snapshots Tools</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-enrich-your-visuals-captions-on-the-go-in-instagram/"><u>[New] In 2024, Enrich Your Visuals Captions on the Go in Instagram</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-magix-music-maker-2024-revolutionizing-home-recording-experience/"><u>[Updated] Magix Music Maker 2024 Revolutionizing Home Recording Experience</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-quick-fix-bring-youtube-music-to-your-imovie-projects/"><u>[Updated] Quick Fix Bring YouTube Music to Your iMovie Projects</u></a></li>
+<li><a href="https://windows11.techidaily.com/best-practices-for-avoidable-file-explorer-foibles/"><u>Best Practices for Avoidable File Explorer Foibles</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/how-to-seamlessly-acquire-and-enjoy-personalized-audio-collections-online/"><u>How to Seamlessly Acquire and Enjoy Personalized Audio Collections Online</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-nubia-z50-ultra-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Nubia Z50 Ultra? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-realme-c51-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Realme C51 Location | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/introducing-a-new-search-option-in-windows-11-task-manager/"><u>Introducing a New Search Option in Windows 11 Task Manager</u></a></li>
+<li><a href="https://windows11.techidaily.com/three-steps-to-validate-windows-11-activation/"><u>Three Steps to Validate Windows 11 Activation</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-failed-app-install-in-windows-store/"><u>Troubleshooting Failed App Install in Windows Store</u></a></li>
+<li><a href="https://windows11.techidaily.com/unblock-your-computers-usb-hub-windows-fix-guide/"><u>Unblock Your Computer's USB Hub: Windows Fix Guide</u></a></li>
+</ul></div>
+

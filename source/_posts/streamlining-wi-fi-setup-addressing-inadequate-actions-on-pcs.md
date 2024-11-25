@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Wi-Fi Setup: Addressing Inadequate Actions on PCs"
-date: 2024-11-12T16:54:14.273Z
-updated: 2024-11-15T16:49:38.704Z
+date: 2024-11-17T21:56:41.437Z
+updated: 2024-11-24T16:48:43.311Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/0244557d86d8e1a27dc054dedba4a1385b1696e50
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Disable the NCSI Probe From Windows Registry
 
@@ -72,16 +76,7 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 6. Checkmark the box with **Enabled** and click **Apply** \> **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Next, head over to the following location:  
@@ -90,16 +85,13 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 ![Specify passive polling policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/specify-passive-polling-policy.jpg)
 9. Choose **Enabled** and click **Apply** \> **OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 10. Close the Group Policy Editor and restart your computer.
 
  Hopefully, upon reboot, the issue will no longer appear.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Run the Internet Connection Troubleshooter
 
@@ -113,13 +105,6 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 4. You should now be able to see a list of troubleshooters offered by Windows. Locate the Internet connection troubleshooter and click on the **Run** button for it.  
 ![Internet Connection Troubleshooter in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/internet-connection-troubleshooter.jpg)
 5. Wait for the troubleshooter to complete its scan and once done, check if a problem is identified. If it is, click on the **Apply this fix** option. You can also apply a solution manually.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. In case the troubleshooter fails to identify the culprit, click on **Close the troubleshooter** option and move to the next method below.
 
@@ -136,15 +121,16 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 ![Choose what the power button does option of Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/choose-what-the-power-button-does.jpg)
 5. Choose **Change settings that are currently unavailable** and navigate to the Shutdown settings option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Uncheck the box associated with **Turn on fast startup (recommended)**.  
 ![Disable Fast Startup on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/disable-fast-startup-on-windows.jpg)
 7. Click on the **Save changes** button and exit Control Panel. Check if the issue is now resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Try These Additional Generic Fixes
@@ -171,18 +157,22 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-repeat-revelry-televised-looping-of-online-media-content-for-2024/"><u>[Updated] Repeat Revelry Televised Looping of Online Media Content for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-premier-videography-instruments/"><u>2024 Approved Premier Videography Instruments</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/die-welt-der-ki-gestutzten-dokumentenverarbeitung-erklart-entdecken-sie-was-abbyy-mit-intelligenter-erfassung-macht/"><u>Die Welt Der KI-Gestützten Dokumentenverarbeitung Erklärt: Entdecken Sie, Was ABBYY Mit Intelligenter Erfassung Macht</u></a></li>
-<li><a href="https://fox-http.techidaily.com/expert-recommendations-the-best-handhited-hd-players/"><u>Expert Recommendations The Best Handhited HD Players</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-lava-yuva-3-pro-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Lava Yuva 3 Pro Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-through-windows-and-ea-connections-troubles/"><u>Navigating Through Windows and EA Connections Troubles</u></a></li>
-<li><a href="https://windows11.techidaily.com/overhaul-your-privacy-by-switching-off-windows-trackers/"><u>Overhaul Your Privacy by Switching Off Windows Trackers</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/puzzle-paradise-10-amazing-e-commerce-sites-for-box-enigmas/"><u>Puzzle Paradise 10 Amazing E-Commerce Sites for Box Enigmas</u></a></li>
-<li><a href="https://windows11.techidaily.com/redeeming-windows-reviving-ms-store-programs/"><u>Redeeming Windows: Reviving MS Store Programs</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-how-to-disable-or-reset-your-windows-11-login-password-with-ease/"><u>Step-by-Step Tutorial: How to Disable or Reset Your Windows 11 Login Password with Ease</u></a></li>
-<li><a href="https://windows11.techidaily.com/triggering-windows-calculator-in-version-11/"><u>Triggering Windows Calculator in Version 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/understanding-and-addressing-audio-failure-xc00d36b4/"><u>Understanding and Addressing Audio Failure XC00D36B4</u></a></li>
-<li><a href="https://windows11.techidaily.com/why-opt-out-of-wsl/"><u>Why Opt Out of WSL?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-turn-back-the-tape-on-twitch-broadcasting-for-2024/"><u>[New] Turn Back the Tape on Twitch Broadcasting for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-innovative-ways-to-archive-voice-transcripts-from-whatsapp/"><u>[Updated] 2024 Approved Innovative Ways to Archive Voice Transcripts From WhatsApp</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-integrating-tiktok-content-with-facebook/"><u>[Updated] Integrating TikTok Content with Facebook</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-art-of-the-daily-share-keep-your-digital-diary-top-notch-for-2024/"><u>[Updated] The Art of the Daily Share Keep Your Digital Diary Top-Notch for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/8-ways-to-fix-the-windows-desktop-when-it-turns-pink-or-purple/"><u>8 Ways to Fix the Windows Desktop When It Turns Pink or Purple</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-guide-to-the-voice-recorder-keyboard-shortcuts-on-windows-11/"><u>A Guide to the Voice Recorder Keyboard Shortcuts on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/bringing-business-efficiency-installing-ms-works-on-windows/"><u>Bringing Business Efficiency: Installing MS Works on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-your-productivity-enable-a-search-bar-on-win11s-taskbar/"><u>Elevate Your Productivity: Enable a Search Bar on Win11's Taskbar</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-fails-to-remove-vaccine-opposition-profiles-post-ban/"><u>Facebook Fails to Remove Vaccine Opposition Profiles Post-Ban</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-presence-in-the-virtual-frontier/"><u>Facebook's Presence in The Virtual Frontier</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-inaccessible-files-on-windows-platform/"><u>Fixing Inaccessible Files on Windows Platform</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-transition-from-ical-to-windows-calendar/"><u>Navigating the Transition: From iCal to Windows Calendar</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-create-unforgettable-dvds-the-ultimate-movie-making-software-guide/"><u>New In 2024, Create Unforgettable DVDs The Ultimate Movie Making Software Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-issues-with-iphone-guided-access-a-step-by-step-guide/"><u>Overcoming Issues with iPhone Guided Access - A Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-fixes-keeping-your-intel-centrino-advance-n-6235-driver-current-and-efficient/"><u>Quick Fixes: Keeping Your Intel Centrino Advance-N 6235 Driver Current and Efficient</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-art-of-creating-sequences-of-directories-simultaneously-in-windows/"><u>The Art of Creating Sequences of Directories Simultaneously in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-5-windows-folders-tricks-for-enhanced-efficiency/"><u>Top 5 Windows Folders Tricks for Enhanced Efficiency</u></a></li>
 </ul></div>
 

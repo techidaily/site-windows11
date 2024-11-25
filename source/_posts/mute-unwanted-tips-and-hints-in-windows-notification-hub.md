@@ -1,7 +1,7 @@
 ---
 title: Mute Unwanted Tips and Hints in Windows Notification Hub
-date: 2024-09-24T19:59:59.588Z
-updated: 2024-10-01T19:28:56.621Z
+date: 2024-11-23T23:49:10.682Z
+updated: 2024-11-24T19:19:41.253Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,17 @@ thumbnail: https://thmb.techidaily.com/4d915015b14faa5b1fd5a4cf5496ee0a4d386e84b
 
  In this article, we’ll discuss how to turn off or disable tips and suggestions notifications on Windows 11\.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Turn Off or Disable Tips and Suggestions Notifications in Windows 11
 
  Tips and suggestions provide quick guides to Windows and its features. But if you find them annoying, you can turn them off. Here are two easy methods to turn off tips and suggestions notifications on Windows 11\.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. How to Turn Off Tips and Suggestions Using System Settings
 
@@ -35,14 +43,15 @@ thumbnail: https://thmb.techidaily.com/4d915015b14faa5b1fd5a4cf5496ee0a4d386e84b
 4. Next, scroll down to the bottom and expand **Additional settings**.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Get tips and suggestions when using Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/get-tips-and-suggestions-when-using-windows.jpg)
 5. You will see a checkbox labeled **Get tips and suggestions when using Windows**. Uncheck it to turn off this feature.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now, you will not see any tips and suggestions notifications on your computer. If later you wish to re-enable this feature, follow the same steps outlined above and check the "Get tips and suggestions when using Windows" checkbox. Doing this will enable tips and suggestions notifications on your computer.
 
@@ -62,19 +71,6 @@ thumbnail: https://thmb.techidaily.com/4d915015b14faa5b1fd5a4cf5496ee0a4d386e84b
 4. Double-click on the file you just created to open it, and click **Yes** in the confirmation dialog box that appears.
 
  This will turn off tips and suggestions notifications in Windows 11\. To enable these notifications once again, delete the file you just created. Alternatively, double-click on it and click **No** in the confirmation dialog.
-
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Disable Tips and Suggestions Notifications in Windows 11
 
@@ -98,10 +94,7 @@ Computer Configuration > Administrative Templates > Windows Components > Cloud C
  Now, tips and suggestions notifications will be completely disabled on your computer. To re-enable the feature, follow the same steps and select the **Not Configured** or **Disabled** radio button instead.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Disable Tips and Suggestions Notifications Using the Registry Editor
@@ -124,13 +117,6 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\CloudContent
 9. Click **OK** to save the changes. Now, exit the registry editor window and restart your computer.
 
  After restarting, tips and suggestions notifications will be disabled on your computer. If you want to enable the feature, follow the same steps and change the Value data to **0**.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Disable Tips and Suggestions Notifications Using a REG File
 
@@ -164,24 +150,24 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\CloudContent
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-mastering-the-social-media-puzzle-decoding-ig-data-for-enhanced-campaigns/"><u>[New] 2024 Approved Mastering the Social Media Puzzle Decoding IG Data for Enhanced Campaigns</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-optimize-attention-strategies-for-shorts-on-youtube/"><u>[New] Optimize Attention Strategies for Shorts on YouTube</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-top-6-unique-sources-for-premium-youtube-imagery/"><u>[New] Top 6 Unique Sources for Premium YouTube Imagery</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-user-friendly-guide-to-logging-gotomeeting-events/"><u>[New] User-Friendly Guide to Logging GoToMeeting Events</u></a></li>
-<li><a href="https://windows11.techidaily.com/automating-agendas-integrating-ifttt-with-to-do/"><u>Automating Agendas: Integrating IFTTT with To-Do</u></a></li>
-<li><a href="https://windows11.techidaily.com/combatting-c0000005-crashes-on-windows-systems/"><u>Combatting C0000005 Crashes on Windows Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/elevate-productivity-essential-win11-and-command-tips-for-efficiency/"><u>Elevate Productivity: Essential Win11 and Command Tips for Efficiency</u></a></li>
-<li><a href="https://windows11.techidaily.com/expert-solutions-for-error-0x80042306-during-system-restore/"><u>Expert Solutions for Error 0X80042306 During System Restore</u></a></li>
-<li><a href="https://windows11.techidaily.com/experts-selection-7-best-windows-photos-apps-reviewed/"><u>Expert's Selection: 7 Best Windows Photos Apps Reviewed</u></a></li>
-<li><a href="https://windows11.techidaily.com/from-vocal-inputs-to-text-output-a-comprehensible-guide-for-windows-users/"><u>From Vocal Inputs to Text Output: A Comprehensible Guide for Windows Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-restart-and-streamline-windows-update-processes/"><u>How to Restart and Streamline Windows Update Processes</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-behind-the-sequence-celebrating-youtubes-top-cosmetics-artists/"><u>In 2024, Behind the Sequence Celebrating YouTube's Top Cosmetics Artists</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-gionee-f3-pro-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Gionee F3 Pro to Protect Your Individual Information</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-barriers-in-superuser-command-activation/"><u>Overcoming Barriers in Superuser Command Activation</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/sailing-through-time-with-assassins-creed-valhalla-a-riveting-viking-chronicle-set-in-the-middle-ages/"><u>Sailing Through Time with Assassin's Creed: Valhalla – A Riveting Viking Chronicle Set in the Middle Ages</u></a></li>
-<li><a href="https://windows11.techidaily.com/sky-high-internet-beyond-100mbps-overcoming-windows-speed-ceiling/"><u>Sky-High Internet Beyond 100Mbps: Overcoming Windows' Speed Ceiling</u></a></li>
-<li><a href="https://extra-information.techidaily.com/srgb-standardization-the-next-step-beyond-traditional-rgb/"><u>Srgb Standardization The Next Step Beyond Traditional Rgb</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-netgear-orbi-top-choice-in-mesh-wifi-routers/"><u>Ultimate Guide to Netgear Orbi: Top Choice in Mesh WiFi Routers</u></a></li>
-<li><a href="https://common-error.techidaily.com/unstuck-getting-the-scroll-feature-back-on-your-windows-10-touchpad/"><u>Unstuck: Getting the Scroll Feature Back on Your Windows 10 Touchpad</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-captivate-crowds-social-media-growth-hacks-for-youtube/"><u>[Updated] 2024 Approved Captivate Crowds Social Media Growth Hacks for YouTube</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-discovering-the-hottest-templates-for-social-media-vfx-for-2024/"><u>[Updated] Discovering the Hottest Templates for Social Media VFX for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expertise-in-windows-media-player-for-streamlined-audio-conversion/"><u>[Updated] Expertise in Windows Media Player for Streamlined Audio Conversion</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-mc-homestead-architectural-wonders/"><u>[Updated] In 2024, MC Homestead Architectural Wonders</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-structuring-vimeo-footage-chapter-creation-tips/"><u>[Updated] Structuring Vimeo Footage Chapter Creation Tips</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-insta-snap-confirmation-essentials-unveiled/"><u>2024 Approved Insta Snap Confirmation Essentials Unveiled</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-list-of-frustrations-with-windows-11/"><u>A List of Frustrations with Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/activating-automatic-color-tuning-on-win11-devices/"><u>Activating Automatic Color Tuning on Win11 Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/advanced-system-maintenance-locating-and-resolving-win-os-error-codes-via-command-prompt-expertise/"><u>Advanced System Maintenance: Locating and Resolving Win-OS Error Codes via Command Prompt Expertise</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-missed-emojis-activating-the-latest-on-windows-11/"><u>Avoiding Missed Emojis: Activating the Latest on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/command-your-way-through-windows-11-nircmd-tips-and-tricks/"><u>Command Your Way Through Windows 11: NirCmd Tips & Tricks</u></a></li>
+<li><a href="https://windows11.techidaily.com/conquering-frequent-anydesk-windows-complications/"><u>Conquering Frequent AnyDesk Windows Complications</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphering-and-rectifying-non-functional-batches-in-windows/"><u>Deciphering and Rectifying Non-Functional Batches in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-the-mysteries-of-invisible-context-options-in-windows-11/"><u>Decoding the Mysteries of Invisible Context Options in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/disentangling-common-errors-in-windows-11-zoom-app/"><u>Disentangling Common Errors in Windows 11 Zoom App</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/expert-advice-seamlessly-correct-lenovos-troublesome-usb-drivers/"><u>Expert Advice: Seamlessly Correct Lenovo's Troublesome USB Drivers</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-xiaomi-redmi-note-13-pro-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Xiaomi Redmi Note 13 Pro 5G Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-prime-presenter-prefix-planner/"><u>In 2024, Prime Presenter Prefix Planner</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-samsung-galaxy-s23-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Samsung Galaxy S23 Phone With/Without IMEI Number</u></a></li>
 </ul></div>
 

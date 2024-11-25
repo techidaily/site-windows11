@@ -1,7 +1,7 @@
 ---
 title: "The Quintessence of Productivity: Win 11’S Top 7 Widgets"
-date: 2024-08-22T21:34:54.616Z
-updated: 2024-08-23T21:34:54.616Z
+date: 2024-11-21T23:21:55.022Z
+updated: 2024-11-24T20:52:39.736Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,17 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
 
  Widgets are a fast and easy way to view important updates at a glance, and it’s simple to get started. Here’s a list of the best Windows 11 widgets to improve your productivity.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Add Widgets in Windows 11
 
 ![Widgets settings in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/widgets-settings-in-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Before installing widgets, it’s important to know how to access them and where to find widgets. With the help of keyboard shortcuts, accessing widgets in Windows 11 is easy.
 
@@ -34,13 +42,14 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
 
 ![Outlook Calendar productivity widget Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/outlook-calendar-productivity-widget-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Outlook Calendar is the perfect widget if you need a quick glance at your schedule. The widget displays an upcoming outline of today’s events alongside a flexible weekly view.
 
  If you’re in a hurry, you can schedule an event directly from the widget. You can also set event reminders and change the time zone, which is a [useful tip when working in different time zones](https://www.makeuseof.com/time-management-tips-different-time-zones/). Outlook Calendar also has some useful customization options, such as selecting which calendars to view (if you have more than one.) To customize the widget, hit the three dots at the top right of the widget.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. To Do
 
 ![Microsoft To Do widget Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/microsoft-to-do-widget-windows-11.jpg)
@@ -50,15 +59,13 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
  The To Do widget puts all the app’s essentials into one condensed space. Using the dropdown at the top of the widget, you can easily switch between different lists. For an overview of all your to-do items, click on **Tasks**. The **My Day** tab is another useful tool for viewing urgent tasks. To Do syncs with your mobile app, so you can keep up-to-date with your schedule. Best of all, you can add new tasks directly from the widget.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Focus Session
 
 ![Focus session widget expanded view Windows 11-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/focus-session-widget-expanded-view-windows-11-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
  Staying focused while working from home can be challenging. Focus Session is a great tool that utilizes the [Pomodoro method](https://www.makeuseof.com/what-is-pomodoro-method-how-increase-productivity/) to help you be more efficient.
 
  Using the widget is simple—select how long you want your focus session to be, then hit the play button to start the timer. During a focus session, many distracting features on Windows 11 will be disabled. This includes removing badges from taskbar apps and enabling Do Not Disturb mode.
@@ -77,9 +84,6 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
 
 ![Tips Windows 11 widget](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/tips-windows-11-widget.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you’re new to using Windows 11 widgets, this next tool can help you learn the basics. Microsoft’s Tips widget provides hints on using widgets alongside tips to help you get around Windows 11\.
 
  To enable the Tips widget, hit the **plus** (**+**) button from the widgets display, select **Tips**, then click **Pin**. This tool guides you on how to reorder, remove, and customize widgets. Using the Tips widget helps remind you of handy shortcuts and features to maximize your productivity in Windows 11\.
@@ -89,13 +93,18 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
 ![Memory check widget Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/memory-check-widget-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Memory Check is a widget not offered by Microsoft but can be found on the Microsoft Store. After installing the app, you can find it from your widgets sidebar.
 
  The widget monitors your total memory usage, so you can identify which apps are slowing your PC down. Memory usage is displayed both in GB and as a percentage. If your memory usage is consistently high, check out our tips to [free up RAM and reduce RAM usage on Windows](https://www.makeuseof.com/tag/5-ways-clear-memory-increase-ram-windows-computer/).
 
 **Download**: [Memory Check](https://apps.microsoft.com/detail/9PKWVP7N1QS9) ($1.99)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Memodown
 
@@ -107,16 +116,11 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
 
 **Download**: [Memodown](https://apps.microsoft.com/detail/9NKNC4KWP66N) ($2.99, free trial available)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ## Be More Productive With the Help of Windows 11 Widgets
 
  If you’re often distracted while working on your PC, these productivity widgets can help you stay focused on what’s important. Using widgets, you can stay on top of your schedule and keep track of your reminders at a quick glance.
 
  Widgets are a fast and easy way to view important updates at a glance, and it’s simple to get started. Here’s a list of the best Windows 11 widgets to improve your productivity.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -124,3 +128,20 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-educational-journey-through-time-with-top-history-yt-channels/"><u>[New] 2024 Approved Educational Journey Through Time with Top History YT Channels</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-vibrant-plumage-and-agile-maneuvers-bebops-parrot-tale/"><u>[Updated] 2024 Approved Vibrant Plumage and Agile Maneuvers Bebop’s Parrot Tale</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-new-era-advancements-in-vr-technology/"><u>[Updated] The New Era Advancements in VR Technology</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-elevating-visual-experience-youtubes-quality-boosting-guide/"><u>2024 Approved Elevating Visual Experience YouTube's Quality Boosting Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/easy-steps-to-create-a-personalized-windows-text-recognition-program/"><u>Easy Steps to Create a Personalized Windows Text Recognition Program</u></a></li>
+<li><a href="https://windows11.techidaily.com/halt-spotifys-autoplay-behavior-on-pc/"><u>Halt Spotify's Autoplay Behavior on PC</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-cutting-edge-methods-for-fast-srt-to-text-file-conversion/"><u>In 2024, Cutting-Edge Methods for Fast SRT to Text File Conversion</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-review-of-the-titans-180hz-p27a2r-monitor-value-meets-performance-in-the-gaming-world/"><u>In-Depth Review of the Titan's 180Hz P27A2R Monitor: Value Meets Performance in the Gaming World</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/solving-the-apowermonkey-app-troubleshooting-failure-to-recognize-your-iphone-or-ipad/"><u>Solving the 'Apowermonkey' App: Troubleshooting Failure to Recognize Your iPhone or iPad</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-complete-gamers-manual-to-winning-with-windows/"><u>The Complete Gamers' Manual to Winning With Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-adjusting-touchpad-sensitivity-in-windows/"><u>The Ultimate Guide to Adjusting Touchpad Sensitivity in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-5-tips-for-optimizing-wsl-2-on-modern-windows/"><u>Top 5 Tips for Optimizing WSL 2 on Modern Windows</u></a></li>
+</ul></div>
+

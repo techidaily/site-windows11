@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Process for Distro & Catroot2 Fixes in WS11
-date: 2024-10-23T16:54:19.417Z
-updated: 2024-10-30T16:21:50.757Z
+date: 2024-11-23T16:55:44.712Z
+updated: 2024-11-24T19:16:31.848Z
 tags:
   - windows10
   - windows11
@@ -52,10 +52,7 @@ net stop msiserver`
 9. Bring up the catroot2 folder by entering this path in Explorer’s address bar:  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `C:\Windows\System32\catroot2`
@@ -64,10 +61,7 @@ net stop msiserver`
 11. Return to the Command Prompt and execute these separate commands for restarting the disabled services.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `net start bits  
@@ -79,6 +73,10 @@ net start cryptSvc
 net start msiserver`
 12. Restart the PC and check for updates after clearing those folders.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Reset the SoftwareDistribution and Catroot2 Folders by Renaming Them
 
  Renaming the SoftwareDistribution and Catroot2 directories is an alternative method for resetting those folders. Windows will recreate those folders after you’ve renamed them. You can rename the SoftwareDistribution and catroot2 folders with the Command Prompt like this:
@@ -87,6 +85,10 @@ net start msiserver`
 2. Repeat step four of the preceding method to execute the commands for disabling services.  
 ![The net stop commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/net-stop-commands.jpg)
 3. Input this command to rename the SoftwareDistribution folder and press **Return**:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 `ren %systemroot%\softwaredistribution softwaredistribution.bak`  
 ![The rename SoftwareDistribution folder command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ren-softwaredistribution-command.jpg)
@@ -112,10 +114,7 @@ net start msiserver`
 6. Double-click the **FixWin 11.1.exe** file in the extracted folder for FixWin.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Click **Additional Fixes** on the left of the FixWin window.
@@ -123,13 +122,6 @@ net start msiserver`
 9. Press the **Reset Software Distribution folder** button.  
 ![The Quick Fixes tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/quick-fixes-tab.jpg)
 10. Click the **Reset catroo2 Folder** option.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 11. Exit FixWin and reboot your PC after selecting those options.
 
@@ -148,17 +140,17 @@ net start msiserver`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-documenting-digital-dialogues/"><u>[New] Documenting Digital Dialogues</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-become-the-star-with-your-own-stories-guidelines-for-crafting-over-120-creative-snap-tales/"><u>[Updated] Become the Star with Your Own Stories Guidelines for Crafting over 120 Creative Snap Tales</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-scalable-techniques-for-vimeo-broadcasting/"><u>[Updated] Scalable Techniques for Vimeo Broadcasting</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-beyond-flying-fun-in-depth-dji-phantom-4-examination/"><u>2024 Approved Beyond Flying Fun In-Depth DJI Phantom 4 Examination</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-radeon-video-card-software-update-compatible-with-windows-os-free-download/"><u>AMD Radeon Video Card Software Update – Compatible With Windows OS | Free Download</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-windows-update-failure-error-0x8024800c/"><u>Correcting Windows Update Failure (Error 0X8024800C)</u></a></li>
-<li><a href="https://windows11.techidaily.com/dism-mastery-in-windows-11-system-image-repair/"><u>Dism Mastery in Windows 11 System Image Repair</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/macs-leading-video-shaping-tools-in-big-sur-release/"><u>Mac's Leading Video Shaping Tools in Big Sur Release</u></a></li>
-<li><a href="https://windows11.techidaily.com/prioritizing-page-notes-on-pc-windows/"><u>Prioritizing Page Notes on PC Windows</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/revenue-revolution-how-to-design-effective-animated-fb-ads-for-2024/"><u>Revenue Revolution How to Design Effective Animated FB Ads for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/reversing-the-tide-fixing-xbox-11-stranded-app-issue/"><u>Reversing the Tide: Fixing Xbox 11 Stranded App Issue</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-mystery-behind-grok-ai-elon-musk-sheds-light-on-his-new-creation/"><u>The Mystery Behind Grok AI: Elon Musk Sheds Light on His New Creation</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-exclusive-access-to-facebook-beats/"><u>[New] 2024 Approved Exclusive Access to Facebook Beats</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-what-does-pfp-mean-in-tiktok-a-complete-guide/"><u>[New] In 2024, What Does PFP Mean in TikTok?[A Complete Guide]</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/5ywo6z2i5qc85byp5yyw5oml5yak77ya5aac5l2v5pyj5pwi5zyw5yplusw5rai56gs56kf6ziy5q2i5pu45aplusr5lplusd6k23/"><u>全面格式化手冊：如何有效地取消硬碟防止書寫保護</u></a></li>
+<li><a href="https://windows11.techidaily.com/approaches-to-fix-failed-launch-of-lunar-client-in-windows/"><u>Approaches to Fix Failed Launch of Lunar Client in Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/blob-video-extraction-tutorial-three-techniques-for-successful-downloads/"><u>Blob Video Extraction Tutorial: Three Techniques for Successful Downloads</u></a></li>
+<li><a href="https://windows11.techidaily.com/diminishing-high-cpu-impact-of-tiworkerexe-applications/"><u>Diminishing High CPU Impact of TiWorker.exe Applications</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-add-a-hidden-items-context-menu-option-in-windows-10-and-11/"><u>How to Add a Hidden Items Context Menu Option in Windows 10 & 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/launching-the-system-rescue-console-easily/"><u>Launching the System Rescue Console Easily</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/precision-equipment-evaluations-at-toms-systems-critique/"><u>Precision Equipment Evaluations at Tom's Systems Critique</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/top-android-recorder-commercial-free/"><u>Top Android Recorder - Commercial-Free</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-the-stalled-windows-system-insight/"><u>Troubleshooting the Stalled Windows System Insight</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726228037721-dts-movavi/"><u>オンラインでDTS形式のファイルを手軽に変換 - Movaviフリーサービス</u></a></li>
 </ul></div>
 

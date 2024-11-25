@@ -1,7 +1,7 @@
 ---
 title: Switching up Task Manager's Launch Screen in Windows 11
-date: 2024-10-01T00:16:49.586Z
-updated: 2024-10-01T19:03:23.324Z
+date: 2024-11-17T16:53:58.922Z
+updated: 2024-11-24T18:13:02.419Z
 tags:
   - windows10
   - windows11
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
 
  The Task Manager provides a quick overview of your system's current status and shows essential information. Its Start page displays useful details such as currently running background processes, applications, CPU, and memory utilization. If you'd like to customize its appearance, change the Start page. In this article, we’ll look at how to change the Task Manager Start page in Windows 11\.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Use Task Manager Settings
 
  If you want to quickly change the Task Manager Start page, you can use its Settings tab. This option requires no modification to the registry editor or additional scripts to run.
@@ -29,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
 3. Once in Task Manager, click on **Settings** (the gear icon).
 4. You'll see a **Default Start Page** drop-down menu at the top. This is where you can select the page to display when Task Manager opens.  
 ![Use Settings to Change Task Manager Start Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/use-settings-to-change-task-manager-start-page.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The options available are the following:
 
@@ -43,10 +51,7 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
  Once you make a selection, Task Manager will remember the setting and open the page you chose from now on.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Tweak the Registry Editor
@@ -65,13 +70,6 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
 ![Modify Registry to Change Task Manager Start Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/modify-registry-to-change-task-manager-start-page.jpg)
 7. Set its **Value data** to one of the following numbers to change the default start page:  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 `0 = Processes  
 
 1 = Performance  
@@ -88,13 +86,6 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
 8. Click **OK** to save the changes and close the Registry Editor window.
 
  Next time you open Task Manager, it will display a page according to your preferences.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Use a REG File
 
@@ -129,15 +120,16 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
 ![Use a REG File to Change Task Manager Start Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/use-a-reg-file-to-change-task-manager-start-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Next, select **Desktop** from the left pane and click **Save**. Once saved, double-click on this newly created REG file. This adds the required details to the Registry Editor and changes the Task Manager start page.
 
  If you ever want to revert the changes, delete the REG file and restart your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Changing the Task Manager Start Page on Windows
 
@@ -152,18 +144,21 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-taringaid-profile-image-details-pixel-count-codec-time-span/"><u>[Updated] TaringaID Profile Image Details Pixel Count, Codec, Time Span</u></a></li>
-<li><a href="https://windows11.techidaily.com/deciding-on-the-best-nvidia-driver-type/"><u>Deciding on the Best Nvidia Driver Type</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/1726028202018-dvdpc/"><u>DVD映像簡単なPCへの保管ガイド</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhancing-screen-recordings-add-audio-to-snipping-tool-features-max-156/"><u>Enhancing Screen Recordings: Add Audio to Snipping Tool Features (Max 156)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/guide-to-turning-off-windows-11s-built-in-security-microsoft-defender-explained/"><u>Guide to Turning Off Windows 11'S Built-In Security: Microsoft Defender Explained</u></a></li>
-<li><a href="https://windows11.techidaily.com/masterful-techniques-to-perfect-your-wsl-2-docker-workflow/"><u>Masterful Techniques to Perfect Your WSL 2 Docker Workflow</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/methods-for-subtle-volume-reduction-in-fl-studio/"><u>Methods for Subtle Volume Reduction in FL Studio</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-oneplus-12r-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your OnePlus 12R Phone? Unlock It Now</u></a></li>
-<li><a href="https://windows11.techidaily.com/remedy-for-windows-update-failure-at-error-0xca00a009/"><u>Remedy for Windows Update Failure at Error 0xCA00A009</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-remedies-for-a-broken-usb-mouse-connection-on-your-notebook/"><u>Step-by-Step Remedies for a Broken USB Mouse Connection on Your Notebook</u></a></li>
-<li><a href="https://windows11.techidaily.com/switch-onoff-windows-filter-keys-guide/"><u>Switch On/Off: Window's Filter Keys Guide</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ltimate-method-to-integrate-flv-content-on-youtube-for-2024/"><u>The Ultimate Method to Integrate FLV Content on YouTube for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/understanding-and-remedying-error-code-0x80300024/"><u>Understanding and Remedying Error Code: 0X80300024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-online-webinar-conduct-with-youtube/"><u>[New] In 2024, Free Online Webinar Conduct with YouTube</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-viewer-payouts-for-video-engagement/"><u>2024 Approved Viewer Payouts for Video Engagement</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-tecno-pop-7-pro-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Tecno Pop 7 Pro to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-shortcut-to-starting-wordpad-on-your-pc/"><u>A Shortcut to Starting WordPad on Your PC</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-oppo-reno-10-pro-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Oppo Reno 10 Pro 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-custom-privileges-in-win11-by-default/"><u>Clearing Custom Privileges in Win11 by Default</u></a></li>
+<li><a href="https://windows11.techidaily.com/command-line-to-admin-initiating-windows-11s-task-manager-with-power/"><u>Command Line to Admin: Initiating Windows 11'S Task Manager with Power</u></a></li>
+<li><a href="https://windows11.techidaily.com/compreran-gaming-hurdles-enhance-gamesplay-on-windows/"><u>Compreran Gaming Hurdles: Enhance Gamesplay on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-permissions-shortfall-on-windows-1011-during-setup/"><u>Correcting Permissions Shortfall on Windows 10/11 During Setup</u></a></li>
+<li><a href="https://windows11.techidaily.com/crafting-your-own-windows-voice-transcription-software-using-ahk-and-whisper/"><u>Crafting Your Own Windows Voice Transcription Software Using AHK and Whisper</u></a></li>
+<li><a href="https://windows11.techidaily.com/creative-windows-users-heres-the-best-drawing-list/"><u>Creative Windows Users, Here’s the Best Drawing List</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/get-more-bang-for-your-buck-with-hps-omen-obelisk-expert-review-inside/"><u>Get More Bang for Your Buck with HP's Omen Obelisk - Expert Review Inside</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-critical-evaluation-of-ustream-with-equivalents/"><u>In 2024, A Critical Evaluation of Ustream with Equivalents</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/understanding-googles-ar-sticker-innovation/"><u>Understanding Google's AR Sticker Innovation</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-ranking-the-best-4k-video-editing-tools-features-pricing-and-more-for-2024/"><u>Updated Ranking the Best 4K Video Editing Tools Features, Pricing, and More for 2024</u></a></li>
 </ul></div>
 

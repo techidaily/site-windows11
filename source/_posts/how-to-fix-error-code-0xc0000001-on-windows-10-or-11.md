@@ -1,7 +1,7 @@
 ---
 title: How to Fix Error Code 0Xc0000001 on Windows 10 or 11
-date: 2024-11-08T17:04:48.099Z
-updated: 2024-11-15T17:10:23.353Z
+date: 2024-11-18T16:42:33.971Z
+updated: 2024-11-24T16:03:12.549Z
 tags:
   - windows10
   - windows11
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/288c4a8a533b0f1094aca3a28c5db0188ea8b5a3c
 
  The Startup Repair tool will sift through your PC for possible issues with your Windows 10 or 11 and then start fixing them one by one. After the scan and repair are complete, give your PC a quick reboot and see if this fixes the error code 0xc0000001 on your Windows computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Use the Command Prompt
 
  If the Startup Repair tool didn’t successfully do the job for you, then your next best bet will be the Command prompt. Just select the **Command Prompt** from the **Advanced options** menu, put in a command, and you will be set.
@@ -54,15 +58,16 @@ Bootrec /fixmbrBootrec /fixbootBootrec /scanosBootrec /rebuildbcd
 
 ![windows command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-command-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The above commands are basically aimed at fixing or rebuilding the Boot Configuration Data (BCD) of your Windows. Since the error code 0xc0000001 is a booting error, it therefore makes sense to give this method a shot.
 
  Once you’re done with all the commands, reboot your PC and see if you still face the error code 0xc0000001 on your Windows PC.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Unplug All External Devices
@@ -73,6 +78,10 @@ Bootrec /fixmbrBootrec /fixbootBootrec /scanosBootrec /rebuildbcd
 
  So, unplug the devices, save your keyboard and mouse, and see if you still face the Windows error code 0xc0000001\.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Boot Into Safe Mode
 
  A popular method to fix all kinds of BSOD errors is to boot into the Safe mode. Now, the Safe mode itself won’t fix the problem. Instead, you will have to go through several more steps after you are inside it.
@@ -81,25 +90,11 @@ Bootrec /fixmbrBootrec /fixbootBootrec /scanosBootrec /rebuildbcd
 
  If you see that disabling a specific program has fixed the error code 0xc0000001 problem, it’s highly probable the said app was behind it. In this case, uninstall the software while in Safe mode and reboot your PC normally—it will boot up quickly.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Perform a Windows System Restore
 
  System Restore is yet another handy tool in your Windows computer. In brief, it works by bringing your PC back to a point in time when everything worked fine on your Windows.
 
 [Using System Restore](https://www.makeuseof.com/use-system-restore-windows/) is reasonably straightforward, and we have covered it before. Just follow the steps in the guide and see if this fixes the error code 0xc0000001 on Windows.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Perform a Malware Scan
 
@@ -114,16 +109,7 @@ Bootrec /fixmbrBootrec /fixbootBootrec /scanosBootrec /rebuildbcd
  Indeed, the issues, if they have been left unchecked for too long, can be the cause of Windows 10 or 11 error code 0xc0000001 as well. While it’s no guarantee that [running the CHKDSK scan](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/) fill will fix the problem, it’s very well worth a try.
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Factory Reset Your Windows
@@ -148,18 +134,16 @@ Bootrec /fixmbrBootrec /fixbootBootrec /scanosBootrec /rebuildbcd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-art-of-changing-igtv-video-covers/"><u>[New] In 2024, The Art of Changing IGTV Video Covers</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-epic-youtube-playback-stories/"><u>[Updated] In 2024, Epic YouTube Playback Stories</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-best-talker-alteration-apps-for-video-content-makers/"><u>2024 Approved Best Talker Alteration Apps for Video Content Makers</u></a></li>
-<li><a href="https://fox-links.techidaily.com/advanced-shooting-modes-unveiling-the-secrets-of-smart-hdr-3-and-4-for-2024/"><u>Advanced Shooting Modes Unveiling the Secrets of Smart HDR 3 & 4 for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/best-action-cameras-with-a-front-facing-screen-for-2024/"><u>Best Action Cameras with A Front Facing Screen for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-from-your-iphone-12-pro-max-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock from your iPhone 12 Pro Max and iPad</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-90-lite-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Honor 90 Lite Phone Without Password?</u></a></li>
-<li><a href="https://windows11.techidaily.com/solving-your-full-screen-capture-predicament-with-snip-and-sketch/"><u>Solving Your Full-Screen Capture Predicament with Snip & Sketch</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-process-implementing-end-task-feature-on-window-manager-windows-11/"><u>Step-By Step Process: Implementing End Task Feature on Window Manager (Windows 11)</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamline-tasks-like-pro-mastering-windows-11s-capabilities/"><u>Streamline Tasks Like Pro: Mastering Windows 11'S Capabilities</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-critical-failures-in-windows-with-error-code-c0000022/"><u>Tackling Critical Failures in Windows with Error Code C0000022</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-complete-checklist-for-epic-launcher-savings/"><u>The Complete Checklist for Epic Launcher Savings</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-dormancy-practical-tips-and-tricks/"><u>Windows Dormancy: Practical Tips & Tricks</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-sound-engineering-simplified-gradual-diminishment-in-lumafusion/"><u>[New] In 2024, Sound Engineering Simplified Gradual Diminishment in Lumafusion</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-capture-and-save-with-ease-top-5-pc-snipers-reviewed/"><u>[Updated] In 2024, Capture & Save with Ease Top 5 PC Snipers Reviewed</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphering-debugs-top-windows-troubleshooting-apps/"><u>Deciphering Debugs: Top Windows Troubleshooting Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/demystifying-9-compelling-arguments-for-pc-dominance-over-macs/"><u>Demystifying: 9 Compelling Arguments for PC Dominance over Macs</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-guide-to-fixing-0x80071a90-windows-error/"><u>Essential Guide to Fixing 0X80071A90 Windows Error</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-common-dying-light-audio-problem/"><u>Fixing the Common 'Dying Light' Audio Problem</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Realme 12 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-top-immersive-escapades-in-vr-on-youtube/"><u>In 2024, Top Immersive Escapades in VR on Youtube</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimal-pc-performance-tests/"><u>Optimal PC Performance Tests</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-missing-printmanagement-component-on-your-pc/"><u>Tackling Missing 'PrintManagement' Component on Your PC</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/red-thumbnails-elevating-your-video-visibility-on-youtube/"><u>Tailored Thumbnails Elevating Your Video Visibility on YouTube</u></a></li>
 </ul></div>
 

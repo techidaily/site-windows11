@@ -1,7 +1,7 @@
 ---
 title: "Futuristic Meetings: Speed & Efficiency Unleashed"
-date: 2024-08-22T21:36:21.788Z
-updated: 2024-08-23T21:36:21.788Z
+date: 2024-11-20T16:37:40.584Z
+updated: 2024-11-24T19:22:04.777Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,17 @@ thumbnail: https://thmb.techidaily.com/e85743b34dfe1708fd7baeaabbf4be530a9d0acc9
 
  While the new version of Teams is only available as a public preview and for commercial users for now, here’s what you can expect when the app is finally available for you to upgrade.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s New in the Microsoft Teams Desktop App?
 
 ![new teams Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/new-teams-windows-11.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The new Teams app for the desktop comes with a minor design overhaul. It features a new color scheme and some modifications to the UI, making it easier to navigate. The header features a toggle switch to seamlessly switch between the Classic and new Teams interface.
 
@@ -41,17 +49,17 @@ thumbnail: https://thmb.techidaily.com/e85743b34dfe1708fd7baeaabbf4be530a9d0acc9
  Apart from these, Microsoft also plans to bring some new features later this year, including third-party and Line-of-Business(LOB) apps support and advanced calling and meeting feature.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Try the Teams Public Preview
 
 ![Microsoft teams update policies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/microsoft-teams-update-policies.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The new Teams is only available as a public preview build and is available for commercial users now. While the company plans to bring it to Education and platforms like VDI and web later this year, here’s how to set an Update policy and enable Teams public preview for organizations.
 
 To set the Update policy and enable public preview:
@@ -69,22 +77,20 @@ To set the Update policy and enable public preview:
  To enable new Teams, launch the app and toggle the**new Teams** switch to starting using the latest iteration of Teams. You can switch between the classic and new Teams app without restrictions.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Microsoft Teams is Now More Efficient and Faster
 
  The new Teams app has just enough visual changes to look like part of Windows 11\. The performance improvements result from new architecture that employs React, Fluent UI, and WebView 2 to improve the speed with decreased memory usage.
 
  Currently, the new Teams app is only available as a public preview to Windows 11 users. Other platforms, including Mac, VDI, Web, Education, and Government Clouds, will likely see the new app later this year.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -93,4 +99,22 @@ To set the Update policy and enable public preview:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-frame-by-frame-mastery-in-youtube-no-cost-required-for-2024/"><u>[New] Frame by Frame Mastery in YouTube - No Cost Required for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-a-film-enthusiasts-guide-to-mastery-with-gopro/"><u>[Updated] A Film Enthusiast's Guide to Mastery with GoPro</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-step-by-step-guide-iphone-picture-perfection/"><u>[Updated] In 2024, Step-by-Step Guide IPhone Picture Perfection</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-depth-photo-editing-via-vsco-a-compreeved-guide/"><u>[Updated] In-Depth Photo Editing via VSCO A Compreeved Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-chatgpt-responses-through-proven-techniques-discover-the-7-most-impactful-ones/"><u>Elevate ChatGPT Responses Through Proven Techniques – Discover the 7 Most Impactful Ones</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-clear-out-microsoft-app-from-win11/"><u>How to Clear Out Microsoft App From Win11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-update-microsoft-mouse-driver-in-windows/"><u>How to Update Microsoft Mouse Driver in Windows</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-flashing-lights-of-olympic-speed/"><u>In 2024, Flashing Lights of Olympic Speed</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcome-firefox-load-problems-on-your-pc-7-simple-steps/"><u>Overcome Firefox Load Problems on Your PC: 7 Simple Steps</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-resolve-systemsettings-error-on-win11/"><u>Steps to Resolve SystemSettings Error on Win11</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/streamline-your-iphoneipad-screenshots-with-2023-tricks/"><u>Streamline Your iPhone/iPad Screenshots with 2023 Tricks</u></a></li>
+<li><a href="https://windows11.techidaily.com/subtle-security-concealing-archives-inside-digital-images/"><u>Subtle Security: Concealing Archives Inside Digital Images</u></a></li>
+<li><a href="https://windows11.techidaily.com/swift-solutions-for-flawed-windows-application-performance/"><u>Swift Solutions for Flawed Windows Application Performance</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-folder-and-file-harmony-in-win1011/"><u>The Ultimate Folder & File Harmony in WIN10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/trimming-high-resource-usage-by-top-news-websites/"><u>Trimming High Resource Usage by Top News Websites</u></a></li>
+</ul></div>
 

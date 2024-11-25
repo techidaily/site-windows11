@@ -1,7 +1,7 @@
 ---
 title: "Unraveling and Remedying Error Code: 0X80071A90 Windows Issue"
-date: 2024-11-10T16:40:49.057Z
-updated: 2024-11-15T16:27:33.304Z
+date: 2024-11-21T23:36:11.244Z
+updated: 2024-11-24T21:37:04.057Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/482b0b9f60bdf46ea3aa9192b63978daf29cfbcce
 
  Regardless of what might be causing the problem in your case, the troubleshooting methods we have listed above should help you fix it in no time. Proceed with the method that fits your situation the best.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Disable Your Antivirus
 
  Antivirus programs are designed to protect your computer from harmful software and viruses but in doing so, they may also prevent some legitimate Windows components and features from installing or updating properly. This typically happens when the antivirus falsely considers the feature to be harmful.
@@ -50,10 +54,7 @@ thumbnail: https://thmb.techidaily.com/482b0b9f60bdf46ea3aa9192b63978daf29cfbcce
  Once the security program is disabled, try enabling the targeted Windows feature again and check if the problem is now fixed. If the antivirus program happens to be the culprit, you can consider switching to a better alternative.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Perform the Action in Safe Mode
@@ -63,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/482b0b9f60bdf46ea3aa9192b63978daf29cfbcce
  This mode launches Windows with only the necessary drivers and services, allowing you to finish tasks without interference from third-party software.
 
  Once you[boot into Safe Mode on Windows](https://www.makeuseof.com/windows-11-boot-safe-mode/) , launch the Windows Features utility and try performing the action that was initially triggering the error. If a background process was leading to it, you should be able to enable the targeted feature without any problems now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Rebuild the WMI Repository
 
@@ -81,31 +86,25 @@ Follow these steps to proceed:
 `winmgmt /salvagerepositorywinmgmt /verifyrepositorywinmgmt /resetrepository`
 5. Wait for the commands to execute and then exit Command Prompt. You can now check if the issue is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Try Some Generic Windows-Based Fixes for Errors
 
  If nothing else works, these general WIndows fixes can help you fix the issue:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Update Windows
 
 ![install windows 11 feature update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-windows-11-feature-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you haven’t installed the latest Windows updates in a while, then you might be facing the problem due to an outdated system. This can be due to a compatibility issue or because your system lacks updates/hotfixes that were released by Microsoft to address specific issues related to Windows features.
 
  In this case, we recommend taking your time to[install any pending Windows updates](https://www.makeuseof.com/windows-11-install-updates/) available. This will ensure that the drivers and software are compatible with the latest version of Windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Check the System for Corruption Errors
 
@@ -116,13 +115,6 @@ Follow these steps to proceed:
  To fix such corruption errors, you can use a tool like the System File Checker (SFC) to scan and repair system files or the Deployment Image Servicing and Management (DISM) tool to repair the Windows component store. You can run both these utilities via Command Prompt.
 
  Follow the correct steps for running SFC and DISM in Windows in our guide on[how to fix file system errors on Windows](https://www.makeuseof.com/fix-file-system-errors-windows/) .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Enable Your Windows Features Again
 
@@ -145,21 +137,22 @@ Follow these steps to proceed:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-direct-lineup-for-iphone-images-flawless-snapchat-backup/"><u>[New] Direct Lineup for iPhone Images Flawless Snapchat Backup</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-the-virtual-evolution-dichotomy-metaverse-and-omniverse-compared/"><u>[New] The Virtual Evolution Dichotomy Metaverse & Omniverse Compared</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-tecno-spark-20-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Tecno Spark 20 Pro | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/cut-excessive-ad-content-tailoring-on-social-networks/"><u>Cut Excessive Ad Content Tailoring on Social Networks</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/eco-editing-essentials-30plus-free-templates-for-ambitious-filmmakers/"><u>Eco-Editing Essentials 30+ Free Templates for Ambitious Filmmakers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fresh-discussion-ideas-for-podcast-success-for-2024/"><u>Fresh Discussion Ideas for Podcast Success for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-crafting-captivating-chronicles-the-worlds-best-schools-top-8/"><u>In 2024, Crafting Captivating Chronicles The World's Best Schools (Top 8)</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Samsung Galaxy A14 5G? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/is-the-antimalware-service-executable-hogging-your-memory-heres-how-to-turn-it-off/"><u>Is the Antimalware Service Executable Hogging Your Memory? Here's How to Turn It Off</u></a></li>
-<li><a href="https://windows11.techidaily.com/missing-astra-pilot-in-windows-11-heres-what-you-need/"><u>Missing Astra Pilot in Windows 11? Here's What You Need</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-windows-11-microsoft-store-hurdles/"><u>Overcoming Windows 11 Microsoft Store Hurdles</u></a></li>
-<li><a href="https://windows11.techidaily.com/simplified-tracking-of-recently-active-windows-items/"><u>Simplified Tracking of Recently Active Windows Items</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/streamline-xbox-interactions-by-embracing-zooming-capabilities-for-2024/"><u>Streamline Xbox Interactions by Embracing Zooming Capabilities for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-importance-of-microsofts-family-safety-in-todays-world/"><u>The Importance of Microsoft's Family Safety in Today’s World</u></a></li>
-<li><a href="https://windows11.techidaily.com/trimming-down-onedrive-icon-from-the-file-explorer-palette/"><u>Trimming Down OneDrive Icon From the File Explorer Palette</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-winning-strategies-in-old-chessboard-manager/"><u>Unlocking Winning Strategies in Old Chessboard Manager</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-expert-insights-into-iptv-stream-logging/"><u>[New] Expert Insights Into IPTV Stream Logging</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-oculus-rift-vs-htc-vive-vs-playstation-vr-whats-the-best-for-gaming/"><u>[New] Oculus Rift vs HTC Vive vs PlayStation VR What’s the Best for Gaming?</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/cookiebot-enabled-user-experience-enhancement/"><u>Cookiebot-Enabled User Experience Enhancement</u></a></li>
+<li><a href="https://windows11.techidaily.com/dismantling-tpm-in-win11-using-the-power-of-rufus/"><u>Dismantling TPM in Win11 Using the Power of Rufus</u></a></li>
+<li><a href="https://techtrends.techidaily.com/efficient-solutions-for-when-your-microsoft-word-document-wont-open-correctly/"><u>Efficient Solutions for When Your Microsoft Word Document Won't Open Correctly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-installation-get-your-latest-amd-ati-radeon-hd-graphics-card-drivers-installed-today/"><u>Effortless Installation: Get Your Latest AMD ATI Radeon HD Graphics Card Drivers Installed Today</u></a></li>
+<li><a href="https://driver-download.techidaily.com/enhance-your-gameplay-update-nvidia-geforce-gtx-1660-ti-graphics-card-drivers/"><u>Enhance Your Gameplay: Update Nvidia GeForce GTX 1660 Ti Graphics Card Drivers</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-sync-errors-in-nvidia-cp-windows-11/"><u>Fixing Sync Errors in NVidia CP Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/handling-fatal-discord-errors-on-windows-1011-a-comprehensible-guide/"><u>Handling Fatal Discord Errors on Windows 10/11: A Comprehensible Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-inside-stardust-a-complete-exploration-of-stardew-and-its-hidden-gem-ginger-isle/"><u>In 2024, Inside Stardust A Complete Exploration of Stardew and Its Hidden Gem, Ginger Isle</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-samsung-galaxy-s24-ultra-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Samsung Galaxy S24 Ultra</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-to-correct-event-viewer-glitches-in-win-11/"><u>Methods to Correct Event Viewer Glitches in Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-adding-speed-meter-to-taskbar/"><u>Quick Guide: Adding Speed Meter to Taskbar</u></a></li>
+<li><a href="https://windows11.techidaily.com/revisiting-exe-execution-hurdles-in-windows/"><u>Revisiting EXE Execution Hurdles in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-and-personalize-the-ultimate-desktop-guide-for-win11-users/"><u>Streamline & Personalize: The Ultimate Desktop Guide for Win11 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-windows-experience-by-fixing-prerequisites-first/"><u>Streamline Windows Experience by Fixing Prerequisites First</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/watch-dogs-legion-analysis-fresh-location-familiar-thrills/"><u>Watch Dogs: Legion Analysis - Fresh Location, Familiar Thrills</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Optimize VirtualBox Install: Handle Dependencies"
-date: 2024-11-08T17:34:08.447Z
-updated: 2024-11-15T16:15:56.195Z
+date: 2024-11-18T23:50:50.252Z
+updated: 2024-11-24T19:48:42.562Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/92459487433dd8191ecb6f79f9b025b7d93038fc1
 
 ![VirtualBox download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/01-virtualbox-download-page.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Before you install VirtualBox, you must install these packages:
 
 * Microsoft Visual C++ 2019 Redistributable Package
@@ -48,20 +52,21 @@ Close
 
 ![VirtualBox Installation failed! Fatal error during installation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/04-virtualbox-installation-failed-fatal-error-during-installation.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Install Visual C++ Redistributable on Windows
 
  You can download Microsoft Visual C++ Redistributable from the [Microsoft Learn webpage](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170). You need to download the version that suits your operating system (x86/32-bit or x64/64-bit). Once downloaded, proceed with the installation, the process is straightforward.
 
 ![Microsoft Visual C++ Redistributable download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/05-microsoft-visual-c-redistributable-download-page.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Microsoft Visual C++ Redistributable download choose architechture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/06-microsoft-visual-c-redistributable-download-choose-architechture.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Microsoft Visual C++ Redistributable installation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/07-microsoft-visual-c-redistributable-installation.jpg)
 
@@ -72,13 +77,6 @@ Close
  Python is another dependency for VirtualBox. You can download it from the official [Python website](https://www.python.org/downloads/).
 
 ![Download Python win32api for Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/08-download-python-win32api-for-windows.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once downloaded, start the installation. You need to check **Add python.exe to PATH**, and complete the installation. When added to PATH, Python packages and scripts can be accessed from any directory. Complete the installation.
 
@@ -93,10 +91,7 @@ Close
  Your computer has now met all the dependencies to install VirtualBox.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Error Free Installation of VirtualBox on Windows
@@ -105,38 +100,29 @@ Close
 
 ![Install VirtualBox in WIndows using the wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/11-install-virtualbox-in-windows-using-the-wizard.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Install VirtualBox in WIndows custom setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/12-install-virtualbox-in-windows-custom-setup.jpg)
 
 ![Install VirtualBox in WIndows network interfaces warning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/13-install-virtualbox-in-windows-network-interfaces-warning.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Install VirtualBox in WIndows ready to install](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/14-install-virtualbox-in-windows-ready-to-install.jpg)
 
 ![VirtualBox in WIndows installation complete](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/15-virtualbox-in-windows-installation-complete.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![VirtualBox manager in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/16-virtualbox-manager-in-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Run a Guest Operating System of Your Choice via VirtualBox
 
@@ -156,22 +142,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/rasping-youtube-seo-a-guide-to-keyword-discovery/"><u>[New] Grasping YouTube SEO A Guide to Keyword Discovery</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-hero5-in-focus-advanced-photography-and-video-guide-for-gopro/"><u>[New] Hero5 in Focus Advanced Photography & Video Guide for GoPro</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-can-youtube-sub4sub-really-enhance-viewing-experience/"><u>[New] In 2024, Can YouTube Sub4Sub Really Enhance Viewing Experience?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-inject-photos-with-focal-spread-outer-radius-adobe-psx/"><u>[New] In 2024, Inject Photos with Focal Spread Outer Radius Adobe PSX</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-audience-engagement-top-hashtag-strategies-revealed-for-2024/"><u>[Updated] Elevate Audience Engagement Top Hashtag Strategies Revealed for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/best-kid-friendly-movies-featured-on-disneyplus-this-july/"><u>Best Kid-Friendly Movies Featured on Disney+ This July</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-converging-zoom-and-fb-live-for-professional-broadcasts/"><u>In 2024, Converging ZOOM and FB Live for Professional Broadcasts</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-excel-tips-how-to-create-bullet-point-items-in-your-spreadsheets-easily/"><u>Mastering Excel Tips: How To Create Bullet Point Items In Your Spreadsheets Easily</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-excel-a-step-by-step-guide-to-using-exponents/"><u>Mastering Excel: A Step-by-Step Guide to Using Exponents</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-microsoft-excel-a-comprehensive-guide-to-utilizing-round-functions/"><u>Mastering Microsoft Excel: A Comprehensive Guide to Utilizing Round Functions</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-pictorial-data-representation-embedding-pictures-into-ms-excel-worksheets/"><u>Mastering Pictorial Data Representation: Embedding Pictures Into MS Excel Worksheets</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-quick-freezing-of-selected-row-groups-in-ms-excel-a-step-by-step-guide/"><u>Mastering the Quick Freezing of Selected Row Groups in MS Excel: A Step-by-Step Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-guide-fixed-and-the-specific-features-of-excel-like-cell-dimensions-setting-fixed-columns-and-rows/"><u>Mastering, Guide, Fixed, and the Specific Features of Excel Like Cell Dimensions, Setting Fixed Columns, and Rows.</u></a></li>
-<li><a href="https://windows11.techidaily.com/one-click-syncing-of-ms-excel-workbooks-with-onedrive-explained/"><u>One-Click Syncing of MS Excel Workbooks with OneDrive Explained</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/precision-in-ai-reactions-the-power-of-6-strategic-prompts/"><u>Precision in AI Reactions: The Power of 6 Strategic Prompts</u></a></li>
-<li><a href="https://windows11.techidaily.com/save-time-and-effort-with-quick-excel-solutions-no-more-manual-file-organization/"><u>Save Time and Effort with Quick Excel Solutions - No More Manual File Organization!</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/solve-your-fire-tv-stick-problems-with-these-7-effective-remedies/"><u>Solve Your Fire TV Stick Problems with These 7 Effective Remedies</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-the-screen-recording-faceoff-bandicam-versus-camtasiaenas/"><u>[New] The Screen Recording Faceoff Bandicam Versus Camtasia'enas</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-how-to-create-a-playlist-on-youtube-a-complete-guide/"><u>[Updated] How to Create a Playlist on Youtube - a Complete Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-optimizing-your-facebook-budget-high-roi-animated-ad-best-practices-for-2024/"><u>[Updated] Optimizing Your Facebook Budget High-ROI Animated Ad Best Practices for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-high-quality-audio-recording-with-these-top-5-windows-11-tips/"><u>2024 Approved Unlock High-Quality Audio Recording with These Top 5 Windows 11 Tips</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ngs-explosion-boosting-your-youtube-channels-income-via-mobile-for-2024/"><u>Earnings Explosion Boosting Your YouTube Channel's Income via Mobile for 2024</u></a></li>
+<li><a href="https://win-info.techidaily.com/effective-steps-for-removing-webdiscover-from-your-computer-as-recommended-by-cyberprotectors/"><u>Effective Steps for Removing WebDiscover From Your Computer as Recommended by CyberProtectors</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/eight-in-one-recorders-free-fast-and-flexible-for-android-users/"><u>Eight-in-One Recorders Free, Fast, and Flexible for Android Users</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/hidden-facts-about-instagram-stories-a-closer-look-for-viewers/"><u>Hidden Facts About Instagram Stories A Closer Look for Viewers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-apods-made-simple-the-ultimate-audio-solution/"><u>In 2024, APods Made Simple The Ultimate Audio Solution</u></a></li>
+<li><a href="https://windows11.techidaily.com/integrating-onedrive-and-microsoft-accounts-a-walkthrough/"><u>Integrating OneDrive & Microsoft Accounts: A Walkthrough</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-quiet-hardware-reclaiming-sound-systems/"><u>Overcoming Quiet Hardware: Reclaiming Sound Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/program-specific-keys-on-a-microsoft-system/"><u>Program-Specific Keys on a Microsoft System</u></a></li>
+<li><a href="https://windows11.techidaily.com/revamp-outlooks-speed-for-better-windows-experience/"><u>Revamp Outlook's Speed for Better Windows Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/secure-your-pc-with-the-proper-management-of-fn-key/"><u>Secure Your PC with the Proper Management of Fn Key</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailoring-your-sound-experience-in-windows-11/"><u>Tailoring Your Sound Experience in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-bsod-understanding-and-fixing-blue-screen/"><u>Win11 BSOD: Understanding & Fixing Blue Screen</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-audio-issue-methods-to-enable-automatic-system-startup/"><u>Windows Audio Issue: Methods to Enable Automatic System Startup</u></a></li>
+<li><a href="https://windows11.techidaily.com/winsplit-a-guide-to-overcome-display-split/"><u>WinSplit: A Guide to Overcome Display Split</u></a></li>
+<li><a href="https://extra-information.techidaily.com/x-factor-photo-session-the-classic-iphone-experience/"><u>X-Factor Photo Session The Classic iPhone Experience</u></a></li>
 </ul></div>
 

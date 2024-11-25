@@ -1,7 +1,7 @@
 ---
 title: "Top Essentials for Selecting a Win PC: A Must-Know Guide"
-date: 2024-11-10T16:38:02.193Z
-updated: 2024-11-15T17:26:10.438Z
+date: 2024-11-19T23:16:16.475Z
+updated: 2024-11-24T18:26:22.479Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/91b7cfb4d96e2456602f29985eb790b38dbd8c0fc
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How Much Do You Want to Spend on a Laptop?
 
 ![A person holding out a handful of US dollar bills](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/person-holding-money.jpg)
@@ -43,22 +47,23 @@ thumbnail: https://thmb.techidaily.com/91b7cfb4d96e2456602f29985eb790b38dbd8c0fc
 
  A clear definition of your needs may eliminate the necessity to purchase a laptop if you see [some reasons you may not need a laptop](https://www.makeuseof.com/tag/4-reasons-dont-need-laptop-anymore/). Instead, you may opt for another device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Which Hardware Specifications Are Most Important to You?
 
 ![AMD processor and Intel processor side by side](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/AMD-vs-Intel.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you've determined your purpose for buying a laptop, you should analyze how powerful its hardware should be to meet your needs. Is there a specific purpose you hope your laptop will serve? If that is the case, you may need to prioritize some hardware components over others for your system to run efficiently.
 
  For instance, if you're buying a gaming laptop or plan to do graphics-intensive work on it, be sure that the GPU is powerful enough to handle the workload. Likewise, buying a laptop for work or studies does not necessarily require a GPU but rather a more powerful RAM and processor. Based on that, list the specs your device needs to perform at its best.
 
  Check our guides on [what to consider when choosing a laptop as a programmer](https://www.makeuseof.com/programmer-things-to-consider-buying-laptop/) or [student](https://www.makeuseof.com/specs-check-before-buying-laptop-school/) if you want to buy a device for these purposes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. How Long Do You Need the Laptop Battery to Last on a Single Charge?
 
@@ -67,19 +72,6 @@ thumbnail: https://thmb.techidaily.com/91b7cfb4d96e2456602f29985eb790b38dbd8c0fc
  In cases where you cannot leave the device tethered to the power source for long, such as when traveling, you should aim for a device that can last an entire day on a single charge. In contrast, battery life shouldn't be a concern if you plan to use the device mostly at your desk, such as at work or for gaming, where you can tether it every time you use it.
 
  Nevertheless, ensure the battery lasts at least long enough to get you through a power outage or an outdoor excursion.
-
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. What Size and Weight of the Laptop Is Most Suitable for Your Needs?
 
@@ -96,32 +88,20 @@ thumbnail: https://thmb.techidaily.com/91b7cfb4d96e2456602f29985eb790b38dbd8c0fc
  Besides that, you should consider how reliable the warranty options the brand offers are. By choosing a laptop with a good warranty, you can feel confident that your money is well spent, and you won't have to deal with independent repair shops if your laptop breaks down. Ensure the laptop you buy has at least a year or two warranty.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. What Type and Number of Ports Would You Need on Your Laptop?
 
 ![A Close Up Shot of the Ports on a Laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/a-close-up-shot-of-the-ports-on-a-laptop.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Just like having a laptop that lasts long, comes from a reliable brand, is highly portable, and equips high-end hardware is essential, your device should have the ports you need. Ethernet, HDMI, and USB Type-C ports are some of the ports you definitely need on your laptop. So, if your use case requires these ports, choose a laptop that has them.
 
  Obviously, you can always purchase external adapters to connect devices in ports your device does not support; however, that will add to the cost and take up space on your desk.
-
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Mastering Your Windows Laptop Purchase
 
@@ -141,24 +121,16 @@ thumbnail: https://thmb.techidaily.com/91b7cfb4d96e2456602f29985eb790b38dbd8c0fc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-techniques-selecting-audioscapes-for-unveiling-videos/"><u>[New] In 2024, Techniques Selecting Audioscapes for Unveiling Videos</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-7-essential-tips-for-flawless-underwater-filming-for-2024/"><u>[Updated] 7 Essential Tips for Flawless Underwater Filming for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-awesome-iphone-selfie-solutions-spot-8-now/"><u>[Updated] Awesome iPhone Selfie Solutions - Spot #8 Now</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-channel-branding-hacks-10-must-use-online-tools/"><u>[Updated] Channel Branding Hacks 10 Must-Use Online Tools</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Lava Blaze 2 | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/escape-plan-dodge-facebook-lockdowns-effectively/"><u>Escape Plan Dodge Facebook Lockdowns Effectively</u></a></li>
-<li><a href="https://windows11.techidaily.com/expert-strategies-for-overcoming-steam-service-errors-on-windows-11/"><u>Expert Strategies for Overcoming Steam Service Errors on Windows 11</u></a></li>
-<li><a href="https://extra-information.techidaily.com/from-ground-to-sky-discovering-mavic-pro-wonders/"><u>From Ground to Sky - Discovering Mavic Pro Wonders</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-geforce-experience-error-code-0x0001-in-windows-10-and-11/"><u>How to Fix the GeForce Experience Error Code 0X0001 in Windows 10 & 11</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Nokia 105 Classic | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-and-fixing-windows-update-problems/"><u>Navigating and Fixing Windows Update Problems</u></a></li>
-<li><a href="https://windows11.techidaily.com/notepaddarkmodetoggleprocedurewinos/"><u>NotepadDarkModeToggleProcedureWinOS</u></a></li>
-<li><a href="https://windows11.techidaily.com/revitalizing-the-file-explorer-ui/"><u>Revitalizing the File Explorer UI</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/seamless-blend-of-text-and-video-without-payment-for-2024/"><u>Seamless Blend of Text & Video Without Payment for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-win11-overcoming-errors-in-team-communication-app/"><u>Streamlining Win11: Overcoming Errors in Team Communication App</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-complete-walkthrough-to-jdk-installation-on-windows-11/"><u>The Complete Walkthrough to JDK Installation on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-7-decisions-to-make-before-acquiring-a-windows-model/"><u>Top 7 Decisions to Make Before Acquiring a WIndows Model</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-hidden-issues-causing-adobe-ps-not-launched/"><u>Unveiling Hidden Issues Causing Adobe PS Not Launched</u></a></li>
-<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-from-apple-iphone-12-pro-max-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes From Apple iPhone 12 Pro Max?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-meta-vs-omni-navigating-digital-realms/"><u>[New] 2024 Approved Meta Vs. Omni Navigating Digital Realms</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-journey-into-soundscapes-apples-ipodcast-playback-on-iphone/"><u>[New] Journey Into Soundscapes Apple's iPodcast Playback on iPhone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-chart-topping-content-youtubes-top-5/"><u>2024 Approved Chart-Topping Content YouTube's Top 5</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-extract-srt-from-zip-simple-subtitle-file-creation-tips/"><u>2024 Approved Extract SRT From ZIP Simple Subtitle File Creation Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/4-ways-to-find-a-programs-install-location-on-windows/"><u>4 Ways to Find a Program's Install Location on Windows</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/copyrighted-chords-navigating-music-uploads-to-insta-for-2024/"><u>Copyrighted Chords Navigating Music Uploads to Insta for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/disabling-accidental-windows-11-search-menu-trigger/"><u>Disabling Accidental Windows 11 Search Menu Trigger</u></a></li>
+<li><a href="https://windows11.techidaily.com/faster-apps-better-internet-fixes-for-windows-devices/"><u>Faster Apps, Better Internet: Fixes for Windows Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/outperforming-understanding-why-pcs-triumph-over-macs-9/"><u>Outperforming: Understanding Why PCs Triumph over Macs (#9)</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-correct-steam-ui-dll-not-loaded-error/"><u>Steps to Correct Steam UI DLL Not Loaded Error</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/worldwide-rich-list-top-earning-youtubers-for-2024/"><u>Worldwide Rich List Top Earning YouTubers for 2024</u></a></li>
 </ul></div>
 

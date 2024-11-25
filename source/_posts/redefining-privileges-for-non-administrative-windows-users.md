@@ -1,7 +1,7 @@
 ---
 title: Redefining Privileges for Non-Administrative Windows Users
-date: 2024-10-26T17:10:31.561Z
-updated: 2024-10-30T16:32:44.659Z
+date: 2024-11-23T23:58:58.968Z
+updated: 2024-11-24T18:54:53.595Z
 tags:
   - windows10
   - windows11
@@ -30,13 +30,6 @@ thumbnail: https://thmb.techidaily.com/97bc8f701c5a50640871957d35ec4f8e16308c84b
 
  The default UAC behavior for standard user accounts is **Prompt for credentials**, but Microsoft recommends you change it to **Automatically deny elevation requests**. That way, only users with administrator accounts can decide how the UAC behaves and make choices that will keep the computer safe.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Change the UAC Behavior for Standard Users in the Local Group Policy Editor
 
  The easiest way to change the way UAC behaves for standard users is to tweak the **User Account Control: Behavior of the elevation prompt for standard users** policy. To do that, [open the Local Group Policy Editor](https://www.makeuseof.com/windows-11-open-local-group-policy-editor/) and follow the steps below.
@@ -48,17 +41,18 @@ thumbnail: https://thmb.techidaily.com/97bc8f701c5a50640871957d35ec4f8e16308c84b
 ![modifying the policy for UAC behavior in Local Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/modifying-policy-for-uac-behavior-in-local-group-policy-editor.jpg)
 3. Expand the dropdown and choose a different UAC behavior.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![editing the policy for UAC behavior in Local Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/editing-policy-for-uac-behavior-in-local-group-policy-editor.jpg)
 4. Click **OK**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Keep in mind that only administrators can change the behavior of the UAC. If a standard user tried to change it using the Local Group Policy Editor, for example, they'd probably get an **Access denied** error message.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Change the UAC Behavior for Standard Users in the Registry Editor
 
@@ -70,25 +64,23 @@ thumbnail: https://thmb.techidaily.com/97bc8f701c5a50640871957d35ec4f8e16308c84b
 ![the System key in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/system-key-registry-editor.jpg)
 2. Press **Enter** on your keyboard to go to the **System** key.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Right-click the **ConsentPromptBehaviorUser** value in the right panel and select **Modify**.  
 ![modifying the ConsentPromptBehaviorUser value in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/modifying-consentpromptbehavioruser-in-registry-editor.jpg)
 4. In the **Value data** text box, enter **0** for **Automatically deny elevation requests**, **1** for **Prompt for credentials on the secure desktop**, or **3** for **Prompt for credentials**.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![setting Value data for ConsentPromptbehavior Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/setting-value-data-for-consentpromptbehavior-registry-editor.jpg)
 5. Click **OK**.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now restart your computer to allow the changes to take effect.
@@ -108,22 +100,21 @@ thumbnail: https://thmb.techidaily.com/97bc8f701c5a50640871957d35ec4f8e16308c84b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-detailed-hdr-tutorial-uncomplicated-approach/"><u>[New] In 2024, Detailed HDR Tutorial Uncomplicated Approach</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-your-guide-to-genuine-selfies-on-instagrams-canvas/"><u>[Updated] Your Guide to Genuine Selfies on Instagram's Canvas</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-channels-for-filmmakers-to-learn-filmmaking-tips-and-tutorials/"><u>2024 Approved YouTube Channels for Filmmakers to Learn Filmmaking Tips and Tutorials</u></a></li>
-<li><a href="https://windows11.techidaily.com/clear-and-constructive-icon-arrangement-ideas/"><u>Clear and Constructive Icon Arrangement Ideas</u></a></li>
-<li><a href="https://windows11.techidaily.com/comprehensive-exploration-of-windows-narrators-legacy-keys/"><u>Comprehensive Exploration of Windows Narrator's Legacy Keys</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/efficient-strategies-for-keeping-work-at-bay-and-preserving-family-moments-with-5-essential-steps/"><u>Efficient Strategies for Keeping Work at Bay and Preserving Family Moments with 5 Essential Steps</u></a></li>
-<li><a href="https://windows11.techidaily.com/eliminating-windows-errors-during-amd-195-installation/"><u>Eliminating Windows Errors During AMD 195 Installation</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-reveal-hidden-sd-card-in-file-explorer/"><u>How to Reveal Hidden SD Card in File Explorer?</u></a></li>
-<li><a href="https://windows11.techidaily.com/immediate-actions-to-mend-post-windows-update-issues/"><u>Immediate Actions to Mend Post-Windows Update Issues</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-playlist-guide-for-youtube-enthusiasts-online-and-mobile/"><u>In 2024, The Ultimate Playlist Guide for YouTube Enthusiasts Online & Mobile</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unleashing-the-power-of-time-lapse-photography-using-gopro/"><u>In 2024, Unleashing the Power of Time-Lapse Photography Using GoPro</u></a></li>
-<li><a href="https://windows11.techidaily.com/interpreting-launch-identifiers-for-applications/"><u>Interpreting Launch Identifiers for Applications</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-chromes-erroneous-threat-detection-a-guide/"><u>Navigating Chrome's Erroneous Threat Detection: A Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/remedy-for-unsupported-audio-device-windowss/"><u>Remedy for Unsupported Audio Device Windowss</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722871889900-resolving-the-notfound-error-with-coredll-a-comprehensive-guide/"><u>Resolving the NotFound Error with Core.dll: A Comprehensive Guide</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-essential-list-of-online-video-ripper-tools-for-2024/"><u>The Essential List of Online Video Ripper Tools for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/transformez-un-fichier-flv-en-format-ogg-gratuitement-en-ligne-avec-movavi/"><u>Transformez Un Fichier FLV en Format OGG Gratuitement - en Ligne Avec Movavi</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-selling-success-on-facebook-ideas-and-strategies-to-try/"><u>[New] Selling Success on Facebook Ideas and Strategies to Try</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-white-walkers-whistle-where-to-find-your-favorite-got-ringtone-for-2024/"><u>[New] White Walkers Whistle Where to Find Your Favorite GoT Ringtone for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-ideal-mics-for-bloggers-educators-and-entertainment-clips/"><u>[Updated] 2024 Approved Ideal Mics for Bloggers, Educators, & Entertainment Clips</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-essential-techniques-for-dell-pc-screen-saving/"><u>[Updated] In 2024, Essential Techniques for Dell PC Screen Saving</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unlocking-the-secrets-of-your-personalized-youtube-playlists/"><u>[Updated] Unlocking the Secrets of Your Personalized Youtube Playlists</u></a></li>
+<li><a href="https://windows11.techidaily.com/6-ways-to-recover-an-off-screen-window-in-windows-10-and-11/"><u>6 Ways to Recover an Off-Screen Window in Windows 10 and 11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-oneplus-open-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on OnePlus Open Phones</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-twitters-revised-video-standards-aspect-ratios-included/"><u>In 2024, Twitter's Revised Video Standards Aspect Ratios Included</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-video-lag-during-steam-livestreams/"><u>Overcoming Video Lag During Steam Livestreams</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-support-functionality-in-windows-11-help/"><u>Restoring Support Functionality in Windows 11 Help</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-your-windows-11-program-choices/"><u>Streamlining Your Windows 11 Program Choices</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-8-different-ways-to-restart-your-windows-computer/"><u>The 8 Different Ways to Restart Your Windows Computer</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-silent-sounds-on-windows-devices/"><u>Troubleshooting Silent Sounds on Windows Devices</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-the-ultimate-guide-to-rotating-videos-with-ease-for-2024/"><u>Updated The Ultimate Guide to Rotating Videos with Ease for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/video-wizardry-your-guide-to-the-top-10-editing-hacks-for-2024/"><u>Video Wizardry Your Guide to the Top 10 Editing Hacks for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-right-click-customization-compatibility-tool-inclusion/"><u>Windows Right-Click Customization: Compatibility Tool Inclusion</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Streamlining Corporate Controlled Browser Configuration on Chrome/Edge
-date: 2024-11-08T17:23:58.025Z
-updated: 2024-11-15T17:23:11.563Z
+date: 2024-11-23T21:44:40.508Z
+updated: 2024-11-25T00:47:22.569Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
 
  To remove the message, first, verify if your antivirus is responsible for the message. If not, search and remove malicious extensions, programs, and policies hijacking your Chrome or Edge browser.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check Your Antivirus Settings
 
 ![avg web shield off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/avg-web-shield-off.jpg)
@@ -63,29 +67,13 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
 ![delete chrome policy registry editor 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/delete-chrome-policy-registry-editor-1.jpg)
 5. If there are no Chrome or Edge policies in the**Policies** key, navigate to the following location:  
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 `Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\`
 6. Next, if you use**Chrome** , navigate to**\\Google\\Chrome** and delete any policy values in the right pane.  
 ![delete chrome policy registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/delete-chrome-policy-registry-editor.jpg)
 7. For**Edge** , navigate to**\\Microsoft\\MicrosoftEdge** . In the right pane, check for any suspicious policies. If it exists, right-click on the policy and select**Delete** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. Close Registry Editor and restart your computer to see if the message is removed.
@@ -107,10 +95,7 @@ RD /S /Q "%WinDir%\System32\GroupPolicy"
 6. Close Command Prompt and check if the message is removed.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Reset Chrome and Edge
@@ -137,16 +122,13 @@ To reset Microsoft Edge:
 3. Click**Reset** to confirm the action.
 4. You’ll need to enable your extensions after the reset is complete.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Run MalwareBytes AdwCleaner
 
 ![malwarebytes adwcleaner windows](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/malwarebytes-adwcleaner-windows.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Malwarebytes AdwCleaner is a free adware scanning and cleaning utility for Windows. Use the tool to scan your computer for PUP and other malware and remove them with a click.
 
@@ -162,13 +144,6 @@ To remove adware using MalwareBytes:
 
 ![factory reset Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/factory-reset-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you cannot find the affected policy or can’t remove the malware, you’ll need to perform a reset to remove the message and the malicious program.
 
  You can reset your Windows computer without removing your personal files and folders. This will remove any and all third-party software on your PC. So, you'll need to start from scratch after the reset.
@@ -181,6 +156,10 @@ To perform a Windows system reset:
 4. Next, choose**Keep my Files** to perform a reset without removing your personal files. This will, however, remove apps and settings.
 5. Next, select**Cloud Download** . This option requires an active Internet connection to download and reinstall the latest version of Windows operating system. If not, select**Local** **Reinstall** .
 6. Wait for the reset to complete, and your PC will restart. After the restart, you’ll need to reinstall the browser and other apps to get started.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Remove the "Your Browser is Managed By Your Organization" Message on Windows
 
@@ -201,24 +180,21 @@ To perform a Windows system reset:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-stealth-mode-best-apps-for-instagram-viewing/"><u>[Updated] 2024 Approved Stealth Mode Best Apps for Instagram Viewing</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-enhancing-slideshow-impact-with-webcam-integration/"><u>[Updated] Enhancing Slideshow Impact with Webcam Integration</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-channel-cash-crusade-harnessing-every-device-with-yt-studio/"><u>[Updated] In 2024, Channel Cash Crusade Harnessing Every Device with YT Studio</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/come-rimuovere-facilmente-i-tuoi-vecchi-ricordi-eliminazione-completa-delle-foto-dalliphone-13-e-iphone-14/"><u>Come Rimuovere Facilmente I Tuoi Vecchi Ricordi: Eliminazione Completa Delle Foto Dall'iPhone 13 E iPhone 14</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-steps-for-windows-11s-software-distro-and-catroot2-restart/"><u>Essential Steps for Windows 11'S Software Distro and Catroot2 Restart</u></a></li>
-<li><a href="https://windows11.techidaily.com/filter-outuseless-windows-updates/"><u>Filter Outuseless Windows Updates</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/how-to-automatically-resize-videos-for-instagram-on-mac-in-2024/"><u>How to Automatically Resize Videos for Instagram on Mac, In 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-overscan-in-windows-to-fit-the-screen/"><u>How to Fix Overscan in Windows to Fit the Screen</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-overcome-vanished-youtube-minute-media/"><u>In 2024, Overcome Vanished YouTube Minute Media</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-windows-11-8-key-avoidances-for-smooth-sailing/"><u>Navigating Windows 11: 8 Key Avoidances for Smooth Sailing</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimize-windows-security-modifying-context-menu-with-firewalls/"><u>Optimize Windows Security: Modifying Context Menu with Firewalls</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-fluctuating-playback-top-9-solutions-for-smooth-videos-on-pcs/"><u>Overcoming Fluctuating Playback: Top 9 Solutions for Smooth Videos on PCs</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/quick-hues-speaking-in-french-with-precision/"><u>Quick Hues: Speaking in French with Precision</u></a></li>
-<li><a href="https://windows11.techidaily.com/reversing-the-trend-of-failed-ea-server-connectivity/"><u>Reversing the Trend of Failed EA Server Connectivity</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/simplify-your-video-collection-top-8-mac-metadata-editors/"><u>Simplify Your Video Collection Top 8 Mac Metadata Editors</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/top-mp4-tools-for-mac-users-maximizing-youtube-productions/"><u>Top MP4 Tools For Mac Users Maximizing YouTube Productions</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-solutions-to-workaround-folder-naming-limitations-on-windows-11/"><u>Top Solutions to Workaround Folder Naming Limitations on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/win-back-lost-apps-expert-methods-for-off-screen-window-restoration/"><u>Win Back Lost Apps: Expert Methods for Off-Screen Window Restoration</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/windows-1011pcdvd/"><u>Windows 10/11でPCにDVDファイルを組み立てる手引き</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/xplore-top-12-gear-best-on-the-go-flip-screen-cameras/"><u>[New] Explore Top 12 Gear Best On-the-Go Flip-Screen Cameras</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-iconic-image-reimagining-tools-visualmorph-v2/"><u>[Updated] In 2024, Iconic Image Reimagining Tools VisualMorph V2</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-xsplit-free-splitting-tools-for-modern-viewers/"><u>[Updated] In 2024, Xsplit-Free Splitting Tools for Modern Viewers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/adobe-audition-tutorial-managing-sound-curves-for-2024/"><u>Adobe Audition Tutorial Managing Sound Curves for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoid-overlapping-security-measures-stick-to-one-windows-antivirus/"><u>Avoid Overlapping Security Measures: Stick to One Windows Antivirus</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-battlenet-speed-a-win-pc-strategy-guide/"><u>Boosting Battle.net Speed: A Win-PC Strategy Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/easy-steps-to-fix-error-code-0xc0000001-on-windows-pcs/"><u>Easy Steps To Fix Error Code 0XC0000001 on Windows PCs</u></a></li>
+<li><a href="https://win-hot.techidaily.com/ejecutar-windows-11-desde-un-disco-duro-externo-o-memoria-usb-tutorial-completo/"><u>Ejecutar Windows 11 Desde Un Disco Duro Externo O Memoria USB: Tutorial Completo</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fresh-release-latest-graphics-driver-for-nvidias-rtx-2060-on-windows-systems-windows-111087/"><u>Fresh Release: Latest Graphics Driver for Nvidia's RTX 2060 on Windows Systems (Windows 11/10/8/7)</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210650328-9781958678701-peace-health-happiness/"><u>Peace Health Happiness | Free Book</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/speech-synthesis-simplified-transforming-ssaxml-into-srt-perfection-for-2024/"><u>Speech Synthesis Simplified Transforming SSA/XML Into SRT Perfection for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/ultraportables-with-prime-windows-software/"><u>Ultraportables with Prime Windows Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-your-pcs-potential-onedrive-troubleshooting-tips/"><u>Unlocking Your PC's Potential: OneDrive Troubleshooting Tips</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unnoticed-yet-there-watching-instagram-livestreams-undetected/"><u>Unnoticed Yet There Watching Instagram Livestreams Undetected</u></a></li>
+<li><a href="https://windows11.techidaily.com/using-windows-system-restore-feature-efficiently/"><u>Using Windows' System Restore Feature Efficiently</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-steering-classic-games-to-your-pics/"><u>Windows 11: Steering Classic Games to Your Pics</u></a></li>
 </ul></div>
 

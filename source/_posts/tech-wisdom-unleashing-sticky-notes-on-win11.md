@@ -1,7 +1,7 @@
 ---
 title: "Tech Wisdom: Unleashing Sticky Notes on Win11"
-date: 2024-11-10T16:51:07.390Z
-updated: 2024-11-15T17:03:29.509Z
+date: 2024-11-21T00:57:12.777Z
+updated: 2024-11-25T01:18:33.543Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/5d40c0bfb2b671dade97ca433b00bb587bba5a397
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is Sticky Notes on Windows?
 
  Windows offers a handy tool called Sticky Notes that lets you take notes and keep track of information. This is basically a note-taking application that comes pre-installed with the Windows operating system.
@@ -43,6 +47,10 @@ To open Sticky Notes using the Windows Search tool, do the following:
 ![Open Sticky Notes Using Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Sticky-Notes-Using-Windows-Search.jpg)
 2. Then type "Sticky Notes" into the search bar.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. The Sticky Notes app should appear as a search result. Click on it to open the app.
 
  Once the Sticky Notes app is open, you will be able to see all of your saved notes. You can also start creating new notes by clicking on the "+" sign at the top of the window. To edit an existing note, simply click on it and start typing.
@@ -60,17 +68,11 @@ To open Sticky Notes from the Start Menu, follow these steps:
 2. Scroll down until you see**Sticky Notes** , then click to open it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. How to Open the Sticky Notes With a Desktop Shortcut
@@ -86,10 +88,7 @@ To open Sticky Notes from the Start Menu, follow these steps:
  As a result, you can create a shortcut to the application on your desktop that will open with a single click.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. How to Pin Sticky Notes to the Taskbar
@@ -99,13 +98,6 @@ To open Sticky Notes from the Start Menu, follow these steps:
 1. Click on**Start** and type "Sticky Notes."
 2. Right-click on Sticky Notes and select**Pin to taskbar** .  
 ![How to Pin Sticky Notes to the Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/How-to-Pin-Sticky-Notes-to-the-Taskbar.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now you can access your sticky notes right from the taskbar.
 
@@ -128,22 +120,14 @@ Now you can access your sticky notes right from the taskbar.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-quintessential-vr-enhancements-for-players/"><u>[New] 2024 Approved Quintessential VR Enhancements for Players</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-ultimate-gaming-lineup-bike-titles/"><u>[New] In 2024, Ultimate Gaming Lineup Bike Titles</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-years-biggest-beauty-influencers-on-youtube/"><u>[New] Year's Biggest Beauty Influencers on YouTube</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-understanding-your-absence-on-snapchat/"><u>[Updated] 2024 Approved Understanding Your Absence on Snapchat</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-designing-dramatic-beginnings-in-podcasts-for-2024/"><u>[Updated] Designing Dramatic Beginnings in Podcasts for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/balancing-professional-and-personal-profiles/"><u>Balancing Professional and Personal Profiles</u></a></li>
-<li><a href="https://driver-download.techidaily.com/find-and-install-the-best-hp-deskjet-2755e-drivers-for-optimal-windows-performance/"><u>Find and Install the Best HP Deskjet 2755E Drivers for Optimal Windows Performance</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-spotify-app-crashes-on-ios-a-guide-for-iphone-users/"><u>Fixing Spotify App Crashes on iOS: A Guide for iPhone Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-the-random-selection-of-default-windows-printer/"><u>Fixing the Random Selection of Default Windows Printer</u></a></li>
-<li><a href="https://windows11.techidaily.com/indispensable-items-on-the-agenda-prior-to-os-clean-slate/"><u>Indispensable Items on the Agenda Prior to OS Clean Slate</u></a></li>
-<li><a href="https://windows11.techidaily.com/innovating-user-experience-ais-role-in-windows-11/"><u>Innovating User Experience: AI's Role in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/keyboard-command-compendium-masterful-win11-narrator-use/"><u>Keyboard Command Compendium: Masterful Win11 Narrator Use</u></a></li>
-<li><a href="https://windows11.techidaily.com/retrieving-hidden-pin-after-system-error-on-windows-11/"><u>Retrieving Hidden PIN After System Error on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/steer-clear-of-stuck-startup-screen-lotr-style/"><u>Steer Clear of Stuck Startup Screen, LOTR Style</u></a></li>
-<li><a href="https://windows11.techidaily.com/taming-the-printer-busy-state-in-win11/"><u>Taming the Printer Busy State in Win11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-ar-eyewear-choices-featured-by-zdnet/"><u>Top-Rated AR Eyewear Choices Featured by ZDNet</u></a></li>
-<li><a href="https://windows11.techidaily.com/vmstart-errors-in-win11-try-these-top-7-solutions-vmware/"><u>VMstart Errors in Win11? Try These Top 7 Solutions, VMware</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-the-complete-breakdown-why-your-video-needs-proper-tagging/"><u>[New] 2024 Approved The Complete Breakdown Why Your Video Needs Proper Tagging</u></a></li>
+<li><a href="https://windows11.techidaily.com/dispatching-windows-11s-silent-search-instigator/"><u>Dispatching Windows 11'S Silent Search Instigator</u></a></li>
+<li><a href="https://extra-information.techidaily.com/easy-safe-and-cost-free-the-leaders-guide-to-downloading-pins/"><u>Easy, Safe, and Cost-Free The Leader's Guide to Downloading Pins</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-mastering-music-integration-into-vimeo-videos/"><u>In 2024, Mastering Music Integration Into Vimeo Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-wins-control-in-windows-11-easy-steps/"><u>Master Wins Control in Windows 11: Easy Steps</u></a></li>
+<li><a href="https://windows11.techidaily.com/mitigating-code-xc0000142-on-windows-xp-10/"><u>Mitigating Code XC0000142 on Windows XP, 10</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigating-your-srt-files-with-mac-expertise-for-2024/"><u>Navigating Your SRT Files with Mac Expertise for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fixes-making-winget-work-again-in-windows/"><u>Quick Fixes: Making Winget Work Again in Windows</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-best-free-home-security-camera-apps-expert-reviews-for-2024/"><u>Updated Best Free Home Security Camera Apps Expert Reviews for 2024</u></a></li>
 </ul></div>
 

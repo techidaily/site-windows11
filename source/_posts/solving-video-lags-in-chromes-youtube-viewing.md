@@ -1,7 +1,7 @@
 ---
 title: Solving Video Lags in Chrome's YouTube Viewing
-date: 2024-08-22T21:38:21.074Z
-updated: 2024-08-23T21:38:21.074Z
+date: 2024-11-20T02:39:29.902Z
+updated: 2024-11-25T00:22:29.080Z
 tags:
   - windows10
   - windows11
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/2d6e3d004fe41d35820dae54c2391ec61920df6e0
 
  If the above fixes don't resolve the issue and the lag persists, it's time for some more complex ones.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Free Up Your RAM
 
  A lack of RAM is the most common cause of YouTube videos lagging excessively. Therefore, your next step should be to close the memory-hogging processes currently running on your device. After they are freed up, Chrome should be able to play YouTube videos more smoothly.
@@ -63,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/2d6e3d004fe41d35820dae54c2391ec61920df6e0
 
  Now try to play videos again and see if they lag.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Change the Chrome Performance Settings
 
  Chrome added two new features to improve the performance of the browser: memory saver and energy saver. When turned on, the memory saver saves some of the memory from inactive tabs and allocates it to active tabs. Thus, enabling this feature helps the active tab run YouTube more efficiently.
@@ -76,9 +84,6 @@ thumbnail: https://thmb.techidaily.com/2d6e3d004fe41d35820dae54c2391ec61920df6e0
 3. Turn the toggle next to **Energy Saver** off and the toggle next to **Memory Saver** on.  
 ![Turn on Memory Saver and Disable Energy Saver in Chrome Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/turn-on-memory-saver-and-disable-energy-saver-in-chrome-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  See if this reduces Chrome's RAM footprint.
 
 ## 5\. Reduce the Video Quality
@@ -93,9 +98,14 @@ thumbnail: https://thmb.techidaily.com/2d6e3d004fe41d35820dae54c2391ec61920df6e0
 ![Reduce the Quality of YouTube Video in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/6-reduce-the-quality-of-youtube-video-in-chrome.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The video won't look as good now, but it should play better.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Check Your Internet Connection
 
@@ -114,9 +124,6 @@ thumbnail: https://thmb.techidaily.com/2d6e3d004fe41d35820dae54c2391ec61920df6e0
 3. Go to **Graphics** and click on the **Change default graphics settings** button.  
 ![Click on the Change Default Graphics Settings Button in Graphics Settings of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/7-click-on-the-change-default-graphics-settings-button-in-graphics-settings-of-the-windows-settings-app.jpg)
 4. Here, enable **hardware-accelerated GPU scheduling**.
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now anything that uses your GPU should run better. If you notice things working worse instead, deactivate the setting.
 
@@ -130,12 +137,6 @@ thumbnail: https://thmb.techidaily.com/2d6e3d004fe41d35820dae54c2391ec61920df6e0
 4. Turn on the toggle next to **Use hardware acceleration when available**.  
 ![Enable Hardware Acceleration in Chrome Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/9-enable-hardware-acceleration-in-chrome-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 9\. Ensure Chrome Is Up-to-Date
 
  Running an outdated version of Chrome can also slow down the browser. Updating the browser fixes existing bugs that make it perform better. Therefore, upgrading a browser to the latest version can also help improve efficiency and reduce lag. To make sure your browser is up-to-date, follow the below steps:
@@ -146,15 +147,17 @@ thumbnail: https://thmb.techidaily.com/2d6e3d004fe41d35820dae54c2391ec61920df6e0
 ![Click on About Google Chrome in Chrome Menu to See Whether Chrome Is Up to Date](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/click-on-about-google-chrome-in-chrome-menu-to-see-whether-chrome-is-up-to-date.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Google Chrome will check for updates and, if any are available, download and install them. Then, click on **Relaunch** to give your browser a fresh start. If you see the **"Chrome is up to date"** message, your browser is already up to date.
 
 ![Ensure the Chrome Browser is Up to Date](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/11-ensure-the-chrome-browser-is-up-to-date.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Binge Watch YouTube Videos Once Again
 
  The lag and stutter we experience when watching YouTube videos can truly ruin our experience. You should now better understand what causes YouTube videos to lag and stutter constantly and what changes you can make to make them run more smoothly. If nothing works and the issue persists, you should reinstall the browser.
@@ -165,11 +168,30 @@ thumbnail: https://thmb.techidaily.com/2d6e3d004fe41d35820dae54c2391ec61920df6e0
 
  In January 2024, reports circulated that YouTube was slowing down videos for adblock users. Google has denied this, and states that the problem lies with the adblocking extensions. If you use any adblockers, disable them on YouTube or install the latest updates to hopefully resolve performance issues.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-your-first-step-in-advanced-photo-editing-snapseed/"><u>[New] Your First Step in Advanced Photo Editing Snapseed</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-command-center-redefined-your-pathway-through-studio/"><u>[Updated] Command Center Redefined Your Pathway Through Studio</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-comprehensive-study-gopro-slr4-sliver-feature-review/"><u>[Updated] Comprehensive Study GoPro SLR4 Sliver Feature Review</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-detailed-review-of-magixs-acid-pro-and-similar-programs-for-2024/"><u>[Updated] Detailed Review of Magix's ACID Pro & Similar Programs for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-unmatched-5-apps-for-harmonious-photoplussound-creation/"><u>2024 Approved Unmatched 5 Apps for Harmonious Photo+Sound Creation</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-fixes-for-windows-remote-desktop-problems/"><u>Essential Fixes for Windows Remote Desktop Problems</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-pathways-for-opening-hardware-spaces-on-w10w11/"><u>Essential Pathways for Opening Hardware Spaces on W10/W11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-poco-c51-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Poco C51 Phone that is Locked?</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-to-prevent-data-loss-in-unresponsive-usb-cases-windows/"><u>Methods to Prevent Data Loss in Unresponsive USB Cases (Windows)</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-to-rectify-frozen-and-unresponsive-windows-discord-elements/"><u>Methods to Rectify Frozen and Unresponsive Windows Discord Elements</u></a></li>
+<li><a href="https://windows11.techidaily.com/personalize-your-pcs-clock-view-ideal-screensaver-creation-apps-in-windows-platform/"><u>Personalize Your PC's Clock View: Ideal Screensaver Creation Apps in Windows Platform</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-network-navigator-guiding-you-through-obs-connectivity-troubles-7-ways/"><u>The Network Navigator: Guiding You Through OBS Connectivity Troubles (7 Ways)</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-oneplus-11-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from OnePlus 11 5G to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/top-picks-in-gimbals-to-elevate-your-drone-imagery/"><u>Top Picks in Gimbals to Elevate Your Drone Imagery</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleash-your-windows-start-windows-media-player-now/"><u>Unleash Your Windows: Start Windows Media Player Now</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-rotate-your-iphone-videos-without-spending-a-dime-top-free-options/"><u>Updated 2024 Approved Rotate Your iPhone Videos Without Spending a Dime Top Free Options</u></a></li>
+</ul></div>
+

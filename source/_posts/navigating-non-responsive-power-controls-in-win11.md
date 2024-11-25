@@ -1,7 +1,7 @@
 ---
 title: Navigating Non-Responsive Power Controls in Win11
-date: 2024-10-29T17:00:21.490Z
-updated: 2024-10-30T16:10:58.548Z
+date: 2024-11-21T17:37:15.407Z
+updated: 2024-11-24T21:24:09.218Z
 tags:
   - windows10
   - windows11
@@ -30,13 +30,6 @@ thumbnail: https://thmb.techidaily.com/0c8f696950ea736c2174f2d7e8a74906124afdbd8
 
  Now that we know what can cause the problem, let's look at what you can do to solve it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Change the Power Plan
 
  The first thing we recommend you do is switch to a different power plan, especially if you are using a custom power plan. We suggest shifting to the Balanced plan and checking if that fixes the issue. This plan optimizes the performance automatically. This means it will activate the full performance mode when you are actively using the computer and switch to the power-saving mode when you are not.
@@ -55,14 +48,11 @@ Here is how you can proceed:
 6. Choose the**Balanced power plan** and click**Next** \>**Create** .  
 ![Click on the Create button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-power-plan-next-create.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Once done, check if you can now change the power mode successfully.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Run the Power Troubleshooter
 
@@ -78,14 +68,15 @@ Here is how you can run the troubleshooter:
 ![Click on Other troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/other-troubleshooters-win11.jpg)
 4. Now, look for the Power troubleshooter and click on the**Run** button for it.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Run the Power troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/power-troubleshooter-win11.jpg)
 5. Wait for the troubleshooter to complete its process, and then check the results. If the troubleshooter has found any issues, click on**Apply this fix** to proceed with the relevant solutions. Otherwise, click on**Close the troubleshooter** and move to the next method below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Reset the Power Settings
@@ -103,10 +94,7 @@ powercfg –restoredefaultscheme
 5. Once the command is executed, check if you can change the power mode successfully.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In case the power plan changes again after a short while of executing this method, you will need to make changes as an administrator in the Group Policy Editor.
@@ -125,10 +113,7 @@ Computer Configuration -> Administrative Templates -> System -> Power Management
 Hopefully, this will resolve the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Revert the System to an Older Working State
@@ -160,20 +145,18 @@ Hopefully, this will resolve the issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-capturing-slideshows-on-screen-webcam-tips-and-tricks/"><u>[Updated] Capturing Slideshows on Screen Webcam Tips and Tricks</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-acoustic-architects-building-with-mac-studios/"><u>2024 Approved Acoustic Architects Building with Mac Studios</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-peaceful-rhythm-the-best-chill-country-music-for-relaxing-dance-parties-on-tiktok/"><u>2024 Approved Peaceful Rhythm The Best Chill Country Music for Relaxing Dance Parties on TikTok</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Apple iPhone 15? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-stop-recurring-windows-settings-crashes/"><u>How to Stop Recurring Windows Settings Crashes</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/ios-leading-edge-psp-emulators-top-5-lists/"><u>IOS Leading Edge PSP Emulators, Top 5 Lists</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Oppo Find X6 Pro? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcome-context-menu-captivity-in-windows-systems/"><u>Overcome Context Menu Captivity in Windows Systems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/professional-strategies-to-download-netflix-originals-and-movies-safely-on-your-pc-or-macbook/"><u>Professional Strategies to Download Netflix Originals and Movies Safely on Your PC or MacBook</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlined-microsoft-teams-quick-and-lightweight/"><u>Streamlined Microsoft Teams: Quick & Lightweight</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-sound-glitches-on-windows-11-error-0xc00d36b4/"><u>Tackling Sound Glitches on Windows 11: Error 0XC00D36B4</u></a></li>
-<li><a href="https://windows11.techidaily.com/tactics-for-mending-fatal-discord-javascript-crashes-on-windows-1011/"><u>Tactics for Mending Fatal Discord Javascript Crashes on Windows 10/11</u></a></li>
-<li><a href="https://windows11.techidaily.com/understanding-and-correcting-error-0x8007251d-in-win-os/"><u>Understanding and Correcting Error 0X8007251d in Win OS</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-effortless-video-import-and-export-tips-and-tricks-for-adobe-premiere-users-for-2024/"><u>Updated Effortless Video Import and Export Tips and Tricks for Adobe Premiere Users for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/which-browser-minimizes-cpu-and-ram-on-triple-system-os/"><u>Which Browser Minimizes CPU and RAM On Triple System OS?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-capturing-perfect-sounds-our-top-6-recommendations-for-livestreamers/"><u>[New] Capturing Perfect Sounds Our Top 6 Recommendations for Livestreamers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-top-10-cheapbudget-friendly-action-cameras-for-2024/"><u>[New] Top 10 Cheap/Budget Friendly Action Cameras for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-fifteen-methods-to-reset-a-twitch-stream-in-real-time/"><u>[Updated] 2024 Approved Fifteen Methods to Reset a Twitch Stream in Real-Time</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713942808729-2024-approved-an-ultimate-guide-to-edit-a-music-video-aspect-ratio-and-first-cut/"><u>2024 Approved An Ultimate Guide To Edit a Music Video Aspect Ratio and First Cut</u></a></li>
+<li><a href="https://windows11.techidaily.com/5-tips-for-turning-around-a-frozen-windows-hello-system/"><u>5 Tips for Turning Around a Frozen Windows Hello System</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-charge-awareness-customizing-battery-indicators-in-win11/"><u>Boosting Charge Awareness: Customizing Battery Indicators in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/cost-effective-solutions-affordable-windows-11-key-access/"><u>Cost-Effective Solutions: Affordable Windows 11 Key Access</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-poco-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Poco Phones with/without a PC</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-step-by-step-approach-to-webinar-savings-mac-and-pc-systems/"><u>In 2024, Step-by-Step Approach to Webinar Savings Mac & PC Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fix-for-inverted-keyboard-input-windows/"><u>Quick Fix for Inverted Keyboard Input Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/taskbar-chatting-feature-in-windows-11-user-implications/"><u>Taskbar Chatting Feature in Windows 11: User Implications</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-artisans-approach-to-high-dynamic-range-mastery-on-windows-11/"><u>The Artisan’s Approach to High Dynamic Range Mastery on Windows 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-10-pc-vr-headsets/"><u>Top 10 PC VR Headsets</u></a></li>
 </ul></div>
 

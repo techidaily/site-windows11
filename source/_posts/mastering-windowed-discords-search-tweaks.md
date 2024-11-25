@@ -1,7 +1,7 @@
 ---
 title: Mastering Windowed Discord's Search Tweaks
-date: 2024-08-22T21:40:22.973Z
-updated: 2024-08-23T21:40:22.973Z
+date: 2024-11-23T16:49:51.636Z
+updated: 2024-11-24T23:03:23.549Z
 tags:
   - windows10
   - windows11
@@ -53,8 +53,9 @@ Here's how you can check and fix your internet-related issues:
  Besides, you should also[fix your Wi-Fi connection if it's unstable](https://www.makeuseof.com/tag/fix-slow-unstable-wi-fi-connection/) to avoid network-related errors in the future.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Update the Discord Windows Client
 
  Just like you are always ready to update your Windows OS, you should also maintain the same behavior towards Windows applications.
@@ -67,8 +68,9 @@ Here's how you can check and fix your internet-related issues:
 * Alternatively, you can click the**Show hidden icons** toggle on the taskbar. Find the**Discord** icon and right-click on it. Select**Check for Updates** option from the mini context-menu.  
 ![Discord Icon On Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/discord-icon-on-taskbar.jpg)
 * The last way of updating Discord is by running it as an administrator. To do so, right-click**Discord** on the desktop and select**Run as administrator** .
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Disable Your VPN or Proxy
@@ -83,14 +85,8 @@ Here's how you can check and fix your internet-related issues:
 2. Navigate to**Network & Internet > VPN** settings.  
 ![Network And Internet Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/network-and-internet-settings.jpg)
 3. Under**VPN connections** , click the**Disconnect** button next to your connected VPN.  
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Windows VPN Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-vpn-settings.jpg)
 4. Similarly, to disable a proxy, you can access the settings from**Network & Internet > Proxy** .
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This should fix the search feature and allow you to use all the search filters. However, if it is still not working, proceed further to try some advanced troubleshooting steps.
 
@@ -107,8 +103,13 @@ Below are the steps you need to perform to disable the Streamer Mode:
 3. Toggle the**Enable Streamer Mode** switch to off. The on/off switch will then turn to gray color.  
 ![Discord Streamer Mode Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/discord-streamer-mode-settings.jpg)
 4. If you want to disable streamer mode altogether, you can also uncheck the**Automatically enable or disable** option.
+
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Clear Discord's AppData Cache Folder
@@ -125,14 +126,12 @@ Here's how you can clear Discord's cache files on Windows:
 5. Select the**Delete** option on the drop-down menu that appears. It will delete all the cache files generated by Discord.  
 ![Discord Folder Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/discord-folder-context-menu.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
  That's it for your part. You can now restart your computer and relaunch Discord to check the search issue. Make sure to test in both cases: searching in an individual chat as well as in a server!
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Reinstall the Discord Windows Client
 
  If the above solutions don't work, try reinstalling the Discord app. This will remove all the corrupted files and cookies data, which may have been causing the search problem.
@@ -143,6 +142,11 @@ Here's how you can clear Discord's cache files on Windows:
 2. Go to the[Discord Downloads](https://discord.com/download) website and click**Download for Windows** . This will download an executable (EXE) file on your desktop.  
 ![Discord Downloads Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/discord-downloads-website.jpg)
 3. Double-click the downloaded file to launch the Discord installer setup.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Log in to your Discord account and try searching messages now via the search bar.
 
  Hopefully, this should help you quickly resolve any issues with Discord's search functionality.
@@ -162,23 +166,20 @@ Here's how you can clear Discord's cache files on Windows:
  Sometimes, it's not just you – Discord's servers might be experiencing issues that affect the search function. To rule out this possibility, visit[Discord's server status](https://discordstatus.com/) page.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Restore Discord’s Search Functionality in No Time on Windows
 
  The search feature is undoubtedly handy for finding any message on big servers. You can apply different filters or search messages from a specific user. But, when Discord search stops working, it can waste your day scrolling for the message.
 
  Hopefully, the mentioned troubleshooting measures should help you get the search option back in no time.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -187,4 +188,24 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-optimized-screen-capture-on-pcmac-with-elite-tools/"><u>[New] In 2024, Optimized Screen Capture on PC/Mac with Elite Tools</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-variants-of-windows-movie-maker-a-comprehensive-list/"><u>[New] In 2024, Variants of Windows Movie Maker A Comprehensive List</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-mastering-screen-capture-a-compreenas-android-guide/"><u>[Updated] In 2024, Mastering Screen Capture A Compreenas Android Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-motorola-razr-40-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-iphone-7-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock iPhone 7 with iTunes</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-beyond-vidcon-top-50-youtube-celebrations/"><u>In 2024, Beyond VidCon Top 50 YouTube Celebrations</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-inshot-soundsmith-adding-audio-to-videos/"><u>In 2024, InShot Soundsmith Adding Audio to Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-clearing-blocked-windows-files/"><u>Mastering the Art of Clearing Blocked Windows Files</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-the-maze-of-windows-camera-troubles/"><u>Navigating Through the Maze of Windows Camera Troubles</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-connectivity-issues-between-nvidia-geforce-and-windows-11/"><u>Overcoming Connectivity Issues Between Nvidia GeForce and Windows 11</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/resolved-troubleshooting-system-recovery-problems-in-various-windows-editions/"><u>Resolved: Troubleshooting System Recovery Problems in Various Windows Editions</u></a></li>
+<li><a href="https://windows11.techidaily.com/secure-your-sanctuary-swift-fixes-for-windows-safety/"><u>Secure Your Sanctuary: Swift Fixes for Windows Safety</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-overcome-windows-error-code-87-with-loadlibrary/"><u>Strategies to Overcome Windows Error Code 87 with LoadLibrary</u></a></li>
+<li><a href="https://windows11.techidaily.com/swift-linguistic-navigation-on-windows-11-and-11-pro-with-shortcuts/"><u>Swift Linguistic Navigation on Windows 11 & 11 Pro with Shortcuts</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-10-tips-regain-control-with-steam-support/"><u>Top 10 Tips: Regain Control with Steam Support</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/topi-piu-efficienti-di-sincronizzazione-e-backup-per-unita-usb-raccomandazioni-esclusive/"><u>Topi Più Efficienti Di Sincronizzazione E Backup per Unità USB: Raccomandazioni Esclusive</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-over-sluggishness-speedy-printer-solutions-windows-style/"><u>Winning over Sluggishness: Speedy Printer Solutions, Windows-Style</u></a></li>
+</ul></div>
 

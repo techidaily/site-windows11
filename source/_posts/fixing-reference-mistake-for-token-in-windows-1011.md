@@ -1,7 +1,7 @@
 ---
 title: Fixing Reference Mistake for Token in Windows 10/11
-date: 2024-11-10T16:36:20.262Z
-updated: 2024-11-15T17:37:58.958Z
+date: 2024-11-22T02:31:28.184Z
+updated: 2024-11-25T00:35:28.774Z
 tags:
   - windows10
   - windows11
@@ -42,16 +42,11 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 8. Select **Create this task with administrative privileges** and click **OK** to restart Explorer.
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Reregister Windows DLL Files
@@ -66,14 +61,11 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 ![The reregister DLL command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/reregister-dll-commands.jpg)
 5. Wait for the command to finish reregistering DLLs.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Close your Command Prompt app, bring up the Start menu, and select **Restart**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Try Some More Generic Windows Fixes
 
@@ -84,6 +76,14 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
  The “reference a token” error is often a result of corrupted Windows system files. So, repairing system files is a likely potential solution for that error. You can check for and repair corrupted system files by [running the System File Checker tool](https://www.makeuseof.com/system-file-checker-sfc-windows/) within the Command Prompt.
 
 ![The sfc /scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sfc-scannow-command5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Go Back to a Previous Windows Build Version
 
@@ -102,21 +102,7 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 
 ![The System Restore tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/system-restore-point.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To apply this resolution, check out our [article about creating and utilizing restore points](https://www.makeuseof.com/windows-11-create-restore-point/). Choose a restore point that will roll Windows back to when you didn’t need to fix the token reference error. However, note that a system restore point will remove software packages installed after its date.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Reset Windows
 
@@ -138,18 +124,19 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-instagram-to-tik-tok-a-social-pivot-blueprint/"><u>[New] In 2024, Instagram to Tik Tok - A Social Pivot Blueprint</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-leading-the-way-in-iphonecomputer-video-format-conversion/"><u>[New] Leading the Way in iPhone/Computer Video Format Conversion</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-optimized-video-scale-to-mac-aspect-proportion/"><u>[New] Optimized Video Scale to Mac Aspect Proportion</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-the-essence-of-burst-in-gopro-filming-techniques/"><u>[New] The Essence of Burst in GoPro Filming Techniques</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-echoes-of-sound-how-to-enhance-tweeted-visuals-for-2024/"><u>[Updated] Echoes of Sound How to Enhance Tweeted Visuals for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-maximize-monetization-the-step-by-step-for-youtube-profiles-for-2024/"><u>[Updated] Maximize Monetization The Step-by-Step for YouTube Profiles for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-top-15-youtube-recording-software-for-gamers/"><u>[Updated] Top 15 YouTube Recording Software for Gamers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/gamers-dream-deal-save-hundreds-on-the-razer-blade-15-laptop-in-2n3-best-offer-ever/"><u>Gamer's Dream Deal! Save Hundreds on the Razer Blade 15 Laptop in 2N3 - Best Offer Ever!</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-to-restoring-malwarebytes-database-connection-on-win-oses/"><u>Guide to Restoring Malwarebytes Database Connection on WIN OSes</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-the-deadly-script-error-a-win-11-discord-fix-guide/"><u>Overcoming the Deadly Script Error: A Win 11 Discord Fix Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/painting-a-picture-sketching-on-windows-11-devices/"><u>Painting a Picture: Sketching on Windows 11 Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-network-link-lost-on-windows/"><u>Tackling Network Link Lost on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-8-best-pomodoro-timers-for-windows/"><u>The 8 Best Pomodoro Timers for Windows</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-unraveling-the-mysteries-of-instagrams-video-timeframe/"><u>[New] 2024 Approved Unraveling the Mysteries of Instagram's Video Timeframe</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-retro-smile-captured-by-iphone-x-classic/"><u>[Updated] In 2024, Retro Smile Captured by iPhone X Classic</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-perfect-text-magic-for-striking-video-scenes-for-2024/"><u>[Updated] Perfect Text Magic for Striking Video Scenes for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-understanding-sns-hdr-pros-role-in-hdr-editing/"><u>[Updated] Understanding SNS HDR Pro's Role in HDR Editing</u></a></li>
+<li><a href="https://windows11.techidaily.com/classic-interface-reclamation-tips/"><u>Classic Interface Reclamation Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-windows-modern-standbys-drawbacks/"><u>Decoding Windows Modern Standby's Drawbacks</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhanced-windows-file-navigation-a-guide-excluding-ls/"><u>Enhanced Windows File Navigation: A Guide Excluding LS</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-connect-and-use-a-ps5-controller-on-your-pc/"><u>How to Connect and Use a PS5 Controller on Your PC</u></a></li>
+<li><a href="https://article-helps.techidaily.com/masterful-filmmaking-moves-with-kinemaster/"><u>Masterful Filmmaking Moves with Kinemaster</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-samsung-galaxy-f34-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Samsung Galaxy F34 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-to-github-desktop-with-windows-11-os/"><u>Step-by-Step Guide to GitHub Desktop with Windows 11 OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/transform-windows-11-screens-with-custom-wallpaper-panes/"><u>Transform Windows 11 Screens with Custom Wallpaper Panes</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-steps-delete-email-after-signing-in/"><u>Troubleshooting Steps: Delete Email After Signing In</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-honor-90-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Honor 90 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Expert's Technique for Age Estimation
-date: 2024-11-08T16:48:11.465Z
-updated: 2024-11-15T16:44:23.698Z
+date: 2024-11-20T23:05:11.129Z
+updated: 2024-11-24T17:52:16.810Z
 tags:
   - windows10
   - windows11
@@ -45,10 +45,7 @@ thumbnail: https://thmb.techidaily.com/83810aeb2f4e9067a8450e307f943cc7eb4a02a55
  While this is not a tamper-proof mechanism, in most cases, the warranty details are sufficient to determine the age and value of a Windows laptop.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Check the Serial Number Using the Command Prompt
@@ -64,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/83810aeb2f4e9067a8450e307f943cc7eb4a02a55
 3. In the Command Prompt window, type the following command and press Enter:  
 wmic bios get serial number
 4. The output will display your device's serial number. Use the same to check your device's warranty status and more using the steps in the first method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Check the BIOS Version Using the System Information Utility
 
@@ -87,28 +88,12 @@ systeminfo.exe
 
  Important to note that if your system has received a BIOS update, the date will reflect the latest update date and not the manufacturer date.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Check the Windows Installation Method Using the Command Prompt
 
 ![command prompt view original install date windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/command-prompt-view-original-install-date-windows.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can use the systeminfo command to find the original install date for the Windows OS. The caveat is it displays the date of the last Windows installation. So, if you have recently performed an upgrade or clean installed the Windows OS, the Original Install Date will reflect the same.
@@ -123,20 +108,21 @@ systeminfo | find /I "install date"
 
 ![task manager cpu details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/task-managar-cpu-details.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Another way to get a rough idea about your laptop's age is to check the CPU's make. Some laptops have a CPU and GPU sticker near the trackpad. If no sticker is found, you can use the Task Manager utility to check the CPU model.
 
  Open Task Manager on Windows and click the Performance tab. Next, select the CPU tab to view the CPU make in the top right corner. A quick search on the web for the model number should reveal the year of making and hardware compatibility.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Use the OEM Tool to Detect the Laptop's Age
 
 ![Hp support assistant battery health](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/hp-support-assistant-battery-health.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Laptop manufacturers like HP, Dell, Lenovo, and Asus offer free applications to maintain your devices. For example, HP's Support Assistant lets you access your product information, including model name, product ID, serial number, and Warranty Status.
 
@@ -147,13 +133,6 @@ systeminfo | find /I "install date"
  You can use the above method to identify the age of a factory-built desktop computer. However, the same doesn't apply to a custom-built PC.
 
  You can run the System Information utility on the PC to extract CPU, GPU, memory, storage drive, and network component information. For everything else, you'll need to perform a manual inspection to find the serial number and see the condition.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The PC Components or Laptop Age is Not Everything
 
@@ -176,21 +155,19 @@ systeminfo | find /I "install date"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/our-path-to-beaming-beauty-expertise-starting-an-online-show/"><u>[New] Your Path to Beaming Beauty Expertise Starting an Online Show</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-set-up-your-first-google-meet-and-plan-it/"><u>[Updated] In 2024, Set Up Your First Google Meet & Plan It</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-maximize-content-consumption-6-best-free-youtube-short-downloaders-for-2024/"><u>[Updated] Maximize Content Consumption 6 Best Free YouTube Short Downloaders for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-insights-third-generation-apple-tv-4k-performance-testing/"><u>Expert Insights: Third Generation Apple TV 4K Performance Testing</u></a></li>
-<li><a href="https://article-tips.techidaily.com/greatest-copyright-free-pubg-image-anthology-for-2024/"><u>Greatest Copyright-Free PUBG Image Anthology for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-vivo-v30-drfone-by-drfone-android/"><u>How to Screen Mirroring Vivo V30? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-gps-location-on-infinix-gt-10-pro-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Infinix GT 10 Pro Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Xiaomi 13T | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/learn-to-unbind-your-onedrive-and-microsoft-profile-on-windows/"><u>Learn to Unbind Your OneDrive & Microsoft Profile on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-app-migration-to-your-new-windows-11-laptop/"><u>Mastering App Migration to Your New Windows 11 Laptop</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722996015178-nvidia-rtx-overlay-trouble-here-are-solutions-to-get-it-working-again/"><u>Nvidia RTX Overlay Trouble? Here Are Solutions to Get It Working Again!</u></a></li>
-<li><a href="https://windows11.techidaily.com/regain-control-over-windows-11s-dropped-items/"><u>Regain Control Over Windows 11'S Dropped Items</u></a></li>
-<li><a href="https://windows11.techidaily.com/secrets-resolving-uncontrolled-mouse-jitter-in-win11/"><u>Secrets: Resolving Uncontrolled Mouse Jitter in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/simplify-tasks-with-your-default-windows-terminal/"><u>Simplify Tasks With Your Default Windows Terminal</u></a></li>
-<li><a href="https://windows11.techidaily.com/solving-zerodxgierordevicelatencyerror-for-win11-users/"><u>Solving ZeroDXGIErorDeviceLatencyError for Win11 Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-reactivating-explore-in-11os/"><u>The Ultimate Guide to Reactivating Explore in 11OS</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-expand-access-to-creative-works-pick-from-the-best-free-youtube-shorts-downloader-apps/"><u>[New] In 2024, Expand Access to Creative Works Pick From the Best Free YouTube Shorts Downloader Apps</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-crafting-captivating-youtube-presence-the-ultimate-guide-to-making-thumbnails-on-phones-for-2024/"><u>[Updated] Crafting Captivating YouTube Presence The Ultimate Guide to Making Thumbnails on Phones for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-fast-tracking-social-scanning-mastering-fb-profiles/"><u>[Updated] Fast-Tracking Social Scanning Mastering FB Profiles</u></a></li>
+<li><a href="https://windows11.techidaily.com/essentials-of-implementing-windows-law-filters-effectively/"><u>Essentials of Implementing Windows LAW Filters Effectively</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-runtime-broker-cpu-overload-issue-in-windows-11-complete-solutions/"><u>Fixing the Runtime Broker CPU Overload Issue in Windows 11 - Complete Solutions</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>How to View GPX Files Online and Offline Solutions Of Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/imageclarity-converter-high-res-for-all-systems-for-2024/"><u>ImageClarity Converter - High Res for All Systems for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-turning-off-igtv-on-your-account/"><u>In 2024, Turning Off IGTV on Your Account</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-morning-routine-launching-windows-and-sticky-notes/"><u>Mastering Morning Routine: Launching Windows & Sticky Notes</u></a></li>
+<li><a href="https://windows11.techidaily.com/method-to-recalibrate-windows-energy-plan/"><u>Method to Recalibrate Window's Energy Plan</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-win-1011-zoom-fatal-error-1132/"><u>Resolving Win 10/11 Zoom Fatal Error 1132</u></a></li>
+<li><a href="https://windows11.techidaily.com/simple-steps-for-screen-position-changes/"><u>Simple Steps for Screen Position Changes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-for-setting-up-auto-gpt-on-your-ubuntu-system/"><u>Step-by-Step Tutorial for Setting up Auto-GPT on Your Ubuntu System</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshoot-and-fix-windows-autoshrink-issue/"><u>Troubleshoot & Fix Windows' Autoshrink Issue</u></a></li>
 </ul></div>
 

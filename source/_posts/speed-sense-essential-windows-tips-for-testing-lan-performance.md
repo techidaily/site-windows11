@@ -1,7 +1,7 @@
 ---
 title: "Speed Sense: Essential Windows Tips for Testing LAN Performance"
-date: 2024-11-11T17:20:13.343Z
-updated: 2024-11-15T16:58:41.673Z
+date: 2024-11-23T21:59:17.731Z
+updated: 2024-11-25T02:13:15.618Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/f2627d615078a022aac01f2ac296b5686dd196136
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Check the Network Adapter Connection Speed Using the Settings App
 
  The quickest way to check the connection speed for a Wi-Fi or Ethernet adapter is through the Windows Settings app. Aside from network speed, the Settings app also provides important information like network band, local IP address, MAC address, and more.
@@ -38,10 +42,7 @@ To check the network adapter speed via the Settings app:
 ![Check Network Adapter Speed Using the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/check-network-adapter-speed-using-the-windows-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. How to Check the Network Adapter Connection Speed Using Control Panel
@@ -57,13 +58,6 @@ To check the network adapter speed via the Settings app:
 7. Check the connection speed of your network adapter in the**Speed** field.  
 ![Check Network Adapter Speed Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/check-network-adapter-speed-using-control-panel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Seeing too many network adapter entries on your Windows computer? Learn[how to get rid of old or inactive network adapters from Windows](https://www.makeuseof.com/how-to-remove-network-adapter-windows/) in a few easy steps.
 
 ## 3\. How to Check Network Adapter Connection Speed via Command Prompt
@@ -77,13 +71,14 @@ To check the network adapter speed via the Settings app:
 4. Check the values next to**Receive rate** and**Transmit rate** to determine the speed of your network adapter.  
 ![Check Network Adapter Speed Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/check-network-adapter-speed-using-command-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Like using Command Prompt? Check our guide on[how to master Command Prompt on Windows](https://www.makeuseof.com/tag/windows-10-command-prompt-tips/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. How to Check Network Adapter Connection Speed via PowerShell
@@ -99,10 +94,7 @@ To check network adapter connection speed via PowerShell:
 ![Check Network Adapter Speed Using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/check-network-adapter-speed-using-powershell.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you run the above command, PowerShell will display a list of all the Ethernet and Wi-Fi adapters on your Windows computer, along with their link speeds.
@@ -126,18 +118,19 @@ To check network adapter connection speed via PowerShell:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-perfect-your-pictures-the-ultimate-guide-to-photo-text-editing/"><u>[New] Perfect Your Pictures The Ultimate Guide to Photo Text Editing</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-exploring-new-design-dimensions-integrating-typesetting-into-ae/"><u>[Updated] In 2024, Exploring New Design Dimensions Integrating Typesetting Into AE</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/efficient-strategies-para-recuperar-archivos-de-tu-wd-passport-tres-metodos-practicos/"><u>Efficient Strategies Para Recuperar Archivos De Tu WD Passport: Tres Métodos Prácticos</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-capabilities-of-a-high-end-dji-drone-worth-over-40k-insights-from-zdnet/"><u>Exploring the Capabilities of a High-End DJI Drone Worth Over $40K - Insights From ZDNet</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/find-and-update-the-driver-for-hp-deskjet-2540-ink-advantage-printer-easily-here/"><u>Find and Update the Driver for HP Deskjet 2540 Ink Advantage Printer Easily Here!</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-organization-restricted-options-errors-in-windows-11-os/"><u>Fixing Organization-Restricted Options Errors in Windows 11 OS</u></a></li>
-<li><a href="https://common-error.techidaily.com/from-bug-to-benefit-solving-the-persistent-palette-issue-in-nba-2k21/"><u>From Bug to Benefit: Solving the Persistent Palette Issue in NBA 2K21</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-apple-iphone-13-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Apple iPhone 13 iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-personalized-branding-craft-your-logo-from-free-designs/"><u>In 2024, Personalized Branding Craft Your Logo From Free Designs</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimal-windows-solutions-for-video-file-editing-and-conversion/"><u>Optimal Windows Solutions for Video File Editing & Conversion</u></a></li>
-<li><a href="https://windows11.techidaily.com/screen-separation-strategies-wallpapers-per-monitor-windows-style/"><u>Screen Separation Strategies: Wallpapers per Monitor, Windows Style</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-avoid-blackout-while-playing-windows-games/"><u>Strategies to Avoid Blackout While Playing Windows Games</u></a></li>
-<li><a href="https://windows11.techidaily.com/understanding-printer-offline-on-windows-11/"><u>Understanding 'Printer Offline' On Windows 11</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-agribuddy-games-celebrating-camaraderie-on-the-farm/"><u>[New] 2024 Approved AgriBuddy Games Celebrating Camaraderie on the Farm</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-football-film-study-premier-insights-infographic/"><u>[New] 2024 Approved Football Film Study Premier Insights Infographic</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/outube-and-dailymotion-unveiling-core-variations-for-2024/"><u>[New] YouTube & Dailymotion Unveiling Core Variations for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-mastering-the-basics-a-thorough-guide-to-using-mobizen-recorders/"><u>[Updated] 2024 Approved Mastering the Basics A Thorough Guide to Using Mobizen Recorders</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-dialogue-engaging-your-youtube-fans/"><u>[Updated] Mastering Dialogue Engaging Your YouTube Fans</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-how-to-guide-elevating-gameplay-recordings-via-obs/"><u>2024 Approved How-To Guide Elevating Gameplay Recordings via OBS</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-tecno-spark-20c-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Tecno Spark 20C to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/learn-to-break-the-synergy-onedrive-and-microsoft-profile-split/"><u>Learn to Break the Synergy: OneDrive and Microsoft Profile Split</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-ins-and-outs-of-administrative-task-management-in-win11/"><u>Navigating the Ins and Outs of Administrative Task Management in Win11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/next-gen-screen-leaders-best-4k-tvs-for-2024/"><u>Next-Gen Screen Leaders Best 4K TVs for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/start-up-synergy-for-notes-windows-plus-sticky-notes-together/"><u>Start-Up Synergy for Notes: Windows + Sticky Notes Together</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-anticipation-surrounding-windows-11s-moment-22h2/"><u>The Anticipation Surrounding Windows 11’S Moment #22H2</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-simple-guide-to-hosting-efficient-zoom-chats/"><u>The Simple Guide to Hosting Efficient Zoom Chats</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-to-repair-keyboard-issues-with-windows-snipper/"><u>Tips to Repair Keyboard Issues with Windows Snipper</u></a></li>
 </ul></div>
 

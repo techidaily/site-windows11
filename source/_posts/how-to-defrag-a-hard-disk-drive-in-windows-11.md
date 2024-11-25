@@ -1,7 +1,7 @@
 ---
 title: How to Defrag a Hard Disk Drive in Windows 11
-date: 2024-10-24T17:23:30.203Z
-updated: 2024-10-30T17:20:55.319Z
+date: 2024-11-18T02:31:59.669Z
+updated: 2024-11-24T22:39:44.558Z
 tags:
   - windows10
   - windows11
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/8614a77f9e633f7b68cb429db560c3992306d2b5b
 
 ![The Run on a schedule checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-on-a-schedule-checkbox.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can set the defrag frequency in the drop-down menu below that option. Click the**Frequency** drop-down menu to view its options. Then select**Daily** ,**Weekly** , or**Monthly** according to preference.
 
  If you’ve partitioned your HDD, you can select to optimize alternative drive partitions beyond C. Clicking**Choose** below the**Run on a schedule** setting will bring up a drive selection window. There you can select other drives for which to schedule regular optimization.
@@ -45,10 +49,7 @@ thumbnail: https://thmb.techidaily.com/8614a77f9e633f7b68cb429db560c3992306d2b5b
 ![The drive selection window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/drive-selection-window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Defrag a Hard Drive With the Command Prompt
@@ -73,10 +74,7 @@ thumbnail: https://thmb.techidaily.com/8614a77f9e633f7b68cb429db560c3992306d2b5b
 ![The defrag help command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/defrag-parameter-command.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Defrag a Hard Drive With Defraggler
@@ -92,10 +90,7 @@ thumbnail: https://thmb.techidaily.com/8614a77f9e633f7b68cb429db560c3992306d2b5b
 6. Click**Run Defraggler** in the Piriform window.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Next, click the**Analyze** button to view a report with a fragmentation percentage figure.  
@@ -103,10 +98,7 @@ thumbnail: https://thmb.techidaily.com/8614a77f9e633f7b68cb429db560c3992306d2b5b
 8. Press the**Defrag** button. Or you click that button’s arrow to select**Quick defrag** if preferred.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Defraggler will then do its stuff and displays an active status for the defrag operation. The drive map shows different color squares for fragmented and non-fragmented blocks. While in operation, you’ll also see yellow and green squares for files read and written. Click the**Drive map** tab to view Defraggler’s color code index.
@@ -146,19 +138,16 @@ thumbnail: https://thmb.techidaily.com/8614a77f9e633f7b68cb429db560c3992306d2b5b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-unlocking-success-a-compre-pointed-guide-to-reddit-content-creation/"><u>[New] In 2024, Unlocking Success A Compre Pointed Guide to Reddit Content Creation</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-veiled-vocal-keepers-ios-and-android-secretive-sound-tools-for-2024/"><u>[New] Veiled Vocal Keepers IOS & Android Secretive Sound Tools for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-from-single-shots-to-unified-visions-a-mosaic-story/"><u>[Updated] In 2024, From Single Shots to Unified Visions A Mosaic Story</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-excessive-cpu-load-by-dropbox-app-on-windows-devices/"><u>Addressing Excessive CPU Load by Dropbox App on Windows Devices</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/elite-hd-visuals-selecting-top-quality-recorders-for-2024/"><u>Elite HD Visuals Selecting Top Quality Recorders for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/handling-iphone-photographic-file-import-failures-on-windows-pcs/"><u>Handling iPhone Photographic File Import Failures on Windows PCs</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic-5-pro-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic 5 Pro to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/pro-tip-unearthing-windows-apps-installed-locations-quickly/"><u>Pro Tip: Unearthing Windows Apps' Installed Locations Quickly</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-fixes-for-unresponsive-chrome-on-windows-11-a-step-by-step-guide/"><u>Quick Fixes for Unresponsive Chrome on Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/secure-biometric-control-in-w11-for-domain-users/"><u>Secure Biometric Control in W11 for Domain Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seeking-quality-over-quantity-why-writers-shun-chatbots/"><u>Seeking Quality over Quantity: Why Writers Shun Chatbots</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-0xa00f4243-overlapping-camera-usage-in-apps/"><u>Troubleshooting 0xA00F4243: Overlapping Camera Usage in Apps</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-insufficient-spec-on-game-captures/"><u>Troubleshooting Insufficient Spec on Game Captures</u></a></li>
-<li><a href="https://discover-community.techidaily.com/update-implemented-ensuring-safer-data-handling-with-encryption-and-visual-indicators-on-windows-10/"><u>Update Implemented: Ensuring Safer Data Handling with Encryption & Visual Indicators on Windows 10</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-multi-screen-recording-setup-for-2024/"><u>[New] Multi-Screen Recording Setup for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-quick-tips-for-setting-up-zoom-on-your-android-phonetablet/"><u>[New] Quick Tips for Setting Up Zoom on Your Android Phone/Tablet</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-the-ultimate-pp-playbook-for-silent-scene-transitions/"><u>[Updated] In 2024, The Ultimate PP Playbook for Silent Scene Transitions</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mcb-channel-background-and-template-set/"><u>2024 Approved MCB Channel Background & Template Set</u></a></li>
+<li><a href="https://windows11.techidaily.com/advanced-techniques-in-windows-photo-editing/"><u>Advanced Techniques in Windows Photo Editing</u></a></li>
+<li><a href="https://windows11.techidaily.com/conquer-ppt-file-saving-challenges-swift-solutions-in-windows-11/"><u>Conquer PPT File Saving Challenges: Swift Solutions in Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-guide-how-to-get-the-latest-realtek-asus-sound-card-drivers-on-windows-11/"><u>Easy Guide: How to Get the Latest Realtek Asus Sound Card Drivers on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/engagingnotabledarkthemefornotepadwin/"><u>EngagingNotableDarkThemeForNotepadWin</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcome-apex-crashes-essential-steps-for-windows-11-gamers/"><u>Overcome Apex Crashes: Essential Steps for Windows 11 Gamers</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/revolutionize-your-viewing-experience-with-the-cost-effective-amazonbasics-antenna/"><u>Revolutionize Your Viewing Experience with the Cost-Effective AmazonBasics Antenna!</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-failed-zip-file-extraction-in-windows-11/"><u>Troubleshooting Failed: Zip File Extraction in Windows 11</u></a></li>
 </ul></div>
 

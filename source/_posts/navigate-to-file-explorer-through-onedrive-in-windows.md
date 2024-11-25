@@ -1,7 +1,7 @@
 ---
 title: Navigate to File Explorer Through OneDrive in Windows
-date: 2024-10-29T16:54:51.990Z
-updated: 2024-10-30T16:42:05.520Z
+date: 2024-11-20T00:54:26.726Z
+updated: 2024-11-24T22:48:47.636Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/9ad9147e4fbb8c24ccda197a0486be5c1d9c044a4
 
  Read this comprehensive guide if you want File Explorer to open OneDrive instead of Quick Access.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Use the Folder Options
 
  If you want to make OneDrive the starting point of your File Explorer, you can do so using folder options. Here's how to do it:
@@ -28,22 +32,18 @@ thumbnail: https://thmb.techidaily.com/9ad9147e4fbb8c24ccda197a0486be5c1d9c044a4
 2. In the File Explorer window, look for **See more** (three dots) at the top. Clicking on it opens the Folder Options dialog box.  
 ![Open Folder Options in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/open-folder-options-in-file-explorer.jpg)
 3. On the General tab, click the **Open File Explorer to** drop-down menu and select "Username Personal". Here, "Username" refers to your Windows account name.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Open File Explorer to OneDrive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/open-file-explorer-to-onedrive.jpg)
 4. Click **Apply** \> **OK** to close the dialog box.
 
  From now on, opening File Explorer will automatically launch OneDrive rather than Quick Access.
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Using the Registry Editor
@@ -61,22 +61,12 @@ thumbnail: https://thmb.techidaily.com/9ad9147e4fbb8c24ccda197a0486be5c1d9c044a4
 ![Set File Explorer to Open OneDrive Using Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/set-file-explorer-to-open-onedrive-using-registry.jpg)
 6. Double-click on this newly created value and set its value to **4**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Click **OK** and close the registry window.
 
  After that, restart your computer for the changes to take effect. Once your PC restarts, launch File Explorer. With this method, you will launch File Explorer directly to your cloud storage without navigating through Quick Access.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Using a Reg File
@@ -98,16 +88,13 @@ thumbnail: https://thmb.techidaily.com/9ad9147e4fbb8c24ccda197a0486be5c1d9c044a4
 ![Open File Explorer to OneDrive Using REG File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/open-file-explorer-to-onedrive-using-reg-file.jpg)
 7. Double-click the REG file you just created. If you're prompted for permission to change your computer, click **Yes**.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8. Finally, restart your computer for the changes to take effect.
 
  After your system restarts, launch File Explorer. You'll see OneDrive as the main view instead of Quick Access.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Set File Explorer to Open OneDrive Instead of Quick Access
 
@@ -124,18 +111,24 @@ thumbnail: https://thmb.techidaily.com/9ad9147e4fbb8c24ccda197a0486be5c1d9c044a4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-advanced-tactics-to-modify-playback-speed-in-spotify/"><u>2024 Approved Advanced Tactics to Modify Playback Speed in Spotify</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Tecno Phantom V Flip | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209650601-9780757318856-connecting-with-coincidence/"><u>Connecting with Coincidence | Free Book</u></a></li>
-<li><a href="https://win-forum.techidaily.com/diagnosis-and-remediation-of-maximum-disk-usage-problems-in-windows/"><u>Diagnosis and Remediation of Maximum Disk Usage Problems in Windows 지급 택시</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-the-puzzling-problem-of-error-code-c0000005-in-win-os/"><u>Fixing the Puzzling Problem of Error Code C0000005 in Win-OS</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-solutions-for-seamless-start-up-of-the-elder-scrolls-online/"><u>Mastering the Solutions for Seamless Start-Up of The Elder Scrolls Online</u></a></li>
-<li><a href="https://windows11.techidaily.com/maximizing-room-acoustics-with-windows-11/"><u>Maximizing Room Acoustics with Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/migrate-onedrive-to-a-desired-folder-on-win-11/"><u>Migrate OneDrive to a Desired Folder on Win 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/repairing-windows-11s-isdonedll-file-failure/"><u>Repairing Windows 11'S ISDone.dll File Failure</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-samsung-galaxy-a24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Samsung Galaxy A24 | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/swift-remedies-for-fixing-microsoft-store-crash-code-0x80072efd/"><u>Swift Remedies for Fixing Microsoft Store Crash Code 0X80072EFD</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-for-restricting-removable-storage-via-windows-settings/"><u>Tips for Restricting Removable Storage via Windows Settings</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/your-pathway-to-perfect-igtv-footage-from-phone-to-dslr/"><u>Your Pathway to Perfect IGTV Footage From Phone to DSLR</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-unleash-your-earning-potential-on-tiktok-in-just-8-steps/"><u>[New] In 2024, Unleash Your Earning Potential on TikTok in Just 8 Steps</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-evaluating-igtv-video-impact-effectively/"><u>[Updated] 2024 Approved Evaluating IGTV Video Impact Effectively</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-glossary-for-googles-voice-to-text-feature/"><u>[Updated] Ultimate Glossary for Google's Voice-to-Text Feature</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-personalized-youtube-channel-urls-simple-steps-guide/"><u>2024 Approved Mastering Personalized YouTube Channel URLs Simple Steps Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-xiaomi-13t-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Xiaomi 13T PC | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/achieving-a-clearer-taskbar-windows-11-guide/"><u>Achieving a Clearer Taskbar: Windows 11 Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/dell-monitor-driver-download-and-update-easily/"><u>Dell Monitor Driver Download & Update Easily</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-oppo-find-x6-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Oppo Find X6 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-install-hyper-v-on-windows-11-home/"><u>How to Install Hyper-V on Windows 11 Home</u></a></li>
+<li><a href="https://windows11.techidaily.com/ideal-guide-efficiently-change-heic-images-to-jpeg-format-on-windows-11/"><u>Ideal Guide: Efficiently Change HEIC Images to JPEG Format on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/lessen-malware-apps-resource-usage-for-performance-gain/"><u>Lessen Malware App’s Resource Usage for Performance Gain</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-pc-management-with-customized-windows-troubleshooters-buttons/"><u>Optimize PC Management with Customized Windows Troubleshooters Buttons</u></a></li>
+<li><a href="https://windows11.techidaily.com/timeless-upgrades-essential-time-saver-tools-for-pcs/"><u>Timeless Upgrades: Essential Time Saver Tools for PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooters-and-their-role-on-windows-11-systems/"><u>Troubleshooters and Their Role on Windows 11 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tshtml5movavi-web/"><u>TS動画ファイルをワンクリックでHTML5に自動変換！Movavi Webメーカー</u></a></li>
+<li><a href="https://windows11.techidaily.com/ultimate-7-list-cost-free-windows-media-centers/"><u>Ultimate 7 List: Cost-Free Windows Media Centers</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-the-capabilities-of-final-cut-pro-have-evolved-significantly-and-here-we-list-top-10-famous-movies-made-by-final-cut-pro/"><u>Updated 2024 Approved The Capabilities of Final Cut Pro Have Evolved Significantly and Here We List Top 10 Famous Movies Made by Final Cut Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/whats-going-wrong-sideways-videos-on-instagram/"><u>What's Going Wrong Sideways Videos on Instagram</u></a></li>
+<li><a href="https://windows11.techidaily.com/zap-zaps-revitalizing-a-sluggish-windows-11-experience/"><u>Zap Zaps: Revitalizing a Sluggish Windows 11 Experience</u></a></li>
 </ul></div>
 

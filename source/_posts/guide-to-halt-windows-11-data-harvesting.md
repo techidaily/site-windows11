@@ -1,7 +1,7 @@
 ---
 title: Guide to Halt Windows 11 Data Harvesting
-date: 2024-08-22T21:36:06.003Z
-updated: 2024-08-23T21:36:06.003Z
+date: 2024-11-20T19:45:27.218Z
+updated: 2024-11-24T19:52:41.953Z
 tags:
   - windows10
   - windows11
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/57a65c2b181c750fb6364283d0997e4f78e21ce13
 
  If you, like most people, are concerned about your data privacy and do not want Microsoft taking advantage of your user activity, you should consider turning off tracking features on Windows 11\. Even if you cannot completely disable the tracking features, you should opt out of voluntary data collection preferences.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ## How to Disable Advertising Data Tracking on Windows 11
 
  If you’re concerned about your data or activity patterns being used by third parties for advertisement, you should consider turning off the relevant settings. To turn off advertising data tracking on Windows 11:
@@ -45,16 +41,14 @@ DbSchema database designer for all databases, schema design in the team, schema 
 1. Open the**Start** menu and launch the**Settings** app.  
 ![disable ad tracking windows11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disable-ad-tracking.jpg)
 2. From the side pane, select**Privacy & security** , and then under**Windows permissions,** select the**General** tab.
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. Turn off all of the general preferences by using the toggle option.
 
  Once you complete the above steps, you will successfully opt out of personalized ads on Windows 11.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Disable Activity Tracking on Windows 11
 
  Activity history is a shady Windows 11 feature that has plenty of privacy concerns. According to[Microsoft](https://support.microsoft.com/en-us/windows/-windows-activity-history-and-your-privacy-2b279964-44ec-8c2f-e0c2-6779b07d2cbd) , the feature allows users to keep track of how they use their Windows 11 devices. This includes recording what apps, services, websites, and files users have used or accessed recently. If your PC is signed in with a Microsoft account, your data is sent to Microsoft; otherwise, your activity history is only stored locally on your device.
@@ -68,13 +62,14 @@ DbSchema database designer for all databases, schema design in the team, schema 
 3. Under**Windows permissions** , select**Activity history** .  
 ![clear activity history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/clear-activity-history.jpg)
 4. Click the**Activity history** tab and disable the**Store my activity history on this device** option.
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. We also recommend choosing the**Clear activity history for this account** option.
 6. Similarly, navigate to **Settings > Privacy & security > Diagnostics & feedback** .
 7. Disable the**Tailored experiences** option to stop Microsoft from using your diagnostic data for ads, personalized tips, and recommendations.
 8. You can also delete existing diagnostic data via the**Delete diagnostic data** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Stop Microsoft Edge Data Collection on Windows 11
 
@@ -99,32 +94,37 @@ To disable tracking within Microsoft Edge:
 1. Login to your[Microsoft account](http://account.microsoft.com) and complete any two-factor authentication required by the site.  
 ![microsoft account dashboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microsoft-account-dashboard.jpg)
 2. From your dashboard, select**Privacy** and then**Privacy dashboard** .
+
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Under the**Manage your activity data** , you should see several groups such as **Location activity, Browsing history, Search history, App and service activity** .  
 ![privacy dashboard Microsoft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/privacy-dashboard.jpg)
 4. One by one, select each tab and click**Clear all** .  
 ![clear microsoft cloud data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/clear-cloud-data.jpg)
 5. For example, to clear the**2,323** instances of app and service-related activity stored by the above Microsoft account, we’ll select the**App and service activity** tab and then select**Clear all app and service activity** .
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. In the popup window, select**Clear** , and choose how frequently you want Microsoft to clear the selected data automatically.
 7. You can also choose to**Download your data** to have a closer look at the extent of the data that Microsoft has collected.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Controlling Your Location Tracking on Windows 11
 
  Many apps utilize location services, and while some may use them out of necessity (in the case of map services), others might exploit the location permission for advertisement purposes. It's crucial you make sure your location data is not being misused by any app on your Windows 11 device.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -133,4 +133,24 @@ To disable tracking within Microsoft Edge:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-professional-guide-extracting-vimeo-content-as-mp4s/"><u>[New] Professional Guide Extracting Vimeo Content as MP4s</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-unveiling-top-8-premium-free-srt-translation-solutions-for-2024/"><u>[New] Unveiling Top 8 Premium Free SRT Translation Solutions for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-paw-some-profits-the-paychecks-of-pewdiepie/"><u>[Updated] 2024 Approved Paw-Some Profits The Paychecks of PewDiePie</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-download-interruptions-for-xbox-software/"><u>Fixing Download Interruptions for Xbox Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/guidelines-for-restoring-defective-discord-game-detection-on-pcs/"><u>Guidelines for Restoring Defective Discord Game Detection on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/identifying-and-resolving-windows-search-startup-woes/"><u>Identifying & Resolving Windows Search Startup Woes</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-infinix-note-30-5g-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-oneplus-ace-2-pro-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on OnePlus Ace 2 Pro Devices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/methods-for-subtle-volume-reduction-in-fl-studio-for-2024/"><u>Methods for Subtle Volume Reduction in FL Studio for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/perfecting-file-management-engage-checkboxes-in-win11-files/"><u>Perfecting File Management: Engage Checkboxes in Win11 Files</u></a></li>
+<li><a href="https://windows11.techidaily.com/pinpointing-and-fixing-sound-issues-in-windows/"><u>Pinpointing and Fixing Sound Issues in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-stagnant-utorrent-transfers-on-windows/"><u>Remedying Stagnant uTorrent Transfers on Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/rethink-kids-tech-with-our-advanced-tablet-exceptional-performance-meets-limited-time-sale-discover-now-on-zdnet/"><u>Rethink Kids' Tech with Our Advanced Tablet: Exceptional Performance Meets Limited Time Sale - Discover Now on ZDNET</u></a></li>
+<li><a href="https://windows11.techidaily.com/revolutionize-windows-with-key-optimization-tools/"><u>Revolutionize Windows with Key Optimization Tools</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/track-down-the-file-where-your-desktop-image-stores/"><u>Track Down the File Where Your Desktop Image Stores</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/why-lenovos-new-ai-thinkpads-are-the-perfect-laptops-for-enterprise-users-according-to-zdnet-reviews/"><u>Why Lenovo's New AI ThinkPads Are the Perfect Laptops for Enterprise Users, According to ZDNET Reviews</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Removing Block by System Admins From Windows
-date: 2024-11-10T16:49:05.023Z
-updated: 2024-11-15T16:08:35.141Z
+date: 2024-11-20T20:57:58.755Z
+updated: 2024-11-24T16:25:46.959Z
 tags:
   - windows10
   - windows11
@@ -27,9 +27,17 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Unblock the App Executable
 
 ![unblocking a file in Properties on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/unblock-file-properties-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Windows can automatically block apps downloaded from the internet from running your computer. This is a safety measure intended to protect your system against apps from unknown publishers.
 
@@ -59,27 +67,17 @@ To open Windows apps using Command Prompt:
 ![run program using command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-program-using-command-prompt.jpg)
 6. Next, press the**Win** key and type**cmd** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Right-click on**Command Prompt** , and select**Run as administrator.**
 8. Next, press**Ctrl + V** to paste the copied file path in Command Prompt. Make sure to add the .exe file name at the end of the file path.
 9. Press**Enter** to launch the app.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Run the Apps as an Administrator
 
 ![run minecraft as administrator windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-minecraft-as-administrator-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Some Windows apps may need administrator privileges to work correctly. To fix the error, run the app as an administrator. If it works, you can configure the app properties to always run as administrator.
 
@@ -89,6 +87,10 @@ To run an app as an administrator:
 2. Click**Yes** if prompted by User Account Control.
 
  Check if the app launches ad administrator without the error. If yes, you can[set the app to always run as administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) to fix the issue. That said, do this only if you trust the publisher for security reasons.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Repair or Reset the Microsoft Store Apps
 
@@ -111,10 +113,7 @@ Reset the Microsoft Store app:
 ![reset-microsoft-teams-windows-11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-microsoft-teams-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Resetting an app will delete its data, including sign-in details and preferences.
@@ -139,10 +138,7 @@ Reset the Microsoft Store app:
  If the error is resolved, add the app to your security program's allowed list. You can also[allowlist files and apps on Windows Defender](https://www.makeuseof.com/how-to-whitelist-files-windows-defender/) if you use it as the primary security application.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Modify the Windows Registry to Remove Admin Block
@@ -168,13 +164,6 @@ To remove the admin block using Registry Editor:
 
 9. If you are using a school or work computer, your organization may put some restrictions on its use. If you can't find the UAC settings, contact your IT administrator to resolve the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Unblock the Apps Blocked by Your System Administrator
 
  Security settings on your Windows computer can often block suspicious apps and trigger the This app has been blocked by your system administrator message. To resolve the issue, check and unblock the app in file properties. Also, turn off the SmartScreen filter and your antivirus solution.
@@ -196,18 +185,24 @@ To remove the admin block using Registry Editor:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-dreamlands-choice-ultimate-10-affordable-rpg-games-for-2024/"><u>[New] Dreamland's Choice Ultimate 10 Affordable RPG Games for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-10-best-gba-emulators-for-android/"><u>[New] In 2024, The 10 Best GBA Emulators for Android</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-asmr-mastery-in-action-strategies-for-dynamic-and-effective-videos/"><u>[Updated] 2024 Approved ASMR Mastery in Action Strategies for Dynamic and Effective Videos</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-a-comparative-look-at-rgb-and-srgb-for-designers/"><u>[Updated] In 2024, A Comparative Look at Rgb and Srgb for Designers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-for-repairing-your-itunes-sound-setup-errors-efficiently/"><u>Expert Tips for Repairing Your iTunes Sound Setup Errors Efficiently</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-extracting-files-to-the-temporary-location-error-1152-in-windows-1110/"><u>How to Fix the “Extracting Files to the Temporary Location” Error 1152 in Windows 11/10</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-honor-magic-6-phone-by-drfone-android/"><u>How to Unlock a Network Locked Honor Magic 6 Phone?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Samsung Galaxy M14 4G | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Xiaomi Redmi K70E | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-art-of-browser-management-in-windows/"><u>Mastering the Art of Browser Management in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/record-games-like-a-pro-with-windows-and-intels-command-center/"><u>Record Games Like a Pro with Windows & Intel's Command Center</u></a></li>
-<li><a href="https://games-able.techidaily.com/revive-playstation-4s-wi-fi-connection-with-these-fixes/"><u>Revive PlayStation 4'S Wi-Fi Connection with These Fixes</u></a></li>
-<li><a href="https://windows11.techidaily.com/upgrade-your-windows-to-a-dynamic-tiling-desktop-with-fancywm/"><u>Upgrade Your Windows to a Dynamic Tiling Desktop With FancyWM</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-unlock-creative-potential-crafting-tiktok-videos-using-templates/"><u>[Updated] In 2024, Unlock Creative Potential Crafting TikTok Videos Using Templates</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-networking-with-influencers-partnerships-for-viral-video-potential-for-2024/"><u>[Updated] Networking with Influencers Partnerships for Viral Video Potential for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-comprehensively-reviewing-the-ricoh-theta-s-system/"><u>2024 Approved Comprehensively Reviewing the Ricoh Theta S System</u></a></li>
+<li><a href="https://windows11.techidaily.com/5-essential-fixes-for-hybrid-os-hypervisor-faults/"><u>5 Essential Fixes for Hybrid OS Hypervisor Faults</u></a></li>
+<li><a href="https://games-able.techidaily.com/accelerating-data-transmission-understanding-and-reducing-extended-response-times/"><u>Accelerating Data Transmission: Understanding and Reducing Extended Response Times</u></a></li>
+<li><a href="https://windows11.techidaily.com/crafting-iso-images-from-your-windows-esd-originals/"><u>Crafting ISO Images From Your Windows' ESD Originals</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-your-workflow-in-windows-11-run-command-innovation-guide/"><u>Elevate Your Workflow in Windows 11: Run Command Innovation Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-click-rate-three-methods-for-mouse-double-click-tweaking/"><u>Enhance Click Rate: Three Methods for Mouse Double-Click Tweaking</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-deal-alert-save-big-with-up-to-1100-discounts-on-top-tier-gaming-and-video-editing-laptops-detailed-guide/"><u>Exclusive Deal Alert: Save Big with Up to $1100 Discounts on Top-Tier Gaming and Video Editing Laptops | Detailed Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-add-new-submenus-to-windows-11s-desktop-context-menu/"><u>How to Add New Submenus to Windows 11’S Desktop Context Menu</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-the-ultimate-guide-to-rapid-video-trimming-on-mac-updated-2023/"><u>In 2024, The Ultimate Guide to Rapid Video Trimming on Mac (Updated 2023)</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-no-supported-devices-found-in-windows-11/"><u>Overcoming No Supported Devices Found in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/personalizing-windows-space-adding-this-pc-iconography/"><u>Personalizing Windows Space: Adding 'This PC' Iconography</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-tecno-spark-10-pro-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Tecno Spark 10 Pro to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-access-to-any-language-hotkeys-for-efficient-translation-in-windows-os/"><u>Quick Access to Any Language: Hotkeys for Efficient Translation in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fixes-for-a-polished-w11-workspace/"><u>Quick Fixes for a Polished W11 Workspace</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/seamlessly-saving-your-screen-premium-choices-on-pc-and-mac-for-2024/"><u>Seamlessly Saving Your Screen Premium Choices on PC & Mac for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/vlc-screen-recorder-review-for-2024/"><u>VLC Screen Recorder Review for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/want-to-use-your-macbook-with-a-closed-lid-heres-how-not-to-let-it-go-to-sleep/"><u>Want to Use Your MacBook with a Closed Lid? Here's How Not to Let It Go To Sleep</u></a></li>
 </ul></div>
 

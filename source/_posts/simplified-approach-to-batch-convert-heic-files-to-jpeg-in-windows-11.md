@@ -1,7 +1,7 @@
 ---
 title: Simplified Approach to Batch Convert HEIC Files to JPEG in Windows 11
-date: 2024-08-22T21:37:48.392Z
-updated: 2024-08-23T21:37:48.392Z
+date: 2024-11-22T23:12:46.136Z
+updated: 2024-11-24T21:38:29.291Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/e660cb7c486fc8d0b8cac52fbec26fad8dcc27b5b
  HEIC is an Apple image format used on iPhones. It enables higher-quality images in smaller file sizes. Apple established HEIC in 2017, now among the more prevalent image formats after JPEG and PNG.
 
  However, few Windows software packages support the HEIC format. Some users prefer to convert HEIC images to JPEG format so they can open iPhone photos on PCs with many more Windows apps. Batch conversion is preferable since it enables you to convert multiple HEIC images simultaneously. This is how you can batch-convert HEIC images to JPEG in Windows 11/10.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Batch Convert HEIC Images to JPEG With CopyTrans HEIC for Windows
 
@@ -43,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/e660cb7c486fc8d0b8cac52fbec26fad8dcc27b5b
 4. Right-click on one of the selected image files to select**Convert to JPEG With CopyTrans** . Windows 11 users need to select**Show more options** \>**Convert to JPEG** .  
 ![The Convert to JPEG with CopyTrans option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/convert-to-jpeg-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then CopyTrans will convert the selected images to JPEG format without any kind of confirmation window popping up. It will save new JPG files for the HEIC images in the same folder. You’ll need to click on a different folder and then return to the directory that includes the HEIC images to see new files.
 
  CopyTrans HEIC for Windows doesn’t have any kind of user interface. So, there isn’t any way you can configure what folder converted output gets saved in or change any other settings.
@@ -63,6 +71,10 @@ thumbnail: https://thmb.techidaily.com/e660cb7c486fc8d0b8cac52fbec26fad8dcc27b5b
 ![The FoneTool setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fonetool-setup-window.jpg)
 6. Click**Enjoy Now** to exit the installation and start FoneTool.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now it's time to convert images with FoneTool:
 
 1. Select the**ToolBox** tab in FoneTool’s window.
@@ -72,6 +84,11 @@ Now it's time to convert images with FoneTool:
 4. Then select**JPEG** on the P**hoto Format** drop-down menu.  
 ![The HEIC Converter window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/heic-converter-tool.jpg)
 5. Click the**Select** button to choose a directory to save the converted JPEG files within. Click the**Select Folder** button to confirm.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Select optional**Photo Quality** and**Conversion Speed** settings.
 7. Press the**Start Converting** option.
 
@@ -86,8 +103,9 @@ Now it's time to convert images with FoneTool:
 ![The Photo Deduplication tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/photo-duplication-tool.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Bach Convert HEIC Images With HEIC to JPEG Free Online Converter
 
  There are various[online HEIC to JPEG conversion tools](https://www.makeuseof.com/convert-heic-files-tools/) you can utilize in Windows browsers. HEIC to JPEG Free Online Converter is a web app with which you can convert up to 100 images simultaneously to JPEG, PNG, or BMP formats. These are the steps for converting HEIC images to JPEG alternatives with that web app:
@@ -96,35 +114,23 @@ Now it's time to convert images with FoneTool:
 2. Press the**Add HEIC files** button.  
 ![The Add HEIC files button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-heic-files-button.jpg)
 3. Choose a HEIC image to convert and click the**Open** option. As you can only select one image at a time, you’ll need to repeat steps two and three to add more files.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 4. Click (Select output format) to expand options.
 5. Select**JPEG** on the**Convert to** drop-down menu.  
 ![The Convert to option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/convert-to-option.jpg)
 6. Then set a value in the**Quality** box.
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 7. Select the**I consent** checkbox. You can click the**Privacy Policy** link to view further info about the fCoder Solutions' data-sharing policy.
 8. Press**Convert** to perform the conversion.  
 ![The Convert button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/convert-button.jpg)
 9. Click**Download all** to save the JPEG files.
+
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also utilize this tool for batch-resizing images. To do so, click the**Set image size, remove all EXIF information** option. Then input values in the new width and new height text boxes.
 
 ![Image resize options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-image-size-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Make iPhone Photos More Accessible on Windows
 
  Converting HEIC images to JPEG format will enable you to open, view, and edit them with a much wider variety of Windows software. If you have lots of them, it’s best to utilize a batch conversion tool for converting HEIC files to JPEG format. You can quickly convert masses of HEIC images in Windows 11 and 10 with CopyTrans HEIC, FoneTool, and HEIC to JPEG Free Online Converter.
@@ -135,8 +141,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +148,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/updated-cloud-storage-pricing-comparison-and-best-price-2024/"><u>[Updated] Cloud Storage Pricing Comparison and Best Price 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-conquer-video-production-obs-studio-and-android/"><u>[Updated] Conquer Video Production OBS Studio and Android</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-optimize-your-content-youtube-seo-techniques-and-gadgets/"><u>[Updated] In 2024, Optimize Your Content YouTube SEO Techniques and Gadgets</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-gradual-glide-out-technique-for-audio-in-adobe-premiere-pro/"><u>2024 Approved The Gradual Glide Out Technique for Audio in Adobe Premiere Pro</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/guia-rapida-para-copias-de-seguridad-automaticas-por-lote-en-windows-10-tecnicas-y-trucos/"><u>Guía Rápida Para Copias De Seguridad Automáticas Por Lote en Windows 10 - Técnicas Y Trucos</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-retrieve-classic-file-management/"><u>How to Retrieve Classic File Management</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-os-not-found-a-comprehensive-guide/"><u>Overcoming OS Not Found: A Comprehensive Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-usb-data-loss-on-windows-platforms/"><u>Overcoming USB Data Loss on Windows Platforms</u></a></li>
+<li><a href="https://windows11.techidaily.com/sidestep-windows-error-8-ways-to-overcome-sign-in-denial/"><u>Sidestep Windows Error: 8 Ways to Overcome Sign-In Denial</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-resolving-dxgi-error-in-devices/"><u>Strategies for Resolving DXGI Error in Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleash-efficiency-ditch-the-excess-in-win11/"><u>Unleash Efficiency: Ditch the Excess in Win11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/flv-gif/"><u>영구 용인: 간단한 방법, 우리가 도와드리는 화면에서 FLV 개시를 GIF로 전환</u></a></li>
+</ul></div>
 

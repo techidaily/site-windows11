@@ -1,7 +1,7 @@
 ---
 title: Removing Curved Edges From Windows 11
-date: 2024-08-22T21:39:03.493Z
-updated: 2024-08-23T21:39:03.493Z
+date: 2024-11-18T19:41:38.159Z
+updated: 2024-11-24T20:52:31.322Z
 tags:
   - windows10
   - windows11
@@ -34,7 +34,15 @@ thumbnail: https://thmb.techidaily.com/f51042103ff6c3f87c92a84096e29bdaf9eccd433
 
 ![Square Corners in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/square-corners-in-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Note that this tool will not disable rounded corners in the Start menu or some modern apps. If you want to revert the changes later, simply run the downloaded EXE file again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. How to Disable Rounded Corners in Windows 11 Using the Registry Editor
 
@@ -51,11 +59,16 @@ thumbnail: https://thmb.techidaily.com/f51042103ff6c3f87c92a84096e29bdaf9eccd433
 7. [Restart your PC](https://www.makeuseof.com/windows-restart-methods/) to apply the changes.  
 ![Disable Rounded Corners in Windows 11 via Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/disable-rounded-corners-in-windows-11-via-registry-editor.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to reverse the above change later, repeat the same steps mentioned earlier and change the value data for the **UseWindowFrameStagingBuffer** to **1**.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. How to Disable Rounded Corners in Windows 11 via Device Manager
 
  Another way to remove rounded corners in Windows 11 is by disabling the graphics driver on your PC. However, it is important to consider a few caveats. Firstly, disabling the graphics driver will result in reduced display performance, lower screen resolutions, and the deactivation of any visual effects. Secondly, this will also prevent you from running any graphics-intensive applications or games on your PC.
@@ -69,13 +82,11 @@ thumbnail: https://thmb.techidaily.com/f51042103ff6c3f87c92a84096e29bdaf9eccd433
 ![Disable Graphics Driver on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/disable-graphics-driver-on-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Once the graphics driver is disabled, you should see square corners on all windows and menus in Windows 11\. If you want to undo this change later, simply enable the graphics driver via Device Manager.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Disabling Rounded Corners in Windows 11 Is Easy
 
  Using a third-party tool is arguably the most convenient way to remove rounded corners in Windows 11\. However, if you prefer to rely on the native methods, you can use the Registry Editor or Device Manager instead.
@@ -84,11 +95,31 @@ thumbnail: https://thmb.techidaily.com/f51042103ff6c3f87c92a84096e29bdaf9eccd433
 
  The good news is that it is possible to disable rounded corners in Windows 11, and this guide will walk you through three easy methods for the same.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-proactive-copyright-verification-for-your-tiktok-videos/"><u>[New] 2024 Approved Proactive Copyright Verification for Your TikTok Videos</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/iverse-designs-at-your-fingertips-from-these-6-websites-for-2024/"><u>[New] Diverse Designs at Your Fingertips From These 6 Websites for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-unlock-spark-ars-full-potential-with-personalized-lut-implementations/"><u>[New] In 2024, Unlock Spark AR's Full Potential with Personalized LUT Implementations</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-transform-your-gaming-soundscape-ps5-and-ps4-edition-for-2024/"><u>[New] Transform Your Gaming Soundscape PS5 & PS4 Edition for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-pioneering-playgrounds-of-action-adventure-classics-top-10/"><u>[Updated] In 2024, Pioneering Playgrounds of Action-Adventure Classics (Top 10)</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-xiaomi-redmi-12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/high-res-360-views-gear-vs-lgcam-showdown-for-2024/"><u>High-Res 360 Views Gear vs LGCam Showdown for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/resurrecting-old-machines-skip-the-windows-path/"><u>Resurrecting Old Machines, Skip the Windows Path</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-missing-windows-update-a-step-by-step-guide/"><u>Reviving Missing Windows Update: A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/stop-windows-configuration-crashes-with-ease/"><u>Stop Windows Configuration Crashes with Ease</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlined-methods-deleting-saved-wi-fi-in-win-11/"><u>Streamlined Methods: Deleting Saved Wi-Fi in Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-essential-guide-to-systematic-surface-software-updates/"><u>The Essential Guide to Systematic Surface Software Updates</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-lost-and-found-getting-windows-10-and-11-back-onscreen/"><u>The Lost and Found: Getting Windows 10 & 11 Back Onscreen</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-authentication-issues-in-windows-os/"><u>Troubleshooting Authentication Issues in Windows OS</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-power-and-charm-of-the-apple-imac-215-4k-a-detailed-review/"><u>Unveiling the Power and Charm of the Apple iMac 21.5 4K - A Detailed Review</u></a></li>
+<li><a href="https://windows11.techidaily.com/what-is-the-wacatacbml-trojan-how-to-remove-it-from-windows/"><u>What Is the Wacatac.B!ml Trojan? How to Remove It From Windows</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/which-player-enhances-media-experience-more-vlc-vs-mx/"><u>Which Player Enhances Media Experience More? VLC Vs. MX</u></a></li>
+</ul></div>
+

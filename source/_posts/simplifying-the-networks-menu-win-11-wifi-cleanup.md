@@ -1,7 +1,7 @@
 ---
 title: "Simplifying the Networks Menu: Win 11 Wifi Cleanup"
-date: 2024-11-14T16:27:17.684Z
-updated: 2024-11-15T16:25:16.444Z
+date: 2024-11-18T19:56:10.659Z
+updated: 2024-11-24T20:42:37.447Z
 tags:
   - windows10
   - windows11
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/34898e0ebb1abca68099d2acba8fac3a4c33b8787
 
  Over time, your PC may accumulate a long list of Wi-Fi networks that you won't be connecting to. In such cases, it makes sense to remove old and unused Wi-Fi networks from your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Remove a Saved Wi-Fi Network Using the Quick Settings Panel
 
  The Quick Settings panel on Windows provides access to some commonly used settings. It also makes it simple to remove a saved Wi-Fi network from Windows 11.
@@ -49,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/34898e0ebb1abca68099d2acba8fac3a4c33b8787
 ![Remove Wi-Fi Network From Quick Settings Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Remove-Wi-Fi-Network-From-Quick-Settings-Panel.jpg)
 
  Like using the Quick Settings on Windows? Check out[how to customize the Quick Settings panel on your Windows 11 computer](http://www.makeuseof.com/windows-11-customize-quick-settings-menu/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Remove a Saved Wi-Fi Network via the Settings App
 
@@ -62,7 +59,15 @@ To forget a Wi-Fi network via the Settings app:
 4. Click the**Forget** button next to a network to delete it.  
 ![Remove Wi-Fi Network on Windows From the Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Remove-Wi-Fi-Network-on-Windows-From-the-Settings-App.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  And that's about it. Once you click the**Forget** button, Windows will remove the network profile associated with that network.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Remove a Saved Wi-Fi Network With Command Prompt or PowerShell
 
@@ -100,13 +105,14 @@ To remove a Wi-Fi network using the Registry Editor:
 8. Select**Yes** to confirm.  
 ![Remove Wi-Fi Network on Windows Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Remove-Wi-Fi-Network-on-Windows-Using-Registry-Editor.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you complete the above steps, the saved profile will be removed from your system.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Reconnect to a Forgotten Wi-Fi Network on Windows 11
@@ -117,27 +123,7 @@ To remove a Wi-Fi network using the Registry Editor:
 
 ![Connect to a Wi-Fi Network Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Connect-to-a-Wi-Fi-Network-Windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Of course, this isn't the only way to connect to a Wi-Fi network on Windows. Refer to our guide on[different ways to connect to Wi-Fi on Windows](https://www.makeuseof.com/windows-ways-to-connect-to-wifi/) to learn more.
-
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Removing Saved Wi-Fi Networks From Windows 11
 
@@ -160,15 +146,21 @@ To remove a Wi-Fi network using the Registry Editor:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-ultimate-guide-to-iphone-7-screen-recording/"><u>[New] In 2024, Ultimate Guide to iPhone 7 Screen Recording</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-precision-tips-for-effective-network-livestreaming-using-vlc/"><u>[Updated] 2024 Approved Precision Tips for Effective Network Livestreaming Using VLC</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-engaging-audiences-with-dynamic-photoviewer-content-in-pixiz/"><u>[Updated] In 2024, Engaging Audiences with Dynamic Photoviewer Content in Pixiz</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-kiddo-cars-miniature-mayhem-matches/"><u>2024 Approved Kiddo Cars Miniature Mayhem Matches</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/master-your-gameplay-on-the-spacious-sleek-phillips-evnia-49-inch-oled-screen/"><u>Master Your Gameplay on the Spacious, Sleek Phillips Evnia 49-Inch OLED Screen</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-language-switches-using-keyboard-shortcuts-on-windows-11/"><u>Mastering Language Switches: Using Keyboard Shortcuts on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/mending-the-error-not-connected-wifi-in-win/"><u>Mending the Error: 'Not Connected' WiFi in Win</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-mfc71udll-absence-on-windows-pc/"><u>Overcoming Mfc71u.dll Absence on Windows PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/recover-missing-seagate-or-samsung-drives-in-windows/"><u>Recover Missing Seagate or Samsung Drives in Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/youtube-invites-you-to-experiment-with-innovative-minigames/"><u>YouTube Invites You to Experiment with Innovative Minigames</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-larger-than-life-instagram-videos-tips-to-break-the-barrier/"><u>[Updated] 2024 Approved Larger-than-Life Instagram Videos Tips to Break the Barrier</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-newbies-guide-to-vlogging-gear-and-software-insights/"><u>[Updated] Newbie's Guide to Vlogging Gear and Software Insights</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2023-guide-to-affordable-laptop-dvd-players-for-2024/"><u>2023 Guide to Affordable Laptop DVD Players for 2024</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/beware-microsofts-recent-upgrade-might-turn-your-evenings-into-a-cyber-sisyphean-nightmare-uncovered-by-zdnet/"><u>Beware: Microsoft's Recent Upgrade Might Turn Your Evenings Into a Cyber-Sisyphean Nightmare – Uncovered by ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/easing-wow-start-up-issues-after-updates/"><u>Easing WoW Start-Up Issues After Updates</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-editing-skills-mastering-jumps-and-pastes/"><u>Elevate Editing Skills: Mastering Jumps & Pastes</u></a></li>
+<li><a href="https://fox-info.techidaily.com/long-exposure-iphone-shots-step-by-step-guide/"><u>Long-Exposure iPhone Shots Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/lowering-gameplay-stress-reducing-cpu-load-while-playing/"><u>Lowering Gameplay Stress: Reducing CPU Load While Playing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-fixing-critical-process-died-with-error-code-0xc00000e9-on-windows/"><u>Master Fixing Critical Process Died with Error Code 0xC00000E9 on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximizing-windows-11-efficiency-the-5-uptime-test-routines/"><u>Maximizing Windows 11 Efficiency: The 5 Uptime Test Routines</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-landscape-of-android-and-windows-file-sharing/"><u>Navigating the Landscape of Android & Windows File Sharing</u></a></li>
+<li><a href="https://windows11.techidaily.com/quickly-fixing-microsoft-store-problems-on-win-11/"><u>Quickly Fixing Microsoft Store Problems on Win 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/redefining-clinical-practice-with-chatgpt-technology/"><u>Redefining Clinical Practice with ChatGPT Technology</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-art-of-crafting-compelling-video-covers/"><u>The Art of Crafting Compelling Video Covers</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-visual-spectacle-premium-144hz-uw-monitors/"><u>The Ultimate Visual Spectacle: Premium 144Hz UW Monitors</u></a></li>
+<li><a href="https://windows11.techidaily.com/voice-your-ideas-type-them-out-with-openais-whisper/"><u>Voice Your Ideas, Type Them Out With OpenAI’s Whisper</u></a></li>
 </ul></div>
 

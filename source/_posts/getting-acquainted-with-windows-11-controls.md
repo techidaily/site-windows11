@@ -1,7 +1,7 @@
 ---
 title: Getting Acquainted with Windows 11 Controls
-date: 2024-10-27T17:07:27.869Z
-updated: 2024-10-30T16:05:56.665Z
+date: 2024-11-21T19:14:40.927Z
+updated: 2024-11-24T18:19:56.804Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/36b09f7ccaa9c81816aab7eda16cf8f7440a1a40a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Does the Enhanced Settings Homepage Do on Windows 11?
 
  The Settings app received a [significant upgrade in Windows 11](https://www.makeuseof.com/windows-11-settings-whats-new/), which included a much-needed user interface redesign. Through regular Windows 11 updates, the Richmond giant has doubled down on its goal of making Windows 11 easy to use.
@@ -33,13 +37,14 @@ thumbnail: https://thmb.techidaily.com/36b09f7ccaa9c81816aab7eda16cf8f7440a1a40a
 
 ![settings homepage in windows11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/settings-homepage-win11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Additionally, you can manage your Microsoft 365 account settings and even analyze OneDrive usage with a glance. The cards are grouped into different categories: recommended settings, cloud storage, Microsoft 365, and more. We can expect Microsoft to gradually add more cards to the homepage.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is It Easier to Manage Windows 11's Settings?
@@ -61,10 +66,7 @@ thumbnail: https://thmb.techidaily.com/36b09f7ccaa9c81816aab7eda16cf8f7440a1a40a
  Moreover, the cards or the features aren’t static; they’ll change and update based on how you interact with your device settings. This means the homepage will automatically adjust to your preferences and usage, so it's always relevant to your needs.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Get the Windows 11 Enhanced Settings Update
@@ -74,10 +76,7 @@ thumbnail: https://thmb.techidaily.com/36b09f7ccaa9c81816aab7eda16cf8f7440a1a40a
  Head over to [how to enable the home section in the Settings app in Windows 11](https://www.makeuseof.com/enable-home-section-settings-app-windows-11/) for more information.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Device Management Made Easy With Windows 11
@@ -96,21 +95,22 @@ thumbnail: https://thmb.techidaily.com/36b09f7ccaa9c81816aab7eda16cf8f7440a1a40a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-champion-phonographs-for-seminar-sessions/"><u>[New] Champion Phonographs for Seminar Sessions</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-streamline-your-information-with-mematics-app/"><u>[New] In 2024, Streamline Your Information with Mematic's App</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-essential-steps-from-youtube-raw-to-mp4-compression/"><u>[Updated] Essential Steps From YouTube Raw to MP4 Compression</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-realtime-av-enthusiasts-community/"><u>[Updated] RealTime AV Enthusiasts Community</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/advanced-strategies-for-quiet-capturing/"><u>Advanced Strategies for Quiet Capturing</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-achieve-a-crystal-clear-taskbar-in-windows-11/"><u>How to Achieve a Crystal Clear Taskbar in Windows 11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-poco-x5-pro-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Poco X5 Pro with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-twitter-tales-creating-gifs-without-charges/"><u>In 2024, Twitter Tales Creating GIFs Without Charges</u></a></li>
-<li><a href="https://windows11.techidaily.com/initiate-system-check-with-these-5-methods/"><u>Initiate System Check with These 5 Methods</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-editing-text-on-instagram-direct-messages/"><u>Mastering the Art of Editing Text on Instagram Direct Messages</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigate-to-file-explorer-through-onedrive-in-windows/"><u>Navigate to File Explorer Through OneDrive in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-non-responsive-power-controls-in-win11/"><u>Navigating Non-Responsive Power Controls in Win11</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/quick-and-simple-creating-stunning-time-lapses-on-samsungs-for-2024/"><u>Quick & Simple Creating Stunning Time-Lapses on Samsungs for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamline-windows-11s-search-bar-efficacy/"><u>Streamline Windows 11'S Search Bar Efficacy</u></a></li>
-<li><a href="https://windows11.techidaily.com/tick-the-box-quick-windows-fixes-to-modify-file-dates/"><u>Tick the Box: Quick Windows Fixes to Modify File Dates</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-techniques-to-fix-win11-system-call-errors/"><u>Troubleshooting Techniques to Fix Win11 System Call Errors</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-sequential-image-storytelling-on-ig/"><u>[New] 2024 Approved Sequential Image Storytelling on IG</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-the-ultimate-mi-11-screenshot-and-record-playbook-for-2024/"><u>[New] The Ultimate Mi 11 Screenshot & Record Playbook for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-a-trailblazers-guide-youtube-studio-location-unveiled/"><u>[Updated] In 2024, A Trailblazer’s Guide YouTube Studio Location Unveiled</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-proactive-measures-against-typical-short-video-issues-for-2024/"><u>[Updated] Proactive Measures Against Typical Short Video Issues for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-best-camcorder-tech-for-shooting-sports/"><u>2024 Approved Best Camcorder Tech for Shooting Sports</u></a></li>
+<li><a href="https://windows11.techidaily.com/7-tricks-for-rejuvenating-non-responsive-windows-service-explorer/"><u>7 Tricks for Rejuvenating Non-Responsive Windows Service Explorer</u></a></li>
+<li><a href="https://windows11.techidaily.com/achieve-optimal-performance-self-updating-updated-amd-driver/"><u>Achieve Optimal Performance: Self-Updating, Updated AMD Driver</u></a></li>
+<li><a href="https://windows11.techidaily.com/discover-the-power-of-background-blur-a-windows-11-photo-guide/"><u>Discover the Power of Background Blur: A Windows 11 Photo Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortless-data-handling-navigate-4-steps-to-open-disk-management-in-windows-11/"><u>Effortless Data Handling: Navigate 4 Steps to Open Disk Management in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-add-folders-to-the-context-menu-in-windows-11/"><u>How to Add Folders to the Context Menu in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/interpretation-of-the-red-x-icon-in-file-management/"><u>Interpretation of the Red “X” Icon in File Management</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximizing-efficiency-7-thoughtful-ways-to-utilize-ai-for-writers/"><u>Maximizing Efficiency: 7 Thoughtful Ways to Utilize AI for Writers</u></a></li>
+<li><a href="https://media-tips.techidaily.com/navigating-the-highs-and-lows-in-creating-a-personal-media-hub-at-home/"><u>Navigating the Highs and Lows in Creating a Personal Media Hub at Home</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-automatic-screenshore-changes-in-win11/"><u>Preventing Automatic Screenshore Changes in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/triumph-over-outdated-updates-winning-strategies-revealed/"><u>Triumph Over Outdated Updates: Winning Strategies Revealed</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/turbocharged-introduction-to-turkish-letters-and-sounds/"><u>Turbocharged Introduction to Turkish Letters and Sounds</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unleash-the-full-potential-of-your-hdr-images-with-lightroom/"><u>Unleash the Full Potential of Your HDR Images with Lightroom</u></a></li>
 </ul></div>
 

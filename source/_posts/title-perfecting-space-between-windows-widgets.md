@@ -1,7 +1,7 @@
 ---
 title: "Title: Perfecting Space Between Windows Widgets"
-date: 2024-08-22T21:37:32.073Z
-updated: 2024-08-23T21:37:32.073Z
+date: 2024-11-22T19:09:50.128Z
+updated: 2024-11-24T17:11:40.039Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/4d82cc5d4830160f77be1be23b3b0d5c8cbc630ac
 
  As such, it might seem that you can’t change icon spacing on the desktop in Windows 11/10\. However, Windows 11 does have two hidden settings for changing the vertical and horizontal desktop icon spacing in the form of registry strings. Here is how you can change desktop icon spacing in Windows 11/10 in two different ways.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Change Desktop Icon Spacing By Manually Editing the Registry
 
  The registry is one big database of configuration settings that you can edit to customize Windows. It includes a WindowsMetrics key that incorporates IconSpacing and IconVerticalSpacing strings.
@@ -37,6 +41,11 @@ thumbnail: https://thmb.techidaily.com/4d82cc5d4830160f77be1be23b3b0d5c8cbc630ac
 2. Enter a replacement value with a minus (-) sign in front of it. For example, entering**\-1180** will slightly increase the horizontal spacing.  
 ![The Edit String window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/edit-string-window.jpg)
 3. Press the**OK** button to close IconString’s Edit String window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Next, double-click the**IconVerticalSpacing** string setting, with which you can modify vertical icon spacing.
 5. Clear the current value, and then input another number with a minus sign in front of it. If you want the vertical spacing to be the same as the horizontal, enter a number there that matches the IconSpacing value.
 6. Click the Edit String window’s**OK** button.
@@ -47,7 +56,15 @@ thumbnail: https://thmb.techidaily.com/4d82cc5d4830160f77be1be23b3b0d5c8cbc630ac
 
 ![New desktop icon spacing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/new-icon-spacing.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now you might wonder how you can restore the default desktop icon spacing. The default spacing value for both the strings is**\-1125** , which amounts to 75 pixels. So, return to the WindowMetric registry key and enter**\-1125** for both the**IconString** and**IconVerticalSpacing** string values. Thereafter, restart your PC to restore the default spacing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Change Desktop Icon Spacing With Winaero Tweaker
 
@@ -85,13 +102,14 @@ thumbnail: https://thmb.techidaily.com/4d82cc5d4830160f77be1be23b3b0d5c8cbc630ac
 
 ![The Font window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/font-window.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  There you can select a different icon font from a wide variety of alternatives in the**Font** menu. The**Font style** menu there includes 12 different styles for icon fonts to choose from. Input a higher or lower value in the**Size** box to increase or decrease the font size. You can also select**Strikeout** and**Underline** text effect options there.
 
  Click**OK** when you’ve customized the desktop icon font, and then select the**Apply Changes** and**Sign out** now options.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Change Desktop Icon Spacing With DesktopOK
 
  DesktopOK is another third-party app with which you can adjust the vertical and horizontal spacing between desktop icons. That software also enables you to save desktop icon layouts and packs in other useful tools and features. You can change desktop icon spacing with DesktopOK like this:
@@ -106,22 +124,13 @@ thumbnail: https://thmb.techidaily.com/4d82cc5d4830160f77be1be23b3b0d5c8cbc630ac
 2. Click**Tools** on the DesktopOK window.  
 ![The Windows-Metrics option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-metrics-option.jpg)
 3. Select**Windows-Metrics** on the**Tools** menu.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 4. Click**Yes** on the confirmation dialog prompt.
 5. Drag the**Horizontal Space** bar’s slider to change horizontal desktop icon spacing.  
 ![The spacing bars](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/spacing-bars.jpg)
 6. Then drag the**Vertical Space** bar’s slider to adjust vertical icon spacing.
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  You can also change desktop icon sizes from the Windows-Metrics window. Click the**Desktop icon size** drop-down menu to choose an alternative size from there. If you select the largest icon sizes, you’ll need to increase the spacing between them to prevent them overlapping.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ## How Much Icon Space Do You Want on Your Desktop?
 
  So, would you prefer the desktop icons in Windows 11/10 to have more or less space between them? Reducing desktop icon space will free up space for more shortcuts. However, some Microsoft Surface touchscreen PC users might prefer to widen the spaces between icons a little bit. You can choose either way by manually editing the registry or adjusting spacing with Winaero Tweaker’s**Icon** option or the Windows-Metrics utility in DesktopOK.
@@ -132,8 +141,6 @@ thumbnail: https://thmb.techidaily.com/4d82cc5d4830160f77be1be23b3b0d5c8cbc630ac
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,4 +148,26 @@ thumbnail: https://thmb.techidaily.com/4d82cc5d4830160f77be1be23b3b0d5c8cbc630ac
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-from-live-to-video-key-techniques-in-gaming-recordings/"><u>[New] 2024 Approved From Live to Video Key Techniques in Gaming Recordings</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-perfecting-altered-text-aesthetics-in-visual-media/"><u>[New] 2024 Approved Perfecting Altered Text Aesthetics in Visual Media</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-a-practical-handbook-for-recording-virtual-play-battles-for-2024/"><u>[New] A Practical Handbook for Recording Virtual Play Battles for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-raw-to-refined-tailoring-youtube-videos-with-premiere-pro/"><u>[New] In 2024, From Raw to Refined Tailoring YouTube Videos with Premiere Pro</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-premier-cycling-titles-to-try-out/"><u>[New] Premier Cycling Titles to Try Out</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-10-preferred-top-free-image-editing-and-overlay-apps-for-phones/"><u>[Updated] 10 Preferred Top-Free Image Editing & Overlay Apps for Phones</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-vivo-y36-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Vivo Y36? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhancing-gaming-performance-how-to-boost-fps-and-reduce-stuttering-on-current-titles/"><u>Enhancing Gaming Performance: How to Boost FPS and Reduce Stuttering on Current Titles</u></a></li>
+<li><a href="https://windows11.techidaily.com/leveraging-universal-stickies-in-windows-11/"><u>Leveraging Universal Stickies in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-managing-windows-apps/"><u>Mastering the Art of Managing Windows Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-wi-fi-disconnection-on-windows-11/"><u>Mastering the Art of Wi-Fi Disconnection on Windows 11</u></a></li>
+<li><a href="https://facebook.techidaily.com/maximizing-facebooks-home-smart-hub/"><u>Maximizing Facebook's Home Smart Hub</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-microsofts-phone-link-app/"><u>Navigating Through Microsoft's Phone Link App</u></a></li>
+<li><a href="https://windows11.techidaily.com/securely-modifying-your-windows-11-keyboard-layout/"><u>Securely Modifying Your Windows 11 Keyboard Layout</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailored-choice-in-windows-11-identifying-best-home-or-pro-option/"><u>Tailored Choice in Windows 11: Identifying Best Home or Pro Option</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailoring-computer-slumber-for-optimal-performance/"><u>Tailoring Computer Slumber for Optimal Performance</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-fix-unblocking-windows-11-logins/"><u>The Ultimate Fix: Unblocking Windows 11 Logins</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-a-blue-screen-free-windows-11-top-strategies-for-success/"><u>Unlock a Blue-Screen Free Windows 11: Top Strategies for Success</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/upload-ps4-screenshots-to-social-media-a-step-by-step-guide-for-2024/"><u>Upload PS4 Screenshots to Social Media A Step-by-Step Guide for 2024</u></a></li>
+</ul></div>
 

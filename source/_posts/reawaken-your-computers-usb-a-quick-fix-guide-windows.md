@@ -1,7 +1,7 @@
 ---
 title: "Reawaken Your Computer's USB: A Quick Fix Guide, Windows"
-date: 2024-10-29T17:34:58.003Z
-updated: 2024-11-05T06:25:41.264Z
+date: 2024-11-24T01:39:15.705Z
+updated: 2024-11-24T16:18:52.924Z
 tags:
   - windows10
   - windows11
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Think Your USB Port Is Not Working? Test It
 
@@ -46,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 
  Finally, grab a USB cable (or flash drive) and gently wiggle it around. If the drive is moving and feels loose---typically this will be up and down---then you have a problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Fix a Broken USB Port on PC and Laptop
 
  We'll look at some software fixes in a moment, but first, what if the USB port is loose?
@@ -67,10 +75,7 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
  With your unrecognized USB device correctly inserted into the suspect USB port, restart your computer. Once the operating system has rebooted, it should detect the USB device. If not, it's worth looking at the device in the Windows device manager.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Check USB Ports on Windows 10 With Device Manager
@@ -83,19 +88,16 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 ![Open Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/muo-diy-fix-USB-ports-device-mgr.png)
 2. **Browse the list for** **Universal Serial Bus controllers**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Expand this and look for the **USB Host Controller**(your device may have a longer title, but it will feature those three words)  
 ![Find the USB Host Controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/muo-diy-fix-USB-ports-device-mgr-host-controller.png)
 4. Right-click USB Host Controller (and any duplicates) and select **Uninstall**  
 
 ![Uninstall USB Host Controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/muo-diy-fix-USB-ports-device-mgr-host-controller-uninstall.png)
 5. Restart your computer
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. If no USB Host Controller is listed, click **Scan for hardware changes** on the toolbar
 
@@ -123,10 +125,7 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 7. Click **Apply** and **OK** to confirm
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. Finally, reboot your PC to ensure this change is applied
@@ -140,13 +139,6 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
  It's no wonder, then, that any tampered settings in your BIOS or UEFI will leave a variety of problems in its wake, including a malfunctioning USB port. So if you've reason to believe something has gone wrong with the BIOS/UEFI settings, we suggest resetting its settings.
 
  Check out [how to enter the BIOS settings on Windows](https://www.makeuseof.com/tag/enter-bios-computer/) for instructions. If it was indeed a faulty BIOS/ UEFI stopping your USB port from working properly, then everything will be back to normal after a reset.
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## You've Fixed Your Broken USB Port
 
@@ -164,20 +156,22 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-diy-filmmaking-for-youtube-personalities/"><u>2024 Approved DIY Filmmaking for YouTube Personalities</u></a></li>
-<li><a href="https://windows11.techidaily.com/android-meets-windows-easy-synching-protocol/"><u>Android Meets Windows: Easy Synching Protocol</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoiding-pitfalls-of-unknown-not-initialized-disks-on-windows/"><u>Avoiding Pitfalls of Unknown Not Initialized Disks on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/choosing-a-fresh-termbackground-pic/"><u>Choosing a Fresh TermBackground Pic</u></a></li>
-<li><a href="https://windows11.techidaily.com/correct-keyboard-fixes-for-windows-11s-unresponsive-f-keys/"><u>Correct: Keyboard Fixes for Windows 11'S Unresponsive F Keys</u></a></li>
-<li><a href="https://windows11.techidaily.com/crafting-quick-repair-pathways-creating-custom-win-shortcuts/"><u>Crafting Quick Repair Pathways: Creating Custom Win Shortcuts</u></a></li>
-<li><a href="https://windows11.techidaily.com/deciphering-the-workings-of-windows-memory-cache/"><u>Deciphering the Workings of Windows Memory Cache</u></a></li>
-<li><a href="https://windows11.techidaily.com/deciphering-windows-11s-backup-and-sync-an-overview-of-its-functionality/"><u>Deciphering Windows 11’S Backup & Sync: An Overview of Its Functionality</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elite-venues-for-idea-exchange-in-the-ai-world/"><u>Elite Venues for Idea Exchange in the AI World</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/fix-file-not-loaded-completely-error-in-excel-2000-stellar-by-stellar-guide/"><u>Fix File Not Loaded Completely Error in Excel 2000 | Stellar</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fixing-dnssddll-misplacement-or-loss-error-in-windows-10/"><u>Fixing dnssd.dll Misplacement or Loss Error in Windows 10</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/kostenlose-und-schnelle-methode-zum-herunterladen-von-youtube-videos-auf-einem-mac/"><u>Kostenlose Und Schnelle Methode Zum Herunterladen Von YouTube-Videos Auf Einem Mac</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/oming-obscured-views-during-youtube-playback-for-2024/"><u>Overcoming Obscured Views During YouTube Playback for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/troubleshooting-steps-resolving-valorant-microphoneheadset-issues/"><u>Troubleshooting Steps: Resolving Valorant Microphone/Headset Issues</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-your-honor-80-pro-straight-screen-edition-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Honor 80 Pro Straight Screen Edition Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-font-fusion-merging-style-and-content-in-after-effects/"><u>[New] Font Fusion Merging Style & Content in After Effects</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-express-thumbnails-for-epic-battle-royale/"><u>[New] In 2024, Express Thumbnails for Epic Battle Royale</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-ten-commandments-of-stream-undoing-on-twitch/"><u>[New] Ten Commandments of Stream Undoing on Twitch</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-top-five-mac-screen-seize-techniques-char-limit-156/"><u>[Updated] Top Five Mac Screen Seize Techniques (Char Limit 156)</u></a></li>
+<li><a href="https://win-forum.techidaily.com/a-guide-to-the-big-4-of-social-networks-mastering-interaction-on-facebook-twitter-instagram-and-youtube/"><u>A Guide to the Big 4 of Social Networks: Mastering Interaction on Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://windows11.techidaily.com/cut-the-cord-joining-dualshock-to-pc/"><u>Cut the Cord: Joining DualShock to PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/guaranteeing-a-peaceful-sleep-for-w11-devices-at-rest/"><u>Guaranteeing a Peaceful Sleep for W11 Devices at Rest</u></a></li>
+<li><a href="https://win-able.techidaily.com/guardians-of-the-galaxy-pc-game-8-troubleshooting-steps-for-a-smooth-play-experience/"><u>Guardians of the Galaxy PC Game: 8 Troubleshooting Steps for a Smooth Play Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-11-menu-erase-show-more-options/"><u>Mastering Windows 11 Menu: Erase Show More Options</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211439126--naturally-modern-magick/"><u>Naturally Modern Magick | Free Book</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-tips-for-syncing-two-windows-displays/"><u>Quick Tips for Syncing Two Windows Displays</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-repair-windows-event-viewer-in-windows-11/"><u>Steps to Repair Windows Event Viewer in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailoring-aesthetics-for-windows-terminal/"><u>Tailoring Aesthetics for Windows Terminal</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-motorola-moto-g-stylus-2023-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Motorola Moto G Stylus (2023) without backup.</u></a></li>
+<li><a href="https://windows11.techidaily.com/tutorial-enabling-or-disabling-wi-fi-cost-meter-in-windows-11/"><u>Tutorial: Enabling or Disabling Wi-Fi Cost Meter in Windows 11</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/unleash-creativity-on-instagram-mastering-bulk-image-and-video-additions/"><u>Unleash Creativity on Instagram Mastering Bulk Image & Video Additions</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-windows-access-your-outlook-preview/"><u>Unlocking Windows: Access Your Outlook Preview</u></a></li>
 </ul></div>
 

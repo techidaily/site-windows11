@@ -1,7 +1,7 @@
 ---
 title: "Windows Wizards: Infuse UI with Divine Duties"
-date: 2024-10-23T17:18:58.793Z
-updated: 2024-10-30T16:26:54.877Z
+date: 2024-11-22T00:54:54.830Z
+updated: 2024-11-24T19:11:08.001Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
  God Mode enables you to access hundreds of Control Panel applets from a single All Tasks window. That’s a handy thing to activate in Windows 11 for accessing Control Panel settings and creating shortcuts that open them.
 
  Many users activate God Mode by setting up desktop shortcuts that open the All Tasks window. However, you can instead add a **God Mode** option to the desktop’s context menu in Windows 11\. Then the All Tasks window will be directly accessible on your right-click menu. This is how you can add God Mode to Windows 11’s context menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Add God Mode to the Context Menu by Manually Editing the Registry
 
@@ -44,15 +48,16 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
 
 ![A God Mode context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/god-mode-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you ever change your mind about having a **God Mode** context menu option, open the Shell key in Registry Editor again. Then right-click on the **God Mode** key you added and select delete. Click **Yes** to erase the **God Mode** key along with its **command** subkey.
 
 ![The Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-delete-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add God Mode to the Context Menu With Right-Click Extender
@@ -66,10 +71,7 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
 4. Open the extracted Right-Click Extender directory and its Right-Click Extender v2 subfolder.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Double-click the Right-Click Extender v2 application file.
@@ -77,13 +79,6 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
 7. Select the **All Tasks (GodMode)** setting and its Icon checkbox.  
 ![The Right-Click Extender v2 window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-all-tasks-setting.jpg)
 8. Press the green **Apply** button.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now you’ll see a new **God Mode** option on Windows 11’s classic context menu. This option will also have an icon by it. Click on **God Mode** to view the list of Control Panel applets.
 
@@ -96,10 +91,7 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
 ![The All Tasks (God Mode) window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-all-tasks-window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Make the Most of God Mode on Windows
@@ -117,20 +109,17 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-uplifting-movies-a-top-10-list-of-inspiration-for-2024/"><u>[New] Uplifting Movies A Top 10 List of Inspiration for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-expert-techniques-for-professionalizing-mobile-based-youtube-thumbnails/"><u>[Updated] Expert Techniques for Professionalizing Mobile-Based YouTube Thumbnails</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-video-editing-software-for-windows-beyond-sony-vegas/"><u>Best Video Editing Software for Windows Beyond Sony Vegas</u></a></li>
-<li><a href="https://facebook.techidaily.com/crafting-effective-bilingualmultilingual-social-media-messages/"><u>Crafting Effective Bilingual/Multilingual Social Media Messages</u></a></li>
-<li><a href="https://windows11.techidaily.com/getting-your-nvidia-cp-back-on-win11-after-closure/"><u>Getting Your Nvidia CP Back on Win11 After Closure</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-maximize-security-longer-pin-length-for-win1111-users/"><u>How to Maximize Security: Longer PIN Length for Win11/11 Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-reactivate-personalized-configuration-options-that-wont-respond/"><u>How to Reactivate Personalized Configuration Options That Won’t Respond</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-apple-iphone-12-pro-without-apple-id-by-drfone-ios/"><u>In 2024, How to Erase an Apple iPhone 12 Pro without Apple ID?</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-streamlining-your-verification-process-on-yt/"><u>In 2024, Streamlining Your Verification Process on YT</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastery-of-remedying-world-of-warcrafts-error-code-132/"><u>Mastery of Remedying World of Warcraft’s Error Code 132</u></a></li>
-<li><a href="https://video-capture.techidaily.com/quick-and-easy-guide-mass-convert-your-mp4-files-into-mp3-format/"><u>Quick & Easy Guide: Mass-Convert Your MP4 Files Into MP3 Format</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-ragnarok-interface-errors-sse/"><u>Resolving Ragnarok Interface Errors (SSE)</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-wi-fi-setup-addressing-inadequate-actions-on-pcs/"><u>Streamlining Wi-Fi Setup: Addressing Inadequate Actions on PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-potential-access-unannounced-features-with-vivetool/"><u>Unlocking Potential: Access Unannounced Features with ViVeTool</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Nubia Red Magic 9 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-best-matched-sd-cards-to-boost-your-gopro-heros-performance-for-2024/"><u>[New] Best Matched SD Cards to Boost Your GoPro HERO's Performance for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-comprehensive-look-camstudios-full-screen-capabilities/"><u>[New] In 2024, Comprehensive Look CamStudio's Full Screen Capabilities</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/outubes-most-watched-wonders-the-ultimate-guide/"><u>[New] YouTube’s Most-Watched Wonders The Ultimate Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-securing-social-streaming-download-strategies-unveiled/"><u>[Updated] In 2024, Securing Social Streaming Download Strategies Unveiled</u></a></li>
+<li><a href="https://windows11.techidaily.com/end-the-ebb-and-flow-top-strategies-for-smooth-windows-streaming/"><u>End the Ebb and Flow: Top Strategies for Smooth Windows Streaming</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-and-engage-ifunny-meme-downloads/"><u>In 2024, Explore & Engage IFunny Meme Downloads</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-xiaomi-14-pro-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Xiaomi 14 Pro</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/mastering-chronos-shifts-using-phantoms-time-reversed-footage-for-2024/"><u>Mastering Chronos Shifts Using Phantom's Time-Reversed Footage for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-11-zoom-malfunction-1132/"><u>Overcoming Windows 11 Zoom Malfunction #1132</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-pc-performance-hurdles-with-intel-graphics-updates/"><u>Remedying PC Performance Hurdles with Intel Graphics Updates</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-for-storing-error-during-new-app-installation/"><u>Solutions for Storing Error During New App Installation</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/stability-secrets-for-dynamic-photo-shoots-for-2024/"><u>Stability Secrets for Dynamic Photo Shoots for 2024</u></a></li>
 </ul></div>
 

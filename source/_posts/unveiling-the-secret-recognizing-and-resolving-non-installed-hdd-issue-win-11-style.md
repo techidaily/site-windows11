@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Secret: Recognizing & Resolving Non-Installed HDD Issue, Win 11 Style"
-date: 2024-08-22T21:40:18.464Z
-updated: 2024-08-23T21:40:18.464Z
+date: 2024-11-23T02:21:27.196Z
+updated: 2024-11-24T18:34:27.628Z
 tags:
   - windows10
   - windows11
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/1621022f15bae9f90515e95f15edd431dd0fad0e7
  Windows PCs can fail to boot and display the "Hard drive not installed" message for a variety of reasons, including hardware failure, a damaged CMOS battery, or an incorrect boot priority order.
 
  Fortunately, you can quickly fix this problem and continue using your device using the solutions below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Check the Hard Drive for Any Loose Connections or Physical Damage
 
@@ -50,9 +54,9 @@ Image Credit: Tina Sieber
  If the issue persists, you can try the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Change the Boot Priority Order
 
  You might face the "hard drive not installed" issue if your computer is trying to boot from a connected external device. To confirm this, unplug all external devices from your computer, including your USB mouse, keyboard, and external backup hard drive.
@@ -68,16 +72,17 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 3. If **UEFI** is selected and then select **Legacy External Devices**. Or, if **Legacy External Devices** is selected and then select **UEFI**.  
 ![Boot_Sequence option in BIOS menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/boot_sequence.jpg)
 4. Click **Apply**.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then, restart your computer and check for the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Change Your System Date and Time
 
  An [incorrect date and time](https://www.makeuseof.com/tag/3-reasons-windows-computer-loses-time-date/) can impact how your computer boots up or prevent it from booting at all. So, make sure your computer is showing the current date and time. You can change the date and time by following the instructions below.
@@ -85,15 +90,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. Open the BIOS menu and choose **Date /Time** from the left sidebar.  
 ![Date_and_Time option in BIOS menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/date_and_time.jpg)
 2. Set the correct Date and Time. Then, click **Apply**.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After that, restart your computer and check if the issue is resolved. If the problem is gone, but you need to set the date and time every time you boot your computer, it is likely that your computer's CMOS battery is failing. The only way to fix this is to [replace the CMOS battery](https://www.makeuseof.com/computer-battery-dead-how-fix-replace-cmos/).
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fixing the Hard Drive Not Installed Issue on Windows 11
 
  It's frustrating when you can't use your computer because of a hardware problem. Most of the time, you can fix these problems by restarting your device. But if restarting doesn't help and you see the "Hard drive not installed" error, then try the above solutions to troubleshoot the issue.
@@ -102,11 +105,33 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Fortunately, you can quickly fix this problem and continue using your device using the solutions below.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-swift-skim-windows-file-compilation/"><u>[New] Swift Skim Windows File Compilation</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-the-ultimate-roadmap-to-proficiency-in-lut-construction/"><u>[Updated] 2024 Approved The Ultimate Roadmap to Proficiency in LUT Construction</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-revolutionize-your-streaming-game-with-these-5-pro-tips-for-2024/"><u>[Updated] Revolutionize Your Streaming Game with These 5 Pro Tips for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/1715859958186-2024-approved-essential-game-picks-ghost-of-tsushima-rival-edition/"><u>2024 Approved Essential Game Picks Ghost of Tsushima Rival Edition!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/behind-chatgpt-revolutionizing-creativity-through-ai/"><u>Behind ChatGPT: Revolutionizing Creativity Through AI</u></a></li>
+<li><a href="https://windows11.techidaily.com/fix-grayed-out-extend-button-revive-it-for-discmgmt/"><u>Fix Grayed-Out Extend Button, Revive It for DiscMgmt</u></a></li>
+<li><a href="https://windows11.techidaily.com/harnessing-bluescreenview-a-users-handbook/"><u>Harnessing BlueScreenView: A User's Handbook</u></a></li>
+<li><a href="https://windows11.techidaily.com/identifying-perfect-shutdown-procedures-for-windows/"><u>Identifying Perfect Shutdown Procedures for Windows</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/il-meglio-di-windows-11-guida-facile-e-gratuita-per-clonazione-disco-senza-problemi/"><u>Il Meglio Di Windows 11: Guida Facile E Gratuita per Clonazione Disco Senza Problemi</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-apple-iphone-14-pro-max-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Music from Apple iPhone 14 Pro Max to iPod touch | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-colorful-conga-crow/"><u>In 2024, Colorful Conga Crow</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-nokia-g310-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Nokia G310 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/integrating-custom-widgets-into-the-windows-11-interface/"><u>Integrating Custom Widgets Into the Windows 11 Interface</u></a></li>
+<li><a href="https://windows11.techidaily.com/migrating-your-qbittorrent-setup-seamlessly-across-pcs/"><u>Migrating Your qBittorrent Setup Seamlessly Across PCs</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/mophie-powerstation-ac-analysis-high-price-meets-handy-charging-solution/"><u>Mophie Powerstation AC Analysis: High Price Meets Handy Charging Solution</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcome-sign-in-obstacles-to-microsofts-cloud-storage/"><u>Overcome Sign-In Obstacles to Microsoft's Cloud Storage</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinvigorating-your-pc-delving-into-windows-8-revival-techniques/"><u>Reinvigorating Your PC: Delving Into Windows' 8 Revival Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/unclog-your-windows-11-mailcalendar-access/"><u>Unclog Your Windows 11 Mail/Calendar Access</u></a></li>
+<li><a href="https://windows11.techidaily.com/unseen-users-missed-links-how-to-open-elusive-sites-on-windows/"><u>Unseen Users, Missed Links: How to Open Elusive Sites on Windows</u></a></li>
+</ul></div>
+

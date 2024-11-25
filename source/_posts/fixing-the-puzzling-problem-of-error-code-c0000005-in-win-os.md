@@ -1,7 +1,7 @@
 ---
 title: Fixing the Puzzling Problem of Error Code C0000005 in Win-OS
-date: 2024-11-11T16:36:45.258Z
-updated: 2024-11-15T17:23:42.696Z
+date: 2024-11-23T17:05:50.122Z
+updated: 2024-11-24T18:10:14.107Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/f3ddbfc1319d06192a1f603baf76c1f6dea1578ed
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Deactivate Data Execution Prevention (DEP)
 
 [Data Execution Prevention](https://www.makeuseof.com/data-execution-prevention-explained/) is a security feature on Windows that prevents damage to your PC from malware and other malicious attacks on your PC. It does this by blocking out specific memory regions so that code cannot be executed from those locations, which in the absence of DEP, would be used for buffer attacks.
@@ -41,16 +45,13 @@ bcdedit.exe /set {current} nx AlwaysOff
 
 ![cmd](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/cmd.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In this case, you will first have to[disable the Windows secure boot](https://www.makeuseof.com/tag/disable-secure-uefi-dual-boot/) , and then repeat the above steps again.
 
  That's it—the DEP will be disabled from here on. Now, give your PC a quick reboot and see if the error 0xc0000005 persists.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Check Your App's and PC Version and Compatibility
 
@@ -74,19 +75,13 @@ Similarly, to check the app's version, follow the steps below:
 ![installed apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/installed-apps.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now check if the app and your operating system are compatible with each other.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Apply Some Generic Fixes for Fixing Errors on Windows
@@ -103,10 +98,7 @@ Let's go over all of them one by one.
 6. [Perform a Factory Reset](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) : A Factory reset is, as I sometimes like to call it, the "all pulverizer" all Windows problems. It removes your operating system and reinstalls it so you can start again with a clean slate. It's a drastic measure, but sometimes it's the only way to get a Windows error fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixing the Error Code 0xc0000005 on a Windows PC
@@ -130,20 +122,16 @@ Let's go over all of them one by one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-beyond-the-basics-advanced-video-splitting/"><u>[New] Beyond the Basics Advanced Video Splitting</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-seamless-slidecasts-combining-webcam-and-ppt-for-2024/"><u>[New] Seamless Slidecasts Combining Webcam and PPT for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-ranking-the-very-best-10-free-online-artists-on-youtube/"><u>[Updated] Ranking the Very Best 10 Free Online Artists on YouTube</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-sharing-authenticity-a-guide-to-personal-youtube-content/"><u>[Updated] Sharing Authenticity A Guide to Personal YouTube Content</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-slowly-fading-the-beat-a-pro-guide-for-audio-easing/"><u>2024 Approved Slowly Fading the Beat A Pro Guide for Audio Easing</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-advice-best-mobile-melody-crafters-for-2024/"><u>Expert Advice Best Mobile Melody Crafters for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-your-screen-mirroring-problems-when-miracast-is-unavailable-via-graphics-card/"><u>Fix Your Screen Mirroring Problems When Miracast Is Unavailable via Graphics Card</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-huawei-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Huawei</u></a></li>
-<li><a href="https://windows11.techidaily.com/leading-alternatives-to-procreate-on-windows-platform/"><u>Leading Alternatives to Procreate on Windows Platform</u></a></li>
-<li><a href="https://windows11.techidaily.com/mitigating-error-code-0x80300024-on-a-pc/"><u>Mitigating Error Code: 0X80300024 on a PC</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-advanced-audio-configuration-tips-for-devices/"><u>New In 2024, Advanced Audio Configuration Tips for Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/rebooting-to-default-power-management-configurations/"><u>Rebooting to Default Power Management Configurations</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-package-could-not-be-registered-errors-in-windows-photos/"><u>Tackling 'Package Could Not Be Registered' Errors in Windows Photos</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-frozen-windows-volume-controls/"><u>Tackling Frozen Windows Volume Controls</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-woes-unsticking-opera-installation/"><u>Windows Woes: Unsticking Opera Installation</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-cutting-edge-techniques-for-vce-22-optimization/"><u>[New] In 2024, Cutting Edge Techniques for VCE 2.2 Optimization</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-professional-stability-essentials-for-youtube-videographers/"><u>2024 Approved Professional Stability Essentials for YouTube Videographers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/beyond-siri-how-apple-is-mirroring-microsofts-bing-with-its-latest-ai-innovation-insights-from-zdnet/"><u>Beyond Siri: How Apple Is Mirroring Microsoft's Bing with Its Latest AI Innovation - Insights From ZDNet</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-nokia-c32-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Nokia C32</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-funny-facades-top-quality-free-meme-files/"><u>In 2024, Funny Facades Top-Quality, FREE Meme Files</u></a></li>
+<li><a href="https://windows11.techidaily.com/keep-your-windows-control-panel-running-smoothly/"><u>Keep Your Windows Control Panel Running Smoothly</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-app-success-elevating-your-profile-on-apple-tv-channels/"><u>Mastering App Success: Elevating Your Profile on Apple TV Channels</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-windows-1111-shop-glitch-x800704cf/"><u>Preventing Windows 11/11 Shop Glitch X800704CF</u></a></li>
+<li><a href="https://windows11.techidaily.com/removing-the-rust-of-access-denied-in-windows/"><u>Removing the Rust of 'Access Denied' In Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-non-attached-usb-device-dilemma-in-virtualbox-environment/"><u>Tackling Non-Attached USB Device Dilemma in VirtualBox Environment</u></a></li>
+<li><a href="https://windows11.techidaily.com/take-control-of-your-workflow-learn-these-essential-cmd-commands/"><u>Take Control of Your Workflow: Learn These Essential CMD Commands</u></a></li>
 </ul></div>
 

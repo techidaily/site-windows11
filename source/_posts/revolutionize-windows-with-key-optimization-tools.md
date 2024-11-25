@@ -1,7 +1,7 @@
 ---
 title: Revolutionize Windows with Key Optimization Tools
-date: 2024-09-28T17:29:34.164Z
-updated: 2024-10-02T03:20:21.030Z
+date: 2024-11-18T01:37:23.582Z
+updated: 2024-11-24T19:27:44.065Z
 tags:
   - windows10
   - windows11
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faa
 
  Also, you can check your system performance through the processor, video card, and memory usage indicators. The only thing that needs to be added to the Wintoys Home tab is a tool showing you the GPU and [CPU temperature](https://www.makeuseof.com/how-to-check-cpu-temperature/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Manage Installed Apps
 
  Wintoys does a great job by putting together the ways you can manage your installed apps. Without Wintoys you’d have to launch Task Manager to stop an app from running or access the Settings menu to uninstall or repair a problematic app, and your browser to make an online search about the app.
@@ -37,10 +41,7 @@ thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faa
 ![Manage installed apps with Wintoys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/manage-apps-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the **Apps** tab, all of your installed software is color-coded, and you can tell which one is a Microsoft or third-party app. Additionally, you can have Wintoys display only one category or sort them alphabetically, or by size, among other options.
@@ -55,26 +56,21 @@ thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faa
 
 ![Control startup apps with Wintoys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/startup-wintoys-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Also, in the same tab, you can find settings to [improve your Windows computer performance during gaming](https://www.makeuseof.com/tag/optimize-windows-10-gaming/). For instance, you could turn on the toggle next to **Ultimate performance plan**.
 
  Or head to the **Gaming settings menu**. There, you can enable Windows’s Game Mode or activate the Superfetch feature. If you’re not sure whether you should enable it, [check out our guide on Superfetch](https://www.makeuseof.com/tag/what-is-superfetch/).
 
 ![Enable HAGS on Windoys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/hags-wintoys-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, if you’re really looking the make the most out of your hardware while gaming, you could also turn on the **HAGS (Hardware-accelerated GPU scheduling)** feature.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Manage Storage Space
 
@@ -86,29 +82,9 @@ thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faa
 
 ![Declutter storage space on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/declutter-wintoys-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Also, in the same tab, you’ll find the **Declutter** drop-down menu. Using it, you can delete all junk files, clear Microsoft Store cache, flush the DNS cache, or even delete all restore points to save space.
 
  If you decide to delete all restore points, make sure to [create a new restore point](https://www.makeuseof.com/windows-11-create-restore-point/), in case something goes wrong, and you need to revert your system to a previous state.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Change Desktop Design
 
@@ -119,10 +95,7 @@ thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faa
 ![Change destkop design with Wintoys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/desktop-wintoys-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  These are just a few of the available tweaks that can change how Windows looks and feel.
@@ -133,6 +106,10 @@ thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faa
 
 ![Run repair tools without Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/repair-wintoys-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the **Health** tab, click on **Repair**. There, you can select the tool to fix your problem. On Command Prompt, you’d have to run the lines one at a time. However, on Wintoys, you can select all tools and Wintoys will run them for you. This way, you don’t have to monitor the process and can even step away from your computer as the issue is getting fixed.
 
 ## 7\. Control Windows Ads
@@ -140,19 +117,6 @@ thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faa
  Nowadays, it seems there’s no way you can completely escape ads. Microsoft has added more ads through tips, suggestions, recommendations, or the Start menu. If you want more control over how Windows shows ads, open the **Tweaks** tab and click on **Ads**. There, you can select how Windows should display content about new products or features.
 
 ![Stop Windows from showing you ads](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/wintoys-ads-1.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Protect Your Privacy
 
@@ -163,6 +127,10 @@ thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faa
 ![Protect your privacy with Wintoys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/privacy-wintoys-1.jpg)
 
  There, you can control which data Microsoft collects about your usage patterns. However, Wintoys doesn’t allow full control over Windows Privacy settings, so you might want to manually [check Privacy settings on Windows](https://www.makeuseof.com/windows-11-privacy-options-explained/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Control Your System Services
 
@@ -191,21 +159,20 @@ thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-maximizing-your-sound-the-best-microphones-for-podcasting/"><u>[New] 2024 Approved Maximizing Your Sound The Best Microphones for Podcasting</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-flip-to-fun-converting-youtube-videos-to-playful-download-free-gifs-for-2024/"><u>[Updated] Flip to Fun Converting YouTube Videos to Playful, Download-Free GIFs for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-agile-approaches-storing-ppt-speeches/"><u>[Updated] In 2024, Agile Approaches Storing PPT Speeches</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-innovative-pathways-select-7-tools-for-artwork-conversion-to-nfts/"><u>[Updated] In 2024, Innovative Pathways Select 7 Tools for Artwork Conversion to NFTs</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-future-of-cosmetics-youtube-gurus-on-the-rise/"><u>2024 Approved Future of Cosmetics YouTube Gurus on the Rise</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/comprehensive-tutorial-on-app-deletion-and-clearing-system-comments-efficiently/"><u>Comprehensive Tutorial on App Deletion & Clearing System Comments Efficiently</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/delivering-premium-tv-reception-at-a-great-value-in-depth-review-of-the-30-mohu-leaf-antenna/"><u>Delivering Premium TV Reception at a Great Value - In-Depth Review of the 30 Mohu Leaf Antenna</u></a></li>
-<li><a href="https://windows11.techidaily.com/gain-control-of-costs-windows-11-pro-key-advantages/"><u>Gain Control of Costs: Windows 11 Pro Key Advantages</u></a></li>
-<li><a href="https://windows11.techidaily.com/improve-notepad-on-win11-via-ingenious-sage/"><u>Improve Notepad on Win11 via Ingenious Sage</u></a></li>
-<li><a href="https://windows11.techidaily.com/master-9-techniques-to-modify-windows-audio-interface/"><u>Master 9 Techniques to Modify Windows Audio Interface</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-fixed-top-10-windows-glitch-solvers/"><u>Quick Fixed: Top 10 Windows Glitch Solvers</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-path-not-found-issue-in-windows-xp7/"><u>Resolving Path Not Found Issue in Windows XP/7</u></a></li>
-<li><a href="https://windows11.techidaily.com/secret-menu-additions-a-step-by-step-guide-in-win-10/"><u>Secret Menu Additions: A Step-by-Step Guide in Win 10</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-security-refreshing-windows-group-policies/"><u>Streamlining Security: Refreshing Windows Group Policies</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unleash-creativity-with-ai-idea-generation-through-mindmaps-and-chatgpt/"><u>Unleash Creativity with AI: Idea Generation Through Mindmaps & ChatGPT</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/1725289747019-windows-mac-ai-10/"><u>Windows과 Mac에 가장 좋은 무료 AI 비디오 리소스를 사용하는 10가지 최고 인핸서</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-exemplary-execution-using-apple-watch-to-open-mac/"><u>[Updated] In 2024, Exemplary Execution Using Apple Watch to Open Mac</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-free-fb-hd-videos-step-by-step/"><u>2024 Approved Free FB HD Videos Step-by-Step</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-infinix-note-30-vip-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Infinix Note 30 VIP Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-sony-xperia-5-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/altering-failed-logon-wait-duration-settings-in-windows/"><u>Altering Failed Logon Wait Duration Settings in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/empowering-windows-users-introducing-a-customized-run-helper-app/"><u>Empowering Windows Users: Introducing a Customized Run Helper App</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-boost-fps-in-tainted-grail-conquest/"><u>How to Boost FPS in Tainted Grail: Conquest</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/next-gen-cross-format-data-retrieval-solution-state-of-the-art-software-for-restoring-all-kinds-of-lost-digital-information/"><u>Next-Gen Cross-Format Data Retrieval Solution: State-of-the-Art Software for Restoring All Kinds of Lost Digital Information</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-win-strategies-boosting-frames-in-cs-go/"><u>Quick Win Strategies - Boosting Frames in CS GO</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-device-disconnection-problems-for-windows-users-with-virtualbox/"><u>Resolving Device Disconnection Problems for Windows Users with VirtualBox</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-for-windows-repeatedly-entering-cmos-settings/"><u>Solutions for Windows Repeatedly Entering CMOS Settings</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/the-art-of-movement-enhancing-your-photos-with-illustrators-motion-blur-for-2024/"><u>The Art of Movement Enhancing Your Photos with Illustrator's Motion Blur for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-the-power-of-shortcuts-for-app-size-adjustment-on-windows-11/"><u>Unlocking the Power of Shortcuts for App Size Adjustment on Windows 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Ping: Usage & Timing on Windows Systems"
-date: 2024-11-12T16:22:42.227Z
-updated: 2024-11-15T16:29:53.019Z
+date: 2024-11-23T18:11:18.203Z
+updated: 2024-11-24T22:44:33.237Z
 tags:
   - windows10
   - windows11
@@ -27,13 +27,6 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 * [How to Use the Ping Command on Windows](#how-to-use-the-ping-command-on-windows)
 * [What Can the Ping Command Do for You?](#what-can-the-ping-command-do-for-you)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * The ping command tests the availability of a host by sending data packets and checking for a response from the server.
@@ -49,13 +42,6 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
  When you use the ping command, your device periodically sends packets of data (also known as echo request messages) to the specified IP address (or domain name) and waits for a response from the server each time. If your device receives a response back, the server is considered online. If the server fails to respond, the signal is considered lost, indicating a server problem.
 
  Besides checking if a host is reachable, the command keeps track of the round-trip time. This is the time a message takes to go from a source computer to a destination server and then return to the source, along with a response from the destination server. This data can help you analyze how stable your connection to a server is.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Syntax of the Ping Command
 
@@ -76,38 +62,26 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 ![Opening the Windows PowerShell utility from the Run dialogue box in Windows.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/opening-the-windows-powershell-utility-from-the-run-dialogue-box-in-windows.jpg)
 3. Type the following command after entering the IP address or domain name of the server you wish to ping: Ping <targetname>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Press **Enter** and let your device ping the server four times. Then, it will compile the results.  
 ![Running the ping command in Windows PowerShell.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/running-the-ping-command-in-windows-powershell.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Alternatively, you can perform the test in Command Prompt. Simply press **Win + R,** type **“cmd**,**”** and click **OK**. Then, type the command and press Enter.
 
 ![Running the Command Prompt app from the Run dialog box in Windows.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/running-the-command-prompt-app-from-the-run-dialog-box-in-windows.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you are an administrator of a locked corporate-owned PC, you might need to run PowerShell or Command Prompt with administrative privileges to run the ping test. To do so, type **"Command Prompt"** or **"PowerShell"** in Windows Search, right-click on the utility, and select **"Run as administrator**.**"**
 
 ![Running the Windows PowerShell as an administrator on Windows.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/running-the-windows-powershell-as-an-administrator-on-windows.jpg)
 
  Then, click **"Yes"** in the **UAC (User Account Control)** window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Analyzing the Results of the Ping Test
 
@@ -116,21 +90,26 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 ![Running the ping command in Windows PowerShell.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/running-the-ping-command-in-windows-powershell.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The **TTL** (Time to Live) value is the lifespan of the packet in the network, after which it's discarded after a certain number of hops through routers. The common benchmark is 64, but TTL can be higher if the data packet is sent through a complex network. But a drastically longer one deserves a closer look to ensure your network is functioning smoothly.
 
  If the ping doesn't go through correctly in the test, and you see a "request timed out" error, it indicates an issue with your internet connection.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How Do You Stop the Ping Command?
 
  The ping command supports a "/t" parameter that specifies that it should continue sending echo requests to the destination server until interrupted. If you use this parameter when running the ping test, your device keeps pinging the specified server until you manually stop the test. To stop an ongoing ping test, you can press **Ctrl + C** or press **Ctrl + Enter** to stop and display the data.
 
 ![Stopping the ping test to analyze results in Windows Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/3-stop-the-ping-test-by-pressing-ctrl-c-keys-in-windows-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Can the Ping Command Do for You?
 
@@ -152,17 +131,20 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-clean-slates-mastering-the-eraser-tool-in-photoshop/"><u>[New] 2024 Approved Clean Slates Mastering the Eraser Tool in Photoshop</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-30-pathways-to-unique-metaverse-meme-production/"><u>[New] 30 Pathways to Unique Metaverse Meme Production</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-best-practices-in-altering-igtv-video-titles-for-2024/"><u>[New] Best Practices in Altering IGTV Video Titles for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-top-10-female-gamers-on-youtube-2024-updated/"><u>[New] Top 10 Female Gamers on YouTube | 2024 Updated</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-unpacking-obss-full-spectrum-of-video-capturing-tools/"><u>2024 Approved Unpacking OBS's Full Spectrum of Video Capturing Tools</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/comment-recuperer-des-fichiers-perdus-suite-a-linstallation-de-windows-11-update-version-1809/"><u>Comment Récupérer Des Fichiers Perdus Suite À L'installation De Windows 11 Update Version 1809?</u></a></li>
-<li><a href="https://windows11.techidaily.com/learn-how-to-resurrect-the-non-functional-win-plus-p-feature-in-windows/"><u>Learn How to Resurrect the Non-Functional Win + P Feature in Windows.</u></a></li>
-<li><a href="https://windows11.techidaily.com/reimagining-windows-ui-adding-menus-and-subitems/"><u>Reimagining Windows UI: Adding Menus and Subitems</u></a></li>
-<li><a href="https://windows11.techidaily.com/secure-and-slim-filesystem-setting-up-auto-delete-in-win11/"><u>Secure and Slim Filesystem: Setting Up Auto Delete in Win11</u></a></li>
-<li><a href="https://article-posts.techidaily.com/securing-brand-deals-with-youtube-personalities-for-2024/"><u>Securing Brand Deals with YouTube Personalities for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlock-your-pc-easily-windows-hello-fingerprint-guide/"><u>Unlock Your PC Easily: Windows Hello Fingerprint Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-new-horizons-rethinking-user-rights-on-windows/"><u>Unlocking New Horizons: Rethinking User Rights on Windows</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-the-key-to-unlocking-io-screen-capture-techniques/"><u>[New] The Key to Unlocking IO Screen Capture Techniques</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-tiktok-streams-decoded-finding-your-special-hashtag/"><u>[New] TikTok Streams Decoded Finding Your Special Hashtag</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-clear-youtubes-obscured-visual-field-for-2024/"><u>[Updated] Clear Youtube's Obscured Visual Field for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-streamlining-your-creative-process-with-vsco-app/"><u>[Updated] Streamlining Your Creative Process with VSCO App</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-best-vocal-effect-modifications-to-enhance-your-audio-experience/"><u>Discover the Best Vocal Effect Modifications to Enhance Your Audio Experience</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/enhancing-engagement-onestream-streaming-best-practices/"><u>Enhancing Engagement OneStream Streaming Best Practices</u></a></li>
+<li><a href="https://windows11.techidaily.com/fix-it-fast-dealing-with-microsoft-store-errors-in-1011-systems/"><u>Fix It Fast: Dealing with Microsoft Store Errors in 10/11 Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/illuminating-text-adopting-notepads-dark-theme-windows/"><u>Illuminating Text: Adopting Notepad's Dark Theme (Windows)</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-visibility-of-missing-disk-in-win/"><u>Restoring Visibility of Missing Disk in Win</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-no-files-available-error-in-windows-11/"><u>Solving 'No Files Available' Error in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-rectify-win-1011-onedrive-issues/"><u>Steps to Rectify Win 10/11 OneDrive Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/supercharge-your-workday-top-5-win-11-productivity-tools/"><u>Supercharge Your Workday: Top 5 Win 11 Productivity Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/trimming-excessive-load-reducing-the-burden-of-user-mode-services-on-pcs/"><u>Trimming Excessive Load: Reducing the Burden of User-Mode Services on PCs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-fix-guide-to-resolve-stray-impact-pc-crash-errors-with-these-5-proven-strategies/"><u>Ultimate Fix Guide to Resolve 'Stray: Impact' PC Crash Errors with These 5 Proven Strategies</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/unleash-joy-and-sadness-with-these-10-best-ig-meme-communities-for-2024/"><u>Unleash Joy and Sadness with These 10 Best IG Meme Communities for 2024</u></a></li>
 </ul></div>
 

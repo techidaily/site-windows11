@@ -1,7 +1,7 @@
 ---
 title: Steps to Realign File History Configurations in Windows
-date: 2024-08-22T21:39:24.516Z
-updated: 2024-08-23T21:39:24.516Z
+date: 2024-11-21T19:37:16.113Z
+updated: 2024-11-25T02:43:07.024Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,10 @@ To restart the File History Service in Windows:
 3. In the Services windows, scroll down to locate**File History Service** . Right-click on it and select**Restart** . If the service is not running, select**Start** .  
 ![Restart File Hisotry Service Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/restart-file-hisotry-service-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Disconnect and Reconnect the Backup Drive
 
  Connection problems with your external drive can also cause Windows to display the "We found errors in your File History settings" error. If it’s nothing major, you should be able to resolve the error by disconnecting and reconnecting your backup drive.
@@ -38,8 +42,9 @@ To restart the File History Service in Windows:
  While you're at it, try using a different USB port. This will help you determine if there’s a[problem with the USB port](https://www.makeuseof.com/tag/dead-usb-port-heres-how-to-diagnose-and-fix-it/) you’re using. If you suspect a port is malfunctioning, check out how to diagnose and fix a faulty USB port on Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Re-Select the Backup Drive and Restart File History
 
  Next, you can try re-selecting your backup drive in File History settings and see if that helps. Here are the steps for the same.
@@ -53,8 +58,9 @@ To restart the File History Service in Windows:
 ![Select File History Drive Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/select-file-history-drive-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After selecting your preferred drive, you’ll have to restart the File History feature on Windows. To do so, use the following steps:
 
 1. Click the magnifying icon on the taskbar or use the**Win + S** keyboard shortcut to open the search menu.
@@ -64,13 +70,15 @@ To restart the File History Service in Windows:
 ![Turn On File History in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-on-file-history-in-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If the error message persists even after this, you can try using a different drive for the File History backup and see if that works.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Reset File History
 
  Finally, if nothing else works, resetting File History may be your only option. You can accomplish this by deleting the File History data files from your computer.
@@ -90,26 +98,17 @@ To restart the File History Service in Windows:
 3. Press**Ctrl + A** to select all the folders and click the**trash icon** at the top to delete them.  
 ![Delete File Hisotry AppData](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/delete-file-hisotry-appdata.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixing File History Errors on Windows
 
  After you apply the fixes listed above, the File History error should no longer bother you.
 
  Tired of dealing with File History errors on your Windows device? It might be a good idea to use a cloud storage service or third-party backup software to protect your important data.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -118,4 +117,20 @@ To restart the File History Service in Windows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-mov-storage-techniques-a-windows-10-perspective-for-2024/"><u>[New] .mov Storage Techniques A Windows 10 Perspective for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-digital-dominion-1-to-10-most-watched-youtube-videos-in-a-day/"><u>[New] Digital Dominion #1 to #10 Most Watched YouTube Videos in a Day</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-elevate-your-content-youtube-movie-maker-101/"><u>[Updated] Elevate Your Content YouTube Movie Maker 101</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-management-issues-5-approaches-with-windows-11-focus/"><u>Fixing Management Issues: 5 Approaches with Windows 11 Focus</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/peeling-the-onion-understanding-instagram-story-audiences-for-2024/"><u>Peeling the Onion Understanding Instagram Story Audiences for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/perfect-taskbar-alignment-with-win-11-tips/"><u>Perfect Taskbar Alignment with Win 11 Tips</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/pst-outlookonedrive/"><u>PSTファイルの保存: OutlookとOneDriveを統合した効果的な方法</u></a></li>
+<li><a href="https://windows11.techidaily.com/retrace-to-original-directory-view-in-windows-11/"><u>Retrace to Original Directory View in Windows 11</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/stellar-5-for-mac-streamline-your-space-with-automated-file-and-folder-removal/"><u>Stellar 5 for Mac - Streamline Your Space with Automated File and Folder Removal!</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-cooling-computers-running-hot-w11/"><u>Steps for Cooling Computers Running Hot W11</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/tech-savvy-ways-to-record-mac-lectures/"><u>Tech-Savvy Ways to Record Mac Lectures</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-chatgpt-exploring-the-safety-and-addressing-potential-cybersecurity-threats/"><u>Understanding ChatGPT: Exploring the Safety and Addressing Potential Cybersecurity Threats</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-frozen-wsreset-utility-for-windows-users/"><u>Unlocking Frozen WSReset Utility for Windows Users</u></a></li>
+</ul></div>
 

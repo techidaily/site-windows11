@@ -1,7 +1,7 @@
 ---
 title: Navigating Git Workflows Using GitHub Desktop in Windows 11
-date: 2024-08-22T21:35:31.432Z
-updated: 2024-08-23T21:35:31.432Z
+date: 2024-11-17T23:15:27.642Z
+updated: 2024-11-24T23:34:45.480Z
 tags:
   - windows10
   - windows11
@@ -45,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/e3cfe2024e8223233dca02c9346a88bd3c9122571
 
  Now that you’ve successfully installed GitHub Desktop on your Windows PC, the next step is to sign in using your GitHub account.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Sign Into GitHub Desktop on Windows
 
  To start using GitHub Desktop within your projects, you will first have to authenticate and sign in with your GitHub account. If you don’t have a GitHub account,[sign up](https://github.com/join) to get started.
@@ -55,14 +59,11 @@ To add an existing GitHub account to GitHub Desktop:
 2. Within GitHub Desktop, navigate to**File > Options > Accounts** .  
 ![github desktop signin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/github-desktop-signin-1.jpg)
 3. Select the**Sign in** button based on your account type (GitHub.com for regular users and GitHub Enterprise for enterprise/work accounts).
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 4. When prompted, complete the sign-in process on your browser. Return to the**Accounts** options page to confirm your login.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Use GitHub Desktop Like a Pro
 
@@ -75,14 +76,15 @@ No advertising on the website.
 1. Launch GitHub Desktop and click on the**Current repository** button from the left pane.  
 ![clone repo using Github Desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clone-repo-1.jpg)
 2. Click on the**Add** dropdown and then select**Clone repository** .
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. To clone a repo associated with your signed-in account, select**GitHub.com** or**GitHub Enterprise** based on your account type.
 4. Scroll to find the repo you want to clone and update the saved location if needed.
 5. Once you’re ready, select**Clone** to begin cloning the project.
 
 The project should then be accessible within the saved directory.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Create a Branch in GitHub Desktop
 
@@ -94,13 +96,14 @@ To create a branch in GitHub desktop:
 2. Select the**Current repository** dropdown and choose the project you want to work on.  
 ![create branch github desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/create-branch-1.jpg)
 3. Next, select the**Current branch** dropdown and click on**New branch** .
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Enter a name for the branch and select**Create branch** to confirm your selection.
 5. To move your current working changes to the new branch, select the**Bring my changes to** button.
 
  Similarly, if you want to switch to a different branch, select the**Current branch** dropdown and select the branch name you want to change to.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Commit Using GitHub Desktop on Windows
 
@@ -111,24 +114,20 @@ To create a branch in GitHub desktop:
 3. Make the necessary changes in your code and save the files.  
 ![commit code using Github desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/commit-code.jpg)
 4. Go back to GitHub Desktop, and you should see the changes you’ve made in the left pane.
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Review your changes, and once you’re ready, enter a message with your commit in the text box of the left pane.
 6. Select the**Commit to** button to confirm your changes and commit code into your branch.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Push Code Using GitHub Desktop on Windows
 
  Once you’ve committed code into your branch, the next step is to push your changes onto GitHub. You can then create a pull request and merge your changes into the main or master branch.
 
  To push code to GitHub to create a new pull request, choose the required project repository and branch in GitHub Desktop. Then select the**Publish branch** button or press the shortcut key**Ctrl + P** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ## Use GitHub Desktop to Simplify Your Workflow on Windows
 
  GitHub Desktop is a phenomenal app that completely changes how developers use git for version control. Git is especially useful when working with teams and open-source projects.
@@ -139,8 +138,6 @@ To create a branch in GitHub desktop:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -148,4 +145,22 @@ To create a branch in GitHub desktop:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-elevate-your-podcasts-reach-with-advanced-seo-strategies-for-2024/"><u>[Updated] Elevate Your Podcast's Reach with Advanced SEO Strategies for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-pc-and-mac-techniques-utilizing-dslr-for-facebook-live/"><u>[Updated] PC & Mac Techniques Utilizing DSLR for Facebook LIVE</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-youtubes-secrets-to-successful-video-marketing-uncovered/"><u>[Updated] YouTube's Secrets to Successful Video Marketing Uncovered</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-playback-in-reverse-the-ultimate-youtube-playlist-technique/"><u>2024 Approved Playback in Reverse The Ultimate YouTube Playlist Technique</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-registration-paused-insights-on-the-halt-and-future-availability-dates/"><u>ChatGPT Registration Paused – Insights on the Halt & Future Availability Dates</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-common-onedrive-crash-code-in-w11-w10/"><u>Fixing Common OneDrive Crash Code in W11, W10</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-add-live-wallpapers-to-windows-11s-desktop-with-lively-wallpaper/"><u>How to Add Live Wallpapers to Windows 11’S Desktop With Lively Wallpaper</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Tecno Phantom V Fold? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-vivo-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Vivo Phone</u></a></li>
+<li><a href="https://windows11.techidaily.com/lowering-memory-usage-enhancing-platform-user-service-efficiency/"><u>Lowering Memory Usage: Enhancing Platform User Service Efficiency</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/most-advanced-2024-cablewifi-modem-router-solutions-compared/"><u>Most Advanced 2024 Cable/WiFi Modem-Router Solutions Compared</u></a></li>
+<li><a href="https://windows11.techidaily.com/simplifying-the-networks-menu-win-11-wifi-cleanup/"><u>Simplifying the Networks Menu: Win 11 Wifi Cleanup</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-mend-windows-11-assistive-tool/"><u>Strategies to Mend Windows 11 Assistive Tool</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/strategizing-to-spot-and-capture-youtubes-hidden-markets/"><u>Strategizing to Spot and Capture Youtube's Hidden Markets</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-to-correct-failed-ui-module-load-in-steam/"><u>Tips to Correct Failed UI Module Load in Steam</u></a></li>
+</ul></div>
 

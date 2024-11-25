@@ -1,7 +1,7 @@
 ---
 title: "Hidden Impact: Unassuming Apps Draining Windows 11 Power"
-date: 2024-10-26T16:23:01.328Z
-updated: 2024-10-30T16:27:20.979Z
+date: 2024-11-19T19:41:39.492Z
+updated: 2024-11-24T22:55:44.979Z
 tags:
   - windows10
   - windows11
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e
 
  Windows 11 comes with a few apps installed by default, and for the most part, they don't take up much of your system's precious resources. However, a recent report claims that both the Chat and Widget apps actually take a sizable toll on your PC... even if you never use them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Effect of the Chat and Widget Apps on Windows 11
 
  The report comes to us from [ghacks](https://www.ghacks.net/2022/02/03/disabling-the-chat-and-widgets-icons-in-windows-11-actually-saves-system-resources/), which compiled several sources across the internet about Chat and Widget's effect on Windows 11\. As it turns out, disabling or removing these two apps does make a noticeable improvement in system performance, even if you never use them.
@@ -33,10 +37,7 @@ thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e
  The article claims that the processes take up a few hundred megabytes of RAM, but the real proof comes from [Out of Office Hours](https://oofhours.com/2022/01/30/the-overhead-of-widgets-and-teams-in-windows-11/), which posted a screenshot showing several WebView2 processes each taking their slice of the RAM pie.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Disable the Chat and Widget App and Save Your Ram
@@ -46,10 +47,7 @@ thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e
  And that’s it—the Widget and Chat icons will be removed from the desktop and won’t occupy any RAM unnecessarily.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Find and Disable Other Apps
@@ -57,10 +55,7 @@ thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e
  It's not uncommon to get your PC memory drained by apps or background processes that aren't actually doing anything. To prevent this from happening, you have a [drove of tools for finding and disabling these apps](https://www.makeuseof.com/windows-pc-too-many-background-processes/). Everything from Task Manager, System Configuration, and the Settings App will help you in this. So make sure you check out and disable these apps as well.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## An Unideal Welcome Party for Windows 11 Users
@@ -72,10 +67,7 @@ thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e
  At the same time, it's not a true Windows launch unless things go a bit awry at the start. Hopefully, these little annoyances will end up being teething issues for Windows 11, and not the norm moving forward.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Out of Sight, Out of Mind (and Memory)
@@ -91,20 +83,18 @@ thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-social-sphere-score-10-videos-that-are-going-viral-today/"><u>[New] 2024 Approved Social Sphere Score 10 Videos That Are Going Viral Today</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-precision-edits-made-simple-with-garageband-tools/"><u>2024 Approved Precision Edits Made Simple with GarageBand Tools</u></a></li>
-<li><a href="https://windows11.techidaily.com/choosing-between-windows-11-home-and-pro-your-ideal-edition/"><u>Choosing Between Windows 11 Home & Pro: Your Ideal Edition</u></a></li>
-<li><a href="https://windows11.techidaily.com/deciphering-and-overcoming-microsoft-offices-error-code-0x80040610/"><u>Deciphering and Overcoming Microsoft Office's Error Code 0X80040610</u></a></li>
-<li><a href="https://windows11.techidaily.com/eliminating-0x80072af9-error-code-instantly/"><u>Eliminating 0X80072AF9 Error Code Instantly</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-to-uncovering-the-missing-taskbar-in-full-screen/"><u>Guide to Uncovering the Missing Taskbar in Full Screen</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-amds-typing-error-could-delay-the-release-and-affect-availability-of-ryzen-5-9600x/"><u>How AMD's Typing Error Could Delay the Release and Affect Availability of Ryzen 5 9600X</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-audio-a-step-by-step-fix-for-your-broken-headphones-on-windows-10/"><u>Restoring Audio: A Step-By-Step Fix For Your Broken Headphones On Windows 10</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/restoring-removed-images-on-your-iphone-without-previous-backups-a-step-by-step-guide/"><u>Restoring Removed Images on Your iPhone without Previous Backups - A Step-by-Step Guide</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/revolutionize-note-taking-with-onenotes-latest-ally-an-in-depth-look-at-the-onetastic-add-in/"><u>Revolutionize Note Taking with OneNote's Latest Ally: An In-Depth Look at the Onetastic Add-In</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-address-and-rectify-windows-app-error-0x800700c6/"><u>Steps to Address and Rectify Windows App Error 0X800700c6</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-overcome-onedrive-authentication-xyz-error-on-windows-11/"><u>Steps to Overcome ONEDRIVE Authentication XYZ Error on Windows 11</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/trouble-with-apple-iphone-6s-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with Apple iPhone 6s Swipe-Up? Try These 11 Solutions</u></a></li>
-<li><a href="https://games-able.techidaily.com/uncover-apple-arcade-bests-with-these-tips/"><u>Uncover Apple Arcade Bests with These Tips</u></a></li>
-<li><a href="https://windows11.techidaily.com/what-to-do-if-you-cant-access-your-router-page-or-web-interfaces-on-windows/"><u>What to Do if You Can't Access Your Router Page or Web Interfaces on Windows</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-essential-free-online-editor-suites-ranked-15/"><u>[New] Essential Free Online Editor Suites - Ranked #15</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-3-ways-to-record-itunes-videos-for-2024/"><u>[Updated] 3 Ways to Record iTunes Videos for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-become-a-master-of-virtual-persona-design-metaverse-edition/"><u>[Updated] Become a Master of Virtual Persona Design - Metaverse Edition</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-elevating-your-viewing-experience-with-benq-sw320-monitor/"><u>[Updated] Elevating Your Viewing Experience with BenQ SW320 Monitor</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-chrome-compatibility-solving-media-errors/"><u>[Updated] In 2024, Chrome Compatibility Solving Media Errors</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-substitutes-for-winmovie-new-windows-editors/"><u>In 2024, Substitutes for WinMovie New Windows Editors</u></a></li>
+<li><a href="https://windows11.techidaily.com/method-to-rectify-the-zero-x-error-on-windows-11s-mail-app/"><u>Method to Rectify the Zero X Error on Windows 11’S Mail App</u></a></li>
+<li><a href="https://windows11.techidaily.com/simplify-and-beautify-your-w11-desktop-with-ease/"><u>Simplify & Beautify Your W11 Desktop with Ease</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-microsoft-store-crash-error-0x800704cf/"><u>Tackling Microsoft Store Crash: Error 0X800704CF</u></a></li>
+<li><a href="https://windows11.techidaily.com/tactics-to-stop-fluctuating-printer-choices-on-pc/"><u>Tactics to Stop Fluctuating Printer Choices on PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-comprehensive-resource-on-how-netflix-is-revolutionizing-home-entertainment-services/"><u>The Comprehensive Resource on How Netflix Is Revolutionizing Home Entertainment Services</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-essential-review-of-speed-and-style-the-gotrax-gxl-v2-commuter-e-scooter-unveiled/"><u>The Essential Review of Speed and Style: The Gotrax GXL V2 Commuter E-Scooter Unveiled</u></a></li>
+<li><a href="https://windows11.techidaily.com/transforming-the-terminal-workflow-setting-it-as-main/"><u>Transforming the Terminal Workflow: Setting It As Main</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Keeping WinRunHist Intact for Future Use
-date: 2024-08-22T21:40:19.557Z
-updated: 2024-08-23T21:40:19.557Z
+date: 2024-11-17T23:36:26.150Z
+updated: 2024-11-24T17:13:55.073Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/61f98fc4d9e1af032d9fc6896b875fde870b9cc61
 
  If you're encountering a similar problem, don’t fret. Below, we share some quick and useful tips that should get the Run tool to save your history once again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check Your Privacy Settings
 
  A common reason why Windows may not save the Run command history is if you have previously blocked it from tracking your app launches. Here’s how you can change that.
@@ -29,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/61f98fc4d9e1af032d9fc6896b875fde870b9cc61
 3. Under Windows permissions, click on **General**.
 4. Enable the toggle next to **Let Windows improve Start and search results by tracking app launches**.  
 ![Allow Windows to Track App Launches on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/allow-windows-to-track-app-launches-on-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After completing the above steps, try running a few commands via the Run dialog box. Then, check if it is saving your command history and providing auto-complete suggestions.
 
@@ -47,12 +55,16 @@ thumbnail: https://thmb.techidaily.com/61f98fc4d9e1af032d9fc6896b875fde870b9cc61
 7. Click **OK**.  
 ![Edit Registry DWORD on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/edit-registry-dword-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Restart your PC after this for the changes to take effect. Following this, the Run command should start saving your history on Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Apply Generic Fixes
 
  If the problem persists even after implementing the above tips, you can try applying some basic fixes to resolve the underlying issue.
@@ -62,8 +74,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 * **Scan for Malware:** It’s possible that your system is infected by malware, which is why the Run command is having trouble saving your history. To rule out this possibility, you can [scan Windows for malware using PowerShell](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/) or Windows Defender.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Get the Run Tool to Save Your History on Windows
 
  It can be inconvenient if the Run command dialog box stops saving your history on Windows. Hopefully, one of the solutions provided above has successfully resolved the issue for you.
@@ -72,11 +85,27 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  If you're encountering a similar problem, don’t fret. Below, we share some quick and useful tips that should get the Run tool to save your history once again.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-strategic-lighting-for-best-iphone-photography/"><u>[New] Strategic Lighting for Best iPhone Photography</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-a-producers-roadmap-pioneering-high-quality-asmr-content/"><u>[Updated] In 2024, A Producer's Roadmap Pioneering High-Quality ASMR Content</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-techniques-to-resurrect-an-unopenable-notepad-on-pc/"><u>Essential Techniques to Resurrect an Unopenable Notepad on PC</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-for-iphone-15-lock-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone 15 Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-galaxy-s8-review-bringing-movies-to-life-with-4k/"><u>In 2024, Galaxy S8 Review - Bringing Movies to Life with 4K</u></a></li>
+<li><a href="https://windows11.techidaily.com/sifting-through-windows-logins-the-good-the-bad-and-the-ugly/"><u>Sifting Through Windows Logins: The Good, The Bad & The Ugly</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-essential-guide-to-windows-pe-file-structure/"><u>The Essential Guide to Windows PE File Structure</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-bypassing-cannot-end-task-error-in-windows/"><u>Tips for Bypassing 'Cannot End Task Error' In Windows</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-insights-and-analysis-t17238628805655/"><u>Tom's Tech Reviews: In-Depth Insights and Analysis</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-the-secrets-top-9-venues-for-playful-gratuitous-learning-games-for-youngsters/"><u>Unlock the Secrets: Top 9 Venues for Playful, Gratuitous Learning Games for Youngsters</u></a></li>
+<li><a href="https://windows11.techidaily.com/unseen-workers-taskers-edge-anomalies/"><u>Unseen Workers: Tasker’s Edge Anomalies</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/winerror-unraveled-expert-advice-on-fixing-windows-scripts/"><u>WinError Unraveled: Expert Advice on Fixing Windows Scripts</u></a></li>
+</ul></div>
+

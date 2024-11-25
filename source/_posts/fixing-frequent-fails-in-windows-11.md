@@ -1,7 +1,7 @@
 ---
 title: Fixing Frequent Fails in WINDOWS 11
-date: 2024-09-26T22:38:16.776Z
-updated: 2024-10-02T01:20:09.021Z
+date: 2024-11-23T23:12:04.867Z
+updated: 2024-11-24T20:00:16.469Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
  Microsoft released the 22H2 update in November 2022, and even though it brought several positive changes, some users are unhappy because of the issues it causes within their systems.
 
  So, let's look at the most common issues caused by this update and the solutions to fix them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Windows 11 22H2 Update Not Installing
 
@@ -39,6 +43,10 @@ Follow these steps to uninstall the printer:
 
 After the printer is uninstalled, try updating your system again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. BSOD After Installing the Update
 
  After installing the update, you might also encounter a blue or black screen of death. Typically, these issues are caused by the outdated drivers on the system but can be caused by other reasons as well.
@@ -52,23 +60,15 @@ Once you are in Safe Mode, follow these steps to update the drivers:
 3. Right-click on the driver and choose**Update driver** from the context menu.  
 ![Update driver option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/display-adapters-update-driver.jpg)
 4. Now, click on**Search automatically for drivers** to let the utility search the system for an updated version.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Search automatically for drivers option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/display-adapter-search-automatically-for-drivers.jpg)
 5. Then, follow the on-screen instructions to install the driver.
 
  If a corrupt or outdated driver is not the cause of the problem, then you can[check the BSOD log files in the Event Viewer](https://www.makeuseof.com/windows-bsod-log-file-location/) to determine the cause of the problem and implement solutions accordingly.
-
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Networking Issues in the System
 
@@ -81,21 +81,11 @@ Here is how you can run the Network troubleshooter:
 ![Click on Other troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/other-troubleshooters-win11.jpg)
 3. Now, look for the Network Adapter troubleshooter and click on the**Run** button for it.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Run the network adapter troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/network-adapter-run.jpg)
 4. Wait for the troubleshooter to scan the system for errors, then check the result. In case the troubleshooter has identified errors, it will suggest fixes for them. Click on**Apply this fix** to proceed.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. If not, click on the**Close the troubleshooter** button.
@@ -103,10 +93,7 @@ Here is how you can run the Network troubleshooter:
  If running the Network troubleshooter did not resolve the issue, you can proceed with[resetting the network settings](https://www.makeuseof.com/reset-network-settings-windows-11/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Sound Not Working
@@ -129,6 +116,10 @@ Here is how you can do that:
 ![Uninstall an update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/uninstall-an-update.jpg)
 7. Follow the on-screen instructions to complete the uninstallation process and check if the issue is resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Slow System Performance
 
  In some cases, the 22H2 update can also slow down the system's performance. This can happen when the update files are corrupt or a background process interrupts the system's processes. In this case, we recommend disabling the background apps and checking if that fixes the problem.
@@ -145,13 +136,6 @@ Follow these steps to proceed:
 ![Dont allow the app to run in the background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/background-app-permission.jpg)
 
  Perform the same steps for the apps that you think might be causing the issue, and then check if doing so improves the system's overall speed. You can also check out the other[ways to make Windows faster and improve its performance](https://www.makeuseof.com/tag/windows-10-faster-performance/) .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Upgrade to Windows 11 22H2 Version Successfully
 
@@ -174,24 +158,19 @@ Follow these steps to proceed:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-effortless-time-lapse-videos-with-samsung-tech-for-2024/"><u>[New] Effortless Time-Lapse Videos with Samsung Tech for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-fix-fixed-no-more-obs-camera-issues-for-2024/"><u>[New] Fix Fixed No More OBS Camera Issues for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-elevate-youtube-presence-ideal-release-windows/"><u>[Updated] Elevate Youtube Presence Ideal Release Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/create-a-convenient-windows-environment-portable-software-icons/"><u>Create a Convenient Windows Environment: Portable Software Icons</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-list-of-motion-trackers-compare-free-vs-paid-solutions-insights-from-movavi/"><u>Discover the Ultimate List of Motion Trackers: Compare Free vs Paid Solutions - Insights From Movavi</u></a></li>
-<li><a href="https://windows11.techidaily.com/eliminating-camera-app-crash-microsofts-windows-error-0xa00f425d/"><u>Eliminating Camera App Crash: Microsoft's Windows Error 0xA00F425D</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exclusive-high-tech-discount-offers-for-amazon-prime-day-shoppers/"><u>Exclusive High-Tech Discount Offers for Amazon Prime Day Shoppers</u></a></li>
-<li><a href="https://windows11.techidaily.com/fine-tune-your-system-control-delete-confirmations/"><u>Fine-Tune Your System: Control Delete Confirmations</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-gt-neo-5-se-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on GT Neo 5 SE</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Xiaomi Redmi Note 12 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/innovative-windows-search-techniques-that-dont-use-ls/"><u>Innovative Windows Search Techniques That Don't Use LS</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-memory-management-for-edges-webview2/"><u>Mastering Memory Management for Edge's WebView2</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-quick-fixes-to-common-windows-11-problems/"><u>Mastering Quick FIXES to Common Windows 11 Problems</u></a></li>
-<li><a href="https://windows11.techidaily.com/rediscover-the-lost-treasures-within-windows-11s-features/"><u>Rediscover the Lost Treasures Within Windows 11'S Features</u></a></li>
-<li><a href="https://windows11.techidaily.com/reimagining-fn-key-usage-within-windows-11-platform/"><u>Reimagining FN Key Usage Within Windows 11 Platform</u></a></li>
-<li><a href="https://techidaily.com/samsung-galaxy-s23-tactical-edition-won-t-play-mkv-movies-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Samsung Galaxy S23 Tactical Edition won’t play MKV movies</u></a></li>
-<li><a href="https://windows11.techidaily.com/solutions-to-reduce-high-wmi-cpu-consumption/"><u>Solutions to Reduce High WMI CPU Consumption</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-storage-type-ssd-vs-hdd/"><u>Unveiling Storage Type: SSD vs HDD</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>Will iSpoofer update On Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-ultimate-memory-upgrade-for-sony-a7c-for-2024/"><u>[New] Ultimate Memory Upgrade for Sony A7C for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-audio-interface-mastery-your-podcast-setup-savior/"><u>2024 Approved Audio Interface Mastery Your Podcast Setup Savior</u></a></li>
+<li><a href="https://windows11.techidaily.com/accessing-windows-11s-soul-a-guide-to-registry-files-exploration/"><u>Accessing Windows 11’S Soul: A Guide to Registry Files Exploration</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-taskbar-efficiency-win11-guide/"><u>Boosting Taskbar Efficiency: Win11 Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/command-line-enhancement-for-taskmanager-windows-11/"><u>Command Line Enhancement for TaskManager (Windows 11)</u></a></li>
+<li><a href="https://windows11.techidaily.com/comprehensive-guide-setting-up-outlook-preview-for-w10w11/"><u>Comprehensive Guide: Setting up Outlook Preview for W10/W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-chrome-time-lag-on-windows-devices/"><u>Correcting Chrome Time Lag on Windows Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-dual-monitor-mishaps-on-your-pc/"><u>Correcting Dual Monitor Mishaps on Your PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-visual-experience-with-the-newest-intel-iris-xe-windows-10-11-driver-pack/"><u>Enhance Your Visual Experience with the Newest Intel Iris Xe Windows 10, 11 Driver Pack</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-infinix-hot-30i-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Infinix Hot 30i Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-vivo-y77t-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Vivo Y77t Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-realme-gt-5-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-comic-crafting-on-apple-devices/"><u>In 2024, Comic Crafting on Apple Devices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/swift-uninstallation-for-graphics-drivers-in-windows/"><u>Swift Uninstallation for Graphics Drivers in Windows</u></a></li>
 </ul></div>
 

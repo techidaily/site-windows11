@@ -1,7 +1,7 @@
 ---
 title: "Innovative Finger Movements: Win11 Keybindings Unveiled"
-date: 2024-10-27T17:21:07.780Z
-updated: 2024-10-30T17:06:12.970Z
+date: 2024-11-22T17:50:23.474Z
+updated: 2024-11-24T16:23:52.032Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,11 @@ thumbnail: https://thmb.techidaily.com/c1f2394a481b4500340195e3c4792344b150afff1
 4. Double-click the WinHotKey setup wizard to open its window.  
 ![The WinHotKey setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/WinHotKey-setup-wizard.png)
 5. Select the **Next** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click the **I accept the agreement** radio button, and press the **Next** button again.
 7. Press the **Browse** button to choose an installation folder.  
 ![The Browse button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/The-Browse-button.png)
@@ -49,10 +54,7 @@ thumbnail: https://thmb.techidaily.com/c1f2394a481b4500340195e3c4792344b150afff1
 5. Select an app for the hotkey to launch.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Click the **OK** button.
@@ -60,15 +62,16 @@ thumbnail: https://thmb.techidaily.com/c1f2394a481b4500340195e3c4792344b150afff1
 ![Along with the key drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/along-with-the-key-drop-down-menu.png)
 3. You can also select additional keys for the hotkey by clicking the **Alt**, **Shift**, and **Ctrl** checkboxes. The Windows checkbox is selected by default, but you can deselect that option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. To further configure the keyboard shortcut, click the **Advanced** button. You can enter additional parameters and change how the software window opens on the Launch: Advanced window.  
 ![The Launch: Advanced window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/launch-advanced-window.png)
 5. Click the **OK** button to exit the Launch: Advanced window.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Then press the **OK** button on the New Hotkey window to add the keyboard shortcut.
@@ -99,10 +102,7 @@ thumbnail: https://thmb.techidaily.com/c1f2394a481b4500340195e3c4792344b150afff1
 ![Make the Current Windows drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/make-the-current-window-drop-down-menu.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Create Custom Keyboard Shortcuts With HotkeyP
@@ -122,10 +122,7 @@ thumbnail: https://thmb.techidaily.com/c1f2394a481b4500340195e3c4792344b150afff1
 2. Press the **…** (ellipses) button for the **Command** box.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Select a program’s EXE (application) file for the hotkey to open.
@@ -133,13 +130,6 @@ thumbnail: https://thmb.techidaily.com/c1f2394a481b4500340195e3c4792344b150afff1
 5. Next, select one of the **Ctrl**, **Shift**, **Alt**, and **Win** checkboxes to set a modifier key for the hotkey.  
 ![The Hot Key window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-hot-key-window.jpg)
 6. Select **OK** to add the new custom hotkey.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Now you’ll see the new hotkey you’ve created included within the all and programs categories on the HotkeyP window. Press the new hotkey you just set up to launch the selected program.
 
@@ -170,18 +160,22 @@ thumbnail: https://thmb.techidaily.com/c1f2394a481b4500340195e3c4792344b150afff1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-architectural-wonders-from-the-sandbox/"><u>[New] 2024 Approved Architectural Wonders From the Sandbox</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-downloading-youtube-subtitled-content-in-3-ways-for-2024/"><u>[New] Downloading YouTube Subtitled Content in 3 Ways for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/rowing-engagement-ethically-youtube-success-stories/"><u>[New] Growing Engagement Ethically YouTube Success Stories</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-build-your-wealth-on-youtube-a-guide-to-creating-content-without-ads/"><u>[Updated] In 2024, Build Your Wealth on YouTube A Guide to Creating Content Without Ads</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-windows-errors-top-10-diagnostic-aids/"><u>Decoding Windows Errors: Top 10 Diagnostic Aids</u></a></li>
-<li><a href="https://win-answers.techidaily.com/essential-solutions-for-fixing-pacific-drive-not-starting-problem/"><u>Essential Solutions for Fixing Pacific Drive Not Starting Problem</u></a></li>
-<li><a href="https://windows11.techidaily.com/fix-it-fast-dealing-with-microsoft-store-errors-in-1011-systems/"><u>Fix It Fast: Dealing with Microsoft Store Errors in 10/11 Systems</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-10-best-offline-android-games-to-pass-time-filmora/"><u>In 2024, 10 Best Offline Android Games to Pass Time - Filmora</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-complete-guide-on-how-to-create-a-video-slideshow-with-final-cut-pro/"><u>New In 2024, Complete Guide on How to Create a Video Slideshow with Final Cut Pro</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-fix-restarting-resistant-spotify-program/"><u>Quick Fix: Restarting Resistant Spotify Program</u></a></li>
-<li><a href="https://windows11.techidaily.com/restoring-visibility-of-missing-disk-in-win/"><u>Restoring Visibility of Missing Disk in Win</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-rectify-win-1011-onedrive-issues/"><u>Steps to Rectify Win 10/11 OneDrive Issues</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/top-7-icloud-activation-bypass-tools-for-your-apple-iphone-12-mini-by-drfone-ios/"><u>Top 7 iCloud Activation Bypass Tools For your Apple iPhone 12 mini</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-secret-sauce-of-submillion-success-youtube-edition/"><u>[Updated] The Secret Sauce of Submillion Success Youtube Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/advancing-mouse-functionality-through-clicklock-mechanism/"><u>Advancing Mouse Functionality Through ClickLock Mechanism</u></a></li>
+<li><a href="https://windows11.techidaily.com/breakdown-utilizing-bluescreenview-for-professionals/"><u>Breakdown: Utilizing BlueScreenView for Professionals</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-fixes-regaining-full-synapse-functionality/"><u>Essential Fixes: Regaining Full Synapse Functionality</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-guide-to-selecting-a-best-fit-video-codec-in-windows/"><u>Essential Guide to Selecting a Best Fit Video Codec in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-advice-tweaking-your-web-privacy-via-proxies-in-win-11/"><u>Expert Advice: Tweaking Your Web Privacy via Proxies in Win 11</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-tecno-camon-20-pro-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Tecno Camon 20 Pro 5G Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-effortless-view-growth-uncovering-the-best-video-tips-and-hacks/"><u>In 2024, Effortless View Growth Uncovering the Best Video Tips and Hacks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-headset-havens-weighing-google-cardboard-against-samsung-gear/"><u>In 2024, Headset Havens Weighing Google Cardboard Against Samsung Gear</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-perfect-thumbnail-size-for-click-through-rates/"><u>In 2024, Perfect Thumbnail Size for Click-Through Rates</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-youtubes-comment-analysis-for-2024/"><u>Mastering YouTube's Comment Analysis for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/personalized-touchscreen-display-by-jdi-the-2vd-screen-that-sees-who-you-are-and-adapts-to-your-fingerprint/"><u>Personalized Touchscreen Display by JDI: The 2VD Screen That Sees Who You Are and Adapts to Your Fingerprint</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-issues-with-windows-underperforming-monitor-app/"><u>Solving Issues with Windows' Underperforming Monitor App</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-power-indicators-set-up-full-charge-notification-in-win11/"><u>Streamlining Power Indicators: Set Up Full Charge Notification in Win11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-fastest-way-to-securely-back-up-your-iphone-14-with-itunes-expert-tips/"><u>The Fastest Way to Securely Back Up Your iPhone 14 with iTunes - Expert Tips</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/top-empfohlene-datentrager-backupsoftware-fur-windows-pc-und-servern-fuhrende-losungen/"><u>Top Empfohlene Datenträger-Backupsoftware Für Windows PC Und Servern – Führende Lösungen!</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11s-0x8007045d-an-effective-resolution-blueprint/"><u>Win11's 0X8007045D: An Effective Resolution Blueprint</u></a></li>
 </ul></div>
 

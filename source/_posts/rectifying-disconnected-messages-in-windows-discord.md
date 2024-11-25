@@ -1,7 +1,7 @@
 ---
 title: Rectifying Disconnected Messages in Windows Discord
-date: 2024-08-22T21:35:07.039Z
-updated: 2024-08-23T21:35:07.039Z
+date: 2024-11-17T19:55:09.413Z
+updated: 2024-11-24T21:23:34.182Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/c64fedaf756cbcf9ac92722c1b2668052e1efc526
 
 ![Checking Discord Status on Discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/1-Checking-Discord-Status-on-Discord.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Before you start tweaking any settings, ensure Discord isn't down first. Check the[Discord status page](https://discordstatus.com/) for any reported problems, and keep an eye out for server connection issues. If other Discord users have reported a similar issue, there might be a problem on the backend.
 
  If the problem is with Discord's servers you can't do much about it until the developers resolve the server issues. Once they're done, Discord should return to normal operation.
@@ -32,15 +36,16 @@ thumbnail: https://thmb.techidaily.com/c64fedaf756cbcf9ac92722c1b2668052e1efc526
 
 ![Wi-Fi router with power adapter on a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/how-to-access-your-router-remotely.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  A weak or unstable internet connection could be the cause of this error. Therefore, ensure you have an active internet connection when you try to access Discord. You can also run other apps on your device to ensure your internet is working.
 
  If other apps are not loading correctly and the issue is consistent throughout the operating system, then the internet is to blame. In that case, we recommend checking out our guide on[fixing network access issues when connected to Wi-Fi on Windows](https://www.makeuseof.com/tag/no-internet-access-fix-windows/) .
 
  However, if other apps do work, try closing bandwidth-hogging apps on your PC. Double-check if any devices on your network are soaking up bandwidth, too. Once you've freed up some space, try running Discord again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Give Discord a Fresh Start
 
  Sometimes, just giving Discord a fresh start is enough to knock it out of its issues. Log out of your account, close Discord, restart the app, and log back in. Check to see if messages are loading correctly this time.
@@ -49,9 +54,6 @@ thumbnail: https://thmb.techidaily.com/c64fedaf756cbcf9ac92722c1b2668052e1efc526
 
 ![It's important to troubleshoot slow internet speeds to determine if ISP is throttling you](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Troubleshoot-internet-router-modem-connection.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Although less likely, your ISP may also be responsible for annoying app issues. When your ISP is at fault, you will likely have similar problems with other apps. So, if you're also experiencing problems with other apps, ensure that the problem isn't with your ISP.
 
  Simply changing your service provider will confirm that. Try connecting your device to a network with a different internet provider, such as mobile data, if you're using Wi-Fi, and see if messages load successfully this time.
@@ -62,9 +64,6 @@ thumbnail: https://thmb.techidaily.com/c64fedaf756cbcf9ac92722c1b2668052e1efc526
 
  After confirming that Discord systems are operational, the internet is working fine, and there is no temporary glitch, you should rule out channel-specific issues. For that, try switching to another channel on the same server. If the problem occurs across all channels on the same server, check that you haven't been banned.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ## 6\. Mute and Unmute a Channel
 
  Muting and unmuting the channel where you're experiencing the "messages failed to load" error may also help. While muting only pauses the notifications from the channel or server, it can sometimes help with problems loading messages. To mute and unmute a Discord channel or server, follow these steps:
@@ -78,8 +77,13 @@ thumbnail: https://thmb.techidaily.com/c64fedaf756cbcf9ac92722c1b2668052e1efc526
 ![Unmuting the Muted Server in the Discord App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/2-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Mark Messages as Read
 
  Marking messages as read in the channel or server is another helpful fix for stuck messages. It has a good chance of loading messages that failed to deliver for some reason. Follow these steps to mark messages as read:
@@ -88,9 +92,6 @@ thumbnail: https://thmb.techidaily.com/c64fedaf756cbcf9ac92722c1b2668052e1efc526
 2. Right-click the channel or server where the messages are stuck and click on**Mark As Read** .  
 ![Clicking on the Mark As Read to Auto Read the Stuck Messages in the Discord App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/3-1.jpg)
 3. Wait for the app to load messages.
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Make Sure You Are Not Temporarily Banned From Discord
 
@@ -101,8 +102,9 @@ thumbnail: https://thmb.techidaily.com/c64fedaf756cbcf9ac92722c1b2668052e1efc526
  Unfortunately, the API ban is based on your IP address, not your account. As such, making a new account won't get around the ban.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 9\. Enable or Disable a VPN
 
 ![vpn app active on smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/vpn-on-phone-1.jpg)
@@ -114,8 +116,9 @@ thumbnail: https://thmb.techidaily.com/c64fedaf756cbcf9ac92722c1b2668052e1efc526
  If you're using Discord while you have a VPN enabled and you get this error, the IP assigned by the VPN might have been blocked by Discord. Therefore, temporarily disable the VPN to resolve the issue. You could also try connecting to other servers via your VPN and see if any of them work better.
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 10\. Clear Discord Cache
 
  Interference from the Discord cache can also result in messages getting stuck in the Discord app or web client. Clearing it instructs Discord to download fresh data from Discord servers, which may help fetch the messages again and load them correctly. Follow these steps to clear the Discord cache:
@@ -124,16 +127,14 @@ thumbnail: https://thmb.techidaily.com/c64fedaf756cbcf9ac92722c1b2668052e1efc526
 2. Enter**%appdata%/discord** and click**OK** . After that, you will be redirected to Discord's**AppData** folder, where you will find its cache.  
 ![Opening the DIscord AppData Folder Using the Windows Run Application](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/4-1.jpg)
 3. Find the cache folders, namely**Cache, Code Cache,** and**GPU Cache** .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 4. Right-click each folder and select**Delete** .  
 ![Deleting the Cache Code, Cache, and GPU Cache Folders in the Discord AppData Folder in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/5-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once you have completed these steps, close the Discord app and restart your device. When your device has fully restarted, open Discord and see if messages have loaded successfully this time. If the messages remain stuck and the error persists, move on to the next step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 11\. Update Discord
 
@@ -143,9 +144,6 @@ thumbnail: https://thmb.techidaily.com/c64fedaf756cbcf9ac92722c1b2668052e1efc526
 
  Click on the**green download button (downward arrow)** in the top-right corner to check for updates or press**CTRL + R** to force Discord to check for updates. Check if installing updates made any difference if updates were pending.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 12\. Switch to a Different Discord Client
 
 ![A finger pointing at the Discord logo on a phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/A-finger-pointing-at-the-Discord-logo-on-a-phone--(1).jpg)
@@ -157,6 +155,10 @@ thumbnail: https://thmb.techidaily.com/c64fedaf756cbcf9ac92722c1b2668052e1efc526
 ## 13\. Report the Problem to Discord Support as a Last Resort
 
  If none of the fixes work, contact Discord support as a last resort. For that, you can reach out to them via email at <support@discordapp.com>. If you don't hear back, you can submit a request via the request form on the[Discord website](https://support.discord.com/hc/en-us/requests/new) . If that also fails, you can reach out to[Discord via Twitter](https://twitter.com/discord) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## "Messages Fail to Load" Error, Fixed
 
@@ -170,8 +172,6 @@ thumbnail: https://thmb.techidaily.com/c64fedaf756cbcf9ac92722c1b2668052e1efc526
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,4 +179,22 @@ thumbnail: https://thmb.techidaily.com/c64fedaf756cbcf9ac92722c1b2668052e1efc526
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-dive-into-advanced-3d-text-creation-in-photosophy/"><u>[New] Dive Into Advanced 3D Text Creation in PHOTOSOPHY</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-sharp-as-day-the-top10-clearer-photo-editors-list/"><u>[New] Sharp as Day The #Top10 Clearer Photo Editors List</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-lol-factory-robotic-deadwalkers/"><u>[Updated] LOL Factory Robotic Deadwalkers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-foremost-spots-for-youtube-video-promotion/"><u>2024 Approved Foremost Spots for YouTube Video Promotion</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-poco-c65-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Poco C65 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/elevate-your-facebook-ads-game-no-price-tag-for-video-kit/"><u>Elevate Your Facebook Ads Game - No Price Tag for Video Kit</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-the-puzzling-problem-of-error-code-c0000005-in-win-os/"><u>Fixing the Puzzling Problem of Error Code C0000005 in Win-OS</u></a></li>
+<li><a href="https://extra-information.techidaily.com/from-basic-tools-to-advanced-systems-prepping-for-transformation/"><u>From Basic Tools to Advanced Systems Prepping for Transformation</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-gpresult-creating-gpo-reports-effortlessly/"><u>Mastering GPResult: Creating GPO Reports Effortlessly</u></a></li>
+<li><a href="https://windows11.techidaily.com/migrate-onedrive-to-a-desired-folder-on-win-11/"><u>Migrate OneDrive to a Desired Folder on Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinstating-absent-system-temperature-policy-on-windows/"><u>Reinstating Absent System Temperature Policy on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/repairing-windows-11s-isdonedll-file-failure/"><u>Repairing Windows 11'S ISDone.dll File Failure</u></a></li>
+<li><a href="https://windows11.techidaily.com/set-up-wi-fi-cost-meter-on-windows-11/"><u>Set Up Wi-Fi Cost Meter on Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-motorola-moto-g34-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Motorola Moto G34 5G ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-restricting-removable-storage-via-windows-settings/"><u>Tips for Restricting Removable Storage via Windows Settings</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Initiating Playback with Windows Media Player Guide
-date: 2024-08-22T21:37:59.137Z
-updated: 2024-08-23T21:37:59.137Z
+date: 2024-11-20T01:19:13.011Z
+updated: 2024-11-25T01:32:30.164Z
 tags:
   - windows10
   - windows11
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/3485122afbd86c9e9c462c3f4114e1a2939bb988f
 ## Initiating Playback with Windows Media Player Guide
 
  If you're looking for an easy way to play and manage your media files in Windows 11, then Windows Media Player is what you need. It's a free built-in application that allows you to quickly access your audio, video, and photo files with just a few clicks. In this article, we'll show you how to open Windows Media Player in Windows 11.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. How to Open Windows Media Player Using Search Tool
 
@@ -40,8 +44,9 @@ To open Windows Media Player using the Run command, do the following:
  That's it. This is how you can open Windows Media Player on your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. How to Open Windows Media Player Via Task Manager
 
  Task Manager is a powerful Windows tool you can use to manage your computer's resources as well as close unresponsive programs, but it isn't limited to this. You can also use it to open applications, such as Windows Media Player, quickly and easily.
@@ -53,9 +58,6 @@ To open Windows Media Player using Task Manager, follow these steps:
 3. Click**Run new task** at the top of the page.  
 ![Open Windows Media Player Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-windows-media-player-using-task-manager.jpg)
 4. Now in the text box, type**wmplayer.exe** and press Enter on your keyboard.
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 
  This will open up Media Player, so you can enjoy all your media files without any trouble!
 
@@ -66,9 +68,6 @@ To open Windows Media Player using Task Manager, follow these steps:
 1. Right-click on Start and select**File Explorer** or press**Win + E** on your keyboard. This will open the File Explorer window.
 2. From there, go to the address bar, type**wmplayer.exe** , and hit**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. How to Open Windows Media Player With the Start Menu
 
  The Start menu works as a central hub on your computer from where you can access the files and programs you have installed. To open Windows Media Player from the Start Menu, follow these steps:
@@ -78,6 +77,10 @@ To open Windows Media Player using Task Manager, follow these steps:
 3. Then scroll down and click**Windows Tools** in the list.  
 ![Open Windows Media Player Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-windows-media-player-using-control-panel.jpg)
 4. Double-click**Windows Media Player Legacy** on the next page.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. How to Open Windows Media Player Using Control Panel
 
@@ -90,9 +93,6 @@ To open Windows Media Player using Task Manager, follow these steps:
 3. Scroll down and click**Windows Tools** . This will open a new folder containing advanced tools for system administrators.  
 ![Open Windows Media Player Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-windows-media-player-using-control-panel.jpg)
 4. Now double-click**Windows Media Player Legacy** to launch the tool.
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 
 ## 7\. How to Open Windows Media Player With a Desktop Shortcut
 
@@ -103,10 +103,6 @@ To open Windows Media Player using Task Manager, follow these steps:
 1. Right-click on your desktop area and select**New > Shortcut** .  
 ![Create Desktop Shortcut of Windows Media Player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/create-desktop-shortcut-of-windows-media-player.jpg)
 2. In the text box, type the following path and click**Next** or press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 C:\Program Files (x86)\Windows Media Player\wmplayer.exe
 3. Give the shortcut a name and click**Finish** .
 
@@ -128,25 +124,28 @@ C:\Program Files (x86)\Windows Media Player\wmplayer.exe
 2. Right-click on the shortcut icon and select**Properties** .  
 ![Create Shortcut key for Windows Media Player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/create-shortcut-key-for-windows-media-player.jpg)
 3. Type any letter or number in the shortcut field.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Next, click**Apply > OK** to save the changes
 
  Once you have done so, just press Ctrl + Alt and type the letter or number you chose. Just remember to keep the desktop shortcut around; if you ever delete it, it'll take down the keyboard shortcut with it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Media Player Is Now at Your Fingertips
 
  After reading this article, you should now be familiar with nine different ways that you can use to open Windows Media Player on your Windows operating system. Try them out and choose the one that works for you.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -155,4 +154,17 @@ C:\Program Files (x86)\Windows Media Player\wmplayer.exe
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://iphone-transfer.techidaily.com/5-tutorials-on-how-to-transfer-photos-from-apple-iphone-14-pro-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>5 Tutorials on How to Transfer Photos From Apple iPhone 14 Pro to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/affordable-caixun-75-inch-4k-smart-tv-evaluation-with-unmatched-value-for-money-features/"><u>Affordable Caixun 75 Inch 4K Smart TV Evaluation with Unmatched Value for Money Features</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/elitemac-pro-the-best-in-high-quality-video-and-audio-recording-for-2024/"><u>EliteMac Pro The Best in High-Quality Video & Audio Recording for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-level-strategies-for-mastering-windows-voice-access/"><u>Expert-Level Strategies for Mastering Windows Voice Access</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-offline-issues-a-solution-for-steam-and-windows/"><u>Fixing Offline Issues: A Solution for Steam and Windows</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-iphone-macro-photography-detailed-images-at-your-fingertips-for-2024/"><u>Mastering iPhone Macro Photography Detailed Images at Your Fingertips for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-screen-capture-a-guide-to-taking-screenshots-on-dell-lenovo-and-macbooks-zdnet/"><u>Mastering Screen Capture: A Guide to Taking Screenshots on Dell, Lenovo & MacBooks - ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinstating-lost-gesture-control-on-pcs-running-windows/"><u>Reinstating Lost Gesture Control on PCs Running Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-dormant-wsreset-utility-on-computers/"><u>Restoring Dormant WSReset Utility on Computers</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Navigating Through Windows 11’S Restricted Access Feature
-date: 2024-11-12T16:08:20.881Z
-updated: 2024-11-15T17:22:42.163Z
+date: 2024-11-19T19:37:14.972Z
+updated: 2024-11-24T17:27:10.101Z
 tags:
   - windows10
   - windows11
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/90c049846794e5aed031591412d4826aac7c7bd65
 
  You may also want to get a standard PC for your child and put it in S mode if you don’t want to buy a Chromebook for almost the same price. You may then take the computer out of S mode as their tech needs and ability to handle more responsibilities increase. But remember, deactivating S mode is quite easy, and your school-age child may learn to [bypass parental controls](https://www.makeuseof.com/tag/7-ways-children-might-bypass-parental-control-software/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. You Handle Sensitive Documents
 
 ![photo of person using a pc in tab mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/using-pc-in-tab-mode.jpg)
@@ -56,67 +60,42 @@ thumbnail: https://thmb.techidaily.com/90c049846794e5aed031591412d4826aac7c7bd65
  However, remember that S mode is a one-way street. There’s no leaving S mode and going back. So, if you need to install a new non-Microsoft Store app for work, you’ll have to leave S mode. The alternative would be using a separate computer or web-based version of the app, if available. If these options sound like a hassle or you don't want to buy another PC, you can always [dual-boot another operating system](https://www.makeuseof.com/tag/how-to-install-multiple-bootable-operating-systems-on-one-usb-stick/) instead.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. You Want the Chromebook Experience
 
  S mode gives you a similar experience to what a [Chromebook](https://www.makeuseof.com/tag/what-is-a-chromebook/) gives. So, you can get a high-end PC and try S mode for several days or weeks. This way, you can decide if you want all that power or if the basics work for you. More importantly, you retain the option to leave anytime you want—something you don’t get in Chromebooks.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Your Computer Boots Faster
 
 ![photo of a windows PC booting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/windows-booting.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you have been using a Windows computer for a while, you’ll know notice how booting takes longer as you install more apps. This lag is because some [autorun apps](https://www.makeuseof.com/tag/manage-windows-startup-programs-autoruns/) start working in the background once you turn on your computer. Third-party software and malware, especially, cause this lag. S mode lets you use apps optimized for Windows and reduces your risks of getting malware that slows down your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Are the Drawbacks of Using S Mode?
 
  Your computer works the way Microsoft intended for it to work: safely and efficiently. However, there are drawbacks:
-
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. You Can Only Get Apps From the Microsoft Store
 
  As seen on this [Microsoft Dev Blog](https://devblogs.microsoft.com/commandline/will-linux-distros-run-on-windows-10-s/), users of Windows S can only run Modern Universal Windows Platform (UWP) store apps. These are apps that Microsoft developers directly created or verified. Other types of apps delivered through third-party licenses to the Microsoft Store will be unavailable in S mode.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. You Can’t Use the Command Line or Code Editors
 
  S mode is not for you if you are a developer, hacker, admin, or IT person managing a network of company computers. S mode prevents users from using the [Windows Terminal or PowerShell](https://www.makeuseof.com/windows-terminal-vs-powershell/). You can’t use Linux either. The main reason is that these apps run outside the safe environment that protects the operating system from malware. So, VS Code, other [code editors](https://www.makeuseof.com/9-best-free-code-editors/), and developer tools are off the table.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. The Windows Registry Is Off-limits
 
@@ -125,10 +104,7 @@ thumbnail: https://thmb.techidaily.com/90c049846794e5aed031591412d4826aac7c7bd65
 ![photo of the windows search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/regedit.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Activate S Mode in Windows 11
@@ -161,17 +137,24 @@ thumbnail: https://thmb.techidaily.com/90c049846794e5aed031591412d4826aac7c7bd65
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-hands-on-guide-flipping-film-with-vlc-software-for-2024/"><u>[New] Hands-On Guide Flipping Film with VLC Software for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-amp-up-your-media-get-free-soundtracks/"><u>[Updated] Amp Up Your Media Get Free Soundtracks!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bring-back-your-connection-top-9-fixes-for-missing-bluetooth-in-windows-11/"><u>Bring Back Your Connection: Top 9 Fixes for Missing Bluetooth in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/fix-your-slow-internet-matching-mobile-and-desktop-speeds/"><u>Fix Your Slow Internet: Matching Mobile and Desktop Speeds</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-magic-photo-management-decoded-by-reviews/"><u>In 2024, Magic Photo Management Decoded by Reviews</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-top-10-emerging-youtube-channels-to-spark-motivation/"><u>In 2024, Top 10 Emerging YouTube Channels to Spark Motivation</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-top-20-hilarious-tiktok-skits-for-giggle-fests/"><u>In 2024, Top 20 Hilarious TikTok Skits for Giggle Fests</u></a></li>
-<li><a href="https://windows11.techidaily.com/resetting-forgotten-power-schemes-on-ws-11/"><u>Resetting Forgotten Power Schemes on WS 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-windows-lockout-due-to-failed-sign-in-attempts/"><u>Resolving Windows Lockout Due to Failed Sign-In Attempts</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamline-your-tasks-top-9-reasons-to-adopt-modernized-outlook/"><u>Streamline Your Tasks: Top 9 Reasons to Adopt Modernized Outlook</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-how-to-fix-older-user-credential-message/"><u>Unlocking: How to Fix Older User Credential Message</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/why-does-instagram-keep-flipping-my-video-in-2024/"><u>Why Does Instagram Keep Flipping My Video, In 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-classic-comedy-time-machine-the-goofy-tape-journey/"><u>[New] 2024 Approved Classic Comedy Time Machine The Goofy Tape Journey</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-seamless-integration-12-stream-app-experience/"><u>[New] 2024 Approved Seamless Integration 12 Stream App Experience</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/rom-visionary-to-victory-channel-command-school/"><u>[New] From Visionary to Victory Channel Command School</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-auditory-ambiance-elevating-your-instagram-creations/"><u>[Updated] 2024 Approved Auditory Ambiance Elevating Your Instagram Creations</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-techniques-for-non-linear-eq-curves/"><u>[Updated] Techniques for Non-Linear EQ Curves</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/a-guide-to-finding-hidden-youtube-treasures/"><u>A Guide to Finding Hidden YouTube Treasures</u></a></li>
+<li><a href="https://windows11.techidaily.com/clandestine-control-center-hidepower-command-of-windows-11/"><u>Clandestine Control Center: Hidepower Command of Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-webp-images-top-4-viewer-tools-on-windows-os/"><u>Elevate WebP Images: Top 4 Viewer Tools on Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-productivity-hotkey-tricks-to-reconfigure-windows/"><u>Enhance Productivity: Hotkey Tricks to Reconfigure Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/eradicate-error-e1-in-windows-10-11-editions/"><u>Eradicate Error E1 in Windows 10, 11 Editions</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-tips-for-correcting-windows-update-problems-0x30017/"><u>Expert Tips for Correcting Windows Update Problems (0X30017)</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-best-sound-transforming-apps-for-youtube-vloggers/"><u>In 2024, Best Sound Transforming Apps for YouTube Vloggers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-your-epson-xp-400-drivers-with-this-simple-tutorial/"><u>Install Your Epson XP-400 Drivers with This Simple Tutorial</u></a></li>
+<li><a href="https://windows11.techidaily.com/re-establish-steam-offline-status-via-win-tricks/"><u>Re-Establish Steam Offline Status via Win Tricks</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-lost-wi-fi-links-top-strategies-to-regain-internet-connection-on-windows-10/"><u>Reviving Lost Wi-Fi Links: Top Strategies to Regain Internet Connection on Windows 10</u></a></li>
+<li><a href="https://games-able.techidaily.com/steering-clear-of-signal-shadows-on-your-pokemon-go-quest/"><u>Steering Clear of Signal Shadows on Your Pokémon Go Quest</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-fixes-to-bypass-rainbow-six-sieges-error-code-3-0001000b/"><u>Step-by-Step Fixes to Bypass Rainbow Six Siege's Error Code 3-^0001000B</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-absence-win-error-due-to-missing-mfc71udll/"><u>Troubleshooting Absence: Win Error Due to Missing Mfc71u.dll</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-power-saving-paradox-modern-standbys-dilemni/"><u>Windows' Power-Saving Paradox: Modern Standby's Dilemni</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Setting up an Everlasting File Eraser: A User Guide to Customizing Windows 11'S Trash"
-date: 2024-10-25T16:24:02.341Z
-updated: 2024-10-30T16:31:56.260Z
+date: 2024-11-19T19:29:22.805Z
+updated: 2024-11-25T01:30:24.773Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Standard Deletion vs. Permanent Erasure: What's Wrong With the Default Recycle Bin?
 
  The Recycle Bin is based on the standard file deletion method. It enables users to delete files either by emptying the bin or bypassing it by pressing the**Shift + Delete** hotkey. Users can also select a**Don’t move files to the Recycle Bin** option for standard file deletion.
@@ -39,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 
  Note that file shredders don’t work on SSD (solid-state drives). Such drives store data on flash memory, which is different from disk storage. However, you can still wipe solid-state drives with the software and methods covered in our guide on[if SSDs can really securely delete data](https://www.makeuseof.com/tag/ssd-secure-delete-data/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Add a File Deletion Bin to the Desktop With Free File Wiper
 
  Free File Wiper is, as its title implies, freely available software for Windows platforms. That’s also a portable app for which no installation is required. This software has four options for wiping (overwriting) data thoroughly. You can add a Free File Wiper bin to the Windows 10 and 11 desktop like this:
@@ -51,23 +59,9 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 ![The Extract Compressed (Zipped) Folders tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/extract-compressed-file-tool.jpg)
 6. Double-click**Free\_File\_Wiper.exe** in its extracted directory to run the app.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. You’ll see a help window for the app when you first start it. Deselect the**Show this help at startup** checkbox if you don’t want the info to appear again.  
 ![The Free File Wiper window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/free-file-wiper-window.jpg)
 8. Click the**X** close button on the "Free File Wiper – Help" window.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 9. Now you’ll see a Free File Wiper bin icon somewhere on the Windows desktop. Left-click and drag that icon to reposition it if necessary.
 
@@ -76,10 +70,7 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 ![The Free File Wiper bin icon on the desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/free-file-wiper-bin-icon.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can change the wipe method for that bin via its context menu. Right-click the**Free File Wiper** system tray icon and select the**Wipe method** submenu. Then choose one of the five options available there.**Maniacal erase** is the most thorough shredding option with several passes.
@@ -88,7 +79,15 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 
 ![The Wipe method option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/wipe-method-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You’ll also notice that the menu includes an**Integrate in explorer “Send to” menu** selected by default. That option adds Free File Wiper menu to the**Send to** submenu on the classic context menu when selected. It enables you to right-click a file and select**Show more options** \>**Send to** \>**Free File Wiper** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Add a File Deletion Bin to the Desktop With Multi Trash
 
@@ -109,13 +108,6 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
  Multi Trash is set to its Recycle Bin by default. However, you can change its function by clicking the arrows on that gadget. Click that gadget’s**left arrow** to turn it into a Shred bin.
 
 ![The Multi Trash Recycle bin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-multi-trash-recycle-bin.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The Shred bin will permanently erase files dragged onto it. So, go ahead and drag some files from Explorer’s window onto the Shred bin. A confirmation prompt will open that asks if you’re sure about permanently deleting the file. Click**Yes** to confirm as such.
 
@@ -148,22 +140,14 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-secrets-to-capturing-engaging-and-dynamic-presentations/"><u>[New] 2024 Approved Secrets to Capturing Engaging and Dynamic Presentations</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/outube-audience-analysis-the-art-of-finding-your-market/"><u>[New] Youtube Audience Analysis The Art of Finding Your Market</u></a></li>
-<li><a href="https://win-able.techidaily.com/a-comprehensive-guide-fixing-the-persistent-error-code-0xc19001e1-on-windows-11-devices/"><u>A Comprehensive Guide: Fixing the Persistent 'Error Code 0XC19001e1' On Windows 11 Devices</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/advanced-techniques-for-efficient-use-of-luts-in-cs6cc-for-2024/"><u>Advanced Techniques for Efficient Use of LUTs in CS6/CC for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comparing-sound-google-nest-audio-vs-apple-homepod/"><u>Comparing Sound: Google Nest Audio Vs. Apple HomePod</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effective-solutions-for-reviving-your-network-on-windows-7-with-faulty-drivers/"><u>Effective Solutions for Reviving Your Network on Windows 7 with Faulty Drivers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-take-on-iphone-15-insights-and-endorsement-for-seasoned-tech-aficionados-zdnet/"><u>Expert Take on iPhone 15: Insights and Endorsement for Seasoned Tech Aficionados - ZDNet</u></a></li>
-<li><a href="https://windows11.techidaily.com/hidden-impact-unassuming-apps-draining-windows-11-power/"><u>Hidden Impact: Unassuming Apps Draining Windows 11 Power</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-keep-track-of-cortana-activities-on-windows/"><u>How to Keep Track of Cortana Activities on Windows</u></a></li>
-<li><a href="https://change-location.techidaily.com/list-of-pokemon-go-joysticks-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Vivo S17 Pro | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/managing-alerts-when-your-pcs-webcam-activates/"><u>Managing Alerts When Your PC's WebCam Activates</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ize-impact-with-customized-youtube-end-screen-templates-for-2024/"><u>Maximize Impact with Customized YouTube End Screen Templates for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-through-top-complaints-in-windows-11-review/"><u>Navigating Through Top Complaints in Windows 11 Review</u></a></li>
-<li><a href="https://windows11.techidaily.com/nexus-controller-woes-solved-steam-detection-guide/"><u>Nexus Controller Woes Solved: Steam Detection Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimal-performance-with-new-amd-drivers-windows-11-edition/"><u>Optimal Performance with New AMD Drivers: Windows 11 Edition</u></a></li>
-<li><a href="https://windows11.techidaily.com/solving-ownership-challenges-with-managed-windows-11-features/"><u>Solving Ownership Challenges with Managed Windows 11 Features</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-too-many-requests-in-win-based-software/"><u>Troubleshooting Too Many Requests in Win-Based Software</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-2024s-guide-to-cutting-edge-cost-effective-storage/"><u>[Updated] 2024’S Guide to Cutting-Edge, Cost-Effective Storage</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-cinematic-upgrade-gopro-hero5-black-vs-hero4-silver-edition/"><u>2024 Approved Cinematic Upgrade GoPro Hero5 Black vs Hero4 Silver Edition</u></a></li>
+<li><a href="https://win-blog.techidaily.com/diablo-immortal-launch-postponed-for-pc-gamers-insights-into-delay/"><u>Diablo Immortal Launch Postponed for PC Gamers – Insights Into Delay</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-improved-in-store-trials-of-apple-vision-pro-insider-tips-on-scheduling-yours-zdnet/"><u>Discover Improved In-Store Trials of Apple Vision Pro - Insider Tips on Scheduling Yours | ZDNET</u></a></li>
+<li><a href="https://windows11.techidaily.com/enlighten-your-windows-with-free-handbrake/"><u>Enlighten Your Windows with Free HandBrake</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-credential-vault-hurdles/"><u>Overcoming Credential Vault Hurdles</u></a></li>
+<li><a href="https://windows11.techidaily.com/procedures-for-upholding-true-windows-time-values/"><u>Procedures for Upholding True Windows Time Values</u></a></li>
+<li><a href="https://windows11.techidaily.com/rejoining-lost-astra-pilot-on-windows-11-machines/"><u>Rejoining Lost Astra Pilot on Windows 11 Machines</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-game-changer-for-organization-an-in-depth-look-at-the-onetastic-add-in-for-microsoft-onenote/"><u>The Game Changer for Organization: An In-Depth Look at the Onetastic Add-In for Microsoft OneNote</u></a></li>
 </ul></div>
 

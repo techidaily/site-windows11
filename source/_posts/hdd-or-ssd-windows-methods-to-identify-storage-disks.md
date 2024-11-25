@@ -1,7 +1,7 @@
 ---
 title: HDD or SSD? Windows Methods to Identify Storage Disks
-date: 2024-10-23T16:30:28.394Z
-updated: 2024-10-30T16:00:29.967Z
+date: 2024-11-18T00:27:52.286Z
+updated: 2024-11-24T18:33:47.864Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/c2256048fdba19e150d130af22fa0ee9a49a1cc87
 
  If you have bought a new device and want to know if it has an HDD or SSD, here's how you can do that.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Check if You Have an HDD or SSD Using the Task Manager
 
  To determine whether you have an HDD or SSD using the Task Manager, follow these steps:
@@ -30,21 +34,20 @@ thumbnail: https://thmb.techidaily.com/c2256048fdba19e150d130af22fa0ee9a49a1cc87
 4. Check details under**Disk 0** and**Disk 1** (if you have more than one connected) to confirm whether the disks installed are SSDs or HDDs.  
 ![Check the Type of Drive You Have in the Performance Tab of Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/check-the-type-of-drive-you-have-in-the-performance-tab-of-task-manager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To view other details about the selected drive, such as its capacity, write speed, average response time, and more, simply choose**Disk 0** or**Disk 1** —the SSD drive you want to learn more about. Task Manager will show the other details about the drive you selected on the lower side of the screen.
 
 ![Check Other Details of the Storage Drive in the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/check-other-details-of-the-storage-drive-in-the-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Now You Know Which Drive You Have on Windows
@@ -66,16 +69,19 @@ thumbnail: https://thmb.techidaily.com/c2256048fdba19e150d130af22fa0ee9a49a1cc87
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-iphone-x876-owners-must-have-gif-apps-guide/"><u>[Updated] 2024 Approved IPhone X/8/7/6 Owners' Must-Have GIF Apps Guide</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/immediate-subscribing-affect-content-recommendations-for-2024/"><u>Does Immediate Subscribing Affect Content Recommendations for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1725289471382-dvddvd/"><u>DVDスタイラー初学者ガイド：メニュー不要DVD制作手順</u></a></li>
-<li><a href="https://windows11.techidaily.com/illuminating-text-adopting-notepads-dark-theme-windows/"><u>Illuminating Text: Adopting Notepad's Dark Theme (Windows)</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-harnessing-youtubes-power-for-profit-mastering-short-video-earnings/"><u>In 2024, Harnessing YouTube's Power for Profit Mastering Short Video Earnings</u></a></li>
-<li><a href="https://windows11.techidaily.com/restoring-lost-functionality-to-windows-netflix/"><u>Restoring Lost Functionality to Windows Netflix</u></a></li>
-<li><a href="https://games-able.techidaily.com/revive-xbox-series-x-controller-link-ups/"><u>Revive Xbox Series X Controller Link-Ups</u></a></li>
-<li><a href="https://windows11.techidaily.com/solving-no-files-available-error-in-windows-11/"><u>Solving 'No Files Available' Error in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/supercharge-your-workday-top-5-win-11-productivity-tools/"><u>Supercharge Your Workday: Top 5 Win 11 Productivity Tools</u></a></li>
-<li><a href="https://windows11.techidaily.com/trimming-excessive-load-reducing-the-burden-of-user-mode-services-on-pcs/"><u>Trimming Excessive Load: Reducing the Burden of User-Mode Services on PCs</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/viral-visionaries-the-10-highest-viewed-twitters-today-for-2024/"><u>Viral Visionaries The 10 Highest-Viewed Twitters Today for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-gigglygraphics-mememakers-haven/"><u>[New] GigglyGraphics MemeMaker's Haven</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-easy-steps-to-screen-recording-across-oses-and-devices/"><u>[Updated] 2024 Approved Easy Steps to Screen Recording Across OSes & Devices</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-transform-your-igtv-videos-tips-for-impactful-titles-and-summaries/"><u>[Updated] 2024 Approved Transform Your IGTV Videos Tips for Impactful Titles & Summaries</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-how-to-minimize-stress-in-ipad-screen-recordings-heres-a-way/"><u>[Updated] How to Minimize Stress in iPad Screen Recordings? Here's a Way</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-proactive-planning-harnessing-the-power-of-slack-and-filmora-for-meetings-for-2024/"><u>[Updated] Proactive Planning Harnessing the Power of Slack & Filmora For Meetings for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-step-by-step-guide-to-fix-windows-non-functional-start/"><u>A Step-by-Step Guide to Fix Window's Non-Functional Start</u></a></li>
+<li><a href="https://win11.techidaily.com/harness-free-note-tools-on-windows-11/"><u>Harness Free Note Tools on Windows 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-google-pixel-8-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Google Pixel 8 Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-top-free-gif-animators-for-endless-loops/"><u>New Top Free GIF Animators for Endless Loops</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-ms-sql-disconnects-malwarebytes-errors-in-1011-windows/"><u>Overcoming MS SQL Disconnects: Malwarebytes Errors in 10/11 Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/polishing-old-videos-windows-madvr-techniques-unveiled/"><u>Polishing Old Videos: Windows MadVR Techniques Unveiled</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fixes-for-smooth-gameplay-addressing-csgo-performance-hiccups/"><u>Quick Fixes for Smooth Gameplay: Addressing CS:GO Performance Hiccups</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-unseen-messages-in-windows-discord-software/"><u>Solving Unseen Messages in Windows Discord Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-5-solutions-for-correction-of-network-security-discrepancy-in-windows-11/"><u>Top 5 Solutions for Correction of Network Security Discrepancy in Windows 11</u></a></li>
 </ul></div>
 

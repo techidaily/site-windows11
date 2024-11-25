@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Efficiency: A Guide to Quick RDC in Win 11"
-date: 2024-10-26T16:39:02.469Z
-updated: 2024-10-30T16:22:58.832Z
+date: 2024-11-20T02:34:16.707Z
+updated: 2024-11-24T22:49:28.027Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/724743278e3cc8c3d6bd3e09a36a5228f2284123f
 
  To connect to a remote PC, you’ll need to open the Remote Desktop Connection tool. Once done, you can then enter the login credentials for the remote PC to connect to it through the Remote Desktop Connection window. As such, let's explore how to enable the Remote Desktop Connection tool on Windows 11
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Enable Remote Desktop Connection on Windows 11
 
  If you want your PC to be a host computer, you’ll need to [enable Remote Desktop](https://www.makeuseof.com/how-to-set-up-microsofts-remote-desktop-connection/) on that PC's copy of Windows 11\. Note that you can only activate that feature in Enterprise and Professional editions of Microsoft’s latest desktop platform, as is also the case for Windows 10\. You can enable Remote Desktop as follows:
@@ -34,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/724743278e3cc8c3d6bd3e09a36a5228f2284123f
 
  Thereafter, you can connect to your host PC remotely with other computers and mobile devices. To do so, you’ll need to enter the required login credentials for it and enter them into the remote access software. On Windows desktops and laptops, you can do that by opening the built-in Remote Desktop Connection accessory.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Open Remote Desktop Connection With the Windows 11 Search Tool
 
  Windows 11’s search tool is a handy way to find software, files, and other accessories on your PC. As such, you can use it to find and open Remote Desktop Connection.
@@ -42,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/724743278e3cc8c3d6bd3e09a36a5228f2284123f
 2. Type **Remote Desktop Connection** within the search box.  
 ![A Remote Desktop Connection search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/remote-desktop-connection-search.png)
 3. Then click **Remote Desktop Connection** to open that accessory.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Alternatively, you can click its **Run as administrator** option within the search tool.
 
@@ -54,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/724743278e3cc8c3d6bd3e09a36a5228f2284123f
 3. Type **mstsc** in the **Open** box.  
 ![The Run accessory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/the-run-accessory.png)
 4. Click the **OK** button to open Remote Desktop Connection.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Open Remote Desktop Connection With the Windows Terminal
 
@@ -89,10 +105,7 @@ thumbnail: https://thmb.techidaily.com/724743278e3cc8c3d6bd3e09a36a5228f2284123f
 4. Press **Enter** to open Remote Desktop Connection.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Open Remote Desktop Connection With the Start Menu
@@ -106,14 +119,11 @@ thumbnail: https://thmb.techidaily.com/724743278e3cc8c3d6bd3e09a36a5228f2284123f
 ![The Remote Desktop Connection app in the Windows Tools folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/remote-desktop-connection-app.jpg)
 4. Double-click **Remote Desktop Connection** within the Windows Tools folder.
 
- Windows Tools is also accessible within the Control Panel. [Open the Control Panel](https://www.makeuseof.com/windows-open-control-panel/) and change its view by selecting **Small icons**. Then you can click **Windows Tools** and select to open Remote Desktop Connection from there.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Windows Tools is also accessible within the Control Panel. [Open the Control Panel](https://www.makeuseof.com/windows-open-control-panel/) and change its view by selecting **Small icons**. Then you can click **Windows Tools** and select to open Remote Desktop Connection from there.
 
 ## 7\. Open Remote Desktop Connection With Task Manager
 
@@ -126,6 +136,10 @@ thumbnail: https://thmb.techidaily.com/724743278e3cc8c3d6bd3e09a36a5228f2284123f
 4. Input the **mstsc** process command into the **Open** box.  
 ![The Create new task window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-create-new-task-tool.jpg)
 5. Select **OK** to run the Remote Desktop Connection process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Open Remote Desktop Connection With a Desktop Shortcut
 
@@ -140,38 +154,11 @@ thumbnail: https://thmb.techidaily.com/724743278e3cc8c3d6bd3e09a36a5228f2284123f
 ![A Remote Desktop Connection shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/remote-desktop-connection-shortcut.png)
 5. Now you can click the new desktop shortcut to open Remote Desktop Connection.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  That shortcut will simply open the RDC window. You can also set up a Remote Desktop Connection shortcut for a specific PC. To do that, enter **mstsc.exe /v:PC-name** in the Create Shortcut window’s item location text box. Replace **PC-name** in that item location with the actual name of a PC to connect with.
 
  If you prefer, you can have a taskbar shortcut for Remote Desktop Connection instead. Right-click the Remote Desktop Connection shortcut and select **Show more options** \> **Pin to taskbar**. Selecting that option will add an RDC shortcut to the taskbar as shown in the snapshot below. You can remove the desktop one by right-clicking it and selecting **Delete**.
 
 ![A Remote Desktop Connection taskbar shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/remote-desktop-connection-taskbar-shortcut.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Open Remote Desktop Connection With a Keyboard Shortcut
 
@@ -181,13 +168,6 @@ thumbnail: https://thmb.techidaily.com/724743278e3cc8c3d6bd3e09a36a5228f2284123f
 2. Click inside the **Shortcut** **key** box shown in the screenshot below.  
 ![The Shortcut key box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/shortcut-key-box.png)
 3. Press the **R** key to set up a **Ctrl + Alt + R** hotkey.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Click the **Apply** button to save the new keyboard shortcut.
 
@@ -205,30 +185,29 @@ thumbnail: https://thmb.techidaily.com/724743278e3cc8c3d6bd3e09a36a5228f2284123f
 5. Select **Key** to add a new registry entry.  
 ![The New > Key options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/new-key-options3.jpg)
 6. Input **Remote Desktop Connection** for the new key’s title.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Right-click **Remote Desktop Connection** to select **New** \> **Key** options.
 8. Next, input **command** inside the text box for the new subkey.
 9. Right-click the **(Default)** string inside the new command subkey and select **Modify**.  
 ![The Modify option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-modify-option.jpg)
 10. Input **"C:\\Windows\\System32\\mstsc"** inside the **Value data** box and select **OK**.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Edit String window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/edit-string-window.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now you can open the Remote Desktop Connection app from your desktop’s context menu. Right-click any empty area of the Windows 11 desktop to select **Show more options** for viewing the classic context menu. You’ll see a new **Remote Desktop Connection** shortcut on the classic context menu. Click that shortcut to access the Remote Desktop Connection app.
 
  You can remove the **Remote Desktop Connection** context menu shortcut any time you wish. To do so, return to the shell registry location specified in step three above. Right-click the **Remote Desktop Connection** key you added and select **Delete** \> **Yes**.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Open Remote Desktop Connection With Your Favorite Method
@@ -246,14 +225,24 @@ thumbnail: https://thmb.techidaily.com/724743278e3cc8c3d6bd3e09a36a5228f2284123f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-sharpen-your-stream-top-5-video-improvement-tech/"><u>[New] 2024 Approved Sharpen Your Stream Top 5 Video Improvement Tech</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-navigating-social-media-imitation-how-to-clone-yourself-with-finesse-on-tiktok-for-2024/"><u>[New] Navigating Social Media Imitation How to Clone Yourself with Finesse on TikTok for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-steps-to-address-winerror-0xc0000005-instantly/"><u>Essential Steps to Address WinError 0Xc0000005 Instantly</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-windows-crashes-due-to-0x0000011b-errors/"><u>Fixing Windows Crashes Due to 0X0000011B Errors</u></a></li>
-<li><a href="https://windows11.techidaily.com/guidelines-for-fixing-windows-11-support-tool/"><u>Guidelines for Fixing Windows 11 Support Tool</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-leading-portals-for-virtual-graffiti-fonts/"><u>In 2024, Leading Portals for Virtual Graffiti Fonts</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/magix-vpx-unveiled-next-level-media-production-at-your-fingertips-for-2024/"><u>Magix VPX Unveiled Next-Level Media Production at Your Fingertips for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/prospective-leaders-in-titling-the-top-5-online-masters-revealed/"><u>Prospective Leaders in Titling The Top 5 Online Masters Revealed</u></a></li>
-<li><a href="https://windows11.techidaily.com/reviving-disconnected-steam-friends-list-wins11/"><u>Reviving Disconnected Steam Friends List (Wins11)</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-digital-dazzle-fine-tuning-video-chrominance-for-beauty/"><u>[New] Digital Dazzle Fine-Tuning Video Chrominance for Beauty</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-flashy-flashes-prime-picks-for-lightning-laptopmobile-games-for-2024/"><u>[New] Flashy Flashes Prime Picks for Lightning Laptop/Mobile Games for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-unveiling-advanced-features-of-vlc/"><u>[New] In 2024, Unveiling Advanced Features of VLC</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nveiling-secrets-to-boost-engagement-in-gaming-vlogs-via-hashes/"><u>[New] Unveiling Secrets to Boost Engagement in Gaming Vlogs via Hashes</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/experts-take-on-the-toshiba-55lf711u23-55-inch-smart-tv-with-alexa-built-in-perfect-match-for-amazon-prime-users/"><u>Experts' Take on the Toshiba 55LF711U2^3 55-Inch Smart TV with Alexa Built-In: Perfect Match for Amazon Prime Users</u></a></li>
+<li><a href="https://win-forum.techidaily.com/guide-how-to-forcibly-close-hanging-apps-in-windows-with-revouninstaller-tools/"><u>Guide: How to Forcibly Close Hanging Apps in Windows with RevoUninstaller Tools</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-whatsapp-chat-history-from-iphone-12-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Whatsapp Chat History From iPhone 12 Pro | Stellar</u></a></li>
+<li><a href="https://article-files.techidaily.com/join-the-metaverse-meme-revolution-quick-tips-for-original-creators/"><u>Join the Metaverse Meme Revolution - Quick Tips for Original Creators</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-of-self-extraction-an-insider-look-at-win11-sfxs/"><u>Mastery of Self-Extraction: An Insider Look at Win11 SFXs</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-recovery-restoring-the-lost-enhancement-tab-in-windows-11/"><u>Quick Recovery: Restoring the Lost Enhancement Tab in Window's 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-apps-vying-for-same-camera-on-windows/"><u>Remedying Apps Vying for Same Camera on Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-device-improperly-set-up-issue-understanding-and-fixing-error-1/"><u>Resolve 'Device Improperly Set Up' Issue - Understanding and Fixing Error 1</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-system-8-routes-for-windows-restart/"><u>Reviving System: 8 Routes for Windows Restart</u></a></li>
+<li><a href="https://windows11.techidaily.com/securely-shifting-your-streaming-application-across-hardware/"><u>Securely Shifting Your Streaming Application Across Hardware</u></a></li>
+<li><a href="https://windows11.techidaily.com/simplify-your-life-incorrante-outlook-preview-in-windows-11/"><u>Simplify Your Life: Incorrante Outlook Preview in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-perfect-icon-placement/"><u>Strategies for Perfect Icon Placement</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-not-a-valid-profile-warning-in-win1011/"><u>Troubleshooting 'Not a Valid Profile' Warning in Win10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-user-mastery-group-and-admin-essentials-guide/"><u>Windows 11 User Mastery: Group & Admin Essentials Guide</u></a></li>
 </ul></div>
 

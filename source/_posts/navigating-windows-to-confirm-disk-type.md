@@ -1,7 +1,7 @@
 ---
 title: Navigating Windows to Confirm Disk Type
-date: 2024-11-08T16:11:49.903Z
-updated: 2024-11-15T16:49:52.587Z
+date: 2024-11-23T17:00:10.198Z
+updated: 2024-11-24T20:52:56.588Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/59ebf54bbd2728b1cee67f80e126289c9f6737977
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Check if You Have an HDD or SSD Using the Task Manager
 
  To determine whether you have an HDD or SSD using the Task Manager, follow these steps:
@@ -35,15 +39,20 @@ thumbnail: https://thmb.techidaily.com/59ebf54bbd2728b1cee67f80e126289c9f6737977
 4. Check details under **Disk 0** and **Disk 1** (if you have more than one connected) to confirm whether the disks installed are SSDs or HDDs.  
 ![Check the Type of Drive You Have in the Performance Tab of Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/check-the-type-of-drive-you-have-in-the-performance-tab-of-task-manager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To view other details about the selected drive, such as its capacity, write speed, average response time, and more, simply choose **Disk 0** or **Disk 1**—the SSD drive you want to learn more about. Task Manager will show the other details about the drive you selected on the lower side of the screen.
 
 ![Check Other Details of the Storage Drive in the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/check-other-details-of-the-storage-drive-in-the-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Now You Know Which Drive You Have on Windows
@@ -62,16 +71,20 @@ thumbnail: https://thmb.techidaily.com/59ebf54bbd2728b1cee67f80e126289c9f6737977
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-lgs-ultrafine-4k-display-unpacked-a-detailed-analysis/"><u>2024 Approved LG's UltraFine 4K Display Unpacked A Detailed Analysis</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-honor-x50i-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Honor X50i</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a05s-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Samsung Galaxy A05s Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-palette-prestige-highlighting-10-free-mac-compatible-art-tools/"><u>In 2024, Palette Prestige Highlighting 10 Free, Mac-Compatible Art Tools</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/straightforward-steps-upside-down-video-rotation-using-vlc/"><u>Straightforward Steps Upside-Down Video Rotation Using VLC</u></a></li>
-<li><a href="https://windows11.techidaily.com/successful-recovery-of-non-functioning-ccleaner-win1011/"><u>Successful Recovery of Non-Functioning CCleaner Win10/11</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-ultimate-collection-5-outstanding-book-tts-for-2024/"><u>The Ultimate Collection 5 Outstanding Book TTs for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/transform-steam-deck-with-official-windows-instruments/"><u>Transform Steam Deck with Official Windows Instruments</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-0x800700e9-issue-with-xbox-game-pass-and-windows-11/"><u>Troubleshooting 0X800700E9 Issue with Xbox Game Pass & Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-revival-unlocking-the-power-of-3-resets/"><u>Windows Revival: Unlocking the Power of 3 Resets</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/luchshie-specialisty-po-seo-v-detrojte-dlya-2024-goda-obzor-i-rekomendacii-seo-powersuite/"><u>Лучшие Специалисты По SEO В Детройте Для 2024 Года: Обзор И Рекомендации - SEO PowerSuite</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-integrating-end-screen-elements-with-vimeo/"><u>[Updated] Integrating End Screen Elements with Vimeo</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-simple-steps-to-import-youtube-music-into-imovie-for-2024/"><u>[Updated] Simple Steps to Import YouTube Music Into iMovie for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-windows-pe-file-system/"><u>Decoding Windows' PE File System</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-oneplus-nord-n30-se-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on OnePlus Nord N30 SE Quickly | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-oppo-reno-11-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Oppo Reno 11 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-opening-lines-breaking-the-ice-in-video-comments/"><u>In 2024, Opening Lines Breaking the Ice in Video Comments</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/keep-the-click-going-tips-for-automatically-backing-up-snapshots-for-2024/"><u>Keep the Click Going Tips for Automatically Backing Up Snapshots for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-read-only-status-in-1011s-file-directories/"><u>Remedying Read-Only Status in 10/11'S File Directories</u></a></li>
+<li><a href="https://windows11.techidaily.com/seeking-entry-into-the-windows-11-insider-circle/"><u>Seeking Entry Into the Windows 11 Insider Circle</u></a></li>
+<li><a href="https://windows11.techidaily.com/starting-windows-terminal-with-quake-effects/"><u>Starting Windows Terminal with Quake Effects</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlined-startup-routines-in-modern-windows/"><u>Streamlined Startup Routines in Modern Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/surface-go-3-with-latest-chip-reviewed-mixed-outcomes-noted/"><u>Surface Go 3 with Latest Chip Reviewed: Mixed Outcomes Noted</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-10-impressive-srt-converters-for-mac-and-windows/"><u>Top 10 Impressive SRT Converters for Mac and Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-windows-11s-compatibility-checker-usage-guide/"><u>Understanding Windows 11'S Compatibility Checker: Usage Guide</u></a></li>
 </ul></div>
 

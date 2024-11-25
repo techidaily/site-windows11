@@ -1,7 +1,7 @@
 ---
 title: Resolving “Need Old Password” Warning on Win11/Win11 OS
-date: 2024-11-14T16:45:22.519Z
-updated: 2024-11-15T16:07:43.968Z
+date: 2024-11-20T01:54:03.676Z
+updated: 2024-11-24T17:23:46.105Z
 tags:
   - windows10
   - windows11
@@ -37,22 +37,12 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
 
  Either way, this local admin account is the “master key” for accessing your device. When you try to link your Microsoft account, Windows requires the password to this local admin account to confirm that you’re the admin. Fortunately, there are some quick fixes for resolving this error.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Try All of Your Commonly Used Passwords
 
 ![A padlock standing on the keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/password-pc-keyboard.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you encounter this error, you should first try all of the commonly used passwords you’ve used with the device. It’s possible that once upon a time, you changed the password to the default local administrator account. However, this only applies if you’re experiencing this error as a result of a system reset.
@@ -64,13 +54,14 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
 ![Enter Key on Laptop Keyboard in Red](https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6d231984ceb0349e3e717f14.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Some people who have encountered this error claim that you can resolve it by pressing the Enter key with the password field empty. This should work if you've never set up a password for the local admin account, and it works for some people.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Reset Your Windows Password
 
@@ -83,17 +74,18 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
 ![Accounts Page in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/accounts-page-in-windows-11.jpg)
 3. Then, select **Sign-In Options** \> **Passwords**. You’ll find **Add** if you’re creating a password for the first time. Otherwise, you’ll find **Change**, meaning you’ll need to [reset your local admin account password](https://www.makeuseof.com/tag/3-ways-to-reset-the-forgotten-windows-administrator-password/).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Password Option under Sign-In Options in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/password-option-under-sign-in-options-in-windows-11.jpg)
 4. If you click **Add**, you’ll be directed to a page where you can set up a password.  
 
-![Create New Password for Local Admin Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/create-new-password-for-local-admin-account.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Create New Password for Local Admin Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/create-new-password-for-local-admin-account.jpg)
 
  Once you have created or reset your Windows password, you can proceed to sign into your Microsoft account. Once you’re asked to insert your “current Windows password,” swiftly input your newly minted password.
 
@@ -113,22 +105,20 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-vimeos-lifesaver-for-free-video-editors/"><u>[Updated] 2024 Approved Vimeo's Lifesaver for Free Video Editors</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-chart-topping-tunes-compiling-an-impressive-youtube-playlist/"><u>[Updated] Chart-Topping Tunes Compiling an Impressive YouTube Playlist</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-top-6-voice-changer-software-for-youtube-videos-free-and-paid/"><u>[Updated] Top 6 Voice Changer Software for Youtube Videos [Free & Paid]</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/beat-the-rununk13-problem-on-hulu-with-this-expert-guide/"><u>Beat the RunUnk13 Problem on Hulu with This Expert Guide</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-12-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 without Passcode or Face ID</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-vanguard-headgear-companies-for-vr/"><u>In 2024, Vanguard Headgear Companies for VR</u></a></li>
-<li><a href="https://windows11.techidaily.com/nvidias-leap-into-the-future-my-5-anticipated-benefits-of-their-innovative-arm-chip/"><u>NVIDIA's Leap Into the Future: My 5 Anticipated Benefits of Their Innovative ARM Chip</u></a></li>
-<li><a href="https://windows11.techidaily.com/reviving-file-explorer-from-windows-10-on-your-new-windows-11-pc/"><u>Reviving File Explorer From Windows 10 on Your New Windows 11 PC</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95782288-9781594779183-rumis-four-essential-practices/"><u>Rumi's Four Essential Practices | Free Book</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/samsung-galaxy-fit-examination-perfect-companion-for-an-energetic-routine/"><u>Samsung Galaxy Fit Examination: Perfect Companion for an Energetic Routine</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-your-hp-laptops-webcam-issue-on-windows-11-a-step-by-step-guide/"><u>Solving Your HP Laptop's Webcam Issue on Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-guide-correcting-your-laptopmonitor-displays-persistent-yellow-discoloration/"><u>Step-by-Step Guide: Correcting Your Laptop/Monitor Display's Persistent Yellow Discoloration</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-tutorial-for-restoring-functionality-of-a-nonworking-wireless-mouse-on-windows-11-systems/"><u>Step-by-Step Tutorial for Restoring Functionality of a Nonworking Wireless Mouse on Windows 11 Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-tutorial-how-to-extract-music-from-cds-using-windows-software/"><u>Step-by-Step Tutorial: How to Extract Music From CDs Using Windows Software</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-creative-process-behind-developing-the-famous-3d-pipes-windows-screensaver/"><u>The Creative Process Behind Developing the Famous 3D Pipes Window's Screensaver</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-enduring-legacy-of-windows-xp-why-theres-no-successor/"><u>The Enduring Legacy of Windows XP - Why There's No Successor</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-latest-addition-to-the-lineup-meet-the-online-only-microsoft-surface-laptop-alice-what-is-the-term-used-for-any-form-of-energy-that-relates-to-motion/"><u>The Latest Addition to the Lineup: Meet the Online-Only Microsoft Surface Laptop # Alice: What Is the Term Used for Any Form of Energy that Relates to Motion?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-diving-deep-into-youtube-launching-and-earning-your-way/"><u>[New] 2024 Approved Diving Deep Into Youtube Launching and Earning Your Way</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-must-have-mac-frame-captures-handbook-limited-to-156-characters/"><u>[Updated] Must-Have Mac Frame Captures Handbook (Limited to 156 Characters)</u></a></li>
+<li><a href="https://discover-data.techidaily.com/windows-compact-flash/"><u>在 Windows 系統中選擇最佳無償 Compact Flash 卡複印機解決方案</u></a></li>
+<li><a href="https://windows11.techidaily.com/adapting-the-oculus-quest-2-for-windows-os-virtual-reality/"><u>Adapting the Oculus Quest 2 for Windows OS Virtual Reality</u></a></li>
+<li><a href="https://win-dash.techidaily.com/classify-organisms/"><u>Classify Organisms</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-xiaomi-redmi-note-12-proplus-5g-device-sim-by-drfone-android/"><u>Easily Unlock Your Xiaomi Redmi Note 12 Pro+ 5G Device SIM</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevating-your-gameplay-overcoming-lags-in-warfare/"><u>Elevating Your Gameplay: Overcoming Lags in Warfare</u></a></li>
+<li><a href="https://facebook.techidaily.com/keep-your-privacy-intact-remove-facebook-history/"><u>Keep Your Privacy Intact: Remove Facebook History</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/live-streaming-mastery-ultimate-guide-to-manycam-and-virtual-webcams/"><u>Live Streaming Mastery: Ultimate Guide to ManyCam and Virtual Webcams</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-fix-effective-strategies-to-restore-your-windows-from-unexpected-screen-losses/"><u>Mastering the Fix: Effective Strategies to Restore Your Windows From Unexpected Screen Losses</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigate-the-subscription-surge-on-xbox-gold-membership/"><u>Navigate the Subscription Surge on Xbox Gold Membership</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-nitpicking-colors-8-tips-for-a-neutral-desktop/"><u>Navigating Nitpicking Colors: 8 Tips for a Neutral Desktop</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-setup-google-play-on-windows-11/"><u>Quick Setup: Google Play on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unplugged-no-more-six-methods-to-restore-functioning-network-hardware-on-your-pc/"><u>Unplugged No More: Six Methods to Restore Functioning Network Hardware on Your PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/utilizing-windows-widgets-for-real-time-resource-tracking/"><u>Utilizing Windows Widgets for Real-Time Resource Tracking</u></a></li>
 </ul></div>
 

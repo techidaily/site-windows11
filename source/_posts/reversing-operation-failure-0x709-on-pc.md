@@ -1,7 +1,7 @@
 ---
 title: Reversing Operation Failure 0X709 on PC
-date: 2024-08-22T21:37:20.093Z
-updated: 2024-08-23T21:37:20.093Z
+date: 2024-11-20T17:38:43.334Z
+updated: 2024-11-24T23:59:16.074Z
 tags:
   - windows10
   - windows11
@@ -33,8 +33,9 @@ thumbnail: https://thmb.techidaily.com/41c40fc075ec41a6de89c571a5a74900b640b77fd
  If you continue to receive the error despite having no other printer connected to your device, then it is not interference from other printers causing the problem but rather a setting in your operating system. So, start applying the following fixes.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Rename the Printer in Registry Editor
 
  The error message advises us to correctly set the printer's name. So, in this next step, we should rename it manually in Registry Editor. Although it is known to fix the problem, you need to be careful to follow the steps correctly. You should [avoid messing up registry keys](https://www.makeuseof.com/tag/not-accidentally-mess-windows-registry/) as it can cause serious problems. As such, follow the instructions below:
@@ -46,16 +47,18 @@ thumbnail: https://thmb.techidaily.com/41c40fc075ec41a6de89c571a5a74900b640b77fd
 4. Right-click on the **Device** key and click **Modify**.  
 ![Clicking on the Modify Button After Right-clicking on the Device Key in Windows Registry Editor App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/1-clicking-on-the-modify-button-after-right-clicking-on-the-device-key-in-windows-registry-editor-app.jpg)
 5. In the **Value data** field, replace the first entry with the name of your printer.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Editing String by Changing Its Data Value in Registry Editor App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/editing-string-by-changing-its-data-value-in-registry-editor-app-on-windows.jpg)
 6. Then click **OK**.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Make sure you restart your computer after completing the above steps. If renaming the registry keys makes no difference, apply the remaining fixes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Change RPC Connection Settings
 
@@ -68,6 +71,11 @@ thumbnail: https://thmb.techidaily.com/41c40fc075ec41a6de89c571a5a74900b640b77fd
 3. In the left-sidebar, select **Administrative Templates > Printers**.  
 ![Clicking on the Printers Option in the Administrative Templates Dropdown in Windows Group Policy Editor App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/3-clicking-on-the-printers-option-in-the-administrative-templates-dropdown-in-windows-group-policy-editor-app.jpg)
 4. Click **Configure RPC connection** **settings** twice.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. To enable this policy, check the circle for **Enabled**.
 6. Select **RPC over named pipes** from the dropdown menu for **Protocol to use for outgoing RPC connections.**  
 ![Selecting RPC Over Named Pipes from the Dropdown Menu of Protocol to Use for Outgoing RPC Connections in Windows Group Policy Editor App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/4-selecting-rpc-over-named-pipes-from-the-dropdown-menu-of-protocol-to-use-for-outgoing-rpc-connections-in-windows-group-policy-editor-app.jpg)
@@ -78,18 +86,12 @@ thumbnail: https://thmb.techidaily.com/41c40fc075ec41a6de89c571a5a74900b640b77fd
 
 ![Selecting RPC over TCP from the Protocol to Use for Outgoing RPC Connections Dropdown in Windows Group Policy Editor App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/5-selecting-rpc-over-tcp-from-the-protocol-to-use-for-outgoing-rpc-connections-dropdown-in-windows-group-policy-editor-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
  When that doesn't work either, you can enable or disable authentication from the **Use authentication for outgoing RPC connections** dropdown menu.
 
 ![Enabling Authentication from the Use Authentication for Outgoing RPC Connections Dropdown Menu in Windows Group Policy Editor App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/6-enabling-authentication-from-the-use-authentication-for-outgoing-rpc-connections-dropdown-menu-in-windows-group-policy-editor-app.jpg)
 
  Apply this fix carefully, as it has the highest chance of fixing the error message.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Run the Printer Troubleshooter
 
  To troubleshoot printer-related issues, Windows includes an in-built troubleshooter. The tool helps diagnose and fix most problems related to printer connectivity. If you try it, it may resolve the "operation could not be completed" error. To run the troubleshooter, follow the steps below:
@@ -99,9 +101,11 @@ thumbnail: https://thmb.techidaily.com/41c40fc075ec41a6de89c571a5a74900b640b77fd
 3. In the right pane, click **Troubleshoot**.  
 ![Clicking on the Troubleshoot Option in the System Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/7-clicking-on-the-troubleshoot-option-in-the-system-tab-of-the-windows-settings-app.jpg)
 4. Click **Other troubleshooters**.
+
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Locate the **Printer** troubleshooter, and click on the **Run** button next to it.  
 ![Clicking on the Run Button Next to Printer Troubleshooter in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/8-clicking-on-the-run-button-next-to-printer-troubleshooter-in-windows-settings-app.jpg)
 6. Follow the on-screen instructions to help the troubleshooter get started.
@@ -109,8 +113,9 @@ thumbnail: https://thmb.techidaily.com/41c40fc075ec41a6de89c571a5a74900b640b77fd
  After that, make your preferred printer your default printer again. In case the same error occurs again, apply the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Change Printer Preferences
 
  By default, Windows manages the default printer for the user. The setting is helpful, especially if you frequently connect your device to different printers, but it can sometimes cause problems. Hence, you should disable this feature to ensure it is not causing the problem.
@@ -122,10 +127,15 @@ thumbnail: https://thmb.techidaily.com/41c40fc075ec41a6de89c571a5a74900b640b77fd
 3. In the right pane, click **Printers & scanners**.  
 ![Going to Printers and Scanners Settings in the Bluetooth and Devices Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/9-going-to-printers-and-scanners-settings-in-the-bluetooth-and-devices-tab-of-the-windows-settings-app.jpg)
 4. Turn off the toggle next to **Allow Windows to manage my default printer** under **Printer preferences**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Turning off the Toggle Next to Let Windows Manage My Default Printer Under Printer Preferences in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/10-turning-off-the-toggle-next-to-let-windows-manage-my-default-printer-under-printer-preferences-in-windows-settings-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Uninstall the Problematic Update
 
@@ -138,9 +148,6 @@ thumbnail: https://thmb.techidaily.com/41c40fc075ec41a6de89c571a5a74900b640b77fd
 4. Under **Related settings**, click **Uninstall updates**.  
 ![Clicking on Uninstall Updates Under Related Settings in Update History Settings in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/12-clicking-on-uninstall-updates-under-related-settings-in-update-history-settings-in-windows-settings-app.jpg)
 5. Find the most recent update in the Control Panel app by checking its installation date. Once it has been located, right-click on it and click **Uninstall**.  
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Uninstalling the Recent Windows Update after Locating it in the Windows Control Panel App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/13-uninstalling-the-recent-windows-update-after-locating-it-in-the-windows-control-panel-app.jpg)
 
  See if you encounter the same error again. If uninstalling a problematic update resolves the issue, you should take extra steps to prevent this update from automatically installing again. You can do that by following these steps:
@@ -155,9 +162,6 @@ thumbnail: https://thmb.techidaily.com/41c40fc075ec41a6de89c571a5a74900b640b77fd
 
  Let the tool finish processing, and the specific update will not install on your device again. However, if uninstalling the update makes no difference, there is no need to prevent it from installing again.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Enjoy Printing Again on Windows
 
  Not being able to set a printer default is very annoying, especially when taking urgent prints. Hopefully, our guide will help fix the annoying 0x00000709 error. By doing so, you can print with your preferred printer.
@@ -168,11 +172,31 @@ thumbnail: https://thmb.techidaily.com/41c40fc075ec41a6de89c571a5a74900b640b77fd
 
  In this article, we will examine the error in more detail and discuss why it occurs. In addition, we'll cover a few fixes that you can apply to resolve the issue.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-no-complications-in-hdr-a-thorough-review/"><u>[New] No Complications in HDR A Thorough Review</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-a-deep-dive-into-video-platform-profit-margins-dailymovement-vs-youtube/"><u>[Updated] A Deep-Dive Into Video Platform Profit Margins DailyMovement vs YouTube</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-navigating-fun-with-junior-drivers-for-2024/"><u>[Updated] Navigating Fun with Junior Drivers for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-download-voice-log-inspect/"><u>2024 Approved Download Voice Log Inspect</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-nubia-red-magic-9-proplus-unlock-without-password-by-drfone-android/"><u>5 Solutions For Nubia Red Magic 9 Pro+ Unlock Without Password</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/constructing-unique-instagram-story-banners-for-2024/"><u>Constructing Unique Instagram Story Banners for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixed-your-input-not-recognized-windows-vlc-error/"><u>Fixed: Your Input Not Recognized – Windows VLC Error</u></a></li>
+<li><a href="https://windows11.techidaily.com/guiding-users-through-printer-access-errors/"><u>Guiding Users Through Printer Access Errors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/indiana-jones-film-saga-the-ultimate-viewing-order-explained/"><u>Indiana Jones Film Saga - The Ultimate Viewing Order Explained</u></a></li>
+<li><a href="https://windows11.techidaily.com/leverage-full-power-of-windows-11-today/"><u>Leverage Full Power of Windows 11 Today</u></a></li>
+<li><a href="https://windows11.techidaily.com/new-assistant-horizons-after-cortanas-exit/"><u>New Assistant Horizons After Cortana's Exit</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/overcoming-spreadsheet-woes-with-chatgpt-and-excel/"><u>Overcoming Spreadsheet Woes with ChatGPT & Excel</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-non-active-windows-volume-snapshot/"><u>Reviving Non-Active Windows Volume Snapshot</u></a></li>
+<li><a href="https://windows11.techidaily.com/secure-your-connection-top-fixes-for-hidden-wireless-networks-in-windows/"><u>Secure Your Connection: Top Fixes for Hidden Wireless Networks in Windows</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/1728483070242-windows-server-2012r2/"><u>Windows Server 201_2R2バックアップを見つけられないときのトラブルシューティング</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-executable-and-linker-format-a-brief-guide/"><u>Windows' Executable & Linker Format: A Brief Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-at-wifi-less-windows-11-setup/"><u>Winning at Wifi-Less Windows 11 Setup</u></a></li>
+</ul></div>
+

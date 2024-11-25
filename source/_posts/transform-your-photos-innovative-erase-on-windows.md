@@ -1,7 +1,7 @@
 ---
 title: "Transform Your Photos: Innovative Erase on Windows"
-date: 2024-11-08T16:50:46.435Z
-updated: 2024-11-15T17:31:42.015Z
+date: 2024-11-23T21:55:49.471Z
+updated: 2024-11-24T22:19:51.540Z
 tags:
   - windows10
   - windows11
@@ -21,21 +21,23 @@ thumbnail: https://thmb.techidaily.com/89e14fb11e9e592fbd5c568e89cdfa2567dfefcd7
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * ![Screenshot highlighting the Edit button in the Windows Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/edit-button-on-the-windows-photos-app-1.jpg)  
  Windows Photos' Generative Erase easily removes objects from images for free on Windows PCs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * The Erase tool is available on the Windows Photos app in version 2024.11020.21001.0 or higher.
 * While Google's Magic Eraser is more lenient with object selection, Windows Photos did better at replicating and adjusting the background.
 
  Removing objects from photos is easier than ever on a smartphone, but that's largely limited to Pixels, Samsung flagships, or a Google One subscription. While you might think doing so requires expensive software on desktop, the Photos app on Windows is all you need to remove unwanted elements from an image. It's easily accessible, free, and is pretty great!
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What Is Windows Photos Generative Erase?
 
@@ -43,41 +45,32 @@ thumbnail: https://thmb.techidaily.com/89e14fb11e9e592fbd5c568e89cdfa2567dfefcd7
 
  You don't need expensive photo editing software or a high-end phone. The Photos app is available on all Windows 10 and 11 machines. You should see the Erase tool after [updating the Windows Photos app](https://www.makeuseof.com/tag/update-windows-software-guide/) to version 2024.11020.21001.0 or higher.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Use Generative Erase in Windows Photos
 
  Open the Photos app on your desktop and find or load the image you want to edit. If the Photos app is your default photo viewer, double-clicking the image should open it.
 
 ![Screenshot highlighting the Edit button in the Windows Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/edit-button-on-the-windows-photos-app-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click the **Edit** button in the top bar and select **Erase**. If you want to get granular with your edit, you can adjust the brush size and zoom in on the picture.
 
 ![Erase button in the Edit tool in the Windows Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/erase-button-in-the-edit-tool.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The **Auto Erase** toggle is enabled by default and erases objects as you go. To erase multiple objects, toggle off **Auto Erase**, use the brush to highlight everything you want to remove, and then tap **Erase**.
 
 ![Using the Erase tool on Windows Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/using-the-erase-tool-on-windows-photos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You have to be precise with the brush tool, but the option to adjust the size makes highlighting objects relatively easy.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Generative Erase on Windows Photos Any Good?
@@ -111,22 +104,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://novels-ebooks.techidaily.com/211191677-9789948040859-alayorfyda-balaarby-altb-alhndy/"><u>(الأيورفيدا بالعربي (الطب الهندي | Free Book</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-mi-drone-4k-flight-insights-and-features/"><u>[New] 2024 Approved Mi Drone 4K Flight Insights & Features</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-add-a-personal-touch-using-branded-graphic-elements-in-your-instagram-content/"><u>[New] Add a Personal Touch Using Branded Graphic Elements in Your Instagram Content</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-a-study-on-triller-vs-tiktok-key-points-and-contrasts-max-156-chars/"><u>[Updated] In 2024, A Study on Triller Vs. TikTok Key Points and Contrasts (Max 156 Chars)</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-laying-foundations-for-understanding-av1-tech/"><u>[Updated] Laying Foundations for Understanding AV1 Tech</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-for-correcting-absence-of-rockalldll-in-windows/"><u>Guide for Correcting Absence of Rockalldll in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-to-mute-chrome-prompts-on-windows/"><u>Guide to Mute Chrome Prompts on Windows</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-phantom-v-flip-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Phantom V Flip Without Password?</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-the-art-of-framing-making-an-effective-youtube-introductory-vids/"><u>In 2024, The Art of Framing Making an Effective YouTube Introductory Vids</u></a></li>
-<li><a href="https://windows11.techidaily.com/install-and-manage-packages-with-windows-package-manager-wpm/"><u>Install and Manage Packages with Windows Package Manager (WPM)</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigate-and-implement-windows-11-family-safety-options/"><u>Navigate and Implement Windows 11 Family Safety Options</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-through-windows-11-unraveling-quirks-and-fixes/"><u>Navigating Through WINDOWS 11: Unraveling Quirks & Fixes</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-mastering-w11-audio-recordings/"><u>Step-by-Step: Mastering W11 Audio Recordings</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-definitive-steps-to-hyper-v-on-windows-11/"><u>The Definitive Steps to Hyper-V on Windows 11</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Oppo A79 5G? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-true-potential-fix-windows-screen-modes/"><u>Unlocking True Potential: Fix Windows Screen Modes</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-transform-your-job-search-with-these-4-top-video-resume-makers-free/"><u>Updated In 2024, Transform Your Job Search with These 4 Top Video Resume Makers Free</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-essential-list-of-minuscule-uavs-2021/"><u>[Updated] Essential List of Minuscule UAVs 2021</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-exploring-the-finest-wedding-cinematography-youtube-and-vimeos-selection/"><u>[Updated] In 2024, Exploring the Finest Wedding Cinematography - Youtube & Vimeo's Selection</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-realistic-quantum-leaps-a-vfx-perspective/"><u>2024 Approved Realistic Quantum Leaps A VFX Perspective</u></a></li>
+<li><a href="https://win-blog.techidaily.com/closing-the-loop-why-rainbow-six-extraction-no-longer-crashes-on-personal-computers/"><u>Closing the Loop: Why Rainbow Six Extraction No Longer Crashes on Personal Computers</u></a></li>
+<li><a href="https://windows11.techidaily.com/ensure-seamless-fullscreen-launch-on-windows-pcs/"><u>Ensure Seamless Fullscreen Launch on Windows PCs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/harnessing-the-power-of-ai-for-influential-proposals/"><u>Harnessing the Power of AI for Influential Proposals</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tailoring-podcast-sharing-for-instagram-enthusiasts/"><u>In 2024, Tailoring Podcast Sharing for Instagram Enthusiasts</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/integrating-bizagi-with-abbyy-comprehensive-guide-and-free-pdf-download/"><u>Integrating Bizagi with ABBYY: Comprehensive Guide & Free PDF Download</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-windows-11-search-with-custom-settings/"><u>Optimizing Windows 11 Search with Custom Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/skyrocket-your-typing-swift-input-strategies-for-win-1011-users/"><u>Skyrocket Your Typing: Swift Input Strategies for WIN 10/11 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-complete-guide-to-image-spin-on-your-windows-11-pc/"><u>The Complete Guide to Image Spin on Your Windows 11 PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/why-choosing-windows-11-is-a-wise-decision-over-macos/"><u>Why Choosing Windows 11 Is a Wise Decision over MacOS</u></a></li>
 </ul></div>
 

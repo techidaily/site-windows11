@@ -1,7 +1,7 @@
 ---
 title: Ten Steps to Clear Win11 DNS Cache
-date: 2024-11-14T17:36:25.276Z
-updated: 2024-11-15T17:32:32.728Z
+date: 2024-11-22T16:10:44.104Z
+updated: 2024-11-25T01:47:14.788Z
 tags:
   - windows10
   - windows11
@@ -33,16 +33,13 @@ thumbnail: https://thmb.techidaily.com/3826690fad2bdad4d7aa62bd8a31b6771b0779110
 
  The DNS resolver cache can become outdated or corrupt over time which can pose connectivity issues. There is also a looming risk of[DNS cache poisoning](https://www.makeuseof.com/tag/what-is-dns-cache-poisoning/) , which is why you should make it a habit to clean the DNS cache periodically.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Flush the DNS Cache on Windows 11
 
  There are multiple methods to flush the DNS cache on Windows 11\. You can use the Run command box, Command Prompt, or even PowerShell. In addition, you can use a batch file to clear the DNS cache in a few clicks, any time you want. Here are the four ways to clear DNS on Windows 11:
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Using the Run Command Box
 
@@ -52,13 +49,6 @@ To flush the DNS cache using the Run command box, do as follows:
 2. Type “**ipconfig /flushdns** ” command.  
 ![Flush DNS Using the Run Command Box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/flush-dns-using-the-run-command-box.jpg)
 3. Press**Ctrl + Shift + Enter** keys at once. The Command Prompt will launch, execute the flush command, and close automatically.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Using CMD
 
@@ -71,10 +61,7 @@ To flush the DNS cache using the Run command box, do as follows:
 4. You will see a “**Successfully flushed the DNS Resolver Cache.** ” message after the command execution.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Using PowerShell
@@ -87,10 +74,11 @@ To flush the DNS cache using the Run command box, do as follows:
 3. You won’t see a message after the command executes successfully. But you can open PowerShell again and view the DNS cache to confirm.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Using a Batch File
@@ -103,6 +91,10 @@ Repeat the following steps to create a DNS-clearing batch file:
 2. Type the following command in Notepad:**cmd.exe /k ipconfig /flushdns**  
 ![Flush DNS Using A Batch File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/flush-dns-using-a-batch-file.jpg)
 3. Press**Ctrl + S** to save the file. Enter the name “**flushDNS.bat** ” and keep the**Save as type** as**All Files** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Click on the**Save** button.
 5. Now go to the batch file location and double-click on it.
@@ -140,17 +132,24 @@ Repeat the following steps to create a DNS-clearing batch file:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-premium-fb-video-tools-optimized-for-firefox-users/"><u>[New] In 2024, Premium FB Video Tools - Optimized For FireFox Users</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-rediscovering-the-riches-delving-into-literary-masterpieces-of-yore/"><u>[New] In 2024, Rediscovering the Riches Delving Into Literary Masterpieces of Yore</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-perfect-methods-for-computer-based-vhs-artistic-touches/"><u>[New] Perfect Methods for Computer-Based VHS Artistic Touches</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-engaging-audiences-making-popular-youtube-shorts-for-2024/"><u>[Updated] Engaging Audiences Making Popular YouTube Shorts for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-shot-solidity-choose-the-right-mobile-tripod/"><u>[Updated] In 2024, Shot Solidity Choose the Right Mobile Tripod</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-motorola-moto-g04-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Motorola Moto G04 | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/race-the-rating-effective-techniques-for-measuring-network-adapter-speed-on-windows/"><u>Race the Rating: Effective Techniques for Measuring Network Adapter Speed on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/reconnecting-to-ea-servers-after-connection-failures-in-windows/"><u>Reconnecting to EA Servers After Connection Failures in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-resolve-error-0x0000011b-on-windows-11/"><u>Steps to Resolve Error 0X0000011B on Windows 11</u></a></li>
-<li><a href="https://some-skills.techidaily.com/stunning-celestinas-and-skies-online-directory-for-2024/"><u>Stunning Celestinas and Skies Online Directory for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-essential-guide-to-choosing-top-fps-counter-software-for-windows-11/"><u>The Essential Guide to Choosing Top FPS Counter Software for Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11s-restricted-interface-an-overview/"><u>Windows 11'S Restricted Interface: An Overview</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-expert-tips-on-finding-optimal-free-srt-translator-services/"><u>[New] 2024 Approved Expert Tips on Finding Optimal Free SRT Translator Services</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-improve-video-comprehensibility-with-effective-use-of-chapters-in-youtube/"><u>[New] 2024 Approved Improve Video Comprehensibility with Effective Use of Chapters in YouTube</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-journey-through-high-dynamic-range-pc-viewing-and-creative-pursuits/"><u>[New] In 2024, Journey Through High Dynamic Range PC Viewing & Creative Pursuits</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-mastering-multiperspective-media-expert-guide-to-instagram-video-rotations/"><u>[New] In 2024, Mastering Multiperspective Media Expert Guide to Instagram Video Rotations</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-master-the-art-of-snaps-15-pro-tips/"><u>[New] Master the Art of Snaps 15 Pro Tips</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/asus-ac68u-router-analysis-fast-and-safe-5g-wireless-performance/"><u>Asus AC68U Router Analysis: Fast & Safe 5G Wireless Performance</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/free-online-mov-to-mp3-downloader-effortless-media-format-switching-with-movavi/"><u>Free Online MOV to MP3 Downloader - Effortless Media Format Switching with Movavi</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/msi-bluetooth-drivers-download-for-windows-11-and-10-compatibility/"><u>MSI Bluetooth Drivers: Download for Windows 11 & 10 Compatibility</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-window-11-email-app-error-code-0x800713f/"><u>Overcoming Window 11 Email App Error Code 0X800713F</u></a></li>
+<li><a href="https://windows11.techidaily.com/procedures-for-fixing-inoperative-ccleaner-on-windows-os/"><u>Procedures for Fixing Inoperative CCleaner on Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-launch-hacks-opening-windows-11-apps-faster/"><u>Quick Launch Hacks: Opening Windows 11 Apps Faster</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-edges-continuous-desktop-appearance/"><u>Resolving Edges' Continuous Desktop Appearance</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-unblock-windows-nvidia-setup-window/"><u>Strategies to Unblock Windows Nvidia Setup Window</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailoring-your-experience-using-w11s-auto-hdr/"><u>Tailoring Your Experience: Using W11's Auto HDR</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-secure-password-vaults-elevating-windows-11-standards/"><u>Top Secure Password Vaults Elevating Windows 11 Standards</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transforming-dvds-into-digital-tunes-the-ultimate-how-to-for-audiophiles/"><u>Transforming DVDs Into Digital Tunes: The Ultimate How-To for Audiophiles</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-missing-desktop-icons-on-windows-10-fixes-and-solutions/"><u>Troubleshooting Missing Desktop Icons on Windows 10 – Fixes & Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-error-code-0x80071a90-in-windows/"><u>Unraveling Error Code 0X80071A90 in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/why-microsoft-family-safety-matters-for-parents/"><u>Why Microsoft Family Safety Matters for Parents</u></a></li>
 </ul></div>
 

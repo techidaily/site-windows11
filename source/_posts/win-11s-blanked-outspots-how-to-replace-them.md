@@ -1,7 +1,7 @@
 ---
 title: "Win 11'S Blanked Outspots: How to Replace Them"
-date: 2024-11-09T16:04:45.999Z
-updated: 2024-11-15T16:47:09.734Z
+date: 2024-11-23T02:32:40.313Z
+updated: 2024-11-24T19:04:22.838Z
 tags:
   - windows10
   - windows11
@@ -34,10 +34,7 @@ thumbnail: https://thmb.techidaily.com/72ad6224a96d1332d870ccac31eeed89a25da9895
 ![Show Desktop Icons on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Show-Desktop-Icons-on-Windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Check Desktop Icon Settings
@@ -83,16 +80,13 @@ To rebuild icon cache on Windows 11:
 ![Rebuild Icon Cache Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Rebuild-Icon-Cache-Windows.jpg)
 7. Finally, type in the following text and hit**Enter** to restart Explorer:  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `Explorer.exe`
 
  Once you complete the above steps, restart your PC and see if the desktop icons appear.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Update Your PC’s Graphics Driver
 
@@ -107,6 +101,10 @@ To rebuild icon cache on Windows 11:
 
  If the issue persists even after updating the driver, your graphics driver may be corrupt. In that case, you'll need to reinstall the graphics driver on your PC. Refer to our guide on[how to fix corrupt drivers on Windows](https://www.makeuseof.com/how-to-fix-corrupt-drivers-on-windows-10/) for more instructions on how to fix this.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Check the Group Policy Settings
 
  The Group Policy Editor lets you make various system-wide changes on your Windows computer. If desktop icons are disabled from the Group Policy Editor, you won’t be able to add or remove desktop icons no matter what you do. To fix this, you must disable this “Hide and disable all items on the desktop” from the Group Policy Editor.
@@ -120,13 +118,6 @@ To rebuild icon cache on Windows 11:
 5. Select**Not configured** or**Disabled** .
 6. Click**Apply** followed by**OK** .  
 ![Enable Desktop Icons on Windows 11 via Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Enable-Deskop-Icons-on-Windows-11-via-Group-Policy-Editor-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Perform a System Restore
 
@@ -143,20 +134,10 @@ Follow these steps to perform a system restore on Windows:
 ![System Restore Dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/System-Restore-Dialog.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait for Windows to reboot and revert to the specified restore point. Following that, your desktop icons should appear.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Manually Restore the Desktop Shortcut Icons
 
@@ -166,9 +147,17 @@ Follow these steps to perform a system restore on Windows:
 
 ![Create Desktop Shortcut From Start Menu in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Create-Desktop-Shortcut-From-Start-Menu-in-Windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Alternatively, you can create a shortcut on your desktop by using the Create Shortcut wizard. To do so, right-click anywhere on the desktop and select**New > Shortcut** . Then, click the**Browse** button to locate the file, folder, or app you want to add to your desktop. Then, click**Next** followed by**Finish** .
 
  We covered this topic in more detail in our guide to[how to add icons to the desktop on Windows](https://www.makeuseof.com/how-to-add-icon-to-desktop-windows/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Restore the Missing Desktop Icons on Windows 11
 
@@ -189,14 +178,20 @@ Follow these steps to perform a system restore on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-step-into-virtual-entertainment-and-gain-notoriety/"><u>[Updated] 2024 Approved How to Step Into Virtual Entertainment and Gain Notoriety</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-low-cost-hardware-obs-optimization-tips/"><u>2024 Approved Low-Cost Hardware OBS Optimization Tips</u></a></li>
-<li><a href="https://windows11.techidaily.com/easy-guide-ripping-audio-cds-successfully-with-your-windows-pc/"><u>Easy Guide: Ripping Audio CDs Successfully with Your Windows PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/end-of-windows-10-maintenance-in-year-exploring-alternative-os-choices/"><u>End of Windows 10 Maintenance in [Year]: Exploring Alternative OS Choices</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-from-capture-to-sharing-fb-video-uploads-via-pc-plus-android/"><u>In 2024, From Capture to Sharing FB Video Uploads via PC + Android</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/innovation-unleashed-experience-our-6-best-signature-removers-for-2024/"><u>Innovation Unleashed – Experience Our 6 Best Signature Removers for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/the-ultimate-check-dji-fpv-drone-spectacles-features/"><u>The Ultimate Check DJi FPV Drone Spectacles' Features</u></a></li>
-<li><a href="https://windows11.techidaily.com/why-microsofts-copilotplus-and-its-advanced-upscaling-technology-make-it-essential-gear-for-serious-gamers/"><u>Why Microsoft's CoPilot+ and Its Advanced Upscaling Technology Make It Essential Gear for Serious Gamers</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11-upgrades-simplified-step-by-step-instructions-for-keeping-your-software-current/"><u>Windows 11 Upgrades Simplified: Step-by-Step Instructions for Keeping Your Software Current</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-leveraging-screencastifys-advanced-features/"><u>[Updated] Leveraging Screencastify's Advanced Features</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-revamping-your-windows-11-photo-viewer-add-filters-and-background-music/"><u>2024 Approved Revamping Your Windows 11 Photo Viewer Add Filters and Background Music</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/9-uncharted-upscales-for-vivid-visuals/"><u>9 Uncharted Upscales for Vivid Visuals</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/air-cooled-masterpiece-this-computer-breaks-the-mold-utilizing-a-giant-center-fan-against-centrifugal-forces/"><u>Air-Cooled Masterpiece: This Computer Breaks the Mold, Utilizing a Giant Center Fan Against Centrifugal Forces</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/efficient-printing-on-windows-download-epson-wf-2540-driver-for-win-78110/"><u>Efficient Printing on Windows - Download Epson WF-2540 Driver for Win 7/8.1/10</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-pc-sounds-with-windows-11s-mixer-feature/"><u>Enhance PC Sounds with Windows 11'S Mixer Feature</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-windows-11s-s-mode-is-it-worth-considering/"><u>Navigating Windows 11'S 'S Mode': Is It Worth Considering?</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-could-not-create-vm-problems-in-microsoft-os/"><u>Remedying 'Could Not Create VM' Problems in Microsoft OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/resuscitate-stalled-excel-performance-in-windows-environment/"><u>Resuscitate Stalled Excel Performance in Windows Environment</u></a></li>
+<li><a href="https://win11.techidaily.com/setting-up-triadic-widget-display-for-enhanced-productivity/"><u>Setting up Triadic Widget Display for Enhanced Productivity</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-to-extending-windows-1011-contextual-commands/"><u>Step-by-Step Guide to Extending Windows 10/11 Contextual Commands</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-future-of-editing-with-vita-a-complete-review/"><u>The Future of Editing with Vita - A Complete Review</u></a></li>
+<li><a href="https://android-frp.techidaily.com/top-5-motorola-edge-40-neo-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Motorola Edge 40 Neo Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-11-and-discord-fixing-the-deadly-js-error-quickly/"><u>Win 11 and Discord: Fixing The Deadly JS Error Quickly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/44ov44oq44o844gq44kq44oz44op44kk44oz5b2i5byp5asj5oplusbic0g44og44o844oq44o044kj44gr44ki44kl5yuv55s744gu6ieq55sx57eo6zug/"><u>フリーなオンライン形式変換 - ムーバヴィによる動画の自由編集</u></a></li>
 </ul></div>
 

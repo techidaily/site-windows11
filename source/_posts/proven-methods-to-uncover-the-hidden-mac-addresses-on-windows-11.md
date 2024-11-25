@@ -1,7 +1,7 @@
 ---
 title: Proven Methods to Uncover the Hidden MAC Addresses on Windows 11
-date: 2024-08-22T21:35:46.193Z
-updated: 2024-08-23T21:35:46.193Z
+date: 2024-11-18T22:31:46.389Z
+updated: 2024-11-24T19:33:16.466Z
 tags:
   - windows10
   - windows11
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/1b6d7be592f2912a27c2919b7274dc65400897b1c
 
  So, how do you find your Windows 11's MAC address? Read on to find out.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Find Your Windows 11 PC's Wifi or Ethernet MAC Address From the Settings App
 
  The**Settings** app in Windows 11 is a massive upgrade in terms of usability and makes it easy to find a specific setting quickly. Here's how you can find your device’s MAC address via the Windows 11 Settings app:
@@ -31,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/1b6d7be592f2912a27c2919b7274dc65400897b1c
 3. Finally, select**Hardware properties** , and you will see the details of your network configuration.  
 ![wifi mac address win11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/wifi-mac-address.jpg)
 4. At the bottom of the page, look for the**Physical address (MAC)** to find your alphanumeric MAC address string.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Find Your Windows 11 MAC Address via the Command Prompt
 
@@ -45,9 +53,6 @@ thumbnail: https://thmb.techidaily.com/1b6d7be592f2912a27c2919b7274dc65400897b1c
 
  The Windows IP Configuration will show the network configuration details of Wifi, Ethernet, and any virtual machines you’ve set up. You can use the**Description** field to ensure you’re using the MAC address of the correct connection type.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Find the MAC Address of All Windows 11 Network Adapters
 
  Your Windows 11 system can have multiple MAC addresses for different connections. Wifi connections will have a separate MAC address from an Ethernet connection. Similarly, any VM or[VPN](https://www.makeuseof.com/tag/what-is-a-vpn-how-tunneling-works/) will use different network adapter IP configurations.
@@ -59,14 +64,11 @@ thumbnail: https://thmb.techidaily.com/1b6d7be592f2912a27c2919b7274dc65400897b1c
 3. Under**More settings** , select the tab titled**Hardware and connection properties** .  
 ![ipconfig of network adapters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/all-ipconfig.jpg)
 4. You can find the required network adapter from the list of displayed IP configurations through the**Description** field. The MAC address will be the alphanumeric string next to the**Physical address (MAC)** field.
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Determine the Network Adapter MAC Address Using Windows 11 Control Panel
 
  As mentioned previously, it’s possible to have multiple network adapters configured on your Windows PC. If you’d like to view all of the configured network adapters and find their specific MAC address, you can do so using the old-school Windows Control Panel:
@@ -74,31 +76,28 @@ The ultimate burning program for all your needs!</a>
 1. Navigate to **Start > Control Panel > Network and Internet > Network and Sharing Center** .  
 ![change adapter settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/change-adapter-settings.jpg)
 2. From the left menu, select**Change adapter settings** to view the list of configured network adapters.
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Double-click on a network adapter and click on**Details** .  
 ![all network adapters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/all-network-adapters.jpg)
 4. You will now find the IP configuration details for the selected network adapter. You can find the MAC address next to the**Physical Address** field.
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Can I Change the MAC Address on Windows 11?
 
  While it is possible to change the default MAC address of your Windows PC, device manufacturers strongly recommend against it as it can cause unexpected issues. Nevertheless, if you still want to change the MAC address of your device, make sure you’re aware of the possible implications before you get started.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -107,4 +106,16 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-simplifying-screen-views-during-google-meet-chats/"><u>[New] In 2024, Simplifying Screen Views During Google Meet Chats</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ing-success-navigating-youtube-statistics-with-social-blade-for-2024/"><u>Charting Success Navigating YouTube Statistics with Social Blade for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/deciding-on-your-first-ev-here-are-9-important-qandas-for-a-smart-choice/"><u>Deciding on Your First EV? Here Are 9 Important Q&As for a Smart Choice</u></a></li>
+<li><a href="https://windows11.techidaily.com/fine-tune-your-pointers-response-time-and-visibility-on-windows-11/"><u>Fine-Tune Your Pointer's Response Time and Visibility on Windows 11</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-pursuit-of-professional-clarity-unveiling-benqs-bl2711u-screen-tech-for-2024/"><u>In Pursuit of Professional Clarity Unveiling BenQ's BL2711U Screen Tech for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-for-bypassing-check-pin-error-in-windows-1110-bluetooth/"><u>Techniques for Bypassing Check Pin Error in Windows 11/10 Bluetooth</u></a></li>
+<li><a href="https://windows11.techidaily.com/transition-to-new-background-in-winterminal/"><u>Transition to New Background in WinTerminal</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-creative-potential-using-microsofts-ai-image-tool-for-distinctive-visuals/"><u>Unlocking Creative Potential: Using Microsoft's AI Image Tool for Distinctive Visuals</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-windows-wonders-creating-and-interpreting-reports/"><u>Unveiling Windows Wonders: Creating & Interpreting Reports</u></a></li>
+</ul></div>
 

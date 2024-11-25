@@ -1,7 +1,7 @@
 ---
 title: Navigating Complex Projects Using GitHub Desktop in Win 11
-date: 2024-10-25T17:03:16.700Z
-updated: 2024-10-30T17:24:45.710Z
+date: 2024-11-19T20:35:16.196Z
+updated: 2024-11-24T19:07:16.717Z
 tags:
   - windows10
   - windows11
@@ -34,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/89e14fb11e9e592fbd5c568e89cdfa2567dfefcd7
 
  All in all, GitHub Desktop helps you adapt the best practices for git through an easy-to-use interface allowing you to take version control of your projects to the next level.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Install GitHub Desktop on Windows
 
  GitHub Desktop is free to use and available on Windows, macOS, and Ubuntu. You can quickly install GitHub Desktop on Windows 10 and 11 as follows:
@@ -69,6 +62,10 @@ To add an existing GitHub account to GitHub Desktop:
 
  Now that you’ve configured GitHub Desktop on your Windows PC, you can use it in your daily workflow.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Clone a Repository Using GitHub Desktop on Windows
 
  GitHub Desktop lets you quickly clone a GitHub repository without using the command line. You can clone a project if you’ve been added as a collaborator or if it’s available as a public repo. If you haven’t already cloned a project repository, you can do so as follows:
@@ -77,18 +74,15 @@ To add an existing GitHub account to GitHub Desktop:
 ![clone repo using Github Desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clone-repo-1.jpg)
 2. Click on the**Add** dropdown and then select**Clone repository** .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. To clone a repo associated with your signed-in account, select**GitHub.com** or**GitHub Enterprise** based on your account type.
 4. Scroll to find the repo you want to clone and update the saved location if needed.
 5. Once you’re ready, select**Clone** to begin cloning the project.
 
 The project should then be accessible within the saved directory.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Create a Branch in GitHub Desktop
 
@@ -106,13 +100,6 @@ To create a branch in GitHub desktop:
 
  Similarly, if you want to switch to a different branch, select the**Current branch** dropdown and select the branch name you want to change to.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Commit Using GitHub Desktop on Windows
 
  Now that you’ve learned how to set up your project and create branches in GitHub Desktop let’s look at how you can commit code into your branch.
@@ -122,14 +109,16 @@ To create a branch in GitHub desktop:
 3. Make the necessary changes in your code and save the files.  
 ![commit code using Github desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/commit-code.jpg)
 4. Go back to GitHub Desktop, and you should see the changes you’ve made in the left pane.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Review your changes, and once you’re ready, enter a message with your commit in the text box of the left pane.
 6. Select the**Commit to** button to confirm your changes and commit code into your branch.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Push Code Using GitHub Desktop on Windows
@@ -137,6 +126,10 @@ To create a branch in GitHub desktop:
  Once you’ve committed code into your branch, the next step is to push your changes onto GitHub. You can then create a pull request and merge your changes into the main or master branch.
 
  To push code to GitHub to create a new pull request, choose the required project repository and branch in GitHub Desktop. Then select the**Publish branch** button or press the shortcut key**Ctrl + P** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Use GitHub Desktop to Simplify Your Workflow on Windows
 
@@ -157,18 +150,18 @@ To create a branch in GitHub desktop:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-how-to-make-a-thumbnail-for-your-youtube-free-easily/"><u>[New] In 2024, How to Make a Thumbnail for Your YouTube Free Easily!</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-leveraging-youtubes-community-how-to-find-and-create-collab-videos/"><u>[New] Leveraging YouTube's Community How to Find & Create Collab Videos</u></a></li>
-<li><a href="https://fox-that.techidaily.com/9-warning-symptoms-of-water-intrusion-in-iphones/"><u>9 Warning Symptoms of Water Intrusion in iPhones</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoiding-the-pitfalls-of-low-end-activation-codes-in-windows/"><u>Avoiding the Pitfalls of Low-End Activation Codes in Windows</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-undo-deletion-and-get-back-lost-emails-from-your-microsoft-outlook-inbox/"><u>How to Undo Deletion and Get Back Lost Emails From Your Microsoft Outlook Inbox</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-are-product-critiques-online-generated-income/"><u>In 2024, Are Product Critiques Online Generated Income?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-chromebook-restoration-steps-to-successfully-reboot-even-unresponsive-devices/"><u>Mastering the Art of Chromebook Restoration: Steps to Successfully Reboot Even Unresponsive Devices</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/maximizing-media-playback-techniques-for-coupling-a-fire-stick-to-any-projector-model/"><u>Maximizing Media Playback: Techniques for Coupling a Fire Stick to Any Projector Model</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2262180-9781501112232-music-and-mantras/"><u>Music and Mantras | Free Book</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-5-windows-pc-boosters-for-speed-and-efficiency/"><u>Top 5 Windows PC Boosters for Speed and Efficiency</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubling-phantom-taps-solutions-for-persistent-glitch-on-apple-watch-digital-trends/"><u>Troubling 'Phantom Taps': Solutions for Persistent Glitch on Apple Watch | Digital Trends</u></a></li>
-<li><a href="https://windows11.techidaily.com/unleashing-full-gpu-potential-in-windows-10-and-11-via-vram/"><u>Unleashing Full GPU Potential in Windows 10 & 11 via VRAM</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-desk-icons-clashing-find-harmony/"><u>Windows Desk Icons Clashing - Find Harmony!</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-staying-within-aspect-ratio-guidelines-for-youtube-style-tweeted-content/"><u>[Updated] 2024 Approved Staying Within Aspect Ratio Guidelines for YouTube-Style Tweeted Content</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-internal-screen-recording-huawei-mate-1020-and-p-series-devices-p20-p10-for-2024/"><u>[Updated] Internal Screen Recording Huawei Mate 10/20 & P Series Devices (P20, P10) for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/6-methods-for-reviving-windows-command-line-interface/"><u>6 Methods for Reviving Windows' Command Line Interface</u></a></li>
+<li><a href="https://windows11.techidaily.com/address-common-printer-glitches-in-windows-11/"><u>Address Common Printer Glitches in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoid-dual-defense-opt-for-single-antivirus-in-windows-systems/"><u>Avoid Dual Defense: Opt for Single Antivirus in Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-error-0xc00000f-by-implementing-proper-fixes/"><u>Avoiding Error 0xC00000F by Implementing Proper Fixes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/budget-friendly-cloud-pricing-showdown-for-2024/"><u>Budget-Friendly Cloud Pricing Showdown for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/download-the-best-free-gopro-playback-software-for-windowsmac-osx-today/"><u>Download the Best Free GoPro Playback Software for Windows/Mac OSX Today!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/get-the-most-from-your-investment-in-apple-music-a-five-step-guide-to-optimal-experience-and-savings/"><u>Get the Most From Your Investment in Apple Music: A Five-Step Guide to Optimal Experience and Savings</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-dismantle-spotlight-icons-in-win11/"><u>Guide to Dismantle Spotlight Icons in Win11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/recover-lost-windows-customizations-on-reboot/"><u>Recover Lost Windows Customizations on Reboot</u></a></li>
+<li><a href="https://win-premium.techidaily.com/unified-data-protection-aomei-united-backup-for-microsoft-exchange-servers/"><u>Unified Data Protection: AOMEI United Backup for Microsoft Exchange Servers</u></a></li>
 </ul></div>
 

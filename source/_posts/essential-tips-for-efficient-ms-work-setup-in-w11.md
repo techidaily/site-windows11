@@ -1,7 +1,7 @@
 ---
 title: Essential Tips for Efficient MS Work Setup in W11
-date: 2024-10-28T17:04:24.256Z
-updated: 2024-10-30T16:26:12.378Z
+date: 2024-11-24T02:56:27.433Z
+updated: 2024-11-24T21:20:43.777Z
 tags:
   - windows10
   - windows11
@@ -30,12 +30,22 @@ thumbnail: https://thmb.techidaily.com/0c4c453f95a612f76b387ff712305941e5398ae6d
 2. Click the **ISO IMAGE** download link.  
 ![The ISO Image download option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/iso-image.jpg)
 3. Double-click the **Microsoft Works 9.ISO** file and click **Open** if a Security Warning dialog box pops up.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Open option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/open-option.jpg)
 4. Then double-click the **Setup.exe** file for Microsoft Works 9\.
 5. Click **Next** inside the Microsoft Works setup window.
 6. Click **Create a desktop shortcut** to select that option.  
 ![The Install option for Microsoft Works](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-install-option.jpg)
 7. Select the **Install MS Works 9** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Click **Continue** to install other components.
 9. Then select **OK** on the dialog box that confirms MS Works is installed.
 
@@ -45,18 +55,15 @@ thumbnail: https://thmb.techidaily.com/0c4c453f95a612f76b387ff712305941e5398ae6d
 
 ![The Run this program as an administrator checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/run-this-program-as-administrator-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Getting Started With Microsoft Works 9
 
  You’ll see a Welcome to Microsoft Works window the first time you run the software. Select the **I Agree** option on that window to accept the license terms. You’ll also be asked about participating in a customer experience program. Click **No** to opt out of participation. Then press the **Finish** button to get stuck into Microsoft Works 9\.
 
 ![The I Agree radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/software-license-terms-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now you can get started utilizing the Microsoft Works 9 suite. A Microsoft Works window from which you can select to open the suite’s applications will open. You can launch the apps by clicking the **Works Word Processor**, **Database**, and **Spreadsheet** options in that window’s Quick Launch bar.
 
@@ -66,22 +73,12 @@ thumbnail: https://thmb.techidaily.com/0c4c453f95a612f76b387ff712305941e5398ae6d
 
 ![The Microsoft Works Calendar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/microsoft-works-calendar.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click the **Templates** tab at the top of Microsoft Works to access the pre-made templates. There you can select template categories for creating newsletters, flyers, cards, home budgeting, travel, and sports documents in Works. Then choose a template to open within the MS Works word processor, spreadsheet, or database software.
 
 ![The Templates tab in MS Works](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/templates-tab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Microsoft Works also has an interactive introductory tour for the suite. That tutorial provides details for utilizing the calendar, contacts, and templates within the Microsoft Works window. Click the **Quick Tour** option just above the **Calendar** tab to open it. Then click the **Next** compass points to go through the tour.
@@ -89,10 +86,7 @@ thumbnail: https://thmb.techidaily.com/0c4c453f95a612f76b387ff712305941e5398ae6d
 ![The Quick Tour window for MS Works](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-ms-works-tour.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Discover Microsoft Works 9 in the Modern Era
@@ -110,20 +104,22 @@ thumbnail: https://thmb.techidaily.com/0c4c453f95a612f76b387ff712305941e5398ae6d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-keep-your-videos-secure-youtube-to-mp4-downloading-safely/"><u>[Updated] Keep Your Videos Secure - YouTube-to-MP4 Downloading Safely</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/1725286610841-20245/"><u>提升画质效果：2024年5个最有力的方法与指南</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/combat-profiles-hitbox-vs-streamer-supremacy/"><u>Combat Profiles Hitbox vs Streamer Supremacy</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-the-missing-setup-on-windows-nvidia-display/"><u>Fixing the Missing Setup on Windows Nvidia Display</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-adjusting-windows-11s-safety-and-security-filter/"><u>Guide: Adjusting Windows 11'S Safety & Security Filter</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-nokia-105-classic-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Nokia 105 Classic to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-13-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 13 Data From iOS iCloud? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/immersive-soundwaves-dolby-atmos-in-windows-1011/"><u>Immersive Soundwaves: Dolby Atmos in Windows 10/11</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-radiance-hdr-examined-value-or-not/"><u>In 2024, Radiance HDR Examined Value or Not?</u></a></li>
-<li><a href="https://win-able.techidaily.com/maximizing-fps-using-your-graphics-card-with-cyberpunk-2077-on-windows-10-pcs/"><u>Maximizing FPS: Using Your Graphics Card with Cyberpunk 2077 on Windows 10 PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimize-virtualbox-install-handle-dependencies/"><u>Optimize VirtualBox Install: Handle Dependencies</u></a></li>
-<li><a href="https://fox-info.techidaily.com/premium-viewer-ultimate-video-quality-on-pcmobile/"><u>Premium Viewer Ultimate Video Quality on PC/Mobile</u></a></li>
-<li><a href="https://windows11.techidaily.com/swiftly-transform-heic-pics-to-jpeg-with-windows-11-tech/"><u>Swiftly Transform HEIC Pics to JPEG with Windows 11 Tech</u></a></li>
-<li><a href="https://windows11.techidaily.com/triumph-in-tpm-deactivation-on-windows-11/"><u>Triumph in TPM Deactivation on Windows 11</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/remium-online-platforms-for-video-intro-creation-for-2024/"><u>[New] Premium Online Platforms for Video Intro Creation for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-master-your-screen-time-discover-these-top-7-android-adblockers/"><u>[Updated] Master Your Screen Time Discover These Top 7 Android AdBlockers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-samsung-galaxy-s23-tactical-edition-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Samsung Galaxy S23 Tactical Edition to iPhone | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/brighten-up-a-step-by-step-guide-to-an-eye-catching-cursor/"><u>Brighten Up: A Step-by-Step Guide to an Eye-Catching Cursor</u></a></li>
+<li><a href="https://windows11.techidaily.com/choosing-wisely-windows-terminal-as-your-primary-cli/"><u>Choosing Wisely: Windows Terminal as Your Primary CLI</u></a></li>
+<li><a href="https://windows11.techidaily.com/decrypt-the-mystery-of-win11-blue-screen-with-11-hacks/"><u>Decrypt the Mystery of Win11 Blue Screen with 11 Hacks</u></a></li>
+<li><a href="https://windows11.techidaily.com/easing-into-windows-backup-restoration-procedures/"><u>Easing Into Windows Backup Restoration Procedures</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/easy-conversion-tips-for-turning-ifo-videos-into-mp4-on-windowsmacos-systems/"><u>Easy Conversion Tips for Turning IFO Videos Into MP4 on Windows/macOS Systems</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96316737-9781401920586-everything-you-need-to-know-to-feel-good/"><u>Everything You Need to Know to Feel Go(o)d | Free Book</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-grayed-out-memory-protection-in-win11-update/"><u>Fixing Grayed-Out Memory Protection in Win11 Update</u></a></li>
+<li><a href="https://article-tips.techidaily.com/from-novice-to-pro-the-ultimate-guide-to-gaming-with-kinemaster-app-for-2024/"><u>From Novice to Pro The Ultimate Guide to Gaming with KineMaster App for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-dropboxs-high-cpu-usage-on-windows/"><u>How to Fix Dropbox's High CPU Usage on Windows</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-top-strategies-efficiently-saving-rocket-league-matches/"><u>In 2024, Top Strategies Efficiently Saving Rocket League Matches</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-itel-s23plus-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Itel S23+ Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/learn-to-handle-text-emphasis-on-windows-11/"><u>Learn to Handle Text Emphasis on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-the-power-of-your-keyboard-for-app-dimension-control-in-win11/"><u>Unlock the Power of Your Keyboard for App Dimension Control in Win11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unzip-and-install-asus-bluetooth-40-driver/"><u>Unzip & Install Asus Bluetooth 4.0 Driver</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering PowerShell: Clearing Blocked Files in Windows"
-date: 2024-11-11T17:11:48.531Z
-updated: 2024-11-15T16:20:20.301Z
+date: 2024-11-20T23:52:16.070Z
+updated: 2024-11-24T23:21:05.497Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/3bbe537e8e6d43ee38a009c5ba9253564dbe37ab4
 
 ![unblocking a file in Properties on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/unblock-file-properties-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  But what if you have more than one file you need to unblock? Doing this one by one can get tedious. Alternatively, you can execute a single PowerShell command to unblock multiple files in a directory. Here is the command structure you need to use:
 
 `dir [path] | unblock-file -confirm`
@@ -37,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/3bbe537e8e6d43ee38a009c5ba9253564dbe37ab4
 
 ![copying file path on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/copy-as-path-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  With the file path handy, follow the instructions below to use the unblock command in PowerShell:
 
 1. Press**Win + S** to open Windows Search.
@@ -44,15 +52,21 @@ thumbnail: https://thmb.techidaily.com/3bbe537e8e6d43ee38a009c5ba9253564dbe37ab4
 3. Enter the unblock command in PowerShell and hit the**Enter** key to run it. This is what it looks like on our computer:  
 ![entering the unblock file command in PowerShell on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/power-shell-unblock-files-command.jpg)
 4. You will be asked to confirm each file you want to unblock, so type either**Y** for**Yes** or**N** for**No** and hit the**Enter** key. This confirmation step is due to the**\-confirm** portion of the command. It is completely optional, and you can omit it or type**A** to confirm all the files in the directory.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![confirming files to unblock in PowerShell on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/power-shell-unblock-files-confirm.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  There’s a way you can tell Windows to always trust files you download from the internet. To do that, please read our guide on[how to stop Windows 10 from blocking your downloaded files](https://www.makeuseof.com/stop-windows-10-from-blocking-your-downloaded-files/) . The instructions in the tutorial use the Registry Editor and Local Group Policy Editor, so they should also work on Windows 11.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Now You Know How to Unblock Files You Know Are Safe
@@ -74,22 +88,24 @@ thumbnail: https://thmb.techidaily.com/3bbe537e8e6d43ee38a009c5ba9253564dbe37ab4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-global-industrys-biggest-uav-lifters-the-ultimate-list/"><u>[New] Global Industry's Biggest UAV Lifters The Ultimate List</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-cutting-down-video-lengths-the-ultimate-mac-guide-for-insta/"><u>2024 Approved Cutting Down Video Lengths The Ultimate Mac Guide for Insta</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-guide-sharing-your-creations-with-ease-a-step-by-step-instagram-posting-tutorial/"><u>Complete Guide: Sharing Your Creations with Ease - A Step-by-Step Instagram Posting Tutorial</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-googles-ar-sticker-innovation-an-inside-look-and-alternatives/"><u>In 2024, Google's AR Sticker Innovation An Inside Look & Alternatives</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-streamlabs-competitors-in-the-livestream-arena/"><u>In 2024, Streamlabs' Competitors in the Livestream Arena</u></a></li>
-<li><a href="https://windows11.techidaily.com/lost-features-a-step-by-step-guide-to-find-windows-11s-enhancement/"><u>Lost Features? A Step-by-Step Guide to Find Windows 11'S Enhancement</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-elevate-your-storytelling-a-guide-to-making-videos-with-photos-and-music/"><u>New Elevate Your Storytelling A Guide to Making Videos with Photos and Music</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-failed-task-runner-in-windows/"><u>Overcoming Failed Task Runner in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-microsofts-dism-hurdle-code-0x800f082f/"><u>Overcoming Microsoft's DISM Hurdle: Code 0X800F082F</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-solution-fixing-try-connecting-your-device-on-win-11/"><u>Quick Solution: Fixing 'Try Connecting Your Device' On Win 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/reinstating-default-organization-of-windows-files/"><u>Reinstating Default Organization of Windows Files</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/synergizing-brands-on-video-platforms-for-2024/"><u>Synergizing Brands on Video Platforms for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-ultimate-guide-opening-windows-stubborn-folders-on-double-click/"><u>The Ultimate Guide: Opening Windows' Stubborn Folders on Double-Click</u></a></li>
-<li><a href="https://windows11.techidaily.com/turning-offlight-on-notepadwindows/"><u>Turning Offlight On NotepadWindows</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/uniting-the-world-of-learning-betts-mission/"><u>Uniting the World of Learning - BETT's Mission</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unlock-the-secrets-to-building-utopian-metropolises-with-cities-skylines-reviewed/"><u>Unlock the Secrets to Building Utopian Metropolises with Cities: Skylines Reviewed!</u></a></li>
-<li><a href="https://windows11.techidaily.com/unraveling-the-puzzle-of-windows-subsystem-for-linux-error-4294967295/"><u>Unraveling the Puzzle of Windows Subsystem for Linux Error 4294967295</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-high-definition-excellence-leading-the-recording-race/"><u>[Updated] High Definition Excellence Leading the Recording Race</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-master-commanders-unleashed-ranking-7-total-war-champions-for-2024/"><u>[Updated] Master Commanders Unleashed Ranking 7 Total War Champions for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-racing-hearts-22-short-track-triumph-for-2024/"><u>[Updated] Racing Hearts '22 Short-Track Triumph for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-your-life-your-legacy-youtube-videos-that-matter-for-2024/"><u>[Updated] Your Life, Your Legacy YouTube Videos That Matter. For 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-ff-insider-capture-features/"><u>2024 Approved FF Insider Capture Features</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-windows-11-stumbling-blocks-the-most-crucial-tips/"><u>Avoiding Windows 11 Stumbling Blocks: The Most Crucial Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/breaking-down-error-code-x80131500-at-store/"><u>Breaking Down Error Code: X80131500 at Store</u></a></li>
+<li><a href="https://windows11.techidaily.com/digital-dream-team-top-windows-apps-for-a-winning-start/"><u>Digital Dream Team: Top Windows Apps for a Winning Start</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-clutter-software-uninstallation-tricks-for-windows-11-106-chars/"><u>Eliminating Clutter: Software Uninstallation Tricks for Windows 11 (106 Chars)</u></a></li>
+<li><a href="https://windows11.techidaily.com/get-ahead-in-passwords-7-best-free-generation-tools-for-windows/"><u>Get Ahead in Passwords: 7 Best Free Generation Tools for Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-unresponsiveness-in-your-rust-projects-key-insights-and-solutions-for-developers/"><u>Overcoming Unresponsiveness in Your Rust Projects: Key Insights & Solutions for Developers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/simple-guide-to-converting-your-dvds-to-mkv-format-in-windows-11-and-10/"><u>Simple Guide to Converting Your DVDs to MKV Format in Windows 11 & 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-to-unblock-application-packages-on-windows-servers/"><u>Techniques to Unblock Application Packages on Windows Servers</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-nokia-c210-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/understanding-page-cannot-be-displayed-errors-and-how-to-fix-them/"><u>Understanding 'Page Cannot Be Displayed' Errors and How To Fix Them</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/unleash-the-power-of-engaging-headline-crafting/"><u>Unleash the Power of Engaging Headline Crafting</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-power-of-dism-in-win11-image-management/"><u>Unveiling the Power of Dism in Win11 Image Management</u></a></li>
+<li><a href="https://windows11.techidaily.com/why-task-managers-feature-extras-under-edge/"><u>Why Task Managers Feature Extras Under Edge?</u></a></li>
+<li><a href="https://windows11.techidaily.com/zeroing-out-bloatware-windows-11-edition/"><u>Zeroing Out Bloatware: Windows 11 Edition</u></a></li>
 </ul></div>
 

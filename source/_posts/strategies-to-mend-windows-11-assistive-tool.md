@@ -1,7 +1,7 @@
 ---
 title: Strategies to Mend Windows 11 Assistive Tool
-date: 2024-11-11T17:26:49.632Z
-updated: 2024-11-15T17:01:14.746Z
+date: 2024-11-18T16:43:18.778Z
+updated: 2024-11-25T02:15:50.824Z
 tags:
   - windows10
   - windows11
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 
  Note that these fixes can't help you if your issue is serious. In that case, try the following troubleshooting methods.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Repair or Reset the Get Help App
 
  In some situations, the Get Help app may be corrupt. For example, if your computer is infected by malware, it may force some Windows apps to malfunction. If this is your case, please first [disinfect your Windows computer](https://www.makeuseof.com/best-malware-removal-tools-pc/).
@@ -48,10 +52,7 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 3. Search for **Get Help** in the list of apps and click on the three-dot menu. Then click on **Advanced options**.  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Get Help In Installed Apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-help-in-installed-apps.jpg)
@@ -60,13 +61,6 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 ![Get Help Repair Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-help-repair-option.jpg)
 
  Here's the best part: This process isn't exclusive to the Get Help app. So, you can also apply the above steps to other malfunctioning Windows apps
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Troubleshoot Network-Related Issues
 
@@ -78,13 +72,6 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 * Connecting to a different network, as specific network configurations might disrupt certain apps.
 * Contacting your Internet Service Provider (ISP) to inquire about potential network maintenance.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Disable VPN or Proxy Temporarily
 
  If you're still facing issues with the Get Help app, it seems to be due to your VPN or proxy configuration. You can disable your connected VPN or proxy for a quick test.
@@ -95,11 +82,19 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 ![VPN Settings Search Results](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/vpn-settings-search-results.jpg)
 2. Choose the **Disconnect** button to turn off the VPN.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Similarly, you must [temporarily disable your proxy](https://www.makeuseof.com/windows-11-disable-proxy/) to troubleshoot the cause of your Get Help failing to work.
 
  Remember to re-enable your VPN or proxy once you're done to ensure your online activities remain private and secure.
 
  Now you can open the Get Help app and check whether the content loads correctly. Try the following troubleshooting method if the Get Help app still displays a blank screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Restart Windows Services
 
@@ -116,13 +111,6 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 ![Diagnostic Policy Service Restart Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/diagnostic-policy-service-restart-option.jpg)
 5. Similarly, repeat the steps to restart the **Windows Management Instrumentation** service.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Install the Microsoft Edge WebView2 Runtime
 
  You may not know that the Get Help app is not a full-fledged Windows app. Instead, it's a simple web app that displays the in-app content from Microsoft's server. For this, the app uses something called Microsoft Edge WebView.
@@ -136,9 +124,17 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 ![Microsoft Edge Developer Site Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/microsoft-edge-developer-site-screenshot.jpg)
 3. Once you download the setup file, run it and follow the instructions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. After installing the Microsoft Edge WebView2 Runtime, check if the Get Help app functions correctly.
 
  If you see an error saying "**Setup failed**," "please re-download the correct version again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Uninstall and Reinstall the Get Help App
 
@@ -149,13 +145,6 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 ![Get Help In Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-help-in-store.jpg)
 
  A fresh installation should resolve all the issues with the app. And now, you can go back to troubleshooting without any hassle.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## No More Blank Screen in the Get Help App
 
@@ -175,24 +164,24 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-the-ultimate-guide-to-selecting-screen-recorder-software/"><u>[New] 2024 Approved The Ultimate Guide to Selecting Screen Recorder Software</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-best-practice-mp4-director-to-fb/"><u>[New] In 2024, Best Practice MP4 Director to FB</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-gamers-edition-obs-studio-streaming/"><u>[Updated] 2024 Approved Gamers' Edition OBS Studio Streaming</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-top-30-whatsapp-biographies-for-every-astrology-follower/"><u>[Updated] Top 30 WhatsApp Biographies for Every Astrology Follower</u></a></li>
-<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-motorola-moto-g14-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Motorola Moto G14</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/discovering-the-hidden-truth-behind-youtubes-viewer-numbers-for-2024/"><u>Discovering the Hidden Truth Behind YouTube's Viewer Numbers for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-guide-to-installing-and-enhancing-your-epson-ds-510-printer-with-the-latest-windows-driver-updates/"><u>Easy Guide to Installing and Enhancing Your Epson DS-510 Printer with the Latest Windows Driver Updates</u></a></li>
-<li><a href="https://media-tips.techidaily.com/enhance-watch-time-by-controlling-plex-video-speed-settings-easily/"><u>Enhance Watch Time by Controlling Plex Video Speed Settings Easily!</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-webcam-camera-error-code-0xa00f4289-in-windows-11-and-11/"><u>How to Fix the Webcam Camera Error Code 0xA00F4289 in Windows 11 & 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-maximize-your-windows-11-understanding-copilot-key-benefits/"><u>How to Maximize Your Windows 11: Understanding Copilot Key Benefits</u></a></li>
-<li><a href="https://windows11.techidaily.com/interpreting-complex-group-policies-on-windows-in-three-phases/"><u>Interpreting Complex Group Policies on Windows in Three Phases</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-configuration-your-journey-with-w11-and-pc-manager/"><u>Mastering Configuration: Your Journey With W11 & PC Manager</u></a></li>
-<li><a href="https://windows11.techidaily.com/non-edge-processes-and-their-role-in-tasking/"><u>Non-Edge Processes and Their Role in Tasking</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-steam-stream-disconnects-on-pc/"><u>Overcoming Steam Stream Disconnects on PC</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/pioneering-reviews-at-toms-components-and-systems/"><u>Pioneering Reviews at Tom's Components and Systems</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/rapid-clip-maker-with-preloaded-narration-option/"><u>Rapid Clip Maker with Preloaded Narration Option</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-the-error-roblox-inaccessible-due-to-user-configuration/"><u>Resolving the Error: Roblox Inaccessible Due to User Configuration</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-unopened-shares-in-geforce-for-w10w11-users/"><u>Resolving Unopened Shares in GeForce for W10/W11 Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/seamless-setup-of-microsoft-works-on-windows-10-and-11/"><u>Seamless Setup of Microsoft Works on WIndows 10 and 11</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-speed-dial-for-vimeo-video-loading-for-2024/"><u>[New] Speed Dial for Vimeo Video Loading for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-dominating-discussion-topics-in-the-social-space/"><u>[Updated] 2024 Approved Dominating Discussion Topics in the Social Space</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-how-will-instagrams-algorithm-update-transform-feeds/"><u>[Updated] 2024 Approved How Will Instagram’s Algorithm Update Transform Feeds?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-the-complete-handbook-for-capturing-and-organizing-skype-call-data/"><u>[Updated] 2024 Approved The Complete Handbook for Capturing and Organizing Skype Call Data</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-add-custom-youtube-shorts-thumbnails-effortlessly/"><u>[Updated] How to Add Custom YouTube Shorts Thumbnails Effortlessly</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-optimal-android-apps-for-clear-screen-recordings/"><u>[Updated] Optimal Android Apps for Clear Screen Recordings</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-smooth-operations-boosting-memory-allocation-to-minecraft/"><u>2024 Approved Smooth Operations Boosting Memory Allocation to Minecraft</u></a></li>
+<li><a href="https://windows11.techidaily.com/3-ways-to-adjust-the-mouse-double-click-speed-on-windows/"><u>3 Ways to Adjust the Mouse Double-Click Speed on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/activatedeactivate-smartscreen-filter-on-windows-11/"><u>Activate/Deactivate SmartScreen Filter on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphering-error-messages-post-installed-application-failure/"><u>Deciphering Error Messages Post Installed Application Failure</u></a></li>
+<li><a href="https://facebook.techidaily.com/gaining-control-integrate-key-admins-into-your-pages/"><u>Gaining Control: Integrate Key Admins Into Your Pages</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-rectify-cannot-link-with-nvidia-in-windows-11/"><u>How to Rectify Cannot Link with NVIDIA in Windows 11</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-poco-c51-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Poco C51</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On OnePlus Nord CE 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/inside-look-how-to-reach-windowsstore-folder/"><u>Inside Look: How To Reach WindowsStore Folder</u></a></li>
+<li><a href="https://windows11.techidaily.com/method-for-icon-position-restoration-in-windows/"><u>Method for Icon Position Restoration in WIndows</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-error-windows-welcome-cant-read-fingers/"><u>Tackling Error: Windows Welcome Can't Read Fingers</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-best-way-to-setup-games-on-the-windows-xbox-app/"><u>The Best Way to Setup Games on the Windows Xbox App</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-powertoys-worldwide-mouse-capabilities/"><u>Unlock PowerToy's Worldwide Mouse Capabilities</u></a></li>
 </ul></div>
 

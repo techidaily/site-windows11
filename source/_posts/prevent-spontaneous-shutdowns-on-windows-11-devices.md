@@ -1,7 +1,7 @@
 ---
 title: Prevent Spontaneous Shutdowns on Windows 11 Devices
-date: 2024-10-28T17:17:02.615Z
-updated: 2024-10-30T17:25:13.975Z
+date: 2024-11-20T01:31:50.134Z
+updated: 2024-11-24T20:52:47.377Z
 tags:
   - windows10
   - windows11
@@ -26,14 +26,11 @@ thumbnail: https://thmb.techidaily.com/fa8cb6ca311af8694c1fd2b592b0789e69f633792
 
 ![Update Windows 11 to the latest version available](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/update-windows-1.jpg)
 
- If there’s a new version available, Windows will display the **Updates available to download** message. In this case, click **Download now**.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If there’s a new version available, Windows will display the **Updates available to download** message. In this case, click **Download now**.
 
 ## 2\. Run the System Maintenance Troubleshooter
 
@@ -50,22 +47,23 @@ thumbnail: https://thmb.techidaily.com/fa8cb6ca311af8694c1fd2b592b0789e69f633792
 
 ![Run System Maintenance troubleshooter in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/system-maintenance-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Perform Some Generic Windows-Based Fixes
 
  Whenever something goes awry with Windows, there are always a few tricks you can try to see if they fix it. These include:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Scan Your System for Malware
 
  If the shutdown box constantly popping up isn’t the only issue you’re dealing with, you might be dealing with a malware infestation.
 
  The good news is that you don’t need a third-party antivirus to fix the issue. You could [remove malware using Microsoft Defender’s offline scan](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Run an SFC and DISM Scan
 
@@ -74,10 +72,7 @@ thumbnail: https://thmb.techidaily.com/fa8cb6ca311af8694c1fd2b592b0789e69f633792
 ![Run SFC scan in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sfc-scan-1-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Start Windows in Safe Mode
@@ -87,10 +82,7 @@ thumbnail: https://thmb.techidaily.com/fa8cb6ca311af8694c1fd2b592b0789e69f633792
  If you no longer encounter the same issue while in Safe Mode, you should check the list of installed apps and remove the problematic one.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix the Windows Shutdown Box Appearing By Itself
@@ -110,16 +102,17 @@ thumbnail: https://thmb.techidaily.com/fa8cb6ca311af8694c1fd2b592b0789e69f633792
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-professional-screencapture-for-windows-11/"><u>[New] 2024 Approved Professional ScreenCapture for Windows 11</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-transforming-discord-chats-into-lasting-memories/"><u>[Updated] 2024 Approved Transforming Discord Chats Into Lasting Memories</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-unlock-your-potential-with-these-leading-cost-free-editions/"><u>2024 Approved Unlock Your Potential with These Leading Cost-Free Editions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-the-impact-of-shape-on-ml-transparency/"><u>Decoding the Impact of ShapE on ML Transparency</u></a></li>
-<li><a href="https://windows11.techidaily.com/hacked-scans-halt-evaluating-windows-biometric-security-now/"><u>Hacked Scans Halt: Evaluating Window's Biometric Security Now</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-zte-blade-a73-5g-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 ZTE Blade A73 5G Android SIM Unlock APK</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-gpresult-creating-gpo-reports-effortlessly/"><u>Mastering GPResult: Creating GPO Reports Effortlessly</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-setup-snags-clipchamp-on-the-latest-of-windows-11/"><u>Overcoming Setup Snags: ClipChamp on the Latest of Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/reinstating-absent-system-temperature-policy-on-windows/"><u>Reinstating Absent System Temperature Policy on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/set-up-wi-fi-cost-meter-on-windows-11/"><u>Set Up Wi-Fi Cost Meter on Windows 11</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/surging-up-the-search-results-with-effective-podcast-seo-for-2024/"><u>Surging Up the Search Results with Effective Podcast SEO for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-key-concepts-in-image-manipulation/"><u>[New] Key Concepts in Image Manipulation</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-unmatched-subtitle-expertise-top-10-leaders-in-video-caption-manipulation/"><u>[New] Unmatched Subtitle Expertise – Top 10 Leaders in Video Caption Manipulation</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-financial-scale-of-mr-beast/"><u>[Updated] The Financial Scale of Mr. Beast</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-the-hidden-costs-of-youtube-earning/"><u>2024 Approved The Hidden Costs of YouTube Earning</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/3-dominant-platforms-for-seamless-multilingual-education/"><u>3 Dominant Platforms for Seamless Multilingual Education</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-nubia-z50-ultra-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Nubia Z50 Ultra to iPhone | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-capture-engaging-shots-using-strategic-leading-lines-iphone/"><u>In 2024, Capture Engaging Shots Using Strategic Leading Lines (iPhone)</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-windows-security-entry-error/"><u>Navigating Through Windows 'Security Entry Error'</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-camera-app-malfunctions-windows-0xa00f429f-error/"><u>Overcoming Camera App Malfunctions: Windows' 0XA00F429F Error</u></a></li>
+<li><a href="https://windows11.techidaily.com/quelling-overzealousness-after-a-peak-life-period-on-windows/"><u>Quelling Overzealousness After a Peak Life Period on Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-oppo-reno-8t-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Oppo Reno 8T</u></a></li>
+<li><a href="https://windows11.techidaily.com/revive-lost-control-secrets-for-steam-in-windows/"><u>Revive Lost Control: Secrets for Steam in Windows</u></a></li>
 </ul></div>
 

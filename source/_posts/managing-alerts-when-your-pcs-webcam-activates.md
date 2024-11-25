@@ -1,7 +1,7 @@
 ---
 title: Managing Alerts When Your PC's WebCam Activates
-date: 2024-10-26T17:19:54.778Z
-updated: 2024-10-30T16:27:05.601Z
+date: 2024-11-18T01:31:20.951Z
+updated: 2024-11-25T02:24:01.632Z
 tags:
   - windows10
   - windows11
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/b0c789775642f2ac1a082c3710ec3e71a5c2db920
 
  The good news is that you can have Windows 11 display a desktop notification to let you know whether your camera is turned on or off.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Turn On Camera On and Off Notifications
 
  You need administrative rights to turn on camera notifications. So, if you’re using a local account, check out[how to switch to an account with administrative rights on Windows 11](https://www.makeuseof.com/windows-11-switch-user-accounts/) . Then, follow these steps to edit the Registry Editor:
@@ -35,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/b0c789775642f2ac1a082c3710ec3e71a5c2db920
 
 ![Enable camera notifications in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/notify-camera-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the**NoPhysicalCameraLED** value is missing, you can create it. Right-click on the empty space in the right pane, and click**New > Dword(32-bit) value** . Set its name and**Value data** to**1** . Then, save the new changes and restart your computer for the changes to take place.
 
  Changing the value to**1** doesn’t impact your camera LED. It will still light up every time you access the camera. If you want to revert the change, go through the above instructions again and set**Value data** to**0** .
@@ -42,10 +50,7 @@ thumbnail: https://thmb.techidaily.com/b0c789775642f2ac1a082c3710ec3e71a5c2db920
  Once your computer boots up access the camera and test if Windows is showing the camera notification.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Check Camera History
@@ -55,10 +60,7 @@ thumbnail: https://thmb.techidaily.com/b0c789775642f2ac1a082c3710ec3e71a5c2db920
  Also, it might be worth it to take a look at your Privacy settings and[check which apps can access your camera](https://www.makeuseof.com/how-to-change-app-permissions-in-windows-10/) .
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Know When Your Camera Starts on Windows
@@ -80,20 +82,18 @@ thumbnail: https://thmb.techidaily.com/b0c789775642f2ac1a082c3710ec3e71a5c2db920
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-10-facts-about-instagram-reels-the-truth-you-may-ignore/"><u>[New] In 2024, 10 Facts About Instagram Reels-The Truth You May Ignore</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-ultimate-brainiac-challenge-gk-quizzes/"><u>[New] Ultimate Brainiac Challenge - GK Quizzes</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-streamlining-your-screen-share-experience-with-meet/"><u>[Updated] Streamlining Your Screen Share Experience with Meet</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mememirth-your-joy-jolt-app/"><u>2024 Approved MemeMirth Your Joy Jolt App</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/building-blocks-of-virtual-experience-terminology/"><u>Building Blocks of Virtual Experience Terminology</u></a></li>
-<li><a href="https://windows11.techidaily.com/decisive-actions-for-dictating-a-successful-window-update/"><u>Decisive Actions for Dictating a Successful Window Update</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-achieve-unified-fileset-in-two-windows-pcs-via-aoemi/"><u>How to Achieve Unified Fileset in Two Windows PCs via AOEMi</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-performance-monitor-not-working-on-windows/"><u>How to Fix the Performance Monitor Not Working on Windows</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-review-of-the-twelve-south-bookbook-v2-the-ultimate-protection-for-your-macbook/"><u>In-Depth Review of the Twelve South BookBook v2 - The Ultimate Protection for Your MacBook</u></a></li>
-<li><a href="https://windows11.techidaily.com/longer-is-stronger-securing-devices-with-extended-windows-11-pins/"><u>Longer Is Stronger: Securing Devices with Extended Windows 11 Pins</u></a></li>
-<li><a href="https://windows11.techidaily.com/maximize-time-management-on-pc-choose-from-these-5-exciting-windows-clock-saver-apps/"><u>Maximize Time Management on PC: Choose From These 5 Exciting Windows Clock Saver Apps</u></a></li>
-<li><a href="https://windows11.techidaily.com/supercharge-utorrent-downloads-elevate-your-file-speed/"><u>Supercharge uTorrent Downloads, Elevate Your File Speed</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-winpcs-fatal-pink-flash/"><u>Troubleshooting WinPC's Fatal Pink Flash</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-ftdibussys-windows-memory-integrity-hurdle/"><u>Unveiling ftdibus.sys: Windows' Memory Integrity Hurdle</u></a></li>
-<li><a href="https://facebook.techidaily.com/when-to-flip-the-friend-switch-on-facebook-insights-and-strategies/"><u>When to Flip the Friend Switch on Facebook: Insights and Strategies</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-efficient-screen-capture-devices-for-education/"><u>[New] In 2024, Efficient Screen Capture Devices for Education</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-unwinding-on-your-device-easy-phone-games-for-2024/"><u>[New] Unwinding on Your Device Easy Phone Games for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-huawei-p60-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Huawei P60 Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/best-android-apps-for-windows-computer-enthusiasts/"><u>Best Android Apps for Windows Computer Enthusiasts</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/complete-tutorial-on-recording-powerpoint-presentations-including-sound-and-visuals/"><u>Complete Tutorial on Recording PowerPoint Presentations Including Sound and Visuals</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/crafting-visual-stories-for-successful-fb-covers-for-2024/"><u>Crafting Visual Stories for Successful FB Covers for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/descargue-la-herramienta-online-de-conversion-gratuita-para-cambiar-imagenes-pbm-a-formatos-bmp-con-eficiencia-movavi/"><u>Descargue La Herramienta Online De Conversión Gratuita Para Cambiar Imágenes PBM a Formatos BMP Con Eficiencia - Movavi</u></a></li>
+<li><a href="https://windows11.techidaily.com/effective-solutions-to-the-display-startup-failure-issue/"><u>Effective Solutions to the “Display Startup Failure” Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/getting-ahead-with-vivetool-on-windows-future-features/"><u>Getting Ahead with ViVeTool on Windows: Future Features</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Vivo X Flip? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/shedding-windows-history-lightly-with-these-triads/"><u>Shedding Windows History Lightly with These Triads</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-restoring-bluetooth-visibility-win/"><u>Steps for Restoring Bluetooth Visibility WIN</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-at-win-11-games-easy-steps-for-enhancing-fun-and-performance/"><u>Winning at Win 11 Games: Easy Steps for Enhancing Fun and Performance</u></a></li>
 </ul></div>
 

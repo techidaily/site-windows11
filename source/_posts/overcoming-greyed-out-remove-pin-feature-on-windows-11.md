@@ -1,7 +1,7 @@
 ---
 title: Overcoming Greyed-Out Remove PIN Feature on Windows 11
-date: 2024-11-12T17:34:51.976Z
-updated: 2024-11-15T16:47:59.276Z
+date: 2024-11-19T01:33:06.610Z
+updated: 2024-11-25T02:00:37.894Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/8467c9e20d909c3a99e5604c440b3f79e42d4e9a9
 
 ![Fingerprint key on a laptop keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Ways-to-Fix-Windows-Hello-Fingerprint-Not-Working-In-Windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In Windows 11, you can enable Windows Hello sign-in for Microsoft account to force users to use their PIN to log in. While a handy feature, for security reasons, it also disables the Remove PIN option for the device. To restore the Remove PIN option, you must disable the Windows Hello sign-in requirement. Here's how to do it.
 
 1. Press**Win + I** to open**Settings** .
@@ -39,10 +43,7 @@ thumbnail: https://thmb.techidaily.com/8467c9e20d909c3a99e5604c440b3f79e42d4e9a9
 6. With the option disabled, you can now remove PIN for Windows 11.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Remove the PIN Using the I Forgot My PIN Window
@@ -67,6 +68,10 @@ To remove PIN using forgot my PIN:
 ![close your account requires windows hello pin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/close-your-account-requires-windows-hello-pin.jpg)
 8. Next, click the**Close** button to exit the**Your account requires a Windows Hello PIN** dialog.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 That's it! You have successfully removed the Windows Hello PIN.
 
 ## 3\. Turn Off the Passwordless Login Feature for Your Microsoft Account
@@ -78,19 +83,16 @@ That's it! You have successfully removed the Windows Hello PIN.
 ![windows 11 account manage my accounts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-account-manage-my-accounts.jpg)
 3. Scroll down to the**Related setting** s section and click on**Accounts** (Manage my account). This will open the Microsoft account security page online.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Sign in to your Microsoft account.
 5. Next, open the**Security** tab.
 
 1. Click on**Advanced security options** .  
 ![microsoft account advanced security options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/microsoft-account-advanced-security-options.jpg)
 2. Now scroll down to the**Additional security** section.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![additional security turn off passwordless account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/additional-security-turn-off-passwordless-account.jpg)
 3. Click on**Turn Off** for**Passwordless account.**
@@ -102,13 +104,6 @@ That's it! You have successfully removed the Windows Hello PIN.
 
 ![windows 11 remove pin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-remove-pin.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once the option is restored, follow these steps to remove Windows Hello PIN from the Settings app:
 
 1. Press**Win + I** to open**Settings** .
@@ -119,10 +114,7 @@ That's it! You have successfully removed the Windows Hello PIN.
 6. Enter your account password and click OK to remove the PIN.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix the Grayed-Out Remove PIN Option
@@ -144,15 +136,20 @@ That's it! You have successfully removed the Windows Hello PIN.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-top-10-easy-to-use-drones-kids-edition/"><u>[New] Top 10 Easy-to-Use Drones - Kids Edition</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-xiaomi-civi-3-disney-100th-anniversary-edition-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Xiaomi Civi 3 Disney 100th Anniversary Edition Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/beyond-chatgpt-the-next-wave-in-generative-ai-and-conversational-bots/"><u>Beyond ChatGPT: The Next Wave in Generative AI and Conversational Bots</u></a></li>
-<li><a href="https://win-online.techidaily.com/focus-t25-dvd/"><u>FOCUS T25エクササイズ DVD リッピングテクニック - 詳しい手順とヒント</u></a></li>
-<li><a href="https://windows11.techidaily.com/powertoys-lockmaster-a-compreayers-guide-to-files/"><u>PowerToys Lockmaster: A Compreayer's Guide to Files</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-access-errors-with-epic-launcher/"><u>Resolving Access Errors with Epic Launcher</u></a></li>
-<li><a href="https://windows11.techidaily.com/team-chat-freezing-heres-a-fix/"><u>Team Chat Freezing? Here’s a Fix</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshoot-no-display-on-pc-startup/"><u>Troubleshoot No-Display on PC Startup</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-resolving-persistent-outlook-app-failures/"><u>Troubleshooting Tips: Resolving Persistent Outlook App Failures</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unveiling-secrets-low-light-iphone-photography/"><u>Unveiling Secrets Low Light iPhone Photography</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flipping-scripts-generating-parody-content/"><u>[New] In 2024, Flipping Scripts Generating Parody Content</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/he-frugal-filmmakers-choice-best-cameras-at-low-costs-for-2024/"><u>[New] The Frugal Filmmaker's Choice Best Cameras at Low Costs for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-virtualbox-0x80004005-failure-on-windows-pcs/"><u>Addressing VirtualBox 0X80004005 Failure on Windows PCs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/comerror-resolved-windows-system-update/"><u>COMError Resolved: Windows System Update</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/evaluating-visual-dynamics-the-power-of-luminances-hdr-for-2024/"><u>Evaluating Visual Dynamics The Power of Luminance's HDR for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-capturing-change-time-lapse-on-samsung-smartphones/"><u>In 2024, Capturing Change Time-Lapse on Samsung Smartphones</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-0xc0000142-problems-on-win11win7/"><u>Overcoming 0XC0000142 Problems on Win11/Win7</u></a></li>
+<li><a href="https://facebook.techidaily.com/peek-into-facebook-bonds-history-of-connections/"><u>Peek Into Facebook Bonds: History of Connections</u></a></li>
+<li><a href="https://games-able.techidaily.com/real-vs-fake-the-tale-of-buzzed-gamer-ads/"><u>Real vs Fake: The Tale of Buzzed Gamer Ads</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-microsoft-store-issues-error-code-0x80072f17-fix/"><u>Resolving Microsoft Store Issues: Error Code 0X80072f17 Fix</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-how-to-fix-a-stalled-discord-live-broadcast/"><u>Solution: How to Fix a Stalled Discord Live Broadcast</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-value-not-found-error-message-in-windows-setups/"><u>Solving 'Value Not Found' Error Message in Windows Setups</u></a></li>
+<li><a href="https://windows11.techidaily.com/strip-onedrive-of-microsoft-id-integration-in-windows/"><u>Strip OneDrive of Microsoft ID Integration in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-pathway-for-effortless-changes-of-file-extensions/"><u>The Pathway for Effortless Changes of File Extensions</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-update-codes-and-version-names-in-windows/"><u>Understanding Update Codes and Version Names in WINDOWS</u></a></li>
 </ul></div>
 

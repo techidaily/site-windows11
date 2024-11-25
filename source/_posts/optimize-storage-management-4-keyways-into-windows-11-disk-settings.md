@@ -1,7 +1,7 @@
 ---
 title: "Optimize Storage Management: 4 Keyways Into Windows 11 Disk Settings"
-date: 2024-10-27T17:13:16.262Z
-updated: 2024-10-30T17:22:26.156Z
+date: 2024-11-20T22:27:36.575Z
+updated: 2024-11-25T00:57:47.673Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,7 @@ thumbnail: https://thmb.techidaily.com/be7eb26b929d376d352a2b6560c781f129b853a98
 * [Open Disk Management From the Control Panel](#open-disk-management-from-the-control-panel)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -47,23 +44,7 @@ thumbnail: https://thmb.techidaily.com/be7eb26b929d376d352a2b6560c781f129b853a98
 ![Disk Management app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/6-ways-to-open-disk-management-windows-10-0.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Search for Disk Management in Windows
@@ -83,7 +64,15 @@ thumbnail: https://thmb.techidaily.com/be7eb26b929d376d352a2b6560c781f129b853a98
 
 ![Opening Disk Management from Quick Access menu on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/opening-disk-management-from-quick-access-menu-on-windows-11.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When the program opens, you'll be able to see your connected drives and start managing their partitions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Use the Run Dialog to Open Disk Management
 
@@ -109,10 +98,7 @@ thumbnail: https://thmb.techidaily.com/be7eb26b929d376d352a2b6560c781f129b853a98
 ![Control Panel with Windows Tools highlighted in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/control-panel-with-windows-tools-highlighted-in-windows-11.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Don't make the mistake of clicking **Administrative/Windows Tools**; that will open File Explorer instead.
@@ -132,20 +118,20 @@ thumbnail: https://thmb.techidaily.com/be7eb26b929d376d352a2b6560c781f129b853a98
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-mastering-media-with-extraearsound/"><u>[New] Mastering Media with ExtraEarSound</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-mastering-video-sharing-understanding-vimeo-membership-plans-for-2024/"><u>[Updated] Mastering Video Sharing Understanding Vimeo Membership Plans for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-escalating-image-size-ensuring-unimpaired-detail/"><u>2024 Approved Escalating Image Size Ensuring Unimpaired Detail</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-v30-lite-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo V30 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/academic-success-through-tech-identifying-your-childs-needed-school-supplies-ranked-1-to-9/"><u>Academic Success Through Tech: Identifying Your Child’s Needed School Supplies, Ranked #1 to #9</u></a></li>
-<li><a href="https://article-helps.techidaily.com/explore-greatest-vr-handhelds-listed-for-2024/"><u>Explore Greatest VR Handhelds Listed for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/exploring-updates-in-windows-os/"><u>Exploring Updates in Windows OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-unstartable-windows-speech-to-text-error/"><u>Fixing Unstartable Windows Speech-to-Text Error</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-change-your-honor-x50-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Honor X50 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/rehacer-y-mejorar-tus-fotos-con-inteligencia-artificial-de-winxvideo-a-ultra-alta-definicion-4k8k10k/"><u>Rehacer Y Mejorar Tus Fotos Con Inteligencia Artificial De Winxvideo a Ultra Alta Definición 4K/8K/10K</u></a></li>
-<li><a href="https://windows11.techidaily.com/solutions-for-error-0x800700e1-in-windows-11-os/"><u>Solutions for Error 0X800700E1 in Windows 11 OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/solutions-for-failed-display-sharing-on-windows-devices/"><u>Solutions for Failed Display Sharing on Windows Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/swift-remedy-for-win-11-store-failures-code-x00000000/"><u>Swift Remedy for Win 11 Store Failures: Code X00000000</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-for-overcoming-windows-steam-login-hurdles/"><u>Tips for Overcoming Windows Steam Login Hurdles</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-overcoming-onedrives-add-folder-unsuccessful-on-pc/"><u>Troubleshooting: Overcoming OneDrive's 'Add Folder Unsuccessful' On PC</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-innovation-in-action-reviewing-vidmas-new-screen-recording-features/"><u>[New] 2024 Approved Innovation in Action? Reviewing Vidma's New Screen Recording Features</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-streamlining-the-process-of-finding-your-own-musical-compilation-on-youtube/"><u>[New] 2024 Approved Streamlining the Process of Finding Your Own Musical Compilation on Youtube</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-capturing-action-fraps-recorder-insights/"><u>[New] In 2024, Capturing Action Fraps Recorder Insights</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-unlock-ultra-hd-content-with-youtubes-advanced-video-setting/"><u>2024 Approved Unlock Ultra HD Content with YouTube’s Advanced Video Setting</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-review-of-lg-stylo-6-a-perfect-blend-of-style-and-functionality/"><u>Comprehensive Review of LG Stylo 6 - A Perfect Blend of Style & Functionality</u></a></li>
+<li><a href="https://windows11.techidaily.com/configure-ideal-window-space-for-your-apps-in-win11/"><u>Configure Ideal Window Space for Your Apps in Win11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-oppo-a79-5g-device-sim-by-drfone-android/"><u>Easily Unlock Your Oppo A79 5G Device SIM</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortless-email-management-gmail-in-outlook-windows-edition/"><u>Effortless Email Management: Gmail in Outlook, Windows Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/erase-your-black-screen-and-clear-cursor-issues-in-win11/"><u>Erase Your Black Screen & Clear Cursor Issues in Win11</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/geschwindige-zollabwicklung-warentransport-von-uk-nach-eu-beschleunigt-auf-unter-5-minuten/"><u>Geschwindige Zollabwicklung: Warentransport Von UK Nach EU Beschleunigt Auf Unter 5 Minuten</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/ios-guide-your-step-by-step-vr-video-experience-for-2024/"><u>IOS Guide Your Step-by-Step VR Video Experience for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-11-error-0x80070570-fixing-damaged-files/"><u>Overcoming Windows 11 Error 0X80070570: Fixing Damaged Files</u></a></li>
+<li><a href="https://windows11.techidaily.com/secure-and-streamline-with-win11s-hard-drive-defrag/"><u>Secure & Streamline with Win11's Hard Drive Defrag</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-to-quicken-windows-edge-on-w10-and-w11/"><u>Tips to Quicken Windows Edge on W10 & W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-full-potential-adding-portable-apps-to-w11/"><u>Unlock Full Potential: Adding Portable Apps to W11</u></a></li>
 </ul></div>
 

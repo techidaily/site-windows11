@@ -1,7 +1,7 @@
 ---
 title: Navigating the 'Not Written' Memory Crisis in Win
-date: 2024-11-11T16:09:54.131Z
-updated: 2024-11-15T16:48:37.774Z
+date: 2024-11-22T02:28:32.421Z
+updated: 2024-11-25T00:53:45.663Z
 tags:
   - windows10
   - windows11
@@ -41,13 +41,6 @@ Here are a few solutions to fix this annoying problem.
 
 ![Run SFC scan in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sfc-scan-1-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Refer to our[guide on running the SFC scan](https://www.makeuseof.com/system-file-checker-sfc-windows/) if you aren't familiar with using it and analyzing its results.
 
 ## 3\. Perform a Clean Boot to Disable Third-Party Services
@@ -56,7 +49,15 @@ Here are a few solutions to fix this annoying problem.
 
 ![hide all microsoft services clean boot windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/hide-all-microsoft-services-clean-boot-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It's easy to clean boot your PC. If you're unfamiliar with it, refer to our guide on performing a clean boot on[Windows 11](https://www.makeuseof.com/clean-boot-windows-11/) or[Windows 10](https://www.makeuseof.com/how-perform-clean-boot-windows-10/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Run a Memory Diagnostic Check
 
@@ -67,10 +68,7 @@ Here are a few solutions to fix this annoying problem.
  If the system detects any problems with your RAM, get it checked as soon as possible. If a severe technical issue affects your PC's memory, it could fail at the most inopportune moment. If you keep using it without having it at least checked, your memory modules might break while you're in the middle of catching a deadline. Avoid this trouble by installing reliable RAM sticks on your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Increase the Virtual Memory
@@ -79,14 +77,11 @@ Here are a few solutions to fix this annoying problem.
 
 ![The Virtual Memory window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/custom-radio-button.jpg)
 
- If you've never changed the virtual memory before, refer to our guide about[increasing the virtual memory in Windows 11](https://www.makeuseof.com/how-increase-virtual-memory-windows-11/) .
-
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If you've never changed the virtual memory before, refer to our guide about[increasing the virtual memory in Windows 11](https://www.makeuseof.com/how-increase-virtual-memory-windows-11/) .
 
 ## 6\. Repair Corrupted App or Game Files
 
@@ -103,16 +98,7 @@ Here are a few solutions to fix this annoying problem.
  If you are unfamiliar with the process, see our guide on[creating a restore point in Windows 11](https://www.makeuseof.com/windows-11-create-restore-point/) for instructions on performing a System Restore. However, remember that you can only restore your system if you have already created a restore point. If you haven't made it before, you can skip this step.
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Repair the .Net Framework on Windows
@@ -122,19 +108,6 @@ Here are a few solutions to fix this annoying problem.
 ## 9\. Configure the Problem App to Use a Different GPU
 
  If you get the error with a GPU-intensive app, like AAA games, it might use too much RAM on your integrated GPU. To solve this,[configure the problematic app to use your dedicated GPU](https://www.makeuseof.com/windows-10-choose-preferred-gpu/) . That way, you can ensure that it uses the more powerful video card instead of the less powerful integrated GPU on your CPU that shares your system RAM.
-
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Get Rid of Annoying Memory-Related Errors
 
@@ -157,15 +130,21 @@ Here are a few solutions to fix this annoying problem.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-how-to-make-a-3d-text-effect-in-photoshop/"><u>[Updated] How to Make a 3D Text Effect in Photoshop</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-the-top-20-must-play-sandbox-adventures/"><u>[Updated] In 2024, The Top 20 Must-Play Sandbox Adventures</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-innovative-discussion-themes-for-vloggers/"><u>[Updated] Innovative Discussion Themes for Vloggers</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-translate-videos-like-a-pro-with-subtitle-cat-your-essential-guide/"><u>2024 Approved Translate Videos Like a Pro with Subtitle Cat Your Essential Guide</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-realme-c33-2023-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Realme C33 2023 Phone</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-mute-windows-11-monitoring-tools/"><u>How to Mute Windows 11 Monitoring Tools</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-art-of-fast-filesaving-top-6-tips-for-powerpoint-in-win11/"><u>Mastering the Art of Fast Filesaving: Top 6 Tips for PowerPoint in Win11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-through-gpt-restrictions/"><u>Navigating Through GPT Restrictions</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11-bridging-gaps-between-pc-and-phone/"><u>Windows 11: Bridging Gaps Between PC and Phone</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-settings-guide-managing-usb-devices-effectively/"><u>Windows Settings Guide: Managing USB Devices Effectively</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-elevate-your-reel-game-mastering-attractive-instagram-unboxing-for-2024/"><u>[New] Elevate Your Reel Game Mastering Attractive Instagram Unboxing for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-fix-hidden-suggested-youtube-and-facebook-videos-explained/"><u>[New] In 2024, Fix Hidden Suggested YouTube & Facebook Videos Explained</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-prime-source-directory-downloading-youtube-video-intros/"><u>[Updated] 2024 Approved Prime Source Directory Downloading YouTube Video Intros</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-starting-strong-in-screen-sharpness-your-first-tutorial-on-hd-video/"><u>[Updated] 2024 Approved Starting Strong in Screen Sharpness Your First Tutorial on HD Video</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-shared-printer-issues-on-windows-11/"><u>Addressing Shared Printer Issues on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-task-monitor-in-win-11-accelerating-real-time-updates/"><u>Boosting Task Monitor in Win 11: Accelerating Real-Time Updates</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-steps-to-disable-trackpad-and-mouse-scroll-functions-on-mac-os/"><u>Easy Steps to Disable Trackpad & Mouse Scroll Functions on Mac OS</u></a></li>
+<li><a href="https://fox-info.techidaily.com/enhance-streaming-quality-non-xplit-choices/"><u>Enhance Streaming Quality Non-Xplit Choices</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/error-the-page-youre-seeking-doesnt-exist/"><u>Error: The Page You're Seeking Doesn’t Exist</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-code-0x800700e1-problems-in-windows-11/"><u>Fixing Code 0X800700E1 Problems in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/guiding-through-a-windows-systems-exception-breaking-point-issue/"><u>Guiding Through a Windows System's Exception Breaking Point Issue</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/recuperar-puntos-de-reposicion-del-sistema-faltantes-soluciones-maximas-para-windows-11/"><u>Recuperar Puntos De Reposición Del Sistema Faltantes: Soluciones Máximas Para Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/solve-non-responsive-function-keys-in-windows-11/"><u>Solve: Non-Responsive Function Keys in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-prevent-microsoft-teams-freeze-in-ws11ws10/"><u>Strategies to Prevent Microsoft Teams Freeze in WS11/WS10</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-financial-engine-behind-windows-11/"><u>The Financial Engine Behind Windows 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Essential Steps to Address WinError 0Xc0000005 Instantly
-date: 2024-11-11T16:36:55.443Z
-updated: 2024-11-15T17:08:37.595Z
+date: 2024-11-18T16:38:28.973Z
+updated: 2024-11-25T02:35:32.152Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/157145562d322ac42b18debf7cc17b6e328143a79
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Deactivate Data Execution Prevention (DEP)
 
 [Data Execution Prevention](https://www.makeuseof.com/data-execution-prevention-explained/) is a security feature on Windows that prevents damage to your PC from malware and other malicious attacks on your PC. It does this by blocking out specific memory regions so that code cannot be executed from those locations, which in the absence of DEP, would be used for buffer attacks.
@@ -46,10 +50,7 @@ bcdedit.exe /set {current} nx AlwaysOff
  That's it—the DEP will be disabled from here on. Now, give your PC a quick reboot and see if the error 0xc0000005 persists.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Check Your App's and PC Version and Compatibility
@@ -74,19 +75,13 @@ Similarly, to check the app's version, follow the steps below:
 ![installed apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/installed-apps.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now check if the app and your operating system are compatible with each other.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Apply Some Generic Fixes for Fixing Errors on Windows
@@ -103,10 +98,7 @@ Let's go over all of them one by one.
 6. [Perform a Factory Reset](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) : A Factory reset is, as I sometimes like to call it, the "all pulverizer" all Windows problems. It removes your operating system and reinstalls it so you can start again with a clean slate. It's a drastic measure, but sometimes it's the only way to get a Windows error fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixing the Error Code 0xc0000005 on a Windows PC
@@ -130,21 +122,18 @@ Let's go over all of them one by one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-revel-in-photo-excellence-with-this-guide-to-mastering-the-background-erase-tool/"><u>[New] Revel in Photo Excellence with This Guide to Mastering the Background Erase Tool</u></a></li>
-<li><a href="https://windows11.techidaily.com/efficient-methods-for-identifying-and-enclosing-erroneous-data-points-in-microsoft-excel/"><u>Efficient Methods for Identifying and Enclosing Erroneous Data Points in Microsoft Excel</u></a></li>
-<li><a href="https://windows11.techidaily.com/efficiently-planning-tasks-using-excels-gantt-chart-technique/"><u>Efficiently Planning Tasks Using Excel's Gantt Chart Technique</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhancing-your-data-visualization-tutorial-on-secondary-axis-management-in-excel-charts/"><u>Enhancing Your Data Visualization: Tutorial on Secondary Axis Management in Excel Charts</u></a></li>
-<li><a href="https://windows11.techidaily.com/master-microsoft-excel-a-comprehensive-guide-with-12-tricks-for-correcting-faulty-formulas/"><u>Master Microsoft Excel: A Comprehensive Guide with 12 Tricks for Correcting Faulty Formulas</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-excel-a-step-by-step-guide-to-searching-and-substituting-text-and-numbers/"><u>Mastering Excel: A Step-by-Step Guide to Searching and Substituting Text & Numbers</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mastering-the-fixes-for-outriders-not-launching-correctly/"><u>Mastering the Fixes for Outriders Not Launching Correctly</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-unit-conversions-a-step-by-step-guide-using-microsoft-excel/"><u>Mastering Unit Conversions: A Step-by-Step Guide Using Microsoft Excel</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/navigating-through-nvidia-geforce-error-code-0x0003-comprehensive-fixes/"><u>Navigating Through Nvidia Geforce Error Code 0X0003 - Comprehensive Fixes</u></a></li>
-<li><a href="https://driver-install.techidaily.com/new-windows-10-compatible-drivers-for-gtx-970/"><u>New Windows 10 Compatible Drivers for GTX 970</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/redefine-your-digital-space-with-win-11-sketching-techniques/"><u>Redefine Your Digital Space with Win 11 Sketching Techniques</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/rpg-heritage-clashing-with-new-age-designs-for-2024/"><u>RPG Heritage Clashing with New-Age Designs for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-guide-adding-images-to-your-microsoft-excel-spreadsheet/"><u>Step-by-Step Guide: Adding Images to Your Microsoft Excel Spreadsheet</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ltimate-guide-to-freely-download-youtube-series-on-mobile/"><u>The Ultimate Guide to Freely Download YouTube Series on Mobile</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-reviews-of-the-silent-and-mighty-hyte-thicc-q60-240mm-aio-liquid-cpu-cooler/"><u>Top Reviews of the Silent and Mighty Hyte THICC Q60 240Mm AIO Liquid CPU Cooler</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-best-mouse-recorders-to-use/"><u>[New] Best Mouse Recorders to Use</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-fastforward-lingertap-recording/"><u>[Updated] 2024 Approved FastForward LingerTap Recording</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-macos-11-big-sur-system-and-hardware-requirements/"><u>[Updated] 2024 Approved MacOS 11 Big Sur System and Hardware Requirements</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-digital-content-showdown-audios-answer-to-visual-media/"><u>[Updated] Digital Content Showdown Audio's Answer to Visual Media?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-create-edges-of-images-with-rotational-softness-blend-psx/"><u>[Updated] In 2024, Create Edges of Images with Rotational Softness Blend PSX</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-capturesocial-fb-videos-to-files/"><u>2024 Approved CaptureSocial FB Videos to Files</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-guide-to-installing-canon-dr-c225-printer-software-on-windows-pcs-version-11-10-and-8/"><u>Easy Guide to Installing Canon DR-C225 Printer Software on Windows PCs (Version 11, 10 & 8)</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-nokia-c22-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Nokia C22 Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-oppo-find-x7-ultra-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Oppo Find X7 Ultra Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://windows11.techidaily.com/insider-knowledge-on-folder-tagsging-in-windows-explorer/"><u>Insider Knowledge on Folder Tagsging in Windows Explorer</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-the-windows-accessibility-hub-in-5-simple-steps/"><u>Master the Windows Accessibility Hub - In 5 Simple Steps</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-tracking-down-your-software-install-pathways-in-windows/"><u>Quick Guide: Tracking Down Your Software' Install Pathways in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/regaining-access-to-lost-steam-contact-list-win11/"><u>Regaining Access to Lost Steam Contact List (Win11)</u></a></li>
 </ul></div>
 

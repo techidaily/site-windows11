@@ -1,7 +1,7 @@
 ---
 title: "Simplify Your Routine: NirCmd's Command Shortcuts Expertise"
-date: 2024-10-27T16:25:00.665Z
-updated: 2024-10-30T17:03:41.591Z
+date: 2024-11-20T16:15:23.822Z
+updated: 2024-11-24T23:41:34.819Z
 tags:
   - windows10
   - windows11
@@ -28,6 +28,11 @@ thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453
 2. Then scroll right to the bottom of that page and click the **Download\_NirCmd\_64-bit** link there.  
 ![The Download_NirCmd 64-bit link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/download-nircmd-link.jpg)
 3. Next, [open File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) and go to the directory where the NirCmd ZIP archive has been downloaded.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Follow the instructions in our [how-to unzip files](https://www.makeuseof.com/unzip-files-windows-10/) guide to extract the nircmd.zip archive. Extract the NirCmd folder to this user directory path:  
 `C:\Users\nircmd-x64`
 
@@ -39,6 +44,11 @@ thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453
 `C:\Users\nircmd-x64\nircmd.exe NirCmd command`  
 ![The Create Shortcut window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/create-shortcut-wizard.jpg)
 3. Click **Next** to continue to the final step in the shortcut wizard.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Input a suitable name for your NirCmd command shortcut and select **OK**.
 
  The item location box must include the full path of the extracted nircmd.exe file and one of the NirCmd commands specified below. You will need to modify the location specified above by replacing **NirCmd command** with an actual command. For example, you would need to input the following to create a desktop shortcut for the first NirCmd command specified below:
@@ -48,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453
  Of course, that desktop shortcut will only work if you extract NirCmd to the Users folder as instructed above. You can extract NirCmd anywhere you wish, but the full path of that software’s extracted file must be included in the item location box before the command. You can see the full path for the nircmd.exe file by right-clicking it and selecting **Properties**.
 
 ![A NirCmd file path](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/path-location.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When you’ve created desktop shortcuts for the commands below, go ahead and try them out. Double-clicking the desktop shortcuts will execute the NirCmd commands they’re based on.
 
@@ -60,29 +74,19 @@ thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453
 ![The Shortcut key box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-shortcut-tab.jpg)
 3. Then select **Apply** to save your hotkey.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Click **OK** to exit the shortcut’s properties window.
 
  Now press your keyboard shortcut to activate the NirCmd command desktop shortcut. However, don’t delete the NirCmd desktop shortcuts for which you’ve created hotkeys. The hotkeys won’t work without them.
 
  If you prefer not to clutter your desktop with shortcuts, you can move them into a subfolder. To do so, right-click the desktop to select **New** \> **Folder** and input a directory title. Drag and drop the shortcuts into the folder on the desktop.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Examples of Handy Commands You Can Create With NirCmd
 
  Now you can set up NirCmd desktop and keyboard command shortcuts that do all kinds of things. Here are eight handy NirCmd commands to create shortcuts for.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Empty the Recycle Bin
 
@@ -91,10 +95,7 @@ thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453
 `nircmd.exe emptybin`
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Center Align All Windows
@@ -141,18 +142,15 @@ thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453
 
 `nircmd.exe win close class CabinetWClass`
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 7\. Keep the Calculator on Top of All Windows
 
  The pre-installed Calculator app is one many users no doubt need when browsing the web or utilizing other software packages. You can create a NirCmd command shortcut that always keeps Calculator on top of other windows when you’re utilizing that app. To do so, you’ll need to input this command within a desktop shortcut’s item location box:
 
 `nircmd.exe win settopmost title "Calculator" 1`
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8\. Set the Brightness Level
 
@@ -175,20 +173,24 @@ thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/irect-from-google-meet-securely-live-stream-on-youtube-for-2024/"><u>[New] Direct From Google Meet Securely Live Stream on YouTube for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expert-techniques-for-navigating-popular-and-trending-youtube-reactions/"><u>[New] Expert Techniques for Navigating Popular and Trending YouTube Reactions</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-optimal-viewing-angles-for-fb-videos/"><u>[New] In 2024, Optimal Viewing Angles for FB Videos</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/crafting-spectaculous-1080p-streams-on-fb-groups-for-2024/"><u>Crafting Spectaculous 1080P Streams on FB Groups for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-open-the-internet-options-in-windows-11/"><u>How to Open the Internet Options in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/keep-your-data-and-save-space-win11s-secure-drive-management-methods-max-156-chars/"><u>Keep Your Data and Save Space: Win11's Secure Drive Management Methods (Max 156 Chars)</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-oppo-a79-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Oppo A79 5G? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/natural-setups-comprehensive-free-screen-templates-for-cinephiles/"><u>Natural Setups Comprehensive Free Screen Templates for Cinephiles</u></a></li>
-<li><a href="https://windows11.techidaily.com/preventing-recurring-edge-shortcut-installations/"><u>Preventing Recurring Edge Shortcut Installations</u></a></li>
-<li><a href="https://windows11.techidaily.com/sling-verification-sluggishness-top-strategies-for-speedy-updates/"><u>Sling Verification Sluggishness: Top Strategies for Speedy Updates</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-eliminating-nvidias-visual-boost/"><u>Step-by-Step: Eliminating NVIDIA's Visual Boost</u></a></li>
-<li><a href="https://article-files.techidaily.com/the-flip-side-realities-of-virtual-reality-for-2024/"><u>The Flip Side Realities of Virtual Reality for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-photo-resizing-on-windows-11-6-steps/"><u>The Ultimate Guide to Photo Resizing on Windows 11 – 6 Steps</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-ultimate-review-netgear-orbi-rbs50y-transforming-backyard-wi-fi-experience/"><u>The Ultimate Review: Netgear Orbi RBS50Y - Transforming Backyard Wi-Fi Experience</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11-reboot-mastery-conducting-a-pure-boot/"><u>Windows 11 Reboot Mastery: Conducting a Pure Boot</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-elevate-visuals-best-practices-for-impactful-ig-video-loops/"><u>[New] In 2024, Elevate Visuals Best Practices for Impactful IG Video Loops</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-future-of-videography-top-cameras-2024/"><u>[Updated] Future of Videography Top Cameras 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-stepwise-quietening-routine-for-mixes/"><u>2024 Approved Stepwise Quietening Routine for Mixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-classics-seamless-integration-of-achievements-using-retroarch-software/"><u>Boosting Classics: Seamless Integration of Achievements Using Retroarch Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-diablos-first-epic-a-novices-primer/"><u>Decoding Diablo's First Epic: A Novice's Primer</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-your-system-performance-essential-tips-for-installing-optional-windows-components/"><u>Elevate Your System Performance: Essential Tips for Installing Optional Windows Components</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-create-custom-snap-layouts-in-windows-with-powertoys/"><u>How to Create Custom Snap Layouts in Windows With PowerToys</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streaming-stardom-and-salary-the-pewdiepie-profit-piece/"><u>In 2024, Streaming Stardom and Salary – The PewDiePie Profit Piece</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/launching-the-first-version-of-ethereum-frontier-in-2015-and-its-subsequent-upgrades/"><u>Launching the First Version of Ethereum (Frontier) in 2015 and Its Subsequent Upgrades</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-windows-errors-in-google-nearby-share-app/"><u>Navigating Windows Errors in Google Nearby Share App</u></a></li>
+<li><a href="https://windows11.techidaily.com/neutralize-required-condition-red-flags-in-win11/"><u>Neutralize Required Condition Red Flags in Win11</u></a></li>
+<li><a href="https://win-tips.techidaily.com/non-preoccuparti-se-il-cestino-del-riciclo-sembra-vuoto-ecco-perche-e-pieno-di-potenziale/"><u>Non Preoccuparti Se Il Cestino Del Riciclo Sembra Vuoto: Ecco Perché È Pieno Di Potenziale!</u></a></li>
+<li><a href="https://windows11.techidaily.com/triumph-over-troubled-windows-credentials/"><u>Triumph over Troubled Windows Credentials</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-motorola-moto-g-5g-2023-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Motorola Moto G 5G (2023).</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-the-mystery-of-mouse-controls-on-windows-11/"><u>Unlock the Mystery of Mouse Controls on Windows 11</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/1722552316096-unpacking-the-potential-of-the-powershot-sx70-hs-a-zoom-marvel/"><u>Unpacking the Potential of the PowerShot SX70 HS - A Zoom Marvel!</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-from-zero-to-hero-fixing-fcpx-plugin-problems-in-minutes-for-2024/"><u>Updated From Zero to Hero Fixing FCPX Plugin Problems in Minutes for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-offline-setting-up-on-disconnected-pcs/"><u>Win11 Offline: Setting Up on Disconnected PCs</u></a></li>
+<li><a href="https://win-forum.techidaily.com/windows-11-hacks-overcoming-processor-incompatibilities-for-a-smooth-setup-and-use/"><u>Windows 11 Hacks: Overcoming Processor Incompatibilities for a Smooth Setup and Use</u></a></li>
 </ul></div>
 

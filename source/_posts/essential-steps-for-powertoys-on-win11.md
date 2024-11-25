@@ -1,7 +1,7 @@
 ---
 title: Essential Steps for PowerToys on Win11
-date: 2024-08-22T21:37:39.375Z
-updated: 2024-08-23T21:37:39.375Z
+date: 2024-11-18T20:07:07.852Z
+updated: 2024-11-24T19:19:57.197Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068
 
  To access these features, you need Microsoft PowerToys installed on your PC. Let's look at the different ways you can install it on your Windows computer and walk through the installation process for each.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Install Microsoft PowerToys From the Microsoft Store
 
  Microsoft Store is an online marketplace pre-installed on Windows. It offers a diverse array of free and paid apps, games, and even device updates, all in one place. This gives Windows users access to everything they need under one roof.
@@ -32,7 +36,15 @@ thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068
 4. If you feel satisfied, click **Install** to begin the downloading & installation process. The process might take a few minutes.  
 ![Installing PowerToys Through Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/installing-powertoys-through-microsoft-store.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once installation is complete, open the Microsoft PowerToys app from the Start menu. All features are ready to use.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Install Microsoft PowerToys From the GitHub Page
 
@@ -49,9 +61,6 @@ thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068
 
  After performing the above procedure, you can access Microsoft PowerToys from the Start menu or the shortcut if you created one.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Install Microsoft PowerToys Through the Command Prompt
 
  If you're comfortable using the command prompt, this might be the quickest and most efficient way to install Microsoft PowerToys.
@@ -65,15 +74,17 @@ thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068
 winget install --id Microsoft.PowerToys  
 ![Installing PowerToys Through Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/installing-powertoys-through-command-prompt.jpg)
 5. Now hit Enter to execute the command. This will download and install Microsoft PowerToys.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The process might take a few minutes, so be patient. Once it's finished, you'll find Microsoft PowerToys in your Start Menu.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Download Microsoft PowerToys Easily on Windows
 
  If you've made it this far, you now know how to install Microsoft PowerToys on Windows. Try out the Microsoft Store version first, as it's the most user-friendly and least complicated.
@@ -82,11 +93,26 @@ winget install --id Microsoft.PowerToys
 
  To access these features, you need Microsoft PowerToys installed on your PC. Let's look at the different ways you can install it on your Windows computer and walk through the installation process for each.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-perfecting-projects-through-music-addition-in-premiere-pro/"><u>[New] 2024 Approved Perfecting Projects Through Music Addition in Premiere Pro</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-instagram-story-width-height-run-time-for-2024/"><u>[New] Instagram Story Width, Height, Run Time for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-harmonizing-your-tunes-step-by-step-playlist-crafting-for-web-and-mobile-users/"><u>[Updated] Harmonizing Your Tunes Step-by-Step Playlist Crafting for Web & Mobile Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/ditch-the-online-top-mobile-gaming-hacks/"><u>Ditch the Online - Top Mobile Gaming Hacks</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96369676-9781446358405-mediumship-and-survival/"><u>Mediumship and Survival | Free Book</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/melodic-matchmakers-aligning-music-to-visuals-for-2024/"><u>Melodic Matchmakers Aligning Music to Visuals for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/modify-account-lockout-frequency-post-failed-attempts-with-ease-win-11-edition/"><u>Modify Account Lockout Frequency Post Failed Attempts with Ease, Win 11 Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-in-use-errors-a-guide-for-windows-users-153-chars/"><u>Preventing In Use Errors: A Guide for Windows Users (153 Chars)</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinstating-file-explorer-classics/"><u>Reinstating File Explorer Classics</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-your-digital-experience-using-window-11s-search-box/"><u>Streamline Your Digital Experience: Using Window 11'S Search Box</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-decline-of-chatgpt-jailbreak-success-unveiling-7-key-factors/"><u>Understanding the Decline of ChatGPT Jailbreak Success: Unveiling 7 Key Factors</u></a></li>
+</ul></div>
+

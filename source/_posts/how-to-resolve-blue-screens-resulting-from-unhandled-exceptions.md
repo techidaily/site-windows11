@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Blue Screens Resulting From Unhandled Exceptions
-date: 2024-08-22T21:38:09.779Z
-updated: 2024-08-23T21:38:09.779Z
+date: 2024-11-18T21:37:58.646Z
+updated: 2024-11-25T01:52:36.251Z
 tags:
   - windows10
   - windows11
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/21f134ff6252e8b65e4072cbcc9d1f7716bea3abe
 
  Now that we know the potential causes, let's look at the solutions that helped several affected users fix the issue. Proceed with the one that fits your situation the best.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Boot Into WinRe if Your PC Won't Launch
 
  If the BSOD error is preventing you from booting into the system at all, you will need to access the recovery environment of Windows to perform the troubleshooting methods.
@@ -39,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/21f134ff6252e8b65e4072cbcc9d1f7716bea3abe
  This diagnostic tool comes with several different troubleshooting utilities to help you fix problems like startup issues, hardware problems, and crashes like a Blue Screen of Death. To launch this environment, simply turn on your computer. But as soon as it turns on, repeatedly press the F11 key to launch WinRE.
 
 ![WinRE-Advanced-Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/winre-advanced-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  However, remember that this key may be different for you, depending on your device. In some devices, it is F9 or F12 key. It is best to check your manufacturer's official website for this information.
 
@@ -50,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/21f134ff6252e8b65e4072cbcc9d1f7716bea3abe
 
 ![windows 11 startup settings safe mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-startup-settings-safe-mode.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ## 2\. Delete the Problematic Registry Keys
 
  As mentioned above, several Registry entries might be corrupted or have incorrect information, causing the problem. In the case of this specific error, several users noticed that the Registry keys related to a tech program were leading to the issue.
@@ -66,9 +71,6 @@ C:\Windows\System32\
 2. Here, delete the APOIM32.EXE. APOMNGR.DLL, and CMDRTR.DLL files.  
 ![Delete the files in the File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/delete-file.jpg)
 3. Now, press the Win + R keys together to open Run.
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 4. Type regedit in Run and click Enter.
 5. Click**Yes** in the User Account Control prompt.
 6. Once you are inside the Registry Editor, navigate to the location mentioned below if you are using a 32-bit system:  
@@ -76,6 +78,11 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Creative Tech\Software Installed\APOIMHKEY_LOCAL_MAC
 7. Delete the APOIM values from here by right-clicking on the value and choosing**Delete** .  
 ![Delete the Registry Value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/delete-registry-value.jpg)
 8. If you are using a 64-bit operating system, navigate to the following locate and delete the APOIM value using the same method from here:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Creative Tech\Software Installed\APOIMHKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Creative Tech\Installation\CTRedist\APOIM
 
  Finally, you can close the Registry Editor and restart your computer. Hopefully, you should no longer face the Blue Screen of Death error upon reboot.
@@ -91,13 +98,16 @@ Here is what you need to do:
 3. In the Control Panel, navigate to**Programs** \>**Uninstall a program** .  
 ![Uninstall a program](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/uninstall-a-program.jpg)
 4. You should now see a list of installed apps in the system. Right-click on the targeted app and choose**Uninstall** from the context menu.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Clicking on the Uninstall Button by Right-clicking on the Suspicious App in Windows Control Panel App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/2.jpg)
 5. Follow the on-screen instructions to complete the process.
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once the app is uninstalled, restart your computer and check if the issue is resolved.
@@ -110,30 +120,21 @@ Here is what you need to do:
 
  Once you've identified the problematic driver, you can update it using the Device Manager utility to resolve the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Other Generic Fixes to Try
 
  Apart from the solutions discussed above, several[other troubleshooting methods for BSODs](https://www.makeuseof.com/tag/4-tips-fix-blue-screen-error/) can help you fix blue screen errors such as this one. This includes scanning the critical system files, restoring the system to an older working state, and checking the hardware for problems.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## BSOD Error, Now Fixed
 
  The Blue Screen of Death is always frustrating, especially because they do not provide much information about the cause of the problem, making them harder to troubleshoot. Hopefully, the methods we have listed above will help you fix the INTERRUPT\_EXCEPTION\_NOT\_HANDLED BSOD for good.
 
  And to prevent the issue from occurring again in the future, make sure to keep your system and its drivers updated at all times.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -142,4 +143,24 @@ Here is what you need to do:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-ultimate-tips-adobe-presenter-video-recording/"><u>[New] In 2024, Ultimate Tips Adobe Presenter Video Recording</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-investigating-the-sudden-angle-shift-in-instagrams-videos/"><u>[New] Investigating the Sudden Angle Shift in Instagrams Videos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-leveraging-virtual-board-features-for-enhanced-collaboration-in-zoom-for-2024/"><u>[Updated] Leveraging Virtual Board Features for Enhanced Collaboration in Zoom for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-mend-interruptexception-crash-on-pcs-running-windows-1011/"><u>How to Mend INTERRUPT_EXCEPTION Crash on PCs Running Windows 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-regain-control-over-faulty-anydesk-service/"><u>How To Regain Control Over Faulty AnyDesk Service</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/how-to-repair-and-restore-sound-from-your-laptops-malfunctioning-speakers/"><u>How to Repair and Restore Sound From Your Laptop's Malfunctioning Speakers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-techniques-for-iphone-sideways-shots/"><u>In 2024, Innovative Techniques for iPhone Sideways Shots</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-your-windows-workspace-5-folder-tips-revealed/"><u>Master Your Windows Workspace: 5 Folder Tips Revealed</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/mastering-gameplay-latency-discover-how-the-asus-rog-rapture-gt-ax11000-dominates-speed-and-gaming-features/"><u>Mastering Gameplay Latency? Discover How the Asus ROG Rapture GT-AX11000 Dominates Speed and Gaming Features</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-remedies-for-windows-nine-solutions-to-revive-your-non-responsive-keyboard-shortcuts/"><u>Quick Remedies for Windows: Nine Solutions to Revive Your Non-Responsive Keyboard Shortcuts</u></a></li>
+<li><a href="https://windows11.techidaily.com/redirecting-and-reinstating-windows-1011s-ms-store/"><u>Redirecting and Reinstating Windows 10/11'S MS Store</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/reviewing-the-lamicall-tablet-holder-designed-with-functionality-as-a-focus/"><u>Reviewing the Lamicall Tablet Holder: Designed with Functionality as a Focus</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-issue-monitor-not-showing-full-screen-win11/"><u>Screen Issue: Monitor Not Showing Full Screen Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleashing-the-full-potential-of-win-for-ps1-gaming-duckstations-insight/"><u>Unleashing the Full Potential of WIN for PS1 Gaming - Duckstation's Insight</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-the-full-potential-of-your-computers-booting-process-with-configurations/"><u>Unlock the Full Potential of Your Computer's Booting Process with Configurations</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-edit-like-a-pro-the-5-best-iphone-video-editing-apps/"><u>Updated Edit Like a Pro The 5 Best iPhone Video Editing Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11s-aesthetic-edge-maximizing-backdrop-impact/"><u>Windows 11'S Aesthetic Edge: Maximizing Backdrop Impact</u></a></li>
+</ul></div>
 

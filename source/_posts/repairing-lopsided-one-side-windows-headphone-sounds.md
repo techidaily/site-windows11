@@ -1,7 +1,7 @@
 ---
 title: Repairing Lopsided One-Side Windows Headphone Sounds
-date: 2024-08-22T21:36:49.941Z
-updated: 2024-08-23T21:36:49.941Z
+date: 2024-11-23T16:47:53.419Z
+updated: 2024-11-25T02:34:53.737Z
 tags:
   - windows10
   - windows11
@@ -46,8 +46,9 @@ thumbnail: https://thmb.techidaily.com/0994f11e3b98aa050445b83a923c27f3f286a1f53
 ![An RCA jack with a broken pin inside](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/an-rca-jack-with-a-broken-pin-inside.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Some PCs still come with separate jacks for microphones and headphones. Each jack supports a similar-looking connector, but the signal flow is different.
 
  While your headphones might work if plugged incorrectly, you could encounter annoying issues. Therefore, make sure you have plugged the headphones into the correct jack.
@@ -69,19 +70,22 @@ thumbnail: https://thmb.techidaily.com/0994f11e3b98aa050445b83a923c27f3f286a1f53
 4. Navigate to the **Playback** tab, right-click your headphones device, then select **Properties**.  
 ![Open Properties by Right-clicking on Your Device in the Playback Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/2-open-properties-by-right-clicking-on-your-device-in-the-playback-tab.jpg)
 5. Navigate to the **Levels** tab of the properties window.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Click on the **Balance** button.  
 ![Click the Balance Button in the Levels Tab of the Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-click-the-balance-button-in-the-levels-tab-of-the-properties-window.jpg)
 7. Make sure neither the left nor right side is muted. If both sides are at different levels at the moment, balance them.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Balance the Sound Levels of Both the Right and Left Side of Your Headphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-balance-the-sound-levels-of-both-the-right-and-left-side-of-your-headphone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hopefully you can now hear from both sides of your headphones.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Disable Audio Enhancements
 
  The audio enhancement feature makes the output of audio as clean as possible. By adding additional processing, this feature can create a significant improvement in the quality of your audio.
@@ -95,20 +99,12 @@ thumbnail: https://thmb.techidaily.com/0994f11e3b98aa050445b83a923c27f3f286a1f53
 3. Go to the **Advanced** tab and uncheck the box beside **Enable audio enhancements**.  
 ![Disable Audio Enhancements in the Advanced Tab of the Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/5-disable-audio-enhancements-in-the-advanced-tab-of-the-properties-window.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now give your headphones another try.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Disable Mono Audio
 
  The mono audio format combines the left and right audio channels into one and removes the stereo effect. Enabling this feature will give you the same audio quality on both sides of your headphones.
@@ -122,13 +118,6 @@ thumbnail: https://thmb.techidaily.com/0994f11e3b98aa050445b83a923c27f3f286a1f53
 3. Under **Hearing**, click on **Audio**.  
 ![Open Audio Settings in the Accessibility Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/6-open-audio-settings-in-the-accessibility-tab-of-the-windows-settings-app.jpg)
 4. Turn off the toggle next to **Mono audio** if it's already selected.  
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![Disable Mono Audio in Audio Settings of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/7-disable-mono-audio-in-audio-settings-of-the-windows-settings-app.jpg)
 
  If this doesn't fix the issue, remember to turn the mono audio setting off again before continuing.
@@ -140,8 +129,9 @@ No advertising on the website.
  Likewise, third-party audio enhancement apps can sometimes interfere with the audio output, blocking sound from one side of your headset. If you use such an app, try temporarily turning it off. If turning off the app solves the problem, delete the app permanently and find an alternative that does not cause the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Perform Some Windows Fixes
 
  If you fail to get one side of your headset up and running after performing the fixes above, here are some Windows fixes that might help:
@@ -151,15 +141,14 @@ No advertising on the website.
 * **Update Windows:** Keeping your operating system up-to-date is crucial to get smooth performance. So, [check for pending Windows updates and manually install them](https://www.makeuseof.com/update-windows-manually/).
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Get Your Headphones Working Again
 
  Hearing from one side of your headphones completely ruins our experience. Hopefully, you now better understand why one side of your headphones goes mute and how you can fix it so you can hear from both sides.
 
  Here're a few checks and fixes to find out if the issue is hardware-related or caused by misconfigured settings and resolve it.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -167,3 +156,27 @@ No advertising on the website.
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-mirth-in-monotony-best-humored-fb-jail-cell-captures/"><u>[New] 2024 Approved Mirth in Monotony Best-Humored Fb Jail Cell Captures</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-mastering-multimedia-meetings-fusing-zooms-potential-with-skype/"><u>[Updated] In 2024, Mastering Multimedia Meetings Fusing Zoom's Potential with Skype</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-leading-brands-car-compatible-viewing-devices/"><u>[Updated] Leading Brands' Car-Compatible Viewing Devices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-perfecting-your-fisheye-lens-techniques-stepwise/"><u>2024 Approved Perfecting Your Fisheye Lens Techniques Stepwise</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/assistant-top-picks-evaluated-and-reviewed-by-industry-professionals-zdnet/"><u>Assistant - Top Picks , Evaluated and Reviewed by Industry Professionals | ZDNet</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/budget-nvme-overclocking-ready-check-out-the-premium-uphere-m201-heatsink-at-only-5/"><u>Budget NVMe Overclocking Ready? Check Out the Premium UpHere M201 Heatsink at Only $5</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-11-pro-max-activation-lock-without-previous-owner-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 11 Pro Max activation lock without previous owner</u></a></li>
+<li><a href="https://facebook.techidaily.com/customized-digital-access-facebooks-strategy-surpasses-apples-model/"><u>Customized Digital Access: Facebook's Strategy Surpasses Apple's Model</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-how-to-stop-cortana-in-windows-11/"><u>Guide: How to Stop Cortana in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-link-onedrive-to-your-microsoft-account-on-windows/"><u>How to Link OneDrive to Your Microsoft Account on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-start-w11s-on-demand-repair-service/"><u>How to Start W11’s On-Demand Repair Service</u></a></li>
+<li><a href="https://windows11.techidaily.com/joining-the-ranks-of-windows-11-insiders-explained/"><u>Joining the Ranks of Windows 11 Insiders Explained</u></a></li>
+<li><a href="https://windows11.techidaily.com/off-sight-panes-not-anymore-revive-them-with-these-6-secrets-for-windows-users/"><u>Off-Sight Panes? Not Anymore! Revive Them with These 6 Secrets for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/rectifying-win1011-portaudio-hiccups-within-audacity-application/"><u>Rectifying Win10/11 PortAudio Hiccups Within Audacity Application</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-bsod-prevention-with-vmware-on-windows-11/"><u>Strategies for BSOD Prevention with VMware on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/transcending-boundaries-how-windows-enhances-gameplay/"><u>Transcending Boundaries: How Windows Enhances Gameplay</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063223277-update-logitech-gaming-mouse-driver-for-windows-7-easily/"><u>Update Logitech Gaming Mouse Driver for Windows 7. Easily</u></a></li>
+<li><a href="https://windows11.techidaily.com/widgets-essentials-launching-into-windows-11/"><u>Widgets Essentials: Launching Into Windows 11</u></a></li>
+</ul></div>
+

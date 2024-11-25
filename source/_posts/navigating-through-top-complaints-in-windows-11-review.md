@@ -1,7 +1,7 @@
 ---
 title: Navigating Through Top Complaints in Windows 11 Review
-date: 2024-10-23T17:22:14.694Z
-updated: 2024-10-30T16:43:19.872Z
+date: 2024-11-21T18:10:43.827Z
+updated: 2024-11-25T00:48:06.418Z
 tags:
   - windows10
   - windows11
@@ -18,9 +18,17 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
 
  Microsoft's Windows 11 has improved a lot ever since it was released. However, the OS is still missing some features available in the previous versions of Windows. Also, Microsoft has made some functionality harder to locate and use in the operating system.In this article, we are putting together a list of missing features and complaints users have about Windows 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Windows 11 Has Strict Hardware Requirements
 
 ![Prepare the TPM in TPM Management Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Prepar-the-TPM.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When Windows 10 debuted, Microsoft offered a free upgrade for PCs running Windows 7 and 8.1\. Windows 10 users can also upgrade to Windows 11 for free, but not everyone is eligible because of the stringent hardware requirement.
 
@@ -29,22 +37,12 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
  There are ways to bypass the TPM 2.0 requirement and install Windows 11, but how safe and sound the after-effect will be is questionable. You might face all sorts of trouble after installing it by bypassing the minimum hardware requirement. Many Windows 10 users are willing to upgrade if Microsoft withdraws the TPM 2.0 requirement. Meanwhile, you can[bypass Windows 11 minimum installation requirements](https://www.makeuseof.com/bypass-windows-11-minimum-installation-requirements/) , but do it at your own risk.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. The Need for a Microsoft Account During the Windows 11 Setup Process
 
 ![windows 11 login problems](https://thmb.techidaily.com/82946b1471bda0a94f0756d1b1276fee19eddaa4566634791522addb362bdc3b.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You get a lot of benefits if you use Microsoft Account with your Windows 11 PC. Microsoft recommends a Microsoft account to make the most of Windows 11, though it's not mandatory to use it over a local account.
 
@@ -58,33 +56,27 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
 
 ![A Windows 11 laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-windows-11-desktop.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  It is important to keep devices updated with the latest version of the software. Doing so will make devices more secure and give you other benefits. But when users feel that the new features don't significantly improve their workflow, they don't want to upgrade to a new version of the OS. If you want a comparison for clarity, here are[the biggest differences between Windows 10 and Windows 11](https://www.makeuseof.com/windows-10-11-major-changes/) .
 
  Many Windows 10 users have complaints that Windows 11 does not offer significant new features that are beneficial to them. The only way to help those people is by adding more practical features to Windows 11.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Changing Default Apps Is Too Hard
 
 ![Windows 11 Settings Default Apps Mailto](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/Windows-11-Settings-Default-Apps-Mailto.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Microsoft came under fierce criticism for making it harder to change default apps. In Windows 10, you have a Default apps interface on the Settings page for configuring default apps for email, music, photo viewing, web browser, and more. All it requires is a couple of clicks to change the default apps in Windows 10.
 
  However, changing the default apps in Windows 11 is complicated and lengthy. Windows 11 allows you to set defaults by file or link types. This means you now need to select each file or link type and change each default instead of a single switch, just like in Windows 10\. If you are new to the operating system, check out our guide on[how to change the default app in Windows 11](https://www.makeuseof.com/change-windows-11-default-apps/) .
 
  Users want Microsoft to introduce an easier way of changing default apps in Windows 11\. Of all the complaints users have about Windows 11, the issue of changing default apps is likely to be fixed first. Microsoft had already announced that it would introduce[a new Settings deep link URI for applications](https://blogs.windows.com/windowsexperience/2023/03/17/a-principled-approach-to-app-pinning-and-app-defaults-in-windows/) to allow users to change defaults quickly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. The Limited Functionality of the Windows 11 Taskbar
 
@@ -113,22 +105,24 @@ thumbnail: https://thmb.techidaily.com/4f408d1e600338fdfbc4fe3abf110c58fed31529d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-protouch-4k-uniscreen-hub-systems/"><u>[New] ProTouch 4K UniScreen Hub Systems</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-how-to-use-snap-camera-for-microsoft-teams/"><u>[Updated] 2024 Approved How to Use Snap Camera for Microsoft Teams</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-expert-tips-for-seamless-iphone-screen-recordings/"><u>2024 Approved Expert Tips for Seamless iPhone Screen Recordings</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-infinix-zero-5g-2023-turbo-is-unlocked-by-drfone-android/"><u>How To Check if Your Infinix Zero 5G 2023 Turbo Is Unlocked</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/najdet-zle-slova-za-umirajici-komunikacni-skvela-lidi-7-zpravou-jak-budes-pokrcit-svuj-zaznam/"><u>Najdět Zlé Slova Za Umírající - Komunikační Skvělá Lidi: 7 Zprávou Jak Budeš Pokrčit Svůj Záznam</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigate-past-onedrive-sign-in-snags-with-windows-steps/"><u>Navigate Past OneDrive Sign-In Snags with Windows Steps</u></a></li>
-<li><a href="https://windows11.techidaily.com/proven-strategies-to-enhance-wireless-and-cable-networks-on-windows/"><u>Proven Strategies to Enhance Wireless and Cable Networks on Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/saving-steam-shots-where-do-they-go/"><u>Saving Steam Shots: Where Do They Go?</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/simplified-steps-for-photo-motion-blur-in-photoshop/"><u>Simplified Steps for Photo Motion Blur in Photoshop</u></a></li>
-<li><a href="https://windows11.techidaily.com/solving-the-mystery-recovering-copilot-in-ws11/"><u>Solving the Mystery: Recovering Copilot In WS11</u></a></li>
-<li><a href="https://windows11.techidaily.com/staying-current-the-impact-of-additional-yearly-patches-on-your-pc/"><u>Staying Current: The Impact of Additional Yearly Patches on Your PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-for-saving-your-personalized-powertoys-profile/"><u>Steps for Saving Your Personalized PowerToys Profile</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-recover-windows-audio-glitches/"><u>Steps to Recover Windows Audio Glitches</u></a></li>
-<li><a href="https://windows11.techidaily.com/techniques-for-stifling-random-cmd-entrance/"><u>Techniques for Stifling Random CMD Entrance</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/top-5-kid-friendly-flying-toys-for-2024/"><u>Top 5 Kid-Friendly Flying Toys for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transferring-media-pc-files-to-your-ios-device-for-2024/"><u>Transferring Media PC Files To Your iOS Device for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-taskbar-history-from-start-to-now/"><u>Windows Taskbar History: From Start to Now</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-creative-music-videos-a-list-of-15-youtube-projects-for-2024/"><u>[New] Creative Music Videos A List of 15 YouTube Projects for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-free-top-6-best-apps-for-making-photo-slideshow-with-music-on-iphone/"><u>[New] FREE Top 6 Best Apps for Making Photo Slideshow With Music on iPhone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-craft-an-engaging-solo-auditory-adventure/"><u>[New] How to Craft an Engaging Solo Auditory Adventure</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-ink-your-photos-leading-apps-for-captioning-iosandroid/"><u>[New] In 2024, Ink Your Photos Leading Apps for Captioning (iOS/Android)</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-innovative-techniques-for-stellar-screen-captures-with-adobe-captivity-for-2024/"><u>[New] Innovative Techniques for Stellar Screen Captures with Adobe Captivity for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/automating-agendas-integrating-ifttt-with-to-do/"><u>Automating Agendas: Integrating IFTTT with To-Do</u></a></li>
+<li><a href="https://windows11.techidaily.com/converting-ical-data-for-smooth-windows-11-use/"><u>Converting iCal Data for Smooth Windows 11 Use</u></a></li>
+<li><a href="https://windows11.techidaily.com/direct-access-linux-forget-wsl/"><u>Direct Access: Linux, Forget WSL</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/driven-with-automated-bots-a-deep-dive-into-smart-marketing-technology/"><u>Driven with Automated Bots: A Deep Dive Into Smart Marketing Technology</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortless-setup-of-microsofts-powertoys-win11/"><u>Effortless Setup of Microsoft's PowerToys (Win11)</u></a></li>
+<li><a href="https://windows11.techidaily.com/from-raw-esd-to-refined-iso-windows-conversion-techniques/"><u>From Raw ESD to Refined ISO: Windows Conversion Techniques</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-no-splurge-audio-devices-for-yt-beginners/"><u>In 2024, No-Splurge Audio Devices for YT Beginners</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-paid-access-to-chatgpt-justified/"><u>Is Paid Access to ChatGPT Justified?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/navigating-fb-video-conversion-to-professional-quality-mp3s-for-2024/"><u>Navigating FB Video Conversion to Professional-Quality MP3s for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/nickwatch-launches-across-the-united-states-amidst-exciting-kids-choice-event/"><u>NickWatch Launches Across the United States Amidst Exciting Kids' Choice Event</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-the-frustrations-of-code-1132-on-win-1011/"><u>Resolving the Frustrations of Code 1132 on Win 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-functional-link-to-mb-services-on-win11-devices/"><u>Restoring Functional Link to MB Services on Win11 Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/swiftly-updating-windows-cards-a-comprehensive-guide/"><u>Swiftly Updating Windows Cards: A Comprehensive Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/taskers-curiosity-non-edge-process-puzzles/"><u>Tasker's Curiosity: Non-Edge Process Puzzles</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Guide to Correct Oculus App Errors in WinXI/WinXC
-date: 2024-11-10T16:47:02.837Z
-updated: 2024-11-15T17:13:25.958Z
+date: 2024-11-17T19:54:14.890Z
+updated: 2024-11-24T19:55:45.530Z
 tags:
   - windows10
   - windows11
@@ -41,39 +41,34 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 
  Disabling proxy servers is another fix a few Oculus app users confirm can fix the “we encountered an error” installation issue. You can deselect the **Use a proxy server** checkbox within Internet Properties. Our [guide to disabling proxy settings in Windows](https://www.makeuseof.com/windows-11-disable-proxy/) includes step-by-step instructions for how you can deselect that setting.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Temporarily Disable Microsoft Defender (or Third-Party Antivirus)
 
  Real-time antivirus scanning can cause the “we encountered an error” issue to occur. Temporarily disabling antivirus protection on your PC will ensure it can’t block the Oculus software installation. This [how-to-turn-off Windows Defender](https://www.makeuseof.com/how-to-turn-off-windows-defender/) article includes instructions for disabling the Microsoft Defender antivirus.
 
 ![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/real-time-protection-option-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you utilize third-party antivirus software, turn off that app’s antivirus shield. Right-click a system tray icon for the antivirus software and select an option that will turn off its real-time antivirus shield (preferably for no longer than 30-60 minutes). Then try installing Oculus with your antivirus protection turned off.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Turn Off the Windows Firewall
 
 ![The Turn off Windows Defender Firewall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/turn-off-windows-defender-firewall-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Windows firewall can disrupt the Oculus server connection required for the software installation. So, temporarily disable the Microsoft Defender Firewall before installing the Oculus app. Check out this [how-to turn off Microsoft Defender Firewall guide](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) for instructions about how to do so. Then have another go at installing the Oculus software with the firewall disabled.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Install .NET Framework 4.6.1
@@ -101,10 +96,7 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 4. Repeat the previous step to delete any Oculus subfolders left behind at these folder locations:
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `C:\Users\<User Folder>\AppData\LocalLow  
@@ -112,13 +104,6 @@ C:\Users\<User Folder>\AppData\Local
 C:\Users\<User Folder>\AppData`
 
  You can also utilize a third-party uninstaller utility like IObitUninstaller to clear away leftover Oculus folders and registry keys. When you’ve eradicated all leftover Oculus subfolders, open this [Meta download page](https://www.meta.com/us/en/quest/setup/). Then click **Download Software** to get the latest Windows Oculus app for your VR headset and try installing it.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Install the Oculus Windows Software
 
@@ -136,22 +121,17 @@ C:\Users\<User Folder>\AppData`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-synching-sounds-with-visual-stories-on-ig/"><u>[New] 2024 Approved Synching Sounds with Visual Stories on IG</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-from-youtube-streams-to-local-files-audio-guide/"><u>2024 Approved From YouTube Streams to Local Files Audio Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-samsung-galaxy-f04-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Samsung Galaxy F04 Fingerprint Lock</u></a></li>
-<li><a href="https://windows11.techidaily.com/discover-restful-nights-with-the-ihome-zenergy-bedside-sleep-enhancer-comprehensive-review/"><u>Discover Restful Nights with the IHome Zenergy Bedside Sleep Enhancer – Comprehensive Review</u></a></li>
-<li><a href="https://win-blog.techidaily.com/getting-cortana-back-on-track-effective-fixes-for-common-problems/"><u>Getting Cortana Back on Track - Effective Fixes for Common Problems</u></a></li>
-<li><a href="https://fox-http.techidaily.com/guide-to-deciphering-youtubes-comprehensive-feedback-system-for-2024/"><u>Guide to Deciphering YouTube's Comprehensive Feedback System for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-to-revealing-your-pcs-background-image-storage/"><u>Guide to Revealing Your PC’s Background Image Storage</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Honor X50i+ | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-transfer-your-powertoys-settings-to-a-new-pc/"><u>How to Transfer Your PowerToys Settings to a New PC</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-invest-in-your-health-these-10-best-yoga-streams-exist/"><u>In 2024, Invest in Your Health - These 10 Best Yoga Streams Exist</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastery-over-taskbar-icon-separation-in-win-11/"><u>Mastery Over Taskbar Icon Separation in Win 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/microsoft-store-sign-in-woes-heres-how-to-fix-it/"><u>Microsoft Store Sign-In Woes? Here's How to Fix It</u></a></li>
-<li><a href="https://windows11.techidaily.com/modernize-windows-shift-to-enhanced-tiled-workspace/"><u>Modernize Windows: Shift to Enhanced Tiled Workspace</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-revive-non-launching-obs-on-windows/"><u>Steps to Revive Non-Launching OBS on Windows</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1640694-9780698176218-the-energies-of-love/"><u>The Energies of Love | Free Book</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/the-visionaries-of-video-workshop/"><u>The Visionaries of Video Workshop</u></a></li>
-<li><a href="https://windows11.techidaily.com/unblocking-windows-notification-blockade-from-phone-link/"><u>Unblocking Windows Notification Blockade From Phone Link</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-4k-clarity-comparison-projectors-vs-traditional-televisions/"><u>[New] 4K Clarity Comparison Projectors vs Traditional Televisions</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-sliceshot-synopsis-for-2024/"><u>[New] SliceShot Synopsis for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-dive-deep-into-the-digital-world-adding-panoramic-photos-to-your-feed/"><u>[Updated] Dive Deep Into the Digital World Adding Panoramic Photos to Your Feed</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-unlock-your-farming-potential-with-top-valheim-seeds-for-2024/"><u>[Updated] Unlock Your Farming Potential with Top Valheim Seeds for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/become-a-text-meme-wizard-harnessing-genrator-power/"><u>Become a Text Meme Wizard Harnessing Gen'rator Power</u></a></li>
+<li><a href="https://windows11.techidaily.com/brain-benefits-and-heartbeats-the-joint-impact-of-mindfulness/"><u>Brain Benefits and Heartbeats: The Joint Impact of Mindfulness</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-up-exit-point-not-found-errors/"><u>Clearing Up Exit Point Not Found Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-file-and-folder-integration-in-windows-1011/"><u>Mastering File & Folder Integration in Windows 10/11</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/291754-9781416539445-mysterious-america/"><u>Mysterious America | Free Book</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-5-essentials-smart-tips-when-shopping-for-pre-owned-apple-tablets/"><u>Top 5 Essentials: Smart Tips When Shopping for Pre-Owned Apple Tablets</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-error-0x80072f8f-0x20000-in-windows/"><u>Troubleshooting Error 0X80072f8f - 0X20000 in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11s-search-tweaks-enhancing-your-experience/"><u>Windows 11'S Search Tweaks: Enhancing Your Experience</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming Stubborn Windows Key Issues
-date: 2024-08-22T21:40:01.538Z
-updated: 2024-08-23T21:40:01.538Z
+date: 2024-11-19T16:01:28.949Z
+updated: 2024-11-24T17:17:02.204Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/22c39789b5fe1ed667e7cca081a20115c82b1e475
 
 After logging into your computer, start applying the following fixes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Make Sure the Keys Aren’t Damaged
 
  It's almost impossible for several keys on your keyboard to malfunction simultaneously. However, if you have dropped your keyboard recently, hit it with something, or spilled a liquid on it, some keys may have been damaged.
@@ -39,11 +43,12 @@ After logging into your computer, start applying the following fixes.
 
 ![Testing Keyboard Keys on the Keyboard Test Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/testing-keyboard-keys-on-the-keyboard-test-website.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  However, if the keys register successfully during the test, either software interference or Windows settings are preventing the keys from working correctly. In that case, start applying the remaining fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Apply Some Preliminary Checks
 
  Before moving on to in-depth troubleshooting, carry out the following preliminary checks:
@@ -57,6 +62,10 @@ After logging into your computer, start applying the following fixes.
 
 If the above fixes do not work, start applying the remaining fixes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Is a Certain Set of Keys Not Working on Your Laptop?
 
  Laptop keys are broadly divided into five main types. These include alphanumeric keys, control keys, function keys, navigation keys, and numeric keypad keys. Some modern keyboards also come with special keys, such as multimedia keys.
@@ -67,9 +76,6 @@ If the above fixes do not work, start applying the remaining fixes.
 
  However, if some of the keys in one or more of these sets are no longer working (randomly), keep applying the remaining fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Run the Keyboard Troubleshooter
 
  Microsoft Windows includes a keyboard troubleshooter designed to diagnose and fix keyboard problems. In most cases, running this troubleshooter fixes most keyboard problems without the need for further action. Follow these steps to run the keyboard troubleshooter:
@@ -81,13 +87,11 @@ If the above fixes do not work, start applying the remaining fixes.
 ![Click on the Run Button Next to the Keyboard Troubleshooter in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/4-click-on-the-run-button-next-to-the-keyboard-troubleshooter-in-windows-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Then, follow the on-screen instructions if you are prompted to follow them. Most likely, the troubleshooter will make the changes automatically. If not, the troubleshooter will suggest you a few changes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Update or Reinstall the Keyboard Drivers
 
  Outdated or corrupt drivers can cause unforeseen problems with computer peripherals. So, if you have not updated your keyboard drivers in a long time, this is a good time to do so. Follow these steps to update the keyboard drivers:
@@ -96,6 +100,10 @@ If the above fixes do not work, start applying the remaining fixes.
 2. Expand the**Keyboards** category.
 3. Right-click on the keyboard driver you want to update and click**Update** .  
 ![Update the Relevant Keyboard Driver in Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/5-update-the-relevant-keyboard-driver-in-windows-device-manager.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If updating the keyboard driver does not make any difference, reinstall it. To uninstall a keyboard driver, right-click it and select**Uninstall device** . Then, click**OK** in the confirmation popup. After that, restart your device, and Windows will hopefully reinstall the drivers.
 
@@ -111,15 +119,13 @@ If the above fixes do not work, start applying the remaining fixes.
 5. Disable the toggle next to**Underline access keys** .  
 ![Disable Certain Keyboard Settings in the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/7-disable-certain-keyboard-settings-in-the-windows-settings-app.jpg)
 6. Then, go to**Typing** under**Related settings** .  
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Go to Typing Settings Under Related Settings in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/8-go-to-typing-settings-under-related-settings-in-windows-settings-app.jpg)
 7. Turn off the toggles next to **Show text suggestions when typing on the physical keyboard** and**Multilingual text suggestions** .  
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Turn Off the Toggles Next to Show Text Suggestions When Typing on the Physical Keyboard and Multilingual Text Suggestions in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/9-turn-off-the-toggles-next-to-show-text-suggestions-when-typing-on-the-physical-keyboard-and-multilingual-text-suggestions-in-windows-settings-app.jpg)
 8. After that, click on**Advanced keyboard settings** and make sure the correct language option is selected.
 
@@ -127,14 +133,11 @@ If the above fixes do not work, start applying the remaining fixes.
 
  Having difficulty using some keyboard keys can be distressing. Hopefully, the above fixes will help you resolve the underlying issue, allowing you to regain access to the problematic keys. If the keys turn out to be defective during the test, or if none of the above fixes resolve the problem, have your laptop or external keyboard inspected by a technician.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -143,4 +146,19 @@ If the above fixes do not work, start applying the remaining fixes.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-master-mac-audio-an-in-depth-look-at-using-audacity-for-recordings-for-2024/"><u>[Updated] Master Mac Audio An In-Depth Look at Using Audacity for Recordings for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-your-guide-to-gaining-facebooks-elite-verification-badge/"><u>2024 Approved Your Guide to Gaining Facebook's Elite Verification Badge</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-lava-blaze-2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/game-changing-tactics-to-record-high-stakes-gameplay-for-2024/"><u>Game-Changing Tactics to Record High-Stakes Gameplay for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-system-restore-in-windows-a-comprehensible-tutorial/"><u>Navigating System Restore in Windows: A Comprehensible Tutorial</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-mobile-video-editing-alternatives-to-powerdirector-top-picks/"><u>New In 2024, Mobile Video Editing Alternatives to PowerDirector Top Picks</u></a></li>
+<li><a href="https://windows11.techidaily.com/preserve-digital-progress-consistent-backups-on-windows/"><u>Preserve Digital Progress: Consistent Backups on Windows</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/1720670150121-stellar-repair-for-ms-sql-testimonial-by-microsoft-mvp-damian/"><u>Stellar Repair for MS SQL Testimonial by Microsoft MVP Damian ...</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailor-fit-window-color-schemes-with-winterral/"><u>Tailor-Fit Window Color Schemes with WinTerral</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-for-connecting-external-displays-to-your-mac/"><u>Troubleshooting Tips for Connecting External Displays to Your Mac</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unwavering-pictures-vivid-videos/"><u>Unwavering Pictures, Vivid Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-a-beginners-guide-to-screensavers/"><u>Win11: A Beginner's Guide to Screensavers</u></a></li>
+</ul></div>
 

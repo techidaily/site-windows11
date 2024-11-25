@@ -1,7 +1,7 @@
 ---
 title: "Mastering Windows: A Guide to Reading QR Codes"
-date: 2024-09-29T20:15:35.192Z
-updated: 2024-10-01T18:49:52.956Z
+date: 2024-11-18T18:54:25.656Z
+updated: 2024-11-24T18:49:15.038Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/ebbfd91fc57bf5ea9818d4e87d8cfd35544a71921
 
  You're probably used to scanning QR codes with your smartphone to access email addresses, phone numbers, and website links. But how do you scan them on a Windows PC without your phone? Let's see.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Scan QR Codes Using the Windows Camera App
 
  Microsoft added a QR code scanner to its native camera app for Windows. You can use the app to quickly scan a QR code on both Windows 10 and Windows 11 computers. Here are the steps for either OS:
@@ -35,16 +39,7 @@ thumbnail: https://thmb.techidaily.com/ebbfd91fc57bf5ea9818d4e87d8cfd35544a71921
 ![Windows Camera Barcode Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-camera-barcode-option.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It's worth noting that the QR code option in the Camera app may not be visible if you aren't running the most recent version of Windows. In this case, you must enable the experimental features in the Windows Camera app to access the QR code option. Here's how:
@@ -69,10 +64,11 @@ thumbnail: https://thmb.techidaily.com/ebbfd91fc57bf5ea9818d4e87d8cfd35544a71921
 ![Scan QR Code From an Image on Windows PC Using an Online Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/scan-qr-code-from-an-image-on-windows-pc-using-an-online-service-copy.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. How to Scan QR Codes Using the Codex App on Windows
@@ -86,17 +82,14 @@ thumbnail: https://thmb.techidaily.com/ebbfd91fc57bf5ea9818d4e87d8cfd35544a71921
 ![Scan QR Code in Codex App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/scan-qr-code-in-codex-app.jpg)
 3. Select the **Camera** option.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Allow the Codex app permission to use the camera by selecting **Yes**.
 5. Place the QR code in front of the camera.
 6. The app will automatically scan your QR code and open it in the in-app browser.  
 ![Scan QR Code in Codex App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/scan-qr-code-in-codex-app-on-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you want to scan a QR code from an existing image on your computer, follow these steps instead:
 
@@ -106,13 +99,6 @@ thumbnail: https://thmb.techidaily.com/ebbfd91fc57bf5ea9818d4e87d8cfd35544a71921
 4. Locate the image containing the QR code and click **Open**.  
 ![Scan QR Code From Image on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/scan-qr-code-from-image-on-windows.jpg)
 5. The app will immediately scan the QR code within the selected image and open it.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You now know some quick and simple ways to scan QR codes on your Windows computer. The QR scanner built into the Camera app, a dedicated QR code scanner app, or a web-based solution should be all you need for everyday use.
 
@@ -127,14 +113,22 @@ thumbnail: https://thmb.techidaily.com/ebbfd91fc57bf5ea9818d4e87d8cfd35544a71921
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-top-12-solutions-to-decipher-and-display-hidden-video-posts-on-fb/"><u>[New] Top 12 Solutions to Decipher and Display Hidden Video Posts on FB</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/all-you-need-to-know-about-sonys-coming-vehicle-afeela-release-info-and-what-we-expect-inside/"><u>All You Need to Know About Sony's Coming Vehicle: Afeela - Release Info and What We Expect Inside</u></a></li>
-<li><a href="https://network-issues.techidaily.com/cooling-fix-ends-overheating/"><u>Cooling Fix Ends Overheating</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-microsoft-store-glitches-error-x80072f17-guide/"><u>Correcting Microsoft Store Glitches: Error X80072F17 Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-windows-task-error-0x8007000f-quickly/"><u>Correcting Windows Task Error 0X8007000F Quickly</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/discover-the-ultimate-list-of-accessible-turkish-shows-in-2er-featuring-english-dubs-for-non-turkish-speakers-insights/"><u>Discover the Ultimate List of Accessible Turkish Shows in 2Er, Featuring English Dubs for Non-Turkish Speakers - Insights</u></a></li>
-<li><a href="https://windows11.techidaily.com/immediate-steps-for-finding-absent-registry-program/"><u>Immediate Steps for Finding Absent Registry Program</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-samsung-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Samsung without backup.</u></a></li>
-<li><a href="https://windows11.techidaily.com/unleash-creativity-windows-outlook-calendar-personalization-guide/"><u>Unleash Creativity: Windows Outlook Calendar Personalization Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-best-zoom-webcams-compared-the-elite-six/"><u>[New] Best Zoom Webcams Compared - The Elite Six</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-starting-strong-with-the-best-studio-tech-for-novices/"><u>[Updated] 2024 Approved Starting Strong with the Best Studio Tech for Novices</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-gb-required-for-one-full-movie-hour-by-hour/"><u>[Updated] GB Required for One Full Movie, Hour by Hour</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-lens-clarity-not-cloudiness-anti-fog-tips-for-gopro/"><u>2024 Approved Lens Clarity, Not Cloudiness Anti-Fog Tips for GoPro</u></a></li>
+<li><a href="https://windows11.techidaily.com/8-ways-to-fix-the-windows-pin-not-working-in-windows-11-and-11/"><u>8 Ways to Fix the Windows PIN Not Working in Windows 11 & 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-the-high-demand-of-ntoskrnlexe-processes/"><u>Addressing the High Demand of Ntoskrnl.exe Processes</u></a></li>
+<li><a href="https://windows11.techidaily.com/bestow-magical-menus-on-your-pc/"><u>Bestow Magical Menus on Your PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-black-backgrounds-on-your-windows-pc/"><u>Bypassing Black Backgrounds on Your Windows PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/cant-choose-a-drive-to-install-games-on-the-xbox-app-for-windows-try-these-fixes/"><u>Can't Choose a Drive to Install Games on the Xbox App for Windows? Try These Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/clear-the-way-to-privacy-with-simple-steps-for-ms-defender/"><u>Clear the Way to Privacy with Simple Steps for MS Defender</u></a></li>
+<li><a href="https://windows11.techidaily.com/de-cluttering-notifications-tips-for-windows-11-users/"><u>De-Cluttering Notifications: Tips for Windows 11 Users</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/event-harmony-sourcing-perfect-dj-video-templates/"><u>Event Harmony Sourcing Perfect DJ Video Templates</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-how-to-prepare-your-fb-content-hv-orientation-matters/"><u>In 2024, How to Prepare Your FB Content H/V Orientation Matters</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719366391353-keyboards-on-the-ropes-reclaim-your-arrows/"><u>Keyboards on the Ropes? Reclaim Your Arrows!</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/microsoft-video-editor-tutorial-simplify-your-video-editing-experience/"><u>Microsoft Video Editor Tutorial Simplify Your Video Editing Experience</u></a></li>
+<li><a href="https://win-bits.techidaily.com/schlusselstrategien-fur-das-wiederherstellen-von-systemen-beseitigung-der-rucksetzprobleme-bei-windows-11/"><u>Schlüsselstrategien Für Das Wiederherstellen Von Systemen: Beseitigung Der Rücksetzprobleme Bei Windows 11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-lava-blaze-2-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Lava Blaze 2 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
 </ul></div>
 

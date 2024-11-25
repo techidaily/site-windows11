@@ -1,7 +1,7 @@
 ---
 title: Say No More to Failed Uploads in Google Chrome for Your PC, WIN
-date: 2024-08-22T21:35:38.278Z
-updated: 2024-08-23T21:35:38.278Z
+date: 2024-11-18T19:33:27.088Z
+updated: 2024-11-25T00:10:38.662Z
 tags:
   - windows10
   - windows11
@@ -36,11 +36,12 @@ thumbnail: https://thmb.techidaily.com/cb7e01d77e11396989975642eff6b3a0f56218967
 
 ![Open Incognito Window in Google Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/open-incognito-window-in-google-chrome.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After that, try uploading files and check if the issue occurs again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Disable Browser Extensions
 
  If you are able to upload files without issue in an incognito window, it is likely that one of your extensions is causing the problem. To identify it, you will need to disable all of the extensions and then re-enable them one at a time.
@@ -65,11 +66,12 @@ thumbnail: https://thmb.techidaily.com/cb7e01d77e11396989975642eff6b3a0f56218967
 3. Disable the toggle next to **Energy saver**.  
 ![Turn Off Energy Saver in Google Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/turn-off-energy-saver-in-google-chrome.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After completing the above steps, see if you can upload files without any issues.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ## 5\. Disable Your Antivirus
 
  Many third-party antivirus programs have web protection features that are intended to safeguard you while you browse the internet. However, these antivirus programs can sometimes be intrusive and prevent file uploads in Chrome.
@@ -81,8 +83,9 @@ thumbnail: https://thmb.techidaily.com/cb7e01d77e11396989975642eff6b3a0f56218967
  If this solves your problem, you will need to review the web protection settings in your antivirus program and make the necessary changes to avoid any issues.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Install Any Pending Google Chrome Updates
 
  Another reason why you might be unable to upload files in Google Chrome is if you are using an outdated or buggy version of the browser. Although Google Chrome typically updates automatically, this may not happen if you have not closed the browser in a while.
@@ -106,13 +109,11 @@ thumbnail: https://thmb.techidaily.com/cb7e01d77e11396989975642eff6b3a0f56218967
 ![Set Up New Chrome Profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/set-up-new-chrome-profile.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Switch to the newly created profile and try to upload files again. If this fixes your problem, you can consider [deleting the old Google Chrome profile](https://www.makeuseof.com/how-to-delete-google-chrome-profile/).
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Reset Chrome Settings
 
  If you still can't upload files in Google Chrome, you can reset the browser as a last resort. This will remove all of your custom settings, disable extensions, and delete other temporary data. However, your saved bookmarks and passwords will not be affected, so you don't need to worry about them.
@@ -126,18 +127,21 @@ thumbnail: https://thmb.techidaily.com/cb7e01d77e11396989975642eff6b3a0f56218967
 5. Click **Reset settings** to confirm.  
 ![Reset Google Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/reset-google-chrome.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After resetting Chrome, restart it, and the issue should bother you.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Experience Effortless Uploads Again With Chrome on Windows
 
  Google Chrome may be a popular browser, but it is not without its flaws. Sometimes, Chrome may disappoint you by not allowing you to upload files from your Windows computer. Hopefully, this is no longer the case, and one of the tips above has helped resolve the issue.
 
  If you're not ready to give up on your favorite browser just yet, here are some tips that should restore your ability to upload files in Google Chrome
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -145,3 +149,25 @@ thumbnail: https://thmb.techidaily.com/cb7e01d77e11396989975642eff6b3a0f56218967
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-optimize-your-content-youtube-seo-techniques-and-gadgets/"><u>[New] 2024 Approved Optimize Your Content YouTube SEO Techniques and Gadgets</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-fundamentals-of-gif-animation-mastery/"><u>[Updated] Fundamentals of GIF Animation Mastery</u></a></li>
+<li><a href="https://techidaily.com/enhance-user-experience-with-easy-top-down-scrolls-and-multi-platform-linkage-to-facebook-linkedin-and-youtube/"><u>Enhance User Experience with Easy Top-Down Scrolls & Multi-Platform Linkage to Facebook, LinkedIn & YouTube</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-frozen-resource-monitor-applications-on-win11/"><u>Fixing Frozen Resource Monitor Applications on Win11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-excel-2016-files-by-stellar-guide/"><u>How to Repair Corrupt Excel 2016 Files</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-the-pinnacle-selector-your-personal-video-vault/"><u>In 2024, The Pinnacle Selector Your Personal Video Vault</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mastering-screen-recording-techniques-for-laptops-a-step-by-step-tutorial-for-windows-and-macos-users/"><u>Mastering Screen Recording Techniques for Laptops: A Step-by-Step Tutorial for Windows and macOS Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-without-powershell-on-windows-system/"><u>Navigating Without PowerShell on Windows System</u></a></li>
+<li><a href="https://windows11.techidaily.com/reawaken-your-computers-usb-a-quick-fix-guide-windows/"><u>Reawaken Your Computer's USB: A Quick Fix Guide, Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/reformatting-esd-files-as-linux-and-windows-isos-with-precision/"><u>Reformatting ESD Files as Linux and Windows ISOs with Precision</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-unresponsive-pc-mouse-connections/"><u>Resolving Unresponsive PC Mouse Connections</u></a></li>
+<li><a href="https://windows11.techidaily.com/setting-up-an-everlasting-file-eraser-a-user-guide-to-customizing-windows-11s-trash/"><u>Setting up an Everlasting File Eraser: A User Guide to Customizing Windows 11'S Trash</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Vivo Y200? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-art-of-life-balancing-using-chatgpt-as-your-secret-weapon/"><u>The Art of Life Balancing: Using ChatGPT as Your Secret Weapon</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-nostalgic-pathway-transform-windows-11-to-98/"><u>The Nostalgic Pathway: Transform Windows 11 to '98</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-rebirth-techniques-three-simple-resets/"><u>Windows Rebirth Techniques: Three Simple Resets</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Navigating with Assistance: Essential Keybindings in Windows 11"
-date: 2024-11-13T16:44:50.867Z
-updated: 2024-11-15T16:15:50.012Z
+date: 2024-11-17T21:50:36.376Z
+updated: 2024-11-24T22:41:17.198Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/60aeb73e6646ca7cba89b069f503754c9115c11cb
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## All the Narrator Keyboard Shortcuts in Windows 11
 
@@ -181,10 +185,7 @@ Here are all the Narrator shortcuts available to you:
 | Narrator + Ctrl + Enter                         | Toggle search mode                                    |
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Windows Narrator Can Do More
@@ -206,17 +207,20 @@ Here are all the Narrator shortcuts available to you:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-essential-tips-for-screen-recording-on-lenovo-devices-for-2024/"><u>[New] Essential Tips for Screen Recording on Lenovo Devices for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-sound-of-success-tailoring-audio-for-instagram-content/"><u>[Updated] 2024 Approved The Sound of Success Tailoring Audio for Instagram Content</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-anonymous-surveillance-methods-hiding-private-data-effectively/"><u>[Updated] In 2024, Anonymous Surveillance Methods Hiding Private Data Effectively</u></a></li>
-<li><a href="https://win-superb.techidaily.com/access-and-control-spotify-tunes-with-your-apple-watch-comprehensive-instructions/"><u>Access and Control Spotify Tunes with Your Apple Watch - Comprehensive Instructions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-reasons-behind-italy-prohibiting-chatgpt-suddenly/"><u>Exploring the Reasons Behind Italy Prohibiting ChatGPT Suddenly</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-poco-x5-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Poco X5</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/keep-it-fresh-tips-on-storing-your-chatgpt-dialogue-securely/"><u>Keep It Fresh: Tips on Storing Your ChatGPT Dialogue Securely</u></a></li>
-<li><a href="https://windows11.techidaily.com/launching-startup-repair-in-windows-a-guide/"><u>Launching Startup Repair in Windows: A Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-past-s-mode-a-windows-users-roadmap/"><u>Navigating Past 'S Mode': A Windows User's Roadmap</u></a></li>
-<li><a href="https://windows11.techidaily.com/power-up-your-command-line-discover-the-top-20-cmd-commands/"><u>Power Up Your Command Line: Discover the Top 20 CMD Commands</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-the-power-of-openais-whisper-on-your-windows-pc/"><u>Unveiling the Power of OpenAI's Whisper on Your Windows PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/why-choose-linux-without-windows-subsystem/"><u>Why Choose Linux without Windows Subsystem?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/xplore-eco-films-learn-and-innovate-with-yts-green-screens-for-2024/"><u>[New] Explore Eco-Films Learn & Innovate with YT's Green Screens for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nderstanding-and-executing-essential-mukbang-elements/"><u>[New] Understanding and Executing Essential Mukbang Elements</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-premier-racing-games-roundup/"><u>[Updated] In 2024, Premier Racing Games Roundup</u></a></li>
+<li><a href="https://windows11.techidaily.com/audio-visual-verification-a-windows-users-pre-meet-checklist/"><u>Audio Visual Verification: A Windows User’s Pre-Meet Checklist</u></a></li>
+<li><a href="https://solve-help.techidaily.com/best-methods-for-reducing-the-size-of-your-mkv-files-without-cost/"><u>Best Methods for Reducing the Size of Your MKV Files Without Cost</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/experts-rate-the-robustness-and-value-of-omotons-t1-tablet-support/"><u>Experts Rate the Robustness & Value of Omoton's T1 Tablet Support</u></a></li>
+<li><a href="https://windows11.techidaily.com/free-media-titans-for-effortless-windows-experience/"><u>Free Media Titans for Effortless Windows Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-stop-recurring-disk-full-issues-in-windows/"><u>How to Stop Recurring Disk Full Issues in Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Infinix Smart 7? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/samsung-galaxy-xcover-6-pro-tactical-edition-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy XCover 6 Pro Tactical Edition Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-all-in-one-laptop-review-how-the-hp-chromebook-11-excels-in-study-sessions-office-tasks-and-gaming-adventures/"><u>The All-in-One Laptop Review: How the HP Chromebook 11 Excels in Study Sessions, Office Tasks & Gaming Adventures</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-guide-vmware-crashes-bsod-on-win11/"><u>Troubleshooting Guide: VMware Crashes, BSOD on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/what-is-ftdibussys-on-windows-and-why-does-it-disable-memory-integrity/"><u>What Is ftdibus.sys on Windows and Why Does It Disable Memory Integrity?</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-window-wizardry-how-to-reactivate-off-screen-apps/"><u>Windows 11 Window Wizardry: How to Reactivate Off-Screen Apps</u></a></li>
 </ul></div>
 
