@@ -29,9 +29,8 @@
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/reset-windows-update-components-using-command-prompt.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/save-a-notepad-file.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/reset-windows-update-components-using-a-batch-file.jpg">
-<meta property="og:image" content="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg">
-<meta property="article:published_time" content="2024-08-22T13:32:47.862Z">
-<meta property="article:modified_time" content="2024-08-23T13:32:47.862Z">
+<meta property="article:published_time" content="2024-12-02T08:55:54.495Z">
+<meta property="article:modified_time" content="2024-12-03T08:38:08.476Z">
 <meta property="article:author" content="Joseph">
 <meta property="article:tag" content="windows10">
 <meta property="article:tag" content="windows11">
@@ -717,15 +716,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-08-22 21:32:47</span>
-        <span class="mobile">2024-08-22 21:32:47</span>
+        <span class="desktop">2024-12-02 16:55:54</span>
+        <span class="mobile">2024-12-02 16:55:54</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-08-23 21:32:47</span>
-            <span class="mobile">2024-08-23 21:32:47</span>
+            <span class="desktop">2024-12-03 16:38:08</span>
+            <span class="mobile">2024-12-03 16:38:08</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -793,35 +792,34 @@
 <p> This guide will provide a detailed walkthrough for both methods, allowing you to effectively reset the Windows Update components.</p>
 <h2 id="1-How-to-Reset-the-Windows-Update-Components-Manually"><a href="#1-How-to-Reset-the-Windows-Update-Components-Manually" class="headerlink" title="1. How to Reset the Windows Update Components Manually"></a>1. How to Reset the Windows Update Components Manually</h2><p> The most common method for resetting Windows Update components is through the Command Prompt. Here are the steps you can follow.</p>
 <ol>
-<li><p>Right-click on the <strong>Start icon</strong> and select <strong>Terminal (Admin)</strong> from the list.</p>
-</li>
-<li><p>Select <strong>Yes</strong> when the User Account Control (UAC) prompt shows up.</p>
-</li>
-<li><p>Copy and paste the following commands one by one and press <strong>Enter</strong> after each command to stop each service related to Windows Update.<br><code>net stop bits   net stop wuauserv   net stop appidsvc   net stop cryptsvc</code><br><img  
+<li>Right-click on the <strong>Start icon</strong> and select <strong>Terminal (Admin)</strong> from the list.</li>
+<li>Select <strong>Yes</strong> when the User Account Control (UAC) prompt shows up.</li>
+<li>Copy and paste the following commands one by one and press <strong>Enter</strong> after each command to stop each service related to Windows Update.<br><code>net stop bits   net stop wuauserv   net stop appidsvc   net stop cryptsvc</code><br><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/reset-windows-update-components-using-command-prompt.jpg"
                       alt="Reset Windows Update Components Using Command Prompt"
-                ></p>
-</li>
-<li><p>Run the following command to delete the <strong>qmgr*.dat</strong> files.<br><code>Del &quot;%ALLUSERSPROFILE%\Application Data\Microsoft\Network\Downloader\*.*&quot;</code></p>
-</li>
-<li><p>Enter <strong>Y</strong> to confirm.</p>
-</li>
-<li><p>Type the following commands and press <strong>Enter</strong> after each to delete all the Windows Update files.<br><code>rmdir %systemroot%\SoftwareDistribution /S /Q   rmdir %systemroot%\system32\catroot2 /S /Q</code></p>
-</li>
-<li><p>Type the following commands and press <strong>Enter</strong> after each to reset the BITS and Windows Update services to their default security descriptors.<br><code>sc.exe sdset bits D:(A;;CCLCSWRPWPDTLOCRRC;;;SY)(A;;CCDCLCSWRPWPDTLOCRSDRCWDWO;;;BA)(A;;CCLCSWLOCRRC;;;AU)(A;;CCLCSWRPWPDTLOCRRC;;;PU)   sc.exe sdset wuauserv D:(A;;CCLCSWRPWPDTLOCRRC;;;SY)(A;;CCDCLCSWRPWPDTLOCRSDRCWDWO;;;BA)(A;;CCLCSWLOCRRC;;;AU)(A;;CCLCSWRPWPDTLOCRRC;;;PU)</code></p>
-</li>
-<li><p>Now, run the following command to navigate to the <strong>System32</strong> folder.<br><code>cd /d %windir%\system32</code></p>
-</li>
-<li><p>Copy and paste the following commands individually and press <strong>Enter</strong> after each to re-register all the BITS and Windows Update files.<br><code>regsvr32.exe /s atl.dll   regsvr32.exe /s urlmon.dll   regsvr32.exe /s mshtml.dll   regsvr32.exe /s shdocvw.dll   regsvr32.exe /s browseui.dll   regsvr32.exe /s jscript.dll   regsvr32.exe /s vbscript.dll   regsvr32.exe /s scrrun.dll   regsvr32.exe /s msxml.dll   regsvr32.exe /s msxml3.dll   regsvr32.exe /s msxml6.dll   regsvr32.exe /s actxprxy.dll   regsvr32.exe /s softpub.dll   regsvr32.exe /s wintrust.dll   regsvr32.exe /s dssenh.dll   regsvr32.exe /s rsaenh.dll   regsvr32.exe /s gpkcsp.dll   regsvr32.exe /s sccbase.dll   regsvr32.exe /s slbcsp.dll   regsvr32.exe /s cryptdlg.dll   regsvr32.exe /s oleaut32.dll   regsvr32.exe /s ole32.dll   regsvr32.exe /s shell32.dll   regsvr32.exe /s initpki.dll   regsvr32.exe /s wuapi.dll   regsvr32.exe /s wuaueng.dll   regsvr32.exe /s wuaueng1.dll   regsvr32.exe /s wucltui.dll   regsvr32.exe /s wups.dll   regsvr32.exe /s wups2.dll   regsvr32.exe /s wuweb.dll   regsvr32.exe /s qmgr.dll   regsvr32.exe /s qmgrprxy.dll   regsvr32.exe /s wucltux.dll   regsvr32.exe /s muweb.dll   regsvr32.exe /s wuwebv.dll</code></p>
-</li>
-<li><p>Type the following and press <strong>Enter</strong> to reset Winsock (Windows Sockets).<br><code>netsh winsock reset</code></p>
-</li>
-<li><p>Copy and paste the following commands one by one and press <strong>Enter</strong> after each to restart the services related to Windows Update.<br><code>net start bits   net start wuauserv   net start appidsvc   net start cryptsvc</code></p>
-</li>
+                ></li>
+<li>Run the following command to delete the <strong>qmgr*.dat</strong> files.</li>
+</ol>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<p><code>Del &quot;%ALLUSERSPROFILE%\Application Data\Microsoft\Network\Downloader\*.*&quot;</code><br>5. Enter <strong>Y</strong> to confirm.</p>
+<ol>
+<li>Type the following commands and press <strong>Enter</strong> after each to delete all the Windows Update files.<br><code>rmdir %systemroot%\SoftwareDistribution /S /Q   rmdir %systemroot%\system32\catroot2 /S /Q</code></li>
+<li>Type the following commands and press <strong>Enter</strong> after each to reset the BITS and Windows Update services to their default security descriptors.<br><code>sc.exe sdset bits D:(A;;CCLCSWRPWPDTLOCRRC;;;SY)(A;;CCDCLCSWRPWPDTLOCRSDRCWDWO;;;BA)(A;;CCLCSWLOCRRC;;;AU)(A;;CCLCSWRPWPDTLOCRRC;;;PU)   sc.exe sdset wuauserv D:(A;;CCLCSWRPWPDTLOCRRC;;;SY)(A;;CCDCLCSWRPWPDTLOCRSDRCWDWO;;;BA)(A;;CCLCSWLOCRRC;;;AU)(A;;CCLCSWRPWPDTLOCRRC;;;PU)</code></li>
+<li>Now, run the following command to navigate to the <strong>System32</strong> folder.<br><code>cd /d %windir%\system32</code></li>
+<li>Copy and paste the following commands individually and press <strong>Enter</strong> after each to re-register all the BITS and Windows Update files.<br><code>regsvr32.exe /s atl.dll   regsvr32.exe /s urlmon.dll   regsvr32.exe /s mshtml.dll   regsvr32.exe /s shdocvw.dll   regsvr32.exe /s browseui.dll   regsvr32.exe /s jscript.dll   regsvr32.exe /s vbscript.dll   regsvr32.exe /s scrrun.dll   regsvr32.exe /s msxml.dll   regsvr32.exe /s msxml3.dll   regsvr32.exe /s msxml6.dll   regsvr32.exe /s actxprxy.dll   regsvr32.exe /s softpub.dll   regsvr32.exe /s wintrust.dll   regsvr32.exe /s dssenh.dll   regsvr32.exe /s rsaenh.dll   regsvr32.exe /s gpkcsp.dll   regsvr32.exe /s sccbase.dll   regsvr32.exe /s slbcsp.dll   regsvr32.exe /s cryptdlg.dll   regsvr32.exe /s oleaut32.dll   regsvr32.exe /s ole32.dll   regsvr32.exe /s shell32.dll   regsvr32.exe /s initpki.dll   regsvr32.exe /s wuapi.dll   regsvr32.exe /s wuaueng.dll   regsvr32.exe /s wuaueng1.dll   regsvr32.exe /s wucltui.dll   regsvr32.exe /s wups.dll   regsvr32.exe /s wups2.dll   regsvr32.exe /s wuweb.dll   regsvr32.exe /s qmgr.dll   regsvr32.exe /s qmgrprxy.dll   regsvr32.exe /s wucltux.dll   regsvr32.exe /s muweb.dll   regsvr32.exe /s wuwebv.dll</code></li>
+<li>Type the following and press <strong>Enter</strong> to reset Winsock (Windows Sockets).<br><code>netsh winsock reset</code></li>
+<li>Copy and paste the following commands one by one and press <strong>Enter</strong> after each to restart the services related to Windows Update.<br><code>net start bits   net start wuauserv   net start appidsvc   net start cryptsvc</code></li>
 </ol>
 <p> Close the Command Prompt window and restart your PC to apply the changes. If you’re interested in discovering more useful commands, check our guide on the <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/tag/15-cmd-commands-every-windows-user-know/" >best Command Prompt commands <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> for Windows.</p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <h2 id="2-How-to-Reset-the-Windows-Update-Components-Using-a-Batch-File"><a href="#2-How-to-Reset-the-Windows-Update-Components-Using-a-Batch-File" class="headerlink" title="2. How to Reset the Windows Update Components Using a Batch File"></a>2. How to Reset the Windows Update Components Using a Batch File</h2><p> Another way to reset Windows Update components is to <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/tag/write-simple-batch-bat-file/" >create and run a batch file in Windows <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. Here are the steps to make one:</p>
 <ol>
 <li>Press <strong>Win + S</strong> to open the search menu.</li>
@@ -834,6 +832,12 @@
                       alt="Save a Notepad File"
                 ></li>
 <li>Enter <strong>Reset Windows Components.bat</strong> in the name field and specify your preferred location for saving the file.</li>
+</ol>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<ol start="6">
 <li>Click the <strong>Save as type</strong> drop-down menu to select <strong>All files</strong>, then click on <strong>Save</strong>.</li>
 <li>Locate the saved batch file on your PC. Right-click on it and select <strong>Run as administrator</strong> from the context menu.</li>
 <li>Select <strong>Yes</strong> when the User Account Control (UAC) prompt appears.<br><img  
@@ -843,15 +847,15 @@
                       alt="Reset Windows Update Components Using a Batch File"
                 ></li>
 </ol>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <p> Once you’ve executed the batch file, feel free to keep it around. That way, the next time you encounter problems with Windows Update, you can run the file again without having to repeat the above steps.</p>
 <!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg"
-                      border="0"
-                ></a></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <h2 id="Reset-the-Windows-Update-Components-to-Fix-Problems"><a href="#Reset-the-Windows-Update-Components-to-Fix-Problems" class="headerlink" title="Reset the Windows Update Components to Fix Problems"></a>Reset the Windows Update Components to Fix Problems</h2><p> Downloading and installing Windows updates may not always be smooth. In such cases, resetting the Windows Update components can prove effective. However, if that doesn’t work, you may have to try your luck with other Windows Update fixes.</p>
 <p> This guide will provide a detailed walkthrough for both methods, allowing you to effectively reset the Windows Update components.</p>
 <p><ins class="adsbygoogle"
@@ -860,6 +864,22 @@
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins></p>
+<p><span class="atpl-alsoreadstyle">Also read:</span></p>
+<div><ul>
+<li><a target="_blank" rel="noopener" href="https://youtube-sure.techidaily.com/ed-in-2024-choosing-free-video-editing-software-on-iphone-and-ipad/"><u>[Updated] In 2024, Choosing Free Video Editing Software on iPhone & iPad</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://instagram-videos.techidaily.com/updated-instagram-riches-301-safe-and-highest-earning-strategies/"><u>[Updated] Instagram Riches 301 Safe and Highest Earning Strategies</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://win-blog.techidaily.com/5-essential-troubleshooting-steps-when-roblox-wont-start/"><u>5 Essential Troubleshooting Steps When Roblox Won't Start</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-unnoticed-use-of-your-pcs-cam-on-windows-11/"><u>Avoiding Unnoticed Use of Your PC's Cam on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-another-program-uses-device-in-windows-sound-system/"><u>Correcting 'Another Program Uses Device' In Windows Sound System</u></a></li>
+<li><a href="https://windows11.techidaily.com/cutting-edge-tips-for-individualized-pattern-security-on-windows/"><u>Cutting-Edge Tips for Individualized Pattern Security on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/dazzling-holiday-windows-a-celebration-of-joy-and-light/"><u>Dazzling Holiday Windows: A Celebration of Joy & Light</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://tech-renaissance.techidaily.com/exploring-the-functionality-of-teslas-dog-mode-a-comprehensive-guide/"><u>Exploring the Functionality of Tesla's Dog Mode: A Comprehensive Guide</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://win-howtos.techidaily.com/hp-laptop-keyboard-troubles-heres-how-to-make-it-work-again/"><u>HP Laptop Keyboard Troubles? Here's How to Make It Work Again</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://instagram-video-recordings.techidaily.com/in-2024-from-zero-to-hero-making-your-instagram-videos-go-wild/"><u>In 2024, From Zero to Hero Making Your Instagram Videos Go Wild</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719340671976-run-a-zero-cost-locally-accessible-gpt-on-your-pc-use-gpt4all/"><u>Run a Zero-Cost, Locally Accessible GPT on Your PC – Use GPT4All</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://remote-screen-capture.techidaily.com/screen-recording-pros-bandicam-or-camtasia-in-2024/"><u>Screen Recording Pros Bandicam or Camtasia, In 2024</u></a></li>
+</ul></div>
+
 
         </div>
 
@@ -870,11 +890,11 @@
         <li><strong>Title:</strong> Instant Fix: Resetting Windows Update Issues</li>
         <li><strong>Author:</strong> Joseph</li>
         <li><strong>Created at
-                :</strong> 2024-08-22 21:32:47</li>
+                :</strong> 2024-12-02 16:55:54</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2024-08-23 21:32:47
+                    :</strong> 2024-12-03 16:38:08
             </li>
         
         <li>
@@ -918,13 +938,13 @@
                     <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="prev"
                         rel="prev"
-                        href="/win11-clipchamp-hurdle-heres-the-fix-guide/"
+                        href="/master-snippet-pasting-windows-shortcuts-for-speed/"
                         >
                             <span class="left arrow-icon flex justify-center items-center">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </span>
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Win11 ClipChamp Hurdle? Here&#39;s the Fix Guide</span>
+                                <span class="post-nav-title-item">Master Snippet Pasting: Windows Shortcuts for Speed</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -934,10 +954,10 @@
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/unlocking-linux-potential-with-windows-programming/"
+                        href="/the-ultimate-checklist-for-saving-and-recovering-notes/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Unlocking Linux Potential with Windows Programming</span>
+                                <span class="post-nav-title-item">The Ultimate Checklist for Saving and Recovering Notes</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">

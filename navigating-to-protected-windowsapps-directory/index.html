@@ -38,8 +38,8 @@
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Change-Ownership-Command-In-Shell.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Take-Ownership-Registry-File.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Take-Ownership-Context-Menu.jpg">
-<meta property="article:published_time" content="2024-11-19T15:28:54.585Z">
-<meta property="article:modified_time" content="2024-11-24T12:42:05.983Z">
+<meta property="article:published_time" content="2024-11-28T08:05:44.140Z">
+<meta property="article:modified_time" content="2024-12-03T18:55:00.138Z">
 <meta property="article:author" content="Joseph">
 <meta property="article:tag" content="windows10">
 <meta property="article:tag" content="windows11">
@@ -725,15 +725,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-11-19 23:28:54</span>
-        <span class="mobile">2024-11-19 23:28:54</span>
+        <span class="desktop">2024-11-28 16:05:44</span>
+        <span class="mobile">2024-11-28 16:05:44</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-11-24 20:42:05</span>
-            <span class="mobile">2024-11-24 20:42:05</span>
+            <span class="desktop">2024-12-04 02:55</span>
+            <span class="mobile">2024-12-04 02:55</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -803,10 +803,6 @@
 <p> Disclaimer: This post includes affiliate links</p>
 <p> If you click on a link and make a purchase, I may receive a commission at no extra cost to you.</p>
 </blockquote>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h2 id="What-Is-the-WindowsApps-Folder"><a href="#What-Is-the-WindowsApps-Folder" class="headerlink" title="What Is the WindowsApps Folder?"></a>What Is the WindowsApps Folder?</h2><p> You can find the WindowsApps folder under the <strong>C:\Program Files</strong> directory in Windows 10 and 11. This folder has all the files related to UWP packages or Windows apps that you get from the Microsoft Store or that come preinstalled on Windows OS.</p>
 <p> The problem is that a basic Windows user or even a system administrator user account can’t access or change the files in the folder. This is because it is owned by a Microsoft account named “TrustedInstaller.” We’ve already covered <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/tag/what-is-trustedinstaller-and-why-does-it-keep-me-from-renaming-files/" >everything about TrustedInstaller <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> and how to disable it in detail.</p>
 <p><img  
@@ -815,10 +811,6 @@
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/WindowsApps-Hidden-Folder.jpg"
                       alt="WindowsApps Hidden Folder In Explorer"
                 ></p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <p> Even if you uninstall or debloat some of the apps on Windows, the core application files are not removed from the WindowsApps folder. So, there are chances that such apps will reappear after a new Windows update.</p>
 <p> This is why we recommend using one of the <a class="link"   target="_blank" rel="noopener" href="http://www.makeuseof.com/windows-11-uninstallers-stubborn-apps/" >popular software uninstallers for Windows <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. Because these tools not only uninstall an app completely but also clean up any leftovers and traces from all the secured folders.</p>
 <p> If you don’t know what you’re doing—modifying or deleting the files in the WindowsApps folder could cause system errors or even cause the Windows operating system to crash.</p>
@@ -826,32 +818,29 @@
 <h2 id="Method-1-How-to-Access-WindowsApps-via-File-Explorer"><a href="#Method-1-How-to-Access-WindowsApps-via-File-Explorer" class="headerlink" title="Method 1. How to Access WindowsApps via File Explorer"></a>Method 1. How to Access WindowsApps via File Explorer</h2><p> You can easily find the WindowsApps folder in the Windows File Explorer by unhiding the respective folder first. However, to access the folder and make changes to the files—you need to gain some extra rights by changing the ownership.</p>
 <p> Follow these steps to view the WindowsApps folder first:</p>
 <ol>
-<li>Open the Windows File Explorer (<strong>Win + E</strong>) and go to the <strong>C:\Program Files</strong> directory.<br><img  
+<li><p>Open the Windows File Explorer (<strong>Win + E</strong>) and go to the <strong>C:\Program Files</strong> directory.<br><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Program-Files-Directory-In-Explorer.jpg"
                       alt="Program Files Directory In Explorer"
-                ></li>
-<li>Now, click the <strong>View</strong> options button at the top of the File Explorer.</li>
-</ol>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<ol start="3">
-<li>Click or hover over the <strong>Show</strong> button and select the <strong>Hidden items</strong> option to enable it.<br><img  
+                ></p>
+</li>
+<li><p>Now, click the <strong>View</strong> options button at the top of the File Explorer.</p>
+</li>
+<li><p>Click or hover over the <strong>Show</strong> button and select the <strong>Hidden items</strong> option to enable it.<br><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/file-explorer-view-options.jpg"
                       alt="File Explorer View Options"
-                ></li>
+                ></p>
+</li>
 </ol>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <p> That’s it. Now, you can see theWindowsApps folder in the same directory.</p>
 <p> If you try to open it, you’ll see an information popup saying, “You have been denied permission.” So, to actually access that folder and gain exclusive read and write rights—you’ve got to do a bit more.</p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <h3 id="Change-Ownership-Properties-to-Get-Access"><a href="#Change-Ownership-Properties-to-Get-Access" class="headerlink" title="Change Ownership Properties to Get Access"></a>Change Ownership Properties to Get Access</h3><p> For the next steps, you need a user account with administrative rights. If you’re a beginner, you must know <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/tag/windows-administrator-account-everything-need-know/" >everything about the Administrator account <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> to understand the steps better.</p>
 <p> Follow the steps mentioned below to change the ownership rights and access the required folder:</p>
 <ol>
@@ -882,7 +871,7 @@
                       alt="User Group Selection Window"
                 ><br>7. Then, tick the checkbox before the <strong>Replace owner on sub containers and objects</strong> text.</p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ol start="8">
@@ -915,9 +904,17 @@
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Change-Ownership-Command-In-Shell.jpg"
                       alt="Change Ownership Command In Shell"
                 ></p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <p> The above command will restore all the files or folder ownership to the system administrator. It will take some time for your administrator user account to become the owner of the WindowsApps folder and everything in it.</p>
 <p> The access you gain by executing the above process is similar to that of the Windows File Explorer-based method. You have just automated the process and eliminated the unhiding of system files. Now, you can back up, clear some space, or make changes to the Windows apps’ back-end files.</p>
 <p> If you’re facing crashes while executing the file, make sure to check out some <a class="link"   target="_blank" rel="noopener" href="http://www.makeuseof.com/windows-powershell-has-stopped-working-error-fix/" >effective ways to fix PowerShell crash errors <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <h2 id="3-How-to-Access-WindowsApps-via-a-Registry-Hack"><a href="#3-How-to-Access-WindowsApps-via-a-Registry-Hack" class="headerlink" title="3. How to Access WindowsApps via a Registry Hack"></a>3. How to Access WindowsApps via a Registry Hack</h2><p> There’s another quick way to do the same thing with just a few steps. If you cannot use the PowerShell method stated above, you can use a simple registry hack to access the files in one go.</p>
 <p> Here’s how you can take full ownership of the context menu for your files and folders and get to the WindowsApps folder:</p>
 <ol>
@@ -931,7 +928,7 @@
 <li>On the next screen, click <strong>Yes</strong> to add it to the registry.</li>
 </ol>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ol start="4">
@@ -945,6 +942,10 @@
                 ></li>
 <li>In the Command Prompt, you must <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/tag/user-account-control-windows-10/" >give User Account Control Administrator rights <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> for the registry hack to work. After that, please wait a few minutes for the window to close. Soon, it will display success messages constantly in the Command Prompt.</li>
 </ol>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <p> Once finished, you’ll no longer face the “You’ve been denied permission” error on clicking the WindowsApps folder.</p>
 <h2 id="Enjoy-Unrestricted-Access-to-the-WindowsApps-Folder"><a href="#Enjoy-Unrestricted-Access-to-the-WindowsApps-Folder" class="headerlink" title="Enjoy Unrestricted Access to the WindowsApps Folder"></a>Enjoy Unrestricted Access to the WindowsApps Folder</h2><p> Using one of the provided methods, you should now be able to view the hidden files and folders inside the WindowsApps folder. Now that you know everything about it, you can easily make changes to the UWP packages that are safe.</p>
 <p> Moreover, in the WindowsApps folder—you can remove Windows app remnants, open any software directly from the .EXE file, and inspect all removed packages, among other things.</p>
@@ -958,25 +959,17 @@
       data-full-width-responsive="true"></ins></p>
 <p><span class="atpl-alsoreadstyle">Also read:</span></p>
 <div><ul>
-<li><a target="_blank" rel="noopener" href="https://fox-http.techidaily.com/new-in-2024-mastering-time-warp-in-video-editing/"><u>[New] In 2024, Mastering Time Warp in Video Editing</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-techniques.techidaily.com/2024-approved-finding-the-right-balance-essential-points-for-lens-shopping/"><u>2024 Approved Finding the Right Balance Essential Points for Lens Shopping</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-service-disruptions-with-steam-windows-11-style/"><u>Addressing Service Disruptions with Steam, Windows 11 Style</u></a></li>
-<li><a href="https://windows11.techidaily.com/adjusting-reset-account-lockout-counter-post-failed-sign-in-attempts/"><u>Adjusting Reset Account Lockout Counter Post-Failed Sign-In Attempts</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-cloud.techidaily.com/conquer-the-clutter-learn-bg-erasure-in-figma-designs-for-2024/"><u>Conquer the Clutter Learn BG Erasure in Figma Designs for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://games-able.techidaily.com/cozy-game-trends-a-closer-look/"><u>Cozy Game Trends: A Closer Look</u></a></li>
-<li><a href="https://windows11.techidaily.com/elevating-window-11-safety-with-best-in-class-password-protectors/"><u>Elevating Window 11 Safety with Best-in-Class Password Protectors</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-page-could-not-be-loaded-error-in-the-microsoft-store-for-windows/"><u>How to Fix the Page Could Not Be Loaded Error in the Microsoft Store for Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/installation-essentials-intel-network-adapters-for-windows-users/"><u>Installation Essentials: Intel Network Adapters for Windows Users</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-help.techidaily.com/learn-to-record-save-and-share-youtube-content-a-cost-free-approach-for-2024/"><u>Learn to Record, Save, & Share YouTube Content A Cost-Free Approach for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-http.techidaily.com/navigating-affinity-photos-features-to-excise-borders-effectively-for-2024/"><u>Navigating Affinity Photo's Features to Excise Borders Effectively for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/proactive-measures-for-sticky-notes-longevity/"><u>Proactive Measures for Sticky Notes' Longevity</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-dual-monitor-setup-problems/"><u>Resolving Dual Monitor Setup Problems</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://win-forum.techidaily.com/step-by-step-tutorial-updating-device-information-for-compatibility-in-windows-11/"><u>Step-by-Step Tutorial: Updating Device Information for Compatibility in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-future-of-personal-computing-transforming-window-11-widgets/"><u>The Future of Personal Computing: Transforming Window 11 Widgets</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-blue.techidaily.com/ultimate-action-camera-duel-hero5-black-vs-hero4-silver/"><u>Ultimate Action Camera Duel Hero5 Black VS Hero4 Silver</u></a></li>
-<li><a href="https://windows11.techidaily.com/unraveling-the-application-startup-hexadecimal-issue-error/"><u>Unraveling The Application Startup Hexadecimal Issue (Error)</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-information.techidaily.com/unveiling-the-top-10-drawing-apps-for-chromebooks/"><u>Unveiling the Top 10 Drawing Apps for Chromebooks</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-webster.techidaily.com/be-live-broadcasting-demystified-for-2024/"><u>YouTube Live Broadcasting Demystified for 2024</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fox-blue.techidaily.com/updated-revolutionary-reddit-techniques-for-aspiring-digital-wizards/"><u>[Updated] Revolutionary Reddit Techniques for Aspiring Digital Wizards</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://youtube-lab.techidaily.com/ed-youtube-movie-maker-unveiled-your-path-to-video-mastery-for-2024/"><u>[Updated] YouTube Movie Maker Unveiled Your Path to Video Mastery for 2024</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://win-exceptional.techidaily.com/iphone-e/"><u>瞭解何以iPhone上的 E 容量供能經常消失？拯救充電效果</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://tech-haven.techidaily.com/effortless-methods-for-disconnecting-microsoft-account-on-windows-10-system/"><u>Effortless Methods for Disconnecting Microsoft Account on Windows 10 System</u></a></li>
+<li><a href="https://windows11.techidaily.com/fix-network-access-error-for-google-chrome-in-windows-settings/"><u>Fix Network Access Error for Google Chrome in Windows Settings</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-itel-a60s-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Itel A60s via a USB Cable | Dr.fone</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-samsung-galaxy-z-flip-5-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Samsung Galaxy Z Flip 5? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mitigating-windows-update-problem-code-0x8024800c/"><u>Mitigating Windows Update Problem: Code 0X8024800C</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-handle-and-solve-app-runtime-error-on-pc/"><u>Strategies to Handle and Solve App Runtime Error on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-file-search-in-windows-moving-away-from-ls/"><u>Streamlining File Search in Windows: Moving Away From LS</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-unveiling-the-triple-widget-configuration-steps/"><u>Windows 11: Unveiling the Triple Widget Configuration Steps</u></a></li>
 </ul></div>
 
 
@@ -989,11 +982,11 @@
         <li><strong>Title:</strong> Navigating to Protected WindowsApps Directory</li>
         <li><strong>Author:</strong> Joseph</li>
         <li><strong>Created at
-                :</strong> 2024-11-19 23:28:54</li>
+                :</strong> 2024-11-28 16:05:44</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2024-11-24 20:42:05
+                    :</strong> 2024-12-04 02:55:00
             </li>
         
         <li>
@@ -1037,13 +1030,13 @@
                     <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="prev"
                         rel="prev"
-                        href="/master-control-of-windows-installer-on-devices/"
+                        href="/explore-football-fantasyland-how-to-thrive-in-ocm-without-spending-money/"
                         >
                             <span class="left arrow-icon flex justify-center items-center">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </span>
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Master Control of Windows Installer on Devices</span>
+                                <span class="post-nav-title-item">Explore Football Fantasyland: How to Thrive in OCM Without Spending Money</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -1053,10 +1046,10 @@
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/modify-your-windows-personalized-spotlight-image/"
+                        href="/win-printer-service-reset-guide/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Modify Your Windows Personalized Spotlight Image</span>
+                                <span class="post-nav-title-item">Win Printer Service Reset Guide</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">
