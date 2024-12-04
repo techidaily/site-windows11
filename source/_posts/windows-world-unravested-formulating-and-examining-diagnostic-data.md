@@ -1,7 +1,7 @@
 ---
 title: "Windows World Unravested: Formulating & Examining Diagnostic Data"
-date: 2024-08-15T16:22:40.180Z
-updated: 2024-08-16T16:22:40.180Z
+date: 2024-11-27T06:42:11.623Z
+updated: 2024-12-03T19:35:03.776Z
 tags:
   - windows10
   - windows11
@@ -31,17 +31,16 @@ thumbnail: https://thmb.techidaily.com/71f657792ad13f84286b1544671aaf8455260b87c
 1. Press **Win + R** to bring up the Windows Run dialog box, enter **msinfo** in the text box, and then hit the **Enter** key to bring up System Information.  
 ![Opening the System Information tool using the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Opening-the-System-Information-tool-using-the-Task-Manager.jpg)
 2. To generate the report, click **File** in the top left corner and select **Save**. Alternatively, you can press **Ctrl + S** on your keyboard.  
-![saving systemr eport on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/saving-system-report-windows.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![saving systemr eport on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/saving-system-report-windows.jpg)
 3. Choose a location where you want to save the file and click **Save**.
 
  Now you can open the system report or send it to a technician to analyze and find out what is wrong with your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ## How to Analyze the System Report on Windows
 
  The system report contains a lot of information about your Windows computer, and it can be unwieldy to make sense of it by yourself. We can help you understand the basics so you won't be so confused when you look at it. To start, go to where you saved the system report and double-click to open it.
@@ -50,28 +49,31 @@ thumbnail: https://thmb.techidaily.com/71f657792ad13f84286b1544671aaf8455260b87c
 
 ![Ensuring Our PC Supports Secure Boot in the System Information Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Within **System Summary** in the navigation pane, you'll find subsections that contain even more detailed information, with the first one being **Hardware Resources**. Here, you'll find information about the hardware currently installed on your system and how it's functioning.
 
  You can, for example, use this section to find out about any hardware conflicts, which happen when hardware on your computer competes for the same resources, by selecting **Conflict/Sharing**.
 
 ![the Conflicts section of the system report on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/conflicts-section-system-report-windows.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The **Components** section lists all the components (audio and video codes, drives, keyboards, and network adapters) installed on your computer. It's all categorized by function to make what you need easy to find. That means, if you're looking for information about the display on your computer, you will find it under **Display.**
 
 ![the Display section of the system report on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/display-section-system-report-windows.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In **Software Environment**, you can get information on things like system drivers, running tasks, startup programs, and print jobs on your computer.
 
 ![the System Drivers section of system report on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/system-drivers-section-system-report-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  So that's all you need to know to get started with the system report.
 
@@ -84,8 +86,9 @@ thumbnail: https://thmb.techidaily.com/71f657792ad13f84286b1544671aaf8455260b87c
  Now you don't have to open many sections just to find what you need, making the search function a huge time saver.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Get the Full Gist of Your System on Windows
 
  The system report on Windows contains so much information that it's impossible to cover it all in one guide. However, we hope we have given you a good idea of what it is and, with our brief overview, how you can use it to diagnose and troubleshoot your computer.
@@ -94,11 +97,29 @@ thumbnail: https://thmb.techidaily.com/71f657792ad13f84286b1544671aaf8455260b87c
 
  No matter the case, we are going to show you how to create this useful report and start making sense of it.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-intuitive-steps-for-photo-integration-in-instagram-for-2024/"><u>[New] Intuitive Steps for Photo Integration in Instagram for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-meet-the-system-and-hardware-needs-of-big-sur-os/"><u>[New] Meet the System & Hardware Needs of Big Sur OS</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-step-by-step-enhancing-clarity-in-google-meet-calls/"><u>[Updated] Step-by-Step Enhancing Clarity in Google Meet Calls</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-lenovo-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Lenovo FRP Bypass Instantly</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/decoding-the-process-behind-gopro-burst-recordings/"><u>Decoding the Process Behind GoPro Burst Recordings</u></a></li>
+<li><a href="https://windows11.techidaily.com/immediate-resolution-for-windows-network-proxy-issue/"><u>Immediate Resolution for Windows Network Proxy Issue</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-samsung-galaxy-z-fold-5-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Samsung Galaxy Z Fold 5 Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-fixed-final-cut-pro-x-crash-issues/"><u>New In 2024, Fixed Final Cut Pro X Crash Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-display-glitches-in-windows-os/"><u>Overcoming Display Glitches in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-tips-for-repairing-video-playback-errors/"><u>Quick Tips for Repairing Video Playback Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fix-resolving-iphone-photos-import-error-in-windows-pcs/"><u>Quick-Fix: Resolving iPhone Photos Import Error in Windows PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-installation-of-intel-wi-fi-adapters-for-gaming/"><u>Seamless Installation of Intel Wi-Fi Adapters for Gaming</u></a></li>
+<li><a href="https://windows11.techidaily.com/transition-without-subsys-optimizing-for-upcoming-android-solutions/"><u>Transition Without Subsys: Optimizing for Upcoming Android Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-the-riddle-of-windows-winerror-woes/"><u>Unraveling the Riddle of Window's WinError Woes</u></a></li>
+<li><a href="https://article-posts.techidaily.com/winning-over-viewers-a-comprehensive-guide-to-growing-followers-for-2024/"><u>Winning Over Viewers A Comprehensive Guide to Growing Followers for 2024</u></a></li>
+</ul></div>
+

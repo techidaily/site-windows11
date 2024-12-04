@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Windows Wonders: Creating & Interpreting Reports"
-date: 2024-11-23T22:41:22.916Z
-updated: 2024-11-24T17:17:37.149Z
+date: 2024-11-29T03:46:49.672Z
+updated: 2024-12-03T22:08:05.880Z
 tags:
   - windows10
   - windows11
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/55968897eeae10de1d5f523b1b9a82af3b28230cb
  No matter the case, we are going to show you how to create this useful report and start making sense of it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is the System Report on Windows?
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/55968897eeae10de1d5f523b1b9a82af3b28230cb
 2. To generate the report, click **File** in the top left corner and select **Save**. Alternatively, you can press **Ctrl + S** on your keyboard.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![saving systemr eport on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/saving-system-report-windows.jpg)
@@ -54,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/55968897eeae10de1d5f523b1b9a82af3b28230cb
 ![Ensuring Our PC Supports Secure Boot in the System Information Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Within **System Summary** in the navigation pane, you'll find subsections that contain even more detailed information, with the first one being **Hardware Resources**. Here, you'll find information about the hardware currently installed on your system and how it's functioning.
@@ -63,13 +63,13 @@ thumbnail: https://thmb.techidaily.com/55968897eeae10de1d5f523b1b9a82af3b28230cb
 
 ![the Conflicts section of the system report on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/conflicts-section-system-report-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The **Components** section lists all the components (audio and video codes, drives, keyboards, and network adapters) installed on your computer. It's all categorized by function to make what you need easy to find. That means, if you're looking for information about the display on your computer, you will find it under **Display.**
 
 ![the Display section of the system report on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/display-section-system-report-windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In **Software Environment**, you can get information on things like system drivers, running tasks, startup programs, and print jobs on your computer.
 
@@ -77,15 +77,15 @@ thumbnail: https://thmb.techidaily.com/55968897eeae10de1d5f523b1b9a82af3b28230cb
 
  So that's all you need to know to get started with the system report.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Search for Information in the System Report
 
  If you have an idea of what you're looking for, you can use the search tool at the bottom of the System Information window in the report to find it faster. Just click on the text box, enter what you're searching for (we've entered **drive** in our example), and hit the **Enter** key on your keyboard or click **Find Next**.
 
 ![the Drives section of the system report on Windows after performing a search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/drives-section-system-report-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now you don't have to open many sections just to find what you need, making the search function a huge time saver.
 
@@ -106,20 +106,19 @@ thumbnail: https://thmb.techidaily.com/55968897eeae10de1d5f523b1b9a82af3b28230cb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://windows11.techidaily.com/activatingdeactivating-windows-setup-service-on-pcs/"><u>Activating/Deactivating Windows Setup Service on PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/boost-hardware-utilization-four-ways-to-open-the-disk-manager-in-windows-11/"><u>Boost Hardware Utilization: Four Ways to Open the Disk Manager in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypass-windows-11-lock-screen-swiftly/"><u>Bypass Windows 11 Lock Screen Swiftly</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/canuck-communicators-speak-up-a-critical-review-of-fongo-voip-in-canada/"><u>Canuck Communicators Speak Up: A Critical Review of Fongo VoIP in Canada</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/capture-android-speech-4-simple-no-root-methods-for-2024/"><u>Capture Android Speech 4 Simple No-Root Methods for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/comprehensive-guide-to-overcoming-the-gobi-fatal-error-in-ue4-back-4-blood-gameplay-tips/"><u>Comprehensive Guide to Overcoming The 'Gobi Fatal Error' In UE4 - Back 4 Blood Gameplay Tips</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-android-flips-video-frames-for-the-ages-for-2024/"><u>How Android Flips Video Frames for the Ages for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-and-fix-windows-11-when-updates-wont-proceed/"><u>How To Troubleshoot and Fix Windows 11 When Updates Won't Proceed</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-on-apple-iphone-6s-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock On Apple iPhone 6s?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-samsung-galaxy-a05-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Samsung Galaxy A05 to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/paramount-procedures-for-wiping-your-windows-installation/"><u>Paramount Procedures for Wiping Your Windows Installation</u></a></li>
-<li><a href="https://windows11.techidaily.com/reinvigorating-a-non-functional-windows-taskbar/"><u>Reinvigorating a Non-Functional Windows Taskbar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-seamless-operation-of-ps-windows-version/"><u>Restoring Seamless Operation of PS Windows Version</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/review-of-the-ddpai-mini3-dashcam-an-unusually-entertaining-journey/"><u>Review of the DDPai Mini3 Dashcam - An Unusually Entertaining Journey</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-comprehensive-guide-to-getting-most-out-of-windows-11s-startup-screen/"><u>The Comprehensive Guide to Getting Most Out of Windows 11'S Startup Screen</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-game-changers-discovering-top-tier-gaming-webcam-technology/"><u>[New] 2024 Approved Game Changers Discovering Top-Tier Gaming Webcam Technology</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-pairing-facebook-playback-with-home-theaters/"><u>[New] In 2024, Pairing Facebook Playback With Home Theaters</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-short-sensation-keywords-for-enhancing-video-shows-virality/"><u>[New] Short Sensation Keywords for Enhancing Video Shows' Virality</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-establishing-a-unique-code-for-your-tiktok-presence/"><u>[Updated] In 2024, Establishing a Unique Code for Your TikTok Presence</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-windows-11-photos-enhancement-techniques-soundtracks-plus-filter-layers-for-2024/"><u>[Updated] Windows 11 Photos Enhancement Techniques Soundtracks + Filter Layers for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-2024-6-best-voice-changers/"><u>In 2024, 6 Best Voice Changers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instantaneous-application-termination-in-windows/"><u>Instantaneous Application Termination in Windows</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mac-repair-tips-addressing-flashing-in-directory-icons/"><u>Mac Repair Tips: Addressing Flashing '?' In Directory Icons</u></a></li>
+<li><a href="https://windows11.techidaily.com/setting-up-oculus-go-for-windows-vr-compatibility/"><u>Setting up Oculus Go for Windows VR Compatibility</u></a></li>
+<li><a href="https://windows11.techidaily.com/swiftly-correcting-system-call-failures-on-windows-os/"><u>Swiftly Correcting System Call Failures on Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-correcting-iphone-photo-error-on-pcs-windows-1011/"><u>Tips for Correcting iPhone Photo Error on PCs (Windows 10/11)</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-your-windows-console-with-simple-fixes/"><u>Unlocking Your Windows Console with Simple Fixes</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-gionee-f3-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Gionee F3 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/why-stick-with-traditional-skip-the-boredom-for-new-outlook/"><u>Why Stick with Traditional? Skip the Boredom for New Outlook</u></a></li>
 </ul></div>
 

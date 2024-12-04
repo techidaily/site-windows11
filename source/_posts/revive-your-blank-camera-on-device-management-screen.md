@@ -1,7 +1,7 @@
 ---
 title: Revive Your Blank Camera on Device Management Screen
-date: 2024-08-15T16:22:27.223Z
-updated: 2024-08-16T16:22:27.223Z
+date: 2024-11-29T00:51:15.351Z
+updated: 2024-12-04T03:18:47.927Z
 tags:
   - windows10
   - windows11
@@ -31,15 +31,16 @@ thumbnail: https://thmb.techidaily.com/e3894a6ad1afb8650d841abb2ecac55565ace18e9
 
  Now that you know the causes, let's look at fixes you can apply to restore the camera driver in Device Manager.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9 Ways to Fix the Camera Driver Missing in Device Manager
 
  If the camera driver doesn't appear in the Device Manager, ensure it's not hidden and that the camera isn't disabled. If that isn't the case, install camera drivers manually, reset the camera, run the camera troubleshooter, and run Windows built-in scans. If these fixes fail, you should manually add the hardware or reset your computer.
 
 Now let's see how to apply these fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Perform Some Quick and Easy Checks
 
  Apply the following preliminary checks before moving on to the major fixes:
@@ -51,6 +52,10 @@ Now let's see how to apply these fixes.
 
 Apply the remaining fixes if the above checks don't help.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Ensure Camera Isn't Hidden in the Device Manager
 
  The Device Manager gives users an option to hide devices. Once you hide them, these devices disappear from the Device Manager. Therefore, if you don't see the Camera device, it might have been hidden by mistake. To make sure that's not the case or to unhide the device if it has been hidden, follow these steps:
@@ -59,14 +64,7 @@ Apply the remaining fixes if the above checks don't help.
 2. Go to the**View** tab.
 3. If you see a tick mark before the**Show hidden devices** option, then hidden devices are already displaying. If you don't see this tick mark, click on this option, and hidden devices will appear.  
 ![Showing Hidden Devices From the View Tab of Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/1-showing-hidden-devices-from-the-view-tab-of-windows-device-manager.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ### 3\. Run the Camera Troubleshooter
 
  There is a built-in Camera troubleshooter on Windows that can help you identify and fix camera-related problems. Therefore, running the troubleshooter may also resolve this issue. Follow these steps to run it:
@@ -78,22 +76,11 @@ Apply the remaining fixes if the above checks don't help.
 4. Go to**Other troubleshooters** .
 5. Click the**Run** button next to the**Camera** troubleshooter.  
 ![Clicking on the Run Button Next to Camera Troubleshooter in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/3-clicking-on-the-run-button-next-to-camera-troubleshooter-in-windows-settings-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 4\. Run a Few Scans
 
  Make sure corrupt system files are not causing the problem. To rule out this possibility, you need to run a few scans, such as SFC, DISM, and CHKDSK. If you have never performed these scans before, our guide on[repairing corrupt files with Windows built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/) explains how to run them. So, run these scans before moving on.
@@ -114,7 +101,16 @@ Here are the steps to check:
 2. Right-click on the**Camera** app and then select**App settings.**  
 ![Going to the App Settings by Right-clicking on the Camera App in Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/4-going-to-the-app-settings-by-right-clicking-on-the-camera-app-in-windows-search.jpg)
 3. Make sure Camera access is enabled under**App permissions** . If not, turn it on.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Ensuring the Camera Access is Enabled in the Camera App Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/5-ensuring-the-camera-access-is-enabled-in-the-camera-app-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 7\. Reset the Camera App
 
@@ -123,8 +119,9 @@ Here are the steps to check:
  Don't know how to reset the camera app? Our article on[how to reset any app on Windows 10 and Windows 11](https://www.makeuseof.com/windows-reset-app/) explains how to do it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 8\. Add the Camera Device in Device Manager
 
  The Device Manager allows users to manually add devices that aren't detected automatically by the system. So, in the next step, add the camera device to Device Manager via the Add Hardware wizard. This wizard lets you install the hardware either manually or automatically. Let's go with the automatic option to keep things simple.
@@ -135,11 +132,13 @@ Here are the steps to check:
 2. Go to the**Action** tab and click on**Add legacy hardware** .  
 ![Clicking on the Add Legacy Hardware in the Action Tab of Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/6-clicking-on-the-add-legacy-hardware-in-the-action-tab-of-windows-device-manager.jpg)
 3. Click**Next** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Select **Search for and install the hardware automatically (Recommended)** and click**Next** .  
 ![Clicking on the Next Button After Selecting the Search For and Install the Hardware Automatically Recommended Option in the Add Hardware Wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/7-clicking-on-the-next-button-after-selecting-the-search-for-and-install-the-hardware-automatically-recommended-option-in-the-add-hardware-wizard.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 
  If the camera device fails to restore after running this automatic check, follow steps one to three again and select the second option; I **nstall the hardware that I manually select from a list (Advanced)** .
 
@@ -148,20 +147,15 @@ Here are the steps to check:
  Then click**Next** , and double-click on**Camera** from available hardware types.
 
 ![Clicking on the Next Button After Double-Clicking on the Camera App Device in the Add Hardware Wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/9-clicking-on-the-next-button-after-double-clicking-on-the-camera-app-device-in-the-add-hardware-wizard.jpg)
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you can't find your camera's manufacturer or model number here, there might be a problem with your camera hardware.
 
 ![No Manufacturer or Model Number of Camera Device Showing in the Add Hardware Wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/10-no-manufacturer-or-model-number-of-camera-device-showing-in-the-add-hardware-wizard.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 9\. Get Your Laptop Checked
 
  If none of these fixes work and the camera device doesn't appear in the Device Manager, there may be a hardware issue. So, you should take your laptop for a thorough inspection. If the device is still under warranty, you should have it checked by the manufacturer rather than a local shop.
@@ -176,8 +170,6 @@ Here are the steps to check:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -185,4 +177,26 @@ Here are the steps to check:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-quick-hands-turning-photos-into-compelling-youtube-thumbnails/"><u>[Updated] 2024 Approved Quick Hands Turning Photos Into Compelling YouTube Thumbnails</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/for-novices-a-primer-on-av1-technology/"><u>For Novices A Primer on AV1 Technology</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-mastering-youtube-studio-the-ultimate-guide-to-video-edits/"><u>In 2024, Mastering YouTube Studio The Ultimate Guide to Video Edits</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Oppo Reno 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/mastering-non-facebook-message-services/"><u>Mastering Non-Facebook Message Services</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-restarting-non-starting-windows-drivers/"><u>Mastering the Art of Restarting Non-Starting Windows Drivers</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-for-reviving-your-windows-11-password/"><u>Methods for Reviving Your Windows 11 Password</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-common-pin-hurdles-in-modern-windows-os-win10win11/"><u>Navigating Common PIN Hurdles in Modern Windows OS (Win10/Win11)</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-of-apc-back-ups-pro-1500va-generous-capacity-with-multiple-outlets-and-easy-to-replace-batteries/"><u>Review of APC Back-UPS Pro 1500VA: Generous Capacity with Multiple Outlets & Easy-to-Replace Batteries</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-chrome-setup-in-windows-11-systems/"><u>Seamless Chrome Setup in Windows 11 Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-the-not-found-gpeditmsc-in-windows-errors/"><u>Tackling the Not Found: Gpedit.msc in Windows Errors</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-console-champion-reviewed-exploring-the-supremacy-of-xbox-one-x/"><u>The Console Champion Reviewed: Exploring the Supremacy of Xbox One X</u></a></li>
+<li><a href="https://windows11.techidaily.com/transforming-old-drives-step-by-step-for-windows-rejuvenation/"><u>Transforming Old Drives: Step-by-Step for Windows Rejuvenation</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/ultimate-guide-enable-full-screen-viewing-of-flipbooks-on-flipbuildercom/"><u>Ultimate Guide: Enable Full-Screen Viewing of FlipBooks on FlipBuilder.com</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-the-mystery-of-error-code-9999-in-win-based-audacity/"><u>Unraveling the Mystery of Error Code 9999 in Win-Based Audacity</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-the-mystery-of-windows-11s-elevation-failures/"><u>Unraveling the Mystery of Windows 11’S Elevation Failures</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-tcls-32s325-the-ultimate-guide-to-a-stylish-brains-powered-roku-smart-led-tv-of-2019/"><u>Unveiling TCL's 32S325: The Ultimate Guide to a Stylish, Brains-Powered Roku Smart LED TV of 2019</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-watchlist-7-tasks-to-inspect-for-hidden-viruses/"><u>Windows Watchlist: 7 Tasks to Inspect for Hidden Viruses</u></a></li>
+</ul></div>
 

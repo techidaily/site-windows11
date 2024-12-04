@@ -1,7 +1,7 @@
 ---
 title: Fixing Ineffectual System Defrag Functionality
-date: 2024-08-15T16:24:03.218Z
-updated: 2024-08-16T16:24:03.218Z
+date: 2024-11-27T23:51:56.435Z
+updated: 2024-12-04T03:31:17.217Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/89da125ea493abc275649c1f57ef017273ab0d0d8
 
  In this article, you will learn how to fix the Disk Defragmenter so it works properly again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is the Disk Defragmenter? Why Does It Stop Working?
 
  The Disk Defragmenter tool rearranges files on your hard drive so that they are stored in a contiguous manner. This helps to improve file access speed and overall system performance. Disk fragmentation can occur over time as you add, remove, and modify files on your hard drive.
@@ -33,8 +37,9 @@ thumbnail: https://thmb.techidaily.com/89da125ea493abc275649c1f57ef017273ab0d0d8
  Now we know what causes the Disk Defragmenter to stop working, it's time to look at some solutions that may help you fix the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Check Disk Defragmenter's Status
 
  If your computer is running slowly, one potential reason could be that the Disk Defragmenter service is not running properly. This service helps to optimize your hard drive by rearranging files so that they can be read more quickly and efficiently.
@@ -46,12 +51,13 @@ thumbnail: https://thmb.techidaily.com/89da125ea493abc275649c1f57ef017273ab0d0d8
 3. Click on the drop-down menu and set the Start type to "Manual."
 4. Make sure the Service status is "Running." If it is not, then click on**Start** to run it.  
 ![Set Optimise drives Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Set-Optimise-drives-Properties.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Click**Apply > OK** to save it.
 
  After making the above changes, check if it solves the problem. If not, move on to the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Run the System File Checker tool
 
@@ -68,9 +74,6 @@ To run the System File Checker, follow these steps:
  It may take a while for the scan to complete, so be patient. Once the scan is complete, restart your computer and try running Disk Defragmenter again. It should now work properly.
 
 ![SFC and DISM Scan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/SFC-and-DISM-Scan.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  If you're still having trouble with your Disk Defragmenter tool after running an SFC scan, you may need to use the DISM utility. To do this, open the Command Prompt as an administrator and run the below command line:
 
@@ -78,9 +81,6 @@ To run the System File Checker, follow these steps:
 
  Once the scan is complete, restart your computer and try defragmenting again.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Run the CHKDSK Utility
 
  If your computer's Disk Defragmenter is still not working, you can try[running the CHKDSK utility](http://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/) . This is a computer program designed to check the integrity of your hard drive, identify errors, and fix them.
@@ -100,6 +100,10 @@ To run the CHKDSK utility, follow the below steps:
 
  As it turns out, it may take several minutes for the scan to complete, depending on the size of your partition and sometimes it seems to get stuck. However, you should let it complete its task uninterrupted.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Close All Third-Party Applications
 
  Some third-party applications may interfere with Disk Defragmenter if they are running. In such a case, close all third-party programs and see if that helps the defragmenter to run properly.
@@ -110,27 +114,22 @@ To run the CHKDSK utility, follow the below steps:
 2. On the Processes tab, find a non-essential third-party service and right-click on it.
 3. Then select**End task** from the context menu.  
 ![Close Programs Via Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Close-Programs-Via-Task-Manager.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After closing one, check if the disk defragmenter works again. If it does, the service you just closed is the culprit. Now you can either update, re-install, or even uninstall the problematic app so it stops interfering with Disk Defragmenter.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixing Windows Disk Defragmenter's Opening Issues
 
  Disk defragmentation can improve the situation by rearranging files so that they can be evenly distributed throughout the drive. However, sometimes the Disk Defragmenter tool doesn't work as expected. If you encounter this problem, the methods described above should help you resolve it.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -139,4 +138,26 @@ To run the CHKDSK utility, follow the below steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-flight-pioneers-face-off-dji-vs-gopro/"><u>[New] Flight Pioneers Face Off DJI vs GoPro</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-bridge-between-platforms-sharing-facebook-videos-on-whatsapp/"><u>[New] In 2024, Bridge Between Platforms Sharing Facebook Videos on WhatsApp</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-best-5-chrome-os-clipping-utilities-ranked/"><u>[Updated] 2024 Approved Best 5 Chrome OS Clipping Utilities, Ranked</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-dissecting-fraps-screen-capture-features/"><u>[Updated] In 2024, Dissecting Fraps Screen Capture Features</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-transforming-song-words-into-visual-storytelling-with-lyric-video-maker/"><u>[Updated] In 2024, Transforming Song Words Into Visual Storytelling with Lyric Video Maker</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-from-passive-to-active-income-profitable-facebook-tactics/"><u>2024 Approved From Passive to Active Income Profitable Facebook Tactics</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/dealing-with-the-infamous-alc887-driver-quandary-fixing-sound-issues-in-windows-systems/"><u>Dealing with the Infamous ALC887 Driver Quandary: Fixing Sound Issues in Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/does-error-8024002e-prevent-windows-from-updating-try-these-fixes/"><u>Does Error 8024002E Prevent Windows From Updating? Try These Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/dual-monitors-double-delight-themed-wallpapers-for-win-1011/"><u>Dual Monitors, Double Delight: Themed Wallpapers for WIN 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/easy-way-to-show-images-in-windows-11/"><u>Easy Way to Show Images in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficiency-at-your-fingertips-uninstall-microsoft-edge-from-w11/"><u>Efficiency at Your Fingertips: Uninstall Microsoft Edge From W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficiently-unlock-recovery-options-for-your-pc/"><u>Efficiently Unlock Recovery Options for Your PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortless-jotting-in-windows-11-no-apps-required/"><u>Effortless Jotting in Windows 11: No Apps Required</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-pc-capabilities-a-comprehensible-wintoy-approach/"><u>Elevate PC Capabilities: A Comprehensible WinToy Approach</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-your-pc-expertise-with-vivetool-on-windows/"><u>Elevate Your PC Expertise with ViVeTool on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/elusive-wi-fi-on-windows-how-to-hide-itself/"><u>Elusive Wi-Fi on Windows: How To Hide Itself</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-grab-your-guiltless-film-endings-with-our-template-service/"><u>In 2024, Grab Your Guiltless Film Endings with Our Template Service</u></a></li>
+<li><a href="https://win-dash.techidaily.com/upgrade-your-hp-laserjet-m506-secure-the-newest-printer-driver-software-here/"><u>Upgrade Your HP LaserJet M506: Secure the Newest Printer Driver Software Here!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726222451129-movavigifpng/"><u>オンデマンド無料変更: MovaviのGIFとPNG間換えサービス</u></a></li>
+</ul></div>
 

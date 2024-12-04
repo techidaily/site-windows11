@@ -1,7 +1,7 @@
 ---
 title: Unlocking Linux Potential with Windows Programming
-date: 2024-08-22T21:32:46.723Z
-updated: 2024-08-23T21:32:46.723Z
+date: 2024-11-26T17:21:29.107Z
+updated: 2024-12-04T06:37:40.899Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/13322664753ec1bcb9b951122efdf005d8bc61a3a
 
 ![screenshot of numerous programs with linux features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot_of_numerous_programs_with_linux_features.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Linux offers many useful tools for power users, but at the end of the day, many of its functions are simple ones that Windows either obscures or didn't think to add.
 
  Implementing these features into your own Windows system is as easy as installing one of the many third-party programs that aim to offer the functionality.
@@ -34,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/13322664753ec1bcb9b951122efdf005d8bc61a3a
 
 ![screenshot of windows desktop with the altdrag configuration menu open](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/altdrag-rightclick-menu-configure.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Linux boasts a rather famous feature many call Alt Drag, where you can easily rearrange windows without having to move the mouse to the title bar.
 
  Instead, you can hold the alt key and easy manipulate your desktop space with less strain on your wrist.
@@ -43,8 +51,9 @@ thumbnail: https://thmb.techidaily.com/13322664753ec1bcb9b951122efdf005d8bc61a3a
 **Download:**[AltSnap](https://github.com/RamonUnch/AltSnap/) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Faster Windows Focus With X-Mouse Controls
 
 ![screenshot of x mouse controls](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot_of_x_mouse_controls.jpg)
@@ -59,16 +68,14 @@ thumbnail: https://thmb.techidaily.com/13322664753ec1bcb9b951122efdf005d8bc61a3a
 
 **Download:**[X-Mouse Controls](https://joelpurra.com/projects/X-Mouse%5FControls/) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Batch File for More Efficient Command Prompt Management
 
 ![screenshot of the cd command in cmd](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot_of_cd_command_in_cmd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  This one is a bit obscure, but anyone who has used Linux distros in the past will know how useful this can be.
 
  On Linux, jumping to the home directory in a terminal window is as easy as typing cd. On Windows, this isn't as easy. You'd need to type cd %userprofile% to achieve the same effect.
@@ -84,15 +91,13 @@ thumbnail: https://thmb.techidaily.com/13322664753ec1bcb9b951122efdf005d8bc61a3a
  Now you can use whatever you named the batch file as a command to jump to your home directory. This can be a huge time saver if you're coming over from Linux!
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Strip Down Unnecessary Bloat With Winaero Tweaker
 
 ![screenshot of the winaero tweaker main screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot_of_winaero_tweaker_main_screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When it comes to comparing the advantages of Linux and Windows, one point in Linux's favor is definitely how hands-off it is with the user.
 
  So, if we want to bring our Windows experience closer to Linux, why not strip out some of the annoying factors of Windows?
@@ -103,23 +108,17 @@ thumbnail: https://thmb.techidaily.com/13322664753ec1bcb9b951122efdf005d8bc61a3a
 
 **Download:**[Winaero Tweaker](https://winaero.com/winaero-tweaker/) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Windows and Linux Are as Similar as They Are Different
 
  There are not many Linux-exclusive features that you can simply port over to Windows. Enjoying Windows as you would a Linux system has a lot to do with crafting the perfect user experience, which thankfully, Windows allows you to do.
 
  You won't be achieving the same feats as a Linux power user on your Windows machine, but you might be able to feel a little more at home if you were previously a Linux user.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -128,4 +127,20 @@ thumbnail: https://thmb.techidaily.com/13322664753ec1bcb9b951122efdf005d8bc61a3a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-apex-1-written-by-assistant/"><u>[New] 2024 Approved Apex 1 Written by Assistant</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-ghostly-glimpses-innovation-highlights/"><u>[Updated] 2024 Approved Ghostly Glimpses Innovation Highlights</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-20-best-free-and-paid-gif-software-options-for-2024/"><u>[Updated] The 20 Best Free and Paid GIF Software Options for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/2024-ultimate-guide-solving-device-not-miracast-compatible-issues/"><u>2024 Ultimate Guide: Solving 'Device Not Miracast Compatible' Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-failed-rpc-calls-top-tips-for-windows-users/"><u>Addressing Failed RPC Calls: Top Tips for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/arp-cache-in-windows-what-and-how-to-purge/"><u>ARP Cache in Windows: What and How to Purge?</u></a></li>
+<li><a href="https://windows11.techidaily.com/capturing-games-using-intels-graphics-hub-on-windows/"><u>Capturing Games Using Intel's Graphics Hub on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-the-path-restarting-issues-in-windows-photoshop/"><u>Clearing the Path: Restarting Issues in Windows PhotoShop</u></a></li>
+<li><a href="https://windows11.techidaily.com/configuring-windows-11-parental-restrictions-guide/"><u>Configuring Windows 11 Parental Restrictions Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-and-fixing-error-0x80040610-in-microsoft-office-suite/"><u>Decoding and Fixing Error 0X80040610 in Microsoft Office Suite</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-poco-x6-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-13-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone 13 Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://extra-support.techidaily.com/masterclass-leveraging-retro-vhs-flares-and-shadows-for-2024/"><u>Masterclass Leveraging Retro VHS Flares & Shadows for 2024</u></a></li>
+</ul></div>
 

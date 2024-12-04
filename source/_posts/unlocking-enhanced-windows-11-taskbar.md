@@ -1,7 +1,7 @@
 ---
 title: Unlocking Enhanced Windows 11 Taskbar
-date: 2024-08-15T16:24:14.178Z
-updated: 2024-08-16T16:24:14.178Z
+date: 2024-12-02T18:36:18.779Z
+updated: 2024-12-03T16:56:52.653Z
 tags:
   - windows10
   - windows11
@@ -20,17 +20,22 @@ thumbnail: https://thmb.techidaily.com/d940e7732f01996ef0ed9bff8746265de4ef97bd2
 
  In a surprising move, Microsoft removed the Teams icon and the option to adjust its presence on the Taskbar, as seen in a new Insider Dev build. Along with that, there are a couple of changes to the Search Box as well. Curious? Let’s begin.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Are the Enhanced Taskbar Settings in Windows 11?
 
  The first major change is the removal of the [Microsoft Teams](https://www.makeuseof.com/what-is-microsoft-teams-my-day/) chat icon from the Taskbar. Until now, there was only an option to hide the tool from the Taskbar. Despite its popularity in the business landscape, the Teams app has very little usage for the rest of Windows users. So, completely removing the icon and its traces from the Settings app is a change that most users will like.
 
 ![Old Taskbar settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/old-taskbar-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  But that won’t remove the Teams app entirely. You will have to uninstall it manually to get rid of it. The Search Box is also getting a few improvements. It will get a dedicated section in the Taskbar setting with an option to launch whenever you hover over it. All these hidden changes can be revealed using the ViveTool.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ## How to Enable Multiple Taskbar Settings in Windows 11
 
  At the time of writing, the above-mentioned Taskbar changes exist in the Windows Insider Dev build 23466\. Remember that there are now two separate channels, [Canary](https://www.makeuseof.com/what-is-windows-insider-canary-channel/)and Dev in the Insider program.
@@ -48,10 +53,11 @@ thumbnail: https://thmb.techidaily.com/d940e7732f01996ef0ed9bff8746265de4ef97bd2
  vivetool /enable /id:41950597`
 5. **Close** the Command Prompt.  
 ![Enable New Taskbar Features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-new-taskbar-features.jpg)
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. **Restart** your PC to apply the changes made by ViveTool.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now, you can adjust the newly enabled settings on your PC.
 
@@ -59,28 +65,25 @@ thumbnail: https://thmb.techidaily.com/d940e7732f01996ef0ed9bff8746265de4ef97bd2
 2. The first change that you will observe is that the Chat option is no longer present under the Taskbar Items section. The same goes for its presence on the Taskbar.
 3. Scroll down to the **Search** section. Click on the **Search box** option, and you can select the full, condensed view, or completely disable the search box.  
 ![New Taskbar settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/new-taskbar-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 4. After enabling the new Search Box features, it will automatically open when your hover the cursor over it. If you want to disable this action, click on the **toggle** next to the **Open search on hover (when available)** option.
 
  The Search Box will also display a small icon related to a current important event in the world. When you open the Search Box or click on the event icon, you will see an expanded section describing the event and the options to learn more and use [Bing’s AI-powered chatbot](https://www.makeuseof.com/ways-bing-ai-improving/) feature.
 
 ![Search Box Events Popup in Windows 11-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/search-box-events-popup-in-windows-11-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Teams Chat Icon Is Gone For Good
 
  Not everyone needs the pre-packaged apps in Windows 11 that Microsoft is so confident about. Removing the Teams Chat icon is a commendable change, and we hope that it makes it to the final preview and stable channels as well. Apart from that, the changes to Taskbar settings will make it customizable for end users.
 
  In a surprising move, Microsoft removed the Teams icon and the option to adjust its presence on the Taskbar, as seen in a new Insider Dev build. Along with that, there are a couple of changes to the Search Box as well. Curious? Let’s begin.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -88,3 +91,27 @@ thumbnail: https://thmb.techidaily.com/d940e7732f01996ef0ed9bff8746265de4ef97bd2
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-compose-captivating-youtube-intros-for-free/"><u>[New] 2024 Approved How To Compose Captivating YouTube Intros for FREE</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-harness-youtubes-creative-commons-in-video-making/"><u>[Updated] 2024 Approved How to Harness YouTube's Creative Commons in Video Making</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-mastering-gopro-timelapses-top-editing-techniques/"><u>[Updated] Mastering GoPro Timelapses Top Editing Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/easily-enlarge-or-decrease-taskbar-in-win11/"><u>Easily Enlarge or Decrease Taskbar in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/easy-techniques-for-deactivating-win11s-hyper-v/"><u>Easy Techniques for Deactivating Win11's Hyper-V</u></a></li>
+<li><a href="https://windows11.techidaily.com/effective-desktop-organization-fixing-gmails-taskbar-spot/"><u>Effective Desktop Organization: Fixing Gmail's Taskbar Spot</u></a></li>
+<li><a href="https://windows11.techidaily.com/effective-methods-to-restore-functioning-asana-on-windows-machines/"><u>Effective Methods to Restore Functioning Asana on Windows Machines</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/effortless-approach-perfecting-time-lapses-using-samsungs/"><u>Effortless Approach Perfecting Time-Lapses Using Samsungs</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortlessly-accessing-windows-mixer-settings/"><u>Effortlessly Accessing Window's Mixer Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-faulty-printer-response-in-ad-ds-win-10-and-11/"><u>Eliminating Faulty Printer Response in AD DS, WIN 10 & 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-icon-grouping-in-windows-11/"><u>Eliminating Icon Grouping in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-your-computer-experience-with-worldwide-mouse-expertise-in-powertoys/"><u>Enhance Your Computer Experience with Worldwide Mouse Expertise in PowerToys</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/epic-tvs-for-xbox-series-x-and-playstation-5-gamers/"><u>Epic TVs for Xbox Series X & PlayStation 5 Gamers</u></a></li>
+<li><a href="https://windows11.techidaily.com/eradicating-overload-in-win-based-software-with-ease/"><u>Eradicating Overload in Win-Based Software with Ease</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-repair-steam-download-errors-for-seamless-gaming-experience/"><u>How to Successfully Repair Steam Download Errors for Seamless Gaming Experience</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-infinix-hot-30-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Infinix Hot 30 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-your-mobile-experience-mastering-the-chatgpt-widget-on-android-devices/"><u>Maximizing Your Mobile Experience: Mastering the ChatGPT Widget on Android Devices</u></a></li>
+</ul></div>
+

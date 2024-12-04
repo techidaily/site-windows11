@@ -1,7 +1,7 @@
 ---
 title: Resolving Unlisted Bluetooth on PC
-date: 2024-08-22T21:32:34.521Z
-updated: 2024-08-23T21:32:34.521Z
+date: 2024-12-01T18:39:25.061Z
+updated: 2024-12-04T00:50:32.517Z
 tags:
   - windows10
   - windows11
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/ab68550bed8939ff878aaece9b28e90d8b0465006
 
 ![Device Manager hidden devices](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/show-hidden-devices-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Reconnect the Bluetooth Adapter
 
  If you’ve connected a Bluetooth dongle as a[way to add Bluetooth to your computer](https://www.makeuseof.com/tag/bluetooth-adapter-for-pc/) , the driver might be missing because of faulty hardware. Reconnect the adapter or try another USB port and check if it’s now showing in Device Manager.
@@ -35,8 +39,9 @@ thumbnail: https://thmb.techidaily.com/ab68550bed8939ff878aaece9b28e90d8b0465006
  Additionally, try to connect it to another computer to determine if the adapter is still working or if you should buy a new one.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Update USB Drivers
 
  If the Bluetooth adapter is working on another computer, your issue might be caused by an outdated or corrupt USB driver.
@@ -52,8 +57,9 @@ thumbnail: https://thmb.techidaily.com/ab68550bed8939ff878aaece9b28e90d8b0465006
  Launch Action Center and check if Flight Mode is turned off. If it’s already turned off, enable it for a couple of minutes and turn it off again. If you can’t turn it on and off from Action center, there are more[ways to control Flight Mode on a Windows computer](https://www.makeuseof.com/how-to-turn-airplane-mode-on-or-off-windows-11/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Run the Bluetooth Troubleshooter
 
  If Bluetooth is still missing from Device Manager, you should use the built-in Bluetooth troubleshooter to fix the problem.
@@ -65,17 +71,15 @@ thumbnail: https://thmb.techidaily.com/ab68550bed8939ff878aaece9b28e90d8b0465006
 ![Run Bluetooth troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/bluetooth-troubleshooter-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Run an SFC Scan
 
  Bluetooth could be missing from Device Manager because a system file associated with its functionality got corrupted or damaged. Running the System File Checker should fix these files.
 
  To do this, use one of the[ways to open Windows Search](https://www.makeuseof.com/windows-search-use-guide/) to bring it up. Search for**command prompt** and select**Run as administrator** . Then, type the**sfc /scannow** command line and press**Enter** . Make sure you don’t close Command Prompt until the scan is not complete, so Windows can detect and replace any corrupt or damaged files.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Check Bluetooth Service
 
  While the Bluetooth service is running in the background and usually requires no attention, sometimes it could malfunction, causing Device Manager to stop showing Bluetooth drivers. In this case, you should take a look at the Bluetooth service.
@@ -87,23 +91,18 @@ thumbnail: https://thmb.techidaily.com/ab68550bed8939ff878aaece9b28e90d8b0465006
 ![Bluetooth service settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/bluetooth-service-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
+
 ## Bring Bluetooth Back on Windows
 
  On a computer, Bluetooth makes your life easier as you don’t have to worry about cable management or use USB adapters to connect peripheral devices. With Bluetooth showing again in Device Manager, you can upgrade your audio setup by connecting multiple Bluetooth speakers at once.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -112,4 +111,23 @@ thumbnail: https://thmb.techidaily.com/ab68550bed8939ff878aaece9b28e90d8b0465006
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-illustrate-and-write-with-iosandroid-tools/"><u>[New] 2024 Approved Illustrate & Write with iOS/Android Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-future-proofing-in-the-metaverse-essential-device-lineup/"><u>[New] Future-Proofing in the Metaverse Essential Device Lineup</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-your-path-forward-on-youtube-self-publishing-vs-major-label-partnership/"><u>[Updated] 2024 Approved Your Path Forward on YouTube Self-Publishing vs Major Label Partnership</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigating-the-financial-landscape-for-podcasters/"><u>[Updated] Navigating the Financial Landscape for Podcasters</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-unveiling-video-visionaries-subscriber-top-5-for-2024/"><u>[Updated] Unveiling Video Visionaries Subscriber Top 5 for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/broken-binkey-bastion-proceed-prudently-not-promptly/"><u>Broken Binkey Bastion: Proceed Prudently, Not Promptly</u></a></li>
+<li><a href="https://windows11.techidaily.com/clear-communication-test-your-mic-on-pc/"><u>Clear Communication: Test Your Mic on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/coherent-organization-of-windows-files-max-156/"><u>Coherent Organization of Windows Files (Max 156)</u></a></li>
+<li><a href="https://windows11.techidaily.com/compact-guide-best-windows-forecasting-tools/"><u>Compact Guide: Best Windows Forecasting Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/connected-scribbles-using-stickies-across-all-devices-in-win11/"><u>Connected Scribbles: Using Stickies Across All Devices in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphering-windows-process-aggregatorhostexe-use-and-risks/"><u>Deciphering Windows Process AggregatorHost.exe: Use and Risks</u></a></li>
+<li><a href="https://windows11.techidaily.com/dial-down-display-flicker-in-windows-11-devices/"><u>Dial Down Display Flicker in Windows 11 Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-htc-u23frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your HTC U23FRP Lock</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-chatgpt-queries-learn-to-dodge-6-typical-mistakes/"><u>Mastering ChatGPT Queries: Learn to Dodge 6 Typical Mistakes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-resolving-logitech-f710-connectivity-problems-in-windows-11-10-8-and-7/"><u>Ultimate Guide: Resolving Logitech F710 Connectivity Problems in Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-how-to-trim-and-split-3gp-videos-in-minutes/"><u>Updated 2024 Approved How to Trim and Split 3GP Videos in Minutes</u></a></li>
+</ul></div>
 

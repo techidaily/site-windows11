@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Resolving Synapse on PCs with Windows 11 & 10"
-date: 2024-08-15T16:24:34.405Z
-updated: 2024-08-16T16:24:34.405Z
+date: 2024-12-03T03:40:09.888Z
+updated: 2024-12-03T22:46:03.890Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,11 @@ thumbnail: https://thmb.techidaily.com/708d4edc039ed7c214c16e7feab40bf91a645580b
 4. Select the checkbox labeled **Run this program in compatibility** **mode**.  
 ![The Run this program in compatibility mode for checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/run-this-program-in-compatibility-mode.jpg)
 5. Choose **Windows 8** on the compatibility drop-down menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Press **Apply** to set the new compatibility setting.
 7. Click **OK** to exit Synapse’s properties window.
 
@@ -37,9 +42,6 @@ thumbnail: https://thmb.techidaily.com/708d4edc039ed7c214c16e7feab40bf91a645580b
 
  A lack of system admin permissions can sometimes be a cause for Razer Synapse not working. To address that, open the **Compatibility** tab for Synapse as covered within steps one to three of the previous resolution. Select the **Run as administrator** option on the Compatibility tab and click **Apply** \> **OK**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Select to Repair Razer Synapse
 
  Synapse has a **Repair** troubleshooting you can select to resolve issues with that software. That option is available within the uninstall window for Synapse. This is how you can select to repair Razer Synapse:
@@ -48,24 +50,13 @@ thumbnail: https://thmb.techidaily.com/708d4edc039ed7c214c16e7feab40bf91a645580b
 2. Select the Razer Synapse software listed within Programs and Features.
 3. Click the **Change** button for Razer Synapse.  
 ![The Change button for Razer Synapse](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/change-button.jpg)
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 4. Press the **Repair** button.  
 ![The Repair button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-repair-option.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Start or Restart the Razer Services
 
  A couple of services need to be running for Razer Synapse to work. Some users have fixed Synapse not working by restarting the Razer Synapse Service or Razer Central Service. Try starting those two services as follows:
@@ -90,14 +81,17 @@ thumbnail: https://thmb.techidaily.com/708d4edc039ed7c214c16e7feab40bf91a645580b
 2. Click **OK** to bring up a Roaming folder in Explorer.
 3. Next, click **AppData** in Explorer’s address bar to view that directory.  
 ![The AppData folder in Explorer's address bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/appdata-folder-in-explorer-s-address-bar.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Double-click the **Local** folder to open it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Right-click the **Razer** folder in that directory to select **Delete**.  
 ![The Delete option for the Razer folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-delete-option.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Install .NET Framework 4.8.1
@@ -111,16 +105,14 @@ thumbnail: https://thmb.techidaily.com/708d4edc039ed7c214c16e7feab40bf91a645580b
 ![The Download .NET Framework 4.8.1 option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/download-net-framework.jpg)
 5. Select **I have read and accept the license terms** box.  
 ![The Microsoft .NET Framework setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/microsoft-net-framework-box.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 6. Click **Install** to proceed with the .NET Framework 4.8.1 installation.
 
  You can also try repairing the current .NET Framework installation on your PC. To do so, check out our guide to [repairing .NET Framework on Windows PCs](https://www.makeuseof.com/windows-repair-net-framework/).
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Temporarily Disable Firewalls
 
  Firewalls can cause Synapse startup issues to occur when they’re set to block that software’s internet connectivity. You can quickly check if Microsoft Defender Firewall is causing the issue by disabling it. Follow the instructions in this [how to disable Microsoft Defender Firewall guide](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) to apply this potential solution. Then run Razer Synapse with the firewall off.
@@ -132,15 +124,13 @@ thumbnail: https://thmb.techidaily.com/708d4edc039ed7c214c16e7feab40bf91a645580b
  This potential resolution also applies to third-party firewalls. Temporarily disable whatever firewall you’ve got installed (or a firewall antivirus component) to see if that makes any difference. If it does, add Synapse to the firewall’s allowed apps list.
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Uninstall the Razer Surround
 
  Razer Surround is an optional module of the Synapse software. If you’ve installed that module, consider removing it to ensure it does not conflict with the Synapse app. You can uninstall the Razer Surround app with the Programs and Features Control Panel applet as outlined in this guide to [removing Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 9\. Reinstall Razer Synapse
 
  If other potential resolutions don’t fix Razer Synapse not working, corrupted or missing software files could be causing the issue. In this case, a reinstallation of Synapse will likely be required. To remove the software, click the **Change** button for Synapse in Programs and Features, as outlined for the first three steps of this guide’s third method, and select **Uninstall**.
@@ -151,13 +141,15 @@ thumbnail: https://thmb.techidaily.com/708d4edc039ed7c214c16e7feab40bf91a645580b
 
  Then go to this [Synapse page](https://razer.a9yw.net/c/119570/642901/10229?subId1=UUmuoUeUpU2030373&subId2=emuo&u=https%3A%2F%2Fwww.razer.com%2Fgb-en%2Fsynapse-3), click **Download Now**, and install the software by double-clicking the **RazerSynapseInstaller** file. When reinstalling Synapse, don’t install any superfluous optional modules, such as Razer Surround. Select to only install Razer Synapse.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Manage Your Razer Devices With Synapse Again
 
  As the potential causes for Razer Synapse not working are varied, it’s not always easy to fix that app when it doesn’t open. You’ll probably need to try a few possible fixes to find one that revives Synapse. However, there’s a good chance one of the above solutions will kick-start Synapse on your Windows 11/10 PC, enabling you to manage your Razer devices again.
 
  Razer Synapse not working means users can’t open and utilize that software when needed. Is your Synapse software effectively broken as well? If so, this is how you can fix Razer Synapse not opening on a Windows 11/10 PC.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -165,3 +157,23 @@ thumbnail: https://thmb.techidaily.com/708d4edc039ed7c214c16e7feab40bf91a645580b
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-giggle-guild-undead-humor-bots/"><u>[New] Giggle Guild Undead Humor Bots</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-the-ultimate-cheat-sheet-inserting-vimeo-videos-into-slides-for-2024/"><u>[New] The Ultimate Cheat Sheet Inserting Vimeo Videos Into Slides for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-mastering-light-and-shadow-in-hdr-portraiture-for-2024/"><u>[Updated] Mastering Light and Shadow in HDR Portraiture for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-the-world-of-srt-files-on-youtube-and-twitter/"><u>2024 Approved Navigating the World of SRT Files on YouTube and Twitter</u></a></li>
+<li><a href="https://windows11.techidaily.com/amplify-windows-efficiency-with-innovative-layouts/"><u>Amplify Windows Efficiency with Innovative Layouts</u></a></li>
+<li><a href="https://windows11.techidaily.com/bridging-gaps-quick-fixes-for-microsoft-to-do-discrepancies/"><u>Bridging Gaps: Quick Fixes for Microsoft To Do Discrepancies</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-scripts-not-active-top-4-fixes-to-powershell-load-issue/"><u>Bypassing 'Scripts Not Active': Top 4 Fixes to PowerShell Load Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/construct-ai-driven-artistry-with-win11-and-paint-tool-sai-your-ultimate-guide-to-image-creation/"><u>Construct AI-Driven Artistry with Win11 & Paint Tool SAI: Your Ultimate Guide to Image Creation</u></a></li>
+<li><a href="https://windows11.techidaily.com/cybersecurity-commandments-winning-access-prevention-on-windows/"><u>Cybersecurity Commandments: Winning Access Prevention on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphering-high-cpu-demands-the-case-for-vanguards-ums-optimization/"><u>Deciphering High CPU Demands: The Case for Vanguard's UMS Optimization</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-x-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone X to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-unexplained-tilted-images-on-instagrams-video-section/"><u>In 2024, Unexplained Tilted Images on Instagram's Video Section</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-15-pro-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 15 Pro Passcode without a Computer</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-screen-recording-101-using-filmora-scrn-to-capture-your-desktop-for-2024/"><u>Updated Screen Recording 101 Using Filmora Scrn to Capture Your Desktop for 2024</u></a></li>
+</ul></div>
+

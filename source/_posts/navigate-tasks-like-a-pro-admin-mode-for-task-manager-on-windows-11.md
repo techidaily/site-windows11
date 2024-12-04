@@ -1,7 +1,7 @@
 ---
 title: "Navigate Tasks Like a Pro: Admin Mode for Task Manager on Windows 11"
-date: 2024-08-15T16:23:04.631Z
-updated: 2024-08-16T16:23:04.631Z
+date: 2024-11-28T20:53:27.563Z
+updated: 2024-12-03T23:24:12.965Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/f46e328f69e7058f8174d54a80cf567c4a8edb28d
 ![Open Task Manager using Search tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-task-manager-using-search-tool.jpg)
 3. Click the**Run as administrator** option on the right side of the Start menu.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. How to Open Task Manager as an Administrator Through the Start Menu
 
  Another handy tool on your Windows computer is the Start menu. You can use it for many things, including running Task Manager as an administrator. This is how you do it:
@@ -36,10 +40,15 @@ thumbnail: https://thmb.techidaily.com/f46e328f69e7058f8174d54a80cf567c4a8edb28d
 1. Click on**Start** and select**All apps** in the upper right corner.
 2. Scroll down to the bottom and select**Windows Tools** .  
 ![Open Task Manager Using Start menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-task-manager-using-start-menu.jpg)
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. On the next page, right-click on**Task Manager** and select**Run as administrator** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. How to Open Task Manager as an Administrator Through a Run Command
 
@@ -58,14 +67,12 @@ thumbnail: https://thmb.techidaily.com/f46e328f69e7058f8174d54a80cf567c4a8edb28d
 2. In the address bar, type**C:\\Windows\\System32** and press**Enter** .
 3. Then, use the search bar to find "**taskmgr** ".  
 ![Open Task Manager from File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-task-manager-from-file-explorer.jpg)
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 4. Once you find the executable file, right-click on it and select**Run as administrator** .
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. How to Open Task Manager as an Administrator via Control Panel
 
  In Windows 11, you can also open Task Manager with administrator privileges from the Control Panel. It's one of the easiest and most straightforward ways to accomplish this. Here are the steps you need to take:
@@ -84,19 +91,17 @@ thumbnail: https://thmb.techidaily.com/f46e328f69e7058f8174d54a80cf567c4a8edb28d
 1. Right-click on your desktop and select**New > Shortcut** .
 2. Then type the following path in the text box and click**Next** .  
 ![Open Task Manager With Desktop Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-task-manager-with-desktop-shortcut.jpg)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 C:\WINDOWS\system32\taskmgr.exe
 3. Now you need to give your shortcut a name and click**Finish** .
 4. Your shortcut will appear on your desktop. Right-click on the shortcut and select**Properties** .
 5. Click**Advanced** on the Shortcut tab.
 6. Check the**Run as administrator** box and click**OK** .  
 ![Creating shortcut to open Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/creating-shortcut-to-open-task-manager.jpg)
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Now double-click on the shortcut to open Task Manager with admin rights.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. How to Open Task Manager as an Administrator via Command Prompt or PowerShell
 
@@ -107,9 +112,6 @@ C:\WINDOWS\system32\taskmgr.exe
 
 The Task Manager will open with full administrator rights.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## 8\. Pin Task Manager to the Taskbar
 
  It is also possible to pin Task Manager to the taskbar and open it with admin rights whenever needed. This is how you do it.
@@ -119,20 +121,18 @@ The Task Manager will open with full administrator rights.
 3. Then right-click on**Task Manager** and then select**Run as administrator** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Getting the Most Out of Elevated Task Manager
 
  It's easy to run the Task Manager Panel, but some tasks may require elevated access. Here are seven ways to open Task Manager as an administrator. Let us know which one is more helpful to you.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -141,4 +141,23 @@ The Task Manager will open with full administrator rights.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-aerial-photography-revolution-with-mavic-pro/"><u>[New] In 2024, Aerial Photography Revolution with Mavic Pro</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/illion-view-achievement-and-its-monetary-benefit-for-2024/"><u>[New] Million View Achievement and Its Monetary Benefit for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-professional-streaming-made-easy-your-guide-to-zoom-and-youtube-integration/"><u>[New] Professional Streaming Made Easy Your Guide to Zoom and YouTube Integration</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-elevating-brand-presence-a-guide-to-influencer-marketing-on-instagram/"><u>[Updated] 2024 Approved Elevating Brand Presence A Guide to Influencer Marketing on Instagram</u></a></li>
+<li><a href="https://program-issues.techidaily.com/football-manager-2023-troubleshooting-steps-when-it-fails-to-start/"><u>Football Manager 2023 - Troubleshooting Steps When It Fails To Start</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-windows-cannot-access-the-specified-device-path-or-file-error/"><u>How to Fix the Windows Cannot Access the Specified Device, Path or File Error</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/implementing-advanced-ai-access-our-selection-of-8-ready-made-gpt-solutions/"><u>Implementing Advanced AI: Access Our Selection of 8 Ready-Made GPT Solutions</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-task-management-customize-keyboard-shortcuts-by-power-in-win11/"><u>Quick Task Management: Customize Keyboard Shortcuts by Power in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-solve-memory-failure-in-windows/"><u>Strategies to Solve Memory Failure in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailoring-desktop-thumbnails-size-on-pc/"><u>Tailoring Desktop Thumbnails Size on PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-future-of-customizing-colorful-computers-simplified-with-hytes-nexus-link-for-rgb-devices/"><u>The Future of Customizing Colorful Computers: Simplified with Hyte's Nexus Link for RGB Devices</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/thunder-tier-one-stability-fixes-a-comprehensive-strategy-for-uninterrupted-gameplay-on-pc/"><u>Thunder TIER One Stability Fixes: A Comprehensive Strategy for Uninterrupted Gameplay on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/tutorial-adding-dolby-atmos-to-windows-11/"><u>Tutorial: Adding Dolby Atmos to Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-administrator-status-in-windows/"><u>Unlocking Administrator Status in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/window-wizardry-redesigning-cursor-sets/"><u>Window Wizardry: Redesigning Cursor Sets</u></a></li>
+</ul></div>
 

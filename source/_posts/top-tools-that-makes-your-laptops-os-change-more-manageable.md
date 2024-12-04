@@ -1,7 +1,7 @@
 ---
 title: Top Tools that Makes Your Laptop's OS Change More Manageable
-date: 2024-08-22T21:33:42.436Z
-updated: 2024-08-23T21:33:42.436Z
+date: 2024-11-26T22:22:41.115Z
+updated: 2024-12-03T21:58:46.727Z
 tags:
   - windows10
   - windows11
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/043a6e9400628e90ba868e49367a439edaed6ed26
 
  Switching from one operating system to another isn’t as difficult as it used to be, but what you miss are the little things. The apps on this list helped make my move from macOS to Windows much more comfortable.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1  Flow Launcher
 
 ![Triggering the Shutdown command in the Flow Launcher app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/triggering-the-shutdown-command-in-the-flow-launcher-app.png)
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/043a6e9400628e90ba868e49367a439edaed6ed26
 
 **Download**: [Flow Launcher](https://www.flowlauncher.com/) (Free)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2  Ditto Clipboard Manager
 
 ![Ditto Clipboard Manager for Windows showing clipboard entries](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ditto-clipboard-manager-for-windows-showing-clipboard-entries.png)
@@ -43,16 +51,13 @@ thumbnail: https://thmb.techidaily.com/043a6e9400628e90ba868e49367a439edaed6ed26
 **Download**: [Ditto Clipboard Manager](https://ditto-cp.sourceforge.io) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3  AutoText
 
 ![AutoText main window showing the default snippets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/autotext-main-window-showing-the-default-snippets.png)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  There are plenty of apps available to expand snippets into larger text fragments or even full-blown paragraphs. If all you need is some minor snippets expanded, the text replacement built into macOS is fairly powerful. This is less true of Windows.
 
  The good news is there’s an easy fix for this in AutoText. This is a simple free app (though a commercial license is available) that makes for easy to use text expansion, perfect for everything from quick email replies to code snippets.
@@ -61,21 +66,14 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 **Download:**[AutoText](https://www.jitbit.com/autotext/) (Free, $22.95 commercial)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ## 4  f.lux
 
 ![f.lux Settings Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/f-lux-settings-window.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Windows 11 has built-in [screen tinting features it calls Night Light](https://www.howtogeek.com/796092/how-to-enable-night-light-on-windows-11/) to make your screen easier on your eyes at night. Unfortunately, unlike similar offerings from mobile operating systems and macOS, you can’t do much to customize this feature.
 
  For years, f.lux has been at the top of the game when it comes to precisely controlling your screen tint. Not only will f.lux let you apply much more extreme settings to the tint than you’ll typically find, but you can get quite granular about when and how your screen changes.
@@ -86,16 +84,14 @@ No advertising on the website.
 
 **Download**: [f.lux](https://justgetflux.com) (free)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5  PowerToys Awake
 
 ![Using PowerToys Awake on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/using-powertoys-awake-on-windows-11.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Windows (and, to be fair, most other operating systems) can be very aggressive about dimming and shutting off the display. If you’re on a laptop and looking to save battery life, this can be handy. Assuming you’re sitting or standing at a desk most of the day, this can quickly get annoying.
 
  On macOS, I used an app called [Caffeine](https://intelliscapesolutions.com/apps/caffeine) to keep my screen awake. That app isn’t available on Windows, but there is an app built into [Microsoft’s PowerToys utility](https://www.howtogeek.com/665780/all-microsofts-powertoys-for-windows-10-explained/) simply called Awake that does the same thing.
@@ -110,11 +106,26 @@ No advertising on the website.
 
  I found these few simple tools and utilities made my move incredibly easy. If you’ve already made the move, and you’re looking for more powerful tools, take a look at our roundup of the [best utilities for Windows power users](https://www.makeuseof.com/best-utilities-for-windows/).
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-capture-every-moment-the-premier-8-free-screen-capture-apps-for-android-for-2024/"><u>[Updated] Capture Every Moment The Premier 8 Free Screen Capture Apps for Android for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-monetization-metrics-viewers-contribution-to-earnings-for-2024/"><u>[Updated] Monetization Metrics Viewers' Contribution to Earnings for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-instagram-edge-bulk-image-and-video-post-strategies-explored-for-2024/"><u>[Updated] The Instagram Edge Bulk Image and Video Post Strategies Explored for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-how-to-turn-your-google-meet-into-a-youtube-live-event/"><u>2024 Approved How To Turn Your Google Meet Into a YouTube Live Event</u></a></li>
+<li><a href="https://windows11.techidaily.com/achieve-peak-performance-with-multi-task-proficiency-on-windows-11-pcs/"><u>Achieve Peak Performance with Multi-Task Proficiency on Windows 11 PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/clarity-masterclass-fixes-that-bring-life-to-fuzzy-screens/"><u>Clarity Masterclass: Fixes That Bring Life to Fuzzy Screens</u></a></li>
+<li><a href="https://windows11.techidaily.com/conquering-c0000005-on-windows-operating-systems/"><u>Conquering C0000005 on Windows Operating Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-internal-audio-issues-with-audacity-windows-11/"><u>Correcting Internal Audio Issues with Audacity (Windows 11)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ensuring-seamless-performance-lenovo-ideapad-100-drivers-for-windows-11-users/"><u>Ensuring Seamless Performance: Lenovo IdeaPad 100 Drivers for Windows 11 Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-civ-vi-game-crashes-with-these-proven-troubleshooting-steps/"><u>Fix Your Civ VI Game Crashes with These Proven Troubleshooting Steps</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-skypes-sound-solution-purifying-your-talks/"><u>In 2024, Skype's Sound Solution Purifying Your Talks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-your-windows-family-safety-solutions-for-malfunctions/"><u>Reviving Your Windows Family Safety: Solutions for Malfunctions</u></a></li>
+</ul></div>
+

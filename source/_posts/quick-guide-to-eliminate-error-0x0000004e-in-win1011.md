@@ -1,7 +1,7 @@
 ---
 title: Quick Guide to Eliminate Error 0X0000004E in Win10/11
-date: 2024-11-18T00:59:44.961Z
-updated: 2024-11-24T17:41:22.411Z
+date: 2024-11-30T22:10:14.656Z
+updated: 2024-12-03T17:51:59.739Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/0ec3b3e91ce6c2fd312d0c52b550de8f05b444cc8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Common Causes of the PFN\_LIST\_CORRUPT Error in Windows
 
  The 0x0000004E error, or PFN\_LIST\_CORRUPT error, can be caused by a variety of issues, including both software and hardware problems. Here are some of the most common ones:
@@ -39,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/0ec3b3e91ce6c2fd312d0c52b550de8f05b444cc8
  Once you have administrative access, you can proceed with the troubleshooting methods to resolve the 0x0000004E error.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Check Your Hard Drive for Issues
@@ -59,7 +63,7 @@ chkdsk /f
 5. If prompted, type Y and hit **Enter**. This will schedule a disk check upon the next system restart.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Finally, restart your computer. Upon reboot, Check Disk will run and scan your hard drive for issues.
@@ -67,6 +71,10 @@ chkdsk /f
  This process may take a while, so hang in there. We also recommend keeping a backup of your important files and data before you run Check Disk, just to be safe.
 
  You can also diagnose and fix a faulty RAM or memory-related issues [using the Memory Diagnostic tool in Windows](https://www.makeuseof.com/ways-to-open-windows-memory-diagnostic/). If the Check Disk utility failed to fix the problem, run the Memory Diagnostic tool and check the results in the Event Viewer. You can then take the necessary steps to fix the problem based on the underlying cause.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Disable Your Antivirus
 
@@ -78,16 +86,12 @@ chkdsk /f
 
 ![Disable antivirus in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/disable-antivirus-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If the error does not appear after disabling the antivirus, then we highly recommend switching to a different, better security program. You can also configure Windows Defender Firewall properly if you do not want to trust a third-party security solution again.
 
  If you're already using Windows Defender, be sure to check out [how to turn off Windows Defender](https://www.makeuseof.com/how-to-turn-off-windows-defender/) and see if that fixes the BSOD.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Other Generic Windows BSOD Fixes to Try
@@ -97,10 +101,6 @@ chkdsk /f
  You can scan the system for potential issues using the [SFC and DISM tools](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/). If these utilities identify an issue, they will attempt to fix it automatically. Alternatively, you can [use the System Restore utility](https://www.makeuseof.com/use-system-restore-windows/) for reverting the system back to an error-free state as well.
 
  Finally, it's time to pull out the reliable fixes. Windows BSODs are usually due to a common pool of issues, and fixing those problems can fix almost any BSOD, including the 0x0000004E error. As such. be sure to check out our [tips to help you fix a Windows BSOD](https://www.makeuseof.com/tag/4-tips-fix-blue-screen-error/) for all the ways you can fix this issue, and any potential ones you encounter in the future.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## PFN\_LIST\_CORRUPT BSOD, Fixed
 
@@ -118,24 +118,24 @@ chkdsk /f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-unleash-creativity-on-instagrams-reels-frontier/"><u>[New] 2024 Approved Unleash Creativity on Instagram's Reels Frontier</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-editors-dream-machine-top-portable-video-edits-tools-for-2024/"><u>[New] Editor's Dream Machine Top Portable Video Edits Tools for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-elevating-your-brand-with-intriguing-instagram-puzzle-feeds/"><u>[New] In 2024, Elevating Your Brand with Intriguing Instagram Puzzle Feeds</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-how-to-create-a-seamless-rss-feed-for-your-podcast/"><u>[New] In 2024, How to Create a Seamless RSS Feed for Your Podcast</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-friendly-reminder-how-to-chill-at-someones-tiktok-party/"><u>[Updated] 2024 Approved Friendly Reminder How To Chill at Someone's TikTok Party</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-hidden-horizons-in-hand-drawn-harmony/"><u>2024 Approved Hidden Horizons in Hand-Drawn Harmony</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-soundtrack-streamlining-top-websites-for-skype-ringtones/"><u>2024 Approved Soundtrack Streamlining Top Websites for Skype Ringtones</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoiding-the-endless-void-fixing-xbox-app-errors-in-win11/"><u>Avoiding the Endless Void: Fixing Xbox App Errors in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/comprehensive-solution-for-inaccessible-administrative-mode/"><u>Comprehensive Solution for Inaccessible Administrative Mode</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/essential-considerations-when-integrating-chatgpt-into-mental-wellness-strategies/"><u>Essential Considerations When Integrating ChatGPT Into Mental Wellness Strategies</u></a></li>
-<li><a href="https://windows11.techidaily.com/experience-true-tech-fusion-windows-android-via-samsung/"><u>Experience True Tech Fusion – Windows, Android via Samsung</u></a></li>
-<li><a href="https://windows11.techidaily.com/getting-a-sneak-peek-of-windows-new-features-via-vivetool/"><u>Getting a Sneak Peek of Windows' New Features via ViVeTool</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-data-transfer-ultimate-techniques-for-dvd-and-cd-copying-and-burning-processes/"><u>Mastering Data Transfer: Ultimate Techniques for DVD and CD Copying and Burning Processes</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-fix-for-google-chromes-sudden-closure-on-winos/"><u>Quick Fix for Google Chrome’s Sudden Closure on WinOS</u></a></li>
-<li><a href="https://windows11.techidaily.com/revive-your-pc-steps-to-uncover-and-use-lost-features-in-windows-11/"><u>Revive Your PC: Steps to Uncover and Use Lost Features in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/syncing-sound-levels-across-windows-and-bt-audio-gear/"><u>Syncing Sound Levels Across Windows and BT Audio Gear</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-simple-trick-to-finding-your-installed-application-home/"><u>The Simple Trick to Finding Your Installed Application Home</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-for-restoring-icon-clarity-on-your-pcs-desktop/"><u>Tips for Restoring Icon Clarity on Your PC's Desktop</u></a></li>
-<li><a href="https://games-able.techidaily.com/which-comes-first-cpu-enhancement-or-gpu-performance/"><u>Which Comes FIRST: CPU Enhancement or GPU Performance?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-telepresence-seminar-capture/"><u>[New] 2024 Approved Telepresence Seminar Capture</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-creative-commons-soothing-scenes/"><u>[New] In 2024, Creative Commons Soothing Scenes</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/access-your-fb-links-easily-download-8-best-online-utilities/"><u>Access Your FB Links Easily Download 8 Best Online Utilities</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-and-optimize-days-gone-for-a-seamless-experience-avoiding-crashes/"><u>Fix and Optimize 'Days Gone' For a Seamless Experience: Avoiding Crashes</u></a></li>
+<li><a href="https://windows11.techidaily.com/from-fault-to-functionality-fast-fixed-of-winscript-errors/"><u>From Fault to Functionality: Fast Fixed of WinScript Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/harnessing-power-from-windows-system-failsafe-info/"><u>Harnessing Power From Windows System Failsafe Info</u></a></li>
+<li><a href="https://windows11.techidaily.com/immediate-cessation-of-pcs-update-cycle/"><u>Immediate Cessation of PC's Update Cycle</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-xiaomi-redmi-a2plus-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Xiaomi Redmi A2+ online without jailbreak</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-piecing-together-digital-images/"><u>In 2024, The Art of Piecing Together Digital Images</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-the-ultimate-guide-to-personalizing-your-android-device-sound-system/"><u>In 2024, The Ultimate Guide to Personalizing Your Android Device Sound System</u></a></li>
+<li><a href="https://windows11.techidaily.com/innovative-usage-positioning-shortcuts-adjacent-to-power-button/"><u>Innovative Usage: Positioning Shortcuts Adjacent to Power Button</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-sound-error-code-0xc00d36b4/"><u>Overcoming Windows Sound Error: Code 0xC00D36B4</u></a></li>
+<li><a href="https://windows11.techidaily.com/precision-fixes-for-installer-package-problems-on-windows-11/"><u>Precision Fixes for Installer Package Problems on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fixes-for-already-used-error-on-windows-pcs-153-chars/"><u>Quick Fixes for 'Already Used' Error on Windows PCs (153 Chars)</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-tackle-non-functioning-mic-with-xbox/"><u>Strategies to Tackle Non-Functioning Mic with Xbox</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-the-ultimate-guide-to-mp4-tag-editors-for-windows-and-mac/"><u>Updated 2024 Approved The Ultimate Guide to MP4 Tag Editors for Windows and Mac</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/web-based-movie-trailer-design-studios/"><u>Web-Based Movie Trailer Design Studios</u></a></li>
+<li><a href="https://windows11.techidaily.com/whats-behind-windows-11s-improved-backup-system/"><u>What's Behind Windows 11'S Improved Backup System?</u></a></li>
 </ul></div>
 

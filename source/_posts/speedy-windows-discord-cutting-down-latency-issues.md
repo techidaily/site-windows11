@@ -1,7 +1,7 @@
 ---
 title: "Speedy Windows Discord: Cutting Down Latency Issues"
-date: 2024-08-15T16:22:10.291Z
-updated: 2024-08-16T16:22:10.291Z
+date: 2024-11-27T23:01:21.938Z
+updated: 2024-12-03T16:52:59.245Z
 tags:
   - windows10
   - windows11
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/0f7cc598462e00e671398d3de2bdb7c71a59af5f2
 
  If the servers are down, you've no option but to wait until Discord gets them back up and running.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## 2\. Rule Out Issues With Your Internet
 
  A patchy or slow internet connection can cause the Discord app to lag on your Windows PC. You need to ensure that your current internet connection is both fast and stable. There are numerous[websites that can help you test your internet speed for free](https://www.makeuseof.com/best-free-websites-test-internet-speed/) .
@@ -45,8 +41,9 @@ If the internet seems fine, move to the next solution.
 ![Close Programs Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/close-programs-using-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Switch to High-Performance Mode
 
  Enabling a stricter power profile can slow down the overall performance of your computer and cause Discord to lag. You can switch to the high performance mode on Windows so that your computer prioritizes performance over energy efficiency.
@@ -72,8 +69,9 @@ To enable Reduced Motion in Discord:
 3. Select the**Accessibility** tab from the left sidebar.
 4. Turn on the toggle next to**Enable Reduced Motion** .  
 ![Enable Reduced Motion in Discord App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-reduced-motion-in-discord-app.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Enable or Disable Hardware Acceleration on Discord
@@ -87,13 +85,11 @@ To enable Reduced Motion in Discord:
 3. Navigate to the**Voice & Video** tab.
 4. Locate the**H.264 Hardware Acceleration** option and then enable or disable the toggle next to it.  
 ![Hardware Acceleration in Discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/hardware-acceleration-in-discord.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Reset the Discord Voice Settings
 
  Misconfigured voice settings in Discord can also cause the app to freeze or lag, especially while streaming. If that’s the case, you can consider resetting Discord voice settings and starting over. Here are the steps for the same.
@@ -103,15 +99,7 @@ To enable Reduced Motion in Discord:
 3. Scroll all the way down and click the**Reset Voice Settings** button.
 4. Click**Okay** to confirm.  
 ![Reset Voice Settings in Discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/reset-voice-settings-in-discord.jpg)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ## 8\. Clear the Discord Cache
 
  Discord, like any other app, collects cache data on your computer to improve its performance. If that data becomes corrupted or inaccessible, Discord may lag on your computer. Thankfully, it's both easy and safe to[clear the Discord cache on Windows](https://www.makeuseof.com/tag/discord-users-free-up-disk-space/) .
@@ -123,11 +111,16 @@ The powerful video editing program for your Windows PC</a>
  While you’re at it, it’s a good idea to check for any pending Windows updates. For that, press**Win + I** to open the Settings app and navigate to the**Windows Update** tab. Click the**Check for updates** button on your right.
 
 ![Check for Windows Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/check-for-windows-update.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Download and install any pending system updates and see if that fixes the issue for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Update or Reinstall Discord
 
@@ -139,6 +132,10 @@ To update Discord on Windows:
 2. Right-click the**Discord** icon and select**Check for Updates** .  
 ![Check for Discord Updates on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/check-for-discord-updates-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If updating the app does not help, there might be a problem with the Discord app files on your system. To fix them, you’ll need to uninstall and reinstall the Discord app. Here's how you can go about it.
 
 1. Use one of[the many ways to open the Control Panel](https://www.makeuseof.com/windows-open-control-panel/) .
@@ -148,24 +145,22 @@ To update Discord on Windows:
 5. Click the**Uninstall** button at the top.
 6. Reinstall the[Discord app from Microsoft Store](https://apps.microsoft.com/store/detail/discord/XPDC2RH70K22MN) .  
 ![Uninstall Discord on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-discord-on-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Hopefully, this will resolve the issue, and Discord will run smoothly on your Windows computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixing Your Discord App Lag on Windows
 
  Such issues with the Discord app can easily ruin your experience. We hope that the above fixes have helped you resolve the Discord app lag on Windows. If not, you can always use Discord web on your favorite browser.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -174,4 +169,16 @@ To update Discord on Windows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/2024-approved-acoustic-alerts-on-whatsapp-status/"><u>2024 Approved Acoustic Alerts on WhatsApp Status</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-honor-80-pro-straight-screen-edition-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Honor 80 Pro Straight Screen Edition for Free? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-apple-id-from-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How To Unlink Apple ID From Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/insightful-viewership-data-for-your-insta-pics/"><u>Insightful Viewership Data for Your Insta Pics</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/link-and-share-your-chatbot-exchanges-master-the-art-of-spreading-chatgpt-conversations/"><u>Link and Share Your Chatbot Exchanges: Master the Art of Spreading ChatGPT Conversations</u></a></li>
+<li><a href="https://windows11.techidaily.com/reflect-on-one-misconception-about-cultural-relativism-mentioned-in-class-then-describe-how-you-would-address-this-misunderstanding-with-someone-from-a-diff21/"><u>Reflect on One Misconception About Cultural Relativism Mentioned in Class, Then Describe How You Would Address This Misunderstanding with Someone From a Different Culture</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-to-reduce-cpu-consumption-fixing-dropbox-on-windows/"><u>Solutions to Reduce CPU Consumption: Fixing Dropbox on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-7-photo-arrangers-for-a-clutter-free-pc-desktop/"><u>Top 7 Photo Arrangers for a Clutter-Free PC Desktop</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-windows-odbc-command-center/"><u>Unveiling the Windows ODBC Command Center</u></a></li>
+</ul></div>
 

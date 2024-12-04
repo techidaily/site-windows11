@@ -1,7 +1,7 @@
 ---
 title: "Revel in Easy Entry: Unlocking Windows 11'S Application Archive"
-date: 2024-11-24T01:16:44.798Z
-updated: 2024-11-24T16:08:59.846Z
+date: 2024-11-30T03:45:55.819Z
+updated: 2024-12-04T02:53:09.121Z
 tags:
   - windows10
   - windows11
@@ -33,10 +33,14 @@ thumbnail: https://thmb.techidaily.com/3ad4f7e8b48f19c37105255d0826afad52f6608be
 2. Type **shell:AppsFolder** into the text field and hit Enter.  
 ![Open AppsFolder Using Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-appsfolder-using-run-command.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The AppsFolder opens up in its own window, where you can view and manage the applications installed on your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. How to Open AppsFolder Using File Explorer
@@ -48,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/3ad4f7e8b48f19c37105255d0826afad52f6608be
 
  The AppsFolder window appears on your screen. You can even drag and drop files and folders from other locations into the AppsFolder.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. How to Open AppsFolder Using Task Manager
 
  Task Manager monitors and manages running processes and resource utilization on your Windows computer. To open the AppsFolder using Task Manager, follow these steps:
@@ -61,11 +61,11 @@ thumbnail: https://thmb.techidaily.com/3ad4f7e8b48f19c37105255d0826afad52f6608be
 3. Type **shell:AppsFolder** in the dialog box and click **OK**.  
 ![Open AppsFolder Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-appsfolder-using-task-manager.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The AppsFolder window shows all the programs and apps installed on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. How to Open AppsFolder Using Command Prompt
 
@@ -76,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/3ad4f7e8b48f19c37105255d0826afad52f6608be
 3. In the Command Prompt window, type **Explorer Shell:AppsFolder**​ and press **Enter**.  
 ![Open AppsFolder Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-appsfolder-using-command-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. How to Open AppsFolder Using Windows PowerShell
 
  Windows PowerShell is also a command-line tool, and you can use it to open the AppsFolder. Follow these steps:
@@ -84,10 +88,6 @@ thumbnail: https://thmb.techidaily.com/3ad4f7e8b48f19c37105255d0826afad52f6608be
 2. Select **Windows PowerShell** from the results list.
 3. Once the Windows PowerShell window appears, type **Explorer Shell:AppsFolder** and press Enter.  
 ![Open AppsFolder Using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-appsfolder-using-powershell.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  That's it! The AppsFolder window opens with all your installed applications listed inside.
 
@@ -104,6 +104,10 @@ thumbnail: https://thmb.techidaily.com/3ad4f7e8b48f19c37105255d0826afad52f6608be
 
  You'll see an Apps Folder shortcut icon appear on your desktop. Double-click it to open the AppsFolder window and manage your apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. How to Open AppsFolder Using a Shortcut Key
 
  To quickly open the AppsFolder, you can use a keyboard shortcut. This method is preferred for those who use shortcuts frequently. Here's how to do it:
@@ -114,10 +118,6 @@ thumbnail: https://thmb.techidaily.com/3ad4f7e8b48f19c37105255d0826afad52f6608be
 ![Open AppsFolder Using Shortcut Key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-appsfolder-using-shortcut-key.jpg)
 
  The shortcut key will appear next to the **Ctrl + Alt** options. You can now quickly open the AppsFolder with this keyboard shortcut.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Getting to the AppsFolder Quickly on Windows
 
@@ -135,22 +135,22 @@ thumbnail: https://thmb.techidaily.com/3ad4f7e8b48f19c37105255d0826afad52f6608be
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-epic-mmo-collection-best-10-no-cost-online-adventures/"><u>[New] In 2024, Epic MMO Collection Best 10 No-Cost Online Adventures</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-money-multiplier-how-to-maximize-youtube-profits-with-mobile-viewers/"><u>[New] In 2024, Money Multiplier How to Maximize YouTube Profits with Mobile Viewers</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-googles-musical-sidekick-ringers-guide/"><u>[Updated] 2024 Approved Google's Musical Sidekick Ringers Guide</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-the-smartphone-lens-creating-sweeping-panos/"><u>[Updated] 2024 Approved The Smartphone Lens Creating Sweeping Panos</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-from-concept-to-cinematic-creating-charismatic-clips-with-wmm/"><u>[Updated] From Concept to Cinematic Creating Charismatic Clips with WMM</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-peak-engagement-top-20-strategic-tiktok-caption-techniques/"><u>[Updated] In 2024, Peak Engagement Top 20 Strategic TikTok Caption Techniques</u></a></li>
-<li><a href="https://windows11.techidaily.com/accelerate-search-results-in-windows-11-with-these-11-fixes/"><u>Accelerate Search Results in Windows 11 with These 11 Fixes</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-compact-icons-arrangement-in-system-interface/"><u>Fixing Compact Icons Arrangement in System Interface</u></a></li>
-<li><a href="https://techtrends.techidaily.com/get-windows-media-player-free-for-your-new-windows-11-system-instant-installation-guide/"><u>Get Windows Media Player Free for Your New Windows 11 System - Instant Installation Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-windows-11-for-sticky-note-usage/"><u>Navigating Windows 11 for Sticky Note Usage</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimize-your-pre-win11-system-efficiently/"><u>Optimize Your Pre-Win11 System Efficiently</u></a></li>
-<li><a href="https://fox-access.techidaily.com/polar-prowess-highlighting-the-elite-of-snowboard-cross-winter-games-for-2024/"><u>Polar Prowess Highlighting the Elite of Snowboard Cross, Winter Games for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/rectifying-pc-issues-amidst-minimum-specifications-and-intel-graphic-errors/"><u>Rectifying PC Issues Amidst Minimum Specifications and Intel Graphic Errors</u></a></li>
-<li><a href="https://windows11.techidaily.com/surging-past-connectivity-hurdles-in-win-and-ea-games/"><u>Surging Past Connectivity Hurdles in Win and EA Games</u></a></li>
-<li><a href="https://windows11.techidaily.com/swift-strategies-nine-fixes-for-wwe-2k23-stability-on-new-os/"><u>Swift Strategies: Nine Fixes for WWE 2K23 Stability on New OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/turning-on-windows-11-desktop-widget-tools/"><u>Turning On Windows 11 Desktop Widget Tools</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unleash-power-free-radeon-vega-3-graphics-driver-24/"><u>Unleash Power: Free Radeon Vega 3 Graphics Driver '24</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-classic-cinema-in-paperback-examining-the-goofy-story/"><u>[New] 2024 Approved Classic Cinema in Paperback Examining 'The Goofy Story'</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-driving-traffic-and-likes-a-guide-for-instagram-pros/"><u>[New] 2024 Approved Driving Traffic & Likes A Guide for Instagram Pros</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-tackling-the-challenge-of-locating-fbs-most-watched-videos-2e23-for-2024/"><u>[New] Tackling the Challenge of Locating Fb's Most-Watched Videos (2E23) for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-mastering-the-art-of-sniping-on-mac-with-these-tools/"><u>[Updated] 2024 Approved Mastering the Art of Sniping on Mac with These Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-navigating-through-vivas-video-content/"><u>2024 Approved Navigating Through Viva's Video Content</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-how-to-activating-hyper-v-for-win11-users/"><u>Essential How-To: Activating Hyper-V for Win11 Users</u></a></li>
+<li><a href="https://driver-error.techidaily.com/failed-driver-setup-absence-of-intel-interface/"><u>Failed Driver Setup - Absence of Intel Interface</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-blackouts-during-win-based-gameplay/"><u>How to Fix Blackouts During Win-Based Gameplay</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-salvage-your-failed-zip-extraction-in-windows-11/"><u>How To Salvage Your Failed ZIP Extraction in Windows 11</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-navigate-the-nuances-of-zooms-broadcast-technology-for-youtube-pros/"><u>In 2024, Navigate the Nuances of Zoom's Broadcast Technology for YouTube Pros</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-ssd-selection-for-next-gen-gaming-console/"><u>Prime SSD Selection for Next-Gen Gaming Console</u></a></li>
+<li><a href="https://windows11.techidaily.com/regain-access-to-hidden-5ghz-networks-on-your-windows-pc/"><u>Regain Access to Hidden 5GHz Networks on Your Windows PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-zoom-crash-code-1132-in-windows-os/"><u>Resolving Zoom Crash Code: 1132 in Windows OS</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-ultimate-solution-for-facing-steamvr-e-308-issues/"><u>The Ultimate Solution for Facing SteamVR E-308 Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-vision-enhancers-guide-top-9-remedies-for-blurry-displays/"><u>The Vision Enhancers' Guide: Top 9 Remedies for Blurry Displays</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-tools-that-makes-your-laptops-os-change-more-manageable/"><u>Top Tools that Makes Your Laptop's OS Change More Manageable</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-the-full-potential-of-your-systems-ram-with-windows/"><u>Unlocking the Full Potential of Your System's RAM with Windows</u></a></li>
 </ul></div>
 
