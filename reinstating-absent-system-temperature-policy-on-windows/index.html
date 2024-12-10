@@ -29,8 +29,8 @@
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/power-options-windows-system-cooling.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/creating-text-doc-windows-11.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/message-continue-merge-reg-gile.jpg">
-<meta property="article:published_time" content="2024-12-01T12:24:46.219Z">
-<meta property="article:modified_time" content="2024-12-03T12:45:41.724Z">
+<meta property="article:published_time" content="2024-12-03T12:25:39.989Z">
+<meta property="article:modified_time" content="2024-12-10T14:11:11.171Z">
 <meta property="article:author" content="Joseph">
 <meta property="article:tag" content="windows10">
 <meta property="article:tag" content="windows11">
@@ -716,15 +716,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-12-01 20:24:46</span>
-        <span class="mobile">2024-12-01 20:24:46</span>
+        <span class="desktop">2024-12-03 20:25:39</span>
+        <span class="mobile">2024-12-03 20:25:39</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-12-03 20:45:41</span>
-            <span class="mobile">2024-12-03 20:45:41</span>
+            <span class="desktop">2024-12-10 22:11:11</span>
+            <span class="mobile">2024-12-10 22:11:11</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -794,6 +794,10 @@
 <p> Disclaimer: This post includes affiliate links</p>
 <p> If you click on a link and make a purchase, I may receive a commission at no extra cost to you.</p>
 </blockquote>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <h2 id="How-to-Fix-a-Missing-System-Cooling-Policy-Using-PowerShell"><a href="#How-to-Fix-a-Missing-System-Cooling-Policy-Using-PowerShell" class="headerlink" title="How to Fix a Missing System Cooling Policy Using PowerShell"></a>How to Fix a Missing System Cooling Policy Using PowerShell</h2><p> For this method, start by pressing<strong>Win + S</strong> to bring up Windows search. Type<strong>powershell</strong> in the search box and click on<strong>Windows PowerShell</strong> in the search results.</p>
 <p> Next, enter the below command in PowerShell and then hit the<strong>Enter</strong> key to run it:</p>
 <p><code>powercfg -attributes SUB_PROCESSOR 94D3A615-A899-4AC5-AE2B-E4D8F634367F -ATTRIB_HIDE</code></p>
@@ -805,16 +809,12 @@
                       alt="Power Options menu on Windows with the System cooling policy expanded"
                 ></p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <p> If you want to hide it again after you’ve set it, you can enter the following command and then press<strong>Enter</strong> to run it:</p>
 <p><code>powercfg -attributes SUB_PROCESSOR 94D3A615-A899-4AC5-AE2B-E4D8F634367F +ATTRIB_HIDE</code></p>
 <p> If you go back to the Power Options menu, you’ll find that it’s gone.</p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h2 id="How-to-Fix-a-Missing-System-Cooling-Policy-Using-the-Windows-Registry"><a href="#How-to-Fix-a-Missing-System-Cooling-Policy-Using-the-Windows-Registry" class="headerlink" title="How to Fix a Missing System Cooling Policy Using the Windows Registry"></a>How to Fix a Missing System Cooling Policy Using the Windows Registry</h2><p> Another way to fix the system cooling policy missing from Power Options is by editing the Windows Registry. Before you proceed, please make a copy of it so you have something to restore if something goes wrong. To do that please read our guide on<a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/tag/backup-restore-windows-registry/" >how to backup and restore the Windows Registry <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> .</p>
 <p> Next, click on an empty part of the desktop and select<strong>New &gt; Text document</strong> and name it<strong>add-system-cooling-policy.reg</strong> . You’ve basically<a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-registry-file-guide/" >created a registry file on Windows <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> here.</p>
 <p><img  
@@ -824,7 +824,7 @@
                       alt="creating a text document on Windows 11"
                 ></p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <p>In the text document, enter the following code:</p>
@@ -837,7 +837,7 @@
                       alt="message to continue merging a registry file with the windows registry"
                 ></p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <p> You should now see the system cooling policy in the Power Options menu.</p>
@@ -845,7 +845,7 @@
 <p><code>Windows Registry Editor Version 5.00[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\54533251-82be-4824-96c1-47b60b740d00\94d3a615-a899-4ac5-ae2b-e4d8f634367f]&quot;Attributes&quot;=dword:00000001</code></p>
 <p> Once you run this file, the system cooling policy will be hidden again in the Power Options menu.</p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <h2 id="Bringing-Back-the-System-Cooling-Policy-on-Windows"><a href="#Bringing-Back-the-System-Cooling-Policy-on-Windows" class="headerlink" title="Bringing Back the System Cooling Policy on Windows"></a>Bringing Back the System Cooling Policy on Windows</h2><p> Now that the system cooling policy has returned you can tweak it to your liking. We have even shown you how to hide it again in case you don’t want others messing with it. If these methods don’t work, you might have another problem with your computer.</p>
@@ -862,19 +862,19 @@
      data-full-width-responsive="true"></ins></p>
 <p><span class="atpl-alsoreadstyle">Also read:</span></p>
 <div><ul>
-<li><a target="_blank" rel="noopener" href="https://fox-helps.techidaily.com/new-in-2024-the-ultimate-guide-for-ios-album-arrangement-and-icloud-cloud-syncing-mastery/"><u>[New] In 2024, The Ultimate Guide for iOS Album Arrangement & iCloud Cloud Syncing Mastery</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-video-footage.techidaily.com/new-the-beginners-checklist-8-key-slip-ups-in-youtube-creation/"><u>[New] The Beginner's Checklist 8 Key Slip-Ups in YouTube Creation</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-leading-the-field-in-remotely-recorded-content-creation/"><u>[Updated] 2024 Approved Leading the Field in Remotely Recorded Content Creation</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-data.techidaily.com/ed-elevate-the-visual-appeal-of-your-video-credits-for-2024/"><u>[Updated] Elevate the Visual Appeal of Your Video Credits for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-links.techidaily.com/updated-in-2024-perfecting-playback-apply-filters-to-video-content/"><u>[Updated] In 2024, Perfecting Playback Apply Filters to Video Content</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-enable-quake-mode-in-windows-terminal/"><u>How to Enable Quake Mode in Windows Terminal</u></a></li>
-<li><a href="https://windows11.techidaily.com/mending-file-history-setting-glitch-in-windows-os/"><u>Mending File History Setting Glitch in Windows OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/precision-in-diagnosis-navigating-through-windows-error-messages-with-command-line-skills/"><u>Precision in Diagnosis: Navigating Through Windows Error Messages with Command Line Skills</u></a></li>
-<li><a href="https://windows11.techidaily.com/rewind-and-restore-key-applications-for-changing-createdmodified-dates/"><u>Rewind and Restore: Key Applications for Changing Created/Modified Dates</u></a></li>
-<li><a href="https://windows11.techidaily.com/tailor-made-window-ordering-powertoy-guide-to-win-os-snaps/"><u>Tailor-Made Window Ordering: PowerToy Guide to Win OS Snaps</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-ultimate-shortcut-compendium-windows-narrators-command-guide/"><u>The Ultimate Shortcut Compendium: Windows Narrator's Command Guide</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-record-videos.techidaily.com/unraveling-youtubes-monetization-policy-overhaul-for-2024/"><u>Unraveling YouTube’s Monetization Policy Overhaul for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://buynow-reviews.techidaily.com/z-edges-value-proposition-unveiling-the-z3-plus-camera-review/"><u>Z-Edge's Value Proposition: Unveiling the Z3 Plus Camera Review</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://instagram-videos.techidaily.com/new-2024-approved-strategies-for-igtv-on-facebook-integration/"><u>[New] 2024 Approved Strategies for IGTV on Facebook Integration</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://youtube-data.techidaily.com/levate-your-video-entrance-with-these-tools/"><u>[New] Elevate Your Video Entrance with These Tools</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://article-helps.techidaily.com/new-in-2024-zoom-meets-tiktok-streamlining-video-sharing/"><u>[New] In 2024, Zoom Meets TikTok Streamlining Video Sharing</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://vp-tips.techidaily.com/updated-zoom-mastery-best-approaches-to-video-transcoding-for-2024/"><u>[Updated] Zoom Mastery Best Approaches to Video Transcoding for 2024</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-12-pro-max-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently From iPhone 12 Pro Max</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-poco-x5-pro-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Poco X5 Pro Like A Pro 5 Easy Ways</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://some-guidance.techidaily.com/in-2024-unveiling-the-secrets-to-using-vivavideo-app/"><u>In 2024, Unveiling the Secrets to Using VivaVideo App</u></a></li>
+<li><a href="https://windows11.techidaily.com/perfect-pixels-for-every-window-11-display/"><u>Perfect Pixels for Every Window 11 Display</u></a></li>
+<li><a href="https://windows11.techidaily.com/purging-protection-logs-on-windows-1011-with-ease/"><u>Purging Protection Logs on Windows 10/11 with Ease</u></a></li>
+<li><a href="https://windows11.techidaily.com/revive-hidden-desktop-icons-on-the-latest-windows/"><u>Revive Hidden Desktop Icons on the Latest Windows</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://techno-recovery.techidaily.com/step-by-step-tutorial-on-configuring-your-latest-ipad-model-featuring-expert-advice/"><u>Step-by-Step Tutorial on Configuring Your Latest iPad Model, Featuring Expert Advice</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-offline-warriors-guide-to-microsoft-onedrive/"><u>The Offline Warrior's Guide to Microsoft OneDrive</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://ai-video-apps.techidaily.com/updated-2024-approved-no-cost-split-screen-video-editing-online-and-offline-tools-compared/"><u>Updated 2024 Approved No-Cost Split Screen Video Editing Online and Offline Tools Compared</u></a></li>
 </ul></div>
 
 
@@ -887,11 +887,11 @@
         <li><strong>Title:</strong> Reinstating Absent System Temperature Policy on Windows</li>
         <li><strong>Author:</strong> Joseph</li>
         <li><strong>Created at
-                :</strong> 2024-12-01 20:24:46</li>
+                :</strong> 2024-12-03 20:25:39</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2024-12-03 20:45:41
+                    :</strong> 2024-12-10 22:11:11
             </li>
         
         <li>
@@ -935,13 +935,13 @@
                     <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="prev"
                         rel="prev"
-                        href="/tech-wisdom-unleashing-sticky-notes-on-win11/"
+                        href="/forewarned-is-forearmed-top-8-windows-11-no-nos-for-neophytes/"
                         >
                             <span class="left arrow-icon flex justify-center items-center">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </span>
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Tech Wisdom: Unleashing Sticky Notes on Win11</span>
+                                <span class="post-nav-title-item">Forewarned Is Forearmed: Top 8 Windows 11 No-Nos for Neophytes</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -951,10 +951,10 @@
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/tackling-the-busy-resource-issue-in-windows-environments-153-chars/"
+                        href="/restarting-windows-security-fix-for-flawed-functions/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Tackling the Busy Resource Issue in Windows Environments (153 Chars)</span>
+                                <span class="post-nav-title-item">Restarting Windows Security: Fix for Flawed Functions</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">
