@@ -1,7 +1,7 @@
 ---
 title: Guide to Rectify “File History Fault” In Windows
-date: 2024-08-15T16:21:34.002Z
-updated: 2024-08-16T16:21:34.002Z
+date: 2024-12-04T21:30:06.477Z
+updated: 2024-12-10T16:58:58.279Z
 tags:
   - windows10
   - windows11
@@ -32,26 +32,15 @@ To restart the File History Service in Windows:
 ![Restart File Hisotry Service Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/restart-file-hisotry-service-windows.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Disconnect and Reconnect the Backup Drive
 
  Connection problems with your external drive can also cause Windows to display the "We found errors in your File History settings" error. If it’s nothing major, you should be able to resolve the error by disconnecting and reconnecting your backup drive.
 
  While you're at it, try using a different USB port. This will help you determine if there’s a[problem with the USB port](https://www.makeuseof.com/tag/dead-usb-port-heres-how-to-diagnose-and-fix-it/) you’re using. If you suspect a port is malfunctioning, check out how to diagnose and fix a faulty USB port on Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ## 3\. Re-Select the Backup Drive and Restart File History
 
  Next, you can try re-selecting your backup drive in File History settings and see if that helps. Here are the steps for the same.
@@ -63,9 +52,9 @@ To restart the File History Service in Windows:
 5. Click the**Select drive** option from the left sidebar.
 6. Select your preferred drive from the list and click**OK** .  
 ![Select File History Drive Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/select-file-history-drive-windows.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After selecting your preferred drive, you’ll have to restart the File History feature on Windows. To do so, use the following steps:
@@ -75,8 +64,9 @@ DbSchema database designer for all databases, schema design in the team, schema 
 3. In the Control Panel window that opens, click the**Turn off** button.
 4. Wait for a few seconds and click the**Turn on** button.  
 ![Turn On File History in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-on-file-history-in-windows.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the error message persists even after this, you can try using a different drive for the File History backup and see if that works.
@@ -99,27 +89,26 @@ DbSchema database designer for all databases, schema design in the team, schema 
 `%UserProfile%\AppData\Local\Microsoft\Windows\FileHistory`
 3. Press**Ctrl + A** to select all the folders and click the**trash icon** at the top to delete them.  
 ![Delete File Hisotry AppData](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/delete-file-hisotry-appdata.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fixing File History Errors on Windows
 
  After you apply the fixes listed above, the File History error should no longer bother you.
 
  Tired of dealing with File History errors on your Windows device? It might be a good idea to use a cloud storage service or third-party backup software to protect your important data.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -128,4 +117,21 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/oes-the-sub4sub-strategy-improve-content-consumption-for-2024/"><u>[New] Does the Sub4Sub Strategy Improve Content Consumption for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-epitome-of-plot-crafting-through-eight-cinematic-fields-for-2024/"><u>[New] Epitome of Plot Crafting Through Eight Cinematic Fields for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-case-study-approach-learning-from-successful-market-research-examples-for-2024/"><u>[Updated] Case Study Approach Learning From Successful Market Research Examples for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-sync-video-elements-to-captivate-instagram-audiences/"><u>[Updated] In 2024, Sync Video Elements to Captivate Instagram Audiences</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-14-pro-drfone-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortless-techniques-for-eliminating-borders-and-guides-in-your-excel-spreadsheets/"><u>Effortless Techniques for Eliminating Borders & Guides in Your Excel Spreadsheets</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortless-unit-transformation-techniques-with-microsoft-excel-tutorials/"><u>Effortless Unit Transformation Techniques with Microsoft Excel Tutorials</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-m34-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy M34 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Honor 100? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-excels-essential-logical-operators-if-and-or-xor-and-not/"><u>Mastering Excel's Essential Logical Operators: IF, AND, OR, XOR, and NOT</u></a></li>
+<li><a href="https://windows11.techidaily.com/microsoft-excels-latest-update-introduces-advanced-data-consolidation-features/"><u>Microsoft Excel's Latest Update Introduces Advanced Data Consolidation Features</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-old-data-in-excel-a-step-by-step-guide/"><u>Restoring Old Data in Excel: A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-insights-in-numbers-a-guide-to-excel-quick-analysis-for-impactful-data-graphs-and-charts/"><u>Unlocking Insights in Numbers: A Guide to Excel Quick Analysis for Impactful Data Graphs and Charts</u></a></li>
+</ul></div>
 

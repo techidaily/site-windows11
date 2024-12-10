@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Checklist for Saving and Recovering Notes
-date: 2024-12-02T16:51:25.146Z
-updated: 2024-12-03T17:29:09.415Z
+date: 2024-12-07T19:13:43.426Z
+updated: 2024-12-10T18:42:00.674Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/4a1fd1f32e402d9cdb76f6617f2af3bb610c32d54
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Back Up and Restore YourSticky Notes Using a Microsoft Account
@@ -46,11 +46,11 @@ thumbnail: https://thmb.techidaily.com/4a1fd1f32e402d9cdb76f6617f2af3bb610c32d54
 7. Scroll down and click **Sync now**.  
 ![the Sync Now button in Sticky Notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/sync-now-button-in-sticky-notes.jpg)
 
- To restore the notes on another computer, open the Sticky Notes app (make sure the PC is connected to the internet) and sign in with your Microsoft account. Once signed in, the app will load all the notes you previously synced. Furthermore, every time you finish writing a Sticky Note or edit one, the app will automatically back it up to the cloud.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ To restore the notes on another computer, open the Sticky Notes app (make sure the PC is connected to the internet) and sign in with your Microsoft account. Once signed in, the app will load all the notes you previously synced. Furthermore, every time you finish writing a Sticky Note or edit one, the app will automatically back it up to the cloud.
 
 ## How to Manually Back Up and Restore Your Sticky Notes
 
@@ -64,14 +64,14 @@ thumbnail: https://thmb.techidaily.com/4a1fd1f32e402d9cdb76f6617f2af3bb610c32d54
 3. In the **LocalState** folder, copy the **plum.sqlite** file.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![the plum database for Sticky Notes on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/the-plum-database-for-sticky-notes-on-windows.jpg)
 4. Paste the **plum.sqlite** file to an external drive, such as a flash drive or external SDD, or upload it to cloud storage, such as OneDrive or Google Drive, for safekeeping.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To manually restore your sticky notes on another Windows computer, follow the steps below:
@@ -85,7 +85,7 @@ thumbnail: https://thmb.techidaily.com/4a1fd1f32e402d9cdb76f6617f2af3bb610c32d54
  Now when you open Sticky Notes, it will load the **plum.sqlite** file, and you should see all your notes appear in the app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Never Lose Your Sticky Notes Again
@@ -104,17 +104,21 @@ thumbnail: https://thmb.techidaily.com/4a1fd1f32e402d9cdb76f6617f2af3bb610c32d54
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-collect-free-image-resources-via-top-4-online-stock-hubs/"><u>[New] In 2024, Collect Free Image Resources Via Top 4 Online Stock Hubs</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-inside-the-metaverse-comprehending-6-intricate-instances-for-2024/"><u>[New] Inside the Metaverse Comprehending 6 Intricate Instances for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-merging-and-editing-footage-on-iphone/"><u>[Updated] Merging and Editing Footage on iPhone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-step-by-step-approach-to-stream-flawless-events-with-zoom-on-youtube-for-2024/"><u>[Updated] Step-by-Step Approach to Stream Flawless Events with Zoom on YouTube for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-your-mouses-dizzy-spins-in-windows/"><u>Fixing Your Mouse's Dizzy Spins in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-for-controlling-visual-cues-in-windows-11-search/"><u>Guide for Controlling Visual Cues in Windows 11 Search</u></a></li>
-<li><a href="https://change-location.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/prestigious-6-colossi-massive-language-titans/"><u>Prestigious 6 Colossi: Massive Language Titans</u></a></li>
-<li><a href="https://windows11.techidaily.com/startup-guide-for-windows-11s-immediate-help-tool/"><u>Startup Guide for Windows 11'S Immediate Help Tool</u></a></li>
-<li><a href="https://windows11.techidaily.com/stealthy-system-settings-hiding-windows-11-power-command/"><u>Stealthy System Settings: Hiding Windows 11 Power Command</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-restoring-lighting-on-faulty-corsair-keyboards/"><u>Troubleshooting Guide: Restoring Lighting on Faulty Corsair Keyboards</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11s-triple-widget-setup-made-simple/"><u>Windows 11'S Triple Widget Setup Made Simple</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-maximizing-your-zoom-experience-on-chromeos/"><u>[New] Maximizing Your Zoom Experience on ChromeOS</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-master-the-pinning-process-for-a-personal-touch-in-snapchat/"><u>[Updated] In 2024, Master the Pinning Process for a Personal Touch in Snapchat</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1-easy-guide-transferring-youtube-audio-and-video-content-directly-to-your-ipod/"><u>1. Easy Guide: Transferring YouTube Audio & Video Content Directly to Your iPod</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavi-m2p-mp4/"><u>使用 Movavi 網站無限制 M2P 到 MP4 格式改變</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/android-video-enhancement-strategies-for-2024/"><u>Android Video Enhancement Strategies for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/bringing-lost-panes-back-top-techniques-for-windows-11/"><u>Bringing Lost Panes Back: Top Techniques for Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/delaying-windows-10-shutdown-during-running-programs/"><u>Delaying Windows 10 Shutdown During Running Programs</u></a></li>
+<li><a href="https://windows11.techidaily.com/easy-steps-to-clean-up-steams-networking-caches/"><u>Easy Steps to Clean Up Steam's Networking Caches</u></a></li>
+<li><a href="https://windows11.techidaily.com/fine-tune-automatic-lock-settings-on-pcs/"><u>Fine-Tune Automatic Lock Settings on PCs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guffaw-generator-pictorial-editor-for-2024/"><u>Guffaw Generator Pictorial Editor for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>How to Share Location in Messenger On Apple iPhone SE? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-xiaomi-redmi-12-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Xiaomi Redmi 12 Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-cr2-to-jpg-conversion-using-windows-tools/"><u>Mastering the Art of CR2 to JPG Conversion Using Windows Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/revamp-desktop-by-removing-windows-11s-highlighted-icon/"><u>Revamp Desktop by Removing Windows 11'S Highlighted Icon</u></a></li>
+<li><a href="https://windows11.techidaily.com/strip-windows-11-of-the-store-application/"><u>Strip Windows 11 of the Store Application</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-oppo-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Oppo Device</u></a></li>
 </ul></div>
 

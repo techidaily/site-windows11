@@ -1,7 +1,7 @@
 ---
 title: "Trusting Websites in Windows 11: A Quick Guide"
-date: 2024-08-08T06:15:20.918Z
-updated: 2024-08-09T06:15:20.918Z
+date: 2024-12-04T17:55:28.346Z
+updated: 2024-12-10T16:46:29.796Z
 tags:
   - windows10
   - windows11
@@ -28,30 +28,36 @@ thumbnail: https://thmb.techidaily.com/8f7f92c4fc16a81d47d86f2a37a2e3afe657d72ab
 
 1. Copy the website URL you want to add to the trusted list.
 2. Press the **Windows** key to open the **Start Menu,** type **Internet Options** in the search bar, and press Enter.  
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![Internet options in Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/internet-options.jpg)
 3. Switch to the **Security** tab.
-4. Click the **Trusted sites** icon and then click the **Sites** button.  
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. Click the **Trusted sites** icon and then click the **Sites** button.  
 ![Trusted sites option in Internet Options window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/trusted-sites-option.jpg)
 5. Paste the copied URL in the **Add this website to the zone** field and then click the **Add** button.  
+
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Add button in Internet Options window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/add-button.jpg)
 6. Click the **Close** option and then **OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To remove a website from the trusted list, access the **Trusted sites** window, select the website and then click the **Remove** button.
 
 ![Remove button in Internet Options window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/remove-button.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Add a Website to the Google Chrome Trusted List
 
  Google Chrome is one of the [best web browsers for Windows](https://www.makeuseof.com/windows-11-best-browsers/). If you want to add a website to the trusted sites list of Google Chrome, follow the below instructions:
@@ -60,18 +66,17 @@ thumbnail: https://thmb.techidaily.com/8f7f92c4fc16a81d47d86f2a37a2e3afe657d72ab
 2. Click the **Lock icon** on the left side of the URL box and choose **Site settings** from the menu that pops up.  
 ![Site settings option in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/site-settings.jpg)
 3. Click the drop-down icon next to the **Insecure content** option and choose **Allow** from the context menu. Then, restart Google Chrome.  
+
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Insecure content option in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/insecure-content.jpg)
 
  And that’s about it. Now you can access the added website without any pop-up or warning by Google Chrome.
 
  In the future, if you want to remove the website from the trusted list, choose **Block(default)** from the Insecure content drop-down menu and then restart Google Chrome to save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![Block option in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/block-option.jpg)
 
 ## How to Add a Website to the Microsoft Edge Trusted List
@@ -82,9 +87,11 @@ thumbnail: https://thmb.techidaily.com/8f7f92c4fc16a81d47d86f2a37a2e3afe657d72ab
 2. Click the Lock icon on the left side of the URL box and choose **Permissions** **for this site** option.  
 ![Permission for this site option in Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/permission-for-this-site.jpg)
 3. Choose Allow from the Insecure content drop-down menu. Then, restart Microsoft Edge to save the changes.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Allow option in Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/allow-option.jpg)
 
 ## How to Add a Website to the Mozilla Firefox Trusted List
@@ -94,26 +101,20 @@ thumbnail: https://thmb.techidaily.com/8f7f92c4fc16a81d47d86f2a37a2e3afe657d72ab
 1. Open the website you want to add to the trusted list of Mozilla Firefox.
 2. Copy the URL of the website.
 3. Click the **hamburger icon** at the top right corner, and choose **Settings.**  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![Settings option in Firefox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/settings-option.jpg)
 4. Choose the **Privacy** **& Security** option from the left sidebar and click the **Manage Exceptions** button in the right pane.  
 ![Manage exceptions option in Firefox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/manage-exceptions-option.jpg)
 5. Paste the copied URL in the **Address of website** field and click the **Add Exception** button.  
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Add exception option in Firefox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/add-exception-option.jpg)
 6. Click the **Save Changes** option.
 
  If you want to remove a website from Mozilla Firefox's trusted list, access the Manage Exceptions window, select the website and click the **Remove Website** option. Then, click the Save Changes button.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ![Remove Website option in Firefox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/remove-website-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Add a Website to the Brave Trusted List
 
@@ -131,11 +132,31 @@ thumbnail: https://thmb.techidaily.com/8f7f92c4fc16a81d47d86f2a37a2e3afe657d72ab
 
  In this article, we will show how to add trusted sites on Windows 11, plus instructions for various browsers such as Google Chrome, Brave, Microsoft Edge, and Mozilla Firefox.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-multimedia-designers-space/"><u>[Updated] In 2024, Multimedia Designer's Space</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-reliable-tiktok-popularity-enhancers/"><u>2024 Approved Reliable TikTok Popularity Enhancers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-newest-nvidia-geforce-rtx-2070-drivers-for-win10win8win7/"><u>Download the Newest NVIDIA GeForce RTX 2070 Drivers for Win10/Win8/Win7</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-code-0x0001-nvidia-glitch-in-w10w11/"><u>Fixing Code 0X0001 Nvidia Glitch in W10/W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-correct-oculus-app-errors-in-winxiwinxc/"><u>Guide to Correct Oculus App Errors in WinXI/WinXC</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/ignite-dialogue-innovative-questions-in-ig-story-lives-for-2024/"><u>Ignite Dialogue Innovative Questions in IG Story Lives for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-your-workspace-dragging-tabs-window-explorer-ways/"><u>Optimize Your Workspace: Dragging Tabs, Window Explorer Ways</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-the-essential-escape-function-in-windows-78/"><u>Restoring the Essential Escape Function in Windows 7/8</u></a></li>
+<li><a href="https://windows11.techidaily.com/secrets-to-rectifying-windows-registry-problems/"><u>Secrets to Rectifying Windows Registry Problems</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/steps-to-recover-lost-system-files-comprehensive-guide-by-yl-computing/"><u>Steps to Recover Lost System Files: Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://windows11.techidaily.com/supercharge-your-development-with-enhanced-android-studio-performance/"><u>Supercharge Your Development with Enhanced Android Studio Performance</u></a></li>
+<li><a href="https://windows11.techidaily.com/ten-steps-to-clear-win11-dns-cache/"><u>Ten Steps to Clear Win11 DNS Cache</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-experts-technique-for-age-estimation/"><u>The Expert's Technique for Age Estimation</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-lava-blaze-curve-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Lava Blaze Curve 5G Reset Code | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/una-guia-sencilla-para-instalar-controladores-en-windows-sin-conexion/"><u>Una Guía Sencilla Para Instalar Controladores en Windows Sin Conexión</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-potential-of-the-heimvision-sunru)sset-alarm-clock-a-deep-dive-into-its-fundamental-light-therapy-technology/"><u>Unveiling the Potential of the HeimVision Sunr^u>sset Alarm Clock: A Deep Dive Into Its Fundamental Light Therapy Technology</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/1726223917512-mov-vob/"><u>제공자가 아니에요? 오픈소스 전용: MOV VOB 비동기 화면 바이트실을 무료로 변환 - 모벨라이</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Handling the File Not Displayed Problem in Outlook on Windows
-date: 2024-08-15T16:20:40.142Z
-updated: 2024-08-16T16:20:40.142Z
+date: 2024-12-07T20:29:02.355Z
+updated: 2024-12-10T16:31:34.823Z
 tags:
   - windows10
   - windows11
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/b2e687db976d53413ad200065943dddbaf2bd03eb
 
  To avoid this, ensure that the appropriate app or software for the file format is available on your computer. After that, Outlook should be able to preview your files without any problems.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Disable Preview Handler in PowerToys
 
  Using Microsoft PowerToys is an excellent way to[boost your productivity on Windows computers](https://www.makeuseof.com/set-up-windows-pc-maximum-productivity/) . However, these PowerToys utilities can sometimes interfere with app processes and prevent apps from working properly.
@@ -37,9 +41,6 @@ thumbnail: https://thmb.techidaily.com/b2e687db976d53413ad200065943dddbaf2bd03eb
 3. Under the**Preview Pane** section, disable the toggle next to**Portable Document Format** .  
 ![Disable Preview Handlers in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disable-preview-handlers-in-powertoys.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Enable Attachment Preview in Outlook
 
  It's possible that Outlook is failing to preview attachments because the file previewer feature is disabled in the app. To overrule this possibility, you need to check the attachment handling settings in Outlook.
@@ -52,9 +53,6 @@ thumbnail: https://thmb.techidaily.com/b2e687db976d53413ad200065943dddbaf2bd03eb
 6. Click on**Attachment and Document Previewers** and make sure all the previewers are active. Then, click**OK** .
 7. Restart the Outlook app after this and see if you can preview attachments.  
 ![Attachment Handling in Outlook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/attachment-handling-in-outlook.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ## 4\. Change Outlook User Interface Settings
 
@@ -65,24 +63,13 @@ thumbnail: https://thmb.techidaily.com/b2e687db976d53413ad200065943dddbaf2bd03eb
 3. In the Outlook Options window, navigate to the**General** tab.
 4. Under the**User Interface Settings** section, select**Optimize for compatibility** option.  
 ![Optimize Outlook for Compatibility](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/optimize-outlook-for-compatibility.jpg)
+
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Restart the Outlook app after this and check if the issue is still there.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Clear Outlook Cache
 
  Outlook, like most apps, stores cache files on your computer to reduce loading times. Although this data is supposed to improve app performance, it’s not uncommon for it to become corrupted over time. When this happens, Outlook may malfunction or throw strange errors. You can try deleting the Outlook cache and see if that helps.
@@ -94,13 +81,7 @@ To delete Outlook cache data on Windows, use these steps:
 3. Type**%localappdata%\\Microsoft\\Outlook** in the text box and press**Enter** .
 4. In the**RoamCache** folder that appears, select all the files and click the**trash icon** at the top to delete them.  
 ![Delete Outlook Cache Data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/delete-outlook-cache-data.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ## 6\. Enable Windows Firewall
 
  Have you disabled Windows Defender Firewall on your computer? That could prevent Outlook from previewing attachments.
@@ -113,6 +94,10 @@ To delete Outlook cache data on Windows, use these steps:
 4. Choose a network profile.
 5. Enable the toggle for**Windows Defender Firewall** .  
 ![Enable Microsoft Defender Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-microsoft-defender-firewall.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Modify Registry Files
 
@@ -131,11 +116,12 @@ To delete Outlook cache data on Windows, use these steps:
 {84F66100-FF7C-4fb4-B0C0-02CD7FB668FE} = Microsoft Word previewer  
 {DC6EFB56-9CFA-464D-8880-44885D7DC193} = Adobe PDF Preview Handler for Vista`  
 ![Preview Handlers in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/preview-handlers-in-registry.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 6. If any of the above-mentioned values are missing, right-click on an empty spot and select**New > String Value** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Double-click on the newly created string value.
 8. Enter the name of the application handler in the**Value data** field and click**OK** .
 9. Right-click on the string value, select**Rename** and type the value associated with the application handler.
@@ -143,8 +129,13 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 ![Edit String in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/edit-string-in-registry.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Run the Microsoft Office Repair Tool
 
  Microsoft Office includes a repair tool for fixing Office apps on Windows. So, if nothing works, you can run this tool to repair the Outlook app. Here's how:
@@ -163,14 +154,11 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  If you're tired of dealing with the Outlook app's recurring problems, there are plenty of excellent email clients for Windows.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -179,4 +167,24 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-essential-mobile-apps-top-8-creativity-boosters-on-ios-and-android/"><u>[Updated] Essential Mobile Apps Top 8 Creativity Boosters on iOS and Android</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-expert-tips-for-memorable-youtube-names/"><u>[Updated] In 2024, Expert Tips for Memorable YouTube Names</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-quick-windows-data-evaluation-guide/"><u>[Updated] Quick Windows Data Evaluation Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-xiaomi-14-pro-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Xiaomi 14 Pro by Name | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/finding-the-ideal-spot-rearrange-onedrive-on-win-11/"><u>Finding the Ideal Spot: Rearrange OneDrive on Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-the-utorrent-pauseresume-issue-on-windows-pcs/"><u>Fixing the uTorrent Pause/Resume Issue on Windows PCs</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-enable-dark-mode-on-the-windows-calculator-app/"><u>How to Enable Dark Mode on the Windows Calculator App</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-unleash-creative-potential-the-ultimate-hdr-guide/"><u>In 2024, Unleash Creative Potential The Ultimate HDR Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/introducing-custom-security-lock-patterns-on-windows-11/"><u>Introducing Custom Security: Lock Patterns on Windows 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/iphone-tricks-watch-your-footage-in-reverse/"><u>IPhone Tricks Watch Your Footage In Reverse</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-image-browsing-in-modern-windows-os/"><u>Mastering Image Browsing in Modern Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/mending-windows-store-problems-with-x00000000/"><u>Mending Windows Store Problems with X00000000</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-spontaneous-system-shutdown-on-w11/"><u>Overcoming Spontaneous System Shutdown on W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-path-to-creativity-start-microsoft-paint-windows-11-edition/"><u>The Path to Creativity: Start Microsoft Paint, Windows 11 Edition</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/unlock-the-potential-of-your-feed-with-mass-photo-and-video-posting-for-2024/"><u>Unlock the Potential of Your Feed with Mass Photo & Video Posting for 2024</u></a></li>
+</ul></div>
 

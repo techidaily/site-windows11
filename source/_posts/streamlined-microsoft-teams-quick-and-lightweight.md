@@ -1,7 +1,7 @@
 ---
 title: "Streamlined Microsoft Teams: Quick & Lightweight"
-date: 2024-11-28T01:15:41.333Z
-updated: 2024-12-03T22:07:31.085Z
+date: 2024-12-07T17:38:41.351Z
+updated: 2024-12-10T20:57:07.908Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/3b3b313aac4422406d268b9ec86a52f71522ac5df
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s New in the Microsoft Teams Desktop App?
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/3b3b313aac4422406d268b9ec86a52f71522ac5df
 ![new teams Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/new-teams-windows-11.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The new Teams app for the desktop comes with a minor design overhaul. It features a new color scheme and some modifications to the UI, making it easier to navigate. The header features a toggle switch to seamlessly switch between the Classic and new Teams interface.
@@ -42,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/3b3b313aac4422406d268b9ec86a52f71522ac5df
  However, the major changes to the app are under the hood in the form of performance improvements and resource efficiency. Courtesy of the new architecture, Teams now works two times faster while using 50 percent less memory, an area where it has lacked behind its competitors since its inception in 2017.
 
  Another significant change is the introduction of the new architecture. Microsoft Teams has now fully transitioned from AngularJS to React for its web development framework needs. Where Fluent UI’s UX controls provide standardized common component support, WebView2 replaces Electron as the rendering engine for the app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Other Features That Boost Collaboration and Productivity in Teams
 
@@ -54,16 +58,12 @@ thumbnail: https://thmb.techidaily.com/3b3b313aac4422406d268b9ec86a52f71522ac5df
  Apart from these, Microsoft also plans to bring some new features later this year, including third-party and Line-of-Business(LOB) apps support and advanced calling and meeting feature.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Try the Teams Public Preview
 
 ![Microsoft teams update policies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/microsoft-teams-update-policies.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The new Teams is only available as a public preview build and is available for commercial users now. While the company plans to bring it to Education and platforms like VDI and web later this year, here’s how to set an Update policy and enable Teams public preview for organizations.
 
@@ -82,7 +82,7 @@ To set the Update policy and enable public preview:
  To enable new Teams, launch the app and toggle the**new Teams** switch to starting using the latest iteration of Teams. You can switch between the classic and new Teams app without restrictions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft Teams is Now More Efficient and Faster
@@ -106,24 +106,24 @@ To set the Update policy and enable public preview:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-google-docs-speech-to-text-a-complete-guidebook/"><u>[New] Google Docs Speech-to-Text A Complete Guidebook</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-penning-powerful-stories-with-a-camera-lens/"><u>[New] Penning Powerful Stories with a Camera Lens</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-mystery-behind-professional-looking-time-lapses-in-gopro/"><u>2024 Approved Unveiling the Mystery Behind Professional-Looking Time Lapses in GoPro</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-fixing-excessive-cpu-usage-from-wudfhostexe-on-win10-devices/"><u>Diagnosing and Fixing Excessive CPU Usage From wudfhost.exe on Win10 Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-tips-for-fixing-iphone-image-import-issues-in-windows/"><u>Essential Tips for Fixing iPhone Image Import Issues in Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-solutions-to-address-freezing-problems-while-playing-valheim-on-desktop/"><u>Expert Solutions to Address Freezing Problems While Playing Valheim on Desktop</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-stutter-and-crashes-optimizing-your-pubg-gaming-experience-on-personal-computers/"><u>Fixing Stutter and Crashes: Optimizing Your PUBG Gaming Experience on Personal Computers</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guide-overcoming-common-phasmophobia-vr-connectivity-problems/"><u>Guide: Overcoming Common Phasmophobia VR Connectivity Problems</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-enable-microphone-during-powerpoint-recording/"><u>How to Enable Microphone During PowerPoint Recording</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-vivo-s17-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Vivo S17 Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastery-at-hand-essential-methods-to-decode-qr-codes-on-windows/"><u>Mastery at Hand: Essential Methods to Decode QR Codes on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigate-copy-pasting-like-a-pro-using-powertoys/"><u>Navigate Copy-Pasting Like a Pro Using PowerToys</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimize-your-pc-embrace-the-power-of-self-cleaning-files-on-winos/"><u>Optimize Your PC: Embrace the Power of Self-Cleaning Files on WINOS</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimizing-your-tech-experience-maintain-win-11-alerts/"><u>Optimizing Your Tech Experience: Maintain Win 11 Alerts</u></a></li>
-<li><a href="https://windows11.techidaily.com/shedding-darkness-8-ways-to-lighten-up-windows-desktops/"><u>Shedding Darkness: 8 Ways to Lighten Up Windows Desktops</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-fix-audacitys-device-opens-error-in-windows-1011/"><u>Steps to Fix Audacity’s Device Opens Error in Windows 10/11</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-for-preventing-dxgi-errors/"><u>Strategies for Preventing DXGI Errors</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/unlock-the-secret-sauce-of-making-money-with-vimeo-ads/"><u>Unlock the Secret Sauce of Making Money with Vimeo Ads</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-drafting-dynamic-denouements/"><u>[New] In 2024, Drafting Dynamic Denouements</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-tips-and-tricks-optimizing-your-obs-output-on-fb/"><u>[New] In 2024, Tips and Tricks Optimizing Your OBS Output on FB</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-visual-virtuosity-mastering-motivation-on-instagram/"><u>[New] Visual Virtuosity Mastering Motivation on Instagram</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-behind-the-scenes-unveiling-the-best-9-camera-additions-for-mobile-films-for-2024/"><u>[Updated] Behind the Scenes Unveiling the Best 9 Camera Additions for Mobile Films for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-new-era-of-business-with-vr-integration-for-2024/"><u>A New Era of Business with VR Integration for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/averting-self-triggered-openings-on-msdnstoreapp/"><u>Averting Self-Triggered Openings on MSDN/StoreApp</u></a></li>
+<li><a href="https://windows11.techidaily.com/dealing-with-interrupt-at-breakpoint-issue-in-windows-debugging/"><u>Dealing with Interrupt at Breakpoint Issue in Windows Debugging</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevating-macos-with-cross-operating-system-tools/"><u>Elevating macOS with Cross-Operating System Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevating-windows-11-quality-first-fun-second/"><u>Elevating Windows 11: Quality First, Fun Second</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-sharing-errors-with-nvidias-gui/"><u>Fixing Sharing Errors with NVIDIA's GUI</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guilty-gear-strive-performance-optimization-fixing-delay-and-synchronizing-frames/"><u>Guilty Gear -Strive- Performance Optimization: Fixing Delay & Synchronizing Frames</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-15-pro-max-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking iPhone 15 Pro Max Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-gen-console-duel-sonys-ps5-against-microsofts-xbox-sx/"><u>Next Gen Console Duel: Sony’s PS5 Against Microsoft’s Xbox SX</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimal-system-settings-reducing-resource-drain-while-playing/"><u>Optimal System Settings: Reducing Resource Drain While Playing</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-your-subnet-in-the-latest-os-win11/"><u>Optimizing Your Subnet in the Latest OS: Win11</u></a></li>
+<li><a href="https://games-able.techidaily.com/should-high-performance-gamers-invest-in-mechanical-inputs/"><u>Should High-Performance Gamers Invest in Mechanical Inputs?</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-the-non-existence-of-powershell-in-windows/"><u>Tackling the Non-Existence of PowerShell in Windows</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-16-gratuito-video-codec-softwares-para-a-perfeicao-do-seu-projeto/"><u>Top 16 Gratuito Video Codec Softwares Para a Perfeição Do Seu Projeto</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-windowsstore-app-folder-hidden-entry-points/"><u>Unveiling WindowsStore App Folder Hidden Entry Points</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming Non-Operative Grammarly on Your Computer
-date: 2024-12-01T02:29:30.007Z
-updated: 2024-12-03T16:12:09.599Z
+date: 2024-12-04T17:32:41.002Z
+updated: 2024-12-10T16:33:34.790Z
 tags:
   - windows10
   - windows11
@@ -50,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 * **Turn off your proxy or VPN:** Such networking services sometimes interfere with Grammarly. We recommend disabling any proxy or VPN to check if it resolves the issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Update the Grammarly App
@@ -67,17 +67,13 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 ![Grammarly Setup Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/grammarly-setup-screen.jpg)
 4. Once you log in with your account, click the **Activate Grammarly** button.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Grammarly Activation Setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/grammarly-activation-setup.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  That's it. To verify if the issue persists, open Microsoft Word or any website where you can write (e.g., [ControlC.com](https://controlc.com/)). Start writing a sentence and see if Grammarly provides suggestions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Adjust Your System and Grammarly Settings
 
@@ -96,9 +92,17 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 ![Grammarly App Windows Home Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/grammarly-app-homescreen.jpg)
 3. Open the **Block List** tab and click **Remove** next to any website you want to exclude.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Grammarly Blocklist Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/grammarly-blocklist-settings.jpg)
 
  Note that the settings should apply automatically once you click **Remove**; if it doesn't, restart the app once.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Enable Grammarly at Startup
 
@@ -112,7 +116,7 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 ![Grammarly Startup Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/grammarly-startup-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Sign Out and Sign In Again
@@ -124,6 +128,10 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
  To sign out from the Grammarly app, click the **Settings** option on its home screen. Then, navigate to the **Account** tab and click the **Sign out** button.
 
 ![Grammarly App Account Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/grammarly-app-account-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Clear Grammarly's AppData Folder
 
@@ -142,7 +150,7 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
  Clearing the AppData folder will erase any locally saved information associated with the Grammarly app. For instance, any websites you have on Grammarly's block list and any personalized settings will reset. So, back up or note them down before deleting its AppData folder.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Repair Microsoft .NET Framework
@@ -158,14 +166,6 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 3. Click the **Next** button to proceed with the setup.  
 ![Microsoft NET Framework Tool Setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/microsoft-net-framework-tool-setup.jpg)
 4. Finally, click the **Finish** button once the repair is complete.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Reinstall the Grammarly App
 
@@ -201,17 +201,22 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-top-15-seamless-instagram-downloaders-uncovered/"><u>[Updated] 2024 Approved Top 15 Seamless Instagram Downloaders Uncovered</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-vivo-y78t-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Vivo Y78t Activity | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-mastering-video-calls-discover-the-top-10-apps-for-your-phone/"><u>2024 Approved Mastering Video Calls Discover the Top 10 Apps for Your Phone</u></a></li>
-<li><a href="https://windows11.techidaily.com/halt-high-contrast-customization-in-windows/"><u>Halt High Contrast Customization in Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-the-unspecified-error-error-code-0x80004005-on-your-computer/"><u>How to Fix the 'Unspecified Error (Error Code 0X80004005)' On Your Computer</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-share-mac-to-apple-iphone-14-pro-max-drfone-by-drfone-ios/"><u>How to Screen Share Mac to Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/method-to-modify-display-settings/"><u>Method to Modify Display Settings</u></a></li>
-<li><a href="https://windows11.techidaily.com/perfect-visuals-your-guide-to-leveraging-background-blur-on-windows-11-photos-app/"><u>Perfect Visuals: Your Guide to Leveraging Background Blur on Windows 11 Photos App</u></a></li>
-<li><a href="https://windows11.techidaily.com/solutions-for-non-responsive-windows-shift/"><u>Solutions for Non-Responsive Windows Shift.</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-art-of-managing-windows-users-via-cli/"><u>The Art of Managing Windows Users via CLI</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-practical-choice-in-wearables-a-detailed-look-at-the-affordable-fitbit-versa-watch/"><u>The Practical Choice in Wearables: A Detailed Look at the Affordable Fitbit Versa Watch</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/watch-more-not-less-secrets-to-free-youtube-gains/"><u>Watch More, Not Less Secrets to Free YouTube Gains</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-present-day-drones-paving-way-for-futuristic-advancements/"><u>[New] Present-Day Drones Paving Way for Futuristic Advancements</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-pro-level-tips-for-expert-vimeo-recording-for-2024/"><u>[New] Pro-Level Tips for Expert Vimeo Recording for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-iphotovidsyncer-seamless-imageplusvideo-playback/"><u>[Updated] IPhotoVidSyncer Seamless Image+Video Playback</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-youtubes-best-music-video-reactions-2023-list-for-2024/"><u>[Updated] YouTube's Best Music Video Reactions, 2023 List for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/deleting-persistent-epic-launcher-without-hurdles-in-w11/"><u>Deleting Persistent Epic Launcher Without Hurdles in W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-speed-of-microsoft-edge-on-win10plus11/"><u>Enhancing Speed of Microsoft Edge on Win10+11</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-error-xc0000142-with-windows-oses/"><u>Fixing Error XC0000142 with Windows OSes</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Tecno Spark 20 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-samsung-galaxy-a05s-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Samsung Galaxy A05s Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-10-audio-transformation-apps-for-next-level-vtuber-performance/"><u>In 2024, Top 10 Audio Transformation Apps for Next-Level VTuber Performance</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud From your Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/key-strategies-for-high-definition-iptv-logging/"><u>Key Strategies for High-Definition IPTV Logging</u></a></li>
+<li><a href="https://windows11.techidaily.com/learn-9-keys-to-tweaking-windows-audio-properties/"><u>Learn 9 Keys to Tweaking Windows Audio Properties</u></a></li>
+<li><a href="https://windows11.techidaily.com/nine-pathways-out-of-the-window-11s-0x8004def5-puzzle/"><u>Nine Pathways Out of the Window 11'S 0X8004DEF5 Puzzle</u></a></li>
+<li><a href="https://windows11.techidaily.com/simplified-docx-to-pdf-workflow-in-windows-11-systems/"><u>Simplified DOCX to PDF Workflow in Windows 11 Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-deleting-account-info-from-windows-logon/"><u>Steps for Deleting Account Info From Windows Logon</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailored-taskbar-tools-monitoring-cpu-ram-and-disk-use/"><u>Tailored Taskbar Tools: Monitoring CPU, RAM & Disk Use</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resurrecting the Clock: Actions to Restore Windows Server Time"
-date: 2024-08-15T16:20:20.345Z
-updated: 2024-08-16T16:20:20.345Z
+date: 2024-12-05T18:38:48.254Z
+updated: 2024-12-10T19:38:55.110Z
 tags:
   - windows10
   - windows11
@@ -30,8 +30,9 @@ thumbnail: https://thmb.techidaily.com/042cea82a1fcfb2242b9880aa52ff1cf0cb7e4c3c
  Once the computer restarts, check if Windows Time Service is available. If it's still missing, move on to the next step.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Change the Time Server
 
  If restarting the computer does not work, you must change the time server. Changing the time server synchronizes your system clock with an online one, displaying your computer's correct date and time.
@@ -44,21 +45,16 @@ thumbnail: https://thmb.techidaily.com/042cea82a1fcfb2242b9880aa52ff1cf0cb7e4c3c
 4. Switch to the **Internet Time** tab and click **Change settings**.
 5. Check the **Synchronize with an Internet time server** box and select a time server from the drop-down menu.  
 ![Change the Time Server](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/change-the-time-server.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 6. Click the **Update now** button to synchronize your computer with the time server.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Once completed, click **OK** to save the changes and exit.
 
  After these steps, you should see the Windows Time Service running on your system. Check the time to ensure it is correct and make further adjustments.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ## 3\. Add More Time Servers
 
  If the Windows Time Service is still missing, you can try adding more time servers to the list. Multiple time servers increase the chance of finding an active server and keeping your system in sync. If one server goes down, your computer can automatically switch to another.
@@ -75,9 +71,6 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\DateTime\Servers
  Copy and paste the path into the Registry Editor address bar and press Enter. This will take you to the Location key.
 5. From the left navigation panel, right-click the Servers folder and select **New** \> **String Value**.  
 ![Add More Time Servers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/add-more-time-servers.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 6. Name the new value **Server N**, and replace **N** with a number starting from 1.  
  You can't have the same number twice. That means if there are already 3 values named _Server 1_, _Server 2_, and _Server 3_, you must call the new one as **Server 4**.
 7. Double-click the newly created value and add a time server address in the Value data field.
@@ -114,12 +107,13 @@ net start w32time
 
  After performing these steps, close the Command Prompt window and restart your system. You should see that the Windows Time Service is running, and your clock syncs with the time server.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Repair Corrupted System Files
 
 ![SFC Command Preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sfc-command-preview.jpg)
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Corrupt system files can also cause Windows services to fail. So, if the Windows Time Service is still missing, try repairing corrupt system files. You can do this using the System File Checker tool. This tool scans your system for missing files and repairs the errors it finds.
 
@@ -127,18 +121,23 @@ net start w32time
 
  If you're not sure how to run either of these tools, check out how to repair corrupt Windows files with its built-in tools for instructions.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Scan for Malware
 
  Sometimes, malware is to blame for Windows services acting a little odd. As such, it's worth [running a full system scan](https://www.makeuseof.com/scan-for-viruses-without-buying-antivirus-software/) and removing all detected threats.
 
 ![Full Scan Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/full-scan-windows-security.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you feel your PC isn't as secure as it could be, you could try downloading one of the [best antivirus apps for Windows](http://www.makeuseof.com/windows-11-antivirus-apps/). These will both actively block malicious program from installing themselves on your PC, and remove any that are currently infesting your computer.
 
  For those who prefer a command-line approach, you can [use Windows PowerShell to scan Windows for malware](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Restore the Missing Windows Time Service
 
@@ -146,11 +145,26 @@ net start w32time
 
  Fortunately, restoring the Windows Time Service is not complicated. This guide will discuss quickly restoring the missing Windows Time Service and setting the correct time on your computer.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-live-stream-perfection-ranking-the-best-recorder-gadgets-in-tech/"><u>[New] 2024 Approved Live Stream Perfection Ranking the Best Recorder Gadgets in Tech</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-learn-the-safest-ways-to-extract-and-convert-youtube-tracks-to-mp3-for-2024/"><u>[Updated] Learn the Safest Ways to Extract and Convert YouTube Tracks to MP3 for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-shield-from-ai-crafted-youtube-video-selections-for-2024/"><u>[Updated] Shield From AI-Crafted YouTube Video Selections for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-prove-your-expertise-with-these-windows-10-tricks/"><u>2024 Approved Prove Your Expertise with These Windows 10 Tricks</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-setup-get-your-amd-ryzen-5-2400g-drivers-installed-in-a-flash/"><u>Effortless Setup: Get Your AMD Ryzen 5 2400G Drivers Installed in a Flash</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-15-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 15? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-from-good-to-great-a-vlog-on-incredible-instagrams/"><u>In 2024, From Good to Great A Vlog on Incredible Instagrams</u></a></li>
+<li><a href="https://windows11.techidaily.com/pixel-perfect-designs-for-your-pc-wallpaper/"><u>Pixel Perfect Designs for Your PC Wallpaper</u></a></li>
+<li><a href="https://windows11.techidaily.com/relaunching-print-processor-in-windows/"><u>Relaunching Print Processor in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailoring-permission-levels-for-non-administrative-windows-users/"><u>Tailoring Permission Levels for Non-Administrative Windows Users</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-y78-5g-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo Y78 5G Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-strategy-against-corrupted-filedir-error-x70-on-pcs/"><u>Winning Strategy Against 'Corrupted' File/Dir Error X70 on PCs</u></a></li>
+</ul></div>
+

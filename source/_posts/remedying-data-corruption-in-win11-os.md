@@ -1,7 +1,7 @@
 ---
 title: Remedying Data Corruption in Win11 OS
-date: 2024-11-28T23:55:36.645Z
-updated: 2024-12-03T20:47:30.409Z
+date: 2024-12-03T20:48:47.177Z
+updated: 2024-12-10T16:01:09.301Z
 tags:
   - windows10
   - windows11
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
 
 `DISM.exe /Online /Cleanup-image /Restorehealth`
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Scan Your Hard Drive
 
  Hard drive integrity issues such as bad sectors also cause file system errors to occur in Windows 11/10\. For that reason, scanning your hard drive with the Check Disk tool is a recommended troubleshooting method for file system errors. The Check Disk utility (otherwise CHKDSK) scans for and repairs bad drive sectors detected. This is how you can run CHKDSK in the Command Prompt:
@@ -62,7 +58,19 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
 ![The troubleshooter list in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-store-apps-troubleshooter1.jpg)
 5. Apply any suggestions the troubleshooter provides.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-store-app-window.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Check That the Windows License Manager Service Is Running
 
@@ -77,10 +85,6 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
 ![The Windows License Manager server window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-license-service-manager.jpg)
 5. If the service isn’t running, press**Start** within the properties window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Select**Apply** to save settings for the Windows License Manager Service.
 7. Click**OK** to close the Windows License Manager Service Properties window.
 
@@ -94,10 +98,6 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
 
  When you’ve uninstalled the app, reinstall it from the MS Store. Bring up the Microsoft Store, and input the app’s title in its search box. Then select the app to reinstall in the search results, and click the**Get** button for it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Set Up a New Local User Account on Windows
 
  File system errors can arise because of user account issues. Such errors might not arise if you set up and utilize a new local user account in Windows 11\. That might not be the most ideal resolution, but you can migrate user files to a newly established account.
@@ -107,11 +107,11 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
 ![The Add account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-account-button.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Restore Windows to an Earlier Date
@@ -122,11 +122,11 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
 
 ![The System Restore tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/system-restore-window.jpg)
 
- However, restoring Windows to a previous time removes software not installed on the restoration point’s date. So, it’s likely you’ll have to reinstall some apps after rolling back Windows. Clicking**Scan for affected programs** in System Restore provides an overview of software that will be removed for a restore point.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ However, restoring Windows to a previous time removes software not installed on the restoration point’s date. So, it’s likely you’ll have to reinstall some apps after rolling back Windows. Clicking**Scan for affected programs** in System Restore provides an overview of software that will be removed for a restore point.
 
 ## 8\. Reset Windows
 
@@ -153,24 +153,19 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-get-content-ready-faster-with-this-list-of-easy-editors/"><u>[New] Get Content Ready Faster With This List of Easy Editors</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-how-to-share-vimeo-video-in-instagram-stories/"><u>[New] In 2024, How to Share Vimeo Video in Instagram Stories</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-decoding-zdsofts-key-recording-features-for-2024/"><u>[Updated] Decoding ZDSoft's Key Recording Features for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-ultimate-selection-identifying-best-12-vloggers-camera-choices/"><u>[Updated] In 2024, The Ultimate Selection Identifying Best 12 Vloggers' Camera Choices</u></a></li>
-<li><a href="https://windows11.techidaily.com/expert-commands-in-action-uncovering-windows-error-messages-using-command-line-knowledge/"><u>Expert Commands in Action: Uncovering Windows Error Messages Using Command Line Knowledge</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-correctly-handle-required-module-not-found-errors-on-windowsmacos/"><u>How to Correctly Handle 'Required Module Not Found' Errors on Windows/MacOS</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-revert-the-search-bar-lookup-of-windows-11/"><u>How to Revert the Search Bar Lookup of Windows 11</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-visual-prodigies-top-4k-monitors-for-cutting-edge-work/"><u>In 2024, Visual Prodigies Top 4K Monitors for Cutting-Edge Work</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-xiaomi-redmi-a2plus-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Xiaomi Redmi A2+ Device</u></a></li>
-<li><a href="https://windows11.techidaily.com/rebooting-to-default-power-management-configurations/"><u>Rebooting to Default Power Management Configurations</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamline-your-search-master-these-top-5-tricks-for-windows-11/"><u>Streamline Your Search: Master These Top 5 Tricks for Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/tailoring-windows-to-unlock-after-hours/"><u>Tailoring Windows To Unlock After Hours</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-honor-100-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Honor 100 Android SIM Unlock APK</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-honor-100-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Honor 100 without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleash-gaming-written-by-katherine/"><u>Unleash Gaming' Written by Katherine</u></a></li>
-<li><a href="https://windows11.techidaily.com/unleash-virtual-capabilities-with-win-11-hypertuned-for-hyper-v/"><u>Unleash Virtual Capabilities with Win 11 Hypertuned for Hyper-V</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-windows-charmap-issues-a-practical-guide/"><u>Unlocking Windows CharMap Issues: A Practical Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/which-browser-saves-system-resources-winmaccros-edition/"><u>Which Browser Saves System Resources? Win/Mac/CrOS Edition</u></a></li>
-<li><a href="https://windows11.techidaily.com/win-against-interfaces-not-supported-by-windows/"><u>Win Against Interfaces Not Supported by Windows</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-cloaked-glance-at-social-media-snapshits-for-2024/"><u>[New] Cloaked Glance at Social Media Snapshits for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-step-by-step-easy-snapchat-videos-with-multiple-snaps-for-2024/"><u>[Updated] Step-by-Step Easy Snapchat Videos with Multiple Snaps for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-integrating-apple-music-into-your-videos/"><u>2024 Approved Step-by-Step Integrating Apple Music Into Your Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209292613-app-cant-open-using-built-in-administrator-account-solved/"><u>App Can't Open Using Built-In Administrator Account [Solved]</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/behind-the-magic-cinematic-technique-1-5-insights/"><u>Behind the Magic Cinematic Technique #1-5 Insights</u></a></li>
+<li><a href="https://windows11.techidaily.com/dissecting-differences-how-exe-files-function-compared-to-msi/"><u>Dissecting Differences: How Exe Files Function Compared to Msi</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-windows-1110-how-to-stop-double-click-folders-from-closing/"><u>Fixing Windows 11/10: How to Stop Double-Click Folders From Closing</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-how-to-achieve-inverted-movie-time-in-a-snap/"><u>In 2024, How to Achieve Inverted Movie Time in a Snap</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-laughter-on-your-phone-humorous-ringtone-sites/"><u>In 2024, Laughter on Your Phone Humorous Ringtone Sites</u></a></li>
+<li><a href="https://windows11.techidaily.com/instructional-guide-for-end-task-enabling-on-windows-11/"><u>Instructional Guide for End Task Enabling on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/rectifying-system-limitations-intel-hd-graphics-compatibility-fixes/"><u>Rectifying System Limitations: Intel HD Graphics Compatibility Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/swift-solutions-to-the-windows-too-many-requests-challenge/"><u>Swift Solutions to the Windows Too Many Requests Challenge</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-wise-choice-embracing-multilingualism-in-your-golden-years/"><u>The Wise Choice: Embracing Multilingualism in Your Golden Years</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-infinix-gt-10-pro-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Infinix GT 10 Pro to iPhone 14/15 | Dr.fone</u></a></li>
 </ul></div>
 

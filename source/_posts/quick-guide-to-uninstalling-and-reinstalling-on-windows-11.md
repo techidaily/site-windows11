@@ -1,7 +1,7 @@
 ---
 title: Quick Guide to Uninstalling and Reinstalling on Windows 11
-date: 2024-12-02T05:30:11.818Z
-updated: 2024-12-03T23:41:12.256Z
+date: 2024-12-09T17:36:54.407Z
+updated: 2024-12-10T16:24:45.991Z
 tags:
   - windows10
   - windows11
@@ -25,23 +25,19 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Reset an App on Windows 11
 
  To reset an app on Windows 11, start by pressing**Win + I** to bring up the Settings app. Then, navigate to**Apps > Installed apps** .
 
 ![the installed apps screen in the windows 11 settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/installed-apps-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Scroll through the list of apps on your computer until you get to the one you want. Once you’ve found it, click on the**three horizontal dots** on its right and select**Advanced options** from the menu.
 
 ![selecting advanced options for spotify in the installed apps page in the settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/spotify-advanced-options.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Scroll down to the**Reset** section. Here, you can also repair the Windows app to try and fix it without losing any data. If you haven’t tried that already, see[how to repair apps on Windows](https://www.makeuseof.com/windows-repair-apps-programs/) to give it a shot.
 
@@ -50,14 +46,10 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 ![reseting an app in the Windows settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/reseting-spotify.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Confirm you want to reset the app by clicking**Reset** again in the pop-up.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Reset an App on Windows 10
 
@@ -65,15 +57,23 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 
 ![the apps and features screen in the windows 10 settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/apps-features-windows-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Find the app you want to reset from the list of installed apps and click on it. Then, click the**Advanced options** link that appears below the name of the app.
 
 ![the alarm clock advanced options in the windows 10 settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/alarm-clock-windows-10-advanced-options.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You will find the button to reset the app in the**Reset** section of its advanced settings, and you should click it. Finally, confirm that this is what you want to do by clicking**Reset** in the pop-up as well.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Windows Apps Just Need a Reset Sometimes
 
@@ -96,20 +96,22 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-effortlessly-post-tiktok-videos-on-twitter-for-2024/"><u>[New] Effortlessly Post TikTok Videos on Twitter for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-enhancing-quality-without-the-mic-a-practical-guide/"><u>[Updated] Enhancing Quality without the Mic A Practical Guide</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-hands-on-approaches-to-archive-vimeo-video-for-2024/"><u>[Updated] Hands-On Approaches to Archive Vimeo Video for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024vlciso/"><u>「2024」におけるVLC再生時のISOファイル不正認識:トラブルシューティングガイド</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-theme-crafting-for-gaming-channels-a-visual-journey/"><u>2024 Approved Theme Crafting for Gaming Channels A Visual Journey</u></a></li>
-<li><a href="https://games-able.techidaily.com/ally-x-solves-top-handheld-gamepad-hurdle/"><u>Ally X Solves Top Handheld Gamepad Hurdle</u></a></li>
-<li><a href="https://windows11.techidaily.com/getting-started-with-the-windows-11-voice-chat/"><u>Getting Started with the Windows 11 Voice Chat</u></a></li>
-<li><a href="https://windows11.techidaily.com/guidelines-to-halt-safe-screensaver-modifications/"><u>Guidelines to Halt Safe Screensaver Modifications</u></a></li>
-<li><a href="https://win-answers.techidaily.com/horizon-zero-dawn-stability-issues-resolved-for-pc-players/"><u>Horizon Zero Dawn Stability Issues Resolved for PC Players</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-overcome-invalid-session-from-vac-steam-alert/"><u>How To Overcome Invalid Session From VAC Steam Alert</u></a></li>
-<li><a href="https://windows11.techidaily.com/leveraging-the-benefits-of-windows-11s-auto-hdr/"><u>Leveraging the Benefits of Windows 11'S Auto HDR</u></a></li>
-<li><a href="https://windows11.techidaily.com/methods-to-resolve-it-admin-limited-warning/"><u>Methods to Resolve 'IT Admin Limited' Warning</u></a></li>
-<li><a href="https://windows11.techidaily.com/solving-code-0x0001-issue-geforce-software-w11/"><u>Solving Code 0X0001 Issue: GeForce Software W11</u></a></li>
-<li><a href="https://windows11.techidaily.com/steer-clear-of-windows-http-error-reduce-excessive-requests/"><u>Steer Clear of Window's HTTP Error: Reduce Excessive Requests</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-oppo-k11x-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-ultimate-11-list-streaming-audio-recorders-uncovered/"><u>[New] In 2024, Ultimate #11 List Streaming Audio Recorders Uncovered</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-step-by-step-guide-modifying-user-numbers-on-tiktok/"><u>[Updated] In 2024, Step-by-Step Guide Modifying User Numbers on TikTok</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-unlock-new-dimensions-in-tiktok-videos-through-exquisite-bg-selection/"><u>[Updated] In 2024, Unlock New Dimensions in TikTok Videos Through Exquisite BG Selection</u></a></li>
+<li><a href="https://fox-place.techidaily.com/1-easy-guide-to-free-up-space-on-your-pc-expert-tips-from-yl-computing/"><u>1. Easy Guide to Free Up Space on Your PC: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-revolutionize-video-with-windows-hdr-techniques/"><u>2024 Approved Revolutionize Video with Windows HDR Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/cutting-edge-methods-to-convert-word-documents-to-pdf-on-windows-11/"><u>Cutting-Edge Methods to Convert Word Documents to PDF on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-windows-11s-compatibility-diagnostic-tool/"><u>Decoding Windows 11'S Compatibility Diagnostic Tool</u></a></li>
+<li><a href="https://windows11.techidaily.com/finding-out-your-internets-public-ip-with-win-cli/"><u>Finding Out Your Internet's Public IP with Win CLI</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-sweep-away-delayed-input-fasten-your-fingers-for-windows-11/"><u>How to Sweep Away Delayed Input: Fasten Your Fingers for Windows 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-xiaomi-14-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Xiaomi 14 Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/infuse-personalized-style-in-windows-email-calendar/"><u>Infuse Personalized Style in Windows Email, Calendar</u></a></li>
+<li><a href="https://windows11.techidaily.com/minimizing-power-drain-addressing-vanguard-ums-overuse-on-pcs/"><u>Minimizing Power Drain: Addressing Vanguard UMS Overuse on PCs</u></a></li>
+<li><a href="https://fox-http.techidaily.com/pro-tip-guide-to-integrating-photos-and-videos-into-windows-10/"><u>Pro-Tip Guide to Integrating Photos and Videos Into Windows 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fix-eliminate-startup-disruption-due-to-winscombsvc-errors/"><u>Quick Fix: Eliminate Startup Disruption Due to WinScombSvc Errors</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-out-creating-unique-thumbnails-for-your-youtube-videos/"><u>Stand Out Creating Unique Thumbnails for Your YouTube Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-making-the-cursor-more-noticeable-in-windows/"><u>Step-by-Step: Making the Cursor More Noticeable in Windows</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-sony-xperia-10-v-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Sony Xperia 10 V</u></a></li>
 </ul></div>
 

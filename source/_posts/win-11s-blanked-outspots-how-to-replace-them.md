@@ -1,7 +1,7 @@
 ---
 title: "Win 11'S Blanked Outspots: How to Replace Them"
-date: 2024-11-29T04:12:57.477Z
-updated: 2024-12-03T23:08:09.354Z
+date: 2024-12-08T21:29:22.224Z
+updated: 2024-12-10T18:19:58.489Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/72ad6224a96d1332d870ccac31eeed89a25da9895
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Enable Show Desktop Icons
 
  On Windows 11, you can show or hide desktop icons with a couple of clicks. So, if you’ve accidentally hidden your desktop icons, getting them back is fairly easy.
@@ -38,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/72ad6224a96d1332d870ccac31eeed89a25da9895
 ![Show Desktop Icons on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Show-Desktop-Icons-on-Windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Check Desktop Icon Settings
@@ -53,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/72ad6224a96d1332d870ccac31eeed89a25da9895
 6. Click**Apply** followed by**OK** to save the changes.  
 ![Desktop Icon Settings Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Desktop-Icon-Settings-Window.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you complete the above steps, your icons should appear on the desktop.
 
 ## 3\. Restart Windows Explorer
@@ -65,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/72ad6224a96d1332d870ccac31eeed89a25da9895
 ![Restart Windows Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Restart-Windows-Explorer.jpg)
 
  Your taskbar will disappear for a brief moment and then reappear. Following this, your desktop icons should be visible.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Rebuild Icon Cache
 
@@ -92,6 +88,10 @@ To rebuild icon cache on Windows 11:
 
  Once you complete the above steps, restart your PC and see if the desktop icons appear.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Update Your PC’s Graphics Driver
 
  An outdated graphics driver on Windows can also lead to such anomalies. You can try updating the faulty driver using Device Manager to see if that helps. Here's how to do it.
@@ -104,7 +104,7 @@ To rebuild icon cache on Windows 11:
 ![Update Graphics Driver on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Update-Graphics-Driver-on-Windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the issue persists even after updating the driver, your graphics driver may be corrupt. In that case, you'll need to reinstall the graphics driver on your PC. Refer to our guide on[how to fix corrupt drivers on Windows](https://www.makeuseof.com/how-to-fix-corrupt-drivers-on-windows-10/) for more instructions on how to fix this.
@@ -123,10 +123,6 @@ To rebuild icon cache on Windows 11:
 6. Click**Apply** followed by**OK** .  
 ![Enable Desktop Icons on Windows 11 via Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Enable-Deskop-Icons-on-Windows-11-via-Group-Policy-Editor-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Perform a System Restore
 
  There's a chance that a recent system change is to blame for the missing desktop icons in Windows 11\. If you can't figure out what it is, you can use System Restore to restore Windows to a previous state.
@@ -143,10 +139,6 @@ Follow these steps to perform a system restore on Windows:
 
  Wait for Windows to reboot and revert to the specified restore point. Following that, your desktop icons should appear.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Manually Restore the Desktop Shortcut Icons
 
  If your desktop icons are still missing at this point, you can try restoring them manually.
@@ -155,9 +147,17 @@ Follow these steps to perform a system restore on Windows:
 
 ![Create Desktop Shortcut From Start Menu in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Create-Desktop-Shortcut-From-Start-Menu-in-Windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Alternatively, you can create a shortcut on your desktop by using the Create Shortcut wizard. To do so, right-click anywhere on the desktop and select**New > Shortcut** . Then, click the**Browse** button to locate the file, folder, or app you want to add to your desktop. Then, click**Next** followed by**Finish** .
 
  We covered this topic in more detail in our guide to[how to add icons to the desktop on Windows](https://www.makeuseof.com/how-to-add-icon-to-desktop-windows/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Restore the Missing Desktop Icons on Windows 11
 
@@ -178,20 +178,22 @@ Follow these steps to perform a system restore on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-the-insiders-guide-to-overwatch-game-recording-for-2024/"><u>[New] The Insider's Guide to Overwatch Game Recording for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-proven-bots-for-superior-server-dynamics/"><u>[Updated] In 2024, Proven Bots for Superior Server Dynamics</u></a></li>
-<li><a href="https://windows11.techidaily.com/from-novice-to-pro-setting-up-hyper-v-on-win-11-for-home-users/"><u>From Novice to Pro: Setting Up Hyper-V on Win 11 for Home Users</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-xiaomi-redmi-k70-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Xiaomi Redmi K70 to Another | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/increase-dynamic-display-speed-of-task-manager-win-11/"><u>Increase Dynamic Display Speed of Task Manager Win 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/master-control-of-windows-installer-on-devices/"><u>Master Control of Windows Installer on Devices</u></a></li>
-<li><a href="https://blog-min.techidaily.com/mejora-la-eficiencia-en-almacenamiento-reduciendo-archivos-mp4-sin-sacrificar-claridad-visual-mediante-tecnicas-de-compactacion-inteligente/"><u>Mejora La Eficiencia en Almacenamiento Reduciendo Archivos MP4 Sin Sacrificar Claridad Visual Mediante Técnicas De Compactación Inteligente</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-errors-in-windows-memory-check-tool/"><u>Overcoming Errors in Windows Memory Check Tool</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-stubborn-windows-key-issues/"><u>Overcoming Stubborn Windows Key Issues</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-unverified-app-errors-in-windows/"><u>Overcoming Unverified App Errors in Windows</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolve-the-mystery-behind-windows-code-28-error/"><u>Resolve the Mystery Behind Windows 'Code 28' Error</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/spooky-season-special-win-free-macxdvd-and-score-up-to-70-discount-on-all-software-for-halloween/"><u>Spooky Season Special! Win Free MacXDVD & Score Up to 70% Discount on All Software for Halloween</u></a></li>
-<li><a href="https://windows11.techidaily.com/upgrade-taskbar-appearance-instructions-to-include-a-weather-icon-in-windows-11-system-tray/"><u>Upgrade Taskbar Appearance: Instructions to Include a Weather Icon in Windows 11 System Tray</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/virtual-bartender-ai-chatgpts-skills/"><u>Virtual Bartender AI: ChatGPT’s Skills</u></a></li>
-<li><a href="https://win-able.techidaily.com/adobe-premiere-pro-and-rush/"><u>パワフル映像取り込み：Adobe Premiere Pro & Rushでの効率的な録画技術</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-become-a-facetime-pro-skype-call-basics-for-mobile-users/"><u>[New] 2024 Approved Become a Facetime Pro Skype Call Basics for Mobile Users</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-behind-the-numbers-deciphering-how-youtube-measures-popularity/"><u>[New] 2024 Approved Behind the Numbers Deciphering How YouTube Measures Popularity</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-ideal-low-impact-recording-devices-for-eco-conscious-filmmakers-for-2024/"><u>[New] Ideal Low-Impact Recording Devices for Eco-Conscious Filmmakers for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-methods-to-minimize-mobile-footage-jitter/"><u>[Updated] Methods to Minimize Mobile Footage Jitter</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-understanding-modern-motion-perception-technologies/"><u>[Updated] Understanding Modern Motion Perception Technologies</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-updating-obstacles-a-compreeher-guide-to-fixes/"><u>Clearing Updating Obstacles: A Compreeher Guide to Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/ensuring-continuous-play-fixing-fall-guys-errors-in-windows-os/"><u>Ensuring Continuous Play: Fixing Fall Guys Errors in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/file-finder-simplicity-windowed-explorer-reduction-technique/"><u>File Finder Simplicity: Windowed Explorer Reduction Technique</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-potential-of-windows-11s-configurable-fn-keys/"><u>Mastering the Potential of Windows 11'S Configurable FN Keys</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-complete-online-video-editor-tips-tricks-and-techniques/"><u>New 2024 Approved The Complete Online Video Editor Tips, Tricks, and Techniques</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-how-to-create-funny-talking-avatars-using-oddcast-text-to-speech-for-2024/"><u>New How to Create Funny Talking Avatars Using Oddcast Text to Speech for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-the-challenge-of-0x8007045d-error-on-windows-11/"><u>Overcoming the Challenge of 0X8007045d Error on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-microsoft-teams-instability-on-ws11ws10-devices/"><u>Preventing Microsoft Teams Instability on WS11/WS10 Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-your-notebook-interface-with-themes-and-fonts/"><u>Streamline Your Notebook Interface with Themes & Fonts</u></a></li>
+<li><a href="https://windows11.techidaily.com/switching-your-windows-security-pin-quickly/"><u>Switching Your Windows Security Pin Quickly</u></a></li>
+<li><a href="https://extra-information.techidaily.com/transforming-images-with-ease-learn-snapseed-today/"><u>Transforming Images with Ease Learn Snapseed Today</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209863028-9780692164259-when-life-hits-the-fan/"><u>When Life Hits the Fan | Free Book</u></a></li>
 </ul></div>
 

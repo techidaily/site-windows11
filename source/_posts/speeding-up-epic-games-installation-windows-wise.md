@@ -1,7 +1,7 @@
 ---
 title: Speeding Up Epic Games Installation Windows-Wise
-date: 2024-08-15T16:19:03.116Z
-updated: 2024-08-16T16:19:03.116Z
+date: 2024-12-07T20:42:33.506Z
+updated: 2024-12-10T21:52:58.884Z
 tags:
   - windows10
   - windows11
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/ae96135be8b387f3dfcd58e7778aa73a8a480a5ec
  Besides that, a piled-up launcher cache, a backend issue with Epic Games servers, some Windows-specific issues, or forcing the client to throttle downloads can also slow down download speeds.
 
  If you want to speed up your downloads on the Epic Games Launcher, here are a few tweaks you may want to check out.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Check for Problems With the Backend
 
@@ -52,15 +56,14 @@ thumbnail: https://thmb.techidaily.com/ae96135be8b387f3dfcd58e7778aa73a8a480a5ec
 2. Click the **profile icon** in the top right corner and select **Settings**.  
 ![Open Settings in the Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/2-open-settings-in-the-epic-games-launcher.jpg)
 3. Make sure that the box beside **Throttle Downloads** isn't checked.
-4. If it was checked before, click the box once to uncheck it.  
-![Disable the Throttle Downloads Option in the Epic Games Launcher Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/3-disable-the-throttle-downloads-option-in-the-epic-games-launcher-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. If it was checked before, click the box once to uncheck it.  
+![Disable the Throttle Downloads Option in the Epic Games Launcher Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/3-disable-the-throttle-downloads-option-in-the-epic-games-launcher-settings.jpg)
+
 ## 4\. Prioritize the Epic Games Launcher Over Everything Else
 
  The Windows operating system prioritizes essential system processes over third-party ones. Consequently, it allocates the most resources to prioritized processes to improve efficiency. As Epic Games processes are also third-party, they are also viewed as low priority. Hence fewer resources are allocated to them.
@@ -73,9 +76,6 @@ thumbnail: https://thmb.techidaily.com/ae96135be8b387f3dfcd58e7778aa73a8a480a5ec
 4. Right-click on this process, navigate to **Set Priority,** and select **High**.  
 ![Change the Priority of the Epic Games Launcher Process in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/4-change-the-priority-of-the-epic-games-launcher-process-in-task-manager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Clear Epic Games Launcher's Cache
 
  The Epic Games Launcher keeps some data in its cache, which makes it easier for the client to find and load necessary information faster. If not cleared timely, the accumulated cache can lead to unforeseen problems, including slow download speeds. Therefore, it is imperative to clear the cache, especially if it hasn't been cleared in a while.
@@ -86,9 +86,13 @@ thumbnail: https://thmb.techidaily.com/ae96135be8b387f3dfcd58e7778aa73a8a480a5ec
 2. Navigate to **Local > EpicGamesLauncher > Saved** folders.
 3. Delete each **webcache** folder you find.  
 ![Delete the Webcache Folder in the Epic Games Launcher Installation Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/5-delete-the-webcache-folder-in-the-epic-games-launcher-installation-folder.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Reconfigure the Engine.ini File
@@ -99,14 +103,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. Navigate to **Local > EpicGamesLauncher > Saved > Config > Windows** folders.
 3. Here, right-click the **Engine.ini** file and open it with Notepad or any other text editor.  
 ![Open the Engine.ini File in Notepad From the Epic Games Installation Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/6-open-the-engine-ini-file-in-notepad-from-the-epic-games-installation-folder.jpg)
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 4. Delete all the content in this file and add the following code instead:  
 `[HTTP]  
 HttpTimeout=10  
@@ -122,6 +118,10 @@ RetryTime=0.5`
 ![Save the Engine.ini File After Adding Few Commands in It](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/7-save-the-engine-ini-file-after-adding-few-commands-in-it-1.jpg)
 6. Restart the Epic Games Launcher again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If tweaking Engine.ini starts to adversely affect download speed, as some users have reported, you should revert the changes.
 
 ## 7\. Perform Some Windows-Specific Changes to Speed Up Downloads
@@ -131,9 +131,6 @@ RetryTime=0.5`
 * Changing your DNS settings to Google's public DNS is well-known for boosting download speeds for most apps and clients. So, [switch your DNS server](https://www.makeuseof.com/tag/change-dns-increase-internet-speed/) and see whether the download speed improves.
 * [Whitelist the Epic Games Launcher from Microsoft Defender](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) and any third-party antivirus you use. This will prevent security suites from restricting or limiting download activity in any way.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Speed Up the Epic Games Launcher Downloads
 
  Waiting hours to install a game or update an existing one can ruin our day. Hopefully, the above steps will help you optimize the Epic Games Launcher and speed up downloads. If nothing works and downloads keep lagging, remove the existing launcher installation and reinstall it again from scratch.
@@ -144,11 +141,30 @@ RetryTime=0.5`
 
  If you want to speed up your downloads on the Epic Games Launcher, here are a few tweaks you may want to check out.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-navigating-the-world-of-fpv-drone-propellers/"><u>[New] Navigating the World of FPV Drone Propellers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-techniques-for-engaging-google-meet-audiences-with-laptop-based-ppt-for-2024/"><u>[Updated] Techniques for Engaging Google Meet Audiences with Laptop-Based PPT for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-youtubes-retro-playlist-trick-how-to-go-in-arrears/"><u>[Updated] Youtube's Retro Playlist Trick How to Go in Arrears</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-enhancing-video-aesthetics-incorporating-lc-and-bb-in-facebook-posts/"><u>2024 Approved Enhancing Video Aesthetics Incorporating LC and BB in Facebook Posts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-iphones-vr-video-viewing/"><u>2024 Approved Mastering iPhone's VR Video Viewing</u></a></li>
+<li><a href="https://fox-info.techidaily.com/basic-understanding-of-animate-graphic-content/"><u>Basic Understanding of Animate Graphic Content</u></a></li>
+<li><a href="https://fox-access.techidaily.com/choosing-pro-stream-vmix-vs-wirecast-battle/"><u>Choosing Pro Stream VMix Vs. Wirecast Battle</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixes-for-application-flood-conquering-0x80860010/"><u>Fixes for Application Flood: Conquering 0X80860010</u></a></li>
+<li><a href="https://windows11.techidaily.com/google-chrome-unresponsiveness-solved-expert-troubleshooting-tips/"><u>Google Chrome Unresponsiveness Solved: Expert Troubleshooting Tips</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-binge-watch-with-ease-best-playlist-extractors-reviewed-and-rated/"><u>In 2024, Binge-Watch With Ease Best Playlist Extractors Reviewed & Rated</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/quieting-chrome-bugs-on-windows-systems/"><u>Quieting Chrome Bugs on Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-insert-isp-info-on-taskbar/"><u>Step-by-Step Guide: Insert ISP Info on Taskbar</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-for-disabling-discordutation-at-windows-boot-up/"><u>Techniques for Disabling Discord'utation at Windows Boot-Up</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-fixing-non-responsive-pc-gamepad-issues/"><u>Tips for Fixing Non-Responsive PC Gamepad Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-the-potential-of-ai-in-microsoft-store/"><u>Unlocking the Potential of AI in Microsoft Store</u></a></li>
+</ul></div>
+

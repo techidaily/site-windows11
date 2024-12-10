@@ -1,7 +1,7 @@
 ---
 title: Seamlessly Retrieve Content From a Shared Windows Space
-date: 2024-11-29T17:20:21.555Z
-updated: 2024-12-03T21:37:11.650Z
+date: 2024-12-04T19:13:18.408Z
+updated: 2024-12-10T19:30:00.540Z
 tags:
   - windows10
   - windows11
@@ -50,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/f93e229fc5f13225e3ec37018bd561a2847508d52
 ![Shared Folder Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/shared-folder-context-menu.jpg)
 3. In the**Properties** window, click on**Sharing > Advanced Sharing** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Sharing Folder Sharing Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sharing-folder-sharing-options.jpg)
 4. Click**Permissions** to edit all the sharing permissions. If you have not allowed**Everyone** to access the files, make sure to click**Add...** and add the user manually.
 
@@ -76,10 +80,6 @@ Follow this step-by-step guide to restart the networking services:
 
  These services are responsible for various networking functions on Windows. Restarting them can help resolve issues that may be causing problems with accessing shared folders.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Turn on Network Discovery in Windows Settings
 
  Network discovery on Windows allows other devices on the connected network to discover your computer. If you have disabled this option by mistake, you will not be able to access any shared folders hosted on another computer.
@@ -91,10 +91,6 @@ To turn on Network discovery, follow these steps:
 ![Control Panel Overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/control-panel-overview.jpg)
 3. On the left-hand pane, click**Change advanced sharing settings** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Under**Private networks** , turn**On** the**Network discovery** option.  
 ![Windows Advanced Sharing Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-advanced-sharing-settings.jpg)
 5. Turn**On** the**File and printer sharing** option as well.
@@ -104,7 +100,7 @@ To turn on Network discovery, follow these steps:
  Once you change these settings, you should have no trouble getting access to shared folders.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Check the Windows Firewall Settings
@@ -121,10 +117,18 @@ Here's how you can fix all the firewall issues on your computer:
 ![Windows Security App Preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-security-preview.jpg)
 4. Uncheck or disable the option saying**Block all incoming connections** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Perform the same step with**Domain network** and**Private network** as well.
 6. Restart your PC to make sure the firewall is not blocking any Internet connections now.
 
  This will allow all incoming connections, or, in other words, solve your sharing folder issue on Windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Reset the Network Settings
 
@@ -140,21 +144,17 @@ Here's how to reset the network settings on Windows:
 3. In the Command Prompt window, type the**netsh int ip reset** command without the double quotes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Ip Reset Command In Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ip-reset-command.jpg)
 4. Press**Enter** to execute the command. This will reset your network settings.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This command is helpful in solving many common networking issues, such as when your computer fails to connect to a network or when the internet connection is not stable. So, the next time you face a network-related error, you now have a handy command for troubleshooting.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Troubleshooting Shared Folders on Windows
 
@@ -175,21 +175,19 @@ Here's how to reset the network settings on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/harting-updates-youtube-money-standards/"><u>[New] Charting Updates YouTube Money Standards</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-amplify-engagement-essential-tips-for-tiktok-unbox-videos/"><u>[New] In 2024, Amplify Engagement Essential Tips for TikTok Unbox Videos</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/etup-and-strategies-for-youtube-gamers-live-sessions-for-2024/"><u>[New] Setup and Strategies for YouTube Gamers' Live Sessions for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-adaptive-gaming-techniques-by-pros/"><u>[Updated] 2024 Approved Adaptive Gaming Techniques by Pros</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-cosmetics-confidentials-building-a-beauty-channel-on-youtube-for-2024/"><u>[Updated] Cosmetics Confidentials Building a Beauty Channel on YouTube for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-proven-methods-for-captivating-title-creation/"><u>[Updated] Proven Methods for Captivating Title Creation</u></a></li>
-<li><a href="https://windows11.techidaily.com/expert-guide-to-streamline-program-access-via-context-menu/"><u>Expert Guide to Streamline Program Access via Context Menu</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Samsung Galaxy S24 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-spectacular-results-with-hdr-portraits/"><u>In 2024, Unveiling Spectacular Results with HDR Portraits</u></a></li>
-<li><a href="https://windows11.techidaily.com/making-windows-easier-personalized-text-transcription-using-ahk-and-whisper/"><u>Making Windows Easier: Personalized Text Transcription Using AHK & Whisper</u></a></li>
-<li><a href="https://windows11.techidaily.com/pinpointing-your-internet-ip-using-terminal-commands/"><u>Pinpointing Your Internet IP Using Terminal Commands</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-guide-preventing-windows-dwarf-fortress-crashes/"><u>Quick Guide: Preventing Windows-Dwarf Fortress Crashes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-solution-regain-shared-resources-access/"><u>Swift Solution: Regain Shared Resources Access</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-quintessence-of-productivity-win-11s-top-7-widgets/"><u>The Quintessence of Productivity: Win 11’S Top 7 Widgets</u></a></li>
-<li><a href="https://windows11.techidaily.com/tutorial-empowering-end-task-capability-on-windows-11/"><u>Tutorial: Empowering End Task Capability on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/winning-over-common-mmc-snapshot-glitches/"><u>Winning Over Common MMC Snapshot Glitches</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-dissecting-youtubes-strategy-to-empower-short-form-content-makers/"><u>[New] Dissecting YouTube’s Strategy to Empower Short-Form Content Makers</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ealth-dissection-of-the-elusive-mr-beast/"><u>[New] Wealth Dissection of the Elusive Mr. Beast</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pro-level-techniques-to-upgrade-your-iphone-photo-game/"><u>[Updated] Pro-Level Techniques to Upgrade Your iPhone Photo Game</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-video-quality-using-madvr-on-windows/"><u>Boosting Video Quality: Using MadVR on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/climate-control-experts-the-finest-windows-11-apps/"><u>Climate Control Experts: The Finest Windows 11 Apps</u></a></li>
+<li><a href="https://driver-download.techidaily.com/comprehensive-fixes-for-asus-pce-ac56-connectivity-challenges-on-windows-systems/"><u>Comprehensive Fixes for ASUS PCE-AC56 Connectivity Challenges on Windows Systems</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/effective-registry-management-top-tools-recommended-by-yl-computing/"><u>Effective Registry Management: Top Tools Recommended by YL Computing</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-vivo-y28-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Vivo Y28 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-correcting-roblox-error-262/"><u>Mastering the Art of Correcting Roblox Error 262</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-and-reviving-winget-a-guide-for-windows-11-users/"><u>Navigating and Reviving Winget: A Guide for Windows 11 Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/next-gen-ryzen-cpus-arrive-elevating-performance-with-advanced-strix-halo-integration-and-kraken-point-support/"><u>Next-Gen Ryzen CPUs Arrive, Elevating Performance with Advanced Strix Halo Integration and Kraken Point Support</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-for-apple-image-import-failures-in-windows-10-and-11/"><u>Solutions for Apple Image Import Failures in Windows 10 & 11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-vehicle-decryptors-of-2024/"><u>Top Vehicle Decryptors of 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/tweak-display-posture-in-windows-software/"><u>Tweak Display Posture in Windows Software</u></a></li>
 </ul></div>
 

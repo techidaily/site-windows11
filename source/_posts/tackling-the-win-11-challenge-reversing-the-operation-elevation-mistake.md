@@ -1,7 +1,7 @@
 ---
 title: "Tackling the Win 11 Challenge: Reversing the Operation Elevation Mistake"
-date: 2024-11-30T18:33:30.728Z
-updated: 2024-12-04T02:24:04.258Z
+date: 2024-12-05T19:27:22.223Z
+updated: 2024-12-10T21:24:44.756Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Run the Affected Programs With Admin Rights
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 ![The Run this program as an administrator checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/run-this-program-as-an-administrator.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Set Programs to Run in Compatibility Mode
@@ -49,19 +49,15 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 ![The Run this program in compatibility mode drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/run-this-program-in-compatibility-mode.jpg)
 4. Press the **Apply** \> **OK** buttons to set the compatibility mode setting.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Turn Off the User Account Control Feature
 
  User Account Control is the security feature that throws up notifications when programs try to make changes. UAC could be a potential cause of error 740 when it’s set very high. So, try turning off UAC before running affected apps. Our [guide to disabling User Account Control](https://www.makeuseof.com/windows-11-disable-user-account-control-prompt/) tells you how to turn off that feature.
 
 ![The User Account Control Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/user-account-control-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Adjust Folder Permission Settings
 
@@ -83,6 +79,10 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 8. Select **Yes** when asked to continue.
 9. Exit the folder’s properties window and restart your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Modify the Behavior of the UAC Elevation Prompt
 
  If your Windows PC has the Group Policy Editor, try changing the behavior of UAC’s elevation prompt with that tool. Selecting the **Elevate without prompting** setting for the User Account Control: Behavior policy could fix error 740 for some users.
@@ -100,10 +100,6 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 ![The Elevate without prompting option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/elevate-without-prompting.jpg)
 7. Click **Apply** to set the **Elevate without prompting policy**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8. Select **OK** to close the policy setting’s window.
 9. Then reboot Windows after closing Group Policy Editor.
 
@@ -120,7 +116,7 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 4. Select **Apply** to turn off Admin Approval Mode.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. To close the policy window, select the **OK** option.
@@ -136,7 +132,7 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
  If disabling the security software works, you don’t necessarily have to turn the security software off whenever you want to run the application file. Your antivirus software will probably include an exclusion list to which you can add trustworthy program file exceptions. Add the affected EXE file there to exclude it from the antivirus protection.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Migrate to a New Admin User Account
@@ -144,6 +140,10 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
  If the “requested operation requires elevation” error persists after trying other resolutions, your user account might be corrupted. Then you might need to create and utilize a new admin account to resolve this issue. You can migrate to that account by copying files from your old user account into the new one.
 
 ![The Add account option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/add-account-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To apply this troubleshooting method for the “requested operation requires elevation” error, follow the instructions within this article about [how to fix Windows issues by creating new user accounts](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/). First, you’ll need to set up and sign in to the new admin account to see if the error occurs there. If not, transfer user files into the new account as covered there.
 
@@ -163,22 +163,24 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-how-to-make-the-most-of-your-youtube-watches-gif-magic-for-devices/"><u>[Updated] 2024 Approved How to Make the Most of Your YouTube Watches GIF Magic for Devices</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-mastering-video-transfer-youtube-to-dailymotion-conversion-for-2024/"><u>[Updated] Mastering Video Transfer YouTube to Dailymotion Conversion for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-sleep-specialist-endorses-aspers-guide/"><u>[Updated] Sleep Specialist Endorses Asper's Guide</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-snapchat-screen-capture-tips-for-phones-for-2024/"><u>[Updated] Snapchat Screen Capture Tips for Phones for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/diminishing-volume-fl-masterclass/"><u>Diminishing Volume FL Masterclass</u></a></li>
-<li><a href="https://article-posts.techidaily.com/exploring-beyond-sns-hdr-pro-in-photography/"><u>Exploring Beyond SNS HDR Pro in Photography</u></a></li>
-<li><a href="https://windows11.techidaily.com/exploring-variance-in-offline-versus-online-windows-installation-methods/"><u>Exploring Variance in Offline Versus Online Windows Installation Methods</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-enable-device-driver-loading-in-win11/"><u>How to Enable Device Driver Loading in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-this-sign-in-option-is-disabled-because-of-failed-sign-in-attempts-on-windows/"><u>How to Fix This Sign-In Option Is Disabled Because of Failed Sign-In Attempts on Windows</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-organization-with-the-leading-10-notetaking-tools-of-2024/"><u>Mastering Organization with the Leading 10 Notetaking Tools of 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-resource-already-active-issue-on-windows-11/"><u>Overcoming Resource Already Active Issue on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/proactive-directory-design-mass-folder-formation-strategies-for-windows-1011-users/"><u>Proactive Directory Design: Mass Folder Formation Strategies for Windows 10/11 Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-nvidias-geforce-error-x0001-on-windows-1011/"><u>Resolving Nvidia's GeForce Error X0001 on Windows 10/11</u></a></li>
-<li><a href="https://windows11.techidaily.com/understanding-windows-programming-file-formats/"><u>Understanding Windows' Programming File Formats</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/unlock-the-potential-of-fb-chronicles-with-free-apps/"><u>Unlock the Potential of FB Chronicles with Free Apps</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-tech-tip-validate-audiovideo-before-participating/"><u>Windows Tech Tip: Validate Audio/Video Before Participating</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-diy-remote-podcast-production-tips/"><u>[New] DIY Remote Podcast Production Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-perfecting-podcast-intros-a-guide-with-illustrations/"><u>2024 Approved Perfecting Podcast Intros A Guide with Illustrations</u></a></li>
+<li><a href="https://windows11.techidaily.com/accurate-assessment-of-system-resources-in-windows-11/"><u>Accurate Assessment of System Resources in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/black-friday-extravaganza-save-big-612-forever-win10/"><u>Black Friday Extravaganza: Save Big - $6.12 Forever Win10</u></a></li>
+<li><a href="https://windows11.techidaily.com/dodging-unsupported-issue-in-windows-5-fixes/"><u>Dodging 'Unsupported' Issue in Windows: 5 Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/expedite-photo-corrections-ps-and-windows-strategy/"><u>Expedite Photo Corrections: PS & Windows Strategy</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-gpt-3-on-your-smartphone-or-tablet/"><u>Exploring GPT-3 on Your Smartphone or Tablet</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/exploring-the-top-hashtags-for-a-boost-on-ig-for-2024/"><u>Exploring the Top Hashtags for a Boost on IG for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/gag-galore-a-treasury-of-no-cost-memes/"><u>Gag Galore A Treasury of No-Cost Memes</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-sony-xperia-10-v-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Sony Xperia 10 V Phone</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/kindle3/"><u>Kindle書籍を削除後に取り戻す3つの方法</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/prompt-engineer-a-legitimate-career-path-evaluate-these-nine-important-points/"><u>Prompt Engineer – A Legitimate Career Path? Evaluate These Nine Important Points</u></a></li>
+<li><a href="https://windows11.techidaily.com/reactivating-inputs-post-sleep-on-latest-windows/"><u>Reactivating Inputs Post-Sleep on Latest Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/sneak-peek-at-the-next-big-thing-the-samsung-galaxy-super-ultra-2023-editions-release-date-pricing-rumors-and-full-feature-list-revealed/"><u>Sneak Peek at the Next Big Thing - The Samsung Galaxy Super Ultra 2023 Edition's Release Date, Pricing Rumors & Full Feature List Revealed</u></a></li>
+<li><a href="https://windows11.techidaily.com/swift-solutions-to-resolve-instant-failure-in-adding-a-folder-in-onedrive/"><u>Swift Solutions to Resolve Instant Failure in Adding a Folder in OneDrive</u></a></li>
+<li><a href="https://windows11.techidaily.com/time-tinkering-tools-top-windows-programs-for-date-adjustment/"><u>Time Tinkering Tools: Top Windows Programs for Date Adjustment</u></a></li>
+<li><a href="https://facebook.techidaily.com/uncover-personalities-interactive-queries-on-social-apps/"><u>Uncover Personalities: Interactive Queries on Social Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-troubleshooting-silent-voice-calls-in-valorant/"><u>Windows Troubleshooting: Silent Voice Calls in Valorant</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-wifi-wisdom-accelerating-network-speed-assessment/"><u>Windows WiFi Wisdom: Accelerating Network Speed Assessment</u></a></li>
 </ul></div>
 

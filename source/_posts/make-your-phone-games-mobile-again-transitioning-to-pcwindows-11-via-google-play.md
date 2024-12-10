@@ -1,7 +1,7 @@
 ---
 title: "Make Your Phone Games Mobile Again: Transitioning to PC/Windows 11 via Google Play"
-date: 2024-08-08T06:15:00.087Z
-updated: 2024-08-09T06:15:00.087Z
+date: 2024-12-06T17:06:37.235Z
+updated: 2024-12-10T21:05:39.009Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/de7c313fd07e2524cf8d55d82a6066b369ed71aad
 
  The Google Play Games beta is available in multiple regions now (100 at the time of writing) and lets you install and play games on your Windows 11 PC. If you'd like to learn more, here's how to install the Google Play Games app, find your favorite games, install them, and tweak their controls for the best experience.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is Google Play Games?
 
  The name "Google Play Games" actually describes several apps. For the sake of this article, we will be covering the app you can download on Windows PCs. Don’t confuse it with the Android app that's also called “Google Play Games," which handles downloading apps on your mobile devices.
@@ -28,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/de7c313fd07e2524cf8d55d82a6066b369ed71aad
 
  Before you continue, you need a medium-grade Windows PC to run the Google Play Games app. Check out the [Google Play Games system requirements page](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029049/https://play.google.com/googleplaygames#section-system-requirements) and make sure your hardware matches or exceeds them.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Download and Install Google Play Games on Windows 11
 
  Perform the following steps to download and install Google Play Games on your Windows PC:
@@ -45,9 +46,6 @@ thumbnail: https://thmb.techidaily.com/de7c313fd07e2524cf8d55d82a6066b369ed71aad
 
  Now you should be ready to play Android games on your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ## How to Install and Play Games Using Google Play Games
 
  Now you can browse the game library and install any game supported in the beta program. The current game library consists of over a hundred popular titles, and more are being added.
@@ -59,15 +57,13 @@ thumbnail: https://thmb.techidaily.com/de7c313fd07e2524cf8d55d82a6066b369ed71aad
 1. Launch the Google Play Games app.
 2. The app will show a recommendation list on the right side, displaying all the games you played or installed on your phone earlier. Scroll down and click on the **View** button below the “Check out all our games” banner.
 3. Click on a game tile to open its page. Then click on the **Install** button.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Install and Play Games Using Google Play Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/install-and-play-games-using-google-play-games.jpg)
 4. The app will prompt you to “Turn on Virtualization Settings”. Click on the **Continue** button.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Install and Play Games Using Google Play Games 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/install-and-play-games-using-google-play-games-2.jpg)
 5. Click on the **Yes** button to install the Windows Hypervisor Platform.
 6. Lastly, click on the **OK** button to update your PC and apply the changes.
@@ -76,15 +72,16 @@ thumbnail: https://thmb.techidaily.com/de7c313fd07e2524cf8d55d82a6066b369ed71aad
 
 1. Launch the Google Play Games app again.
 2. Revisit the game's page and click on the **Install** button.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Install and Play Games Using Google Play Games 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/install-and-play-games-using-google-play-games-3.jpg)
 3. Click on the **Play** button to launch the Game.
 4. The game will launch in windowed mode. Press **Alt + Enter** to enter full-screen mode.  
 ![Horizon Chase Turbo running in Google Play Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/horizon-chase-turbo-running-in-google-play-games.jpg)
 
  You should now have everything you need to play Android games set up on your Windows PC. However, we're not quite done yet.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Customize Your Game Controls on Google Play Games
 
@@ -96,15 +93,18 @@ thumbnail: https://thmb.techidaily.com/de7c313fd07e2524cf8d55d82a6066b369ed71aad
 2. Click on the **Remap Controls** option. Now, you will see the game-related key bindings.  
 ![Customize Game Controls in Google Play Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/customize-game-controls-in-google-play-games.jpg)
 3. Now, click on the key binding you want to change, then press the key you want to assign to it. It will save the changes automatically.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Customize Game Controls in Google Play Games 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/customize-game-controls-in-google-play-games-2.jpg)
 4. Lastly, click on the **X**button to close the Remap Controls window and return to the game.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Our Experience With the Google Play Games App for Windows
 
  When we tried out the app, the games run fine and look great in the Google Play Games app. You will notice a few jagged edges in some games due to a lack of [anti-aliasing](https://www.makeuseof.com/what-is-anti-aliasing-and-how-does-it-improve-graphics/), but that is manageable. Remember that these are mobile games, after all.
@@ -121,11 +121,33 @@ thumbnail: https://thmb.techidaily.com/de7c313fd07e2524cf8d55d82a6066b369ed71aad
 
  The Google Play Games beta is available in multiple regions now (100 at the time of writing) and lets you install and play games on your Windows 11 PC. If you'd like to learn more, here's how to install the Google Play Games app, find your favorite games, install them, and tweak their controls for the best experience.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elite-recommendations-top-10-high-end-video-card-models/"><u>[New] In 2024, Elite Recommendations Top 10 High-End Video Card Models</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-innovative-strategies-for-keeping-a-log-of-whatsapp-calls/"><u>[Updated] Innovative Strategies for Keeping a Log of WhatsApp Calls</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-the-path-to-cross-media-popularity-via-television-and-fb-live/"><u>[Updated] The Path to Cross-Media Popularity via Television and FB Live</u></a></li>
+<li><a href="https://windows11.techidaily.com/boost-mouse-click-agility-nine-strategies-to-tweak-speeds/"><u>Boost Mouse Click Agility: Nine Strategies to Tweak Speeds</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cinematic-clarity-expert-4k-screens-for-editing-artistry/"><u>Cinematic Clarity Expert 4K Screens for Editing Artistry</u></a></li>
+<li><a href="https://windows11.techidaily.com/crafting-capabilities-directories-with-a-click-in-win11/"><u>Crafting Capabilities: Directories with a Click in Win11</u></a></li>
+<li><a href="https://win-best.techidaily.com/discovering-the-right-drivers-for-your-hardware-a-guide-by-yl-computing/"><u>Discovering the Right Drivers for Your Hardware: A Guide by YL Computing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essential-insights-for-aspiring-editors-into-final-cut-pro/"><u>Essential Insights for Aspiring Editors Into Final Cut Pro</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-increase-disk-size-in-windows-carefully/"><u>How to Increase Disk Size in Windows Carefully</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-problem-of-razer-synapse-application-failure-to-start/"><u>Resolving the Problem of Razer Synapse Application Failure to Start</u></a></li>
+<li><a href="https://windows11.techidaily.com/reveal-hidden-5ghz-networks-on-windows-11-quick-remedies/"><u>Reveal Hidden 5GHz Networks on Windows 11: Quick Remedies</u></a></li>
+<li><a href="https://windows11.techidaily.com/revolutionize-your-security-crafting-unique-lock-patterns-for-windows-11/"><u>Revolutionize Your Security: Crafting Unique Lock Patterns for Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/setting-up-a-permanent-delete-toolbar-in-windows-1011s-trash/"><u>Setting Up a Permanent Delete Toolbar in Windows 10/11'S Trash</u></a></li>
+<li><a href="https://extra-information.techidaily.com/skullduggery-scribblers-den/"><u>Skullduggery Scribbler's Den</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-list-of-6-performance-monitor-apps-for-pcs/"><u>The Ultimate List of 6 Performance Monitor Apps For PCs</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-acer-aspire-e-15-laptop-assessment-exceptional-affordable-performance/"><u>Top Acer Aspire E 15 Laptop Assessment - Exceptional Affordable Performance</u></a></li>
+<li><a href="https://windows11.techidaily.com/tricks-save-and-access-onedrive-around-clients/"><u>Tricks: Save & Access OneDrive Around Clients</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-resolving-lack-of-audio-during-zoom-calls-on-your-computer/"><u>Troubleshooting Steps: Resolving Lack of Audio During Zoom Calls on Your Computer</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-code-0x0001-complication-in-windows-11/"><u>Unraveling Code 0X0001 Complication in Windows 11</u></a></li>
+</ul></div>
+

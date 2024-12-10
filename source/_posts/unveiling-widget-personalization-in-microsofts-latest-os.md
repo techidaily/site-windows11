@@ -1,7 +1,7 @@
 ---
 title: Unveiling Widget Personalization in Microsoft's Latest OS
-date: 2024-08-15T16:18:08.798Z
-updated: 2024-08-16T16:18:08.798Z
+date: 2024-12-09T21:09:08.776Z
+updated: 2024-12-10T21:18:00.803Z
 tags:
   - windows10
   - windows11
@@ -35,8 +35,9 @@ thumbnail: https://thmb.techidaily.com/bf6ce710c3b83bd0300511eb0a114987cd6a64427
 ![the widget launcher app in windows 11 search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/widget-launcher-windows-11-search.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Add Widgets to Your Desktop With Widget Launcher
 
  With Widget Launcher open, you’ll see a list of all the available widgets, such as**Weather** ,**Clock** ,**Calendar** ,**Notes** , and**CPU Meter** , in the middle panel. Click on the widget you want to add to the desktop.
@@ -46,54 +47,52 @@ thumbnail: https://thmb.techidaily.com/bf6ce710c3b83bd0300511eb0a114987cd6a64427
  In the right panel, click on**Launch Widget** , and the widget will now appear on your desktop. If you decide these widgets are enough for your needs, you can[disable Windows 11’s widgets](https://www.makeuseof.com/windows-11-disable-widgets/) .
 
 ![the digital clock widget on the windows 11 desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/digital-clock-widget-windows-11-desktop.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 
  Some widgets, such as**Weather** ,**RSS Feed** , and**Slideshow** , will be blank when you first launch them. That’s because you need to tell them where to get the data they need to display.
 
  Let's take the**RSS Feed** widget, for example. To make it show the feeds you want, start by hovering over the widget and clicking on the**gear icon** in the small panel that appears on the right to open**Settings** .
 
 ![a blank rss feed widget in the Windows 11 desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/rss-fee-widget-windows-11-no-data.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then, enter the URL to the website the**RSS Feed** widget will use to populate itself with feeds, and then click**OK** . Now the widget won't be blank anymore.
 
 ![entering a URL in the RSS Feed widget of the Widget Launcher on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/url-rss-feed-widget-launcher-windows-11.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 
  If this was the**Weather** widget, you'd need to add a location. And if it was the**Slideshow** widget, it would require a folder to find the images to display.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Enable "Widgets Always on Top" Mode
 
  If you want to see the widgets every time no matter what window you’re on, click**Settings** in the bottom left corner of the Widget Launcher app. Then, turn on the toggle for**Widgets Always on Top** .
 
 ![the settings of the widget launcher in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/widget-launcher-settings-always-top.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  By default, Widget Launcher is set to launch the widgets during startup as well. You can prevent this by setting the toggle for**Launch on Startup** to**Off** .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Enjoy Widgets on Your Windows 11 Desktop
 
  If you want to add widgets to your Windows 11 desktop, Widget Launcher allows you to do that easily. That way, you can always see your favorite information right from your desktop. And if you want to see the widgets all the time, you can just set them to always be on top.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -102,4 +101,20 @@ thumbnail: https://thmb.techidaily.com/bf6ce710c3b83bd0300511eb0a114987cd6a64427
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-best-in-class-androids-cloud-storage-companions/"><u>[New] Best in Class Android's Cloud Storage Companions</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-ultimate-screen-recorder-guide-apeak-vs-others-for-2024/"><u>[New] Ultimate Screen Recorder Guide – Apeak vs Others for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-enhance-visuals-with-better-obs-settings-for-2024/"><u>[Updated] Enhance Visuals with Better OBS Settings for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-top-5-free-screen-recorder-extensions-for-chromebooks/"><u>[Updated] In 2024, TOP 5 Free Screen Recorder Extensions for Chromebooks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-breaking-down-advertising-budgets-on-youtube/"><u>In 2024, Breaking Down Advertising Budgets on YouTube</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/instagram-to-tik-tok-integration-strategy/"><u>Instagram to Tik Tok Integration Strategy</u></a></li>
+<li><a href="https://windows11.techidaily.com/microsoft-brings-ai-to-windows-11-revolutionizing-the-taskbar-experience/"><u>Microsoft Brings AI to Windows 11, Revolutionizing the Taskbar Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-secure-boot-snags-with-these-5-proven-fixes/"><u>Navigate Secure Boot Snags with These 5 Proven Fixes</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-16-avi-trimmers-cut-and-edit-avi-files-with-ease-windows-mac-android/"><u>New Best 16 AVI Trimmers Cut and Edit AVI Files with Ease Windows, MAC, Android</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/new-display-features-unlocked-on-windows-11/"><u>New Display Features Unlocked on Windows 11</u></a></li>
+<li><a href="https://article-tips.techidaily.com/photography-elite-line-up-best-6-4k-dslr-options-reviewed-for-2024/"><u>Photography Elite Line-Up Best 6 4K DSLR Options Reviewed for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-file-unpreviews-in-windows-based-outlook/"><u>Troubleshooting File Unpreviews in Windows-Based Outlook</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-hour-hand-healed-harmonize-system-time/"><u>Windows Hour Hand Healed: Harmonize System Time</u></a></li>
+</ul></div>
 

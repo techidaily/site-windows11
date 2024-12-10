@@ -1,7 +1,7 @@
 ---
 title: How to Spur Microsoft Edge Speed in Windows 10/11
-date: 2024-08-15T16:20:05.248Z
-updated: 2024-08-16T16:20:05.248Z
+date: 2024-12-08T20:06:21.911Z
+updated: 2024-12-10T21:20:54.103Z
 tags:
   - windows10
   - windows11
@@ -25,8 +25,9 @@ thumbnail: https://thmb.techidaily.com/c2364ce1ce1631cf3307292a0e382081e93d8f200
  Before doing any troubleshooting steps below, make sure that your internet connection works properly. Often, an intermittent connection can slow down your browser. If you’ve established that there are no network-related issues, you can proceed.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Relaunch Microsoft Edge
 
  When we say relaunch, we don’t just mean close the browser and open it again. Most times, exiting a program doesn’t completely stop it from running. They’re just left running in the background. To ensure that the program is completely closed, you need to stop any processes related to it on your Task Manager. Here’s how:
@@ -35,6 +36,14 @@ thumbnail: https://thmb.techidaily.com/c2364ce1ce1631cf3307292a0e382081e93d8f200
 2. Look for Microsoft Edge from the list. Click it and press **End Task**. This will completely close the app.  
 ![Relaunch Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/end-edge-1.jpg)
 3. Launch Microsoft Edge and see if it works okay.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Update Edge
 
@@ -46,9 +55,6 @@ thumbnail: https://thmb.techidaily.com/c2364ce1ce1631cf3307292a0e382081e93d8f200
 2. Once you're in Settings, select **About Microsoft Edge** from the left-side navigation. Then, install any available updates. If there’s none, proceed to the next fix.  
 ![Update Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/update-edge-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Disable the "Preload New Tab Page" Option
 
  Unfortunately, Microsoft Edge’s new tab page includes a lot of content that can consume a lot of resources. Apart from an animated background, it also has Microsoft news, weather widget, traffic updates, and more. Loading all of them in the background can make your browser feel slow, especially if your computer doesn’t have much memory left on it.
@@ -60,9 +66,6 @@ thumbnail: https://thmb.techidaily.com/c2364ce1ce1631cf3307292a0e382081e93d8f200
 3. On the Settings page, click **Start, home, and new tabs** from the left-side navigation.
 4. Under the **New tab page** section, disable the **Preload the new tab page for a faster experience** option.
 5. ![Preload the new tab page feature in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/preload-pages-1.jpg)  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
  Relaunch Microsoft Edge and check if it works faster.
 
 ### 4\. Close Unnecessary Tabs
@@ -70,8 +73,9 @@ thumbnail: https://thmb.techidaily.com/c2364ce1ce1631cf3307292a0e382081e93d8f200
  If you have a lot of open tabs, Microsoft Edge might slow down its performance. Try to close some of the tabs you no longer need to free some of Edge resources. Alternatively, you could use a [browser extension to help you manage your tabs](https://chrome.google.com/webstore/detail/tabli/igeehkedfibbnhbfponhjjplpkeomghi).
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 5\. Change the Tracking Prevention Setting
 
  Microsoft Edge is big on privacy. That’s why it has a built-in feature that prevents companies from collecting your information when browsing. This feature comes in three different settings, and you can choose how you want to be protected.
@@ -85,16 +89,14 @@ thumbnail: https://thmb.techidaily.com/c2364ce1ce1631cf3307292a0e382081e93d8f200
 3. On the Settings page, click **Privacy, search, and services.**
 4. Under the **Tracking prevention** section, choose **Balanced** instead of Strict.
 5. ![Edge tracking pervention settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/edge-tracking-protocol-1.jpg)  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lastly, check if this changes speeds up Edge.
 
  The Balanced setting still protects your privacy like the Strict option. However, it doesn't stop parts of some sites from working. You may still see ads on your browser, but it’s much better than turning this feature off completely.
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 6\. Clear Cache and Cookies
 
  Sometimes, cookies and cache cause a slow Microsoft Edge on Windows 10 and 11\. If the browser has a lot of them, it can affect its speed. Luckily, the fix is easy. You only need to delete them, and you’re good to go. However, deleting the data can log you out of some websites you frequently visit. If this is the case, don’t panic. All you need to do is to log in again.
@@ -107,12 +109,14 @@ thumbnail: https://thmb.techidaily.com/c2364ce1ce1631cf3307292a0e382081e93d8f200
 4. Next, click **Manage and delete cookies and site data**.
 5. ![Microsoft Edge cookies and data stores settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/delete-cookies-1.jpg)  
  Then, press **See all cookies and site data**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. ![Sell all cookies in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/see-all-cookies-1.jpg)  
  Under All cookies and site data, click **Remove all**.
 7. ![Remove all Edge cookies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/delete-all-cookies-1.jpg)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
  Check your browser and see if the issue persists.
 
 ### 7\. Disable Browser Extensions
@@ -122,15 +126,9 @@ thumbnail: https://thmb.techidaily.com/c2364ce1ce1631cf3307292a0e382081e93d8f200
 1. Open the Edge browser and click the **three-dots** menu. Then click **Extensions**.
 2. From the Extensions page, manually disable all the extensions you have installed by switching the button off found on the right side of each extension.
 3. ![Disable Edge extensions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/edge-extensions-1.jpg)  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
  After disabling all your extensions, check whether it solves the problem. If it does, go back to the Extensions page and turn the extensions one by one to see which one is causing it.
 4. Once you find out which extension is slowing down your browser, delete it from your Edge.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Flush Edge DNS
 
  To load faster, Microsoft Edge stores and uses data about the websites that you access in its DNS (or Domain Name Server). However, if it stores too much data or it somehow gets corrupted, it will slow down the browser.
@@ -140,6 +138,10 @@ thumbnail: https://thmb.techidaily.com/c2364ce1ce1631cf3307292a0e382081e93d8f200
 ![Flush Edge DNS cache](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/flush-dns-cache-1.jpg)
 
  Restart your browser and check if this solution improved its performance.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 9\. Repair Microsoft Edge
 
@@ -153,11 +155,25 @@ thumbnail: https://thmb.techidaily.com/c2364ce1ce1631cf3307292a0e382081e93d8f200
 
  The latest Microsoft Edge comes with many new features such as sleep tabs, tab groups, and more that can help with productivity and efficiency. However, these updates can sometimes slow down Edge. If you are experiencing this, follow the fixes below to speed your browser up.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-elevate-your-channels-selecting-prime-microphones-for-every-content-category-for-2024/"><u>[Updated] Elevate Your Channels Selecting Prime Microphones for Every Content Category for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-guidance-instagram-ringtone-download-and-make-instagram-ringtone-on-your-own/"><u>[Updated] Guidance Instagram Ringtone Download and Make Instagram Ringtone on Your Own</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-secrets-to-superior-streaming-of-soccer-matches/"><u>[Updated] Secrets to Superior Streaming of Soccer Matches</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-choosing-between-podcast-and-youtube-for-content-consumption/"><u>2024 Approved Choosing Between Podcast and YouTube for Content Consumption</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-and-the-quest-for-textual-awareness-investigating-why-chatgpt-fails-to-detect-its-own-prose/"><u>AI and the Quest for Textual Awareness: Investigating Why ChatGPT Fails to Detect Its Own Prose</u></a></li>
+<li><a href="https://windows11.techidaily.com/harnessing-bluescreenview-a-users-handbook/"><u>Harnessing BlueScreenView: A User's Handbook</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-depths-of-adobe-cloud-storages-plus-top-non-adobe-choices/"><u>In 2024, Exploring the Depths of Adobe Cloud Storages, Plus Top Non-Adobe Choices</u></a></li>
+<li><a href="https://windows11.techidaily.com/integrating-custom-widgets-into-the-windows-11-interface/"><u>Integrating Custom Widgets Into the Windows 11 Interface</u></a></li>
+<li><a href="https://windows11.techidaily.com/sifting-through-windows-logins-the-good-the-bad-and-the-ugly/"><u>Sifting Through Windows Logins: The Good, The Bad & The Ugly</u></a></li>
+<li><a href="https://windows11.techidaily.com/unclog-your-windows-11-mailcalendar-access/"><u>Unclog Your Windows 11 Mail/Calendar Access</u></a></li>
+<li><a href="https://windows11.techidaily.com/winerror-unraveled-expert-advice-on-fixing-windows-scripts/"><u>WinError Unraveled: Expert Advice on Fixing Windows Scripts</u></a></li>
+</ul></div>
+

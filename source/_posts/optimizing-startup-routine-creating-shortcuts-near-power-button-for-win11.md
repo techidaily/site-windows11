@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Startup Routine: Creating Shortcuts Near Power Button for Win11"
-date: 2024-08-08T06:15:12.282Z
-updated: 2024-08-09T06:15:12.282Z
+date: 2024-12-07T17:28:56.598Z
+updated: 2024-12-10T20:17:11.731Z
 tags:
   - windows10
   - windows11
@@ -23,8 +23,9 @@ thumbnail: https://thmb.techidaily.com/f5eeb9ebfa2de64a3d4ee3942e718c9f14502e6b8
  So, let's look at how to add these quick shortcuts to your Windows menu. Let's get started!
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Adding Shortcuts Next to Power Buttons
 
  If you look at the default Windows 11 Start Menu, you'll find the area next to the Power Button empty. While a clean, clutter-free design is undoubtedly desirable, adding folder shortcuts will improve your PC's functionality.
@@ -36,8 +37,9 @@ thumbnail: https://thmb.techidaily.com/f5eeb9ebfa2de64a3d4ee3942e718c9f14502e6b8
  However, you can only add specific icons beside the Power Button. They are**Settings** ,**File Explorer** ,**Documents** ,**Downloads** ,**Music** ,**Pictures** ,**Videos** ,**Network** , and**Personal folder** . Moreover, the small size of the Start menu itself can make things congested if you try and add all nine shortcuts at once. Other than this, the Start menu shortcut is a handy tool.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Add Shortcuts Next to Power Buttons on Windows 11
 
  Now that we've peeked into the benefits of adding shortcuts next to Power Buttons on Windows 11, let's look at how you can do it as well.
@@ -51,35 +53,35 @@ thumbnail: https://thmb.techidaily.com/f5eeb9ebfa2de64a3d4ee3942e718c9f14502e6b8
 
  You'll see a total of nine icons that you can add to your Start menu. Toggle the switch for all the icons you want to add next to the Power button.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![folders section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/folders-section.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  As soon as you toggle on the switch, new icons of the respective folders will appear next to your Power button menu.
 
  For instance, in this example, we'll toggle on the switches for**File Explorer** ,**Documents** , and**Music** folder. This is how your customized Windows 11 Start menu will look like:
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![windows 11 start menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-start-menu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Adding Shortcuts Next to Power Buttons on Windows 11
 
  And that's how you can easily tweak your Start menu and drop in shortcuts next to the Power button on your Windows. After you've made the changes, make sure you verify it by clicking on the Start menu.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -88,4 +90,23 @@ thumbnail: https://thmb.techidaily.com/f5eeb9ebfa2de64a3d4ee3942e718c9f14502e6b8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-navigating-the-concealed-commentary-on-online-media/"><u>[New] In 2024, Navigating the Concealed Commentary on Online Media</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/eading-videographers-best-editor-picks/"><u>[New] Leading Videographers' Best Editor Picks</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-in-depth-guide-to-archiving-online-conversations-with-fb/"><u>[Updated] 2024 Approved In-Depth Guide to Archiving Online Conversations with FB</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-pioneer-your-personal-brand-in-tiktok-with-dynamic-backgrounds/"><u>[Updated] In 2024, Pioneer Your Personal Brand in TikTok with Dynamic Backgrounds</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/color-space-comparison-srgb-vs-rgb-for-2024/"><u>Color Space Comparison Srgb vs Rgb for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-wsl-distributor-error-0x80370102-on-windows-systems/"><u>Fixing WSL Distributor Error 0X80370102 on Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-successfully-retry-failed-application-downloads-on-marketplace/"><u>How To Successfully Retry Failed Application Downloads on Marketplace</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ipogo-will-be-the-new-ispoofer-on-honor-x50-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Honor X50? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/kihuzza-mts-mp4-viraert-a-gyors-konvertalashat-egyik-legjobb-megoldas-ez-a-windows-macban/"><u>Kihúzza MTS MP4 Víráért: A Gyors Konvertáláshát Egyik Legjobb Megoldás Ez a Windows, Macban</u></a></li>
+<li><a href="https://windows11.techidaily.com/lock-screen-after-how-long-on-windows/"><u>Lock Screen After How Long on Windows?</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-windows-to-confirm-disk-type/"><u>Navigating Windows to Confirm Disk Type</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-microsoft-store-malfunctions-expert-tips-and-fixes/"><u>Overcome Microsoft Store Malfunctions - Expert Tips and Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-stubbornness-in-windows-ui-elements/"><u>Overcoming Stubbornness in Windows UI Elements</u></a></li>
+<li><a href="https://windows11.techidaily.com/reimagined-user-support-in-new-windows-release/"><u>Reimagined User Support in New Windows Release</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-resolve-unavailable-files-notification-in-office-email-app/"><u>Steps to Resolve 'Unavailable' Files Notification in Office Email App</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-5-mkv-players-for-mac/"><u>Top 5 MKV Players for Mac</u></a></li>
+</ul></div>
 

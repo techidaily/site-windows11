@@ -1,7 +1,7 @@
 ---
 title: "Optimize Text Workflow: Quick and Custom Keybindings"
-date: 2024-08-15T16:17:24.032Z
-updated: 2024-08-16T16:17:24.032Z
+date: 2024-12-03T18:23:15.775Z
+updated: 2024-12-10T17:22:07.167Z
 tags:
   - windows10
   - windows11
@@ -55,22 +55,22 @@ thumbnail: https://thmb.techidaily.com/a34b3784d5ea8d0b2be6eaec5083d1cf0c7c6de5e
 4. Go into Explorer and open the folder your hotkeyp\_64bit ZIP file downloaded in.
 5. Unzip the**hotkeyp\_64bit.zip** archive by right-clicking it and selecting**Extract All** . Click**Show extracted files** **when complete** \>**Extract** within the extraction tool.  
 ![The Extract All context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/extract-all-option.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Double-click**HotkeyP.exe** within the hotkeyp\_64bit folder.
 2. Click**Add** to bring up a Hot Key window.  
 ![The HotkeyP window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/hotkeyp.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Next, press the arrow (**<**) button for the**Command** box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Select**Macro** and the**Paste text** option.  
 ![The Paste text option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/paste-text-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Then input the text to paste within the**Parameters** box. That parameters box doesn’t seem to have any character number restriction for how long your pre-defined text can be.
 6. Select one or more**Ctrl** ,**Alt** ,**Win** , and**Shift** checkboxes.
 7. Input a letter key within the text box to set the hotkey.
@@ -85,14 +85,15 @@ thumbnail: https://thmb.techidaily.com/a34b3784d5ea8d0b2be6eaec5083d1cf0c7c6de5e
  You can configure general settings for HotkeyP by clicking**Window** \>**Options** . The**Start automatically at Windows startup** checkbox is already selected by default on the**General** tab. That tab also includes options for adding/removing buttons in the main window, setting buttons for hiding the window and showing the program in the system tray among others.
 
 ![The General tab in HotkeyP's Options window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-general-tab.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Creating Other Hotkeys With HotkeyP
 
  It’s also worth exploring the other options for creating hotkeys HotkeyP offers beyond pasting pre-defined text. For example, you can set up custom hotkeys for various system functions like shutting down, logging off, emptying the Recycle Bin, and opening the Programs and Features applet among others. To do so, click the**arrow (<)** button and**System** on the Hot Key window to choose one of those hotkey functions.
@@ -104,8 +105,9 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  You can set up a program keyboard shortcut by selecting an app’s path within the Hot Key window. Click the**ellipses (…)** button for the**Command** box to select a program for a keyboard shortcut to open. Then you can also select additional**Process priority** and**Run as administrator** settings for the software the hotkey launches.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Create Handy Hotkeys for Pasting Pre-Defined Text in Windows
 
  Custom hotkeys for pasting pre-defined text will certainly come in handy for filling out web forms and drafting letters or emails. You can set up custom keyboard shortcuts for pasting your name, postcode, phone number, email address, tax reference number, passwords, and much more with QuickTextPaste and HotkeyP. They’re good apps to utilize for creating software hotkeys as well.
@@ -116,8 +118,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -125,4 +125,20 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-secure-is-subforsup-to-expand-your-youtube-community-safely/"><u>[New] 2024 Approved How Secure Is Subforsup to Expand Your YouTube Community Safely?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-how-to-add-instagram-filter-to-existing-photos-and-videos/"><u>[New] 2024 Approved How to Add Instagram Filter to Existing Photos and Videos</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-master-image-tweaks-with-snapseed-for-newbies/"><u>[Updated] 2024 Approved Master Image Tweaks with Snapseed for Newbies</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-leveraging-content-marketing-for-more-views-and-subscribers/"><u>[Updated] In 2024, Leveraging Content Marketing for More Views and Subscribers</u></a></li>
+<li><a href="https://windows11.techidaily.com/guides-to-reinstate-windows-print-spooler/"><u>Guides to Reinstate Windows Print Spooler</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-skill-up-on-the-fly-with-top-10-freeware-art-apps-for-mac/"><u>In 2024, Skill Up on the Fly with Top 10 Freeware Art Apps for Mac</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-access-violation-in-civil-service-exam-2024-what-you-need-to-know-about-civ-6/"><u>Mastering 'Access Violation in Civil Service Exam 2024': What You Need To Know About CIV-6</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-filmora-on-a-budget-4-effective-tips-to-grab-discount-codes-for-2024/"><u>New Filmora on a Budget 4 Effective Tips to Grab Discount Codes for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/post-cortana-era-windows-four-changes/"><u>Post-Cortana Era: Windows’ Four Changes</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-workflow-integration-to-do-plus-ifttt/"><u>Seamless Workflow Integration: To-Do + IFTTT</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-error-0xc00d36b4-on-windows-11-pcs/"><u>Tackling Error 0XC00D36B4 on Windows 11 PCs</u></a></li>
+<li><a href="https://common-error.techidaily.com/top-tricks-for-resolving-issues-with-your-playstation-4-headset-audio/"><u>Top Tricks for Resolving Issues with Your PlayStation 4 Headset Audio</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-oppo-a1x-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Oppo A1x 5G Hard Reset | Dr.fone</u></a></li>
+</ul></div>
 

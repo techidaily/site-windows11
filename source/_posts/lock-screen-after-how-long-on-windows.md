@@ -1,7 +1,7 @@
 ---
 title: Lock Screen After How Long on Windows?
-date: 2024-11-29T20:51:26.489Z
-updated: 2024-12-03T22:57:33.127Z
+date: 2024-12-09T16:21:14.180Z
+updated: 2024-12-10T17:24:27.228Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/7180d1f46214638b981f44d739909bb52ccedea12
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Keep Your Windows PC Inaccessible While Your Gone
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/7180d1f46214638b981f44d739909bb52ccedea12
  Of course, you can also lock your PC manually when you walk away from it—just press the**Win + L** keys together or**Ctrl + Alt + Del** and then sign out. But you could miss doing that in a rush, or if you're distracted.
 
  Instead, check out these methods to configure your Windows PC to lock automatically when there is no activity after a specific amount of time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. How to Lock Your Windows PC After a Set Time via the Local Security Policy
 
@@ -54,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/7180d1f46214638b981f44d739909bb52ccedea12
 ![Machine Inactivity Limit Selected in Security Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/select-machine-inactivity-limit-in-security-options.jpg)
 5. Under the section**Machine will be locked after** , enter the time in seconds after which you want your PC to get locked automatically. This time is the time of machine inactivity or the time when your PC is idle. You can enter the time between**0** to**599940** seconds. For this tutorial, we'll enter**300 seconds** which is five minutes. Now click on**Apply** and then**OK** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Finally, close the Local Security Policy window and restart your computer for the change to take effect.
 
  Now, when you use your PC, you will experience that your PC will lock itself after your custom timer expires. And if someone tries to unlock your PC while you're gone, it'll ask them for your password, which should keep them at bay until you get back.
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/7180d1f46214638b981f44d739909bb52ccedea12
  If you ever want to reverse this action and not have your PC lock automatically, just open the**Interactive logon: Machine inactivity limit** policy in**Local Security Policy** . Then just change the time or seconds to**0** —this is the default setting and will not lock your PC automatically.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. How to Lock Your Windows PC After a Specific Amount of Inactivity via the Registry Editor
@@ -82,19 +82,19 @@ thumbnail: https://thmb.techidaily.com/7180d1f46214638b981f44d739909bb52ccedea12
 ![Navigate to System Key in Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/navigate-to-system-key-in-registry-editor.jpg)
 4. Click on the**System** key in the left pane and its components will open up in the right pane. Now scroll down to get to the**InactivityTimeoutSecs** DWORD.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Scroll to InactivityTimeoutSecs in System Key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/scroll-to-inactivitytimeoutsecs.jpg)
 5. Double-click on the**InactivityTimeoutSecs** DWORD to modify its value. Select**Decimal** under**Base** , and under**Value data** , enter a number between**0** to**599940** —this is the time in seconds after which your PC will get locked automatically. Like in the Local Security Policy method, we'll give it a time of**300 seconds** or five minutes. Now tap on**OK** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. In case you do not find the**InactivityTimeoutSecs** DWORD in your registry, you can create it. Right-click on the**System** key folder in the left pane or right-click on a space in the right pane of the**System** key. Select**New** , then select**DWORD (32-bit) Value** .  
 ![Create InactivityTimeoutSecs DWORD in System Key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/create-inactivitytimeoutsecs-dword.jpg)  
  A new value will be created in the right pane. Name it**InactivityTimeoutSecs** . Then press**Enter** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Now double-click on**InactivityTimeoutSecs** DWORD, and enter the time after which you want your PC to get locked.
@@ -125,16 +125,18 @@ thumbnail: https://thmb.techidaily.com/7180d1f46214638b981f44d739909bb52ccedea12
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-global-streaming-giants-face-off-facebook-live-youtube-live-periscope/"><u>[New] 2024 Approved Global Streaming Giants' Face-Off Facebook Live, YouTube Live, Periscope</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-tips-and-tricks-how-to-choose-a-winner-amongst-360-degree-cameras/"><u>[Updated] Tips & Tricks How to Choose a Winner Amongst 360-Degree Cameras</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-steps-for-recognizing-and-fixing-disabled-hard-drives-in-windows-11/"><u>Essential Steps for Recognizing and Fixing Disabled Hard Drives in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-tips-for-windows-11-drive-connection/"><u>Essential Tips for Windows 11 Drive Connection</u></a></li>
-<li><a href="https://win-net.techidaily.com/guide-to-adding-sound-effects-in-photo-books-using-flipbuilder/"><u>Guide to Adding Sound Effects in Photo Books Using FlipBuilder</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-obstacles-fixing-full-screen-shot-problems-in-safari-browser/"><u>Overcoming Obstacles: Fixing Full-Screen Shot Problems in Safari Browser</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/pro-editors-top-list-best-portable-devices-for-visual-storytelling-for-2024/"><u>Pro-Editors' Top List Best Portable Devices for Visual Storytelling for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/reversing-webp-formats-in-google-chrome-for-pc-folks/"><u>Reversing WebP Formats in Google Chrome, for PC Folks</u></a></li>
-<li><a href="https://windows11.techidaily.com/trusting-websites-in-windows-11-a-quick-guide/"><u>Trusting Websites in Windows 11: A Quick Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-resolving-connection-issues-with-airpods-on-windows-pcs-windows-10-and-11/"><u>Ultimate Guide: Resolving Connection Issues with AirPods on Windows PCs (Windows 10 & 11)</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-evolution-the-remarkable-journey-of-7-ancient-traits-into-11/"><u>Windows Evolution: The Remarkable Journey of 7 Ancient Traits Into 11</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-elevate-your-farming-adventures-with-stardews-top-7-mods/"><u>[New] In 2024, Elevate Your Farming Adventures with Stardew's Top 7 Mods</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-ideal-voice-modification-programs-for-dynamic-virtual-personalities/"><u>[Updated] Ideal Voice-Modification Programs for Dynamic Virtual Personalities</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-achieving-high-definition-zoom-calls-with-filter-skills/"><u>2024 Approved Achieving High-Definition Zoom Calls with Filter Skills</u></a></li>
+<li><a href="https://windows11.techidaily.com/crafting-iso-images-from-your-windows-esd-originals/"><u>Crafting ISO Images From Your Windows' ESD Originals</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-your-workflow-in-windows-11-run-command-innovation-guide/"><u>Elevate Your Workflow in Windows 11: Run Command Innovation Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-click-rate-three-methods-for-mouse-double-click-tweaking/"><u>Enhance Click Rate: Three Methods for Mouse Double-Click Tweaking</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-epson-wf-2760-driver-software-for-your-pc-on-windows-11108/"><u>Get the Latest Epson WF-2760 Driver Software for Your PC on Windows 11/10/8</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-add-new-submenus-to-windows-11s-desktop-context-menu/"><u>How to Add New Submenus to Windows 11’S Desktop Context Menu</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-elevate-your-influence-with-masterful-facebook-story-techniques/"><u>In 2024, Elevate Your Influence with Masterful Facebook Story Techniques</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/mastering-igtv-strategies-for-uploading-horizontal-videos-for-2024/"><u>Mastering IGTV Strategies for Uploading Horizontal Videos for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-no-supported-devices-found-in-windows-11/"><u>Overcoming No Supported Devices Found in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-access-to-any-language-hotkeys-for-efficient-translation-in-windows-os/"><u>Quick Access to Any Language: Hotkeys for Efficient Translation in Windows OS</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/snap-the-truth-your-manual-to-authenticity-on-instagram-for-2024/"><u>Snap the Truth Your Manual to Authenticity on Instagram for 2024</u></a></li>
 </ul></div>
 

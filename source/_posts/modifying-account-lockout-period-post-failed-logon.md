@@ -1,7 +1,7 @@
 ---
 title: Modifying Account Lockout Period Post-Failed Logon
-date: 2024-08-15T16:19:54.039Z
-updated: 2024-08-16T16:19:54.039Z
+date: 2024-12-03T17:36:47.523Z
+updated: 2024-12-10T18:18:38.716Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/98af3c33462a260586336a96ddc2cbdb473875d7a
 
  Here’s how to change how long someone using a specific Windows machine is locked out if they enter the wrong login credentials a certain number of times. You must be signed in as an administrator to change this policy.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Change the Duration a User Is Locked Out of Their Account via Local Security Policy
 
  This method will work as long as the system is running the Pro, Enterprise, or Education edition of Windows 10 or 11\.
@@ -32,12 +36,17 @@ thumbnail: https://thmb.techidaily.com/98af3c33462a260586336a96ddc2cbdb473875d7a
 4. On the right pane, double-click on **Account lockout duration**.  
 ![Increase or decrease local account lockout](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/03-change-local-account-lockout-duration.jpg)
 5. Type in a number between zero and 99,999, and hit **OK**. This will set how long (in minutes) the system will need before it accepts another login attempt.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Choose how long a local account is locked out](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/04-set-local-account-lockout-duration.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Change the Account Lockout Duration in Windows via the Command Prompt
 
  If the system isn’t running the Pro, Enterprise, or Education edition of Windows 10 or 11, you’ll need to use the command prompt to change how long a user must wait before signing in again after failed login attempts.
@@ -46,15 +55,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Type the following command into the console and hit **Enter**:  
 `net accounts`  
 ![Opening Windows account lockout policies via command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/05-command-prompt-net-accounts.jpg)
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. This will pull up information, among other things, about how long this account lockout duration is currently set.
 4. To change account lockout duration on Windows 10 and 11, type the following command into the console and hit **Enter.** Replace the number “60” in the command with any other number from zero to 99,999 to set how many minutes a user will have to wait before being allowed to try and log in again.  
 `net accounts /lockoutduration:60`  
 ![Use the command prompt to change account lockout duration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/06-change-account-lockout-duration-command-prompt.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Setting this value to zero means the locked-out user will not be able to sign in unless an administrator intervenes and unlocks it. Also, the account lock-out duration must be greater than or equal to the time for the system to [automatically reset the number of failed login attempts](https://www.makeuseof.com/reset-account-lockout-counter-windows/).
@@ -62,15 +69,14 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  If you don’t ever want users to be locked out of their local accounts, you must [change the number of failed login attempts](https://www.makeuseof.com/how-limit-number-failed-login-attempts-windows-10/) a user is allowed.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Find the Balance Between Security and Convenience
 
  Setting account lockout duration too high will cause inconvenience, but if you set it to zero, an administrator will have to be contacted each time a user locks themselves out. Find a balance between security and convenience when it comes to changing how long a user is locked out after a set number of failed login attempts.
 
  Here’s how to change how long someone using a specific Windows machine is locked out if they enter the wrong login credentials a certain number of times. You must be signed in as an administrator to change this policy.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -78,3 +84,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-navigate-the-transfer-of-social-media-photos-to-hard-drive/"><u>[New] 2024 Approved Navigate the Transfer of Social Media Photos to Hard Drive</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-vimeoifytweets-audiovideo-tweet-tool/"><u>[New] 2024 Approved VimeoifyTweets Audio/Video Tweet Tool</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-is-it-possible-to-quick-review-on-windows-heres-how/"><u>[New] Is It Possible to Quick Review on Windows? Here’s How</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-navigating-the-nuances-of-cross-system-skype-group-communication-effectively-and-efficiently/"><u>[New] Navigating the Nuances of Cross-System Skype Group Communication Effectively and Efficiently</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-the-ultimate-guide-to-splitting-the-action-multiscreen-strategies-on-social-media-for-2024/"><u>[Updated] The Ultimate Guide to Splitting the Action Multiscreen Strategies on Social Media for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/establishing-controls-over-insider-build-exposure/"><u>Establishing Controls Over Insider Build Exposure</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/r-youtube-management-a-detailed-plan-for-watch-later-and-playlists/"><u>Master YouTube Management A Detailed Plan for Watch Later and Playlists</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-errors-in-windows-performance-dashboard/"><u>Overcoming Errors in Windows Performance Dashboard</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fixes-for-wows-unexpected-shutdown-error-132-on-win11/"><u>Quick Fixes for WoW’s Unexpected Shutdown (Error 132) on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-disappearing-windows-during-bootup/"><u>Resolving Disappearing Windows During Bootup</u></a></li>
+<li><a href="https://windows11.techidaily.com/secure-a-blissful-experience-with-no-bluescreens-on-win11/"><u>Secure a Blissful Experience with No Bluescreens on Win11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-turings-assessment-and-challengers-in-limelight/"><u>Understanding Turing's Assessment & Challengers in Limelight</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-potential-a-comprehensive-review-of-crucial-pros-high-speed-16gb-ddr5-ram-at-6000mhz/"><u>Unveiling the Potential: A Comprehensive Review of Crucial Pro's High-Speed 16GB DDR5 RAM at 6000MHz</u></a></li>
+</ul></div>
+

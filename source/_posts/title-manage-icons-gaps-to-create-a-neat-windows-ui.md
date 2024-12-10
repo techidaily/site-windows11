@@ -1,7 +1,7 @@
 ---
 title: "Title: Manage Icons Gaps to Create a Neat Windows UI"
-date: 2024-12-01T01:14:40.786Z
-updated: 2024-12-04T04:44:28.923Z
+date: 2024-12-05T19:28:03.498Z
+updated: 2024-12-10T21:14:37.274Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Change Desktop Icon Spacing By Manually Editing the Registry
 
  The registry is one big database of configuration settings that you can edit to customize Windows. It includes a WindowsMetrics key that incorporates IconSpacing and IconVerticalSpacing strings.
@@ -41,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 4. Select the**WindowMetrics** key.  
 ![The WindowMetrics key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/windowsmetrics-key.jpg)
 5. Double-click the**WindowMetrics** key's**IconSpacing** string, which changes the horizontal spacing for desktop icons.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Then erase the current**\-1125** number from the Value data box.
 2. Enter a replacement value with a minus (-) sign in front of it. For example, entering**\-1180** will slightly increase the horizontal spacing.  
@@ -60,11 +52,11 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 
 ![New desktop icon spacing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/new-icon-spacing.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now you might wonder how you can restore the default desktop icon spacing. The default spacing value for both the strings is**\-1125** , which amounts to 75 pixels. So, return to the WindowMetric registry key and enter**\-1125** for both the**IconString** and**IconVerticalSpacing** string values. Thereafter, restart your PC to restore the default spacing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Change Desktop Icon Spacing With Winaero Tweaker
 
@@ -76,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 4. Right-click the winaerotweaker.zip file and select its**Extract All** option.  
 ![The Extract All button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/extract-all-button4.jpg)
 5. Select the checkbox for the**Show extracted files when complete** setting on the Extract Compressed (Zipped) Folders window.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![The Extract Compressed window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/the-extract-compressed-window3.jpg)
 
@@ -93,6 +89,10 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 ![The Icons option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/icons-option.jpg)
 5. Then drag the slider for the**Vertical spacing** bar left or right to adjust the amount of vertical space for desktop icons.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Press the**Apply changes** button.
 7. Click the**Sign out now** option to restart your PC and apply the icon spacing changes.
 
@@ -104,13 +104,13 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 
 ![The Font window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/font-window.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  There you can select a different icon font from a wide variety of alternatives in the**Font** menu. The**Font style** menu there includes 12 different styles for icon fonts to choose from. Input a higher or lower value in the**Size** box to increase or decrease the font size. You can also select**Strikeout** and**Underline** text effect options there.
 
  Click**OK** when you’ve customized the desktop icon font, and then select the**Apply Changes** and**Sign out** now options.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Change Desktop Icon Spacing With DesktopOK
 
@@ -127,14 +127,14 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 ![The Windows-Metrics option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-metrics-option.jpg)
 3. Select**Windows-Metrics** on the**Tools** menu.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click**Yes** on the confirmation dialog prompt.
 5. Drag the**Horizontal Space** bar’s slider to change horizontal desktop icon spacing.  
 ![The spacing bars](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/spacing-bars.jpg)
 6. Then drag the**Vertical Space** bar’s slider to adjust vertical icon spacing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also change desktop icon sizes from the Windows-Metrics window. Click the**Desktop icon size** drop-down menu to choose an alternative size from there. If you select the largest icon sizes, you’ll need to increase the spacing between them to prevent them overlapping.
 
@@ -157,21 +157,21 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-top-10-no-cost-youtube-sbd-tools/"><u>[New] Top 10 No-Cost YouTube SBD Tools</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-final-cut-pro-x-the-ultimate-guide-for-vertical-video-posts/"><u>[Updated] 2024 Approved Final Cut Pro X The Ultimate Guide for Vertical Video Posts</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-honor-play-8t-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Honor Play 8T Without Power Button | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/attempted-switch-from-dpc-error-on-windows-solved/"><u>ATTEMPTED SWITCH FROM DPC Error on Windows [Solved]</u></a></li>
-<li><a href="https://windows11.techidaily.com/evaluating-the-significance-of-audio-device-isolation-in-windows/"><u>Evaluating the Significance of Audio Device Isolation in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-to-cease-built-in-desktop-keyboard-in-windows-os/"><u>Guide to Cease Built-In Desktop Keyboard in Windows OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-to-clearing-winsec-error-limited-administrator/"><u>Guide to Clearing WinSec Error - 'Limited Administrator'</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-tackle-intermittent-audio-issues-on-your-pc-running-windows-10-or-7-solutions-unveiled/"><u>How to Tackle Intermittent Audio Issues on Your PC Running Windows 10 or 7: Solutions Unveiled</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-how-to-export-iphone-images-as-pdf-from-jpeg-and-png-files/"><u>In 2024, How to Export iPhone Images as PDF From JPEG & PNG Files</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-winerror-fixes-for-oculus-app-installation/"><u>Mastering WinError Fixes for Oculus App Installation</u></a></li>
-<li><a href="https://windows11.techidaily.com/rejuvenating-pcs-essential-13-tricks-for-restoring-systems/"><u>Rejuvenating PCs: Essential 13 Tricks for Restoring Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-art-of-crafting-a-better-windows-11/"><u>The Art of Crafting a Better Windows 11</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-definitive-guide-to-tech-specifications-wisdom-from-toms-computer-corner/"><u>The Definitive Guide to Tech Specifications - Wisdom From Tom's Computer Corner</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2682491-9781515408031-the-greatest-thing-ever-known/"><u>The Greatest Thing Ever Known | Free Book</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722015734680-unveiling-the-top-8-ai-mobile-applications-boost-your-phones-capabilities-today/"><u>Unveiling the Top 8 AI Mobile Applications: Boost Your Phone's Capabilities Today!</u></a></li>
-<li><a href="https://windows11.techidaily.com/why-does-tasker-show-other-processes/"><u>Why Does Tasker Show Other Processes?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-audible-annotators-top-selections-for-offline-text-conversion/"><u>[New] Audible Annotators Top Selections for Offline Text Conversion</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-behind-the-scenes-of-music-enhanced-snapchats/"><u>[Updated] 2024 Approved Behind the Scenes of Music-Enhanced Snapchats</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-entrepreneurs-guide-to-snapchat-advertising-for-2024/"><u>[Updated] The Entrepreneur's Guide to Snapchat Advertising for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-hdr-brilliance-justified-choice-or-overkill/"><u>2024 Approved HDR Brilliance Justified Choice or Overkill?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-lava-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Lava Phone When You Forget the Password</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/boxes-that-speak-love-the-top-10-websites-offering-custom-wrapped-treasures/"><u>Boxes That Speak Love The Top 10 Websites Offering Custom Wrapped Treasures</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhanced-compatibility-for-usbasp-with-wxp78110-os/"><u>Enhanced Compatibility for USBasp with WXP/7/8.1/10 OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-silencing-game-recommendations-on-w11/"><u>Guide to Silencing Game Recommendations on W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-alleviate-windows-1011s-devastating-discord-js-failure/"><u>How to Alleviate Windows 10/11'S Devastating Discord JS Failure</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-nubia-z50-ultra-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Nubia Z50 Ultra Quickly? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-fast-track-to-1000-subscribers-in-youtube-landscape/"><u>In 2024, Fast-Track To 1,000 Subscribers in Youtube Landscape</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-your-drive-enable-file-cleanup-in-win11-operating-system/"><u>Optimize Your Drive: Enable File Cleanup in Win11 Operating System</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-printer-in-use-issue-on-windows-11/"><u>Overcoming Printer In Use Issue on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-correct-wsl-error-code-4294967295-in-windows/"><u>Steps to Correct WSL Error Code 4294967295 in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleash-speed-and-efficiency-windows-shortcuts-for-uwp/"><u>Unleash Speed and Efficiency: Windows Shortcuts for UWP</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-advanced-file-navigation-skills-steering-clear-of-ls/"><u>Unraveling Advanced File Navigation Skills: Steering Clear of LS</u></a></li>
 </ul></div>
 

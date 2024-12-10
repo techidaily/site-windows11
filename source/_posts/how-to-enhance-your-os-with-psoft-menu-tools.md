@@ -1,7 +1,7 @@
 ---
 title: How to Enhance Your OS with PSoft Menu Tools
-date: 2024-08-15T16:20:43.363Z
-updated: 2024-08-16T16:20:43.363Z
+date: 2024-12-04T20:41:35.151Z
+updated: 2024-12-10T20:03:57.020Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/d8b681dac20745dffc0590df4e8c90e2635d89e08
 ![The self-extracting archive for SyMenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/self-extracthing-archive.jpg)
 8. Then click the**Extract** option for the archive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now it's time to get SyMenu up and running:
 
 1. Double-click the**SyMenu.exe** file.
@@ -44,9 +48,6 @@ Now it's time to get SyMenu up and running:
 5. Finally, select an**Advanced** menu structure option and click**Next** .  
 ![The menu structure options for SyMenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-menu-options.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## How to Use SyMenu on Windows
 
  Now you should see a floating "Sy drive" icon on the desktop area. Click that drive icon to view the portable software menu. That menu will include**Search items** ,**My Computer** , and**Tools** submenus.
@@ -60,22 +61,17 @@ Now it's time to get SyMenu up and running:
  Then you can launch the added software from the app menu. To view more options for an app, right-click its entry on the menu. You can select**Run elevated** ,**Open folder** , and**Delete item** options from a program’s submenu.
 
 ![An app submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/program-options.jpg)
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or you can add new apps to the menu from the**SyMenu** program suite. To do so, select the**Get new apps** option on the menu. Choose portable software in the**SyMenu Suite** tab, and select the**Download** option.
 
 ![The SyMenu app suite](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-symenu-suite.jpg)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 
  You can customize colors for the menu from the SyMenu options. Select**Tools** \>**Options** to bring up that window. Click**Theme** to view the options shown below. You can change the menu’s colors by clicking the palette boxes and choosing alternatives.
 
 ![The Theme tab for SyMenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-theme-tab.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The SyMenu options window also includes a**Structure** tab. You can restructure the menu by dragging items up and down the**Menu structure** box. To add more separators, drag**<Separator>** from available elements onto a menu position. Select**Apply** to save all changes made in the SyMenu options window.
@@ -98,18 +94,23 @@ Now it's time to get SyMenu up and running:
 3. Select**Next** \>**Yes** when prompted to create a new LiberKey folder.
 4. Then select**Install** to add LiberKey to your USB stick.  
 ![The Install button for LiberKey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-install-option2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 5. Click**Finish** with the Launch LiberKey checkbox selected.
 
  Now you’ll see a LiberKey icon in the Windows system tray area. Click that system tray icon to view the menu. That menu has**Most used** and**Recent** which will fill up when you start using LiberKey a bit more. It also includes a pie chart icon that shows the amount of free and used drive storage when you hover the cursor over it.
 
 ![The LiberKey menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-liberkey-menu.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  LiberKeys has a smaller floating menu. You can access it by pressing the**Shift** +**Windows** key hotkey. That keyboard shortcut opens a small menu that includes the apps added to LiberKey.
 
 ![The small LiberKey menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-small-liberkey-menu.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  First, you’ll need to add a new menu tab for your portable software. Click the small**User menus** arrow button to select**Create new menu** . Input a title for the tab in the Menu name box and select**OK** .
 
@@ -118,18 +119,15 @@ Now it's time to get SyMenu up and running:
  Then you can add software to the new menu tab. Right-click anywhere in the tab and select**New shortcut** \>**Application/file** . Choose a portable app to include on the menu and click**Open** .
 
 ![The New shortcut option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-new-shortcut-submenu.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 
  You can also add categories for grouping software to menu tabs. Right-click a menu tab to select the**New Category** option. Input a title in the name box and select**OK** . Then you can drag app shortcuts on LiberKey into category submenus.
 
  LiberKeys, like SyMenu, has portable apps you can download and add to the menu. Open the LiberKeys website, and select a program to add to the menu from there. Click the**Install on my LiberKey** option to add the portable software to the menu. You’ll see a new tab on the menu that includes all apps added to the menu from the software’s website.
 
 ![The portable app section of the LiberKey website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-liberkey-website.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To customize the menu, select**LiberKey Tools** \>**Configuration** . You can change the menu’s color scheme from the Color tab on the Configuration window. Choose a primary menu color on that tab, and select**Apply** to save it.
@@ -139,11 +137,16 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  You can reconfigure LiberKey’s effects from the**User Interface** tab on the Configuration window. Select the disable options there to turn off the menu’s animation effects. To add an analog clock to the menu’s LiberKey logo, select the**Displayclock** checkbox. You can also adjust the menu open delay by selecting**Custom** and entering an alternative millisecond value.
 
 ![The User interface settings for LiberKey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-user-interface-settings.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you're a student on the go, be sure to check out the[best free portable apps for students you can take anywhere](https://www.makeuseof.com/free-portable-apps-for-students/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Make Your Portable Apps More Accessible on Windows
 
@@ -155,8 +158,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -164,4 +165,17 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-making-text-dance-2-creative-animation-strategies/"><u>[Updated] 2024 Approved Making Text Dance 2 Creative Animation Strategies</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-resolve-code-0x0001-issue-with-nvidia-experience/"><u>How to Resolve Code 0X0001 Issue with Nvidia Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/java-gaming-review-a-focused-look-at-best-aspects/"><u>Java Gaming Review: A Focused Look at Best Aspects</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/maximizing-team-productivity-with-snap-camera-integration-for-2024/"><u>Maximizing Team Productivity with Snap Camera Integration for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-app-malfunctions-7-effective-strategies/"><u>Overcoming Windows App Malfunctions: 7 Effective Strategies</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/premier-audio-archivers-for-teachings-for-2024/"><u>Premier Audio Archivers for Teachings for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/protect-your-mobile-device-the-ultimate-ranking-of-iphone-antivirus-software/"><u>Protect Your Mobile Device: The Ultimate Ranking of iPhone Antivirus Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/return-to-simplicity-using-icons-for-the-windows-11-search-bar/"><u>Return to Simplicity: Using Icons for the Windows 11 Search Bar</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/start-with-smart-edits-10-tips-for-new-photoshop-users-for-2024/"><u>Start with Smart Edits 10 Tips for New Photoshop Users for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-the-power-of-three-column-widgets-in-win11/"><u>Unlocking the Power of Three-Column Widgets in Win11</u></a></li>
+</ul></div>
 

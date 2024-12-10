@@ -1,7 +1,7 @@
 ---
 title: Mastering the Use of Microsoft Family Safety
-date: 2024-08-15T16:21:13.242Z
-updated: 2024-08-16T16:21:13.242Z
+date: 2024-12-05T20:40:58.497Z
+updated: 2024-12-10T16:10:37.092Z
 tags:
   - windows10
   - windows11
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/ee736977879e7c042699ccb0ba782ae72fcd626a8
 ## What Is Microsoft Family Safety?
 
 ![microsoft family safety](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microsoft-family-safety.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you have a family, then it makes perfect sense you'd want to[protect your children online](https://www.makeuseof.com/child-online-safety-tips/) in every way. In this case, Microsoft's Family Safety will be of huge help.
 
@@ -68,21 +72,16 @@ Here's how you can enable Screen Time:
 4. Finally, to set the screen time, click on**Turn limits on** . You will have the option to pick up from either a**Windows 10** or**Xbox console** .
 
 ![edit time limit windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/edit-time-limit-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 
  You will get a new dialog box to choose a new day and time from there. Set your new screen time limit by clicking on**Done** . That's it; the screen time feature will be enabled on your PC from here on.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Find Your Family
 
 ![find your family](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/find-your-family.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 
  Perhaps a little menacing for those of us conscious of cybersecurity, the**Find Your Family** app will help you keep tabs on the live location of your family members, provided they are all using Microsoft products. While this feature can have drawbacks of its own, Find Your Family will certainly give a sense of certainty to its users.
 
@@ -102,6 +101,10 @@ Firstly, make sure you have checked all your location permissions:
 
  That's it; do this, and location sharing will be turned on your Family Safety account from here on.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Activity Reporting
 
  With Activity Reporting enabled on your PC, you get direct access to your family's device usage. Basically, how they use it, what they're spending their time most on, and for how long—Activity Reporting gives you all of this information in a single place. Again, you have two ways to go about this: through the website, or via the Family Safety app.
@@ -118,9 +121,6 @@ Firstly, make sure you have checked all your location permissions:
 * Select the member account you'd like to enable reporting.
 * Click on**Settings** and toggle on the**Activity reporting** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Spending
 
  Do your family members splurge your money on vanity purchases? While buying a few things here and there is not a big deal, however, if your kids are used to spending money online irresponsibly, a more restricted approach to spending might be more suited.
@@ -136,16 +136,21 @@ Here's how you can add money to your account:
 
 ![spending](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/spending.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As soon as you do this, your account will receive a new payment. From hereon, your family members are free to make purchases under the pre-set budget set by you.
 
  Of course, if there's a deeper financial problem causing bad spending habits, this will be a band-aid over a bigger issue. As such, check out[how to break bad online shopping habits](https://www.makeuseof.com/ways-break-bad-online-shopping-habits/) for more tips on toning the spending down.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Family Notebook
 
 ![family notebook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/family-notebook.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can plan and manage all your task or activities for days (or even weeks) from a single, personal app on your smartphone. However, if you're already a die-hard Microsoft user, why not make the most out of Family Notebook and its handy features?
 
@@ -154,9 +159,6 @@ Here's how you can add money to your account:
  You'll end up in the**Family Notebook** section of your OneNote as soon as you do this. From there, you will be taken straight to the Introduction page of your Family Notebook, as shown on the image below.
 
 ![microsoft family notebook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microsoft-family-notebook.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  To get a full overview of Family Notebook, check out[Microsoft's short blog on Family Notebook](https://blogs.windows.com/windowsexperience/2018/05/14/windows-10-tip-organize-your-busy-lives-with-a-family-notebook-in-onenote/) .
 
@@ -164,14 +166,11 @@ Here's how you can add money to your account:
 
  Family Safety is Microsoft's attempt to help you take back control of how your family enjoys or uses different Microsoft products. With a little effort and understanding, you, too, can limit how you or your family members interact with the internet through their Microsoft products, and use technology in a more healthy, efficient manner.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -180,4 +179,20 @@ Here's how you can add money to your account:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-top-android-cloud-saving-tools/"><u>[New] Top Android Cloud Saving Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/1-intelligent-workspace-companion-how-stardock-desktopgpt-surges-past-traditional-copilots/"><u>1. Intelligent Workspace Companion: How Stardock DesktopGPT Surges Past Traditional Copilots</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-features-and-capabilities-of-the-telegram-chat-app/"><u>Exploring the Features and Capabilities of the Telegram Chat App</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Infinix Smart 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-samsung-galaxy-s23-ultra-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Samsung Galaxy S23 Ultra Device</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlock-your-phones-personality-with-a-customized-whatsapp-tone/"><u>In 2024, Unlock Your Phone's Personality with a Customized WhatsApp Tone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/protect-your-system-with-msis-latest-fix-agesa-120-updates-tackle-amd-zenbleed-issue-once-and-for-all/"><u>Protect Your System with MSI's Latest Fix: AGESA 1.2.0 Updates Tackle AMD Zenbleed Issue Once and For All</u></a></li>
+<li><a href="https://win-blog.techidaily.com/splitgate-optimization-tutorial-how-to-address-low-frame-rate-and-smooth-out-gameplay-interruptions/"><u>Splitgate Optimization Tutorial: How to Address Low Frame Rate and Smooth Out Gameplay Interruptions</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-the-release-of-windows-11-version-24h2-eligibility-and-preparations-needed-for-pcs/"><u>Understanding the Release of Windows 11 Version 24H2: Eligibility and Preparations Needed for PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-the-role-of-ntuserdat-the-essential-windows-registry-file/"><u>Understanding the Role of NTUSER.DAT: The Essential Windows Registry File</u></a></li>
+<li><a href="https://windows11.techidaily.com/unintentionally-deleted-information-during-file-transfer-on-pc-discover-how-to-retrieve-what-youve-missed/"><u>Unintentionally Deleted Information During File Transfer on PC? Discover How to Retrieve What You've Missed!</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-tutorial-easily-alter-the-size-of-desktop-and-file-explorer-icons/"><u>Windows 11 Tutorial: Easily Alter the Size of Desktop and File Explorer Icons</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11s-updated-start-menu-navigating-the-latest-grid-based-design-changes/"><u>Windows 11'S Updated Start Menu: Navigating the Latest Grid-Based Design Changes</u></a></li>
+</ul></div>
 

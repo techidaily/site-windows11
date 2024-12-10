@@ -1,7 +1,7 @@
 ---
 title: Overcome Printer Errors in Windows 11 Easily
-date: 2024-08-15T16:17:14.552Z
-updated: 2024-08-16T16:17:14.552Z
+date: 2024-12-06T16:55:10.333Z
+updated: 2024-12-10T17:52:18.768Z
 tags:
   - windows10
   - windows11
@@ -37,8 +37,9 @@ thumbnail: https://thmb.techidaily.com/c9a47d41b34d7090487ad8a1c43825738349119fb
  If none of the aforementioned basic checks and fixes resolves the issue, you can start applying the remaining fixes.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Run the Printer Troubleshooter
 
  Start investigating the problem by running the Printer troubleshooter. It's a built-in utility in Windows that helps users diagnose issues with their printers and provides suggestions for fixing them.
@@ -46,8 +47,9 @@ thumbnail: https://thmb.techidaily.com/c9a47d41b34d7090487ad8a1c43825738349119fb
  To run the troubleshooter, open **Settings > System > Troubleshoot > Other troubleshooters** . Here, you will find the**Printer** troubleshooter among the list of Windows troubleshooters. Click on the**Run** button next to it to activate it.
 
 ![list of Windows troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/list-of-windows-troubleshooters.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After that, follow the on-screen instructions to assist the troubleshooter in diagnosing the printer's problem. If there are any software issues impeding your printing process, the troubleshooter will likely show you how to fix them.
@@ -60,10 +62,12 @@ thumbnail: https://thmb.techidaily.com/c9a47d41b34d7090487ad8a1c43825738349119fb
 2. Scroll down and expand the**Print Queues** category.
 3. Right-click on**Microsoft Print to PDF** and select**Update driver** .  
 ![menu of options on Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/device-manager-options-list.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 4. Selecting**Search automatically for updated driver software** in Windows 11 runs a check through your PC for updates.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![update drivers Microsoft print to pdf](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/update-drivers-microsoft-print-to-pdf.jpg)
 
  If it shows the best device driver already installed, you can still give the manual option a try. To do this:
@@ -73,6 +77,10 @@ thumbnail: https://thmb.techidaily.com/c9a47d41b34d7090487ad8a1c43825738349119fb
 3. Select**Device instance path** from the drop-down list under**Property** and then copy the**Value** that appears.
 4. Go to the[DriverPack database](https://driverpack.io/en/catalog) .
 5. Paste the copied value in the search box, download a suitable driver and then install it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Restart the Print Spooler Service
 
@@ -85,16 +93,14 @@ thumbnail: https://thmb.techidaily.com/c9a47d41b34d7090487ad8a1c43825738349119fb
 3. In services, find**Print spooler** and double-click on it.
 4. Proceed by clicking on**Stop** .  
 ![print spooler properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/print-spooler-properties.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Then follow the path**C:\\Windows\\system32\\spoolsv.exe** and delete all the files present in the folder.  
 ![content in spool folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/spool-folder.jpg)
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Now, all you have to do is go back to**Services** and manually start the print spooler service again.
 7. Restart your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Recheck Your Default Printer
 
@@ -109,18 +115,12 @@ thumbnail: https://thmb.techidaily.com/c9a47d41b34d7090487ad8a1c43825738349119fb
 6. Select**Configure Port > Apply > OK** .  
 ![different ports in printer properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/printer-properties-list.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Disable the Windows Defender Firewall
 
  If your problem is still not solved the most probable culprit could be the Windows Defender firewall. It's possible that your firewall has been configured too strictly, preventing the printer from interacting properly. So, turning off the firewall could fix the probem.
 
  If you have never disabled the firewall before, check out our guide on[how to temporarily disable the Microsoft Defender firewall](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) .
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Check for New Windows Updates
 
  Windows releases updates periodically to fix existing bugs within the operating system. If you keep the updates paused or don't let them install on time, you're likely to run into unforeseen issues. To ensure that's not the case, see if there is a new update available. If there is, you should install it immediately.
@@ -134,13 +134,18 @@ Here's how you can check that:
 
  Windows will automatically search for updates, and if any new version is available, it will be installed, thus resolving your printer error.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Remove Your Last Windows 11 Update
 
  Ironically, a new Windows update can also invite bugs that render your printer useless. If you noticed your printer stopped working right after a recent Windows update, you will need to delete the update from your computer.
 
 ![two boxes highlighting Windows Update and Update history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/windows-update-in-settings.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  For this, head over to**Settings > Windows Update > Update history.** Here, scroll down and go to**Uninstall updates** located under**Related settings** . This action will prompt open a list of Windows updates where you must select the latest one and click on**Uninstall** .
@@ -158,9 +163,6 @@ To go back to a restore point:
 3. Type**"Recovery"** in the Control Panel’s search box, and go to the Recovery settings.
 4. Select**O** **pen System Restore** .  
 ![advanced recovery tools in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/advanced-recovery-tools1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. The System Restore dialogue box will launch open. Click on**Next** to proceed forward.
 6. Select the restore point to restore your computer back to when your printer was functioning without a hitch.
 7. Again, click on**Next** and then**Finish** to confirm your restore point.
@@ -178,8 +180,6 @@ To go back to a restore point:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,4 +187,26 @@ To go back to a restore point:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-cutting-edge-methods-for-inserting-vimeo-content-in-ppts-for-2024/"><u>[New] Cutting-Edge Methods for Inserting Vimeo Content in PPTs for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-art-of-inspiration-crafting-captivating-ig-posts-for-2024/"><u>[New] The Art of Inspiration Crafting Captivating IG Posts for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-explore-8-premium-websites-for-3d-text-psdfiles/"><u>[Updated] 2024 Approved Explore 8 Premium Websites for 3D Text PSDFiles</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-social-sync-combining-ig-and-youtube-videos/"><u>[Updated] 2024 Approved Social Sync Combining IG and YouTube Videos</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-stay-snappin-strategies-for-unbroken-streaks/"><u>2024 Approved Stay Snappin' Strategies for Unbroken Streaks</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-guide-to-fixing-webcam-error-codes-on-w1011/"><u>Expert Guide to Fixing Webcam Error Codes on W10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/guiding-users-through-printer-access-errors/"><u>Guiding Users Through Printer Access Errors</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-vivo-y78-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Vivo Y78 5G to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/maintaining-originality-of-windows-safescreensaver/"><u>Maintaining Originality of Windows SafeScreensaver</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-boot-up-discover-4-ways-to-launch-windows-10-in-safe-mode-complete-with-visual-guides/"><u>Mastering Boot-Up: Discover 4 Ways to Launch Windows 10 in Safe Mode, Complete with Visual Guides</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-windows-woes-fixing-the-elusive-helperdll-not-found-problems/"><u>Navigating Windows Woes: Fixing the Elusive Helper.dll Not Found Problems</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-non-active-windows-volume-snapshot/"><u>Reviving Non-Active Windows Volume Snapshot</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-integration-of-google-play-store-in-win11/"><u>Seamless Integration of Google Play Store in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/secure-your-connection-top-fixes-for-hidden-wireless-networks-in-windows/"><u>Secure Your Connection: Top Fixes for Hidden Wireless Networks in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-your-windows-11-experience/"><u>Streamlining Your Windows 11 Experience</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-filmmakers-handbook-secrets-to-stellar-youtube-video-production-for-2024/"><u>The Filmmaker's Handbook Secrets to Stellar YouTube Video Production for 2024</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-motorola-moto-g73-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Motorola Moto G73 5G? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleash-clear-sound-top-5-free-windows-cutters/"><u>Unleash Clear Sound: Top 5 Free Windows Cutters</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-at-wifi-less-windows-11-setup/"><u>Winning at Wifi-Less Windows 11 Setup</u></a></li>
+</ul></div>
 

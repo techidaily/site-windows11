@@ -1,7 +1,7 @@
 ---
 title: "Fast-Forwarding Copy & Paste: Custom Hotkeys for Text Snaps in Win11"
-date: 2024-11-26T17:01:40.555Z
-updated: 2024-12-04T05:23:38.124Z
+date: 2024-12-04T18:37:42.198Z
+updated: 2024-12-10T19:44:17.572Z
 tags:
   - windows10
   - windows11
@@ -35,12 +35,17 @@ thumbnail: https://thmb.techidaily.com/270945824bfc208da598210ea9d10172c37fe105e
 4. Follow the steps in this guide about[unzipping files within Windows](https://www.makeuseof.com/unzip-files-windows-10/) to extract the QuickTextPaste archive.  
 ![The Extract Compressed (Zipped) Folders tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/extract-compressed-window.jpg)
 5. Double-click**QuickTextPaste\_x64.exe** to run QuickTextPaste.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Now input some text you want to set up a custom paste hotkey for within the**Add** **text** box.  
 ![The QuickTextPaste window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-quicktextpaste-window.jpg)
 7. Select the keys to include within your hotkey on the two drop-down menus at the bottom of the QuickTextPaste window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. Press the**Add** button. You should see your new hotkey listed within the Keyboard Shortcuts column.
@@ -67,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/270945824bfc208da598210ea9d10172c37fe105e
 ![The Extract All context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/extract-all-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Double-click**HotkeyP.exe** within the hotkeyp\_64bit folder.
@@ -79,19 +84,11 @@ thumbnail: https://thmb.techidaily.com/270945824bfc208da598210ea9d10172c37fe105e
 ![The Paste text option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/paste-text-option.jpg)
 5. Then input the text to paste within the**Parameters** box. That parameters box doesn’t seem to have any character number restriction for how long your pre-defined text can be.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Select one or more**Ctrl** ,**Alt** ,**Win** , and**Shift** checkboxes.
 7. Input a letter key within the text box to set the hotkey.
 8. Enter a title for the hotkey in the**Description** box.  
 ![The Hot Key window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/hot-key-window.jpg)
 9. Select**OK** to add the new custom paste hotkey.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now you’ll see the hotkey you’ve just set listed within the HotkeyP window. Press**Esc** to hide the HotkeyP in the system tray. Then open WordPad, Notepad, or another text editor to try out the hotkey. Press the custom hotkey you’ve set up to paste in its pre-defined text.
 
@@ -101,19 +98,23 @@ thumbnail: https://thmb.techidaily.com/270945824bfc208da598210ea9d10172c37fe105e
 
 ![The General tab in HotkeyP's Options window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-general-tab.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Creating Other Hotkeys With HotkeyP
 
  It’s also worth exploring the other options for creating hotkeys HotkeyP offers beyond pasting pre-defined text. For example, you can set up custom hotkeys for various system functions like shutting down, logging off, emptying the Recycle Bin, and opening the Programs and Features applet among others. To do so, click the**arrow (<)** button and**System** on the Hot Key window to choose one of those hotkey functions.
 
 ![The System hotkey options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/system-hotkey-options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or you can set up some custom window control hotkeys. Select**Window** on the command menu to view the various window keyboard shortcut options. There you can select**Always on Top** ,**Maximize window** ,**Minimize others** ,**Window snapshot,** **Close window** , and**Opacity** hotkey options, to name a few.
 
  You can set up a program keyboard shortcut by selecting an app’s path within the Hot Key window. Click the**ellipses (…)** button for the**Command** box to select a program for a keyboard shortcut to open. Then you can also select additional**Process priority** and**Run as administrator** settings for the software the hotkey launches.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Create Handy Hotkeys for Pasting Pre-Defined Text in Windows
 
@@ -134,18 +135,16 @@ thumbnail: https://thmb.techidaily.com/270945824bfc208da598210ea9d10172c37fe105e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-2023-updates-the-next-generation-of-samsung-k850u/"><u>[New] 2023 Updates - The Next Generation of Samsung K850U</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-high-definition-hardware-unveiled-by-gamers/"><u>[Updated] High-Definition Hardware Unveiled by Gamers</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-streamlined-video-submission-mmc-to-vimeo-journey-explained/"><u>[Updated] Streamlined Video Submission MMC to Vimeo Journey Explained</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/complete-guide-to-adding-and-enjoying-the-boys-add-on-via-matrix-aio-on-kodi-platform/"><u>Complete Guide to Adding and Enjoying the Boys Add-On via Matrix AIO on Kodi Platform</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/discover-the-leading-gaming-platforms-expert-reviews-and-rankings/"><u>Discover the Leading Gaming Platforms - Expert Reviews & Rankings</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-video-converter-software-for-pc-users/"><u>Essential Video Converter Software for PC Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/harness-the-power-of-windows-11-a-guide-to-7-effective-techniques/"><u>Harness the Power of Windows 11: A Guide to 7 Effective Techniques</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-infinix-hot-40i-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Infinix Hot 40i? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-capture-like-a-pro-gopro-model-comparison-guide/"><u>In 2024, Capture Like a Pro Gopro Model Comparison Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/lava-blaze-2-music-recovery-recover-deleted-music-from-lava-blaze-2-by-fonelab-android-recover-music/"><u>Lava Blaze 2 Music Recovery - Recover Deleted Music from Lava Blaze 2</u></a></li>
-<li><a href="https://extra-information.techidaily.com/reducing-sound-levels-gradually-with-easy-steps-in-lumafusion/"><u>Reducing Sound Levels Gradually with Easy Steps in Lumafusion</u></a></li>
-<li><a href="https://windows11.techidaily.com/reshaping-record-chronology-in-win8-with-7-tools/"><u>Reshaping Record Chronology in Win8 with 7 Tools</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-the-mystery-behind-disabled-hard-drives-on-your-win-11-system/"><u>Unveiling the Mystery Behind Disabled Hard Drives on Your Win 11 System</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-glowing-android-video-guide-simplified-methods/"><u>[Updated] Glowing Android Video Guide - Simplified Methods</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/dive-into-the-ultimate-world-of-iphone-vr/"><u>Dive Into the Ultimate World of iPhone VR</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/empowering-websites-with-cookiebot-technology-for-smarter-engagement/"><u>Empowering Websites with Cookiebot Technology – For Smarter Engagement</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-samsung-galaxy-m34-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Samsung Galaxy M34 5G Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-stop-windows-from-always-entering-cmos-mode-at-start-up/"><u>How to Stop Windows From Always Entering CMOS Mode at Start-Up</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-the-nuances-of-windows-maintenance-and-update-scheduling/"><u>Navigate the Nuances of Windows Maintenance & Update Scheduling</u></a></li>
+<li><a href="https://windows11.techidaily.com/reduce-keyboard-latency-in-win-os-with-top-7-hacks/"><u>Reduce Keyboard Latency in Win OS with Top 7 Hacks</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/ripristina-i-dati-di-un-ssd-non-avviabile-una-guida-dettagliata/"><u>Ripristina I Dati Di Un SSD Non Avviabile: Una Guida Dettagliata</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-lg-bp350-review-audiovisual-performance-analysis/"><u>The LG BP350 Review Audiovisual Performance Analysis</u></a></li>
+<li><a href="https://win-superb.techidaily.com/top-5-free-pc-to-pc-data-transfer-programs-ultimate-comparison-and-downloads/"><u>Top 5 Free PC-to-PC Data Transfer Programs: Ultimate Comparison and Downloads</u></a></li>
+<li><a href="https://windows11.techidaily.com/transforming-ideas-into-art-the-best-drawing-apps-ranked-in-win10/"><u>Transforming Ideas Into Art: The Best Drawing Apps Ranked in Win10</u></a></li>
 </ul></div>
 

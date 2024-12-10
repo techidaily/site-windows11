@@ -1,7 +1,7 @@
 ---
 title: Repairing Windows 11'S ISDone.dll File Failure
-date: 2024-12-02T02:41:36.375Z
-updated: 2024-12-03T19:55:02.578Z
+date: 2024-12-08T19:01:19.419Z
+updated: 2024-12-10T19:02:23.223Z
 tags:
   - windows10
   - windows11
@@ -25,15 +25,15 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Run the Game’s Installer With Admin Rights
 
  First, run the game’s setup file with elevated rights to ensure admin restrictions can’t cause the issue. As you’ll only need to install the game once, it’s not necessary to set the installer to[always run as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) . Open the folder that includes the game’s setup.exe. Right-click the game’s installer (setup) file and select its**Run as administrator** context menu option.
 
 ![The Run as administrator context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-run-as-administrator-context-menu-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Run the Game’s Installer in Compatibility Mode
 
@@ -57,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 ![The Set priority option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-set-priority-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Run System File and Image Scans
@@ -65,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
  System file corruption is another potential cause for the ISDone.dll error in Windows 11/10\. So, we recommend users run a System File Checker scan to address that possible cause. Check out our[guide about running the SFC tool](https://www.makeuseof.com/system-file-checker-sfc-windows/) for further details about how to apply this solution.
 
 ![The System File Checker command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-sfc-command.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In addition, you can also run a Deployment Image Servicing Management scan on top. That scan can resolve issues with the system image. You can run that utility in the Command Prompt by executing this command:
 
@@ -85,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
  For example, a PC with four GB RAM would have 4096 megabytes of memory. Then you would need to multiply 1.5 by 4096 to input a value of 6144 in the**Initial** box. Three times 4096 amounts to 12288, which would be the value to enter the**Maximum size** box.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Install Any Missing Visual C++ Redistributables
@@ -97,11 +93,19 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 ![The X64 download link for Visual Studio 2015-2022](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-download-link-for-visual-c.jpg)
 3. Double-click the**VC\_redist.x64.exe** file to open an installer window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Select the checkbox for agreeing to the license terms.  
 ![The Microsoft Visual C++ 2015-2022 runtime installer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-visual-c-installer-window.jpg)
 5. Click the Visual C++**Install** option.
 
  If the ISDone.dll installation issue arises for an old game, you might need to install missing Visual C++ runtimes that predate 2015\. In this case, you’ll need to repeat the above steps for older Visual C++ packs. Try downloading the 64-bit Visual Studio 2013 and 2012 packs from the same Microsoft page to install older missing runtime libraries.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Re-Register the Referenced ISDone DLL File
 
@@ -114,10 +118,6 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 `regsvr32 isdone.dll`  
 ![The regsvr32 command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-regsvr-command.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Temporarily Switch Off Your PC’s Antivirus Shield
 
  It’s not entirely unusual for antivirus apps to cause installation issues like the ISDone.dll error. You can ensure your antivirus tool isn’t interfering with the installation process by temporarily disabling its shield before attempting to install the game. Our[guide to disabling Microsoft Defender](https://www.makeuseof.com/how-to-turn-off-microsoft-defender-windows-11/) explains how to turn off the antivirus shield for the default Windows Security app.
@@ -125,7 +125,7 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 ![The Real-time protection option in Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-real-time-protection-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Users who’ve installed alternative security software packages on PCs will need to disable the third-party antivirus shields. To do that, click a system tray icon for an antivirus app to bring up its context menu. Then, select an option for turning off (or disabling) the antivirus shield.
@@ -139,7 +139,7 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 ![The Services tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-services-tab.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Our guide to[configuring a clean boot](https://www.makeuseof.com/clean-boot-windows-11/) tells you how to disable third-party startup apps and services with Task Manager and MSConfig. When you’ve set the clean boot and restarted Windows, try installing the game the ISDone.dll error occurs for. Then you can restore the original boot configuration afterward.
@@ -163,20 +163,18 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-become-a-gif-expert-in-snapchat-today/"><u>[New] Become a GIF Expert in Snapchat Today</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-blend-your-belief-with-mobile-melodies/"><u>[Updated] 2024 Approved Blend Your Belief with Mobile Melodies</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-can-i-browse-through-my-contacts-shared-material-in-messaging-in-2024/"><u>[Updated] Can I Browse Through My Contacts' Shared Material in Messaging, In 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-premium-5-hidden-video-access-tools/"><u>[Updated] Premium 5 Hidden Video Access Tools</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-overcoming-excessive-cpu-use-by-wudfhostexe-in-windows-10-systems/"><u>Effective Solutions for Overcoming Excessive CPU Use by wudfhost.exe in Windows 10 Systems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effortlessly-share-multiple-pictures-on-facebook-expert-strategies-revealed/"><u>Effortlessly Share Multiple Pictures on Facebook: Expert Strategies Revealed</u></a></li>
-<li><a href="https://windows11.techidaily.com/implementing-extended-firewall-protection-for-windows-11/"><u>Implementing Extended Firewall Protection for Windows 11</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-asus-rog-phone-8-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Asus ROG Phone 8 Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-hardware-cooling-on-microsoft-pcs/"><u>Mastering Hardware Cooling on Microsoft PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-family-safety-in-windows-11-for-guardians/"><u>Navigating Family Safety in Windows 11 for Guardians</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-methods-to-enable-fingertip-writing-on-windows-pcs/"><u>Quick Methods to Enable Fingertip Writing on Windows PCs</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/recording-revolution-tactics-for-extracting-live-data/"><u>Recording Revolution Tactics for Extracting LIVE Data</u></a></li>
-<li><a href="https://windows11.techidaily.com/reinstating-zoom-functionality-in-windows-11-error-1132/"><u>Reinstating Zoom Functionality in Windows 11 Error 1132</u></a></li>
-<li><a href="https://os-tips.techidaily.com/tech-giant-apple-relaxes-restrictions-on-iphone-spare-pieces-market/"><u>Tech Giant Apple Relaxes Restrictions on iPhone Spare Pieces Market</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11-note-saving-strategies-no-software/"><u>Windows 11 Note-Saving Strategies, No Software</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/1716069560578-updated-2024-approved-screen-savvy-secure-your-captures-chromebooks-top-4-techniques/"><u>[Updated] 2024 Approved Screen Savvy Secure Your Captures - Chromebook's Top 4 Techniques!</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-step-by-step-tutorial-for-transforming-profile-photographs-on-social-networks/"><u>[Updated] Step-by-Step Tutorial for Transforming Profile Photographs on Social Networks</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-clearer-path-to-organization-compact-explorer-setup/"><u>A Clearer Path to Organization: Compact Explorer Setup</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expertly-assessed-ultimate-guide-to-202er-robot-mops-features-comparisons-and-picks-zdnet/"><u>Expertly Assessed Ultimate Guide to 202Er Robot Mops: Features, Comparisons & Picks | ZDNET</u></a></li>
+<li><a href="https://win-tips.techidaily.com/fehlerbehebung-windows-11-kann-nicht-installiertaktualisiert-werden-losungsansatze/"><u>Fehlerbehebung: Windows 11 Kann Nicht Installiert/Aktualisiert Werden - Lösungsansätze</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-struggle-to-cultivate-freshness-in-vr-realms/"><u>In 2024, The Struggle to Cultivate Freshness in VR Realms</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlocking-an-icloud-locked-ipad-and-iphone-6s-by-drfone-ios/"><u>In 2024, Unlocking an iCloud Locked iPad and iPhone 6s</u></a></li>
+<li><a href="https://windows11.techidaily.com/reimagining-taskbar-functionality-essential-upgrades-to-improve-microsofts-user-interface/"><u>Reimagining Taskbar Functionality: Essential Upgrades to Improve Microsoft's User Interface</u></a></li>
+<li><a href="https://windows11.techidaily.com/secure-and-streamlined-drive-access-via-new-os-win11/"><u>Secure & Streamlined Drive Access via New OS (Win11)</u></a></li>
+<li><a href="https://windows11.techidaily.com/sparkle-up-windows-11-for-the-festive-season/"><u>Sparkle Up Windows 11 for the Festive Season</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-the-ion-audio-tailgater-plus-uninterrupted-soundscapes-bold-bass-boost-effortless-operation-revealed/"><u>The Ultimate Guide to the Ion Audio Tailgater Plus: Uninterrupted Soundscapes, Bold Bass Boost, Effortless Operation Revealed</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-tips-for-scoring-amazing-october-2024-prime-day-discounts-on-high-performance-laptops/"><u>Top Tips for Scoring Amazing October 2024 Prime Day Discounts on High-Performance Laptops</u></a></li>
+<li><a href="https://windows11.techidaily.com/triggering-the-verification-toolset-for-win11-systems/"><u>Triggering the Verification Toolset for Win11 Systems</u></a></li>
 </ul></div>
 

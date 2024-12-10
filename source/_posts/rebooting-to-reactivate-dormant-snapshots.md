@@ -1,7 +1,7 @@
 ---
 title: Rebooting to Reactivate Dormant Snapshots
-date: 2024-08-15T16:16:59.580Z
-updated: 2024-08-16T16:16:59.580Z
+date: 2024-12-08T20:08:23.479Z
+updated: 2024-12-10T18:13:43.042Z
 tags:
   - windows10
   - windows11
@@ -35,26 +35,29 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 
  Restart those shadow copy services if they’re already set as required. You can do that by right-clicking on those services and selecting the Restart context menu options for them.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## 2\. Repair Your System Files With the SFC and DISM Commands
 
  Corrupted system files can affect Windows services, such as Volume Shadow Copy. So, some users may need to repair system files to fix the Volume Shadow Copy Service when it’s not working. You can do that by running System File Checker and Deployment Image Servicing Management scans, as covered in this article about [repairing corrupt Windows files](https://www.makeuseof.com/windows-built-in-repair-tools/).
 
 ![The sfc scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/sfc-scannow-error.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Run the Check Disk Utility
 
  Drive issues can cause Windows system backup VSS errors to occur, with codes like 0x807800A1 or 0x80042315\. In this case, running the Check Disk utility to scan for and address hard drive issues, such as bad sectors, is a potential fix for the Volume Shadow Copy Service not working. Check out this [guide to running the CHKDSK utility](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/) for further details about how you can apply this potential resolution.
 
 ![The CHKDSK command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chkdsk-scan-command.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Disable Antivirus Shields
 
@@ -64,9 +67,6 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 
  Don’t leave your antivirus shield permanently disabled. If possible, select to disable it for a few hours before attempting the backup or system restoration operation again. Or manually re-enable your antivirus if you can’t select a temporary option.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Disable Any Active Firewalls
 
  It’s also recommended to disable the firewall component of a third-party antivirus utility before attempting to perform a VSS operation. Turning off an antivirus shield won’t disable a firewall component. Look for firewall settings within your antivirus software’s tabs to see if it includes one. If it does, select to turn off the firewall.
@@ -78,8 +78,9 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 ## 6\. Set Windows to Perform a Clean Boot
 
 ![The Startup type](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/startup-tab.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Conflicting background apps or services are another potential cause of Volume Shadow Copy errors. Third-party backup utilities with snapshot managers are the most likely software packages to conflict with the Volume Shadow Copy Service. If you know you’ve installed a third-party backup manager, uninstalling it could be the best way to ensure it doesn’t cause any conflicts.
@@ -89,13 +90,12 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
  If it does, this means something you disabled during the clean boot is causing the problem. Now you can slowly re-enable each app until the problem reappears, then either uninstall or update the offending app.
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Back up and Restore Windows Again
 
  These solutions can potentially resolve many variable Volume Shadow Copy Service error messages and codes that pop up during system backup and restore operations. With Volume Shadow Copy fixed, you can back up and restore Windows with built-in system tools again.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -103,3 +103,25 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-initiate-direct-camera-streaming-with-vlc/"><u>[New] 2024 Approved Initiate Direct Camera Streaming with VLC</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-price-estimation-guide-for-music-video-production/"><u>[New] 2024 Approved Price Estimation Guide for Music Video Production</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-combine-audio-and-video-web-space/"><u>[New] Combine Audio and Video Web Space</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-ignite-social-media-fanfare-master-these-9-instagram-commandments/"><u>[New] Ignite Social Media Fanfare Master These 9 Instagram Commandments</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-retro-reflection-self-portraits-with-x-phone/"><u>[New] In 2024, Retro Reflection Self-Portraits with X Phone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-unpacking-the-features-of-androids-lightroom-app/"><u>[Updated] 2024 Approved Unpacking the Features of Android's Lightroom App</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-icy-images-cozier-cinematics-best-bgs-selection/"><u>[Updated] Icy Images, Cozier Cinematics Best Bgs Selection</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-phone-link-app-notifications-not-working-on-windows/"><u>How to Fix Phone Link App Notifications Not Working on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-use-imessage-on-windows/"><u>How to Use iMessage on Windows</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-6-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For iPhone 6</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-window-10s-captions-with-minimal-trouble/"><u>Mastering Window 10'S Captions with Minimal Trouble</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/procedura-gratuita-per-generare-limage-di-unita-ssd-un-tutorial-dettagliato/"><u>Procedura Gratuita per Generare L'image Di Unità SSD: Un Tutorial Dettagliato</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fix-for-ms-store-crash-error-code-0x0-on-win-1011/"><u>Quick Fix for MS Store Crash: Error Code 0X0 on Win 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-ntfs-file-size-reduction/"><u>The Ultimate Guide to NTFS File Size Reduction</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-5-must-have-apps-to-maximize-your-windows-workflow/"><u>Top 5 Must-Have Apps to Maximize Your Windows Workflow</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-frozen-epic-launcher-steps-for-win-users/"><u>Troubleshooting Frozen Epic Launcher: Steps for Win Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-the-full-potential-of-windows-startup-options/"><u>Unlocking the Full Potential of Windows Startup Options</u></a></li>
+</ul></div>
+

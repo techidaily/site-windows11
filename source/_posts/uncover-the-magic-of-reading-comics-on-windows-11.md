@@ -1,7 +1,7 @@
 ---
 title: Uncover the Magic of Reading Comics on Windows 11
-date: 2024-08-08T06:14:15.651Z
-updated: 2024-08-09T06:14:15.651Z
+date: 2024-12-06T19:24:56.590Z
+updated: 2024-12-10T17:11:16.651Z
 tags:
   - windows10
   - windows11
@@ -21,17 +21,13 @@ thumbnail: https://thmb.techidaily.com/499d16f8fa9d73db2896cc95dd1103614d6afb1a8
  However, you can read digital comics in Windows 11 with third-party software that can open common comic file formats, such as CBZ and CBR. This is how you can read comics with the Cover and YACReader apps.
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## First, Download Some Comics
 
  Firstly, download a few comic books to open and read in YACReader and Cover. The[GetComics website](https://getcomics.info/) is a good place to download some freely available comics. Click a cover image for a comic to download there. Then select the**Download Now** option to save the file for it to a folder.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![The Download Now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-download-now-button.jpg)
 
  There are also many other similar websites you can get comics. Some comic libraries have freely available downloads, but others are storefronts selling them. Check out our[best comic book website guide](https://www.makeuseof.com/best-sites-download-read-comic-books/) for details about alternative sources.
@@ -50,17 +46,11 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 4. Click**Get** to download and install Cover.
 5. Select**Open** on Cover’s MS Store page to launch the comic reader app.
 6. Press the**Add folder** **to library** button.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The Add folder to library button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-add-folder-to-library.jpg)
 7. Click the**Add local folder** option.
 8. Next, select the Comic Books folder previously set up that includes some comics.
 9. Press the**Select Folder** button.
 10. Now you’ll see some thumbnail images for the comics in the selected folder inside the**Library** tab. Click a comic you want to read there to open in Cover.  
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Cover's Library tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/covers-library-tab.jpg)
 11. You can flick through the pages by clicking the comic and dragging the slider on the bar. Or press the left and right arrow keys.  
 ![The page scroll bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/page-scroll-bar.jpg)
@@ -69,9 +59,17 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![The Fit width option in Cover](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/fit-width-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Cover has a**Night Mode** option you can adjust brightness with and enable a night filter. Click the comic and press the**Night mode** button to bring up the**Brightness** bar. Then you can drag the bar’s slider down. Or click the**Night filter** button to dim the light for comics in Cover.
 
 ![The Night Mode option in Cover](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-night-mode-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  As you’re limited to a 25-comic library in Cover, you’ll probably need to erase some comics you’ve read to view new ones at some stage. To do that, open a comic’s source folder in File Explorer. Right-click a comic file in that folder and select**Delete** . Then click the**See more** button at the top right of the Cover app to select**Refresh** library.
 
@@ -94,30 +92,37 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 ![The Open option in YACReader](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-open-option.jpg)
 6. Press the**Next** and**Previous** arrow buttons on the toolbar to turn the comic’s pages.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The comics will also be a little small in a non-maximized YACReader window, as in Cover. So, it’s recommended to maximize the app’s window. Click the**Double-page mode** button to view two pages in a single window. Selecting the**Fit to Width** option will give you a view of the comic that’s not too small or big.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![The toolbar in YACReader](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/yacreaders-toolbar.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can save pages in YACReader by clicking the**Set** bookmark button. Select the**Show bookmarks** option to view thumbnails for your saved pages. You can select a bookmarked page to open from there.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![The YACReader bookmarks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/yacreader-bookmarks.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  YACReader’s**Show go to flow** option is one of its more unique features. Pressing that button brings up a box that displays page thumbnail previews you can flick through and open pages with. That’s a useful feature for selecting specific pages in a comic.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![YACReader's page flow feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/yacreader-page-flow-feature.jpg)
 
  Page flow has five transition effect presets you can choose in the Options window. Click**Options** on the right side of YACReader’s toolbar. Select the**Page Flow** tab, and choose one of the five preset options. You can also tweak each preset by clicking**Show advanced settings** and dragging the bar slider options. Press the**Save** button and restart YACReader to apply a new preset.
 
 ![The Page Flow tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-page-flow-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Read Comics in Your Web Browser
 
@@ -130,14 +135,8 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  You can read comics on those websites by scrolling down their pages in your browser or clicking the next/previous page buttons. However, the page view options for comics on websites are more limited than those in YACReader and Cover. Nor can you select to bookmark pages. So, most users will probably prefer to download and read comics in Cover and YACReader.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A Star Wars comic open in a browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/star-wars-comic.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Get Stuck Into Comics in Windows 11
 
  Now you can get stuck into a multitude of freely available comics in Windows 11 with Cover and YacReader. Those apps have all the options and tools you’ll need to open and read comics. However, you can also open comics in Windows with the likes CDisplay Ex MComix, which are two of the best alternatives.
@@ -148,8 +147,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +154,22 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-the-art-of-persuasion-on-facebook-a-beginners-and-expert-playbook/"><u>[New] 2024 Approved The Art of Persuasion on Facebook A Beginner’s & Expert Playbook</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-step-by-step-minecraft-screenshots-and-videos/"><u>[Updated] 2024 Approved Step-by-Step Minecraft Screenshots & Videos</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-boost-your-gaming-presence-with-these-top-14-video-ideas-for-2024/"><u>[Updated] Boost Your Gaming Presence with These Top 14 Video Ideas for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-leveraging-facebook-for-shared-twitter-content/"><u>[Updated] In 2024, Leveraging Facebook for Shared Twitter Content</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-lenovo-thinkphone-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Lenovo ThinkPhone by Name | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/best-practices-for-avoidable-file-explorer-foibles/"><u>Best Practices for Avoidable File Explorer Foibles</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elevate-your-videography-best-hd-android-video-apps-guide/"><u>Elevate Your Videography Best Hd Android Video Apps Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-reactivate-a-non-operational-wsreset-process-in-windows/"><u>How to Reactivate a Non-Operational WSReset Process in Windows</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streaming-video-evaluation-report/"><u>In 2024, Streaming Video Evaluation Report</u></a></li>
+<li><a href="https://windows11.techidaily.com/making-disabled-overlays-functional-again-on-windows-pc/"><u>Making Disabled Overlays Functional Again on Windows PC</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/step-by-step-tutorial-for-effective-installation-of-windows-11-with-two-scenarios-explained/"><u>Step-by-Step Tutorial for Effective Installation of Windows 11 with Two Scenarios Explained</u></a></li>
+<li><a href="https://windows11.techidaily.com/three-steps-to-validate-windows-11-activation/"><u>Three Steps to Validate Windows 11 Activation</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-failed-app-install-in-windows-store/"><u>Troubleshooting Failed App Install in Windows Store</u></a></li>
+<li><a href="https://windows11.techidaily.com/unblock-your-computers-usb-hub-windows-fix-guide/"><u>Unblock Your Computer's USB Hub: Windows Fix Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Realme Narzo N53? | Dr.fone</u></a></li>
+</ul></div>
 

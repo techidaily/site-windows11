@@ -1,7 +1,7 @@
 ---
 title: Strategies for Stopping Windows 11'S Observer Mode
-date: 2024-08-15T16:21:27.381Z
-updated: 2024-08-16T16:21:27.381Z
+date: 2024-12-07T16:37:15.746Z
+updated: 2024-12-10T20:39:52.977Z
 tags:
   - windows10
   - windows11
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/a0ea0929e49147a7aa2982696f1085c4ea3dc3044
 
  Some methods Microsoft uses to collect data from an average Windows 11 user are location services, cookies, diagnostic feedback, and browser activity in Microsoft Edge. Any third-party apps installed on your Windows 11 PC may also collect your activity and location data.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Should You Be Worried About Your Data Privacy on Windows 11?
 
  As a Windows 11 user, you should be aware of apps that collect your data and understand what your preset Windows 11 activity tracking preferences mean. Microsoft tracks its users to improve the experience of their users, but more importantly, to make advertisements more relevant and personalized.
@@ -41,13 +45,15 @@ thumbnail: https://thmb.techidaily.com/a0ea0929e49147a7aa2982696f1085c4ea3dc3044
 1. Open the**Start** menu and launch the**Settings** app.  
 ![disable ad tracking windows11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disable-ad-tracking.jpg)
 2. From the side pane, select**Privacy & security** , and then under**Windows permissions,** select the**General** tab.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Turn off all of the general preferences by using the toggle option.
 
  Once you complete the above steps, you will successfully opt out of personalized ads on Windows 11.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ## How to Disable Activity Tracking on Windows 11
 
  Activity history is a shady Windows 11 feature that has plenty of privacy concerns. According to[Microsoft](https://support.microsoft.com/en-us/windows/-windows-activity-history-and-your-privacy-2b279964-44ec-8c2f-e0c2-6779b07d2cbd) , the feature allows users to keep track of how they use their Windows 11 devices. This includes recording what apps, services, websites, and files users have used or accessed recently. If your PC is signed in with a Microsoft account, your data is sent to Microsoft; otherwise, your activity history is only stored locally on your device.
@@ -66,9 +72,6 @@ thumbnail: https://thmb.techidaily.com/a0ea0929e49147a7aa2982696f1085c4ea3dc3044
 7. Disable the**Tailored experiences** option to stop Microsoft from using your diagnostic data for ads, personalized tips, and recommendations.
 8. You can also delete existing diagnostic data via the**Delete diagnostic data** option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ## How to Stop Microsoft Edge Data Collection on Windows 11
 
  Microsoft Edge is one of the best browsers around, and it takes your privacy very seriously. There are several different privacy-related options that you can tweak to your liking and level of comfort.
@@ -78,17 +81,20 @@ To disable tracking within Microsoft Edge:
 1. Launch**Microsoft Edge** via the Taskbar or the**Start** menu.
 2. Click on the 3-dots menu icon in the far right and select**Settings** from the dropdown menu.  
 ![edge tracking prevention](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/edge-tracking-prevention.jpg)
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Select**Privacy, search and services** from the side menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Enable**Tracking prevention** , and choose the tracking level you want to allow during your browsing sessions.
 
  If you’re still unsatisfied and want to take privacy protection to another level, you should check out our dedicated[Microsoft Edge privacy guide](https://www.makeuseof.com/best-microsoft-edge-privacy-add-ons/) .
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Delete Activity Tracking Data from Microsoft Account
 
  Even if you disable and delete Activity history from your Windows 11 device, there might still be data that you need to data off your Microsoft cloud account.
@@ -97,43 +103,28 @@ To disable tracking within Microsoft Edge:
 
 1. Login to your[Microsoft account](http://account.microsoft.com) and complete any two-factor authentication required by the site.  
 ![microsoft account dashboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microsoft-account-dashboard.jpg)
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. From your dashboard, select**Privacy** and then**Privacy dashboard** .
 3. Under the**Manage your activity data** , you should see several groups such as **Location activity, Browsing history, Search history, App and service activity** .  
 ![privacy dashboard Microsoft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/privacy-dashboard.jpg)
 4. One by one, select each tab and click**Clear all** .  
 ![clear microsoft cloud data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/clear-cloud-data.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 5. For example, to clear the**2,323** instances of app and service-related activity stored by the above Microsoft account, we’ll select the**App and service activity** tab and then select**Clear all app and service activity** .
 6. In the popup window, select**Clear** , and choose how frequently you want Microsoft to clear the selected data automatically.
 7. You can also choose to**Download your data** to have a closer look at the extent of the data that Microsoft has collected.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Controlling Your Location Tracking on Windows 11
 
  Many apps utilize location services, and while some may use them out of necessity (in the case of map services), others might exploit the location permission for advertisement purposes. It's crucial you make sure your location data is not being misused by any app on your Windows 11 device.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -142,4 +133,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-easy-listening-top-hits-from-facebook/"><u>[Updated] In 2024, Easy Listening Top Hits From Facebook</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-tutorial-guide-to-fade-out-music-in-premiere-pro/"><u>[Updated] Tutorial Guide To Fade Out Music In Premiere Pro</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/adding-time-bound-elements-to-your-obs-productions-for-2024/"><u>Adding Time-Bound Elements to Your OBS Productions for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/bypass-complications-correcting-common-javascript-problems-on-discord/"><u>Bypass Complications: Correcting Common JavaScript Problems on Discord</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-scanning-convert-pdfs-and-jpg-images-to-text-with-ocr-technology-finereader/"><u>IPhone Scanning: Convert PDFs & JPG Images to Text with OCR Technology - FineReader</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-s-hottest-vlog-editor-apps-for-ios-and-android-devices/"><u>New 2024 Approved S Hottest Vlog Editor Apps for iOS and Android Devices</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/norton-ghost-bootable-usbs-erstellen-in-windows-1187-zwei-methoden-zur-effizienten-backup-erstellung/"><u>Norton Ghost Bootable USBs Erstellen in Windows 11/8/7: Zwei Methoden Zur Effizienten Backup-Erstellung</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-to-intensifying-excel-grid-lines/"><u>Step-by-Step Guide to Intensifying Excel Grid Lines</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-combining-multiple-charts-with-excels-overlay-feature/"><u>Step-by-Step Guide: Combining Multiple Charts with Excel's Overlay Feature</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-renaming-series-within-an-ms-excel-dataset/"><u>Step-by-Step Guide: Renaming Series Within an MS Excel Dataset</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-tutorial-on-arranging-data-values-within-microsoft-excel/"><u>Step-by-Step Tutorial on Arranging Data Values Within Microsoft Excel</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-13-essential-microsoft-excel-datetime-formulas-every-user-must-master/"><u>Top 13 Essential Microsoft Excel Date/Time Formulas Every User Must Master</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-6-tips-for-creating-simple-and-legible-excel-sheets/"><u>Top 6 Tips for Creating Simple and Legible Excel Sheets</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-samsung-galaxy-a05s-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Samsung Galaxy A05s Location | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Quelling the Flashing Phenomenon: Windows Guide"
-date: 2024-08-15T16:17:10.274Z
-updated: 2024-08-16T16:17:10.274Z
+date: 2024-12-07T20:01:01.429Z
+updated: 2024-12-10T18:55:33.787Z
 tags:
   - windows10
   - windows11
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/e9bfba9f2cfc27dda62a022203f7d3d74b3b40178
 
  If it's the former, follow the instructions below in order. If it's the latter, skip to step five. That said, if the advice there doesn't work, check the advice in the other sections too.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check Your Monitor and Cables
 
  If you have a flashing screen, the first thing to rule out is the hardware. Check all the cable connections from the monitor to the computer—take them out and plug them back in to ensure the cables are secure.
@@ -40,9 +44,6 @@ thumbnail: https://thmb.techidaily.com/e9bfba9f2cfc27dda62a022203f7d3d74b3b40178
 
  If you can, try a different monitor. If this resolves the problem, you know it's your monitor that's the issue. At that point, contact the manufacturer for support or to raise a warranty claim.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Set the Correct Refresh Rate
 
  A monitor's refresh rate is the speed at which the screen updates the image per second, measured in hertz (Hz). Basic monitors can usually only handle a 60Hz refresh rate, while more advanced ones—typically aimed at gamers—can go to 360Hz and beyond.
@@ -59,20 +60,22 @@ To adjust your refresh rate:
 4. Use the**Refresh rate** dropdown and incrementally select lower rates until the screen flashing stops. If the flashing continues, revert to your monitor's recommended refresh rate.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Reset Your Display Driver
 
  The screen flashing could be caused by your display driver. You might have an old driver or a faulty new one. Let's make sure you are running the right version for your system.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Step 1: Remove the Driver
 
  First,[boot Windows in safe mode](https://www.makeuseof.com/windows-11-boot-safe-mode/ "How to Boot Into Windows 10 Safe Mode") :
 
 ![windows 11 recovery](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/windows-11-recovery.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Press**Windows key + I** to open Settings.
 2. Select**Update & Security >** **Recovery** (Windows 10) or**System > Recovery** (Windows 11).
@@ -92,8 +95,9 @@ Next, use Device Manager to uninstall the display driver:
  Alternatively, you can use third-party software[Display Driver Uninstaller](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) , which will completely wipe any traces of the driver from your system.
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Step 2: Install a New Driver
 
  You now want to[install the latest driver](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) for your system. Windows Update will provide the driver it thinks is compatible with your system. To do this:
@@ -122,9 +126,6 @@ Next, use Device Manager to uninstall the display driver:
 
  If this doesn't fix it,[your graphics card might be faulty or dying](https://www.makeuseof.com/signs-graphics-card-is-dying/) . Contact the manufacturer for support or to claim on the warranty.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Uninstall Problematic Applications
 
  Some apps are incompatible with Windows 10/11 and can cause screen flickering. Think about whether you installed any new software before the screen flashing began or if an app recently updated. In the past, three problematic apps have been Norton Antivirus, iCloud, and IDT Audio.
@@ -133,6 +134,10 @@ Next, use Device Manager to uninstall the display driver:
 
 ![windows 11 apps and features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/windows-11-apps-and-features.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If this doesn't work, uninstall the program. To do so:
 
 1. Press**Windows Key + I** to open Settings.
@@ -140,14 +145,15 @@ If this doesn't work, uninstall the program. To do so:
 3. Click**Sort by** and choose**Installation date** .
 4. Click the offending app and click**Uninstall** . You may need to restart your system for the changes to take full effect.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ## 6\. Create a New Windows User Profile
 
  How do you stop your laptop or computer screen from flickering? Well, many Windows 10 and Windows 11 problems can often be solved by[creating a new user profile](https://www.makeuseof.com/windows-11-create-local-user-account/) . Screen flickering is one of them.
 
 ![windows 11 family and other users](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/windows-11-family-and-other-users.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To create a new account:
 
@@ -155,23 +161,17 @@ To create a new account:
 2. Go to**Accounts > Family & other users** .
 3. Click**Add someone else to this PC** (Windows 10) or**Add account** (Windows 11) and follow the wizard.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ## Windows Screen Flickers... No More
 
  As with most Windows 10/11 issues, no single fix will work for everyone. Hopefully, one of the steps above has solved your Windows 10 or Windows 11 screen flashing problem.
 
  If it is time for a new monitor, there are plenty of productive and fun things you can do with the old one. Otherwise, take it off for recycling so it can rest in monitor heaven.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -180,4 +180,21 @@ To create a new account:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-making-every-sound-count-mac-audio-mastery-in-audacity/"><u>[New] Making Every Sound Count Mac Audio Mastery in Audacity</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-profound-analysis-of-morphvox-technology-and-its-role-in-audio-modification/"><u>[Updated] 2024 Approved Profound Analysis of MorphVOX Technology and Its Role in Audio Modification</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-skyrocket-traffic-innovative-strategies-for-youtube-backlink-acquisition/"><u>2024 Approved Skyrocket Traffic Innovative Strategies for YouTube Backlink Acquisition</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-streamline-your-internet-use-with-these-5-chromium-addons-for-vids/"><u>2024 Approved Streamline Your Internet Use With These 5 Chromium Addons for Vids</u></a></li>
+<li><a href="https://video-capture.techidaily.com/az-capture-insights-apps-explored/"><u>AZ Capture Insights Apps Explored</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/compact-guide-to-free-live-streaming-apps-on-mobile-devices-for-2024/"><u>Compact Guide to Free Live Streaming Apps on Mobile Devices for 2024</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/enhance-user-experience-and-conversions-using-the-latest-in-cookiebot-analytics-tools/"><u>Enhance User Experience and Conversions Using the Latest in Cookiebot Analytics Tools</u></a></li>
+<li><a href="https://fox-http.techidaily.com/exploring-toolwiz-photosapp-in-depth-review-2023/"><u>Exploring Toolwiz PhotosApp In-Depth Review, 2023</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Vivo Y78+? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/post-upgrade-realignment-of-the-windows-and-wsl-system/"><u>Post-Upgrade: Realignment of the Windows and WSL System</u></a></li>
+<li><a href="https://windows11.techidaily.com/re-engineering-your-typing-experience-layout-changes-in-win-11/"><u>Re-Engineering Your Typing Experience: Layout Changes in Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-sniptools-performance-9-key-actions/"><u>Reviving SnipTool's Performance: 9 Key Actions</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-for-a-shaky-cursor-on-windows-pcs/"><u>Solutions for a Shaky Cursor on Windows PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-windows-n-variants-for-software-developers/"><u>Understanding Windows N Variants: For Software Developers</u></a></li>
+</ul></div>
 

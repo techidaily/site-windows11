@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Hurdles: Apps With Dull Facades Draining Energy"
-date: 2024-11-30T16:21:37.109Z
-updated: 2024-12-03T16:10:57.946Z
+date: 2024-12-04T21:26:23.379Z
+updated: 2024-12-10T17:55:40.678Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/4344716e214d80fc0302240776bca3183fcb221b8
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Effect of the Chat and Widget Apps on Windows 11
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/4344716e214d80fc0302240776bca3183fcb221b8
  The article claims that the processes take up a few hundred megabytes of RAM, but the real proof comes from [Out of Office Hours](https://oofhours.com/2022/01/30/the-overhead-of-widgets-and-teams-in-windows-11/), which posted a screenshot showing several WebView2 processes each taking their slice of the RAM pie.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Disable the Chat and Widget App and Save Your Ram
@@ -52,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/4344716e214d80fc0302240776bca3183fcb221b8
  And that’s it—the Widget and Chat icons will be removed from the desktop and won’t occupy any RAM unnecessarily.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Find and Disable Other Apps
@@ -60,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/4344716e214d80fc0302240776bca3183fcb221b8
  It's not uncommon to get your PC memory drained by apps or background processes that aren't actually doing anything. To prevent this from happening, you have a [drove of tools for finding and disabling these apps](https://www.makeuseof.com/windows-pc-too-many-background-processes/). Everything from Task Manager, System Configuration, and the Settings App will help you in this. So make sure you check out and disable these apps as well.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## An Unideal Welcome Party for Windows 11 Users
@@ -72,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/4344716e214d80fc0302240776bca3183fcb221b8
  At the same time, it's not a true Windows launch unless things go a bit awry at the start. Hopefully, these little annoyances will end up being teething issues for Windows 11, and not the norm moving forward.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Out of Sight, Out of Mind (and Memory)
@@ -89,19 +89,19 @@ thumbnail: https://thmb.techidaily.com/4344716e214d80fc0302240776bca3183fcb221b8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-24-techniques-for-recording-virtual-conferences-on-a-dime/"><u>[New] 2024 Approved 24 Techniques for Recording Virtual Conferences on a Dime</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-speedy-skimmer-of-windows-imagery/"><u>[New] 2024 Approved Speedy Skimmer of Windows Imagery</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-just-how-significant-is-itop-in-screencasting-world/"><u>[New] Just How Significant Is ITop in Screencasting World?</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-lightning-fast-fileshare-on-windows-os-for-2024/"><u>[New] Lightning-Fast Fileshare on Windows OS for 2024</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/2023-gif-gif/"><u>2023 年度頂級 GIF 创作器列表：专业人士选择 [GIF 网站冠军]</u></a></li>
-<li><a href="https://windows11.techidaily.com/expedite-data-access-seamless-entry-into-windows-11-disk-editor/"><u>Expedite Data Access: Seamless Entry Into Windows 11 Disk Editor</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Samsung Galaxy F15 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Realme Narzo 60x 5G | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/modify-your-windows-personalized-spotlight-image/"><u>Modify Your Windows Personalized Spotlight Image</u></a></li>
-<li><a href="https://extra-information.techidaily.com/prime-venues-for-vr-entertainment/"><u>Prime Venues for VR Entertainment</u></a></li>
-<li><a href="https://windows11.techidaily.com/stopping-missteps-in-mouse-travel-with-simple-fixes/"><u>Stopping Missteps in Mouse Travel with Simple Fixes</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-voice-input-in-windows-11-with-shortcuts-guide/"><u>Streamlining Voice Input in Windows 11 with Shortcuts Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/tailoring-your-first-load-webpage-on-win11/"><u>Tailoring Your First Load Webpage on Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/winning-against-windowss-notorious-pink-screens/"><u>Winning Against Windows's Notorious Pink Screens</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-ultimate-screen-snatchers-handbook-by-zd-software-experts/"><u>[New] The Ultimate Screen Snatcher’s Handbook by ZD Software Experts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-choosing-a-professional-video-editor-filmora-against-democreator-for-2024/"><u>[Updated] Choosing a Professional Video Editor Filmora Against Democreator for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-strategic-showcasing-10-essential-tips-to-improve-your-instagram-highlights/"><u>[Updated] In 2024, Strategic Showcasing 10 Essential Tips to Improve Your Instagram Highlights</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-ajay-the-creative-content-creators-profitable-venture-on-youtube/"><u>2024 Approved AJay The Creative Content Creator's Profitable Venture on YouTube</u></a></li>
+<li><a href="https://windows11.techidaily.com/activating-windows-media-player-in-a-swift-manner/"><u>Activating Windows Media Player in a Swift Manner</u></a></li>
+<li><a href="https://windows11.techidaily.com/checking-for-safe-network-connections-on-windows/"><u>Checking for Safe Network Connections on Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Poco C50? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Honor Magic 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Samsung Galaxy A05s? | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-unlocking-the-art-of-video-capturing-everywhere/"><u>In 2024, Unlocking the Art of Video Capturing Everywhere</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-windows-ram-usage-for-device-connectivity-services/"><u>Optimizing Windows RAM Usage for Device Connectivity Services</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-non-empty-directory-alert-error-code-0x80070091-in-windows-11/"><u>Preventing Non-Empty Directory Alert (Error Code: 0X80070091) in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-overcome-systemsettingsexe-crash-in-win11/"><u>Steps to Overcome SystemSettings.exe Crash in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/tricks-for-easily-opening-and-modifying-faxes-on-windows-11/"><u>Tricks for Easily Opening and Modifying Faxes on Windows 11</u></a></li>
 </ul></div>
 

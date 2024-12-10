@@ -1,7 +1,7 @@
 ---
 title: Immediate Solutions for Win10/Win11 Stuck with PIN Lock
-date: 2024-08-15T16:17:19.248Z
-updated: 2024-08-16T16:17:19.248Z
+date: 2024-12-05T20:55:03.207Z
+updated: 2024-12-10T21:09:31.347Z
 tags:
   - windows10
   - windows11
@@ -41,9 +41,9 @@ thumbnail: https://thmb.techidaily.com/7dd28955380e8f076f3116cabc92fc969f652f839
  If the PIN again does not work after resetting and you are sure that the PIN you are entering is correct, the problem may reside elsewhere. Therefore, use an alternate way to log in to your account and then rule out other possibilities.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Sign-In Using Alternative Methods
 
  If resetting the PIN from the login screen does not resolve the issue, you can use your account password instead. To do that, follow the below steps:
@@ -58,8 +58,9 @@ thumbnail: https://thmb.techidaily.com/7dd28955380e8f076f3116cabc92fc969f652f839
  If you don't remember your account password, you can reset it just like you can your PIN. Unlike resetting the PIN, resetting the password mostly goes smoothly and lets you sign in.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Delete the Ngc Folder in Windows
 
  Windows stores all your PIN-related settings in this folder, so if the OS isn't accepting your PIN, which is correct, you should delete this folder. This process will wipe out all PIN-related data from the OS. You can then set up a new PIN, which should work fine.
@@ -70,8 +71,9 @@ thumbnail: https://thmb.techidaily.com/7dd28955380e8f076f3116cabc92fc969f652f839
 2. Navigate to **C: drive > Windows> ServiceProfiles > LocalService > AppData > Local> Microsoft**.
 3. Locate the Ngc folder, right-click on it, and hit **Delete**.  
 ![Deleting Ngc Folder in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/Deleting-Ngc-Folder-in-Windows-10-Edit.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Navigate to **Settings > Accounts > Sign-in options** to set up a new PIN after deleting the old one. Afterward, click on **Windows Hello PIN**, add a new PIN, and hopefully, the PIN will start working on your operating system.
@@ -89,9 +91,6 @@ thumbnail: https://thmb.techidaily.com/7dd28955380e8f076f3116cabc92fc969f652f839
 3. Navigate to **Your info** in the left-sidebar.
 4. Click on **Sign in with a local account instead**.  
 ![changing accounts settings in windows 10 settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/changing-accounts-settings-in-windows-10-settings-app-edit.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 5. Click on **Next**.
 6. Enter your PIN.
 7. Set up your local account by adding your username and password.
@@ -99,15 +98,16 @@ thumbnail: https://thmb.techidaily.com/7dd28955380e8f076f3116cabc92fc969f652f839
 ![Setting Up Local Account in Windows 10 Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/2-Setting-Up-Local-Account-in-Windows-10-Settings-App.jpg)
 9. Click on **Sign out and finish**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  By following the above steps, you will return to the login screen. Type in your PIN again to confirm it works. If it does, it's your Microsoft account that is to blame. Creating another user account and checking if the PIN works there could help confirm that.
 
  Therefore, if the issue originates from your Microsoft user account, you should copy your files to the new account and start using the new account permanently.
 
  If the PIN does not work on any account, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Tweak PIN Sign-In Settings in Group Policy Editor
 
  When the convenience PIN sign-in setting in the Group Policy Editor is disabled, the PIN will not work. Therefore, it's essential to ensure it's not causing the problem during sign-in.
@@ -126,9 +126,6 @@ thumbnail: https://thmb.techidaily.com/7dd28955380e8f076f3116cabc92fc969f652f839
 
  Group Policy Editor isn't available in the Windows Home edition by default. You can skip this fix if you're using the Home edition or try [alternative ways to get the Group Policy Editor](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Update or Downgrade Your OS
 
  According to [Microsoft support helpers](https://answers.microsoft.com/en-us/windows/forum/all/pin-not-working-on-windows-10/d444ebfb-d643-40b5-be62-1569454118d1), one of the possible causes of PIN not working on Windows may be recent updates. If you remember doing an update recently, you need to [roll the update back](https://www.makeuseof.com/tag/regret-update-windows-10-revert-version/).
@@ -141,17 +138,16 @@ thumbnail: https://thmb.techidaily.com/7dd28955380e8f076f3116cabc92fc969f652f839
 4. Click on **Check for updates** box.  
 ![Checking for Windows PC updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/9-Checking-for-Windows-PC-updates.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Windows will automatically check for the latest updates and update itself if necessary. After your OS has been updated, try logging in again with your PIN if it works this time.
 
  If you're experiencing this issue on Windows 11, see our guide on [how to install Windows 11 updates](https://www.makeuseof.com/windows-11-install-updates/) to update your system. If you've started experiencing this issue after installing an update, follow our guide on [how to uninstall updates in Windows 11](https://www.makeuseof.com/windows-11-uninstall-updates/) and uninstall the most recent updates you installed.
 
  If the issue persists, run a malware scan to rule out the possibility of malware interference.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ## 7\. Turn Off Your Antivirus and Run a Malware Scan
 
  Possible interference from antivirus may also result in your PIN being rejected. To prevent this from happening, temporarily turn off any third-party antivirus you're using. If turning off the third-party security suite fixes the problem, turn it off permanently.
@@ -159,6 +155,10 @@ The powerful video editing program for your Windows PC</a>
  In addition, you can [temporarily disable Windows Defender](https://www.makeuseof.com/how-to-turn-off-windows-defender/) (now known as Microsoft Defender), the built-in security suite, to ensure that it's not the culprit. Remember to re-enable the security suite, as turning it off for too long can expose your device to malware.
 
  Aside from that, malware infections can also impair many system functions. Thus, it is imperative to rule out this possibility. You can easily do this by [running a Microsoft Defender offline scan](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/). By scanning the system, you can ensure that no hidden malware is affecting its performance.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Run an SFC Scan
 
@@ -174,11 +174,30 @@ The powerful video editing program for your Windows PC</a>
 
  Likewise, not updating your operating system for long, being infected with malware, or corrupted system files can also prevent your login PIN from working. If you're having trouble logging in to your device using your Windows Hello PIN, give the following solutions a shot.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-advanced-mp4-encoder-for-social-sharing/"><u>[New] In 2024, Advanced MP4 Encoder for Social Sharing</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-meringue-movie-magic-step-by-step-guide-to-ice-cream-capture/"><u>[New] In 2024, Meringue Movie Magic Step-by-Step Guide to Ice Cream Capture</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-a-step-by-step-approach-to-enhancing-your-instagram-video-sizes/"><u>[Updated] In 2024, A Step-by-Step Approach to Enhancing Your Instagram Video Sizes</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-creating-perfect-360-photos-on-iphone/"><u>[Updated] In 2024, Creating Perfect 360 Photos on iPhone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-the-verdict-on-android-photo-editing-does-picku-excel-in-2024/"><u>[Updated] The Verdict on Android Photo Editing – Does PickU Excel, In 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/efficient-backdrop-removal-methods-in-figma-design-for-2024/"><u>Efficient Backdrop Removal Methods in Figma Design for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/flavorful-filmmaking-top-7-strategies-for-culinary-videos-for-2024/"><u>Flavorful Filmmaking Top 7 Strategies for Culinary Videos for 2024</u></a></li>
+<li><a href="https://techidaily.com/is-your-motorola-edge-40-neo-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Motorola Edge 40 Neo working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-file-flow-effective-win11-disk-management/"><u>Mastering File Flow: Effective Win11 Disk Management</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-friend-connect-fixes-for-win11s-steam/"><u>Mastering Friend Connect Fixes for Win11's Steam</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-volume-mixer-windows-11-sounds-configuration-steps/"><u>Mastering the Volume Mixer: Windows 11 Sounds Configuration Steps</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-file-archives-cli-mastery-in-windows/"><u>Navigating File Archives: CLI Mastery in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-11-system-call-errors/"><u>Overcoming Windows 11 System Call Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/reimagine-windows-task-execution-via-enhanced-run-toolkit-implementation/"><u>Reimagine Windows Task Execution via Enhanced Run Toolkit Implementation</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-for-recovering-lost-router-configuration/"><u>Solutions for Recovering Lost Router Configuration</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/step-by-step-guide-how-to-safely-clear-dust-out-of-pc-cases-with-yl-software-tips/"><u>Step-by-Step Guide: How to Safely Clear Dust Out of PC Cases with YL Software Tips</u></a></li>
+</ul></div>
+

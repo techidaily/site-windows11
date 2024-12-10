@@ -1,7 +1,7 @@
 ---
 title: Fixing Non-Starting Windows Indexing Service
-date: 2024-08-15T16:15:50.685Z
-updated: 2024-08-16T16:15:50.685Z
+date: 2024-12-09T17:32:05.205Z
+updated: 2024-12-10T21:06:18.224Z
 tags:
   - windows10
   - windows11
@@ -32,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/75acee6ab640019b74d394195d334c99ef1bc0059
 * Windows search-related services are not working
 * Registry-related errors
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ## 1\. Apply Some General Fixes
 
  Try the fixes given below once and check whether you can perform a Windows search or not:
@@ -44,7 +41,15 @@ thumbnail: https://thmb.techidaily.com/75acee6ab640019b74d394195d334c99ef1bc0059
 ![Windows Search Results Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-search-results.jpg)
 * **Check for updates:** If you're experiencing issues with the Windows Search service, try [manually updating Windows](https://www.makeuseof.com/update-windows-manually/) once.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  These are just a few basic ways we expect to work in case of a Windows search error. But, if you're still unable to search for anything, move to some advanced troubleshooting methods.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Restart the Relevant Windows Services
 
@@ -57,15 +62,9 @@ thumbnail: https://thmb.techidaily.com/75acee6ab640019b74d394195d334c99ef1bc0059
 3. To restart the services, right-click on each of the following and select the **Restart** option: **Background Tasks Infrastructure Service**, **Remote Procedure Call (RPC)**, and **Windows Update**.
 
 ![Windows Update Service In Services App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-update-service.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 
  That's it. Now restart your system and check for the search error. If you’re still facing the Windows search could not start error, restarting the dependent services should do the trick. So, take your time and restart the services once.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Fix Incorrect Group Policy Settings
 
  Windows includes a useful app called the Group Policy Editor. This app helps administrators turn on/off more than 2000 Windows settings (or policies).
@@ -77,9 +76,6 @@ thumbnail: https://thmb.techidaily.com/75acee6ab640019b74d394195d334c99ef1bc0059
 1. [Open the Group Policy Editor on Windows](https://www.makeuseof.com/windows-11-open-local-group-policy-editor/).
 2. Click on **Administrative Templates > Windows Components > Search** to access all the settings related to Windows search.  
 ![Local Group Policy Editor Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/local-group-policy-editor-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 3. Double-click on **Fully Disable Search UI** and select **Not Configured**. Click **OK** to save the changes and exit the settings wizard.  
 ![Windows Search Policy Setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-search-policy-setting.jpg)
 4. You have to do the same thing, i.e., double-click, then select **Not Configured** and click **OK** with each of the following policies: **Do not allow web search**, **Configures search on the taskbar**, and **Allow search highlights**
@@ -96,20 +92,9 @@ thumbnail: https://thmb.techidaily.com/75acee6ab640019b74d394195d334c99ef1bc0059
 2. Type **msconfig** inside the text field.Press **Enter** to open the MSConfig utility (System Configuration wizard).
 3. At the top of the wizard, click on the **Services** tab.  
 ![Windows System Configuration Wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-system-configuration-wizard.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 4. Scroll down the list and look for the **Windows Search** service.
 5. If it's unchecked, check the box next to **Windows Search** to enable it, then click **Apply** and **OK**.  
 ![Windows Search In MSConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-search-in-msconfig.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Besides this, MSConfig has many other use cases. Read our in-depth guide on [Microsoft System Configuration Utility (MSConfig)](https://www.makeuseof.com/windows-msconfig-guide/) to know some of them.
 
@@ -125,14 +110,20 @@ thumbnail: https://thmb.techidaily.com/75acee6ab640019b74d394195d334c99ef1bc0059
 2. Navigate to the TxR directory (**C:\\windows\\system32\\config\\TxR**). The first time you open the folder, it'll show **This folder is empty**.  
 ![Windows TxR Directory Path](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-txr-directory-path.jpg)
 3. Click on **View** at the top bar of the File Explorer. Then, go to **Show** and tick **Hidden items**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Hidden Items File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/hidden-items-file-explorer.jpg)
 4. Similarly, click on the three-dot menu at the top. Click **Options > View**. Scroll down and uncheck or disable **Hide protected operating system files (Recommended)**.  
 ![File Explorer Folder Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/file-explorer-folder-options.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 5. Now all the files inside the directory should be visible to you. Please select all the files (**Ctrl + A**) and then delete them.  
 ![Windows TxR Directory Files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-txr-directory-files.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The steps might seem too complex, but the screenshots should help you. Besides, as Microsoft recommends, there's no harm in deleting the files in case of search service-related errors.
 
@@ -144,11 +135,16 @@ thumbnail: https://thmb.techidaily.com/75acee6ab640019b74d394195d334c99ef1bc0059
 
 ![PowerShell Script Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/powershell-script-context-menu.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The script will now reset the search-related options and settings to their default state. Once done, open the Windows search bar and type something to check whether it's working.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Reinstall Windows
 
  Unfortunately, if none of the solutions worked, your last option is reinstalling Windows. For this, see [how to reinstall Windows](https://www.makeuseof.com/windows-11-reinstall-without-deleting-apps/). There's no need to worry; this reinstallation will not remove any important files and apps.
@@ -156,8 +152,9 @@ thumbnail: https://thmb.techidaily.com/75acee6ab640019b74d394195d334c99ef1bc0059
  We understand this is a big step as no one would love to re-set up the whole system again. But don't worry; to help you better, here's a guide on [post-Windows installation setup](https://www.makeuseof.com/windows-11-things-to-do-after-updating/). Follow it, and you can enhance your new Windows setup twofold.
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Windows Search Service Fixed and Working
 
  We understand the frustration when you can't run Windows searches with one click. Hopefully, the provided solutions will help you restore the Windows search feature. Additionally, now that the search functions correctly, ensure to utilize all the search features fully.
@@ -166,11 +163,29 @@ thumbnail: https://thmb.techidaily.com/75acee6ab640019b74d394195d334c99ef1bc0059
 
  In this guide, we'll look at some troubleshooting methods to resolve the Windows Search service error.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-capture-the-essence-extracting-youtube-audio-directly/"><u>[New] In 2024, Capture the Essence Extracting YouTube Audio Directly</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-flv-to-youtubes-master-the-art-of-video-transformation-with-these-top-tools-for-2024/"><u>[Updated] Flv to Youtubes Master the Art of Video Transformation with These Top Tools for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-goofy-bliss-classic-film-revisited/"><u>[Updated] Goofy Bliss Classic Film Revisited</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-the-perfect-dimension-formula-for-youtube-videos/"><u>[Updated] In 2024, The Perfect Dimension Formula for YouTube Videos</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-oppo-a78-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-install-and-run-chatgpt-as-a-windows-app/"><u>How to Install and Run ChatGPT as a Windows App</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-free-and-paid-android-video-editing-apps-compared-top-10/"><u>In 2024, Free and Paid Android Video Editing Apps Compared Top 10</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Infinix Note 30 VIP? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-virtualbox-v70-upgrades-for-windows-11-enthusiasts/"><u>Mastering VirtualBox v7.0 Upgrades for Windows 11 Enthusiasts</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-complex-projects-using-github-desktop-in-win-11/"><u>Navigating Complex Projects Using GitHub Desktop in Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/regain-lost-volume-control-with-mixer-repair-steps/"><u>Regain Lost Volume Control with Mixer Repair Steps</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-out-of-memory-in-red-dead-redemption-2-by-expanding-your-pagefile/"><u>Resolve 'Out of Memory' In Red Dead Redemption 2 by Expanding Your Pagefile</u></a></li>
+<li><a href="https://windows11.techidaily.com/selecting-the-best-power-mode-for-windows-users/"><u>Selecting the Best Power Mode for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-hidden-workings-and-purpose-of-runtime-brokers/"><u>The Hidden Workings and Purpose of Runtime Brokers</u></a></li>
+<li><a href="https://windows11.techidaily.com/unmasking-winerror-code-0x800f0831-fix-procedure/"><u>Unmasking WinError Code 0X800f0831: Fix Procedure</u></a></li>
+</ul></div>
+

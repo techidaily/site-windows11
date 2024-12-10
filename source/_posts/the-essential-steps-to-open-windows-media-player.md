@@ -1,7 +1,7 @@
 ---
 title: The Essential Steps to Open Windows Media Player
-date: 2024-08-15T16:21:15.421Z
-updated: 2024-08-16T16:21:15.421Z
+date: 2024-12-05T20:46:01.011Z
+updated: 2024-12-10T16:23:36.101Z
 tags:
   - windows10
   - windows11
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/069b298bfedee9c280f30a09eb725e41e8884f90f
 
  If you're looking for an easy way to play and manage your media files in Windows 11, then Windows Media Player is what you need. It's a free built-in application that allows you to quickly access your audio, video, and photo files with just a few clicks. In this article, we'll show you how to open Windows Media Player in Windows 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Open Windows Media Player Using Search Tool
 
  If you're seeking information about how to open Windows Media Player on your computer, the Windows Search tool is a good place to start. To open Windows Media Player using the search tool, do the following:
@@ -28,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/069b298bfedee9c280f30a09eb725e41e8884f90f
 
  Upon doing this, you will see a list of related results; clicking on this will then open Windows Media Player automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ## 2\. How to Open Windows Media Player Using Run Dialog Box
 
  The Run dialog box is one of the most useful tools on Windows. It's a quick and easy way to access frequently used programs and files without having to search through your computer's file system.
@@ -42,11 +43,6 @@ To open Windows Media Player using the Run command, do the following:
 
  That's it. This is how you can open Windows Media Player on your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ## 3\. How to Open Windows Media Player Via Task Manager
 
  Task Manager is a powerful Windows tool you can use to manage your computer's resources as well as close unresponsive programs, but it isn't limited to this. You can also use it to open applications, such as Windows Media Player, quickly and easily.
@@ -59,31 +55,22 @@ To open Windows Media Player using Task Manager, follow these steps:
 ![Open Windows Media Player Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-windows-media-player-using-task-manager.jpg)
 4. Now in the text box, type**wmplayer.exe** and press Enter on your keyboard.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This will open up Media Player, so you can enjoy all your media files without any trouble!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ## 4\. How to Open Windows Media Player From File Explorer
 
  Another way to access Windows Media Player is by using File Explorer. To do this, follow the below steps:
 
 1. Right-click on Start and select**File Explorer** or press**Win + E** on your keyboard. This will open the File Explorer window.
 2. From there, go to the address bar, type**wmplayer.exe** , and hit**Enter** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. How to Open Windows Media Player With the Start Menu
 
@@ -93,14 +80,12 @@ Key features:
 2. From here, click**All apps** in the top right corner.
 3. Then scroll down and click**Windows Tools** in the list.  
 ![Open Windows Media Player Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-windows-media-player-using-control-panel.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 4. Double-click**Windows Media Player Legacy** on the next page.
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. How to Open Windows Media Player Using Control Panel
 
  The Control Panel is a feature on Windows that allows you to access and manage system settings easily. With the help of this tool, you can access almost any application you have installed.
@@ -112,6 +97,10 @@ Key features:
 3. Scroll down and click**Windows Tools** . This will open a new folder containing advanced tools for system administrators.  
 ![Open Windows Media Player Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-windows-media-player-using-control-panel.jpg)
 4. Now double-click**Windows Media Player Legacy** to launch the tool.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. How to Open Windows Media Player With a Desktop Shortcut
 
@@ -135,9 +124,6 @@ C:\Program Files (x86)\Windows Media Player\wmplayer.exe
 
  After creating the shortcut, double-click it to launch Windows Media Player Legacy.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. How to Open Windows Media Player Using a Keyboard Shortcut
 
  Windows offers multiple ways to open Windows Media Player, but the keyboard shortcut is the quickest and easiest way. To use it, follow these steps:
@@ -154,14 +140,11 @@ C:\Program Files (x86)\Windows Media Player\wmplayer.exe
 
  After reading this article, you should now be familiar with nine different ways that you can use to open Windows Media Player on your Windows operating system. Try them out and choose the one that works for you.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -170,4 +153,22 @@ C:\Program Files (x86)\Windows Media Player\wmplayer.exe
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-optimizing-youtube-performance-crafting-perfect-titles-and-tags/"><u>[New] In 2024, Optimizing YouTube Performance Crafting Perfect Titles and Tags</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-multiplatform-iptv-encoding/"><u>[Updated] 2024 Approved Multiplatform IPTV Encoding</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-bridging-gaps-in-storytelling-with-skillful-b-roll-insertion/"><u>[Updated] Bridging Gaps in Storytelling with Skillful B-Roll Insertion</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-cutting-through-limitations-with-top-video-editor-alternatives-for-2024/"><u>[Updated] Cutting Through Limitations with Top Video Editor Alternatives for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-the-art-of-stabilizing-handheld-gopro-videos/"><u>In 2024, Mastering the Art of Stabilizing Handheld GoPro Videos</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, Why does the pokemon go battle league not available On Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/netflix-discontinuing-offline-viewing-feature-on-pcs-effective-soon/"><u>Netflix Discontinuing Offline Viewing Feature on PCs Effective Soon</u></a></li>
+<li><a href="https://windows11.techidaily.com/prepare-for-the-compulsory-rollout-of-windows-11-version-23h2-heres-why-it-matters/"><u>Prepare for the Compulsory Rollout of Windows 11 Version 23H2 - Here's Why It Matters</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamlessly-downloading-pictures-from-icloud-onto-various-devices-comprehensive-instructions/"><u>Seamlessly Downloading Pictures From iCloud Onto Various Devices: Comprehensive Instructions</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-accessing-windows-1/"><u>Step-by-Step Guide: Accessing Windows 1</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-tutorial-on-integrating-your-pc-with-a-tv-display/"><u>Step-by-Step Tutorial on Integrating Your PC with a TV Display</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-tutorial-activating-and-deactivating-secure-login-in-windows-11/"><u>Step-by-Step Tutorial: Activating and Deactivating Secure Login in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-access-how-windows-subsystem-for-linux-is-becoming-more-user-friendly/"><u>Streamlining Access: How Windows Subsystem for Linux Is Becoming More User-Friendly</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-most-effective-ways-to-bypass-apple-iphone-7-plus-activation-lock-by-drfone-ios/"><u>The Most Effective Ways to Bypass Apple iPhone 7 Plus Activation Lock</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-xiaomi-13t-pro-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Xiaomi 13T Pro Screen | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Trail-Clearing Techniques: Deciphering and Erasing Windows History"
-date: 2024-08-15T16:20:19.244Z
-updated: 2024-08-16T16:20:19.244Z
+date: 2024-12-03T20:01:59.895Z
+updated: 2024-12-10T18:03:30.048Z
 tags:
   - windows10
   - windows11
@@ -40,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/552a28ee1a685205797034d4580809b4cdf3bec41
 
  There are two ways you can clear your recent activity on Windows: from your computer's settings, or via your Microsoft account settings. The steps for the latter will vary depending on if you're on Windows 10 or 11\.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Delete Your Windows Activity History via Settings on Windows 10
 
  If you're on Windows 10, perform the following:
@@ -47,26 +51,19 @@ thumbnail: https://thmb.techidaily.com/552a28ee1a685205797034d4580809b4cdf3bec41
 1. Click on the **Settings** button on the Start menu.  
 ![Windows 10 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-settings.jpg)
 2. Then, click **Privacy**.  
-![Windows 10 Privacy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-privacy.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Windows 10 Privacy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-privacy.png)
 3. On the left bar, select **Activity History**.  
 ![Windows 10 Activity Sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-sidebar.png)
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Under Clear Activity History, click the **Clear** button.  
 ![Windows 10 clear activity history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-clear.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This will clear the activity history for the account you're currently using.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ### How to Delete Your Windows Activity History via Settings on Windows 11
 
  If you're on Windows 11, the interface may look a little different.
@@ -74,11 +71,17 @@ thumbnail: https://thmb.techidaily.com/552a28ee1a685205797034d4580809b4cdf3bec41
 1. When you go to Settings, you'll need to select **Privacy & security** from the left sidebar. From the right pane, you'll need to select **Activity history**.  
 ![navigating to activity history in settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/activity-history.jpg)
 2. Click the **Clear** button under the **Clear activity history** section, and you're done.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![clearing activity history in windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/activity-history-disable.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Delete Your Windows Activity History via Your Microsoft Account
 
  You should also clear data from the cloud. To do that, click on **Manage my Microsoft account activity data**. Log into your Microsoft account and delete all types of activity data on the cloud. You'll need to do this separately for each section. For example, if you want to clear your Search history, you'll need to expand the section and click on **Clear all search history**.
@@ -96,8 +99,13 @@ thumbnail: https://thmb.techidaily.com/552a28ee1a685205797034d4580809b4cdf3bec41
  Then, untick **Send my activity history to Microsoft** to stop your data from being sent to Microsoft's servers. Now that both boxes are unticked, you should notice a lack of activity tracking in the future.
 
 ![Checking the options in Windows 10's activity history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-checkboxes.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to View All Windows 10 Activity History
@@ -106,15 +114,9 @@ thumbnail: https://thmb.techidaily.com/552a28ee1a685205797034d4580809b4cdf3bec41
 
  There's a lot to take in on this page, so here's a brief rundown of each category which you should check.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ### The Windows 10 Activity History Categories
 
 ![The categories on the activity history website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-categories.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 **Browsing history** handles the data you've stored via browsing Microsoft's browser, Edge. As such, if you only use Edge to download Firefox or Chrome, you probably won't find much data here. If Edge is your primary browser, take a look to see what browsing habits are stored here.
 
@@ -139,8 +141,9 @@ thumbnail: https://thmb.techidaily.com/552a28ee1a685205797034d4580809b4cdf3bec41
  Unfortunately, there is no silver bullet for Windows 10 privacy. Recommended steps range from setting options during the initial OS setup to installing third-party tools to keep tabs on everything.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Keeping Your Data Safe in Windows 10
 
  Windows 10 is not the privacy advocate's top choice for operating systems, but you can monitor your data and tweak the privacy settings to suit your needs. Now you know how to view the data Microsoft has on you and how to erase them.
@@ -149,11 +152,31 @@ thumbnail: https://thmb.techidaily.com/552a28ee1a685205797034d4580809b4cdf3bec41
 
  Let's explore how Microsoft stores data on you and how you can view your Windows activity history.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-crafting-gifs-like-a-pro-industry-leaders-tools-for-2024/"><u>[New] Crafting GIFs Like a Pro Industry Leaders' Tools for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-downgrading-macos-sierra-to-os-x-el-capitan/"><u>[Updated] Downgrading MacOS Sierra to OS X El Capitan</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-revealing-the-invisible-an-organized-exploration-of-youtubes-secrets/"><u>2024 Approved Revealing the Invisible An Organized Exploration of YouTube's Secrets</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/7-ways-to-unlock-a-locked-realme-gt-neo-5-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Realme GT Neo 5 Phone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138570241-9780595609215-a-to-z-acrophonology/"><u>A to Z Acrophonology | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/connecting-to-external-storage-on-mobile-devices/"><u>Connecting to External Storage on Mobile Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/heavy-load-on-ram-how-to-diminish-malware-scan-impact/"><u>Heavy Load on RAM? How to Diminish Malware Scan Impact</u></a></li>
+<li><a href="https://windows11.techidaily.com/key-steps-for-admin-level-access-on-windows/"><u>Key Steps for Admin-Level Access on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/leading-single-board-computers-for-windows-os/"><u>Leading Single-Board Computers for Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-your-pictures-top-7-windows-photo-orgers/"><u>Master Your Pictures: Top 7 Windows Photo Orgers</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-unleash-your-creativity-how-to-edit-nikon-video-files-with-ease/"><u>New 2024 Approved Unleash Your Creativity How to Edit Nikon Video Files with Ease</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-ultimate-guide-to-mobile-and-web-based-a-capellas-mastery-tools-for-2024/"><u>New The Ultimate Guide to Mobile and Web-Based A Capellas Mastery Tools for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-loss-of-customization-through-nvidia-cp-malfunctions/"><u>Preventing Loss of Customization Through Nvidia CP Malfunctions</u></a></li>
+<li><a href="https://windows11.techidaily.com/refinement-of-power-status-notifications-in-windows-1011/"><u>Refinement of Power Status Notifications in Windows 10/11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/samsung-unveiling-2025-event-coverage-dates-headlines-and-tech-speculations/"><u>Samsung Unveiling 2025 Event Coverage - Dates, Headlines & Tech Speculations</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-resolve-error-0x80041015-in-ms-word-and-excel/"><u>Strategies to Resolve Error 0X80041015 in MS Word & Excel</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-essential-guide-to-usb-management-on-modern-systems/"><u>The Essential Guide to USB Management on Modern Systems</u></a></li>
+</ul></div>
+

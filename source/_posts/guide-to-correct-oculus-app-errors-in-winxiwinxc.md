@@ -1,7 +1,7 @@
 ---
 title: Guide to Correct Oculus App Errors in WinXI/WinXC
-date: 2024-11-27T03:30:09.834Z
-updated: 2024-12-04T03:25:08.434Z
+date: 2024-12-09T20:50:36.433Z
+updated: 2024-12-10T16:10:43.484Z
 tags:
   - windows10
   - windows11
@@ -29,24 +29,32 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 
  Some users have said they resolved the “we encountered an error” installation issue by disconnecting their VR headsets before running the Oculus installer. So, make sure your Rift or Quest 2 headset isn’t connected to your PC. Then try installing the Oculus software without the VR headset connected to your PC.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Run the Oculus Installer File With Administrative Rights
 
 ![The Run as administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/run-as-administrator.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Some Windows programs require admin permission for installation. So, try running the Oculus installer file as an administrator to give it full system access. You can do that by right-clicking the **OculusSetup.exe** file and selecting **Run as administrator**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Deselect the Use Proxy Server Checkbox
 
 ![The Use a proxy server checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/use-a-proxy-server-option-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Disabling proxy servers is another fix a few Oculus app users confirm can fix the “we encountered an error” installation issue. You can deselect the **Use a proxy server** checkbox within Internet Properties. Our [guide to disabling proxy settings in Windows](https://www.makeuseof.com/windows-11-disable-proxy/) includes step-by-step instructions for how you can deselect that setting.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Temporarily Disable Microsoft Defender (or Third-Party Antivirus)
@@ -56,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 ![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/real-time-protection-option-1.jpg)
 
  If you utilize third-party antivirus software, turn off that app’s antivirus shield. Right-click a system tray icon for the antivirus software and select an option that will turn off its real-time antivirus shield (preferably for no longer than 30-60 minutes). Then try installing Oculus with your antivirus protection turned off.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Turn Off the Windows Firewall
 
@@ -77,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 3. Bring up the directory containing the downloaded .NET Framework setup file.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Double-click the **NDP461-KB3102438-Web.exe** file to bring up the setup window.
@@ -101,10 +105,6 @@ C:\Users\<User Folder>\AppData`
 
  You can also utilize a third-party uninstaller utility like IObitUninstaller to clear away leftover Oculus folders and registry keys. When you’ve eradicated all leftover Oculus subfolders, open this [Meta download page](https://www.meta.com/us/en/quest/setup/). Then click **Download Software** to get the latest Windows Oculus app for your VR headset and try installing it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Install the Oculus Windows Software
 
  Many users have resolved the “we encountered an error” Oculus app installation issue by applying those potential solutions. So, there’s a good chance one will fix the Oculus app not installing on your Windows PC. Then you get back to playing all your favorite Rift PC VR games again.
@@ -121,22 +121,16 @@ C:\Users\<User Folder>\AppData`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-educational-excellence-through-effective-lecture-audio-documentation-mac-for-2024/"><u>[New] Educational Excellence Through Effective Lecture Audio Documentation (Mac) for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-strategizing-for-successful-youtube-ad-sponsorships-with-famebit/"><u>[New] Strategizing for Successful YouTube Ad Sponsorships with FameBit</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-low-cost-recorders-guide-to-webcasting-wisdom-for-2024/"><u>[Updated] Low-Cost Recorder's Guide to Webcasting Wisdom for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-narrative-nexus-cutting-edge-storytelling-channels-of-the-year/"><u>[Updated] Narrative Nexus Cutting-Edge Storytelling Channels of the Year</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-nokia-g22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Nokia G22 | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/exclusive-unlimited-free-mondly-pro-up-to-96-off/"><u>Exclusive: Unlimited Free Mondly Pro - Up to 96% Off!</u></a></li>
-<li><a href="https://windows11.techidaily.com/identifying-non-essential-windows-11-functions-to-turn-off/"><u>Identifying Non-Essential Windows 11 Functions to Turn Off</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Oppo A79 5G | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/reawakening-windows-hibernate-a-practical-guide/"><u>Reawakening Windows Hibernate: A Practical Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/reducing-the-overwhelming-impact-of-ntoskrnlexe/"><u>Reducing the Overwhelming Impact of Ntoskrnl.exe</u></a></li>
-<li><a href="https://windows11.techidaily.com/reinstating-hidden-pane-windows-6-procedures-in-win11/"><u>Reinstating Hidden Pane Windows: 6 Procedures in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/restoring-order-7-solutions-for-lost-windows-server-time/"><u>Restoring Order: 7 Solutions for Lost Windows Server Time</u></a></li>
-<li><a href="https://windows11.techidaily.com/steering-clear-of-windows-complications-during-amd-setup/"><u>Steering Clear of Windows Complications During AMD Setup</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-pairing-your-bluetooth-headset-with-a-windows-1noteq-10-laptop/"><u>Step-by-Step Guide: Pairing Your Bluetooth Headset with a Windows 1Noteq 10 Laptop</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-7-must-have-accessories-for-your-sunny-season-daypack/"><u>Top 7 Must-Have Accessories for Your Sunny Season Daypack</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-common-errors-in-microsoft-office-windows/"><u>Troubleshooting Common Errors in Microsoft Office Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/what-makes-windows-11s-limited-functionality-beneficial/"><u>What Makes Windows 11’S Limited Functionality Beneficial?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-premier-screenshots-software-for-linux-users-for-2024/"><u>[New] Premier Screenshots Software for Linux Users for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-rewind-and-play-instagrams-backwards-videos-unveiled-for-2024/"><u>[New] Rewind and Play Instagram's Backwards Videos Unveiled for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-new-age-of-memes-how-to-stand-out-in-the-metaverse/"><u>[New] The New Age of Memes How to Stand Out in the Metaverse</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-top-websites-for-rhythmic-alerts-unique-sounds-for-2024/"><u>[Updated] Top Websites for Rhythmic Alerts Unique Sounds for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/7-ways-to-fix-a-profile-error-occured-in-google-chrome-for-windows/"><u>7 Ways to Fix A Profile Error Occured in Google Chrome for Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-up-exit-point-not-found-errors/"><u>Clearing Up Exit Point Not Found Errors</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/download-your-instagram-masterpieces-easily-for-2024/"><u>Download Your Instagram Masterpieces Easily for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-time-travelers-guide-mastering-video-speed-adjustment/"><u>In 2024, Time Traveler's Guide Mastering Video Speed Adjustment</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-xbox-mic-issues-on-windows-1111-pro/"><u>Resolving Xbox Mic Issues on Windows 11/11 Pro</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/k-youtubes-end-screens-easy-template-ideas-and-tutorials/"><u>Unlock YouTube's End Screens Easy Template Ideas & Tutorials</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11s-search-tweaks-enhancing-your-experience/"><u>Windows 11'S Search Tweaks: Enhancing Your Experience</u></a></li>
 </ul></div>
 

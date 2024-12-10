@@ -1,7 +1,7 @@
 ---
 title: "The Nostalgic Pathway: Transform Windows 11 to '98"
-date: 2024-11-29T16:53:23.966Z
-updated: 2024-12-03T21:47:22.741Z
+date: 2024-12-08T18:04:07.024Z
+updated: 2024-12-10T18:52:27.642Z
 tags:
   - windows10
   - windows11
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 
  With that being said, let's grab everything you need. To make it easier on yourself, you'll want to download these all to one folder.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### WindowsBlinds 11 and Skin Pack
 
  Head over to the[WindowBlinds 11 product page](https://www.stardock.com/products/windowblinds/) to download the first program. You'll also need a user-made skin pack to go with it, which can be found at the[WinCustomize website](https://www.wincustomize.com/explore/windowblinds/9233/) .
@@ -50,35 +46,35 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
  Open-Shell-Menu, found on the[Open-Shell GitHub page](http://github.com/Open-Shell/Open-Shell-Menu) , is a handy program to have in general. We've used it before in order to[make Windows 10 look like Windows XP](https://www.makeuseof.com/tag/windows-10-windows-xp-7-8-look-alike/) . This program can make extensive design modifications to Windows, so it's worth keeping around even if you don't keep the classic theme around.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### RetroBar
 
  RetroBar is pretty self-explanatory. It's going to be crucial to get our taskbar looking just right, as well as restore classic functionality. This is another program that you might find useful aside from its classic look. Find it on[the RetroBar GitHub page](https://github.com/dremin/RetroBar) and download it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Desktop Sidebar
 
  This one might be optional if you don't care for the mostly forgotten Channel Bar, but if you do, head over to[the download page for Desktop Sidebar](http://www.oldversion.com/windows/desktop-sidebar-1-03-build-42) to add it to the collection.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Windows 98 Sound Pack
 
  Last, but very important, is the sound pack. We can import this directly as a sound scheme, although it's going to require some work later on. Download[this sound pack on Blockland Glass](https://blocklandglass.com/addons/addon.php?id=524) and we can finally begin.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Install WindowBlinds 11 and Skin Pack
 
 ![screenshot of windowblinds 11 selecting the classic theme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_windowblinds11_classic_theme.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Install WindowBlinds 11 using its .exe file, and after it has finished installing, simply double-click the**Windows 98 Classic.wba** file that you downloaded earlier. This will load the skin into WindowBlinds 11.
@@ -89,12 +85,16 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 
  You'll now have a very general color layout applied, but it's not quite there yet.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Install Open-Shell-Menu
 
 ![screenshot of open shell menu replacing the start button image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_open_shell_menu_pick_image.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Open-Shell-Menu is another easy installation with an EXE file. After it's installed, we'll want to use it to do two different things.
@@ -113,15 +113,15 @@ This gives us a fairly authentic-looking Start Menu and icon.
 
 ![screenshot of the retrobar settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_retrobar_settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  RetroBar will make an immediate difference, as soon as you run it. You'll notice that it automatically changes your taskbar to a classic style, with individual tabs for programs.
 
  To make changes in this program, you have to right-click your new taskbar and hit**Properties.**
 
  From here you can make some changes if you'd like, however, it launches with a Windows 98 theme applied out of the box, so there's not too much you'll need to do here.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Install Classic Sounds
 
@@ -140,10 +140,6 @@ This gives us a fairly authentic-looking Start Menu and icon.
  Click one of these sound files, then click**Browse.** Navigate to the corresponding sound and apply it.
 
  Do this for the remaining items, or until you're satisfied. There are 15 classic sounds all up, and they add a lot to the nostalgic experience.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Desktop Sidebar
 
@@ -173,6 +169,10 @@ This gives us a fairly authentic-looking Start Menu and icon.
 However, there is one icon you can only change using Winaero Tweaker.
 
  Search for the term libraries and open**Customize Libraries Item.** From here you can hit**Browse** and replace the Libraries icon with a Windows 98 equivalent. This icon appears frequently throughout Windows, so setting it to a classic look goes far in keeping up the classic theme.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Performance Tweaks for Authenticity
 
@@ -211,19 +211,19 @@ However, there is one icon you can only change using Winaero Tweaker.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-maximize-monetization-the-step-by-step-for-youtube-profiles/"><u>[Updated] Maximize Monetization The Step-by-Step for YouTube Profiles</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-navigating-the-social-media-seas-to-boost-follower-count-for-2024/"><u>[Updated] Navigating the Social Media Seas to Boost Follower Count for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-srt-editing-on-macos-a-comprehensive-guide/"><u>2024 Approved Mastering SRT Editing on macOS A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-ultimate-dual-screen-experience-with-acemagics-revolutionary-x1-laptop/"><u>Discover the Ultimate Dual-Screen Experience with Acemagic's Revolutionary X1 Laptop</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-the-most-serious-javascript-problems-in-discord-on-w10w11-pcs/"><u>Fixing the Most Serious Javascript Problems in Discord on W10/W11 PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-hide-the-language-bar-from-the-windows-11-taskbar/"><u>How to Hide the Language Bar From the Windows 11 Taskbar</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-honor-magic-5-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Honor Magic 5 Phone Now with These Tips</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-poco-m6-pro-5g-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Poco M6 Pro 5G</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ingenious-chatbot-creation-guided-by-gpt-principles/"><u>Ingenious Chatbot Creation: Guided by GPT Principles</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-motorola-edgeplus-2023-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Motorola Edge+ (2023) Phone? Unlock It Now</u></a></li>
-<li><a href="https://windows11.techidaily.com/no-more-maintenance-alert-post-support-for-windows-781/"><u>No More Maintenance Alert: Post-Support for Windows 7/8.1</u></a></li>
-<li><a href="https://driver-error.techidaily.com/no-drive-error-fixed-for-sysware-print/"><u>No-Drive Error Fixed for SysWare Print</u></a></li>
-<li><a href="https://windows11.techidaily.com/setting-up-safe-browsing-for-kids-on-windows-11/"><u>Setting Up Safe Browsing for Kids on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-address-file-system-problems-in-win11/"><u>Strategies to Address File System Problems in Win11</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-perfecting-your-images-the-art-of-curving/"><u>[Updated] 2024 Approved Perfecting Your Images The Art of Curving</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-crafting-captivating-openings-top-free-intra-makers-list/"><u>[Updated] In 2024, Crafting Captivating Openings Top Free Intra Makers List</u></a></li>
+<li><a href="https://windows11.techidaily.com/automate-your-photo-display-craft-the-ultimate-win11-slideshow/"><u>Automate Your Photo Display - Craft the Ultimate Win11 Slideshow</u></a></li>
+<li><a href="https://windows11.techidaily.com/converting-oculus-q2-to-windows-pc-for-vr/"><u>Converting Oculus Q2 to Windows PC for VR</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-anthropics-ai-creative-suite/"><u>Exploring Anthropic's AI Creative Suite</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/from-ideas-to-influence-an-insider-look-at-strategic-instagram-videos/"><u>From Ideas to Influence An Insider Look at Strategic Instagram Videos</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-xiaomi-redmi-note-12-proplus-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Xiaomi Redmi Note 12 Pro+ 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-around-the-clock-vision-versus-multiplanar-exposures/"><u>In 2024, Around-the-Clock Vision Versus Multiplanar Exposures</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/mastering-action-platform-detailed-step-by-step-user-instructions/"><u>Mastering Action Platform: Detailed Step-by-Step User Instructions</u></a></li>
+<li><a href="https://windows11.techidaily.com/method-for-startingstopping-windows-installer/"><u>Method for Starting/Stopping Windows Installer</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-the-obstacle-fixing-windows-system-function-interruption/"><u>Overcoming the Obstacle: Fixing Windows System Function Interruption</u></a></li>
+<li><a href="https://windows11.techidaily.com/reconfiguring-start-menu-and-browser-by-defaults/"><u>Reconfiguring Start Menu and Browser by Defaults</u></a></li>
+<li><a href="https://windows11.techidaily.com/unblocking-microsoft-store-error-0x80072efd/"><u>Unblocking Microsoft Store Error 0X80072EFD</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-iphone-15-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>Unlock iPhone 15 With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
 </ul></div>
 

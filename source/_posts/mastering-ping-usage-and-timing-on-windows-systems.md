@@ -1,7 +1,7 @@
 ---
 title: "Mastering Ping: Usage & Timing on Windows Systems"
-date: 2024-11-26T16:08:54.571Z
-updated: 2024-12-04T05:00:02.471Z
+date: 2024-12-08T21:35:39.197Z
+updated: 2024-12-10T21:12:41.950Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -43,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 
  Besides checking if a host is reachable, the command keeps track of the round-trip time. This is the time a message takes to go from a source computer to a destination server and then return to the source, along with a response from the destination server. This data can help you analyze how stable your connection to a server is.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Syntax of the Ping Command
 
  The basic syntax of the ping command looks like this:
@@ -54,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
  Besides this basic parameter required for the Ping test to execute correctly, you can also use other parameters listed on the [Microsoft website](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/ping) to customize the test further.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use the Ping Command on Windows
@@ -73,19 +81,15 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 
 ![Running the Command Prompt app from the Run dialog box in Windows.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/running-the-command-prompt-app-from-the-run-dialog-box-in-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you are an administrator of a locked corporate-owned PC, you might need to run PowerShell or Command Prompt with administrative privileges to run the ping test. To do so, type **"Command Prompt"** or **"PowerShell"** in Windows Search, right-click on the utility, and select **"Run as administrator**.**"**
 
 ![Running the Windows PowerShell as an administrator on Windows.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/running-the-windows-powershell-as-an-administrator-on-windows.jpg)
 
- Then, click **"Yes"** in the **UAC (User Account Control)** window.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Then, click **"Yes"** in the **UAC (User Account Control)** window.
 
 ### Analyzing the Results of the Ping Test
 
@@ -93,23 +97,19 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 
 ![Running the ping command in Windows PowerShell.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/running-the-ping-command-in-windows-powershell.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The **TTL** (Time to Live) value is the lifespan of the packet in the network, after which it's discarded after a certain number of hops through routers. The common benchmark is 64, but TTL can be higher if the data packet is sent through a complex network. But a drastically longer one deserves a closer look to ensure your network is functioning smoothly.
 
  If the ping doesn't go through correctly in the test, and you see a "request timed out" error, it indicates an issue with your internet connection.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How Do You Stop the Ping Command?
 
  The ping command supports a "/t" parameter that specifies that it should continue sending echo requests to the destination server until interrupted. If you use this parameter when running the ping test, your device keeps pinging the specified server until you manually stop the test. To stop an ongoing ping test, you can press **Ctrl + C** or press **Ctrl + Enter** to stop and display the data.
 
 ![Stopping the ping test to analyze results in Windows Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/3-stop-the-ping-test-by-pressing-ctrl-c-keys-in-windows-command-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Can the Ping Command Do for You?
 
@@ -131,18 +131,22 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-elevating-your-4k-entertainment-tvs-vs-projection-technology/"><u>[New] In 2024, Elevating Your 4K Entertainment TVs vs Projection Technology</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-advanced-editing-tips-remove-the-unnecessary-picture-border/"><u>[Updated] Advanced Editing Tips Remove the Unnecessary Picture Border</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unlocking-window-11s-best-kept-secrets-for-maximum-productivity/"><u>[Updated] Unlocking WINDOW 11'S Best-Kept Secrets for Maximum Productivity</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/eizos-boundaries-reached-the-cg318-4k-reviewed/"><u>EIZO's Boundaries Reached The CG318-4K Reviewed</u></a></li>
-<li><a href="https://win-web.techidaily.com/getting-started-with-the-windows-insider-program-benefits-and-enrollment-steps-microsoft/"><u>Getting Started with the Windows Insider Program: Benefits and Enrollment Steps - Microsoft</u></a></li>
-<li><a href="https://solve-info.techidaily.com/how-to-restore-acer-nitro-5-laptop-to-factory-settings-with-windows-11-everything-you-need-to-know/"><u>How to Restore Acer Nitro 5 Laptop to Factory Settings with Windows 11 - Everything You Need to Know</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-oneplus-nord-ce-3-5g-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of OnePlus Nord CE 3 5G Through Google Earth?</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-guide-customizing-your-ms-excel-dropdown-menu/"><u>Step-by-Step Guide: Customizing Your MS Excel Dropdown Menu</u></a></li>
-<li><a href="https://windows11.techidaily.com/turbo-type-tips-quick-key-input-enhancements-for-win-1011/"><u>Turbo-Type Tips: Quick Key Input Enhancements for Win 10/11</u></a></li>
-<li><a href="https://windows11.techidaily.com/win11-5ghz-wi-fi-connection-woes-how-to-solve-them/"><u>Win11 5GHz Wi-Fi Connection Woes: How to Solve Them</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11-widgets-configuration-the-triad-approach/"><u>Windows 11 Widgets Configuration: The Triad Approach</u></a></li>
-<li><a href="https://windows11.techidaily.com/winfix-guide-reviving-dormant-wsreset-service-process/"><u>Winfix Guide: Reviving Dormant WSReset Service Process</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-secure-the-best-a-list-of-top-free-mac-screen-recorders/"><u>[New] 2024 Approved Secure the Best A List of Top Free Mac Screen Recorders</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-elevating-your-content-with-instagram-videos/"><u>[New] Elevating Your Content with Instagram Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-shadowy-time-lapse-recording-methods/"><u>[Updated] Shadowy Time-Lapse Recording Methods</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-superior-extra-memory-solution-for-sony-a7c-for-2024/"><u>[Updated] Superior Extra Memory Solution for Sony A7C for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/configuring-windows-index-settings/"><u>Configuring Windows Index Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-routes-to-printer-control-in-windows-11-max-50-chars/"><u>Efficient Routes to Printer Control in Windows 11 (Max 50 Chars)</u></a></li>
+<li><a href="https://windows11.techidaily.com/escape-without-errors-tips-for-a-well-functioning-key-on-windows/"><u>Escape Without Errors: Tips for a Well-Functioning Key on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-open-the-internet-options-in-windows-11/"><u>How to Open the Internet Options in Windows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Xiaomi 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-kinemasters-features-and-comparing-to-leading-online-games/"><u>In 2024, Navigating KineMaster's Features and Comparing to Leading Online Games</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-recurring-edge-shortcut-installations/"><u>Preventing Recurring Edge Shortcut Installations</u></a></li>
+<li><a href="https://windows11.techidaily.com/removing-geforce-graphical-overlay-feature/"><u>Removing GeForce Graphical Overlay Feature</u></a></li>
+<li><a href="https://windows11.techidaily.com/sling-verification-sluggishness-top-strategies-for-speedy-updates/"><u>Sling Verification Sluggishness: Top Strategies for Speedy Updates</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/539135-9780307757753-soul-psychology/"><u>Soul Psychology | Free Book</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/step-by-step-filming-and-editing-your-first-reel-on-facebook/"><u>Step-by-Step Filming and Editing Your First Reel on Facebook</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-eliminating-nvidias-visual-boost/"><u>Step-by-Step: Eliminating NVIDIA's Visual Boost</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ditors-for-youtube-writers-and-creators-all-free-for-2024/"><u>Top Editors for YouTube' Writers and Creators - All Free for 2024</u></a></li>
 </ul></div>
 

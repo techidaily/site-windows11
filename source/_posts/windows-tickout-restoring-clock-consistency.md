@@ -1,7 +1,7 @@
 ---
 title: "Windows Tickout: Restoring Clock Consistency"
-date: 2024-08-15T16:21:58.329Z
-updated: 2024-08-16T16:21:58.329Z
+date: 2024-12-08T19:20:13.592Z
+updated: 2024-12-10T18:07:50.290Z
 tags:
   - windows10
   - windows11
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/309cf08df9ca66a5508e9f2e2ecebe14a1b42826a
 
  Is your Windows system clock out of sync? Are you receiving an error message saying “Time synchronization failed”? It may cause various issues like missing reminders or emails with the wrong timestamp. Read this guide to learn how to fix the issue and synchronize your system clock accurately.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Causes Time Synchronization to Fail on Windows?
 
  Time synchronization issues on Windows can occur for several reasons. Here are some common causes.
@@ -29,9 +33,6 @@ thumbnail: https://thmb.techidaily.com/309cf08df9ca66a5508e9f2e2ecebe14a1b42826a
 
  Now that you know the possible causes of time synchronization failure, let’s discuss how to fix this issue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ## 1\. Restart the Windows Time Service
 
  The Windows Time Service keeps the computer’s time and date synchronized with other computers on the network. If this service is stopped or not functioning, it leads to time synchronization issues.
@@ -43,24 +44,13 @@ thumbnail: https://thmb.techidaily.com/309cf08df9ca66a5508e9f2e2ecebe14a1b42826a
 3. Locate the **Windows Time** service and right-click on it.
 4. Select **Restart** from the context menu.  
 ![Restart Windows Time service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/restart-windows-time-service.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once the service is restarted, close the window and check the time synchronization.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## 2\. Configure the Windows Time Service
 
  If restarting the Windows Time Service doesn't resolve the time synchronization issue, configure its settings to see if that helps.
@@ -95,9 +85,6 @@ No advertising on the website.
 
  Once you perform the above action, close all windows and restart your computer. After restarting, check if the time synchronization issue is fixed.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Add More Time Servers
 
  If changing the time server doesn't work, add more servers to the list. That way, Windows try different servers to keep time in sync. To add more time servers, follow these steps:
@@ -110,14 +97,20 @@ No advertising on the website.
 5. Right-click on the **Servers** key and select **New** \> **String Value**.  
 ![Add More Time Servers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/add-more-time-servers.jpg)
 6. Name the new string value **ServerX**, where X is the server number.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Double-click on the new **String Value** and enter a valid time server URL in the Value data box.
 8. Repeat the above steps until you have added all the time servers to the list.
 
  Once you are done, close the registry editor. After synchronization completes, close all windows and restart your computer. Then verify if the time is accurate.
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Scan for Malicious Programs
 
  If other methods fail to fix the time synchronization issue on your Windows computer, scan for malicious programs. Malicious software interrupts time synchronization processes and causes errors.
@@ -128,19 +121,16 @@ No advertising on the website.
 2. Type **Windows Security** in the search box and hit Enter.
 3. In the Windows Security window, click on **Virus & threat protection**.  
 ![Scan options in Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/scan-options-in-windows-security.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Under **Current threats**, click **Scan options** and check **Full scan** from the list.  
 ![Full Scan Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/full-scan-windows-security.jpg)
 5. Now click **Scan now** to initiate a full scan.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you perform the above action, close the Windows Security window and restart your computer. If malicious programs were responsible for the issue, it should now keep the time synchronized correctly.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## 6\. Try Some Generic Fixes
 
  Besides the specific solutions mentioned above, there are some general fixes that troubleshoot time synchronization problems.
@@ -158,11 +148,33 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  We hope this article resolved any timing issues you encountered on your Windows computer. If the issue continues, perform a system restore. This reverses any recent modifications that could cause the issue. Meanwhile, it is advised to regularly backup your data in case of sudden system failures.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-av1-decoded-for-starters/"><u>[New] AV1 Decoded for Starters</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-innovative-approaches-to-online-collaboration-4/"><u>[New] In 2024, Innovative Approaches to Online Collaboration (#4)</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-sun-salutations-and-beyond-youtubes-premier-yoga-pages/"><u>[Updated] In 2024, Sun Salutations & Beyond – YouTube's Premier Yoga Pages</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-tips-for-rectifying-display-driver-crashes/"><u>Essential Tips for Rectifying Display Driver Crashes</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-disable-hyper-v-in-windows-11/"><u>Guide to Disable Hyper-V in Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-does-crypto-work-your-starter-resource-based-on-zdnet-expertise/"><u>How Does Crypto Work? Your Starter Resource Based on ZDNet Expertise</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-black-ops-cold-war-e887a0005-error-a-step-by-step-guide/"><u>How to Fix Black Ops Cold War E887A0005 Error – A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-repair-auto-detection-failure-in-windows-proxies/"><u>How to Repair Auto-Detection Failure in Windows Proxies</u></a></li>
+<li><a href="https://windows11.techidaily.com/improve-efficiency-with-top-5-clock-screensaver-apps/"><u>Improve Efficiency with Top 5 Clock Screensaver Apps</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-prime-time-action-film-transcription/"><u>In 2024, Prime Time Action Film Transcription</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-setting-the-standard-for-online-video-presentations-yt-thumbnail-sizing/"><u>In 2024, Setting the Standard for Online Video Presentations – YT Thumbnail Sizing</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-unveil-the-power-leveraging-windows-11-and-zoom-maximum/"><u>In 2024, Unveil the Power Leveraging Windows 11 and Zoom Maximum</u></a></li>
+<li><a href="https://win11.techidaily.com/leading-windows-simulators-unmatched-nintendo-switch-games/"><u>Leading Windows Simulators: Unmatched Nintendo Switch Games</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-auto-shutdown-for-idle-windows-1011-machines/"><u>Mastering Auto-Shutdown for Idle Windows 10/11 Machines</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-normal-operations-for-deleted-characters/"><u>Restoring Normal Operations for Deleted Characters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-tackle-reversal-in-keyboard-input/"><u>Strategies to Tackle Reversal in Keyboard Input</u></a></li>
+<li><a href="https://windows11.techidaily.com/tactics-to-conceal-windows-11s-task-control-icon/"><u>Tactics to Conceal Windows 11'S Task Control Icon</u></a></li>
+<li><a href="https://windows11.techidaily.com/tactics-to-overcome-disappearing-ubisoft-game-launcher/"><u>Tactics to Overcome Disappearing Ubisoft Game Launcher</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-repairing-disp-settings-missing-error/"><u>Tips for Repairing Disp Settings Missing Error</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: How to Fix Your Headset Mic Not Working on Windows
-date: 2024-11-30T02:02:49.484Z
-updated: 2024-12-03T19:21:24.678Z
+date: 2024-12-08T16:14:45.028Z
+updated: 2024-12-10T18:21:37.315Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/d02f0d2061399f021d19d9bbfd673d9a86e502373
 
  If none of the above checks and fixes work, apply the remaining fixes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Ensure That the Microphone Isn't Muted
 
  There is usually a button on most headsets that allows you to muffle the microphone. This control enables users to mute themselves when not participating in a conversation. If your headset also has one, make sure you haven't muted it by mistake.
@@ -52,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/d02f0d2061399f021d19d9bbfd673d9a86e502373
 ![Unmute the Headset Microphone in the Realtek Audio Control App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/1-unmute-the-headset-microphone-in-the-realtek-audio-control-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you don't have the Realtek audio console installed on your device, you can download it from the [Microsoft Store](https://apps.microsoft.com/store/detail/realtek-audio-control/9P2B8MCSVPLN?hl=en-us&gl=us).
@@ -65,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/d02f0d2061399f021d19d9bbfd673d9a86e502373
 
 **Y**ou may not see any popups when connecting the headset to a laptop; just ensure you have plugged your headset correctly.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Make Sure Your Headset Microphone Isn't Faulty
 
 ![Green and Black Razer Headset Sitting on Mousepad on Gamer’s Desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/green-and-black-razer-headset-sitting-on-mousepad-on-gamer-s-desk.jpg)
@@ -76,10 +76,6 @@ thumbnail: https://thmb.techidaily.com/d02f0d2061399f021d19d9bbfd673d9a86e502373
  Is your headset already unmuted and correctly plugged in? If that is the case, ensure your microphone is not faulty, which could be why it isn't picking up your voice. The easiest way to find that out is to connect your headset to a different device (assuming you have one) and see if it works there.
 
  If your headset mic also doesn't work on your other device, it could be faulty. If that is the case, you should have your hardware inspected by a nearby technician. However, if the other device detects the microphone, your hardware isn't faulty; probably misconfigured OS settings are to blame.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Select the Right Microphone and Test It
 
@@ -89,17 +85,9 @@ thumbnail: https://thmb.techidaily.com/d02f0d2061399f021d19d9bbfd673d9a86e502373
 
 ![Select the Main Headset Microphone in Sound Settings of the Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/select-the-main-headset-microphone-in-sound-settings-of-the-settings-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After that, test the microphone by clicking the **Start test** button. If your microphone successfully records the sound, the headset is now configured correctly.
 
 ![Test the Headset Microphone in the Sound Properties Windows of the Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/test-the-headset-microphone-in-the-sound-properties-windows-of-the-settings-app.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Make the Headset Microphone Your Default Audio Input Device
 
@@ -111,15 +99,15 @@ thumbnail: https://thmb.techidaily.com/d02f0d2061399f021d19d9bbfd673d9a86e502373
 
 ![Set Your Headset Microphone As a Default Device in the Recording Tab of More Sound Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/6-set-your-headset-microphone-as-a-default-device-in-the-recording-tab-of-more-sound-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you don't see the headset microphone in the list of recording devices, it could be disabled. In such a case, right-click anywhere in the **Recording** tab and select **Show Disabled Devices**.
 
 ![Click on Show Disabled Devices by Right-clicking Within the Recording Tab of More Sound Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/7-click-on-show-disabled-devices-by-right-clicking-within-the-recording-tab-of-more-sound-settings.jpg)
 
  After that, set your headset microphone as the default audio input device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Change the App Permissions for the Microphone
 
@@ -134,11 +122,23 @@ thumbnail: https://thmb.techidaily.com/d02f0d2061399f021d19d9bbfd673d9a86e502373
 5. After that, locate the app where the headset microphone isn't working and turn on the toggle next to it.  
 ![Turn On the Toggle Next to App to Enable Microphone Access in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/9-turn-on-the-toggle-next-to-app-to-enable-microphone-access-in-windows-settings-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Select the Correct Microphone in the App's Settings
 
  If the headset microphone still does not work after following the steps above, likely, the app where the microphone does not work doesn't have the correct microphone selected in its settings.
 
  Therefore, ensure the headset microphone is selected as the primary audio input device in the app's settings. Also, check that the microphone isn't muted there and its volume isn't too low.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get Your Headset Microphone Working Again
 
@@ -156,16 +156,21 @@ thumbnail: https://thmb.techidaily.com/d02f0d2061399f021d19d9bbfd673d9a86e502373
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://windows11.techidaily.com/executing-an-instant-in-place-windows-11-boost/"><u>Executing an Instant, In-Place Windows 11 Boost</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-solutions-for-timely-service-responses-avoiding-error-1053/"><u>Expert Solutions for Timely Service Responses – Avoiding Error 1053</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-resolve-blue-screens-resulting-from-unhandled-exceptions/"><u>How to Resolve Blue Screens Resulting From Unhandled Exceptions</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Apple iPhone XS | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/methods-for-correcting-roblox-windows-problems/"><u>Methods for Correcting Roblox Windows Problems</u></a></li>
-<li><a href="https://video-capture.techidaily.com/optimal-video-format-showdown-avchd-vs-mp4-for-your-sony-or-panasonic-camera/"><u>Optimal Video Format Showdown: AVCHD Vs. MP4 for Your Sony or Panasonic Camera</u></a></li>
-<li><a href="https://windows11.techidaily.com/recovering-internet-router-settings-on-windows-pc/"><u>Recovering Internet Router Settings on Windows PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-future-is-here-windows-11-changes-to-file-explorer/"><u>The Future Is Here: Windows 11 Changes to File Explorer</u></a></li>
-<li><a href="https://fox-that.techidaily.com/understanding-icloud-staying-protected-against-accidental-photo-loss/"><u>Understanding iCloud: Staying Protected Against Accidental Photo Loss</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/what-are-the-different-versions-of-windows-movie-maker/"><u>What Are the Different Versions of Windows Movie Maker?</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-your-budget-is-better-spent-elsewhere-not-on-hdr/"><u>Why Your Budget Is Better Spent Elsewhere, Not on HDR</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-free-efficient-translation-the-top-8-best-apps-reviewed/"><u>[New] Free, Efficient Translation The Top 8 Best Apps Reviewed</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-from-play-to-pro-setting-up-a-ps4-game-broadcast-hub/"><u>[New] From Play to Pro Setting up a PS4 Game Broadcast Hub</u></a></li>
+<li><a href="https://windows11.techidaily.com/apk-quickstart-guide-for-widely-adopted-windows-11/"><u>APK Quickstart Guide for Widely-Adopted Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/breaching-windows-denied-logins-with-smart-fixes/"><u>Breaching Windows' Denied Logins with Smart Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/cutting-clutter-best-windows-apps-to-disable/"><u>Cutting Clutter: Best Windows Apps to Disable</u></a></li>
+<li><a href="https://blog-min.techidaily.com/dvd-duplication-process-explained-for-microsofts-latest-os-versions/"><u>DVD Duplication Process Explained for Microsoft's Latest OS Versions</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-resolving-windows-service-response-errors/"><u>Guide to Resolving Windows Service Response Errors</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-optimize-accessibility-top-free-speech-conversion-tools-for-macos/"><u>In 2024, Optimize Accessibility Top Free Speech Conversion Tools for MacOS</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On OnePlus Nord 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-sifting-through-time-a-guide-to-twitter-archives/"><u>In 2024, Sifting Through Time A Guide to Twitter Archives</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-win1011-network-failure-code-0x800704b3/"><u>Resolving Win10/11 Network Failure: Code 0X800704B3</u></a></li>
+<li><a href="https://windows11.techidaily.com/revolutionize-your-pc-clear-tpm-from-windows-11/"><u>Revolutionize Your PC: Clear TPM From Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-firmware-enhancement-for-surface-devices/"><u>Seamless Firmware Enhancement for Surface Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/significant-icloud-enhancements-now-available-on-windows-platform/"><u>Significant iCloud Enhancements Now Available on Windows Platform</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175722911-test-drive-the-lian-li-galahad-ii-all-in-one-cooler-an-innovative-solution-for-keeping-your-i7-1-14900k-system-chilled-under-pressure/"><u>Test Drive the Lian Li Galahad II All-in-One Cooler - An Innovative Solution for Keeping Your I7 1 14900K System Chilled Under Pressure.</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/ultimate-university-sound-snatchers/"><u>Ultimate University Sound Snatchers</u></a></li>
 </ul></div>
 

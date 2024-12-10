@@ -1,7 +1,7 @@
 ---
 title: "IPhone/Android: Your Smartphone as a Windows Microphone"
-date: 2024-08-15T16:18:37.975Z
-updated: 2024-08-16T16:18:37.975Z
+date: 2024-12-04T20:53:33.785Z
+updated: 2024-12-10T17:06:19.020Z
 tags:
   - windows10
   - windows11
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/8c3b13a3ac83a5d3d00093c2a17a7909556b01cc1
 
  We'll show you different ways to use your phone as a microphone. The instructions herein work for both Windows 10 and Windows 11\.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Use Your Phone as a Microphone for PC
 
  One of the best ways to achieve this is by using [WO Mic](https://wolicheng.com/womic/). With this program, you can use USB, Bluetooth, or Wi-Fi to connect your smartphone's microphone to your computer.
@@ -36,9 +40,6 @@ thumbnail: https://thmb.techidaily.com/8c3b13a3ac83a5d3d00093c2a17a7909556b01cc1
 
  We'll detail the steps for all the different options below.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### 1\. Connect via Bluetooth
 
  First, enable Bluetooth on your computer:
@@ -48,9 +49,6 @@ thumbnail: https://thmb.techidaily.com/8c3b13a3ac83a5d3d00093c2a17a7909556b01cc1
 3. Slide **Bluetooth** to **On**. Your computer will now be discoverable to other devices.
 
 ![windows 11 bluetooth and devices](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-11-bluetooth-and-devices.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Next, enable Bluetooth on your phone. This option's exact location will vary per device, but it'll be somewhere in **Settings** (then perhaps within a **Connections** menu).
 
@@ -88,17 +86,19 @@ thumbnail: https://thmb.techidaily.com/8c3b13a3ac83a5d3d00093c2a17a7909556b01cc1
 3. Go back to the previous screen and tap the **play icon** to activate your phone's microphone.
 
 ![wo mic android app settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/wo-mic-android-app-settings.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![wo mic android app main screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/wo-mic-android-app-main-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 3\. Connect via Wi-Fi
 
  For this method, both your phone and computer need to be connected to the same Wi-Fi network.
@@ -111,9 +111,6 @@ Close
 4. Click the one you wish to use, then click **Connect**.
 
 ![windows 11 available wifi networks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/windows-11-available-wifi-networks.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 
  On the mobile WO Mic app:
 
@@ -161,8 +158,9 @@ Close
 3. Beneath **Input**, select **Microphone (WO Mic Device)**.
 
 ![windows 11 sound input settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-11-sound-input-settings.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To check the microphone is detecting your voice:
@@ -171,6 +169,10 @@ Close
 * On Windows 11, click the **arrow** next to WO Mic Device to see its properties. From here, next to **Test your microphone**, click **Start test** and speak into your smartphone.
 
 ![windows 11 microphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/windows-11-microphone-settings.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Alternative Methods to WO Mic
 
@@ -192,11 +194,31 @@ Close
 
  We'll show you different ways to use your phone as a microphone. The instructions herein work for both Windows 10 and Windows 11\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/he-ultimate-list-top-7-android-apps-blocking-intrusive-ads-for-2024/"><u>[New] The Ultimate List Top 7 Android Apps Blocking Intrusive Ads for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-leverage-advanced-transcription-tools-within-microsoft-word-to-boost-productivity/"><u>[Updated] Leverage Advanced Transcription Tools Within Microsoft Word to Boost Productivity</u></a></li>
+<li><a href="https://change-location.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-nokia-c12-plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-wash-away-your-computers-defender-past/"><u>How to Wash Away Your Computer's Defender Past</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-trouble-with-iphone-7-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>In 2024, Trouble with iPhone 7 Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/keyboard-commands-for-optimal-windows-photo-editing/"><u>Keyboard Commands for Optimal Windows Photo Editing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/lack-of-awareness-in-ai-prose/"><u>Lack of Awareness in AI Prose</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-network-configurations-in-windows-os/"><u>Mastering Network Configurations in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/regaining-access-post-failed-windows-login-attempt/"><u>Regaining Access Post Failed Windows Login Attempt</u></a></li>
+<li><a href="https://windows11.techidaily.com/regaining-access-fixing-malwarebytes-service-errors-in-windows-1011/"><u>Regaining Access: Fixing Malwarebytes' Service Errors in Windows 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/stay-ahead-postpone-windows-edge-tabs-on-w11/"><u>Stay Ahead: Postpone Windows Edge Tabs on W11</u></a></li>
+<li><a href="https://fox-where.techidaily.com/syncing-your-itunes-library-with-dj-pro-software-a-step-by-step-guide/"><u>Syncing Your iTunes Library with DJ Pro Software: A Step-by-Step Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-vivo-s18-pro-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Vivo S18 Pro Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-techniques-for-disabling-windows-11-tpm/"><u>Top Techniques for Disabling Windows 11 TPM</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-windows-remote-problem-invisible-screen/"><u>Unveiling Windows Remote Problem: Invisible Screen</u></a></li>
+</ul></div>
+

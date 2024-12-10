@@ -1,7 +1,7 @@
 ---
 title: Techniques to Disable Discord Auto-Updates at Bootup
-date: 2024-08-15T16:21:11.081Z
-updated: 2024-08-16T16:21:11.081Z
+date: 2024-12-09T20:29:39.182Z
+updated: 2024-12-10T20:51:12.354Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/8009d92085bbb2b59b0e3b6dadde39baefbadc66e
 
  If you're tired of Discord launching and looking for updates at every startup, we'll show you how to stop it on Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Stop Discord From Launching at Startup on Windows
 
 Follow the below steps to prevent Discord from launching at startup:
@@ -30,13 +34,18 @@ Follow the below steps to prevent Discord from launching at startup:
 4. Turn the toggle next to**Open Discord** to the left to turn it off.  
 ![Disbaling Open Discord at Startup Option in Discord Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Disbaling-Open-Discord-at-Startup-Option-in-Discord-Settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The above steps will prevent Discord from launching at startup. Just like Discord, you can also[add or remove other startup programs](https://www.makeuseof.com/how-to-add-remove-startup-programs-windows-11/) at any time.
 
  Sadly, the quest to prevent Discord from launching at startup doesn't end here. If Discord's Update process is allowed to run at startup in Task Manager, it may still look for updates and launch. It is, therefore, imperative to disable that as well.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Stop Discord From Searching for Updates at Startup on Windows
 
  Follow the below steps to stop Discord from searching for updates at startup:
@@ -46,9 +55,9 @@ Follow the below steps to prevent Discord from launching at startup:
 3. Locate the**Update** process having Discord's official logo as an icon.
 4. Right-click on it and select**Disable** .  
 ![Disabling Discord Update Process in Windows Startup Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Disabling-Discord-Update-Process-in-Windows-Startup-Task-Manager.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Following the above steps will prevent Discord from launching at startup and looking for updates. However, ensure you disable the Discord-related Update process in the Task Manager, not any other process. You may get into more trouble if you stop the Windows-related update process.
@@ -56,22 +65,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Do not perform any actions if you do not see any Update process in Task Manager's Startup tab.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Make Discord Stop Launching at Startup and Checking for Updates
 
  We showed you how to prevent Discord from starting and checking for updates at startup. If you are frustrated by it, you can turn it off. By doing so, you will also reduce Windows boot time.
 
  Like Discord Update, you can also disable many other processes to speed up Windows' startup. Among them are QuickTime, Evernote Clipper, and Microsoft Office, all of which can be disabled at startup without affecting your PC in a negative way.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -80,4 +87,17 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-insider-look-at-ios-video-recording-tools-for-2024/"><u>[Updated] The Insider Look at IO's Video Recording Tools for 2024</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/distinguishing-between-trivia-and-dj-services-essential-insights-for-your-pcdj-business/"><u>Distinguishing Between Trivia and DJ Services: Essential Insights for Your PCDJ Business</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-your-file-management-game-top-4-advanced-techniques-for-windows-11-tab-users/"><u>Elevate Your File Management Game: Top 4 Advanced Techniques for Windows 11 Tab Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/elgato-stream-deck-neo-review-initial-thoughts-and-unboxing-experience/"><u>Elgato Stream Deck Neo Review - Initial Thoughts and Unboxing Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/embracing-the-elegance-of-onsite-data-duplication-a-guide-to-local-backups/"><u>Embracing the Elegance of Onsite Data Duplication: A Guide to Local Backups</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-windows-network-protection-with-microsofts-newly-integrated-zero-trust-dns-technology/"><u>Enhancing Windows Network Protection with Microsoft's Newly Integrated Zero Trust DNS Technology</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-pro-max-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 Pro Max With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-navigating-vector-editing-beyond-magixs-domain/"><u>In 2024, Navigating Vector Editing Beyond Magix's Domain</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-chromebook-guide-integrating-audacity-setup-and-removal-tips/"><u>Updated Chromebook Guide Integrating Audacity - Setup & Removal Tips</u></a></li>
+</ul></div>
 

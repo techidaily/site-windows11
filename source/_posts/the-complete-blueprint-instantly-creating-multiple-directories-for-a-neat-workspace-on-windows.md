@@ -1,7 +1,7 @@
 ---
 title: "The Complete Blueprint: Instantly Creating Multiple Directories for a Neat Workspace on Windows"
-date: 2024-12-01T19:12:52.598Z
-updated: 2024-12-04T00:37:48.216Z
+date: 2024-12-08T16:23:45.353Z
+updated: 2024-12-10T19:50:01.426Z
 tags:
   - windows10
   - windows11
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/7e377b50c4e513bd18b3a4caf17d4fa401f54e28d
 ![Run dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/accessing-cmd-through-run-box.jpg)
 3. Click **Yes** in the User Account Control prompt.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Type the following command in the Command Prompt window and hit **Enter** to execute it. Make sure to replace the \[location\] with the location where you want to create multiple folders.  
 `cd /d [location]`
 5. For instance, if we want to create folders in the C:\\users\\hp\\documents folder, we will execute the command like cd /d C:\\users\\hp\\documents.  
@@ -59,12 +55,13 @@ thumbnail: https://thmb.techidaily.com/7e377b50c4e513bd18b3a4caf17d4fa401f54e28d
 1. Right-click on the **Windows icon** on your taskbar and choose **Powershell (Admin)**.  
 ![Windows Terminal (Admin)](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/windows-terminal.jpg)
 2. Select Yes in the UAC prompt.  
-![UAC prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win11-terminal-uac.jpg)
-3. Now, execute the command mentioned below and change the \[Location\] with your targeted location for creating the folders.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![UAC prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win11-terminal-uac.jpg)
+3. Now, execute the command mentioned below and change the \[Location\] with your targeted location for creating the folders.  
 
 `cd [Location]`
 4. We want to create the sub-folders in the document folders, so we will be executing the following command:  
@@ -77,14 +74,10 @@ thumbnail: https://thmb.techidaily.com/7e377b50c4e513bd18b3a4caf17d4fa401f54e28d
 ![File names command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win11-terminal-md-files.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Finally, close the Powershell window and check if the folders have been created.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Use the Notepad to Create Multiple Folders at Once
 
@@ -105,8 +98,16 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
 ![Save as option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/notepad-save-as.jpg)
 5. Give your file a name followed by **.bat**. For instance, we named our file as makeuseof.bat.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Notepad file name](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/notepad-file-name.jpg)
 6. Expand the dropdown for Save as type and choose **All files**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7. Click **OK** and close the Notepad.
 8. Now, navigate to the location of the folder and open the bat file. Opening it should create the folders and their subfolders for you.
@@ -114,7 +115,7 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
  Now that you have created multiple files and folders, [organizing these files on Windows](https://www.makeuseof.com/tag/automatically-organize-files-windows/) is also worth considering if you do not want to spend a lot of time looking for information in them. Additionally, Windows also allows you to [rename multiple folders at once](https://www.makeuseof.com/cool-folder-tips-windows/), which can be helpful when organizing them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Use a Third-Party Application
@@ -137,11 +138,11 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
 ![Clicking Yes in the UAC prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/folder-frenzy-agreement.jpg)
 4. Once the Folder Frenzy dialog launches, type the names of the folders you want to create and click on the **Create Folder** button. These folders will be created in the Folder Frenzy file.  
 
-![Create folder in Folder Frenzy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/folder-frenzy-create-folder.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Create folder in Folder Frenzy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/folder-frenzy-create-folder.jpg)
 
  From here, you can even take a step further and learn [how to launch multiple programs with one shortcut on Windows](https://www.makeuseof.com/tag/launch-multiple-programs-single-shortcut-using-batch-file/) to increase your productivity at work or school. In case you no longer need the tool after creating bulk folders, you can uninstall it. This won't automatically delete the folders you have created using the tool, unless the uninstallation process explicitly offers to do so and you confirm that action.
 
@@ -163,22 +164,24 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-understanding-the-dynamics-behind-youtubes-investment-in-shorts/"><u>[New] 2024 Approved Understanding the Dynamics Behind YouTube's Investment in Shorts</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ncorporating-visual-media-into-free-writings/"><u>[New] Incorporating Visual Media Into Free Writings</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-ultimate-set-of-free-photo-screen-shifts/"><u>[New] Ultimate Set of Free Photo Screen Shifts</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-speaking-shifts-a-guide-to-free-fire-voices/"><u>2024 Approved Speaking Shifts A Guide to Free Fire Voices</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-ultimate-online-seminar-creation-assistant/"><u>2024 Approved Ultimate Online Seminar Creation Assistant</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/ausgewahlte-uberprufungen-von-verschiedenen-aomei-backupper-editionsvarianten/"><u>Ausgewählte Überprüfungen Von Verschiedenen AOMEI Backupper Editionsvarianten</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-advice-restoring-your-iphoneipod-after-an-unfortunate-encounter-with-water/"><u>Expert Advice: Restoring Your iPhone/iPod After an Unfortunate Encounter with Water</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-to-overcoming-the-msvcr110dll-deficit/"><u>Guide to Overcoming the Msvcr110.dll Deficit</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-re-implementing-windows-11s-search-bar-as-an-icon/"><u>Guide: Re-Implementing Windows 11'S Search Bar as an Icon</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-identify-malfunctioning-drivers-with-windows-device-manager-in-windows-10-and-7-by-drivereasy-guide/"><u>How to identify malfunctioning drivers with Windows Device Manager in Windows 10 & 7</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-github-desktop-on-windows-step-by-step-guide/"><u>Mastering GitHub Desktop on Windows: Step-by-Step Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-windows-11s-context-menu-with-additional-software-icons/"><u>Mastering Windows 11'S Context Menu with Additional Software Icons</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/prime-websites-to-acquire-custom-youtube-ringtones/"><u>Prime Websites to Acquire Custom YouTube Ringtones</u></a></li>
-<li><a href="https://windows11.techidaily.com/speedy-valorant-download-fix-for-windows-users/"><u>Speedy Valorant Download Fix for Windows Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-smart-way-to-mitigate-pc-cpu-spikes-via-resource-monitor/"><u>The Smart Way to Mitigate PC CPU Spikes via Resource Monitor</u></a></li>
-<li><a href="https://windows11.techidaily.com/unleash-power-top-10-must-have-msistore-picks/"><u>Unleash Power: Top 10 Must-Have MSIStore Picks</u></a></li>
-<li><a href="https://windows11.techidaily.com/win-11-troubleshooting-alternatives-to-rename-folder-functions/"><u>Win 11 Troubleshooting: Alternatives to Rename Folder Functions</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/36380796-updated-in-2024-see-it-all-your-free-selection-of-50-youtube-banners/"><u>[Updated] In 2024, See It All - Your Free Selection of 50 YouTube Banners</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-tailoring-your-techniques-for-itunes-videos/"><u>[Updated] In 2024, Tailoring Your Techniques for iTunes Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unlinking-from-youtube-shorts-the-complete-process/"><u>[Updated] Unlinking From YouTube Shorts - The Complete Process</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoid-overlapping-security-measures-stick-to-one-windows-antivirus/"><u>Avoid Overlapping Security Measures: Stick to One Windows Antivirus</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-battlenet-speed-a-win-pc-strategy-guide/"><u>Boosting Battle.net Speed: A Win-PC Strategy Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/easy-steps-to-fix-error-code-0xc0000001-on-windows-pcs/"><u>Easy Steps To Fix Error Code 0XC0000001 on Windows PCs</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/evolving-narratives-in-virtual-cinema-landscapes/"><u>Evolving Narratives in Virtual Cinema Landscapes</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-the-insufficient-memory-problem-in-god-of-war-solutions-and-tips/"><u>Fix the 'Insufficient Memory' Problem in God of War - Solutions and Tips</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/high-quality-thanksgiving-2021-wallpaper-collection-by-yl-computing-your-guide-to-festive-home-decor/"><u>High-Quality Thanksgiving 2021 Wallpaper Collection by YL Computing: Your Guide to Festive Home Decor</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Poco C65? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mohu-leaf-30-smart-tv-antenna-finding-the-sweet-spot-between-price-and-excellence-in-performance/"><u>Mohu Leaf #30 Smart TV Antenna: Finding the Sweet Spot Between Price and Excellence in Performance</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/secure-your-privacy-post-ios-upgrade-tips-on-keeping-your-iphone-invisible-to-others-zdnet/"><u>Secure Your Privacy Post-iOS Upgrade: Tips On Keeping Your iPhone Invisible to Others | ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/transitioning-from-ios-to-a-pc-a-complete-guide-to-imessage/"><u>Transitioning From iOS to a PC: A Complete Guide to iMessage</u></a></li>
+<li><a href="https://windows11.techidaily.com/ultraportables-with-prime-windows-software/"><u>Ultraportables with Prime Windows Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/unified-app-closure-master-the-multiplex-task-management/"><u>Unified App Closure: Master the Multiplex Task Management</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-your-pcs-potential-onedrive-troubleshooting-tips/"><u>Unlocking Your PC's Potential: OneDrive Troubleshooting Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/using-windows-system-restore-feature-efficiently/"><u>Using Windows' System Restore Feature Efficiently</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/video-editing-virtuosity-mastering-the-fade-inout/"><u>Video Editing Virtuosity Mastering the Fade-In/Out</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-steering-classic-games-to-your-pics/"><u>Windows 11: Steering Classic Games to Your Pics</u></a></li>
 </ul></div>
 

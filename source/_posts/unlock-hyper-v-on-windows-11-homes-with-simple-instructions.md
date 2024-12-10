@@ -1,7 +1,7 @@
 ---
 title: Unlock Hyper-V on Windows 11 Homes with Simple Instructions
-date: 2024-08-08T06:15:34.870Z
-updated: 2024-08-09T06:15:34.870Z
+date: 2024-12-04T20:56:58.199Z
+updated: 2024-12-10T21:22:59.553Z
 tags:
   - windows10
   - windows11
@@ -20,13 +20,13 @@ thumbnail: https://thmb.techidaily.com/23dc4857279699198e48a622a7713386fd30f7f47
 
  If you don’t want to use a third-party virtual machine manager, here is how to install Hyper-V on Windows 11 Home using a batch script hack.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## How to Enable Hardware Virtualization in Windows 11
 
 ![enable hardware virtualization bios hp laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/enable-hardware-virtualization-bios-hp-laptoop-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hyper-V is a bare-metal hypervisor and requires [Hardware Virtualization enabled in BIOS to work](https://www.makeuseof.com/what-is-virtualization-and-what-is-it-for/). Most modern systems support Hardware Virtualization, and you can enable it in BIOS.
 
@@ -67,18 +67,12 @@ pause`
 
  4\. In the file name field, type **hyperv.bat.** The **.bat** extension at the end of the file name is important to execute the script.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![save hyperv install script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/save-hyperv-install-script.png)
 
  5\. Next, click the drop-down for **Save as type** and select **All Files.**
 
  6\. Click the **Save** button to save the file.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![run hyperv bat script administrator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/run-hyperv-bat-script-administrator.png)
 
  7\. Next, right-click on the **hyperv.bat** file and select **Run as administrator**. Click **Yes** if prompted by User Account Control.
@@ -87,10 +81,11 @@ pause`
 
  9.Once completed, you will see the Operation completed successfully message.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![install hyper v install windows 11 home](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/install-hyper-v-install-windows-11-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  10\. Type **Y** to confirm and restart your PC. If not, enter N to exit the Command Prompt.
 
@@ -107,14 +102,16 @@ pause`
 3. The above command uses the Deployment Imaging Service and Management (DISM) tool to enable Microsoft Hyper-V and the necessary dependencies on your Windows computer. The operation completed successfully message means you have successfully enabled Hyper-V.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Disable Hyper-V on Windows 11 Home
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![disable hyper v windows 11 windows features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/disable-hyper-v-windows-11-windows-features.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can disable Hyper-V in Windows 11 Home using the Windows Features dialog.
 
@@ -130,6 +127,10 @@ pause`
 
  Unlike Hyper-V, there is no batch script hack to install the sandbox app on the Home edition of Windows 11\. Instead, you can use one of the [Windows Sandbox Alternatives for Windows](https://www.makeuseof.com/windows-11-sandbox-alternatives/) to run and test applications in isolation.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Run Hyper-V on Windows 11 Home
 
  Microsoft has officially restricted the use of Hyper-V to the Pro, Education, and Enterprise edition of the OS. However, a little tweak in the BIOS and a handy batch script can help you install Hyper-V on Windows 11 Home.
@@ -138,11 +139,31 @@ pause`
 
  If you don’t want to use a third-party virtual machine manager, here is how to install Hyper-V on Windows 11 Home using a batch script hack.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-latest-screens-recording-revelation-by-apeaksoft-2023/"><u>[New] In 2024, The Latest Screens Recording Revelation by Apeaksoft, 2023</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-logo-luminosity-enhancing-gaming-channels-with-designs/"><u>[Updated] 2024 Approved Logo Luminosity Enhancing Gaming Channels with Designs</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-best-music-player-software-for-android/"><u>2024 Approved Best Music Player Software for Android</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-motorola-edge-40-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-steps-to-address-winerror-0xc0000005-instantly/"><u>Essential Steps to Address WinError 0Xc0000005 Instantly</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-the-missing-setup-on-windows-nvidia-display/"><u>Fixing the Missing Setup on Windows Nvidia Display</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-windows-crashes-due-to-0x0000011b-errors/"><u>Fixing Windows Crashes Due to 0X0000011B Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/google-or-windows-nearby-transfer-what-to-opt-for/"><u>Google or Windows Nearby Transfer: What to Opt For?</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-adjusting-windows-11s-safety-and-security-filter/"><u>Guide: Adjusting Windows 11'S Safety & Security Filter</u></a></li>
+<li><a href="https://windows11.techidaily.com/guidelines-for-fixing-windows-11-support-tool/"><u>Guidelines for Fixing Windows 11 Support Tool</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-infinix-smart-7-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Infinix Smart 7 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-virtualbox-install-handle-dependencies/"><u>Optimize VirtualBox Install: Handle Dependencies</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-disconnected-steam-friends-list-wins11/"><u>Reviving Disconnected Steam Friends List (Wins11)</u></a></li>
+<li><a href="https://windows11.techidaily.com/swiftly-transform-heic-pics-to-jpeg-with-windows-11-tech/"><u>Swiftly Transform HEIC Pics to JPEG with Windows 11 Tech</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-elite-automated-sweepers-rigorous-evaluations-and-insights-zdnet/"><u>Ultimate Guide to Elite Automated Sweepers: Rigorous Evaluations & Insights | ZDNet</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unbelievable-top-9-ios-apps-that-outperform-on-your-high-end-ipad-models/"><u>Unbelievable: Top 9 iOS Apps That Outperform on Your High-End iPad Models!</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-edit-mov-files-for-free-top-10-video-editing-software/"><u>Updated 2024 Approved Edit MOV Files for Free Top 10 Video Editing Software</u></a></li>
+</ul></div>
+

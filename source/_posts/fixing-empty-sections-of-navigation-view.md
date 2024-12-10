@@ -1,7 +1,7 @@
 ---
 title: Fixing Empty Sections of Navigation View
-date: 2024-08-15T16:19:43.109Z
-updated: 2024-08-16T16:19:43.109Z
+date: 2024-12-06T21:42:47.596Z
+updated: 2024-12-10T18:53:09.479Z
 tags:
   - windows10
   - windows11
@@ -35,9 +35,9 @@ thumbnail: https://thmb.techidaily.com/dc0976bf992fc8f3795e090c13f66cb1c6f145591
  You're already running the latest version if you see the**No updates available** message. In this case, move on to the following solutions.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Restart File Explorer
 
  Tabs might be missing from Windows File Explorer due to a temporary glitch. If there are other File Explorer features that are acting up, you should restart it.
@@ -45,11 +45,12 @@ thumbnail: https://thmb.techidaily.com/dc0976bf992fc8f3795e090c13f66cb1c6f145591
  Close File Explorer and press**Ctrl + Shift + Delete** to bring up Task Manager. There, right-click**Windows Explorer** and select**End Task** to stop any related processes from running in the background.
 
 ![Restart File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/restart-file-explorer-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  Close Task Manager, launch File Explorer, and check if the problem is now solved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Remove File Explorer Cache
 
@@ -64,15 +65,17 @@ Follow these steps to clear File Explorer cache files:
 5. Click**Apply > OK** .
 
 ![Clear File Explorer cache](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/clear-explorer-cache-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you often have to go through the above process manually, you can use Storage Sense to[clean your caches in Windows 11](https://www.makeuseof.com/windows-11-clear-caches/) .
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Run the System File Checker
 
  The System File Checker (or SFC) is one of the[built-in Windows tools you can use to fix corrupted system files](https://www.makeuseof.com/windows-built-in-repair-tools/) . If this is the reason for File Explorer's missing tabs, running the tool should fix it.
@@ -80,13 +83,7 @@ Follow these steps to clear File Explorer cache files:
  In the Start menu search bar, search for**command prompt** and select**Run as administrator** . Type**sfc/ scannow** and press**Enter** to run the command.
 
 ![SFC scan in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/sfc-scan-1-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Reinstall Windows Updates
 
  There’s a chance File Explorer’s tabs are still missing even after updating to Windows 11 22H2 because of an update malfunction. In this case, reinstalling the update should fix the problem.
@@ -99,6 +96,10 @@ Follow these steps to clear File Explorer cache files:
 
 ![Uninstall Windows 11 updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-updates-1-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This solution works for recent updates. If it’s been a while since you’ve updated to Windows 11 22H2, you’ll have to load a restore point to[revert your computer to the previous Windows version](https://www.makeuseof.com/windows-11-create-restore-point/) .
 
 ## Get Your File Explorer Tabs Back on Windows 11
@@ -107,14 +108,11 @@ Follow these steps to clear File Explorer cache files:
 
  Now, you should know that having tabs within File Explorer isn’t the only thing that can change the way Windows looks and feels.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -123,4 +121,18 @@ Follow these steps to clear File Explorer cache files:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-streamline-your-online-learning-downloading-youtube-srt-subtitles-using-3-simple-methods/"><u>[Updated] 2024 Approved Streamline Your Online Learning Downloading YouTube SRT Subtitles Using 3 Simple Methods</u></a></li>
+<li><a href="https://common-error.techidaily.com/corsair-hs50-not-working-heres-how-to-get-your-mic-up-and-running-again/"><u>Corsair HS50 Not Working? Here's How to Get Your Mic Up and Running Again!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-galaxy-a34-5g-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Galaxy A34 5G</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixes-prime-handheld-issue-x-ally-unveiled/"><u>Fixes Prime Handheld Issue, X Ally Unveiled</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-craft-compelling-video-content-using-windows-photos-and-story-remix/"><u>In 2024, Craft Compelling Video Content Using Windows Photos & Story Remix</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-apple-iphone-11-pro-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock On the Apple iPhone 11 Pro Without Previous Owner?</u></a></li>
+<li><a href="https://windows11.techidaily.com/masterful-strategies-for-resolving-zerox-typing-flaw-in-windows-11/"><u>Masterful Strategies for Resolving Zerox Typing Flaw in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcome-highlighting-obstacles-in-windows-pdf-files/"><u>Overcome Highlighting Obstacles in Windows' PDF Files</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-windows-disabled-lsa-security-signal/"><u>Troubleshooting Windows' Disabled LSA Security Signal</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-the-iphone-15-outshines-in-a-professional-setup-your-essential-review-by-zdnets-experts/"><u>Why the iPhone 15 Outshines in a Professional Setup: Your Essential Review by ZDNet's Experts</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-uninstalling-made-easy-crafting-custom-shortcuts/"><u>Windows Uninstalling Made Easy: Crafting Custom Shortcuts</u></a></li>
+</ul></div>
 

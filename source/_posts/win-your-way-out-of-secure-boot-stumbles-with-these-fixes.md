@@ -1,7 +1,7 @@
 ---
 title: Win Your Way Out of Secure Boot Stumbles with These Fixes
-date: 2024-08-15T16:19:46.342Z
-updated: 2024-08-16T16:19:46.342Z
+date: 2024-12-09T21:42:34.685Z
+updated: 2024-12-10T17:30:24.908Z
 tags:
   - windows10
   - windows11
@@ -42,8 +42,9 @@ thumbnail: https://thmb.techidaily.com/f86f99b6d8051e2301c0b59b59f0f49d547931786
 2. Click **System** **Summary** in the left panel.
 3. Check the **Secure Boot State** in the right pane.  
 ![Secure Boot State in System Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Secure-Boot-State.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the Secure Boot status is **Off**, you'll have to enable it through your BIOS. To do that, follow the instructions:
@@ -52,27 +53,25 @@ thumbnail: https://thmb.techidaily.com/f86f99b6d8051e2301c0b59b59f0f49d547931786
 2. Click **Restart now** next to **Advanced startup.** It'll restart your computer.  
 ![Restart Now option next to Advanced Startup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Restart-Now-option.jpg)
 3. In the Advanced startup mode, choose **Troubleshoot** and then **Advanced options.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Choose **UEFI Firmware Settings** and click **Restart.** I'll boot you straight into Windows UEFI BIOS.
 5. Choose **BIOS Setup.**
 6. Switch to **Secure Boot.**
 7. Check the box before **Secure Boot Enable.**  
 ![Enable Secure Boot in BIOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Enable-Secure-Boot-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 
  Note that the steps to [enable Secure Boot](https://www.makeuseof.com/how-enable-tpm-secure-boot-before-upgrading-windows-11/) will be different for different manufacturers. You can check out your manufacturer's BIOS page to know how to do it on your computer.
 
  Once you've enabled Secure Boot, try to install Windows and check if the problem continues. If yes, then try the next solution on the list.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Check and Enable TPM Support
 
  You must have the TPM chip installed on your computer to download Windows 11\. If the TPM chip is missing, you can still install Windows 11 by bypassing the minimum requirement, but then the "Secure Boot state unsupported" error will continue to bother you now and then.
@@ -84,17 +83,9 @@ No advertising on the website.
 3. In the TPM management window, click **Actions** in the top bar.
 4. Choose **Prepare the TPM** from the context menu.  
 ![Prepare the TPM in TPM Management Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Prepar-the-TPM.jpg)
+
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Restart your computer and check for the problem.
@@ -115,9 +106,6 @@ No advertising on the website.
 
  Again, the process will differ for different manufacturers; therefore, you must check your manufacturer's BIOS page to know how to do it on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Convert the Partition Style From MBR to GPT
 
  In modern computers, the boot mode is set to UEFI and has GPT (GUID Partition Style) partition style. However, if your computer is using Legacy Boot mode and MBR (Master Boot Record) partition style, then you will face the problem at hand.
@@ -129,11 +117,13 @@ No advertising on the website.
 3. In the Disk Management window, right-click on the hard disk drive and choose **Properties** from the context menu.  
 ![Properties option in Disk Management tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/properties-option.jpg)
 4. Switch to the **Volumes** tab.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Check the **Partition style.** If it shows Master Boot Record (MBR), then you will have to convert it to GPT.  
 ![Partition Style in Disk Management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Partition-Style.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  To convert the MBR partition style to GPT, follow the below steps:
 
@@ -141,9 +131,6 @@ No advertising on the website.
 2. Type **Command Prompt** in the search bar and click the **Run as administrator** option in right pane.
 3. Type **mbr2gpt /validate /allowfullOS** and press Enter. This command will validate the partition.  
 ![Validate command option in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/validate-command.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 4. Once the validation is complete, type **mbr2gpt /convert /allowfullOS** and press Enter.
 
  That's it. Windows will start converting the partition style. The process may take some time, depending on the size of your drive.
@@ -155,6 +142,10 @@ No advertising on the website.
  In the clean boot state, check if you're facing the error message again or not.
 
 ![System configuration window on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/system-configuration-window.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If not, then it indicates that one of the services you disabled was causing the problem. To narrow it down, repeat the above process while slowly re-enabling the services until you see the error again.
 
@@ -168,11 +159,26 @@ No advertising on the website.
 
  The error mainly appears when TPM is disabled on your computer. As such, if you're also facing the same problem, follow the fixes below to troubleshoot the problem for good.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-extend-video-duration-for-youtube-posting/"><u>[New] 2024 Approved Extend Video Duration for YouTube Posting</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-the-ultimate-tiktok-video-locker-free-and-clear/"><u>[New] 2024 Approved The Ultimate TikTok Video Locker - FREE & Clear</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-insiders-guide-to-altering-your-iphone-ringtones/"><u>[New] The Insider's Guide to Altering Your iPhone Ringtones</u></a></li>
+<li><a href="https://windows11.techidaily.com/festive-features-for-a-windows-11-christmas-spread/"><u>Festive Features for a Windows 11 Christmas Spread</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/key-vr-film-experiences-to-witness-for-2024/"><u>Key VR Film Experiences to Witness for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-chapter-insertion-in-youtube-videos-an-all-inclusive-handbook-for-2024/"><u>Mastering Chapter Insertion in YouTube Videos An All-Inclusive Handbook for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-restoring-hibernation-mode/"><u>Mastering the Art of Restoring Hibernation Mode</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximizing-virtual-memory-in-windows-11-systems/"><u>Maximizing Virtual Memory in Windows 11 Systems</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/odins-revenge-ragnarok-coming-soon/"><u>Odin's Revenge Ragnarök - Coming Soon</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210706027-9781737891444-prema-kirtan/"><u>Prema Kirtan | Free Book</u></a></li>
+<li><a href="https://windows11.techidaily.com/pro-editing-techniques-with-powertoys-utilities/"><u>Pro Editing Techniques with PowerToys Utilities</u></a></li>
+</ul></div>
+

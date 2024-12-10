@@ -1,7 +1,7 @@
 ---
 title: "Mastering Desktop Organization: Notes on W11/W10"
-date: 2024-08-08T06:15:42.122Z
-updated: 2024-08-09T06:15:42.122Z
+date: 2024-12-08T20:55:21.164Z
+updated: 2024-12-10T16:34:45.239Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/0ef39d9a604e71499226be4f237e87d1b86c04c6f
  However, Stick A Note and Notezilla are two third-party apps with which you can stick notes to software windows, which we'll look at here.
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Add Sticky Notes to Software Windows With Stick a Note
 
  Stick A Note is a freeware and portable note-taking software for Windows 11 and Windows 10 from the talented solo developer Anand Gupta. By pressing that app's hotkey, you can add a note to any software window you wish. Follow these steps to get stuck in with Stick A Note:
@@ -36,13 +37,14 @@ thumbnail: https://thmb.techidaily.com/0ef39d9a604e71499226be4f237e87d1b86c04c6f
 1. Double-click**Stick A Note.exe** in that software's extracted folder.
 2. Next, double-click the**Stick A Note** system tray icon.
 3. Click the**Settings** button on the app's window.  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Stick a Note's Settings button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/stick-a-note-s-settings-button.jpg)
 4. Select the**Shift** checkbox to change Stick A Note's hotkey to**Win** +**Shift** +**N** . This is necessary because Windows 11 already has a**Win** +**N** keyboard shortcut for notifications that matches this software's default hotkey.  
 ![The Note Hotkey option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/note-hotkey-option.jpg)
 5. Click**OK** on the Settings – Stick A Note window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Open a software window to stick a note.
 2. Press the**Win** +**Shift** +**N** hotkey to add a note to the window.
@@ -51,11 +53,12 @@ thumbnail: https://thmb.techidaily.com/0ef39d9a604e71499226be4f237e87d1b86c04c6f
 ![The text box for adding notes with Stick a Note](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-edit-note-window.jpg)
 5. Select**OK** in the Notes window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now that note will remain stuck to the window until you delete it. If you close and reopen an app window, press the**Win** +**Shift** +**N** hotkey to view its note.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![A sticky note added with Stick a Note](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/a-stick-a-note-note.jpg)
 
  Or you can set Stick A Note to automatically show notes after opening software windows. To do so, right-click the program's system tray icon and select**Settings** . Select the**Auto Show Note for the Active Program** checkbox, and click the**OK** option.
@@ -66,9 +69,6 @@ thumbnail: https://thmb.techidaily.com/0ef39d9a604e71499226be4f237e87d1b86c04c6f
 
  However, you can at least change the color and size of the notes. To do that, right-click the**Stick a Note** system tray icon and select**Settings** \>**Note Settings** ; choose an alternative option on the**Note Color** drop-down menu. Enter values up to**600** in the size boxes to resize the notes.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The Note Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/note-settings-window.jpg)
 
 ## How to Stick Sticky Notes to Software Windows With Notezilla
@@ -86,14 +86,16 @@ thumbnail: https://thmb.techidaily.com/0ef39d9a604e71499226be4f237e87d1b86c04c6f
 1. Press**Install** to proceed with Notezilla's installation.  
 ![The Install button for Notezilla](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-install-button-for-stick-a-note.jpg)
 2. Click**Finish** with the Launch Notezilla checkbox selected.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Bring up a software window to add your note.
 4. Press the**Ctrl** +**Shift** +**U** hotkey to bring up a sticky note.
 5. Type some content into the sticky note.
 
 1. Drag the sticky note onto the top area of the software's window.  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A sticky note added with Notezilla](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/a-notezilla-sticky-note.jpg)
 2. Press**Alt** +**Space** to bring up the note's menu.  
 ![The Stick to window option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/stick-to-window-option.jpg)
@@ -114,18 +116,12 @@ thumbnail: https://thmb.techidaily.com/0ef39d9a604e71499226be4f237e87d1b86c04c6f
 
  To check out Notezilla's formatting options, double-click inside the note to add some content. Then right-click in the text box ao bring up a formatting context menu. There you can select different fonts and adjust the text size and color. Move your cursor over the**Font style** drop-down menu to select**Bold** ,**Italic** ,**Underline** , and**Strikethrough** options. You can even add images to your notes by clicking**Add picture** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![sticky-note-formatting-options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sticky-note-formatting-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Add Sticky Notes to Software in Windows 11 and Windows 10
 
  Forget about merely sticking notes to the Windows 11 and the Windows 10 desktop like in Windows 7\. Stick A Note and Notezilla give you an entirely new way to add notes without cluttering the desktop by sticking them to app windows. Now you can add handy sticky notes to windows that apply to specific software packages or webpages and files.
@@ -136,8 +132,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +139,19 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-transcending-visual-limits-with-hdr-technology/"><u>[New] 2024 Approved Transcending Visual Limits with HDR Technology</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-exploring-the-depths-of-fraps-recorders/"><u>[Updated] 2024 Approved Exploring the Depths of Fraps Recorders</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/brightness-and-hd-in-harmony-a-fit-for-hdr-for-2024/"><u>Brightness and HD in Harmony A Fit for HDR for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-samsung-galaxy-f15-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Samsung Galaxy F15 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-enter-the-ispoofer-discord-server-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to enter the iSpoofer discord server On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-13-pro-max-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 13 Pro Max</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-to-eliminate-error-0x0000004e-in-win1011/"><u>Quick Guide to Eliminate Error 0X0000004E in Win10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-turning-word-into-a-reader-only-application-for-email-content/"><u>Quick Guide: Turning Word Into a Reader-Only Application for Email Content</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-the-winscomrsvc-failure-on-initial-launch/"><u>Resolving the WinscomrsVc Failure on Initial Launch</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/rotating-high-definition-light-turquoise-sports-backdrop-for-mobile-devices-perfect-loop-background-from-yl-software-solutions/"><u>Rotating High Definition Light Turquoise Sports Backdrop for Mobile Devices, Perfect Loop Background From YL Software Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/smooth-sailing-in-the-web-world-keeping-your-connection-steady/"><u>Smooth Sailing in the Web World: Keeping Your Connection Steady</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-premier-data-syncing-apps-expertly-curated-selections/"><u>Windows' Premier Data Syncing Apps: Expertly Curated Selections</u></a></li>
+</ul></div>
 

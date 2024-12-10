@@ -1,7 +1,7 @@
 ---
 title: "Resolve the Enigma: How to Solve No Mail on Windows 11 Apps"
-date: 2024-11-29T20:37:14.001Z
-updated: 2024-12-04T00:12:05.444Z
+date: 2024-12-08T17:18:42.143Z
+updated: 2024-12-10T16:44:25.706Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Start With Some Quick and Simple Fixes
@@ -39,21 +39,29 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
 
 ![Delete account from this device option in the Mail app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/delete-account-from-this-device-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, restart the Mail app and click the**Gear icon** at the bottom right corner of the left sidebar. In the Settings window that crops up, choose**Manage accounts** and then**Add account.** Then, enter the credentials to log in with your account.
 
 ![Add account option in the Mail app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/add-account.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Check the Date and Time on Windows
 
  As mentioned earlier, incorrect date and time settings can also be a prime reason behind the Mail error. If it's wrong, check out[how to change the date and time on Windows](https://www.makeuseof.com/windows-11-change-date-time/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Allow Mail Through the Windows Firewall
 
  If the Mail app is blocked under the Windows Firewall settings, it will fail to fetch emails and show the "System error can't get mail" error. To fix this, you'll have to[allow the Mail app to run through the Windows Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Update Windows
 
@@ -62,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
 ![Check for Updates option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-for-updates-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Use the Windows Update Troubleshooter
@@ -72,10 +80,6 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
 1. Open the Settings app and go to**System** \>**Troubleshoot** \>**Other troubleshooters** .
 2. Click the**Run** button next to**Windows** **Store Apps** .  
 ![The Run button for the Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-run-button.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Next, go through the troubleshooter and apply all suggestions to fix the problem.
 
@@ -106,7 +110,7 @@ Now, restart your system and check for the issue.
 ![Repair option in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/repair-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once the repair process is complete, you'll see a checkmark next to the Repair button. Next, restart your system and check for the issue. If it continues, reset the Mail app as a last resort.
@@ -114,10 +118,6 @@ Now, restart your system and check for the issue.
  To do that, open the Advanced options of the Mail and Calendar app, and click the**Reset** button.
 
 ![Reset option in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-option-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Use the Mail App to Access Your Emails Again on Windows
 
@@ -140,20 +140,18 @@ Now, restart your system and check for the issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-novices-navigate-for-speedy-snapchat-videos/"><u>[Updated] 2024 Approved Novice's Navigate for Speedy Snapchat Videos</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-tycoon-titans-the-12-game-series-for-budding-business-masters/"><u>2024 Approved Tycoon Titans The #12 Game Series for Budding Business Masters</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/experience-an-affordable-and-personalized-chatgpt-clone-right-from-your-windows-desktop/"><u>Experience an Affordable and Personalized ChatGPT Clone Right From Your Windows Desktop!</u></a></li>
-<li><a href="https://windows11.techidaily.com/explore-and-connect-advanced-drives-mapping-on-windows-11/"><u>Explore & Connect: Advanced Drives Mapping on Windows 11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Poco X5? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 6 Passcode Screen? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/insight-into-windows-maintenance-framework/"><u>Insight Into Windows Maintenance Framework</u></a></li>
-<li><a href="https://article-files.techidaily.com/professional-upgrade-for-everyday-yi-4k-users-for-2024/"><u>Professional Upgrade for Everyday YI 4K Users for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/quick-and-easy-mobile-book-mobi-to-portable-document-format-pdfelectronic-publication-epub-transformation-tool/"><u>Quick & Easy Mobile Book (MOBI) to Portable Document Format (PDF)/Electronic Publication (EPUB) Transformation Tool</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-and-simple-guide-microsoft-drivers-downloading-and-updating-on-windows-11-8-and-7/"><u>Quick and Simple Guide: Microsoft Drivers Downloading and Updating on Windows 11, 8 & 7</u></a></li>
-<li><a href="https://windows11.techidaily.com/reinstating-active-windows-11-taskbar/"><u>Reinstating Active Windows 11 Taskbar</u></a></li>
-<li><a href="https://windows11.techidaily.com/swiftly-overcoming-frustrations-with-failed-discord-install-on-windows/"><u>Swiftly Overcoming Frustrations with Failed Discord Install on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-to-rescue-your-zip-extraction-mishaps-on-windows-11/"><u>Tips to Rescue Your ZIP Extraction Mishaps on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/tutorial-adjust-win11-connection-preferences/"><u>Tutorial: Adjust Win11 Connection Preferences</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-hidden-windows-startup-items/"><u>Unveiling Hidden Windows Startup Items</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-ultimate-playbook-of-igtv-mastery-top-10-branding-techniques/"><u>[New] 2024 Approved The Ultimate Playbook of IGTV Mastery Top 10 Branding Techniques</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-audiovisual-excellence-top-5-premium-slow-motion-gear/"><u>[Updated] 2024 Approved Audiovisual Excellence Top 5 Premium Slow-Motion Gear</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-lgs-monitor-marvel-the-31mu97-b-4k-showcase-review/"><u>[Updated] In 2024, LG's Monitor Marvel The 31MU97-B 4K Showcase Review</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-ultimate-vr-showdown-scoring-the-best-oculus-models/"><u>[Updated] In 2024, Ultimate VR Showdown Scoring the Best Oculus Models</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-your-youtube-vision-to-life-with-free-banner-resources/"><u>Bring Your YouTube Vision to Life with FREE Banner Resources</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-final-thoughts-on-youtubing-best-makers-tips-and-templates/"><u>In 2024, Final Thoughts on YouTubing - Best Makers, Tips, and Templates</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-how-to-acquire-standardized-thumbnails-from-youtube-online-and-desktop-options/"><u>In 2024, How To Acquire Standardized Thumbnails From Youtube Online & Desktop Options</u></a></li>
+<li><a href="https://windows11.techidaily.com/reducing-heavy-resource-use-by-news-apps-in-windows-os/"><u>Reducing Heavy Resource Use by News Apps in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/resetting-grammarly-settings-in-windows/"><u>Resetting Grammarly Settings in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-license-validity-alert-on-windows-oses/"><u>Resolving License Validity Alert on Windows OSes</u></a></li>
+<li><a href="https://windows11.techidaily.com/setting-up-oculus-rift-as-a-windows-pc-vr-setup/"><u>Setting up Oculus Rift as a Windows PC VR Setup</u></a></li>
+<li><a href="https://windows11.techidaily.com/synchronize-the-seconds-windows-time-repair-guide/"><u>Synchronize the Seconds: Windows Time Repair Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-high-memory-consumption-in-edges-webview2/"><u>Tackling High Memory Consumption in Edge's WebView2</u></a></li>
 </ul></div>
 

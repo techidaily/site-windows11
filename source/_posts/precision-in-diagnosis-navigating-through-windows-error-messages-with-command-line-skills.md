@@ -1,7 +1,7 @@
 ---
 title: "Precision in Diagnosis: Navigating Through Windows Error Messages with Command Line Skills"
-date: 2024-08-15T16:18:28.398Z
-updated: 2024-08-16T16:18:28.398Z
+date: 2024-12-04T17:43:36.982Z
+updated: 2024-12-10T17:43:21.301Z
 tags:
   - windows10
   - windows11
@@ -43,11 +43,12 @@ Here is how you can use this command:
 `NET HELPMSG 8242​​​`  
 ![Execute the net helpmsg command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/net-helpmsg-error.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you have the details on the error code, you can either look for solutions online or jump to the solutions listed later in this guide.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. Use the CertUtil Command
 
  Another easy way to look up error descriptions using the Command Prompt is by using the CertUtil command. This command is typically used for managing certificates and certificate services, but can also be a helpful tool in finding short explanations for the error codes.
@@ -60,15 +61,9 @@ Here is how you can use it:
 3. So for instance, if you are encountering the update error 0x80070002, your command will be:  
 `CertUtil /error 0x80070002​​​​`  
 ![Execute the entered command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/certutil-command.jpg)
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You should now be presented with a description of the error message. You can use this detail to identify the culprit and eliminate it.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Access the Event Viewer
 
  When you encounter an error on Windows, a log file for the error is created in the Event Viewer. This log file contains the details of the event, including the time and date it occurred, the error code associated with it, and the source of the event.
@@ -76,8 +71,9 @@ Here is how you can use it:
  You can[access the Event Viewer using the Command Prompt](https://www.makeuseof.com/windows-open-event-viewer/) to identify the culprit behind the error, and then proceed with the relevant solutions to fix the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Resolve the Problem Using the Command Prompt
 
  Once you have identified the problem, you can use the Command Prompt utility to fix it as well. Windows comes with a set of troubleshooting utilities that can you can run via this command-line interface to resolve system issues once and for all.
@@ -91,8 +87,9 @@ Here is how you can use it:
  The easiest way to fix such issues is by[running the built-in SFC and DISM tools](https://www.makeuseof.com/windows-built-in-repair-tools/) via Command Prompt.
 
 ![Run SFC and DISM scans](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/scannow-restorehealth-cmd-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  SFC or the System File Checker works by scanning the protected system files to check their integrity. It will compare the files to a stable version stored in the Windows component store or the installation media. If a problem with the file is identified, the utility will automatically replace the file with its healthier counterpart and generate a report based on it.
@@ -121,6 +118,10 @@ Here is how you can use it:
 
 ![Uninstall the update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-update-cmd.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Fix Boot Issues
 
  If you are having trouble booting into Windows, or the boot time is just painfully slow, the issue is likely to be related to the boot sector or boot configuration data (BCD).
@@ -133,43 +134,28 @@ Here is how you can do that:
 2. Navigate to**Troubleshoot** \>**Advanced options** .  
 ![WinRE-Advanced-Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/winre-advanced-options.jpg)
 3. Choose**Command Prompt** from the list of options available.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Once you are in the Command Prompt window, execute the following commands:  
 `bootrec /fixmbr bootrec /fixboot bootrec /rebuildbcd`
 5. If you are prompted with Add installation to boot list?, type Y and hit Enter.
 6. Once all the commands are executed, you can exit Command Prompt by typing exit and hitting Enter.
 7. Restart your computer, and you should be able to boot into Windows successfully!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ## The Command Prompt to the Rescue
 
  Having knowledge of certain Windows tools can come in handy when dealing with various computer-related issues. One such utility that can help you find solutions is Command Prompt and knowing how to use it can save you both time and frustration.
 
  We highly recommend backing up your essential data before making any changes to your operating system, just to be safe. With a little patience and some troubleshooting skills, you can get rid of annoying Windows errors for good.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -178,4 +164,24 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-virtual-worlds-with-more-to-offer-than-just-gta/"><u>[New] In 2024, Virtual Worlds with More to Offer than Just GTA</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-the-best-practices-for-silent-film-making-for-2024/"><u>[New] The Best Practices for Silent Film Making for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-capturing-clarity-web-based-high-definition-recorders-for-2024/"><u>[Updated] Capturing Clarity Web-Based High-Definition Recorders for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-unpacking-the-necessity-of-instagram-written-verification/"><u>[Updated] In 2024, Unpacking the Necessity of Instagram’ Written Verification</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-on-apple-iphone-15-plus-smoothly-by-drfone-ios/"><u>How To Remove iCloud On Apple iPhone 15 Plus Smoothly</u></a></li>
+<li><a href="https://windows11.techidaily.com/open-windows-11s-memory-lane-file-history-guide/"><u>Open Windows 11'S Memory Lane - File History Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-access-to-windows-photos-functions-via-shortcuts/"><u>Quick Access to Windows Photos Functions via Shortcuts</u></a></li>
+<li><a href="https://windows11.techidaily.com/reactive-steps-for-faulty-windows-performance-tracking-tool/"><u>Reactive Steps for Faulty Windows Performance Tracking Tool</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinvigorating-deactivated-alerts-of-phone-link-app-in-windows/"><u>Reinvigorating Deactivated Alerts of Phone Link App in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-unacceptable-connections-in-microsoft-os/"><u>Solving Unacceptable Connections in Microsoft OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-essential-steps-for-boosting-vm-efficiency-with-virtualbox-v70-in-windows-11/"><u>The Essential Steps for Boosting VM Efficiency with VirtualBox v7.0 in Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-7-mp4-file-combiners-streamline-your-videos-into-a-single-masterpiece/"><u>Top 7 MP4 File Combiners: Streamline Your Videos Into a Single Masterpiece</u></a></li>
+<li><a href="https://windows11.techidaily.com/transform-how-you-use-your-computer-find-these-6-win-trackers/"><u>Transform How You Use Your Computer: Find These 6 Win Trackers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-resolving-game-crashes-in-gears-5/"><u>Troubleshooting Tips: Resolving Game Crashes in Gears 5</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/ultimate-blueprints-livestream-and-log-sports-matches-effectively-for-2024/"><u>Ultimate Blueprints Livestream & Log Sports Matches Effectively for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/unplugging-and-plugging-in-your-wireless-mouse-quick-fixes/"><u>Unplugging and Plugging In Your Wireless Mouse - Quick Fixes</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-save-big-on-final-cut-pro-education-bundle-deals-inside/"><u>Updated In 2024, Save Big on Final Cut Pro Education Bundle Deals Inside</u></a></li>
+</ul></div>
 

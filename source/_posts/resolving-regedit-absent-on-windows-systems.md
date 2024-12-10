@@ -1,7 +1,7 @@
 ---
 title: Resolving Regedit Absent on Windows Systems
-date: 2024-08-15T16:19:44.205Z
-updated: 2024-08-16T16:19:44.205Z
+date: 2024-12-04T16:17:04.635Z
+updated: 2024-12-10T16:54:45.130Z
 tags:
   - windows10
   - windows11
@@ -29,14 +29,21 @@ thumbnail: https://thmb.techidaily.com/802eeff691c55a6d5d09cbae446dc45a39ed24ae9
 3. Select**Scan options** to access all the scanning radio buttons.  
 ![The Virus & threat protection tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/virus-threat-protection-tab.jpg)
 4. Next, click Windows Security’s**Full Scan** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Press**Scan now** to initiate the scanning.  
 ![The Scan now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/scan-now-button.jpg)
 6. If Windows Security detects something, select the**Remove action** options for everything detected.
-7. Then click**Start actions** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+7. Then click**Start actions** .
+
 ## 2\. Scan and Repair System Files
 
  Scanning system files is a potential solution for the “cannot find regedit.exe” error confirmed to work by some. Those users resolved the issue with the System File Checker Command Prompt utility. You can scan and repair system files with that SFC tool like this:
@@ -49,10 +56,11 @@ thumbnail: https://thmb.techidaily.com/802eeff691c55a6d5d09cbae446dc45a39ed24ae9
 5. Type in this SFC command text and press**Enter** :  
 `sfc /scannow`  
 ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-scannow-command.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Wait until that tool’s scan gets to 100 percent. Then you’ll see a Windows Resource Protection message in the Prompt’s window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Enable Registry Editor Access in Group Policy Editor
 
@@ -62,22 +70,17 @@ thumbnail: https://thmb.techidaily.com/802eeff691c55a6d5d09cbae446dc45a39ed24ae9
 2. Select User Configuration in Group Policy Editor’s sidebar.
 3. Double-click**Administrative Templates** \>**System** to reach the**Prevent access to registry editing tools** option.  
 ![The Local Group Policy Editor window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/local-group-policy-editor.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Then double-click**Prevent access to registry editing** tools to bring up the window for that policy setting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Select the**Disabled** option, and click**Apply** to save.  
 ![The prevent access to registry editing tools policy setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/prevent-access-to-registry-edting-tools.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 6. Press the Prevent access to registry editing tools window’s**OK** button.
 7. Exit Group Policy Editor, and restart your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## 4\. Edit the Path Environment Variable
 
  A wrongly configured or missing path environment variable can cause the “cannot find regedit.exe” error. Some users may need to edit an environment variable to resolve this issue. To do so, follow these steps for editing the Path variable:
@@ -96,9 +99,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 ![The Edit environment variables window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/edit-environent-variables-window.jpg)
 9. Reboot your Windows desktop or laptop.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Restore the Registry Editor’s Default Registry Values
 
  This error can occur because some of the Registry Editor’s registry values have been altered. So, restoring the default registry values for the regedit.exe could be a solution for some users. You can restore those values to default without the Registry Editor app by setting up a script as follows:
@@ -141,9 +141,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 4. Press Notepad’s**Ctrl** +**Shift** +**S** keyboard shortcut for opening the "Save as" window.
 5. Select the**All files** option in the**Save as type** menu.  
 ![The All Files option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/all-files-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 6. Type**Registry Fix.reg** inside the name box.
 7. Choose to save the script on the desktop area.
 8. Select the**Save** option, and then close Notepad.
@@ -158,6 +155,10 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  You may need to reinstall some software after performing system restoration. Software installed after any restore point’s date is not preserved. Click the**Scan for affected programs** option for whatever restoration point you chose to see what software it removes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Reset Windows
 
  This last resolution will restore Windows 11/10 to a factory default configuration, which will likely resolve the “cannot find regedit.exe” issue. However, this is the last thing you should try since resetting Windows will also remove software packages that weren’t preinstalled. Our guide about[factory resetting a Windows PC](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) includes the steps for applying this fix.
@@ -165,14 +166,13 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 ![The Reset this PC button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-reset-this-pc-button.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Edit the Registry With Registry Editor Once More
 
  We hope and expect the potential resolutions in this guide will fix the “cannot find regedit.exe” error on your PC. Those possible solutions don’t come with a 100 percent guarantee, but they’ll probably get that issue sorted in most cases. Try applying them all as ordered above to get the Registry Editor working again.
@@ -183,8 +183,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -192,4 +190,24 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-auditcast-inspection/"><u>[Updated] In 2024, AuditCast Inspection</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-premier-zero-cost-facebook-videoimage-craftsman/"><u>[Updated] In 2024, Premier Zero-Cost Facebook Video/Image Craftsman</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/htenment-streams-foremost-ed-resources-online/"><u>Enlightenment Streams Foremost Ed Resources Online</u></a></li>
+<li><a href="https://windows11.techidaily.com/fix-no-sound-device-error-in-windows-os/"><u>Fix No Sound Device Error in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-icue-how-to-resolve-no-device-found-error/"><u>Fixing ICUE: How to Resolve 'No Device Found' Error</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-cut-spotlight-wallpaper-icon-on-windows-11s-desk/"><u>Guide to Cut Spotlight Wallpaper Icon on Windows 11'S Desk</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-jumpstart-your-qbittorrent-in-sluggish-state-windows/"><u>How to Jumpstart Your qBittorrent in Sluggish State (Windows)</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-rescue-your-windows-11-from-hypervisor-bsos-blues/"><u>How to Rescue Your Windows 11 From Hypervisor BSOS Blues</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-some-outdated-your-hardware-drivers-with-windows-device-manager-in-windows-10-and-7-by-drivereasy-guide/"><u>Identify some outdated your hardware drivers with Windows Device Manager in Windows 10 & 7</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-realme-12plus-5g-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Realme 12+ 5G</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-tips-overcoming-windows-winerror-messages/"><u>Quick Tips: Overcoming Windows WinError Messages</u></a></li>
+<li><a href="https://windows11.techidaily.com/rog-ally-vs-asus-who-wins-the-steam-deck-war/"><u>ROG Ally Vs. ASUS: Who Wins the Steam Deck War?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-correcting-directdraw-fails-in-win1011/"><u>The Ultimate Guide to Correcting DirectDraw Fails in Win10/11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-ultraportable-laptops-comprehensive-reviews-by-tech-experts/"><u>Top-Rated Ultraportable Laptops : Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://win-online.techidaily.com/transform-your-pcs-aesthetic-customizing-windows-11-themes-and-backgrounds-insights-from-yl-computing/"><u>Transform Your PC's Aesthetic: Customizing Windows 11 Themes & Backgrounds - Insights From YL Computing</u></a></li>
+<li><a href="https://windows11.techidaily.com/transforming-taskbar-functionality-6-essential-upgrades-for-windows-11/"><u>Transforming Taskbar Functionality: 6 Essential Upgrades for Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-shadowed-interface-opening-windows-private-individuality-analyzer/"><u>Unveiling the Shadowed Interface: Opening Windows' Private Individuality Analyzer</u></a></li>
+</ul></div>
 

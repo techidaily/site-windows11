@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Cannot Reach Server Error in Win 10 & 11 for MB
-date: 2024-11-30T22:56:39.200Z
-updated: 2024-12-04T01:37:51.151Z
+date: 2024-12-04T17:12:27.057Z
+updated: 2024-12-10T18:06:26.418Z
 tags:
   - windows10
   - windows11
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/ef0c500c1ff8cdea11d6b2ce7132e969a27a23353
 ![The Run this program as an administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-this-program-as-an-administrator-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Check That the Malwarebytes Service Is Enabled and Running
@@ -47,16 +47,16 @@ thumbnail: https://thmb.techidaily.com/ef0c500c1ff8cdea11d6b2ce7132e969a27a23353
 ![The Service window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/malwarebytes-service.jpg)
 4. Then click on the**Startup type** drop-down menu to open it and select**Automatic** from there.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Select**Start** to run the Malwarebytes Services.  
 ![The Malwarebytes Service window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/malwarebytes-service-window.jpg)
 6. Click the service’s**Apply** and**OK** options.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Check That the Windows Management Instrumentation Is Enabled and Running
@@ -66,10 +66,6 @@ thumbnail: https://thmb.techidaily.com/ef0c500c1ff8cdea11d6b2ce7132e969a27a23353
  Open Services (see[how to open Services on Windows](https://www.makeuseof.com/windows-11-open-services-app/) ). double-click**Windows Management Instrumentation** , and select its**Automatic** and**Start** option from there as outlined for the second resolution.
 
 ![The Windows Management Instrumentation service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-management-instrumentation-service.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Repair Malwarebytes With Its Dedicated Support Tool
 
@@ -86,6 +82,10 @@ Here is how you can repair Malwarebytes with its support tool:
 ![The Repair System button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/repair-system-option.jpg)
 7. Select all four checkboxes for the**Repair System** option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Press the**Repair System** button.
 9. Restart your PC when prompted.
 
@@ -101,10 +101,6 @@ Here is how you can repair Malwarebytes with its support tool:
 ![The Scan now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/scan-now-button.jpg)
 4. Press**Scan now** to start a Microsoft Defender scan.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Reinstall Malwarebytes
 
  Users have also resolved the "unable to connect to service" error by reinstalling Malwarebytes. The Malwarebytes Support Tool includes a Clean option for uninstalling and reinstalling the software. This is how you can reinstall Malwarebytes with its support tool:
@@ -114,6 +110,10 @@ Here is how you can repair Malwarebytes with its support tool:
 3. Click**Clean** and**Yes** to confirm the removal.  
 ![The Malwarebytes Cleanup dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/malwarebytes-cleanup-dialog.jpg)
 4. Select**OK** to restart the PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Click**Yes** in the window that pops up after the restart.
 6. Select**Yes** in the Reinstall Malwarebytes for Windows popup dialog box that opens.
@@ -141,16 +141,17 @@ Here is how you can repair Malwarebytes with its support tool:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/he-endgame-permanently-blocking-access-to-youtube-shorts-for-2024/"><u>[New] The Endgame Permanently Blocking Access to YouTube Shorts for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-easy-walkthrough-for-old-facebook-stories-on-laptops-and-phones/"><u>[Updated] In 2024, Easy Walkthrough for Old Facebook Stories on Laptops & Phones</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ng-edge-techniques-for-incorporating-soundtracks-in-youtube-creations/"><u>Cutting-Edge Techniques for Incorporating Soundtracks in YouTube Creations</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-disabled-lock-screen-pause-timer/"><u>How to Fix Disabled Lock Screen Pause Timer</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-the-essential-blueprint-setting-up-your-first-xbox-recorder/"><u>In 2024, The Essential Blueprint Setting Up Your First Xbox Recorder</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastery-over-mishaps-conquering-11-windows-11-glitches/"><u>Mastery Over Mishaps: Conquering 11 Windows 11 Glitches</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigate-to-sound-mastery-with-windows-11-volume-control/"><u>Navigate to Sound Mastery with Windows 11 Volume Control</u></a></li>
-<li><a href="https://windows11.techidaily.com/refining-malfunctional-fixes-within-windows-1011-diagnostics/"><u>Refining Malfunctional Fixes Within Windows 10/11 Diagnostics</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/schritt-fur-schritt-anleitung-zum-loschen-von-festplatten-auf-niedriger-ebene-unter-windows-11/"><u>Schritt-Für-Schritt-Anleitung Zum Löschen Von Festplatten Auf Niedriger Ebene Unter Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/understanding-and-altering-win-11-proxy-settings/"><u>Understanding and Altering Win 11 Proxy Settings</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/rom-capturing-moments-to-sharing-them-editing-with-adobe-premiere-for-2024/"><u>[New] From Capturing Moments to Sharing Them Editing with Adobe Premiere for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-the-ultimate-tutorial-for-iphone-voice-memo/"><u>[New] In 2024, The Ultimate Tutorial for iPhone Voice Memo</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pushing-the-boundaries-an-in-depth-look-at-magix-studio-max-2024/"><u>[New] Pushing the Boundaries An In-Depth Look at Magix Studio Max 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-tweeted-vids-to-mp4wav-conversion-for-2024/"><u>[New] Tweeted Vids to MP4/WAV Conversion for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/diskgenius-software-analysis-benefits-drawbacks-and-final-judgement/"><u>DiskGenius Software Analysis: Benefits, Drawbacks & Final Judgement</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/enhancing-instagram-video-performance-desktop-for-2024/"><u>Enhancing Instagram Video Performance (Desktop) for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-xiaomi-redmi-12-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Xiaomi Redmi 12 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-digital-audio-capturing-made-simple-online-radio-collection/"><u>In 2024, Digital Audio Capturing Made Simple Online Radio Collection</u></a></li>
+<li><a href="https://windows11.techidaily.com/overriding-default-no-notify-camera-behavior-in-ws11/"><u>Overriding Default No-Notify Camera Behavior in WS11</u></a></li>
+<li><a href="https://windows11.techidaily.com/peek-inside-windows-determining-your-computers-manufacturer/"><u>Peek Inside Windows: Determining Your Computer's Manufacturer</u></a></li>
+<li><a href="https://windows11.techidaily.com/precise-strategies-resetting-razers-system-integration/"><u>Precise Strategies: Resetting Razer's System Integration</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-shadowrunners-speed-up-your-bf2-experience/"><u>Seamless Shadowrunners: Speed up Your BF2 Experience</u></a></li>
 </ul></div>
 

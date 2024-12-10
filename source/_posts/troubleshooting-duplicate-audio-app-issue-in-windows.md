@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Duplicate Audio App Issue in Windows
-date: 2024-12-02T20:28:35.496Z
-updated: 2024-12-03T21:38:09.159Z
+date: 2024-12-05T16:06:56.800Z
+updated: 2024-12-10T21:04:53.896Z
 tags:
   - windows10
   - windows11
@@ -25,17 +25,9 @@ thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e77
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Run the Windows Audio Troubleshooter
 
 ![Windows 11 settings troubleshoot other troubleshooters playing audio run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-11-settings-troubleshoot-other-troubleshooters-playing-audio-run.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Windows has a built-in audio troubleshooter to find and fix issues with playing audio. The troubleshooter looks for common audio issues and tries to fix them automatically.
 
@@ -46,6 +38,10 @@ To run the audio troubleshooter:
 3. Click on**Other troubleshooters** .
 4. Next, click the**Run** button for**Playing Audio** . Wait for the audio troubleshooter to scan for issues. Then select the affected audio device and click**Next** .
 5. Follow the on-screen instructions and check if the error is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Disable Exclusive Mode for the Audio Device
 
@@ -58,6 +54,10 @@ To disable Exclusive Mode for the audio device on Windows:
 3. Scroll down and click on**More sound settings** .  
 ![more sound settings windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/more-sound-settings-windows-11.jpg)
 4. Select the audio device in the**Sound** dialog and click the**Properties** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Open the**Advanced** tab in the**Properties** dialog.  
 ![disable exclusive mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-exclusive-mode.jpg)
@@ -81,15 +81,19 @@ To change the Windows Audio service Startup type:
 ![windows audio service properties services snap in](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-audio-service-properties-services-snap-in.jpg)
 4. Click the**Startup** type drop-down and select**Automatic** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click**Apply** and**OK** to save the changes.  
 ![windows audio service startup type automatic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-audio-service-startup-type-automatic.jpg)
 6. If the service is not running, right-click on**Windows Audio** and select**Start** .
 
-7. Close the Services snap-in and restart your PC. After the restart, your audio device should start working again.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+7. Close the Services snap-in and restart your PC. After the restart, your audio device should start working again.
 
 ## 4\. Disable and Re-Enable the Sound Output Device
 
@@ -113,10 +117,6 @@ To uninstall your audio device on Windows:
 
  You may see a yellow exclamation mark on the uninstalled audio device. To reinstall the driver, click on**File** and select**Scan for hardware changes** . This should reinstall the sound device and driver. If not, restart your computer. As the system restarts, Windows will reinstall the missing audio device driver and restore sound on your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Perform a Driver Rollback
 
  If you have an external sound card and have installed an update, try a driver rollback. A new driver update can sometimes create more problems than it intends to fix. You can use the device driver rollback feature in Device Manager to undo the changes and reinstall the older version of the driver.
@@ -134,7 +134,7 @@ To uninstall your audio device on Windows:
  To install Windows update, go to**Settings > Windows Update** and click**Check for updates** . Windows will populate the screen with all the pending updates. You can install the updates or selectively install any audio device updates.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Check for Third-Party App Conflict
@@ -142,7 +142,7 @@ To uninstall your audio device on Windows:
 ![volume mixer windows 11 view audio applications](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/volume-mixer-windows-11-view-audio-applications.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the issue persists, check if there is a third-party app conflict. You can use Volume Mixer to view applications accessing the audio devices and close the problematic app to fix the problem. Here’s how to do it.
@@ -172,19 +172,24 @@ To uninstall your audio device on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-guide-to-disable-facebook-broadcasts-mobiledesktop/"><u>[New] Guide to Disable Facebook Broadcasts, Mobile/Desktop</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-chart-a-course-to-prominence-in-facebooks-hierarchy/"><u>[Updated] In 2024, Chart a Course to Prominence in Facebook's Hierarchy</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-leading-17-lights-and-stands-reviewed/"><u>[Updated] The Leading 17 Lights & Stands Reviewed</u></a></li>
-<li><a href="https://windows11.techidaily.com/festive-fizzles-yule-time-apps-from-microsofts-hub/"><u>Festive Fizzles: Yule-Time Apps From Microsoft's Hub</u></a></li>
-<li><a href="https://windows11.techidaily.com/guidance-for-overcoming-indexer-service-start-up-issues/"><u>Guidance for Overcoming Indexer Service Start-Up Issues</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-poco-c51-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Poco C51 Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-components-settings-in-windows-11/"><u>Navigating Components Settings in Windows 11</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/navigating-wmp-for-effortless-audio-conversion-for-2024/"><u>Navigating WMP for Effortless Audio Conversion for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/resetting-and-recovering-lost-steam-icons/"><u>Resetting and Recovering Lost Steam Icons</u></a></li>
-<li><a href="https://windows11.techidaily.com/solving-overlapping-icons-on-pc/"><u>Solving Overlapping Icons on PC</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-ranked-non-microsoft-non-lenovo-tablet-triumphs-as-ideal-companion-for-business-travelers-insights-from-a-comprehensive-review/"><u>Top-Ranked Non-Microsoft, Non-Lenovo Tablet Triumphs as Ideal Companion for Business Travelers – Insights From a Comprehensive Review</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/virtual-reality-breakthrough-apps-for-smartphones-for-2024/"><u>Virtual Reality Breakthrough Apps for Smartphones for 2024</u></a></li>
-<li><a href="https://techidaily.com/will-mov-files-play-on-14-pro-by-aiseesoft-video-converter-play-mov-on-android/"><u>Will MOV files play on 14 Pro ?</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/zwei-effektive-moglichkeiten-die-windows-kommandozeile-in-windows-11-zu-installieren/"><u>Zwei Effektive Möglichkeiten, Die Windows-Kommandozeile in Windows 11 Zu Installieren</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-invisible-viewers-of-fb-episodes/"><u>[New] In 2024, Invisible Viewers of Fb Episodes</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-unlocking-youtube-subtitles-srt-3-steps-guide/"><u>[New] Unlocking YouTube Subtitles (SRT) - 3 Steps Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-academic-history-lovers-guide-to-top-yt-content/"><u>[Updated] 2024 Approved Academic History Lovers' Guide to Top YT Content</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-which-screen-recorder-delivers-more-insights-into-bandicam-vs-camtasia/"><u>[Updated] 2024 Approved Which Screen Recorder Delivers More? Insights Into Bandicam vs Camtasia</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-elite-alternative-edits-skip-youtube-not-just-content/"><u>[Updated] In 2024, Elite Alternative Edits Skip Youtube, Not Just Content</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-mastery-over-moments-jake-pauls-youtube-saga/"><u>[Updated] Mastery Over Moments Jake Paul's YouTube Saga</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-10-best-meme-templates/"><u>[Updated] Top 10 Best Meme Templates</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-chromes-non-downloading-problems-on-windows/"><u>Addressing Chrome's Non-Downloading Problems on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/enabling-steam-library-folder-editability-in-win-11/"><u>Enabling Steam Library Folder Editability in Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-add-a-full-battery-charge-notification-to-windows-11-and-11/"><u>How to Add a Full Battery Charge Notification to Windows 11 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-manage-app-packages-using-wingetui-on-windows-11/"><u>How to Manage App Packages Using WingetUI on Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/jonsbo-upgrades-its-range-with-a-new-c6-itx-case-built-for-enhanced-airflow-and-easy-transport-with-a-stylish-handle/"><u>Jonsbo Upgrades Its Range with a New C6-ITX Case - Built for Enhanced Airflow and Easy Transport with a Stylish Handle</u></a></li>
+<li><a href="https://windows11.techidaily.com/pro-tips-for-mastering-local-user-groups-on-win1110/"><u>Pro Tips for Mastering Local User Groups on Win11/10</u></a></li>
+<li><a href="https://fox-that.techidaily.com/roboix-memory-troubles-a-guide-to-overcoming-warnings-on-your-ios-device/"><u>Roboix Memory Troubles: A Guide to Overcoming Warnings on Your iOS Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/significance-and-uses-for-vcplusplus-releases/"><u>Significance and Uses for VC++ Releases</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-for-avoiding-frequent-sign-ins-on-ms-teams-platform/"><u>Solutions for Avoiding Frequent Sign-Ins on MS Teams Platform</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-tweaking-mouse-speeds-in-win-1011/"><u>The Ultimate Guide to Tweaking Mouse Speeds in Win 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-unresponsive-spotify-on-windows-11/"><u>Troubleshooting Unresponsive Spotify on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-vigilance-understanding-and-monitoring-device-uptime/"><u>Windows 11 Vigilance: Understanding and Monitoring Device Uptime</u></a></li>
 </ul></div>
 

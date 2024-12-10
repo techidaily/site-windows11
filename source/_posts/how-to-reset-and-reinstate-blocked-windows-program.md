@@ -1,7 +1,7 @@
 ---
 title: How to Reset and Reinstate Blocked Windows Program
-date: 2024-08-08T06:15:48.607Z
-updated: 2024-08-09T06:15:48.607Z
+date: 2024-12-06T19:26:42.461Z
+updated: 2024-12-10T21:51:30.260Z
 tags:
   - windows10
   - windows11
@@ -19,14 +19,18 @@ thumbnail: https://thmb.techidaily.com/9cc1ab34a2708ce6599562965ce7d038d6461c86c
  While Windows is designed to keep your computer secure, sometimes it can be overly zealous in its protection and block an app you know is safe. If you’re seeing the “This app has been blocked for your protection” error on Windows, your system has restricted the application from running for security reasons. This article clarifies the reasons behind the problem and guides you toward resolving it.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Restart Your Computer
 
  When you experience the “This app has been blocked for your protection” error, the first step is to restart your computer. A simple reboot can often do the trick and allow you run a previously blocked application.
 
  If you don’t experience the error after rebooting, then it is likely a temporary glitch on Windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Scan for Malicious Programs
 
@@ -37,13 +41,18 @@ thumbnail: https://thmb.techidaily.com/9cc1ab34a2708ce6599562965ce7d038d6461c86c
  If you prefer command line tools, you can [scan and remove malicious components using Windows PowerShell](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/). You should also use a [reputable anti-spyware program](https://www.makeuseof.com/windows-11-antivirus-apps/) to check for malicious programs that could be causing the error.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Run the Program as an Administrator
 
  Some programs require administrator privileges to function properly. If you try to launch them without elevated access, Windows will block their execution and display the error message. In such a case, you can right-click on the app’s shortcut or the executable file and select **Run as administrator**.
 
  If it runs successfully, you can adjust the app properties to [always run as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/). Don't forget to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Disable the SmartScreen Filter
 
@@ -53,17 +62,11 @@ thumbnail: https://thmb.techidaily.com/9cc1ab34a2708ce6599562965ce7d038d6461c86c
 2. Click on **Windows Security** in the search results.
 3. In the Windows Security app, select **App & browser control**.
 4. On the right side of the window, click **Reputation-based protection settings**.  
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Disable the SmartScreen Filter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/disable-the-smartscreen-filter.jpg)
 5. Toggle off **Potentially unwanted app blocking** and **SmartScreen for Microsoft Store apps**.
 
  This will stop the system from blocking apps, but you should be careful with any programs you download. Once you do it, close the Windows Security app and try running the application again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## 5\. Modify the Group Policy Settings
 
  The group policy editor allows you to adjust security settings on Windows and control which applications are blocked. If the other steps didn’t work, you can try to modify the group policy settings and unblock the application that triggered the error. Here's how to do it:
@@ -88,13 +91,14 @@ thumbnail: https://thmb.techidaily.com/9cc1ab34a2708ce6599562965ce7d038d6461c86c
 4. Navigate to the following key location.  
 `Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System`
 5. In the right pane, double-click on **EnableLUA** and set its value to **0** (zero).  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Disable the EnableLUA key in Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/disable-the-enablelua-key-in-registry-editor.jpg)
 6. Click **OK** to save the changes.
 
  After making the changes, close the Registry Editor and restart your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Reset Windows Update Components
 
@@ -168,16 +172,11 @@ net start cryptsvc`
 
  Wait for the process to finish and restart your computer. After the reboot, try running the blocked app again. It should now work without issues.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Get Access to Your Apps and Files on Windows
 
  Windows is known for its tight security which prevents malicious applications from launching and infecting your PC. However, sometimes even legitimate programs are blocked by the operating system and leave an error message saying “This app has been blocked for your protection.”
 
  There are several reasons why this error occurs. It includes outdated security software, the firewall interfering with the program, or the application not trusted by Windows. Read this guide to learn more about this error.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -185,3 +184,24 @@ net start cryptsvc`
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/movies-power-to-transform-ordinary-openers-into-epic/"><u>[New] IMovie's Power to Transform Ordinary Openers Into Epic</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-8-srt-translators-the-ultimate-budget-friendly-guide/"><u>[New] Top 8 SRT Translators – The Ultimate Budget-Friendly Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-taking-charge-of-your-visual-brand-identity/"><u>[Updated] In 2024, Taking Charge of Your Visual Brand Identity</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-optimizing-your-periscope-stream-experience/"><u>2024 Approved Optimizing Your Periscope Stream Experience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/facebook-picture-perfection-efficiently-adding-several-images-at-once/"><u>Facebook Picture Perfection: Efficiently Adding Several Images at Once</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-windows-11-taskbar-malfunction/"><u>Fixing Windows 11 Taskbar Malfunction</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-honor-80-pro-straight-screen-edition-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Honor 80 Pro Straight Screen Edition FRP Without Computer</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-without-powershell-on-windows-system/"><u>Navigating Without PowerShell on Windows System</u></a></li>
+<li><a href="https://windows11.techidaily.com/reformatting-esd-files-as-linux-and-windows-isos-with-precision/"><u>Reformatting ESD Files as Linux and Windows ISOs with Precision</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-backward-typing-glitches-on-windows/"><u>Resolving Backward Typing Glitches on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/setting-up-an-everlasting-file-eraser-a-user-guide-to-customizing-windows-11s-trash/"><u>Setting up an Everlasting File Eraser: A User Guide to Customizing Windows 11'S Trash</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-problem-what-to-do-when-msodll-is-absent/"><u>Solving the Problem: What To Do When mso.dll Is Absent</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-display-error-nvidias-x0001-on-windows-11/"><u>Tackling Display Error: Nvidia's X0001 on Windows 11</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-how-to-translate-videos-in-tamil-for-a-wider-reach/"><u>Updated 2024 Approved How To Translate Videos in Tamil for a Wider Reach</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-driver-reset-guide-for-clear-images/"><u>Windows 11 Driver Reset Guide for Clear Images</u></a></li>
+</ul></div>
+

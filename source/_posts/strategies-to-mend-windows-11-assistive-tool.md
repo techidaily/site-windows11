@@ -1,7 +1,7 @@
 ---
 title: Strategies to Mend Windows 11 Assistive Tool
-date: 2024-11-26T17:51:46.976Z
-updated: 2024-12-03T22:34:39.939Z
+date: 2024-12-07T22:00:11.738Z
+updated: 2024-12-10T18:49:54.155Z
 tags:
   - windows10
   - windows11
@@ -32,13 +32,14 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 * **Restart the Get Help app:**[Open the Task Manager](https://www.makeuseof.com/how-to-access-task-manager-on-windows-11/) and right-click on the Get Help app. Then click on **End task** and start the app again. This simple trick effectively addresses temporary glitches within the application.  
 ![Get Help End Task Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-help-end-task-option.jpg)
 * **Reboot your computer:** Rebooting a computer often resolves many problems by clearing your system's memory and terminating problematic processes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * **Update your Windows version:** Older versions of Windows may contain bugs that may prevent the Get Help app from functioning correctly. So, always [ensure your Windows version is up-to-date](https://www.makeuseof.com/update-windows-manually/).
 
  Note that these fixes can't help you if your issue is serious. In that case, try the following troubleshooting methods.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Repair or Reset the Get Help App
 
@@ -57,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 ![Get Help Repair Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-help-repair-option.jpg)
 
  Here's the best part: This process isn't exclusive to the Get Help app. So, you can also apply the above steps to other malfunctioning Windows apps
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Troubleshoot Network-Related Issues
 
@@ -82,15 +79,15 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 ![VPN Settings Search Results](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/vpn-settings-search-results.jpg)
 2. Choose the **Disconnect** button to turn off the VPN.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Similarly, you must [temporarily disable your proxy](https://www.makeuseof.com/windows-11-disable-proxy/) to troubleshoot the cause of your Get Help failing to work.
 
  Remember to re-enable your VPN or proxy once you're done to ensure your online activities remain private and secure.
 
  Now you can open the Get Help app and check whether the content loads correctly. Try the following troubleshooting method if the Get Help app still displays a blank screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Restart Windows Services
 
@@ -102,13 +99,17 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 ![Services Command On Run App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/services-command-on-run.jpg)
 2. Now press **Enter** to launch the Services app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. You'll see a list of all the services currently available in your system. Locate the **Diagnostic Policy Service** and right-click on its name.
 4. Select **Restart** from its context menu.  
 ![Diagnostic Policy Service Restart Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/diagnostic-policy-service-restart-option.jpg)
 5. Similarly, repeat the steps to restart the **Windows Management Instrumentation** service.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Install the Microsoft Edge WebView2 Runtime
@@ -124,9 +125,17 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 ![Microsoft Edge Developer Site Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/microsoft-edge-developer-site-screenshot.jpg)
 3. Once you download the setup file, run it and follow the instructions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. After installing the Microsoft Edge WebView2 Runtime, check if the Get Help app functions correctly.
 
  If you see an error saying "**Setup failed**," "please re-download the correct version again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Uninstall and Reinstall the Get Help App
 
@@ -136,15 +145,7 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 
 ![Get Help In Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-help-in-store.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  A fresh installation should resolve all the issues with the app. And now, you can go back to troubleshooting without any hassle.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## No More Blank Screen in the Get Help App
 
@@ -164,16 +165,22 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-decoding-the-best-free-video-apps-for-os-multiplicity/"><u>[New] Decoding the Best Free Video Apps for OS Multiplicity</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-affordable-quality-cameras-the-ultimate-buyers-guide/"><u>[New] In 2024, Affordable, Quality Cameras The Ultimate Buyer's Guide</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-join-the-party-your-guide-to-active-tiktok-streaming/"><u>[Updated] 2024 Approved Join the Party Your Guide to Active TikTok Streaming</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-perfecting-pics-and-vids-the-art-of-snapchat-zooming/"><u>[Updated] In 2024, Perfecting Pics & Vids The Art of Snapchat Zooming</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-top-mobile-experiences-ios-and-androids-vr-hits-for-2024/"><u>[Updated] Top Mobile Experiences IOS & Android's VR Hits for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/behind-the-scenes-crafting-a-screenplay/"><u>Behind the Scenes Crafting a Screenplay</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-passwords-in-windows-11-the-ultimate-4-allies/"><u>Mastering Passwords in Windows 11: The Ultimate 4 Allies</u></a></li>
-<li><a href="https://windows11.techidaily.com/power-up-windows-for-video-on-demand-via-dynamic-transcoding-by-tdarr/"><u>Power Up Windows for Video-on-Demand via Dynamic Transcoding by Tdarr</u></a></li>
-<li><a href="https://windows11.techidaily.com/reactivating-deactivated-rulesets-in-office-365windows-outlook/"><u>Reactivating Deactivated Rulesets in Office 365/Windows Outlook</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-for-accessing-photos-via-windows-11s-explorer/"><u>Tips for Accessing Photos via Windows 11'S Explorer</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11-arm-setup-via-iso-file-instructions-inside/"><u>Windows 11 ARM Setup Via ISO File - Instructions Inside</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-infuse-rhythms-into-your-whatsapp-story/"><u>[New] Infuse Rhythms Into Your WhatsApp Story</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-digital-diaries-blending-visuals-with-audio-threads-for-2024/"><u>[Updated] Digital Diaries Blending Visuals with Audio Threads for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/advanced-techniques-finding-out-charge-status-win-1011/"><u>Advanced Techniques: Finding Out Charge Status (Win 10/11)</u></a></li>
+<li><a href="https://windows11.techidaily.com/battle-of-the-packagers-chocolatey-or-wm-on-windows-pcs/"><u>Battle of the Packagers: Chocolatey or WM on Windows PCs</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-pro-capture-not-just-point-and-shoot-mastering-the-hero5-black/"><u>In 2024, Pro Capture, Not Just Point-and-Shoot Mastering the Hero5 Black</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-fresh-film-enthusiasts-primer-on-visual-quality/"><u>In 2024, The Fresh Film Enthusiast’s Primer on Visual Quality</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-oneplus-nord-ce-3-lite-5g-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your OnePlus Nord CE 3 Lite 5G Phone</u></a></li>
+<li><a href="https://windows11.techidaily.com/muting-windows-update-notifications/"><u>Muting Windows Update Notifications</u></a></li>
+<li><a href="https://win-dash.techidaily.com/obtain-your-logitech-driving-force-pro-racing-wheel-game-drivers-for-windows-7-8-and-10/"><u>Obtain Your Logitech Driving Force Pro Racing Wheel Game Drivers for Windows 7, 8 & 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-your-computer-no-need-for-windows-11-upgrades/"><u>Optimize Your Computer: No Need for Windows 11 Upgrades</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcome-chromes-file-uploading-frustrations-on-a-pc/"><u>Overcome Chrome's File Uploading Frustrations on a PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-and-fixing-lost-steam-games-symbols/"><u>Preventing and Fixing Lost Steam Games Symbols</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-se-2020-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone SE (2020) Data From iTunes | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/stealth-mode-disabling-windows-wi-fi-broadcast/"><u>Stealth Mode: Disabling Windows Wi-Fi Broadcast</u></a></li>
+<li><a href="https://windows11.techidaily.com/unmasking-windows-hidden-chronicle-view-clean-up/"><u>Unmasking Windows' Hidden Chronicle - View, Clean Up!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/updating-dell-network-interface-card-drivers-on-microsoft-windows-7/"><u>Updating Dell Network Interface Card Drivers on Microsoft Windows 7</u></a></li>
 </ul></div>
 

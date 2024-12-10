@@ -1,7 +1,7 @@
 ---
 title: Reinstating Active Conditional Filters in Windows Mail
-date: 2024-08-15T16:21:49.598Z
-updated: 2024-08-16T16:21:49.598Z
+date: 2024-12-08T16:37:49.823Z
+updated: 2024-12-10T17:26:23.534Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 3. Under the **Email Rules** tab, make sure the boxes next to your rules are checked.  
 ![Enable Outlook Rules](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/enable-outlook-rules.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Rename Outlook Rules
 
  Using lengthy names for your Outlook rules can cause them to become larger in size, leading to unexpected issues with their functionality. To address this, try assigning shorter names to your Outlook rules and see if that gets things moving again.
@@ -42,8 +46,9 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 5. Type in a shorter name for the rule and hit **OK**.
 6. Click **Apply** to save the changes.  
 ![Rename Outlook Rule](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/rename-outlook-rule.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Delete Unwanted Outlook Rules
@@ -55,9 +60,6 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 3. Click the **Delete** option at the top.
 4. Select **Yes** when prompted.  
 ![Delete a Outlook Rule](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/delete-a-outlook-rule.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ## 4\. Reset the Outlook SRS File
 
@@ -68,9 +70,9 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 3. In the File Explorer window that opens, locate and select **Outlook.srs** file.
 4. Press **F2** on your keyboard and [rename the file](https://www.makeuseof.com/windows-11-rename-files/) to **Outlook.srs.old**.  
 ![Rename Outlook SRS File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/rename-outlook-srs-file.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Restart Outlook after completing the above steps and check if your rules work as expected.
@@ -83,15 +85,14 @@ DbSchema database designer for all databases, schema design in the team, schema 
 2. Select your rule from the list.
 3. Click the **Change Rule** option and select **Edit Rule Settings** from the list.  
 ![Edit Outlook Rule](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/edit-outlook-rule.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Clear the **stop processing more rules** checkbox.
-5. Click **Finish** and then **Apply**.
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Click **Finish** and then **Apply**.
+
 ## 6\. Configure Outlook Rules to Run on All Devices
 
  Another reason why your Outlook rules may not work is if you have configured them to run on a specific device only. Here’s how you can change that.
@@ -103,22 +104,9 @@ DbSchema database designer for all databases, schema design in the team, schema 
 ![Configure Outlook Rule](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/configure-outlook-rule.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Activate Cached Exchange Mode
 
  When you enable the Cached Exchange Mode, Outlook retains a copy of your mailbox within the Outlook data file. This can help the app implement your rules without any issues.
@@ -132,9 +120,6 @@ Key features:
 5. Tick the **Use Cached Exchange Mode** checkbox.
 6. Hit **Apply** followed by **OK**.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Run the Outlook Inbox Repair Tool
 
  When you use Microsoft Outlook on your Windows PC, it generates OST and PST files to store your account data locally. If these data files become inaccessible for some reason, your Outlook rules may stop working. Fortunately, Outlook includes an inbox repair tool that can help you [repair Outlook data files with ease](https://www.makeuseof.com/how-to-repair-corrupted-pst-and-ost-files-in-microsoft-outlook-using-recovery-toolbox/). Here’s how to run it.
@@ -148,6 +133,10 @@ Key features:
 5. Select the profile you want to repair and then click **Start**.  
 ![Outlook Inbox Repair Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/outlook-inbox-repair-tool.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Restart Outlook after this and check if the issue is still there.
 
 ## 9\. Update the Outlook App
@@ -158,8 +147,9 @@ Key features:
 2. Choose the **Office Account** tab from the left column.
 3. Click **Update Options > Update Now**.  
 ![Update Outlook App in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/update-outlook-app-in-windows.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait for Microsoft Office to check for new updates and install them. Following that, Outlook rules should start working.
@@ -171,9 +161,6 @@ Key features:
  To delete all the Outlook rules at once, [open the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/). Type **Outlook.exe /cleanrules** in the text box and press **Enter**.
 
 ![Delete Outlook Rules](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/delete-outlook-rules.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once Outlook deletes all the rules, head to **Manage Rules & Alerts** and set them up again.
 
@@ -183,11 +170,29 @@ Key features:
 
  To help out, we have compiled a list of useful solutions that should get Outlook rules to work again.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-elevate-your-youtube-profitability-anywhere-anytime/"><u>[New] 2024 Approved Elevate Your Youtube Profitability Anywhere, Anytime</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-how-to-speed-up-windows-file-inspection/"><u>[New] 2024 Approved How To Speed Up Windows File Inspection</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-ultimate-campaigns-selecting-the-best-7-total-war-victories/"><u>[New] 2024 Approved Ultimate Campaigns Selecting the Best 7 Total War Victories</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-prime-instant-window-photo-viewer/"><u>[New] Prime Instant Window Photo Viewer</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-whats-revolutionary-about-movavi-plus-video-editor-for-2024/"><u>[New] What's Revolutionary About Movavi Plus Video Editor for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-innovative-prime-lenses-for-professionals-shooting-4k-for-2024/"><u>[Updated] Innovative Prime Lenses for Professionals Shooting 4K for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-transform-your-digital-portfolio-with-onscreen-cropping/"><u>[Updated] Transform Your Digital Portfolio with Onscreen Cropping</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-geforce-experience-error-code-0x0001-in-windows-10-and-11/"><u>How to Fix the GeForce Experience Error Code 0X0001 in Windows 10 & 11</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-discover-the-best-free-iphone-video-rotation-software-for-2024/"><u>New Discover the Best Free iPhone Video Rotation Software for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/notepaddarkmodetoggleprocedurewinos/"><u>NotepadDarkModeToggleProcedureWinOS</u></a></li>
+<li><a href="https://windows11.techidaily.com/revitalizing-the-file-explorer-ui/"><u>Revitalizing the File Explorer UI</u></a></li>
+<li><a href="https://fox-links.techidaily.com/speedster-software-best-rapid-releases-for-tablets-and-computers-for-2024/"><u>Speedster Software - Best Rapid Releases for Tablets & Computers for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-win11-overcoming-errors-in-team-communication-app/"><u>Streamlining Win11: Overcoming Errors in Team Communication App</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-complete-walkthrough-to-jdk-installation-on-windows-11/"><u>The Complete Walkthrough to JDK Installation on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-7-decisions-to-make-before-acquiring-a-windows-model/"><u>Top 7 Decisions to Make Before Acquiring a WIndows Model</u></a></li>
+</ul></div>
+

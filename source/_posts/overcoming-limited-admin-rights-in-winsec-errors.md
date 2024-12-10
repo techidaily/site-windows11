@@ -1,7 +1,7 @@
 ---
 title: Overcoming Limited Admin Rights in WinSec Errors
-date: 2024-08-15T16:19:35.507Z
-updated: 2024-08-16T16:19:35.507Z
+date: 2024-12-03T20:17:44.004Z
+updated: 2024-12-10T18:00:13.603Z
 tags:
   - windows10
   - windows11
@@ -20,11 +20,23 @@ thumbnail: https://thmb.techidaily.com/7ac9924553405319fc34adce73b50933080c4e0b7
 
  This error message suggests another administrative user has applied restrictions to Windows Security. However, it often arises on standalone PCs that aren’t connected to an organization network. This is how you can fix the “Your IT administrator has limited access” error.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Change Your User Account to an Admin Account
 
  You shouldn’t usually need admin rights to access Windows Security. However, make sure you’re signed in to an admin account to ensure you have full system permissions. If you’re utilizing a standard account, change it to an administrator one. You can do that with one of the methods outlined in this guide to[changing user account type in Windows](https://www.makeuseof.com/ways-to-change-user-account-windows-10/) .
 
 ![The Access work or school account settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/work-or-school-accounts.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Uninstall Third-Party Security Software
 
@@ -32,9 +44,6 @@ thumbnail: https://thmb.techidaily.com/7ac9924553405319fc34adce73b50933080c4e0b7
 
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/uninstall-option-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Remove Any Work or School Accounts
 
  Have you connected your PC with any school or work organization account? If so, such an account could be restricting access to Windows Security settings. Try disconnecting your PC from the school or work in Settings as follows:
@@ -44,6 +53,14 @@ thumbnail: https://thmb.techidaily.com/7ac9924553405319fc34adce73b50933080c4e0b7
 3. Click a connected work or school account to expand it.  
 ![The Access work or school account settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/work-or-school-accounts.jpg)
 4. Press the**Disconnect** button and select**Yes** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Disable the Turn Off Microsoft Defender Antivirus Policy
 
@@ -60,26 +77,18 @@ thumbnail: https://thmb.techidaily.com/7ac9924553405319fc34adce73b50933080c4e0b7
 2. Then double-click**Turn off Microsoft Defender Antivirus** .
 3. Click**Disabled** if the**Turn off Microsoft Defender Antivirus** policy is enabled.  
 ![The Turn off Microsoft Defender Antivirus window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-turn-off-microsoft-defender-antivirus-window.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 4. Select the policy’s**Apply** and**OK** options.
 5. Double-click**Allow antimalware to startup with normal priority** and select to disable that policy as outlined in the previous two steps as well.  
 ![The Allow antimalware service to startup with normal priority window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/allow-antimalware-service-window.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 6. Next, click**Client Interface** within the Microsoft Defender Antivirus settings.  
 ![Allow antimalware service to startup with normal priority](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/client-interface-setting.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 7. Double-click the**Enable headless UI mode** policy to view it.  
-![The Client Interface settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/enable-headless-ui-mode.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![The Client Interface settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/enable-headless-ui-mode.jpg)
 8. Select**Disabled** \>**Apply** \>**OK** in the Enable headless UI mode policy window.
 
 ## 5\. Run a PowerShell Command
@@ -92,19 +101,12 @@ thumbnail: https://thmb.techidaily.com/7ac9924553405319fc34adce73b50933080c4e0b7
 4. Input this**MpPreference** command and press**Return** :  
 `set-MpPreference -UILockdown`  
 ![The set-Mppreference PowerShell command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-set-mppreference-command.jpg)
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 5. Exit PowerShell and open Windows Security again to see if the error persists.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Repair/Reset Windows Security
 
  Windows Security is a UWP app for which you can select**Repair** and**Reset** Settings options that can resolve various issues. Those options are there to help users fix apps that aren’t working right. So, try selecting Windows Security’s**Repair** and**Reset** options to see if they make any difference.
@@ -113,9 +115,6 @@ thumbnail: https://thmb.techidaily.com/7ac9924553405319fc34adce73b50933080c4e0b7
 
  Our article[about resetting Windows apps](https://www.makeuseof.com/windows-reset-app/) tells you how to access the**Reset** button. The**Repair** button is just above the**Reset** option. It’s recommended to select**Repair** first since that doesn’t affect app data.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Modify the Registry via Command Prompt
 
  Users also confirm that running a series of Command Prompt commands that modify the registry can resolve the “Page not available” issue. As those are reg delete commands, we recommend you back up the registry before applying this potential fix. Then try running the registry commands for erasing policies like this:
@@ -146,9 +145,6 @@ reg delete "HKCU\Software\Policies" /f
 reg delete "HKLM\Software\Microsoft\Policies" /f`
 4. Input**exit** in the Command Prompt to close the app.  
 ![The reg delete command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reg-delete.jpg)
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Open the Start menu, select**Power** , and press the**Restart** button.
 
 ## 8\. Perform a System Restore
@@ -169,8 +165,6 @@ reg delete "HKLM\Software\Microsoft\Policies" /f`
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -178,4 +172,22 @@ reg delete "HKLM\Software\Microsoft\Policies" /f`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-how-can-you-stream-a-pre-recorded-video-live-on-facebook-in-2024/"><u>[New] How Can You Stream A Pre-Recorded Video Live on Facebook, In 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-achieving-high-view-count-a-youtube-video-guide/"><u>[Updated] 2024 Approved Achieving High View Count A YouTube Video Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-capture-and-create-first-edits-in-lunapic-photo-editor/"><u>[Updated] Capture & Create First Edits in LunaPic Photo Editor</u></a></li>
+<li><a href="https://windows11.techidaily.com/identifying-and-correcting-incorrect-cpu-readouts-on-pc-monitor/"><u>Identifying and Correcting Incorrect CPU Readouts on PC Monitor</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/immediate-recovery-of-lost-snapshots/"><u>Immediate Recovery of Lost Snapshots</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-v29-pro-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Vivo V29 Pro Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-delete-confirmation-steps-on-modern-windows-pcs/"><u>Mastering Delete Confirmation Steps on Modern Windows PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-windows-memory-trouble/"><u>Navigating Through Windows' Memory Trouble</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimal-classic-gaming-experience-winning-with-scummvm-on-pc/"><u>Optimal Classic Gaming Experience: Winning with ScummVM on PC</u></a></li>
+<li><a href="https://fox-info.techidaily.com/soaring-high-with-q500s-4k-vision-for-2024/"><u>Soaring High with Q500's 4K Vision for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/swiftly-enhancing-your-device-with-ios-15/"><u>Swiftly Enhancing Your Device with iOS 15</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailored-w11-tuning-lessen-resource-usage-for-users/"><u>Tailored W11 Tuning: Lessen Resource Usage for Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/transforming-user-access-control-on-common-windows-systems/"><u>Transforming User Access Control on Common Windows Systems</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-motorola-defy-2s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Motorola Defy 2s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-vlogs-and-travel-content-are-incomplete-without-a-fast-motion-effect-learn-step-by-step-how-to-make-fast-motion-video-on-an-iphone-in-this-a/"><u>Updated In 2024, Vlogs and Travel Content Are Incomplete without a Fast-Motion Effect. Learn Step-by-Step How to Make Fast Motion Video on an iPhone in This Article</u></a></li>
+</ul></div>
 

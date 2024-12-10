@@ -1,7 +1,7 @@
 ---
 title: Tactics for Mending Fatal Discord Javascript Crashes on Windows 10/11
-date: 2024-11-28T00:37:49.440Z
-updated: 2024-12-04T01:29:28.479Z
+date: 2024-12-07T20:40:39.011Z
+updated: 2024-12-10T19:22:46.311Z
 tags:
   - windows10
   - windows11
@@ -25,15 +25,15 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Run Discord With Admin Rights
 
  Running Discord with administrative rights could potentially fix the fatal Javascript error. Then the software will have maximum system access (privileges for accessing restricted folders and changing files). You can set Discord to always run as administrator as covered within our guide for[running apps with admin rights on Windows](http://www.makeuseof.com/tag/always-run-apps-administrator-windows/) .
 
 ![The Run this program in compatibility mode checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-this-program-as-administrator-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Uninstall BetterDiscord
 
@@ -48,11 +48,11 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 ![The Uninstall BetterDiscord option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-betterdiscord-option.jpg)
 7. Choose a**Discord** version.
 
-8. Click**Uninstall** to finish.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+8. Click**Uninstall** to finish.
 
 ## 3\. Delete Discord’s Data Folders
 
@@ -67,18 +67,10 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 ![A Discord-related processes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/discord-related-process.jpg)
 5. Open Windows Explorer with**Win + E** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Type**%appdata%** inside Explorer’s address bar and press**Return** .
 7. Then select the Discord data folder and click Explorer's**Delete** option on the**Home** tab or command bar.  
 ![A discord folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/discord-folder.jpg)
 8. Input**%LocalAppData%** in Explorer’s address bar and press**Enter** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 9. Next, click the Discord folder with the mouse’s right button and select**Delete** .
 
@@ -98,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 ![The Download for Windows option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/download-for-windows-button.jpg)
 8. Next, double-click**DiscordSet.exe** in whatever file your browser downloaded it in.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 9. Go through Discord’s installation wizard to reinstall the software.
 
 ## 5\. Disable Any Third-Party Antivirus Tools
@@ -115,15 +111,11 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 ![The Virus & threat protection tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/virus-threat-protection.jpg)
 3. Click**Manage Settings** to view the options.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Toggle off the**Real-time protection** option to disable background antivirus scanning.  
 ![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/real-time-protection-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Check the Quality Windows Audio Video Experience Service is Enabled
@@ -136,6 +128,10 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 ![The Services app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-services-app.jpg)
 4. Then double-click**Quality Windows Audio Video Experience** inside the Services window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. If Quality Windows Audio Video Experience is disabled, select the**Automatic** startup option.  
 ![The Startup type drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-startup-type-drop-down-menu.jpg)
 6. Press the service’s**Start** button.
@@ -143,6 +139,10 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 7. Select**Log On** at the top of the service’s properties window.  
 ![The Log On tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/this-account-radio-button.jpg)
 8. Click**Browse** for the**This account** radio button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 9. Input your user account within the**Enter** object name box.
 10. Click**OK** to close out of the Select user window.
@@ -168,22 +168,24 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/18-best-tools-for-live-webcam-streaming-and-saving/"><u>18 Best Tools for Live Webcam Streaming & Saving</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Poco X5 Pro | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-change-the-microsoft-account-administrator-name-in-windows-11/"><u>How to Change the Microsoft Account Administrator Name in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-halt-windows-push-notifications-for-updates/"><u>How to Halt Windows Push Notifications for Updates</u></a></li>
-<li><a href="https://windows11.techidaily.com/implementing-effective-end-task-controls-in-windows-11-interface-design/"><u>Implementing Effective End Task Controls in Windows 11 Interface Design</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-action-cameras-for-waterproof-recording-1-7/"><u>In 2024, Action Cameras for Waterproof Recording #1-7</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-navigate-the-sea-of-stunning-pexels-imagery-with-ease/"><u>In 2024, Navigate the Sea of Stunning Pexels Imagery with Ease</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-insta-audio-handbook-choosing-music-wisely/"><u>In 2024, The Insta-Audio Handbook Choosing Music Wisely</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Tecno Spark 20 Pro | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/master-the-art-dependencies-prior-to-vbox-for-windows/"><u>Master the Art: Dependencies Prior to VBox for Windows</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/mastering-snips-on-mac-top-5-picks-unveiled/"><u>Mastering Snips on Mac Top 5 Picks Unveiled</u></a></li>
-<li><a href="https://windows11.techidaily.com/multi-monitor-magic-custom-wallpapers-for-each-screen/"><u>Multi-Monitor Magic: Custom Wallpapers for Each Screen</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimizing-speed-fixing-slow-microsoft-edge-win10win11/"><u>Optimizing Speed: Fixing Slow Microsoft Edge (Win10/Win11)</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-missing-launcher-dilemma-for-ubisoft-games/"><u>Overcoming Missing Launcher Dilemma for Ubisoft Games</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-hyperx-cloud-alpha-microphone-problems-a-comprehensive-approach/"><u>Solving HyperX Cloud Alpha Microphone Problems – A Comprehensive Approach</u></a></li>
-<li><a href="https://windows11.techidaily.com/uncover-9-steps-for-altering-the-auditory-elements-of-windows-11/"><u>Uncover 9 Steps for Altering the Auditory Elements of Windows 11</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-realme-11-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Realme 11 5G? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-enhancing-call-clarity-silencing-distractions-for-2024/"><u>[New] Enhancing Call Clarity Silencing Distractions for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-best-practices-8-steps-for-digital-sound-preservation-for-2024/"><u>[Updated] Best Practices 8 Steps for Digital Sound Preservation for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-realistic-3d-text-photoshopping-style/"><u>2024 Approved Crafting Realistic 3D Text Photoshopping Style</u></a></li>
+<li><a href="https://windows11.techidaily.com/conquer-unresponsive-clicks-with-these-fixes/"><u>Conquer Unresponsive Clicks with These Fixes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-the-ideal-moments-and-locations-unveiling-top-savings-on-black-friday-2022-tech-news-insights/"><u>Discovering the Ideal Moments & Locations: Unveiling Top Savings on Black Friday 2022 | Tech News Insights</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-honor-magic-5-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Honor Magic 5 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-for-internal-power-malfunction-in-windows-10-devices/"><u>Effective Solutions for Internal Power Malfunction in Windows 10 Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/fast-track-favorites-windows-11-shortcuts-for-uwp-apps/"><u>Fast-Track Favorites: Windows 11 Shortcuts for UWP Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/guidelines-for-resolving-missing-drivers-alert-on-windows-setup/"><u>Guidelines for Resolving Missing Drivers Alert on Windows Setup</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/guides-to-unearthing-elite-cinematography-for-2024/"><u>Guides to Unearthing Elite Cinematography for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-extend-the-pin-length-in-windows-11-and-11/"><u>How to Extend the PIN Length in Windows 11 & 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-local-security-authority-protection-is-off-security-warning-on-windows/"><u>How to Fix the “Local Security Authority Protection Is Off” Security Warning on Windows</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-itel-p40plus-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-nocturnal-nuances-essential-tips-for-moonlit-portraiture/"><u>In 2024, Nocturnal Nuances Essential Tips for Moonlit Portraiture</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-application-failure-the-notorious-error-the-application-couldnt-start-xc000003e-on-win11-and-11/"><u>Navigating Application Failure: The Notorious Error The Application Couldn’t Start Xc000003e on Win11 & 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedy-microsoft-m365-glitch-with-code-30015-26/"><u>Remedy Microsoft M365 Glitch with Code 30015-26</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-your-fitness-routine-6-innovative-uses-of-chatgpt-for-smartwatch-enhancement/"><u>Transform Your Fitness Routine: 6 Innovative Uses of ChatGPT for Smartwatch Enhancement</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-office-suites-strict-safe-mode-on-windows-operations/"><u>Troubleshooting Office Suite's Strict Safe Mode on Windows Operations</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-device-control-for-sleep-state-wakefulness/"><u>Unlocking Device Control for Sleep State Wakefulness</u></a></li>
 </ul></div>
 

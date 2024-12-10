@@ -1,7 +1,7 @@
 ---
 title: Remedying Camera Unresponsive on Windows 11
-date: 2024-11-28T17:53:24.537Z
-updated: 2024-12-04T00:38:57.064Z
+date: 2024-12-09T18:36:23.841Z
+updated: 2024-12-10T16:40:00.697Z
 tags:
   - windows10
   - windows11
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Apply Some Preliminary Checks
 
  Start diagnosing the problem by applying the following preliminary checks first, as they may resolve the issue immediately:
@@ -43,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
  If none of the above checks help resolve the error, move on to the main fixes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Ensure the External Camera Is Properly Connected
@@ -55,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
  Also, you can unplug the cable from the port the camera is currently connected to and connect it to another port to eliminate issues with its port. Likewise, you should disconnect and reconnect the camera from your device to ensure it's not a temporary glitch causing the error under discussion.
 
  If the above tweaks don't fix the issue or you're experiencing the error on a laptop featuring an integrated webcam, move on to the next step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Ensure That the Camera Isn't Disabled in Windows Settings
 
@@ -80,15 +80,15 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
 
 ![The Camera troubleshooting window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/camera-troubleshooter-window.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Windows also offers another troubleshooter called Windows Store Apps, which helps scan and fix problems with Microsoft Store apps (formerly known as Windows Store). Since the Camera app is a Microsoft Store app, running this troubleshooter might also help resolve issues with it.
 
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-windows-store-apps-troubleshooter.jpg)
 
  Therefore, follow our guide on [how to run any troubleshooter in Windows 10 and 11](https://www.makeuseof.com/run-troubleshooter-windows-10-11/) to run the Camera and Windows Store Apps troubleshooter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Check Your Camera Permissions
 
@@ -99,7 +99,7 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
 ![Enable the Camera Access in the Privacy and Security Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/3-enable-the-camera-access-in-the-privacy-and-security-tab-of-the-windows-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Update, Reinstall, or Rollback the Camera Drivers
@@ -111,20 +111,20 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
 ![Update the Relevant Camera Driver From Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/4-update-the-relevant-camera-driver-from-windows-device-manager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If updating the driver doesn't help, right-click on the driver again and choose **Uninstall device**. Then, restart your device, and Windows will install the most recent driver for you.
 
 ![Uninstall the Camera Driver From Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/5-uninstall-the-camera-driver-from-windows-device-manager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Roll back the driver update if you have encountered the issue under discussion after updating the driver. To do so, right-click the driver and select **Properties**. Navigate to the **Driver** tab and click **Roll Back Driver**.
 
 ![properties camera device device manager roll back driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/properties-camera-device-device-manager-roll-back-driver.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Repair and Reset the App
 
@@ -152,18 +152,22 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-3-techniques-to-retrieve-and-save-youtubes-iconic-images/"><u>[New] 2024 Approved 3 Techniques to Retrieve & Save YouTube's Iconic Images</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-game-masters-youtube-money-hacks-for-2024/"><u>[New] Game Masters YouTube Money Hacks for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-realme-v30-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Realme V30 | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-nubia-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Nubia Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://windows11.techidaily.com/faster-printouts-with-easy-windows-troubleshooting/"><u>Faster Printouts with Easy WIndows Troubleshooting</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-poco-x6-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Poco X6? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-a-device-which-does-not-exist-was-specified-error-in-windows-10-and-11/"><u>How to Fix the “A Device Which Does Not Exist Was Specified” Error in Windows 10 & 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/learn-to-circumvent-windows-11-lock-without-fuss/"><u>Learn to Circumvent Windows 11 Lock Without Fuss</u></a></li>
-<li><a href="https://windows11.techidaily.com/new-era-of-productivity-microsofts-ai-integration-in-windows-11-taskbar/"><u>New Era of Productivity: Microsoft's AI Integration in Windows 11 Taskbar</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/seamless-sync-the-ultimate-techniques-for-linking-bose-soundlink-wireless-speakers/"><u>Seamless Sync: The Ultimate Techniques for Linking Bose SoundLink Wireless Speakers</u></a></li>
-<li><a href="https://windows11.techidaily.com/securing-a-smooth-setup-for-microsoft-works-in-w11/"><u>Securing a Smooth Setup for Microsoft Works in W11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-solve-error-when-transferring-iphones-pics/"><u>Steps to Solve Error When Transferring iPhones' Pics</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-7-windows-cryptography-tools-under-156-chars/"><u>Top 7 Windows Cryptography Tools (Under 156 Chars)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-efficiently-record-your-screen-with-io-screen-recorder/"><u>[New] 2024 Approved Efficiently Record Your Screen with IO Screen Recorder</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-streamline-your-watching-enabling-youtube-autoplay-in-facebook-feeds/"><u>[New] In 2024, Streamline Your Watching Enabling YouTube Autoplay in Facebook Feeds</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-instagrams-picture-perfect-upload-techniques-unveiled-for-2024/"><u>[New] Instagram's Picture Perfect Upload Techniques Unveiled for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-direct-upload-how-to-share-your-favorite-fb-vids-in-chats-for-2024/"><u>[Updated] Direct Upload How To Share Your Favorite FB Vids in Chats for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-windows-11-stumbling-blocks-the-most-crucial-tips/"><u>Avoiding Windows 11 Stumbling Blocks: The Most Crucial Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/digital-dream-team-top-windows-apps-for-a-winning-start/"><u>Digital Dream Team: Top Windows Apps for a Winning Start</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-clutter-software-uninstallation-tricks-for-windows-11-106-chars/"><u>Eliminating Clutter: Software Uninstallation Tricks for Windows 11 (106 Chars)</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-gas-station-simulator-troubleshooting-pc-crashes/"><u>Fixing the Gas Station Simulator - Troubleshooting PC Crashes</u></a></li>
+<li><a href="https://windows11.techidaily.com/get-ahead-in-passwords-7-best-free-generation-tools-for-windows/"><u>Get Ahead in Passwords: 7 Best Free Generation Tools for Windows</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-exclusive-insights-into-prime-10-streamers/"><u>In 2024, Exclusive Insights Into Prime 10 Streamers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-maximizing-earnings-on-youtube-shorts-essentials-and-prospective-income/"><u>In 2024, Maximizing Earnings on YouTube Shorts Essentials & Prospective Income</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simple-steps-for-successfully-binding-your-samsung-universal-remote-control-to-your-tv-model/"><u>Simple Steps for Successfully Binding Your Samsung Universal Remote Control to Your TV Model</u></a></li>
+<li><a href="https://windows11.techidaily.com/simplified-guide-to-shift-your-qbittorrent-installation/"><u>Simplified Guide to Shift Your qBittorrent Installation</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/ultimate-guide-how-to-capture-and-save-your-adobe-connect-presentations-flawlessly/"><u>Ultimate Guide: How to Capture and Save Your Adobe Connect Presentations Flawlessly</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-power-of-dism-in-win11-image-management/"><u>Unveiling the Power of Dism in Win11 Image Management</u></a></li>
+<li><a href="https://windows11.techidaily.com/why-task-managers-feature-extras-under-edge/"><u>Why Task Managers Feature Extras Under Edge?</u></a></li>
+<li><a href="https://windows11.techidaily.com/zeroing-out-bloatware-windows-11-edition/"><u>Zeroing Out Bloatware: Windows 11 Edition</u></a></li>
 </ul></div>
 

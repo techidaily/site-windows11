@@ -1,7 +1,7 @@
 ---
 title: Mastery of Remedying World of Warcraft’s Error Code 132
-date: 2024-11-27T23:26:11.766Z
-updated: 2024-12-03T16:18:34.956Z
+date: 2024-12-05T22:02:23.435Z
+updated: 2024-12-10T18:19:08.240Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/f44a3055113623243d984e90c974cbd9f7a475110
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Disable Game DVR for Recording Clips
 
  This somewhat unusual potential solution is also among the most widely confirmed to work. Many WoW players have been able to fix error 132 simply by disabling Game DVR background recording. So, maybe that potential fix could work for you as well. Try disabling Game DVR as follows:
@@ -34,11 +38,11 @@ thumbnail: https://thmb.techidaily.com/f44a3055113623243d984e90c974cbd9f7a475110
 3. Turn Off the **Record in the background while I’m playing a game** option.  
 ![A screenshot of the Captures setting screen for Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/record-in-the-background-option.jpg)
 
- The Windows 11 Settings app doesn’t include that option. However, you can access the same option within the Game Bar app. Press the **Windows** key + **G** and select **Settings** \> **Capturing** in the Game Bar. Then deselect the **Record in the background while I’m playing a game** checkbox.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ The Windows 11 Settings app doesn’t include that option. However, you can access the same option within the Game Bar app. Press the **Windows** key + **G** and select **Settings** \> **Capturing** in the Game Bar. Then deselect the **Record in the background while I’m playing a game** checkbox.
 
 ## 2\. Rename World of Warcraft’s Cache, WTF, and Interface Folders
 
@@ -50,18 +54,18 @@ thumbnail: https://thmb.techidaily.com/f44a3055113623243d984e90c974cbd9f7a475110
 ![A screenshot of the Show In Explorer option for World of Warcraft in Battle Net](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/show-in-file-explorer.jpg)
 4. Next, open either the **\_retail\_** or **\_classic\_** subfolder. For example, open the **\_classic\_** folder if you play World of Warcraft Classic or **\_retail\_** for the current version.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![A screenshot of the Retail folder in the system files for World of Warcraft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/retail-folder.jpg)
 5. Then right-click on the **Interface** subfolder, select **Rename**, and input **InterfaceOld** for the new name.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Repeat the previous step for the **Classic** and **WTF** folders. Rename those folders to **ClassicOld** and **WTFOld**.  
 ![A screenshot of the system file options for the Cache folder for World of Warcraft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/rename-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then go back to the Battle.net software to launch World of Warcraft. The renamed folders will be recreated, which resets the UI for the World of Warcraft game. The game might initially start more slowly than usual because of that, but hopefully, you’ll be able to play it without further issues.
@@ -86,23 +90,19 @@ thumbnail: https://thmb.techidaily.com/f44a3055113623243d984e90c974cbd9f7a475110
 
  Restart the Blizzard software after setting this new command line argument for World of Warcraft. Then start WoW to see if this possible resolution makes a difference.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Add World of Warcraft to Your Security Software Exclusions List
 
  Security software packages (antivirus tools and firewalls) could be causing error 132 on your PC by blocking World of Warcraft or other Blizzard processes from running. You can check this by disabling Microsoft Defender or an alternative third-party antivirus tool on your PC. However, it’s not ideal to have to turn off security features every time you want to play World of Warcraft.
 
 ![A screenshot of the option to Add An Exclusion to the Windows Security Exclusions List](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/add-an-exclusion.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To ensure your security software never blocks World of Warcraft, add the game’s .exe (application) file to your antivirus and firewall exception lists. You can [whitelist files for Microsoft Defender](https://www.makeuseof.com/how-to-whitelist-files-windows-defender/#:~:text=Under%20Protection%20areas%2C%20select%20Virus,type%2C%20or%20process%20to%20exclude.) by clicking the **Add an exclusion** button in the Windows Security app. If you’ve installed a third-party antivirus tool, set a WoW exception in that app’s exclusion list instead.
 
  If adding World of Warcraft to your Windows Defender Exclusion List doesn’t fix error 132, you may want to [run the System File Checker for Windows](https://www.makeuseof.com/system-file-checker-sfc-windows/) instead. This could repair any corrupted files causing the error.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Enjoy World of Warcraft Again
 
@@ -120,16 +120,18 @@ thumbnail: https://thmb.techidaily.com/f44a3055113623243d984e90c974cbd9f7a475110
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-top-student-vids-essential-histories-channel-list/"><u>[New] 2024 Approved Top Student Vids Essential Histories Channel List</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-best-mobile-film-and-picture-capture-tools-for-iphones-and-androids-for-2024/"><u>[New] Best Mobile Film & Picture Capture Tools for iPhones & Androids for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-engaging-video-credits-the-best-fonts-for-thumbnails/"><u>[New] In 2024, Engaging Video Credits The Best Fonts for Thumbnails</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-strategies-for-effective-scheduling-of-digital-meetups/"><u>[Updated] In 2024, Strategies for Effective Scheduling of Digital Meetups</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/nleashing-creative-power-in-animation-effects/"><u>DIY Unleashing Creative Power in Animation Effects</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-this-app-has-been-blocked-for-your-protection-error-on-windows/"><u>How to Fix This App Has Been Blocked for Your Protection Error on Windows</u></a></li>
-<li><a href="https://some-skills.techidaily.com/how-to-move-your-amazon-kindle-titles-seamlessly-to-a-kobo-reader/"><u>How to Move Your Amazon Kindle Titles Seamlessly to a Kobo Reader</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-windows-rainmeter-hiccups-with-easy-fixes/"><u>Mastering Window's Rainmeter Hiccups with Easy Fixes</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimize-wallet-growth-unlocking-windows-11-pro-offers/"><u>Optimize Wallet Growth - Unlocking Windows 11 Pro Offers</u></a></li>
-<li><a href="https://windows11.techidaily.com/resurrecting-the-clock-actions-to-restore-windows-server-time/"><u>Resurrecting the Clock: Actions to Restore Windows Server Time</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-premium-weather-apps-for-windows-11/"><u>Unveiling Premium Weather Apps for Windows 11</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-vidmas-screen-recorder-an-in-depth-review/"><u>[New] 2024 Approved Vidma’s Screen Recorder An In-Depth Review</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-step-by-step-guide-to-dynamic-gif-making/"><u>[New] In 2024, Step-by-Step Guide to Dynamic GIF Making</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-capture-youtubes-iconic-icons-online-tools-desktop-software-and-commands/"><u>[Updated] 2024 Approved Capture YouTube's Iconic Icons Online Tools, Desktop Software & Commands</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-best-youtube-mp3-downloader-compilation-top-10/"><u>[Updated] Best YouTube Mp3 Downloader Compilation (Top 10)</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/10-cross-cultural-films-that-sharpen-your-vocabulentic-skills/"><u>10 Cross-Cultural Films That Sharpen Your Vocabulentic Skills</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-correct-non-empty-directory-error-code-0x80070091-in-win11/"><u>How to Correct Non-Empty Directory Error (Code: 0X80070091) in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-rpc-failure-essential-steps-for-win-users/"><u>Overcoming RPC Failure: Essential Steps for Win Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-stability-issues-with-vscode-on-w11/"><u>Preventing Stability Issues with VSCode on W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-a-muted-windows-taskbar/"><u>Remedying a Muted Windows Taskbar</u></a></li>
+<li><a href="https://windows11.techidaily.com/simplify-workflows-automate-using-to-dot-plus-ifttt/"><u>Simplify Workflows: Automate Using To-Dot + IFTTT</u></a></li>
+<li><a href="https://win-forum.techidaily.com/streamline-software-removal-the-essentials-of-hunter-mode-on-revo-uninstaller/"><u>Streamline Software Removal: The Essentials of Hunter Mode on Revo Uninstaller</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/understanding-and-using-spanish-verb-endings/"><u>Understanding and Using Spanish Verb Endings</u></a></li>
+<li><a href="https://facebook.techidaily.com/unveiling-realities-seeing-the-whole-picture-in-fb-data-exposes/"><u>Unveiling Realities: Seeing the Whole Picture in FB Data Exposés</u></a></li>
 </ul></div>
 

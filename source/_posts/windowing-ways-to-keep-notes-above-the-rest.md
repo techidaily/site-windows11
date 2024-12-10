@@ -1,7 +1,7 @@
 ---
 title: Windowing Ways to Keep Notes Above the Rest
-date: 2024-08-15T16:17:40.601Z
-updated: 2024-08-16T16:17:40.601Z
+date: 2024-12-07T21:12:46.183Z
+updated: 2024-12-10T17:17:25.207Z
 tags:
   - windows10
   - windows11
@@ -35,9 +35,19 @@ thumbnail: https://thmb.techidaily.com/150a758dee3602d845be20dca449cfe34839f49d0
 3. In the PowerToys Settings window, open the**Always on Top** tab**.**  
 ![power toys always on top](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/power-toys-always-on-top.jpg)
 4. Next, toggle the**Enable Always on Top** switch and set it to**On** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Next, under**Activation** , note down the**Activation shortcut** . By default, it is set to**Win + Ctrl + T** . To change the shortcut combo, click the**Edit** button (Pencil icon) and make changes.  
 ![power toys always on top border off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/power-toys-always-on-top-border-off.jpg)
 6. Under**Appearances & behavior** , toggle the**Shows a border around the Pinned window** to disable the highlighted border for the pinned app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Next, open the Sticky Notes app. To do this, press the**Win** key**,** type**sticky notes** and open the app.
 8. To pin Sticky Notes, click on the app window and press**Win + Ctrl + T.** You will hear a sound when the window is pinned.
 
@@ -45,10 +55,6 @@ thumbnail: https://thmb.techidaily.com/150a758dee3602d845be20dca449cfe34839f49d0
 
  Impressed with PowerToys yet? Here are some more[impressive things you can do with Microsoft Toys on Windows](https://www.makeuseof.com/best-things-you-can-do-windows-powertoys/) .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Use DeskPins to Pin Sticky Notes
 
  DeskPins is a third-party open-source utility to pin app windows on Windows OS. It officially supports Windows 10 and earlier editions; however, we also tested it and found it working on Windows 11.
@@ -61,39 +67,37 @@ To pin Sticky Notes using DeskPins:
 2. Run the installer and keep all the options selected.
 3. Once installed, search for**DeskPins** and click on the**App** icon to launch the app.  
 ![desk pins system tray](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-system-tray.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 4. Next, open the**system tray** (up arrow icon in the bottom left corner of your desktop) and click on the**DeskPins** icon to activate a Pin.  
 ![desk pins pin windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-pin-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 5. Next, click on the**Sticky Note** app window to keep it always on top.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click the**Pin** icon to unpin the window.
 
 ![desk pins pin windows options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-pin-windows-options.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can further customize the app with Hotkeys, set auto pin rules, and customize pin color and tracking rate. To do this, right-click on the**DeskPins** icon and select**Options** to access the customization features.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Keep Sticky Notes Always on Top in Windows 10 and 11
 
  The Sticky Notes app is an excellent productivity tool if you need to continuously jot down ideas and notes. With PowerToys’s Always On Top feature, the app can stay pinned forever on your desktop and not get lost with the other hundred apps in the background. Alternatively, use DeskPins if you find PowerToys overkill for this task.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -102,4 +106,24 @@ To pin Sticky Notes using DeskPins:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-optimal-cameras-for-puppet-film-projects/"><u>[New] In 2024, Optimal Cameras for Puppet Film Projects</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-becoming-a-reel-virtuoso-in-the-social-media-arena/"><u>[Updated] In 2024, Becoming a Reel Virtuoso in the Social Media Arena</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-comparing-top-free-players-vlc-or-mpc/"><u>[Updated] In 2024, Comparing Top Free Players VLC or MPC?</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-fixes-for-a-frozen-windows-11-search-box-within-settings-app/"><u>Essential Fixes for a Frozen Windows 11 Search Box Within Settings App</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-best-8-youtube-thumbnail-grabbers-you-should-know/"><u>In 2024, Best 8 YouTube Thumbnail Grabbers You Should Know</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-s18-pro-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo S18 Pro Phone FRP Lock</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-honor-x9a-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Honor X9a Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-audio-integration-in-windows-11-snipping-tool-screenshots-max-156/"><u>Mastering Audio Integration in Windows 11 Snipping Tool Screenshots (Max 156)</u></a></li>
+<li><a href="https://windows11.techidaily.com/microsofts-windows-11-reimagined-with-ai-infused-taskbar-companion/"><u>Microsoft's Windows 11 Reimagined with AI-Infused Taskbar Companion</u></a></li>
+<li><a href="https://games-able.techidaily.com/potential-hike-in-graphic-processing-unit-expenses/"><u>Potential Hike in Graphic Processing Unit Expenses?</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-blocked-files-on-your-system-with-powershell/"><u>Tackling Blocked Files on Your System with PowerShell</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-collection-of-4-ai-tools-to-spark-creativity/"><u>The Ultimate Collection of 4 AI Tools to Spark Creativity</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-access-denied-message-in-microsoft-office-for-pc/"><u>Troubleshooting 'Access Denied' Message in Microsoft Office for PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-unresponsive-copypaste-on-windows-11/"><u>Troubleshooting Unresponsive Copy/Paste on Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-funny-photo-editor-for-2024/"><u>Ultimate Funny Photo Editor for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/unshackling-from-the-internet-localized-onedrive-usage/"><u>Unshackling From the Internet: Localized OneDrive Usage</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-windows-11-shortcut-wizardry-for-efficient-control/"><u>Unveiling Windows 11 Shortcut Wizardry for Efficient Control</u></a></li>
+</ul></div>
 

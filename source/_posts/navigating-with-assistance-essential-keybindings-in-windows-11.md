@@ -1,7 +1,7 @@
 ---
 title: "Navigating with Assistance: Essential Keybindings in Windows 11"
-date: 2024-12-02T22:28:07.219Z
-updated: 2024-12-04T04:53:38.740Z
+date: 2024-12-04T20:09:15.161Z
+updated: 2024-12-10T18:28:02.500Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/60aeb73e6646ca7cba89b069f503754c9115c11cb
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## All the Narrator Keyboard Shortcuts in Windows 11
@@ -185,7 +185,7 @@ Here are all the Narrator shortcuts available to you:
 | Narrator + Ctrl + Enter                         | Toggle search mode                                    |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Windows Narrator Can Do More
@@ -207,20 +207,18 @@ Here are all the Narrator shortcuts available to you:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-recovery.techidaily.com/anticipate-the-future-with-samsung-unpacked-2025-dates-specs-and-rumors-galore/"><u>Anticipate the Future with Samsung Unpacked 2025 - Dates, Specs, and Rumors Galore</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/comment-resoudre-les-erreurs-de-materiel-defectueux-et-supprimer-des-pages-endommagees-dans-windows-10/"><u>Comment Résoudre Les Erreurs De Matériel Défectueux Et Supprimer Des Pages Endommagées Dans Windows 10</u></a></li>
-<li><a href="https://solve-info.techidaily.com/elevate-document-digitization-with-next-level-technology-the-abbyy-flexicapture-cloud-upgrade/"><u>Elevate Document Digitization with Next-Level Technology: The ABBYY FlexiCapture Cloud Upgrade</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/expert-tips-for-flawless-dvd-copying-on-mac-computers-discover-the-top-4-approaches-ensuring-exact-quality-replication/"><u>Expert Tips for Flawless DVD Copying on Mac Computers: Discover the Top 4 Approaches Ensuring Exact Quality Replication.</u></a></li>
-<li><a href="https://windows11.techidaily.com/handling-no-supported-devices-problem-in-windows-update/"><u>Handling 'No Supported Devices' Problem in Windows Update</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-repair-unable-to-fetch-error-in-nvidia-geforce-experience/"><u>How To Repair 'Unable To Fetch' Error in NVIDIA GeForce Experience</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Vivo Y78+ | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-art-of-repairing-windows-email-failures-error-code-0x800713f/"><u>Mastering the Art of Repairing Windows' Email Failures (Error Code 0X800713F)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-the-fix-a-comprehensive-guide-to-chatgpt-login-difficulties/"><u>Mastering the Fix: A Comprehensive Guide to ChatGPT Login Difficulties</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-windows-task-scheduler-for-file-batch-execution/"><u>Mastering Windows Task Scheduler for File Batch Execution</u></a></li>
-<li><a href="https://windows11.techidaily.com/proven-tactics-for-heic-to-jpeg-conversion-process-on-windows-11-systems/"><u>Proven Tactics for Heic to JPEG Conversion Process on Windows 11 Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/reinvigorate-discolored-volume-settings-in-win/"><u>Reinvigorate Discolored Volume Settings in Win</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-to-free-and-easy-to-use-video-splitter-software-on-windows-10-for-streamlined-movie-clipping/"><u>Ultimate Guide to Free & Easy-to-Use Video Splitter Software on Windows 10 for Streamlined Movie Clipping</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-mac-video-editing-made-easy-discover-the-best-software-for-you-for-2024/"><u>Updated Mac Video Editing Made Easy Discover the Best Software for You for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-transition-phasing-out-old-traits/"><u>Windows Transition: Phasing Out Old Traits</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/kyrocket-your-rankings-top-youtube-seo-gadgets-for-2024/"><u>[New] Skyrocket Your Rankings Top YouTube SEO Gadgets for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-the-essential-guide-to-capturing-skype-conversations-on-windowsmac-for-2024/"><u>[New] The Essential Guide to Capturing Skype Conversations on Windows/Mac for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-fb-video-ripper-convert-fb-content-to-mp3/"><u>[Updated] In 2024, FB Video Ripper Convert FB Content To MP3</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-hide-and-seek-top-5-for-secret-story-lovers/"><u>2024 Approved Hide & Seek Top 5 For Secret Story Lovers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-uncomplicated-video-logging-tool-w10/"><u>2024 Approved Uncomplicated Video Logging Tool W10</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/acoustic-windows-aficionado-toolkit-for-2024/"><u>Acoustic Windows Aficionado Toolkit for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/customize-your-experience-altering-device-settings-in-windows-11/"><u>Customize Your Experience: Altering Device Settings in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/initiating-windows-11s-concealed-query-engine/"><u>Initiating Windows 11'S Concealed Query Engine</u></a></li>
+<li><a href="https://win-docs.techidaily.com/leading-seo-firms-in-copenhagen-amplify-your-digital-visibility-with-expertise-from-seo-masterminds/"><u>Leading SEO Firms in Copenhagen: Amplify Your Digital Visibility with Expertise From SEO Masterminds</u></a></li>
+<li><a href="https://windows11.techidaily.com/securing-and-sharing-files-building-extractable-sfxs-in-win11/"><u>Securing and Sharing Files: Building Extractable SFXs in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlined-graphics-the-key-to-optimal-radeon-performance-in-windows-11/"><u>Streamlined Graphics: The Key to Optimal Radeon Performance in Windows 11</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/trends-that-triumph-making-your-instagram-content-viral/"><u>Trends That Triumph Making Your Instagram Content Viral</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/unbeatable-titles-the-creme-de-la-liste-of-10-vimeo-extractors-for-2024/"><u>Unbeatable Titles The Crème De La Liste of 10 Vimeo Extractors for 2024</u></a></li>
 </ul></div>
 

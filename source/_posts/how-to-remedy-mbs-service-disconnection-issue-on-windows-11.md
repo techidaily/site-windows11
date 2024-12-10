@@ -1,7 +1,7 @@
 ---
 title: How to Remedy MB's Service Disconnection Issue on Windows 11
-date: 2024-08-15T16:21:39.324Z
-updated: 2024-08-16T16:21:39.324Z
+date: 2024-12-09T16:54:26.797Z
+updated: 2024-12-10T16:48:45.102Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/be7eb26b929d376d352a2b6560c781f129b853a98
  Malwarebytes is one of the more highly rated antimalware software for Windows. So, it’s a pity when some users can’t utilize Malwarebytes because of an error message that says "unable to connect the Service." Some users have reported seeing that error message when they try to open Malwarebytes.
 
  Users who’ve purchased the premium version of Malwarebytes will be particularly annoyed by this issue. Are you also stumped by Malwarebytes’ "unable to connect" error? If you are, this is how you can fix the "unable to connect the service" error for MalwareBytes in Windows 10 and 11.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Set Malwarebytes to Run as an Administrator
 
@@ -42,8 +46,13 @@ thumbnail: https://thmb.techidaily.com/be7eb26b929d376d352a2b6560c781f129b853a98
 6. Click the service’s**Apply** and**OK** options.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Check That the Windows Management Instrumentation Is Enabled and Running
 
  Many software packages need the Windows Management Instrumentation Service enabled to function correctly. So, check that the Windows Management Instrumentation service is set to**Automatic** and running as well.
@@ -51,8 +60,9 @@ thumbnail: https://thmb.techidaily.com/be7eb26b929d376d352a2b6560c781f129b853a98
  Open Services (see[how to open Services on Windows](https://www.makeuseof.com/windows-11-open-services-app/) ). double-click**Windows Management Instrumentation** , and select its**Automatic** and**Start** option from there as outlined for the second resolution.
 
 ![The Windows Management Instrumentation service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-management-instrumentation-service.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Repair Malwarebytes With Its Dedicated Support Tool
@@ -68,16 +78,14 @@ Here is how you can repair Malwarebytes with its support tool:
 5. Select the**Accept License Agreement** checkbox and**Next** to bring up the support tool.
 6. Click the**Advanced** tab.  
 ![The Repair System button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/repair-system-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 7. Select all four checkboxes for the**Repair System** option.
 8. Press the**Repair System** button.
 9. Restart your PC when prompted.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Run a Malware Scan With Windows Security
 
  Malwarebytes is a common target for malware because it’s an antivirus utility. So, there’s a possibility of malware causing this Malwarebytes startup issue. You can purge malware by running a manual Microsoft Defender scan within the Windows Security app like this:
@@ -87,9 +95,6 @@ Here is how you can repair Malwarebytes with its support tool:
 ![The Scan options navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/scan-options.jpg)
 3. Click the radio button labeled**Full Scan** .  
 ![The Scan now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/scan-now-button.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 4. Press**Scan now** to start a Microsoft Defender scan.
 
 ## 6\. Reinstall Malwarebytes
@@ -100,9 +105,6 @@ Here is how you can repair Malwarebytes with its support tool:
 2. Select**Advanced** on the left of the Malwarebytes Support Tool window.
 3. Click**Clean** and**Yes** to confirm the removal.  
 ![The Malwarebytes Cleanup dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/malwarebytes-cleanup-dialog.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 4. Select**OK** to restart the PC.
 5. Click**Yes** in the window that pops up after the restart.
 6. Select**Yes** in the Reinstall Malwarebytes for Windows popup dialog box that opens.
@@ -121,8 +123,6 @@ Here is how you can repair Malwarebytes with its support tool:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +130,23 @@ Here is how you can repair Malwarebytes with its support tool:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-5-steps-to-transform-your-photos-hues-right-away/"><u>[New] 5 Steps to Transform Your Photo's Hues Right Away</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-directcapture-pro-windows-11-recording-made-simple/"><u>[Updated] DirectCapture Pro - Windows 11 Recording Made Simple</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-professional-insights-top-10-igtv-pros/"><u>[Updated] In 2024, Professional Insights Top 10 IGTV Pros</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comparing-ipad-pro-and-macbook-air-key-features-and-performance/"><u>Comparing IPad Pro and MacBook Air: Key Features & Performance</u></a></li>
+<li><a href="https://driver-error.techidaily.com/comprehensive-guide-to-repairing-driver-loading-glitch-in-battleye-service-error-145ebyte/"><u>Comprehensive Guide to Repairing Driver Loading Glitch in BattlEye Service Error 145Ebyte</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/curating-an-in-depth-look-at-2023s-best-pc-vr-headsets-for-2024/"><u>Curating an In-Depth Look at 2023'S Best PC VR Headsets for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/guiding-steps-for-ms-office-installation-on-windows-1011/"><u>Guiding Steps for MS Office Installation on Windows 10/11</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-next-gen-players-guide-rift-vive-vs-ps-vr-games/"><u>In 2024, Next-Gen Players Guide Rift, Vive, vs PS VR Games</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/proven-ways-to-enhance-your-fb-presence-and-boost-engagement/"><u>Proven Ways to Enhance Your FB Presence and Boost Engagement</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-error-code-0x0001-on-nvidias-geforce-with-windows-11/"><u>Resolving Error Code 0X0001 on Nvidia's GeForce with Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-vanished-windows-badge-icons/"><u>Reviving Vanished Windows Badge Icons</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-phone-integration-for-retailers-using-windows-11-and-intel-unison/"><u>Seamless Phone Integration for Retailers Using Windows 11 & Intel Unison</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-disregard-error-components-not-present-in-win10win11/"><u>Steps to Disregard Error: Components Not Present in Win10/Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-superiority-win11-vs-macos-facts/"><u>Unveiling the Superiority: Win11 vs MacOS Facts</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-virtual-machines-matching-windows-11-specs/"><u>Winning Virtual Machines Matching Windows 11 Specs</u></a></li>
+</ul></div>
 

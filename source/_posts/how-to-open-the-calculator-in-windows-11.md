@@ -1,7 +1,7 @@
 ---
 title: How to Open the Calculator in Windows 11
-date: 2024-08-15T16:18:05.539Z
-updated: 2024-08-16T16:18:05.539Z
+date: 2024-12-09T16:21:50.649Z
+updated: 2024-12-10T16:14:10.709Z
 tags:
   - windows10
   - windows11
@@ -28,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/a37ab7bacfd21717668bfcf5969765b4a3a3d0a9b
 
  After opening the Calculator, you can begin using it to perform basic math operations. If you need more advanced features, such as scientific or programmer modes, click the navigation button in the top left corner and select the desired mode.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. How to Open Calculator Via Run Command
 
  Run is a Windows accessory that lets you open built-in programs quickly by typing commands into the Run command box. In order to start the Calculator, you can use the Run command as follows:
@@ -38,17 +35,9 @@ thumbnail: https://thmb.techidaily.com/a37ab7bacfd21717668bfcf5969765b4a3a3d0a9b
 1. Press the**Win + R** shortcut to open the Run command dialog box.
 2. Type "calc" into the Run dialog box and press Enter.  
 ![Open Calculator Using Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-calculator-using-run-command.jpg)
+
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This will bring up the Calculator so you can get started with your calculations.
@@ -60,9 +49,6 @@ thumbnail: https://thmb.techidaily.com/a37ab7bacfd21717668bfcf5969765b4a3a3d0a9b
 1. Open Windows File Explorer (see[how to open the Windows File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) ).
 2. In the address bar, type "calc" and press**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. How to Open Calculator Using Command Prompt
 
  Command Prompt is an important tool to have when working with computers. It allows users to access the inner workings of their device, making it easier to troubleshoot problems, automate processes and even run applications and programs.
@@ -74,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/a37ab7bacfd21717668bfcf5969765b4a3a3d0a9b
 ![Open Calculator Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-calculator-using-command-prompt.jpg)
 
 This will launch your Calculator application.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. How to Open Calculator Using Windows PowerShell
 
@@ -87,28 +77,12 @@ To open Calculator using Windows PowerShell, follow these steps:
 2. Then search for "Windows PowerShell" and select the top result.
 3. With PowerShell open, you should type the command "calc" and hit Enter.  
 ![Open Calculator Using Windows PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-calculator-using-windows-powershell.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 4. This command will cause the Calculator application to open quickly.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. How to Open Calculator Through Task Manager
 
  Task Manager has been a part of the Windows operating system since its inception. It manages the performance of your computer as well as opens different applications.
@@ -121,8 +95,9 @@ To open the Calculator application on Windows 11, use these steps:
 3. Type “calc” into the text box and click**OK** to open the Calculator.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. How to Open Calculator From Start Menu
 
  The Start Menu makes it easy for users to open popular programs like Calculator without having to go to any other location. Here is how you can get access to it.
@@ -132,11 +107,12 @@ To open the Calculator application on Windows 11, use these steps:
 ![Open Calculator Using Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-calculator-using-start-menu.jpg)
 3. Once you find it, click on it and a pop-up window will appear with all its features.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You are now ready to start performing calculations!
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. How to Open Calculator With Desktop Shortcut
 
  A[desktop shortcut](https://www.makeuseof.com/what-is-desktop-shortcut-how-work/) is yet another convenient and efficient method for launching applications on Windows 11\. In this way, it becomes easy to access the feature without digging through menus or performing multiple clicks.
@@ -147,13 +123,19 @@ You are now ready to start performing calculations!
 2. In the "Create Shortcut" window, type "**C:\\WINDOWS\\system32\\calc.exe** ".  
 ![Open Calculator Using Desktop Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-calculator-using-desktop-shortcut.jpg)
 3. Click**Next** , and then give your shortcut a name, such as Calculator.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. To complete the process, click**Finish** .
 5. You will see a shortcut icon appear on the desktop of your computer.
 6. Double-click it to open the Calculator application.
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 9\. How to Open Calculator Using Keyboard Shortcut
 
  If you prefer using keyboard shortcuts, you'll be happy to know that you can create a shortcut key for opening the Calculator in Windows 11\. Here's how to do this in Windows 11:
@@ -183,14 +165,11 @@ To do this, follow these steps:
 
  The Calculator app is one of the most common tools used on computers running Windows, and it is indispensable for many different tasks. If you need help opening this tool, try one of the many methods covered here and get calculating quicker.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -199,4 +178,20 @@ To do this, follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-ranked-slideshow-creation-software-on-latest-iphones/"><u>[New] In 2024, Ranked Slideshow Creation Software on Latest iPhones</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-introducing-efficient-speech-to-text-utilization-in-powerpoint/"><u>[New] Introducing Efficient Speech-to-Text Utilization in PowerPoint</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-unlock-mac-with-apple-watch-sierra/"><u>2024 Approved How to Unlock Mac with Apple Watch [Sierra]</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/as-melhores-tecnicas-de-digitizacao-de-dvds-em-2023-funciona-pra-voce/"><u>As Melhores Técnicas De Digitização De DVDs Em 2023 – Funciona Pra Você?</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/convert-your-askfm-videos-into-multiple-formats-mp4-wmv-avi-flv-and-mov-for-pc-and-mac/"><u>Convert Your Ask.fm Videos Into Multiple Formats: MP4, WMV, AVI, FLV & MOV for PC and Mac</u></a></li>
+<li><a href="https://windows11.techidaily.com/five-proven-techniques-to-address-cant-get-mail-in-email-apps-of-windows-11/"><u>Five Proven Techniques to Address Can't Get Mail in Email Apps of Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-the-notorious-dism-0x800f082f-in-windows-os/"><u>Fixing the Notorious DISM 0X800F082F in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-hard-drive-not-detected-error-on-windows/"><u>How to Fix the Hard Drive Not Detected Error on Windows</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-conquering-podcast-title-creativity-a-comprehensive-tutorial-and-idea-list/"><u>In 2024, Conquering Podcast Title Creativity A Comprehensive Tutorial & Idea List</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-oppo-a2-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Oppo A2 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/reset-hari-ini-mengenal-teknologi-pemulihan-microsoft-refs/"><u>Reset Hari Ini - Mengenal Teknologi Pemulihan Microsoft ReFS</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-address-invalid-profile-on-windows-11-systems/"><u>Steps to Address Invalid Profile on Windows 11 Systems</u></a></li>
+<li><a href="https://fox-info.techidaily.com/the-elite-selection-of-10-websites-offering-free-photos/"><u>The Elite Selection of 10 Websites Offering FREE Photos</u></a></li>
+</ul></div>
 

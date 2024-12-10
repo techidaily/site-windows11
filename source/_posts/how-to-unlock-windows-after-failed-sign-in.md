@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Windows After Failed Sign-In
-date: 2024-11-29T16:45:28.310Z
-updated: 2024-12-04T06:34:15.664Z
+date: 2024-12-07T17:36:27.550Z
+updated: 2024-12-10T16:36:49.595Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/05a2bebe19d9c7fab4bc3ec91fa821946b0580297
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Causes the "Sign-In Option Is Disabled Because of Failed Sign-In Attempts" Error?
 
@@ -61,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/05a2bebe19d9c7fab4bc3ec91fa821946b0580297
 ![reset account password windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/reset-account-password-windows.jpg)
 4. Enter your new password and then re-enter the password to confirm the same.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Press **Enter** to sign-in to your user account.
 
  After a successful login, you can reset your PIN, disable the sign-in attempt threshold, and check the user profile configuration to see if your account is disabled. Needless to say, you must be signed to apply this fix.
@@ -70,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/05a2bebe19d9c7fab4bc3ec91fa821946b0580297
  If you don't have an alternate user account setup, [enable the built-in administrator account in Windows 11](https://www.makeuseof.com/windows-11-enable-disable-built-in-administrator-account/). Skip to the later part of the article that shows how to enable the built-in administrator account without the need to sign in.
 
  Once you can sign in, follow these steps to check your account status.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Check Your Account Status Using Local Users and Groups
 
@@ -92,6 +104,10 @@ thumbnail: https://thmb.techidaily.com/05a2bebe19d9c7fab4bc3ec91fa821946b0580297
 
  If both the options are already unchecked, proceed to the next solution.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Reset the Windows Account PIN
 
  Assuming the problem is due to a corrupt account PIN, a PIN reset can help you fix the problem. You can [change your account PIN in Windows](https://www.makeuseof.com/change-account-pin-windows/) from the Settings app. You'll need to authenticate the PIN change process with your current PIN, so keep that handy.
@@ -103,10 +119,6 @@ thumbnail: https://thmb.techidaily.com/05a2bebe19d9c7fab4bc3ec91fa821946b0580297
 1. Open the Notepad app. Search for **Notepad** in Windows search and open the app.  
 ![script remove pin win user account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/sccript-remove-pin-win-user-account.jpg)
 2. Next, copy and paste the following script into the Notepad file:  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 `@echo off  
 powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'  
@@ -120,10 +132,6 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 3. Press **Ctrl + S** to open the Save dialog and name the file **Remove-Win-Account-PIN.bat**.  
 ![save remove win account pin batch script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/save-remove-win-account-pin-batch-script.jpg)
 4. Next, click the **Save as type** drop-down and select **All files**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Click **Save** to create the batch script.
 
@@ -147,16 +155,8 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 ![account lockout threshold gpedit windows modify](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/account-lockout-threshold-gpedit-windows-modify.jpg)
 5. Type **0** in the **Account will not lock out** field.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![account lockout threshold gpedit windows modify o value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/account-lockout-threshold-gpedit-windows-modify-o-value.jpg)
 6. Click **Apply** and **OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Edit the Account Lockout Policy Using Registry Editor
 
@@ -174,11 +174,15 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 ![modify Maxdenials registry DWORD value registry editor 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/modify-maxdenials-registry-dword-value-registry-editor-1.jpg)
 5. Select **Modify**.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![modify Maxdenials registry DWORD value registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/modify-maxdenials-registry-dword-value-registry-editor.jpg)
 6. Type **0** in the **Value data** field and click **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Close Registry Editor and reboot your computer to apply the changes.
@@ -186,10 +190,6 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
  After the restart, you can sign in without receiving the sign-in is disabled notification. If the issue persists, [try to clear the TPM on Windows](https://www.makeuseof.com/clear-tpm-windows-11/). This can be a tricky solution depending on how your account is set up. Clearing TPM may lock you out of your computer. Attempt this only if you have a password-based sign-in option enabled.
 
  If all else fails, try third-party recovery tools like the Trinity Rescue Kit. It is a useful little utility that can help you reset your password.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Resolving the "Disabled Sign-In Options Due to Failed Attempts" Error on Windows
 
@@ -207,18 +207,16 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-audiophiles-guide-to-the-premier-8-4k-blu-rays/"><u>[New] Audiophile's Guide to the Premier 8 4K Blu-Rays</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-cutting-the-cord-on-costs-select-best-free-yt-title-makers-for-2024/"><u>[New] Cutting the Cord on Costs - Select Best-Free YT Title Makers for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-selecting-the-finest-screen-recorders-1-to-5-android/"><u>[Updated] Selecting the Finest Screen Recorders, #1 to #5 (Android)</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-lullaby-movies-assessment-and-overview/"><u>2024 Approved Lullaby Movies Assessment & Overview</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-tiktok-bgs-exploring-affordable-eye-catching-visuals/"><u>2024 Approved TikTok BGs Exploring Affordable, Eye-Catching Visuals</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/s-top-shorter-video-downloads-for-free-online-for-2024/"><u>Access Top Shorter Video Downloads for FREE Online for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/fix-non-scrolling-issue-unlock-cells-in-excel-windows/"><u>Fix Non-Scrolling Issue: Unlock Cells in Excel (Windows)</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-methods-for-amending-silent-obs-recordings/"><u>In 2024, Methods for Amending Silent OBS Recordings</u></a></li>
-<li><a href="https://windows11.techidaily.com/supercharge-your-workday-mastery-tips-for-multitasking-windows-11/"><u>Supercharge Your Workday: Mastery Tips for Multitasking Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/supercharging-windows-11s-protected-mode-graphics/"><u>Supercharging Windows 11'S Protected Mode Graphics</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/top-rated-cable-modem-and-router-sets/"><u>Top Rated Cable Modem and Router Sets</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-error-0x80072efd-on-windows-devices/"><u>Troubleshooting Error 0X80072EFD on Windows Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-your-print-potential-strategies-to-fix-slide-show-problems-on-windows/"><u>Unlocking Your Print Potential: Strategies to Fix Slide Show Problems on Windows</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-mastering-media-importer-strategies-in-windows-10/"><u>[New] Mastering Media Importer Strategies in Windows 10</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-navigating-youtube-success-through-strategic-studio-use/"><u>[Updated] 2024 Approved Navigating YouTube Success Through Strategic Studio Use</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-premium-selection-of-portable-mp4s/"><u>[Updated] Premium Selection of Portable MP4s</u></a></li>
+<li><a href="https://windows11.techidaily.com/9-ways-to-fix-windows-hello-fingerprint-recognition-not-working/"><u>9 Ways to Fix Windows Hello Fingerprint Recognition Not Working</u></a></li>
+<li><a href="https://windows11.techidaily.com/fix-for-rockalldlldll-not-found-on-windows-devices/"><u>Fix for 'Rockalldll.dll' Not Found on Windows Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-restore-iphone-voicemail-functionality-with-these-9-steps/"><u>How to Restore iPhone Voicemail Functionality with These 9 Steps</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-nokia-c32-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Nokia C32 for Free? | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-uniting-twitter-and-facebook-through-shared-content/"><u>In 2024, Uniting Twitter and Facebook Through Shared Content</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-your-computers-windows-key-settings/"><u>Mastering Your Computer’s Windows Key Settings</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-the-search-for-master-video-artists-for-2024/"><u>Navigating the Search for Master Video Artists for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/tech-enthusiasts-rejoice-black-friday-offer-for-lifetime-612-windows-11-savings/"><u>Tech Enthusiasts Rejoice - Black Friday Offer for Lifetime $6.12 Windows 11 Savings</u></a></li>
 </ul></div>
 

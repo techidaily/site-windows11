@@ -1,7 +1,7 @@
 ---
 title: "Synchronize Your Files: Collective Directory Creation in Win11+11"
-date: 2024-12-02T00:22:27.259Z
-updated: 2024-12-03T21:09:30.918Z
+date: 2024-12-06T16:43:12.953Z
+updated: 2024-12-10T19:36:48.154Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/2ceae87a9b9364e8de7f8199f6943542799e9e444
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Use the Command Prompt to Create Multiple Folders at Once
 
  In this first method, we will be using a command-line utility called Command Prompt in Windows. Unless you are very tech-savvy, you may not have noticed it anywhere in Windows, but it has been around for quite a long time.
@@ -38,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/2ceae87a9b9364e8de7f8199f6943542799e9e444
 ![Run dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/accessing-cmd-through-run-box.jpg)
 3. Click **Yes** in the User Account Control prompt.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Type the following command in the Command Prompt window and hit **Enter** to execute it. Make sure to replace the \[location\] with the location where you want to create multiple folders.  
 `cd /d [location]`
 5. For instance, if we want to create folders in the C:\\users\\hp\\documents folder, we will execute the command like cd /d C:\\users\\hp\\documents.  
@@ -47,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/2ceae87a9b9364e8de7f8199f6943542799e9e444
 ![Command with file names](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win11-md-files.jpg)
 7. Once done, close the Command Prompt window and visit the location of folders in File Explorer to see if the folders have been created.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If for some reason using the Command Prompt does not work for you, you can use Windows Powershell (Admin) to perform the same steps. The Powershell works almost the same as Command Prompt, but it is much more powerful than cmd.
 
  To use Powershell, follow these steps:
@@ -54,6 +66,11 @@ thumbnail: https://thmb.techidaily.com/2ceae87a9b9364e8de7f8199f6943542799e9e444
 1. Right-click on the **Windows icon** on your taskbar and choose **Powershell (Admin)**.  
 ![Windows Terminal (Admin)](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/windows-terminal.jpg)
 2. Select Yes in the UAC prompt.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![UAC prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win11-terminal-uac.jpg)
 3. Now, execute the command mentioned below and change the \[Location\] with your targeted location for creating the folders.  
 `cd [Location]`
@@ -63,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/2ceae87a9b9364e8de7f8199f6943542799e9e444
 5. Once done, execute the following command. Replace the \[foldername\] with the names you want to give the folders.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `md "[foldername]", "[foldername]", "[foldername]", "[foldername]"`
@@ -72,10 +89,6 @@ thumbnail: https://thmb.techidaily.com/2ceae87a9b9364e8de7f8199f6943542799e9e444
 ![File names command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win11-terminal-md-files.jpg)
 
  Finally, close the Powershell window and check if the folders have been created.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Use the Notepad to Create Multiple Folders at Once
 
@@ -93,32 +106,16 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
 ![Notepad command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win11-notepad-command.jpg)
 4. After you have typed down the names of all the folders and subfolders that you want to create, navigate to **File** in the top-left corner and choose **Save as**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Save as option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/notepad-save-as.jpg)
 5. Give your file a name followed by **.bat**. For instance, we named our file as makeuseof.bat.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Notepad file name](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/notepad-file-name.jpg)
 6. Expand the dropdown for Save as type and choose **All files**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Click **OK** and close the Notepad.
 8. Now, navigate to the location of the folder and open the bat file. Opening it should create the folders and their subfolders for you.
 
  Now that you have created multiple files and folders, [organizing these files on Windows](https://www.makeuseof.com/tag/automatically-organize-files-windows/) is also worth considering if you do not want to spend a lot of time looking for information in them. Additionally, Windows also allows you to [rename multiple folders at once](https://www.makeuseof.com/cool-folder-tips-windows/), which can be helpful when organizing them.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Use a Third-Party Application
 
@@ -144,6 +141,10 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
 
  From here, you can even take a step further and learn [how to launch multiple programs with one shortcut on Windows](https://www.makeuseof.com/tag/launch-multiple-programs-single-shortcut-using-batch-file/) to increase your productivity at work or school. In case you no longer need the tool after creating bulk folders, you can uninstall it. This won't automatically delete the folders you have created using the tool, unless the uninstallation process explicitly offers to do so and you confirm that action.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Create Multiple Folders in a Few Clicks on Windows
 
  Creating several folders manually is a mundane task, and you can spend the same energy doing something more productive. The steps we have outlined above should help you automate this task, saving time for things that actually bring in some value.
@@ -162,22 +163,22 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-ideal-digital-talk-initiator/"><u>[New] Ideal Digital Talk Initiator</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-iphone-techniques-for-full-sphere-videography/"><u>[New] IPhone Techniques for Full-Sphere Videography</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-communication-mastery-for-impactful-interviews/"><u>[Updated] 2024 Approved Communication Mastery For Impactful Interviews</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-unlocking-virtual-video-talks-via-whatsapp-browser-on-your-pc/"><u>[Updated] In 2024, Unlocking Virtual Video Talks via WhatsApp Browser on Your PC</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-sneakily-bypass-online-learning-videos-without-breach-for-2024/"><u>[Updated] Sneakily Bypass Online Learning Videos Without Breach for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/crafting-closure-secrets-of-spectacative-video-sign-offs-for-2024/"><u>Crafting Closure Secrets of Spectacative Video Sign-Offs for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-mute-windows-11-monitoring-tools/"><u>How to Mute Windows 11 Monitoring Tools</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-mac-users-guide-to-snapchat-integration/"><u>In 2024, Mac Users' Guide to Snapchat Integration</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210742498-9781667447414-lecons-du-monastere/"><u>Leçons du Monastère | Free Book</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-art-of-fast-filesaving-top-6-tips-for-powerpoint-in-win11/"><u>Mastering the Art of Fast Filesaving: Top 6 Tips for PowerPoint in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/modify-winterrals-theme-picture/"><u>Modify WinTerral's Theme Picture</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-fixes-to-overcome-the-errortoomanypatterns-in-wsl/"><u>Quick Fixes to Overcome the ERROR_TOO_MANY_PATTERNS in WSL</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-unsuccessful-discord-updates-for-windows-users/"><u>Resolving Unsuccessful Discord Updates for Windows Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/seven-strong-points-that-make-windows-10-preferable-over-win11/"><u>Seven Strong Points That Make Windows 10 Preferable over Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-art-of-note-management-on-obsidian-canvas/"><u>The Art of Note Management on Obsidian Canvas</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ultimate-2023-timeline-turning-srt-into-txt-swiftly/"><u>Ultimate 2023 Timeline Turning SRT Into TXT Swiftly</u></a></li>
-<li><a href="https://windows11.techidaily.com/voice-commands-mastery-keyboard-shortcut-compendium-on-win-11/"><u>Voice Commands Mastery: Keyboard Shortcut Compendium on Win 11</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-15-best-booktok-picks-you-cant-miss/"><u>[New] 15 Best BookTok Picks You Can't Miss</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-mastering-the-price-of-youtube-marketing/"><u>[New] Mastering the Price of YouTube Marketing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-remedy-screen-disruptions-during-live-streams/"><u>[New] Remedy Screen Disruptions During Live Streams</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-ultimate-guide-to-sharper-meeting-experience-with-google/"><u>[Updated] 2024 Approved Ultimate Guide to Sharper Meeting Experience with Google</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-easily-alter-video-velocity-youtubes-playback-speed-mastery/"><u>[Updated] Easily Alter Video Velocity YouTube's Playback Speed Mastery</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-how-to-create-a-puzzle-feed-on-instagram-to-catch-attention/"><u>2024 Approved How to Create a Puzzle Feed on Instagram to Catch Attention</u></a></li>
+<li><a href="https://windows11.techidaily.com/automated-file-handling-via-task-scheduler/"><u>Automated File Handling via Task Scheduler</u></a></li>
+<li><a href="https://windows11.techidaily.com/breaking-down-operation-elevation-woes-on-windows-11-and-11/"><u>Breaking Down Operation Elevation Woes on Windows 11 & 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comic-creators-charter-zero-cost-endless-laughs/"><u>Comic Creators' Charter Zero Cost, Endless Laughs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/copilot-standard-meets-pro-features-and-benefits-analysis/"><u>CoPilot Standard Meets Pro: Features & Benefits Analysis</u></a></li>
+<li><a href="https://windows11.techidaily.com/fuse-windows-and-tdarr-for-unrivaled-scalable-video-conversion-efficiency/"><u>Fuse Windows and Tdarr for Unrivaled, Scalable Video Conversion Efficiency</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-key-hunting-for-windows-1110-enthusiasts/"><u>Master Key Hunting for Windows 11/10 Enthusiasts</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-visual-quality-dpi-settings-guide-for-windows-11/"><u>Optimize Visual Quality: DPI Settings Guide for Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-directx-update-issues-on-windows/"><u>Overcoming DirectX Update Issues on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinforce-internet-ties-for-your-windows-devices-amid-sluggishness/"><u>Reinforce Internet Ties for Your Windows Devices Amid Sluggishness</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-resolution-for-dciman32dll-not-found-and-other-related-glitches/"><u>Step-by-Step Resolution for 'dciman32.dll' Not Found and Other Related Glitches</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-eliminating-enter-usernamepassword-alerts-in-windows/"><u>Troubleshooting: Eliminating 'Enter Username/Password' Alerts in Windows</u></a></li>
 </ul></div>
 

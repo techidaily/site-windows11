@@ -1,7 +1,7 @@
 ---
 title: Overcoming RDP Login Hurdles on Windows 11
-date: 2024-08-08T06:14:29.259Z
-updated: 2024-08-09T06:14:29.259Z
+date: 2024-12-03T16:46:19.226Z
+updated: 2024-12-10T18:24:51.647Z
 tags:
   - windows10
   - windows11
@@ -34,9 +34,11 @@ Windows Settings > Security Settings > Local Policies > Security Options
 5. In the right panel, double-click on **Accounts: Limit local account use of blank passwords to console logon only**. The Properties window will pop up.  
 ![Remote desktop connections without a password Using Group Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/remote-desktop-connections-without-a-password-using-group-policy.jpg)
 6. Choose **Disabled** and click **OK** to save the changes.  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Limit local account use of blank passwords to console logon only](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/limit-local-account-use-of-blank-passwords-to-console-logon-only.jpg)
 
  This will allow users to connect remotely without using a password. If you want to enable the password prompt again, just follow the same steps and select **Enabled** instead of **Disabled** in the last step.
@@ -56,9 +58,17 @@ Security Settings > Local Policies > Security Options
 ![Use Security Policy to Connect Remote Desktop Without a Password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/use-security-policy-to-connect-remote-desktop-without-a-password.jpg)
 6. Select **Disabled** and click on **Apply > OK** to save changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you save this setting, remote connections are possible without passwords.
 
  To enable the password prompt again, go through the same steps and double-click on the policy. When the Properties window opens, select **Enabled**. Click **Apply** \> **OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Using Registry Editor
 
@@ -82,8 +92,9 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
  If you ever want to re-enable the password prompt, navigate back to the same registry key and change the value data field to **1**. Now close the Registry Editor and you are ready to connect remotely without a password.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Using Command Prompt
 
  If you prefer the command line over graphical tools, try this method. It works the same way as the registry editor but is done through the command prompt. Since this could be difficult for novice users, double-check each step. This ensures you don't make mistakes and damage your system.
@@ -93,9 +104,6 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 1. Right-click on **Start** and select **Run** from the menu.
 2. Type **cmd** in the text field and press **Ctrl + Shift + Enter** simultaneously.
 3. If the UAC dialog box pops up, click **Yes** to grant permission. This will open the Command Prompt with administrative privileges.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![Make Passwordless Remote Desktop Connections Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/make-passwordless-remote-desktop-connections-using-command-prompt.jpg)
 4. Now type the following command and hit Enter.  
 Reg add “HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa” /v LimitBlankPasswordUse /t REG_DWORD /d 0 /f
@@ -107,8 +115,9 @@ Reg add “HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa” /v LimitBl
 Reg add “HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa” /v LimitBlankPasswordUse /t REG_DWORD /d 1 /f
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Using a Reg File
 
  If you're not good at editing with the registry editor, create a .reg file instead. The .reg files are basically text files with predefined instructions. When executed, they change the registry and apply settings automatically.
@@ -122,9 +131,6 @@ Reg add “HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa” /v LimitBl
 HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa  
 "LimitBlankPasswordUse"=dword:00000000`
 3. Now click **File** \> **Save as** and set the file type to **All files**.  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Create a Reg File Connect Remote Desktop Without a Password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/create-a-reg-file-connect-remote-desktop-without-a-password.jpg)
 4. Name the file **no-password.reg** and save it to your desktop.
 5. Double-click on the file to execute it and apply the settings automatically.
@@ -138,14 +144,9 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 
  Now save the file as **enabled\_password.reg** and double-click it to apply the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ## Enjoy Password-Free Remote Access
 
  Read this guide to access remote desktop without remembering and entering passwords each time. This creates a password-free experience, making it easier to connect with coworkers or friends whenever required.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -153,3 +154,25 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-tiktok-phenomena-the-twitter-top-ten-chart/"><u>[New] 2024 Approved TikTok Phenomena The Twitter Top Ten Chart</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-combat-common-youtube-short-obstacles-for-2024/"><u>[Updated] Combat Common YouTube Short Obstacles for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/breakdown-of-windows-11s-enhancements-february-update-speaks/"><u>Breakdown of Windows 11'S Enhancements – February Update Speaks</u></a></li>
+<li><a href="https://common-error.techidaily.com/clear-directions-to-repair-the-sudden-unexpected-error-in-windows-error-code-0xc00ebc9/"><u>Clear Directions to Repair the Sudden Unexpected Error in Windows (Error Code 0XC00ebc9)</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/download-and-celebrate-dex-39-with-exclusive-karaoke-features-get-your-party-started/"><u>Download and Celebrate: Dex 3.9 with Exclusive Karaoke Features - Get Your Party Started!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-effects-of-fast-storage-retrieval-on-laptop-operations/"><u>Exploring the Effects of Fast Storage Retrieval on Laptop Operations</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-from-your-iphone-14-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password From your iPhone 14</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-p2715q-4k-display-unveiled-a-comprehensive-analysis/"><u>In 2024, P2715Q 4K Display Unveiled A Comprehensive Analysis</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-connection-stability-fixed-windows-lol-issues/"><u>Mastering Connection Stability: Fixed Windows LoL Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/mending-directx-setup-failures-on-pc/"><u>Mending DirectX Setup Failures on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fixes-4-ways-to-stop-pc-update-notifications/"><u>Quick Fixes: 4 Ways to Stop PC Update Notifications</u></a></li>
+<li><a href="https://network-issues.techidaily.com/smooth-graphics-experience-via-easy-intel-3000-update-on-windows-10/"><u>Smooth Graphics Experience via Easy Intel 3000 Update on Windows 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/snap-opera-download-into-action-windows-style/"><u>Snap Opera Download Into Action, Windows Style</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-student-laptop-asus-s15-oled-in-focus/"><u>The Ultimate Student Laptop: ASUS S15 OLED in Focus</u></a></li>
+<li><a href="https://windows11.techidaily.com/unfreezing-windows-updates-top-6-strategies-to-resolve-sticking-issues/"><u>Unfreezing Windows Updates: Top 6 Strategies to Resolve Sticking Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-network-overview-understanding-arp-caches/"><u>Windows Network Overview: Understanding ARP Caches</u></a></li>
+</ul></div>
+

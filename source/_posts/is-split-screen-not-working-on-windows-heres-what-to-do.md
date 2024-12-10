@@ -1,7 +1,7 @@
 ---
 title: Is Split Screen Not Working on Windows? Here's What to Do
-date: 2024-11-29T19:29:16.319Z
-updated: 2024-12-03T19:01:26.800Z
+date: 2024-12-06T19:12:34.265Z
+updated: 2024-12-10T22:04:47.640Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Causes Split Screen to Not Work?
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
 5. **The feature isn’t supported in the application:** It's also possible that the application you're trying to use doesn't support a split screen.
 
  Now that you know the potential causes of the split screen not working, let’s look at how to resolve it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Try Some Generic Fixes
 
@@ -60,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
 
  After making these changes, close the Settings window and check if it solves the issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Check Your Display Settings
 
  If updating the driver doesn't work, review your display settings. Sometimes, split screen issues come about when the display resolution is not set correctly. In this situation, adjust Windows resolution and check if it resolves the problem.
@@ -67,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
  To get started, [open Windows Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) and navigate to **System** \> **Display**. In the right pane, scroll down to the **Scale & layout** section.
 
 ![Display Resolution in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/display-resolution-in-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now click the **Display resolution** drop-down menu and adjust the resolution to fit your connected display. Once you've done that, try using split screen again.
 
@@ -92,7 +96,7 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
  After restarting Windows Explorer, try split screen again and see if it works now.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Uninstall Third-Party Software
@@ -111,7 +115,7 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
  Once you're done, try to use split screen to check if the issue is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Use the Built-In Shortcut Keys for Split Screen
@@ -121,10 +125,6 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
  To use split screen, press **Win + Left Arrow** on your keyboard. This makes one window dominate the left side of your screen. The same applies to **Win + Right Arrow**, which makes one window take up the right side of your screen.
 
  Similarly, press **Win + Up Arrow** or **Down Arrow** to snap windows into a quarter-screen size, allowing you to have four windows open simultaneously.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Manage Apps and Tasks Simultaneously to Enhance Your Productivity on Windows
 
@@ -140,17 +140,19 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-endless-viewing-with-iphone-writes-of-video/"><u>[New] 2024 Approved Endless Viewing with iPhone' Writes of Video</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/calable-earnings-via-youtube-beauty-channels/"><u>[New] Scalable Earnings via YouTube Beauty Channels</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-streamlining-podcast-feed-creation-techniques-for-2024/"><u>[New] Streamlining Podcast Feed Creation Techniques for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-vivid-visual-victory-professional-image-coloration/"><u>2024 Approved Vivid Visual Victory Professional Image Coloration</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/creating-impressive-slideshows-with-video-delays-in-snapchat-for-2024/"><u>Creating Impressive Slideshows with Video Delays in Snapchat for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-to-samsung-galaxy-s24-ultra-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Samsung Galaxy S24 Ultra FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-tecno-pova-5-pro-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Tecno Pova 5 Pro Face Lock?</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-sony-xperia-5-v-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Sony Xperia 5 V by Name | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-operational-obligations-avoiding-sudden-freezes-on-your-pc/"><u>Overcoming Operational Obligations: Avoiding Sudden Freezes on Your PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/unleashing-creativity-through-windows-photos-app-deletion/"><u>Unleashing Creativity Through Window's Photos App Deletion</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-pc-power-intake-measuring-electricity-use/"><u>Windows PC Power Intake: Measuring Electricity Use</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-revival-unlocking-the-power-of-3-resets/"><u>Windows Revival: Unlocking the Power of 3 Resets</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-windowed-guide-windows-movie-maker-60-preparation/"><u>[New] 2024 Approved Windowed Guide Windows Movie Maker 6.0 Preparation</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-ranking-of-top-10-budget-friendly-video-calls-iphoneandroid/"><u>[Updated] 2024 Approved Ranking of Top 10 Budget-Friendly Video Calls (iPhone/Android)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-choose-the-right-thumbnail-size-for-impact/"><u>[Updated] In 2024, How to Choose the Right Thumbnail Size for Impact</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-professional-filmmaking-made-simple-phones-with-advanced-ois-features/"><u>[Updated] Professional Filmmaking Made Simple Phones With Advanced OIS Features</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-text-warping-techniques-in-photos-and-videos/"><u>2024 Approved Mastering Text Warping Techniques in Photos & Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/classic-interface-reclamation-tips/"><u>Classic Interface Reclamation Tips</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-samsung-galaxy-f14-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Samsung Galaxy F14 5G to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-htc-u23-pro-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost HTC U23 Pro for Free? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/quash-insufficient-requirement-notice-windows-11/"><u>Quash Insufficient Requirement Notice Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-excessive-ram-allocation-in-connected-devices-interface/"><u>Resolving Excessive RAM Allocation in Connected Devices Interface</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/reviving-your-samsung-tv-the-ultimate-reset-guide/"><u>Reviving Your Samsung TV: The Ultimate Reset Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/transform-windows-11-screens-with-custom-wallpaper-panes/"><u>Transform Windows 11 Screens with Custom Wallpaper Panes</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-optimal-sleep-cycles-for-windows-devices/"><u>Unlocking Optimal Sleep Cycles for Windows Devices</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unlocking-revenue-harnessing-video-ad-dollars-on-youtube-for-2024/"><u>Unlocking Revenue Harnessing Video Ad Dollars on YouTube for 2024</u></a></li>
 </ul></div>
 

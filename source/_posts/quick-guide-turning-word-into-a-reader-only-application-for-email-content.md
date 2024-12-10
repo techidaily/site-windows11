@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: Turning Word Into a Reader-Only Application for Email Content"
-date: 2024-11-26T20:33:42.324Z
-updated: 2024-12-03T19:43:33.949Z
+date: 2024-12-09T17:47:30.116Z
+updated: 2024-12-10T16:37:27.283Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. How to Change Microsoft Word Startup Settings to Always Open Email Attachments in Reading View
 
  You can modify Word's startup settings to specify how your documents are handled. From there, you can set Word to open all email attachments in reading mode by default. Here's how:
@@ -40,10 +36,14 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
 5. Check the box that reads **Open e-mail attachments and other uneditable files in reading view** and click on**OK** .  
 ![Word Startup Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Word-Startup-Options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you complete the above steps, Word will open email attachments in reading view by default.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. How to Change the Local Group Policy to Open Email Attachments in Reading View in Microsoft Word
@@ -59,11 +59,11 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
 ![Configure Word to Open Email Attachments in Reading View Using Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Configure-Word-to-Open-Email-Attachments-in-Reading-View-Using-Group-Policy-Editor.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. How to Tweak the Windows Registry to Open Email Attachments in Reading View in Microsoft Word
@@ -86,7 +86,7 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
  Restart your PC for the changes to take effect. Following that, Word will open all your email attachments in reading view.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Opening Email Attachments in Microsoft Word's Reading View
@@ -108,20 +108,22 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/aximizing-income-sourav-joshis-youtube-journey-for-2024/"><u>[New] Maximizing Income Sourav Joshi's YouTube Journey for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-color-correctors-handbook/"><u>[Updated] The Ultimate Color Corrector's Handbook</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>Best 10 Mock Location Apps Worth Trying On Apple iPhone 6 | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/effortless-guide-updating-your-netgear-wna3100-driver-software/"><u>Effortless Guide: Updating Your Netgear WNA3100 Driver Software</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/extreme-sports-showdown-hero5-black-versus-hero4-silver-for-2024/"><u>Extreme Sports Showdown Hero5 Black Versus Hero4 Silver for 2024</u></a></li>
-<li><a href="https://ai-video.techidaily.com/new-in-2024-netflix-subtitle-translation-methods-comprehensive-guide/"><u>New In 2024, Netflix Subtitle Translation Methods Comprehensive Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-resolve-synapse-device-errors-in-windows/"><u>Steps to Resolve Synapse Device Errors in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-elevate-virtual-memory-usage-on-windows-11/"><u>Strategies to Elevate Virtual Memory Usage on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-windows-repairs-setting-up-shortcuts-for-troubleshooters/"><u>Streamlining Windows Repairs: Setting Up Shortcuts for Troubleshooters</u></a></li>
-<li><a href="https://windows11.techidaily.com/sustaining-windows-11-taskbar-performance/"><u>Sustaining Windows 11 Taskbar Performance</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/tecnicas-infalibles-para-restaurar-mensajes-eliminados-del-iphone-antes-del-ultimo-respaldo/"><u>Técnicas Infalibles Para Restaurar Mensajes Eliminados Del iPhone Antes Del Último Respaldo</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-ranked-2024-wireless-charger-picks-in-depth-review-by-tech-specialists-pcmag/"><u>Top-Ranked 2024 Wireless Charger Picks: In-Depth Review by Tech Specialists | PCMag</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-itel-a05s-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Itel A05s IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/understanding-purposes-of-vcplusplus-redistributions/"><u>Understanding Purposes of VC++ Redistributions</u></a></li>
-<li><a href="https://windows11.techidaily.com/winning-ways-to-weed-out-windows-11s-waits-and-delays/"><u>Winning Ways to Weed Out Windows 11'S Waits and Delays</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-flipping-the-script-on-memes-with-kinemaster-for-2024/"><u>[New] Flipping the Script on Memes with KineMaster for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-tricks-for-procuring-high-end-imagery-without-spending-money/"><u>2024 Approved Tricks for Procuring High-End Imagery Without Spending Money</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-unlocking-your-ipads-voice-capture-potential/"><u>2024 Approved Unlocking Your iPad's Voice Capture Potential</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/androvid-video-editor-complete-review/"><u>AndroVid Video Editor – Complete Review</u></a></li>
+<li><a href="https://windows11.techidaily.com/dismantling-tpm-in-win11-using-the-power-of-rufus/"><u>Dismantling TPM in Win11 Using the Power of Rufus</u></a></li>
+<li><a href="https://facebook.techidaily.com/1719147404422-elevating-conversation-confidentiality-facebooks-new-direct-messaging-and-call-services-with-end-to-end-encryption/"><u>Elevating Conversation Confidentiality: Facebook’s New Direct Messaging & Call Services with End-to-End Encryption</u></a></li>
+<li><a href="https://windows11.techidaily.com/handling-fatal-discord-errors-on-windows-1011-a-comprehensible-guide/"><u>Handling Fatal Discord Errors on Windows 10/11: A Comprehensible Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-wins-control-in-windows-11-easy-steps/"><u>Master Wins Control in Windows 11: Easy Steps</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-to-correct-event-viewer-glitches-in-win-11/"><u>Methods to Correct Event Viewer Glitches in Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/mitigating-code-xc0000142-on-windows-xp-10/"><u>Mitigating Code XC0000142 on Windows XP, 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fixes-making-winget-work-again-in-windows/"><u>Quick Fixes: Making Winget Work Again in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-adding-speed-meter-to-taskbar/"><u>Quick Guide: Adding Speed Meter to Taskbar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reversing-file-lockdowns-access-restoration-on-pcs/"><u>Reversing File Lockdowns: Access Restoration on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-and-personalize-the-ultimate-desktop-guide-for-win11-users/"><u>Streamline & Personalize: The Ultimate Desktop Guide for Win11 Users</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-infinix-hot-40i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Infinix Hot 40i | Dr.fone</u></a></li>
 </ul></div>
 

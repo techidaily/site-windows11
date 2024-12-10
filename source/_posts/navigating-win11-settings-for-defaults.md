@@ -1,7 +1,7 @@
 ---
 title: Navigating Win11 Settings for Defaults
-date: 2024-08-15T16:18:01.231Z
-updated: 2024-08-16T16:18:01.231Z
+date: 2024-12-03T16:52:31.031Z
+updated: 2024-12-10T21:12:17.274Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/ce4adb63fa2c2ea65274491b10b565805f9f069cb
 
  In this article, we will explain how to reset your Windows Terminal settings back to their original state.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Would You Reset Your Windows Terminal?
 
  Windows Terminal is an amazing tool for power users and developers. It allows you to access a variety of tools, all in one place, with custom settings and themes that make it easy to work from anywhere. But over time, your Windows Terminal may become cluttered with old settings or themes that have become redundant or are no longer relevant.
@@ -29,8 +33,9 @@ thumbnail: https://thmb.techidaily.com/ce4adb63fa2c2ea65274491b10b565805f9f069cb
  Let's now move to the below sections and see how it can be reset.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Reset Windows Terminal Settings by Clearing JSON Files
 
  In order to reset the settings back to the original defaults, you will need to delete the settings.json file. Here's how to do it.
@@ -39,14 +44,20 @@ thumbnail: https://thmb.techidaily.com/ce4adb63fa2c2ea65274491b10b565805f9f069cb
 2. Next, click the down-arrow icon and select**Settings** .
 3. From the left pane of the Settings page, click**Open JSON file** .  
 ![Open JSON file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-json-file.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 4. If you're asked which app to use to open the file, then double-click on**Notepad** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. On the next page, select all the contents and**Delete** them.
 6. Now press**Ctrl + S** on your keyboard to save it.
 
  Next time you open the app, a new configuration with all the default settings will be created automatically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Reset Windows Terminal Settings Using Command Prompt
 
@@ -57,21 +68,10 @@ thumbnail: https://thmb.techidaily.com/ce4adb63fa2c2ea65274491b10b565805f9f069cb
 1. Open the Command Prompt. For this, use the Taskbar search or type "cmd" in the Run dialog.
 2. In the Command Prompt window, copy and paste the following command:  
 ![Reset Windows Terminal Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-windows-terminal-using-command-prompt.jpg)  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 del /f /s /q /a "%LocalAppData%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json"
 3. Now press the**Enter** key to delete the settings.json file.
 4. You can now exit the command prompt.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## How to Reset Windows Terminal Settings Using Windows PowerShell
 
  Windows PowerShell is another command line application that you can use to restore Windows Terminal Settings to their default state. To figure out how, follow these steps:
@@ -82,9 +82,6 @@ del /f /s /q /a "%LocalAppData%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe
 Remove-Item -Path "$env:LOCALAPPDATA\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json" -Force
 3. Press**Enter** to execute the command.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## How to Reset Windows Terminal Settings From File Explorer
 
  If you don't prefer the command line process, you can use Windows File Explorer to reset the settings. In this way, the Terminal will be reset to its default settings, and you can continue using it. Here's how to do it:
@@ -92,26 +89,24 @@ Remove-Item -Path "$env:LOCALAPPDATA\Packages\Microsoft.WindowsTerminal_8wekyb3d
 1. Open Windows File Explorer. For this, right-click Start and choose**File Explorer** , or press**Win + E** on your keyboard.
 2. Copy and paste the following path into the address bar:  
 ![Reset Windows Terminal Using File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-windows-terminal-using-file-explorer.jpg)  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 %LocalAppData%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState
 3. On the next page, right-click on**settings.json** and select**Delete** from the context menu.
 
  Once you perform the above steps, Settings.json will automatically be created with the default settings.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Resetting the Windows Terminal, Made Easy
 
  After reading this post, you now know some useful tips that will help you reset the terminal to default settings in Windows 11\. Try them out and find out which one works best for you.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -120,4 +115,24 @@ Remove-Item -Path "$env:LOCALAPPDATA\Packages\Microsoft.WindowsTerminal_8wekyb3d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-highest-quality-noiseless-text-converters/"><u>[New] Highest Quality Noiseless Text Converters</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-techniques-to-apply-watermarks-on-fb-content/"><u>[Updated] 2024 Approved Techniques to Apply Watermarks on FB Content</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-maximize-game-time-top-10-ps5-external-hddssd/"><u>[Updated] In 2024, Maximize Game Time Top 10 PS5 External HDD/SSD</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-zooming-in-clearer-faces-better-discussions/"><u>[Updated] In 2024, Zooming In Clearer Faces, Better Discussions</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/comprehensive-list-zoom-recording-must-haves/"><u>Comprehensive List Zoom Recording Must-Haves</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/helmet-up-surroundings-down-a-bikers-review-of-days-gone-during-a-global-infection-scare/"><u>Helmet Up, Surroundings Down: A Biker's Review of Days Gone During a Global Infection Scare</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-mend-interruptexception-crash-on-pcs-running-windows-1011/"><u>How to Mend INTERRUPT_EXCEPTION Crash on PCs Running Windows 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-regain-control-over-faulty-anydesk-service/"><u>How To Regain Control Over Faulty AnyDesk Service</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-your-windows-workspace-5-folder-tips-revealed/"><u>Master Your Windows Workspace: 5 Folder Tips Revealed</u></a></li>
+<li><a href="https://fox-place.techidaily.com/mastering-the-art-of-ios-11-screenshots-a-step-by-step-tutorial-on-inbuilt-annotation-tools/"><u>Mastering the Art of iOS 11 Screenshots: A Step-by-Step Tutorial on Inbuilt Annotation Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-remedies-for-windows-nine-solutions-to-revive-your-non-responsive-keyboard-shortcuts/"><u>Quick Remedies for Windows: Nine Solutions to Revive Your Non-Responsive Keyboard Shortcuts</u></a></li>
+<li><a href="https://windows11.techidaily.com/redirecting-and-reinstating-windows-1011s-ms-store/"><u>Redirecting and Reinstating Windows 10/11'S MS Store</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/step-by-step-snagging-stunning-pexels-pictures-for-2024/"><u>Step-by-Step Snagging Stunning Pexels Pictures for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleashing-the-full-potential-of-win-for-ps1-gaming-duckstations-insight/"><u>Unleashing the Full Potential of WIN for PS1 Gaming - Duckstation's Insight</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-the-full-potential-of-your-computers-booting-process-with-configurations/"><u>Unlock the Full Potential of Your Computer's Booting Process with Configurations</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11s-aesthetic-edge-maximizing-backdrop-impact/"><u>Windows 11'S Aesthetic Edge: Maximizing Backdrop Impact</u></a></li>
+</ul></div>
 

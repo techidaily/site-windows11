@@ -1,7 +1,7 @@
 ---
 title: Strategies for Swiftly Eradicating Windows Steam's E84 Error
-date: 2024-08-15T16:18:15.202Z
-updated: 2024-08-16T16:18:15.202Z
+date: 2024-12-09T21:37:41.033Z
+updated: 2024-12-10T18:04:48.702Z
 tags:
   - windows10
   - windows11
@@ -46,34 +46,24 @@ thumbnail: https://thmb.techidaily.com/2ef59ce044e2e7e5ba0e6dcc5016c001910532c38
 1. Go to the[Steam website](https://store.steampowered.com/) .
 2. Click on**login** in the top-right corner.  
 ![Click on the Login Button on Steam Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1-click-on-the-login-button-on-steam-website.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 3. Enter your username, and without entering your password (even if you remember it), click on**Help, I can't sign in** .  
-![Click on Help I Can’t Sign In Option From the Login Page on Steam Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-click-on-help-i-can-t-sign-in-option-from-the-login-page-on-steam-website.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Click on Help I Can’t Sign In Option From the Login Page on Steam Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-click-on-help-i-can-t-sign-in-option-from-the-login-page-on-steam-website.jpg)
 4. Then, click on**I forgot my Steam Account name or password** .
 5. Enter the email address or phone number linked to your account, verify Captcha, and click on**Search** .  
 ![Click on Search Button on the Steam Support Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3-click-on-search-button-on-the-steam-support-pag.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 6. By selecting the appropriate option, receive a verification code to your email address or phone number.
 7. Verify your identity by clicking the link you receive via email or adding the code you receive by phone.
 8. Click on**Reset my password** after that.  
 ![Click on Reset My Password Option on Steam Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/4-click-on-reset-my-password-option-on-steam-website.jpg)
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 9. Then, follow the on-screen instructions to reset your password.
 
  After changing your password, restart your device once and try to sign in again with the new password. Hopefully, this time you won't encounter any errors. If resetting the account password does not resolve the issue, proceed to the next step.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Add or Remove Launch Parameters
 
  Adding the**"-noreactlogin"** parameter in Steam's executable file can also resolve this issue. In technical terms, adding this flag disables the ReactJS-based login window and restores the old one. Follow these steps to add this extra flag:
@@ -81,22 +71,29 @@ thumbnail: https://thmb.techidaily.com/2ef59ce044e2e7e5ba0e6dcc5016c001910532c38
 1. Right-click on Steam's shortcut icon and select**Properties** .  
 ![Open Steam Properties in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/5-open-steam-properties-in-windows.jpg)
 2. Go to the**Shortcut** tab in the**Steam Properties** window.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Go to Shortcut Tab in the Steam Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/6-go-to-shortcut-tab-in-the-steam-properties-window.jpg)
 3. To modify the**Target** field, click at its end, add a space, and type**"-noreactlogin** .**"**
 4. Click**Apply** and then hit**OK** .  
 ![Click on OK Button After Adding a Launch Parameter in Steam Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/7-click-on-ok-button-after-adding-a-launch-parameter-in-steam-properties-window.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you see that some launch parameters are already added to the Target field, consider removing them. According to some users on[GitHub](https://github.com/ValveSoftware/steam-for-linux/issues/9031) , Steam no longer supports the**"noreactlogin"** flag and suggests removing it. Remove this flag if it is already there. Taking this step will ensure that this extra parameter is not contributing to the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ## 5\. When Nothing Else Works…
 
  The above fixes should resolve this annoying error. However, if they don't work in your favor, here are a few final fixes you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Make a New Steam Account and Try Logging In With it
 
@@ -106,18 +103,19 @@ thumbnail: https://thmb.techidaily.com/2ef59ce044e2e7e5ba0e6dcc5016c001910532c38
 
  Valve recommends whitelisting Steam's executable files in Windows' built-in or third-party security suites. So, go to Steam's installation folder, filter out all the executable files, and[whitelist them from Windows Defender](https://www.makeuseof.com/how-to-whitelist-files-windows-defender/) or any other third-party antivirus software you use.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Get Rid of Steam's Error Code 84 on Windows
 
  Getting an error code 84 means Steam has failed to log you in. Hopefully, the above fixes will help you resolve the main issue and allow you to sign in successfully. Reinstalling the Steam client should be your last resort if nothing else works. Ensure you create a backup of your game files before uninstalling Steam to avoid losing your progress.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -126,4 +124,19 @@ thumbnail: https://thmb.techidaily.com/2ef59ce044e2e7e5ba0e6dcc5016c001910532c38
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-must-play-biking-games-anthology/"><u>[New] 2024 Approved Must-Play Biking Games Anthology</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-enhance-your-images-choosing-great-border-options-on-ig/"><u>[New] In 2024, Enhance Your Images Choosing Great Border Options on IG</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-exciting-online-cam-challenges/"><u>[New] In 2024, Exciting Online Cam Challenges</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-future-of-editing-shines-with-magix-video-pro-x/"><u>2024 Approved The Future of Editing Shines with Magix Video Pro X</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/maximize-social-media-impact-with-these-5-tricks-for-enhanced-facebook-productivity/"><u>Maximize Social Media Impact with These 5 Tricks for Enhanced Facebook Productivity</u></a></li>
+<li><a href="https://win-able.techidaily.com/naraka-point-blank-unravelled-glitches-and-fixes/"><u>Naraka: Point Blank - Unravelled Glitches and Fixes!</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-to-win-11s-insider-program-enrollment/"><u>Navigating to Win 11'S Insider Program Enrollment</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-common-causes-of-phasmophobia-breaks-a-comprehensive-guide/"><u>Overcoming Common Causes of Phasmophobia Breaks: A Comprehensive Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-systemsettings-errors-in-windows-11/"><u>Preventing SystemSettings Errors in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/resetting-error-with-windows-shadow-copy-service/"><u>Resetting Error with Windows' Shadow Copy Service</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-reverting-to-safe-mode-and-removing-graphics-drivers-on-windows-8/"><u>Step-by-Step Guide: Reverting to Safe Mode & Removing Graphics Drivers on Windows 8</u></a></li>
+<li><a href="https://windows11.techidaily.com/touching-your-world-better-the-ultimate-guide-to-pc-touch-adjustment/"><u>Touching Your World Better: The Ultimate Guide to PC Touch Adjustment</u></a></li>
+</ul></div>
 

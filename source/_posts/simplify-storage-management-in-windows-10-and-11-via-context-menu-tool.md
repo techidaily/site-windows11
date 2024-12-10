@@ -1,7 +1,7 @@
 ---
 title: Simplify Storage Management in Windows 10 & 11 via Context Menu Tool
-date: 2024-11-30T03:38:30.833Z
-updated: 2024-12-03T22:12:13.774Z
+date: 2024-12-03T19:49:56.649Z
+updated: 2024-12-10T20:22:36.167Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/b820d864536876d7d0a61d1c45147aa7dcf60bfd6
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Add a Visual Disk Space Analyzer Tool to Explorer’s Context Menu With RidNacs
 
  RidNacs is a freeware disk analyzer app with which you can scan whole drives, folders, or removable storage devices (USB sticks). This tool displays storage usage reports with percentage bars that give users a clear picture of what’s hogging the most space. You can add the RidNacs analyzer tool to Explorer’s context menu like this:
@@ -50,15 +46,15 @@ thumbnail: https://thmb.techidaily.com/b820d864536876d7d0a61d1c45147aa7dcf60bfd6
 
 ![The RidNacs window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/ridnacs-window.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can select other directories or a whole drive to scan within the RidNacs window. To do so, click**File** and the**Choose Directory** option. Then choose another folder or an entire drive to scan and click**OK** .
 
  RidNacs doesn’t have lots of customization settings. However, you can change the percentage bar style. To do so, click the**Preferences** button. Then select a different color option on the Percentage bar style. Select**Apply** \>**OK** to save the new bar style setting.
 
 ![The Preferences window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/preferences-window.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Add a Visual Disk Space Analyzer Tool to Explorer’s Context Menu With Disk Savvy
 
@@ -72,7 +68,7 @@ thumbnail: https://thmb.techidaily.com/b820d864536876d7d0a61d1c45147aa7dcf60bfd6
 5. Then press**Install** to add the Disk Savvy tool to the Windows context menu.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Select**Next** when installation is complete.
@@ -81,6 +77,10 @@ thumbnail: https://thmb.techidaily.com/b820d864536876d7d0a61d1c45147aa7dcf60bfd6
  Now you can try out the Disk Savvy analyzer utility. Go into File Explorer, and right-click a folder to analyze to select**Show more options** \>**Disk Savvy - Analyze Disk Space** . Click the**Analyze** button on the**Default Profil** e to confirm the selected directory.
 
 ![The Default Profile window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/default-profile.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Disk Savvy window that opens displays similar disk usage info to RidNacs. It includes columns that tell you how many files are in the subfolders, the byte size of each folder and file, and the percentage of their root directory’s total size they amount to. However, Disk Savvy also includes a**Categorize by** submenu that includes various options for viewing categorized file info.
 
@@ -91,7 +91,7 @@ thumbnail: https://thmb.techidaily.com/b820d864536876d7d0a61d1c45147aa7dcf60bfd6
 ![A Disk Space Usage Per File Extension graph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disk-space-usage-window.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Disk Savvy also has a feature that displays all the top (biggest) files within an analyzed folder. To utilize that feature, click the**Top Files** button. Then select an option like**View Top Images Sorted By File Size** or**View Top Music Files Sorted By the File Size** to see what the biggest ones are.
@@ -105,7 +105,7 @@ thumbnail: https://thmb.techidaily.com/b820d864536876d7d0a61d1c45147aa7dcf60bfd6
 ![Disk space analyzis report options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disk-report-options.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Get a Visual Overview of Folder and File Disk Usage in Windows
@@ -127,21 +127,16 @@ thumbnail: https://thmb.techidaily.com/b820d864536876d7d0a61d1c45147aa7dcf60bfd6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-virtual-vanguard-over-a-hundred-games-galore/"><u>[New] 2024 Approved Virtual Vanguard Over a Hundred Games Galore</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-zipped-scripts-into-speaking-texts-srt-file-conversion/"><u>[New] Zipped Scripts Into Speaking Texts .Srt File Conversion</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-navigating-snapads-a-business-strategy-guide/"><u>[Updated] Navigating SnapAds A Business Strategy Guide</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-on-iphone-8-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently On iPhone 8</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/in-depth-analysis-apple-tv-4k-third-gen-reviews-and-insights/"><u>In-Depth Analysis: Apple TV 4K Third Gen - Reviews and Insights</u></a></li>
-<li><a href="https://win-forum.techidaily.com/insights-into-windows-registry-functionality-and-importance/"><u>Insights Into Windows Registry Functionality and Importance</u></a></li>
-<li><a href="https://windows11.techidaily.com/keeping-winrunhist-intact-for-future-use/"><u>Keeping WinRunHist Intact for Future Use</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-windowed-discords-search-tweaks/"><u>Mastering Windowed Discord's Search Tweaks</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ize-attention-strategies-for-shorts-on-youtube-for-2024/"><u>Optimize Attention Strategies for Shorts on YouTube for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/perfecting-your-powerpoint-presentations-printouts-on-windows-platforms/"><u>Perfecting Your PowerPoint Presentations' Printouts on Windows Platforms</u></a></li>
-<li><a href="https://windows11.techidaily.com/re-estaminig-balanced-sound-from-both-sides-of-win-audio-device/"><u>Re-Estaminig Balanced Sound From Both Sides of Win Audio Device</u></a></li>
-<li><a href="https://blog-min.techidaily.com/step-by-step-instructions-on-transferring-your-favorite-films-from-redbox-to-personal-collection-at-no-cost/"><u>Step-by-Step Instructions on Transferring Your Favorite Films From Redbox to Personal Collection at No Cost</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-on-apple-iphone-8-plus-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock On Apple iPhone 8 Plus You Should Try Out</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-intricate-world-of-user-identification-in-win11/"><u>The Intricate World of User Identification in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-the-secret-recognizing-and-resolving-non-installed-hdd-issue-win-11-style/"><u>Unveiling the Secret: Recognizing & Resolving Non-Installed HDD Issue, Win 11 Style</u></a></li>
-<li><a href="https://windows11.techidaily.com/wintools-comparison-how-chkdsk-and-sfc-differ-from-dissect/"><u>WinTools Comparison: How CHKDSK and SFC Differ From Dissect</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-elevate-your-creative-expression-with-smart-caption-techniques-for-tiktoks/"><u>[New] 2024 Approved Elevate Your Creative Expression with Smart Caption Techniques for TikToks</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-dive-into-fixes-for-your-troublesome-instagram-video/"><u>[Updated] 2024 Approved Dive Into Fixes for Your Troublesome Instagram Video</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-online-broadcast-battle-facebook-vs-youtube-and-twitspaces/"><u>[Updated] Online Broadcast Battle FACEbook Vs. YOUTube & TWITSpaces</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/diagnosing-sluggishness-key-factors-that-impede-pc-speed-explained-by-yl-software-experts/"><u>Diagnosing Sluggishness: Key Factors That Impede PC Speed Explained by YL Software Experts</u></a></li>
+<li><a href="https://windows11.techidaily.com/disarming-the-windows-11-afc-error-camera-app-solution/"><u>Disarming the Windows 11 AFC Error: Camera App Solution</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-find-x7-ultra-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Oppo Find X7 Ultra Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-workflow-multitask-with-windows-11-expertise/"><u>Optimizing Workflow: Multitask with Windows 11 Expertise</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-the-constant-lagging-issue-of-deathloop-in-pc-versions/"><u>Resolving the Constant Lagging Issue of Deathloop in PC Versions</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-folder-menu-enhancement-with-new-commands-win-11/"><u>Step-by-Step Guide: Folder Menu Enhancement with New Commands (Win 11)</u></a></li>
+<li><a href="https://windows11.techidaily.com/sudos-arrival-in-windows-os-explained/"><u>Sudo's Arrival in Windows OS Explained</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-clarity-connoisseurs-guide-top-tips-for-perfecting-pc-displays/"><u>The Clarity Connoisseur's Guide: Top Tips for Perfecting PC Displays</u></a></li>
 </ul></div>
 

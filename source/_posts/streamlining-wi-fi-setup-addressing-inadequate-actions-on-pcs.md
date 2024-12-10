@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Wi-Fi Setup: Addressing Inadequate Actions on PCs"
-date: 2024-12-02T06:11:58.932Z
-updated: 2024-12-03T20:50:50.941Z
+date: 2024-12-07T17:27:08.904Z
+updated: 2024-12-10T17:48:52.682Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/0244557d86d8e1a27dc054dedba4a1385b1696e50
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Disable the NCSI Probe From Windows Registry
 
  In most cases, the "Action Needed" prompt appears when there are corporate Wi-Fi networks with multiple endpoints available. This prompt is associated with the Network Connectivity Status Indicator (NCSI) feature, which verifies the network connection and internet access.
@@ -47,6 +43,10 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NlaSvc\Parameters\Internet
 5. Move to the right pane and right-click on the **EnableActiveProbing** value.  
 ![EnableActiveProbing key in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-active-probing-key.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Type 0 in the text field for Value data and click **OK**.
 2. Now, navigate to the following location:  
 HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
@@ -55,18 +55,10 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 ![NoActiveProbe key in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/no-active-probe.jpg)
 5. Double-click on this newly created value and change its value data to 1\.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Now, create another value the same way and name it as DisablePassivePolling.
 7. Double-click on **DisablePassivePolling** and change its value data to 1 as well.  
 ![DisablePassivePolling key in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-passive-polling.jpg)
 8. Click **OK** to save the changes and exit the Registry Editor.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 9. Finally, restart your computer and upon reboot, check if the problem is resolved.
 
@@ -109,13 +101,13 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 5. Wait for the troubleshooter to complete its scan and once done, check if a problem is identified. If it is, click on the **Apply this fix** option. You can also apply a solution manually.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. In case the troubleshooter fails to identify the culprit, click on **Close the troubleshooter** option and move to the next method below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Disable Fast Startup
@@ -131,6 +123,10 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 ![Choose what the power button does option of Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/choose-what-the-power-button-does.jpg)
 5. Choose **Change settings that are currently unavailable** and navigate to the Shutdown settings option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Uncheck the box associated with **Turn on fast startup (recommended)**.  
 ![Disable Fast Startup on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/disable-fast-startup-on-windows.jpg)
 7. Click on the **Save changes** button and exit Control Panel. Check if the issue is now resolved.
@@ -140,6 +136,10 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
  If the specific fixes we have listed above have not worked for you, there are some additional fixes related to the network errors in Windows that you can try.
 
  These include updating the network drivers, re-enabling your wireless network adapter, installing the latest system updates, and resetting the network configurations on your computer. Our guide on[how to fix common Windows network errors](https://www.makeuseof.com/not-connected-any-networks-error-windows/) discusses all of these in detail, so you can head over there for step-by-step instructions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixing Network Connections in Windows Made Easy
 
@@ -159,14 +159,14 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-dash.techidaily.com/download-and-install-epson-perfection-v500-drivers-step-by-step-guide/"><u>Download and Install Epson Perfection V500 Drivers - Step by Step Guide</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/explore-youtubes-finest-virtual-reality-content/"><u>Explore YouTube's Finest Virtual Reality Content</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722964368275-get-your-logitech-keyboard-up-and-running-on-windows-11-download-driver-now/"><u>Get Your Logitech Keyboard Up and Running on Windows 11 – Download Driver Now!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-6-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 6 To Other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastery-of-overcoming-windows-activation-fault-error-0x803f700f/"><u>Mastery of Overcoming Windows Activation Fault: Error 0X803F700f</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-m6-5g-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on M6 5G</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-the-restrictions-of-secure-boot-and-tpm-using-rufus/"><u>Unlocking the Restrictions of Secure Boot & TPM Using Rufus</u></a></li>
-<li><a href="https://windows11.techidaily.com/why-do-computers-have-a-windows-batch-file/"><u>Why Do Computers Have a Windows Batch File?</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11-advancements-what-the-new-update-brings-in/"><u>Windows 11 Advancements: What the New Update Brings In</u></a></li>
+<li><a href="https://driver-error.techidaily.com/confirmed-device-manager-crisis-averted/"><u>[CONFIRMED]: Device Manager Crisis Averted</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-high-performance-low-price-excellent-asmr-mics-for-2024/"><u>[New] High Performance, Low Price Excellent ASMR Mics for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/8-ways-to-fix-the-windows-desktop-when-it-turns-pink-or-purple/"><u>8 Ways to Fix the Windows Desktop When It Turns Pink or Purple</u></a></li>
+<li><a href="https://games-able.techidaily.com/after-the-subscription-apsplus-games-new-path/"><u>After the Subscription: APS+ Game's New Path</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-your-productivity-enable-a-search-bar-on-win11s-taskbar/"><u>Elevate Your Productivity: Enable a Search Bar on Win11's Taskbar</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-inaccessible-files-on-windows-platform/"><u>Fixing Inaccessible Files on Windows Platform</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-how-to-download-vimeo-videos-withwithout-software-100-useful/"><u>In 2024, How to Download Vimeo Videos With/Without Software [100% Useful]</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/setting-up-canon-printer-with-ease-on-wi-fi/"><u>Setting Up Canon Printer with Ease on Wi-Fi</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-5-windows-folders-tricks-for-enhanced-efficiency/"><u>Top 5 Windows Folders Tricks for Enhanced Efficiency</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fixing Non-Working Window's Performance Indicator
-date: 2024-08-15T16:18:12.050Z
-updated: 2024-08-16T16:18:12.050Z
+date: 2024-12-03T17:29:09.809Z
+updated: 2024-12-10T17:19:45.210Z
 tags:
   - windows10
   - windows11
@@ -32,8 +32,9 @@ To restart your computer, follow these steps:
  Once the computer has restarted, open Performance Monitor and check if the issue has been resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Restart the Performance Logs and Alerts service
 
  If rebooting your computer doesn't fix the problem, you can try restarting the Performance Logs and Alerts service. This service is responsible for monitoring system performance settings and generating alert messages when something is wrong.
@@ -45,24 +46,9 @@ To restart this service, follow these steps:
 3. In the Services window, scroll down to**Performance Logs & Alerts** service.
 4. Right-click on the service and select the**Restart** option.  
 ![Restart Performance service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/restart-performance-service.jpg)
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After you follow the above steps, check if Performance Monitor is working correctly.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Run the System File Checker
 
  The System File Checker is a handy Windows tool that can scan for and fix corrupted system files. It is useful when the Performance Monitor isn't working due to a corrupt system file.
@@ -74,10 +60,19 @@ To run the System File Checker, follow these steps:
 3. If UAC appears on the screen, click**Yes** to grant access. You can learn more about this handy tool with our[beginner's guide to the Windows Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) .  
 ![Run SFC Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-sfc-command.jpg)
 4. In the Command Prompt, type the following command and press**Enter** :  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 sfc /scannow
 5. The scan will check for any corrupted system files and repair them.
 
  After the scan is complete, restart your computer and check if Performance Monitor is working properly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Check for a Windows Update
 
@@ -86,12 +81,17 @@ sfc /scannow
 1. Press**Win + I** on your keyboard to open System Settings. We also have an in-depth tutorial on[accessing the Settings menu](https://www.makeuseof.com/windows-ways-to-open-system-settings/) .
 2. Click**Windows Update** in the left pane.  
 ![Check for Updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/check-for-updates.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Then click the**Check for updates** button.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If any available updates are found, Windows will download and install them automatically. After the updates have been installed, restart your computer and check if Performance Monitor is now working correctly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Perform a System Restore
 
@@ -103,29 +103,20 @@ To perform a system restore, follow these steps:
 2. Type**System Restore** in the search bar and click on**Create a restore point** .
 3. In the System Properties window, click the**System Restore** button.  
 ![Run System Restore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-system-restore.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 4. Choose a restore point, then click**Next** .
 5. Follow the on-screen instructions to perform a system restore.
 
  Upon completion of the restoration process, make sure Performance Monitor is working properly.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## Get Hassle Free Performance and Health Monitoring
 
  Like any other program, Performance Monitor can have glitches and other issues that prevent it from working correctly. The steps in this article will help you fix these issues and get Performance Monitor up and running again.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -134,4 +125,22 @@ To perform a system restore, follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-weaving-a-memorable-tiktok-outro-narrative/"><u>[New] In 2024, Weaving A Memorable TikTok Outro Narrative</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-13-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-cover-letters-effortlessly-using-chatgpt/"><u>Enhance Cover Letters Effortlessly Using ChatGPT</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-internal-error-has-occurred-remote-desktop-connection-error-in-windows-11-and-11/"><u>How to Fix the “Internal Error Has Occurred” Remote Desktop Connection Error in Windows 11 & 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-your-iphone-xr-from-your-apple-id-by-drfone-ios/"><u>How To Unlink Your iPhone XR From Your Apple ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-apple-iphone-13-pro-max-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My Apple iPhone 13 Pro Max After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-code-with-microsoft-copilot-on-windows/"><u>Mastering Code with Microsoft Copilot on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-microsoft-store-crash-fixes-for-error-0x0-on-pcs/"><u>Mastering Microsoft Store Crash Fixes for Error 0X0 on PCs</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/microsofts-surface-range-outshines-with-ai-powered-computers-sparking-concerns-over-apples-future/"><u>Microsoft's Surface Range Outshines with AI-Powered Computers, Sparking Concerns Over Apple's Future</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/next-level-gaming-premium-vr-players-reviewed-for-2024/"><u>Next-Level Gaming Premium VR Players Reviewed for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/nvidia-driver-updates-for-gtx-1660-a-quick-and-straightforward-approach/"><u>NVIDIA Driver Updates for GTX 1660: A Quick & Straightforward Approach</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-mcuicntexe-missing-problems-on-pcs/"><u>Overcoming McUICnt.exe Missing Problems on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-excessive-gpu-load-in-games-on-pc/"><u>Tackling Excessive GPU Load in Games on PC</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ditors-edge-advanced-techniques-for-youtube-creations-for-2024/"><u>The Editor's Edge Advanced Techniques for YouTube Creations for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/upgrade-pcs-for-efficient-scalable-transcoding-using-tdarr/"><u>Upgrade PCs for Efficient, Scalable Transcoding Using Tdarr</u></a></li>
+</ul></div>
 

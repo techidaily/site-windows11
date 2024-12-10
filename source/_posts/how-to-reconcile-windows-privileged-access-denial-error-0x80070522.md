@@ -1,7 +1,7 @@
 ---
 title: How To Reconcile Windows' Privileged Access Denial (Error 0X80070522)
-date: 2024-12-03T00:12:02.624Z
-updated: 2024-12-03T18:16:23.612Z
+date: 2024-12-07T21:08:19.743Z
+updated: 2024-12-10T16:14:37.558Z
 tags:
   - windows10
   - windows11
@@ -34,7 +34,11 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
 ![The Run this program in compatibility mode checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-run-as-administrator-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Set an Admin Account on Windows
@@ -44,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
 ![The Administrator radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-administrator-radio-button.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Turn Off User Account Control (in Three Different Ways)
@@ -63,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
 3. Click the**Sharing** tab.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Press the**Advanced Sharing** button.
@@ -75,15 +79,11 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
 ![The Full control checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-full-control-checkbox.jpg)
 3. Click the**Apply** and**OK** on the Permissions and Advanced Sharing windows.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Select**Close** to exit the properties window.
 5. Then click**Power** and select**Restart** within your Start menu.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Perform the Required File or Folder Actions on Windows
@@ -107,24 +107,17 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-master-the-art-of-pip-on-microsoft-edge/"><u>[New] Master the Art of PIP on Microsoft Edge</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-hit-the-mark-video-that-skyrockets-in-popularity/"><u>2024 Approved Hit the Mark Video that Skyrockets in Popularity</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/breakneck-video-progress-on-facebook-must-have-extension-solutions/"><u>Breakneck Video Progress on Facebook - Must-Have Extension Solutions</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210839366-9781088123744-channeled-messages-for-the-traveler/"><u>Channeled Messages for the Traveler | Free Book</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-to-conquering-unexplained-obs-recordings-glitches/"><u>Guide to Conquering Unexplained OBS Recordings Glitches</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-camera-apps-0xa00f429f-error-in-windows-10-and-11/"><u>How to Fix the Camera App’s 0xA00F429F Error in Windows 10 & 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-oppo-find-x7-ultra-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Oppo Find X7 Ultra using Video Repair Utility on Windows?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-11-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone 11? Learn All 4 Methods</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-juggling-youtube-success-and-full-time-work-a-guide/"><u>In 2024, Juggling YouTube Success & Full-Time Work A Guide</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722969920060-latest-compatible-driver-for-your-scansnap-s1100-quick-setup-steps-inside/"><u>Latest Compatible Driver for Your ScanSnap S1100 – Quick Setup Steps Inside</u></a></li>
-<li><a href="https://windows11.techidaily.com/outdated-pcs-needing-an-alternative-to-windows/"><u>Outdated PCs Needing an Alternative to Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/prioritize-security-on-windows-the-leading-7-free-pass-gen-apps/"><u>Prioritize Security on Windows: The Leading 7 Free Pass Gen Apps</u></a></li>
-<li><a href="https://windows11.techidaily.com/reboot-to-regain-default-navigator-setup-in-win11/"><u>Reboot to Regain Default Navigator Setup in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/start-menu-no-more-unwanted-advertisements/"><u>Start Menu, No More Unwanted Advertisements!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/strategies-to-resolve-the-non-launch-issue-with-armored-core-vi/"><u>Strategies to Resolve the Non-Launch Issue with Armored Core VI</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-art-of-unfreezing-the-windows-update-troubleshooter/"><u>The Art of Unfreezing the Windows Update Troubleshooter</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-ultimate-keyboard-quest-6-ways-to-find-out-your-pcs-model/"><u>The Ultimate Keyboard Quest - 6 Ways to Find Out Your PC's Model</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ultimate-guide-to-2023s-top-value-zero-cost-live-broadcasting-tools/"><u>Ultimate Guide to 2023'S Top Value, Zero-Cost Live Broadcasting Tools</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-tickout-restoring-clock-consistency/"><u>Windows Tickout: Restoring Clock Consistency</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-a-deep-dive-into-zdsoft-recorder-features-for-2024/"><u>[New] A Deep Dive Into ZDSoft Recorder Features for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-paint-picture-humor/"><u>[New] Paint Picture Humor</u></a></li>
+<li><a href="https://extra-information.techidaily.com/exploring-the-infinite-a-look-at-lgs-vr-technology/"><u>Exploring the Infinite A Look at LG's VR Technology</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-m14-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy M14 5G Phones with/without a PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/initiating-chatgpt-with-windows-operating-system/"><u>Initiating ChatGPT with Windows Operating System</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-error-printer-spooler-not-active-on-windows/"><u>Overcoming Error: “Printer Spooler Not Active” On Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-sniping-techniques-alternatives-to-windows-snipping-capability/"><u>Quick Sniping Techniques: Alternatives to Windows' Snipping Capability</u></a></li>
+<li><a href="https://windows11.techidaily.com/reimagining-your-pc-integrating-previous-apps-into-win-11/"><u>Reimagining Your PC: Integrating Previous Apps Into Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-dism-error-code-0x800f082f-on-windows-systems/"><u>Resolving DISM Error Code: 0X800F082F on Windows Systems</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/transform-your-viewers-experience-with-top-mac-streamers/"><u>Transform Your Viewers' Experience with Top Mac Streamers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/virtual-space-clearing-perfecting-your-backdrop-in-zoom-and-google-meet/"><u>Virtual Space Clearing Perfecting Your Backdrop in Zoom & Google Meet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/whatsapp-upgrades-communication-with-enhanced-selection-of-colorful-stickers/"><u>WhatsApp Upgrades Communication with Enhanced Selection of Colorful Stickers</u></a></li>
 </ul></div>
 

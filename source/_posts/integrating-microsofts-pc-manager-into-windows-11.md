@@ -1,7 +1,7 @@
 ---
 title: Integrating Microsoft's PC Manager Into Windows 11
-date: 2024-08-08T06:14:42.438Z
-updated: 2024-08-09T06:14:42.438Z
+date: 2024-12-09T19:32:12.854Z
+updated: 2024-12-10T21:11:50.712Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/0c6fb3954d1e2db91c62e36b902addd3def785021
 
  Microsoft realized that Windows users could benefit from an official PC Manager app that could help maintain the PC. And so, the Microsoft PC Manager was born. PC Manager is an app that lets you perform 1-click system maintenance along with a bunch of useful features. Here’s how to install and set up Microsoft PC Manager on your Windows 11 PC.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is the Microsoft PC Manager?
 
  Microsoft began testing a PC Manager app for Windows users in 2022\. Before that, CCleaner and a few other apps ruled the PC Cleaner app segments. Microsoft always warned against the usage of third-party system management apps as they could damage the registry files. Now, we have a full-fledged official app that competes with other such apps.
@@ -30,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/0c6fb3954d1e2db91c62e36b902addd3def785021
  At the time of writing, Microsoft PC Manager is still in the beta testing phase. The official webpage informs that the app is compatible with Windows 10 (1809 and above versions) and Windows 11 only. So, if you use Windows 8.1 or 7 (Microsoft dropped support for Windows 7), chances are that it won’t work.
 
  The app acts as a central spot to access all the useful system management tools of Windows. Apart from that, it brings many essential tools such as health checks, memory management, pop-up management, and more. We will cover each of these tools later on in this post.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Install the Microsoft PC Manager on Windows 11
 
@@ -40,13 +41,20 @@ thumbnail: https://thmb.techidaily.com/0c6fb3954d1e2db91c62e36b902addd3def785021
 3. Click the**Download** button to download the setup file on your system.  
 ![Download Microsoft PC Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/download-microsoft-pc-manager.jpg)
 4. Once the file downloads, visit the download location and right-click on the Microsoft PC Manager installer file. Select the**Run and administrator** option from the context menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. UAC will pop up. Click on the**Yes** button to continue.
 6. PC Manager installation window will launch. Click on the**I accept End User License and Privacy Agreements** check box. Then click on the**Install** button.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![Install Microsoft PC Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/install-microsoft-pc-manager.jpg)
 7. App installation will begin. It requires internet connectivity to download files from the server.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Once the installation completes, click on the**Launch Now** button to open the app.
 
  Make note that the app is still in a public beta. So, it could act finicky on your system. Moreover, accessing the official website is another sad story. It is unresponsive most of the time and downloading a measly 4 MB installer file can take time. We faced a server downtime issue while installing this app.
@@ -65,18 +73,10 @@ thumbnail: https://thmb.techidaily.com/0c6fb3954d1e2db91c62e36b902addd3def785021
 
  You cannot use the Boost feature repeatedly, though. The app displays a message that “Your PC is already running well.” However, you can use the boost feature after a few minutes.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Boost your PC’s Performance](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/boost-your-pc-s-performance.jpg)
 
  The**Health Check** tool presents a comprehensive roundup of problems that need attention. Once you click on the feature, it finds and lists all the potential issues which include cleanup items such as browser cache, temp files, and system logs. It also lists out potential security issues and the Startup items that you can disable to decrease loading time.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![Health Check in PC Manger app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/health-check-in-pc-manger-app.jpg)
 
  Click on the**Proceed** button to perform all the actions listed by the Health Check tool. Then click on the**Done** button to return to the home page of the PC Manager app.
@@ -85,16 +85,10 @@ The powerful video editing program for your Windows PC</a>
 
  The first one is**Deep Cleanup** which identifies all the items that you can delete to free up some space. Think of it as an advanced version of the Health check tools because it lists out Clipboard files, DirectX Shader cache, Windows upgrade logs, and Recycle Bin files. Click on the**Proceed** button to perform Deep Cleanup.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![Deep Cleanup in PC Manger app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/deep-cleanup-in-pc-manger-app.jpg)
 
  The**Manage large files** tool helps you identify all the big files taking up space on the C drive. You can adjust the file type as well as the size you want to identify using this tool. The only drawback is that it can only identify C-drive items. Click on the**View in File Explorer** button to allow the app to list all the files in an explorer Window. You can manually move or delete these files.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Manage large files in PC Manger app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/manage-large-files-in-pc-manger-app.jpg)
 
  The other two tools are shortcuts to system apps present on Windows. One is Storage Sense and the other opens up the Installed App list. Check out our guide on[How to Use Storage Sense on Windows 11](https://www.makeuseof.com/windows-11-storage-sense-guide/) for more information.
@@ -116,20 +110,22 @@ The powerful video editing program for your Windows PC</a>
 ![Pop-up Management in PC Manger app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/pop-up-management-in-pc-manger-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## A Free, Official Tool to Manage Your Windows PC
 
  Microsoft PC Manager is an impressive tool. It frees up memory and storage and manages system security all within one app. You will notice a few hiccups because it is the beta phase. One such issue is that it doesn’t switch to dark mode on Windows. It auto-starts every time you boot up Windows, but you can disable that using the app settings.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -138,4 +134,20 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-premier-pdf-enhancements/"><u>[New] Premier PDF Enhancements</u></a></li>
+<li><a href="https://windows11.techidaily.com/amp-up-your-vehicles-performance-with-these-top-windows-upgraders/"><u>Amp up Your Vehicle's Performance with These Top Windows Upgraders</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-focus-effects-iphone-vs-android-photo-solutions-for-2024/"><u>Best Focus Effects IPhone vs Android Photo Solutions for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/how-to-turn-off-suggested-posts-on-instagram/"><u>How to Turn Off Suggested Posts on Instagram?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-honor-x9b-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Honor X9b Devices | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978931692-install-logitechs-advanced-gaming-steering-wheel-on-pc-windows-7810-download-drivers/"><u>Install Logitech's Advanced Gaming Steering Wheel on PC (Windows 7/8/10) - Download Drivers!</u></a></li>
+<li><a href="https://windows11.techidaily.com/purify-your-setup-tiny11s-no-fuss-features/"><u>Purify Your Setup: Tiny11's No-Fuss Features</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/staying-above-copyright-infringement-insta-watermarks-explained/"><u>Staying Above Copyright Infringement Insta Watermarks Explained</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-connecting-your-iphone-with-lg-television/"><u>Step-by-Step Guide: Connecting Your iPhone with LG Television</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-circumvent-no-more-files-alert/"><u>Strategies to Circumvent No More Files Alert</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-windows-11-safe-mode-an-easy-six-step-plan/"><u>Unlocking Windows 11 Safe Mode: An Easy Six-Step Plan</u></a></li>
+<li><a href="https://windows11.techidaily.com/unwrapping-the-mystery-of-monitor-miscalibration/"><u>Unwrapping the Mystery of Monitor Miscalibration</u></a></li>
+</ul></div>
 

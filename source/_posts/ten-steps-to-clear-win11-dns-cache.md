@@ -1,7 +1,7 @@
 ---
 title: Ten Steps to Clear Win11 DNS Cache
-date: 2024-12-01T23:29:38.628Z
-updated: 2024-12-03T20:47:59.393Z
+date: 2024-12-08T18:08:10.951Z
+updated: 2024-12-10T17:45:42.752Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/3826690fad2bdad4d7aa62bd8a31b6771b0779110
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is the DNS Cache and Why Should You Flush It?
@@ -51,7 +51,7 @@ To flush the DNS cache using the Run command box, do as follows:
 3. Press**Ctrl + Shift + Enter** keys at once. The Command Prompt will launch, execute the flush command, and close automatically.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Using CMD
@@ -64,6 +64,10 @@ To flush the DNS cache using the Run command box, do as follows:
 ![Flush DNS Using CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/flush-dns-using-cmd.jpg)
 4. You will see a “**Successfully flushed the DNS Resolver Cache.** ” message after the command execution.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Using PowerShell
 
  PowerShell has a different command to flush the DNS cache on Windows 11\. Here’s how to do it:
@@ -74,11 +78,7 @@ To flush the DNS cache using the Run command box, do as follows:
 3. You won’t see a message after the command executes successfully. But you can open PowerShell again and view the DNS cache to confirm.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Using a Batch File
@@ -92,14 +92,14 @@ Repeat the following steps to create a DNS-clearing batch file:
 ![Flush DNS Using A Batch File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/flush-dns-using-a-batch-file.jpg)
 3. Press**Ctrl + S** to save the file. Enter the name “**flushDNS.bat** ” and keep the**Save as type** as**All Files** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click on the**Save** button.
 5. Now go to the batch file location and double-click on it.
 6. The Command Prompt will launch and execute the "**/** flushdns" command.
 7. Type**exit** and press the**Enter** key to close the command prompt window.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Flush Your Browser's DNS Records
 
@@ -132,24 +132,24 @@ Repeat the following steps to create a DNS-clearing batch file:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-from-oven-to-screen-cooking-videos-unveiled/"><u>[New] From Oven to Screen Cooking Videos Unveiled</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-instagram-live-maintaining-privacy-while-streaming/"><u>[New] Instagram Live Maintaining Privacy While Streaming</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-mixing-video-sequences-with-blend-mode-expertise/"><u>[Updated] 2024 Approved Mixing Video Sequences with Blend Mode Expertise</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-a-decades-best-writes-across-film-classifications/"><u>[Updated] A Decade's Best Writes Across Film Classifications</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-premier-ios-tools-replicating-ps2-games-for-2024/"><u>[Updated] Premier iOS Tools Replicating PS2 Games for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/easy-steps-to-transform-any-video-into-a-gif-for-desktops-and-smartphonesonline-solutions/"><u>Easy Steps to Transform Any Video Into a GIF - For Desktops & Smartphones/Online Solutions</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-7-plus-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone 7 Plus Randomly Asking for Apple ID Password</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-quick-tips-to-produce-quality-thumbnails-fast/"><u>In 2024, Quick Tips to Produce Quality Thumbnails Fast</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/initial-thoughts-on-the-samsung-galaxy-s24-ultra-a-comprehensive-review/"><u>Initial Thoughts on the Samsung Galaxy S24 Ultra: A Comprehensive Review</u></a></li>
-<li><a href="https://windows11.techidaily.com/maximizing-efficiency-set-predefined-app-sizes-in-win11/"><u>Maximizing Efficiency: Set Predefined App Sizes in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-address-security-glitches-in-windows-1011/"><u>Steps to Address Security Glitches in Windows 10/11</u></a></li>
-<li><a href="https://windows11.techidaily.com/suppress-windows-extra-audio-functionality/"><u>Suppress Windows Extra Audio Functionality</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackle-windows-11-woes-your-guide-to-fixing-11-issues/"><u>Tackle Windows 11 Woes - Your Guide to Fixing 11 Issues</u></a></li>
-<li><a href="https://windows11.techidaily.com/tailor-your-own-lock-pattern-in-windows-11/"><u>Tailor Your Own Lock Pattern in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-enigma-of-windows-11s-invisibles-menus-and-tools/"><u>The Enigma of Windows 11'S Invisibles Menus and Tools</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-essential-steps-to-open-windows-media-player/"><u>The Essential Steps to Open Windows Media Player</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-role-and-significance-of-windows-bt-folders/"><u>The Role and Significance of Windows ~BT Folders</u></a></li>
-<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-iphone-xr-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On iPhone XR Making It Possible</u></a></li>
-<li><a href="https://windows11.techidaily.com/voice-recorder-efficiency-essential-keyboard-shortcuts-in-windows-11/"><u>Voice Recorder Efficiency: Essential Keyboard Shortcuts in Windows 11</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-a-list-films-must-watch-channel-compilation/"><u>[New] In 2024, A-List Films Must-Watch Channel Compilation</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-ai-assisted-naming-wizards-the-best-10-for-podcasters/"><u>[Updated] AI-Assisted Naming Wizards The Best 10 for Podcasters</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-free-top-8-best-apps-to-get-likes-on-instagram/"><u>2024 Approved FREE Top 8 Best Apps to Get Likes on Instagram</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/decoding-africas-multilingual-dna/"><u>Decoding Africa's Multilingual DNA</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/evaluating-the-boundaries-of-hero5-sessions-for-2024/"><u>Evaluating the Boundaries of Hero5 Sessions for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-a-broken-wi-fi-link-a-guide-for-your-surface-pro/"><u>Fixing a Broken Wi-Fi Link: A Guide for Your Surface Pro</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-itel-a05s-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Itel A05s Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-window-11-email-app-error-code-0x800713f/"><u>Overcoming Window 11 Email App Error Code 0X800713F</u></a></li>
+<li><a href="https://windows11.techidaily.com/procedures-for-fixing-inoperative-ccleaner-on-windows-os/"><u>Procedures for Fixing Inoperative CCleaner on Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-launch-hacks-opening-windows-11-apps-faster/"><u>Quick Launch Hacks: Opening Windows 11 Apps Faster</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-start-download-updated-brother-mfc-ninety-three-four-zeroc-doubled-drivers-for-various-windows-os/"><u>Quick Start Download: Updated Brother MFC-Ninety-Three-Four-zeroC-doubleD Drivers for Various Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-edges-continuous-desktop-appearance/"><u>Resolving Edges' Continuous Desktop Appearance</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-unblock-windows-nvidia-setup-window/"><u>Strategies to Unblock Windows Nvidia Setup Window</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailoring-your-experience-using-w11s-auto-hdr/"><u>Tailoring Your Experience: Using W11's Auto HDR</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/to-replace-or-not-weighing-phone-and-pod-battery-lifespans/"><u>To Replace or Not: Weighing Phone & Pod Battery Lifespans</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-secure-password-vaults-elevating-windows-11-standards/"><u>Top Secure Password Vaults Elevating Windows 11 Standards</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-dsounddll-file-missing-error-on-your-pc/"><u>Troubleshooting the dsound.dll File Missing Error on Your PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-error-code-0x80071a90-in-windows/"><u>Unraveling Error Code 0X80071A90 in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/why-microsoft-family-safety-matters-for-parents/"><u>Why Microsoft Family Safety Matters for Parents</u></a></li>
 </ul></div>
 

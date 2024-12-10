@@ -1,7 +1,7 @@
 ---
 title: "Mastering Multi-OS Environments: Windows Host for Linux Virtual Machines"
-date: 2024-08-15T16:20:17.161Z
-updated: 2024-08-16T16:20:17.161Z
+date: 2024-12-03T16:32:11.336Z
+updated: 2024-12-10T20:40:36.017Z
 tags:
   - windows10
   - windows11
@@ -29,15 +29,13 @@ thumbnail: https://thmb.techidaily.com/7677f4cd9df16c6a66672a56bd970deac980e4b07
  Also, update the VMware Workstation Player to the latest version before you begin the installation method.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Create a Linux Virtual Machine Inside Windows Virtual Machine Using Hyper-V
 
  We will break the steps into three parts. Firstly, you must enable the virtualization features for the Windows virtual machine. Then you need to enable Hyper-V on this virtual machine. Lastly, you need to create a Linux virtual machine using Hyper-V.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Enable Virtualization for Windows Virtual Machine in VMware
 
 To enable Virtualization, do as follows:
@@ -47,9 +45,6 @@ To enable Virtualization, do as follows:
 3. The**Hardware** tab will open by default. Click on the**Processors** option.
 4. Locate the V**irtualize engine section** and click on**Virtualize Intel VT-x/EPT or AMD-V/RV** option.  
 ![Enable Virtualization for Windows Virtual Machine in VMware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/enable-virtualization-for-windows-virtual-machine-in-vmware.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 5. Click on the**OK** button to apply changes.
 
  Virtualization features are now active for the above Windows virtual machine. Next, you need to install Hyper-V.
@@ -65,6 +60,11 @@ To enable Virtualization, do as follows:
 5. Scroll down and click on the**Hyper-V** checkbox in the Windows Features list.  
 ![Install Hyper-V on the Windows Virtual Machine](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-hyper-v-on-the-windows-virtual-machine.jpg)
 6. Click on the**OK** button to install the feature on your system.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. **Restart** your system to apply changes when the installation completes.
 
  Hyper-V is now active on your Windows virtual machine. Next, you need to create a Linux virtual machine it.
@@ -78,10 +78,12 @@ To create an Ubuntu virtual machine, do as follows:
 1. Boot up the Windows virtual machine. Press the**Win key** and type Hyper-V manager. Launch the app.
 2. Navigate to the right-hand side section and click on**New > Virtual Machine** .  
 ![Create a Linux Virtual Machine Using Hyper-V 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/create-a-linux-virtual-machine-using-hyper-v-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click on the**Next** button. Enter the name of the virtual machine and click on**Next** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click on the**Generation 1** radio button and click on Next.
 5. Keep the**Startup Memory** as**2GB** and enable the**Use Dynamic memory for this virtual machine** option.  
 ![Create a Linux Virtual Machine Using Hyper-V 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/create-a-linux-virtual-machine-using-hyper-v-2.jpg)
@@ -89,8 +91,17 @@ To create an Ubuntu virtual machine, do as follows:
 7. Click on the**Create a virtual hard disk** option and allocate**20GB** to the virtual hard disk. Move to the next section.  
 ![Create a Linux Virtual Machine Using Hyper-V 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/create-a-linux-virtual-machine-using-hyper-v-3.jpg)
 8. Pick the**Install an operating system from a bootable CD/DVD-ROM** option located under the Installation options section. Select the Ubuntu Image file (.iso) you downloaded before beginning this step.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Create a Linux Virtual Machine Using Hyper-V 4](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/create-a-linux-virtual-machine-using-hyper-v-4.jpg)
 9. Click on the**Next** button and review the virtual machine configuration. Then, click on the**Finish** button to create the virtual machine.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now that the virtual machine is ready, it's time to get Ubuntu up and running:
 
@@ -102,9 +113,6 @@ To create an Ubuntu virtual machine, do as follows:
 6. Wait for the installation to complete. It may take longer if you have a SATA HDD installed on your system.
 7. The installer will prompt you to restart the system. Click on the**Restart Now** button.  
 ![Ubuntu Virtual Machine Running Using Hyper-V](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/ubuntu-virtual-machine-running-using-hyper-v.jpg)
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 
  The virtual machine will boot to the Ubuntu desktop. You can use Ubuntu and notice that the system runs fine inside Hyper-V just like it does on any other virtualization software.
 
@@ -116,21 +124,15 @@ To create an Ubuntu virtual machine, do as follows:
 
  Also, uninstall the Hyper-V feature if you don’t need it any further in your Windows virtual machine. Check out our guide on[how to disable or remove Hyper-V in Windows 11](https://www.makeuseof.com/windows-11-disable-hyper-v/) for more information.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## Use Virtual Machine Inside a Virtual Machine With Hyper-V
 
  VMware supports hardware virtualization and can extend the feature to its virtual machines. VirtualBox is yet to catch up in this aspect because Hyper-V doesn’t work in a VirtualBox virtual machine as of writing this post. Make sure that you turn off virtualization features for the Windows virtual machine when you no longer need it.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -139,4 +141,20 @@ To create an Ubuntu virtual machine, do as follows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-snap-and-share-the-brief-vlog-age/"><u>[New] 2024 Approved Snap & Share The Brief Vlog Age</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-spectacular-sportscasting-techniques-on-demand/"><u>[New] 2024 Approved Spectacular Sportscasting Techniques on Demand</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-maximizing-skype-quality-with-obs-studio-plugins/"><u>[New] Maximizing Skype Quality with OBS Studio Plugins</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-easy-guide-to-instagram-post-duplication/"><u>[Updated] In 2024, Easy Guide to Instagram Post Duplication</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/amazons-ultimate-prime-day-offers-for-202n-save-big-and-find-the-best-bargains/"><u>Amazon's Ultimate Prime Day Offers for 202N: Save Big and Find the Best Bargains!</u></a></li>
+<li><a href="https://windows11.techidaily.com/five-keys-to-unlock-frozen-windows-hibernate/"><u>Five Keys to Unlock Frozen Windows Hibernate</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-c12-pro-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from C12 Pro</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-vivo-y27-5g-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-vr-movie-experiences/"><u>In 2024, Exclusive VR Movie Experiences</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-application-setup-on-windows-11/"><u>Mastering the Art of Application Setup on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-fileshare-on-windows-11/"><u>Streamlining Fileshare on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackle-vbox-setup-head-on-devices-and-deps-first/"><u>Tackle VBox Setup Head-On: Devices and Deps First</u></a></li>
+<li><a href="https://windows11.techidaily.com/unwrapping-the-mystery-of-windows-store-error-code-0x80072efd/"><u>Unwrapping the Mystery of Windows Store Error Code 0X80072EFD</u></a></li>
+</ul></div>
 

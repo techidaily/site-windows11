@@ -1,7 +1,7 @@
 ---
 title: "Rewind and Restore: Key Applications for Changing Created/Modified Dates"
-date: 2024-08-15T16:18:27.381Z
-updated: 2024-08-16T16:18:27.381Z
+date: 2024-12-03T17:19:19.385Z
+updated: 2024-12-10T20:33:10.561Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/36b09f7ccaa9c81816aab7eda16cf8f7440a1a40a
 
  So, let’s check out some of the best apps that can help you change the created/modified date on Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. TimeStamp Changer
 
 ![TimeStamp Changer app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/timestamp-changer-app.jpg)
@@ -34,11 +38,16 @@ thumbnail: https://thmb.techidaily.com/36b09f7ccaa9c81816aab7eda16cf8f7440a1a40a
 
 **Download** : TimeStamp Changer for[Windows](https://www.softpedia.com/get/PORTABLE-SOFTWARE/System/File-management/TimeStamp-Changer.shtml) (Free)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. BulkFileChanger
 
 ![BulkFileChanger App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bulkfilechanger-app.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  BulkFileChanger is another lightweight app that doesn’t require any installation. Simply download the tool and run the relevant executable (.exe) file.
@@ -51,9 +60,6 @@ thumbnail: https://thmb.techidaily.com/36b09f7ccaa9c81816aab7eda16cf8f7440a1a40a
 
 **Download** : BulkFileChanger for[Windows](https://www.nirsoft.net/utils/bulk%5Ffile%5Fchanger.html) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ## 3\. Attribute Changer
 
 ![Attribute Changer App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/attribute-changer-app.jpg)
@@ -66,17 +72,9 @@ thumbnail: https://thmb.techidaily.com/36b09f7ccaa9c81816aab7eda16cf8f7440a1a40a
 
 **Download** : Attribute Changer for[Windows](https://www.petges.lu/download/) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ## 4\. NewFileTime
 
 ![NewFileTime App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/newfiletime-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 
  NewFile Time is an easy-to-use tool that comes with incredible features, like the "drag-and-drop" functionality and more.
 
@@ -87,6 +85,10 @@ The powerful video editing program for your Windows PC</a>
  Want your files to be a certain number of days older or younger than their current created/modified date? Click the**be older** or**be younger** tabs and then enter the relevant numbers in the**Days** boxes.
 
 **Download** : NewFileTime for[Windows](https://www.softwareok.com/?seite=Microsoft/NewFileTime) (Free)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. AttributeMagic
 
@@ -99,6 +101,10 @@ The powerful video editing program for your Windows PC</a>
  To change the file date and time, scroll to the**Date/Time** section and select the relevant options. Finally, press the**Apply** button in the bottom-left corner.
 
 **Download** : AttributeMagic for[Windows](https://www.elwinsoft.com/attributemagic-free.html) (Free)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. File & Folder Tools
 
@@ -116,6 +122,10 @@ The powerful video editing program for your Windows PC</a>
 
 ![The Change File Timestamps Window from the Bulk Rename Utility Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-change-file-timestamps-window-from-the-bulk-rename-utility-tool.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Bulk Rename Utility, as the name suggests, is a batch file renaming tool. But this app also offers a feature that allows you to change the created/modified dates for your files. Although its main interface is quite cluttered, we’ll show you how to use the tool in a few quick steps.
 
  To get started, open Bulk Rename Utility and click the**File** icon in the top-right corner (below the “AB” logo).
@@ -126,15 +136,9 @@ The powerful video editing program for your Windows PC</a>
 
 **Download** : Bulk Rename Utility for[Windows](https://www.bulkrenameutility.co.uk/Download.php) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ## 8\. Advanced Renamer
 
 ![Advanced Renamer App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/advanced-renamer-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Advanced Renamer is another tool whose main purpose is to help you easily[rename your files on Windows](https://www.makeuseof.com/windows-11-rename-files/) . But in addition to that, the tool helps you change your files’ timestamps.
 
@@ -144,23 +148,17 @@ The powerful video editing program for your Windows PC</a>
 
 **Download** : Advanced Renamer for[Windows](https://www.advancedrenamer.com/download) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Changing Your Files' Created/Modified Dates Is Easy
 
  Almost anyone with access to your PC can check the details of your files. For example, they can check your files' created/modified dates and other file attributes. Want to prevent others from discovering the real created or modified dates for your files? Check out any of the apps we’ve covered.
 
  And while you’re at it, be sure to explore other cool tricks, like how to delete files older than a certain number of days.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -169,4 +167,26 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-10-best-youtube-keyword-tools-to-get-more-views-for-2024/"><u>[New] 10 Best YouTube Keyword Tools to Get More Views for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-transform-tweets-into-files-iphoneandroid-instructional-guide/"><u>2024 Approved Transform Tweets Into Files IPhone/Android Instructional Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ensuring-your-ai-ally-chatgpt-is-up-and-at-em/"><u>Ensuring Your AI Ally, ChatGPT, Is Up and At 'Em</u></a></li>
+<li><a href="https://windows11.techidaily.com/file-organization-made-easy-configuring-win11s-auto-delete/"><u>File Organization Made Easy: Configuring Win11's Auto Delete</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-disconnections-in-external-display-setup-on-windows/"><u>Fixing Disconnections in External Display Setup on Windows</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-honor-play-7t-easily-by-drfone-android/"><u>How To Unlock a Honor Play 7T Easily?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-mastering-metaverse-access-top-8-vr-wearables/"><u>In 2024, Mastering Metaverse Access Top 8 VR Wearables</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-application-dependency-resolution-with-wpm/"><u>Mastering Application Dependency Resolution with WPM</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-11-default-programs-configuration/"><u>Mastering Windows 11 Default Programs Configuration</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/navigating-instagrams-reel-arena-with-precision/"><u>Navigating Instagram's Reel Arena with Precision</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-mastering-video-editing-a-guide-for-sony-camcorder-footage/"><u>New 2024 Approved Mastering Video Editing A Guide for Sony Camcorder Footage</u></a></li>
+<li><a href="https://windows11.techidaily.com/outsmarting-your-os-glitch-effective-script-solutions-for-windows/"><u>Outsmarting Your OS Glitch: Effective Script Solutions for Windows</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/risoluzione-guidata-dei-difficolta-con-le-carte-daccesso-rapido-in-windows-11-explorer/"><u>Risoluzione Guidata Dei Difficoltà Con Le Carte D'Accesso Rapido in Windows 11 Explorer</u></a></li>
+<li><a href="https://windows11.techidaily.com/securing-smooth-os-operation-via-pct-steps/"><u>Securing Smooth OS Operation via PCT Steps</u></a></li>
+<li><a href="https://windows11.techidaily.com/speeding-up-purchases-on-microsofts-digital-shelf/"><u>Speeding Up Purchases on Microsoft's Digital Shelf</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-best-selling-vr-gaming-experienences-on-oculus-for-2024/"><u>The Best-Selling VR Gaming Experienences on Oculus for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-speedy-windows-11-boot-turn-on-quick-startup/"><u>Tips for Speedy Windows 11 Boot: Turn on Quick Startup</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-windows-11-writability-creating-self-extractables/"><u>Unraveling Windows 11' Writability: Creating Self-Extractables</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Navigating the Resolution of Windows Store Error 0X80073D26
-date: 2024-11-27T16:29:00.883Z
-updated: 2024-12-03T20:09:49.211Z
+date: 2024-12-03T18:00:40.893Z
+updated: 2024-12-10T19:35:42.265Z
 tags:
   - windows10
   - windows11
@@ -39,15 +39,15 @@ thumbnail: https://thmb.techidaily.com/e0fa0d67e26442f6514904daf3cc23134382c2cc5
 
  You can run the same troubleshooter tool in Windows 10, but the steps for accessing it are a bit different. Click **Update & Security** \> **Troubleshoot** \> **Additional troubleshooters** in Windows 10’s Settings app. Then select **Windows Store Apps** \> **Run the troubleshooter** to get troubleshooting.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Repair and Reset the Microsoft Store App
 
  Accumulated and corrupted Microsoft Store cache data is a potential cause for error 0x80073D26\. Resetting the Microsoft Store app via Settings or the Command Prompt will clear the app’s data. Try applying both methods in this guide to resetting Microsoft Store. Also, select the **Repair** option for the Microsoft Store just above its **Reset** button in Settings to see if that resolves the issue.
 
 ![The Reset button for Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-button-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Edit the Registry
 
@@ -62,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/e0fa0d67e26442f6514904daf3cc23134382c2cc5
 5. Click the **GamingServicesNet** key with the mouse’s right button and select the **Delete** \> **Yes** options.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Exit Registry Editor and restart your PC.
@@ -79,10 +79,6 @@ thumbnail: https://thmb.techidaily.com/e0fa0d67e26442f6514904daf3cc23134382c2cc5
 ![The remove-app package command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/remove-app-package-command.jpg)
 5. Then input these separate commands, pressing **Return** after each:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServices" -recurse  
 
 Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -recurse` 
@@ -90,16 +86,12 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
 6. Close out of PowerShell to restart Windows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Reopen Powershell and execute the following command:  
 `start ms-windows-store://pdp/?productid=9MWPM2CQNLHN`
 8. Then click the **Get** button for installing Gaming Service.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Perform Some Generic Windows Fixes for Errors
 
@@ -116,12 +108,16 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
 ![The Services tab in MSConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-services-tab.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Another possibility is that a software conflict might be causing error 0x80073D26 to occur on your PC. Setting Windows to clean boot by disabling third-party startup items will likely eliminate such a potential cause. That will stop third-party apps and services that could be conflicting with the Microsoft Store from automatically starting.
 
  To apply this fix, check out this guide about [clean-booting Windows 10 or 11](https://www.makeuseof.com/clean-boot-windows-11/). Disable startup programs in Task Manager and services in MS Config as covered within that guide; then restart your PC and try installing Microsoft Store games again to see if the issue persists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Reinstall the Microsoft Store
 
@@ -130,6 +126,10 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
  Some users might need to reinstall the Microsoft Store to fix error 0x80073D26\. Such a resolution might be necessary for fixing wider issues with the Microsoft Store app other potential solutions don’t address.
 
  There isn’t a standard uninstall option available for Microsoft Store. So, you’ll have to reinstall that app with two PowerShell commands. Our guide about [how to reinstall the Microsoft Store](https://www.makeuseof.com/remove-reinstall-microsoft-store-windows-11/) tells you how to apply this potential fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Perform an In-Place Windows Upgrade
 
@@ -142,7 +142,7 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
 ![The Windows 11 Setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-11-setup-window2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also perform a Windows 10 in-place upgrade much the same. One difference is that you’ll need to download a Windows 10 Setup file by clicking **Download tool** on the [Microsoft Windows 10 download webpage](https://www.microsoft.com/en-gb/software-download/windows10). Then select **Upgrade this PC** now in the Windows 10 Setup wizard to install the latest version of the OS.
@@ -163,22 +163,22 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-a-deep-dive-into-apples-m1-processor-power/"><u>[New] A Deep Dive Into Apple's M1 Processor Power</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/athways-to-youtube-stardom-in-video-games-for-2024/"><u>[New] Pathways to YouTube Stardom in Video Games for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-breaking-limits-free-saves-for-your-story-loads/"><u>[Updated] Breaking Limits Free Saves for Your Story Loads</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-high-fidelity-game-recording-tools/"><u>[Updated] High Fidelity Game Recording Tools</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-elevating-your-live-experience-with-recorded-content/"><u>[Updated] In 2024, Elevating Your Live Experience with Recorded Content</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-ranking-the-most-effortlessly-successful-youtube-content/"><u>2024 Approved Ranking the Most Effortlessly Successful YouTube Content</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-potential-with-top-pixlr-editing-techniques/"><u>2024 Approved Unlocking Potential with Top Pixlr Editing Techniques</u></a></li>
-<li><a href="https://windows11.techidaily.com/expert-strategies-for-windows-activation-failure-0x803f700f/"><u>Expert Strategies for Windows Activation Failure: 0X803F700f</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/gameplay-enhancements-logitechs-sonic-surround/"><u>Gameplay Enhancements: Logitech's Sonic Surround</u></a></li>
-<li><a href="https://windows11.techidaily.com/masterful-manipulation-of-your-identity-name-on-windows-11/"><u>Masterful Manipulation of Your Identity Name on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-windows-errors-with-amd-195-setup/"><u>Mastering Windows Errors with AMD 195 Setup</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastery-over-maintaining-your-note-apps-data/"><u>Mastery Over Maintaining Your Note App's Data</u></a></li>
-<li><a href="https://windows11.techidaily.com/microsoft-family-safety-your-complete-reference/"><u>Microsoft Family Safety: Your Complete Reference</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-samsung-galaxy-a15-4g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Samsung Galaxy A15 4G Phone Now with These Tips</u></a></li>
-<li><a href="https://windows11.techidaily.com/reinitializing-windows-updates-a-step-by-step-guide/"><u>Reinitializing Windows Updates: A Step-by-Step Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlined-method-for-enabling-windows-11-calculator/"><u>Streamlined Method for Enabling Windows 11 Calculator</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlock-the-full-potential-of-windows-11s-tabbed-views/"><u>Unlock the Full Potential of Windows 11'S Tabbed Views</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-generate-brand-identity-accessible-logo-templates-and-editing/"><u>[New] In 2024, Generate Brand Identity Accessible Logo Templates & Editing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flair-and-finesse-in-your-gaming-youtube-channel/"><u>[Updated] 2024 Approved Flair and Finesse in Your Gaming YouTube Channel</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-tackling-video-upload-snags-your-pathway-to-success-on-fb-for-2024/"><u>[Updated] Tackling Video Upload Snags Your Pathway to Success on Fb for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/crafted-alerts-full-charge-on-your-win-pclaptop/"><u>Crafted Alerts: Full Charge on Your WIN PC/Laptop</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-non-starting-windows-speech-to-text-feature/"><u>Fixing Non-Starting Windows Speech to Text Feature</u></a></li>
+<li><a href="https://windows11.techidaily.com/immediate-fix-for-0x80072af9-in-windows-os/"><u>Immediate Fix for 0X80072AF9 in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/improving-workflow-integration-adding-shortcuts-to-the-wordpad-menu-of-windows-11/"><u>Improving Workflow Integration: Adding Shortcuts to the WordPad Menu of Windows 11</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-how-to-add-link-to-facebook-story-for-free/"><u>In 2024, How to Add Link to Facebook Story for Free?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-honor-70-lite-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Honor 70 Lite 5G Lock Screen Password?</u></a></li>
+<li><a href="https://windows11.techidaily.com/photoshop-power-users-guide-to-windows-keys/"><u>Photoshop Power-Users Guide to Windows Keys</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-error-code-3-nvidia-opengl-on-windows-1011/"><u>Resolving Error Code 3: NVIDIA OpenGL on Windows 10/11</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/skype-sessions-captured-effective-freepaid-windowsmac-methods/"><u>Skype Sessions Captured Effective Free/Paid Windows/Mac Methods</u></a></li>
+<li><a href="https://windows11.techidaily.com/start-stealth-mode-obscuring-win11s-power-button/"><u>Start Stealth Mode: Obscuring Win11's Power Button</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-5-best-practices-for-using-wsl-2-on-windows-10-and-11/"><u>The 5 Best Practices for Using WSL 2 on Windows 10 & 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-8-complimentary-iphone-music-applications-your-ultimate-guide/"><u>Top 8 Complimentary iPhone Music Applications: Your Ultimate Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/trusted-6-platforms-supporting-biz-success-stories/"><u>Trusted 6 Platforms Supporting Biz Success Stories</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Motorola Defy 2? | Dr.fone</u></a></li>
 </ul></div>
 

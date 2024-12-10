@@ -1,7 +1,7 @@
 ---
 title: Tackle Windows 11 Woes - Your Guide to Fixing 11 Issues
-date: 2024-08-15T16:21:21.948Z
-updated: 2024-08-16T16:21:21.948Z
+date: 2024-12-06T16:52:54.709Z
+updated: 2024-12-10T19:03:26.196Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/487e676cadbed9c7366304118c5d69cbccc78efab
 
  That said, there is always a workaround when it comes to the Windows OS running computers. You can[use a registry tweak to make an unsupported Windows 11 PC compatible](https://www.makeuseof.com/how-to-make-unsupported-windows-11-pc-compatible/) . But there is a catch.[Installing Windows 11 on incompatible PCs may make you ineligible for automatic updates](https://www.makeuseof.com/is-it-okay-install-windows-11-on-incompatible-pc/) . So, proceed with caution, as Windows 10 will continue to get security updates until late 2025.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Unable to Install Windows 11 Features Updates
 
  Even on Windows 11-compatible systems, you may run into the issue of Windows being unable to install updates. This will prevent you from installing the newer build version of Windows 11 OS successfully.
@@ -53,13 +57,15 @@ To run the audio troubleshooter:
  In case of Bluetooth audio issues, explore our guide to fix[Bluetooth audio not working on Windows 11](https://www.makeuseof.com/windows-11-bluetooth-audio-not-working/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. The Windows 11 Start Menu Is Not Working
 
 ![taskbar alighnment windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/taskbar-alighnment-windows-11.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  With Windows 11, the default alignment of the Start menu is moved to the center of your screen. This makes sense both aesthetically and practically for most users. And for the most part, it feels new and smoother than its predecessor.
@@ -75,8 +81,9 @@ To run the audio troubleshooter:
 ## 5\. The File Explorer Not Working on Windows 11
 
 ![restart file explorer process windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/restart-file-explorer-process-windows-11.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  File Explorer has been around since Windows 95\. It's an extremely handy file manager application making it a breeze to access your file folders on your PC. With Windows 11, Microsoft has made the venerable file manager even better.
@@ -90,13 +97,13 @@ To run the audio troubleshooter:
 
  If not, explore more ways to fix[File Explorer not opening on Windows](https://www.makeuseof.com/windows-file-explorer-not-opening/) here.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## 6\. Fixing Windows 11's Slow Performance
 
 ![disable startup apps windows 11 task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-startup-apps-windows-11-task-manager.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Officially, Windows 11 needs 4GB of RAM and 64GB of storage to install the OS. But in a real-case scenario, you will need at least 8 GB of RAM and preferably a 128GB SSD boot drive for a smooth day-to-day operation.
 
@@ -112,9 +119,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  You can likely fix performance issues with a few tweaks to your system settings and troubleshooting internal causes. In rare instances, you may need a hardware upgrade to boost your system performance.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Windows 11 Wi-Fi and Ethernet Connectivity Issues
 
  Another common issue you may encounter with Windows 11 is related to network connectivity. Irrespective of whether you are connected to a wireless or wired connection, network issues can occur due to several reasons.
@@ -126,18 +130,12 @@ To do this:
 1. Press**Win + I** to open**Settings** .
 2. Open the**Network & internet** tab and then click on**Advanced network settings.**  
 ![advanced network settings windows 11 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/advanced-network-settings-windows-11-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Scroll down and click on**Network reset.**  
 ![network reset reset now windows 11 reset now](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/network-reset-reset-now-windows-11-reset-now.jpg)
 4. Click**Reset** now to confirm the action.
 
  In an ideal setup, an Ethernet connection is likely to cause fewer issues. It is also easy to set up and offers better speed and less lag over a wireless network. That said if the wired connection starts to act up, follow these troubleshooting steps to[fix your Ethernet connection on Windows 11](http://www.makeuseof.com/windows-11-ethernet-not-working/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ## 8\. Windows 11 Screen Flashing, Flickering, Blurry, and Black Screen Problems
 
 ![check for windows update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/check-for-windows-update-1-2.jpg)
@@ -162,9 +160,6 @@ To do this:
 
  In addition, this can clutter the search dialog by showing unnecessary information. Fortunately, with the help of a registry tweak, you can[disable Bing web searches on Windows 11](https://www.makeuseof.com/windows-11-disable-bing-search/) .
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 10\. Disable Annoying Ads on Your Windows 11 Device
 
  Portable Windows 11 devices tend to come with some bloatware from the manufacturer installed. Apart from these, you may find some unnecessary apps recommendation in your Start menu on Windows 11.
@@ -172,11 +167,16 @@ To do this:
  Then there are more subtle forms of ads. You may find ads on the lock screen, start menu, device usage recommendations, notifications, and even in File Explorer. Fortunately, most of these ads can be turned off without much effort. Follow our detailed guide to[remove all the annoying ads on Windows 11](https://www.makeuseof.com/windows-11-remove-ads/) .
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 11\. Disable Windows 11's Automatic Updates
 
 ![Windows update blocker disable update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-update-blocker-disable-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Windows 11 automatically downloads critical updates to keep your computer up to date with new security patches and performance improvements. However, some updates can cause more issues than they resolve.
 
@@ -196,8 +196,6 @@ To do this:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -205,4 +203,21 @@ To do this:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-tips-for-gaining-attention-via-snapchat-star/"><u>[Updated] Tips for Gaining Attention via Snapchat Star</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/1-comprehensive-crackdown-chinese-anti-corruption-commission-uncovers-over-36k-cases-of-misconduct-in-public-welfare-nearly-52k-individuals-held-accountable57/"><u>1. Comprehensive Crackdown: Chinese Anti-Corruption Commission Uncovers Over 36K Cases of Misconduct in Public Welfare; Nearly 52K Individuals Held Accountable - Insights From YL Computing | YL Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/1-crafting-personalized-borders-in-excel-a-step-by-step-guide/"><u>1. Crafting Personalized Borders in Excel: A Step-by-Step Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-on-iphone-13-pro-max-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock On iPhone 13 Pro Max - 4 Easy Ways</u></a></li>
+<li><a href="https://windows11.techidaily.com/discover-microsoft-excels-innovative-integration-of-chatgpt-technology-for-enhanced-productivity/"><u>Discover Microsoft Excel's Innovative Integration of ChatGPT Technology for Enhanced Productivity</u></a></li>
+<li><a href="https://windows11.techidaily.com/easy-steps-for-changing-sheet-names-in-microsoft-excel/"><u>Easy Steps for Changing Sheet Names in Microsoft Excel</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-oppo-a56s-5g-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Oppo A56s 5G? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-se-2022-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone SE (2022) Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-keyword-optimization-in-podcast-seo/"><u>In 2024, Navigating Keyword Optimization in Podcast SEO</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-is-ipogo-not-working-on-realme-c33-2023-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Realme C33 2023? Fixed | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/solutions-for-restarting-frozen-obs-fullscreen/"><u>Solutions for Restarting Frozen OBS Fullscreen</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-poco-m6-pro-4g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Poco M6 Pro 4G to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-tutorial-on-leveraging-sumif-in-excel-techniques-and-strategies-for-effective-data-analysis/"><u>The Ultimate Tutorial on Leveraging SUMIF in Excel: Techniques and Strategies for Effective Data Analysis</u></a></li>
+<li><a href="https://windows11.techidaily.com/transform-your-productivity-microsoft-office-suite-available-in-immersive-quest-vr-experience/"><u>Transform Your Productivity: Microsoft Office Suite Available in Immersive Quest VR Experience!</u></a></li>
+</ul></div>
 

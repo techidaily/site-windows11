@@ -1,7 +1,7 @@
 ---
 title: Steps for Restoring Data Flow From Faulty USB On Windows
-date: 2024-08-08T06:14:34.370Z
-updated: 2024-08-09T06:14:34.370Z
+date: 2024-12-08T16:34:07.729Z
+updated: 2024-12-10T20:40:46.232Z
 tags:
   - windows10
   - windows11
@@ -24,13 +24,14 @@ thumbnail: https://thmb.techidaily.com/855eb1fbf7971ff96081545be670b71dd8396e6ec
 
 ![usb stick](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/usb-stick.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The simplest of solutions are often the most neglected ones. We say this often for a lot of tech things, so naturally, this holds for any kind of problems with a USB stick as well. If you’re unable to move the data with your USB stick, try unplugging it and putting it back in. You'd be surprised how often this simple trick does the job for you.
 
  It’s not uncommon for a USB drive to throw errors because you plugged it in improperly, or it didn't fit in all the way. As such, when you plug it back in, make sure it's seated nicely within the USB port.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Update Your USB Device's Drivers
 
  The USB driver is the set of instructions that lets your USB stick interact with Windows. In practical terms, this means without a proper driver installed, your USB stick is as good as a pebble for your PC.
@@ -44,8 +45,9 @@ thumbnail: https://thmb.techidaily.com/855eb1fbf7971ff96081545be670b71dd8396e6ec
  If Windows still can't find any drivers, then you can try locating them yourself. Take note of the manufacturer and model number
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Perform a Malware Scan
 
 ![malware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/malware.jpg)
@@ -55,8 +57,9 @@ thumbnail: https://thmb.techidaily.com/855eb1fbf7971ff96081545be670b71dd8396e6ec
  In most cases, a [quick scan with Microsoft Defender](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) is often enough to find and fix different malware on your PC. So give Microsoft Defender a go and see if that fixes the error.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Format Your USB Stick
 
  If the data transfer stopped in the middle of a process, then it’s very likely primarily a corruption issue. Like everything in tech, USB corruption can happen because of disruptions in a variety of ways—software, hardware, and so on.
@@ -67,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/855eb1fbf7971ff96081545be670b71dd8396e6ec
 
  And that’s it—when your USB stick will be formatted, you should be able to transfer your USB data to and from your Windows again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Restart Your PC
 
 ![windows booting-up](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-booting-up.jpg)
@@ -75,18 +82,12 @@ thumbnail: https://thmb.techidaily.com/855eb1fbf7971ff96081545be670b71dd8396e6ec
 
  So do a simple restart and see if that fixes your USB copying problem.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Check for Compatibility Issues
 
  Another addition to checking things out with the PC first, it’s often helpful to check the compatibility of whatever software or hardware you’re using with your PC. Remember that compatibility is often one of the first things you should check out when buying software or hardware for yourself.
 
  If you cannot transfer the data through your USB stick, then it’s pretty likely that the USB stick isn’t compatible with your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Try Out a Different USB Stick (or Plug It Into a Different PC)
 
  If you’ve tried your hand with all the methods and tricks from above but still cannot transfer your data from the USB stick, then there’s likely an issue with the USB stick itself.
@@ -98,15 +99,14 @@ thumbnail: https://thmb.techidaily.com/855eb1fbf7971ff96081545be670b71dd8396e6ec
  If none of them work, then it’s very likely a problem with the slot. Getting your PC examined by a tech specialist will be helpful in those cases.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Best Ways to Transfer Your Data to and From a Windows PC
 
  Transferring your files with USB is one of the best ways to move your files or other vital data. While it's true it isn’t the only method to do this, it’s fair to say it will stay prevalent for the foreseeable future. So problems with anything tech are going to stay no matter what. But problems in anything tech are typical, and your UBS drive is no different. Don’t worry, though. Try the above methods, and you will be good to go in no time.
 
  While USB data transferring errors happen for a variety of reasons, definite fixes exist that will get your copying back to normal in time. We’ve gone through a host of methods to get rid of debilitating errors for good, and below present you with the best one. Let’s start with the simplest one.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -114,3 +114,22 @@ thumbnail: https://thmb.techidaily.com/855eb1fbf7971ff96081545be670b71dd8396e6ec
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-ios-leading-video-capture-solutions/"><u>[New] IOS Leading Video Capture Solutions</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-next-gen-recording-iphoneipad-screens/"><u>2024 Approved Next-Gen Recording IPhone/iPad Screens</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-12-pro-max-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 12 Pro Max in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-no-audio-devices-in-windows/"><u>Addressing 'No Audio Devices' In Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-and-google-bard-head-to-head-determining-the-superior-conversational-ai/"><u>ChatGPT and Google Bard Head-to-Head: Determining the Superior Conversational AI</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-vivo-y200-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Vivo Y200</u></a></li>
+<li><a href="https://windows11.techidaily.com/preserving-calculator-precedence-on-windows-systems/"><u>Preserving Calculator Precedence on Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-win-ethernet-no-internet-error/"><u>Resolving Win Ethernet No Internet Error</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-docx-to-pdf-migration-for-windows-users/"><u>Step-by-Step DOCX to PDF Migration for Windows Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-best-free-skype-alternatives-of-2024/"><u>The Best Free Skype Alternatives of 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-encyclopedia-of-touch-based-gesture-analytics-for-2024/"><u>The Encyclopedia of Touch-Based Gesture Analytics for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-github-desktop-on-windows-11-os/"><u>The Ultimate Guide to GitHub Desktop on Windows 11 OS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-accessibility-enabling-and-disabling-windows-11s-on-screen-input-device/"><u>Unlocking Accessibility: Enabling and Disabling Windows 11'S On-Screen Input Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-wisdom-efficiently-eliminate-partitioned-areas-on-your-pc/"><u>Windows Wisdom: Efficiently Eliminate Partitioned Areas on Your PC</u></a></li>
+</ul></div>
+

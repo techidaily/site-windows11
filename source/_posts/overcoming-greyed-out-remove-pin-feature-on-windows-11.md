@@ -1,7 +1,7 @@
 ---
 title: Overcoming Greyed-Out Remove PIN Feature on Windows 11
-date: 2024-11-28T04:38:52.254Z
-updated: 2024-12-03T19:17:33.017Z
+date: 2024-12-05T21:04:15.411Z
+updated: 2024-12-10T20:42:56.006Z
 tags:
   - windows10
   - windows11
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/8467c9e20d909c3a99e5604c440b3f79e42d4e9a9
 ![Fingerprint key on a laptop keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Ways-to-Fix-Windows-Hello-Fingerprint-Not-Working-In-Windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In Windows 11, you can enable Windows Hello sign-in for Microsoft account to force users to use their PIN to log in. While a handy feature, for security reasons, it also disables the Remove PIN option for the device. To restore the Remove PIN option, you must disable the Windows Hello sign-in requirement. Here's how to do it.
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/8467c9e20d909c3a99e5604c440b3f79e42d4e9a9
 4. Here, scroll down to the**Related settings** section.
 5. Next, toggle the switch for the option **For improved security, only allow Windows Hello sign-in for Microsoft account on this device (Recommended)** and set it to**Off** .
 6. With the option disabled, you can now remove PIN for Windows 11.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Remove the PIN Using the I Forgot My PIN Window
 
@@ -64,10 +68,6 @@ To remove PIN using forgot my PIN:
 ![close your account requires windows hello pin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/close-your-account-requires-windows-hello-pin.jpg)
 8. Next, click the**Close** button to exit the**Your account requires a Windows Hello PIN** dialog.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 That's it! You have successfully removed the Windows Hello PIN.
 
 ## 3\. Turn Off the Passwordless Login Feature for Your Microsoft Account
@@ -87,18 +87,18 @@ That's it! You have successfully removed the Windows Hello PIN.
 2. Now scroll down to the**Additional security** section.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![additional security turn off passwordless account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/additional-security-turn-off-passwordless-account.jpg)
 3. Click on**Turn Off** for**Passwordless account.**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Next, follow the on-screen instruction to disable the features.
 5. Once done, you should be able to use the Remove PIN option in Settings.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Remove the PIN on Your Windows 11 PC
 
@@ -114,7 +114,7 @@ That's it! You have successfully removed the Windows Hello PIN.
 6. Enter your account password and click OK to remove the PIN.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix the Grayed-Out Remove PIN Option
@@ -136,22 +136,19 @@ That's it! You have successfully removed the Windows Hello PIN.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-improve-video-clarity-with-simplified-caption-steps/"><u>[Updated] Improve Video Clarity with Simplified Caption Steps</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-the-key-to-youtube-success-25-effective-promotion-methods/"><u>[Updated] In 2024, The Key to YouTube Success 25 Effective Promotion Methods</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-the-ultimate-snapchat-boomerang-handbook/"><u>[Updated] In 2024, The Ultimate Snapchat Boomerang Handbook</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-rectified-hidden-status-of-shorts/"><u>[Updated] Rectified Hidden Status of Shorts</u></a></li>
-<li><a href="https://fox-http.techidaily.com/exploring-mozillas-split-screen-technique-in-firefox-for-2024/"><u>Exploring Mozilla's Split Screen Technique in Firefox for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/fortify-your-files-embrace-weekly-windows-data-saves/"><u>Fortify Your Files: Embrace Weekly Windows Data Saves</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-branding-excellence-youtube-naming-masterclass/"><u>In 2024, Branding Excellence YouTube Naming Masterclass</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-the-playlist-puzzle-assembling-songs-in-new-spaces/"><u>In 2024, The Playlist Puzzle Assembling Songs in New Spaces</u></a></li>
-<li><a href="https://windows11.techidaily.com/mapmyride-reviewed-a-detailed-breakdown/"><u>MapMyRide Reviewed: A Detailed Breakdown</u></a></li>
-<li><a href="https://windows11.techidaily.com/maximizing-efficiency-shortcut-placement-in-win11-menu-bar/"><u>Maximizing Efficiency: Shortcut Placement in Win11 Menu Bar</u></a></li>
-<li><a href="https://windows11.techidaily.com/precision-setup-integrating-latest-network-drivers-from-intel-in-fedora/"><u>Precision Setup: Integrating Latest Network Drivers From Intel in Fedora</u></a></li>
-<li><a href="https://windows11.techidaily.com/seamless-audio-transmission-phones-and-windows-integration/"><u>Seamless Audio Transmission: Phones & Windows Integration</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/step-by-step-guide-to-earning-on-reddit-no-skills-required-for-2024/"><u>Step-by-Step Guide to Earning on Reddit - No Skills Required for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/tailoring-the-start-page-for-task-manager-windows-11/"><u>Tailoring the Start Page for Task Manager (Windows 11)</u></a></li>
-<li><a href="https://windows11.techidaily.com/title-tweaking-desktop-icons-separation-in-winxiplus10/"><u>Title: Tweaking Desktop Icons' Separation in WinXI+10</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211234544-9781637843840-together-with-my-sisters-begin-again/"><u>Together With My Sisters: Begin Again | Free Book</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-steps-to-alleviate-server-stumble-on-windows-store/"><u>Unveiling Steps to Alleviate Server Stumble on Windows Store</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flex-your-viewing-muscles-handling-multiple-youtube-videos/"><u>[Updated] 2024 Approved Flex Your Viewing Muscles Handling Multiple YouTube Videos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-step-by-step-guide-cut-off-youtube-shorts-link/"><u>[Updated] In 2024, Step-by-Step Guide Cut Off YouTube Shorts Link</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-immediate-window-image-retrieval-windows/"><u>2024 Approved Immediate Window Image Retrieval (Windows)</u></a></li>
+<li><a href="https://windows11.techidaily.com/cure-for-hidden-second-display-on-w11/"><u>Cure for Hidden Second Display on W11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-for-starcraft-ii-game-crashing-issues-on-windows/"><u>Fixes for StarCraft II Game Crashing Issues on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-mend-the-destructive-js-error-in-discord-on-win-11-pcs/"><u>How to Mend the Destructive JS Error in Discord on Win 11 PCs</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-rise-to-youtube-prominence-top-strategies-at-a-glance/"><u>In 2024, Rise to YouTube Prominence Top Strategies at a Glance</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-troubleshooting-overcoming-error-e84-on-steam/"><u>Mastering the Art of Troubleshooting: Overcoming Error E84 on Steam</u></a></li>
+<li><a href="https://win-blog.techidaily.com/monster-hunter-rise-failed-to-open-heres-the-remedy/"><u>Monster Hunter Rise Failed to Open? Here's the Remedy</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-challenges-in-nba-2k24-a-step-by-step-guide-to-fixing-error-code-727e66ac-insights-for-gamers/"><u>Overcoming Challenges in NBA 2K24: A Step-by-Step Guide to Fixing Error Code 727E66ac - Insights for Gamers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-noise-problems-effective-ways-to-hear-on-discord-again/"><u>Overcoming Noise Problems: Effective Ways to Hear on Discord Again</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-offline-errors-for-windows-11s-printer-port/"><u>Resolving Offline Errors for Windows 11'S Printer Port</u></a></li>
+<li><a href="https://windows11.techidaily.com/swiftly-overcoming-disruptions-after-a-windows-update/"><u>Swiftly Overcoming Disruptions After a Windows Update</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Master the Art of Remedying Voice Typing Flaws in Windows 11
-date: 2024-08-15T16:17:27.735Z
-updated: 2024-08-16T16:17:27.735Z
+date: 2024-12-05T21:03:04.852Z
+updated: 2024-12-10T20:49:02.938Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/3ca289f4707af5e0ebcc0fe8b2f301906af8c014f
 
  As a result, users can’t input text with voice typing. Sure, you can always use your keyboard for word processing; but those who need to fix this issue no doubt prefer speech-to-text dictation. This is how you can fix the 0x80049dd Voice Typing error in Windows 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Run the Recording Audio and Speech Troubleshooters
 
  Windows 11 includes two troubleshooters that could come in handy for fixing the 0x80049dd3 error. The Recording Audio troubleshooter can resolve sound recording issues. Or you can try running the Speech troubleshooter, which is a slightly more specific one for fixing microphone-related errors. You can open the recording troubleshooting tool in the following steps:
@@ -29,8 +33,17 @@ thumbnail: https://thmb.techidaily.com/3ca289f4707af5e0ebcc0fe8b2f301906af8c014f
 3. Next, click**Other trouble-shooters** to view that part of Settings.  
 ![The Run button for the Recording Audio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/run-button-for-recording-audio.jpg)
 4. Select the Recording Audio troubleshooter’s**Run** option.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Run button for the Recording Audio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/run-button-for-recording-audio.jpg)
 5. Click**Apply this fix** for any solutions suggested by the Recording Audio troubleshooter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Speech troubleshooter is available in Windows 11’s Control Panel. This is how you can access that troubleshooter:
 
@@ -44,11 +57,13 @@ thumbnail: https://thmb.techidaily.com/3ca289f4707af5e0ebcc0fe8b2f301906af8c014f
 7. Select**Speech** to open it.  
 ![The troubleshooting list in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-troubleshooter-list-in-control-panel.jpg)
 8. Press the Speech troubleshooter’s**Next** button to detect and fix issues.  
-![The Speech troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-speech-troubleshooter.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![The Speech troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-speech-troubleshooter.jpg)
+
 ## 2\. Check for Windows 11 Updates
 
  Microsoft has reputedly acknowledged error 0x80049dd3, which means the big M may have released a patch update that addresses it. Windows is usually automatically updated, but there might still be some available updates your PC is missing. So, check for and install all available Windows 11 updates like this:
@@ -57,18 +72,16 @@ thumbnail: https://thmb.techidaily.com/3ca289f4707af5e0ebcc0fe8b2f301906af8c014f
 2. Next, click**Windows Update** to view that tab’s options.
 3. Press**Check for updates** to see what Windows 11 updates, if any, are available.  
 ![The Check for updates option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-check-for-updates-button.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 4. Click the**Download and install** buttons for any available Windows 11 updates. That includes the Windows 11 22H2 build update if it is available for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Select**Advanced options** \>**Optional updates** to view other patches.  
 ![The Download & install button for optional updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-download--install-button.jpg)
 6. Then select the checkboxes for updates listed there, and click the**Download and install** options.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Check the Settings for Your Microphone
 
  Windows 11’s Settings app includes microphone access options that need to be enabled for voice typing to work. Double-check that microphone access is enabled for all apps you want to utilize for voice typing. This is how you can enable mic access in Windows 11:
@@ -84,6 +97,10 @@ The ultimate burning program for all your needs!</a>
 
  It’s also recommended to try setting up the mic again from Settings. To do that, select**Speech** on the**Time & language** tab in Settings. Click the**Get started** button for setting up Microphone speech recognition. Then go through the setup instructions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Update the Driver for Your Microphone
 
  You might need to fix error 0x80049dd3 because your PC’s microphone has an outdated or corrupted driver. An easy way to check if that’s the case is to run a scan with a third-party tool like Driver Booster.
@@ -92,9 +109,6 @@ The ultimate burning program for all your needs!</a>
 
 ![The Driver Booster software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-driver-booster-software.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Set Up a New User Account
 
  Creating a new user account is among the most widely confirmed solutions for error 0x80049dd3\. Thus, this error is seemingly often a user account issue. Try setting up and switching to a new user account in the following steps:
@@ -114,24 +128,20 @@ The ultimate burning program for all your needs!</a>
 4. Click the new account’s down arrow in Settings to expand it.
 5. Press the**Change account type** button for your new account.  
 ![The Change account type button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-change-account-type-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Select the**Administrator** option on the Change account type window, and click**OK** to save.  
 ![The Administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-administrator-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Sign out of Windows 11 and log in to the newly created user account.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Try using voice typing in your new user account.
 
  If this solution works, you can transfer your user files to the new account. To do that, you’ll need to copy all the data from an old user account folder and paste it into the new one with the**Ctrl** +**C** and**Ctrl** +**V** hotkeys. You can copy data from your old account into the new one at these folders paths:
 
 `C:\Users\<Old_Username>\nC:\Users\<New_Username>`
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Reset Your Network Connection
 
  Network connectivity issues are another potential cause for error 0x80049dd3\. So, resetting network components could help some users resolve this issue. You can reset your network adapter via Settings in the following steps:
@@ -145,8 +155,9 @@ The ultimate burning program for all your needs!</a>
 6. Then you’ll need to reconnect your PC to the internet.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Get Voice Typing Again on Windows 11
 
  You’ll probably be able to resolve error 0x80049dd3 in Windows 11 with the potential fixes above. In many cases, this is a Windows user account issue that changing accounts will resolve. However, you can also try fixing a corruption error for an existing user account with the DISM, SFC, and System Restore tools. With error 0x80049dd3, resolved, you can then resume speech-to-text voice typing again.
@@ -157,8 +168,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +175,20 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-creator-payment-frequency-on-youtube-platform/"><u>[New] In 2024, Creator Payment Frequency on YouTube Platform</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-itop-reviewed-leading-pc-screen-recorders-face-off-for-2024/"><u>[Updated] ITop Reviewed Leading PC Screen Recorders Face Off for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-your-online-presence-by-mastering-video-editing-in-sony-vegas/"><u>Boost Your Online Presence by Mastering Video Editing in Sony Vegas</u></a></li>
+<li><a href="https://windows11.techidaily.com/glass-and-keys-to-tomorrow-windows-12-vision/"><u>Glass and Keys to Tomorrow: Windows 12 Vision</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-use-lav-filters-on-windows-and-what-they-do/"><u>How to Use LAV Filters on Windows, and What They Do</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/instant-title-insertion-for-your-videos-on-windows-photos/"><u>Instant Title Insertion for Your Videos on Windows Photos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/introduction-mastering-zoom-sessions-split/"><u>Introduction Mastering Zoom Sessions Split</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722882610381-oneplus-9t-expectations-projected-costs-release-timing-and-specs-insights-and-rumors-unfold/"><u>OnePlus 9T Expectations: Projected Costs, Release Timing, and Specs – Insights & Rumors Unfold!</u></a></li>
+<li><a href="https://windows11.techidaily.com/push-back-from-intense-contrast-in-windows-ui/"><u>Push Back From Intense Contrast in Windows UI</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailoring-computer-slumber-for-optimal-performance/"><u>Tailoring Computer Slumber for Optimal Performance</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-ultimate-digital-library-year-round-free-texts-for-2024/"><u>The Ultimate Digital Library Year-Round Free Texts for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-fix-unblocking-windows-11-logins/"><u>The Ultimate Fix: Unblocking Windows 11 Logins</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-a-blue-screen-free-windows-11-top-strategies-for-success/"><u>Unlock a Blue-Screen Free Windows 11: Top Strategies for Success</u></a></li>
+</ul></div>
 

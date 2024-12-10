@@ -1,7 +1,7 @@
 ---
 title: Why Do Computers Have a Windows Batch File?
-date: 2024-08-15T16:19:59.379Z
-updated: 2024-08-16T16:19:59.379Z
+date: 2024-12-08T21:39:45.048Z
+updated: 2024-12-10T18:33:31.450Z
 tags:
   - windows10
   - windows11
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/a929b0d993c705dcd1293af7219e5e597567df393
 
  Deleting the hidden "$Windows.\~BT" folder and recovering gigabytes of space on your hard drive is tempting. But what is this cryptically named folder for, and how critical is it to your Windows installation?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is the “$Windows.\~BT” Folder, and Should You Delete It?
 
  Windows creates the "$Windows.\~BT" folder when you upgrade the operating system to a newer build. This folder contains all the essential files for the upgrade process, like temporary installation files and logs from the previous Windows installation.
@@ -27,8 +31,9 @@ thumbnail: https://thmb.techidaily.com/a929b0d993c705dcd1293af7219e5e597567df393
  But you shouldn't just delete this hidden folder like any other folder on the desktop. Instead, you should turn to the Disk Cleanup tool or the Command Prompt.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Find and Delete the "$Windows.\~BT" Folder
 
  As "$Windows.\~BT" is a hidden folder, you need to [configure Windows to show hidden files and folders](https://www.makeuseof.com/windows-11-show-hidden-files-folders/) to find it in File Explorer. Once you do, the **C:\\$Windows.\~BT** directory will become visible.
@@ -43,8 +48,9 @@ thumbnail: https://thmb.techidaily.com/a929b0d993c705dcd1293af7219e5e597567df393
 6. Click **OK**.
 7. Choose **Delete Files** to confirm.  
 ![Delete the $Windows.~BT Folder Using the Disk Cleanup Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/delete-the-windows-bt-folder-using-the-disk-cleanup-tool.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the "$Windows.\~BT" folder shows up even after you run the Disk Cleanup tool, you'll need to execute a few commands in Command Prompt. For that, [open Command Prompt with administrative rights](https://www.makeuseof.com/windows-run-command-prompt-admin/) and then run the following commands one by one.
@@ -57,11 +63,29 @@ rmdir /S /Q C:\$Windows.~BT\`
 
  Now that you understand the purpose of the "$Windows.\~BT" folder, you can decide how to handle it. Beyond the "$Windows.\~BT" folder, you may also come across folders like "Windows.old," "$WinREAgent," "$SysReset," and others which can also be deleted safely using the Disk Cleanup tool.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-top-8-best-screen-recorders-with-no-lag/"><u>[New] 2024 Approved Top 8 Best Screen Recorders with No Lag</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-ironborn-chimes-expertly-selected-spots-for-tts-downloads/"><u>[Updated] Ironborn Chimes Expertly Selected Spots for TTS Downloads</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-snapshots-of-success-recording-your-switch-gaming/"><u>2024 Approved Snapshots of Success Recording Your Switch Gaming</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fix-for-incompatible-hd-audio-in-new-windows-release/"><u>Fix for Incompatible HD Audio in New Windows Release</u></a></li>
+<li><a href="https://windows11.techidaily.com/note-taking-evolution-embracing-obsidian-canvas/"><u>Note-Taking Evolution: Embracing Obsidian Canvas</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-unfreezing-stuck-spotify-app-in-win11-pcs/"><u>Quick Guide: Unfreezing Stuck Spotify App in Win11 PCs</u></a></li>
+<li><a href="https://facebook.techidaily.com/staying-safe-from-social-engineering-snares/"><u>Staying Safe From Social Engineering Snares</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-boost-utorrent-downloads-in-windows/"><u>Strategies to Boost uTorrent Downloads in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-the-troubled-waters-of-outlooks-winerror-x/"><u>Tackling the Troubled Waters of Outlook's WinError X</u></a></li>
+<li><a href="https://windows11.techidaily.com/tech-nostalgia-unleashed-windows-11-to-the-past/"><u>Tech Nostalgia Unleashed: Windows 11 to the Past</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-5-best-fixes-for-hiberatus-computers/"><u>The 5 Best Fixes for Hiberatus Computers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/top-picks-and-tips-for-thriving-in-valheim/"><u>Top Picks & Tips for Thriving in Valheim</u></a></li>
+<li><a href="https://windows11.techidaily.com/tweaking-windows-lockscreensaver-timer/"><u>Tweaking Windows Lock/Screensaver Timer</u></a></li>
+<li><a href="https://fox-info.techidaily.com/windowed-guide-windows-movie-maker-60-preparation/"><u>Windowed Guide Windows Movie Maker 6.0 Preparation</u></a></li>
+<li><a href="https://solve-help.techidaily.com/winxdvd-utilisateur-ameliorer-sa-connaissance-avec-le-manuel-complet-explique/"><u>WinXDVD Utilisateur Améliorer Sa Connaissance Avec Le Manuel Complet Expliqué</u></a></li>
+</ul></div>
+

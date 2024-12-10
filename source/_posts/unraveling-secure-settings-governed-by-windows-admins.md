@@ -1,7 +1,7 @@
 ---
 title: Unraveling Secure Settings Governed by Windows Admins
-date: 2024-08-08T06:15:31.875Z
-updated: 2024-08-09T06:15:31.875Z
+date: 2024-12-09T17:27:16.359Z
+updated: 2024-12-10T16:41:26.579Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/c2d843fc2e375187b2194dd914e4e340539dd6293
 
  That issue has little to do with admin rights. Many users who encounter the issue are already utilizing Windows administrator accounts. This is how you can fix the “setting is managed by your administrator” error in Windows 11.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Check for and Install Available Windows 11 Updates
 
  Although not the most likely potential solution, some users have said installing available Windows 11 updates helped them resolve this error. Patchers for Windows 11 usually address Windows bugs reported by users.
@@ -33,25 +30,22 @@ thumbnail: https://thmb.techidaily.com/c2d843fc2e375187b2194dd914e4e340539dd6293
 
  Users who’ve fixed the “setting is managed by your administrator” error have confirmed resetting the Windows Security and Settings apps can work. Resetting those apps will clear their data. You can reset Windows Security via Settings, as outlined in our[how to reset apps on Windows](https://www.makeuseof.com/windows-reset-app/) guide.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![The Reset button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-reset-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To reset Settings, you must open the Start menu and right-click the app’s shortcut. Select**App settings** to bring up some troubleshooting options for it. Then select the**Reset** troubleshooting option for the app.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Uninstall Third-Party Antivirus Software
 
  Some third-party antivirus utilities can disable Windows Security features they effectively replace. If you’ve installed an overlapping third-party antivirus product, uninstalling it may resolve Windows Security’s administrator error. Uninstall antivirus software with a method within our guide on[how to remove Windows programs](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) to see if that resolves the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![The uninstaller tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-uninstaller-tool.jpg)
 
  Should this solution work, the issue will likely reoccur if you reinstall the same third-party antivirus virus software. Then you would have to choose between using the third-party antivirus utility or Windows Security.
@@ -80,17 +74,16 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 3. Then select**Computer Configuration** to extend that category.
 4. Double-click**Administrative Template** to access several setting categories.
 5. Next, double-click**Windows Components** \>**Microsoft Defender Antivirus** \>**Real-time Protection** in the navigation sidebar.  
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![The Real-time Protection policy settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-real-time-protection-policy-settings.jpg)
 6. Double-click any policy setting that’s with an enabled state.
 7. Then select the**Not configured radio** button.  
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Not Configured radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/not-configured-option.jpg)
 8. Click**Apply** \>**OK** in the window to set the change.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 9. Repeat the previous three steps for all real-time protection policies set to enabled.
 
 ## 6\. Reinstall Windows Security
@@ -104,6 +97,10 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 3. Press**Enter** and wait for the command to finish.
 4. Restart your laptop or desktop from the Start menu.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Reinstall Windows 11 With the Media Creation Tool
 
  Reinstalling Windows 11 by downloading an ISO with Media Creation Tool is a drastic potential solution. However, users have confirmed updating Windows 11 in such a way works for fixing this error. Furthermore, you can select to preserve apps and files when reinstalling. This is how to reinstall Windows 11:
@@ -115,16 +112,19 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 4. Select**Next** to initiate a system check.
 5. Press the**Accept** button for the license terms.
 6. The**Keep personal files and apps** option will probably be set by default at the ready-to-install stage. However, you click**Change what to keep** to make sure the**Keep personal files and apps** option is selected.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![The Keep personal files and apps radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/keep-personal-files-option.jpg)
 7. Then select**Next** to proceed to the last step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Click**Install** to reinstall Windows 11.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Change Windows Security’s Settings Again
 
  Those are the most widely cited ways to fix the “setting is managed by your administrator” error in Windows 11\. So, applying those potential resolutions will probably resolve the “setting is managed by your administrator” issue on your PC. Then you’ll be able to set all the options within Windows Security as required.
@@ -135,8 +135,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +142,21 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-bring-your-vision-online-mobilizing-content-creation-with-ease-and-simplicity/"><u>[New] 2024 Approved Bring Your Vision Online Mobilizing Content Creation with Ease and Simplicity</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-elevate-creations-get-free-high-quality-templates-today-for-2024/"><u>[New] Elevate Creations - Get FREE High-Quality Templates Today for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-a-comprehensive-introduction-to-color-grading-with-luts/"><u>[Updated] A Comprehensive Introduction to Color Grading with LUTs</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-exclusive-screensaver-pro-for-smartphones/"><u>[Updated] In 2024, Exclusive ScreenSaver Pro for Smartphones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-platforms-for-amplifying-youtube-content/"><u>2024 Approved Top Platforms for Amplifying YouTube Content</u></a></li>
+<li><a href="https://win-web.techidaily.com/einfach-klassisch-wie-man-iphones-durch-bluetooth-miteinander-verbindet-um-musik-zu-teilen/"><u>Einfach Klassisch: Wie Man iPhones Durch Bluetooth Miteinander Verbindet, Um Musik Zu Teilen</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-search-of-quality-identifying-the-top-5-virtual-title-designers/"><u>In 2024, In Search of Quality Identifying the Top 5 Virtual Title Designers</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-windows-11-to-launch-outlook-preview/"><u>Navigating Through Windows 11 to Launch Outlook Preview</u></a></li>
+<li><a href="https://extra-information.techidaily.com/screencentral-exclusive-global-views-with-homeside-links/"><u>ScreenCentral Exclusive Global Views with Homeside Links</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamlessly-updating-amd-with-windows-oss-versions-included/"><u>Seamlessly Updating AMD with Windows OSs, Versions Included</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-content-unreachable-issue-with-steam-desktop-client/"><u>Solving Content Unreachable Issue with Steam Desktop Client</u></a></li>
+<li><a href="https://windows11.techidaily.com/uncomplicated-upgrade-the-essence-of-windows-11-installation/"><u>Uncomplicated Upgrade: The Essence of Windows 11 Installation</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-best-matched-nvidia-drivers-gaming-studios/"><u>Unveiling Best Matched Nvidia Drivers – Gaming, Studios</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-11-solutions-for-unzipped-files-woes/"><u>Win 11: Solutions for Unzipped Files Woes</u></a></li>
+</ul></div>
 

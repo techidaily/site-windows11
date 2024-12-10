@@ -1,7 +1,7 @@
 ---
 title: How to Stop Recurring Windows Settings Crashes
-date: 2024-12-01T00:03:55.096Z
-updated: 2024-12-03T19:29:59.471Z
+date: 2024-12-04T18:53:42.754Z
+updated: 2024-12-10T18:46:44.883Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/499d16f8fa9d73db2896cc95dd1103614d6afb1a8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Is the Settings App Crashing on Windows?
 
  If the Settings app is crashing on Windows, it may be because of one of the following reasons:
@@ -44,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/499d16f8fa9d73db2896cc95dd1103614d6afb1a8
 
 If the issue persists, move to the next method below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Update Windows
 
  The next thing that you should do is update the operating system to the latest build available. A compatibility issue caused by an outdated system may be causing the problem, which can be fixed by installing the pending updates.
@@ -61,10 +61,6 @@ Here is all that you need to do:
 4. After the updates are installed, restart your system and check if the issue is resolved.
 
  In some rare cases, the issue can also start occurring after installing an update. This typically happens when the update itself was corrupt. If this scenario applies to you, you can[uninstall the installed Windows update](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) and then check if that makes any difference.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Update Your Drivers
 
@@ -81,12 +77,16 @@ Follow these steps to proceed:
 ![Search automatically for drivers option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/display-adapter-search-automatically-for-drivers.jpg)
 5. Once found, follow the on-screen instructions to install it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Finally, restart your computer to implement the changes.
 
  Alternatively, you can also choose an updated driver manually by choosing the**Browse my computer for drivers** option in the 4th step. If an outdated driver is a culprit, this should resolve the problem in no time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Reset or Re-Register the Settings App
@@ -102,13 +102,13 @@ Here is all that you need to do:
 ![Choose App Settings from the context menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/taskbar-windows-icon-app-settings.jpg)
 3. In the following window, head over to the**Reset** section. You will have two options here; Repair and Reset.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. First, click on**Repair** and once the process is completed, check if the problem is fixed.
 5. If not, click on**Reset** and follow the on-screen instructions to proceed.  
 ![Repair or reset the application](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/app-settings-reset-and-repair.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To re-register the app, follow these steps:
 
@@ -120,7 +120,7 @@ Get-AppxPackage *windows.immersivecontrolpanel* | Reset-AppxPackage
 4. Finally, close the Powershell window and reboot.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Hopefully, this should fix the problem once and for all.
@@ -144,18 +144,16 @@ Hopefully, this should fix the problem once and for all.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-elevating-your-photos-using-photoshops-radial-toolkit/"><u>[New] Elevating Your Photos Using Photoshop's Radial Toolkit</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/nderstanding-and-proficiently-implementing-cc-rights-for-2024/"><u>[New] Understanding and Proficiently Implementing CC Rights for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-oppo-a59-5g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Oppo A59 5G Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/a-compre-written-by-chloe-miller/"><u>A Compre Written by Chloe Miller</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-uninstall-programs-on-windows-11/"><u>How to Uninstall Programs on Windows 11</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Vivo Y200e 5G? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-one-way-outlook-on-safe-windows-mode/"><u>Overcoming One-Way Outlook on Safe Windows Mode</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/probing-the-capabilities-of-ffmpeg-in-maintaining-audible-formats/"><u>Probing the Capabilities of FFmpeg in Maintaining Audible Formats</u></a></li>
-<li><a href="https://windows11.techidaily.com/separate-icons-simplify-win-11-ui/"><u>Separate Icons, Simplify Win 11 UI</u></a></li>
-<li><a href="https://windows11.techidaily.com/skyrocket-above-the-100mbps-ethernet-threshold-in-windows/"><u>Skyrocket Above the 100Mbps Ethernet Threshold in Windows</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/taking-down-the-veil-youtubes-most-elusive-videos-for-2024/"><u>Taking Down the Veil YouTube's Most Elusive Videos for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/time-capsule-trick-the-use-of-windows-7-key-for-activating-11/"><u>Time Capsule Trick: The Use of Windows 7 Key for Activating 11</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/turn-your-youtube-videos-into-lively-gifs-without-saving-files-for-2024/"><u>Turn Your YouTube Videos Into Lively GIFs Without Saving Files for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-essential-android-gb-advance-emulator-list/"><u>[New] In 2024, Essential Android GB Advance Emulator List</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-streamlining-live-gaming-footage-with-apps/"><u>[New] In 2024, Streamlining Live Gaming Footage with Apps</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-vivo-y56-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Vivo Y56 5G</u></a></li>
+<li><a href="https://windows11.techidaily.com/dial-up-speed-strategies-to-revive-your-sluggish-pc/"><u>Dial Up Speed: Strategies to Revive Your Sluggish PC</u></a></li>
+<li><a href="https://win-community.techidaily.com/guia-paso-a-paso-para-recuperar-documentos-borrados-en-la-papelera-de-reciclaje-gratis-con-metodos-no-tradicionales/"><u>Guía Paso a Paso Para Recuperar Documentos Borrados en La Papelera De Reciclaje, Gratis Con Métodos No Tradicionales</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/identifying-your-gpu-a-step-by-step-guide-to-finding-graphics-card-details-tech-insights/"><u>Identifying Your GPU: A Step-by-Step Guide to Finding Graphics Card Details - Tech Insights</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-mastering-screen-capture-bandicam-vs-camtasia-battle/"><u>In 2024, Mastering Screen Capture Bandicam Vs. Camtasia Battle</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-this-file-is-alone-error-on-pcs/"><u>Overcoming This File Is Alone Error on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/reset-chronology-fix-windows-time-errors/"><u>Reset Chronology: Fix Windows Time Errors</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-a-guide-to-latest-hardware/"><u>Tom's Tech Review: A Guide to Latest Hardware</u></a></li>
+<li><a href="https://windows11.techidaily.com/visualize-resource-consumption-windows-tray-update-guide/"><u>Visualize Resource Consumption: Windows Tray Update Guide</u></a></li>
 </ul></div>
 

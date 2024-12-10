@@ -1,7 +1,7 @@
 ---
 title: "Mastering PowerShell: Clearing Blocked Files in Windows"
-date: 2024-11-30T00:09:54.852Z
-updated: 2024-12-03T16:54:40.173Z
+date: 2024-12-04T21:21:44.659Z
+updated: 2024-12-10T20:45:17.693Z
 tags:
   - windows10
   - windows11
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/3bbe537e8e6d43ee38a009c5ba9253564dbe37ab4
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How Do I Unblock Multiple Files Using PowerShell on Windows?
 
  You can easily unblock a file by right-clicking on it and going to**Properties** — If you're on Windows 11, you'll need to click**Show more options** first before you can see the**Properties** option in the context menu. And once you're there, select the**General** tab and tick**Unblock** at the bottom in the**Security** section.
@@ -34,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/3bbe537e8e6d43ee38a009c5ba9253564dbe37ab4
 ![unblocking a file in Properties on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/unblock-file-properties-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  But what if you have more than one file you need to unblock? Doing this one by one can get tedious. Alternatively, you can execute a single PowerShell command to unblock multiple files in a directory. Here is the command structure you need to use:
@@ -46,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/3bbe537e8e6d43ee38a009c5ba9253564dbe37ab4
 ![copying file path on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/copy-as-path-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  With the file path handy, follow the instructions below to use the unblock command in PowerShell:
@@ -58,15 +54,19 @@ thumbnail: https://thmb.techidaily.com/3bbe537e8e6d43ee38a009c5ba9253564dbe37ab4
 4. You will be asked to confirm each file you want to unblock, so type either**Y** for**Yes** or**N** for**No** and hit the**Enter** key. This confirmation step is due to the**\-confirm** portion of the command. It is completely optional, and you can omit it or type**A** to confirm all the files in the directory.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![confirming files to unblock in PowerShell on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/power-shell-unblock-files-confirm.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  There’s a way you can tell Windows to always trust files you download from the internet. To do that, please read our guide on[how to stop Windows 10 from blocking your downloaded files](https://www.makeuseof.com/stop-windows-10-from-blocking-your-downloaded-files/) . The instructions in the tutorial use the Registry Editor and Local Group Policy Editor, so they should also work on Windows 11.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Now You Know How to Unblock Files You Know Are Safe
@@ -88,18 +88,20 @@ thumbnail: https://thmb.techidaily.com/3bbe537e8e6d43ee38a009c5ba9253564dbe37ab4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-essential-guide-to-tracking-igtv-viewership-metrics/"><u>[Updated] 2024 Approved The Essential Guide to Tracking IGTV Viewership Metrics</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-how-to-create-impactful-valorant-thumbnails-a-compreayers-guide-for-2024/"><u>[Updated] How to Create Impactful Valorant Thumbnails A Compreayer's Guide for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-unlocking-virtual-meetings-googles-facetime-tutorial-for-2024/"><u>[Updated] Unlocking Virtual Meetings Google's Facetime Tutorial for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-premier-listing-sierras-best-video-maker-apps/"><u>2024 Approved Premier Listing Sierra's Best Video Maker Apps</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/debating-digital-domains-obs-versus-twitch/"><u>Debating Digital Domains OBS Versus Twitch</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-g310-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on G310</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-tecno-spark-20c-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Tecno Spark 20C Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-discord-fatal-javascript-error-in-windows-11-and-11/"><u>How to Fix the Discord Fatal Javascript Error in Windows 11 & 11</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-anonymizing-faces-a-compendium-of-photographic-shielders/"><u>In 2024, Anonymizing Faces A Compendium of Photographic Shielders</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/picscanners-face-blurring-made-easy-for-everyone/"><u>PicScanner's Face-Blurring Made Easy for Everyone</u></a></li>
-<li><a href="https://windows11.techidaily.com/tailoring-your-wi-fi-networks-usage-metrics-with-windows-11/"><u>Tailoring Your Wi-Fi Network's Usage Metrics with Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-absence-of-files-on-windows-11/"><u>Troubleshooting Absence of Files on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/unraveling-memory-write-hitches-in-windows/"><u>Unraveling 'Memory Write' Hitches in Windows</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-directly-embedding-google-meet-in-youtubes-video-library/"><u>[New] 2024 Approved Directly Embedding Google Meet in YouTube's Video Library</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-revolutionize-your-feed-with-these-10-insta-tools-for-2024/"><u>[New] Revolutionize Your Feed with These 10 Insta-Tools for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-comprehensive-sierras-icloud-drives-the-full-experience/"><u>[Updated] Comprehensive Sierra's iCloud Drives – The Full Experience</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-precision-review-of-the-dji-inspire-2-drone/"><u>2024 Approved Precision Review of the DJI Inspire 2 Drone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-sparking-interest-customized-anime-style-subscribers-on-your-youtube-channel-filmora/"><u>2024 Approved Sparking Interest Customized, Anime-Style Subscribers on Your YouTube Channel (Filmora)</u></a></li>
+<li><a href="https://windows11.techidaily.com/command-prompt-oddities-learn-5-amusing-anomalies/"><u>Command Prompt Oddities: Learn 5 Amusing Anomalies</u></a></li>
+<li><a href="https://windows11.techidaily.com/discreetly-putting-an-end-to-invisible-window-tasks/"><u>Discreetly Putting an End to Invisible Window Tasks</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-installation-guide-to-fix-no-drivers-found-in-windows-versions/"><u>Driver Installation Guide to Fix 'No Drivers Found' In Windows Versions</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-demystifying-the-process-of-high-dynamic-range-in-photoshop/"><u>In 2024, Demystifying the Process of High Dynamic Range in Photoshop</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-corruption-unlock-write-permissions-in-win10win11/"><u>Overcoming Corruption: Unlock Write Permissions in Win10/Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-chromeedge-from-hiding-taskbar-on-large-screens/"><u>Preventing Chrome/Edge From Hiding Taskbar on Large Screens</u></a></li>
+<li><a href="https://windows11.techidaily.com/recovering-failed-zip-operations-on-win-11-system/"><u>Recovering Failed ZIP Operations on Win 11 System</u></a></li>
+<li><a href="https://windows11.techidaily.com/supercharge-efficiency-select-windows-software-for-success/"><u>Supercharge Efficiency: Select Windows Software for Success</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138600789-9781789040845-the-celtic-goddess/"><u>The Celtic Goddess | Free Book</u></a></li>
 </ul></div>
 

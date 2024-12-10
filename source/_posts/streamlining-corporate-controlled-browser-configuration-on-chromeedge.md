@@ -1,7 +1,7 @@
 ---
 title: Streamlining Corporate Controlled Browser Configuration on Chrome/Edge
-date: 2024-11-28T01:20:53.789Z
-updated: 2024-12-04T03:44:17.476Z
+date: 2024-12-06T18:18:09.819Z
+updated: 2024-12-10T16:47:53.980Z
 tags:
   - windows10
   - windows11
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
 ![avg web shield off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/avg-web-shield-off.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Third-party antivirus programs come with some web protection features. Sometimes, these features can be intrusive and create issues with your network and the browser. For example, the AVG Antivirus Web Shield feature can trigger the "your browser is managed by your organization" message.
@@ -52,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
  Next, launch Task Manager (see[how to launch Task Manager](https://www.makeuseof.com/how-to-access-task-manager-on-windows-11/) ) and end services associated with the Chrome or Edge browser. If the message vanishes upon relaunch, it is safe to assume that your antivirus web protection is responsible for the message. You can turn on your antivirus and the web protection feature now.
 
  If the issue persists, it is likely malware or adware triggering the message on your browser. To fix the problem, check the Registry Editor policies for the browser and remove any suspicious policies.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Remove Chrome or Edge Registry Editor Policies
 
@@ -67,16 +71,16 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
 ![delete chrome policy registry editor 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/delete-chrome-policy-registry-editor-1.jpg)
 5. If there are no Chrome or Edge policies in the**Policies** key, navigate to the following location:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\`
 6. Next, if you use**Chrome** , navigate to**\\Google\\Chrome** and delete any policy values in the right pane.  
 ![delete chrome policy registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/delete-chrome-policy-registry-editor.jpg)
 7. For**Edge** , navigate to**\\Microsoft\\MicrosoftEdge** . In the right pane, check for any suspicious policies. If it exists, right-click on the policy and select**Delete** .
 
 8. Close Registry Editor and restart your computer to see if the message is removed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Remove All the Group Policies for the Users Using Command Prompt
 
@@ -95,16 +99,12 @@ RD /S /Q "%WinDir%\System32\GroupPolicy"
 6. Close Command Prompt and check if the message is removed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Reset Chrome and Edge
 
 ![Clicking on the Reset Button to Restore Settings to their Original Defaults in Chrome Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/5-clicking-on-the-reset-button-to-restore-settings-to-their-original-defaults-in-chrome-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  A browser reset removes settings and shortcuts, disables extensions, and deletes cookies and other temporary site data. It doesn’t remove your bookmarks or passwords, so it is completely safe to perform.
 
@@ -129,6 +129,10 @@ To reset Microsoft Edge:
 ## 5\. Run MalwareBytes AdwCleaner
 
 ![malwarebytes adwcleaner windows](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/malwarebytes-adwcleaner-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Malwarebytes AdwCleaner is a free adware scanning and cleaning utility for Windows. Use the tool to scan your computer for PUP and other malware and remove them with a click.
 
@@ -157,10 +161,6 @@ To perform a Windows system reset:
 5. Next, select**Cloud Download** . This option requires an active Internet connection to download and reinstall the latest version of Windows operating system. If not, select**Local** **Reinstall** .
 6. Wait for the reset to complete, and your PC will restart. After the restart, you’ll need to reinstall the browser and other apps to get started.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Remove the "Your Browser is Managed By Your Organization" Message on Windows
 
  This message can occur if your antivirus program controls your web browser with its web protection feature. If you rule out your antivirus to be the issue, check if a potentially unwanted program has hijacked the browser. If yes, you’ll need to manually remove the Windows Registry policies or run an adware cleaner to remove adware and PUPs from your computer.
@@ -180,14 +180,17 @@ To perform a Windows system reset:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-spotlight-on-zdsoft-screen-capture-for-pros/"><u>[Updated] 2024 Approved Spotlight on ZDSoft Screen Capture for Pros</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-real-world-application-perfecting-your-instagram-livestream-with-obs/"><u>[Updated] Real-World Application Perfecting Your Instagram Livestream with OBS</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/here-restrictions-in-saving-youtube-videos-in-2024/"><u>Are There Restrictions in Saving YouTube Videos, In 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/conversion-gratuita-de-archivos-mp4-a-wma-online-con-movavi/"><u>Conversión Gratuita De Archivos MP4 a WMA Online Con Movavi</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-drawing-software-like-procreate-for-windows/"><u>Essential Drawing Software Like Procreate, For Windows</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-compatibility-errors-getting-the-thaumaturge-program-up-and-running-again/"><u>Overcoming Compatibility Errors: Getting the Thaumaturge Program Up and Running Again</u></a></li>
-<li><a href="https://windows11.techidaily.com/safe-sailing-in-the-sea-of-windows-11-upgrades-top-8/"><u>Safe Sailing in the Sea of Windows 11 Upgrades (Top 8)</u></a></li>
-<li><a href="https://windows11.techidaily.com/stay-unplugged-avoiding-abrupt-updates-on-windows-11/"><u>Stay Unplugged: Avoiding Abrupt Updates on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-enhanced-windows-11-taskbar/"><u>Unlocking Enhanced Windows 11 Taskbar</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-ideal-timekeepers-top-10-androidios-apps-for-your-big-day-for-2024/"><u>[New] Ideal Timekeepers Top 10 Android/iOS Apps for Your Big Day for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-immersive-film-vr-in-modern-theaters/"><u>[Updated] Immersive Film VR in Modern Theaters</u></a></li>
+<li><a href="https://media-tips.techidaily.com/atf-is-responsible-for-regulating-activities-related-to-explosives-including-fireworks/"><u>ATF Is Responsible for Regulating Activities Related to Explosives, Including Fireworks.</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/best-free-webcam-driver-downloads-from-logitech-for-windows-computers/"><u>Best Free Webcam Driver Downloads From Logitech for Windows Computers</u></a></li>
+<li><a href="https://windows11.techidaily.com/defining-windows-lockout-after-inactivity/"><u>Defining Windows Lockout After Inactivity</u></a></li>
+<li><a href="https://windows11.techidaily.com/device-duet-pairing-your-android-with-a-pc/"><u>Device Duet: Pairing Your Android with a PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-guide-local-users-group-control-on-win1110/"><u>Essential Guide: Local Users, Group Control on WIN11/10</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-all-you-need-to-know-about-the-arlo-video-doorbell-with-built-in-alarm-feature/"><u>Expert Analysis: All You Need to Know About the Arlo Video Doorbell with Built-In Alarm Feature</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-update-your-corsair-keyboard-drivers-easily-and-quickly/"><u>How to Update Your Corsair Keyboard Drivers Easily & Quickly</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-days-gone-strategies-to-prevent-and-fix-game-crashes-in-202e/"><u>Mastering 'Days Gone': Strategies to Prevent and Fix Game Crashes in 202E</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-obstacle-successful-resolution-of-the-0x800705b4-update-glitch-in-windows-11-systems/"><u>Overcoming the Obstacle: Successful Resolution of the 0X800705b4 Update Glitch in Windows 11 Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-importance-of-keeping-active-wins-11-notification-sounds/"><u>The Importance of Keeping Active Wins 11 Notification Sounds</u></a></li>
 </ul></div>
 

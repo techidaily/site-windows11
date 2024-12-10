@@ -1,7 +1,7 @@
 ---
 title: Launching Linux Virtualization Effortlessly Within Hyper-V Windows
-date: 2024-08-08T06:14:40.472Z
-updated: 2024-08-09T06:14:40.472Z
+date: 2024-12-09T20:57:49.905Z
+updated: 2024-12-10T17:41:05.083Z
 tags:
   - windows10
   - windows11
@@ -28,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
 
  Also, update the VMware Workstation Player to the latest version before you begin the installation method.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## How to Create a Linux Virtual Machine Inside Windows Virtual Machine Using Hyper-V
 
  We will break the steps into three parts. Firstly, you must enable the virtualization features for the Windows virtual machine. Then you need to enable Hyper-V on this virtual machine. Lastly, you need to create a Linux virtual machine using Hyper-V.
@@ -46,7 +43,15 @@ To enable Virtualization, do as follows:
 ![Enable Virtualization for Windows Virtual Machine in VMware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/enable-virtualization-for-windows-virtual-machine-in-vmware.jpg)
 5. Click on the**OK** button to apply changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Virtualization features are now active for the above Windows virtual machine. Next, you need to install Hyper-V.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Install Hyper-V on the Windows Virtual Machine
 
@@ -57,9 +62,6 @@ To enable Virtualization, do as follows:
 3. Type**appwiz.cpl** and press the enter key.
 4. The programs and features window will launch. Click on the**Turn Windows Features on or off** option.
 5. Scroll down and click on the**Hyper-V** checkbox in the Windows Features list.  
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Install Hyper-V on the Windows Virtual Machine](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-hyper-v-on-the-windows-virtual-machine.jpg)
 6. Click on the**OK** button to install the feature on your system.
 7. **Restart** your system to apply changes when the installation completes.
@@ -74,28 +76,25 @@ To create an Ubuntu virtual machine, do as follows:
 
 1. Boot up the Windows virtual machine. Press the**Win key** and type Hyper-V manager. Launch the app.
 2. Navigate to the right-hand side section and click on**New > Virtual Machine** .  
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Create a Linux Virtual Machine Using Hyper-V 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/create-a-linux-virtual-machine-using-hyper-v-1.jpg)
 3. Click on the**Next** button. Enter the name of the virtual machine and click on**Next** .
 4. Click on the**Generation 1** radio button and click on Next.
 5. Keep the**Startup Memory** as**2GB** and enable the**Use Dynamic memory for this virtual machine** option.  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![Create a Linux Virtual Machine Using Hyper-V 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/create-a-linux-virtual-machine-using-hyper-v-2.jpg)
 6. Then, click on**Next** button and select the**Default switch** option in the Configure Networking section.
-7. Click on the**Create a virtual hard disk** option and allocate**20GB** to the virtual hard disk. Move to the next section.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+7. Click on the**Create a virtual hard disk** option and allocate**20GB** to the virtual hard disk. Move to the next section.  
 ![Create a Linux Virtual Machine Using Hyper-V 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/create-a-linux-virtual-machine-using-hyper-v-3.jpg)
 8. Pick the**Install an operating system from a bootable CD/DVD-ROM** option located under the Installation options section. Select the Ubuntu Image file (.iso) you downloaded before beginning this step.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Create a Linux Virtual Machine Using Hyper-V 4](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/create-a-linux-virtual-machine-using-hyper-v-4.jpg)
 9. Click on the**Next** button and review the virtual machine configuration. Then, click on the**Finish** button to create the virtual machine.
 
@@ -108,10 +107,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 5. Select your geographical location and enter your username and password. Then, click on the**Continue** button.
 6. Wait for the installation to complete. It may take longer if you have a SATA HDD installed on your system.
 7. The installer will prompt you to restart the system. Click on the**Restart Now** button.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Ubuntu Virtual Machine Running Using Hyper-V](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/ubuntu-virtual-machine-running-using-hyper-v.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The virtual machine will boot to the Ubuntu desktop. You can use Ubuntu and notice that the system runs fine inside Hyper-V just like it does on any other virtualization software.
 
@@ -127,14 +127,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  VMware supports hardware virtualization and can extend the feature to its virtual machines. VirtualBox is yet to catch up in this aspect because Hyper-V doesn’t work in a VirtualBox virtual machine as of writing this post. Make sure that you turn off virtualization features for the Windows virtual machine when you no longer need it.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -143,4 +140,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-craft-compelling-youtube-titles-faster-than-ever/"><u>[New] In 2024, Craft Compelling YouTube Titles Faster Than Ever</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/solved-crop-mp3-files-quickly-and-easily/"><u>[SOLVED] | Crop Mp3 Files |Quickly & Easily</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-all-about-color-grading/"><u>[Updated] 2024 Approved All About Color Grading</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-full-screen-excellence-in-ppro-video-editing/"><u>[Updated] Full Screen Excellence in PPro Video Editing</u></a></li>
+<li><a href="https://windows11.techidaily.com/configuring-prints-with-microsoft-defender-smartscreen-edge/"><u>Configuring Prints with Microsoft Defender SmartScreen Edge</u></a></li>
+<li><a href="https://article-posts.techidaily.com/expert-review-ricoh-theta-s-unveiled-in-detail/"><u>Expert Review Ricoh Theta S Unveiled in Detail</u></a></li>
+<li><a href="https://win-web.techidaily.com/fixing-issue-prohibited-operation-executed-on-damaged-disk-array/"><u>Fixing Issue: Prohibited Operation Executed on Damaged Disk Array</u></a></li>
+<li><a href="https://windows11.techidaily.com/guidelines-for-reestablishing-connection-with-steams-game-servers/"><u>Guidelines for Reestablishing Connection with Steam's Game Servers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/securely-store-and-view-onedrive-data-locally/"><u>Securely Store and View OneDrive Data Locally</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-code-0xc0000142-on-windows-devices/"><u>Tackling Code 0XC0000142 on Windows Devices</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-screenplay-scribblers-hub/"><u>Top Screenplay Scribblers Hub</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-windows-techniques-for-enjoying-high-definition-adventures-with-scummvm/"><u>Top Windows Techniques for Enjoying High-Definition Adventures with ScummVM</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-affordable-samsung-tablet-deal-uncovered-non-flagship-model-at-steep-discount-this-labor-day-insights-from-zdnet/"><u>Top-Rated Affordable Samsung Tablet Deal Uncovered: Non-Flagship Model at Steep Discount This Labor Day - Insights From ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/uncovering-digital-shadows-sid-extraction-in-win11/"><u>Uncovering Digital Shadows: SID Extraction in Win11</u></a></li>
+</ul></div>
 

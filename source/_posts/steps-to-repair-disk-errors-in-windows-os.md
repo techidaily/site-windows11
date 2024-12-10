@@ -1,7 +1,7 @@
 ---
 title: Steps to Repair Disk Errors in Windows OS
-date: 2024-08-15T16:16:54.271Z
-updated: 2024-08-16T16:16:54.271Z
+date: 2024-12-09T20:45:09.446Z
+updated: 2024-12-10T17:40:10.750Z
 tags:
   - windows10
   - windows11
@@ -54,8 +54,9 @@ thumbnail: https://thmb.techidaily.com/4708f3ad86d66e7ad10dd3b75bdecccf20aa6cf32
 ![Advanced Startup Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/advanced-startup-option.jpg)
 3. A blue-colored screen must appear now. From there, click on **Troubleshoot > Advanced options** and then **Startup Repair**.  
 ![Startup Repair Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/startup-repair-option.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The repair tool will then scan for any corrupted files to repair. If this doesn't work, check out [what to do if Startup Repair fails to fix your PC](https://www.makeuseof.com/what-to-do-if-startup-repair-fails-to-repair-your-pc/).
@@ -63,8 +64,9 @@ thumbnail: https://thmb.techidaily.com/4708f3ad86d66e7ad10dd3b75bdecccf20aa6cf32
  Once the repair process begins, avoid interrupting it or turning off your computer. Doing so could corrupt Windows even further.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Run the SFC and CHKDSK Tools
 
  If the startup repair tool does not work, it's time to use the Command Prompt to run the System File Checker and CHKDSK tool.
@@ -77,9 +79,6 @@ thumbnail: https://thmb.techidaily.com/4708f3ad86d66e7ad10dd3b75bdecccf20aa6cf32
 2. On the Command Prompt window, input the **sfc /scannow** command and then **Enter**.
 3. Then, type **chkdsk %SystemDrive% /scan** and again press **Enter**.  
 ![CHKDSK SCAN Command Preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chkdsk-scan-command-preview.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 
  The above-given commands initiates a thorough scan of your system. It might take a while, and once completed, you should no longer see the black screen on startup.
 
@@ -98,6 +97,11 @@ thumbnail: https://thmb.techidaily.com/4708f3ad86d66e7ad10dd3b75bdecccf20aa6cf32
 2. Expand the **IDE ATA/ATAPI controllers** category. Right-click on your disk controller driver (in our case, **Standard SATA AHCI Controller**) and select **Update driver**.  
 ![Windows 11 Device Manager Preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-11-device-manager-preview.jpg)
 3. Choose **Search automatically for drivers**, then **Search for updated drivers on Windows Update**. Windows will then search for the necessary updates for your disk controller driver.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Windows 11 Update Drivers Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-11-update-drivers-window.jpg)
 4. Once it installs the driver update, restart your computer. If the error black screen doesn't appear, it means your issue is resolved.
 
@@ -112,26 +116,23 @@ thumbnail: https://thmb.techidaily.com/4708f3ad86d66e7ad10dd3b75bdecccf20aa6cf32
 1. Download the tool from [the Macrorit website](https://macrorit.com/partition-magic-manager/partition-expert-download.html) and install the application.
 2. Click on **dm.exe** to run Macrorit Partition Expert.  
 ![Macrorit Partition Expert Files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/macrorit-partition-expert-files.jpg)
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. On the application window, select the disk or volume where your current Windows is present. For example, in our case, it's in **Disk 0**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. After selecting, click on **Check Volume** from the left-hand sidebar.  
 ![Macrorit Partition Expert Application](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/macrorit-partition-expert-application.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Choose **Fix found errors**, **Try to fix found bad sectors**, and click **OK**.  
 ![Macrorit Partition Expert Volume Checker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/macrorit-partition-expert-volume-checker.jpg)
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now, Macrorit Partition Expert will analyze your selected disk to check for any bad sectors and try to fix them.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Factory Reset Windows
 
  If none of the fixes were helpful, you must reinstall Windows OS as a last resort. This will wipe all the data from your computer, so ensure to back up your important data.
@@ -139,8 +140,9 @@ thumbnail: https://thmb.techidaily.com/4708f3ad86d66e7ad10dd3b75bdecccf20aa6cf32
  Once you've backed up your files, check out [how to factory reset Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/). Once the reinstallation is complete, you'll have a clean slate to work with, and you can restore all the files you've backed up.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## No More Disk Errors on Windows
 
  As said earlier, there's no fixed reason for the repairing disk error. However, one thing that causes the error is an issue with your disks, such as bad sectors, physical damage, and viruses.
@@ -149,11 +151,33 @@ thumbnail: https://thmb.techidaily.com/4708f3ad86d66e7ad10dd3b75bdecccf20aa6cf32
 
  Let's look at various methods to repair the disk issue on your Windows device.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-ios-meets-classic-play-best-ps2-game-emulators-reviewed/"><u>[New] 2024 Approved IOS Meets Classic Play Best PS2 Game Emulators Reviewed</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-god-of-war-ragnarok-release-date/"><u>[Updated] 2024 Approved God of War Ragnarok Release Date</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-8-free-online-video-editors-for-youtube/"><u>[Updated] In 2024, 8 Free Online Video Editors for YouTube</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-laugh-loops-crafting-comical-content-for-brevity-based-videos/"><u>[Updated] Laugh Loops Crafting Comical Content for Brevity-Based Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-fabricate-funny-faces/"><u>2024 Approved Fabricate Funny Faces</u></a></li>
+<li><a href="https://blog-min.techidaily.com/effortless-transformation-convert-your-blu-ray-discs-to-high-quality-avchd-format-using-our-advanced-conversion-tool/"><u>Effortless Transformation: Convert Your Blu-Ray Discs to High-Quality AVCHD Format Using Our Advanced Conversion Tool</u></a></li>
+<li><a href="https://windows11.techidaily.com/get-a-free-self-hosted-gptclone-with-gpt4all/"><u>Get a Free, Self-Hosted GPTClone with GPT4All.</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-realme-12-proplus-5g-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Realme 12 Pro+ 5G FRP Without Computer</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-nokia-c110-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Nokia C110 for Parents | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-plain-text-and-mouse-jump-methods-in-powertoys/"><u>Master Plain Text & Mouse Jump Methods in PowerToys</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-auto-delete-for-windows-11-files-a-step-by-step-guide/"><u>Mastering Auto-Delete for Windows 11 Files: A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-windows-store-faults-error-x80072f17-guidance/"><u>Navigating Windows Store Faults: Error X80072F17 Guidance</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-security-adjusting-lockout-count-after-failed-attempts/"><u>Optimizing Security: Adjusting Lockout Count After Failed Attempts</u></a></li>
+<li><a href="https://windows11.techidaily.com/reactivation-roadmap-reviving-winget-in-w11-environment/"><u>Reactivation Roadmap: Reviving Winget in W11 Environment</u></a></li>
+<li><a href="https://windows11.techidaily.com/simplifying-software-management-using-windows-package-manager/"><u>Simplifying Software Management Using Windows Package Manager</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-solve-error-0x80370102-during-windows-subsystem-for-linux-installation/"><u>Steps to Solve Error 0X80370102 During Windows Subsystem for Linux Installation</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-wolcen-lords-of-mayhem-unavailable-issue/"><u>Troubleshooting Guide: Fixing 'Wolcen: Lords of Mayhem' Unavailable Issue</u></a></li>
+<li><a href="https://win-dash.techidaily.com/universal-3gpmp4-converter-easily-transform-videos-between-popular-formats-like-avi-mkv-mpg-more/"><u>Universal 3GP/MP4 Converter: Easily Transform Videos Between Popular Formats Like AVI, MKV, MPG More!</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-windows-xp-potential-without-the-compatibility-tool/"><u>Unlock Windows XP Potential Without the Compatibility Tool</u></a></li>
+</ul></div>
+

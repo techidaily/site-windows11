@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting for Unresponsive Win11 Media Player
-date: 2024-08-15T16:17:51.687Z
-updated: 2024-08-16T16:17:51.687Z
+date: 2024-12-07T17:48:41.936Z
+updated: 2024-12-10T20:42:33.879Z
 tags:
   - windows10
   - windows11
@@ -38,11 +38,6 @@ thumbnail: https://thmb.techidaily.com/5137476410d550ff3157a9e8b8c303fc95e61e87d
 4. Enable the toggles next to**Video library access** and**Let apps access your video library** .
 5. Turn on the toggle next to the**Media Player** app.  
 ![Enable Video Library Access for the Media Player App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-video-library-access-for-the-media-player-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 
 ## 3\. Refresh Your Libraries
 
@@ -70,8 +65,9 @@ To disable video enhancements in Windows, use these steps:
 ![Disable Video Processing on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/disable-video-processing-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Run the Relevant Windows Troubleshooters
 
  If you’re facing playback issues in other media players as well, you can consider running Windows' troubleshooters. Specifically, you can run the Playing Audio and Video Playback troubleshooters. This will allow Windows to diagnose your system for any video playback issues and suggest fixes accordingly. Here’s how you can run these troubleshooters on Windows.
@@ -82,11 +78,16 @@ To disable video enhancements in Windows, use these steps:
 4. Click the**Run** button next to**Playing Audio** and follow the on-screen prompts to complete the troubleshooting process.
 5. Click the**Run** button next to**Video Playback** and allow it to do its thing.  
 ![Windows Troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-troubleshooters.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After running these troubleshooters, restart the Media Player app and see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Repair or Reset the Media Player App
 
@@ -94,9 +95,6 @@ To disable video enhancements in Windows, use these steps:
 
  Alternatively, you can also consider resetting the app. Since this process allows Windows to erase all the app data and reset app configurations, it’s more likely to fix any issues. We have a guide on[how to reset an app on Windows](https://www.makeuseof.com/windows-reset-app/) . Follow the instructions outlined there to reset the Media Player app on your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Re-Register the Relevant DLL Files
 
  Dynamic Link Libraries (DLLs) files on your PC contain functions and data that programs use to perform specific tasks. If some of the DLL files linked with the Media Player app are missing or damaged, the app may fail to open or work. Here’s what you can do to fix them.
@@ -112,8 +110,9 @@ regsvr32 wmp.dll`
  Restart your PC after this and then check if the Media Player app works as before.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Update the Media Player App
 
  Microsoft regularly pushes newer updates for the Media Player app to add new features, eliminate bugs and improve its performance. There’s a chance that the issues with the Media Player app are limited to the app version you are using. If that’s the case, updating to a newer version should help.
@@ -121,22 +120,20 @@ regsvr32 wmp.dll`
  Check our guide on[how to update apps in Windows 11](https://www.makeuseof.com/update-apps-windows-11/) and use the steps provided there to update the Media Player app to its most recent version. Hopefully, this should solve your problem.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fixing the Media Player App on Windows 11
 
  The Media Player app is great for playing locally stored audio and video files on your Windows 11 PC. Occasionally, the app may stop working due to misconfigured settings or corrupt app data. However, it’s nothing you can’t fix with the solutions mentioned above.
 
  If you're tired of dealing with such issues with the new Media Player app or if you're looking for more functionality, there are plenty of free media player apps available for Windows that you can try.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -145,4 +142,26 @@ regsvr32 wmp.dll`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-unlocking-the-secrets-of-iphone-recording-for-2024/"><u>[New] Unlocking the Secrets of iPhone Recording for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-11-insider-tips-for-outstanding-hue-alignment-for-2024/"><u>[Updated] 11 Insider Tips for Outstanding Hue Alignment for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-content-crusaders-route-to-rapid-instagram-fame/"><u>[Updated] 2024 Approved Content Crusader’s Route to Rapid Instagram Fame</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-easily-capturing-iphone-screens-on-the-go/"><u>[Updated] Easily Capturing iPhone Screens on the Go</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/dive-into-long-exposure-iphone-photography-for-2024/"><u>Dive Into Long-Exposure iPhone Photography for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-recover-from-network-not-found-error-windows/"><u>How to Recover From 'Network Not Found' Error Windows</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-total-earning-summary-for-pewdiepie-star/"><u>In 2024, Total Earning Summary for PewDiePie Star</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/kostenloses-konvertieren-von-aiff-in-aac-mit-movavi-online-tool/"><u>Kostenloses Konvertieren Von AIFF in AAC Mit Movavi Online-Tool</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/minimizing-windows-extender-lowering-cpu-demand/"><u>Minimizing Windows Extender: Lowering CPU Demand</u></a></li>
+<li><a href="https://windows11.techidaily.com/rapid-rendezvous-initiating-startup-unlocking-notepad/"><u>Rapid Rendezvous: Initiating Startup, Unlocking Notepad</u></a></li>
+<li><a href="https://windows11.techidaily.com/resetting-dns-cache-a-quick-tutorial-for-windows-users/"><u>Resetting DNS Cache: A Quick Tutorial for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-dormant-wsreset-utility-on-computers/"><u>Restoring Dormant WSReset Utility on Computers</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-way-to-refresh-your-windows-update-system/"><u>Seamless Way to Refresh Your Windows Update System</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailored-monitorscape-crafting-individual-themes-for-each-window-of-win-1011/"><u>Tailored Monitorscape: Crafting Individual Themes for Each Window of Win 10/11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-oled-laptop-picks-comprehensive-reviews-and-tests-by-tech-gurus/"><u>Top-Rated OLED Laptop Picks - Comprehensive Reviews and Tests by Tech Gurus</u></a></li>
+<li><a href="https://windows11.techidaily.com/unblock-file-uploads-mastering-chromes-sync-on-a-win-os/"><u>Unblock File Uploads: Mastering Chrome's Sync on a Win OS</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-the-power-of-photo-rotation-with-these-6-tips-for-w11/"><u>Unlock the Power of Photo Rotation with These 6 Tips for W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/updating-old-pcs-think-beyond-windows/"><u>Updating Old PCs? Think Beyond Windows</u></a></li>
+</ul></div>
 

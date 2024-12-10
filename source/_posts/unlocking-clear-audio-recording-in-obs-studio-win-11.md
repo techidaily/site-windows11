@@ -1,7 +1,7 @@
 ---
 title: Unlocking Clear Audio Recording in OBS Studio - Win 11
-date: 2024-12-02T22:48:06.695Z
-updated: 2024-12-03T17:21:23.681Z
+date: 2024-12-09T21:36:15.087Z
+updated: 2024-12-10T16:42:35.315Z
 tags:
   - windows10
   - windows11
@@ -43,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/4729098ff75053594bc9af7963d84132dd5d779fe
 ![Run as admin option for OBS Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-as-admin-option.jpg)
 4. Click**Apply** \>**OK** to save the settings.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Unmute OBS Studio in the Settings App
 
  OBS Studio will fail to record audio if it is muted in the Settings app. Here's how to check and change OBS Studio sound settings in the Settings app.
@@ -74,11 +70,7 @@ Restart OBS Studio and check if the problem persists.
 5. Click**Apply** and then**OK.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Allow OBS Studio to Access Microphone
@@ -93,10 +85,18 @@ Restart OBS Studio and check if the problem persists.
 ![Microphone access option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/microphone-access.jpg)
 4. Next, enable the toggle next to**Let desktop apps to access your microphone** option.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Allow desktop apps to access microphone option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/allow-desktop-apps-to-access-microphone.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Change the OBS Studio Settings
@@ -113,10 +113,6 @@ Restart OBS Studio and check if the problem persists.
 ![Audio settings of OBS Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/audio-settings.jpg)
 6. Choose**Apply** \>**OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7 . Adjust the Audio Mixer Settings
 
  The next solution on the list is to adjust the audio mixer settings of the OBS Studio. Here's how:
@@ -131,7 +127,7 @@ Restart OBS Studio and check if the problem persists.
 5. Next, click the three dots next to Mic/Aux again and choose**Advanced Audio Properties.**  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Choosing Advanced properties in OBS Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/advanced-properties.jpg)
@@ -140,7 +136,11 @@ Restart OBS Studio and check if the problem persists.
 ![Adjusting Advanced Properties in OBS Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/adjusting-advanced-properties.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Download the Latest Audio Driver Updates
@@ -155,11 +155,11 @@ You can do that by following the below steps:
 ![Update driver option in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/update-driver-2.jpg)
 4. Choose**Search automatically for drivers** option in the window that crops up.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Next, allow Windows to search for and download any available driver updates for your recording device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Reinstall OBS Studio
 
@@ -186,22 +186,22 @@ You can do that by following the below steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-mastering-your-syma-x8c-flight-patterns/"><u>[New] Mastering Your Syma X8C Flight Patterns</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/-stars-staggering-fortune-from-youtube-success/"><u>Child Star's Staggering Fortune From YouTube Success</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-overcoming-the-0x80072efd-mishap-on-windows-10-systems/"><u>Effective Solutions for Overcoming the 0X80072EFD Mishap on Windows 10 Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/expert-advice-to-tackle-ms-store-hurdle-win1011s-error-0x0/"><u>Expert Advice to Tackle MS Store Hurdle: Win10/11's Error 0X0</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-xiaomi-redmi-note-13-proplus-5g-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Xiaomi Redmi Note 13 Pro+ 5G Devices</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Xiaomi Redmi 12 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-infinix-hot-30-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Infinix Hot 30 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://windows11.techidaily.com/instantaneous-access-to-the-calculator-in-windows-11-os/"><u>Instantaneous Access to the Calculator in Windows 11 OS</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-stability-in-diablo-ii-resurrected-to-avoid-unwanted-game-interruptions/"><u>Mastering Stability in 'Diablo II Resurrected' To Avoid Unwanted Game Interruptions</u></a></li>
-<li><a href="https://windows11.techidaily.com/methods-to-address-failed-boot-up-display-driver/"><u>Methods to Address Failed Boot-Up Display Driver</u></a></li>
-<li><a href="https://review-topics.techidaily.com/nokia-data-recovery-recover-lost-data-from-nokia-g310-by-fonelab-android-recover-data/"><u>Nokia Data Recovery – recover lost data from Nokia G310</u></a></li>
-<li><a href="https://windows11.techidaily.com/revolutionize-folder-management-selective-move-on-windows-11/"><u>Revolutionize Folder Management: Selective Move on Windows 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/steps-for-securely-sharing-your-diy-dvds-on-dropbox-without-losing-video-quality/"><u>Steps for Securely Sharing Your DIY DVDs on Dropbox Without Losing Video Quality</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-snapshot-navigating-newly-active-windows-items/"><u>The Snapshot: Navigating Newly Active Windows Items</u></a></li>
-<li><a href="https://windows11.techidaily.com/tracing-the-blue-screen-footsteps-in-windows-xp7/"><u>Tracing the Blue Screen Footsteps in Windows XP/7</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-gpo-details-using-gpresult/"><u>Unveiling GPO Details Using GPResult</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11-configurations-simplified/"><u>Windows 11 Configurations Simplified</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-adopting-powerpoints-advanced-speech-to-text-functionality-for-dynamic-slide-shows/"><u>[Updated] Adopting PowerPoint’s Advanced Speech-to-Text Functionality for Dynamic Slide Shows</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-the-legacy-of-memories-scanning-and-storing-vintage-photographs/"><u>[Updated] The Legacy of Memories Scanning and Storing Vintage Photographs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-transform-your-playtime-mastering-ps4-live-recordings-with-obs-for-2024/"><u>[Updated] Transform Your Playtime Mastering PS4 Live Recordings with OBS for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/access-hurdles-rejoin-your-shared-windows-zone/"><u>Access Hurdles: Rejoin Your Shared Windows Zone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nce-market-leaders-in-youtubes-short-clips-downloads-for-2024/"><u>Audience’ Market Leaders in YouTube's Short Clips Downloads for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/banishing-0x800704b3-error-from-your-win1011-system/"><u>Banishing 0X800704B3 Error From Your Win10/11 System</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-strategies-to-enhance-gopros-electric-efficiency/"><u>In 2024, Strategies to Enhance GoPro's Electric Efficiency</u></a></li>
+<li><a href="https://windows11.techidaily.com/n-series-window-enigma-deciding-factors/"><u>N-Series Window Enigma: Deciding Factors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/network-probing-techniques-your-comprehensive-handbook-for-web-site-pinging/"><u>Network Probing Techniques: Your Comprehensive Handbook for Web Site Pinging</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-synthesis-how-meditation-transforms-cognition-and-emotion/"><u>Seamless Synthesis: How Meditation Transforms Cognition & Emotion</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-samsung-galaxy-a14-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Samsung Galaxy A14 5G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-10-uses-for-windows-powertoys-tools/"><u>Top 10 Uses for Windows PowerToys Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-100-unbeatable-walmart-festive-offers-a-comprehensive-guide/"><u>Top 100 Unbeatable Walmart Festive Offers - A Comprehensive Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-the-power-of-search-implementing-it-in-win11s-task-monitor/"><u>Unlock the Power of Search: Implementing It in Win11's Task Monitor</u></a></li>
+<li><a href="https://windows11.techidaily.com/unmasking-profit-making-mechanisms-for-w11-at-microsoft/"><u>Unmasking Profit Making Mechanisms for W11 at Microsoft</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-times-ticking-off-align-it-back/"><u>Windows Time's Ticking Off? Align It Back!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Simplified Guide for Converting .bat Files Into EXEs
-date: 2024-08-15T16:18:21.497Z
-updated: 2024-08-16T16:18:21.497Z
+date: 2024-12-08T19:15:16.981Z
+updated: 2024-12-10T21:47:34.831Z
 tags:
   - windows10
   - windows11
@@ -24,9 +24,6 @@ thumbnail: https://thmb.techidaily.com/f09a424aa99c62f7b51db30e0d97dc33c8611de88
 
  Now, there are two broad ways to go about it. First, you can rely on a handy converter and let it convert your BAT files to EXE file. But, if you’re more of a do-it-yourself person, you can also go the manual way. Let’s dive into using the in-built Windows tool first.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Convert Your Batch Files to EXE with IExpress
 
 [IExpress](https://en.wikipedia.org/wiki/IExpress) is a free Windows program, in use since Windows 2000, specifically designed to create self-extracted packages. This is what makes it super handy for converting your Batch (BAT) files into EXE ones as well.
@@ -38,10 +35,12 @@ To launch the IExpress app, follow the steps below:
 3. Pick the**Extract files** **and run an installation command** radio box from the**Package purpose** window, and click on**Next** .  
 ![iexpress wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/iexpress-wizard.JPG)
 4. Enter a name for the**Package** **title** and hit**Next** again.  
-![package title](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/package-title.JPG)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![package title](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/package-title.JPG)
 5. Select**No prompt** and hit**Next** .
 6. Select**Do not display** **a license** and click on**Next** .
 7. Click on**Add** to select the batch script you want to convert, and click on the**Next** button.
@@ -49,8 +48,9 @@ To launch the IExpress app, follow the steps below:
 cmd /c Calculator.bat
 
 ![install program to launch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/install-program-to-launch.JPG)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In our example, we're converting a Batch file that contains a simple calculator. Therefore, in the command_cmd /c Calculator.bat_ , the name of our batch file is '_Calculator.bat_ '. Since your Batch file will be likely different, make sure you change the command accordingly.
@@ -59,17 +59,18 @@ cmd /c Calculator.bat
 
 ![saving new file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/saving-new-file.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Finally, on the**Create package** page, click on**Next** again. That’s it, folks. Your EXE package will be created in a few minutes. All you’ve to do from there is to head to the destination folder and launch the file for verifying.
 
 ![create package](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/create-package.JPG)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Convert Batch Files to EXE With a Converter
 
  While IExpress is more than enough to get the job done, not everyone wants to bother with the technical complexity it brings. Don't worry; you’re not alone in feeling that way. This is exactly why some clever people have developed tools to help you[easily automate your tasks](https://www.makeuseof.com/easily-automate-tasks-useful-tools/) on Windows.
@@ -82,9 +83,9 @@ cmd /c Calculator.bat
 4. Finally, click on**Save** .
 
 ![bat to exe converter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/bat-to-exe-converter.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Again, your Batch files should be converted into an EXE in a few minutes. Launch the .exe file, and your program should execute effortlessly.
@@ -93,14 +94,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Converting your BAT files to .exe files doesn’t have to be complicated. While the manual method above is excellent and will do the job for you, not everyone likes (or has the time) to get their hands dirty. And this is where the automated tools come to your rescue. The tool we've suggested above, BAT to EXE Converter, is only one of many; there are many out there to pick from. So make sure you do your research and choose the one most suited to your computer.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -109,4 +107,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-addressing-iphone-lens-failures-a-step-by-step-approach/"><u>[New] Addressing iPhone Lens Failures A Step-by-Step Approach</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/deal-changing-voices-for-online-influencers-for-2024/"><u>[New] Ideal Changing Voices for Online Influencers for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-premier-videography-stabilizers-enhancing-mobile-and-dslr-shots/"><u>[New] Premier Videography Stabilizers Enhancing Mobile & DSLR Shots</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-motorola-moto-g23-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Motorola Moto G23</u></a></li>
+<li><a href="https://windows11.techidaily.com/fine-tuning-the-size-of-windows-taskbar/"><u>Fine-Tuning the Size of Windows Taskbar</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-clearer-anonymity-discreet-faces-deletion/"><u>In 2024, Clearer Anonymity Discreet Faces Deletion</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-quick-creative-and-captivating-titles-ready/"><u>In 2024, Quick, Creative, and Captivating Titles Ready</u></a></li>
+<li><a href="https://windows11.techidaily.com/insights-into-ftdibussys-windows-memory-safeguard-breach/"><u>Insights Into ftdibus.sys: Windows' Memory Safeguard Breach</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximizing-security-activating-tpm-and-secure-boot-for-windows-11-upgrades/"><u>Maximizing Security: Activating TPM & Secure Boot for Windows 11 Upgrades</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-unexpected-errors-in-windows-security-fixes/"><u>Navigating Unexpected Errors in Windows Security Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-task-management-on-windows-10-and-11/"><u>Optimize Task Management on Windows 10 & 11</u></a></li>
+<li><a href="https://win-data.techidaily.com/revealing-hidden-files-in-windows-10-and-11-three-effective-methods/"><u>Revealing Hidden Files in Windows 10 & 11: Three Effective Methods</u></a></li>
+<li><a href="https://windows11.techidaily.com/setting-default-read-only-mode-for-words-email-attachments/"><u>Setting Default Read-Only Mode for Word's Email Attachments</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-dfs-sudden-shutdown-issue-on-pc/"><u>Troubleshooting DF's Sudden Shutdown Issue on PC</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unpacking-the-features-of-netgear-c370n-more-than-just-a-cable-modem/"><u>Unpacking the Features of Netgear C370n: More than Just a Cable Modem</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-11-resetting-how-to-bring-back-microsoft-store-apps/"><u>Win 11 Resetting: How to Bring Back Microsoft Store Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-calmness-dial-down-the-hidden-processes/"><u>Win11 Calmness: Dial Down the Hidden Processes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/zombified-zealotry-artist/"><u>Zombified Zealotry Artist</u></a></li>
+</ul></div>
 

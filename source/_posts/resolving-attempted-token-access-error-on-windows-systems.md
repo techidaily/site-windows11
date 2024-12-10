@@ -1,7 +1,7 @@
 ---
 title: Resolving Attempted Token Access Error on Windows Systems
-date: 2024-08-15T16:19:20.286Z
-updated: 2024-08-16T16:19:20.286Z
+date: 2024-12-09T16:58:50.959Z
+updated: 2024-12-10T17:34:40.826Z
 tags:
   - windows10
   - windows11
@@ -37,8 +37,9 @@ thumbnail: https://thmb.techidaily.com/d03c6bda0db9e446c0d9464753859ee1c2f12f38d
 8. Select **Create this task with administrative privileges** and click **OK** to restart Explorer.
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Reregister Windows DLL Files
 
  Users who’ve needed to fix the “reference a token” error have confirmed reregistering the Windows DLL (Dynamic Link Library) files works. That highlights the token reference error can occur because some Windows DLL files aren’t correctly registered. This is how you can reregister Windows DLL files:
@@ -52,18 +53,27 @@ thumbnail: https://thmb.techidaily.com/d03c6bda0db9e446c0d9464753859ee1c2f12f38d
 5. Wait for the command to finish reregistering DLLs.
 6. Close your Command Prompt app, bring up the Start menu, and select **Restart**.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Try Some More Generic Windows Fixes
 
  If nothing has worked, try these Windows fixes that can fix a wide variety of errors, including this one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Scan and Repair System Files With SFC
 
  The “reference a token” error is often a result of corrupted Windows system files. So, repairing system files is a likely potential solution for that error. You can check for and repair corrupted system files by [running the System File Checker tool](https://www.makeuseof.com/system-file-checker-sfc-windows/) within the Command Prompt.
 
 ![The sfc /scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sfc-scannow-command5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Go Back to a Previous Windows Build Version
 
@@ -73,29 +83,21 @@ thumbnail: https://thmb.techidaily.com/d03c6bda0db9e446c0d9464753859ee1c2f12f38d
 2. Select **Recovery** **options** to bring up Settings.
 3. Click the **Go back** or **Get started** button for restoring the previous Windows version.  
 ![The Get started button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/get-started-button.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  If that option is grayed out, you can also try restoring the previous Windows build from the **Advanced options** menu. Open recovery options in Settings as outlined in steps one and two above and click **Restart** **now**. Then select **Troubleshoot** \> **Advanced** options and the **Go back** **to previous build** option if available.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Go Back to a Previous Restore Point
 
  System Restore is another tool that can resolve system file issues causing the “reference a token” error, but only if you have that utility enabled on your PC. If there’s a suitable restore point on your PC, you can roll back Windows to a previous point in time that predates the token reference error. Doing so might undo updates and other system changes that triggered the issue.
 
 ![The System Restore tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/system-restore-point.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To apply this resolution, check out our [article about creating and utilizing restore points](https://www.makeuseof.com/windows-11-create-restore-point/). Choose a restore point that will roll Windows back to when you didn’t need to fix the token reference error. However, note that a system restore point will remove software packages installed after its date.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Reset Windows
 
  Resetting Windows 11/10 is a last resort for fixing the “reference a token” error that will probably work. It’s best to save this probable resolution until last because you’ll need to reinstall all third-party UWP and desktop apps installed before the reset. You can apply this possible resolution as instructed within method one of our [how to factory reset Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/#:~:text=To%20run%20a%20Windows%20factory,%3E%20Update%20%26%20Security%20%3E%20Recovery.) guide.
@@ -106,11 +108,27 @@ thumbnail: https://thmb.techidaily.com/d03c6bda0db9e446c0d9464753859ee1c2f12f38d
 
  Does the same error message pop up when you try to access Explorer, Device Manager, or another native Windows tool? If yes, try applying these potential remedies for the “reference a token” error.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-unveiling-the-premier-android-emulators-for-ps2-games/"><u>[Updated] 2024 Approved Unveiling the Premier Android Emulators for PS2 Games</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-key-steps-in-manipulating-song-pace-in-spotify-app/"><u>[Updated] Key Steps in Manipulating Song Pace in Spotify App</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-transform-your-igtv-visuals-with-updated-covers/"><u>[Updated] Transform Your IGTV Visuals with Updated Covers</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-windows-canary-a-guide-for-first-timers/"><u>Exploring Windows Canary: A Guide for First-Timers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/get-your-iphone-15-pro-max-at-a-penny-exclusive-amazon-offer-explained/"><u>Get Your iPhone 15 Pro Max at a Penny - Exclusive Amazon Offer Explained</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-scriptwriting-101-for-aspiring-youtube-producers/"><u>In 2024, Scriptwriting 101 for Aspiring YouTube Producers</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-social-media-engagement-with-facebook-twitter-instagram-and-youtube-strategies/"><u>Mastering Social Media Engagement with Facebook, Twitter, Instagram & YouTube Strategies</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-memory-safety-in-windows-11s-system-settings/"><u>Restoring Memory Safety in Windows 11'S System Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-silent-setbacks-ccleaner-issues-in-windows-11/"><u>Solving Silent Setbacks: CCleaner Issues in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategic-steps-launching-your-admin-privileged-powershell-console/"><u>Strategic Steps: Launching Your Admin Privileged PowerShell Console</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722051608179-tired-of-the-wait-heres-an-outstanding-open-source-option-that-rivals-the-anticipated-chatgpt-desktop-app/"><u>Tired of the Wait? Here’s an Outstanding Open Source Option that Rivals the Anticipated ChatGPT Desktop App!</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-free-webm-video-editing-solutions-top-10-options/"><u>Updated In 2024, Free WebM Video Editing Solutions Top 10 Options</u></a></li>
+</ul></div>
+

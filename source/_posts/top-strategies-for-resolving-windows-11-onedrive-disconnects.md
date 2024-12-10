@@ -1,7 +1,7 @@
 ---
 title: Top Strategies for Resolving Windows 11 OneDrive Disconnects
-date: 2024-08-08T06:15:51.633Z
-updated: 2024-08-09T06:15:51.633Z
+date: 2024-12-09T18:15:39.389Z
+updated: 2024-12-10T18:03:38.078Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/b4422105d5b201d3b53a4eb264e1f06b970718d58
 
  If you are affected by a similar issue, don’t panic. We have compiled a list of several useful solutions that should get OneDrive to sync your files as before.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## 1\. Check the OneDrive Service Status
 
  Before trying anything else, you should check OneDrive's server status to make sure there's no widespread outage. You can visit [Microsoft’s service health page](https://portal.office.com/servicestatus) to check if OneDrive servers are up and running.
@@ -30,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/b4422105d5b201d3b53a4eb264e1f06b970718d58
  If you see a red cross icon next to OneDrive, there may be nothing wrong on your end. You must wait until Microsoft resolves the issue on its end.
 
 ![Check OneDrive Server Status](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/check-onedrive-server-status.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Restart the OneDrive App
 
@@ -43,9 +44,6 @@ thumbnail: https://thmb.techidaily.com/b4422105d5b201d3b53a4eb264e1f06b970718d58
 4. Open the **Start menu**, type in **OneDrive** and press **Enter**.  
 ![Close OneDrive on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/close-onedrive-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Check Your Account Storage Status
 
  It is possible that your OneDrive account has run out of storage space, which is why your files are no longer syncing. OneDrive offers 5GB of storage for free, but you may have 100GB, 1TB, or 5TB if you have upgraded or have a [Microsoft 365 subscription](https://www.makeuseof.com/microsoft-365-basic-tier-what-you-get/).
@@ -55,16 +53,18 @@ thumbnail: https://thmb.techidaily.com/b4422105d5b201d3b53a4eb264e1f06b970718d58
 1. Click the **OneDrive icon** on the taskbar.
 2. Click the **gear icon** and select **Settings**.
 3. In the OneDrive Settings window that appears, check the storage status in the bottom left corner.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Check OneDrive Storage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/check-onedrive-storage.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If your OneDrive storage is nearly full, consider deleting some of your files or upgrading your plan.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Verify Sync Settings
 
  Enabling battery saver mode or [using a metered connection on your Windows 11 computer](https://www.makeuseof.com/how-to-enable-or-disable-metered-connection-wi-fi-network-windows-11/) can cause Microsoft OneDrive to stop syncing. If you don’t want that, follow these steps to modify sync settings for OneDrive:
@@ -73,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/b4422105d5b201d3b53a4eb264e1f06b970718d58
 2. Click the **gear icon** and select **Settings**.
 3. In the **Sync & backup** tab, turn off the toggles next to **Pause syncing when this device is in battery saver mode** and **Pause syncing when this device is on a metered network**.  
 ![OneDrive Sync Settings on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/onedrive-sync-settings-on-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Make Sure Your Files Are Not Incompatible
 
@@ -88,19 +92,12 @@ thumbnail: https://thmb.techidaily.com/b4422105d5b201d3b53a4eb264e1f06b970718d58
 2. Click the **gear icon** and select **Settings**.
 3. In the **Sync and backup** tab, click on **Advanced settings**.
 4. Turn off the toggle for **Limit download rate** and **Limit upload rate**.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Disable Download and Upload Limit for OneDrive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-download-and-upload-limit-for-onedrive.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Unlink and Link Your Account
 
  Authentication issues with your Microsoft account can also cause OneDrive to stop syncing. Unlinking your account and linking it again is an effective way to resolve such issues.
@@ -136,16 +133,14 @@ thumbnail: https://thmb.techidaily.com/b4422105d5b201d3b53a4eb264e1f06b970718d58
 3. In the File Explorer window that opens, right-click on the **OneDrive** app shortcut, and select **Copy as path**.
 4. Press **Win + R** to open the Run dialog.
 5. In the **Open** field, paste the file path of the OneDrive executable file, followed by **/reset** and hit **OK**.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Reset OneDrive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Reset-OneDrive.jpg)
 
  If the issue remains even after this, you can consider reinstalling the OneDrive app. To do so, open the search menu and type **OneDrive** in the text field. Click the **Uninstall** option and select **Uninstall** to confirm. Then, head over to [Microsoft's website](https://www.microsoft.com/en-in/microsoft-365/onedrive/download) to download and install OneDrive.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 10\. Try Basic Fixes
 
  If the above tips prove ineffective, you can try your luck with a few generic Windows fixes mentioned below.
@@ -155,8 +150,9 @@ thumbnail: https://thmb.techidaily.com/b4422105d5b201d3b53a4eb264e1f06b970718d58
 * **Check Your Internet Connection:** This one may seem obvious, but a slow or intermittent internet connection can prevent OneDrive from syncing files. It’s a good idea to rule out any Ethernet or [Wi-Fi problems on your Windows 11 computer](https://www.makeuseof.com/tag/fix-windows-10-wi-fi-problems/).
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Sync Your OneDrive Files on Windows 11
 
  Even though OneDrive is a Microsoft product, it can still experience issues, just like any other app. Following the above tips should resolve any sync issues you may be having with OneDrive on your Windows 11 computer.
@@ -165,11 +161,33 @@ thumbnail: https://thmb.techidaily.com/b4422105d5b201d3b53a4eb264e1f06b970718d58
 
  If you are affected by a similar issue, don’t panic. We have compiled a list of several useful solutions that should get OneDrive to sync your files as before.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-ideal-steadicams-for-capturing-quality-uav-visuals/"><u>[New] Ideal Steadicams for Capturing Quality UAV Visuals</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-the-subtle-art-of-easing-audio-intensity-garageband/"><u>[Updated] 2024 Approved The Subtle Art of Easing Audio Intensity (Garageband)</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-a-visual-journey-the-art-of-editing-with-snapchat-filters-for-2024/"><u>[Updated] A Visual Journey The Art of Editing with Snapchat Filters for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-resolving-iphone-xs-facial-recognition-hurdles/"><u>[Updated] In 2024, Resolving iPhone X's Facial Recognition Hurdles</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/building-your-own-rotatable-photobook-from-physical-images-with-flipbuilder-techniques/"><u>Building Your Own Rotatable Photobook From Physical Images with FlipBuilder Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-a-windows-application-journey/"><u>ChatGPT: A Windows Application Journey</u></a></li>
+<li><a href="https://common-error.techidaily.com/deciphering-the-secret-behind-pre-set-windows-environments-in-a-professional-setting-insights-into-company-controlled-adjustments/"><u>Deciphering the Secret Behind Pre-Set Windows Environments in a Professional Setting - Insights Into Company Controlled Adjustments</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/is-the-windows-start-button-not-working-heres-how-to-fix-it/"><u>Is the Windows Start Button Not Working? Here's How to Fix It</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-the-art-of-device-naming-without-conflicts-in-windows-pcs/"><u>Master the Art of Device Naming without Conflicts in Windows PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-bluescreenview-techniques/"><u>Mastering BlueScreenView Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-new-horizons-the-efficient-path-for-windows-11-in-place-update/"><u>Navigating New Horizons: The Efficient Path for Windows 11, In-Place Update</u></a></li>
+<li><a href="https://windows11.techidaily.com/power-up-notifications-ensuring-a-fully-charged-battery-on-win11/"><u>Power-Up Notifications: Ensuring a Fully Charged Battery on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-cure-to-steams-online-connectivity-problems/"><u>Quick Cure to Steam's Online Connectivity Problems</u></a></li>
+<li><a href="https://change-location.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Samsung Galaxy A34 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resetting-windows-11s-resource-monitor-when-it-fails/"><u>Resetting Windows 11'S Resource Monitor When It Fails</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-the-classics-windows-11-for-98-revisited/"><u>Reviving the Classics: Windows 11 for '98 Revisited</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-your-linux-experience-in-new-windows-landscape/"><u>Streamlining Your Linux Experience in New Windows Landscape</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailoring-the-windows-11-interface-an-insiders-guide-to-tablet-bar-setup/"><u>Tailoring the Windows 11 Interface: An Insider's Guide to Tablet Bar Setup</u></a></li>
+</ul></div>
+

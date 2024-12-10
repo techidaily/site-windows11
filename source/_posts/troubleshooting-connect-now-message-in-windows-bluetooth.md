@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Connect Now Message in Windows Bluetooth
-date: 2024-08-08T06:15:14.797Z
-updated: 2024-08-09T06:15:14.797Z
+date: 2024-12-07T17:10:50.789Z
+updated: 2024-12-10T19:26:46.845Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/b44ba119c3a3d46ced364c534eba92d8a8e7f5db9
  Consequently, users can’t connect Bluetooth devices like mice, headphones, and speakers because of that issue. It’s an annoying issue that users must get fixed to utilize their Bluetooth devices. This is how you can resolve the “Try connecting your device” error in Windows 11/10.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Run the Bluetooth Troubleshooter
 
  Windows has a Bluetooth troubleshooter that could be useful for fixing the “Try connecting your device” error. That troubleshooter isn’t a guaranteed fix, but it’s worth trying given that it’s designed to resolve Bluetooth issues. You can open the Bluetooth troubleshooter like this:
@@ -31,21 +32,12 @@ thumbnail: https://thmb.techidaily.com/b44ba119c3a3d46ced364c534eba92d8a8e7f5db9
 2. Then select the**System** tab and Troubleshoot to view three navigation options.
 3. Click**Other trouble-shooters** to go to the list of troubleshooting utilities.
 4. Press the Bluetooth troubleshooter’s**Run** button.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![The Run option for the Bluetooth troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bluetooth-troubleshooter.jpg)
 5. Then wait for the troubleshooter to make any changes.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![The Bluetooth troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-bluetooth-troubleshooter.jpg)
 
  To run the Bluetooth troubleshooter in Windows 10, click**Update & Security** within that platform’s Settings app. Click the**Troubleshoot** tab and select**Additional troubleshooters** from there; select**Bluetooth** to access the**Run the troubleshooter** option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ## 2\. Start or Restart the Bluetooth Services
 
  The Bluetooth Support Service needs to be enabled and running for Bluetooth to work. Users have said on Microsoft’s support forum they were able to resolve the “Try connecting your device again” error by starting that service. So, try starting or restarting the Bluetooth Support Service as follows:
@@ -54,9 +46,6 @@ thumbnail: https://thmb.techidaily.com/b44ba119c3a3d46ced364c534eba92d8a8e7f5db9
 2. Type a service keyboard in the search box.
 3. Select the**Services** app shown in the search tool’s results.
 4. Double-click**Bluetooth Support Service** to open its properties window.  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-services-window.jpg)
 5. Choose**Automatic** within the**Startup type** menu.  
 ![The Startup type drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-startup-type-drop-down-menu.jpg)
@@ -79,14 +68,16 @@ thumbnail: https://thmb.techidaily.com/b44ba119c3a3d46ced364c534eba92d8a8e7f5db9
 5. Click the**Find Now** option.
 
 1. Select**Local Services** in the search results.  
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Find Now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/user-search-results.jpg)
 2. Click the Select User window’s**OK** button a couple of times.
 3. Erase the text in the**Password** and**Confirm password** boxes to clear them.  
 ![The Log On tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-log-on-tab.jpg)
 4. Select**Apply** \>**OK** to set the new logon settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Right-click the Bluetooth Support Service and select**Stop** if running. Then restart that same service by right-clicking and selecting**Start** .
 6. Right-click the**Bluetooth Handsfree Service** and select**Start** if that service is stopped.
 
@@ -97,6 +88,10 @@ Now we need to access the Bluetooth settings:
 2. Toggle off the**Bluetooth** setting (assuming it’s on) for a minute.
 3. Click the**Bluetooth** option again to turn it back on.
 4. Open the Start menu and restart your Windows laptop or desktop from there.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Reinstall Your Bluetooth Drivers
 
@@ -109,11 +104,12 @@ Now we need to access the Bluetooth settings:
 5. Then right-click the Bluetooth adapter and select its**Uninstall device** option.  
 ![The Uninstall device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-uninstall-device-option.jpg)
 6. Select**Uninstall** when prompted to confirm the chosen option.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![The Uninstall button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-uninstall-button3.jpg)
 7. Restart the PC for Windows to reinstall a generic Bluetooth driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Alternatively, you can download the latest Bluetooth adapter device driver from the manufacturer’s website for manual installation. Uninstall the Bluetooth driver as outlined in the steps above. Then double-click the downloaded Bluetooth driver setup package to install the latest driver.
 
@@ -124,8 +120,9 @@ Now we need to access the Bluetooth settings:
  There are some things you can do to the Windows system to correct this error.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Restore Windows 11/10 to an Earlier Date
 
  Restoring Windows to a restoration point could be a viable fix for the “Try connecting your device” issue. Much depends on whether there’s a system restore point that predates the error on your PC. If so, selecting to roll Windows back to the restore point saved before the error occurred could work.
@@ -134,20 +131,22 @@ Now we need to access the Bluetooth settings:
 
  Note that you’ll need to reinstall software packages installed after a restore point’s date after applying this potential resolution. Our guide to[setting up and utilizing restore points on Windows](https://www.makeuseof.com/windows-11-create-restore-point/) tells you how to roll back Windows to an earlier time. Choose the oldest restore point you can if you’re not sure what to select.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Reinstall Windows 11
 
  Reinstalling Windows might sound a bit drastic, but some users confirm that to be a potential fix for the “Try connecting your device” error that works. Furthermore, you can reinstall the platform without losing software or user files with the in-place upgrade method.
 
  Follow the instructions in this article about[performing an in-place Windows 11 upgrade](https://www.makeuseof.com/in-place-upgrade-windows-11/) to reinstall the platform without deleting software.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Windows 11 setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-windows-11-setup-window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Utilize Your Connected Bluetooth Devices Again on Windows
 
  Many users have resolved the “Try connecting your device” Bluetooth connection error in Windows 11/10 by applying the potential resolutions in this guide. So, it’s most likely one of the above fixes will also get the same Bluetooth issue sorted on your PC. Then you can utilize your Bluetooth device with Windows PC.
@@ -158,8 +157,6 @@ Now we need to access the Bluetooth settings:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,4 +164,21 @@ Now we need to access the Bluetooth settings:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/issecting-youtubes-activities-post-uploading-videos-for-2024/"><u>[New] Dissecting YouTube's Activities Post-Uploading Videos for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/enhancing-digital-meetings-focus-up-techniques/"><u>Enhancing Digital Meetings Focus Up Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fix-why-your-seagate-usb-drive-wont-appear-in-windows-10-solutions-and-tips/"><u>Fix: Why Your Seagate USB Drive Won't Appear in Windows 10 - Solutions & Tips</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-honor-x50i-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Honor X50i FRP Without Computer</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-google-pixel-8-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Google Pixel 8 Phone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-in-mending-windows-update-failures-0x712/"><u>Mastery in Mending Windows Update Failures: 0X712</u></a></li>
+<li><a href="https://windows11.techidaily.com/rapid-response-to-slow-printer-woes-on-pc/"><u>Rapid Response to Slow Printer Woes on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-camera-unresponsive-on-windows-11/"><u>Remedying Camera Unresponsive on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-launcher-not-found-error-on-windows-pcs/"><u>Resolving Launcher Not Found Error on Windows PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/sync-or-not-addressing-windows-sluggish-internet/"><u>Sync or Not: Addressing Windows' Sluggish Internet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-8-srt-conversion-websites-without-a-cost/"><u>Top 8 SRT Conversion Websites Without a Cost</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-rated-nvidia-hevc-to-mp4-converter-with-cuda-acceleration/"><u>Top Rated NVIDIA HEVC to MP4 Converter with CUDA Acceleration</u></a></li>
+<li><a href="https://facebook.techidaily.com/1719150126533-unleash-spotify-on-a-miniplayer-inside-facebook/"><u>Unleash Spotify on a Miniplayer Inside Facebook</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-maintaining-a-valid-functional-temp-folder/"><u>Windows 11: Maintaining a Valid, Functional Temp Folder</u></a></li>
+</ul></div>
 

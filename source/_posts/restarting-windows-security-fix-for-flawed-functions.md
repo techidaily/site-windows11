@@ -1,7 +1,7 @@
 ---
 title: "Restarting Windows Security: Fix for Flawed Functions"
-date: 2024-08-15T16:16:39.915Z
-updated: 2024-08-16T16:16:39.915Z
+date: 2024-12-03T20:23:46.699Z
+updated: 2024-12-10T20:13:11.886Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 
  It's therefore crucial that Windows security is working at its best; this will keep your computer security airtight. In this article, we’ve laid down some of the best tricks that will help you fix Windows Security on your Windows 11\.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Turn on Windows Security
 
  In rare cases when a PC undergoes a malicious attack one of the first things that the malicious program does is [turn off all the antivirus defenses like Microsoft Defender](https://www.makeuseof.com/how-to-turn-off-microsoft-defender-windows-11/). If your PC has undergone such an attack recently, then it might be possible that you're facing the same issue.
@@ -35,8 +39,9 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
  The Windows Security app will be enabled instantly.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Update Windows 11
 
  How long has it been since you last updated your Windows? If it’s been a while, it might be a good time to brush off the dust from your updates.
@@ -50,11 +55,12 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 
 ![windows update section in the settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/windows-update-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When the updates download is complete, give your PC a quick restart and see if the problem with Windows Security persists. If it does, then jump below to the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Disable Third-Party Antivirus
 
  If you have an additional antivirus installed on your PC, it might be a good time to get rid of it.
@@ -64,8 +70,9 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
  To get started, launch the **Settings** again. Go to **Apps > Apps & features**, search for the antivirus, and when you find it, click on options (three dots) and select **Uninstall**.
 
 ![apps and features in the apps settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/apps-and-feature.png)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The third-party antivirus will be removed. Now restart your Windows 11 and see if the problem with Windows Security persists. It shouldn’t.
@@ -84,11 +91,12 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
  You’ll get a confirmation asking if you really want to reset the app, along with your whole app data. Click on **Reset** to go with it.
 
 ![reset and repair option in the windows security settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/reset-and-repair.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  You can also try the **Repair** option if you don't want to reset the app right off. It’s right there above the **Reset** option. As soon you click on **Repair**, the process will begin. When the Repair is complete, it’ll leave a tick option adjacent to **Repair** box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Run an SFC and DISM Scan
 
@@ -115,8 +123,9 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 `DISM /Online /Cleanup-Image /ScanHealth`
 
 ![execution of dsim scan in the command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/dsim-scan-command-prompt.png)
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As soon as the command finishes executing, your files would've been scanned and all the corruption issues would most possibly have been resolved.
@@ -133,15 +142,9 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 2. Here, scroll down to find and right-click on **Security-Center** and then select **Restart**.
 
 ![security services process in the services app on windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/services-app-windows-11.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  That's it. Follow any other on-screen instructions and wait for the service to reboot of the service. When that's done, restart your PC and the Windows Security service will be fixed by the next boot-up.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Reset Your PC
 
  A panacea for almost all [the common Windows bugs](https://www.makeuseof.com/common-windows-11-problems/), the **Reset Your PC** setting resets your computer and brings it to its initial state. It’s far better than reinstalling the whole Windows, as you can reset your PC while also keeping your personal files and folders intact.
@@ -167,11 +170,33 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 
  It's therefore crucial that Windows security is working at its best; this will keep your computer security airtight. In this article, we’ve laid down some of the best tricks that will help you fix Windows Security on your Windows 11\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-capturing-clarity-ranking-5-excellent-live-stream-devices-for-2024/"><u>[Updated] Capturing Clarity Ranking 5 Excellent Live Stream Devices for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-direct-slideshow-content-into-video-realm-for-2024/"><u>[Updated] Direct Slideshow Content Into Video Realm for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-gopro-fixing-fish-eye-effects-in-video/"><u>[Updated] Mastering GoPro Fixing Fish Eye Effects in Video</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/como-convertir-archivos-aif-gratis-a-linea-con-movavi-sin-problemas/"><u>Cómo Convertir Archivos AIF Gratis a Línea Con Movavi Sin Problemas</u></a></li>
+<li><a href="https://driver-download.techidaily.com/expert-guide-repairing-a-nonfunctional-samsung-blu-ray-player-efficiently/"><u>Expert Guide: Repairing a Nonfunctional Samsung Blu-Ray Player Efficiently</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-the-depths-of-android-and-windows-file-sharing/"><u>Exploring the Depths of Android & Windows File Sharing</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-app-complaint-net-core-install-required-on-windows/"><u>Fixing App Complaint: .NET Core Install Required on Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-long-do-electric-cars-last-compared-to-their-gasoline-powered-counterparts/"><u>How Long Do Electric Cars Last Compared to Their Gasoline-Powered Counterparts?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-crafting-moments-instagrams-highlight-and-download-insights/"><u>In 2024, Crafting Moments Instagram's Highlight and Download Insights</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/inside-insights-windows-saver-mechanics-explained/"><u>Inside Insights: Windows Saver Mechanics Explained</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-how-to-remove-audio-from-video/"><u>New How to Remove Audio From Video</u></a></li>
+<li><a href="https://windows11.techidaily.com/powershell-expertise-uncovering-network-details-in-windows/"><u>PowerShell Expertise: Uncovering Network Details in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/progressive-pathways-mastering-the-art-of-replacing-aged-windows-drivers/"><u>Progressive Pathways: Mastering the Art of Replacing Aged Windows Drivers</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-technical-conundrums-strategies-to-overcome-error-80080300-in-teammers/"><u>Unraveling Technical Conundrums: Strategies to Overcome Error 80080300 in Teammers</u></a></li>
+<li><a href="https://windows11.techidaily.com/visual-upgrade-protocols-a-comprehensive-guide-to-theme-alteration-in-win11/"><u>Visual Upgrade Protocols: A Comprehensive Guide to Theme Alteration in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-installation-insight-pinpointing-software-homesteads/"><u>Windows Installation Insight: Pinpointing Software Homesteads</u></a></li>
+<li><a href="https://windows11.techidaily.com/wsl-and-the-surge-in-linux-popularity/"><u>WSL and the Surge in Linux Popularity</u></a></li>
+</ul></div>
+

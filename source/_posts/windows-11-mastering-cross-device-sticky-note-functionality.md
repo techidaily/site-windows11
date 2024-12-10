@@ -1,7 +1,7 @@
 ---
 title: "Windows 11: Mastering Cross-Device Sticky Note Functionality"
-date: 2024-08-15T16:20:32.227Z
-updated: 2024-08-16T16:20:32.227Z
+date: 2024-12-03T16:08:40.562Z
+updated: 2024-12-10T19:52:21.105Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/e2b3e6d5f3444ca9eb9fe2e05133bcedc239a2116
 
  In this guide, we’ll explore how to use Windows Sticky Notes on all your devices, whether you’re an Android or iOS user, or if you're using a web browser.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Get Started With Windows 11's Sticky Notes on Your PC
 
 ![Windows 11 Sticky Notes on PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-11-colored-sticky-notes.jpg)
@@ -33,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/e2b3e6d5f3444ca9eb9fe2e05133bcedc239a2116
 
 ![Notes list Windows 11 sticky notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/notes-list-windows-11-sticky-notes.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Despite being a basic note-taking app, there are many features to stylize your notes. On the bottom formatting ribbon, you can format text using bold, italics, or strikethrough. There’s also an option to toggle bullets, perfect for making quick lists.
 
  If you use Windows Sticky Notes frequently, you may want to [open Sticky Notes at startup on Windows 11](https://www.makeuseof.com/open-sticky-notes-startup-windows/).
@@ -40,9 +48,6 @@ thumbnail: https://thmb.techidaily.com/e2b3e6d5f3444ca9eb9fe2e05133bcedc239a2116
 ## How to Set Up the Sync Feature on Windows Sticky Notes
 
 ![Windows 11 Sticky Notes Sign In Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/windows-11-sticky-notes-sign-in-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  To sync sticky notes across all your devices, you’ll need to first sign in using your Microsoft account. This step syncs your notes to the cloud and connects them to other Microsoft services required later. Here’s how to set up sync for your sticky notes:
 
@@ -53,19 +58,14 @@ thumbnail: https://thmb.techidaily.com/e2b3e6d5f3444ca9eb9fe2e05133bcedc239a2116
  If you run into any issues, there are some fixes for [Windows 11 Sticky Notes not syncing](https://www.makeuseof.com/fix-sticky-notes-not-syncing-windows-11/) you can explore.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Use Your Windows Sticky Notes on iOS Devices
 
 ![OneNote iPhone App Homescreen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/onenote-homescreen.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![OneNote iPhone App Folders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/onenote-folders.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -83,14 +83,20 @@ Close
 
 ![Sticky Notes list in OneNote for Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/sticky-notes-list-in-onenote-for-android.jpg)
 
-![Sticky Note Window on OneNote for Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/sticky-note-window-on-onenote-for-android.jpg)
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![Sticky Note Window on OneNote for Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/sticky-note-window-on-onenote-for-android.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Sort and filter options in OneNote](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/sort-and-filter-options-in-onenote.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -109,14 +115,12 @@ Close
 ![Sticky notes widget in Microsoft Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/sticky-notes-widget-in-microsoft-launcher.jpg)
 
 ![Sticky note window on Microsoft Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/sticky-note-window-on-microsoft-launcher.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Feed settings in Microsoft Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/feed-settings-in-microsoft-launcher.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 Close
 
@@ -142,11 +146,29 @@ Screenshot by author - Joe Brown
 
  In this guide, we’ll explore how to use Windows Sticky Notes on all your devices, whether you’re an Android or iOS user, or if you're using a web browser.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/levate-viewership-must-use-youtube-seo-tools-for-2024/"><u>[New] Elevate Viewership Must-Use YouTube SEO Tools for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-teachers-channel-blueprint-10-essential-tips-for-youtube-educators/"><u>[Updated] Teachers’ Channel Blueprint 10 Essential Tips for YouTube Educators</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-burn-video-to-dvd-on-mac-2-ways/"><u>2024 Approved Burn Video to DVD on Mac [2 Ways]</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-non-responsive-nvidia-control-panel-in-w11/"><u>Fixing Non-Responsive NVidia Control Panel in W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-tackle-windows-no-write-file-saving-problems/"><u>How to Tackle Windows No Write File Saving Problems</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-overlooked-masterpieces-unique-free-speech-to-text-apps-for-mac/"><u>In 2024, Overlooked Masterpieces Unique Free Speech-to-Text Apps for Mac</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-creativity-making-photo-based-videos-using-pixiz/"><u>In 2024, Unleashing Creativity Making Photo-Based Videos Using Pixiz</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-conflicts-easy-access-to-your-printer/"><u>Resolving Conflicts: Easy Access to Your Printer</u></a></li>
+<li><a href="https://windows11.techidaily.com/trimming-down-onedrive-icon-from-the-file-explorer-palette/"><u>Trimming Down OneDrive Icon From the File Explorer Palette</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-guide-solving-virtualboxs-usb-error-on-windows-os/"><u>Troubleshooting Guide: Solving VirtualBox's 'USB Error' On Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleashing-the-potential-for-in-depth-storage-analysis-with-diskusage-on-windows/"><u>Unleashing the Potential for In-Depth Storage Analysis with DiskUsage on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-winning-strategies-in-old-chessboard-manager/"><u>Unlocking Winning Strategies in Old Chessboard Manager</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-looking-for-virtualdub-alternatives-here-are-the-best-options/"><u>Updated In 2024, Looking for VirtualDub Alternatives? Here Are the Best Options</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Windows Evolution: The Remarkable Journey of 7 Ancient Traits Into 11"
-date: 2024-08-08T06:15:19.851Z
-updated: 2024-08-09T06:15:19.851Z
+date: 2024-12-05T19:57:05.950Z
+updated: 2024-12-10T16:17:28.144Z
 tags:
   - windows10
   - windows11
@@ -24,20 +24,18 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
 
 ![the command prompt tool in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/command-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Command Prompt, or cmd.exe, was the default command-line tool in Windows. It was first introduced over 35 years ago, way back in 1987, with the Windows NT version introduced in 1993\. Although its look has much improved over the years, it is essentially the same tool that appeared in Windows XP.
 
  With Windows 11, Microsoft finally moved to combine Command Prompt with PowerShell. This new all-in-one Windows terminal tool is now the default when trying to run Command Prompt in the latest versions of the OS. Even so, the old Command Prompt remains and can still be used if you change a few settings in the Windows Terminal.
 
  Check out our[beginner's guide to the Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) to learn more about how to use this old, but venerable tool.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. The Run Dialog
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![the Run Dialog in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-dialog.jpg)
 
  In terms of overall layout and function, the Run dialog is the same in Windows 11 as it was over 20 years ago. The Run Dialog can be used to directly open an application or document where the path is known. It was first user-accessible as a tool in Windows 95, using the same keyboard shortcut it uses today:**Win + R** .
@@ -46,20 +44,22 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
 
  Be sure to check out the[essential Windows Run commands](https://www.makeuseof.com/tag/windows-run-commands-cheat-sheet/) for tips on how to use this tool.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Disk Management
 
 ![The Disk Management tool in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disk-management.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The ability to be able to manage your storage volumes and partitions has long been an important one in Windows. Even more so with the varied, and arguably more complex, storage options available today. So why Disk Management looks almost identical to the version in Windows 2000 is a bit puzzling.
 
  There are several powerful[Windows partition management tools](https://www.makeuseof.com/windows-disk-management-tools-changer-hdd/) available, such as those from EaseUS, that also look great. There is no immediately apparent reason why Microsoft has not improved the look and function of this essential tool in Windows 11\. Or even in Windows 10\. Of all the features in this list, Disk Management is the one that needs an overhaul the most.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. The Control Panel
 
 ![The Windows 11 Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/control-panel.jpg)
@@ -69,8 +69,9 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
  The Control Panel has been a part of the OS since Windows 1.0\. But it was in Windows XP that it became close to how it remains today, with better navigation and section icons. It began to be depreciated more than 10 years ago in Windows 8\. This depreciation accelerated in Windows 10 with the introduction of the modern Settings app. Maybe Windows 12 will finally have a single location for all user settings.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Disk Clean-up
 
 ![The Disk Cleanup tool in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disk-cleanup.jpg)
@@ -85,9 +86,6 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
 
 ## 6\. The Character Map
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The character map tool in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/character-map.jpg)
 
  For most of us, the Character Map is probably a little-used tool. But it does have some use, and Microsoft clearly thinks it's still used and helpful to some people.
@@ -98,27 +96,25 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
 
 ## 7\. File Explorer
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![The old file explorer in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/explorer.jpg)
 
  Yes, File Explorer. One of the most prominent updates in Windows 11\. In the latest OS, the ribbon was simplified, and Explorer tabs were added several months after launch. And yet strangely, the old File Explorer style still appears. We're not talking about some downloadable customization here. With the click of a button, anyone can find the old design.
 
  Although it isn't ancient, it's still a leftover from Windows 10\. Which itself hadn't changed much for a long time. If you want to check this out, open the Control Panel and click the up arrow in the toolbar. Why this doesn't default to the new File Explorer, and even why it is there at all, is a bit of a mystery. It means there are two versions of the same feature in Windows 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## A Plethora of Old Windows Features, Still in Windows 11
 
  Anyone who has used Windows for any length of time will know how often it is updated. In such a large and complex operating system, it is understandable that not every app, tool, or feature can be given the same attention. But it can be surprising to learn that some parts of Windows haven't changed for years or even decades.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -127,4 +123,24 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-crafting-revenue-in-20-second-chunks-youtube-shorts-magic/"><u>[Updated] 2024 Approved Crafting Revenue in 20-Second Chunks YouTube Shorts Magic</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-deciphering-digital-dominance-youtube-content-strategy-comparison/"><u>[Updated] In 2024, Deciphering Digital Dominance YouTube Content Strategy Comparison</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-tips-and-tricks-for-successful-social-media-video/"><u>2024 Approved Tips & Tricks for Successful Social Media Video</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/camera-innovations-top-10-reviewed-list/"><u>Camera Innovations - Top 10 Reviewed List</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/create-awe-inspiring-gopro-time-lapse-cinematography-for-2024/"><u>Create Awe-Inspiring GoPro Time-Lapse Cinematography for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-workflow-favor-the-windows-terminal-over-others/"><u>Enhance Workflow: Favor the Windows Terminal Over Others</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-samsung-galaxy-a54-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Samsung Galaxy A54 5G Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-of-remedying-world-of-warcrafts-error-code-132/"><u>Mastery of Remedying World of Warcraft’s Error Code 132</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-voluntary-opens-in-ms-marketplace/"><u>Preventing Voluntary Opens in MS Marketplace</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-to-uninstalling-and-reinstalling-on-windows-11/"><u>Quick Guide to Uninstalling and Reinstalling on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-ragnarok-interface-errors-sse/"><u>Resolving Ragnarok Interface Errors (SSE)</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-address-steams-unsyncable-files-dilemma-on-pc/"><u>Strategies to Address Steam's Unsyncable Files Dilemma on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-wi-fi-setup-addressing-inadequate-actions-on-pcs/"><u>Streamlining Wi-Fi Setup: Addressing Inadequate Actions on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-potential-access-unannounced-features-with-vivetool/"><u>Unlocking Potential: Access Unannounced Features with ViVeTool</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-animated-video-magic-12-best-online-makers-to-try-now/"><u>Updated Animated Video Magic 12 Best Online Makers to Try Now</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-writers-choice-best-sticky-note-software-alternatives/"><u>Windows Writers' Choice: Best Sticky Note Software Alternatives</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Tech Refresh 3000: Revolutionary Windows Rebooting"
-date: 2024-08-15T16:16:15.038Z
-updated: 2024-08-16T16:16:15.038Z
+date: 2024-12-09T20:41:49.343Z
+updated: 2024-12-10T19:44:23.175Z
 tags:
   - windows10
   - windows11
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/f8f467b332b89dbb4d8c51eef116fbbce4476e735
 
  Make sure you [know what to back up from your computer](https://www.makeuseof.com/tag/backup-windows-files-folders/), then see our [Windows data backup guide](https://www.makeuseof.com/tag/ultimate-windows-10-data-backup-guide/). Once you have a safe copy of everything, you can proceed with reinstalling Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Factory Reset Windows 10 or Windows 11 Using the Built-In Method
 
  Factory resetting Windows was once an inconvenient process, but Microsoft introduced a much easier way to do so starting in Windows 8\. As this is also included in Windows 10 and Windows 11, it's the best way to factory reset a Windows computer in most cases.
@@ -37,14 +41,11 @@ thumbnail: https://thmb.techidaily.com/f8f467b332b89dbb4d8c51eef116fbbce4476e735
  If you're on Windows 11, head to **Settings > System > Recovery**. Click **Reset PC** next to **Reset this PC** to get started. The steps from here are the same for Windows 11 and Windows 10\. If you run into trouble, see how to [factory reset Windows 11 without an admin password](https://www.makeuseof.com/windows-11-factory-reset-without-admin-password/).
 
 ![Reset This PC Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Reset-This-PC-Windows-11.jpg)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Keep Your Files or Remove Everything?
 
  You'll have two initial options to choose from when you factory reset Windows 10 or 11 this way: **Keep my files** or **Remove everything**.
@@ -56,14 +57,7 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Though the **Keep my files** option will retain your personal data, you should still back up before using it in case something goes wrong.
 
 ![Windows 11 Factory Reset Keep Files Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Windows-11-Factory-Reset-Keep-Files-Option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ### Cloud Download vs. Local Reinstall
 
  You'll next have to choose how you want to reinstall Windows. There are two ways: **Cloud download** or **Local reinstall**.
@@ -77,8 +71,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![Windows 10 Cloud Reinstall Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/Windows-10-Cloud-Reinstall-Option.png)
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Options When Resetting Windows 10 and 11
 
  Next, you'll see an **Additional settings** menu that has a **Current settings** section, containing a summary of what you've chosen to do so far. There's also a **Change settings** link you can click for more options.
@@ -90,11 +85,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  There are additional choices when you pick **Remove everything**. Enabling **Clean data?** will obliterate everything on the drive to reduce the chance of someone recovering it later. Though this process takes some time, you should use it if you're getting rid of your computer. It's not necessary if you're keeping your machine.
 
 ![Windows 10 Reset PC Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/Windows-10-Reset-PC-Options.png)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Turn on **Delete files from all drives?** to erase everything on all drives you have connected to your computer. This includes external hard drives and recovery drives. Because you probably have backups and other important files on those drives, you shouldn't use this unless you want to permanently erase everything associated with your computer. Be careful with this option!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Confirm the Windows Factory Reset Operation
 
@@ -106,6 +102,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Make sure you [take the recommended steps after reinstalling Windows 10](https://www.makeuseof.com/tag/post-installation-windows-10/) if you're sticking with that OS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Reinstall Windows Manually Using Windows Installation Media
 
  If you're not using Windows 10 or 11, want to factory reset Windows 10 or 11 without the Settings menu, or don't want to use the other methods for some reason, you can always factory reset Windows using installation media. This allows you to install a fresh copy of Windows on your computer and wipe out everything currently on it.
@@ -115,9 +115,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  For Windows 10, see [how to install Windows 10 from a bootable USB drive](https://www.makeuseof.com/tag/windows-10-usb-boot-drive/). This will walk you through the process of loading the Windows 10 installer on a flash drive, booting from it, and erasing your current installation with a fresh copy. This is free and easy, as long as you have a spare USB drive.
 
 ![Create installation media for Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/muo-windows-install-usb-media2.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  If you need to reinstall Windows 8.1 from scratch for some reason, you can use [Microsoft's Windows 8.1 download tool](https://www.microsoft.com/en-us/software-download/windows8ISO). This lets you download an [ISO to burn onto a flash drive](https://www.makeuseof.com/tag/10-tools-make-bootable-usb-iso-file/) or DVD so you can reinstall Windows. Simply insert the USB drive or disc containing your installation media, then [boot from the removable device](https://www.makeuseof.com/tag/how-to-change-the-boot-order-on-your-pc-so-you-can-boot-from-usb/). You'll be greeted with the Windows setup screen, which you can proceed through to install a clean copy. Remember that doing this will remove everything currently on the drive where you install Windows.
 
@@ -138,9 +135,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Once Advanced Startup is open, choose **Troubleshoot**, then select **Reset This PC** to walk through nearly the same factory reset procedure as #1 above. You can pick **Advanced options** for more choices, but none of them let you factory reset Windows 10 or 11 unless you have a saved system image.
 
 ![advanced recovery option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/troubleshoot-options-reset-this-PC.png)
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Otherwise, you may be able to boot into the BIOS and directly load the recovery partition on your hard drive, if your PC manufacturer included one. However, if you factory reset with this method, you'll reinstall all the manufacturer bloatware. While it's not ideal, it can work if you have no other options.
 
@@ -158,6 +152,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Windows 10 Security Fresh Start](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/04/Windows-10-Security-Fresh-Start.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Now You Know How to Factory Reset Your Windows Computer
 
  You have several options for factory resetting a Windows computer. On Windows 10 or 11, the built-in factory reset option is quick and easy. If you prefer, all users of modern Windows can download an image from Microsoft and perform a clean installation that way.
@@ -166,11 +164,27 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Depending on your setup and installed version of Windows, you have a few different ways to factory reset a Windows laptop or desktop. We'll show you how to reset a Windows 11, 10, or earlier computer as easily as possible.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-raw-footage-to-youtube-a-step-by-step-process-unveiled-for-2024/"><u>[New] From Raw Footage to YouTube A Step-by-Step Process Unveiled for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-8-best-video-calling-app-for-windows-for-2024/"><u>[Updated] Top 8 Best Video Calling App for Windows for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-advantages-of-downloading-ios-16-cost-free-version-with-exciting-enhancements-released-now/"><u>Discover the Advantages of Downloading iOS 16: Cost-Free Version with Exciting Enhancements Released Now!</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-erratic-windows-default-printer-issues/"><u>Fixing Erratic Windows Default Printer Issues</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-nokia-g22-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Nokia G22 to iPod | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-defy-2-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola Defy 2 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-squared-up-crafting-square-format-videos-with-imovie-and-instagram/"><u>In 2024, Squared Up Crafting Square-Format Videos with iMovie and Instagram</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/push-boundaries-expert-advice-on-snapchat-zooms/"><u>Push Boundaries Expert Advice on Snapchat Zooms</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/save-and-transform-clipsyndicate-content-into-high-quality-mp4-or-avi-video-files-quick-guide/"><u>Save and Transform ClipSyndicate Content Into High-Quality MP4 or AVI Video Files - Quick Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-enabling-grammarly-offline-mode-windows/"><u>Steps for Enabling Grammarly Offline Mode Windows</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-biggest-tech-debates-starters/"><u>The Biggest Tech Debates Starters</u></a></li>
+<li><a href="https://windows11.techidaily.com/validate-your-devices-compatibility-with-win11/"><u>Validate Your Device's Compatibility with Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-1011-updater-problems-and-quick-solutions-for-xerror/"><u>Windows 10/11 Updater Problems & Quick Solutions for XError</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Integrating Portable Software in W11+"
-date: 2024-08-15T16:17:21.256Z
-updated: 2024-08-16T16:17:21.256Z
+date: 2024-12-06T22:04:26.421Z
+updated: 2024-12-10T16:14:24.026Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/2cb7f310cfa40bade9f97a206c11fec1a7936d92f
 ![The self-extracting archive for SyMenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/self-extracthing-archive.jpg)
 8. Then click the**Extract** option for the archive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now it's time to get SyMenu up and running:
 
 1. Double-click the**SyMenu.exe** file.
@@ -44,35 +48,27 @@ Now it's time to get SyMenu up and running:
 5. Finally, select an**Advanced** menu structure option and click**Next** .  
 ![The menu structure options for SyMenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-menu-options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Use SyMenu on Windows
 
  Now you should see a floating "Sy drive" icon on the desktop area. Click that drive icon to view the portable software menu. That menu will include**Search items** ,**My Computer** , and**Tools** submenus.
 
 ![The SyMenu desktop icon and menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-symenu-icon.jpg)
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To add portable software to the menu, click the**Tools** submenu >**Configuration** ; click the**Item Manager** tab and select**Add Program** from there. Click the ellipses button for the**Path** box, choose a portable app on your USB stick, and select**Open** . Press the**Save** button to apply.
 
 ![The Item Manager tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-item-manager.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then you can launch the added software from the app menu. To view more options for an app, right-click its entry on the menu. You can select**Run elevated** ,**Open folder** , and**Delete item** options from a program’s submenu.
 
 ![An app submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/program-options.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 
  Or you can add new apps to the menu from the**SyMenu** program suite. To do so, select the**Get new apps** option on the menu. Choose portable software in the**SyMenu Suite** tab, and select the**Download** option.
 
@@ -81,22 +77,15 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  You can customize colors for the menu from the SyMenu options. Select**Tools** \>**Options** to bring up that window. Click**Theme** to view the options shown below. You can change the menu’s colors by clicking the palette boxes and choosing alternatives.
 
 ![The Theme tab for SyMenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-theme-tab.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The SyMenu options window also includes a**Structure** tab. You can restructure the menu by dragging items up and down the**Menu structure** box. To add more separators, drag**<Separator>** from available elements onto a menu position. Select**Apply** to save all changes made in the SyMenu options window.
 
  If you're looking for apps to add to your repertoire, why not check out[the best portable apps that require no installation](https://www.makeuseof.com/tag/best-portable-apps/) ?
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Add a Portable Software Menu With LiberKey
 
  LiberKey adds a bigger portable software menu to Windows that includes animation effects, tabs, and larger icons. Its tabbed layout enables you to create alternative menu tabs for opening portable apps. These are the steps for adding a portable software menu to Windows with LiberKey:
@@ -106,6 +95,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 3. Select the**Download LiberKey 5.8** option.  
 ![The Download LiberKey option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/download-liberkay-option.jpg)
 4. Double-click**LiberKey\_5.8.1129.exe** to open a setup wizard for the software.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click**Next** to select the**I accept software license agreement** option.
 
 1. Select**Next** a few more times to reach the directory selection option.
@@ -113,17 +107,15 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 3. Select**Next** \>**Yes** when prompted to create a new LiberKey folder.
 4. Then select**Install** to add LiberKey to your USB stick.  
 ![The Install button for LiberKey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-install-option2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Click**Finish** with the Launch LiberKey checkbox selected.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now you’ll see a LiberKey icon in the Windows system tray area. Click that system tray icon to view the menu. That menu has**Most used** and**Recent** which will fill up when you start using LiberKey a bit more. It also includes a pie chart icon that shows the amount of free and used drive storage when you hover the cursor over it.
 
 ![The LiberKey menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-liberkey-menu.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 
  LiberKeys has a smaller floating menu. You can access it by pressing the**Shift** +**Windows** key hotkey. That keyboard shortcut opens a small menu that includes the apps added to LiberKey.
 
@@ -136,9 +128,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Then you can add software to the new menu tab. Right-click anywhere in the tab and select**New shortcut** \>**Application/file** . Choose a portable app to include on the menu and click**Open** .
 
 ![The New shortcut option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-new-shortcut-submenu.jpg)
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also add categories for grouping software to menu tabs. Right-click a menu tab to select the**New Category** option. Input a title in the name box and select**OK** . Then you can drag app shortcuts on LiberKey into category submenus.
 
@@ -156,6 +145,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  If you're a student on the go, be sure to check out the[best free portable apps for students you can take anywhere](https://www.makeuseof.com/free-portable-apps-for-students/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Make Your Portable Apps More Accessible on Windows
 
  A SyMenu or LiberKey software menu gives you an entirely new way to manage and launch portable apps on Windows PCs. You can make all your portable software more directly accessible from the system tray area with LiberKey and SyMenu. That menu will also be truly portable since you can utilize it from a USB stick on different PCs.
@@ -166,8 +159,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -175,4 +166,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-updates.techidaily.com/download-instructions-how-to-install-logitechs-g-pro-controller-on-your-pc-windows-111087/"><u>[Download Instructions] How to Install Logitech's G Pro Controller on Your PC (Windows 11/10/8/7)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-leading-popular-instagram-after-effects-designs/"><u>[New] Leading Popular Instagram After Effects Designs</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-screenstreamer-breaking-down-the-newest-recorder/"><u>[Updated] 2024 Approved ScreenStreamer Breaking Down the Newest Recorder</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/00001776-updated-2024-approved-tripping-up-heres-how-to-avoid-it/"><u>[Updated] 2024 Approved Tripping Up? Here's How to Avoid It!</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-efficient-techniques-for-unwrapping-backgrounds-in-affinity-photo/"><u>2024 Approved Efficient Techniques for Unwrapping Backgrounds in Affinity Photo</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/byte-sized-hits-the-heart-of-viral-content-for-2024/"><u>Byte-Sized Hits The Heart of Viral Content for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-top-7-security-programs-for-windows-os-149-chars/"><u>Exploring Top 7 Security Programs for Windows OS (149 Chars)</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-samsung-galaxy-f14-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Samsung Galaxy F14 5G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-leveraging-luminaries-for-greater-exposure/"><u>In 2024, Leveraging Luminaries for Greater Exposure</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigational-mastery-over-your-folder-of-windows-11-applications/"><u>Navigational Mastery Over Your Folder of Windows 11 Applications</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-startup-obstacles-a-2022-guide-for-playing-outriders-on-windows/"><u>Overcoming Startup Obstacles: A 2022 Guide for Playing Outriders on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/rehabbing-a-controller-that-refuses-to-work-on-windows/"><u>Rehabbing a Controller That Refuses to Work on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategic-ways-to-procure-cost-effective-windows-product-keys/"><u>Strategic Ways to Procure Cost-Effective Windows Product Keys</u></a></li>
+<li><a href="https://windows11.techidaily.com/unearth-hidden-5ghz-network-in-windows-11-with-simple-fixes/"><u>Unearth Hidden 5GHz Network in Windows 11 with Simple Fixes</u></a></li>
+</ul></div>
 

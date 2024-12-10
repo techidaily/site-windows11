@@ -1,7 +1,7 @@
 ---
 title: Supercharge Win11's Notepad with Astute Mentor
-date: 2024-08-15T16:18:32.600Z
-updated: 2024-08-16T16:18:32.600Z
+date: 2024-12-03T16:31:41.662Z
+updated: 2024-12-10T20:38:31.733Z
 tags:
   - windows10
   - windows11
@@ -25,8 +25,9 @@ thumbnail: https://thmb.techidaily.com/5ccaaabe736ffa61c5b51b0c29ef16cab934fcf39
 * [Criticisms of the Copilot and Windows Notepad integration](#criticisms-of-the-copilot-and-windows-notepad-integration)
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Microsoft integrated Copilot AI into Notepad for decoding technical text, suggesting code improvements, and summarizing documents.
@@ -46,24 +47,15 @@ thumbnail: https://thmb.techidaily.com/5ccaaabe736ffa61c5b51b0c29ef16cab934fcf39
  Alternatively, you can use the handy Ctrl+E shortcut. This will launch [Microsoft Copilot](https://www.makeuseof.com/what-is-microsoft-365-copilot/) and dock it right beside your Notepad tab. You’ll then be prompted to allow your data to be sent to a Copilot chat.
 
 ![The Send to chat displayed in Microsoft Copilot next to Windows Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/the-send-to-chat-displayed-in-microsoft-copilot-next-to-windows-notepad.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 
  Once you’ve sent the text to chat, Copilot will help you understand what’s going on.
 
 ![Microsoft Copilot explaining code highlighted in Windows Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-copilot-explaining-code-highlighted-in-windows-notepad.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Whether you’re a seasoned programmer tackling a problematic system log or a newbie struggling with a script, Copilot can help out. It’s especially useful when working on systems without access to advanced code editors, as Notepad remains one of the best ways to view source code and output logs.
 
  To get started, ensure you have the latest version of Notepad (11.2401.25.0 or newer) installed, as Microsoft is gradually rolling out this Copilot integration. Then, highlight your confusing text and let the AI do its magic!
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Write and Edit Code Faster (But Don’t Expect an IDE)
 
  Notepad wasn't designed as a full-fledged code editor. As a developer, you can access far more robust tools like [integrated development environments (IDEs) and dedicated text editors for Linux](https://www.makeuseof.com/best-ide-code-editors-for-linux/) and other systems explicitly built for writing and managing code. Things like handling different newline formats have plagued Notepad for ages.
@@ -75,20 +67,18 @@ thumbnail: https://thmb.techidaily.com/5ccaaabe736ffa61c5b51b0c29ef16cab934fcf39
  I tried one of PCMag's [cool programming tricks](http://www.pcmag.com/news/7-cool-programming-tricks-inside-microsoft-notepad). I grabbed the code online and then sent it to Copilot as above.
 
 ![Microsoft Copilot explaining a VBScript code highlighted in Windows Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-copilot-explaining-a-vbscript-code-highlighted-in-windows-notepad.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 
  After Copilot explained the code snippet, I asked if it was okay for execution. The AI assistant said it was good to go and explained how I could get it to run.
 
 ![A conversation between the author and Microsoft Copilot regarding code highlighted in Windows Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/a-conversation-between-the-author-and-microsoft-copilot-regarding-code-highlighted-in-windows-notepad.jpg)
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Here’s how it turned out.
 
 ![An executed VBScript code placed beside the VBS file on the Windows Desktop homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/an-executed-vbscript-code-placed-beside-the-vbs-file-on-the-windows-desktop-homepage.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Whether you’re a curious coding newbie or just need to make a quick fix without firing up a full IDE, give Notepad’s new AI sidekick a spin. Who knows, you might be surprised at what that unassuming app can do with a smarter Copilot riding shotgun.
 
@@ -100,11 +90,12 @@ thumbnail: https://thmb.techidaily.com/5ccaaabe736ffa61c5b51b0c29ef16cab934fcf39
 
 ![Microsoft Copilot explaining and summarizing a section of a research work highlighted in Windows Notepad.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-copilot-explaining-and-summarizing-a-section-of-a-research-work-highlighted-in-windows-notepad.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Between its unmatched speed for opening and lightweight footprint, Notepad has always been ideal for quickly getting words onto the screen. With Copilot’s AI smarts, it becomes an all-purpose text utility that can decode nearly any subject.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Copilot Enhances Notepad’s Simplicity With AI Power
 
  Notepad has been a comforting constant in the evolving Windows ecosystem for decades. [From Windows 95 to today’s Windows 11](https://www.makeuseof.com/windows-brief-history/), this humble text editor has remained delightfully simple—a true rarity in our age of bloated apps and excessive features.
@@ -113,11 +104,19 @@ thumbnail: https://thmb.techidaily.com/5ccaaabe736ffa61c5b51b0c29ef16cab934fcf39
 
 ![An open tab in Windows Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/an-open-tab-in-windows-notepad.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  And while Microsoft could have reinvented the wheel, the Copilot integration wisely keeps Notepad’s iconic simplicity intact. This AI assistant operates behind the scenes, ready to lend its smarts when needed but never intrusive or altering Notepad’s essence.
 
  The integration is entirely optional, allowing Notepad to remain your trusty, lightweight note-taking companion. But with a quick shortcut, Copilot unlocks powerful capabilities—decoding confusing text, suggesting code improvements, and even summarizing dense documents.
 
  It’s a refreshing blend of nostalgia and innovation for long-time Windows users.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Criticisms of the Copilot and Windows Notepad integration
 
@@ -131,11 +130,29 @@ thumbnail: https://thmb.techidaily.com/5ccaaabe736ffa61c5b51b0c29ef16cab934fcf39
 
  However, if you’re seeking to decode complex logs, code, or text without leaving Notepad’s familiar confines, this AI-powered addition could be a game-changing time saver, providing a best-of-both-worlds blend of AI superpower and classic simplicity. Give it a try and see how it can streamline your Notepad workflow.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-a-peek-into-the-m1-max-clips-capabilities/"><u>[Updated] A Peek Into the M1 Max Clip's Capabilities</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conquer-the-configuring-hurdle-troubleshooting-steps-to-unstick-your-windows-installation/"><u>Conquer the Configuring Hurdle: Troubleshooting Steps to Unstick Your Windows Installation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dall-e-3-enhances-user-experience-with-integrated-edit-tools-yet-refinements-are-needed/"><u>DALL-E 3 Enhances User Experience with Integrated Edit Tools, Yet Refinements Are Needed</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-ioss-finest-gba-emulation-tools/"><u>Explore iOS's Finest GBA Emulation Tools</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-poco-c50-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-self-created-soundtracks-for-your-instagram-alerts/"><u>In 2024, Self-Created Soundtracks for Your Instagram Alerts</u></a></li>
+<li><a href="https://windows11.techidaily.com/one-step-further-batch-to-winexe-journey-unveiled/"><u>One Step Further: Batch-to-WinEXE Journey Unveiled</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-to-turn-off-windows-11-notifies/"><u>Quick Guide to Turn Off Windows 11 Notifies</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-not-available-status-codes-in-windows-os/"><u>Resolving 'Not Available' Status Codes in Windows OS</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-updating-intel-optane-hardware-support-in-windows-operating-system/"><u>Step-by-Step Tutorial: Updating Intel Optane Hardware Support in Windows Operating System</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-task-execution-top-6-windows-performance-monitors/"><u>Streamline Task Execution: Top 6 Windows Performance Monitors</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-managing-your-windows-devices-via-printer-settings/"><u>The Ultimate Guide to Managing Your Windows Devices via Printer Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/top-7-strategies-for-successful-folders-management-in-win-11/"><u>Top 7 Strategies for Successful Folders Management in Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-disabling-windows-lsa-security-signal/"><u>Troubleshooting: Disabling Windows LSA Security Signal</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-resolving-winrars-sum-verification-failures/"><u>Troubleshooting: Resolving WinRAR's Sum Verification Failures</u></a></li>
+</ul></div>
+

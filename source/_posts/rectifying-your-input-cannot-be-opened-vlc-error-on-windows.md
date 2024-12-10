@@ -1,7 +1,7 @@
 ---
 title: Rectifying 'Your Input Cannot Be Opened' VLC Error on Windows
-date: 2024-08-15T16:20:30.041Z
-updated: 2024-08-16T16:20:30.041Z
+date: 2024-12-08T18:47:22.356Z
+updated: 2024-12-10T18:01:23.881Z
 tags:
   - windows10
   - windows11
@@ -38,9 +38,6 @@ To move the media file to a different folder:
 ## 2\. Change Folder or File Name
 
 ![rename file folder windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/rename-file-folder-windows-11.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 
  If you have a large folder with hundreds of media files,[renaming the folder or file on Windows](https://www.makeuseof.com/windows-11-rename-files/) can help you fix this error. Try to rename the folder with a short name to fix the error.
 
@@ -55,6 +52,10 @@ To rename the folder:
 5. Rename the folder or file to a small name than the current folder name. Avoid using any special characters.
 6. Once renamed, open the folder and play any media file with the error to see if the problem is resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Reset VLC Media Player Preference
 
  VLC offers tons of customization options. If the error is triggered after making a change to the VLC media player, you can reset the preferences to fix the issue.
@@ -67,11 +68,13 @@ To rename the folder:
 3. In the**Interface** tab, scroll down and click on**Reset Preferences.**  
 ![reset preferences vlc media player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/reset-preferences-vlc-media-player.jpg)
 4. Click**OK** when the **Are you sure you want to reset your VLC media player preferences** dialog appears.
-5. Relaunch the VLC media player and try to play the media file to see if the error is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Relaunch the VLC media player and try to play the media file to see if the error is resolved.
+
 ## 4\. Modify the Youtube.luac VLC File to Fix Issues With YouTube Video Steaming
 
  When trying to stream a YouTube video, you may encounter the VLC is unable to open the MRL error. To fix the YouTube streaming error on VLC, you’ll need to modify an associated YouTube.luac file and replace it with a new script available on GitHub. Here’s how to do it.
@@ -80,27 +83,35 @@ To rename the folder:
 2. Next, select all the content of the script on the YouTube.luac page. Alternatively, click the**Copy raw content** button in the top right corner to copy the code to your clipboard.  
 ![youtube luac code script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/youtube-luac-code-script.jpg)
 3. Next, press the**Win key** and type**VLC** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Right-click on the VLC Media Player icon and select**Open File Location.**  
 ![open vlc media player file location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-vlc-medai-player-file-location.jpg)
 5. Next, right-click again on the**VLC media player** icon in the new**File Explore** tab and select**Open file location.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Here, locate and open the**lua** folder.
 2. Next, open the**playlist** folder.
 3. Locate and right-click on the**youtube.luac** file.  
 ![edit youtube luac file vlc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/edit-youtube-luac-file-vlc.jpg)
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Select**Open with** and select**Notepad++** or another text file editor to open the file.  
 ![youtube luac script save](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/youtube-luac-script-save.jpg)
 5. When the file opens, press**Ctrl + A** to select all the contents of the file. Then, press**Ctrl + V** to paste the script copied from the GitHub page for VLC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Press**Ctrl + S** and click**Yes** to confirm the action.
 
  Once the file is saved, launch VLC and check if the error is resolved. If not, try to create a new text file with the above script and save it as**youtube.lua** . Next, delete the**youtube.luac** file in**VLC\\lua\\playlist** and then move the**youtube.lua** file to the same folder. Try to stream any YouTube video via VLC to check if the error is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ## 5\. Take Ownership of the Media File
 
  You can[take ownership of a file in Windows](https://www.makeuseof.com/take-ownership-of-windows-files-and-folders-with-these-tools/) to fix the "your input can’t be opened" error in VLC. Taking ownership should work if the error is triggered due to insufficient permission to access the file.
@@ -110,24 +121,19 @@ To take ownership of a media file:
 1. Open**File Explorer** and navigate to the location where the file is stored.
 2. Right-click on the media file and select**Properties** .  
 ![properties media](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/properties-media.jpg)
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 3. In the**Properties** dialog, open the**Security** tab.
 4. Next, click the**Advanced** button.  
 ![file properties advanced security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/file-properties-advanced-security.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 5. Click the**Change** button for**Owner** .  
 ![file properties advanced security change owner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/file-properties-advanced-security-change-owner.jpg)
 6. Next, type your user account name in the**Enter** t**he object name to select the** field and click**Check Names.**  
 ![file properties advanced security change owner select user group](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/file-properties-advanced-security-change-owner-select-user-group.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 7. If the user is found, click**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Click**Apply** and**OK** on all the open dialogs to save the changes.
 
 ## 6\. Reinstall VLC Media Player
@@ -139,34 +145,24 @@ To uninstall the VLC media player:
 1. Press**Win + I** to open**Settings** .
 2. Next, open the**Apps** tab in the left pane.  
 ![windows 11 view installed apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-view-installed-apps.jpg)
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click on**Installed apps** and then search for VLC.  
 ![uninstall vlc media player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-vlc-media-player.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Click the**three-dots menu** for the VLC media player and select**Uninstall** . Click**Uninstall** once again to confirm the action.
 5. Once uninstalled, open the[VLC media player page](https://www.videolan.org/vlc/) and download the installer. Install the app and check for any improvements.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Invalid File Name and Long File Path Triggers This Error
 
  If the error occurs when playing a local media file, you can fix it by renaming it or moving it to a different folder. Often an invalid file name issue seem to trigger this error on VLC. However, to fix the issue while streaming a YouTube video, you’ll need to modify the youtube.luac file and add the new code to make it work again.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -175,4 +171,24 @@ To uninstall the VLC media player:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/iscover-top-10-flv-to-youtube-conversion-tools/"><u>[New] Discover Top 10 Flv-to-YouTube Conversion Tools</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-effortless-volume-taming-gradual-dimming-in-digital-realm/"><u>[New] Effortless Volume Taming Gradual Dimming in Digital Realm</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-sprinkle-some-joy-incorporating-emojis-into-youtube-discussions/"><u>2024 Approved Sprinkle Some Joy Incorporating Emojis Into Youtube Discussions</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-ultimate-gecata-analyzer-report/"><u>2024 Approved Ultimate GECATA Analyzer Report</u></a></li>
+<li><a href="https://article-files.techidaily.com/budget-savvy-shoppers-guide-to-panoramic-recording-tech/"><u>Budget-Savvy Shoppers' Guide to Panoramic Recording Tech</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/customizing-pre-loader-swf-files-for-enhanced-user-experience-on-your-flipbook-creations/"><u>Customizing Pre-Loader SWF Files for Enhanced User Experience on Your FlipBook Creations</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-open-windows-powershell-as-an-administrator-in-windows-11/"><u>How to Open Windows PowerShell as an Administrator in Windows 11</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-poco-x6-pro-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Poco X6 Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-past-fatal-error-code-0x800f0831-with-ease/"><u>Navigating Past Fatal Error Code 0X800f0831 with Ease</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-the-wacatacbml-scourge-in-windows-environments/"><u>Navigating Through the Wacatac.B!ml Scourge in Windows Environments</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-troubles-in-windows-discord-searches/"><u>Navigating Troubles in Windows Discord Searches</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-hidden-network-setup-issue/"><u>Overcoming Windows' Hidden Network Setup Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/recover-access-to-windows-router-configuration/"><u>Recover Access to Windows Router Configuration</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlined-workflows-with-uwp-app-shortcuts-on-windows-11/"><u>Streamlined Workflows with UWP App Shortcuts on Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-how-to-on-reviving-a-disabled-snapchat-username/"><u>The Ultimate How-To on Reviving a Disabled Snapchat Username</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-list-of-9-reasons-for-transitioning-to-modern-outlook/"><u>The Ultimate List of 9 Reasons for Transitioning to Modern Outlook</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/uncover-ustream-plus-alternatives/"><u>Uncover Ustream Plus Alternatives</u></a></li>
+</ul></div>
 

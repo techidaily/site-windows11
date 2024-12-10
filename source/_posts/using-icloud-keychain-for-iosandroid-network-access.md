@@ -1,7 +1,7 @@
 ---
 title: Using iCloud Keychain for iOS/Android Network Access
-date: 2024-12-03T04:20:00.932Z
-updated: 2024-12-03T20:23:46.661Z
+date: 2024-12-09T20:45:34.206Z
+updated: 2024-12-10T19:06:24.999Z
 tags:
   - windows10
   - windows11
@@ -23,15 +23,15 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is Network File Sharing?
 
  When you want to share a file or folder with someone, sometimes it is faster to share it over your local network, rather than uploading to the cloud or looking for a USB flash drive. This process is called network file sharing. File Transfer Protocol (FTP) is also a valid option for file sharing remotely or on the local network but, it's much more of a hassle to set up than Windows Network Share.
 
  Windows Network Share utilizes the SMB protocol internally to make files, directories, or, entire drives available for read/write access for devices on the local network. While it's super easy and swift to set up, it's also a common target for adversaries. So, it's wise that you learn [how the SMB protocol works and some common SMB vulnerabilities](https://www.makeuseof.com/what-is-smb-protocol-and-what-are-its-risks/) to ensure that your network perimeter isn't breached.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Share a Windows Drive on Your Local Network
 
@@ -47,9 +47,17 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 ![sharing tab open in properties menu of a drive-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sharing-tab-open-in-properties-menu-of-a-drive-1.jpg)
 4. Click on **Advanced Settings** in the new pop-up menu, check the **Share this folder** box, and wait, it's not over yet. Now to prevent unsolicited access to your locally shared drives, click on **Permissions**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. In the new menu that pops up, click on **Add**. Yet another box should pop up. Here, type in the username of your user account. Use a dedicated user account only for network access or use your primary account's username and press **Enter**. You should find your name is present on the list of users with permission to the shared drive.  
 ![Adding a new user in the access group of the shared drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/adding-a-new-user-in-the-access-group-of-the-shared-drive.jpg)
 6. Finally, click on your account name, and in the **Permissions for <account name>** section, check the **Full Control** box and hit **Apply**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Adding permissions to the user account and confimring changes by pressing on Apply](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/adding-permissions-to-the-user-account-and-confimring-changes-by-pressing-on-apply.jpg)
 
@@ -69,10 +77,14 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 ![Selecting Network Share on Files app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/selecting-network-share-on-files-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Selecting SMB Protocol](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/selecting-smb-protocol.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Manually adding the device and account details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/manually-adding-the-device-and-account-details.jpg)
 
@@ -83,10 +95,6 @@ Close
  Now, you should be able to access files on your Windows PC from your Android device. You can modify the files or download them to your Android device. All done without ever needing any external application!
 
  On some devices, such as Samsung phones, when you click on **Network Storage**, you might be asked to update the Files app to add the network access functionality. Proceed to do so, and then return to the guide.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Access Your Windows Files From an iOS Device
 
@@ -100,23 +108,15 @@ Close
 
 ![Connecting to the shared drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/connecting-to-the-shared-drive.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Typing in the IP of the Windows PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/typing-in-the-ip-of-the-windows-pc.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Typing in user account credentials](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/typing-in-user-account-credentials.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Access established to the drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/access-established-to-the-drive.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![The shared drive being listed on the Browse Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-shared-drive-being-listed-on-the-browse-menu.jpeg)
 
@@ -140,19 +140,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-next-level-mp4-experience-integrating-advanced-srt-audio/"><u>[New] Next-Level MP4 Experience Integrating Advanced SRT Audio</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-recorders-unite-compete-for-2024/"><u>[New] Recorders Unite, Compete for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-top-30-tag-strategies-for-boosting-views-in-freefire-gaming/"><u>[Updated] Top 30 Tag Strategies for Boosting Views in FreeFire Gaming</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-vivo-t2-pro-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Vivo T2 Pro 5G without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/a-peek-into-the-sudden-breakdown-of-popular-platforms/"><u>A Peek Into the Sudden Breakdown of Popular Platforms</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-14-pro-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi 14 Pro in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastery-awaits-conquering-windows-11-with-group-software-updates-via-winstall/"><u>Mastery Awaits: Conquering Windows 11 with Group Software Updates via Winstall</u></a></li>
-<li><a href="https://article-files.techidaily.com/scribing-success-engaging-examples-for-podcasts-for-2024/"><u>Scribing Success Engaging Examples for Podcasts for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/securing-calc-spotlighting-in-windows-environment/"><u>Securing Calc Spotlighting in Windows Environment</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/streamlined-mov-recording-tactics-on-windows-11-platforms/"><u>Streamlined .MOV Recording Tactics on Windows 11 Platforms</u></a></li>
-<li><a href="https://windows11.techidaily.com/tailor-windows-11-task-manager-interface-elements/"><u>Tailor Windows 11 Task Manager Interface Elements</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-techniques-for-overcoming-the-0xc000000e-blue-screen/"><u>Troubleshooting Techniques for Overcoming the 0XC000000E Blue Screen</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlock-the-power-of-taskbar-icon-size-in-w11/"><u>Unlock the Power of Taskbar Icon Size in W11</u></a></li>
-<li><a href="https://windows11.techidaily.com/winning-at-preservation-moving-old-games-into-windows-11-folder/"><u>Winning at Preservation: Moving Old Games Into Windows 11 Folder</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-master-class-on-cutting-unwanted-backdrops/"><u>[New] In 2024, Master Class on Cutting Unwanted Backdrops</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-mastering-iphones-voice-memo-functionality/"><u>[New] In 2024, Mastering iPhone's Voice Memo Functionality</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-capturing-hulu-live-anywhere-a-practical-how-to-manual-for-2024/"><u>[Updated] Capturing Hulu Live Anywhere - A Practical How-To Manual for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-mastering-snap-camera-in-ms-teams/"><u>[Updated] Mastering Snap Camera in MS Teams</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-nokia-c210-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Nokia C210 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-inoperative-drive-not-detected-by-os/"><u>Fixing Inoperative Drive Not Detected by OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-for-fixing-nvidia-gui-sharing-glitches/"><u>Guide for Fixing NVIDIA GUI Sharing Glitches</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-tasks-effortlessly-top-8-pomodoro-timer-reviews-on-pc/"><u>Mastering Tasks Effortlessly - Top 8 Pomodoro Timer Reviews on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-steam-setup-obstacles-on-windows-11-devices/"><u>Overcoming Steam Setup Obstacles on Windows 11 Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/restore-your-window-11-drag-functionality/"><u>Restore Your Window 11 Drag Functionality</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/smartphone-as-your-gateway-to-immersive-virtual-reality-for-2024/"><u>Smartphone as Your Gateway to Immersive Virtual Reality for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-to-open-adobe-ps-in-w11-after-updates/"><u>Step-by-Step to Open Adobe PS in W11 After Updates</u></a></li>
+<li><a href="https://win11.techidaily.com/transforming-dvd-menus-into-mp4-format-using-handbrake/"><u>Transforming DVD Menus Into MP4 Format Using HandBrake</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/tutorial-comment-sauvegardez-vos-fichiers-de-cle-usb-sur-windows-11-10-8-ou-7/"><u>Tutorial : Comment Sauvegardez Vos Fichiers De Clé USB Sur Windows 11, 10, 8 Ou 7</u></a></li>
+<li><a href="https://windows11.techidaily.com/voice-activated-mastery-in-windows-11s-accessibility-features/"><u>Voice-Activated Mastery in Windows 11'S Accessibility Features</u></a></li>
 </ul></div>
 

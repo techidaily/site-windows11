@@ -1,7 +1,7 @@
 ---
 title: "Unblock and Unlock Notepad on Windows: 7 Proven Tricks to Open It Up"
-date: 2024-11-28T06:19:38.819Z
-updated: 2024-12-03T21:39:21.925Z
+date: 2024-12-04T20:54:57.895Z
+updated: 2024-12-10T20:49:56.405Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/2527931ff4c659441e41ccebfbfcddf054977d94a
 
  You could also ask Cortana to open Notepad. However, if none of these methods work, proceed to the next solution.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Set Notepad as the Default Text Editor
 
  If Notepad is not set as the default text editor app on Windows, your text files may open in a different app. If you don't want that, use these steps to set Notepad as the default text editor app.
@@ -48,14 +52,10 @@ thumbnail: https://thmb.techidaily.com/2527931ff4c659441e41ccebfbfcddf054977d94a
 7. Select**Notepad** and click the**Set default** button.  
 ![Set Notepad as Default Text Editor App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/set-notepad-as-default-text-editor-app-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Try opening a few text files and see if they open in Notepad.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Repair or Reset the Notepad App
@@ -70,6 +70,10 @@ To repair the Notepad app on Windows:
 4. Click the**three-dot menu icon** next to Notepad and select**Advanced options** .
 5. Scroll down to the Reset section and click the**Repair** button.  
 ![Repair or Reset the Notepad App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/repair-or-reset-the-notepad-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You should see a checkmark next to the Repair button once the process is complete. Then, try to[open the Notepad app](https://www.makeuseof.com/windows-11-open-notepad/) again.
 
@@ -98,10 +102,6 @@ To repair the Notepad app on Windows:
 9. Click**Install** .  
 ![Install Notepad App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/install-notepad-app-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Wait for Windows to install Notepad on your computer and then try to open it using the search menu.
 
 ## 5\. Run the SFC and DISM Scans
@@ -122,21 +122,17 @@ To run the SFC scan on Windows:
 
 ![DISM Scan in Windows Terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/dism-scan-in-windows-terminal.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After the scan is complete, restart your PC and see if you can access Notepad.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Perform a Clean Boot
 
  At times, third-party apps and background services can conflict with Windows processes and cause problems like the one discussed here. One way to verify this possibility is to boot your computer in a clean boot state, where it only runs with essential apps and services.
 
  If you perform a clean boot and Notepad opens normally, it means that the culprit causing the issue got disabled. If you'd like to learn more about the topic, check out our guide on[how to perform a clean boot on Windows](https://www.makeuseof.com/how-perform-clean-boot-windows-10/) and follow the steps listed there.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Create Another User Account
 
@@ -149,6 +145,10 @@ To create a new user account on Windows:
 3. Click the**Add account** button.
 4. In the Microsoft account window, click **I don't have this person's sign-in information** .  
 ![Microsoft Account Sign-In Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/microsoft-account-sign-in-window.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Follow the on-screen prompts to create a new user account. Make sure you give the new account administrative privileges so that you can[move your personal files and data to the new account](https://www.makeuseof.com/windows-10-copy-files-between-user-accounts/) with ease.
 
@@ -173,16 +173,19 @@ To create a new user account on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-leveraging-nvidia-tools-for-screen-capture-for-2024/"><u>[New] Leveraging NVIDIA Tools for Screen Capture for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-navigate-funimates-complexities-with-ease/"><u>[Updated] In 2024, Navigate Funimate's Complexities with Ease</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-vivo-v30-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Vivo V30 Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-techniques-for-cell-counting-in-microsoft-excel/"><u>Effective Techniques for Cell Counting in Microsoft Excel</u></a></li>
-<li><a href="https://win-news.techidaily.com/how-to-seamlessly-copy-your-windows-11-hard-drive-a-step-by-step-guide/"><u>How To Seamlessly Copy Your Windows 11 Hard Drive: A Step-by-Step Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-samsung-galaxy-xcover-7-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Samsung Galaxy XCover 7 in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/is-there-money-in-evaluating-merchandise-vids-in-2024/"><u>Is There Money in Evaluating Merchandise Vids, In 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-the-art-of-document-conversion-from-word-docs-to-win-11-pdf/"><u>Navigating the Art of Document Conversion From Word Docs to Win 11 PDF</u></a></li>
-<li><a href="https://windows11.techidaily.com/rectifying-non-responsive-spotify-error-on-pcs-with-windows/"><u>Rectifying Non-Responsive Spotify Error on PCs with Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-for-reconnecting-disconnected-printer-on-windows/"><u>Steps for Reconnecting Disconnected Printer on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/winheadset-mic-malfunctions-resolution-steps/"><u>WinHeadset Mic Malfunctions: Resolution Steps</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-crafting-compelling-visual-narratives-with-illustrators-motion-blur/"><u>[New] Crafting Compelling Visual Narratives with Illustrator's Motion Blur</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-exclusive-movies-behind-the-best-chart-for-2024/"><u>[New] Exclusive Movies Behind the Best Chart for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-expert-recommendations-free-chat-apps-with-screen-viewing/"><u>2024 Approved Expert Recommendations Free Chat Apps with Screen Viewing</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-causes-of-pc-disk-issues/"><u>Addressing Causes of PC Disk Issues</u></a></li>
+<li><a href="https://fox-info.techidaily.com/discovering-vr-a-concise-explanation-for-all/"><u>Discovering VR A Concise Explanation for All</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-infinix-zero-5g-2023-turbo-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Infinix Zero 5G 2023 Turbo in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-auto-detection-errors/"><u>Overcoming Windows Auto Detection Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/re-establishing-printer-linkage-in-windows-11-setup/"><u>Re-Establishing Printer Linkage in Windows 11 Setup</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-correcting-incompatible-software-with-windows-operations/"><u>Strategies for Correcting Incompatible Software with Windows Operations</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-servers-not-available-error-on-destiny-2-expert-tips-and-fixes/"><u>Troubleshooting 'Servers Not Available' Error on Destiny 2 - Expert Tips and Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/turning-on-hyper-v-simplified-your-win11-how-to/"><u>Turning On Hyper-V Simplified - Your Win11 How-To</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-save-big-on-final-cut-pro-education-bundle-deals-inside/"><u>Updated 2024 Approved Save Big on Final Cut Pro Education Bundle Deals Inside</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-vivo-y200e-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Vivo Y200e 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-caption-troubleshooting-made-simple/"><u>Win11 Caption Troubleshooting Made Simple</u></a></li>
 </ul></div>
 

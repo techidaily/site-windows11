@@ -1,7 +1,7 @@
 ---
 title: "Seamless Social Connectivity: Winning at FBM Glitches"
-date: 2024-08-15T16:19:32.355Z
-updated: 2024-08-16T16:19:32.355Z
+date: 2024-12-03T19:48:40.092Z
+updated: 2024-12-10T19:37:19.064Z
 tags:
   - windows10
   - windows11
@@ -20,29 +20,16 @@ thumbnail: https://thmb.techidaily.com/8710795f69b6885ee183c5bcebd20dd5644a88070
 
  In this case, you can try the solution listed below to fix the Facebook Messenger app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Is Facebook Messenger Not Working on My Windows PC?
 
  There can be multiple reasons why Facebook Messenger is not working on a Windows PC. But among all, the corrupt cache data is often found to be the primary culprit behind the issue. The problem can also appear due to outdated Windows OS.
 
  Fortunately, it's very easy to troubleshoot the problem. Below are all the effective fixes you can try if Messenger is not working on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ## 1\. Completely Close Facebook Messenger Using the Task Manager
 
  Messenger services running in the background of your Windows PC might interfere when you try to open the application from scratch. To avoid that, consider using the Task Manager to close Messenger completely. Here are the steps to do it.
@@ -54,8 +41,9 @@ Key features:
 Now, check if Messenger is working or not.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Download All Pending Windows Updates
 
  As usual with Windows oddities, updating the operating system to the latest build can fix./ As such, it's worth a try if Facebook Messenger isn't working or opening.
@@ -86,6 +74,10 @@ To use the Windows Store Apps troubleshooter, follow the below steps:
 
  Sometimes the troubleshooter may not be able to resolve the issue, or it might not even detect any problem in the first place, but it's worth considering anyway.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Check the System Date and Time
 
  This might sound odd, but Facebook Messenger might not work if the system is set to an incorrect date and time. This is because Messenger checks if its own time and date are in sync with Window's own. If there's any difference, it'll refuse to work.
@@ -97,10 +89,12 @@ To use the Windows Store Apps troubleshooter, follow the below steps:
 ![Choosing Date & Time in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Date--Time.jpg)
 3. Disable the toggle next to**Set time zone automatically** .  
 ![Disabling Automatic Set Time Zone feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Time-Zone.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 4. Make sure your**Time zone** is correct and change it if not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Enable the toggle next to**Set time zone automatically** .
 6. Click the**Sync now** button under the**Additional settings** .
 
@@ -113,10 +107,12 @@ To use the Windows Store Apps troubleshooter, follow the below steps:
 3. Locate and click on**three dots** next to Messenger.
 4. Choose**Advanced options** from the context menu.  
 ![Choosing Advanced Option of Messenger](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Advanced-Option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 5. Click on the**Repair** button.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Repairing Messenger in the Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Repair-Messenger-1.jpg)
 
  Next, launch the Messenger app and check whether it is working. If not, you will have to reset the application.
@@ -127,9 +123,6 @@ To use the Windows Store Apps troubleshooter, follow the below steps:
 2. Click on the three dots next to Messenger and choose Advanced options.
 3. Click the**Reset** button.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Clear the Microsoft Store Cache
 
  Clearing the Windows Store cache is another effective solution you can try if Facebook Messenger is not working on Windows PC. In fact, removing the Store cache can eliminate many other Windows issues as well. It's very simple to clear the Store cache and will take less than a minute.
@@ -154,17 +147,15 @@ To use the Windows Store Apps troubleshooter, follow the below steps:
 `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\NetworkList\Profiles`
 4. Right-click on the**Profiles** folder in the left sidebar and choose**Permissions.**  
 ![Permission option in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/permission.jpg)
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Click on the**Advanced** button.
 6. Check the **Replace all child object permission entries with inheritable permissions entries from this object** option.  
 ![Replace all child object permission entries with inheritable permissions entries from this object option in the Permission window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/replace-all-child-object-permission-entries-with-inheritable-permissions-entries-from-this-object.jpg)
 7. Click**Apply** \>**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 9\. Reset the Windows Update Components
 
  If any UWP is not opening or working, try resetting the Windows Update components. You can do it with the help of the[Windows Reset Update tool](https://wureset.com/downloads.html) .
@@ -176,25 +167,25 @@ Here's how to use the tool:
 3. Type**Y** and press Enter.
 4. Type**2** and press Enter to reset the Windows Update components.  
 ![Resetting the Windows Component using the Update Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Reset-Windows-Component.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait for the process to complete. Once done, reboot the system and check whether Messenger is working or not.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ## 10\. Reinstall Facebook Messenger
 
  If none of the solutions were helpful, you are left with no option other than reinstalling Facebook Messenger. Here's how to do it.
 
 1. Open the**Start Menu** , type**Messenger,** and choose**Uninstall** from the right pane.  
 ![Uninstall button in the Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Uninstall-Messenger.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 2. Confirm your selection by choosing**Uninstall** from the prompt that appears.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Now, open the Microsoft Store, type Messenger, and press Enter.  
 ![Installing Messenger from Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Install-Messenger.jpg)
 4. Click on**Install** to begin the installation process.
@@ -203,14 +194,11 @@ Here's how to use the tool:
 
  Hopefully, the above solutions helped fix Facebook Messenger, and now you are able to use it without any problem. But if the problem persists, connect with the Messenger support team for more advice.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -219,4 +207,22 @@ Here's how to use the tool:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-8-innovative-tablets-changing-the-face-of-photo-editing-landscape/"><u>[New] 8 Innovative Tablets Changing the Face of Photo Editing Landscape</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-mastering-background-removal-in-figma-step-by-step-tutorial/"><u>[New] Mastering Background Removal in Figma Step-by-Step Tutorial</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-the-essential-list-7-leading-generators-for-nft-artworks/"><u>[Updated] 2024 Approved The Essential List 7 Leading Generators for NFT Artworks</u></a></li>
+<li><a href="https://windows11.techidaily.com/guidelines-for-reviving-stalled-windows-11-menus/"><u>Guidelines for Reviving Stalled Windows 11 Menus</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-10-best-free-photo-collage-apps-for-iphone/"><u>In 2024, 10 Best FREE Photo Collage Apps for iPhone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximizing-efficiency-your-ultimate-guide-to-wsl-2-and-docker/"><u>Maximizing Efficiency: Your Ultimate Guide to WSL 2 & Docker</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-the-ultimate-list-of-adobe-premiere-pro-shortcuts-for-beginners-and-pros-for-2024/"><u>New The Ultimate List of Adobe Premiere Pro Shortcuts for Beginners and Pros for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/razer-synapse-recovery-guide-steps-to-revive-in-windows/"><u>Razer Synapse Recovery Guide: Steps to Revive in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinstating-windows-notification-banners/"><u>Reinstating Windows Notification Banners</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ring-video-doorbell-2-an-exceptional-security-solution-review/"><u>The Ring Video Doorbell 2: An Exceptional Security Solution Review</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/troubleshooting-tips-restore-access-to-an-unresponsive-external-hdd-via-cmd-in-windows-11/"><u>Troubleshooting Tips: Restore Access to an Unresponsive External HDD via CMD in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/what-is-hardware-accelerated-gpu-scheduling-on-windows-heres-how-to-disable-it/"><u>What Is Hardware-Accelerated GPU Scheduling on Windows? Here's How to Disable It</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-storage-management-finding-and-reducing-high-space-items/"><u>Win Storage Management: Finding and Reducing High-Space Items</u></a></li>
+<li><a href="https://windows11.techidaily.com/wintools-insight-exploring-differences-in-chkdsk-and-sfcs-use/"><u>WinTools Insight: Exploring Differences in CHKDSK and SFC's Use</u></a></li>
+</ul></div>
 

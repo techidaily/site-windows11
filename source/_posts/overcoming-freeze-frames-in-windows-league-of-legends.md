@@ -1,7 +1,7 @@
 ---
 title: Overcoming Freeze Frames in Windows League of Legends
-date: 2024-08-15T16:18:03.390Z
-updated: 2024-08-16T16:18:03.390Z
+date: 2024-12-05T21:36:34.362Z
+updated: 2024-12-10T22:03:05.590Z
 tags:
   - windows10
   - windows11
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/acfc08d56b4206022979b3dc0ecd7952203549957
 
  If you encounter a specific error when you launch the game, then you should search for solutions specific to that error. Since every error has a different solution, applying the same fixes covered in this article may not fix all of them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Apply Preliminary Checks
 
  You should first apply the following preliminary fixes, as they may resolve the problem right away:
@@ -46,14 +50,12 @@ thumbnail: https://thmb.techidaily.com/acfc08d56b4206022979b3dc0ecd7952203549957
 
  If the above fixes don't help, start applying the remaining fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Wait It Out
 
 ![Round silver-colored analog stopwatch on brown wooden panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/pexels-anton-makarenko-1078057.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Sometimes, League of Legends takes a bit longer than usual to start up. It's more likely to happen if your hardware isn't strong enough and barely meets the system requirements. So, if you have just launched League of Legends and it appears to be stuck at the loading screen, wait a while to ensure the game isn't just taking extra time to load.
@@ -69,8 +71,9 @@ thumbnail: https://thmb.techidaily.com/acfc08d56b4206022979b3dc0ecd7952203549957
  If the device is connected, [check the stability of the internet connection](https://www.makeuseof.com/check-stability-internet-connection-windows/). If the connection appears to be unstable, [apply the appropriate fixes to stabilize it](https://www.makeuseof.com/tag/fix-slow-unstable-wi-fi-connection/).
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Disable Cheat Software
 
  League of Legends does not tolerate the use of cheats and hacks to gain an advantage in the game. If you modify game files or use cheat software to hack into the game, League of Legends will not let you in. Due to this, the game may not turn on or get stuck on the loading screen.
@@ -87,8 +90,9 @@ thumbnail: https://thmb.techidaily.com/acfc08d56b4206022979b3dc0ecd7952203549957
 ![Ending the Riot Process in Windows Task Manager App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/2-ending-the-riot-process-in-windows-task-manager-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Free Up System Resources
 
  League of Legends is an extremely resource-hungry game. It requires substantial processing power to function correctly. If your system hardware barely meets the minimum game requirements, ensure enough resources are available for the game to run smoothly.
@@ -97,10 +101,6 @@ thumbnail: https://thmb.techidaily.com/acfc08d56b4206022979b3dc0ecd7952203549957
 
  If that is the case, you will need to close graphics-intensive tasks simultaneously running alongside the game. By closing them, your system will have more resources available that League of Legends can use to function smoothly.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ## 7\. Delete the Config and Logs Folders
 
  Files in the Logs folder contain information about errors and problems you encounter in the game. Likewise, the Config folder contains information regarding game configuration and settings. The issue under discussion can be caused by interference by these files. Therefore, you should delete the aforementioned folders.
@@ -115,8 +115,9 @@ thumbnail: https://thmb.techidaily.com/acfc08d56b4206022979b3dc0ecd7952203549957
 ![Deleting the Config Folder of League of Legends in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/3-deleting-the-config-folder-of-league-of-legends-in-windows-file-explorer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Disable Any Active In-Game Overlays
 
  Do you use any in-game overlays, especially the Discord overlay, when playing League of Legends? If so, you should disable them before starting the game to ensure the game doesn't get stuck on the loading screen because of an overlay. To turn off the Discord overlay, follow the below steps:
@@ -135,9 +136,6 @@ thumbnail: https://thmb.techidaily.com/acfc08d56b4206022979b3dc0ecd7952203549957
 
  If you use any other overlay, you can also turn it off in a similar manner within the settings of the app.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## 9\. Whitelist League of Legends From the Windows Defender Firewall
 
  If the game opens for a few seconds and then closes down, the Windows Defender Firewall might be blocking it. To rule out this possibility, you should whitelist League of Legends from Windows Defender Firewall. If you've never done that before, check out our guide on [how to allow apps through Windows Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/).
@@ -149,8 +147,9 @@ thumbnail: https://thmb.techidaily.com/acfc08d56b4206022979b3dc0ecd7952203549957
  If none of the above fixes solve your problem and the game doesn't open, you may need to reinstall it. Before you begin the installation process, you should uninstall the existing installation. Once you have uninstalled it, you can reinstall the game after downloading it from the official website, just as you did the first time.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Get Back to Playing League of Legends on Windows
 
  When League of Legends does not open, frustration may set in. If your system meets the minimum game requirements and you aren't experiencing any specific errors, the fixes above should fix the problem, and you should be able to play the game. When none of the fixes work, reinstall the game.
@@ -159,11 +158,27 @@ thumbnail: https://thmb.techidaily.com/acfc08d56b4206022979b3dc0ecd7952203549957
 
  This article will discuss the causes of League of Legends not opening and how to resolve the issue.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-expertise-in-iphones-high-dynamic-range-photography/"><u>[New] In 2024, Expertise in iPhone's High-Dynamic Range Photography</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-crafting-connection-tips-and-tricks-for-sharing-content-via-facebook/"><u>[Updated] 2024 Approved Crafting Connection Tips and Tricks for Sharing Content via Facebook</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-engaging-audiences-full-rotational-cinematography/"><u>[Updated] Engaging Audiences Full Rotational Cinematography</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-quick-tip-to-uncover-your-recently-watched-movies-on-fb/"><u>[Updated] In 2024, Quick Tip to Uncover Your Recently Watched Movies on FB</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/android-snapshot-wonders-ranking-the-best-8-for-free-screen-capture-for-2024/"><u>Android Snapshot Wonders - Ranking the Best 8 for Free Screen Capture for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-andaseat-flyquest-gaming-desk-evaluation-craftsmanship-meets-ergonomic-excellence/"><u>Comprehensive AndaSeat FlyQuest Gaming Desk Evaluation - Craftsmanship Meets Ergonomic Excellence</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-notepad-tools-winning-for-pen-tablets/"><u>Essential Notepad Tools: Winning For Pen-Tablets</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/evaluating-the-boundaries-of-hero5-sessions-for-2024/"><u>Evaluating the Boundaries of Hero5 Sessions for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-achievement-integration-in-vintage-games-using-retroarch/"><u>Mastering Achievement Integration in Vintage Games Using Retroarch</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-storage-management/"><u>Mastering Windows Storage Management</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-windows-lock-and-unlock-function-fn-key-steps/"><u>Navigating Windows: Lock and Unlock Function (Fn) Key Steps</u></a></li>
+<li><a href="https://windows11.techidaily.com/slumber-procedures-for-windows-devices/"><u>Slumber Procedures for Windows Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-whisperer-learning-to-activate-the-hidden-character-tracker/"><u>Windows Whisperer: Learning to Activate the Hidden Character Tracker</u></a></li>
+</ul></div>
+

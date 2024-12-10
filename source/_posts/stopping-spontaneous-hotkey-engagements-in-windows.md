@@ -1,7 +1,7 @@
 ---
 title: Stopping Spontaneous Hotkey Engagements in Windows
-date: 2024-11-30T04:22:44.191Z
-updated: 2024-12-03T20:45:06.390Z
+date: 2024-12-07T19:45:08.578Z
+updated: 2024-12-10T19:55:58.429Z
 tags:
   - windows10
   - windows11
@@ -31,13 +31,13 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
 
  While we are unsure of what causes the issue, and there’s much less information on what the **Win + Alt** key combo does, it is an easy fix to resolve this problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Turn Off Sticky and Filter Keys
 
 ![turn off filter stickey keys windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/turn-off-filter-stickey-keys-windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Sticky Keys and Filter Keys are Windows accessibility features that can be activated by pressing **Shift** repeatedly or for a long period. If you haven’t activated any of these accessibility features intentionally, make sure it is turned off and see if that returns things back to normal.
 
@@ -54,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
 ![Click on the Run Button Next to the Keyboard Troubleshooter in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/4-click-on-the-run-button-next-to-the-keyboard-troubleshooter-in-windows-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Windows 10 and older versions feature a built-in keyboard troubleshooter to fix commonly known problems with the keyboard. However, the newer iteration of Windows 11 has done away with the keyboard troubleshooter, so you are unlikely to benefit from these steps.
@@ -72,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
 ![Uninstalling Keyboard Driver in Computer Management Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Uninstalling-Keyboard-Driver-in-Computer-Management-Settings.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  A corrupt driver may cause the keyboard to malfunction. To fix the issue, you can uninstall the driver from Device Manager. Upon restart, Windows will automatically detect the connected keyboard and install the necessary drivers.
@@ -100,10 +100,6 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
 ![disable activation shortcut windows ink workspace](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-activatgion-shortcut-windows-ink-workspace.jpg)
 3. Close the **Settings** dialog and check for any improvements.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quit and Disable Auto Startup for Windows Ink Workspace
 
  If you'd prefer that Windows Ink Workspace didn't start up by itself:
@@ -112,6 +108,11 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
 2. Right-click on Windows Ink Workspace and select **Quit**.  
 ![quit windows ink workspace](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/quit-windows-ink-workspace.jpg)
 3. Next, right-click on the Taskbar and Task Manager.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Open the **Startup Apps** tab.
 5. Select **Ink Workspace** and select **Disable**.
 6. Close Task Manager and check if you can type on your keyboard without triggering the app.
@@ -135,19 +136,15 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
 ![create new value AllowWindowsInkWorkspace for microsoft subkey registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/create-new-value-allowwindowsinkworkspace-for-microsoft-subkey-registry-editor.jpg)
 3. Rename the new values as **AllowWindowsInkWorkspace**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Next, double-click on the **AllowWindowsInkWorkspace** value to open its properties.  
 ![disable windowsinkworkspace registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-windowsinkworkspace-registry-editor.jpg)
 5. Type **0** in the **Value data** field and click **OK**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Close the Registry Editor and restart your computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Other Troubleshooting Steps You Can Try
 
@@ -158,6 +155,10 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
 * **Check for hardware problems with an external keyboar**d – Connect an external USB/Bluetooth keyboard to your computer and see if the problem persists. On a laptop, you may want to [disable the built-in laptop keyboard](https://www.makeuseof.com/windows-disable-laptop-keyboard/) and then connect an external keyboard to diagnose the problem.
 * **Uninstall recent Windows updates** – At times, newer Windows updates can introduce new bugs. If you have recently installed an update, try to [manually remove the latest Windows update](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) and see if the issue is resolved.
 * **Perform a system restore** – If the error occurred after installing an update and you can’t uninstall it, you can [use a system restore to undo the update or recent changes made by you](https://www.makeuseof.com/use-system-restore-windows/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get Your Keyboard to Type Again on Windows
 
@@ -177,18 +178,14 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-from-basics-to-advanced-crafting-powerful-instagram-hashtags-for-2024/"><u>[New] From Basics to Advanced Crafting Powerful Instagram Hashtags for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-selecting-premium-microphones-for-mac-users-reviewed/"><u>[New] Selecting Premium Microphones for Mac Users (Reviewed)</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-next-gen-photography-apps-for-smarter-ios-and-android-edits-for-2024/"><u>[Updated] Next-Gen Photography Apps for Smarter iOS & Android Edits for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/embrace-positivity-with-these-11-inspiring-movies-everyone-must-watch/"><u>Embrace Positivity with These 11 Inspiring Movies Everyone Must Watch</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-fiscal-landmarks-understanding-mr-beasts-financial-growth/"><u>In 2024, Fiscal Landmarks Understanding Mr. Beast’s Financial Growth</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-samsung-galaxy-a05s-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Samsung Galaxy A05s Phone?</u></a></li>
-<li><a href="https://windows11.techidaily.com/integrate-and-upgrade-the-best-6-android-apps-on-windows-11/"><u>Integrate and Upgrade: The Best 6 Android Apps on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/leveraging-win-11s-capabilities-for-seamless-application-switch/"><u>Leveraging Win 11'S Capabilities for Seamless Application Switch</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-desktop-organization-notes-on-w11w10/"><u>Mastering Desktop Organization: Notes on W11/W10</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/movavi-apiavi-and-vob/"><u>Movavi: ストリーミングAPIを使った無償的なAVI & VOBファイル変換サービス</u></a></li>
-<li><a href="https://windows11.techidaily.com/rebooting-trust-how-to-rectify-windows-safety-setbacks/"><u>Rebooting Trust: How to Rectify Windows Safety Setbacks</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamline-image-access-via-file-explorer-in-windows-11/"><u>Streamline Image Access via File Explorer in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/winning-the-screen-shot-game-snipping-tool-or-printscreen/"><u>Winning the Screen Shot Game: Snipping Tool or Printscreen?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-essential-pick-for-retro-gaming-top-5-android-tools-for-ps2-titles/"><u>[New] Essential Pick for Retro Gaming Top 5 Android Tools for PS2 Titles</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-free-quality-screen-capture-programs-for-windows/"><u>[Updated] 2024 Approved Free, Quality Screen Capture Programs for Windows</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-techniques-for-modifying-photo-genders-on-major-social-platforms/"><u>[Updated] 2024 Approved Techniques for Modifying Photo Genders on Major Social Platforms</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-ultimate-list-legal-game-music-sources/"><u>[Updated] The Ultimate List Legal Game Music Sources</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/crafting-impressive-instagram-reels-quickly/"><u>Crafting Impressive Instagram Reels Quickly</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-reactivate-lost-bluetooth-listings-dmi/"><u>How to Reactivate Lost Bluetooth Listings DMI</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-app-management-in-windows-the-power-of-winget/"><u>Mastering App Management in Windows: The Power of Winget</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-through-samsung-flow-connected-life-for-devices/"><u>Navigate Through Samsung Flow - Connected Life for Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-startup-opening-sticky-notes-seamlessly-on-pc/"><u>Streamlining Startup: Opening Sticky Notes Seamlessly on PC</u></a></li>
 </ul></div>
 

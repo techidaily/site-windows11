@@ -1,7 +1,7 @@
 ---
 title: Revealing Indexer's Control Accessibility
-date: 2024-08-15T16:20:27.869Z
-updated: 2024-08-16T16:20:27.869Z
+date: 2024-12-07T19:12:06.499Z
+updated: 2024-12-10T16:51:06.158Z
 tags:
   - windows10
   - windows11
@@ -31,8 +31,9 @@ thumbnail: https://thmb.techidaily.com/7ac27936311540a3f6119be289d1db9f62edf4aff
 4. Then click on the**Indexing Options** menu item.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. How to Open Indexing Options From File Explorer
 
  Windows File Explorer provides a quick and easy way to access and manage your file system. Here are the steps to open Indexing Options:
@@ -41,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/7ac27936311540a3f6119be289d1db9f62edf4aff
 2. Type "control.exe srchadmin.dll" in the address bar and hit**Enter** .
 
  This will open up a new window called "Indexing Options". You can use this to find files quickly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. How to Open Indexing Options Using Taskbar Search
 
@@ -52,15 +57,16 @@ thumbnail: https://thmb.techidaily.com/7ac27936311540a3f6119be289d1db9f62edf4aff
 
 This should open the Indexing Options window for you to use.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. How to Open Indexing Options Using a Run Command
 
  Windows Run Command dialog box provides quick access to most of the utilities installed on your PC, including the Indexing Options. This is how you can use it:
 
 1. Open the Run dialog box (see[how to open the Run dialog box on Windows](https://www.makeuseof.com/windows-open-run-command-dialog-box/) ).
 2. Type "control.exe srchadmin.dll" in the search box and hit**Enter** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. How to Open Indexing Options via Command Prompt
 
@@ -69,15 +75,13 @@ This should open the Indexing Options window for you to use.
 1. Open the Command Prompt (see[how to open the Command Prompt](https://www.makeuseof.com/windows-open-command-prompt-powershell/) for methods).
 2. Next, copy and paste the following command and press**Enter** :  
 ![Open Indexing Options Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-indexing-options-using-command-prompt.jpg)  
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 control.exe srchadmin.dll
 3. This will launch the Indexing Options dialog box, where you can adjust the indexing options.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. How to Open Indexing Options With a Desktop Shortcut
 
  If you need to access the Indexing Options frequently on Windows, create a desktop shortcut. Here are the steps:
@@ -85,10 +89,12 @@ control.exe srchadmin.dll
 1. Right-click on the blank area of your desktop and select**New > Shortcut** .
 2. Then type "control.exe srchadmin.dll" and click**Next** .  
 ![Open Indexing Options With Desktop Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-indexing-options-with-desktop-shortcut.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 3. Give your shortcut a name like Indexing Options.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Now click**Finish** to save your changes.
 
  The Indexing Options shortcut will appear on your desktop. To open it, double-click the shortcut icon.
@@ -101,23 +107,17 @@ control.exe srchadmin.dll
 2. Right-click on your shortcut and choose Properties.
 3. Specify a letter or number as a shortcut.  
 ![Open Indexing Options Using Shortcut Key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-indexing-options-using-shortcut-key.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 4. Click**Apply > OK** . You will now have a shortcut key created.
 
 ## Getting Easy Access to the Indexing Options
 
  Now that you have read this post, you know the most useful methods for opening Indexing Options on your Windows operating system. You can test them out and see which works best for you.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -126,4 +126,18 @@ control.exe srchadmin.dll
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/updated-free-logos-sculpt-your-brand-with-stock-imagery/"><u>[Updated] Free Logos Sculpt Your Brand with Stock Imagery</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-safeguarding-your-digital-footprint-on-youtube-for-2024/"><u>[Updated] Safeguarding Your Digital Footprint on YouTube for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/fix-permissions-hurdle-become-an-admin-instantly/"><u>Fix Permissions Hurdle - Become an Admin Instantly</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-fn-button-a-comprehensive-guidebook/"><u>Navigating the Fn Button: A Comprehensive Guidebook</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/save-time-money-on-passport-photos-with-our-free-generator-apps-for-2024/"><u>Save Time, Money on Passport Photos with Our Free Generator Apps for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-overcome-game-hub-connectivity-issues/"><u>Strategies to Overcome Game Hub Connectivity Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/sync-solutions-for-win1011-users-with-adobe-not-available/"><u>Sync Solutions for Win10/11 Users with Adobe Not Available</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/tailored-tv-experience-via-social-media-content-for-2024/"><u>Tailored TV Experience via Social Media Content for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-art-of-capturing-intimate-film-moments-for-2024/"><u>The Art of Capturing Intimate Film Moments for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/ultimate-reddit-winners-a-collection-of-best-posts/"><u>Ultimate Reddit Winners A Collection of Best Posts</u></a></li>
+</ul></div>
 

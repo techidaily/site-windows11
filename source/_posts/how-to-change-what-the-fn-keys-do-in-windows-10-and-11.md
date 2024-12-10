@@ -1,7 +1,7 @@
 ---
 title: How to Change What the Fn Keys Do in Windows 10 and 11
-date: 2024-12-01T17:31:09.911Z
-updated: 2024-12-03T18:28:32.249Z
+date: 2024-12-08T19:10:00.471Z
+updated: 2024-12-10T18:06:46.071Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Are the Function Keys, and Why Do You Need Them?
 
  Function keys, or just "Fn" for short, are used to trigger functions of the F keys (F1, F2, F3, etc.) on the top of the keyboard. In essence, it acts as a shortcut key for basic yet essential functions like changing the volume, brightness, and backlight.
@@ -38,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
  We have a detailed[guide to function keys](https://www.makeuseof.com/windows-function-keys-guide/) where we discuss what all 12 keys do. You can check it out for more insight on the topic.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. How to Change the Function Key Settings Using the Mobility Settings on Dell Computers
@@ -52,18 +48,22 @@ Here is how to proceed:
 ![Hardware and Sound in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/hardware-and-sound.jpg)
 3. Click on**Windows Mobility Center** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Windows mobility center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/hardware-and-sound-windows-mobility-center.jpg)
 4. In the following window, look for the Fn key row section and expand the drop-down under it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. If you wish to choose the F keys for basic functions, choose**Function key** .
 6. Select**Multimedia key** if you want to use the F keys to perform functions that typically require pressing the Fn key.  
 ![Multimedia key in Windows Mobility Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/windows-mobility-center-multimedia-key-1.jpg)
 
  If you own other devices, then you might want to look for similar options in the System or keyboard settings. You can also search the manufacturer’s official website for information regarding such customizations.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. How to Modify the Function Keys Settings in the BIOS
 
@@ -84,10 +84,6 @@ Similarly, if you have an Acer device, follow these steps:
 1. Hold the F2 key and the Power button simultaneously.
 2. Once you reach the BIOS screen, head over to the System Configuration Menu and click Enter in the Action Keys Mode option.
 3. Pick the desired mode and hit Exit.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. How to Change the Function Key Settings Using the UEFI Settings
 
@@ -110,7 +106,7 @@ If you are a Windows 11 user, follow these steps:
 ![Click on Restart now](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/restart-now-button.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you have booted in the Windows Recovery Environment using these steps, proceed with the following:
@@ -123,6 +119,10 @@ If you are a Windows 11 user, follow these steps:
 4. Select the**Hotkey Mode** and click on**Enabled** or**Disabled** .  
 ![hotkey-mode-disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/hotkey-mode-disabled.jpg)
 5. Click**Save** and then press**Exit** to sign out of BIOS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Enable the Fn Lock
 
@@ -165,21 +165,21 @@ If you are a Windows 11 user, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-instagram-edge-adjusting-fcpx-to-vertical-footage-for-2024/"><u>[New] Instagram Edge Adjusting FCPX to Vertical Footage for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-transform-your-videos-on-demand-freedom-through-editing-android-edition/"><u>[New] Transform Your Videos on Demand Freedom Through Editing, Android Edition</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-a-rundown-top-8-exceptional-free-online-translation-platforms/"><u>[Updated] A Rundown Top 8 Exceptional Free Online Translation Platforms</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/designing-a-spectacular-snapshot-of-cinema/"><u>Designing a Spectacular Snapshot of Cinema</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/dreame-bot-l10-pro-review-a-mopping-and-vacuuming-robot-with-lidar/"><u>Dreame Bot L10 Pro Review: A Mopping and Vacuuming Robot with LiDAR</u></a></li>
-<li><a href="https://windows11.techidaily.com/fix-your-slow-internet-matching-mobile-and-desktop-speeds/"><u>Fix Your Slow Internet: Matching Mobile and Desktop Speeds</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/guide-des-meilleurs-reglages-pour-transformer-vos-dvd-en-fichiers-mp4-avec-handbrake/"><u>Guide Des Meilleurs Réglages Pour Transformer Vos DVD en Fichiers MP4 Avec Handbrake</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/harness-youtubes-potential-with-these-top-5-video-marketing-techniques/"><u>Harness YouTube’s Potential with These #Top 5 Video Marketing Techniques</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-windows-lockout-due-to-failed-sign-in-attempts/"><u>Resolving Windows Lockout Due to Failed Sign-In Attempts</u></a></li>
-<li><a href="https://windows11.techidaily.com/revamping-robustness-of-win11s-cleanup-companion-ccleaner/"><u>Revamping Robustness of Win11's Cleanup Companion, CCleaner</u></a></li>
-<li><a href="https://win-able.techidaily.com/successful-strategies-for-resolving-the-witcher-3-unable-to-launch-issue/"><u>Successful Strategies For Resolving The Witcher 3 Unable-To-Launch Issue</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-7-best-photo-organizer-apps-for-windows/"><u>The 7 Best Photo Organizer Apps For Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-ultimate-fix-guide-stabilizing-ps4-input-link-on-pc/"><u>The Ultimate Fix Guide: Stabilizing PS4 Input Link on PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723002510003-unable-to-access-doom-eternal-since-its-delayed-launch-find-remedies-and-get-gaming-now/"><u>Unable to Access DOOM Eternal Since Its Delayed Launch? Find Remedies and Get Gaming Now!</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-how-to-fix-older-user-credential-message/"><u>Unlocking: How to Fix Older User Credential Message</u></a></li>
-<li><a href="https://windows11.techidaily.com/unraveling-directdraw-complexities-in-the-latest-microsoft-oses/"><u>Unraveling DirectDraw Complexities in the Latest Microsoft OSes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-banish-the-chaos-strategies-to-refine-overwhelming-tiktok-drafts/"><u>[New] Banish the Chaos Strategies to Refine Overwhelming TikTok Drafts</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-examining-updates-the-2023-samsung-bd-j5900/"><u>[New] In 2024, Examining Updates The 2023 Samsung BD-J5900</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-instagram-snapshot-of-an-enlightening-episode/"><u>[New] Instagram Snapshot of an Enlightening Episode</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-capturewin10-top-tier-recorder/"><u>2024 Approved CaptureWin10 Top-Tier Recorder</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-make-the-most-of-your-tunes-top-5-tools-for-converting-spotify-to-youtube-playlists/"><u>2024 Approved Make the Most of Your Tunes Top 5 Tools for Converting Spotify to YouTube Playlists</u></a></li>
+<li><a href="https://windows11.techidaily.com/circumventing-driver-checks-in-windows-no-signatures-any-installation/"><u>Circumventing Driver Checks in Windows: No Signatures, Any Installation</u></a></li>
+<li><a href="https://windows11.techidaily.com/controlling-registry-tools-access-on-windows-11/"><u>Controlling Registry Tools Access on Windows 11</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/exploring-secure-options-seeking-reliable-substitutes-for-keepvid/"><u>Exploring Secure Options - Seeking Reliable Substitutes for Keepvid</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/how-to-stream-a-pre-recorded-video-live-on-facebook-for-2024/"><u>How to Stream A Pre-Recorded Video Live on Facebook for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-motorola-moto-g04-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Motorola Moto G04 Device SIM</u></a></li>
+<li><a href="https://windows11.techidaily.com/leveraging-execution-descriptor-labels-in-software/"><u>Leveraging Execution Descriptor Labels in Software</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/pioneering-prompt-engineering-in-ai-classes/"><u>Pioneering Prompt Engineering in AI Classes</u></a></li>
+<li><a href="https://windows11.techidaily.com/steady-your-pc-controlling-high-cpu-load-with-windows-resource-tool/"><u>Steady Your PC: Controlling High CPU Load With Window's Resource Tool</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-customizing-your-windows-11-notepad-appearance/"><u>Step-by-Step: Customizing Your Windows 11 Notepad Appearance</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailored-screenscape-designing-distinctive-displays-on-each-window-of-win-1011/"><u>Tailored Screenscape: Designing Distinctive Displays on Each Window of Win 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-to-break-the-bond-onedrive-from-ms-account-on-windows/"><u>Techniques to Break the Bond: OneDrive From MS Account on Windows</u></a></li>
 </ul></div>
 

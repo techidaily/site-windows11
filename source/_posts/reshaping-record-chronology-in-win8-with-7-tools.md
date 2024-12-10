@@ -1,7 +1,7 @@
 ---
 title: Reshaping Record Chronology in Win8 with 7 Tools
-date: 2024-08-15T16:19:26.660Z
-updated: 2024-08-16T16:19:26.660Z
+date: 2024-12-04T18:10:08.743Z
+updated: 2024-12-10T18:08:26.890Z
 tags:
   - windows10
   - windows11
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/d885990175ebfd301b45bcb64f4157ae788a5f9ca
 
 ![BulkFileChanger App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bulkfilechanger-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  BulkFileChanger is another lightweight app that doesn’t require any installation. Simply download the tool and run the relevant executable (.exe) file.
 
  To add a folder or file to this tool, navigate to the**File** tab and select**Add Files** . To make things even much easier, simply drag and drop your files onto the tool.
@@ -48,9 +52,6 @@ thumbnail: https://thmb.techidaily.com/d885990175ebfd301b45bcb64f4157ae788a5f9ca
 
 **Download** : BulkFileChanger for[Windows](https://www.nirsoft.net/utils/bulk%5Ffile%5Fchanger.html) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ## 3\. Attribute Changer
 
 ![Attribute Changer App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/attribute-changer-app.jpg)
@@ -64,8 +65,9 @@ thumbnail: https://thmb.techidaily.com/d885990175ebfd301b45bcb64f4157ae788a5f9ca
 **Download** : Attribute Changer for[Windows](https://www.petges.lu/download/) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. NewFileTime
 
 ![NewFileTime App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/newfiletime-app.jpg)
@@ -83,8 +85,9 @@ thumbnail: https://thmb.techidaily.com/d885990175ebfd301b45bcb64f4157ae788a5f9ca
 ## 5\. AttributeMagic
 
 ![AttributeMagic App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/attributemagic-app.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  AttributeMagic comes with a minimalist user interface and is incredibly easy to use. To add a file to AttributeMagic, click the**Browse** button and then select the relevant file. Alternatively, drag and drop your file onto the tool.
@@ -95,14 +98,12 @@ thumbnail: https://thmb.techidaily.com/d885990175ebfd301b45bcb64f4157ae788a5f9ca
 
 **Download** : AttributeMagic for[Windows](https://www.elwinsoft.com/attributemagic-free.html) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. File & Folder Tools
 
 ![File & Folder Tools App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/file-folder-tools-app.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  File & Folder Tools is an app comprising a set of tools that can help you change file attributes, tweak your files' timestamps,[locate duplicate files on Windows](https://www.makeuseof.com/tag/save-hard-drive-space-by-finding-and-removing-duplicate-files/) , and more.
@@ -127,14 +128,12 @@ thumbnail: https://thmb.techidaily.com/d885990175ebfd301b45bcb64f4157ae788a5f9ca
 
 **Download** : Bulk Rename Utility for[Windows](https://www.bulkrenameutility.co.uk/Download.php) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Advanced Renamer
 
 ![Advanced Renamer App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/advanced-renamer-app.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Advanced Renamer is another tool whose main purpose is to help you easily[rename your files on Windows](https://www.makeuseof.com/windows-11-rename-files/) . But in addition to that, the tool helps you change your files’ timestamps.
@@ -145,20 +144,21 @@ thumbnail: https://thmb.techidaily.com/d885990175ebfd301b45bcb64f4157ae788a5f9ca
 
 **Download** : Advanced Renamer for[Windows](https://www.advancedrenamer.com/download) (Free)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Changing Your Files' Created/Modified Dates Is Easy
 
  Almost anyone with access to your PC can check the details of your files. For example, they can check your files' created/modified dates and other file attributes. Want to prevent others from discovering the real created or modified dates for your files? Check out any of the apps we’ve covered.
 
  And while you’re at it, be sure to explore other cool tricks, like how to delete files older than a certain number of days.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -167,4 +167,23 @@ thumbnail: https://thmb.techidaily.com/d885990175ebfd301b45bcb64f4157ae788a5f9ca
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/updated-discover-the-leading-free-game-recording-tools-for-2024/"><u>[Updated] Discover the Leading Free Game Recording Tools for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-secrets-revealed-best-8-costless-3d-vids-software-on-pcmac-for-2024/"><u>[Updated] Secrets Revealed Best 8 Costless 3D Vids Software on PC/Mac for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/windows-11-dvdand/"><u>「Windows 11で動画再生可能! DVD用ソフトウェア紹介&解説チュートリアル」</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-chatgpts-skills-a-guide-to-virtual-cocktail-creation/"><u>Exploring ChatGPT's Skills: A Guide to Virtual Cocktail Creation</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/fresh-take-on-microsoft-surface-pro-7-reliable-upgrade-with-understated-tweaks/"><u>Fresh Take on Microsoft Surface Pro 7: Reliable Upgrade with Understated Tweaks</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on ZTE Axon 40 Lite? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/master-mp4-uploader-and-downloader-fb-edition/"><u>Master MP4 Uploader & Downloader FB Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-app-packages-with-winget-on-win11-tips-and-tricks/"><u>Mastering App Packages with Winget on Win11 - Tips and Tricks</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-web-control-panel-adjustments-in-windows-11/"><u>Mastering Web Control Panel Adjustments in Windows 11</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/navigating-facebook-live-a-comprehensive-tutorial-for-2024/"><u>Navigating Facebook Live A Comprehensive Tutorial for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-failed-rpc-calls-a-windows-focused-guide/"><u>Overcoming Failed RPC Calls: A Windows-Focused Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/redefine-restoring-windows-11-explorer-view-order/"><u>Redefine: Restoring Windows 11 Explorer View Order</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/reduce-video-size-for-free-10-top-online-compression-tools/"><u>Reduce Video Size for Free 10 Top Online Compression Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-silent-keys-troubleshooting-tactics-for-windows-pcs/"><u>Unlock Silent Keys: Troubleshooting Tactics for Windows PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/whats-next-after-0x800f0845-error/"><u>What's Next After 0X800f0845 Error?</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-mastery-constructing-clutter-free-directories/"><u>Windows 11 Mastery: Constructing Clutter-Free Directories</u></a></li>
+</ul></div>
 

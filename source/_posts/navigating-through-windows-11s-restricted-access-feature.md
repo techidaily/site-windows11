@@ -1,7 +1,7 @@
 ---
 title: Navigating Through Windows 11’S Restricted Access Feature
-date: 2024-11-28T18:29:34.482Z
-updated: 2024-12-03T22:52:34.168Z
+date: 2024-12-08T18:12:23.925Z
+updated: 2024-12-10T20:07:14.885Z
 tags:
   - windows10
   - windows11
@@ -29,15 +29,15 @@ thumbnail: https://thmb.techidaily.com/90c049846794e5aed031591412d4826aac7c7bd65
 
 ![photo of a person using a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/using-laptop.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  S Mode is a feature that Microsoft created to give users a secure, smooth experience with the Windows operating system. When you use Windows 11 in S mode, your computer only gets access to basic resources and drivers. More notably, S mode freezes all other apps that hog your RAM and processes that may task your CPU. These changes in your user experience of Windows S mode will sound very familiar if you have used a Chromebook.
 
 ## Should You Use Your PC in S Mode?
 
  It depends on your security and privacy goals. Here are four reasons you may consider using a PC in Windows S Mode:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. You Want to Ensure Your Child’s Safety
 
@@ -53,27 +53,27 @@ thumbnail: https://thmb.techidaily.com/90c049846794e5aed031591412d4826aac7c7bd65
 
  Remember, you cannot use in-house or proprietary software in S-mode. So, if your company developed an app for its business, running S mode will prevent you from using it. Using your Windows 11 Home in S mode is only helpful pending when you get a company laptop running Windows Pro or Enterprise.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. You Want to Do a Digital Detox
 
  If you find yourself needing an [escape from digital noise](https://www.makeuseof.com/best-digital-detox-tools-to-boost-productivity/) but can’t avoid your main PC entirely, consider getting a PC in S mode. Games on Microsoft Store aren’t the most exciting. And many handy third-party apps aren’t there either. So, you will be using only the [apps necessary for your productivity](https://www.makeuseof.com/windows-10-built-in-productivity-features/).
 
  However, remember that S mode is a one-way street. There’s no leaving S mode and going back. So, if you need to install a new non-Microsoft Store app for work, you’ll have to leave S mode. The alternative would be using a separate computer or web-based version of the app, if available. If these options sound like a hassle or you don't want to buy another PC, you can always [dual-boot another operating system](https://www.makeuseof.com/tag/how-to-install-multiple-bootable-operating-systems-on-one-usb-stick/) instead.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. You Want the Chromebook Experience
 
  S mode gives you a similar experience to what a [Chromebook](https://www.makeuseof.com/tag/what-is-a-chromebook/) gives. So, you can get a high-end PC and try S mode for several days or weeks. This way, you can decide if you want all that power or if the basics work for you. More importantly, you retain the option to leave anytime you want—something you don’t get in Chromebooks.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Your Computer Boots Faster
 
 ![photo of a windows PC booting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/windows-booting.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you have been using a Windows computer for a while, you’ll know notice how booting takes longer as you install more apps. This lag is because some [autorun apps](https://www.makeuseof.com/tag/manage-windows-startup-programs-autoruns/) start working in the background once you turn on your computer. Third-party software and malware, especially, cause this lag. S mode lets you use apps optimized for Windows and reduces your risks of getting malware that slows down your computer.
 
@@ -90,7 +90,7 @@ thumbnail: https://thmb.techidaily.com/90c049846794e5aed031591412d4826aac7c7bd65
  S mode is not for you if you are a developer, hacker, admin, or IT person managing a network of company computers. S mode prevents users from using the [Windows Terminal or PowerShell](https://www.makeuseof.com/windows-terminal-vs-powershell/). You can’t use Linux either. The main reason is that these apps run outside the safe environment that protects the operating system from malware. So, VS Code, other [code editors](https://www.makeuseof.com/9-best-free-code-editors/), and developer tools are off the table.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. The Windows Registry Is Off-limits
@@ -100,16 +100,16 @@ thumbnail: https://thmb.techidaily.com/90c049846794e5aed031591412d4826aac7c7bd65
 ![photo of the windows search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/regedit.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Activate S Mode in Windows 11
 
  You can’t activate S mode; it comes pre-installed or shipped with the OS. So, when you get a new laptop, you’ll have the option to use it in S mode when you’re setting it up for the first time. Some computers, like the Surface, come shipped with S mode only, and you don’t get that option to try S mode first.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Leave S Mode in Windows 11
 
@@ -137,22 +137,17 @@ thumbnail: https://thmb.techidaily.com/90c049846794e5aed031591412d4826aac7c7bd65
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-affordable-choices-best-laptops-for-gamers-on-a-dime/"><u>[New] In 2024, Affordable Choices Best Laptops for Gamers on a Dime</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-the-ultimate-guide-converting-any-tiktok-sound-into-phone-alerts/"><u>[Updated] 2024 Approved The Ultimate Guide Converting Any TikTok Sound Into Phone Alerts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/choosing-the-right-assistant-for-coding-github-copilot-or-chatgpt/"><u>Choosing the Right Assistant for Coding: GitHub Copilot or ChatGPT?</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-instructions-to-download-and-install-brother-hl2280dw-printer-drivers-on-various-windows-os/"><u>Easy Instructions to Download and Install Brother HL2280DW Printer Drivers on Various Windows OS</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-honor-90-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Honor 90 | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-iphone-image-import-something-went-wrong-error-in-windows-11-and-11/"><u>How to Fix the iPhone Image Import “Something Went Wrong” Error in Windows 11 & 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-overcome-windows-admin-policies-preventing-setup/"><u>How to Overcome Windows Admin Policies Preventing Setup</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-tackle-unavailable-previews-on-windows-outlook-email/"><u>How to Tackle Unavailable Previews on Windows Outlook Email</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-unlock-and-edit-files-on-win-pc/"><u>How to Unlock and Edit Files on Win PC</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/inteligencia-artificial-en-interpolacion-de-fotogramas-incrementando-la-rendimiento-de-fps-y-transiciones-sin-escalonamiento-visual/"><u>Inteligencia Artificial en Interpolación De Fotogramas: Incrementando La Rendimiento De FPS Y Transiciones Sin Escalonamiento Visual</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/loudness-in-the-void-breaking-soundless-twitter-vids-for-2024/"><u>Loudness in the Void Breaking Soundless Twitter Vids for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-attempted-token-access-error-on-windows-systems/"><u>Resolving Attempted Token Access Error on Windows Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-windows-screen-glitches-stabilizing-display/"><u>Resolving Windows Screen Glitches: Stabilizing Display</u></a></li>
-<li><a href="https://windows11.techidaily.com/setting-up-your-windows-11-pc-as-an-invisible-network-hub/"><u>Setting Up Your Windows 11 PC as an Invisible Network Hub</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/shooting-spectacular-igtv-videos-with-your-phone-or-dslr-for-2024/"><u>Shooting Spectacular IGTV Videos with Your Phone or DSLR for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/unleash-faster-system-restoration-via-customized-troubleshooter-keys/"><u>Unleash Faster System Restoration via Customized Troubleshooter Keys</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/windowgrabber-3d-top-choice-for-2024/"><u>WindowGrabber 3D - Top Choice for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-celeb-in-a-nutshell-vimeo/"><u>[New] In 2024, Celeb in a Nutshell – Vimeo</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-youtube-thumbnails-top-20-font-selection-tips/"><u>[New] In 2024, YouTube Thumbnails Top 20 Font Selection Tips</u></a></li>
+<li><a href="https://driver-error.techidaily.com/passed-tests-drivers-installation-succeeded-post-correction/"><u>[PASSED TESTS] Drivers Installation Succeeded Post-Correction</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-expedite-channel-growth-surpass-the-10k-view-threshold-now-for-2024/"><u>[Updated] Expedite Channel Growth Surpass the 10K View Threshold Now for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-a-comprehensive-walkthrough-wmp-caption-addition/"><u>[Updated] In 2024, A Comprehensive Walkthrough WMP Caption Addition</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722976757966-asus-dvd-drivers-download-get-the-latest-version-now/"><u>ASUS DVD Drivers Download: Get the Latest Version Now</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-redo-on-windows-with-a-hotkey/"><u>How to Redo on Windows With a Hotkey</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-generic-sound-not-recognized-issue-in-windows-system/"><u>Overcoming Generic Sound Not Recognized Issue in Windows System</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/schutz-ihrer-geschaftsdaten-aomei-backupper-workstation-and-aomei-cloud-fur-unternehmen-installieren/"><u>Schutz Ihrer Geschäftsdaten: AOMEI Backupper Workstation & AOMEI Cloud Für Unternehmen Installieren</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-windows-searches-using-everythingapp/"><u>Streamline Windows Searches Using EverythingApp</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-integration-mastery-overcoming-add-on-installation-roadblocks/"><u>Windows Integration Mastery: Overcoming Add-On Installation Roadblocks</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-the-battle-against-installer-error-messages-on-pcs/"><u>Winning the Battle Against Installer Error Messages on PCs</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fixing the Puzzling Problem of Error Code C0000005 in Win-OS
-date: 2024-11-29T20:12:31.046Z
-updated: 2024-12-04T06:40:17.687Z
+date: 2024-12-05T16:08:56.858Z
+updated: 2024-12-10T19:27:57.839Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/f3ddbfc1319d06192a1f603baf76c1f6dea1578ed
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Deactivate Data Execution Prevention (DEP)
 
 [Data Execution Prevention](https://www.makeuseof.com/data-execution-prevention-explained/) is a security feature on Windows that prevents damage to your PC from malware and other malicious attacks on your PC. It does this by blocking out specific memory regions so that code cannot be executed from those locations, which in the absence of DEP, would be used for buffer attacks.
@@ -42,7 +46,7 @@ bcdedit.exe /set {current} nx AlwaysOff
 ![cmd](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/cmd.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In this case, you will first have to[disable the Windows secure boot](https://www.makeuseof.com/tag/disable-secure-uefi-dual-boot/) , and then repeat the above steps again.
@@ -50,7 +54,7 @@ bcdedit.exe /set {current} nx AlwaysOff
  That's it—the DEP will be disabled from here on. Now, give your PC a quick reboot and see if the error 0xc0000005 persists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Check Your App's and PC Version and Compatibility
@@ -75,13 +79,13 @@ Similarly, to check the app's version, follow the steps below:
 ![installed apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/installed-apps.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now check if the app and your operating system are compatible with each other.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Apply Some Generic Fixes for Fixing Errors on Windows
@@ -96,10 +100,6 @@ Let's go over all of them one by one.
 4. [Repair your app:](https://www.makeuseof.com/windows-repair-apps-programs/) It's possible that the app's files you're trying to run have become damaged and, as a result, your PC throws the 0xc0000005 error code. A quick app repair is a good possible solution in this scenario.
 5. [Run a malware scan:](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) A malware scan can break or create malfunctions for otherwise normal processes on your PC; run and see if that's the case in this error as well.
 6. [Perform a Factory Reset](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) : A Factory reset is, as I sometimes like to call it, the "all pulverizer" all Windows problems. It removes your operating system and reinstalls it so you can start again with a clean slate. It's a drastic measure, but sometimes it's the only way to get a Windows error fixed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixing the Error Code 0xc0000005 on a Windows PC
 
@@ -122,22 +122,18 @@ Let's go over all of them one by one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-assessing-ffmpegs-prowess-in-original-audio-extraction-for-2024/"><u>[New] Assessing FFmpeg’s Prowess in Original Audio Extraction for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-key-to-unlocking-the-best-video-production-talents/"><u>[New] The Key to Unlocking the Best Video Production Talents</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-swift-snapshots-on-the-social-network/"><u>[Updated] 2024 Approved Swift Snapshots on the Social Network</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-valorant-portraits-professional-thumbnails-made-in-a-flash/"><u>[Updated] In 2024, Valorant Portraits - Professional Thumbnails Made in a Flash!</u></a></li>
-<li><a href="https://win-great.techidaily.com/comment-resoudre-les-problemes-de-demarrage-doutlook-201/"><u>Comment Résoudre Les Problèmes De Démarrage D’Outlook 201</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/convert-hyper-vs-uefi-firmware-back-to-legacy-bios-mode/"><u>Convert Hyper-V's UEFI Firmware Back to Legacy BIOS Mode</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-use-wi-fi-and-ethernet-at-the-same-time-on-windows/"><u>How to Use Wi-Fi and Ethernet at the Same Time on Windows</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Google Pixel 8 | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-require-privilege-woes-winerror-740-breakthroughs/"><u>Navigating 'Require Privilege' Woes: WinError 740 Breakthroughs</u></a></li>
-<li><a href="https://windows11.techidaily.com/prtscn-not-for-snip-stop-windows-11s-snipping-tool-by-default/"><u>PrtScn Not for Snip: Stop Windows 11'S Snipping Tool by Default</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-display-issue-with-error-x0001-geforce/"><u>Resolving Display Issue with Error X0001, GeForce</u></a></li>
-<li><a href="https://windows11.techidaily.com/searching-for-ideal-windows-hello-friendly-camera/"><u>Searching for Ideal Windows Hello-Friendly Camera</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-for-stopping-self-opening-search-bar-in-win11/"><u>Tips for Stopping Self-Opening Search Bar in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-for-unresponsive-win11-media-player/"><u>Troubleshooting for Unresponsive Win11 Media Player</u></a></li>
-<li><a href="https://windows11.techidaily.com/unraveling-not-found-in-windows-os-fixes/"><u>Unraveling 'Not Found' In Windows OS Fixes</u></a></li>
-<li><a href="https://driver-download.techidaily.com/update-and-install-amd-vega-56-graphics-card-drivers-on-windows-complete-guide/"><u>Update and Install AMD Vega 56 Graphics Card Drivers on Windows - Complete Guide</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-simple-and-free-the-best-online-tone-generators-reviewed/"><u>Updated 2024 Approved Simple and Free The Best Online Tone Generators Reviewed</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-artisans-guide-to-snapchat-filters-mastery/"><u>[Updated] The Artisan's Guide to Snapchat Filters Mastery</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/250-off-walmarts-greatest-bargain-for-the-month-top-end-asus-15-laptop-packed-with-essential-ports/"><u>$250 Off - Walmart's Greatest Bargain for the Month: Top-End Asus 15 Laptop Packed with Essential Ports!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-google-pixel-6-a-critical-perspective/"><u>Comprehensive Analysis of the Google Pixel 6: A Critical Perspective</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/tial-video-equipment-for-successful-youtube-channels-for-2024/"><u>Essential Video Equipment for Successful YouTube Channels for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/ideal-mac-voice-storage-tools-the-most-reliable-5/"><u>Ideal Mac Voice Storage Tools The Most Reliable 5</u></a></li>
+<li><a href="https://solve-news.techidaily.com/improve-your-videos-quality-a-guide-to-perfecting-sound-for-free/"><u>Improve Your Video's Quality: A Guide to Perfecting Sound for Free!</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-building-authority-in-education-10-tips-for-youtube-channel-creation/"><u>In 2024, Building Authority in Education 10 Tips for YouTube Channel Creation</u></a></li>
+<li><a href="https://windows11.techidaily.com/mending-a-stuck-discord-interface-element-on-your-system/"><u>Mending a Stuck Discord Interface Element on Your System</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-expert-approved-video-editing-software/"><u>New In 2024, Expert-Approved Video Editing Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcome-could-not-initialize-vm-error-on-pc/"><u>Overcome 'Could Not Initialize VM' Error on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-spotify-connection-errors-in-win11/"><u>Tackling Spotify Connection Errors in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-your-digital-contents-full-value-winning-at-powerpoint-prints-in-windows/"><u>Unlocking Your Digital Content's Full Value: Winning at PowerPoint Prints in Windows</u></a></li>
 </ul></div>
 

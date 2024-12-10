@@ -1,7 +1,7 @@
 ---
 title: What Lies Behind the Numbers in Windows Updates?
-date: 2024-08-15T16:17:43.727Z
-updated: 2024-08-16T16:17:43.727Z
+date: 2024-12-06T20:34:20.675Z
+updated: 2024-12-10T19:05:09.851Z
 tags:
   - windows10
   - windows11
@@ -26,15 +26,9 @@ thumbnail: https://thmb.techidaily.com/3da56b4dd62c9d29faa422fa86eb533c5fdaa7995
 
  Here are some of the popular update types that you often see being offered by Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ### 1\. Quality Updates
 
 ![installing optional updates on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/optional-updates.jpg)
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Quality updates, often known as cumulative updates, are the ones that you see in your Windows Settings app on a monthly basis. These frequent (but mandatory) updates are smaller in size and are typically released to address the latest performance issues and fix bugs.
 
@@ -49,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/3da56b4dd62c9d29faa422fa86eb533c5fdaa7995
 
  Regardless of the type, quality updates are quicker to install because of their smaller size. If you are not ready to install them immediately, you can pause them for up to seven days.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### 2\. Compatibility and Reliability Updates
 
  These updates are software patches that work to improve the overall performance and stability of the operating system and are released out of the band (without a strict schedule).
@@ -67,6 +57,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Microsoft rolls out these updates every six months and initially, they are offered as optional updates that you must install manually using the Settings app. However, if your device with Windows installation is approaching the end of service, the system will download these updates automatically.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Security Updates
 
  Security updates in Windows can be delivered to users in two ways: either as standalone updates or as part of cumulative updates. They aim to improve the overall security of the operating system by fixing bugs and removing malicious malware.
@@ -74,8 +68,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  You can install the security updates manually or allow the Windows Update feature to install them for you.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 6\. Hardware Updates
 
  This type includes updates for drivers or firmware for several critical hardware components like the graphics card and the network drivers.
@@ -84,6 +79,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Driver updates in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/driver-update.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Windows also gives you the option to[manually update the drivers using the Device Manager](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) utility.
 
 ## Understanding the Update Numbers
@@ -91,9 +90,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Each update package and patch released by Microsoft is assigned an update number to manage it across different Windows versions. This update number typically consists of a series of digits that include the specific sequence number for the update and the month/year on which the update was released.
 
 ![KB Number of Windows 11 Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/KB-Number-of-Windows-11-Update.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The updates also include a development code name that specifies the year of release followed by the time. So if you are seeing a 22H2 update on your computer, it means that the update was released in the second half (H2) of the year 2022\. This information can be seen in the Version section of an update.
 
@@ -102,8 +98,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  For instance, if Windows 10 October 2021 Update has a build number of 19044.1587, it means that this is the 19044 Windows build with 1587 revisions or updates to date.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is It Possible for System Updates to Cause Issues?
 
  While updates are intended to help the system resolve problems and improve overall performance, there are times when they can cause further issues within the system.
@@ -112,18 +109,19 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  If you encounter problems after installation, you can[uninstall the update](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) or[roll back to an older Windows version](https://www.makeuseof.com/windows-reset-system-restore-difference/) to fix the issue. To minimize the risk of issues associated with updates, we recommend creating a backup of your important data before you begin installing updates. You can also install updates one at a time and monitor the system for issues while doing so.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Making Sense of Update Names and Numbers
 
  You now have a better understanding of what the name and number associated with an update means. You can use this information to decide which update you want to download and what to expect from it. We highly recommend installing the available updates regularly, as doing so will help your system run smoothly.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -132,4 +130,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-cost-efficient-guide-to-skype-calls-in-mp3-for-2024/"><u>[Updated] The Cost-Efficient Guide to Skype Calls in MP3 for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-augmenting-film-vistas-with-apple-playlist/"><u>2024 Approved Augmenting Film Vistas with Apple Playlist</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-auto-lock-on-windows-tips-and-tricks/"><u>Avoiding Auto-Lock on Windows: Tips & Tricks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/geekbench-6-showdown-snapdragon-xs-impressive-stats-with-a-month-long-run/"><u>Geekbench 6 Showdown: Snapdragon X's Impressive Stats with a Month-Long Run</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-8-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone 8 After Forgetting the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-nokia-g42-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Nokia G42 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-os-not-found-a-comprehensive-guide/"><u>Overcoming OS Not Found: A Comprehensive Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-usb-data-loss-on-windows-platforms/"><u>Overcoming USB Data Loss on Windows Platforms</u></a></li>
+<li><a href="https://techidaily.com/samsung-data-recovery-recover-lost-data-from-samsung-by-fonelab-android-recover-data/"><u>Samsung Data Recovery – recover lost data from Samsung</u></a></li>
+<li><a href="https://windows11.techidaily.com/sidestep-windows-error-8-ways-to-overcome-sign-in-denial/"><u>Sidestep Windows Error: 8 Ways to Overcome Sign-In Denial</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-resolving-dxgi-error-in-devices/"><u>Strategies for Resolving DXGI Error in Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-list-of-airtag-peripherals-expert-opinions-and-ratings/"><u>Ultimate List of AirTag Peripherals : Expert Opinions and Ratings</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleash-efficiency-ditch-the-excess-in-win11/"><u>Unleash Efficiency: Ditch the Excess in Win11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/what-sets-chatgpt-enterprise-apart-dive-into-its-innovative-offerings-and-unique-benefits/"><u>What Sets ChatGPT Enterprise Apart? Dive Into Its Innovative Offerings and Unique Benefits</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Preventing Voluntary Opens in MS Marketplace
-date: 2024-11-30T00:47:23.845Z
-updated: 2024-12-03T18:46:41.841Z
+date: 2024-12-07T17:05:26.821Z
+updated: 2024-12-10T21:51:08.622Z
 tags:
   - windows10
   - windows11
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Close Microsoft Store's Background Processes
@@ -39,14 +39,10 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 
 ![Close Windows Store with Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/task-manager-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Restart the Microsoft Store Services
@@ -63,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 ![Restart Microsoft Store service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/store-service-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Re-register Microsoft Store
@@ -74,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 
  Then, press**Enter** to run it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Apply Generic Fixes for Microsoft Store Issues
 
  You may encounter this problem if the cache has become corrupted. As such, check out[how to fix a damaged Microsoft Store cache](https://www.makeuseof.com/ways-to-fix-damaged-microsoft-store-cache/) for more ways to fix this annoying problem.
@@ -81,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
  Similarly, a virus may be causing the Microsoft Store to open. Check out[how to remove malware using a Microsoft Defender offline scan](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) and give your PC a deep clean.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix the Microsoft Store App Opening Itself
@@ -105,17 +105,19 @@ thumbnail: https://thmb.techidaily.com/802df3d91ab6daf6d905273698ce2644dd2e6aa60
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-expand-your-knowledge-elite-15-sci-yt-channels-list/"><u>[New] Expand Your Knowledge Elite 15 Sci-YT Channels List</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-crafting-the-perfect-minecraft-archive-6-key-strategies/"><u>[Updated] Crafting the Perfect Minecraft Archive 6 Key Strategies</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-unwind-in-a-world-of-top-stress-busters/"><u>2024 Approved Unwind in a World of Top Stress Busters</u></a></li>
-<li><a href="https://games-able.techidaily.com/fighters-choice-controller-vs-joystick-debate/"><u>Fighter's Choice: Controller Vs. Joystick Debate</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-harmonizing-tracks-in-youtube-music/"><u>In 2024, Harmonizing Tracks in YouTube Music</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-melody-in-motion-incorporating-music-into-powerpoint/"><u>In 2024, Melody in Motion Incorporating Music Into PowerPoint</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-wsl-enabling-linux-in-windows-environment/"><u>Mastering WSL: Enabling Linux in Windows Environment</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-enhancing-audio-quality-techniques-for-distraction-free-sounds-with-wondershare-filmora/"><u>New 2024 Approved Enhancing Audio Quality Techniques for Distraction-Free Sounds with Wondershare Filmora</u></a></li>
-<li><a href="https://windows11.techidaily.com/rectifying-your-input-cannot-be-opened-vlc-error-on-windows/"><u>Rectifying 'Your Input Cannot Be Opened' VLC Error on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/revealing-indexers-control-accessibility/"><u>Revealing Indexer's Control Accessibility</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-toggle-online-scan-feature-of-modern-os/"><u>Steps to Toggle Online Scan Feature of Modern OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/synchronizing-seamlessly-accessing-cloud-storage-from-windows-directories/"><u>Synchronizing Seamlessly: Accessing Cloud Storage From Windows Directories</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-android-beat-best-free-apps-for-downloading-youtube-tunes/"><u>[New] 2024 Approved Android Beat Best Free Apps for Downloading YouTube Tunes</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-understanding-vectors-first-steps-and-essential-apps/"><u>[New] 2024 Approved Understanding Vectors First Steps and Essential Apps</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-transferring-media-pc-files-to-your-ios-device/"><u>[Updated] Transferring Media PC Files To Your iOS Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/boot-up-solutions-navigating-4-pct-routes/"><u>Boot-Up Solutions: Navigating 4 PCT Routes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-tips-on-dealing-with-msvcr7-groovy-errors-in-windows/"><u>Comprehensive Tips on Dealing with Msvcr7 Groovy Errors in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-tips-for-fixing-pubg-saving-issues-win/"><u>Expert Tips for Fixing PUBG Saving Issues (Win)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-a-deep-dive-prodigious-polarrs-editing-capabilities/"><u>In 2024, A Deep Dive Prodigious Polarr's Editing Capabilities</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-explore-the-power-of-pip-on-modern-edge-browser/"><u>In 2024, Explore the Power of PIP on Modern Edge Browser</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/innovative-techniques-for-secure-and-quality-vimeo-recording/"><u>Innovative Techniques for Secure & Quality Vimeo Recording</u></a></li>
+<li><a href="https://windows11.techidaily.com/inspect-font-characters-windows-11-route/"><u>Inspect Font Characters: Windows 11 Route</u></a></li>
+<li><a href="https://windows11.techidaily.com/integrating-your-android-into-windows-11-webstreaming/"><u>Integrating Your Android Into Windows 11 Webstreaming</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-past-share-permission-hurdles-in-win-os/"><u>Navigate Past Share Permission Hurdles in Win OS</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-initialization-errors-in-the-latest-counter-strike-game-version/"><u>Overcoming Initialization Errors in the Latest Counter-Strike Game Version</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unfolding-the-future-discover-samsung-galaxy-z-fold-6s-launch-dates-costs-and-features/"><u>Unfolding the Future: Discover Samsung Galaxy Z Fold 6'S Launch Dates, Costs, & Features</u></a></li>
 </ul></div>
 

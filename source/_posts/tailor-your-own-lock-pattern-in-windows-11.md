@@ -1,7 +1,7 @@
 ---
 title: Tailor Your Own Lock Pattern in Windows 11
-date: 2024-08-15T16:21:19.751Z
-updated: 2024-08-16T16:21:19.751Z
+date: 2024-12-07T21:09:50.526Z
+updated: 2024-12-10T20:37:06.920Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,11 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 3. Draw two matching patterns on the 3x3 grid to set a lock.  
 ![The 9Locker pattern lock setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/9locker-lock-pattern-setting.jpg)
 4. Click **OK** on the Rescue Password prompt that pops up.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Input a matching password within the **First Time** and **Second Time** text boxes.  
 ![The rescue password setting boxes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/enter-rescue-password.jpg)
 6. Click **Save** to set your new pattern lock.
@@ -47,17 +52,11 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 
 ![9Locker's pattern lock grid](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-pattern-grid.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Customize 9Locker
 
  To access the 9Locker settings window, you’ll need to input your rescue password instead. Click **Settings** at the top left of the pattern lock screen. Input your rescue password and select **OK**.
 
 ![The Enter Rescue Password box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/enter-rescue-password-box.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can select a different background image for the pattern lock screen. To do so, click the **Background Image** tab. Then click **Image** and choose one of the eight wallpapers for the pattern lock screen. Or you can select a custom background image from another folder.
 
@@ -70,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 ![The General settings tab in 9Locker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/general-settings-tab.jpg)
 
  9Locker’s pattern lock screen should appear automatically with the **Load 9Locker on Windows startup** checkbox selected on the **General Settings** tab. However, I needed to add 9Locker to the startup folder to get the program to run at startup. If you need to do the same, check out [how to utilize the Windows startup folder](https://www.makeuseof.com/tag/windows-10-startup-folder/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Add a Custom Patter Lock With Eusing Maze Lock
 
@@ -86,6 +89,11 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 2. Select a **3 \* 3**, **4 \* 4**, or **5 \* 5** pattern grid size on the drop-down menu.  
 ![The Reset Pattern](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/reset-pattern-tab.jpg)
 3. Hold the left mouse button and drag your cursor over the circles to set a lock pattern.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click **OK** on the reset lock pattern prompt.
 5. Select **Yes** when asked to back up the lock pattern. Then select a backup folder and click **Save**.
 6. Click **OK** on the Eusing Maze Lock window.
@@ -97,24 +105,23 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 ![The Eusing Maze Lock pattern lock screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/eusing-maze-lock.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Customize Eusing Maze Lock
 
  The Eusing Maze Lock pattern lock screen includes two alternative input options in the bottom right corner. Clicking the middle option will make the pattern lock invisible for more secure input. Or click the right button to input a pattern by pressing the keyboard letter keys for corresponding circles.
 
 ![The patter lock input options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/key-pattern-lock.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 
  To access Eusing Maze Lock’s settings, right-click the software’s system tray icon, select **Configure**, input your pattern lock, and click the **General** tab. There you can add Eusing Maze Lock to the startup by selecting **On** from the Autolock at Windows startup drop-down menu.
 
  Select an option on the **Autolock computer after** drop-down menu to set an inactive time for the pattern lock screen to automatically come on.
 
 ![The General tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-general-tab.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also set a custom wallpaper for the pattern lock screen on the **Background** tab. To do so, click the **Change Image** button to bring up a selection window. Select an image file for the background and click **Open**.
@@ -122,10 +129,9 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 ![The Background tab in Eusing Maze Lock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-background-tab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Lock Your Windows 10 or 11 PC Differently
 
  Both Eusing Maze Lock and 9Locker provide an alternative to the standard Windows 10 OR 11 lock screen.
@@ -134,11 +140,33 @@ The powerful video editing program for your Windows PC</a>
 
  Most users secure their Windows PCs with passwords or PINs. However, you can also secure your PC by adding a custom pattern lock with 9Locker or Eusing Maze Lock. This is how you can set up a pattern lock for Windows 10 and 11 with those software packages.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-capture-every-angle-top-360-streaming-devices-reviewed/"><u>[Updated] 2024 Approved Capture Every Angle Top 360° Streaming Devices Reviewed</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-engage-viewers-from-the-start-mobile-film-techniques-for-thumbnails-for-2024/"><u>[Updated] Engage Viewers From the Start Mobile Film Techniques for Thumbnails for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-adding-value-instructional-design-of-youtube-alerts-and-annotations/"><u>[Updated] In 2024, Adding Value Instructional Design of YouTube Alerts & Annotations</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-where-are-my-youtube-comments-desktopiosandroid-strategies/"><u>[Updated] In 2024, Where Are My YouTube Comments? Desktop/iOS/Android Strategies</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-what-youre-really-earning-as-a-podcaster-for-2024/"><u>[Updated] What You're Really Earning as a Podcaster for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-convert-mobile-social-media-watch-to-home-tv/"><u>2024 Approved Convert Mobile Social Media Watch to Home TV</u></a></li>
+<li><a href="https://extra-information.techidaily.com/bridging-gaps-video-platforms-brands-and-collaborative-success-for-2024/"><u>Bridging Gaps Video Platforms, Brands & Collaborative Success for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-on-isolating-month-and-year-values-from-date-entries-in-ms-excel-efficiently/"><u>Guide on Isolating Month and Year Values From Date Entries in MS Excel Efficiently</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-altering-your-spreadsheets-cell-address-style-in-microsoft-excel/"><u>Guide: Altering Your Spreadsheet's Cell Address Style in Microsoft Excel</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-creating-cross-sheet-references-within-your-microsoft-excel-workbooks/"><u>Guide: Creating Cross-Sheet References Within Your Microsoft Excel Workbooks</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-demonstrating-data-alterations-using-microsoft-excel-on-your-pc/"><u>Guide: Demonstrating Data Alterations Using Microsoft Excel on Your PC</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-how-to-create-a-negative-like-image-look/"><u>In 2024, How to Create a Negative-Like Image Look</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-navigating-googles-augmented-reality-adornments/"><u>In 2024, Navigating Google's Augmented Reality Adornments</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Realme V30? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/massive-microsoft-excel-online-edition-update-transforms-functionality/"><u>Massive Microsoft Excel Online Edition Update Transforms Functionality</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-conditional-logic-a-step-by-step-guide-to-microsoft-excels-if-statement/"><u>Mastering Conditional Logic: A Step-by-Step Guide to Microsoft Excel's IF Statement</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-currency-exchange-a-step-by-step-guide-to-converting-money-with-microsoft-excel/"><u>Mastering Currency Exchange: A Step-by-Step Guide to Converting Money with Microsoft Excel</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-data-type-templates-in-microsoft-excel-a-step-by-step-guide/"><u>Mastering Data Type Templates in Microsoft Excel: A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-microsoft-excel-a-comprehensive-guide-to-using-the-substitute-function/"><u>Mastering Microsoft Excel: A Comprehensive Guide to Using the SUBSTITUTE Function</u></a></li>
+</ul></div>
+

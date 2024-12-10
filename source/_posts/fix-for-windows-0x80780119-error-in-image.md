@@ -1,7 +1,7 @@
 ---
 title: Fix for Windows' 0X80780119 Error in Image
-date: 2024-08-08T06:15:53.735Z
-updated: 2024-08-09T06:15:53.735Z
+date: 2024-12-04T18:34:26.107Z
+updated: 2024-12-10T16:35:49.917Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/c275eb5c1cd312c42c74269cfb4e1589d2e9cb8ca
 
  Below, we take a look at the common causes of this issue and discuss the different solutions you can try to get rid of this error for good.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Are You Unable to Create a System Image?
 
  If you are unable to create a system image due to the error 0x80780119, it might be because of one or more of the following reasons:
@@ -31,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/c275eb5c1cd312c42c74269cfb4e1589d2e9cb8ca
 * **Antivirus interruption**: If you are using a security program on your computer, there is a chance that it is blocking the restore tool from functioning properly. This typically happens when you are using a third-party antivirus solution.
 
  Regardless of what might be resulting in the problem in your case, the solutions we have listed below are sure to help you get the restore utility back on track. Proceed with the solutions one by one and follow the steps carefully for successful execution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Free Up Disk Space
 
@@ -44,18 +52,6 @@ thumbnail: https://thmb.techidaily.com/c275eb5c1cd312c42c74269cfb4e1589d2e9cb8ca
 
  In case you have large files or folders that you do not want to remove but also don’t need immediately, you can consider moving them to an external drive to free up space.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Check and Repair Disk Errors
 
  You might also be facing the system restore issue due to disk errors in the system.
@@ -77,8 +73,9 @@ thumbnail: https://thmb.techidaily.com/c275eb5c1cd312c42c74269cfb4e1589d2e9cb8ca
  If any issues are found, Windows will prompt you to repair them. Follow the on-screen instructions to proceed.
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Enable System Protection
 
  Several users also noticed that they were facing the problem due to the system protection feature being disabled for the targeted drive. If you have this option disabled in your system, we suggest enabling it and checking if that makes any difference.
@@ -90,22 +87,18 @@ thumbnail: https://thmb.techidaily.com/c275eb5c1cd312c42c74269cfb4e1589d2e9cb8ca
 3. Head over to the **Device specifications** section and click on the **System protection** option.  
 ![Click on the System protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/system-protection-options.jpg)
 4. In the following dialog, head over to the **System Protection** tab.
-5. Choose the targeted drive and click on the **Configure** button.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Choose the targeted drive and click on the **Configure** button.  
 ![Click on the Configure button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/configure-button.jpg)
 6. Enable the **Turn on system protection** option and click **Apply** \> **OK** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![Enable system protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/enable-system-protection.jpg)
 
  You can now close the System Protection dialog and check if the issue is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## 4\. Delete USN Journal
 
  The USN Journal (Update Sequence Number Journal) is a feature in the NTFS file system that tracks all the changes made on a disk. It is stored in the reserved partition and over time, it can consume a significant amount of your disk space, which may be preventing a restore point from being created.
@@ -128,16 +121,14 @@ thumbnail: https://thmb.techidaily.com/c275eb5c1cd312c42c74269cfb4e1589d2e9cb8ca
  After the commands are executed, you can close Command Prompt and check if the issue is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Create a Backup Without Any More Errors on Windows
 
  Ensuring the protection of your data should be your foremost priority, and a system image backup plays a vital role in safeguarding against unforeseen data loss. With the solutions above, you should be able to get the System Restore utility up and running in no time. However, if the problem persists, you can consider reporting the issue to Microsoft and try the specific solutions they suggest. Till then, you can switch to a third-party backup tool to safeguard your data.
 
  Below, we take a look at the common causes of this issue and discuss the different solutions you can try to get rid of this error for good.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -145,3 +136,25 @@ The ultimate burning program for all your needs!</a>
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-live-photography-essentials-for-iphone-users/"><u>[New] In 2024, Live Photography Essentials for iPhone Users</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-from-novice-to-expert-pro-gopro-filming-made-easy/"><u>[Updated] From Novice to Expert Pro Gopro Filming Made Easy</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-15-best-game-recording-software-for-youtuber/"><u>[Updated] In 2024, 15 Best Game Recording Software for YouTuber</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-start-your-social-media-show-going-live-on-facebook-for-2024/"><u>[Updated] Start Your Social Media Show Going Live on Facebook for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-videographers-playbook-for-sims-games-for-2024/"><u>[Updated] The Videographer's Playbook for Sims Games for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-tips-for-efficient-ms-work-setup-in-w11/"><u>Essential Tips for Efficient MS Work Setup in W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/fine-tune-your-pointers-response-time-and-visibility-on-windows-11/"><u>Fine-Tune Your Pointer's Response Time and Visibility on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/invisible-exit-command-secreting-windows-11-power-off/"><u>Invisible Exit Command: Secreting Windows 11 Power Off</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-defenders-barrier-on-third-party-av-software/"><u>Overcoming Defender's Barrier on Third-Party AV Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-malfunction-win1011s-ccleaner-complications/"><u>Overcoming Malfunction: Win10/11's CCleaner Complications</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-inspecting-a-pc-for-hidden-spyware/"><u>Steps for Inspecting a PC for Hidden Spyware</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/the-future-in-your-hands-screenflows-role-in-macos-innovation/"><u>The Future in Your Hands ScreenFlow's Role in MacOS Innovation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-expert-insights-on-computer-components/"><u>Tom's Tech Reviews: Expert Insights on Computer Components</u></a></li>
+<li><a href="https://windows11.techidaily.com/transition-to-new-background-in-winterminal/"><u>Transition to New Background in WinTerminal</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlock-the-greatest-festive-season-chrome-os-savings-your-guide-to-zdnets-finest-picks/"><u>Unlock the Greatest Festive Season Chrome OS Savings - Your Guide to ZDNet's Finest Picks!</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-efficiency-a-guide-to-quick-rdc-in-win-11/"><u>Unlocking Efficiency: A Guide to Quick RDC in Win 11</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/unveiling-tiktok-to-twitter-conversion-for-2024/"><u>Unveiling TikTok to Twitter Conversion for 2024</u></a></li>
+</ul></div>
+

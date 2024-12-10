@@ -1,7 +1,7 @@
 ---
 title: Getting Started with the Windows 11 Voice Chat
-date: 2024-08-15T16:20:47.730Z
-updated: 2024-08-16T16:20:47.730Z
+date: 2024-12-05T16:37:16.649Z
+updated: 2024-12-10T21:36:39.497Z
 tags:
   - windows10
   - windows11
@@ -20,11 +20,19 @@ thumbnail: https://thmb.techidaily.com/01a9c6a754e21b99c858623b51177464f69009a94
 
  It has a number of features that make it easy to customize and user-friendly. This article will show you how to access this tool on Windows 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Start the Narrator Using a Keyboard Shortcut
 
  If you're using Windows 11, you can open Narrator by pressing**Win + Ctrl + Enter** on your keyboard. This shortcut will work even if you're in another app or in the middle of a task.
 
  To stop the Narrator from reading aloud, press**Caps Lock + Esc** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. How to Start the Narrator Using a Run Command
 
@@ -35,9 +43,6 @@ thumbnail: https://thmb.techidaily.com/01a9c6a754e21b99c858623b51177464f69009a94
 ![Open Narrator Using Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-narrator-using-run-command.jpg)
 3. The narrator will now launch and begin reading aloud whatever is on your screen.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. How to Start the Narrator via Command Prompt
 
  Windows 11 comes with a built-in screen reader called Narrator that you can use if you need a screen reader. Here's how to open it via the Command Prompt:
@@ -47,9 +52,6 @@ thumbnail: https://thmb.techidaily.com/01a9c6a754e21b99c858623b51177464f69009a94
 3. If UAC appears on the screen, click**Yes** to continue.
 4. In the Command Prompt window, type "narrator" and press Enter.  
 ![Open Narrator Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-narrator-using-command-prompt.jpg)
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. The Narrator window will open, and you can start using the screen reader.
 
 ## 4\. How to Start the Narrator With the Windows Search Tool
@@ -63,9 +65,9 @@ thumbnail: https://thmb.techidaily.com/01a9c6a754e21b99c858623b51177464f69009a94
 You now have Narrator running on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. How to Start the Narrator Through Windows PowerShell
 
  Windows PowerShell is a task-based command-line shell and scripting language designed especially for system administration. You can use this tool to launch programs installed on your computer.
@@ -75,14 +77,8 @@ To open Narrator using Windows PowerShell, follow these steps:
 1. Press**Win + X** on your keyboard and select**Terminal (Admin)** .
 2. If UAC appears on the screen, click the**Yes** button to continue.  
 ![Open Narrator Using Windows PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-narrator-using-windows-powershell.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 3. In the PowerShell window, type "narrator" and press Enter to start the Narrator.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. How to Start the Narrator Using Windows Settings
 
  On Windows, you can also open Narrator from the system settings to read texts aloud and use other voice commands. The steps are as follows:
@@ -93,9 +89,6 @@ To open Narrator using Windows PowerShell, follow these steps:
 ![Open Narrator Using Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-narrator-using-windows-settings.jpg)
 4. Under the Use Narrator section, switch on the**Narrator** toggle.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. How to Start the Narrator Using Control Panel
 
  On Windows 11, you can also start Narrator using the Control Panel. This is the easiest and most straightforward way to do so. To get started, follow these steps:
@@ -103,11 +96,17 @@ To open Narrator using Windows PowerShell, follow these steps:
 1. Open the Control Panel (see[how to open the Control Panel](https://www.makeuseof.com/windows-11-open-control-panel/) for help).
 2. In the control panel, change the screen view to**Large icons** .  
 ![Open Narrator Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-narrator-using-control-panel.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 3. Next, select**Easy of Access Centre** \>**Start Narrator** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. The Narrator will start on your Windows 11 device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. How to Start Narrator With a Desktop Shortcut
 
@@ -127,10 +126,11 @@ To open Narrator using Windows PowerShell, follow these steps:
 1. Right-click on the taskbar and select "Task Manager" from the menu that appears. You can also use**Ctrl + Shift + Enter** to open the tool directly.
 2. In the Task Manager window, click on the**Run new task** button.  
 ![Open Narrator Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-narrator-using-task-manager.jpg)
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Type "Narrator" in the text field and hit Enter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Close the Task Manager window and the Narrator should now be up and running.
 
@@ -143,9 +143,6 @@ To open Narrator using Windows PowerShell, follow these steps:
 
 That's all; your Narrator should now be ready to go.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## 11\. How to Pin Narrator to the Taskbar
 
  While you can open Narrator using any of the above methods, you might find it easier to access it right from the Taskbar tray. Having it on the taskbar can make it easier and faster to access an application since it is always in view on your desktop. To do this, follow the below steps:
@@ -156,18 +153,19 @@ That's all; your Narrator should now be ready to go.
 
  It's just that simple. This is how you can open Narrator on Windows 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## It’s Easy to Start Up the Narrator on Windows 10
 
  The Narrator tool is easy to use and can be very helpful for those who are visually impaired or have disabilities that make using a computer difficult. If you're running Windows 11 and want to open Narrator, now you know the best ways to do so.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -176,4 +174,23 @@ That's all; your Narrator should now be ready to go.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-how-to-render-and-upload-your-youtube-video-faster/"><u>[Updated] 2024 Approved How to Render and Upload Your YouTube Video Faster?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-beginner-friendly-approach-embracing-video-chats-on-insta/"><u>[Updated] In 2024, Beginner-Friendly Approach Embracing Video Chats on Insta</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-pro-level-mac-photo-tips-unveiling-five-expert-techniques/"><u>[Updated] Pro-Level Mac Photo Tips Unveiling Five Expert Techniques</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-smart-choice-instagram-video-dimensions-and-formats/"><u>[Updated] The Smart Choice Instagram Video Dimensions and Formats</u></a></li>
+<li><a href="https://driver-install.techidaily.com/chipset-driver-update-for-win-10-8-oses/"><u>Chipset Driver Update for WIN 10-8 OSes</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-bypassing-do-not-have-permission-windows-errors/"><u>Guide to Bypassing 'Do Not Have Permission' Windows Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-recover-from-failed-discord-windows-updates/"><u>Guide to Recover From Failed Discord Windows Updates</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-nubia-red-magic-8s-proplus-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Nubia Red Magic 8S Pro+ Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-essential-android-camera-techniques-and-software/"><u>In 2024, Essential Android Camera Techniques & Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-language-switches-using-keyboard-shortcuts-on-windows-11/"><u>Mastering Language Switches: Using Keyboard Shortcuts on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/mending-the-error-not-connected-wifi-in-win/"><u>Mending the Error: 'Not Connected' WiFi in Win</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-mfc71udll-absence-on-windows-pc/"><u>Overcoming Mfc71u.dll Absence on Windows PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/recover-missing-seagate-or-samsung-drives-in-windows/"><u>Recover Missing Seagate or Samsung Drives in Windows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/seeking-excellence-prime-free-srt-online-translators-guide/"><u>Seeking Excellence Prime Free SRT Online Translators Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/smartphone-photography-faceoff-unveiling-winner-and-surprise-in-pixel-e9xl-vs-iphone-15-pro-shootout-experts/"><u>Smartphone Photography Faceoff: Unveiling Winner and Surprise in Pixel E9XL vs iPhone 15 Pro Shootout Experts</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleash-peak-performance-tuning-amd-graphics-on-windows/"><u>Unleash Peak Performance: Tuning AMD Graphics on Windows</u></a></li>
+</ul></div>
 

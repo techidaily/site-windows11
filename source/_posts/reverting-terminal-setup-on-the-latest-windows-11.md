@@ -1,7 +1,7 @@
 ---
 title: Reverting Terminal Setup on the Latest Windows 11
-date: 2024-12-02T03:14:10.766Z
-updated: 2024-12-03T20:39:23.373Z
+date: 2024-12-09T21:31:05.829Z
+updated: 2024-12-10T18:51:30.458Z
 tags:
   - windows10
   - windows11
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/b55c24263d5a9a2d0075e95ed2cba33cc134d0a45
 
  Let's now move to the below sections and see how it can be reset.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Reset Windows Terminal Settings by Clearing JSON Files
 
  In order to reset the settings back to the original defaults, you will need to delete the settings.json file. Here's how to do it.
@@ -47,14 +43,14 @@ thumbnail: https://thmb.techidaily.com/b55c24263d5a9a2d0075e95ed2cba33cc134d0a45
 ![Open JSON file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-json-file.jpg)
 4. If you're asked which app to use to open the file, then double-click on**Notepad** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. On the next page, select all the contents and**Delete** them.
 6. Now press**Ctrl + S** on your keyboard to save it.
 
  Next time you open the app, a new configuration with all the default settings will be created automatically.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Reset Windows Terminal Settings Using Command Prompt
 
@@ -66,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/b55c24263d5a9a2d0075e95ed2cba33cc134d0a45
 2. In the Command Prompt window, copy and paste the following command:  
 ![Reset Windows Terminal Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-windows-terminal-using-command-prompt.jpg)  
 del /f /s /q /a "%LocalAppData%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json"
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. Now press the**Enter** key to delete the settings.json file.
 4. You can now exit the command prompt.
@@ -79,11 +79,11 @@ del /f /s /q /a "%LocalAppData%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe
 ![Reset Windows Terminal Using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-windows-terminal-using-powershell.jpg)  
 Remove-Item -Path "$env:LOCALAPPDATA\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json" -Force
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Press**Enter** to execute the command.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Reset Windows Terminal Settings From File Explorer
 
@@ -95,7 +95,7 @@ Remove-Item -Path "$env:LOCALAPPDATA\Packages\Microsoft.WindowsTerminal_8wekyb3d
 %LocalAppData%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. On the next page, right-click on**settings.json** and select**Delete** from the context menu.
@@ -103,7 +103,7 @@ Remove-Item -Path "$env:LOCALAPPDATA\Packages\Microsoft.WindowsTerminal_8wekyb3d
  Once you perform the above steps, Settings.json will automatically be created with the default settings.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Resetting the Windows Terminal, Made Easy
@@ -125,24 +125,20 @@ Remove-Item -Path "$env:LOCALAPPDATA\Packages\Microsoft.WindowsTerminal_8wekyb3d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-gain-instagram-reel-fame-emulate-top-tiktok-trends-and-insights/"><u>[New] Gain Instagram Reel Fame Emulate Top TikTok Trends & Insights</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-acid-pro-analysis-and-related-tools-reviewed-for-2024/"><u>[Updated] ACID Pro Analysis and Related Tools Reviewed for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-connecting-twitter-videos-with-facebook-friends/"><u>[Updated] Connecting Twitter Videos with Facebook Friends</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-cut-edge-video-enhancement-merging-windows-11-and-storyremix-for-creative-edits-for-2024/"><u>[Updated] Cut-Edge Video Enhancement Merging Windows 11 & StoryRemix for Creative Edits for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/fix-system-error-allow-blocked-program/"><u>Fix System Error: Allow Blocked Program</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-asus-rog-phone-7-ultimate-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Asus ROG Phone 7 Ultimate?</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Apple iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/maximizing-money-smart-tactics-for-video-monetization/"><u>Maximizing Money Smart Tactics for Video Monetization</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-screen-stumbles-winning-at-full-screen-in-sonic-frontiers-on-windows-11/"><u>Overcoming Screen Stumbles: Winning at Full-Screen in Sonic Frontiers on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/preventing-saturated-load-on-windows-chatgpt/"><u>Preventing Saturated Load on Windows ChatGPT</u></a></li>
-<li><a href="https://windows11.techidaily.com/proven-methods-for-mastering-the-mspcm-toolbar-windows-11-edition/"><u>Proven Methods for Mastering the MSPCM Toolbar, Windows 11 Edition</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/cket-to-the-top-on-youtube-secrets-of-effective-seo-tactics-1-11-for-2024/"><u>Skyrocket to the Top on YouTube Secrets of Effective SEO Tactics (1-11) for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-reverse-non-downloading-challenges-with-chrome-windows/"><u>Steps to Reverse Non-Downloading Challenges with Chrome, Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-system-resources-for-better-gaming-experience/"><u>Streamlining System Resources for Better Gaming Experience</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-essentials-of-seamless-interoperability-via-nearby-share/"><u>The Essentials of Seamless Interoperability via Nearby Share</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-for-restoring-windows-dashboard-functionality/"><u>Tips for Restoring Windows Dashboard Functionality</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-resolving-the-phase0exception-stop-error-0x00000078/"><u>Ultimate Guide: Resolving the PHASE0_EXCEPTION - Stop Error 0X00000078</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/understanding-ip-sounds-and-songs-on-instagram/"><u>Understanding IP Sounds and Songs on Instagram</u></a></li>
-<li><a href="https://windows11.techidaily.com/what-are-the-best-bottleneck-calculators-for-windows-how-to-check-your-hardware-for-bottlenecks-manually/"><u>What Are the Best Bottleneck Calculators for Windows? How to Check Your Hardware for Bottlenecks Manually</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-filmmaking-simplified-create-an-inviting-youtube-subscription-button-in-filmora/"><u>[New] In 2024, Filmmaking Simplified Create an Inviting YouTube Subscription Button in Filmora</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-from-raw-files-to-artwork-beginners-guide-to-lunapic/"><u>[New] In 2024, From Raw Files to Artwork Beginner’s Guide to LunaPic</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-mastering-the-art-of-choosing-winning-video-thumbnails-for-2024/"><u>[Updated] Mastering the Art of Choosing Winning Video Thumbnails for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-swiftly-restoring-eliminated-reddit-content/"><u>2024 Approved Swiftly Restoring Eliminated Reddit Content</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-frozen-overlays-restoring-function-to-discord-ui/"><u>Addressing Frozen Overlays: Restoring Function to Discord UI</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-microsoft-store-error-0x00000000-in-windows-os/"><u>Eliminating Microsoft Store Error 0X00000000 in Windows OS</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-top-free-video-conferencing-apps-of-2nndy-four-alternatives-to-skype/"><u>Explore Top Free Video Conferencing Apps of 2Nndy Four - Alternatives To Skype</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-samsung-galaxy-a05-phone-by-drfone-android/"><u>How to Unlock a Network Locked Samsung Galaxy A05 Phone?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-efficient-techniques-for-clearing-figma-backdrops/"><u>In 2024, Efficient Techniques for Clearing Figma Backdrops</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-on-your-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID on Your Apple iPhone SE (2022)?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-google-pixel-8-pro-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Google Pixel 8 Pro</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-entry-techniques-for-your-windows-11-appshouse/"><u>Seamless Entry Techniques for Your Windows 11 AppsHouse</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-restoring-function-of-wsreset-in-windows/"><u>Strategies for Restoring Function of WSReset in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-iphoneipad-photo-upload-error-on-windows-os-w11-edition/"><u>Troubleshooting iPhone/iPad Photo Upload Error on Windows OS, W11 Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveil-productivity-customize-taskbar-and-tiles-in-win-11/"><u>Unveil Productivity: Customize Taskbar & Tiles in Win 11</u></a></li>
 </ul></div>
 

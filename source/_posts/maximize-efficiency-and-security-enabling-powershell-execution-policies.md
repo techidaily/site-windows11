@@ -1,7 +1,7 @@
 ---
 title: "Maximize Efficiency and Security: Enabling PowerShell Execution Policies"
-date: 2024-12-02T06:27:30.067Z
-updated: 2024-12-04T05:54:09.777Z
+date: 2024-12-03T18:56:42.614Z
+updated: 2024-12-10T20:12:24.760Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Check Your Existing Execution Policy
@@ -58,17 +58,9 @@ To change execution policy using Settings:
 ![windows 11 for developers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-for-developers.jpg)
 4. Click to expand the**PowerShell** section.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Toggle the switch to **change the execution policy to allow local PowerShell scripts to run without signing - Require signing for remote scripts** .  
 ![enable powershell script execution windows 11 settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-powershell-script-execution-windows-11-settings.jpg)
 6. Once done, open PowerShell, type get**executionpolicy,** and press**Enter** . The execution policy for the current user is now set to**RemoteSigned.**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. If you need to disable the execution policy, toggle the PowerShell switch and set it to**Off** .
 
@@ -90,12 +82,16 @@ To change the execution policy using PowerShell:
 `Set-ExecutionPolicy RemoteSgined -Scope CurrentUser`
 5. Replace**CurrentUser** in the above command with other users (Scope) as per your requirement.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Remove Script Execution Policy Using PowerShell
 
 ![set-execution-policy-undefined](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-execution-polify-undefined.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you want to disable script execution, set the execution policy to**Undefined** using th**e Set\_ExecutionPolicy** cmdlet. This is a default state and prevents PowerShell from executing any scripts.
@@ -108,6 +104,10 @@ To disable script execution using PowerShell:
 3. The above command will set the execution policy default (undefined) for all the users. If you want to disable script execution for a specific scope, use the following command:  
 `Set-ExecutionPolicy undefined -Scope CurrentUser`
 4. The above command will disable script execution for**CurrentUser** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Understanding Execution Policies and Scopes
 
@@ -126,7 +126,7 @@ To disable script execution using PowerShell:
 | Unrestricted     | Allow unsigned script execution with a warning for the scripts downloaded from the internet.                   |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Execution Policy Scope
@@ -164,21 +164,16 @@ The below table briefly explains all the execution policy scopes:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-2023-roundup-premier-professionals-360-cameras/"><u>[New] 2023 Roundup Premier Professionals’ 360 Cameras</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-cloud-storage-for-your-clippings-free-tiers-and-paid-plans-explored/"><u>[New] In 2024, Cloud Storage for Your Clippings Free Tiers & Paid Plans Explored</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-boost-your-broadcast-three-steps-to-successful-youtube-streaming/"><u>[Updated] Boost Your Broadcast Three Steps to Successful YouTube Streaming</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-install-hp-officejet-pro-8610-drivers-compatible-with-windows-111087xp/"><u>Download & Install HP Officejet Pro 8610 Drivers: Compatible with Windows 11/10/8/7/XP</u></a></li>
-<li><a href="https://windows11.techidaily.com/file-explorer-missing-sd-card-resolution-guide/"><u>File Explorer Missing SD Card: Resolution Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/handling-error-code-0xc00000f-with-ease-on-pcs/"><u>Handling Error Code 0xC00000F with Ease on PCs</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-to-eliminate-your-digital-trail-and-become-internet-invisible-effective-strategies-for-a-fresh-start/"><u>How to Eliminate Your Digital Trail and Become Internet Invisible: Effective Strategies for a Fresh Start</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-get-your-astro-a50s-microphone-working-again/"><u>How to Get Your Astro A50's Microphone Working Again</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-infinix-note-30-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Infinix Note 30 5G to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-samsung-galaxy-a14-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Samsung Galaxy A14 5G Data? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/key-collectors-rejoice-get-the-perfect-pair-of-keys-and-essential-windows-11-612lifetime/"><u>Key Collectors Rejoice – Get the Perfect Pair of Keys & Essential Windows 11, $6.12/Lifetime!</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-discords-loading-failures-in-windows/"><u>Resolving Discord's Loading Failures in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-non-functional-activation-in-os-11/"><u>Resolving Non-Functional Activation in OS 11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/tutorial-securely-transferring-netflix-tv-shows-and-movies-to-your-computer/"><u>Tutorial: Securely Transferring Netflix TV Shows and Movies to Your Computer</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-7-key-windows-11-widgets-for-enhanced-productivity/"><u>Unveiling 7 Key Windows 11 Widgets for Enhanced Productivity</u></a></li>
-<li><a href="https://windows11.techidaily.com/visualizing-disks-wisely-the-windows-methodology/"><u>Visualizing Disks Wisely: The Windows Methodology</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ound-selection-secrets-top-7-free-effects-for-youtube/"><u>[New] Sound Selection Secrets Top 7 Free Effects for YouTube</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-ultimate-guide-selecting-the-top-8-tripods-for-high-res-cameras/"><u>[Updated] Ultimate Guide Selecting the Top 8 Tripods for High-Res Cameras</u></a></li>
+<li><a href="https://windows11.techidaily.com/breath-of-fresh-air-for-windows-13-revival-techniques/"><u>Breath of Fresh Air for Windows: 13 Revival Techniques</u></a></li>
+<li><a href="https://article-tips.techidaily.com/dynamic-duo-wearable-and-mac-harmony-for-2024/"><u>Dynamic Duo Wearable & Mac Harmony for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-performance-gauges-for-pcs/"><u>Efficient Performance Gauges for PCs</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-honor-play-40c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-honor-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Honor</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hps-thunderbolt-station-g2-find-the-right-driver-for-120w-and-230w-models-here/"><u>HP's Thunderbolt Station G2: Find the Right Driver for 120W & 230W Models Here</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-recording-and-playing-games-audio-on-discord-now-possible/"><u>Solution: Recording and Playing Games Audio on Discord, Now Possible</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleashing-creativity-in-calendar-design-a-windows-outlook-method/"><u>Unleashing Creativity in Calendar Design - A Windows Outlook Method</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-cost-effective-windows-11-keys/"><u>Unveiling Cost-Effective Windows 11 Keys</u></a></li>
 </ul></div>
 

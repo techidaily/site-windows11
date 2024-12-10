@@ -1,7 +1,7 @@
 ---
 title: "Restoring Order: 7 Solutions for Lost Windows Server Time"
-date: 2024-08-15T16:21:06.173Z
-updated: 2024-08-16T16:21:06.173Z
+date: 2024-12-06T19:21:35.329Z
+updated: 2024-12-10T19:35:43.260Z
 tags:
   - windows10
   - windows11
@@ -42,13 +42,19 @@ thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1c
 5. Check the **Synchronize with an Internet time server** box and select a time server from the drop-down menu.  
 ![Change the Time Server](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/change-the-time-server.jpg)
 6. Click the **Update now** button to synchronize your computer with the time server.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Once completed, click **OK** to save the changes and exit.
 
  After these steps, you should see the Windows Time Service running on your system. Check the time to ensure it is correct and make further adjustments.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Add More Time Servers
 
  If the Windows Time Service is still missing, you can try adding more time servers to the list. Multiple time servers increase the chance of finding an active server and keeping your system in sync. If one server goes down, your computer can automatically switch to another.
@@ -81,9 +87,6 @@ ntp-wwv.nist.gov`
 
  After adding the time server, click **OK** and close the Registry Editor window. Now restart your computer to apply the changes and check if Windows Time Service is available.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Re-register the Windows Time Service
 
  If the above steps fail, you can try re-registering the Windows Time Service. Re-registering a service refreshes its configuration and forces it to start again. Doing this may fix the missing Windows Time Service and recover clock synchronization.
@@ -104,14 +107,12 @@ net start w32time
 
  After performing these steps, close the Command Prompt window and restart your system. You should see that the Windows Time Service is running, and your clock syncs with the time server.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Repair Corrupted System Files
 
 ![SFC Command Preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sfc-command-preview.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Corrupt system files can also cause Windows services to fail. So, if the Windows Time Service is still missing, try repairing corrupt system files. You can do this using the System File Checker tool. This tool scans your system for missing files and repairs the errors it finds.
@@ -121,20 +122,22 @@ net start w32time
  If you're not sure how to run either of these tools, check out how to repair corrupt Windows files with its built-in tools for instructions.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Scan for Malware
 
  Sometimes, malware is to blame for Windows services acting a little odd. As such, it's worth [running a full system scan](https://www.makeuseof.com/scan-for-viruses-without-buying-antivirus-software/) and removing all detected threats.
 
 ![Full Scan Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/full-scan-windows-security.jpg)
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you feel your PC isn't as secure as it could be, you could try downloading one of the [best antivirus apps for Windows](http://www.makeuseof.com/windows-11-antivirus-apps/). These will both actively block malicious program from installing themselves on your PC, and remove any that are currently infesting your computer.
 
  For those who prefer a command-line approach, you can [use Windows PowerShell to scan Windows for malware](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Restore the Missing Windows Time Service
 
@@ -142,11 +145,29 @@ net start w32time
 
  Fortunately, restoring the Windows Time Service is not complicated. This guide will discuss quickly restoring the missing Windows Time Service and setting the correct time on your computer.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-cutting-edge-techniques-for-ios-users-uploading-videos-to-youtube/"><u>[New] 2024 Approved Cutting-Edge Techniques for iOS Users Uploading Videos to YouTube</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-how-to-record-vimeo/"><u>[New] 2024 Approved How to Record Vimeo?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-captivating-chronicles-youtube-stories-to-follow/"><u>[Updated] 2024 Approved Captivating Chronicles YouTube Stories to Follow</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-vocal-variations-in-free-fire-gaming/"><u>[Updated] 2024 Approved Vocal Variations in Free Fire Gaming</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-livestream-grabber-by-fb/"><u>[Updated] In 2024, LiveStream Grabber by FB</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-tips-control-your-volume-with-precision-on-lumafusion/"><u>2024 Approved Expert Tips Control Your Volume with Precision on Lumafusion</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-secure-is-it-to-turn-to-advanced-ai-such-as-chatgpt-or-googles-bard-for-your-personal-finance-strategy/"><u>How Secure Is It to Turn to Advanced AI Such as ChatGPT or Google's Bard for Your Personal Finance Strategy?</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-condense-time-amplify-impact-time-lapse-video-creation-in-final-cut-pro/"><u>New 2024 Approved Condense Time, Amplify Impact Time Lapse Video Creation in Final Cut Pro</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-enduring-legacy-of-windows-xp-why-theres-no-successor/"><u>The Enduring Legacy of Windows XP - Why There's No Successor</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-latest-addition-to-the-lineup-meet-the-online-only-microsoft-surface-laptop-alice-what-is-the-term-used-for-any-form-of-energy-that-relates-to-motion/"><u>The Latest Addition to the Lineup: Meet the Online-Only Microsoft Surface Laptop # Alice: What Is the Term Used for Any Form of Energy that Relates to Motion?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-ideal-household-greenery-choices-for-boosting-productivity-in-your-workspace-insights-from-zdnet/"><u>Top 5 Ideal Household Greenery Choices for Boosting Productivity in Your Workspace - Insights From ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-picks-superior-non-adobe-tools-boosting-your-upcoming-design-endeavors/"><u>Top Picks: Superior Non-Adobe Tools Boosting Your Upcoming Design Endeavors</u></a></li>
+<li><a href="https://windows11.techidaily.com/transitioning-to-windows-11-the-top-features-im-nostalgic-for-from-windows-10/"><u>Transitioning to Windows 11: The Top Features I'm Nostalgic for From Windows 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-guide-resolving-issues-with-google-maps-functionality/"><u>Troubleshooting Guide: Resolving Issues with Google Maps Functionality</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-tips-fixing-the-an-error-has-happened-while-solving-problems-on-windows-11-or-10/"><u>Troubleshooting Tips: Fixing the 'An Error Has Happened While Solving Problems' On Windows 11 or 10</u></a></li>
+</ul></div>
+

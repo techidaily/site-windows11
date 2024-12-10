@@ -1,7 +1,7 @@
 ---
 title: Resolving “Need Old Password” Warning on Win11/Win11 OS
-date: 2024-11-30T23:36:47.434Z
-updated: 2024-12-03T20:09:30.707Z
+date: 2024-12-03T22:06:52.601Z
+updated: 2024-12-10T18:36:52.248Z
 tags:
   - windows10
   - windows11
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
 ![The “We’ll Need Your Current Windows Password One Last Time” Error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-we-ll-need-your-current-windows-password-one-last-time-error.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Microsoft requests this password to verify your access to the local administrator account. A default local administrator account is created when you set up Windows 10 or 11 devices (after purchase); however, this account isn’t generated with a password.
@@ -46,22 +46,26 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
 ![A padlock standing on the keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/password-pc-keyboard.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you encounter this error, you should first try all of the commonly used passwords you’ve used with the device. It’s possible that once upon a time, you changed the password to the default local administrator account. However, this only applies if you’re experiencing this error as a result of a system reset.
 
  Try your Microsoft account password, any pin you’ve used with the device, and your commonly used passwords.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Press Enter While the Password Field Is Blank
 
 ![Enter Key on Laptop Keyboard in Red](https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6d231984ceb0349e3e717f14.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Some people who have encountered this error claim that you can resolve it by pressing the Enter key with the password field empty. This should work if you've never set up a password for the local admin account, and it works for some people.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Reset Your Windows Password
 
@@ -74,20 +78,16 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
 ![Accounts Page in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/accounts-page-in-windows-11.jpg)
 3. Then, select **Sign-In Options** \> **Passwords**. You’ll find **Add** if you’re creating a password for the first time. Otherwise, you’ll find **Change**, meaning you’ll need to [reset your local admin account password](https://www.makeuseof.com/tag/3-ways-to-reset-the-forgotten-windows-administrator-password/).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Password Option under Sign-In Options in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/password-option-under-sign-in-options-in-windows-11.jpg)
 4. If you click **Add**, you’ll be directed to a page where you can set up a password.  
 
 ![Create New Password for Local Admin Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/create-new-password-for-local-admin-account.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you have created or reset your Windows password, you can proceed to sign into your Microsoft account. Once you’re asked to insert your “current Windows password,” swiftly input your newly minted password.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Don’t Let the “We’ll Need Your Current Windows Password One Last Time” Error Stop You
 
@@ -105,18 +105,17 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-a-simple-tutorial-starting-screen-recording-on-mac/"><u>[New] 2024 Approved A Simple Tutorial Starting Screen Recording on Mac</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-enhanced-visual-content-incorporate-bb-overlays-in-fb-video-frames/"><u>[Updated] 2024 Approved Enhanced Visual Content Incorporate BB Overlays in FB Video Frames</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-lava-storm-5g-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Lava Storm 5G Fingerprint Lock</u></a></li>
-<li><a href="https://win-superb.techidaily.com/guard-against-cyber-threats-a-step-by-step-guide-to-eliminating-facebook-malware-instantly/"><u>Guard Against Cyber Threats: A Step-by-Step Guide to Eliminating Facebook Malware Instantly</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-to-resolving-winerror-0x8007043c-on-media-creator/"><u>Guide to Resolving WinError 0X8007043C on Media Creator</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-photoshop-curves-decoded-a-beginners-guide/"><u>In 2024, Photoshop Curves Decoded A Beginner's Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/keyboard-prodigy-tips-for-windows-photoshop/"><u>Keyboard Prodigy Tips for Windows Photoshop</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-through-windows-11-typing-troubles-addressing-zerox-code-0x80049dd3/"><u>Navigating Through Windows 11 Typing Troubles: Addressing Zerox (Code: 0X80049DD3)</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-windows-11s-uptime-failure-error-code-0x80246007/"><u>Overcoming Windows 11’S Uptime Failure: Error Code 0X80246007</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-rpc-issues-on-windows-key-strategies/"><u>Resolving RPC Issues on Windows: Key Strategies</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/synopsis-of-crowd-opinions-on-vllo-for-2024/"><u>Synopsis of Crowd Opinions on VLLO for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-windows-write-operations-error/"><u>Tackling Windows Write Operations Error</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultrazoom-at-your-fingertips-with-sx720hs-camera-review/"><u>UltraZoom at Your Fingertips with SX720HS Camera Review</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-the-beginners-roadmap-to-choosing-a-camera/"><u>2024 Approved The Beginner's Roadmap to Choosing a Camera</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-tecno-spark-10-pro-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Tecno Spark 10 Pro Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/adeptly-disguise-wireless-networks-with-windows/"><u>Adeptly Disguise Wireless Networks with Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-overcome-geforce-shadowplay-failed-installation-challenge/"><u>Expert Tips to Overcome GeForce ShadowPlay Failed Installation Challenge</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-change-the-windows-subsystem-for-androids-resource-usage/"><u>How to Change the Windows Subsystem for Android's Resource Usage</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-itel-p55-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Itel P55 using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-seamless-editing-mastering-the-filmora-experience/"><u>In 2024, The Art of Seamless Editing Mastering the Filmora Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-over-window-icon-positions/"><u>Mastery Over Window Icon Positions</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/quicktakes-why-videos-thrive-on-twitter-writes-for-2024/"><u>QuickTakes Why Videos Thrive on Twitter' Writes for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-successfully-changing-user-configurations-after-a-driver-failed-alert/"><u>Step-by-Step Fix: Successfully Changing User Configurations After a 'Driver Failed' Alert</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-memory-integrity-on-windows-11-methods-77/"><u>Unlocking Memory Integrity on Windows 11: Methods 7/7</u></a></li>
+<li><a href="https://windows11.techidaily.com/why-sudo-is-revolutionizing-windows-systems/"><u>Why Sudo Is Revolutionizing Windows Systems</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Streamline Menu Navigation by Omitting Windows 11 Extras
-date: 2024-08-15T16:17:32.000Z
-updated: 2024-08-16T16:17:32.000Z
+date: 2024-12-05T16:30:10.555Z
+updated: 2024-12-10T16:07:55.249Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/2f486f4dd87aa179d36ac9cfba84a9e655bb2170b
 
  Although it was introduced to simplify things, many users still prefer the old context menu from Windows 10\. Fortunately, you can remove Show more options from the context menu on Windows 11 by following the below methods.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Remove "Show More Options" From the Context Menu With Folder Options
 
  The[Windows Folder Options](https://www.makeuseof.com/windows-folder-options-guide/) in File Explorer is the go-to place to view and manage File Explorer settings. You can use it to[enable compact view in File Explorer on Windows 11](https://www.makeuseof.com/how-to-enable-compact-view-windows-11-file-explorer/) , manage file thumbnails, remove the "show more options" entry, and much more.
@@ -33,11 +37,16 @@ thumbnail: https://thmb.techidaily.com/2f486f4dd87aa179d36ac9cfba84a9e655bb2170b
 ![Launch folder windows in a separate process box in the Folder option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/launch-folder-windows-in-a-separate-process-box.jpg)
 5. Click**Apply** \>**OK** to save the changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Next, restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Remove Show More Options From the Context Menu Using the Command Prompt
 
  If you're a power user, you can use Command Prompt to remove the "show more options" entry from the context menu. Here's how:
@@ -60,6 +69,10 @@ Next, restart your computer for the changes to take effect.
 
 `reg delete "HKEY_CURRENT_USER\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}" /f​`
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Remove Show More Options From the Context Menu Using the Registry Editor
 
  Another quick way to remove the "show more options" entry is through the Registry Editor. Here's what you need to do:
@@ -72,15 +85,13 @@ Next, restart your computer for the changes to take effect.
 3. Right-click on the empty space on the right pane, click**New,** and then select**DWORD** **(32-bit) Value** from the context menu.
 4. Name the value as**"UndockingDisabled"** and press**Enter** .  
 ![UndockingDisabled entry in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/undockingdisabled-entry.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Double-click on the UndockingDisabled key, type**1** in the**Value data,** and click**OK** to save the changes.  
 ![Editing UndockingDisabled in Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/editing-undockingdisabled.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Remove the "Show More Options" Entry From the Context Menu Using Winaero Tweaker
 
  There are plenty of third-party tools using which you can customize the look of your Windows 11 computer. For this guide, we will use Winaero Tweaker.
@@ -91,31 +102,19 @@ Next, restart your computer for the changes to take effect.
 2. Unzip the file, open the executable, and then follow the on-screen instructions to install it on your computer.
 3. Launch Winaero Tweaker and choose the**Classic Full Context Menus** option from the left sidebar.  
 ![Classic Full Context Menus option of Winaero](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/classic-full-context-menus-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Check the**Enable classic full context menus** box.  
 ![Enable classic full context menus option in Winaero](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-classic-full-context-menus.jpg)
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Click the**Restart Explorer** button that appears.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ## Enjoy an Old School Context Menu on Windows 11
 
  The desktop context menu lets you quickly access areas like the personalization menu, display settings, and much more. In Windows 11, you get the new "Show more options" entry in the context menu. But if you prefer the old design, you can quickly disable the "Show more options" entry from the context using either of the above methods.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -124,4 +123,23 @@ Next, restart your computer for the changes to take effect.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/how-to-overcome-repetitive-login-failures-in-teams/"><u>How to Overcome Repetitive Login Failures in Teams</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-show-or-hide-system-tray-icons-and-the-hidden-icons-menu-on-windows-11/"><u>How to Show or Hide System Tray Icons and the Hidden Icons Menu on Windows 11</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-time-saving-tricks-for-powerpoint-projections/"><u>In 2024, Time-Saving Tricks for PowerPoint Projections</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/instant-internet-jump-after-installing-os/"><u>Instant Internet Jump After Installing OS</u></a></li>
+<li><a href="https://facebook.techidaily.com/invisible-framework-social-norms-in-friend-requesting/"><u>Invisible Framework: Social Norms in Friend Requesting</u></a></li>
+<li><a href="https://windows11.techidaily.com/leveraging-windows-for-top-linux-functionality/"><u>Leveraging Windows for Top Linux Functionality</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximizing-ipad-output-discover-key-apps-to-enhance-productivity-and-workflow-as-recommended-experts/"><u>Maximizing iPad Output? Discover Key Apps to Enhance Productivity and Workflow as Recommended Experts</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-mac-video-editing-software-for-industry-experts-adobe-premiere-pro/"><u>New In 2024, Mac Video Editing Software for Industry Experts Adobe Premiere Pro</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/patched-reel-error-on-instagram/"><u>Patched: Reel Error on Instagram</u></a></li>
+<li><a href="https://windows11.techidaily.com/personalizing-window-writable-wallpaper-with-confidence/"><u>Personalizing Window' Writable Wallpaper with Confidence</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-network-adapter-woes-clearing-up-win-error-31/"><u>Tackling Network Adapter Woes: Clearing Up WIN Error 31</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-best-way-to-play-ps1-games-on-windows-a-duckstation-guide/"><u>The Best Way to Play PS1 Games on Windows: A Duckstation Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/unlock-your-phones-potential-with-ios-11-camera-tips-for-2024/"><u>Unlock Your Phone's Potential with iOS 11 Camera Tips for 2024</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/windows-serverqnap-nas/"><u>Windows Server到QNAP NAS的簡單兩步驟備份方法：全面解決方案</u></a></li>
+<li><a href="https://program-issues.techidaily.com/zombie-army-4-dead-war-a-survival-guide-for-pc-gaming-troubleshooting/"><u>Zombie Army 4: Dead War - A Survival Guide for PC Gaming Troubleshooting</u></a></li>
+</ul></div>
 

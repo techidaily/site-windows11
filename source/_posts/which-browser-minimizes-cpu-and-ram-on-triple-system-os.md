@@ -1,7 +1,7 @@
 ---
 title: Which Browser Minimizes CPU and RAM On Triple System OS?
-date: 2024-11-29T20:10:24.306Z
-updated: 2024-12-03T19:49:43.080Z
+date: 2024-12-06T19:58:35.912Z
+updated: 2024-12-10T22:01:39.875Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/59fadab74810371b89474ece0e1afaf00b25fe1d9
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How Will the Test Be Conducted?
 
  For easier comparison, we will run the same processes on all browsers and keep them consistent across all devices. A YouTube video, WhatsApp Web, a Reddit video, and a blog-based website will be the processes we will run on each browser.
@@ -45,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/59fadab74810371b89474ece0e1afaf00b25fe1d9
 
 ![Specifications of a Windows Laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/specifications-of-a-windows-laptop.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Here are the RAM and CPU consumption figures for all browsers on a Windows device when running one YouTube video, WhatsApp Web, a blog site, and a Reddit video:
 
 | Browser Name    | RAM Usage (MBs) | CPU Usage (Percentage) |
@@ -60,19 +60,11 @@ thumbnail: https://thmb.techidaily.com/59fadab74810371b89474ece0e1afaf00b25fe1d9
 
  If you use a browser that consumes lots of CPU resources and can't switch to another for some reason, turn on efficiency mode for the browser's processes. It's a feature introduced in Windows 11 that makes the processes low-priority, making the processor allocate fewer resources, thereby limiting their CPU usage.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which Browser Consumes the Least Memory and CPU Resources on ChromeOS?
 
  For [the Chromebook operating system, ChromeOS](https://www.makeuseof.com/what-is-chrome-os/), we will analyze the resource consumption of Opera, Firefox, and Chrome. Microsoft Edge is not available by default, so we'll exclude this browser. The following image shows the specifications of the Chromebook we are running this test on:
 
 ![Lenovo Yoga N23 Chromebook Specifications](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/lenovo-yoga-n23-chromebook-specifications.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After running the same processes on ChromeOS as we did on Windows, here's the breakdown of resources consumed by different browsers:
 
@@ -88,15 +80,15 @@ thumbnail: https://thmb.techidaily.com/59fadab74810371b89474ece0e1afaf00b25fe1d9
 
 **Verdict:** If your Chromebook's processor isn't powerful, you can choose Opera. Chrome is a good choice for users having limited memory at their disposal.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which Browser Consumes the Least RAM and CPU on macOS?
 
  For macOS, we will analyze the resource consumption of Safari, Opera, Firefox, and Chrome. In the following image, you can see the specifications of the macOS device we are using for the test:
 
 ![Specifications of Macbook Air 2015](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/specifications-of-macbook-air-2015.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Below, you can find a breakdown of the resources consumed by each browser when running the same processes on a MacBook:
 
@@ -111,6 +103,10 @@ thumbnail: https://thmb.techidaily.com/59fadab74810371b89474ece0e1afaf00b25fe1d9
 
 **Verdict:** Considering Safari consumes the least CPU and RAM resources, it should be the default browser for all Apple users. As an alternative to it, your next best choice should be Chrome rather than Firefox or Opera.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What About Using Less Popular Browsers?
 
  Although we have tested the resources consumed by popular and mainstream browsers, you can also choose [less popular or private browsers](https://www.makeuseof.com/tag/2-anonymous-web-browsers-completely-private-secure/) if they are more efficient.
@@ -120,7 +116,7 @@ thumbnail: https://thmb.techidaily.com/59fadab74810371b89474ece0e1afaf00b25fe1d9
  But how can you test which browser consumes the least resources, aside from those we have already tested?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Test Other Browsers' Resource Consumption Yourself
@@ -133,6 +129,10 @@ thumbnail: https://thmb.techidaily.com/59fadab74810371b89474ece0e1afaf00b25fe1d9
 4. Observe how many resources your browser consumes in the monitoring app.  
 ![Resources Consumption of Brave Browser in Task Manager on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/resources-consumption-of-brave-browser-in-task-manager-on-windows.jpg)
 5. To compare this browser's resource consumption with others, run the same processes on other browsers and compare their results.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Use the Most Efficient Browser
 
@@ -152,18 +152,20 @@ thumbnail: https://thmb.techidaily.com/59fadab74810371b89474ece0e1afaf00b25fe1d9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-unlocking-the-door-to-joining-a-tiktok-gathering/"><u>[New] Unlocking the Door to Joining a TikTok Gathering</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-elevate-your-social-story-essential-tactics-for-facebook-profiles/"><u>[Updated] 2024 Approved Elevate Your Social Story Essential Tactics for Facebook Profiles</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/cd/"><u>専門家が選ぶCDコンバータプログラム：高解像度、豊富機能。ストレス無くオーディオファイル作り！</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/all-about-razers-hd-webcam-full-analysis-for-2024/"><u>All About Razer's HD Webcam Full Analysis for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-oneplus-9-pro-unmatched-style-performance-and-photography-experience/"><u>In-Depth Analysis of OnePlus 9 Pro: Unmatched Style, Performance & Photography Experience</u></a></li>
-<li><a href="https://windows11.techidaily.com/locating-open-tcp-ports-in-windows-os/"><u>Locating Open TCP Ports in Windows OS</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/mastering-your-photo-8-experience-with-our-in-depth-windows-handbook/"><u>Mastering Your Photo 8 Experience with Our In-Depth Windows Handbook</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-the-challenge-interrupt-exception-in-windows-os/"><u>Overcoming the Challenge: Interrupt Exception in Windows OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-guide-how-to-correct-windows-11s-keyboard-type-trouble-code-0x80049dd3/"><u>Quick Guide: How to Correct Windows 11'S Keyboard Type Trouble (Code: 0X80049DD3)</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-troublesome-windows-programming-issues-7-ways/"><u>Tackling Troublesome Windows Programming Issues (7 Ways)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-prime-day-video-game-bargains-what-to-look-out-for-in-october-2024-tips/"><u>Top Prime Day Video Game Bargains: What to Look Out For in October 2024 - Tips</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-how-to-repair-no-text-messages-from-android-devices/"><u>Troubleshooting iPhone: How to Repair No-Text Messages From Android Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-advanced-techniques-for-blurry-backgrounds-in-w11-photo-feature/"><u>Unveiling Advanced Techniques for Blurry Backgrounds in W11 Photo Feature</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-communication-mastery-for-impactful-interviews/"><u>[New] In 2024, Communication Mastery For Impactful Interviews</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-rhythm-raiders-your-guide-to-downloading-skype-melodies/"><u>[New] Rhythm Raiders Your Guide to Downloading Skype Melodies</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-mastering-the-art-of-softening-dynamics-in-fl-studio-soundscape/"><u>[Updated] In 2024, Mastering the Art of Softening Dynamics in FL Studio Soundscape</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-complete-guide-to-understanding-and-utilizing-slug-lines/"><u>2024 Approved A Complete Guide to Understanding and Utilizing Slug Lines</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-beginners-roadmap-to-understanding-windows-iscsi-initiator/"><u>A Beginner's Roadmap to Understanding Windows iSCSI Initiator</u></a></li>
+<li><a href="https://windows11.techidaily.com/easy-techniques-for-altering-credentials-on-windows-11/"><u>Easy Techniques for Altering Credentials on Windows 11</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/everyday-wisdom-gathering-celebrating-1500-gratis-learning-sessions/"><u>Everyday Wisdom Gathering: Celebrating 1500 Gratis Learning Sessions</u></a></li>
+<li><a href="https://windows11.techidaily.com/fix-unresponsive-f-keys-troubleshooting-in-windows-11-os/"><u>Fix: Unresponsive F Keys - Troubleshooting in Windows 11 OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/granting-correct-permissions-to-solve-windows-installer-error/"><u>Granting Correct Permissions to Solve Windows Installer Error</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-correct-hardware-detection-errors-in-win/"><u>How To Correct Hardware Detection Errors in Win</u></a></li>
+<li><a href="https://fox-place.techidaily.com/innovative-solutions-exceptional-i-services-for-your-success/"><u>Innovative Solutions: Exceptional I Services for Your Success</u></a></li>
+<li><a href="https://windows11.techidaily.com/investigating-and-fixing-create-failed-on-windows-error-30005/"><u>Investigating and Fixing Create Failed on Windows Error 30005</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/linux-alone-ditching-wsl/"><u>Linux Alone: Ditching WSL</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-elusive-guide-to-unseen-menu-adjustments-windows-style/"><u>The Elusive Guide to Unseen Menu Adjustments, Windows Style</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-insufficient-resources-for-task-completion-on-your-computer/"><u>Troubleshooting Insufficient Resources for Task Completion on Your Computer</u></a></li>
 </ul></div>
 

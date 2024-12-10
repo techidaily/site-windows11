@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting LSA Problem in Windows XP/Vista
-date: 2024-11-26T17:02:58.060Z
-updated: 2024-12-04T03:09:30.774Z
+date: 2024-12-09T19:51:54.055Z
+updated: 2024-12-10T17:39:03.656Z
 tags:
   - windows10
   - windows11
@@ -25,11 +25,19 @@ thumbnail: https://thmb.techidaily.com/2df210d64d34d4b3dc09759541c3c9d53d18577f1
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Causes the LSA Protection Error?
 
  The exact cause of the “this change requires you to restart your device” error can vary, but it may be due to corrupted system files or malware infections. Malware can install malicious services and components that interfere with Windows' smooth functioning, including disabling Local Security Authority (LSA) protection. It can also occur if antivirus software incorrectly removes system files and causes instability.
 
  This error is usually triggered when Windows attempts to enable Local Security Authority (LSA) protection and fails. In some cases, the error may also appear after you enabled LSA protection and restarted your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Restart Your PC
 
@@ -50,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/2df210d64d34d4b3dc09759541c3c9d53d18577f1
 
  Now wait for the scan to finish. If malicious programs are detected, Windows Security will remove them from your system automatically.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Change the Group Policy Settings
 
  If the above steps don't help, you might need to configure LSA manually. It involves editing the Local Group Policy Editor and setting some specific settings. However, this tool only works with Windows 11 Professional and Enterprise editions.
@@ -65,19 +77,11 @@ Administrative Templates > System > Local Security Authority
 ![Change the Group Policy Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/change-the-group-policy-settings.jpg)
 6. Now, in the window that appears, alter the settings from **Not Configured** to **Enabled**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Under the Options section, click the drop-down menu for **Configure LSASS to run as a protected process** and select **Enabled with UEFI Lock**.  
 ![Set as Enabled with UEFI Lock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-as-enabled-with-uefi-lock.jpg)
 8. Now click **Apply > OK** to save the changes.
 
  After making the above changes, restart your computer and check if the error is resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Tweak the Registry Editor
 
@@ -99,7 +103,7 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
  Once you're done, close the Registry Editor and restart your computer. This should fix the problem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Reset the Windows Security App
@@ -115,21 +119,17 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 ![Reset Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-windows-security.jpg)
 7. If the confirmation window pops up, click **Reset** to continue.
 
- Wait for the reset process to finish and restart your computer. After restarting, check if the error is still present.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Wait for the reset process to finish and restart your computer. After restarting, check if the error is still present.
 
 ## 6\. Perform Some Generic Fixes
 
  There are also some generic fixes to resolve the issue. First, [run the System File Checker](https://www.makeuseof.com/system-file-checker-sfc-windows/) command to repair incorrect or damaged system files. You may also want to use the Deployment Image Servicing and Management tool to diagnose issues with local system images. If the problem persists, try [updating Windows to the latest version](https://www.makeuseof.com/update-windows-manually/) to resolve any glitches or bugs.
 
  Some antivirus and security programs can be too aggressive in protecting your system. They could prevent access to the LSA feature, leading to this problem. To be sure, you can [temporarily disable your security software](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) and check if it solves the issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixing the LSA Protection Error on Windows
 
@@ -147,20 +147,24 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-w10-ultimate-screen-replay-suite/"><u>[New] 2024 Approved W10 Ultimate Screen Replay Suite</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/aving-the-way-to-youtube-stardom-through-effective-seo-keywords-for-2024/"><u>[New] Paving the Way to YouTube Stardom Through Effective SEO Keywords for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-streamlining-your-viewing-vlc-versus-mx-comparison/"><u>[Updated] In 2024, Streamlining Your Viewing VLC Versus MX Comparison</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-transforming-web-popularity-into-video-concepts-using-google-trends/"><u>[Updated] In 2024, Transforming Web Popularity Into Video Concepts Using Google Trends</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-mastering-youtube-traffic-growth-the-ultimate-list-of-keyword-analyzers/"><u>2024 Approved Mastering YouTube Traffic Growth The Ultimate List of Keyword Analyzers</u></a></li>
-<li><a href="https://common-error.techidaily.com/gaming-glitch-say-goodbye-with-simple-tweaks/"><u>Gaming Glitch? Say Goodbye with Simple Tweaks</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-combat-fall-guys-gameplay-interruptions-on-windows-devices/"><u>How To Combat Fall Guys Gameplay Interruptions on Windows Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-unresponsive-keys-on-your-microsoft-windows-computer-versions-11-7-and-8/"><u>How to Fix Unresponsive Keys on Your Microsoft Windows Computer (Versions 11, 7 & 8)</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-craft-comical-caricatures-using-giphys-kit/"><u>In 2024, Craft Comical Caricatures Using Giphy's Kit</u></a></li>
-<li><a href="https://windows11.techidaily.com/launching-startup-repair-in-windows-a-guide/"><u>Launching Startup Repair in Windows: A Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-the-dilemma-of-disrupted-device-use-by-other-software/"><u>Overcoming the Dilemma of Disrupted Device Use by Other Software</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/phantom-survival-sos-resolve-your-game-at-90-load-screen-problem/"><u>Phantom Survival SOS: Resolve Your Game at 90% Load Screen Problem</u></a></li>
-<li><a href="https://windows11.techidaily.com/restarting-method-for-a-non-functional-windows-11-wi-fi-connection/"><u>Restarting Method for a Non-Functional Windows 11 Wi-Fi Connection</u></a></li>
-<li><a href="https://extra-information.techidaily.com/samsung-ubd-k8500-refreshed-2023-overview/"><u>Samsung UBD-K8500 Refreshed - 2023 Overview</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11-faces-issue-file-thumbnails-not-appearing/"><u>Windows 11 Faces Issue: File Thumbnails Not Appearing</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-playlist-power-instagrams-musical-edge/"><u>[New] 2024 Approved Playlist Power Instagram's Musical Edge</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-expert-advice-for-capturing-evening-images-for-2024/"><u>[New] Expert Advice for Capturing Evening Images for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-fb-activity-preview-insight-or-intrusion-whats-safer-for-2024/"><u>[New] FB Activity Preview Insight or Intrusion – What's Safer for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-animations-and-crafting-custom-visual-impact/"><u>[New] Mastering Animations & Crafting Custom Visual Impact</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-understanding-facebooks-policy-on-media-content-sharing/"><u>[Updated] 2024 Approved Understanding Facebook's Policy on Media Content Sharing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-latest-wins-windows-10-enhancements/"><u>2024 Approved Exploring Latest Wins Windows 10 Enhancements</u></a></li>
+<li><a href="https://windows11.techidaily.com/bring-forth-hidden-5ghz-lans-in-windows-11-fixes-outlined/"><u>Bring Forth Hidden 5GHz LANs in Windows 11 - Fixes Outlined</u></a></li>
+<li><a href="https://windows11.techidaily.com/cleanse-your-search-box-of-windows-graphics/"><u>Cleanse Your Search Box of Windows Graphics</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-decision-making-with-microsofts-ai-hub/"><u>Efficient Decision-Making with Microsoft's AI Hub</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-troubleshooting-resolve-league-of-legends-crashes-swiftly/"><u>Effortless Troubleshooting: Resolve League of Legends Crashes Swiftly</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-samsung-galaxy-m34-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Samsung Galaxy M34 Device</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-budding-filmmakers-companion-understanding-display-quality-101/"><u>In 2024, The Budding Filmmaker’s Companion Understanding Display Quality 101</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instagram-stories-unseen-aspects-revealed/"><u>Instagram Stories Unseen Aspects Revealed</u></a></li>
+<li><a href="https://windows11.techidaily.com/keeping-your-win11-devices-running-smoothly-check-list-5/"><u>Keeping Your Win11 Devices Running Smoothly - Check List #5</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-access-steps-for-unlocking-windows-hidden-char-personality-tracker/"><u>Mastering Access: Steps for Unlocking Windows' Hidden Char Personality Tracker</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-directdraw-woes-a-users-survival-manual-for-win11/"><u>Navigating DirectDraw Woes: A User's Survival Manual for Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/rapidly-access-apps-on-windows-11/"><u>Rapidly Access Apps on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-google-chrome-to-full-color-in-windows/"><u>Restoring Google Chrome to Full Color in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-over-windows-missing-files-issue/"><u>Winning Over Windows' Missing Files Issue</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastery at Hand: Essential Methods to Decode QR Codes on Windows"
-date: 2024-08-08T06:13:58.587Z
-updated: 2024-08-09T06:13:58.587Z
+date: 2024-12-08T20:07:13.851Z
+updated: 2024-12-10T21:46:24.217Z
 tags:
   - windows10
   - windows11
@@ -16,9 +16,6 @@ thumbnail: https://thmb.techidaily.com/64fcfc6286de188c8366d6a329563edab62ff52b5
 
 ## Mastery at Hand: Essential Methods to Decode QR Codes on Windows
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [How to Scan QR Codes Using the Windows Camera App](#how-to-scan-qr-codes-using-the-windows-camera-app)
@@ -28,8 +25,9 @@ thumbnail: https://thmb.techidaily.com/64fcfc6286de188c8366d6a329563edab62ff52b5
  You're probably used to scanning QR codes with your smartphone to access email addresses, phone numbers, and website links. But how do you scan them on a Windows PC without your phone? Let's see.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. How to Scan QR Codes Using the Windows Camera App
 
  Microsoft added a QR code scanner to its native camera app for Windows. You can use the app to quickly scan a QR code on both Windows 10 and Windows 11 computers. Here are the steps for either OS:
@@ -48,12 +46,12 @@ thumbnail: https://thmb.techidaily.com/64fcfc6286de188c8366d6a329563edab62ff52b5
 4. Enable the toggle next to **Try out new experimental features**.  
 ![Enable Experimental Features in Windows Camera](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/enable-experimental-features-in-windows-camera.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Restart the Camera app after completing the above steps, and you should see the QR code scanner option.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ## 2\. How to Scan QR Codes From an Image on Windows
 
  Although the Windows Camera app makes it simple to scan QR codes, it has some limitations. The biggest hurdle is that it can't scan QR codes from existing images on your computer. To do this, you can use an online QR code scanning service. Here's how:
@@ -61,11 +59,13 @@ The ultimate burning program for all your needs!</a>
 1. Open any web browser and head to the [ScanQR](https://scanqr.org/) website.
 2. Under the **Scan QR code from image** section, click the **Drag & Drop or Browse** option.
 3. Select the image containing the QR code from your computer and click **Open**.  
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Scan QR Code From an Image Using an Online Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/scan-qr-code-from-an-image-using-an-online-service.jpg)
 4. Once you upload the image, the website should scan it automatically and show the result in the **Scanned Data** box. You can copy the result from there if you want.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Scan QR Code From an Image on Windows PC Using an Online Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/scan-qr-code-from-an-image-on-windows-pc-using-an-online-service-copy.jpg)
 
 ## 3\. How to Scan QR Codes Using the Codex App on Windows
@@ -76,18 +76,16 @@ The ultimate burning program for all your needs!</a>
 
 1. [Download and install the Codex app](https://apps.microsoft.com/store/detail/codex-qr-reader-generator/9NBLGGH5M02G?hl=en-us&gl=us) on your PC, then open it.
 2. Click the **Scan QR Code** button.  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![Scan QR Code in Codex App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/scan-qr-code-in-codex-app.jpg)
 3. Select the **Camera** option.
 4. Allow the Codex app permission to use the camera by selecting **Yes**.
 5. Place the QR code in front of the camera.
 6. The app will automatically scan your QR code and open it in the in-app browser.  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Scan QR Code in Codex App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/scan-qr-code-in-codex-app-on-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you want to scan a QR code from an existing image on your computer, follow these steps instead:
 
@@ -98,11 +96,13 @@ The ultimate burning program for all your needs!</a>
 ![Scan QR Code From Image on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/scan-qr-code-from-image-on-windows.jpg)
 5. The app will immediately scan the QR code within the selected image and open it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You now know some quick and simple ways to scan QR codes on your Windows computer. The QR scanner built into the Camera app, a dedicated QR code scanner app, or a web-based solution should be all you need for everyday use.
 
  You're probably used to scanning QR codes with your smartphone to access email addresses, phone numbers, and website links. But how do you scan them on a Windows PC without your phone? Let's see.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -110,3 +110,20 @@ The ultimate burning program for all your needs!</a>
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-transform-your-imagination-into-visual-masterpieces-on-windows-10/"><u>[New] 2024 Approved Transform Your Imagination Into Visual Masterpieces on Windows 10</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-unveiling-12-superior-cameras-for-exceptional-vlogging/"><u>2024 Approved Unveiling 12 Superior Cameras for Exceptional Vlogging</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/celebrity-fleeting-frame-study-for-2024/"><u>Celebrity Fleeting Frame Study for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-win-1011s-geforce-notaxc0f1103f-error/"><u>Fixing Win 10/11'S GeForce NotaXC0F1103F Error</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-preventing-google-chromes-autopilot-tabs/"><u>Guide to Preventing Google Chrome's Autopilot Tabs</u></a></li>
+<li><a href="https://windows11.techidaily.com/identify-and-solve-hidden-disk-space-problems-in-windows/"><u>Identify & Solve Hidden Disk Space Problems in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-spotify-link-reset-strategies/"><u>Mastering Windows Spotify Link Reset Strategies</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/new-phoenix-era-for-fixing-pdfs/"><u>New Phoenix Era for Fixing PDFs</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-browsing-security-with-win-11-ms-defender-guard/"><u>Optimize Browsing Security with Win 11 MS Defender Guard</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/preserve-your-iphone-memories-how-to-remove-only-icloud-photos-without-losing-local-copies/"><u>Preserve Your iPhone Memories: How to Remove Only iCloud Photos without Losing Local Copies</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/simple-procedure-reverse-video-order-via-vlc-for-2024/"><u>Simple Procedure Reverse Video Order via VLC for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-for-nonfunctional-mic-on-your-arctis-headset-arctis-99x/"><u>Troubleshooting Guide for Nonfunctional Mic on Your Arctis Headset (Arctis 9/9X)</u></a></li>
+</ul></div>
+

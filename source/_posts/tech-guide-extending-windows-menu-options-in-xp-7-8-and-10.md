@@ -1,7 +1,7 @@
 ---
 title: "Tech Guide: Extending Windows Menu Options in XP, 7, 8 & 10"
-date: 2024-08-15T16:20:09.533Z
-updated: 2024-08-16T16:20:09.533Z
+date: 2024-12-05T21:10:57.066Z
+updated: 2024-12-10T21:01:41.617Z
 tags:
   - windows10
   - windows11
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/4f7677089ce9d876fde36aa600317f042b44ee73a
 5. Click**Key** on the submenu.  
 ![The New and Key options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-key-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Enter**Move to folder** for the new key’s name.
 2. Select the new**Move to folder** key in the Registry Editor’s sidebar.
 3. Double-click the**(Default)** string for the selected key.
@@ -48,14 +52,6 @@ thumbnail: https://thmb.techidaily.com/4f7677089ce9d876fde36aa600317f042b44ee73a
 
 ![The Move Items window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/move-items-window.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## How to Add a Copy to Folder Context Menu Option
 
  The Windows context menu includes a**Copy** option, but that doesn’t enable you to select a destination for pasting the file. Thus, users must manually paste copied items into different folders after selecting that option. However, you can add a better**Copy to folder** context menu option that brings up a destination folder selection window like this:
@@ -65,10 +61,12 @@ thumbnail: https://thmb.techidaily.com/4f7677089ce9d876fde36aa600317f042b44ee73a
 3. Select**Key** to add a new one to the registry.
 4. Type**Copy to folder** inside the text box for the new key.  
 ![The Copy to folder key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/copy-to-folder-option-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 5. Select**Copy to folder** and double-click its**(Default)** string.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Enter the value**{C2FBB630-2971-11D1-A18C-00C04FD75D13}** inside the**Data** box.  
 ![The value data for the Copy to folder key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-edit-string-window-for-the-copytokey.jpg)
 7. Click the**OK** button to apply the value.
@@ -92,26 +90,31 @@ thumbnail: https://thmb.techidaily.com/4f7677089ce9d876fde36aa600317f042b44ee73a
 
 1. Select**Extract all** on Explorer’s command bar or the**Compressed Folder Tools** tab in Windows 10.  
 ![The Extract all option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/extract-all-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 2. Press the**Browse** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Choose a suitable directory to extract the archive outside the one it downloaded to, and click the**Select Folder** option.
 4. Next, select**Show extracted files when complete** for the WinBubbles folder to automatically open after extraction.
 5. Then click**Extract** to bring up the unzipped WinBubbles folder.  
 ![The Extract Compressed window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-extract-compressed-window.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Now double-click WinBubbles EXE to launch that software.
 2. Select the**Move to** option on the**General** tab.
 3. Click the**Copy to** checkbox to select that option.  
 ![The Copy to option in WinBubble](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/copy-to-checkbox.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Press WinBubble’s**Apply** option when highlighted yellow.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Apply button in WinBubble](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/highlighted-apply-button.jpg)
 5. A WinBubble dialog box window will appear confirming the tweaks have been saved. Click**OK** to close that message.
 6. Minimize or exit the WinBubble window.
@@ -120,10 +123,6 @@ thumbnail: https://thmb.techidaily.com/4f7677089ce9d876fde36aa600317f042b44ee73a
 
  You can also utilize WinBubble to remove the "Copy/Move to Folder" options. Uncheck the selected**Move to** and**Copy to** checkboxes on its**General** tab. Click**Apply** to set the new options.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Move and Copy Files to Folders With Your New Context Menu Options
 
  The**"** Copy/Move to folder" context menu options undoubtedly provide more convenient ways to copy and move files into alternative directories. You won’t need to drag files about anymore for moving items in Windows 11 after adding a new**"** Move to Folder option" to the right-click menu. Nor will you need to paste copied files elsewhere in Windows 11 thanks to the "Copy to folder" menu option.
@@ -134,8 +133,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,4 +140,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-innovative-responses-the-ultimate-guide-to-youtube-reacts/"><u>[New] 2024 Approved Innovative Responses The Ultimate Guide to YouTube Reacts</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-craft-a-captivating-story-integrating-images-on-instagram-for-2024/"><u>[New] Craft a Captivating Story Integrating Images on Instagram for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-seamless-tiktok-video-uploads-with-chrome-android-ios-for-2024/"><u>[Updated] Seamless TikTok Video Uploads with Chrome, Android, iOS for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/customer-praises-data-restoration/"><u>Customer Praises Data Restoration</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-gratis-system-optimizers-of-2t2024-for-pc-performance-boost/"><u>Discover the Best Gratis System Optimizers of 2T2024 for PC Performance Boost</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-smart-8-phone-without-google-account-by-drfone-android/"><u>How to Unlock Infinix Smart 8 Phone without Google Account?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-12-mini-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>In 2024, iPhone 12 mini Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-adobe-reader-installation-via-microsoft-store/"><u>Mastering Adobe Reader: Installation via Microsoft Store</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-the-digital-maze-essential-changes-in-windows-11s-file-system/"><u>Navigating Through the Digital Maze: Essential Changes in Windows 11'S File System</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-connectivity-issues-between-nvidia-geforce-and-windows-11/"><u>Overcoming Connectivity Issues Between Nvidia GeForce and Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/reconnect-your-phone-troubleshooting-guide-for-iphones-struggling-with-cellular-signal-after-ios-1721-upgrade/"><u>Reconnect Your Phone: Troubleshooting Guide for iPhones Struggling with Cellular Signal After iOS 17.2.1 Upgrade</u></a></li>
+<li><a href="https://windows11.techidaily.com/removing-borders-with-technique-and-precision-tools/"><u>Removing Borders with Technique and Precision Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/revitalizing-old-drivers-the-ultimate-window-fix-up/"><u>Revitalizing Old Drivers: The Ultimate Window Fix-Up</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Nokia C22? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-boosting-network-connectivity-via-windows/"><u>Step-by-Step: Boosting Network Connectivity via Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-overcome-windows-error-code-87-with-loadlibrary/"><u>Strategies to Overcome Windows Error Code 87 with LoadLibrary</u></a></li>
+<li><a href="https://windows11.techidaily.com/tricks-for-efficient-memory-management-in-windows/"><u>Tricks for Efficient Memory Management in Windows</u></a></li>
+</ul></div>
 

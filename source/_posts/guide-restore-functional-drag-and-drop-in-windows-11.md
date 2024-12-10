@@ -1,7 +1,7 @@
 ---
 title: "Guide: Restore Functional Drag-and-Drop in Windows 11"
-date: 2024-08-15T16:20:03.063Z
-updated: 2024-08-16T16:20:03.063Z
+date: 2024-12-08T16:29:21.938Z
+updated: 2024-12-10T20:36:02.678Z
 tags:
   - windows10
   - windows11
@@ -31,8 +31,9 @@ thumbnail: https://thmb.techidaily.com/e4a8d7447e854c2de99b048e14a9c3d2b9315b35b
 * **Try Clean Boot:** It’s possible that a rouge third-party app or program on your PC is causing the drag and drop feature to malfunction. If that’s the case, [booting your PC in a clean boot state](https://www.makeuseof.com/clean-boot-windows-11/) will help you verify that.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Use the Esc Key
 
  At times, Windows may freeze on the last drag and drop operation and stop responding to new actions. If it's just a one-off glitch, simply resetting the drag and drop gesture should do the trick.
@@ -46,15 +47,13 @@ thumbnail: https://thmb.techidaily.com/e4a8d7447e854c2de99b048e14a9c3d2b9315b35b
  Press **Ctrl + Shift + Esc** to open the Task Manager. In the **Processes** tab, locate and select the faulty app or program, and click the **End task** option at the top.
 
 ![Close Programs Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/close-programs-using-task-manager.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Reopen your app and check if the issue still occurs.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Run the Hardware and Devices Troubleshooter
 
  Running the Hardware and devices troubleshooter is an effective way to fix issues with your peripherals. This tool can scan all the hardware devices connected to the system, including your mouse or touchpad, and resolve any issues with them.
@@ -66,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/e4a8d7447e854c2de99b048e14a9c3d2b9315b35b
 3. In the Hardware and Devices window, click **Advanced** and tick the **Apply repairs automatically** checkbox.
 4. Click **Next** to run the troubleshooter.  
 ![Hardware and Devices Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/hardware-and-devices-troubleshooter-on-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Update or Reinstall Mouse Drivers
 
@@ -79,13 +82,14 @@ thumbnail: https://thmb.techidaily.com/e4a8d7447e854c2de99b048e14a9c3d2b9315b35b
 4. Right-click on your mouse or touchpad device and select **Update driver**.  
 ![Update Mouse Driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/update-mouse-driver.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Follow the on-screen prompts to finish updating the driver.
 
  If the issue remains even after this, you can try uninstalling the mouse driver from your PC. If you need help with that, check our guide on [how to uninstall drivers in Windows 11](https://www.makeuseof.com/windows-11-uninstall-drivers/). After removing the driver, restart your PC, and Windows will automatically reinstall the missing driver during the boot process.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Check Your Mouse for Issues
 
  Issues with your mouse can also make it seem like the drag and drop feature is not working on Windows 11\. Try disconnecting your mouse and reconnecting it to see if that works. If you’re using a wireless mouse, swap the old batteries or charge it.
@@ -93,8 +97,9 @@ thumbnail: https://thmb.techidaily.com/e4a8d7447e854c2de99b048e14a9c3d2b9315b35b
  For more help, refer to our guide on [fixing the left-click mouse button not working issue on Windows](https://www.makeuseof.com/tag/fix-left-mouse-button/) and follow the tips mentioned there.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Edit Registry Files
 
  Incorrect registry entries can also cause such anomalies. You need to review the registry values related to the drag and drop feature and ensure they are configured correctly.
@@ -120,14 +125,12 @@ thumbnail: https://thmb.techidaily.com/e4a8d7447e854c2de99b048e14a9c3d2b9315b35b
 
  While the default drag and drop action can help you move items quickly, you can also modify it to copy or create shortcuts for files and folders on Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ## FAQ
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Q: How Do You Drag Maximized Windows in Windows 11?
 
  You drag maximized Windows in Windows 11 by pressing and holding down the Windows key and pressing an arrow key (right, left, up, or down arrow key). This changes your current window's position on your screen.
@@ -142,11 +145,26 @@ thumbnail: https://thmb.techidaily.com/e4a8d7447e854c2de99b048e14a9c3d2b9315b35b
 
  While that’s convenient, there can be times when the drag and drop feature stops working on your Windows 11 computer. If you are facing the same problem, here are some solutions that will help.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-innovative-approaches-to-documenting-film-content-on-various-os/"><u>2024 Approved Innovative Approaches to Documenting Film Content on Various OS</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-the-comprehensive-cheat-sheet-to-mastering-spotify-advertising/"><u>2024 Approved The Comprehensive Cheat Sheet to Mastering Spotify Advertising</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/advanced-tips-excelling-at-slide-show-recordings-for-2024/"><u>Advanced Tips Excelling at Slide Show Recordings for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/cpu-elite-list-advanced-performance-testing-and-rank-order-analysis/"><u>CPU Elite List : Advanced Performance Testing and Rank Order Analysis</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-steps-to-alter-windows-msi-service-status/"><u>Essential Steps to Alter Windows MSI Service Status</u></a></li>
+<li><a href="https://windows11.techidaily.com/identifying-perfect-shutdown-procedures-for-windows/"><u>Identifying Perfect Shutdown Procedures for Windows</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-kitchen-kings-and-queens-crown-your-channel-with-a-name/"><u>In 2024, Kitchen Kings & Queens Crown Your Channel With a Name</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcome-sign-in-obstacles-to-microsofts-cloud-storage/"><u>Overcome Sign-In Obstacles to Microsoft's Cloud Storage</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-overcoming-windows-error-code-xffffff/"><u>Quick Guide: Overcoming Windows Error Code XFFFFFF</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210932860-9781912230921-the-future-of-ahriman-and-the-awakening-of-souls/"><u>The Future of Ahriman and the Awakening of Souls | Free Book</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-stuck-chrome-on-win11-easy-methods-here/"><u>Troubleshooting Stuck Chrome on Win11 – Easy Methods Here</u></a></li>
+</ul></div>
+

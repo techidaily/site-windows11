@@ -1,7 +1,7 @@
 ---
 title: Steps to Overcome Upgrade Errors on Windows 11 Systems
-date: 2024-11-28T20:10:47.644Z
-updated: 2024-12-03T16:25:54.230Z
+date: 2024-12-04T18:49:35.211Z
+updated: 2024-12-10T18:59:25.352Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/c856d755f3f7d2c0f103fd6d2cd384857bef4cae5
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is the Windows 11 Upgrade Error Message?
 
@@ -54,25 +58,13 @@ Additionally, you may also see the following error:
 
 ![pc health check upgrade windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/pc-health-check-upgrade-windows-11.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You may also encounter said error when installing Windows 11 through a bootable drive or setup file from the mounted ISO.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What Is UEFI Boot Mode?
 
  UEFI (Unified Extensible Firmware Interface) is a booting method designed to replace BIOS (Basic Input Output System). In the legacy boot, the system uses BIOS firmware for booting.
 
  In general, installing Windows using the newer UEFI mode is recommended as it comes with more security features such as Secure Boot than the legacy BIOS mode. You can[learn more about BIOS](https://www.makeuseof.com/tag/the-bios-explained-boot-order-video-memory-saving-resets-and-optimum-defaults-si/) here.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Causes the "PC Can't Run Windows 11 Error?"
 
@@ -84,13 +76,13 @@ Additionally, you may also see the following error:
 
  If you use legacy boot mode, you need to set the Boot Mode to UEFI in your BIOS setup to enable the Secure Boot feature (and potentially switch TMP 1.2/2.0 on, too).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Fix the "This PC Can't Run Windows 11 Error?"
 
  To fix this error, you should set the Boot Mode to UEFI and enable Secure Boot, and then make sure TPM 1.2/2.0 is enabled on your computer. Please note that the tab names may vary between manufacturers, but the instructions should translate roughly across hardware.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Enable Secure Boot in Windows 10
 
@@ -113,6 +105,10 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
 
 ![Enable Trusted Platform Module](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Enable-TPM-2-0-BIOS.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  TMP 1.2/2.0 feature is accessible from the BIOS setup as well. Here's how to do it.
 
 1. In BIOS/UEFI, open the**Security** tab.
@@ -121,6 +117,10 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
 4. Save the changes and exit.
 
  That's it. You have successfully enabled Secure Boot compatibility and TMP 2.0 on Windows 10\. Restart your PC, run the PC Health Checkup tool, or install Windows 11 to see if the error is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Bypass TPM 2.0 and Secure Boot Requirement Using Registry Editor
 
@@ -142,10 +142,6 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
 ![registry editor mosetup new value 1 bypass windows 11 restriction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/registry-editor-mosetup-new-value-1-bypass-windows-11-restriction.jpg)
 7. In the Value data field, type**1** and click**OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8. Close the Registry Editor and try to install Windows 11 using the media creation tool or ISO. The upgrade should complete without the error.
 
  If the issue persists, read our guide to[bypass Windows 11 minimum installation requirements](https://www.makeuseof.com/bypass-windows-11-minimum-installation-requirements/) to learn more ways to bypass the restrictions and upgrade your PC.
@@ -159,6 +155,10 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
  Once you have converted the drive, you can change the Boot Mode from Legacy to UEFI without the No Boot Device Found error. Alternatively, if you are going to clean install Windows 11, make sure to install Windows 11 (or Windows 10) in the UEFI mode to prevent any issues in the future.
 
  If the bootable drive does not show up in the Boot Manager after enabling Secure Boot, ensure it is formatted with the UEFI system in Rufus. If not, create a bootable drive again with the target system set to UEFI (CMS).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixing the This PC Can't Run Windows 11 Error
 
@@ -179,21 +179,17 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-discovering-androids-premier-mobas-ranked/"><u>[New] In 2024, Discovering Android's Premier MOBAs Ranked</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-elevating-your-android-experience-through-recording/"><u>[New] In 2024, Elevating Your Android Experience Through Recording</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-chuckle-trail-your-guide-to-hilarious-online-stars/"><u>[Updated] In 2024, Chuckle Trail Your Guide to Hilarious Online Stars</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-access-your-favorites-anytime-the-leading-6-free-video-downloaders/"><u>2024 Approved Access Your Favorites Anytime The Leading 6 Free Video Downloaders</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/audio-visual-synopsis-creator/"><u>Audio Visual Synopsis Creator</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Oppo Find X6 | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-the-freeze-troubleshooting-windows-obs-not-starting/"><u>Fixing the Freeze: Troubleshooting Windows OBS Not Starting</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-windows-code-0x0000004e-hiccups/"><u>Fixing Windows' Code 0X0000004E Hiccups</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Apple iPhone 13? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fake Snapchat Location on Apple iPhone 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/preventing-and-handling-file-unreadable-problem-on-windows/"><u>Preventing and Handling ‘File Unreadable’ Problem on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-fix-for-read-from-disk-failed-error/"><u>Quick Fix for Read From Disk Failed Error</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-steps-for-restarting-windows-apps/"><u>Quick Steps for Restarting Windows Apps</u></a></li>
-<li><a href="https://windows11.techidaily.com/rectifying-html-errors-in-windows-11-mail-app-email-views/"><u>Rectifying HTML Errors in Windows 11 Mail App Email Views</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-tackle-physical-ram-limitations-on-windows-vmware/"><u>Steps to Tackle Physical RAM Limitations on Windows VMware</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unlocking-elusive-stream-problems/"><u>Unlocking Elusive Stream Problems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-tips-for-a-swift-submission-into-apple-catalog/"><u>[New] Tips for a Swift Submission Into Apple Catalog</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/movavim4vmov/"><u>在線即時Movavi：自由提供M4V變MOV導航課程</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/essential-upgrades-secure-your-wireless-networks-with-latest-drivers-on-windows-systems/"><u>Essential Upgrades: Secure Your Wireless Networks with Latest Drivers on Windows Systems</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-valorants-pc-input-delay-problem-insights/"><u>How to Resolve Valorant's PC Input Delay Problem: Insights</u></a></li>
+<li><a href="https://windows11.techidaily.com/keeping-windows-screensaver-status-intact-from-user-changes/"><u>Keeping Windows Screensaver Status Intact From User Changes</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-wsl-2-for-efficient-docker-workflows/"><u>Optimizing WSL 2 for Efficient Docker Workflows</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-microsoft-store-hiccup-0x80131500/"><u>Remedying Microsoft Store Hiccup 0X80131500</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/resolving-the-0xc00d5212-media-playback-issue-on-windows-11-a-step-by-step-guide/"><u>Resolving the 0xC00D5212 Media Playback Issue on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/swift-reset-of-windows-icon-positions/"><u>Swift Reset of Windows Icon Positions</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210970501-9781088222546-the-empaths-guide-understanding-the-many-facets-of-empathy-traits-abilities-characteristics-attributes-fulfillment-and-well-being-understanding-the-many-facets-/"><u>The Empath's Guide: Understanding the Many Facets of Empathy: Traits, Abilities, Characteristics, Attributes, Fulfillment and Well-Being: Understanding the Many Facets of Empathy | Free Book</u></a></li>
+<li><a href="https://windows11.techidaily.com/turbocharge-android-studio-for-peak-performance-in-windows/"><u>Turbocharge Android Studio for Peak Performance in Windows</u></a></li>
 </ul></div>
 

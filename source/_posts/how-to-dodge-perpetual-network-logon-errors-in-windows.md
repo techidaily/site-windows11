@@ -1,7 +1,7 @@
 ---
 title: How to Dodge Perpetual Network Logon Errors in Windows
-date: 2024-08-15T16:20:54.277Z
-updated: 2024-08-16T16:20:54.277Z
+date: 2024-12-06T16:04:31.829Z
+updated: 2024-12-10T17:37:41.790Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,11 @@ thumbnail: https://thmb.techidaily.com/c6867ae9c4f4e3df3c9379b15f4163ebd35319a50
 2. Choose **Network and Internet settings** from the context menu.  
 ![Network and Internet settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/network-and-internet-settings.jpg)
 3. In the following window, select **Network and Sharing Center**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Choose **Change advanced sharing settings** option in the left pane.
 5. Now, enable the **Allow Windows to manage homegroup connections (recommended)** option under Homegroup connections.
 6. Click **Save changes** (you will need administrative access for this).
@@ -38,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/c6867ae9c4f4e3df3c9379b15f4163ebd35319a50
 8. Hit the **Save changes** button to complete the process.
 
  After you've transferred the files, re-enable password-protected sharing so that others don't get easy access to your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Use Your Microsoft Account Credentials or the Computer's Name
 
@@ -48,8 +57,9 @@ thumbnail: https://thmb.techidaily.com/c6867ae9c4f4e3df3c9379b15f4163ebd35319a50
  If the problem is associated with the credentials, one of these two methods is likely to help you get rid of it for good.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Manually Add the Credentials of the Target Computer to the Credential Manager
 
  Another way to fix the issue is by manually adding the credentials of the targeted computer in the Credential Manager and seeing if that makes a difference.
@@ -59,9 +69,6 @@ thumbnail: https://thmb.techidaily.com/c6867ae9c4f4e3df3c9379b15f4163ebd35319a50
 1. Type "Credential Manager" into Windows Search and click **Open**.
 2. Select **Windows Credential** and click on **Add a Windows Credential**.  
 ![Windows credentials](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/windows-credentials-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 3. Now, add the username, computer name, and password of the computer you are trying to access. Check if you can now share files with the other device successfully.
 
 ## 4\. Create a New User Account on Both Devices
@@ -89,16 +96,14 @@ thumbnail: https://thmb.techidaily.com/c6867ae9c4f4e3df3c9379b15f4163ebd35319a50
 7. ![Credential Manager properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/credential-manager-properties.jpg)  
  Make sure that the Startup type is set to **Automatic**.  
 ![Credential Manager service properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/credential-manager-service.jpg)
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 8. Click **Apply** \> **OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now try connecting to the targeted computer and see if you can do so without any problems.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## 6\. Make Changes to the Local Security Policy
 
  Several users also managed to fix the problem by modifying the settings of the "Accounts: Limit local account use of blank passwords to console logon only" policy. Here is how you can give it a try too:
@@ -109,14 +114,8 @@ thumbnail: https://thmb.techidaily.com/c6867ae9c4f4e3df3c9379b15f4163ebd35319a50
 Local Policies > Security Options > Accounts: Limit local account use of blank passwords to console logon only
 4. Choose **Disabled** and click **Apply** \> **OK** to save the changes.  
 ![Make changes to the Local Security Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/change-security-policy.jpg)
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Restart your computer and check if the issue is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## 7\. Try Using Safe Mode With Networking
 
  If the credentials you are entering and all the network configurations on the system are correct, something might have gone wrong on a system level.
@@ -139,13 +138,15 @@ Local Policies > Security Options > Accounts: Limit local account use of blank p
 
  In case you cannot access this Windows state using the steps outlined above, you can try [other ways of booting into Safe Mode](https://www.makeuseof.com/windows-11-boot-safe-mode/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Share Data Over Network Without Issues
 
  Windows has made it simpler to share your files and other data across networks, but there are times when you run into unexpected errors. Hopefully, one of the methods mentioned above did the trick for you in fixing the issue under consideration.
 
  A common problem is when the network credential manager keeps displaying the "Enter network credentials" dialog, even when you enter the correct credentials. In this guide, we will walk you through some troubleshooting methods you can try to fix this issue for good.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -153,3 +154,23 @@ Local Policies > Security Options > Accounts: Limit local account use of blank p
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-select-the-best-free-mobile-video-platforms-of-2023/"><u>[New] Select the Best Free Mobile Video Platforms of 2023</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-the-next-step-in-virtual-reality-jaunt-vr-review-for-2024/"><u>[Updated] The Next Step in Virtual Reality Jaunt VR Review for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-shutdown-box-opening-by-itself-in-windows-11/"><u>How to Fix the Shutdown Box Opening By Itself in Windows 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-motorola-g24-power-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Motorola G24 Power to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-lava-blaze-pro-5g-frp-bypass-by-drfone-android/"><u>In 2024, About Lava Blaze Pro 5G FRP Bypass</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-master-the-art-of-pace-control-for-instas-live-videos/"><u>In 2024, Master the Art of Pace Control for Insta's Live Videos</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Vivo S18? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/proven-methods-for-snappy-signature-bg-removal/"><u>Proven Methods for Snappy Signature Bg Removal</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fixes-for-failed-attachment-of-usb-device-to-virtualbox/"><u>Quick Fixes for Failed Attachment of USB Device to VirtualBox</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-stop-windows-task-moving-apps/"><u>Strategies to Stop Windows Task Moving Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-a-trouble-free-win11-with-ccleaner/"><u>Tips for a Trouble-Free Win11 with CCleaner</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/tunefab-vs-competitors-screen-recorder-showdown/"><u>Tunefab vs Competitors Screen Recorder Showdown</u></a></li>
+<li><a href="https://win-blog.techidaily.com/understanding-the-football-manager-2022-launch-hitches-now-resolved/"><u>Understanding the Football Manager 2022 Launch Hitches - Now Resolved!</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-bluescreen-woes-here-are-11-quick-fix-tips-to-try/"><u>Win11 Bluescreen Woes? Here Are 11 Quick Fix Tips to Try</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-decision-guide-home-features-vs-pro-benefits/"><u>Windows 11 Decision Guide: Home Features Vs. Pro Benefits</u></a></li>
+</ul></div>
+

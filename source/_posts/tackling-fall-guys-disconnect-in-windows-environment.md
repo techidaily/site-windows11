@@ -1,7 +1,7 @@
 ---
 title: Tackling Fall Guys Disconnect in Windows Environment
-date: 2024-11-29T06:33:56.597Z
-updated: 2024-12-04T05:20:27.026Z
+date: 2024-12-08T20:58:55.600Z
+updated: 2024-12-10T19:58:30.728Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/010139d6077f90333f3025af8c182332c9900266f
 
  Now that we know all the possible culprits behind the issue, let's jump into the fixes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check Your Connection
 
  Before making any changes to your network settings, ensure that a weak internet connection is not causing the issue. You can check this by visiting an[internet-speed testing website](https://www.makeuseof.com/best-free-websites-test-internet-speed/) .
@@ -42,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/010139d6077f90333f3025af8c182332c9900266f
  If the results show that your connection is unstable and weak, then you'll have to troubleshoot your connection. Check out our guide on[network diagnostic tricks you can try](https://www.makeuseof.com/tag/7-simple-steps-diagnose-network-problem/) for ways to get your connection fixed again.
 
  f manual troubleshooting makes no difference, consider contacting your ISP.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Close Network Hogging Applications from Background
 
@@ -53,15 +61,7 @@ thumbnail: https://thmb.techidaily.com/010139d6077f90333f3025af8c182332c9900266f
 
 ![End high network apps in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/end-high-network-apps.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then, right-click on all such applications, and choose**End task.** After that, restart Fall Guys and check if the problem persists.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Temporarily Disable the Windows Firewall
 
@@ -74,7 +74,15 @@ Here's how you can do that:
 ![Turn Windows Defender on or off option in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/turn-windows-defender-on-or-off.jpg)
 3. Choose**Turn off Windows Defender Firewall (not recommended)** option for both**private** and**public** network settings.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Turn off firewall option in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/turn-off-firewall.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now, check if the problem continues. If not, enable the Windows Defender Firewall and then add Fall Guys to the Windows Firewall exception list. Here's how:
 
@@ -89,10 +97,6 @@ Here's how you can do that:
 
  That's it! Fall Guys has now been added to the Windows Firewall exception list.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Disable Any Active Proxy Servers
 
  If you're connected to a[proxy server](https://www.makeuseof.com/tag/what-is-a-proxy-server/) , there's a chance it can cause connection issues. So, disable any proxies you are using and check if it resolves the problem. Here's how you can do it:
@@ -100,10 +104,6 @@ Here's how you can do that:
 1. Open the Windows Search, type**Command Prompt,** and choose**Run as administrator** from the right pane.
 2. In the console, type**netsh winhttp reset proxy** and press**Enter** .  
 ![Disabling proxy command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disabling-proxy.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Connect to a Different DNS Server
 
@@ -124,7 +124,7 @@ Follow the below steps to change to Google DNS:
 8. Click**OK.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Edit the Fall Guys Engine.ini File
@@ -148,6 +148,10 @@ RetryTime=0.5`
 
 ![Editing the Engine.ini file in Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/editing-the-engine-ini-file.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Launch Fall Guys and check if the problem persists.
 
 ## 7\. Reset Winsock Settings
@@ -160,14 +164,10 @@ Launch Fall Guys and check if the problem persists.
 2. Type**netsh winsock reset** and press**Enter** .  
 ![Reset Winsock command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/reset-winsock-command.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now, restart your computer and check if the problem is fixed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Your Fall Guys Connection Errors, Fixed
@@ -189,18 +189,20 @@ Now, restart your computer and check if the problem is fixed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-elevate-your-video-storytelling-with-effective-markers/"><u>[New] In 2024, Elevate Your Video Storytelling with Effective Markers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-intense-action-iphone-tips-for-artistic-motion-blur-photos/"><u>[Updated] Intense Action IPhone Tips for Artistic Motion-Blur Photos</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1-unlocking-secure-vaults-a-guide-to-activating-bitwardens-master-password-prompt-feature/"><u>1. Unlocking Secure Vaults: A Guide to Activating Bitwarden's Master Password Prompt Feature</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/choosing-your-recording-champion-pick-obs-or-bandicam/"><u>Choosing Your Recording Champion Pick OBS or Bandicam?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/effective-solutions-for-eliminating-stringing-issues-in-your-3d-print-projects/"><u>Effective Solutions for Eliminating Stringing Issues in Your 3D Print Projects</u></a></li>
-<li><a href="https://win-dash.techidaily.com/find-and-install-microsofts-official-bluetooth-drivers-updated-support-for-all-windows-versions/"><u>Find & Install Microsoft's Official Bluetooth Drivers: Updated Support for All Windows Versions</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-stop-chrome-saving-images-in-webp-format-on-windows/"><u>How to Stop Chrome Saving Images in WebP Format on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/immediate-fixes-for-the-add-your-folder-now-issue-on-windows-onedrive-drive/"><u>Immediate Fixes for the 'Add Your Folder Now' Issue on Windows OneDrive Drive</u></a></li>
-<li><a href="https://windows11.techidaily.com/implementing-python-on-windows-for-optimized-file-transfer/"><u>Implementing PYTHON on Windows for Optimized File Transfer</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Realme GT Neo 5 | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-high-speed-game-updates-in-battlenet/"><u>Mastering High-Speed Game Updates in Battle.net</u></a></li>
-<li><a href="https://windows11.techidaily.com/mitigating-isdonedll-isarcextract-crashes-on-w10w11/"><u>Mitigating ISDone.dll (ISArcExtract) Crashes on W10/W11</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/recuperar-puntos-de-reposicion-del-sistema-faltantes-soluciones-maximas-para-windows-11/"><u>Recuperar Puntos De Reposición Del Sistema Faltantes: Soluciones Máximas Para Windows 11</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/he-infographic-yearbook-of-2017s-youtube-insights-and-trends/"><u>[New] The Infographic Yearbook of 2017'S Youtube Insights & Trends</u></a></li>
+<li><a href="https://fox-info.techidaily.com/boosting-zoom-image-quality-professional-insights-for-2024/"><u>Boosting Zoom Image Quality Professional Insights for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-limitations-for-power-use-in-winos/"><u>Bypassing Limitations for Power Use in WinOS</u></a></li>
+<li><a href="https://windows11.techidaily.com/dissecting-the-8-anomalies-in-windows-11s-ui/"><u>Dissecting the 8 Anomalies in Windows 11'S UI</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-rejuvenate-your-windows-11-with-a-fresh-reboot/"><u>How to Rejuvenate Your Windows 11 with a Fresh Reboot</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-boost-traffic-with-these-essential-hashtags-for-youtube-gamers/"><u>In 2024, Boost Traffic with These Essential Hashtags for YouTube Gamers</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-samsung-galaxy-xcover-7-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Samsung Galaxy XCover 7 to PC? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ipad-pro-or-macbook-air-an-in-depth-comparison-to-help-decide-the-ideal-device-for-your-lifestyle/"><u>IPad Pro or MacBook Air: An In-Depth Comparison to Help Decide the Ideal Device For Your Lifestyle</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-new-skies-with-syma-x5c-an-experts-take-for-novices/"><u>Navigating New Skies with Syma X5C – An Expert’s Take for Novices</u></a></li>
+<li><a href="https://windows11.techidaily.com/real-time-resource-management-tracking-cpu-memory-and-graphics/"><u>Real-Time Resource Management: Tracking CPU, Memory & Graphics</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-lost-functionality-to-windows-netflix/"><u>Restoring Lost Functionality to Windows Netflix</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/synthesizing-pros-and-cons-ai-in-the-writers-realm/"><u>Synthesizing Pros & Cons: AI in the Writer's Realm</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-unresponsive-downloads-in-windows-explorer/"><u>Troubleshooting Unresponsive Downloads in Windows Explorer</u></a></li>
+<li><a href="https://windows11.techidaily.com/when-should-you-consider-purging-pagefilesys/"><u>When Should You Consider Purging Pagefile.sys?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>Which is the Best Fake GPS Joystick App On Apple iPhone 14? | Dr.fone</u></a></li>
 </ul></div>
 

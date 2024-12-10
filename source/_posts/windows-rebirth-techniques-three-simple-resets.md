@@ -1,7 +1,7 @@
 ---
 title: "Windows Rebirth Techniques: Three Simple Resets"
-date: 2024-11-29T19:00:35.132Z
-updated: 2024-12-03T17:41:36.411Z
+date: 2024-12-09T20:16:42.494Z
+updated: 2024-12-10T17:09:09.070Z
 tags:
   - windows10
   - windows11
@@ -39,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/e663bf23b6887cb8279b82d66477ecb71e4a937f5
 
 ![Windows 10 Reset This PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Windows-10-Reset-This-PC.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you're on Windows 11, head to **Settings > System > Recovery**. Click **Reset PC** next to **Reset this PC** to get started. The steps from here are the same for Windows 11 and Windows 10\. If you run into trouble, see how to [factory reset Windows 11 without an admin password](https://www.makeuseof.com/windows-11-factory-reset-without-admin-password/).
 
 ![Reset This PC Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Reset-This-PC-Windows-11.jpg)
@@ -60,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/e663bf23b6887cb8279b82d66477ecb71e4a937f5
 ![Windows 11 Factory Reset Keep Files Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Windows-11-Factory-Reset-Keep-Files-Option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Cloud Download vs. Local Reinstall
@@ -76,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/e663bf23b6887cb8279b82d66477ecb71e4a937f5
 ![Windows 10 Cloud Reinstall Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/Windows-10-Cloud-Reinstall-Option.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Options When Resetting Windows 10 and 11
@@ -91,10 +87,14 @@ thumbnail: https://thmb.techidaily.com/e663bf23b6887cb8279b82d66477ecb71e4a937f5
 
 ![Windows 10 Reset PC Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/Windows-10-Reset-PC-Options.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Turn on **Delete files from all drives?** to erase everything on all drives you have connected to your computer. This includes external hard drives and recovery drives. Because you probably have backups and other important files on those drives, you shouldn't use this unless you want to permanently erase everything associated with your computer. Be careful with this option!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Confirm the Windows Factory Reset Operation
@@ -117,6 +117,10 @@ thumbnail: https://thmb.techidaily.com/e663bf23b6887cb8279b82d66477ecb71e4a937f5
 
 ![Create installation media for Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/muo-windows-install-usb-media2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you need to reinstall Windows 8.1 from scratch for some reason, you can use [Microsoft's Windows 8.1 download tool](https://www.microsoft.com/en-us/software-download/windows8ISO). This lets you download an [ISO to burn onto a flash drive](https://www.makeuseof.com/tag/10-tools-make-bootable-usb-iso-file/) or DVD so you can reinstall Windows. Simply insert the USB drive or disc containing your installation media, then [boot from the removable device](https://www.makeuseof.com/tag/how-to-change-the-boot-order-on-your-pc-so-you-can-boot-from-usb/). You'll be greeted with the Windows setup screen, which you can proceed through to install a clean copy. Remember that doing this will remove everything currently on the drive where you install Windows.
 
  Since Windows 7 has been out of support for years, Microsoft no longer offers an official Windows 7 download. We recommend that you [upgrade to a modern version of Windows](https://www.makeuseof.com/why-you-shouldnt-use-old-windows/); don't download Windows 7 from a random website, as it may contain malware.
@@ -137,10 +141,6 @@ thumbnail: https://thmb.techidaily.com/e663bf23b6887cb8279b82d66477ecb71e4a937f5
 
 ![advanced recovery option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/troubleshoot-options-reset-this-PC.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Otherwise, you may be able to boot into the BIOS and directly load the recovery partition on your hard drive, if your PC manufacturer included one. However, if you factory reset with this method, you'll reinstall all the manufacturer bloatware. While it's not ideal, it can work if you have no other options.
 
  You can also type "create a recovery drive" into the Start menu to access a tool that lets you make your own. However, this requires a fair bit of space, and you'll have to do it before you have a problem. If you haven't already made one, you're best off making a new Windows install disk, as described in #2\.
@@ -158,7 +158,7 @@ thumbnail: https://thmb.techidaily.com/e663bf23b6887cb8279b82d66477ecb71e4a937f5
 ![Windows 10 Security Fresh Start](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/04/Windows-10-Security-Fresh-Start.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Now You Know How to Factory Reset Your Windows Computer
@@ -179,24 +179,18 @@ thumbnail: https://thmb.techidaily.com/e663bf23b6887cb8279b82d66477ecb71e4a937f5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-mastering-the-art-of-friendly-pins-in-snapchat/"><u>[New] 2024 Approved Mastering the Art of Friendly Pins in Snapchat</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/024-approved-youtube-editing-essentials-the-ultimate-guide-post-upload-refinements/"><u>[New] 2024 Approved YouTube Editing Essentials The Ultimate Guide Post-Upload Refinements</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ptimizing-youtube-thumbnails-for-better-clickthrough-rates-for-2024/"><u>[New] Optimizing YouTube Thumbnails for Better Clickthrough Rates for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-how-to-detect-if-someone-has-muted-or-blocked-you-on-snapchat/"><u>[Updated] How to Detect If Someone Has Muted or Blocked You on Snapchat</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-sky-storage-spectacle-unlimited-free-and-elite-premium-alternatives-for-your-pics/"><u>[Updated] Sky Storage Spectacle Unlimited Free & Elite Premium Alternatives for Your Pics</u></a></li>
-<li><a href="https://fox-that.techidaily.com/9-effective-tricks-to-restore-natural-colors-to-yellowish-iphone-displays/"><u>9 Effective Tricks to Restore Natural Colors to Yellowish iPhone Displays</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/deciphering-dialects-turkey-and-korea/"><u>Deciphering Dialects: Turkey and Korea</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/free-auditory-gamespace-vaults-copyright-free-for-2024/"><u>Free Auditory Gamespace Vaults (Copyright-Free) for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-fix-propsysdll-not-found-or-missing-errors/"><u>How to Fix Propsys.dll Not Found or Missing Errors</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unleash-creativity-in-photography-essential-pixlr-hacks/"><u>In 2024, Unleash Creativity in Photography Essential Pixlr Hacks</u></a></li>
-<li><a href="https://windows11.techidaily.com/integrating-aguard-technology-into-windows-11s-edge-web-experience/"><u>Integrating Aguard Technology Into Windows 11'S Edge Web Experience</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-art-of-rectifying-fatal-javascript-glitch-in-win-based-discord/"><u>Mastering the Art of Rectifying Fatal Javascript Glitch in Win-Based Discord</u></a></li>
-<li><a href="https://windows11.techidaily.com/solving-your-response-invalid-captcha-mistake/"><u>Solving 'Your Response Invalid' CAPTCHA Mistake</u></a></li>
-<li><a href="https://windows11.techidaily.com/solving-windows-11-search-issue-unlocking-the-settings-apps-search-bar/"><u>Solving Windows 11 Search Issue: Unlocking the Settings App's Search Bar</u></a></li>
-<li><a href="https://windows11.techidaily.com/steady-app-placement-tips-for-windows-task-manager/"><u>Steady App Placement Tips for Windows Task Manager</u></a></li>
-<li><a href="https://windows11.techidaily.com/swift-solutions-overcome-blue-screen-on-win11s-hypervisor/"><u>Swift Solutions: Overcome Blue Screen on Win11's HYPERVISOR</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackle-microsoft-store-login-challenges/"><u>Tackle Microsoft Store Login Challenges</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-windows-climate-trackers-windows-1011/"><u>Top Windows Climate Trackers (Windows 10/11)</u></a></li>
-<li><a href="https://windows11.techidaily.com/unblocking-windows-hello-tips-for-fingerprint-issues/"><u>Unblocking Windows Hello: Tips for Fingerprint Issues</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-navigating-social-medias-shadowy-side-spotting-fake-likes-for-2024/"><u>[New] Navigating Social Media's Shadowy Side Spotting Fake Likes for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-still-to-dynamic-the-xs-action-camera-unboxed/"><u>[Updated] From Still to Dynamic The XS Action Camera Unboxed</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-download-velocity-in-steam-fending-off-drops/"><u>Boosting Download Velocity in Steam: Fending Off Drops</u></a></li>
+<li><a href="https://windows11.techidaily.com/chronological-corrections-6-utilities-to-edit-file-timestamps/"><u>Chronological Corrections: 6 Utilities to Edit File Timestamps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/essential-forgotten-free-text-from-mac-speech-devices/"><u>Essential, Forgotten Free Text From Mac Speech Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-features-and-capabilities-of-dts-virtual-cinema-experience/"><u>Exploring the Features and Capabilities of DTS Virtual Cinema Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/from-voice-to-text-in-minutes-harnessing-whispers-potential/"><u>From Voice to Text in Minutes: Harnessing Whisper's Potential</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/guia-gratuita-para-convertir-formatos-qt-a-wmv-en-linea-facilmente-usando-movavi-como-hacerlo-paso-a-paso/"><u>Guía Gratuita Para Convertir Formatos QT a WMV en Línea Fácilmente Usando Movavi: Cómo Hacerlo Paso a Paso</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-steam-from-stalling-resolving-halted-gaming-sessions/"><u>How to Stop Steam From Stalling - Resolving Halted Gaming Sessions</u></a></li>
+<li><a href="https://windows11.techidaily.com/supercharging-download-speeds-tips-and-tricks-for-ms-marketplace/"><u>Supercharging Download Speeds: Tips & Tricks for MS Marketplace</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-for-turning-onoff-the-registry-editor/"><u>Techniques for Turning On/Off the Registry Editor</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-microsoft-store-error-code-0x80072f30/"><u>Troubleshooting Microsoft Store: Error Code 0X80072F30</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/unleashing-hidden-media-from-your-connected-friends/"><u>Unleashing Hidden Media From Your Connected Friends</u></a></li>
 </ul></div>
 

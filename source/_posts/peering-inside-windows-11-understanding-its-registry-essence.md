@@ -1,7 +1,7 @@
 ---
 title: "Peering Inside Windows 11: Understanding Its Registry Essence"
-date: 2024-08-08T06:14:22.098Z
-updated: 2024-08-09T06:14:22.098Z
+date: 2024-12-05T18:27:19.094Z
+updated: 2024-12-10T20:30:33.476Z
 tags:
   - windows10
   - windows11
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/772b2b44b0378e57e7141a2aa999a88263926bcf3
 
  Now that you know what a registry file is, let's get into how you can check its contents.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Using File Explorer Preview
 
  The easiest way to preview a registry file on Windows is by using the File Explorer app. No need to open another app or program. You can preview it directly without ever leaving the registry file location. Here's how to do it:
@@ -40,18 +37,24 @@ thumbnail: https://thmb.techidaily.com/772b2b44b0378e57e7141a2aa999a88263926bcf3
 1. Press **Win + E** to [open the File Explorer](https://www.makeuseof.com/windows-open-file-explorer/).
 2. Navigate to the folder location where the downloaded registry file is present.
 3. Go to the top menu bar in File Explorer and click the **View** button. Then hover on the **Show** option and select the **Preview pane** option from the context menu.  
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![View the Registry File Contents Using File Explorer Preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/view-the-registry-file-contents-using-file-explorer-preview.jpg)
 4. The File Explorer window will now display a preview pane on the right side. You can adjust the size of the preview pane to make it manageable on a laptop.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Now, click on the registry file you want to preview. The Preview pane will display a loading screen and then display the contents of the registry file. If you're going to copy the contents of the registry file from the Preview pane, select the text, press **Ctrl + C**, and then paste it into a text editor.  
 ![View the Registry File Contents Using File Explorer Preview 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/view-the-registry-file-contents-using-file-explorer-preview-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Using Windows Notepad
 
  Notepad is an inseparable part of Windows OS; the latest version even supports the tabs feature. So, you can open multiple files without even opening another Notepad window and stacking them side by side. Repeat the following steps:
@@ -65,8 +68,9 @@ thumbnail: https://thmb.techidaily.com/772b2b44b0378e57e7141a2aa999a88263926bcf3
  With that, you will see the contents of the registry file on Notepad.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Using the Command Prompt
 
  If you often use the Command Prompt, opening a file using a graphical user interface might be cumbersome. But you can open a registry file from the terminal if you know the full path of the folder where the file is present. Command Prompt offers **more** and **type** commands to preview a file. Here's how to do it:
@@ -79,8 +83,9 @@ thumbnail: https://thmb.techidaily.com/772b2b44b0378e57e7141a2aa999a88263926bcf3
 5. After reviewing the file, type **exit** in the Command Prompt window and press **Enter** key to close it.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Using PowerShell
 
  Like Command Prompt, you can open a registry file inside PowerShell using an inbuilt cmdlet. Repeat the following steps:
@@ -94,8 +99,9 @@ thumbnail: https://thmb.techidaily.com/772b2b44b0378e57e7141a2aa999a88263926bcf3
 6. PowerShell will display the contents of the registry file. **Close** the PowerShell window afterward.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Using PowerToys Registry Preview
 
  PowerToys recently launched a new registry file preview feature. You can open and view registry files and change them from the same window. But you must [install PowerToys from GitHub](https://github.com/microsoft/PowerToys) or Microsoft Store to preview the registry file.
@@ -114,21 +120,13 @@ thumbnail: https://thmb.techidaily.com/772b2b44b0378e57e7141a2aa999a88263926bcf3
 
  Since the registry file only contains text, you can preview it in Chrome or Edge. Just copy the file path of the registry file. Open Chrome browser, paste the file path in the address bar, and press enter. Chrome will open the registry file in a new tab.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![View the Registry File Contents Using Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/view-the-registry-file-contents-using-chrome.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Easily Preview Registry Files on Windows
 
  These were the multiple methods to check the contents of the registry file on Windows 11\. The easiest way to preview the file is using the File Explorer preview pane. Alternatively, you can use the Command Prompt or PowerShell. But if you want to edit the registry file, you can use Notepad or PowerToys Registry Preview feature.
 
  But have you ever opened and checked a registry file's contents before importing it into your system? If not, here are some ways to preview its contents before adding it to your system's registry.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -136,3 +134,21 @@ thumbnail: https://thmb.techidaily.com/772b2b44b0378e57e7141a2aa999a88263926bcf3
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-crafting-a-sports-highlight-step-by-step-tutorial/"><u>[New] 2024 Approved Crafting a Sports Highlight Step-by-Step Tutorial</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-syncing-socials-a-step-by-step-guide-to-linking-instagram-and-tiktok/"><u>[New] In 2024, Syncing Socials A Step-by-Step Guide to Linking Instagram and TikTok</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-paving-the-way-for-youtube-wealth-reaching-a-threshold-of-500-subs/"><u>[Updated] Paving the Way for YouTube Wealth Reaching a Threshold of 500 Subs</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-itel-p55-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Itel P55 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/diving-into-devs-how-to-use-the-dev-drive-on-windows-11/"><u>Diving Into Devs: How to Use the Dev Drive on Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhance-your-home-efficiency-top-6-tactics-with-chatgpt/"><u>Enhance Your Home Efficiency: Top 6 Tactics with ChatGPT</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-overcome-the-260ci-wia-driver-communication-problem-with-your-computers-usb-port/"><u>How to Overcome the 260Ci WIA Driver Communication Problem with Your Computer's USB Port</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-the-art-of-troubleshooting-windows-camera/"><u>Master the Art of Troubleshooting Windows Camera</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-error-correction-techniques/"><u>Mastering Windows Error Correction Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/phase-out-announcement-end-for-windows-781-on-microsoft-platforms/"><u>Phase-Out Announcement: End for Windows 7/8.1 on Microsoft Platforms</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-art-of-unseen-wi-fi-in-windows/"><u>The Art of Unseen Wi-Fi in Windows</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/the-most-anticipated-facebook-trends-for-24-for-2024/"><u>The Most Anticipated Facebook Trends for '24 for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/time-travel-tech-windows-7-product-key-for-11-activation/"><u>Time-Travel Tech: Windows 7 Product Key for 11 Activation</u></a></li>
+</ul></div>
+

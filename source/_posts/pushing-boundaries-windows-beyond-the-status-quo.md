@@ -1,7 +1,7 @@
 ---
 title: "Pushing Boundaries: Windows Beyond the Status Quo"
-date: 2024-11-28T05:52:33.766Z
-updated: 2024-12-04T02:54:24.411Z
+date: 2024-12-09T16:59:49.475Z
+updated: 2024-12-10T19:41:35.368Z
 tags:
   - windows10
   - windows11
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/3ccfed125e4471bfeef796f7e1d53a32e1cb3d7ae
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Deeper Integration With Android Phones
 
  Windows 11 has the Phone Link app (previously called Your Phone) to integrate your android device with your Windows PC. However, Phone Link is an app that works as a doorway to your Android device. Deeper integration with Android devices would make life a lot easier.
@@ -34,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/3ccfed125e4471bfeef796f7e1d53a32e1cb3d7ae
 ![The app store on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/windows-android-release-date-featured.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit: Koshiro K/[Shutterstock.com](https://www.shutterstock.com/image-photo/kumamoto-japan-oct-3-2021-new-2051415032)
@@ -42,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/3ccfed125e4471bfeef796f7e1d53a32e1cb3d7ae
  For example, being able to view the phone's notifications, battery level, and other critical information from within the Windows taskbar. A deeper integration would essentially eliminate the need to use the app every time you want to interact with your phone. The idea is to make the Windows-Android integration the same as the Mac-iPhone integration.
 
  It would also be great to see the phone's storage put in the File Explorer too. You should be able to add, edit, and delete files on the phone storage like you would on a cloud-based platform like OneDrive.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. A Dedicated Touch UI for Touch Devices
 
@@ -51,10 +51,14 @@ thumbnail: https://thmb.techidaily.com/3ccfed125e4471bfeef796f7e1d53a32e1cb3d7ae
 
 ![Windows 8.1 Start Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/05/windows-8.1-start-screen-application-tiles.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The chances of Microsoft radically changing the design are slim. However, the Windows 12 UI might have a few major design changes as revealed in the Microsoft Ignite Keynote. Here's a tweet showing a preview of the possible design changes:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Layered Functionality
@@ -67,15 +71,15 @@ thumbnail: https://thmb.techidaily.com/3ccfed125e4471bfeef796f7e1d53a32e1cb3d7ae
 
  Microsoft could even apply the same principle to apps. Depending on the hardware, users should be able to scale between full support for all apps and being able to run just a handful of essential apps. While this might sound a little far-fetched in the context of Windows, Chrome OS has already proved that a feature-light and web-based operating system can be an excellent choice for low-end PCs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Animated Wallpapers
 
  Animated wallpapers have been long overdue given that smartphones have already offered them for a while. You can[set animated wallpapers on Windows](https://www.makeuseof.com/tag/set-live-wallpapers-animated-desktop-backgrounds-windows/) , but you need a third-party app. Having animated wallpapers built into Windows 12 would be a welcome feature.
 
  Microsoft could also animate some of its most popular wallpapers, including the default Windows XP wallpaper. To take things up a notch, Microsoft could place additional information on the wallpapers. For example, the weather information could be placed in the sun appearing in an animated wallpaper of a landscape, eliminating the need for[adding widgets to the Windows desktop](https://www.makeuseof.com/windows-11-add-widgets-desktop/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Else Do We Expect from Windows 12?
 
@@ -88,10 +92,6 @@ thumbnail: https://thmb.techidaily.com/3ccfed125e4471bfeef796f7e1d53a32e1cb3d7ae
  It's important to remember that you can't start using Windows 12 as soon as it releases. So even if Microsoft unveils Windows 12 by the end of 2024, it will take a few more months until you can actually start using Windows 12.
 
  Windows 12 will likely be available as a free upgrade once it releases, just like Windows 11, as long as you meet the minimum system requirements.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Will Windows 12 Meet Our Expectations?
 
@@ -114,20 +114,19 @@ thumbnail: https://thmb.techidaily.com/3ccfed125e4471bfeef796f7e1d53a32e1cb3d7ae
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-meme-maniacs-twitters-funniest-video-threads-roundup/"><u>[New] 2024 Approved Meme Maniacs Twitter's Funniest Video Threads Roundup</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-speakers-file-extract-and-analysis/"><u>[New] Speaker's File Extract & Analysis</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-best-practices-in-photo-captioning-tools/"><u>[Updated] Best Practices in Photo Captioning Tools</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-lava-blaze-2-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Lava Blaze 2</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/best-approaches-for-quiet-visuals-capture-for-2024/"><u>Best Approaches for Quiet Visuals Capture for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-infinix-note-30-vip-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Infinix Note 30 VIP</u></a></li>
-<li><a href="https://windows11.techidaily.com/graphics-correction-in-windows-11-and-11-systems/"><u>Graphics Correction in Windows 11 & 11 Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-disable-windows-inbuilt-display-hardware/"><u>How To Disable Window's Inbuilt Display Hardware</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-tiny-tranquil-houses-japanese-style/"><u>In 2024, Tiny Tranquil Houses Japanese Style</u></a></li>
-<li><a href="https://windows11.techidaily.com/prevent-chromium-from-creating-spontaneous-tabs-on-pc/"><u>Prevent Chromium From Creating Spontaneous Tabs on PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/reconciling-winrars-file-sums-a-guide-with-6-fixes/"><u>Reconciling WinRAR's File Sums: A Guide with 6 Fixes</u></a></li>
-<li><a href="https://windows11.techidaily.com/seamless-ai-integration-in-the-web-sphere/"><u>Seamless AI Integration in the Web Sphere</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/story-1-the-misconception-about-bootloaders/"><u>Story 1: The Misconception About Bootloaders</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategic-approach-to-dispatch-microsoft-store-failure-code-0x0/"><u>Strategic Approach to Dispatch Microsoft Store Failure: Code 0X0</u></a></li>
-<li><a href="https://windows11.techidaily.com/swiftly-syncing-spotify-on-your-windows-11-device/"><u>Swiftly Syncing Spotify on Your Windows 11 Device</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-instant-conferencing-zoom-in-the-eyes-of-gmail/"><u>[New] Instant Conferencing Zoom in the Eyes of Gmail</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/aster-youtube-monetization-tips-to-boost-income-via-shorts/"><u>[New] Master YouTube Monetization Tips to Boost Income via Shorts</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-pioneering-unmicrophoned-audio-capturing-methods/"><u>2024 Approved Pioneering Unmicrophoned Audio Capturing Methods</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-organization-controlled-errors-in-windows-11-systems/"><u>Addressing Organization-Controlled Errors in Windows 11 Systems</u></a></li>
+<li><a href="https://fox-links.techidaily.com/blades-vivid-palette-now-in-stunning-4k-clarity/"><u>Blade's Vivid Palette, Now in Stunning 4K Clarity</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatbot-ethics-unveiled-can-we-trust-chatgpts-originality-in-sourcing-information/"><u>Chatbot Ethics Unveiled: Can We Trust ChatGPT's Originality in Sourcing Information?</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-windows-sluggish-excel-experience/"><u>Fixing Windows' Sluggish Excel Experience</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Honor Magic 6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-on-iphone-14-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account On iPhone 14?</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-usage-settings-on-windows-11-your-how-to-guide/"><u>Navigating Usage Settings on Windows 11: Your How-To Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/redefine-window-management-embrace-adaptive-wmlayouts/"><u>Redefine Window Management: Embrace Adaptive WMLayouts</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailoring-user-accounts-to-local-groups-policy-in-windows-11-and-11/"><u>Tailoring User Accounts to Local Groups Policy in Windows 11 & 11</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210850965-9781398806672-the-essential-book-of-chakras/"><u>The Essential Book of Chakras | Free Book</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-essential-guide-for-instagram-video-uploads-from-pcmac-for-2024/"><u>The Essential Guide for Instagram Video Uploads From PC/Mac for 2024</u></a></li>
 </ul></div>
 

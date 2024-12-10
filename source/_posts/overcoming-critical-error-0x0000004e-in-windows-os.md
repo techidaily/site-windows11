@@ -1,7 +1,7 @@
 ---
 title: Overcoming Critical Error 0X0000004E in Windows OS
-date: 2024-12-02T01:02:52.956Z
-updated: 2024-12-04T05:20:30.637Z
+date: 2024-12-05T19:28:40.743Z
+updated: 2024-12-10T21:55:52.585Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/05031c348e3a8b265ca81d9de600b6d3876929f77
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Common Causes of the PFN\_LIST\_CORRUPT Error in Windows
 
@@ -55,7 +59,7 @@ chkdsk /f
 5. If prompted, type Y and hit **Enter**. This will schedule a disk check upon the next system restart.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Finally, restart your computer. Upon reboot, Check Disk will run and scan your hard drive for issues.
@@ -65,7 +69,7 @@ chkdsk /f
  You can also diagnose and fix a faulty RAM or memory-related issues [using the Memory Diagnostic tool in Windows](https://www.makeuseof.com/ways-to-open-windows-memory-diagnostic/). If the Check Disk utility failed to fix the problem, run the Memory Diagnostic tool and check the results in the Event Viewer. You can then take the necessary steps to fix the problem based on the underlying cause.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Disable Your Antivirus
@@ -78,16 +82,12 @@ chkdsk /f
 
 ![Disable antivirus in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/disable-antivirus-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If the error does not appear after disabling the antivirus, then we highly recommend switching to a different, better security program. You can also configure Windows Defender Firewall properly if you do not want to trust a third-party security solution again.
 
  If you're already using Windows Defender, be sure to check out [how to turn off Windows Defender](https://www.makeuseof.com/how-to-turn-off-windows-defender/) and see if that fixes the BSOD.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Other Generic Windows BSOD Fixes to Try
@@ -99,7 +99,7 @@ chkdsk /f
  Finally, it's time to pull out the reliable fixes. Windows BSODs are usually due to a common pool of issues, and fixing those problems can fix almost any BSOD, including the 0x0000004E error. As such. be sure to check out our [tips to help you fix a Windows BSOD](https://www.makeuseof.com/tag/4-tips-fix-blue-screen-error/) for all the ways you can fix this issue, and any potential ones you encounter in the future.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## PFN\_LIST\_CORRUPT BSOD, Fixed
@@ -118,19 +118,24 @@ chkdsk /f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-where-to-buy-tiktok-followers-safe-and-secure-for-2024/"><u>[New] Where to Buy TikTok Followers [Safe and Secure] for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-harness-freedom-with-top-rated-android-editing-apps-for-2024/"><u>[Updated] Harness Freedom with Top-Rated Android Editing Apps for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/1-free-mp3-downloads-of-classic-christmas-hymns-and-jingles-sing-along/"><u>1. Free MP3 Downloads of Classic Christmas Hymns & Jingles - Sing Along!</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/bandicam-demystified-a-clearer-understanding-of-2023-functionality/"><u>Bandicam Demystified A Clearer Understanding of 2023 Functionality</u></a></li>
-<li><a href="https://windows11.techidaily.com/guiding-through-windows-media-storage-woes-in-cam/"><u>Guiding Through Windows Media Storage Woes in Cam</u></a></li>
-<li><a href="https://article-files.techidaily.com/high-speed-windowed-image-inspector/"><u>High-Speed Windowed Image Inspector</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-mac-users-rejoice-top-pinnacle-studio-alternatives-revealed/"><u>New In 2024, Mac Users, Rejoice! Top Pinnacle Studio Alternatives Revealed</u></a></li>
-<li><a href="https://android-frp.techidaily.com/nokia-130-music-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Nokia 130 Music ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://windows11.techidaily.com/postponing-edges-tab-transition-on-windows-11/"><u>Postponing Edge's Tab Transition on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/proven-strategies-for-combining-diverse-windows-partitions/"><u>Proven Strategies for Combining Diverse Windows Partitions</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-guide-to-mend-operation-0x0000011b-error-on-windows-11/"><u>Quick Guide to Mend Operation 0X0000011B Error on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/restoring-lost-wi-fi-connection-on-windows-11-devices/"><u>Restoring Lost Wi-Fi Connection on Windows 11 Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-making-your-cursor-stand-out-in-windows-11/"><u>The Ultimate Guide to Making Your Cursor Stand Out in Windows 11</u></a></li>
-<li><a href="https://driver-download.techidaily.com/windows-troubleshooting-for-intel-hd-graphics-630-drivers-issues-addressed/"><u>Windows Troubleshooting for Intel HD Graphics 630 Drivers - Issues Addressed</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-crafting-impeccable-crossfades-with-premiere-pro/"><u>[New] Crafting Impeccable Crossfades with Premiere Pro</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-unlock-the-potential-of-your-videos-with-profitable-advertising/"><u>[New] In 2024, Unlock the Potential of Your Videos with Profitable Advertising</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-seamless-cinema-experience-free-and-paid-iphones-app-list/"><u>[New] Seamless Cinema Experience Free & Paid iPhones App List</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-editors-secret-best-free-premiere-pro-resources/"><u>[Updated] Top Editors' Secret Best FREE Premiere Pro Resources</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-mastering-stardews-core-principles-and-secrets-with-special-emphasis-on-ginger-island/"><u>2024 Approved Mastering Stardew's Core Principles and Secrets, With Special Emphasis on Ginger Island</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-streamlining-your-way-through-youtubes-comment-forum/"><u>2024 Approved Streamlining Your Way Through YouTube's Comment Forum</u></a></li>
+<li><a href="https://windows11.techidaily.com/achieving-superior-desktop-images-in-windows-11/"><u>Achieving Superior Desktop Images in Windows 11</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/affordable-file-sync-solutions-ideal-alternatives-to-goodsync-on-various-windows-versions/"><u>Affordable File Sync Solutions: Ideal Alternatives to GoodSync on Various Windows Versions</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypass-faulty-function-keys-windows-10-fix-guide/"><u>Bypass Faulty Function Keys: Windows 10 Fix Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/combatting-dxgierrordeviceremoved-in-modern-win-oses/"><u>Combatting DXGI_ERROR_DEVICE_REMOVED in Modern Win OSes</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-your-windows-security-incorporating-firewalls-into-context-menu/"><u>Enhance Your Windows Security: Incorporating Firewalls Into Context Menu</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016936733-hyperx-cloud-alpha-mic-not-working-heres-how-to-get-it-functioning-again/"><u>HyperX Cloud Alpha Mic Not Working? Here's How to Get It Functioning Again</u></a></li>
+<li><a href="https://windows11.techidaily.com/multiply-your-efforts-mastering-multiple-directory-creation-in-win11plus11/"><u>Multiply Your Efforts: Mastering Multiple Directory Creation in Win11+11</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-failure-to-launch-on-windows-speech-recognition/"><u>Overcoming Failure to Launch on Windows Speech Recognition</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/premium-harley-davidson-background-graphics-full-resolution-imagery-and-wallpapers-by-yl-software-solutions/"><u>Premium Harley Davidson Background Graphics: Full-Resolution Imagery & Wallpapers by YL Software Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-into-safety-with-windows-canary-channel-feature/"><u>Step Into Safety with Windows' Canary Channel Feature</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-windows-backup-configuration-recollection/"><u>Steps for Windows Backup Configuration Recollection</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-the-secrets-understanding-limitations-of-ios-for-gift-transfers/"><u>Unlocking the Secrets: Understanding Limitations of iOS for Gift Transfers</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-hello-biometrics-endangered-by-recent-cyberattacks/"><u>Windows Hello Biometrics Endangered by Recent Cyberattacks</u></a></li>
 </ul></div>
 

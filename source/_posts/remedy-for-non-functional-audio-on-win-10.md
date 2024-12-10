@@ -1,7 +1,7 @@
 ---
 title: Remedy for Non-Functional Audio on Win 10
-date: 2024-08-15T16:19:38.859Z
-updated: 2024-08-16T16:19:38.859Z
+date: 2024-12-04T17:53:35.375Z
+updated: 2024-12-10T16:48:33.231Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,11 @@ thumbnail: https://thmb.techidaily.com/6cd087da3f927fb5541ee18a5c4f27fd477ab5294
 1. Right-click on the **Sound icon** (**Speaker**) in the Taskbar.  
 ![troubleshoot sound problems windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/troubleshoot-sound-problems-windows.jpg)
 2. Select **Troubleshoot sound problems**. This will open the **Help** app with the **Help with audio problems in Windows** query selected.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Windows 11 help app audio troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/windows-11-help-app-audio-troubleshooter.jpg)
 3. Click **Yes** to run the automated diagnostic to solve audio problems. The troubleshooter will start scanning your computer for audio issues. This may take a while, so wait till you hear a beep or see the next option.
 4. If you didn’t hear the beep, select **No** and follow the on-screen instructions to try other troubleshooting steps.
@@ -67,13 +72,14 @@ thumbnail: https://thmb.techidaily.com/6cd087da3f927fb5541ee18a5c4f27fd477ab5294
 
 ![Hp support assistant diagnostic tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/hp-support-assistan-diagnostic-tool.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Additionally, if you are using a laptop, try to use the troubleshooting option available in your system management utility. For example, the **HP Support Assistant** app can check HP laptops for various issues, including audio problems.
 
  Lenovo, Dell, Asus, and all the major laptop manufacturers offer similar tools bundled with their devices. Run any such diagnostic tool available on your PC to see if that helps restore your audio.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ## 3\. Manually Reinstall the System Audio Device Drivers
 
  You can manually reinstall the system audio device driver to resolve this error on your Windows computer. Here’s how to do it:
@@ -82,27 +88,27 @@ thumbnail: https://thmb.techidaily.com/6cd087da3f927fb5541ee18a5c4f27fd477ab5294
 2. In Device Manager, expand the **System devices** section.
 3. Next, look for and locate any audio devices such as **High Definition Audio Controller.**  
 ![device manager high definition audio controller system device update driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/device-manager-high-definition-audio-controller-system-device-update-driver.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 4. Right-click on the audio device and select **Update driver**.
 5. Select the **Browse my computer for drivers** option.  
 ![device manager browse my computer for drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/device-manager-browse-my-computer-for-drivers.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 6. Click the **Let me pick from a list of available drivers on my computer** option.  
-![device manager let me pick from a list of available drivers on my computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/device-manager-let-me-pick-from-a-list-of-available-drivers-on-my-computer.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![device manager let me pick from a list of available drivers on my computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/device-manager-let-me-pick-from-a-list-of-available-drivers-on-my-computer.jpg)
 7. Select the driver under the **Model** section and click **Next** to install the driver.  
 ![device manager select the driver you want to install for this hardware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/device-manager-select-the-driver-you-want-to-install-for-this-hardware.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 8. Once installed, close **Device Manager**. This should fix the error and restore audio on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Install the Generic Audio Device Driver Using Device Manager
 
@@ -113,10 +119,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 3. In Device Manager, select your computer name and click on **Action**.
 4. Select **Add legacy hardware.**  
 ![device manager action add legacy hardware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/device-manager-action-add-legacy-hardware.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 5. Click **Next** to proceed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Next, select the **Install the hardware that I manually select from a list (Advanced)** option.  
 ![device manager install hardware that i manually select from list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/device-manager-install-hardware-that-i-manually-select-from-list.jpg)
@@ -130,9 +137,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 7. Click **Next** once again to confirm the action.
 8. Wait for the installation to complete and click **Finish**. Restart your PC and check if your audio device is detected and working again.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Check if Your Audio Device Is Disabled
 
 ![enable audio device paly sound windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/enable-audio-device-paly-sound-windows.jpg)
@@ -149,8 +153,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 6. Restart your PC and check if the no audio output device is installed error is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Check if the Audio Services are Running
 
  The Windows Audio Endpoint Service and Windows Audio Service are the two essential services for the audio to work on your PC. If these services are not running, your audio device may not function properly.
@@ -160,25 +165,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. Press **Win + R** to open **Run**.
 2. Type **services.msc** and click **OK** to open the **Services** snap-in.  
 ![Windows Audio Endpoint Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-audio-endpoint-service.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 3. Next, locate and right-click on **Windows Audio Endpoint Service Builder.**
 4. Select **Properties** from the context menu.  
 ![Windows Audio Endpoint Service startup type automatic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-audio-endpoint-service-startup-type-automatic.jpg)
 5. Click the drop-down for **Startup type** and select **Automatic**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click **OK** to save the change.  
 ![Windows Audio Endpoint Service restart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-audio-endpoint-service-restart.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Right-click on **Windows Audio Endpoint Builder** service again and then select **Restart**.
 8. Next, repeat the steps for the **Windows Audio service.**
 9. Once done, close the Services snap-in.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Uninstall or Disable Any Third-Party Driver Updater Tools
 
@@ -186,12 +190,13 @@ No advertising on the website.
 
  To fix the problem, disable or remove any driver update utility such as Avast Driver Updater installed on your PC. Then run the audio troubleshooter again to see if that helps resolve the issue. Sometimes, you may need to remove the updater app to disable it completely.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Repair the Windows Image With DISM
 
 ![DISM scan health restore health command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/dism-scan-health-restore-health-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Deployment Image Service Management (DISM) is a built-in Windows image repair command-line utility. If the audio problem is triggered by an issue with your system image, this tool can repair the image to restore the audio functionality on your PC.
 
@@ -208,9 +213,6 @@ No advertising on the website.
 7. Once the restore operation is complete, close the Command Prompt and restart your PC.
 8. After the restart, check if your audio device is working.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix the "No Audio Output Device Is Installed" Error
 
  When connected, Windows will detect all the audio input and output devices and install the necessary drivers automatically. To fix the no audio output device is installed error, make sure your audio device is enabled in the Sound settings.
@@ -221,11 +223,25 @@ No advertising on the website.
 
  This error occurs when Windows fails to detect your connected audio devices. It can be a temporary glitch, a driver-related issue, or, in some cases, caused by system file corruption. Here are a few troubleshooting steps to help you fix the No Audio Output Device installed error on Windows.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/yans-revenue-revolution-from-childhood-to-youtube-riches-for-2024/"><u>[New] Ryan’s Revenue Revolution From Childhood to YouTube Riches for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-zdsoft-capture-master-overview-and-evaluation/"><u>[Updated] 2024 Approved ZDSoft Capture Master Overview & Evaluation</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-voice-changes-in-psgames/"><u>[Updated] Mastering Voice Changes in PSGames</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-innovative-techniques-for-stellar-screen-captures-with-adobe-captivity/"><u>2024 Approved Innovative Techniques for Stellar Screen Captures with Adobe Captivity</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/how-israeli-palestinian-tensions-influence-future-market-movements-amidst-rally-in-precious-metals-a-yl-computing-analysis/"><u>How Israeli-Palestinian Tensions Influence Future Market Movements Amidst Rally in Precious Metals: A YL Computing Analysis</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-recovery-8-steps-for-lost-files-in-windows/"><u>Mastering Recovery: 8 Steps for Lost Files in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/reignite-your-wi-fi-mouse-simple-steps-for-windows-users/"><u>Reignite Your Wi-Fi Mouse - Simple Steps for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/saving-the-day-unraveling-steam-storage-errors/"><u>Saving the Day: Unraveling Steam Storage Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-missing-sound-issue-from-devices-microsoft-windows/"><u>Solving Missing Sound Issue From Devices, Microsoft Windows</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-5-audio-experiences-on-iphones/"><u>Top 5 Audio Experiences on iPhones</u></a></li>
+</ul></div>
+

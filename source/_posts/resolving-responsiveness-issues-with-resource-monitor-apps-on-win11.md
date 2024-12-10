@@ -1,7 +1,7 @@
 ---
 title: Resolving Responsiveness Issues with Resource Monitor Apps on Win11
-date: 2024-12-01T19:11:10.918Z
-updated: 2024-12-03T19:55:35.958Z
+date: 2024-12-09T20:37:58.906Z
+updated: 2024-12-10T19:54:40.287Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/b5d7a060863d8900073e79dab85dc7e851c9bee60
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Causes the Resource Monitor App to Stop Working?
 
  Before we dive into solving the problem, let's first check what causes the Resource Monitor app to stop working correctly. There are a few potential causes you should consider.
@@ -36,12 +40,16 @@ thumbnail: https://thmb.techidaily.com/b5d7a060863d8900073e79dab85dc7e851c9bee60
 So, let's move on to the solution and fix this problem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Restart the Computer
 
 ![windows restart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/windows-restart.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When troubleshooting software-related issues, a computer restart can often resolve them without resorting to complex solutions. Doing so refreshes all running programs and services while also clearing out any temporary files that might be causing problems.
 
@@ -61,14 +69,10 @@ To change the DPI scale to its default settings, follow these steps:
 5. Choose the recommended value.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you have made the changes, close the Settings window and run the Resource Monitor app to see if the problem is resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Run the System File Checker
 
@@ -85,10 +89,6 @@ To do this, follow these steps:
 sfc /scannow
 5. Wait for the process to complete, then restart your PC.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Check for Windows Updates
 
  It is also possible for an outdated version of Windows to cause this issue, so[manually check for any pending Windows updates](https://www.makeuseof.com/update-windows-manually/) and install them.
@@ -99,10 +99,6 @@ sfc /scannow
 2. From the left side of the Settings menu, click**Windows Update** .
 3. When Windows Update opens, click the**Check for updates** button.  
 ![Check for Updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/check-for-updates.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If there are any updates available, it will download and install them automatically. After the download completes, install the updates and restart your computer. After that, check to see if Resource Monitor is working.
 
@@ -115,10 +111,6 @@ sfc /scannow
 3. Now go to the right and click on**Update history** .  
 ![Update history in Windows Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/update-history-in-windows-update.jpg)
 4. Scroll down to Related settings and click**Uninstall updates** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Uninstall the latest Windows Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-the-latest-windows-update.jpg)
 
@@ -149,6 +141,10 @@ In such a case, you need to perform a clean boot as instructed below:
 ![Perform-a-Clean-Boot-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Perform-a-Clean-Boot-1.jpg)
 4. Uncheck the**Load startup items** box.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Switch to the**Services** tab and check the**Hide all Microsoft services** box.  
 ![Hide all Microsoft services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Hide-all-Microsoft-services.jpg)
 6. Then click**Disable All** .
@@ -157,6 +153,10 @@ In such a case, you need to perform a clean boot as instructed below:
 8. Disable any services or programs that are active in Startup apps.
 
  Once you have done this, close Task Manager, then click**OK** on the MSConfig window to save these changes. Now restart your computer for them to take effect, then try using Resource Monitor to see if they work now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Resolve Resource Monitor Issues in Windows 11
 
@@ -177,20 +177,14 @@ In such a case, you need to perform a clean boot as instructed below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-ultimate-ranking-of-8-swift-recorders/"><u>[New] In 2024, Ultimate Ranking of 8 Swift Recorders</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-the-science-of-attractiveness-building-engaging-audio-introductions-for-2024/"><u>[New] The Science of Attractiveness Building Engaging Audio Introductions for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-the-graphic-gaze-decoding-youtubes-factful-17-narrative/"><u>2024 Approved The Graphic Gaze Decoding YouTube's Factful '17 Narrative</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/138591064-9781449745950-ella/"><u>Ella | Free Book</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-tips-on-selecting-a-suitable-surge-protector-for-electronic-devices/"><u>Essential Tips on Selecting a Suitable Surge Protector for Electronic Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/fix-your-teammers-disconnected-screens/"><u>Fix Your Teammers’ Disconnected Screens</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-mouse-drivers-for-efficient-windows-use/"><u>Mastering Mouse Drivers for Efficient Windows Use</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-onedrive-files-on-pc-without-internet/"><u>Mastering OneDrive Files on PC without Internet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/proactive-measures-for-authentic-ai-app-consumption/"><u>Proactive Measures for Authentic AI App Consumption</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-no-sound-glitches-in-lost-ark-helpful-tips-inside/"><u>Resolving No-Sound Glitches in Lost Ark - Helpful Tips Inside</u></a></li>
-<li><a href="https://windows11.techidaily.com/secure-your-system-mastering-the-art-of-expanded-pins-in-win1011/"><u>Secure Your System: Mastering the Art of Expanded Pins in Win10/11</u></a></li>
-<li><a href="https://windows11.techidaily.com/speedy-windows-discord-cutting-down-latency-issues/"><u>Speedy Windows Discord: Cutting Down Latency Issues</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-installation-error-with-oculus-on-w11w10/"><u>Tackling Installation Error with Oculus on W11/W10</u></a></li>
-<li><a href="https://windows11.techidaily.com/tweaking-taskbar-width-in-win11/"><u>Tweaking Taskbar Width in Win11</u></a></li>
-<li><a href="https://win-able.techidaily.com/ubisoft-connect-troubleshooting-techniques-to-restore-connection-2nvoice-guide-2024/"><u>Ubisoft Connect Troubleshooting Techniques to Restore Connection - 2nVoice Guide 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-the-ultimate-guide-to-increasing-fb-likes-with-top-apps/"><u>[New] 2024 Approved The Ultimate Guide to Increasing FB Likes with Top Apps</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-instantaneous-subscriber-tracking/"><u>[New] In 2024, Instantaneous Subscriber Tracking</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-weaving-tech-guide-mastering-screen-recording-on-loom-for-2024/"><u>[New] Weaving Tech Guide Mastering Screen Recording on Loom for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-and-resolving-winirq-conflicts-for-clear-audio/"><u>Decoding and Resolving WinIRQ Conflicts for Clear Audio</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-reclaim-the-loss-10-essential-iphone-x-techniques/"><u>In 2024, Reclaim The Loss 10 Essential iPhone X Techniques</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-video-to-text-technology-now-for-2024/"><u>Prime Video-to-Text Technology, Now for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/skyrocket-your-text-entry-speed-via-typingaid/"><u>Skyrocket Your Text Entry Speed via TypingAid</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-for-an-effortless-in-place-windows-11-revamp/"><u>Step-by-Step Guide for an Effortless, In-Place Windows 11 Revamp</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-secrets-of-registry-edits-in-cmd/"><u>Unveiling the Secrets of Registry Edits in CMD</u></a></li>
 </ul></div>
 

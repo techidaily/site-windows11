@@ -1,7 +1,7 @@
 ---
 title: "From CR2 to JPG on Windows: A Comprehensive Conversion Guide"
-date: 2024-08-15T16:18:31.564Z
-updated: 2024-08-16T16:18:31.564Z
+date: 2024-12-06T17:52:29.864Z
+updated: 2024-12-10T18:39:21.085Z
 tags:
   - windows10
   - windows11
@@ -43,9 +43,6 @@ thumbnail: https://thmb.techidaily.com/be34f09b3263dabe58e7e8e9b611840eed5d78451
 
  Now open the output folder you selected. There you’ll find a converted JPG file for the RAW image you selected. Double-click on that JPG file to open it within your default image viewer.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Convert CR2 Files to JPG With the Image Converter App
 
  Image Converter is a Microsoft Store app that supports numerous RAW formats, such as CR2, ARW, RAF, and RW2\. So, you can [convert various RAW formats to JPEG](https://www.makeuseof.com/how-to-convert-raw-files-to-jpeg-on-mac/) (JPG), TIFF, BMP, GIF, and PNG files with Image Converter. This is how you can convert your CR2 photos to JPG with Image Converter:
@@ -53,10 +50,12 @@ thumbnail: https://thmb.techidaily.com/be34f09b3263dabe58e7e8e9b611840eed5d78451
 1. Open this [Image Converter](https://apps.microsoft.com/store/detail/image-converter/9PGN31QTZQ26?hl=en-us&gl=us)[Microsoft Store](https://apps.microsoft.com/store/detail/image-converter/9PGN31QTZQ26?hl=en-us&gl=us) page.
 2. Click **Get in Store** app to bring up a prompt for [opening the Microsoft Store app](https://www.makeuseof.com/windows-open-microsoft-store/).  
 ![The Get in Store app button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-get-in-store-app-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 3. Select Open Microsoft Store to access a **Download** option for Image Converter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click Image Converter’s **Install** option.
 5. Select **Open** to bring up Image Converter.
 
@@ -78,24 +77,23 @@ thumbnail: https://thmb.techidaily.com/be34f09b3263dabe58e7e8e9b611840eed5d78451
 1. Open the [FreeConvert CR2 to JPG](https://www.freeconvert.com/cr2-to-jpg) web app.
 2. Click the **Choose Files** button.  
 ![The Choose Files button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/choose-files-button.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 3. Select a CR2 file and click **Open**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Then select the **JPG** option on the **Output** drop-down menu.
 5. Click on the **Convert** button.  
 ![The Convert option in FreeConvert](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/convert-option.jpg)
 6. Press the web app’s **Download** option.  
 ![The Download option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-download-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 7. Then open the folder your browser usually downloads files in to find that converted JPG image.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Convert CR2 Images to JPG With IrfanView
 
  IrfanView is one of the best image viewers for Windows that includes a file conversion tool with which you can convert image formats. That software doesn’t support the CR2 format by default. However, installing an additional plugin can extend IrfanView’s file support to include CR2\. This is how you can download and install IrfanView and its required plugin for CR2 support:
@@ -104,10 +102,12 @@ thumbnail: https://thmb.techidaily.com/be34f09b3263dabe58e7e8e9b611840eed5d78451
 2. Click the **IrfanView 64-bit Windows Installer** download link.
 3. Then click the **IrfanView All Plugins – 64-bit Windows Installer** download link.  
 ![The IrfanView download options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/irfanview-download-options.jpg)
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Next, click the library folder icon on the taskbar to [bring up the Windows Explorer file manager](https://www.makeuseof.com/windows-open-file-explorer/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Go to the directory that the IrfanView files were downloaded to.
 
 1. Double-click on the **iview462\_x64\_setup.exe** file to open the IrfanView setup window.  
@@ -118,11 +118,16 @@ thumbnail: https://thmb.techidaily.com/be34f09b3263dabe58e7e8e9b611840eed5d78451
 5. Then click **Next** to install the plugin.  
 ![The Plugins setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-plugins-window.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now go ahead and open the IrfanView software. Having installed its plugin, you can now open CR2 images within the software without converting them. Click **File** \> **Open** to select a CR2 file. Then click **Open** again to view it within the image viewer.
 
 ![A CR2 image open in IrfanView](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/a-cr2-image.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As you can open CR2 images in IrfanView, you don’t need to convert them to JPG. However, it’s still better to do so because JPG images have smaller file sizes than CR2 photos. So, you can save some drive space by converting a CR2 image to JPG and then erasing the original file. This is how you can convert a CR2 photo to JPG in IrfanView:
@@ -136,19 +141,17 @@ thumbnail: https://thmb.techidaily.com/be34f09b3263dabe58e7e8e9b611840eed5d78451
 5. Select your CR2 file and click **Add**.
 6. Click on the **Output format** drop-down menu to select JPG.  
 ![The Output format options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/output-format-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. To choose an output format, click the **Browse** option. Then select a folder in the window that opens and click **OK**.
 8. Press the **Start Batch** option.  
 ![The Start Batch button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/start-batch-option.jpg)
 9. Click **Exit** in the "Batch Conversion done" window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Go to the folder you selected to include the converted JPG file. There you’ll see its file size is smaller than the original CR2 image. You can erase the original CR2 photo by right-clicking its file and selecting **Delete**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## Convert Your CR2 Photos to JPG Images
 
  The advantages of converting your CR2 photos to JPG images on a Windows PC are clear. Your converted JPG files will be much smaller, which will save lots of drive space if you have many CR2 photographs.
@@ -157,11 +160,30 @@ thumbnail: https://thmb.techidaily.com/be34f09b3263dabe58e7e8e9b611840eed5d78451
 
  Instead of trying to find software with which to open CR2 images, you can convert them to the JPG file format. JPG is a universal file format you can open with many image viewers and editors. This is how you can convert CR2 images to the JPG format on Windows 11/10\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-unlock-your-movies-at-no-cost-on-various-oses/"><u>[Updated] 2024 Approved Unlock Your Movies at No Cost on Various OSes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-and-sharing-custom-contact-flyers-in-ios-17-using-namedrop-a-step-by-step-guide/"><u>Crafting and Sharing Custom Contact Flyers in iOS 17 Using NameDrop: A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/get-up-to-speed-on-windows-11s-user-friendly-taskbar-search-feature/"><u>Get up to Speed on Windows 11’S User-Friendly Taskbar Search Feature</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210275251-9781989838204-guided-mindfulness-meditation-for-sleep-overcoming-anxiety-and-stress-relief/"><u>Guided Mindfulness Meditation for Sleep, Overcoming Anxiety and Stress Relief | Free Book</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-asus-rog-phone-8-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Asus ROG Phone 8</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/integrated-story-spread-4-simple-steps-on-fb/"><u>Integrated Story Spread 4 Simple Steps on FB</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/lernen-sie-wie-man-musik-muhelos-von-dem-iphones-auf-ihren-pc-ubertragt/"><u>Lernen Sie, Wie Man Musik Mühelos Von Dem iPhones Auf Ihren PC Überträgt</u></a></li>
+<li><a href="https://win11.techidaily.com/managing-your-digital-life-restarting-apps-in-windows-11/"><u>Managing Your Digital Life: Restarting Apps in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-window-11-stealthy-hiding-of-linguistic-signal/"><u>Mastering Window 11: Stealthy Hiding of Linguistic Signal</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-stop-time-in-its-tracks-how-to-freeze-frame-in-videos-easily/"><u>New In 2024, Stop Time in Its Tracks How to Freeze Frame in Videos Easily</u></a></li>
+<li><a href="https://windows11.techidaily.com/reigniting-disappearing-windows-on-your-screen-top-6-fixes-for-win11/"><u>Reigniting Disappearing Windows on Your Screen: Top 6 Fixes for Win11</u></a></li>
+<li><a href="https://video-capture.techidaily.com/speech-to-text-device-review-for-2024/"><u>Speech-to-Text Device Review for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-to-unlocking-windows-11-desktop-toolbar/"><u>Step-by-Step to Unlocking Windows 11 Desktop Toolbar</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-counteract-error-x80300024-in-winxp/"><u>Steps to Counteract Error X80300024 in WinXP</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-tackle-corrupted-files-and-directories-win10-11-edition/"><u>Strategies to Tackle 'Corrupted' Files & Directories: Win10-11 Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11s-design-faux-pas-a-list-of-7/"><u>Windows 11'S Design Faux Pas: A List of 7</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Navigating Past Windows Terminal Lockup
-date: 2024-08-15T16:18:57.841Z
-updated: 2024-08-16T16:18:57.841Z
+date: 2024-12-08T21:50:48.523Z
+updated: 2024-12-10T18:35:32.881Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 
  If you can no longer access Windows Terminal, there’s no need to worry. We’ve compiled a quick guide to help you fix the problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Try a Different Method to Open the Windows Terminal
 
  One of the most common methods to open Windows Terminal is to right-click the**Start** button and select**Windows Terminal (Admin)** . But if the option is missing or nothing happens when you click it, you should[try a different method to open Windows Terminal](https://www.makeuseof.com/windows-11-open-windows-terminal/) .
@@ -35,6 +39,14 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 
 ![Enable Windows Terminal on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable_terminal-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Repair Windows Terminal
 
  Fortunately, Windows has plenty of built-in tools that are capable of fixing most of the issues for you. The same goes when you can’t get Windows Terminal to open. Instead of trying to pinpoint the problem manually, you can have Windows repair the app. Here’s how you can do it:
@@ -45,57 +57,44 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 4. Click the**Repair** button.
 
 ![Repair Windows Terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-terminal-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Reset Windows Terminal
 
  If you still can’t get Windows Terminal to work, you should try reverting it to its default settings. Check out[how to reset Windows Terminal](https://www.makeuseof.com/windows-11-reset-terminal-settings/#:~:text=To%20reset%20Windows%20Terminal%20Settings%20back%20to%20their%20defaults%2C%20follow,cmd%22%20in%20the%20Run%20dialog.&text=Now%20press%20the%20Enter%20key%20to%20delete%20the%20settings.) for steps.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Run an SFC Scan
 
 ![Run SFC scan in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sfc-scan-1-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Missing or corrupted system files might cause the inability to open Windows Terminal. In this case, you should[run an SFC scan](https://www.makeuseof.com/system-file-checker-sfc-windows/) . This will search for any broken system files and replace them automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Reinstall Windows Terminal
 
  If nothing worked until now, it’s time to reinstall Windows Terminal. Go to**Settings > Apps > Installed apps** and locate**Terminal** . Then, click the**three-dot** icon next to it and select**Uninstall** .
 
 ![Uninstall Windows Terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-terminal-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Once Windows uninstall the app, launch Microsoft Store and reinstall Windows Terminal.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ## Launch Windows Terminal Any Time Again
 
  Hopefully, one or more of the above solutions helped you fix Windows Terminal. Sometimes, you have to enable it on your computer or have Windows repair the app. But if you’re still struggling to make it work, you should go nuclear and reinstall the app.
 
  Once you get it working again, you should learn about Windows Terminal tips and tricks to make the most out of it.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -104,4 +103,22 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-showdown-of-streamers-which-platform-rules-obs-or-twitch-studio-for-2024/"><u>[New] Showdown of Streamers Which Platform Rules, OBS or Twitch Studio for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/digital-diary-keepers-securely-download-tweets-videos/"><u>Digital Diary Keepers Securely Download Tweets' Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/explaining-the-essence-of-windows-reserved-ram/"><u>Explaining the Essence of Windows Reserved RAM</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-unresponsive-menu-functions-on-windows-11/"><u>Fixing Unresponsive Menu Functions on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-addressing-connect-your-device-bluetooth-issue/"><u>Guide to Addressing Connect Your Device Bluetooth Issue</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-obtain-high-quality-unrestricted-photography-for-2024/"><u>How To Obtain High-Quality, Unrestricted Photography for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-uniform-visual-clarity-in-microsoft-teams-conferences/"><u>In 2024, Uniform Visual Clarity in Microsoft Teams Conferences</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Xiaomi Redmi Note 12T Pro? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/is-asuss-steam-deck-competitor-rog-ally-game-changer/"><u>Is ASUS's Steam Deck Competitor ROG Ally Game-Changer?</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/master-image-restoration-secure-the-top-tier-repair-software-for-windows-now/"><u>Master Image Restoration: Secure the Top-Tier Repair Software for Windows Now!</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-resolving-frozen-windows-based-itunes/"><u>Mastering the Art of Resolving Frozen Windows-Based iTunes</u></a></li>
+<li><a href="https://windows11.techidaily.com/secrets-of-opening-windows-disks-win-1011-edition/"><u>Secrets of Opening Windows Disks: Win 10/11 Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-for-severing-windows-11-connections/"><u>Techniques for Severing Windows 11 Connections</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-ultimate-fan-experience-on-iphone-dive-into-appleer-free-sporting-app-as-highlighted-by-zdnet/"><u>Unlocking the Ultimate Fan Experience on iPhone - Dive Into Apple'er Free Sporting App, as Highlighted by ZDNet</u></a></li>
+</ul></div>
 

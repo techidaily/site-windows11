@@ -1,7 +1,7 @@
 ---
 title: Reimagined User Support in New Windows Release
-date: 2024-11-28T22:48:33.650Z
-updated: 2024-12-04T06:07:42.327Z
+date: 2024-12-07T19:37:20.184Z
+updated: 2024-12-10T17:40:20.148Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/f0dbd5a21adf0257efb4cfc535a5b1745bbe68be5
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When Will Support for Cortana End?
@@ -52,28 +52,24 @@ thumbnail: https://thmb.techidaily.com/f0dbd5a21adf0257efb4cfc535a5b1745bbe68be5
  So, if you’re still using Windows 10, you’ll have to upgrade to Windows 11 to access the feature.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Microsoft Bing With AI-Powered Search
 
 ![New Bing Chat Interface showing Conversation Style options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/new-bing-chat-interface.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  One of Cortana’s best features is that you can easily search the web. Now, Microsoft takes it to the next level by adding AI to its browser. The new AI-powered Bing can answer complex questions by accessing reliable sources across the web.
 
  While you may not be a fan of Microsoft’s search engine, Bing AI has plenty of tools to replace Cortana. While accessing your Cortana chats might be difficult, you can easily [save and export your Bing AI chat history](https://www.makeuseof.com/export-bing-ai-chat-history/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Windows Copilot
 
 ![introducing copilot for Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/ezgif-com-webp-to-jpg.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Image Credit: [Microsoft](https://blogs.windows.com/windowsdeveloper/2023/05/23/bringing-the-power-of-ai-to-windows-11-unlocking-a-new-era-of-productivity-for-customers-and-developers-with-windows-copilot-and-dev-home/)
 
@@ -81,19 +77,23 @@ Image Credit: [Microsoft](https://blogs.windows.com/windowsdeveloper/2023/05/23/
 
  You can have an AI-powered conversation and ask Copilot to change your keyboard layout, turn off Bluetooth, increase the screen brightness, and so on. This way, you can focus on your work instead of going through the Settings menu for every minor system tweak.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Microsoft 365 Copilot
 
 ![A Copilot dialog box in Microsoft Word](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/copilot-dialog-in-word.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Image Credit: Microsoft/[M](https://www.shutterstock.com/image-photo/bangkokthailandapril92020-nintendo-switch-consoles-gaming-controller-1699898014)[icrosoft 365 Copilot](https://news.microsoft.com/reinventing-productivity/)
 
  Microsoft 365 Copilot is an AI assistant feature for Microsoft 365 apps and services. Integrating it into your workflow allows you to create a document draft using a prompt, make Excel graphs, or put together PowerPoint slides.
 
  If you want to learn more, check out our guide on [what Microsoft 365 can do](https://www.makeuseof.com/what-is-microsoft-365-copilot/) to simplify your work.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What About Third-Party Alternatives to Cortana?
 
@@ -115,24 +115,20 @@ Image Credit: Microsoft/[M](https://www.shutterstock.com/image-photo/bangkokthai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-demystifying-ez-grabber-a-beginners-guide/"><u>[New] 2024 Approved Demystifying EZ Grabber A Beginner's Guide</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-ghost-3-clash-ghost-4-rising/"><u>[New] In 2024, Ghost 3 Clash Ghost 4 Rising</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instant-interaction-the-art-of-crafting-instagram-stories-questions/"><u>[Updated] 2024 Approved Instant Interaction The Art of Crafting Instagram Stories Questions</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-exploring-action-capture-prohero-against-nikkor-km-170/"><u>[Updated] Exploring Action Capture ProHero Against Nikkor KM-170</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-leading-10-lenses-revolutionizing-photography/"><u>[Updated] Leading 10 Lenses Revolutionizing Photography</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/80-less-than-its-original-price-why-the-apple-watch-series-se-second-generation-is-a-bargain-even-after-prime-day-insights-by-zdnet/"><u>$80 Less Than Its Original Price: Why the Apple Watch Series SE Second Generation Is a Bargain Even After Prime Day - Insights by ZDNet</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-expert-take-on-camstudios-recorder-efficacy/"><u>2024 Approved Expert Take on CamStudio's Recorder Efficacy</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/captivating-features-the-allure-of-filmora-editing/"><u>Captivating Features The Allure of Filmora Editing</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/giggles-galore-crafting-memes-in-adobe-for-2024/"><u>Giggles Galore Crafting Memes in Adobe for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-set-active-hours-and-avoid-sudden-updates-on-windows-11/"><u>How to Set Active Hours and Avoid Sudden Updates on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-turn-on-quick-startup-your-complete-windows-11-guidebook/"><u>How to Turn On Quick Startup: Your Complete Windows 11 Guidebook</u></a></li>
-<li><a href="https://windows11.techidaily.com/make-your-phone-games-mobile-again-transitioning-to-pcwindows-11-via-google-play/"><u>Make Your Phone Games Mobile Again: Transitioning to PC/Windows 11 via Google Play</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-windows-11-setup-offline/"><u>Mastering Windows 11 Setup Offline</u></a></li>
-<li><a href="https://windows11.techidaily.com/pinpoint-customization-techniques-for-windows-11-search/"><u>Pinpoint Customization Techniques for Windows 11 Search</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-boot-time-windows-audio-recovery-procedures/"><u>Resolving Boot-Time Windows Audio Recovery Procedures</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-oneplus-nord-n30-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for OnePlus Nord N30 5G Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-resolving-nvidia-cp-access-denied-on-ws1110/"><u>Troubleshooting: Resolving Nvidia CP Access Denied on WS11/10</u></a></li>
-<li><a href="https://windows11.techidaily.com/understanding-disms-role-in-fixing-win11-os-images/"><u>Understanding DISM's Role in Fixing Win11 OS Images</u></a></li>
-<li><a href="https://windows11.techidaily.com/what-is-hardware-reserved-memory-on-windows/"><u>What Is Hardware Reserved Memory on Windows?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-harnessing-hashtag-magic-for-more-followers-for-2024/"><u>[New] Harnessing Hashtag Magic for More Followers for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-editors-edge-adding-sleek-fades-to-your-work/"><u>[New] The Editor's Edge Adding Sleek Fades to Your Work</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-mastering-sound-clarity-for-youtube-audiences/"><u>[Updated] Mastering Sound Clarity for YouTube Audiences</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-apple-images-not-importing-correctly-on-windows/"><u>Addressing Apple Images Not Importing Correctly on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/curtailing-spontaneous-console-appearance-triggers/"><u>Curtailing Spontaneous Console Appearance Triggers</u></a></li>
+<li><a href="https://windows11.techidaily.com/ease-into-accessibility-windows-fundamentals-for-novices/"><u>Ease Into Accessibility: Windows Fundamentals for Novices</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/gain-free-photo-footage-via-essential-4-youtube-picks/"><u>Gain Free Photo Footage via Essential 4 YouTube Picks</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-from-apple-iphone-xs-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled From Apple iPhone XS? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-from-unknown-to-recognized-boosting-facebook-profile-visibility/"><u>In 2024, From Unknown to Recognized Boosting Facebook Profile Visibility</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-motorola-moto-g13-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Motorola Moto G13 FRP Bypass</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/mastering-gratitude-in-professional-communication-top-5-strategies-for-flawless-thank-you-email-creation-with-massmail/"><u>Mastering Gratitude in Professional Communication: Top 5 Strategies for Flawless Thank-You Email Creation with MassMail</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-basics-top-settings-to-optimize-on-new-windows-11/"><u>Mastering the Basics: Top Settings to Optimize on New Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-route-engaging-windows-11s-capture-utility/"><u>Quick Route: Engaging Windows 11'S Capture Utility</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-workspace-malfunctions-essential-tips-for-office-on-winos/"><u>Resolving Workspace Malfunctions: Essential Tips for Office on WINOS</u></a></li>
+<li><a href="https://windows11.techidaily.com/steering-onedrive-destination-on-windows-pc/"><u>Steering OneDrive Destination on Windows PC</u></a></li>
 </ul></div>
 

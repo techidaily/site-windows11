@@ -1,7 +1,7 @@
 ---
 title: "Starting Diagnostics: Five Quick Steps in Windows"
-date: 2024-08-15T16:20:00.491Z
-updated: 2024-08-16T16:20:00.491Z
+date: 2024-12-09T16:14:11.667Z
+updated: 2024-12-10T17:07:45.452Z
 tags:
   - windows10
   - windows11
@@ -24,9 +24,6 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 
  This is the easiest way to go about launching the Startup Repair tool on Windows. So we will lay out this method first.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ### How to Use the Windows 11 Settings App
 
  Here’s how you can do it on Windows 11:
@@ -52,13 +49,9 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
  Your Windows will boot into **Windows Recovery Environment** (Win RE) as soon as you do this. From there, the steps are similar to the ones you followed for Windows 11\.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Run the Startup Repair Tool Through the Desktop
 
  The method we’ve laid out above will practically work for all users. And in the cases where it doesn’t—usually when you can’t [access or open the Settings app](https://www.makeuseof.com/windows-ways-to-open-system-settings/)—use this method. Here’s how:
@@ -69,11 +62,12 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
  That’s it; your PC will be restarted from here, and you will be then taken to the **Win RE** menu. From there, follow the above steps from method one and click on **Advanced Options > Startup Repair**.
 
 ![advanced options on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/advanced-options-on-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 
  The Startup Repair tool will be launched from here.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Run the Startup Repair From BIOS
 
@@ -89,17 +83,9 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
  The Startup Repair tool will be launched from here, and it will look up and fix any issues it finds on your Windows computer.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Use the Command Prompt
 
  The Command Prompt is a free Windows utility that lets you manage your Windows settings and things in a way that makes using Windows a breeze.
@@ -112,25 +98,25 @@ shutdown /r /o
 
 ![windows cmd](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-cmd.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As soon as you hit **Enter**, your PC will be restarted in the **Advanced Startup Options** menu; you can then select the **Startup Repair** option from there.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Use the F11 Shortcut Key During Boot
 
  Sometimes, simply hitting the **F11** key repeatedly during the boot-up can take you to the **Advanced Options** menu on many computers. So, make sure you give this a go as well. From there, you can easily access the **Windows Startup Options** tool.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Opening the Startup Repair Tool on a Windows PC
 
  Like almost everything on Windows, there are many ways to open the Startup Repair tool on Windows. So even if one way of opening the tool doesn’t work, you have the others to try out.
 
  We have looked over a host of different ways to access the tool. So, let’s look at all of them one by one.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -138,3 +124,19 @@ shutdown /r /o
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-unlock-creative-potentials-with-device-based-filters-for-videographers/"><u>[New] 2024 Approved Unlock Creative Potentials with Device-Based Filters for Videographers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-experts-choice-best-vr-handh-written-by-assistant/"><u>[Updated] Expert's Choice Best VR Handh Written by Assistant</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-the-ultimate-tool-for-video-cuts-full-review-of-vivacut-24-edition/"><u>[Updated] In 2024, The Ultimate Tool for Video Cuts Full Review of VivaCut '24 Edition</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-honor-magic-5-pro-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Honor Magic 5 Pro Activity | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-no-signal-or-missing-picture-display-on-your-screen-a-comprehensive-guide/"><u>How to Repair 'No Signal' Or Missing Picture Display on Your Screen - A Comprehensive Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-unlock-and-fix-safe-operational-outlook-issues/"><u>How To Unlock and Fix Safe Operational Outlook Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/maintain-disk-space-utilize-automatic-deletion-in-windows-11/"><u>Maintain Disk Space: Utilize Automatic Deletion in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/secure-your-windows-interface-personalized-pin-design-process/"><u>Secure Your Windows Interface: Personalized Pin Design Process</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-terminals-treasure-chest-unveil-five-hidden-gems/"><u>The Terminal's Treasure Chest: Unveil Five Hidden Gems</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-writing-helpers-to-transform-your-windows-experience/"><u>Top Writing Helpers to Transform Your Windows Experience</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/winx-dvd-digiarty-faq/"><u>WinX DVDソフトウェア - Digiartyの一般的な疑問点: FAQ解決</u></a></li>
+</ul></div>
+

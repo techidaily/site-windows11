@@ -1,7 +1,7 @@
 ---
 title: Overcoming One-Way Outlook on Safe Windows Mode
-date: 2024-08-08T06:14:01.543Z
-updated: 2024-08-09T06:14:01.543Z
+date: 2024-12-03T22:00:45.866Z
+updated: 2024-12-10T20:13:34.115Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/a6fbcf7b87c69b74abd8f2d894637274c942b2c57
 
  In this guide, we've put together a few troubleshooting tips that'll restore the Outlook app to normalcy.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Disable Outlook Add-Ins
 
  Although Outlook add-ins can be useful, they may not always function properly. It’s possible that a conflicting add-in is causing Outlook to open in safe mode repeatedly. To check for this possibility, you can disable all your add-ins and then try to open the Outlook app again.
@@ -35,16 +32,10 @@ To disable add-ins in Outlook:
 4. Click the**Go** button next to**COM Add-ins** .
 5. Clear all the checkboxes to disable your add-ins.
 6. Click**OK** to save changes.  
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Disable Outlook Add-Ins-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-outlook-add-ins-1.jpg)
 
  Restart the Outlook app after this and see if it opens in normal mode. If this solves your problem, it means the add-in which was causing the problem got disabled. To identify it, you can re-enable your add-ins one at a time until the problem occurs again. Once you've identified the problematic add-in, you may want to remove it to avoid such issues in the future.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ## 2\. Reset Outlook Navigation Pane
 
  With Microsoft Outlook, you can customize the navigation pane to easily access different parts of the app. However, a startup issue with the navigation pane can sometimes force Outlook to open in safe mode only. You can try resetting Outlook’s navigation pane and see if that fixes the issue.
@@ -52,6 +43,10 @@ To disable add-ins in Outlook:
 1. Press**Win + R** to the Run dialog box.
 2. Type**outlook.exe /resetnavpane** in the Open field and press**Enter** .  
 ![Reset Navigation Pane in Outlook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reset-navigation-pane-in-outlook.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Run the Outlook Inbox Repair Tool
 
@@ -64,19 +59,17 @@ To disable add-ins in Outlook:
 `C:\Users\*username*\AppData\Local\Microsoft\Outlook`  
  Make sure you replace**\*username\*** in the above path with your own username.
 5. Select the profile you want to repair and then click**Start** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Outlook Inbox Repair Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/outlook-inbox-repair-tool.jpg)
 
  After the scan is complete, restart the Outlook app and check if the issue is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Run the Program Compatibility Troubleshooter
 
  Running the program compatibility troubleshooter can help Windows detect and fix any issues that may have been preventing Outlook from opening in normal mode. Hence, it's a good idea to run this troubleshooter. If you need help with that, check our guide on[different ways to run the Program Compatibility troubleshooter on Windows](https://www.makeuseof.com/run-program-compatibility-troubleshooter-windows/) and follow your preferred method to fix compatibility issues with the Outlook app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Create a New Outlook Profile
 
@@ -93,6 +86,14 @@ To create a new Outlook profile:
 7. In the**Add Account** window, enter your account details and hit**Next** .
 8. After creating your profile, select it under**When starting Microsoft Outlook** and hit**Apply** .  
 ![Create New Outlook Profile-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/create-new-outlook-profile-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Update the Outlook App
 
@@ -116,10 +117,11 @@ To run the Office repair tool on Windows:
 4. Select**Microsoft Office** on the list and click the**Change** button at the top.
 5. Select the**Quick Repair** option.
 6. Click the**Repair** button.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![Repair Microsoft Office](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/repair-microsoft-office.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Wait for the repair tool to apply the fixes and see if that helps. If the problem persists, repeat the above steps to perform an**Online Repair** . This process may take longer, but it’s most likely to resolve the issue.
 
@@ -129,21 +131,15 @@ To run the Office repair tool on Windows:
 
  If you need help installing the latest updates, check our guide to learn[different ways to update Windows manually](https://www.makeuseof.com/update-windows-manually/) and follow the steps outlined there.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Start Using Outlook Again on Windows
 
  Such issues with the Outlook app can stifle your productivity and leave you frustrated. Hopefully, one of the above fixes has got Outlook to open in normal mode, and you are able to resume your work.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -152,4 +148,16 @@ To run the Office repair tool on Windows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-step-by-step-guide-to-crafting-unique-iphone-tones-for-2024/"><u>[New] Step-by-Step Guide to Crafting Unique iPhone Tones for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-decoding-macbook-airs-screen-capture-a-detailed-walkthrough-guide/"><u>[Updated] Decoding MacBook Air's Screen Capture A Detailed Walkthrough Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-repairing-the-pc-setup-did-not-complete-successfully-message-on-your-windows-11-device/"><u>Expert Tips for Repairing the 'PC Setup Did Not Complete Successfully' Message on Your Windows 11 Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/proven-strategies-to-enhance-wireless-and-cable-networks-on-windows/"><u>Proven Strategies to Enhance Wireless and Cable Networks on Windows</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/securing-photo-libraries-without-copyright-notices/"><u>Securing Photo Libraries Without Copyright Notices</u></a></li>
+<li><a href="https://windows11.techidaily.com/staying-current-the-impact-of-additional-yearly-patches-on-your-pc/"><u>Staying Current: The Impact of Additional Yearly Patches on Your PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-saving-your-personalized-powertoys-profile/"><u>Steps for Saving Your Personalized PowerToys Profile</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-for-stifling-random-cmd-entrance/"><u>Techniques for Stifling Random CMD Entrance</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/winx-dvd-ripper-free-effortless-conversion-from-dvd-to-mp4-top-rated-lightning-fast-video-backup-software/"><u>WinX DVD Ripper Free: Effortless Conversion From DVD to MP4 - Top-Rated, Lightning-Fast Video Backup Software</u></a></li>
+</ul></div>
 

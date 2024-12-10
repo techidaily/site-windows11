@@ -1,7 +1,7 @@
 ---
 title: Innovative Windows 11 Disk Space Strategies Without Deleting Files (Max 156 Chars)
-date: 2024-11-29T21:53:47.557Z
-updated: 2024-12-04T03:49:30.287Z
+date: 2024-12-07T19:51:15.859Z
+updated: 2024-12-10T22:02:50.040Z
 tags:
   - windows10
   - windows11
@@ -31,11 +31,11 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 
 ![The Compress this drive to save disk space checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/compress-this-drive-to-save-space-option.jpg)
 
- Exactly how much drive space NTFS compression will free up can be variable. If you have many uncompressed user document files on your drive, then NTFS will likely free up at least a few gigabytes of storage space. However, this compression won’t free up so much space if there aren’t many user files on your PC’s drive. The only way to find out is to try it on at least one large folder.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Exactly how much drive space NTFS compression will free up can be variable. If you have many uncompressed user document files on your drive, then NTFS will likely free up at least a few gigabytes of storage space. However, this compression won’t free up so much space if there aren’t many user files on your PC’s drive. The only way to find out is to try it on at least one large folder.
 
 ## 2\. Disable System Restore
 
@@ -48,12 +48,12 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 ![The Configure button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-configure-button.jpg)
 5. Click the **Disable system protection** option.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Disable system protection radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-system-protection-option.jpg)
 6. Select **Apply** to save the system protection settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7. Click the System Protection window’s **OK** option.
 
@@ -70,18 +70,22 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 ![The video format selection options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-video-selection-option.jpg)
 3. Select the format of your current video files.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click **Choose File** \> **From Device** to select one or more videos to convert.  
 ![The Choose File button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/from-a-device-option.jpg)
 5. Press **Open** to add the selected videos.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Click **Start** to convert the video to MP4\.
 7. Select **Download** to save the converted MP4 videos.
 
  Also, check out some of the options for converting to MP4 within the Online-Convert video conversion tool. You can select from a wide variety of video presets by clicking the **Choose a preset** drop-down menu. Further down, there’s a **Set file size** option in which you can input a target size value for the converted video.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Convert Your Saved Image Files Into the JPG Format
 
@@ -92,7 +96,7 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 ![The image format conversion web app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/image-format-conversion-tool.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Reduce the Recycle Bin’s Size
@@ -107,6 +111,10 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 ![The Custom size radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-custom-size-option.jpg)
 4. Click **Apply** and **OK** in the Recycle Bin Properties window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Create ZIP Archives for Storing Files
 
  ZIP is an archive format that compresses files included in it. ZIP archives are like compressed folders from which you can easily access their contents when needed. Archiving lots of user files lying around on your hard drive within ZIPs will free up drive space. Creating ZIP archives with many videos and images in them could free up lots of drive space.
@@ -114,10 +122,6 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
  Windows 11 includes options for creating ZIP archives. You can set up a ZIP with one of the six methods in our article about [creating ZIP files on Windows](https://www.makeuseof.com/easy-ways-create-zip-file-windows-10/). If you ever need to access an archive’s contents, check out this guide to [unzipping ZIP files](https://www.makeuseof.com/unzip-files-windows-10/).
 
 ![The Compress to ZIP file option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/compress-to-zip-file-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Save Files to a Cloud Storage Service
 
@@ -127,10 +131,6 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 
 ![Google Drive cloud storage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/google-drive-storage.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Utilize Third-Party Web Apps and Portable Programs
 
  Installing more software packages consumes the most space on your PC’s C: drive. You can save C: drive space by utilizing the many freely available web apps instead of installing desktop software.
@@ -139,13 +139,13 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 
 ![The Google DOCs web app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/google-docs.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Utilizing portable apps is another good way to save drive space, because you don't need to install them. You can even run the portable apps from a USB stick instead of your PC’s local drive. To do so, download the files for portable app versions to your USB stick from their websites.
 
  You can also [add a portable app menu to Windows 11](https://www.makeuseof.com/windows-add-portable-software-menu/#) with software like LiberKey and SyMenu. The [PortableApps](https://portableapps.com/) program also enables you to install and access many portable apps from a dedicated menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Free Up Your Windows Drive Space Without Deleting a Thing
 
@@ -165,18 +165,15 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-expert-tips-for-creating-dynamic-youtube-splits/"><u>[New] In 2024, Expert Tips for Creating Dynamic YouTube Splits</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-smirk-spectacle-catching-the-funniest-twitter-talents/"><u>[New] Smirk Spectacle Catching the Funniest Twitter Talents</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-natures-canvas-a-variety-of-downloads-to-enhance-cinematic-work-for-2024/"><u>[Updated] Nature’s Canvas A Variety of Downloads to Enhance Cinematic Work for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/all-inclusive-tutorial-setting-up-your-latest-ipad-device-based-expert-advice/"><u>All-Inclusive Tutorial: Setting Up Your Latest iPad Device Based Expert Advice</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-outlooks-restricted-folder-access-on-desktop-computers/"><u>Fixing Outlook's Restricted Folder Access on Desktop Computers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/funny-photos-for-iphones/"><u>Funny Photos for IPhones</u></a></li>
-<li><a href="https://games-able.techidaily.com/govee-unveils-enhanced-artificial-intelligence-sync-gadgets-for-gamers-featuring-dynamic-neon-rope-lighting-options/"><u>Govee Unveils Enhanced Artificial Intelligence Sync Gadgets for Gamers, Featuring Dynamic Neon Rope Lighting Options</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-discrepancy-in-windows-11s-power-life-predictor/"><u>Overcoming Discrepancy in Windows 11'S Power Life Predictor</u></a></li>
-<li><a href="https://windows11.techidaily.com/safe-journey-in-windows-11-the-top-8-slippery-slope/"><u>Safe Journey in Windows 11: The Top 8 Slippery Slope</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transform-your-videos-with-manycam-the-ultimate-livestream-and-online-webcam-tool/"><u>Transform Your Videos with ManyCam: The Ultimate Livestream and Online Webcam Tool!</u></a></li>
-<li><a href="https://windows11.techidaily.com/upgrade-video-quality-from-yesteryears-using-madvr-windows-edition/"><u>Upgrade Video Quality From Yesteryears Using MadVR, Windows Edition</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/walmarts-ultimate-christmas-and-festive-season-offers-the-most-exciting-discounts-to-shop-this-year/"><u>Walmart's Ultimate Christmas and Festive Season Offers: The Most Exciting Discounts to Shop This Year!</u></a></li>
-<li><a href="https://windows11.techidaily.com/winning-the-game-of-cutting-top-8-video-edits-for-pc/"><u>Winning the Game of Cutting: Top 8 Video Edits for PC</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/niversal-youtube-guidelines-and-expectations-for-2024/"><u>[New] Universal YouTube Guidelines and Expectations for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-a-critique-of-dogmatism/"><u>[Updated] 2024 Approved A Critique of Dogmatism</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-zero-cost-expertise-in-analyzing-youtube-videos-frame-by-frame/"><u>[Updated] 2024 Approved Zero-Cost Expertise in Analyzing YouTube Videos Frame by Frame</u></a></li>
+<li><a href="https://windows11.techidaily.com/1720600438278-windowsstellar-data-recovery/"><u>「Windowsで失われたファイルを取り戻せる無料ソフトStellar Data Recovery」</u></a></li>
+<li><a href="https://win-studio.techidaily.com/efficiently-solving-pc-hardware-problems-via-the-control-panel-expert-tips-from-yl-computing/"><u>Efficiently Solving PC Hardware Problems via the Control Panel - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://windows11.techidaily.com/find-your-windows-11-backdrops-saving-spot/"><u>Find Your Windows 11 Backdrop's Saving Spot</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-an-incorrect-cpu-usage-in-the-windows-task-manager/"><u>How to Fix an Incorrect CPU Usage in the Windows Task Manager</u></a></li>
+<li><a href="https://windows11.techidaily.com/pro-tips-for-buying-windows-11-vcs/"><u>Pro Tips for Buying Windows 11 VCs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/quickly-reveal-your-windows-11-desktop-essential-tips-and-shortcuts-for-efficiency/"><u>Quickly Reveal Your Windows 11 Desktop: Essential Tips and Shortcuts for Efficiency</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/understanding-the-different-varieties-of-sql-server-backups-and-their-creation-processes/"><u>Understanding the Different Varieties of SQL Server Backups & Their Creation Processes</u></a></li>
 </ul></div>
 

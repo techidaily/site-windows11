@@ -1,7 +1,7 @@
 ---
 title: "Reviving BIOS Secure Boot: A Step-by-Step Guide for Windows Users"
-date: 2024-11-29T17:56:46.456Z
-updated: 2024-12-03T19:09:52.847Z
+date: 2024-12-09T21:45:01.772Z
+updated: 2024-12-10T22:01:42.963Z
 tags:
   - windows10
   - windows11
@@ -42,6 +42,11 @@ To set an administrator password in BIOS:
 6. Press**Enter** to save the password.  
 ![bios set administrator password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bios-set-administrator-password.jpg)
 7. Next, press**F10** to save the changes and exit**BIOS** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Boot into**BIOS** again, and**Secure Boot** should be available for use.
 
  You can remove the administrator password after enabling Secure Boot. To do this, open the**Security** tab in BIOS and select**Administrator Password** . Next, enter your administrator password, but leave the**Enter New Password** and**Confirm New Password** fields blank. Press**Enter** again to save the changes.
@@ -64,6 +69,10 @@ To disable fast boot in BIOS:
 6. Press**F10** to save the changes and exit.
 7. After the computer restarts, boot into BIOS to see if you can access Secure Boot.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Restore the BIOS Security Settings to Factory Defaults
 
  You can restore BIOS security settings to factory defaults to enable secure boot. If you have made major changes to the BIOS security settings, a reset will remove the custom configuration and restore the factory default security settings. Most BIOS utilities allow you to perform a restore in the BIOS Security tab.
@@ -76,27 +85,19 @@ To restore BIOS Security settings to factory defaults:
 ![restore bios factory settings default](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restore-bios-factory-settings-default.jpg)
 4. Read the description in the**Security Feature Reset Request** dialog. Here you'll need to enter a pass code to complete the reset request.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. So, enter the shown**pass code** and press**Enter** .  
 ![restore bios factory settings default pass code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restore-bios-factory-settings-default-pass-code.jpg)
 6. Press**F10** to save the changes and exit**BIOS** .
 
-7. Boot into BIOS again and check if the greyed-out secure boot problem is resolved.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+7. Boot into BIOS again and check if the greyed-out secure boot problem is resolved.
 
 ## 4\. Update BIOS
 
 ![system information bios version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-information-bios.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If the issue persists, your problem may be due to outdated BIOS firmware. While you don't need to update your system BIOS as frequently, the newer version tends to bring bug fixes, performance improvements, and newer hardware support.
 
@@ -112,10 +113,6 @@ To restore BIOS Security settings to factory defaults:
 
 ![HP download bios firmware update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/hp-download-bios-firmware-update.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Alternatively, you can also manually install BIOS from within Windows. For example, on an HP computer, go to the[HP Drivers page](https://support.hp.com/drivers) . Select your device manually or let the website detect the device for you.
 
  Next, check for the pending drivers and BIOS updates. If detected, download the HP Notebook System BIOS Update (Intel / AMD Processors). Make sure to compare the version with the version installed on your PC. If same or older, you don't need to update your BIOS.
@@ -123,7 +120,7 @@ To restore BIOS Security settings to factory defaults:
  To update BIOS, run the firmware file and follow the on-screen instructions. Your computer will restart into the BIOS Update utility. Select**Apply Update Now** and wait for the update to finish installing. Once done, boot into BIOS and check if the Secure Boot option is available. Make sure to enable your antivirus and BitLocker protection again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Load the BIOS Defaults Settings
@@ -139,6 +136,10 @@ To load BIOS defaults settings:
 3. Select**Yes** and press**Enter** . This will load setup default values for all SETUP items.
 4. Select**Save Changes** and**Exit** .
 5. Boot into**BIOS** again and check if the secure boot option is restored.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixing the Grayed Out Secure Boot Option in BIOS
 
@@ -159,21 +160,17 @@ To load BIOS defaults settings:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-expert-tips-on-ipad-screen-casts/"><u>2024 Approved Expert Tips on iPad Screen Casts</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-strategy-for-developing-and-managing-youtube-collaborations/"><u>2024 Approved The Ultimate Strategy for Developing & Managing YouTube Collaborations</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ver-9-easy-no-cost-editing-software-options-for-2024/"><u>Discover 9 Easy, No-Cost Editing Software Options for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/escalating-frames-per-second-fps-a-guide-to-superior-play-in-tainted-grail-conquest/"><u>Escalating Frames Per Second (FPS) - A Guide to Superior Play in 'Tainted Grail: Conquest'</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixes-for-corrupted-files-in-windows-10-and-11/"><u>Fixes for Corrupted Files in Windows 10 and 11</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-on-apple-iphone-8-plus-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock On Apple iPhone 8 Plus Online</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-getting-acquainted-with-picsarts-latest-a-comprehensive-guide-and-review/"><u>In 2024, Getting Acquainted with PicsArt's Latest - A Comprehensive Guide and Review</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-step-by-step-on-streaming-google-meet-directly-to-youtube-channel/"><u>In 2024, Step by Step on Streaming Google Meet Directly to YouTube Channel</u></a></li>
-<li><a href="https://windows11.techidaily.com/restoring-functionality-in-windows-services-explorer-with-these-7-steps/"><u>Restoring Functionality in Windows Services Explorer with These 7 Steps</u></a></li>
-<li><a href="https://windows11.techidaily.com/seamless-play-eradicating-xbox-service-block/"><u>Seamless Play: Eradicating Xbox Service Block</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/solving-the-problem-of-itunes-failing-to-connect-with-an-iphone-understanding-and-addressing-invalid-responses/"><u>Solving the Problem of iTunes Failing to Connect with an iPhone - Understanding and Addressing Invalid Responses</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-for-correcting-windows-backup-defaults/"><u>Steps for Correcting Windows Backup Defaults</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-for-rectifying-c0000005-on-windows-7vista/"><u>Strategies for Rectifying C0000005 on Windows 7/Vista</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-windows-security-hurdles-with-precision-and-care/"><u>Tackling Windows Security Hurdles with Precision & Care</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-best-note-taking-solutions-for-efficient-learning-our-picks/"><u>The Best Note-Taking Solutions for Efficient Learning - Our Picks</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-ways-to-resolve-black-screens-in-win1111-pro/"><u>Top Ways to Resolve Black Screens in Win11/11 Pro</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/1716194732460-updated-in-2024-how-to-post-a-vimeo-video-on-instagram/"><u>[Updated] In 2024, How to Post a Vimeo Video on Instagram?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-recover-elusive-facebook-watch-video-icon/"><u>[Updated] In 2024, Recover Elusive Facebook Watch Video Icon</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/fine-tuning-fade-effects-in-music-software/"><u>Fine-Tuning Fade Effects in Music Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-recover-and-reset-itunes-when-its-not-working/"><u>How to Recover and Reset iTunes When It's Not Working</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/innovative-interfaces-windows-following-11/"><u>Innovative Interfaces: Windows Following 11</u></a></li>
+<li><a href="https://win11.techidaily.com/reactivating-stuck-grammarly-service-a-guide-for-windows-users/"><u>Reactivating Stuck Grammarly Service: A Guide for Windows Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solutions-to-resolve-missing-msvcr80dll-issue-on-your-computer/"><u>Solutions to Resolve 'Missing msvcr80.dll' Issue on Your Computer</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-your-files-in-win-11-with-context-menu-enhancements/"><u>Streamline Your Files in Win 11 with Context Menu Enhancements</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-best-free-desktop-pass-gen-software/"><u>The Ultimate Guide to Best Free Desktop Pass Gen Software</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/the-ultimate-list-of-kung-fu-video-games/"><u>The Ultimate List of Kung Fu Video Games</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/which-ai-programmer-partner-wins-github-copilot-or-gpt-3/"><u>Which AI Programmer Partner Wins? GitHub Copilot or GPT-3?</u></a></li>
 </ul></div>
 

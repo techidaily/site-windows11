@@ -1,7 +1,7 @@
 ---
 title: "The Easy Way Out: Windows 11'S Silencing Methods"
-date: 2024-08-15T16:20:57.448Z
-updated: 2024-08-16T16:20:57.448Z
+date: 2024-12-05T18:01:33.143Z
+updated: 2024-12-10T16:30:30.405Z
 tags:
   - windows10
   - windows11
@@ -39,9 +39,9 @@ thumbnail: https://thmb.techidaily.com/c64aba238bf38e8dde6a455b091ef6dd75fa774a2
 ## 2\. How to Shut Down Windows 11 With Your PC's Power Button
 
 ![windows power button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/windows-power-button.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also quickly shut down your PC by hitting the power button. No need to hold it down, as doing that will trigger a forced shutdown; a single press should do.
@@ -55,8 +55,9 @@ The ultimate burning program for all your needs!</a>
  Once done, go to **Power Options > Choose what the power buttons do > When I press the power button** and ensure this is set to "Shut down."
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Use the Alt + F4 Shortcut to Shut Down Windows 11
 
  Don’t like to follow the long-winded method and procedures? We don’t either. Thankfully, someone at Microsoft understood this as well.
@@ -73,18 +74,6 @@ The ultimate burning program for all your needs!</a>
 
  As soon as you select shut down, your Windows 11 will turn off.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Shut Down Windows 11 via the Command Prompt
 
  Not a fan of GUI? No problem, we'd understand. Plenty of people like to get their hands dirty with the [Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) for the control it gives to the users. Interestingly, you can also use it to shut down your Windows 11\.
@@ -95,15 +84,16 @@ The ultimate burning program for all your needs!</a>
 
  Your Windows 11 will shut down a few seconds after this.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Use CTRL + Alt + Delete to Shut Down Your Windows 11 PC
 
  Another shortcut on our list, you can also try the **Ctrl + Alt + Delete** shortcut to turn off your PC; it's one of the many [shortcuts to shut down or put your PC to sleep](https://www.makeuseof.com/tag/how-to-shutdown-or-sleep-windows-10-with-a-keyboard-shortcut/).
 
  First, press the keys together to open the options screen. From there, click on the **Power** button in the lower-right corner, and then click on the **Shut down** option. Your PC will shut down normally, just as in other methods.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Turn Off Your Windows 11 With PowerShell
 
  You can think of PowerShell as a more complex version of Cmd. While the Command prompt gives you a nice command line interface, with PowerShell you can manage and carry out a host of administrative commands.
@@ -116,8 +106,9 @@ The ultimate burning program for all your needs!</a>
 ![powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/powershell.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Use the Run Dialog Box
 
  Another alternate way to shut down your Windows 11 is through the Run dialog box. Follow the below steps:
@@ -128,19 +119,15 @@ shutdown /s /f /t 0
 
  That’s it—as soon as you enter the above command, your computer will be turned off immediately.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9\. Shut Down Your Windows 11 From the Lock Screen
 
  Lock Screen was introduced with Windows 8 and has since been a regular on the Windows OS. If you leave your computer idle for a specific period of time (and you can [customize how your Windows Lock Screen](https://www.makeuseof.com/windows-11-customize-lock-screen/) operates), it will lock your PC automatically. From there, depending on your settings you might have to enter your password to log back in.
 
  Apart from the obvious privacy benefits, you can also shut down your PC through the Lock Screen itself. To do that, click on the **Power** icon from the bottom-right corner and select **Shutdown**. That's it—your Windows 11 will turn off instantly after this.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## There Are Many Ways to Shut Down Windows 11
 
@@ -148,11 +135,30 @@ shutdown /s /f /t 0
 
  So let’s go over all the ways to shut down Windows 11, from the familiar to the new.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-prime-asmr-apps-android-and-ios-guide/"><u>[Updated] Prime ASMR Apps Android & iOS Guide</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-10-best-tiktok-filters-to-make-your-videos-stand-out/"><u>2024 Approved 10 Best TikTok Filters to Make Your Videos Stand Out</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/clear-water-footage-pro-techniques-for-gopro-underwater-scenes/"><u>Clear Water Footage Pro Techniques for GoPro Underwater Scenes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/driver-recovery-achieved-nvidia-display-stable/"><u>Driver Recovery Achieved - Nvidia Display Stable</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-vanished-discs-solve-optical-drive-woes-in-win11/"><u>Fix Vanished Discs: Solve Optical Drive Woes in Win11</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/how-can-i-determine-if-someone-has-accessed-my-gmail-account-illegally-discover-the-signs-and-follow-our-step-by-step-guide/"><u>How Can I Determine If Someone Has Accessed My Gmail Account Illegally? Discover the Signs & Follow Our Step-by-Step Guide!</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-failed-to-launch-lunar-client-error-on-windows/"><u>How to Fix the “Failed to Launch Lunar Client” Error on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-set-up-troubleshooter-shortcuts-in-windows-10-and-11/"><u>How to Set Up Troubleshooter Shortcuts in Windows 10 & 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Asus ROG Phone 7? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/inside-look-7-windows-activities-harboring-risks/"><u>Inside Look: 7 Windows Activities Harboring Risks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/iphoneandroidtiktok/"><u>IPhone/Android専用：スムーズなTikTok投稿保存とダウンロードの手順</u></a></li>
+<li><a href="https://windows11.techidaily.com/leveraging-microsoft-code-companion-for-programmers/"><u>Leveraging Microsoft Code Companion for Programmers</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-customization-in-windows-11s-settings/"><u>Mastering Customization in Windows 11'S Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fix-guide-for-flaky-windows-scheduled-jobs/"><u>Quick-Fix Guide for Flaky Windows Scheduled Jobs</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-major-windows-11-webcam-glitches-a-comprehensive-guide/"><u>Resolving Major Windows 11 Webcam Glitches: A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-network-sets-higher-barrier-against-fake-news-truths/"><u>Social Network Sets Higher Barrier Against Fake News Truths</u></a></li>
+</ul></div>
+

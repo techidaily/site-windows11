@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: How to Correct Windows 11'S Keyboard Type Trouble (Code: 0X80049DD3)"
-date: 2024-08-08T06:14:07.558Z
-updated: 2024-08-09T06:14:07.558Z
+date: 2024-12-09T16:36:22.286Z
+updated: 2024-12-10T16:43:31.495Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/f61e0cf06b5f94c52331e7280bfea34d0fc7a11fe
 
  As a result, users can’t input text with voice typing. Sure, you can always use your keyboard for word processing; but those who need to fix this issue no doubt prefer speech-to-text dictation. This is how you can fix the 0x80049dd Voice Typing error in Windows 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Run the Recording Audio and Speech Troubleshooters
 
  Windows 11 includes two troubleshooters that could come in handy for fixing the 0x80049dd3 error. The Recording Audio troubleshooter can resolve sound recording issues. Or you can try running the Speech troubleshooter, which is a slightly more specific one for fixing microphone-related errors. You can open the recording troubleshooting tool in the following steps:
@@ -27,9 +31,6 @@ thumbnail: https://thmb.techidaily.com/f61e0cf06b5f94c52331e7280bfea34d0fc7a11fe
 1. Bring up Windows 11’s Settings app by selecting it in the Start menu.
 2. Scroll down the**System** tab and click**Troubleshoot** .
 3. Next, click**Other trouble-shooters** to view that part of Settings.  
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![The Run button for the Recording Audio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/run-button-for-recording-audio.jpg)
 4. Select the Recording Audio troubleshooter’s**Run** option.  
 ![The Run button for the Recording Audio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/run-button-for-recording-audio.jpg)
@@ -47,10 +48,16 @@ thumbnail: https://thmb.techidaily.com/f61e0cf06b5f94c52331e7280bfea34d0fc7a11fe
 7. Select**Speech** to open it.  
 ![The troubleshooting list in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-troubleshooter-list-in-control-panel.jpg)
 8. Press the Speech troubleshooter’s**Next** button to detect and fix issues.  
+
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![The Speech troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-speech-troubleshooter.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Check for Windows 11 Updates
 
@@ -65,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/f61e0cf06b5f94c52331e7280bfea34d0fc7a11fe
 ![The Download & install button for optional updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-download--install-button.jpg)
 6. Then select the checkboxes for updates listed there, and click the**Download and install** options.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Check the Settings for Your Microphone
 
  Windows 11’s Settings app includes microphone access options that need to be enabled for voice typing to work. Double-check that microphone access is enabled for all apps you want to utilize for voice typing. This is how you can enable mic access in Windows 11:
@@ -72,23 +83,14 @@ thumbnail: https://thmb.techidaily.com/f61e0cf06b5f94c52331e7280bfea34d0fc7a11fe
 1. Open up Settings from the Start menu or with that app’s**Windows** +**I** keyboard shortcut.
 2. Then select**Privacy & security** in Settings.
 3. Next, click the**Microphone** navigation option.  
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![The Microphone navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/microphone-navigation-option.jpg)
 4. Toggle on the**Microphone access** option if it is disabled.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![The microphone access settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/microphone-access-settings.jpg)
 5. Turn on the**Let apps access your microphone** setting.
 6. Make sure the microphone access options for all apps you need to utilize the mic with are turned on.
 
  It’s also recommended to try setting up the mic again from Settings. To do that, select**Speech** on the**Time & language** tab in Settings. Click the**Get started** button for setting up Microphone speech recognition. Then go through the setup instructions.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Update the Driver for Your Microphone
 
  You might need to fix error 0x80049dd3 because your PC’s microphone has an outdated or corrupted driver. An easy way to check if that’s the case is to run a scan with a third-party tool like Driver Booster.
@@ -105,30 +107,27 @@ thumbnail: https://thmb.techidaily.com/f61e0cf06b5f94c52331e7280bfea34d0fc7a11fe
 2. Next, click the**Accounts** tab.
 3. Select the**Family & other users** navigation option.
 4. Click**Add account** for the**Add other user** option.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Add account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-add-account-button.jpg)
 5. Select the **I don’t have this person’s sign-in information** option on the Microsoft account window.  
 ![The I don't have this person's sign-in information option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-i-dont-have-sign-in-information-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Next, click**Add a user** without a Microsoft account.
 2. Fill in the user account name and password boxes.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![The username and password account fields](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-user-account-fields.jpg)
 3. Select**Next** to set up the account.
 4. Click the new account’s down arrow in Settings to expand it.
 5. Press the**Change account type** button for your new account.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Change account type button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-change-account-type-option.jpg)
 6. Select the**Administrator** option on the Change account type window, and click**OK** to save.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![The Administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-administrator-option.jpg)
 7. Sign out of Windows 11 and log in to the newly created user account.
 8. Try using voice typing in your new user account.
@@ -137,9 +136,6 @@ thumbnail: https://thmb.techidaily.com/f61e0cf06b5f94c52331e7280bfea34d0fc7a11fe
 
 `C:\Users\<Old_Username>\nC:\Users\<New_Username>`
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## 6\. Reset Your Network Connection
 
  Network connectivity issues are another potential cause for error 0x80049dd3\. So, resetting network components could help some users resolve this issue. You can reset your network adapter via Settings in the following steps:
@@ -148,12 +144,18 @@ thumbnail: https://thmb.techidaily.com/f61e0cf06b5f94c52331e7280bfea34d0fc7a11fe
 2. Select the**Advanced network settings** navigation option.
 3. Click**Network reset** to proceed.
 4. Select the**Network reset** option, and click**Yes** to confirm.  
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Reset now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-reset-now-option.jpg)
 5. Restart Windows 11 after resetting the network.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Then you’ll need to reconnect your PC to the internet.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get Voice Typing Again on Windows 11
 
@@ -165,8 +167,6 @@ thumbnail: https://thmb.techidaily.com/f61e0cf06b5f94c52331e7280bfea34d0fc7a11fe
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -174,4 +174,23 @@ thumbnail: https://thmb.techidaily.com/f61e0cf06b5f94c52331e7280bfea34d0fc7a11fe
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-acknowledging-talent-free-to-own-outro-templates/"><u>[Updated] In 2024, Acknowledging Talent Free-to-Own Outro Templates</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-productivity-masterful-windows-shortcuts-guide/"><u>Boosting Productivity: Masterful Windows Shortcuts Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/cease-windows-tally-of-new-software-activities/"><u>Cease Windows' Tally of New Software Activities</u></a></li>
+<li><a href="https://blog-min.techidaily.com/converta-flac-para-mkv-online-e-gratuito-atraves-do-servico-de-conversao-do-movavi/"><u>Converta FLAC Para MKV Online E Gratuito Através Do Serviço De Conversão Do Movavi!</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-laptops-screen-with-yellowish-discoloration/"><u>Correcting Laptop's Screen with Yellowish Discoloration</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-prevent-your-devices-from-dozing-off-in-windows-11/"><u>How to Prevent Your Devices From Dozing Off in Windows 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-moto-g14-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto G14 Phone without Google Account?</u></a></li>
+<li><a href="https://windows11.techidaily.com/introducing-the-widget-toolbar-features-for-win11-users/"><u>Introducing the Widget Toolbar Features for Win11 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-windows-passcode-alterations-effortlessly/"><u>Navigating Windows Passcode Alterations Effortlessly</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/offizielle-winx-dvd-ripper-goldcode-fur-profis-aktionstage-mit-ersparnissen-und-sonderangeboten/"><u>OFFIZIELLE WINX DVD-Ripper Goldcode Für Profis - Aktionstage Mit Ersparnissen Und Sonderangeboten</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/online-free-conversion-of-mov-zu-flac-professionelle-dienstleistung-von-movavi/"><u>Online FREE Conversion of MOV Zu FLAC - Professionelle Dienstleistung Von Movavi</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/online-kostenloos-konvertierung-von-mp4-in-wav-mit-movavi-fietsen-sie-zwischen-formaten-frei-herum/"><u>Online Kostenloos Konvertierung Von MP4 in WAV Mit Movavi - Fietsen Sie Zwischen Formaten Frei Herum!</u></a></li>
+<li><a href="https://windows11.techidaily.com/simplify-system-upkeep-automatic-driver-replacement-for-amd/"><u>Simplify System Upkeep: Automatic Driver Replacement for AMD</u></a></li>
+<li><a href="https://fox-links.techidaily.com/swap-periscope-for-success-best-replacements-for-iphoneandroid-for-2024/"><u>Swap Periscope for Success Best Replacements for iPhone/Android for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-your-nvidia-drivers-today-step-by-step-instructions-for-safe-downloads/"><u>Update Your NVIDIA Drivers Today – Step-by-Step Instructions for Safe Downloads</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-wireless-keyboard-issues-heres-what-you-can-do/"><u>Windows Wireless Keyboard Issues? Here's What You Can Do</u></a></li>
+</ul></div>
 

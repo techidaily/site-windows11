@@ -1,7 +1,7 @@
 ---
 title: "Quick Tips: Reactivate Your Calendar & Mail on W11"
-date: 2024-08-15T16:19:01.028Z
-updated: 2024-08-16T16:19:01.028Z
+date: 2024-12-07T19:19:37.720Z
+updated: 2024-12-10T20:28:55.370Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/9482ded5e871af812d18f96a64c4deb315943988e
 
  If this happens to you, check out these effective solutions to get Mail and Calendar back on track.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Is the Mail and Calendar App Not Opening on Windows 11?
 
  One of the primary reasons the Mail and Calendar app is inaccessible on Windows 11 is the corrupt system files. The issue can also occur due to outdated Windows versions and temporary app glitches.
@@ -27,8 +31,9 @@ thumbnail: https://thmb.techidaily.com/9482ded5e871af812d18f96a64c4deb315943988e
  Fortunately, it's very easy to troubleshoot the problem. Below are all the working fixes you can try in the situation.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Restart and Install Updates
 
  The best thing you can try to eliminate any Windows issue is to restart the computer. If the problem is caused due to a temporary Windows glitch, it will be fixed with a simple restart.
@@ -43,14 +48,6 @@ thumbnail: https://thmb.techidaily.com/9482ded5e871af812d18f96a64c4deb315943988e
 
  After updating to the latest OS version, check if you can open the app. If not, move on to the next solutions.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## 2\. Download the Latest Updates for Mail and Calendar
 
  Similar to Windows' own updates, an outdated Mail and Calendar app can also cause issues. Try updating the app to see if that fixes your problem.
@@ -66,9 +63,6 @@ Here's how to update Mail and Calendar on Windows 11.
 
  After updating the application, reboot the system and check for the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Run the Windows Store Apps Troubleshooter
 
  The Windows Store app troubleshooter is a built-in utility that solves issues revolving around UWP apps. It is the go-to option whenever a UWP app becomes inaccessible or crashes randomly.
@@ -93,19 +87,17 @@ Here's how to run the Windows Store Apps Troubleshooter.
 1. Open the Settings app and choose**Accounts** from the left sidebar.
 2. Choose the**Email & accounts** option under the**Account** **settings** .  
 ![Email & accounts option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/email-accounts.jpg)
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click the drop-down icon next to your email account and choose**Manage** from the menu that crops up.  
 ![Manage option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/manage-option.jpg)
 4. Choose the**Change mailbox sync settings** option.
 5. Click the drop-down icon under**Download new content** and choose**as items arrive** option.
 6. Enable the toggle under the**Email, Calendar** and**Contacts** options.  
 ![Gmail sync settings in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/gmail-sync-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Click**Done** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Change Mail and Calendar Privacy Settings
 
@@ -114,16 +106,18 @@ Here's how to run the Windows Store Apps Troubleshooter.
 1. In the Settings app, choose**Privacy & security** from the left sidebar.
 2. Under the**App permissions** section, click on the**Calendar** option.  
 ![Calendar option in Privacy & security window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/calendar-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 3. Enable the toggle next to**Mail and Calendar** .  
 ![Mail and Calendar toggle in Calendar window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/mail-and-calendar-toggle.jpg)
 4. Next, click on the**Email** option in the App permission section, and enable the toggle next to**Mail and Calendar** in the following window.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Repair the Mail and Calendar App
 
  Repairing the app is a textbook trick that is often recommended to troubleshoot any minor issue. We recommend trying this to fix the Mail and Calendar app as well.
@@ -138,11 +132,12 @@ Here are the steps to repair the Mail and Calendar app.
 6. Under the**Reset** section, click on**Repair.**  
 ![Mail and Calendar repair and reset screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Repair-Mail.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Windows will take a few seconds to repair the app. Once the process is complete, launch the Mail and Calendar, and check if you are still facing the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Clear Microsoft Store Cache
 
  A corrupt Microsoft Store cache is another cause of a malfunctioning Mail and Calendar app. As such, try clearing the Microsoft Store cache data and see if it fixes the issue.
@@ -155,8 +150,9 @@ Here's how to do it.
  Command Prompt will take a few seconds to execute the command. After that, the Microsoft Store will open automatically.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Whitelist Mail and Calendar on Windows Defender Firewall
 
  Windows Defender Firewall is a built-in Windows tool that makes sure that your system is free from viruses and malware. But at the same time, if Mail and Calendar is blocked under the Firewall settings, you will fail to access the app. You'll have to allow Mail and Calendar through the Firewall to fix the problem.
@@ -174,9 +170,6 @@ Here's how to do it.
 
  The third-party antivirus program can also cause the issue. Try to disable it and check if you can access the Mail and Calendar app.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 9\. Re-Register the Mail And Calendar App
 
  Re-registering the Mail and Calendar app is another solution you can try in this situation. This method solves issues that lead to inaccessibility and sudden application crashes.
@@ -188,6 +181,10 @@ Here's how to register the Mail and Calendar app.
 `Get-AppxPackage -allusers Microsoft.windowscommunicationsapps | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register &ldquo;$($_.InstallLocation)\AppXManifest.xml&rdquo;}`
 
  Wait until the command is executed. After that, reboot the system, and check for the problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Remove Corruption From Your Computer
 
@@ -222,14 +219,11 @@ Reboot the system once DISM finishes.
 
  It is pretty hard to pinpoint the exact reason behind the problem; thus, you might have to go through all the solutions to make the Mail and Calendar app accessible again. But if none of the solutions was helpful, you can consider using a third-party application.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -238,4 +232,24 @@ Reboot the system once DISM finishes.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-capture-perfection-at-home-these-are-the-best-5-filming-hacks/"><u>[New] In 2024, Capture Perfection at Home These Are the Best 5 Filming Hacks</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-utilizing-snap-camera-for-interactive-online-gatherings/"><u>[New] Utilizing Snap Camera for Interactive Online Gatherings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-8-virtual-spaces-for-3d-graffiti-fonts/"><u>2024 Approved Top 8 Virtual Spaces for 3D Graffiti Fonts</u></a></li>
+<li><a href="https://article-helps.techidaily.com/cutting-edge-review-updated-lg-flat-panel-tv-for-2024/"><u>Cutting-Edge Review Updated LG Flat Panel TV for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-strategies-for-winning-back-defective-windows-apps/"><u>Essential Strategies for Winning Back Defective Windows Apps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-black-desert-pc-crashes-expert-troubleshooting-tips/"><u>How to Fix Black Desert PC Crashes: Expert Troubleshooting Tips</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-google-pixel-8-pro-drfone-by-drfone-android/"><u>How to Screen Mirroring Google Pixel 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-moto-z2s-brainpower-examined-in-detail/"><u>In 2024, Moto Z2's Brainpower Examined in Detail</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-app-glitch-x80131500/"><u>Overcoming Windows App Glitch X80131500</u></a></li>
+<li><a href="https://windows11.techidaily.com/resetting-lost-web-interfaces-of-router-on-windows/"><u>Resetting Lost Web Interfaces of Router on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/solve-your-nvidia-scanner-trouble-in-windows-environment/"><u>Solve Your Nvidia Scanner Trouble in Windows Environment</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-steam-broadcast-glitches-in-windows/"><u>Solving Steam Broadcast Glitches in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/stalled-opera-install-windows-fix-guide/"><u>Stalled Opera Install? Windows Fix Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-permanently-start-windows-terminal-as-admin/"><u>Steps to Permanently Start Windows Terminal as Admin</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-chrome-cookie-and-cache-issues-for-download-problems-windows/"><u>Troubleshooting Chrome’ Cookie & Cache Issues for Download Problems, Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbelievable-value-high-performance-m3-macbook-pro-for-under-10k-the-ultimate-tech-find-on-zdnet/"><u>Unbelievable Value: High-Performance M3 MacBook Pro for Under $10K - The Ultimate Tech Find on ZDNet</u></a></li>
+</ul></div>
 

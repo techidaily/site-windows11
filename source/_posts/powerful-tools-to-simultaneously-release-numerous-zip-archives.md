@@ -1,7 +1,7 @@
 ---
 title: Powerful Tools to Simultaneously Release Numerous Zip Archives
-date: 2024-11-28T03:07:44.519Z
-updated: 2024-12-03T20:34:20.639Z
+date: 2024-12-05T18:02:38.016Z
+updated: 2024-12-10T20:08:13.879Z
 tags:
   - windows10
   - windows11
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/0838ac8f5f2d8f067138531cc9f4dfd905cfa9adb
 3. Click the pinned taskbar shortcut for [opening Windows File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) and go to the folder your browser downloaded 7-Zip to.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Double-click the **7z2301-x64** file.
@@ -53,13 +53,13 @@ thumbnail: https://thmb.techidaily.com/0838ac8f5f2d8f067138531cc9f4dfd905cfa9adb
 ![The Extract window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-extract-window.jpg)
 6. Select **OK** to extract the selected ZIP archives.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This will extract all the selected ZIP archives to different subfolders. Those extracted subfolders will have the same names as the ZIP files you extracted. Close out of 7-Zip and then bring up the directory you selected to extract the archives in to open the extracted folders from there.
 
  The "**\*\\**" in 7-Zip’s **Extract** window means the archives get extracted to new folders. If you prefer to extract all selected archives to the same subfolder, delete the "**\*\\"** from the text box. Input a new folder name at the end of the chosen path. Then 7-Zip will batch extract all the ZIP files to the new folder added in the **Extract to** box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Simultaneously Extract Multiple ZIP Archives With ExtractNow
 
@@ -73,37 +73,37 @@ thumbnail: https://thmb.techidaily.com/0838ac8f5f2d8f067138531cc9f4dfd905cfa9adb
 ![The ExtractNow Setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/extractnow-setup-window.jpg)
 6. Click **Close** to open ExtractNow.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now it's time to use the app:
 
 1. Right-click inside the ExtractNow window and select **Add archives**.  
 ![The Add archives option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/add-archives-option.jpg)
 2. Select multiple ZIP archives by holding the **Ctrl** key and clicking **Open**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Click **Extract** to unzip the ZIP files.  
 ![The Extract option in ExtractNow](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/extract-button4.jpg)
 4. Then click **OK** **to All** to extract the selected archives to subfolders with titles that match the ZIP files within the same directory. Alternatively, you can manually select a different destination to extract each file within the Browse for Folder window and click **OK**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Browse for Folder window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/browse-for-folder.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  By default, this software will always ask you where to extract files. However, you can change ExtractNow to automatically unzip ZIP files without asking via its settings. To do so, click the **Settings** button and select the **Destination** tab. Then select the **Automatically extract archives to** radio button.
 
 ![The Destination tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/destination-tab.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you want to set a location to always extract selected ZIPs, click the **Browse for Folder** button; select a directory within the Browse for Folder window and click **OK**. Then select **OK** on the Settings window to save options.
 
  ExtractNow also has lots of other settings you can configure. Check out the [ExtractNow manual](https://extractnow.com/#/documentation) for details about what all those settings do.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Batch Extract ZIP Files Quicker in Windows
 
@@ -121,24 +121,18 @@ thumbnail: https://thmb.techidaily.com/0838ac8f5f2d8f067138531cc9f4dfd905cfa9adb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-from-picture-perfect-videos-to-melodious-mp3-files/"><u>[New] From Picture-Perfect Videos to Melodious MP3 Files</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-retro-gaming-revived-top-5-emulators-to-play-your-favorite-ps1-titles/"><u>[Updated] Retro Gaming Revived - Top 5 Emulators to Play Your Favorite PS1 Titles</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/efficient-zooming-top-six-ways-to-cut-down-on-high-cpu-demands/"><u>Efficient Zooming: Top Six Ways to Cut Down on High CPU Demands</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723013223069-fixing-stability-problems-with-sony-vegas-no-more-crashes-guaranteed/"><u>Fixing Stability Problems with Sony Vegas - No More Crashes Guaranteed</u></a></li>
-<li><a href="https://program-issues.techidaily.com/god-of-war-pc-stability-problems-solutions-and-fixes/"><u>God of War PC Stability Problems - Solutions and Fixes</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-samsung-galaxy-xcover-6-pro-tactical-edition-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Samsung Galaxy XCover 6 Pro Tactical Edition Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-14-plus-without-face-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock iPhone 14 Plus without Face ID</u></a></li>
-<li><a href="https://windows11.techidaily.com/installing-apk-files-made-convenient-win-11s-guide-to-easy-setups/"><u>Installing APK Files Made Convenient: Win 11'S Guide to Easy Setups</u></a></li>
-<li><a href="https://common-error.techidaily.com/lost-your-signal-locate-and-fix-your-sd-card/"><u>Lost Your Signal: Locate and Fix Your SD Card</u></a></li>
-<li><a href="https://windows11.techidaily.com/maximizing-windows-11-taskbar-functionality/"><u>Maximizing Windows 11 Taskbar Functionality</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-inaccessible-erase-functionality-in-windows-11/"><u>Overcoming Inaccessible Erase Functionality in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/rapid-results-realized-exploring-the-enhanced-speed-of-this-innovative-device/"><u>Rapid Results Realized: Exploring the Enhanced Speed of This Innovative Device</u></a></li>
-<li><a href="https://windows11.techidaily.com/reimagine-your-workspace-with-direct-desktop-drawings-in-windows-11/"><u>Reimagine Your Workspace with Direct Desktop Drawings in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/safeguard-your-desktops-background-from-changes/"><u>Safeguard Your Desktop's Background From Changes</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamline-productivity-mastering-windows-11s-widgets/"><u>Streamline Productivity: Mastering Windows 11'S Widgets</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-high-cpu-drain-by-tiworkerexe/"><u>Tackling High CPU Drain by TiWorker.exe</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-steam-ui-dll-failure-on-windows/"><u>Troubleshooting Steam UI DLL Failure on Windows</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/troubleshooting-steps-resolving-valorant-microphoneheadset-issues/"><u>Troubleshooting Steps: Resolving Valorant Microphone/Headset Issues</u></a></li>
-<li><a href="https://windows11.techidaily.com/unite-cloud-storage-onedrive-meets-microsoft-live-id/"><u>Unite Cloud Storage: OneDrive Meets Microsoft Live ID</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-perfect-pitch-perfection-the-top-7-apps-to-change-your-voice-online/"><u>[Updated] 2024 Approved Perfect Pitch Perfection The Top 7 Apps to Change Your Voice Online</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/advanced-authorized-streaming-systems/"><u>Advanced Authorized Streaming Systems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphering-how-windows-sustains-ongoing-optimization/"><u>Deciphering How Windows Sustains Ongoing Optimization</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211355209-9798869394170-downsizing-your-life/"><u>Downsizing Your Life | Free Book</u></a></li>
+<li><a href="https://windows11.techidaily.com/facing-down-rounded-corners-in-windows-11/"><u>Facing Down Rounded Corners in Windows 11</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/from-bottom-to-top-seo-guide-for-podcasters-for-2024/"><u>From Bottom to Top Seo Guide for Podcasters for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-technical-hurdles-in-hoi4-top-solutions-for-a-smooth-experience/"><u>Overcoming Technical Hurdles in HoI4: Top Solutions for a Smooth Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-counteract-d3d11-hardware-failures-in-w11w10/"><u>Strategies to Counteract D3D11 Hardware Failures in W11/W10</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-your-smartphone-writescreen-functionality-for-windows-11/"><u>Unlocking Your Smartphone' Writescreen Functionality for Windows 11</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-is-this-a-pigeon-meme-generator/"><u>Updated Is This a Pigeon Meme Generator</u></a></li>
 </ul></div>
 

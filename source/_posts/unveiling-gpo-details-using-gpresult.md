@@ -1,7 +1,7 @@
 ---
 title: Unveiling GPO Details Using GPResult
-date: 2024-08-15T16:15:55.100Z
-updated: 2024-08-16T16:15:55.100Z
+date: 2024-12-04T21:19:13.341Z
+updated: 2024-12-10T21:25:43.495Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/494747ec004285de2aadee4c9fc771562b4f42ca2
 
  That's where the GPResult command comes in, and we're going to show you how to use it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is the GPResult Command?
 
  The GPResult command is a utility built into Windows that displays all the group policies, configured or not, on a computer. It provides valuable information to administrators to know which policies and settings have been applied on a computer or on a specific user profile on that computer.
@@ -31,8 +35,9 @@ thumbnail: https://thmb.techidaily.com/494747ec004285de2aadee4c9fc771562b4f42ca2
  If you're looking for a specific group policy, you can [search the LGPE on Windows](https://www.makeuseof.com/find-group-policy-windows/) using the tool's filter options, the Group Policy website, and the Group Policy reference sheet by Microsoft.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Generate a Group Policy Report With GPResult
 
  To generate a group policy report for your Windows computer, you first need to [open Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/). Then, you can use the below command:
@@ -42,9 +47,6 @@ thumbnail: https://thmb.techidaily.com/494747ec004285de2aadee4c9fc771562b4f42ca2
  You will then see the report in Command Prompt, and you can go through it to see the group policies settings on your computer.
 
 ![the results of gpresult Command Prompt on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-results-of-gpresult-command-on-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To generate a group policy report for a specific user on your computer, use the below command syntax:
 
@@ -61,21 +63,13 @@ thumbnail: https://thmb.techidaily.com/494747ec004285de2aadee4c9fc771562b4f42ca2
  Now, you just need to find the name of the user you want and use it in the GPResult command.
 
 ![list all user accounts with net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/list-all-user-accounts-with-net-user.jpg)
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Be sure to type the name exactly as you see it, otherwise, you will most likely get errors.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Export the Group Policy Report to a Text File
 
  After you generate the report, you can export it to a text file so you can view the contents outside of Command Prompt. For example, you can view them in a web browser, which is more graphical and makes it easier to read and navigate the report.
@@ -91,8 +85,9 @@ thumbnail: https://thmb.techidaily.com/494747ec004285de2aadee4c9fc771562b4f42ca2
  If you look in the directory you specified when generating the report, you will find it. Since we exported it to an HTML file, when we double-click it, it will open the default browser, allowing us to view it in a little more detail.
 
 ![an exported group policy report opened in a web browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/an-export-group-policy-report-opened-in-a-web-browser.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you would rather generate the report for a specific user, you can use the below syntax:
@@ -102,8 +97,9 @@ thumbnail: https://thmb.techidaily.com/494747ec004285de2aadee4c9fc771562b4f42ca2
  It's the same as the previous command, only that this time, you have to replace **username** with the name of the user you want to generate the Group Policy report for.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Get to Know the Group Policies on Your Computer
 
  Having a group policy report can come in handy when you need to see the policy settings applied on your computer quickly. While the GPResult command can do so much more, this guide offers a good starting point for working with it.
@@ -112,11 +108,31 @@ thumbnail: https://thmb.techidaily.com/494747ec004285de2aadee4c9fc771562b4f42ca2
 
  That's where the GPResult command comes in, and we're going to show you how to use it.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-a-guide-to-retrieving-historic-facebook-stories/"><u>[Updated] In 2024, A Guide to Retrieving Historic Facebook Stories</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-audio-issue-in-win11-error-0xc00d36b4/"><u>Correcting Audio Issue in Win11, Error 0xC00D36B4</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/customizable-wireless-charging-pad-mimicking-a-3d-printer-affordable-diy-solution-by-bambu-labs-under-50/"><u>Customizable Wireless Charging Pad Mimicking a 3D Printer - Affordable DIY Solution by Bambu Labs Under $50</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hp-deskjet-2755e-printer-software-download-and-install-guide-for-windows/"><u>HP DeskJet 2755E Printer Software Download & Install Guide for Windows</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Poco X5? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/keyboard-crash-in-windows-10-follow-this-path/"><u>Keyboard Crash in Windows 10? Follow This Path</u></a></li>
+<li><a href="https://windows11.techidaily.com/keyboardmouse-wake-issues-in-windows-11/"><u>Keyboard/Mouse Wake Issues in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-nddrive-mapping-in-win11-effortlessly/"><u>Master NDDrive Mapping in Win11 Effortlessly</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-your-words-real-time-speech-to-text-with-whisper/"><u>Master Your Words: Real-Time Speech-to-Text with Whisper</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-windows-11s-auto-hdr-functionality/"><u>Navigating Windows 11'S Auto HDR Functionality</u></a></li>
+<li><a href="https://windows11.techidaily.com/regaining-lost-plans-windows-11-power-reset/"><u>Regaining Lost Plans: Windows 11 Power Reset</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-solutions-to-resolve-the-stubborn-0-halt-in-windows-updates/"><u>Simple Solutions to Resolve the Stubborn 0% Halt in Windows Updates</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-a-black-screen-issue-with-your-pcs-webcam-in-windows-11-and-10/"><u>Troubleshooting a Black Screen Issue with Your PC's Webcam in Windows 11 & 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/uninstalling-edge-from-windows-11-pro/"><u>Uninstalling Edge From Windows 11 Pro</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-smooth-time-management-on-windows/"><u>Unlock Smooth Time-Management on Windows</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-huawei-nova-y71-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Huawei Nova Y71 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-the-mystery-of-free-roving-windows-cursors/"><u>Unraveling the Mystery of Free-Roving Windows Cursors</u></a></li>
+</ul></div>
+

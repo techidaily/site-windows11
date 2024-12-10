@@ -1,7 +1,7 @@
 ---
 title: Rectifying 'Device Not Initialized' Warning in Win 11
-date: 2024-11-28T21:37:57.931Z
-updated: 2024-12-03T21:34:39.053Z
+date: 2024-12-04T22:11:45.690Z
+updated: 2024-12-10T17:24:11.673Z
 tags:
   - windows10
   - windows11
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/857cad2a82232e03f92aad9809b4a548e4964a8c9
 
  Knowing the reasons behind the error message, let's get into all the working fixes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Try the Basic Repairs
 
  The first thing you must do whenever you come across the Unknown USB Device, Port Reset Failed error is to[restart your device](https://www.makeuseof.com/windows-restart-methods/) . Restarting the computer will fix the issue if a temporary glitch is the reason behind it.
@@ -53,15 +57,15 @@ thumbnail: https://thmb.techidaily.com/857cad2a82232e03f92aad9809b4a548e4964a8c9
 3. Right-click on the**Universal Serial Bus controllers** node and select the**Scan for hardware changes** option.  
 ![Scan for hardware changes option in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/scan-for-hardware-changes-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That's it. Now, wait until the scan is complete. Once done, check if the issue continues.
 
 ## 3\. Use the Hardware and Devices Troubleshooter
 
 ![Hardware and Devices Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Hardware-and-Devices-Troubleshooter-on-Windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Windows offers various troubleshooters](https://www.makeuseof.com/windows-11-troubleshooters/) that you can use to get rid of different kinds of system issues. One of these troubleshooters is the Hardware and Devices troubleshooter, which you can use to eliminate most hardware-related issues.
 
@@ -73,10 +77,6 @@ Here's how to use the Hardware and Devices troubleshooter:
 4. Click**Next** .
 
  The Hardware and Devices troubleshooter will now look for and automatically fix any available hardware issues on your computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Disable Fast Startup
 
@@ -105,6 +105,10 @@ Next, restart your computer and check for the problem.
 ![Update driver option in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/update-driver-option.jpg)
 4. In the new window that crops up, select the**Search automatically for drivers** option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, wait until Windows searches for any available driver update online and install it on your computer.
 
 ## 6\. Reinstall All the USB Controllers
@@ -117,7 +121,7 @@ Next, restart your computer and check for the problem.
  Next, restart your computer and plug in the USB device again. Check if you still see the error message. If yes, continue with the guide.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Disable the USB Selective Suspend Setting
@@ -132,11 +136,7 @@ Next, restart your computer and check for the problem.
 5. Click**Apply** \>**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Update Your BIOS
@@ -166,24 +166,18 @@ Next, restart your computer and check for the problem.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-photo-edits-skewed-caption-creation/"><u>[New] Photo Edits Skewed Caption Creation</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-perfect-your-crafting-skills-using-these-7-sounds-tracks/"><u>[Updated] 2024 Approved Perfect Your Crafting Skills Using These 7 Sounds Tracks</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-harmonizing-services-uniting-your-musical-lists/"><u>[Updated] In 2024, Harmonizing Services Uniting Your Musical Lists</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-tonal-terrain-mac-audio-artistry/"><u>[Updated] Tonal Terrain Mac Audio Artistry</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/access-ai-assistance-on-quora-with-powerful-poe-tools-your-guide-to-chatbots-and-llms/"><u>Access AI Assistance on Quora with Powerful POE Tools – Your Guide to Chatbots & LLMs</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-stabilized-gimbals-reviewed-1-10-for-smartphone-and-pro-cameras/"><u>Best Stabilized Gimbals Reviewed #1-#10 for Smartphone and Pro Cameras</u></a></li>
-<li><a href="https://win11.techidaily.com/ease-upgrade-rejections-adobe-windows-tips/"><u>Ease Upgrade Rejections: Adobe Windows Tips</u></a></li>
-<li><a href="https://windows11.techidaily.com/expert-guide-to-device-tweaks-in-the-latest-windows-version/"><u>Expert Guide to Device Tweaks in the Latest Windows Version</u></a></li>
-<li><a href="https://games-able.techidaily.com/fixing-flailing-ps4-controllers-a-step-by-step-guide/"><u>Fixing Flailing Ps4 Controllers: A Step-by-Step Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-utorrent-connectivity-problems-on-pcs/"><u>Fixing uTorrent Connectivity Problems on PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-missing-tabs-in-windows-11-file-explorer/"><u>How to Fix Missing Tabs in Windows 11 File Explorer</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-6-free-youtube-outros-for-aspiring-filmmakers/"><u>In 2024, 6 FREE YouTube Outros for Aspiring Filmmakers</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-creating-stunning-time-lapses-using-gopro-studio/"><u>In 2024, Creating Stunning Time Lapses Using GoPro Studio</u></a></li>
-<li><a href="https://windows11.techidaily.com/keep-your-pc-fresh-implementing-auto-file-cleanup-in-winos/"><u>Keep Your PC Fresh: Implementing Auto-File Cleanup in WINOS</u></a></li>
-<li><a href="https://windows11.techidaily.com/minimizing-distractions-with-wins-management-on-win-11/"><u>Minimizing Distractions with Wins Management on Win 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/old-meets-new-a-windows-11-transformation-into-98-style/"><u>Old Meets New: A Windows 11 Transformation Into 98 Style</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-fixes-for-loading-issues-on-discord-software/"><u>Quick Fixes for Loading Issues on Discord Software</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-linguistic-leap-translating-words-via-windows-1011-hotkeys/"><u>Quick Linguistic Leap: Translating Words via Windows 10/11 Hotkeys</u></a></li>
-<li><a href="https://windows11.techidaily.com/seamless-note-taking-tips-for-windows-11-users/"><u>Seamless Note-Taking Tips for Windows 11 Users</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-asuss-proart-pa-329q-an-elite-professional-4k-display-examination/"><u>[New] Asus's ProArt PA 329Q – An Elite Professional 4K Display Examination</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-essential-tips-for-using-instagrams-sound-emojis/"><u>[Updated] Essential Tips for Using Instagram's Sound Emojis</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-ultimate-list-choosing-the-right-recorder-for-google-meet/"><u>[Updated] In 2024, Ultimate List Choosing the Right Recorder for Google Meet</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-blocked-windows-guard-functions/"><u>Bypassing Blocked Windows Guard Functions</u></a></li>
+<li><a href="https://windows11.techidaily.com/dive-into-ms-store-app-selection-2023-edition/"><u>Dive Into MS Store App Selection: 2023 Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-webp-images-top-4-viewer-tools-on-windows-os/"><u>Elevate WebP Images: Top 4 Viewer Tools on Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-the-disconnection-problem-for-malwarebytes-in-windows-11/"><u>Fixing the Disconnection Problem for Malwarebytes in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/identifying-programs-by-their-launch-shorthand-labels/"><u>Identifying Programs by Their Launch Shorthand Labels</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-puzzle-prints-crafting-hilarity-in-minutes/"><u>In 2024, Puzzle Prints Crafting Hilarity in Minutes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-file-management-enabling-and-using-your-computers-secret-sidebar/"><u>Mastering File Management: Enabling & Using Your Computer's Secret Sidebar</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-issues-with-non-responsive-logitech-microphone-in-webcams/"><u>Resolving Issues with Non-Responsive Logitech Microphone in Webcams</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/review-of-the-apple-m2-max-macbook-pro-16-inch-202n-the-ultimate-tool-for-creative-professionals-zdnet/"><u>Review of the Apple M2 Max MacBook Pro (16-Inch, 202N): The Ultimate Tool for Creative Professionals - ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-lost-wi-fi-links-top-strategies-to-regain-internet-connection-on-windows-10/"><u>Reviving Lost Wi-Fi Links: Top Strategies to Regain Internet Connection on Windows 10</u></a></li>
 </ul></div>
 

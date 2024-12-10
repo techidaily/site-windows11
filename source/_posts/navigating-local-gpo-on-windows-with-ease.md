@@ -1,7 +1,7 @@
 ---
 title: Navigating Local GPO on Windows with Ease
-date: 2024-08-15T16:18:36.932Z
-updated: 2024-08-16T16:18:36.932Z
+date: 2024-12-08T20:07:09.511Z
+updated: 2024-12-10T16:49:31.921Z
 tags:
   - windows10
   - windows11
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/47a95c239b7223a89568bec86e25318318c6bf5e0
 
  This article will take you through the ten ways to open the Local Group Policy Editor in Windows 11\.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Open Local Group Policy Editor Using Windows Search
 
  Windows 11 search tool makes it easy to find apps, documents, and system settings on your device. You can also use it to access the Local Group Policy Editor in Windows 11\. To do so, use the following steps:
@@ -33,15 +37,9 @@ thumbnail: https://thmb.techidaily.com/47a95c239b7223a89568bec86e25318318c6bf5e0
 1. Click the magnifying icon on the taskbar or use the **Win + S** keyboard shortcut to open the search menu.
 2. Type **edit group policy** or **gpedit** in the search box and select the first result that appears.  
 ![Open Group Policy Editor Using Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-group-policy-editor-using-windows-search.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 
  If you receive [the "Windows cannot find gpedit.msc" error](https://www.makeuseof.com/fix-cannot-find-gpeditmsc-error-in-windows/), you may be using the Home edition of Windows 11\. In that case, you must use a workaround or upgrade to Windows 11 Pro to access the Local Group Policy Editor.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Open Local Group Policy Editor via the Run Command
 
  Another easy way to open apps and programs on your Windows device is through the Run dialog box. Here’s how to open the Local Group Policy Editor using the Run tool.
@@ -51,8 +49,9 @@ thumbnail: https://thmb.techidaily.com/47a95c239b7223a89568bec86e25318318c6bf5e0
 ![Open Group Policy Editor Using Run Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-group-policy-editor-using-run-tool.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Open Local Group Policy Editor via File Explorer
 
  A lesser-known way to [open apps and programs in Windows](https://www.makeuseof.com/open-apps-programs-windows/) 11 is through File Explorer.
@@ -62,8 +61,9 @@ thumbnail: https://thmb.techidaily.com/47a95c239b7223a89568bec86e25318318c6bf5e0
 ![Open Group Policy Editor Using File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-group-policy-editor-using-file-explorer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Open Local Group Policy Editor From the Control Panel
 
  With Windows 11, Microsoft moved many classic Control Panel applets to the Settings app. However, the Control Panel is still available on Windows 11\. Here's how to use the Control Panel to open the Local Group Policy Editor on Windows 11\.
@@ -73,14 +73,7 @@ thumbnail: https://thmb.techidaily.com/47a95c239b7223a89568bec86e25318318c6bf5e0
 3. Type **edit group policy** in the search box in the top-right corner of the Control Panel window.
 4. Under Windows Tools, click **Edit group policy** to open the Local Group Policy Editor.  
 ![Open Group Policy Editor via Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-group-policy-editor-via-control-panel.jpg)
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ## 5\. Open Local Group Policy Editor From the Settings App
 
  If you prefer the Settings app instead of the classic Control Panel, you can use the following steps to access the Local Group Policy Editor in Windows 11\.
@@ -96,13 +89,11 @@ thumbnail: https://thmb.techidaily.com/47a95c239b7223a89568bec86e25318318c6bf5e0
 2. Type **open the local group policy editor** in the text field and press **Enter**.
 3. Click **Yes** to confirm.  
 ![Open Local Group Policy Editor Using Windows Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/open-local-group-policy-editor-using-windows-copilot.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Open Local Group Policy Editor From the System32 Folder
 
  Another way to open the Local Group Policy Editor is to use its executable (.exe) file in [the Windows System32 folder](https://www.makeuseof.com/tag/windows-system32/). Here’s how you can go about it.
@@ -111,6 +102,14 @@ thumbnail: https://thmb.techidaily.com/47a95c239b7223a89568bec86e25318318c6bf5e0
 2. Navigate to the following folder: **C: > Windows > System32**.
 3. Locate and double-click the **gpedit.msc** file to launch the Local Group Policy Editor.  
 ![Open Group Policy Editor Using System32 Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-group-policy-editor-using-system32-folder.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Open Local Group Policy Editor Using Task Manager
 
@@ -122,6 +121,10 @@ thumbnail: https://thmb.techidaily.com/47a95c239b7223a89568bec86e25318318c6bf5e0
 4. Type **gpedit.msc** in the search box and click **OK** to open the Local Group Policy Editor.  
 ![Open Group Policy Editor Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-group-policy-editor-using-task-manager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Open Local Group Policy Editor Using Command Prompt or PowerShell
 
  Windows’ built-in command-line tools—Command Prompt and PowerShell—can come in handy when you want to troubleshoot system errors or automate certain tasks. You could also use them to access programs like the Local Group Policy Editor.
@@ -129,15 +132,9 @@ thumbnail: https://thmb.techidaily.com/47a95c239b7223a89568bec86e25318318c6bf5e0
 1. Use one of the many ways to [open Command Prompt or PowerShell on Windows](https://www.makeuseof.com/windows-open-command-prompt-powershell/).
 2. Type **gpedit.msc** in the console and hit **Enter** to open the Local Group Policy Editor.  
 ![Open Group Policy Editor Using Command Prompt or PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-group-policy-editor-using-command-prompt-or-powershell.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 
  Like using Command Prompt? Here are some [fun Command Prompt tricks](http://www.makeuseof.com/command-prompt-fun-things/) you might enjoy.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 10\. Create a Desktop Shortcut to Open Local Group Policy Editor Quickly
 
  If you need to use the Local Group Policy Editor regularly, creating a desktop shortcut for it might be a good idea. This way, you'll be able to access the tool in seconds.
@@ -159,11 +156,24 @@ thumbnail: https://thmb.techidaily.com/47a95c239b7223a89568bec86e25318318c6bf5e0
 
  Whether you use the Windows Search menu, the Run command, or a desktop shortcut, accessing the Local Group Policy Editor in Windows 11 is easy. Once you have opened it, you can review and modify the established policies as needed.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-how-to-fix-full-screen-error-in-obs/"><u>[Updated] 2024 Approved How to Fix Full Screen Error in OBS</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-evaluating-a-64gb-drive-writable-by-videos-for-2024/"><u>[Updated] Evaluating a 64GB Drive' Writable by Videos for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-the-insiders-guide-to-slow-motion-with-photos-and-web-tools/"><u>[Updated] In 2024, The Insider's Guide to Slow Motion with Photos & Web Tools</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/best-5-youtube-video-editor-alternatives-for-2024/"><u>Best 5 YouTube Video Editor Alternatives for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-prevent-auto-restart-events-on-win11/"><u>How to Prevent Auto-Restart Events on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-troubleshoot-high-cpu-usage-with-the-windows-resource-monitor/"><u>How to Troubleshoot High CPU Usage With the Windows Resource Monitor</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-s23-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Itel S23 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-win11s-accessibility-keys/"><u>Mastering Win11's Accessibility Keys</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-connection-lost-5-easy-steps-for-a-fixed-usb-wi-fi-adapter/"><u>Seamless Connection Lost? 5 Easy Steps for a Fixed USB Wi-Fi Adapter</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-new-to-cartoon-making-start-with-these-10-top-tools/"><u>Updated 2024 Approved New to Cartoon Making? Start with These 10 Top Tools</u></a></li>
+</ul></div>
+

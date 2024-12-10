@@ -1,7 +1,7 @@
 ---
 title: Fixing Reference Mistake for Token in Windows 10/11
-date: 2024-12-01T00:30:12.587Z
-updated: 2024-12-04T02:48:15.576Z
+date: 2024-12-05T18:52:57.327Z
+updated: 2024-12-10T16:11:59.251Z
 tags:
   - windows10
   - windows11
@@ -34,12 +34,21 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 3. Then right-click Windows Explorer and select **End task**.  
 ![The End task option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/end-task-option.jpg)
 4. Select **End process** to confirm. The background Windows desktop will go blank when you do that, and restarting Explorer will restore it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click **File** at the top of Task Manager.  
 ![The Run new task option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-new-task.jpg)
 6. Select **Run new task** to access a Create new task box.
 7. Input **Explorer.exe** inside the **Open** text box.  
 ![The Create new task window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/create-new-task.jpg)
 8. Select **Create this task with administrative privileges** and click **OK** to restart Explorer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Reregister Windows DLL Files
 
@@ -53,23 +62,11 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 ![The reregister DLL command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/reregister-dll-commands.jpg)
 5. Wait for the command to finish reregistering DLLs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Close your Command Prompt app, bring up the Start menu, and select **Restart**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Try Some More Generic Windows Fixes
 
  If nothing has worked, try these Windows fixes that can fix a wide variety of errors, including this one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Scan and Repair System Files With SFC
 
@@ -78,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 ![The sfc /scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sfc-scannow-command5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Go Back to a Previous Windows Build Version
@@ -90,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 3. Click the **Go back** or **Get started** button for restoring the previous Windows version.  
 ![The Get started button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/get-started-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If that option is grayed out, you can also try restoring the previous Windows build from the **Advanced options** menu. Open recovery options in Settings as outlined in steps one and two above and click **Restart** **now**. Then select **Troubleshoot** \> **Advanced** options and the **Go back** **to previous build** option if available.
 
 ### Go Back to a Previous Restore Point
@@ -100,13 +101,13 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 
  To apply this resolution, check out our [article about creating and utilizing restore points](https://www.makeuseof.com/windows-11-create-restore-point/). Choose a restore point that will roll Windows back to when you didn’t need to fix the token reference error. However, note that a system restore point will remove software packages installed after its date.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Reset Windows
 
  Resetting Windows 11/10 is a last resort for fixing the “reference a token” error that will probably work. It’s best to save this probable resolution until last because you’ll need to reinstall all third-party UWP and desktop apps installed before the reset. You can apply this possible resolution as instructed within method one of our [how to factory reset Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/#:~:text=To%20run%20a%20Windows%20factory,%3E%20Update%20%26%20Security%20%3E%20Recovery.) guide.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Get the “Reference a Token” Error Sorted Out
 
@@ -124,24 +125,19 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-pro-rated-list-the-best-5-hd-webcams-with-capture-microphones-for-2024/"><u>[New] Pro-Rated List The Best 5 HD Webcams with Capture Microphones for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-add-meaningful-context-a-guide-to-video-captions-on-tiktok-for-2024/"><u>[Updated] Add Meaningful Context A Guide to Video Captions on TikTok for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-live-stream-archive-a-users-blueprint-to-downloadability/"><u>[Updated] Live Stream Archive A User's Blueprint to Downloadability</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-navigating-file-extraction-from-youtube-browser-os-and-terminal-methods/"><u>[Updated] Navigating File Extraction From Youtube Browser, OS and Terminal Methods</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/95-off-second-generation-apple-pencil-on-sale-celebrate-labor-day-with-a-steal-at-zdnet/"><u>$95 Off: Second Generation Apple Pencil on Sale – Celebrate Labor Day with a Steal at ZDNet</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-a-curators-choice-top-12-websites-to-steal-millions-of-favorite-pixels/"><u>2024 Approved A Curator's Choice Top 12 Websites to Steal Millions of Favorite Pixels</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/bandicam-demystified-a-clearer-understanding-of-2023-functionality-for-2024/"><u>Bandicam Demystified A Clearer Understanding of 2023 Functionality for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/dvd-daten-sichern-umwandlung-von-dvd-dateien-in-iso-abbilder-professionelles-tool-von-winx-dvd-copy-pro/"><u>DVD Daten Sichern: Umwandlung Von DVD-Dateien in ISO-Abbilder - Professionelles Tool Von WinX DVD Copy Pro</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-a-twitchy-pointer-in-your-desktop-environment/"><u>Fixing a Twitchy Pointer in Your Desktop Environment</u></a></li>
-<li><a href="https://windows11.techidaily.com/introducing-vivetool-unleashing-upcoming-features-for-windows-users/"><u>Introducing ViVeTool: Unleashing Upcoming Features for Windows Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-powertoys-to-tailor-snap-layouts/"><u>Navigating PowerToys to Tailor Snap Layouts</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-to-windows-11-on-mac-via-parallels-installer/"><u>Navigating to Windows 11 on Mac via Parallels Installer</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-get-ready-for-video-editing-premiere-pro-system-requirements-explained/"><u>New 2024 Approved Get Ready for Video Editing Premiere Pro System Requirements Explained</u></a></li>
-<li><a href="https://windows11.techidaily.com/one-key-to-close-clustered-applications-windows-edition/"><u>One Key to Close Clustered Applications: Windows Edition</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/proven-tactics-top-10-secrets-for-novice-vloggers-success/"><u>Proven Tactics Top 10 Secrets for Novice Vloggers' Success</u></a></li>
-<li><a href="https://windows11.techidaily.com/reviving-slow-or-inactive-windows-downloads-directory/"><u>Reviving Slow or Inactive Windows Downloads Directory</u></a></li>
-<li><a href="https://windows11.techidaily.com/swift-strategies-for-re-booting-windows-explorer-11/"><u>Swift Strategies for Re-Booting Windows Explorer 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-proven-method-for-stepsigning-in-steam-titles/"><u>The Proven Method for Stepsigning in Steam Titles</u></a></li>
-<li><a href="https://windows11.techidaily.com/understanding-wu-and-wuo-sync-mechanisms/"><u>Understanding WU & WUO Sync Mechanisms</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-creating-powerful-teacher-content-on-youtube-top-10-insights/"><u>[Updated] In 2024, Creating Powerful Teacher Content on YouTube Top 10 Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convertissez-un-fichier-mp2-au-format-mp4-gratuitement-en-ligne-avec-movavi/"><u>Convertissez Un Fichier MP2 Au Format MP4 Gratuitement en Ligne Avec Movavi</u></a></li>
+<li><a href="https://windows11.techidaily.com/easing-wow-start-up-issues-after-updates/"><u>Easing WoW Start-Up Issues After Updates</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-editing-skills-mastering-jumps-and-pastes/"><u>Elevate Editing Skills: Mastering Jumps & Pastes</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-xiaomi-14-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Xiaomi 14 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-broadcast-in-ultra-hd-on-the-social-network/"><u>In 2024, Broadcast in Ultra HD on the Social Network</u></a></li>
+<li><a href="https://windows11.techidaily.com/lowering-gameplay-stress-reducing-cpu-load-while-playing/"><u>Lowering Gameplay Stress: Reducing CPU Load While Playing</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-landscape-of-android-and-windows-file-sharing/"><u>Navigating the Landscape of Android & Windows File Sharing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-through-your-internet-usage-a-comprehensive-checklist/"><u>Navigating Through Your Internet Usage: A Comprehensive Checklist</u></a></li>
+<li><a href="https://windows11.techidaily.com/quickly-fixing-microsoft-store-problems-on-win-11/"><u>Quickly Fixing Microsoft Store Problems on Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-top-9-truths-about-why-pc-computers-win-over-macos-9/"><u>The Top 9 Truths About Why PC Computers Win over MacOS (#9)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-6-plus-without-passcode-easily-by-drfone-ios/"><u>Unlock iPhone 6 Plus Without Passcode Easily</u></a></li>
+<li><a href="https://fox-info.techidaily.com/unlocking-the-potential-of-zoom-meetings-for-2024/"><u>Unlocking the Potential of Zoom Meetings for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/upgrading-your-razer-blade-17-driver-guides-for-windows-11-10-8-and-7/"><u>Upgrading Your Razer Blade 17: Driver Guides for Windows 11, 10, 8 & 7</u></a></li>
 </ul></div>
 

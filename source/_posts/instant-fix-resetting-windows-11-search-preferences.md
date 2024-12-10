@@ -1,7 +1,7 @@
 ---
 title: "Instant Fix: Resetting Windows 11 Search Preferences"
-date: 2024-08-15T16:19:33.417Z
-updated: 2024-08-16T16:19:33.417Z
+date: 2024-12-07T18:20:14.025Z
+updated: 2024-12-10T18:48:23.810Z
 tags:
   - windows10
   - windows11
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/86c324ce76532279df624a7b580daa3d859103088
 
  Like any other computer program, Windows Search can sometimes develop issues that require you to reset its settings to work properly. This article explains two simple ways to reset Windows Search settings back to default. Let's look at each one in detail.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Should You Reset Windows Search Settings?
 
  Windows Search tracks files and folders on your hard drive, so you can find them more quickly. However, over time search settings and preferences can become corrupted, leading to incorrect search results or slow performance. To get the most effective results from Windows Search, you should periodically reset your search settings.
@@ -27,9 +31,9 @@ thumbnail: https://thmb.techidaily.com/86c324ce76532279df624a7b580daa3d859103088
  Let's now explore how to reset Windows Search settings.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Tweak the Registry Editor
 
  If you want to reset Windows Search settings back to default, you can modify the registry editor. It involves directly changing certain keys in the Windows Registry, which can sometimes become risky if done incorrectly.
@@ -44,9 +48,6 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Search
  You can also copy and paste the path into the address bar at the top of the window and hit the Enter key. This will take you to the Windows Search section.
 5. Now move to the right pane and search for the key named **SetupCompletedSuccessfully**.  
 ![Reset Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-windows-search.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Select this key, right-click on it, and choose **Modify**.
 7. Set the value to **0** and click **OK** to save the changes.
 
@@ -55,8 +56,9 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Search
  After performing the steps above, close the Registry Editor and restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Use Windows PowerShell
 
  If you prefer command-line solutions, you can use PowerShell to reset Windows Search settings. It involves running a few simple commands to restore search settings. Here's how to do it.
@@ -66,9 +68,6 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Search
  If you see an error message _"Cannot be loaded because the running script is disabled on this system"_ you need to enable script execution first. To do that, [open PowerShell as a system administrator](http://www.makeuseof.com/windows-11-powershell-administrator/). Then type **Get-ExecutionPolicy** and press Enter.
 
 ![Restrict or Unrestrict the Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/restrict-or-unrestrict-the-command.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 
  If the output is **Restricted**, execute the following command to allow PowerShell scripts:
 
@@ -77,8 +76,9 @@ Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted
  After setting the execution policy, try running the ResetWindowsSearchBox.ps1 file again. Once the script is executed successfully, it resets Windows search settings.
 
 ![Reset Windows Search Via PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-windows-search-via-powershell.png)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After resetting the Windows Search settings, you can restore the execution policy to its original settings. To do that, open PowerShell as an administrator again and execute the following command:
@@ -88,20 +88,18 @@ Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Restricted
  Once the execution policy is set back to its original value, restart your computer. The Windows Search settings should now be restored to their default state.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Easy Ways to Reset Windows Search
 
  Resetting Windows search settings can fix any issues you may have with your search experience. This guide will teach you how to reset Windows Search settings to their original values.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -110,4 +108,20 @@ Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Restricted
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-broadcast-battles-obs-clashes-with-shadowgl-for-2024/"><u>[New] Broadcast Battles OBS Clashes with ShadowGL for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-narratives-before-night-an-analysis-of-storytelling-videos/"><u>[Updated] 2024 Approved Narratives Before Night An Analysis of Storytelling Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-simplified-approaches-to-insta-photovideo-resharing/"><u>[Updated] In 2024, Simplified Approaches to Insta Photo/Video Resharing</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/bitevideo-innovator/"><u>BiteVideo Innovator</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-vivo-y28-5g-by-drfone-android/"><u>How to Bypass FRP from Vivo Y28 5G?</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-entry-point-not-found-error-on-windows/"><u>How to Fix the Entry Point Not Found Error on Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-14-to-other-iphone-15-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 14 To Other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-through-windows-key-settings-easily/"><u>Navigate Through Windows Key Settings Easily</u></a></li>
+<li><a href="https://windows11.techidaily.com/prolific-tools-in-windows-11-top-7-productivity-widgets/"><u>Prolific Tools in Windows 11: Top 7 Productivity Widgets</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-windows-11-setup-without-internet/"><u>Step-by-Step: Windows 11 Setup Without Internet</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-printer-service-disabled-message-in-winos/"><u>Tackling Printer Service Disabled Message in WinOS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-walkthrough-for-discontinuing-access-to-chatgpt-services/"><u>Ultimate Walkthrough for Discontinuing Access to ChatGPT Services</u></a></li>
+<li><a href="https://windows11.techidaily.com/unblocking-the-other-users-microsoft-account-problem/"><u>Unblocking the Other User’s Microsoft Account Problem</u></a></li>
+</ul></div>
 

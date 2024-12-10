@@ -1,7 +1,7 @@
 ---
 title: Removing Block by System Admins From Windows
-date: 2024-12-02T01:42:58.665Z
-updated: 2024-12-03T18:54:05.849Z
+date: 2024-12-07T18:39:34.760Z
+updated: 2024-12-10T18:51:41.318Z
 tags:
   - windows10
   - windows11
@@ -27,13 +27,13 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Unblock the App Executable
 
 ![unblocking a file in Properties on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/unblock-file-properties-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Windows can automatically block apps downloaded from the internet from running your computer. This is a safety measure intended to protect your system against apps from unknown publishers.
 
@@ -48,7 +48,7 @@ To unblock an app on Windows:
 5. Launch the app again to see if the error is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Run the App Using the Command Prompt
@@ -67,10 +67,6 @@ To open Windows apps using Command Prompt:
 ![run program using command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-program-using-command-prompt.jpg)
 6. Next, press the**Win** key and type**cmd** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Right-click on**Command Prompt** , and select**Run as administrator.**
 8. Next, press**Ctrl + V** to paste the copied file path in Command Prompt. Make sure to add the .exe file name at the end of the file path.
 9. Press**Enter** to launch the app.
@@ -88,10 +84,6 @@ To run an app as an administrator:
 
  Check if the app launches ad administrator without the error. If yes, you can[set the app to always run as administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) to fix the issue. That said, do this only if you trust the publisher for security reasons.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Repair or Reset the Microsoft Store Apps
 
  If the error is triggered when opening a Microsoft Store app, try to perform a repair. You can repair Microsoft Store apps from the Settings panel. This should fix temporary glitches with the app and resolve the error.
@@ -99,10 +91,6 @@ To run an app as an administrator:
 To repair a Microsoft Store app:
 
 ![repair photos app windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/repair-photos-app-windows-11.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Press**Win + I** to open**Settings** .
 2. Open the**Apps** tab and click on**Installed Apps** .
@@ -123,6 +111,10 @@ Reset the Microsoft Store app:
 3. Click the**three-dots menu** near the app name and select**Advanced options** .
 4. Scroll down and click the**Reset** button. Click**Reset** again to confirm the action. Similar to Repair, you'll see a checkmark when the reset process is complete.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Disable Microsoft Defender SmartScreen
 
  Microsoft Defender's SmartScreen scans programs and files during the launch for potential threats and can block them from running. You can disable the SmartScreen feature temporarily to determine if your app is blocked by it.
@@ -136,6 +128,10 @@ Reset the Microsoft Store app:
  You can[temporarily disable Microsoft Defender](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) using the Windows Security app. To turn off third-party antivirus, right-click the app icon in the system tray and select the appropriate options.
 
  If the error is resolved, add the app to your security program's allowed list. You can also[allowlist files and apps on Windows Defender](https://www.makeuseof.com/how-to-whitelist-files-windows-defender/) if you use it as the primary security application.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Modify the Windows Registry to Remove Admin Block
 
@@ -154,12 +150,16 @@ To remove the admin block using Registry Editor:
 ![enable lua modify registry editor windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-lua-modify-registry-editor-windows.jpg)
 6. Right-click on the**EnableLUA** value and select**Modify** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Type**0** in the**Value data** field and click**OK** to save the changes.  
 ![enable lua modify registry editor value 0 windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-lua-modify-registry-editor-value-0-windows.jpg)
 8. Close Registry Editor and restart your computer to apply the changes. After the restart, launch the app to see if the error is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 9. If you are using a school or work computer, your organization may put some restrictions on its use. If you can't find the UAC settings, contact your IT administrator to resolve the issue.
@@ -185,22 +185,21 @@ To remove the admin block using Registry Editor:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-five-iphone-podcast-services-to-streaming/"><u>[Updated] In 2024, Five iPhone Podcast Services to Streaming</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-inbuilt-camera-functions-to-capture-screens-on-huaweis-matep-series-phones/"><u>[Updated] Inbuilt Camera Functions to Capture Screens on Huawei's Mate/P Series Phones</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/movavi-mp3aac/"><u>自由下載：用Movavi MP3到AAC格式進行無障礙的音樂文件轉移</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/deciphering-googles-password-management-safety/"><u>Deciphering Google's Password Management Safety</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/effortless-file-conversion-how-to-turn-any-text-or-image-files-into-high-quality-pdfs-today/"><u>Effortless File Conversion: How to Turn Any Text or Image Files Into High-Quality PDFs Today</u></a></li>
-<li><a href="https://windows11.techidaily.com/fortify-your-pc-with-these-7-leading-gratis-password-apps/"><u>Fortify Your PC with These 7 Leading, Gratis Password Apps</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-your-windows-license-will-expire-soon-error-on-windows-11-and-11/"><u>How to Fix the “Your Windows License Will Expire Soon” Error on Windows 11 and 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-quickly-accessdeactivate-bing-chat-in-windows-search-bar/"><u>How To Quickly Access/Deactivate Bing Chat in Windows Search Bar</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-reset-and-reinstate-blocked-windows-program/"><u>How to Reset and Reinstate Blocked Windows Program</u></a></li>
-<li><a href="https://blog-min.techidaily.com/impara-a-ritagliare-film-con-vlc-tutorial-completo-e-accessibile/"><u>Impara a Ritagliare Film Con VLC: Tutorial Completo E Accessibile</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigate-and-resolve-the-mystery-of-zero-error-in-new-windows-11/"><u>Navigate & Resolve the Mystery of Zero Error in New Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidia-setup-no-issues-encountered-during-install/"><u>NVIDIA Setup: No Issues Encountered During Install</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/pinnacle-of-picture-perfection-with-video-enhance-v22-for-2024/"><u>Pinnacle of Picture Perfection with Video Enhance V2.2 for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/rog-ally-and-the-new-competitor-from-asus/"><u>ROG Ally and the New Competitor From ASUS</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-samsung-galaxy-a14-4g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Samsung Galaxy A14 4G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-strategies-for-resolving-windows-11-onedrive-disconnects/"><u>Top Strategies for Resolving Windows 11 OneDrive Disconnects</u></a></li>
-<li><a href="https://windows11.techidaily.com/trimming-startup-latency-adjust-boot-menu-delay-in-win11/"><u>Trimming Startup Latency: Adjust Boot Menu Delay in Win11</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-how-to-make-a-cool-youtube-video-intro-in-imovie-step-by-step/"><u>[Updated] In 2024, How to Make a Cool YouTube Video Intro in iMovie (Step-by-Step)</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-mastering-youtube-cards-and-markup-tips/"><u>2024 Approved Mastering YouTube Cards & Markup Tips</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-oppo-a38-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/fy-your-contents-reach-with-optimal-publishing-days-for-2024/"><u>Amplify Your Content's Reach with Optimal Publishing Days for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/chromebook-not-responding-try-these-8-troubleshooting-tips/"><u>Chromebook Not Responding? Try These 8 Troubleshooting Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/circumventing-windows-policies-preventing-app-deployment/"><u>Circumventing Windows Policies Preventing App Deployment</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-hi-fi-innovations-from-ces-2024-featured-by-zdnet/"><u>Discover the Ultimate Hi-Fi Innovations From CES 2024, Featured by ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/fast-track-eliminate-extra-software-in-windows-11/"><u>Fast Track: Eliminate Extra Software in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/fine-tuning-taskbars-date-and-time-presentation/"><u>Fine-Tuning Taskbar's Date & Time Presentation</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/harmonious-hits-where-to-find-rare-ringtone-files/"><u>Harmonious Hits Where to Find Rare Ringtone Files</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-set-up-linux-and-linux-apps-on-a-windows-pc/"><u>How to Set Up Linux and Linux Apps on a Windows PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcome-windows-obstacles-expert-advice-awaits/"><u>Overcome Windows Obstacles: Expert Advice Awaits!</u></a></li>
+<li><a href="https://windows11.techidaily.com/swipe-to-learn-comparing-windows-10-ui-with-windows-11/"><u>Swipe to Learn: Comparing Windows 10 UI with Windows 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-10-android-collage-apps-creativity-unleashed/"><u>Top 10 Android Collage Apps - Creativity Unleashed</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-system-with-new-rtx-2060-super-video-card-drivers-for-windows-11-download-here/"><u>Update Your System with New RTX 2060 Super Video Card Drivers for Windows 11 - Download Here</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-error-trouble-with-compatibility-tool-here-are-quick-solutions/"><u>Windows Error: Trouble with Compatibility Tool? Here Are Quick Solutions.</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Efficiency: Set Predefined App Sizes in Win11"
-date: 2024-08-15T16:21:18.686Z
-updated: 2024-08-16T16:21:18.686Z
+date: 2024-12-07T21:42:59.164Z
+updated: 2024-12-10T20:03:19.261Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,11 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 2. Select the software in the**Currently open windows** box and click the**AutoSize** button to bring up the window shown directly below.  
 ![The Action to perform drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/autosize-window.jpg)
 3. Then select the**Resize** /**Position** option on the**Action to perform** drop-down menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click the**Set size** checkbox.
 5. Input the window width and height values in the two text boxes. The left box sets the width and the right one is for height.
 6. Click the**OK** button. The software window you set a size for will then be resized to the values entered.
@@ -47,13 +52,14 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 
 ![General options for AutoSizer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/general-autosize-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To set a hotkey to restore windows to their preset sizes, click inside the**AutoSize Now! Shortcut key** box. Press a keyboard hotkey to set it. Then you’ll be able to restore windows to their preset dimensions after resizing them by pressing that hotkey.
 
  And if you're a big fan of hotkeys, be sure to check out[how to set up your own keyboard shortcuts on Windows 11](https://www.makeuseof.com/windows-11-set-up-new-hotkeys/) .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ## How to Set Custom Sizes for Software With WinSize2
 
  WinSize2 is another free tool for setting preset window sizes. This one is a portable app, which means it can run with no installation needed.
@@ -67,20 +73,24 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 3. Then select**Download** on the Sourceforge page that opens.
 4. Double-click the**WinSize2\_2.38.04.zip** archive, then select the**Extract all** option on Explorer’s command bar.
 5. ![The Extract all button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-extract-all-option3.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 6. Make sure**Show extracted files** is selected within the extraction utility.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Click**Extract** to bring up the WinSize2\_2.38.04 folder.
 
 Now it's time to use WinSize2 to size our windows:
 
 1. Double-click the**WinSize2.exe** file to launch WinSize2.  
 ![The WinSize2 window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/winsize2-window.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Then open the software window for which to set the size.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Make sure the software window you’ve opened is the selected (active) window.
 4. Resize the window to a size you want to save.
 5. Press the**Ctrl** +**Alt** +**Z** hotkey to save the window’s size.
@@ -89,9 +99,9 @@ Now it's time to use WinSize2 to size our windows:
  The**always** checkbox for width and height will be selected by default, which locks the window's size so you can’t resize it with the cursor. If you prefer that option to be disabled, deselect the**always** box. Press the**Change** button, and click**OK** to apply.
 
 ![The Complete Title of the Window drop-down menu in WinSize2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-wintitle-tab.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The window you set the preset size for will always open with its saved dimensions, so long as WinSize2 is running. Try it out by opening the software, resizing its window, and closing the program. The software’s window will still open at the size set when you launch it again.
@@ -105,14 +115,7 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  To customize WinSize2’s hotkey for saving windows, click the**Extras-1** tab. Click inside the key box, and press the keyboard buttons for an alternative hotkey. Then select the**OK** option to apply.
 
 ![The define a new Hotkey box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-define-a-hotkey-box.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Open Your Software at Your Preferred Window Sizes
 
  Setting software packages to open with preset window sizes will save you from manually resizing them with the mouse. Both WinSize2 and AutoSize will automatically resize software windows for you when you’ve set some preset sizes with them. The additional settings they have for saving window positions will also come in handy for opening multiple programs.
@@ -123,8 +126,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,4 +133,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-the-least-expensive-skyvault-service-for-big-files/"><u>[New] The Least Expensive SkyVault Service for Big Files</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-creating-memes-on-9gag-tips-and-tricks/"><u>[Updated] 2024 Approved Creating Memes on 9GAG Tips and Tricks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-free-ae-template-packs-for-amateurs/"><u>[Updated] Top FREE AE Template Packs for Amateurs</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-full-guide-to-apple-iphone-15-pro-icloud-bypass-by-drfone-ios/"><u>In 2024, Full guide to Apple iPhone 15 Pro iCloud Bypass</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-oppo-a1x-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Oppo A1x 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/revamped-microsoft-office-web-suite-experience-the-latest-aesthetic-upgrade/"><u>Revamped Microsoft Office Web Suite: Experience the Latest Aesthetic Upgrade</u></a></li>
+<li><a href="https://windows11.techidaily.com/single-page-layout-mastering-the-art-of-condensing-excel-spreadsheets/"><u>Single-Page Layout: Mastering the Art of Condensing Excel Spreadsheets</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-adding-a-summary-row-at-the-end-of-your-microsoft-excel-tables/"><u>Step-by-Step Guide: Adding a Summary Row at the End of Your Microsoft Excel Tables</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-extracting-data-from-microsoft-excels-status-bar/"><u>Step-by-Step Guide: Extracting Data From Microsoft Excel's Status Bar</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-integrating-windows-calculator-into-microsoft-excel-2013s-quick-access-bar/"><u>Step-by-Step Guide: Integrating Windows Calculator Into Microsoft Excel 2013'S Quick Access Bar</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-using-excels-fill-handler-for-quick-sequential-data-entry/"><u>Step-by-Step Guide: Using Excel's Fill Handler for Quick Sequential Data Entry</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-tutorial-constructing-self-updating-overview-charts-using-excel/"><u>Step-by-Step Tutorial: Constructing Self-Updating Overview Charts Using Excel</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-nokia-g22-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Nokia G22</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-rated-portable-power-packs-for-notebook-computers-in-2/"><u>Top Rated Portable Power Packs for Notebook Computers in 2</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transformacion-facil-de-vob-con-seguridad-a-formato-mp4-tecnicas-para-windows-11-and-mac/"><u>Transformación Fácil De VOB Con Seguridad a Formato MP4: Técnicas Para Windows 11 & Mac</u></a></li>
+</ul></div>
 

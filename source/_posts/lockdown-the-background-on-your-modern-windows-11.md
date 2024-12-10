@@ -1,7 +1,7 @@
 ---
 title: Lockdown the Background on Your Modern Windows 11
-date: 2024-08-08T06:14:17.645Z
-updated: 2024-08-09T06:14:17.645Z
+date: 2024-12-07T21:16:14.727Z
+updated: 2024-12-10T19:41:22.514Z
 tags:
   - windows10
   - windows11
@@ -31,16 +31,19 @@ thumbnail: https://thmb.techidaily.com/a13a6e974ab2cc36089a6059bc5652aa7fea08489
 Here’s how you can stop that from happening:
 
 1. Right-click**Start** and select**Settings** in the Power Menu.  
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![the windows 11 power menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-11-start-power-menu.jpg)
 2. Head to**Personalize > Background** .
-3. If it says**Slideshow** in the dropdown next to**Personalize your background** , click on it and select**Picture** or**Solid color** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+3. If it says**Slideshow** in the dropdown next to**Personalize your background** , click on it and select**Picture** or**Solid color** .  
 ![switching the background type on windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/personalizing-bg-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now your background should remain fixed.
 
@@ -57,16 +60,14 @@ Here’s how to do that:
 3. If you don’t want to sync your Windows 11 PC with anything, turn off the toggle next to**Remember my preferences** .  
 ![turning off remember my preferences on windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-backup-remember-preferences-off.jpg)
 4. If you don't want to sync the settings only, click the**down arrow** next to the toggle for**Remember my preferences** to expand the section and uncheck**Other Windows settings** .  
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turning off other windows settings on windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-backup-remember-preferences-windows-settings-off.jpg)
 
  Now when you change the background or theme on another Windows device, it won’t affect this one.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Use a Local Account
 
  Another way to disable Windows’ ability to sync settings across devices is to switch to a local account. This will disconnect the Windows account on your computer from your Microsoft account and its services.
@@ -75,9 +76,6 @@ Here’s how to do that:
 
 1. Right-click**Start** and select**Settings** in the Power Menu.
 2. Head to**Accounts > Your Info** , and then click on**Sign in with a local account instead** in the**Account settings** section.  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![link to sign into windows 11 with a local account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-11-sign-in-local-account.jpg)
 3. Follow the steps to set up your local account.
 
@@ -87,27 +85,29 @@ Here’s how to do that:
 
  Sometimes, it’s not that Windows is changing the background so much as someone else is doing it when they use your computer. You can tell them to stop if you know who it is, but if many people use the PC, you can simply[disable your Windows background settings](https://www.makeuseof.com/stop-others-change-windows-desktop-background/) . This will prevent others from changing them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Uninstall the Most Recent Windows Update
 
  While keeping your computer updated is a good idea, if the background switching problem is too much of a nuisance, uninstalling a recent update can help get rid of the issue. If this is what you want to do, read our guide on the[ways you can uninstall updates on Windows](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) .
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Now Your Background Should Stop Changing by Itself
 
  Having the Windows background set up the way you want can make Windows more enjoyable. But if it keeps changing, it can dampen your experience. If you can’t take it anymore, just try the fixes above, and see which one works for you.
 
  And if all else fails, you might need to give your Windows 11 computer the good old reset.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -116,4 +116,26 @@ Here’s how to do that:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-create-striking-fb-ads-harness-power-of-free-kit/"><u>[New] Create Striking FB Ads – Harness Power of Free Kit</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-scribes-summit-selection-top-8/"><u>[New] In 2024, Scribe's Summit Selection - Top 8</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-streamlining-post-production-with-luts-in-ae/"><u>[Updated] In 2024, Streamlining Post-Production with LUTs in AE</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-nostalgic-portraits-retold-transforming-old-prints-to-digital/"><u>[Updated] Nostalgic Portraits Retold Transforming Old Prints to Digital</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-unmasking-deceitful-insta-followers-quickly-and-cost-free/"><u>2024 Approved Unmasking Deceitful Insta-Followers Quickly & Cost-Free</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/cambiar-formatos-de-archivo-automaticamente-con-movavi-convertir-aif-a-m4r-sin-coste/"><u>Cambiar Formatos De Archivo Automáticamente Con Movavi: Convertir AIF a M4R Sin Coste</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-the-edge-how-pcs-beat-macs-in-9-aspects/"><u>Decoding the Edge: How PCs Beat Macs in 9 Aspects</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevating-corporate-strategies-through-chatgpt-applications/"><u>Elevating Corporate Strategies Through ChatGPT Applications</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-the-electrical-footprint-of-your-windows-device/"><u>Exploring the Electrical Footprint of Your Windows Device</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-ace-2v-bootloader-easily-by-drfone-android/"><u>How to Unlock OnePlus Ace 2V Bootloader Easily</u></a></li>
+<li><a href="https://windows11.techidaily.com/hunt-down-elusive-control-panel-options-on-windows-11/"><u>Hunt Down Elusive Control Panel Options on Windows 11</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-5-rapid-methods-to-upgrade-your-indoor-film-project/"><u>In 2024, 5 Rapid Methods to Upgrade Your Indoor Film Project</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-to-user-management-settings-in-windows-11-and-10/"><u>Navigate to User Management Settings in Windows 11 & 10</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/premium-templates-for-panzoid-introduction-for-2024/"><u>Premium Templates for Panzoid Introduction for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-solutions-freeing-up-stuck-windows-11-pins/"><u>Quick Solutions: Freeing Up Stuck Windows 11 PINs</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedy-absent-bluetooth-devices-manager/"><u>Remedy Absent Bluetooth Devices Manager</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-error-0x80d03801-on-microsoft-store-pcs/"><u>Resolving Error 0X80D03801 on Microsoft Store PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-tutorial-for-managing-archive-files-via-cmd/"><u>The Ultimate Tutorial for Managing Archive Files via CMD</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-integrating-alternative-antiviruses-with-ms-defender/"><u>Tips for Integrating Alternative Antiviruses with MS Defender</u></a></li>
+</ul></div>
 

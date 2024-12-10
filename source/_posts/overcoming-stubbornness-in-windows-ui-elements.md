@@ -1,7 +1,7 @@
 ---
 title: Overcoming Stubbornness in Windows UI Elements
-date: 2024-12-01T17:22:02.140Z
-updated: 2024-12-03T20:31:18.269Z
+date: 2024-12-09T21:28:48.394Z
+updated: 2024-12-10T16:39:13.200Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Run System File and Image Repair Commands
 
  Many users have confirmed running system file and image repair commands can fix the Task Manager not working. So, that’s one of the first things you should try for fixing Task Manager when it’s not opening.
@@ -36,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/sfc-scannow-command2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Disable the Remove Task Manager Policy
@@ -52,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 ![The Remove Task Manager window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/remove-task-manager-window.jpg)
 5. Click **Apply** to set the new option for enabling Task Manager.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Then close the Remove Task Manager window by clicking **OK**.
 
  If this policy is not enabled, try turning it on and off. Click **Enabled** and **Apply** to activate the policy. Then select **Disabled**/**Not configured** to disable it.
@@ -63,7 +71,11 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 ![The antivirus scan options in Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/scan-now-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Edit the Policies Key
@@ -77,6 +89,10 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 ![The New > Key options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/new-key-options.jpg)
 4. Enter **System** in the new key’s text box.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Right-click **System** and select **New** \> **DWORD**.
 
 1. Input **DisableTaskMgr** inside the DWORD’s text box.
@@ -87,10 +103,6 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 4. Click **OK** to set the **DisableTaskMgr** value.  
 ![The Edit DWORD (32-bit) Value window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-edit-dword-window.jpg)
 5. Now close the Registry Editor. To ensure the changes take effect, [restart your Windows PC](https://www.makeuseof.com/windows-restart-methods/) after editing the registry.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Run the PowerShell Command for Re-Registering Apps
 
@@ -104,10 +116,6 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 ![The PowerShell command that can fix Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-reinstall-apps-command.jpg)
 5. Press **Enter** to execute the command and wait for it to finish before exiting PowerShell.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Change Your User Account
 
  Windows user account issues can also cause Task Manager to stop working. For example, your user account might be corrupted in some way. In this case, you can try to repair the corrupted user account or set up an entirely new one. Task Manager might work fine in a new user account.
@@ -115,10 +123,6 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
  First, set up a new user account and sign into it to see if Task Manager works there. If it does, transfer all the user files from your old Windows account to the new one. Our guide to [fixing Windows issues by creating new accounts](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/) includes instructions for applying this troubleshooting method.
 
 ![The Add account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/add-account-button.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Restore Windows to an Earlier Time
 
@@ -137,11 +141,7 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 ![The Reset this PC tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/reset-this-pc-tool.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Use Task Manager Within Windows Again
@@ -160,22 +160,22 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-exclusive-zero-cost-custom-video-conclusions/"><u>[New] Exclusive, Zero-Cost Custom Video Conclusions</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-top-5-best-ps2-emulator-for-ios/"><u>[Updated] 2024 Approved Top 5 Best PS2 Emulator for Ios</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-obs-studio-wizards-top-5-secrets-to-unmatched-quality/"><u>[Updated] In 2024, OBS Studio Wizards Top 5 Secrets to Unmatched Quality</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-the-pantheon-of-popularity-instagrams-top-25-icons/"><u>[Updated] The Pantheon of Popularity Instagram's Top 25 Icons</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/mp45/"><u>「無料MP4音声取り出しツールのベスト5 -安全性高品質保証」</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/broadcasting-brilliance-how-to-capture-compelling-sports-content/"><u>Broadcasting Brilliance How to Capture Compelling Sports Content</u></a></li>
-<li><a href="https://win-guides.techidaily.com/esegui-il-backup-delle-tue-informazioni-vitali-con-facilita-utilizzando-aomei-backupper-assistenza-tecnica-247/"><u>Esegui Il Backup Delle Tue Informazioni Vitali Con Facilità Utilizzando AOMEI Backupper: Assistenza Tecnica 24/7</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-motorola-defy-2-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Motorola Defy 2 and Browser | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimizing-windows-performance-cutting-down-vanguards-cpu-use/"><u>Optimizing Windows Performance: Cutting Down Vanguard's CPU Use</u></a></li>
-<li><a href="https://windows11.techidaily.com/reactivate-windows-audio-despite-disabled-settings/"><u>Reactivate Windows Audio Despite Disabled Settings</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-12-pro-max-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone 12 Pro Max Prevention & Solution</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-your-gaming-experience-by-eliminating-e84-issues/"><u>Streamlining Your Gaming Experience by Eliminating E84 Issues</u></a></li>
-<li><a href="https://windows11.techidaily.com/swiftly-tackling-windows-application-issues-with-7-solutions/"><u>Swiftly Tackling Windows Application Issues with 7 Solutions</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-essential-guide-to-playing-ps1-on-windows-duckstation/"><u>The Essential Guide to Playing PS1 on Windows - Duckstation</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlock-the-9-secrets-to-control-sound-settings-in-windows-11/"><u>Unlock the 9 Secrets to Control Sound Settings in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/unraveling-the-mystery-behind-windows-memory-snapshot/"><u>Unraveling the Mystery Behind Windows' Memory Snapshot</u></a></li>
-<li><a href="https://windows11.techidaily.com/w11-pro-discounts-await-secure-your-best-price/"><u>W11 Pro Discounts Await: Secure Your Best Price</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-investigating-unmodified-audio-from-ffmpeg-output/"><u>[New] Investigating Unmodified Audio From FFmpeg Output</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-unraveling-the-mystery-of-online-broadcast-archiving/"><u>[New] Unraveling the Mystery of Online Broadcast Archiving</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-honor-70-lite-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Honor 70 Lite 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoid-windows-default-no-spotify-autoplay/"><u>Avoid Windows Default: No Spotify Autoplay</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/compilation-of-the-best-9-multi-platform-video-communication-devices-iosandroid-for-2024/"><u>Compilation of The Best 9 Multi-Platform Video Communication Devices (iOS/Android) for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/een-kijkje-in-de-achtergronden-van-een-mp4-bestand-en-het-behalen-van-toegankelijkheid-met-mp4-structuur/"><u>Een Kijkje in De Achtergronden Van Een MP4-Bestand en Het Behalen Van Toegankelijkheid Met MP4-Structuur</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-windows-11-align-your-sticky-notes-accurately/"><u>Navigating Windows 11: Align Your Sticky Notes Accurately</u></a></li>
+<li><a href="https://windows11.techidaily.com/prevent-windows-stop-recurrent-file-explorer-launches/"><u>Prevent Windows: Stop Recurrent File Explorer Launches</u></a></li>
+<li><a href="https://windows11.techidaily.com/rectify-windows-error-reestablishing-java-vm/"><u>Rectify Windows Error: Reestablishing Java VM</u></a></li>
+<li><a href="https://windows11.techidaily.com/regaining-control-over-your-speakers-settings-in-windows/"><u>Regaining Control over Your Speakers' Settings in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-searching-on-windows-techniques-beyond-ls-command/"><u>Seamless Searching on Windows: Techniques Beyond LS Command</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-open-excel-2021-read-only-documents-by-stellar-guide/"><u>Solutions to open Excel 2021 Read Only Documents</u></a></li>
+<li><a href="https://windows11.techidaily.com/sound-struggles-winning-back-noise-from-windows-spacebar/"><u>Sound Struggles: Winning Back Noise From Windows' Spacebar</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-ultimate-slomo-recording-tool-assessment-guide-for-2024/"><u>The Ultimate SloMo Recording Tool Assessment Guide for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-stalled-netflix-app-on-windows/"><u>Troubleshooting Stalled Netflix App on Windows</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-motorola-moto-g84-5g-by-fonelab-android-recover-data/"><u>Undelete lost data from Motorola Moto G84 5G</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-the-mystery-of-facebooks-hidden-activities-for-2024/"><u>Unlocking the Mystery of Facebook's Hidden Activities for 2024</u></a></li>
 </ul></div>
 

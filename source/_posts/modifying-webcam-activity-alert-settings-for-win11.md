@@ -1,7 +1,7 @@
 ---
 title: Modifying Webcam Activity Alert Settings for Win11
-date: 2024-11-29T03:12:59.211Z
-updated: 2024-12-03T22:45:26.017Z
+date: 2024-12-06T21:56:17.524Z
+updated: 2024-12-10T16:35:32.734Z
 tags:
   - windows10
   - windows11
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Turn On Camera On and Off Notifications
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 ![Enable camera notifications in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/notify-camera-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the**NoPhysicalCameraLED** value is missing, you can create it. Right-click on the empty space in the right pane, and click**New > Dword(32-bit) value** . Set its name and**Value data** to**1** . Then, save the new changes and restart your computer for the changes to take place.
@@ -55,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
  Once your computer boots up access the camera and test if Windows is showing the camera notification.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Check Camera History
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
  Also, it might be worth it to take a look at your Privacy settings and[check which apps can access your camera](https://www.makeuseof.com/how-to-change-app-permissions-in-windows-10/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Know When Your Camera Starts on Windows
@@ -87,17 +87,22 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-master-techniques-to-dodge-edgenuity-videos-swiftly/"><u>[Updated] 2024 Approved Master Techniques to Dodge Edgenuity Videos Swiftly</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-cutting-edge-liquid-simulations-for-gamers-for-2024/"><u>[Updated] Cutting Edge Liquid Simulations for Gamers for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-building-brands-on-instagram-a-playbook-for-sponsorship-success/"><u>[Updated] In 2024, Building Brands on Instagram A Playbook for Sponsorship Success</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-yearly-insider-list-the-most-exciting-unboxers-on-youtube/"><u>[Updated] In 2024, Yearly Insider List The Most Exciting Unboxers on YouTube</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Honor Play 7T | Dr.fone</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/get-your-imessage-history-from-iphone-onto-windows-11-easily/"><u>Get Your iMessage History From iPhone Onto Windows 11 Easily</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-11-pro-3-ways-to-unlock-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 11 Pro 3 Ways To Unlock</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-w11s-auto-hdr-a-step-by-step-guide/"><u>Mastering W11's Auto HDR: A Step-by-Step Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-windows-based-qbittorrent-halt-problems/"><u>Overcoming Windows-Based qBittorrent Halt Problems</u></a></li>
-<li><a href="https://windows11.techidaily.com/restore-windows-teams-screen-sharing/"><u>Restore Windows Teams Screen Sharing</u></a></li>
-<li><a href="https://windows11.techidaily.com/restoring-accessibility-for-non-starting-store-programs/"><u>Restoring Accessibility for Non-Starting Store Programs</u></a></li>
-<li><a href="https://windows11.techidaily.com/restoring-original-touchscreen-layout-on-windows-11/"><u>Restoring Original Touchscreen Layout on Windows 11</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-mastering-the-balance-visuals-and-sound-in-media-creation/"><u>[New] In 2024, Mastering the Balance Visuals and Sound in Media Creation</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-tracking-the-financial-success-of-carryminati-ajey/"><u>[Updated] In 2024, Tracking the Financial Success of CarryMinati (Ajey)</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-dominate-your-digital-footprint-with-large-scale-fb-visuals/"><u>2024 Approved Dominate Your Digital Footprint with Large-Scale Fb Visuals</u></a></li>
+<li><a href="https://windows11.techidaily.com/combat-plan-against-windows-error-0xc00ce556/"><u>Combat Plan Against Window's Error 0xC00CE556</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-xiaomi-redmi-k70-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Xiaomi Redmi K70 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-oppo-reno-10-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Oppo Reno 10 5G Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-realme-narzo-60x-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Realme Narzo 60x 5G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-11-menu-erase-show-more-options/"><u>Mastering Windows 11 Menu: Erase Show More Options</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mental-agility-boosted-by-polyglots-of-age/"><u>Mental Agility Boosted by Polyglots of Age</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-microsofts-bluetooth-linked-application/"><u>Navigating Microsoft's Bluetooth-Linked Application</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/non-athlete-front-rows-the-ultimate-alternative-list/"><u>Non-Athlete Front Rows The Ultimate Alternative List</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/overcoming-resistance-top-8-compelling-arguments-for-embracing-ai-in-teaching/"><u>Overcoming Resistance: Top 8 Compelling Arguments for Embracing AI in Teaching</u></a></li>
+<li><a href="https://windows11.techidaily.com/proven-file-sync-software-the-most-trusted-windows-picks/"><u>Proven File Sync Software: The Most Trusted Windows Picks</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-tips-for-syncing-two-windows-displays/"><u>Quick Tips for Syncing Two Windows Displays</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-repair-windows-event-viewer-in-windows-11/"><u>Steps to Repair Windows Event Viewer in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailoring-aesthetics-for-windows-terminal/"><u>Tailoring Aesthetics for Windows Terminal</u></a></li>
+<li><a href="https://windows11.techidaily.com/tutorial-enabling-or-disabling-wi-fi-cost-meter-in-windows-11/"><u>Tutorial: Enabling or Disabling Wi-Fi Cost Meter in Windows 11</u></a></li>
 </ul></div>
 

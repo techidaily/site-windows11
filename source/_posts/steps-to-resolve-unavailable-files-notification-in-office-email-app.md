@@ -1,7 +1,7 @@
 ---
 title: Steps to Resolve 'Unavailable' Files Notification in Office Email App
-date: 2024-11-30T21:29:32.334Z
-updated: 2024-12-04T03:05:32.829Z
+date: 2024-12-07T17:08:43.160Z
+updated: 2024-12-10T16:50:25.300Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/662c307b916403e88dc997e74395824da6bd2c653
 
  To avoid this, ensure that the appropriate app or software for the file format is available on your computer. After that, Outlook should be able to preview your files without any problems.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Disable Preview Handler in PowerToys
 
  Using Microsoft PowerToys is an excellent way to[boost your productivity on Windows computers](https://www.makeuseof.com/set-up-windows-pc-maximum-productivity/) . However, these PowerToys utilities can sometimes interfere with app processes and prevent apps from working properly.
@@ -41,14 +45,6 @@ thumbnail: https://thmb.techidaily.com/662c307b916403e88dc997e74395824da6bd2c653
 2. Switch to the**File Explorer add-ons** tab using the left sidebar.
 3. Under the**Preview Pane** section, disable the toggle next to**Portable Document Format** .  
 ![Disable Preview Handlers in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disable-preview-handlers-in-powertoys.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Enable Attachment Preview in Outlook
 
@@ -62,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/662c307b916403e88dc997e74395824da6bd2c653
 6. Click on**Attachment and Document Previewers** and make sure all the previewers are active. Then, click**OK** .
 7. Restart the Outlook app after this and see if you can preview attachments.  
 ![Attachment Handling in Outlook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/attachment-handling-in-outlook.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Change Outlook User Interface Settings
 
@@ -88,7 +88,7 @@ To delete Outlook cache data on Windows, use these steps:
 ![Delete Outlook Cache Data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/delete-outlook-cache-data.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Enable Windows Firewall
@@ -103,10 +103,6 @@ To delete Outlook cache data on Windows, use these steps:
 4. Choose a network profile.
 5. Enable the toggle for**Windows Defender Firewall** .  
 ![Enable Microsoft Defender Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-microsoft-defender-firewall.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Modify Registry Files
 
@@ -134,7 +130,7 @@ To delete Outlook cache data on Windows, use these steps:
 ![Edit String in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/edit-string-in-registry.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Run the Microsoft Office Repair Tool
@@ -147,10 +143,14 @@ To delete Outlook cache data on Windows, use these steps:
 4. Select**Quick Repair** and then click**Repair** .  
 ![Repair Microsoft Office](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/repair-microsoft-office.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait for the process to finish and check if you can preview files. If you can't, repeat the above steps to perform an**Online Repair** . As suggestive of its name, this process does necessitate an active internet connection on your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Preview Your Outlook Attachments Again on Windows
@@ -174,24 +174,19 @@ To delete Outlook cache data on Windows, use these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-the-essential-guide-to-top-analytics-platforms-for-better-instagram-metrics-for-2024/"><u>[New] The Essential Guide to Top Analytics Platforms for Better Instagram Metrics for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-crafting-content-that-captivates-easy-to-try-videos/"><u>[Updated] Crafting Content That Captivates Easy-to-Try Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-navigating-the-world-of-spotifys-advertising-landscape/"><u>[Updated] Navigating the World of Spotify's Advertising Landscape</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-top-5-hdmi-21-gaming-monitors-you-can-find/"><u>2024 Approved Top 5 HDMI 2.1 Gaming Monitors You Can Find</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-emulate-macos-layout-in-windows-top-5-strategies/"><u>How to Emulate macOS Layout in Windows: Top 5 Strategies</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-review-of-samsung-galaxy-watch-3-classic-aesthetics-upgraded-for-todays-tech-enthusiasts/"><u>In-Depth Review of Samsung Galaxy Watch 3: Classic Aesthetics Upgraded for Today's Tech Enthusiasts</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-have-you-ever-used-an-adjustment-layer-in-photoshop-read-this-article-to-find-out-how-to-add-resize-change-and-use-an-adjustment-layer-in-/"><u>New 2024 Approved Have You Ever Used an Adjustment Layer in Photoshop? Read This Article to Find Out How to Add, Resize, Change, and Use an Adjustment Layer in Photoshop Efficiently</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-the-soon-to-end-license-alert-in-winoses/"><u>Overcoming the Soon-to-End License Alert in WinOSes</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-fixes-for-reducing-excessive-requests-in-win-based-software/"><u>Quick Fixes for Reducing Excessive Requests in Win-Based Software</u></a></li>
-<li><a href="https://windows11.techidaily.com/repairing-broken-windows-11-taskbar/"><u>Repairing Broken Windows 11 Taskbar</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/simplify-your-workflow-mastering-component-and-group-modifications/"><u>Simplify Your Workflow: Mastering Component & Group Modifications</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-for-restarting-windows-default-settings/"><u>Steps for Restarting Windows Default Settings</u></a></li>
-<li><a href="https://windows11.techidaily.com/syncing-apples-calendars-to-your-windoze-1011-pc/"><u>Syncing Apple’s Calendars to Your Windoze 10/11 PC</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-hook-up-guide-scripts-to-seduce-listeners/"><u>The Hook-Up Guide Scripts to Seduce Listeners</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-windows-11s-swift-access-shortcuts/"><u>Unlocking Windows 11'S Swift Access Shortcuts</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-the-best-4-windows-compatible-webp-image-vendors/"><u>Unveiling The Best 4 Windows-Compatible WebP Image Vendors</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-the-full-potential-of-windows-snip-and-sketch-capabilities/"><u>Unveiling the Full Potential of Windows' Snip and Sketch Capabilities.</u></a></li>
-<li><a href="https://change-location.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Samsung Galaxy S24 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/x-recorder-plus-professional-edition/"><u>X-Recorder Plus - Professional Edition</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-secret-behind-successful-igtv-uploads-from-h-videos/"><u>[New] 2024 Approved The Secret Behind Successful IGTV Uploads From H-Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-opinion-on-slomo-recording-softwares-latest-version/"><u>[New] Expert Opinion on SloMo Recording Software's Latest Version</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-monetary-aspects-of-shopping-reviews-vlogs/"><u>[New] Monetary Aspects of Shopping Reviews Vlogs?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-dos-and-donts-of-instagram-live-for-2024/"><u>[New] The Do's and Don'ts of Instagram Live for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/achieve-fluency-in-finnish-with-expert-online-guidance/"><u>Achieve Fluency in Finnish with Expert Online Guidance</u></a></li>
+<li><a href="https://win-blog.techidaily.com/enhancing-visual-clarity-and-response-time-fixing-frame-rate-issues-in-valorant-comprehensive-tips/"><u>Enhancing Visual Clarity and Response Time: Fixing Frame Rate Issues in Valorant - Comprehensive Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-detect-and-dislodge-suddenly-installed-rav-antivirus/"><u>How to Detect & Dislodge Suddenly Installed Rav Antivirus</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-thankful-innovations-premium-and-budget-outro-themes/"><u>In 2024, Thankful Innovations Premium & Budget Outro Themes</u></a></li>
+<li><a href="https://windows11.techidaily.com/leveling-web-speeds-for-seamless-experience/"><u>Leveling Web Speeds for Seamless Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/liberating-windows-past-a-set-of-three-tactics/"><u>Liberating Windows Past - A Set of Three Tactics</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fixes-for-a-polished-w11-workspace/"><u>Quick Fixes for a Polished W11 Workspace</u></a></li>
+<li><a href="https://windows11.techidaily.com/transform-your-view-simple-fixes-for-windows-11-screen-haze/"><u>Transform Your View: Simple Fixes for Windows 11 Screen Haze</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-windows-operations-formulating-and-scrutinizing-reports/"><u>Understanding Windows Operations: Formulating & Scrutinizing Reports</u></a></li>
 </ul></div>
 

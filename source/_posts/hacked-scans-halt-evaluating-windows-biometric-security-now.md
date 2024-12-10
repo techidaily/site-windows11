@@ -1,7 +1,7 @@
 ---
 title: "Hacked Scans Halt: Evaluating Window's Biometric Security Now"
-date: 2024-12-02T20:04:36.915Z
-updated: 2024-12-03T22:21:46.497Z
+date: 2024-12-09T21:00:38.862Z
+updated: 2024-12-10T19:03:03.753Z
 tags:
   - windows10
   - windows11
@@ -26,16 +26,12 @@ thumbnail: https://thmb.techidaily.com/de25cad762d1b1da1023e95cc7ce6ed0cc716ab65
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can People Hack Windows Hello Fingerprint Scanners?
 
 ![Lock Having Fingerprint in the Middle on Blue Background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/passwords-are-a-thing-of-the-past-passwordless-logins-benefits.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If a hacker wants to bypass a fingerprint scanner on a Windows machine, they're aiming to get past a service called Windows Hello. This service handles how you log into Windows, such as PINs, facial scans, and fingerprint scans.
 
@@ -49,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/de25cad762d1b1da1023e95cc7ce6ed0cc716ab65
 
  To dodge Windows Hello, the hackers uploaded their fingerprints to the Linux database, assigned it the same ID as the user on Windows, and then tried to log into Windows with their fingerprints. During the authentication process, they redirected the packet to the Linux database, which told Windows that the user at the specified ID was ready to log in.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How the Hackers Breached Windows Hello on the Lenovo ThinkPad T14
 
  For the Lenovo ThinkPad, the hackers discovered that the laptop used a custom encryption method to verify fingerprints. With some work, the hackers managed to decrypt it, giving them a way into the fingerprint verification process.
@@ -62,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/de25cad762d1b1da1023e95cc7ce6ed0cc716ab65
 ### How the Hackers Breached Windows Hello on the Microsoft Surface Pro Type Cover
 
  The hackers believed the Surface Pro would be the hardest device to crack, but they were surprised to find the Surface Pro lacked a lot of security measures for checking valid fingerprints. In fact, they discovered that they only had to dodge past one defense, then tell the Surface Pro that the fingerprint scan was successful, and the device let them in.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Do These Hacks Mean for You?
 
@@ -73,12 +69,16 @@ thumbnail: https://thmb.techidaily.com/de25cad762d1b1da1023e95cc7ce6ed0cc716ab65
 
  The reason threats like [ransomware as a service](https://www.makeuseof.com/what-is-ransomware-as-a-service/) are so deadly is that anyone with minimal cybersecurity can use them. However, the above hacks require a high level of expertise, with a deep understanding of how devices authenticate fingerprints and how to avoid them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. The Attacks Require the Attacker to Physically Interact With the Device
 
  The hackers must have physical contact with the device to perform the above hacks. In the report, the hackers stated they might be able to create USB devices that can perform the attack once plugged in, but that means a potential attacker needs to plug something into your PC to hack it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. The Attacks Only Work on Specific Devices
@@ -88,7 +88,7 @@ thumbnail: https://thmb.techidaily.com/de25cad762d1b1da1023e95cc7ce6ed0cc716ab65
  While these hacks may sound scary, they'll be challenging to perform against actual targets. The hacker will likely have to steal the device to perform these hacks, which would undoubtedly alert the previous owner.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Stay Safe From Fingerprint Hacking
@@ -121,20 +121,20 @@ thumbnail: https://thmb.techidaily.com/de25cad762d1b1da1023e95cc7ce6ed0cc716ab65
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-advanced-tutorial-exploiting-googles-automatic-transcription-features/"><u>2024 Approved Advanced Tutorial Exploiting Google's Automatic Transcription Features</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/advanced-color-grading-techniques-with-luts-for-after-effects-users/"><u>Advanced Color Grading Techniques with LUTs for After Effects Users</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/canon-printer-not-printing-conquer-this-issue-with-our-top-5-solutions-for-windows-11/"><u>Canon Printer Not Printing? Conquer This Issue with Our Top 5 Solutions for Windows 11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/disabling-the-audio-narration-feature-in-your-samsung-television/"><u>Disabling the Audio Narration Feature in Your Samsung Television</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-vivo-y27s-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Vivo Y27s | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-to-showhide-directories-on-modern-windows-11-pcs/"><u>Guide to Show/Hide Directories on Modern Windows 11 PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-plain-out-windows-edges/"><u>How to Plain Out Windows Edges</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Tecno Pova 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/iphoneandroid-your-smartphone-as-a-windows-microphone/"><u>IPhone/Android: Your Smartphone as a Windows Microphone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/key-techniques-to-optimize-igtv-video-dimensions/"><u>Key Techniques to Optimize IGTV Video Dimensions</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-image-spin-6-tactics-for-windows-11/"><u>Mastering Image Spin: 6 Tactics for Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-art-of-quick-start-for-rdc-on-windows-11/"><u>Mastering the Art of Quick Start for RDC on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-local-gpo-on-windows-with-ease/"><u>Navigating Local GPO on Windows with Ease</u></a></li>
-<li><a href="https://windows11.techidaily.com/preventing-error-x8019-on-windows-xp/"><u>Preventing Error X8019 on Windows XP</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/the-ultimate-handbook-for-vr-gameplay-capture/"><u>The Ultimate Handbook for VR Gameplay Capture</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-harmonious-hushes-softening-sounds-with-garageband/"><u>[New] Harmonious Hushes Softening Sounds with Garageband</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nspecting-dialogues-in-youtube-vids-for-2024/"><u>[New] Inspecting Dialogues in YouTube Vids for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-visual-polishing-in-meetings-blurring-backgrounds-on-teammeeting-for-2024/"><u>[New] Visual Polishing in Meetings Blurring Backgrounds on TeamMeeting for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-secrets-of-captivating-imagery-puzzles/"><u>[Updated] Unveiling the Secrets of Captivating Imagery Puzzles</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-virtual-journey-logging-top-6-methods-for-minecraft-recordings/"><u>[Updated] Virtual Journey Logging Top 6 Methods for Minecraft Recordings</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-task-monitor-in-win-11-accelerating-real-time-updates/"><u>Boosting Task Monitor in Win 11: Accelerating Real-Time Updates</u></a></li>
+<li><a href="https://extra-information.techidaily.com/chromatic-confluence-blending-colors-with-flair/"><u>Chromatic Confluence Blending Colors with Flair</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-code-0x800700e1-problems-in-windows-11/"><u>Fixing Code 0X800700E1 Problems in Windows 11</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/global-chatter-quickstart-guide-simplest-languages/"><u>Global Chatter Quickstart Guide: Simplest Languages</u></a></li>
+<li><a href="https://windows11.techidaily.com/guiding-through-a-windows-systems-exception-breaking-point-issue/"><u>Guiding Through a Windows System's Exception Breaking Point Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-enjoy-desktop-wallpapers-in-their-best-quality-on-windows-11/"><u>How to Enjoy Desktop Wallpapers in Their Best Quality on Windows 11</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-discover-leading-free-apps-excellent-srt-file-converters/"><u>In 2024, Discover Leading Free Apps Excellent Srt File Converters</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/quick-guide-to-french-pronunciation-how-to-speak-french-like-a-native/"><u>Quick Guide to French Pronunciation – How to Speak French Like a Native</u></a></li>
+<li><a href="https://windows11.techidaily.com/six-secrets-to-spinning-pictures-in-w11-os/"><u>Six Secrets to Spinning Pictures in W11 OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-prevent-microsoft-teams-freeze-in-ws11ws10/"><u>Strategies to Prevent Microsoft Teams Freeze in WS11/WS10</u></a></li>
 </ul></div>
 

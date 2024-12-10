@@ -1,7 +1,7 @@
 ---
 title: "Seamless Windows Upgrades: Mastering the Installation of Elusive Features"
-date: 2024-11-28T00:09:54.991Z
-updated: 2024-12-04T00:58:37.865Z
+date: 2024-12-09T20:34:04.214Z
+updated: 2024-12-10T21:57:59.422Z
 tags:
   - windows10
   - windows11
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/a24327de3f954b0afa1a21a400dc142c840e7eb4a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Use the DISM Tool
 
  One of the first things you can try is using the Deployment Image Servicing and Management (DISM) tool. This tool is part of Windows, and you can use it to fix corrupt system files, including ones that could be causing problems when installing optional features.
@@ -37,6 +41,10 @@ To use the DISM tool, follow these steps:
 2. Type**cmd** and click**Run as administrator** to open the Command Prompt.
 3. Type**dism /online /cleanup-image /restorehealth** and press**Enter** .  
 ![DISM Windows Utility Overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/dism-windows-utility.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This will start the DISM tool and begin scanning your system for any corrupt or missing files. If it finds any issues with your computer, it will automatically repair them.
 
@@ -55,17 +63,9 @@ To check your system using SFC, follow these steps:
 ![SFC Utility In Windows Overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-utility-in-windows.jpg)
 3. Once SFC scans for errors, make sure to restart your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Want to know the best part?
 
  The best part is that the System File Checker not only helps you fix the optional features problem but also any other Windows issues. In fact, it's one of the best[ways to repair corrupted Windows files](https://www.makeuseof.com/windows-built-in-repair-tools/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Reset the Windows Update Components
 
@@ -104,20 +104,16 @@ Follow these steps to run the update troubleshooter on Windows:
 ![Troubleshooter Settings In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/troubleshooter-settings-in-windows.jpg)
 3. Click**Run** next to**Windows Update** to run the troubleshooter.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Other Troubleshooters In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/other-troubleshooters-in-windows.jpg)
 4. Follow the prompts to complete the troubleshooting process.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you're using Windows 10, the Windows Update Troubleshooter is in**Settings > Update & Security >** **Troubleshoot > Windows Update** .
 
  The troubleshooter will begin scanning your system for any issues with the update process and will offer suggestions for how to fix them. So, you just need to follow the prompts, and then try[installing the optional features](https://www.makeuseof.com/how-to-add-remove-optional-features-windows-11/) again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Update Windows to the Latest Version
 
@@ -135,10 +131,6 @@ Here's how you can update Windows to the latest version:
 
  By default, Windows automatically downloads and installs updates, but you can also check for updates manually by following the steps above.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Restart the Windows Module Installer Service
 
  The Windows Module Installer service allows you to install, change, and remove Windows features and optional components. If it is not working properly, it can make it difficult to install optional features.
@@ -151,13 +143,13 @@ Here's how you can update Windows to the latest version:
 4. Right-click on the service and select**Restart** .  
 ![Windows Modules Installer Service In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-modules-installer-service.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When you reset the module installer service, Windows tries to stop it and then start it again, which can help reset the installation process of optional features and fix any issues that might be causing problems.
 
  Once the service restarts, try installing the optional feature again, and it should work now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Restore Windows Features Using PowerShell
 
@@ -172,10 +164,18 @@ Get-WindowsOptionalFeature -Online
 ![Get Optional Feature Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/get-optional-feature-command.jpg)  
  This command will show you the**FeatureName** and**State** of every optional Windows feature that you can use. Make sure to copy the "**FeatureName** " of the feature that you want to enable on Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. To turn on a certain feature, use the following command and replace "**FEATURENAME** " with the feature's name that you copied earlier:  
 Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME  
 ![Enable Optional Feature Command In PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/optional-feature-in-powershell.jpg)
 5. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This will add the feature back to your system and should make it available for you to enable or disable in the features window.
 
@@ -202,24 +202,20 @@ Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/tep-by-step-process-for-free-youtube-video-texting-for-2024/"><u>[New] Step-by-Step Process for FREE YouTube Video Texting for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-unleashing-creativity-converting-youtube-videos-into-captivating-gifs/"><u>[Updated] 2024 Approved Unleashing Creativity Converting YouTube Videos Into Captivating GIFs</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-fb-livestream-success-on-television-four-pathways-for-2024/"><u>[Updated] FB Livestream Success on Television Four Pathways for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-enhancing-obs-on-a-thrifty-computer/"><u>[Updated] In 2024, Enhancing OBS on a Thrifty Computer</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unlock-your-creativity-with-top-title-methods/"><u>2024 Approved Unlock Your Creativity with Top Title Methods</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/expertly-curated-webcams-for-ultimate-zoom-video-conferencing/"><u>Expertly Curated Webcams for Ultimate Zoom Video Conferencing</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-windows-11-ignore-or-prevent-expiry-errors/"><u>Fixing Windows 11: Ignore or Prevent 'Expiry' Errors?</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/ideal-5k-tactile-gaming-sets-8-for-2024/"><u>Ideal 5K Tactile Gaming Sets (#8) for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-oppo-reno-11f-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Oppo Reno 11F 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-insights-from-toms-hardware-hub/"><u>Mastering Technology Insights From Tom's Hardware Hub</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-art-of-fixing-nvidia-cp-errors-in-ws1110/"><u>Mastering the Art of Fixing Nvidia CP Errors in WS11/10</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-fix-how-to-resolve-issues-with-non-functioning-steamvr/"><u>Quick Fix: How to Resolve Issues with Non-Functioning SteamVR</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-guide-to-correctly-handle-windows-updater-issue-error-0x80070003/"><u>Step-by-Step Guide to Correctly Handle Windows' Updater Issue (Error 0X80070003)</u></a></li>
-<li><a href="https://windows11.techidaily.com/sustained-prominence-of-win-calculator-display/"><u>Sustained Prominence of Win Calculator Display</u></a></li>
-<li><a href="https://windows11.techidaily.com/unblock-onedrive-windows-methods-to-reclaim-file-storage/"><u>Unblock OneDrive: Windows Methods to Reclaim File Storage</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-the-power-of-component-services-in-windows-11/"><u>Unlocking the Power of Component Services in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/wake-lock-woes-keyboard-mouse-in-win11/"><u>Wake Lock Woes: Keyboard, Mouse in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11-adjusting-your-personalized-fn-keys/"><u>Windows 11: Adjusting Your Personalized FN Keys</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-paper-management-reboot-steps/"><u>Windows Paper Management Reboot Steps</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-apex-fb-platforms-topping-the-10-list/"><u>[Updated] In 2024, Apex FB Platforms Topping the 10 List</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/assessing-the-usefulness-of-instas-verified-posts-for-2024/"><u>Assessing the Usefulness of Insta’s Verified Posts for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/beyond-boundaries-3-tools-that-elevate-pc-audio-above-100/"><u>Beyond Boundaries: 3 Tools That Elevate PC Audio Above 100%</u></a></li>
+<li><a href="https://windows11.techidaily.com/detailed-exploration-retrieving-the-true-nature-of-device-ids-in-windows/"><u>Detailed Exploration: Retrieving the True Nature of Device IDs in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/digital-dot-delights-top-8-desktop-note-alternatives/"><u>Digital Dot Delights: Top 8 Desktop Note Alternatives</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhanced-connectivity-with-hp-laserjet-and-windows-11-drivers/"><u>Enhanced Connectivity with HP Laserjet and Windows 11 Drivers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/from-airplay-to-download-effortless-apods-access/"><u>From AirPlay to Download Effortless APods Access</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-your-computers-potential-a-wintoy-guidebook/"><u>Master Your Computer's Potential: A Wintoy Guidebook</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolve-compromised-windows-defender-in-windows-11/"><u>Resolve Compromised Windows Defender in Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/resolving-compatibility-problems-with-hp-monitors-on-windows-operating-systems-1187/"><u>Resolving Compatibility Problems with HP Monitors on Windows Operating Systems (11/8/7)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-atandt-cell-phone-offers-in-may-2024-exclusive-insights/"><u>Top AT&T Cell Phone Offers in May 2024: Exclusive Insights</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-free-and-paid-alternatives-to-imovie-for-windows-users/"><u>Top Free and Paid Alternatives to iMovie for Windows Users</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/transform-your-airborran-viewing-20-free-dji-drone-luts-offer-for-2024/"><u>Transform Your Airborran Viewing - 20 FREE DJI Drone LUTS Offer for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/transforming-text-to-art-obsidian-canvas-techniques/"><u>Transforming Text to Art: Obsidian Canvas Techniques</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolving-continuous-crashes-in-immortals-of-fenyx-rising/"><u>Troubleshooting Guide: Resolving Continuous Crashes in Immortals of Fenyx Rising</u></a></li>
 </ul></div>
 

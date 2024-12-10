@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Shortcut Compendium: Windows Narrator's Command Guide"
-date: 2024-08-15T16:18:26.318Z
-updated: 2024-08-16T16:18:26.318Z
+date: 2024-12-06T17:16:11.298Z
+updated: 2024-12-10T18:30:31.422Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/83a5e7f4b304717df57e5c96a8beb60fe39d76126
 
  In this article, we've put together a complete list of legacy keyboard shortcuts that you can use to make your Narrator experience more seamless.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Do I Switch Between Legacy and Standard Keyboard Layouts?
 
  There are two popular keyboard layouts for Narrator: Legacy and Standard. The Legacy keyboard layout was traditionally used on computers before the widespread adoption of the Standard layout. It's still in use today and offers advantages at certain times.
@@ -31,13 +35,18 @@ thumbnail: https://thmb.techidaily.com/83a5e7f4b304717df57e5c96a8beb60fe39d76126
 3. Select**Keyboard layout** from the drop-down menu.  
 ![Change Narrator Keyboard Layout](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/change-narrator-keyboard-layout.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This way, you can switch between the Legacy and Standard layouts.
 
  While this piece just covers the shortcuts, be sure to check out[the beginner's guide to Narrator](https://www.makeuseof.com/beginners-guide-windows-narrator/) for more general tips.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## All the Narrator Legacy Keyboard Shortcuts
 
  Here is a list of keyboard shortcuts that you can use in Narrator to maximize your productivity.
@@ -162,20 +171,18 @@ This way, you can switch between the Legacy and Standard layouts.
 | Narrator + Q                                | Move to last item in containing area                                  |
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Get More Out of Windows Narrator
 
  Windows Narrator is an incredible tool for people with low vision or blindness, but its features can be used by anyone. Whether you need to quickly find a file or hear today’s news summary, Narrator can help you get the job done. You will find here a list of keyboard shortcuts to help you get more done with Narrator.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -184,4 +191,21 @@ This way, you can switch between the Legacy and Standard layouts.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convert-videos-for-free-mp4-and-mpe-formats-handled-by-movavis-easy-online-tool/"><u>Convert Videos for Free: MP4 & MPE Formats Handled by Movavi's Easy Online Tool</u></a></li>
+<li><a href="https://techtrends.techidaily.com/customizing-your-pc-tips-for-altering-the-color-of-the-taskbar-in-windows-11/"><u>Customizing Your PC: Tips for Altering the Color of the Taskbar in Windows 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Nokia 150 (2023)? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-make-sure-your-temp-folder-is-valid-error-in-windows-11/"><u>How to Fix the Make Sure Your Temp Folder Is Valid Error in Windows 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/improving-online-sessions-with-increased-zoom-for-2024/"><u>Improving Online Sessions with Increased Zoom for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-building-a-robust-brand-partnership-portfolio-on-youtube/"><u>In 2024, Building a Robust Brand Partnership Portfolio on YouTube</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/navigating-the-path-stream-your-google-meet-chats-to-youtube/"><u>Navigating the Path Stream Your Google Meet Chats to YouTube</u></a></li>
+<li><a href="https://windows11.techidaily.com/powershell-mastery-for-windows-administrators/"><u>PowerShell Mastery for Windows Administrators</u></a></li>
+<li><a href="https://windows11.techidaily.com/proactive-measures-to-increase-virtual-memory-in-windows-11-operations/"><u>Proactive Measures to Increase Virtual Memory in Windows 11 Operations</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-glance-uncovering-graphics-card-version-win11/"><u>Quick Glance: Uncovering Graphics Card Version, Win11</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/reliable-iphone-data-retrieval-tool-safeguard-your-memories-and-information/"><u>Reliable iPhone Data Retrieval Tool: Safeguard Your Memories and Information</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-system-calls-failure-on-win1011/"><u>Troubleshooting System Calls Failure on Win10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/win1011-recycle-troubleshooting-restoring-corruption-error/"><u>Win10/11 Recycle Troubleshooting: Restoring Corruption Error</u></a></li>
+</ul></div>
 

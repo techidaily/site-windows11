@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Msvcr120.dll Missing Error on Windows
-date: 2024-08-15T16:20:12.768Z
-updated: 2024-08-16T16:20:12.768Z
+date: 2024-12-04T18:10:31.890Z
+updated: 2024-12-10T16:57:28.052Z
 tags:
   - windows10
   - windows11
@@ -34,8 +34,9 @@ thumbnail: https://thmb.techidaily.com/98061f90f0702266772c41039bf7505ea26afb887
 ![Repair the Microsoft Visual C++ Redistributable on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-the-microsoft-visual-c-redistributable-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Reinstall Microsoft Visual C++ Redistributable
 
  If updating the Visual C++ Redistributable package does not help, you can try reinstalling it on your PC. To do so, use these steps:
@@ -44,8 +45,9 @@ thumbnail: https://thmb.techidaily.com/98061f90f0702266772c41039bf7505ea26afb887
 2. Select your preferred language using the drop-down menu and click the **Download** button.
 3. Tick the **vcredist\_x64.exe** and **vcredist\_x86.exe** checkboxes and click **Next**.  
 ![Download the Microsoft Visual C++ Redistributable.png](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/download-the-microsoft-visual-c-redistributable-png.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Double-click the downloaded setup file and follow the on-screen prompts to finish the installation process. After that, check if the error occurs again.
@@ -53,8 +55,9 @@ thumbnail: https://thmb.techidaily.com/98061f90f0702266772c41039bf7505ea26afb887
  If you are using 64-bit Windows, you can install both vcredist\_x64.exe and vcredist\_x86.exe. However, if you have a 32-bit version of Windows, you should only install vcredist\_x86.exe. You can [tell if the Windows version you are using is 32-bit or 64-bit](https://www.makeuseof.com/tag/4-easy-ways-to-know-if-youre-on-a-64-bit-version-of-windows/) by checking the system information.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Copy the Msvcr120.dll From Another Computer
 
  While troubleshooting the msvcr120.dll missing error, you might stumble upon websites that promise to fix the error through a quick download of the DLL file. However, doing so can be risky, as the file may be infected by malware.
@@ -65,9 +68,6 @@ thumbnail: https://thmb.techidaily.com/98061f90f0702266772c41039bf7505ea26afb887
 
 ![MSVCR120 in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/msvcr120-in-file-explorer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Update or Reinstall the Problematic Program
 
  If you encounter the msvcr120.dll missing error only when launching a specific app or program, it is likely that the program is unable to access the DLL file. You can try updating the problematic program to its most recent version to see if that helps.
@@ -75,8 +75,9 @@ thumbnail: https://thmb.techidaily.com/98061f90f0702266772c41039bf7505ea26afb887
  If the error persists even after that, you can consider removing the program completely and installing it again. We have a detailed guide on [different ways to uninstall software on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/). You can follow any one of the methods outlined there to uninstall the problematic program. Make sure you [eradicate leftovers from the uninstalled program](https://www.makeuseof.com/windows-remove-leftovers-uninstalled-software/) before reinstalling it on your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Re-Register the Msvcr120.dll File
 
  Re-registering the MSVCR120.dll file on your system refreshes the registration information for the file in the Windows Registry. This can help resolve issues caused by missing or corrupted registry entries that may have led to the error.
@@ -101,8 +102,9 @@ thumbnail: https://thmb.techidaily.com/98061f90f0702266772c41039bf7505ea26afb887
 * **Perform a System Restore:** If the msvcr120.dll missing error has only started appearing recently, you can [use system restore to revert Windows](https://www.makeuseof.com/use-system-restore-windows/) to its earlier state. This will allow you to undo any recent system changes that may have caused the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Restore the Missing the Msvcr120.dll File on Windows
 
  The msvcr120.dll missing error can prevent you from using your favorite apps and programs and waste your time. Fortunately, as with most DLL errors, “The program can’t start because MSVCR120.dll is missing from your computer” can be easily resolved if you apply the above-mentioned fixes.
@@ -111,11 +113,30 @@ thumbnail: https://thmb.techidaily.com/98061f90f0702266772c41039bf7505ea26afb887
 
  Whatever the cause, fixing the msvcr120.dll missing error on Windows isn’t too difficult. Here are the solutions you need to try.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-tracing-the-flow-of-money-in-consumer-opinions/"><u>[New] In 2024, Tracing the Flow of Money in Consumer Opinions</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-soundscapes-unleashed-a-guide-to-professional-audio-recording/"><u>[Updated] 2024 Approved Soundscapes Unleashed A Guide to Professional Audio Recording</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-best-camcorders-featuring-direct-faceviewing/"><u>[Updated] Best Camcorders Featuring Direct FaceViewing</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-digital-discussion-documentary-for-2024/"><u>[Updated] Digital Discussion Documentary for 2024</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/dj-christmas-essentials-ultimate-shaders-collection-for-dex-3-and-lyrx-events-seasonal-music-boosters/"><u>DJ Christmas Essentials: Ultimate Shaders Collection for DEX 3 and LYRX Events | Seasonal Music Boosters</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-tips-for-instantly-generating-numerous-subfolders-on-modern-windows-systems/"><u>Expert Tips for Instantly Generating Numerous Subfolders on Modern Windows Systems</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-accelerating-video-success-on-youtube-for-100kplus-views/"><u>In 2024, Accelerating Video Success on YouTube for 100K+ Views</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/leveraging-system-restore-your-key-to-past-windows-configurations/"><u>Leveraging System Restore: Your Key to Past Windows Configurations</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/omnicharge-omni-20-power-bank-comprehensive-review-versatile-charging-and-qi-wireless-features-explored/"><u>Omnicharge Omni 20 Power Bank Comprehensive Review - Versatile Charging & Qi Wireless Features Explored</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-files-with-powertoys-a-comprehensive-tutorial/"><u>Optimizing Files with PowerToys: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-your-workflow-embracing-the-shift-in-ram-standards/"><u>Optimizing Your Workflow: Embracing the Shift in RAM Standards</u></a></li>
+<li><a href="https://techidaily.com/solution-found-accelerating-your-slow-and-unresponsive-laptop-or-desktop-system/"><u>Solution Found: Accelerating Your Slow and Unresponsive Laptop or Desktop System</u></a></li>
+<li><a href="https://windows11.techidaily.com/tactics-for-fixing-no-available-on-nvidia-display-error/"><u>Tactics for Fixing 'No Available' On Nvidia Display Error</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-windows-network-confusion-code-0x800704b3/"><u>Unraveling Windows' Network Confusion - Code: 0X800704B3</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-over-windows-11-22h2-fix-strategies/"><u>Winning Over Windows 11: 22H2 Fix Strategies</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Master the Windows Photo Interface with Keys
-date: 2024-11-29T02:07:52.876Z
-updated: 2024-12-04T04:54:30.062Z
+date: 2024-12-06T16:32:04.903Z
+updated: 2024-12-10T20:21:49.859Z
 tags:
   - windows10
   - windows11
@@ -26,16 +26,12 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## All the Keyboard Shortcuts for Windows Photos
 
  The following keyboard shortcuts will help you use Photos more efficiently:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Play or Pause the Video
 
@@ -45,17 +41,21 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 
  To rotate an image in the Photos app, press the**Ctrl + R** key. This will rotate the image 90 degrees clockwise with each press.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Show or Hide Commands
 
  The shortcut to show or hide commands in the Photos app is the**Spacebar** while viewing a photo. Keep in mind that it only works while viewing a photo.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Scroll Up, Down, Left, or Right
 
  The shortcut to scroll up, down, left, or right in the Photos app is the**Arrow** key. The up and down arrow keys will scroll vertically and the left and right arrow keys will scroll horizontally.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Zoom in or Out of an Image
 
@@ -73,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 
  The shortcut to save in the Photos app is the**Ctrl + S** key. This will save any changes made to a photo or video.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 9\. Print
 
  In the Photos app, the shortcut to print is the**Ctrl + P** key. This will open up a print dialogue box, allowing you to select the printer, paper size, quality, and other options before printing.
@@ -82,7 +86,7 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
  The shortcut to copy in the Photos app is the**Ctrl + C** key. This will copy the current photo or video to the clipboard, so it can be pasted into another location.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 11\. Enhance a Photo
@@ -109,13 +113,13 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 
  In the Photos app, the shortcut to stop a slide show is the**Esc** key. This will close the full-screen slideshow and return you to the main Photos app window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 17\. View File Info
 
  The shortcut to view file info in the Photos app is the**Alt + Enter** key. This will open up a window with detailed information about the selected photo or video, such as its size, and more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 18\. Set As Lock Screen
 
@@ -129,20 +133,20 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 
  The shortcut to remove an album in the Photos app is the**Ctrl + R** key. This will delete the selected album and all of its contents.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 21\. Move Within the Photo
 
  The shortcut to move within a photo in the Photos app is the**Arrow** key. Using the left and right arrow keys will allow you to quickly scroll through the photo, while the up and down arrows will zoom in and out.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 22\. Select an Item and Enter the Selection Mode
 
  The shortcut to select an item and enter Selection mode in the Photos app is the**Spacebar** key.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 23\. Show the Next or Previous Item
@@ -154,16 +158,12 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
  The shortcut to resize, crop or adjust the selective focus area in the Photos app is the**Shift + Arrow** keys. Holding down the Shift key while using the arrow keys will allow you to resize, crop, or adjust the selective focus area.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 25\. Move Crop or Selective Focus Area
 
  The shortcut to move the crop or selective focus area in the Photos app is the**Ctrl + Arrow** keys. Holding down the Ctrl key while using the arrow keys will allow you to move the crop or selective focus area.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Photos App Has More to Offer
 
@@ -184,22 +184,18 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-crafting-compelling-youtube-profile-definitions-for-2024/"><u>[New] Crafting Compelling YouTube Profile Definitions for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-digital-dreamscapes-compared-metaverse-vs-omniverse-in-the-limelight-for-2024/"><u>[New] Digital Dreamscapes Compared Metaverse Vs. Omniverse in the Limelight for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-go-incognito-with-instagram-live-a-comprehensive-guide-to-anonymity-for-2024/"><u>[Updated] Go Incognito with Instagram Live A Comprehensive Guide to Anonymity for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-inside-the-magic-understanding-srts-impact/"><u>[Updated] Inside the Magic Understanding SRT's Impact</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-show-your-appreciation-budget-friendly-video-closings/"><u>[Updated] Show Your Appreciation Budget-Friendly Video Closings</u></a></li>
-<li><a href="https://fox-http.techidaily.com/easy-to-implement-opening-sequences-for-you-for-2024/"><u>Easy-to-Implement Opening Sequences for You for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/fix-lacking-steam-icon-issues-on-windows-pc/"><u>Fix Lacking Steam Icon Issues on Windows PC</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/fixing-delamination-problems-secure-your-3d-prints-with-these-tips/"><u>Fixing Delamination Problems: Secure Your 3D Prints with These Tips</u></a></li>
-<li><a href="https://windows11.techidaily.com/halting-windows-edge-tab-loads-properly/"><u>Halting Windows Edge Tab Loads Properly</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-rectify-the-incorrect-token-call-error-on-win11/"><u>How to Rectify the “Incorrect Token Call” Error on Win11</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-apex-legends-solo-mode-top-choices-for-non-crossplay-gaming/"><u>In 2024, Apex Legends Solo Mode Top Choices for Non-Crossplay Gaming</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your OnePlus Ace 3 | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/reactivating-windows-11-search-tool-performance/"><u>Reactivating Windows 11 Search Tool Performance</u></a></li>
-<li><a href="https://windows11.techidaily.com/reverse-lost-rendering-device-error-in-overwatch-2/"><u>Reverse Lost Rendering Device Error in Overwatch 2</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-tackle-errortoomanyretries-in-wsl-subsystem/"><u>Strategies to Tackle ERROR_TOO_MANY_RETRIES in WSL Subsystem</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-and-tricks-for-restoring-win11s-5g-link/"><u>Tips and Tricks for Restoring Win11’s 5G Link</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-control-panel-access-methods/"><u>Unveiling Control Panel Access Methods</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-no-charge-fb-visual-storyteller-pro-software/"><u>[New] In 2024, No-Charge FB Visual Storyteller Pro Software</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-high-quality-edits-explore-these-9-cloud-apps/"><u>[Updated] 2024 Approved Free, High-Quality Edits Explore These 9 Cloud Apps</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-streamlining-visual-content-applying-texts-to-photos-in-windows-10-for-2024/"><u>[Updated] Streamlining Visual Content Applying Texts to Photos in Windows 10 for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-precision-and-vividness-with-the-benq-sw320-4k-monitor/"><u>2024 Approved Precision & Vividness with the BenQ SW320 4K Monitor</u></a></li>
+<li><a href="https://discover-great.techidaily.com/fast-fixes-for-when-your-external-hdd-isnt-detected-in-windows-11/"><u>Fast Fixes for When Your External HDD Isn't Detected in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-common-minecraft-issues-on-pcs/"><u>Fixing Common Minecraft Issues on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/flawless-system-transition-mastering-windows-11s-in-place-update-process/"><u>Flawless System Transition: Mastering Windows 11'S In-Place Update Process</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-citations-the-ultimate-guide-to-referencing-chatgpt-in-your-work/"><u>Mastering Citations: The Ultimate Guide to Referencing ChatGPT in Your Work</u></a></li>
+<li><a href="https://windows11.techidaily.com/remediation-techniques-for-resource-occupancy-errors-149-chars/"><u>Remediation Techniques for Resource Occupancy Errors (149 Chars)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-artists-pathway-journeying-from-hobbyist-to-professional/"><u>The Artist's Pathway Journeying From Hobbyist to Professional</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-and-resolving-m365-error-30015-26-on-pcs/"><u>Understanding and Resolving M365 Error 30015-26 on PCs</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/what-phone-is-compatible-with-gear-vr-2023-update-for-2024/"><u>What Phone Is Compatible with Gear VR? -2023 Update for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-cleanup-stripping-out-microsoft-store/"><u>Win11 Cleanup: Stripping Out Microsoft Store</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overhauling Fatal Exception Error 0X8007045D on PC
-date: 2024-08-15T16:18:06.698Z
-updated: 2024-08-16T16:18:06.698Z
+date: 2024-12-03T16:34:19.124Z
+updated: 2024-12-10T16:15:52.009Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/272ead7cf67b3a822b77b0890cd7f03854b0d3a76
 
  The error mostly occurs when your computer fails to find or read your files. It can be caused by a host of other reasons as well, be it software or hardware; however, more often than not, the underlying issue is an inability to read files or some error in copying them. So let's look at all the methods you can try to fix the error.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Perform a Windows Update
 
  A simple Windows Update is enough to solve many problems. That's why Microsoft provides a free update service that lets you download and install new patches to fix and update your operating systems' issues.
@@ -39,8 +43,9 @@ thumbnail: https://thmb.techidaily.com/272ead7cf67b3a822b77b0890cd7f03854b0d3a76
 4. Finally, click on**Download & install all** to finish the installation of your new software.
 
 ![windows update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-update-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When you're done, check and see if the 0x8007045d error persists.
@@ -58,8 +63,9 @@ thumbnail: https://thmb.techidaily.com/272ead7cf67b3a822b77b0890cd7f03854b0d3a76
  It isn't unheard of to encounter the 0x8007045d error because of a loosely connected USB stick or CD/DVD drive. So disconnect the external storage from your PC, reconnect it, and then check if it still works.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Download the Affected Files Again
 
  Did you download your files from an external source? If the 0x8007045d error popped up when trying to open a downloaded file, there might have been a glitch during the download, and now you've got yourself a corrupt or incomplete file.
@@ -84,18 +90,15 @@ thumbnail: https://thmb.techidaily.com/272ead7cf67b3a822b77b0890cd7f03854b0d3a76
  As soon as it finds the error, the tool will fix it right then and there. Check and see if the Windows 0x8007045d error is still present.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Copy Your Files From the USB Drive Onto Your PC
 
  Remember the connection problem? If the connection problem is caused by a USB device, moving your files to your local driver first will be a step in the right direction. So, copy your files to any local driver on your PC.
 
  Once done, try and run the installer or the program from your PC, and see if you're still facing the 0x8007045d error.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Check for Driver Errors
 
  Driver errors aren't unheard of in Windows computers—we have a whole guide that addresses[ways to fix your corrupt drivers on Windows](https://www.makeuseof.com/how-to-fix-corrupt-drivers-on-windows-10/) . So if there's a problem with your CD/DVD or USB driver, then the 0x8007045d error is likely to happen. Thankfully, you can address the issue with a built-in tool, though. Here's how:
@@ -105,29 +108,24 @@ thumbnail: https://thmb.techidaily.com/272ead7cf67b3a822b77b0890cd7f03854b0d3a76
 3. Select**Update driver** to begin the update of your driver.
 
 ![device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/device-manager-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The update wizard will launch. If the drivers were the problem, this should fix your error. Alternatively, you can search for the driver manufacturer and manually download the drivers from its website.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fixing the 0x8007045d Error on Your Windows PC
 
  Getting rid of the 0x8007045d error doesn't have to be time-consuming. Hopefully, you were able to quickly fix this debilitating error with the methods we've laid out above.
 
  If you're still struggling with it, though, you should probably give Safe mode a go—an alternate mode of starting up your PC with as few drivers as possible.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -136,4 +134,24 @@ thumbnail: https://thmb.techidaily.com/272ead7cf67b3a822b77b0890cd7f03854b0d3a76
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-making-history-shine-again-instagram-effects-for-your-archive/"><u>[New] 2024 Approved Making History Shine Again Instagram Effects for Your Archive</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-reinstating-windows-photo-viewer-on-windows-10-a-twin-strategy/"><u>[New] 2024 Approved Reinstating Windows Photo Viewer on Windows 10 A Twin Strategy</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/spect-ratios-decoded-youtube-edition-a-quick-reference-guide-for-2024/"><u>[New] Aspect Ratios Decoded YouTube Edition – A Quick Reference Guide for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/from-amateurs-to-experts-a-complete-guide-to-instagram-covers-for-2024/"><u>From Amateurs to Experts A Complete Guide to Instagram Covers for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-resolve-system-call-failure-in-windows-os/"><u>How to Resolve 'System Call Failure' In Windows OS</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-nokia-g42-5g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Nokia G42 5G</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Lava Agni 2 5G? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/outshine-your-connection-exiting-the-windows-100mbps-constraint/"><u>Outshine Your Connection: Exiting the Windows 100Mbps Constraint</u></a></li>
+<li><a href="https://windows11.techidaily.com/reconciling-discrepancies-restoring-ms-to-do-sync/"><u>Reconciling Discrepancies: Restoring MS To-Do Sync</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-a-slept-on-windows-start-button-symbol/"><u>Reviving a Slept-On Windows Start Button Symbol</u></a></li>
+<li><a href="https://win-able.techidaily.com/ring-of-elysium-gaming-optimization-step-by-step-guide-to-raise-your-fps/"><u>Ring of Elysium Gaming Optimization: Step-by-Step Guide to Raise Your FPS</u></a></li>
+<li><a href="https://windows11.techidaily.com/stop-the-screeching-corkscrew-of-your-mouse-wheel/"><u>Stop the Screeching Corkscrew of Your Mouse Wheel</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-true-score-analyzing-recordcasts-performance/"><u>The True Score Analyzing RecordCast's Performance</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-the-mystery-behind-0x80070570-on-pcs-and-laptops/"><u>Unraveling the Mystery Behind 0X80070570 on PCs and Laptops</u></a></li>
+<li><a href="https://windows11.techidaily.com/wincontrol-hub-overseeing-winapp-and-web-traffic/"><u>WinControl Hub: Overseeing WinApp & Web Traffic</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-knowing-which-services-can-be-stopped/"><u>Windows 11: Knowing Which Services Can Be Stopped</u></a></li>
+</ul></div>
 

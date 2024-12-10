@@ -1,7 +1,7 @@
 ---
 title: Tips for Restricting Removable Storage via Windows Settings
-date: 2024-12-02T05:56:11.747Z
-updated: 2024-12-04T03:24:16.508Z
+date: 2024-12-05T18:22:50.760Z
+updated: 2024-12-10T17:37:24.718Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/6bec6b49ef7ec1e5a2c1ba4a21123755124d462c6
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Prevent Others From Installing Any Removable Storage Devices
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/6bec6b49ef7ec1e5a2c1ba4a21123755124d462c6
  Let's start by checking out how you can prevent others from installing any removable storage device into your PC. You can do this using either the Local Group Policy Editor or the Registry Editor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Using the Local Group Policy Editor
@@ -52,22 +52,22 @@ thumbnail: https://thmb.techidaily.com/6bec6b49ef7ec1e5a2c1ba4a21123755124d462c6
 
 ![Clicking the prevent installation of removable devices option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Clicking-the-prevent-installation-of-removable-devices-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Select **Enabled** on the next screen to prevent others from installing removable storage devices into your PC. Alternatively, select **Disabled** or **Not Configured** to restore the default settings.
 
  Finally, press **Apply** and then press **OK** to save these changes.
 
  Struggling to access the LGPE on Windows Home? There are a few tricks you can apply to [access the LGPE on Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/). But if that sounds complicated to you, then skip to the Registry Editor method.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Using the Registry Editor
 
 ![A person typing commands on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-person-typing-commands-on-a-laptop.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Registry Editor is another reliable tool you can use for tweaking system settings and troubleshooting PC issues.
@@ -90,15 +90,15 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows
 
 ![Clicking the DenyRemovableDevices value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Clicking-the-DenyRemovableDevices-value.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, follow these steps:
 
 1. Double-click on the **DenyRemovableDevices** value.
 2. Set the **Value data** as **1** and then press **OK** to prevent others from installing storage devices into your PC. Alternatively, set the **Value data** as **0** and press **OK** to allow others to install removable storage devices on your PC.
 3. Close the Registry Editor and restart your device to save these changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Prevent Others From Installing Specific Removable Storage Devices
 
@@ -119,24 +119,18 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-essential-list-5-leading-youtube-shortened-url-services-for-2024/"><u>[Updated] Essential List 5 Leading YouTube Shortened URL Services for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-best-places-to-find-3d-silver-and-gold-lettering-effects/"><u>2024 Approved Best Places to Find 3D Silver and Gold Lettering Effects</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-premier-playwriting-for-podcasts-and-radios/"><u>2024 Approved Premier Playwriting for Podcasts & Radios</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-always-show-task-manager-on-top-of-other-open-windows/"><u>How to Always Show Task Manager on Top of Other Open Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-open-the-calculator-in-windows-11/"><u>How to Open the Calculator in Windows 11</u></a></li>
-<li><a href="https://win-blog.techidaily.com/improve-dota-2-gaming-experience-overcome-frame-rate-drops-on-windows-1110/"><u>Improve Dota 2 Gaming Experience: Overcome Frame Rate Drops on Windows 11/10</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/kickstarting-a-vlog-key-hardware-and-apps-for-2024/"><u>Kickstarting a Vlog Key Hardware & Apps for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/master-your-coding-skills-with-windows-11-notebook-the-new-ai-powered-guide-to-decoding-programming-constructs/"><u>Master Your Coding Skills with Windows 11 Notebook - The New AI-Powered Guide to Decoding Programming Constructs</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-win11-settings-for-defaults/"><u>Navigating Win11 Settings for Defaults</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-freeze-frames-in-windows-league-of-legends/"><u>Overcoming Freeze Frames in Windows League of Legends</u></a></li>
-<li><a href="https://windows11.techidaily.com/overhauling-fatal-exception-error-0x8007045d-on-pc/"><u>Overhauling Fatal Exception Error 0X8007045D on PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-unresponsive-laptop-mouse-problems-with-simple-usb-fixes/"><u>Solve Unresponsive Laptop Mouse Problems with Simple USB Fixes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-for-ios-devotees-how-to-refresh-the-firmware-on-an-apple-studio-display/"><u>Step-by-Step Tutorial for iOS Devotees: How to Refresh the Firmware on an Apple Studio Display</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-data-management-in-windows-with-custom-commands/"><u>Streamlining Data Management in Windows with Custom Commands</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/techniques-for-clearing-darkened-windows-remote-pc/"><u>Techniques for Clearing Darkened Windows Remote PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-secret-of-eradicating-linguistic-line-from-win11-taskbar/"><u>The Secret of Eradicating Linguistic Line From Win11 Taskbar</u></a></li>
-<li><a href="https://windows11.techidaily.com/two-email-systems-together-merging-gmail-and-outlook-in-windows/"><u>Two Email Systems Together: Merging Gmail and Outlook in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-widget-personalization-in-microsofts-latest-os/"><u>Unveiling Widget Personalization in Microsoft's Latest OS</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-10-wont-turn-off-here-are-the-fixes-to-your-computer-issue-resolved/"><u>Windows 10 Won’t Turn Off? Here Are the Fixes to Your Computer Issue - RESOLVED</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-mastering-documentary-script-artistry/"><u>[New] 2024 Approved Mastering Documentary Script Artistry</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-essential-gopro-video-editor-companies-for-2024/"><u>[Updated] Essential GoPro Video Editor Companies for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-crucial-windows-apps-making-mac-to-windows-swap-a-breeze/"><u>5 Crucial Windows Apps Making Mac to Windows Swap a Breeze</u></a></li>
+<li><a href="https://win11.techidaily.com/adding-removable-storage-via-explore-navigation-menu/"><u>Adding Removable Storage via Explore Navigation Menu</u></a></li>
+<li><a href="https://windows11.techidaily.com/five-innovative-ways-to-personalize-windows-11-search/"><u>Five Innovative Ways to Personalize Windows 11 Search</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-persistent-vscode-crashes-on-windows-11/"><u>Fixing Persistent VSCode Crashes on Windows 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-is-product-review-vlog-paid/"><u>In 2024, Is Product Review Vlog Paid</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-proven-steps-to-create-high-impact-facebook-video-ads/"><u>In 2024, Proven Steps to Create High-Impact Facebook Video Ads</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-batch-filename-changes-with-powertoys/"><u>Mastering Batch-Filename Changes with PowerToys</u></a></li>
+<li><a href="https://windows11.techidaily.com/moment-by-moment-synchronize-windows-clock/"><u>Moment by Moment: Synchronize Windows Clock</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-obstacles-inaccessible-network-router-interface/"><u>Overcoming Obstacles: Inaccessible Network Router Interface</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-silent-reading-mode-on-ms-word-for-win-users/"><u>Troubleshooting Silent Reading Mode on MS Word for Win Users</u></a></li>
 </ul></div>
 

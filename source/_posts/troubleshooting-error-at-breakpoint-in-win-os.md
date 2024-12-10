@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Error at Breakpoint in Win OS
-date: 2024-08-08T06:14:44.485Z
-updated: 2024-08-09T06:14:44.485Z
+date: 2024-12-07T17:06:37.956Z
+updated: 2024-12-10T21:31:50.596Z
 tags:
   - windows10
   - windows11
@@ -22,25 +22,17 @@ thumbnail: https://thmb.techidaily.com/ce2c767b4ea66790422350863194f4cca1e1e1f1b
 
  There might be a malware infection, incorrect paging file settings, or some of the system files got corrupted. Fortunately, we’ve put together a quick guide to help you fix the problem no matter the cause.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ## 1\. Update the Problematic App
 
  As you go through the troubleshooting process, it will help determine if the problem is limited to a single app or if you’re dealing with some more serious, such as system files corruption.
 
  Start by launching the apps that you constantly use. But this time, wait for a few moments after each app successfully launches. If Windows displays the “An Exception Breakpoint Has Been Reached” error during or after opening a certain app, you should focus on fixing it.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![microsoft app updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/microsoft-app-updates.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In general, Windows automatically update apps installed through Microsoft Store. But there’s a chance something went wrong during the last update, and you’re now stuck with an outdated app version. However, you can [update Microsoft Store apps](https://www.makeuseof.com/update-apps-windows-11/) by yourself.
 
@@ -49,31 +41,29 @@ thumbnail: https://thmb.techidaily.com/ce2c767b4ea66790422350863194f4cca1e1e1f1b
  When doing so, download the app through its official website to avoid infecting your computer with malware.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Repair System Files
 
  Corrupted or missing system files might be the reason why you keep running into the “An Exception Breakpoint Has Been Reached” error. Fortunately, Windows comes with built-in [tools to help you repair system files](https://www.makeuseof.com/windows-built-in-repair-tools/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Stop Overclocking
 
  There's a chance the error isn't related to any installed apps. If you run into the breakpoint error while Windows performs intensive tasks, it might be a sign of an incorrect overclocked GPU or CPU. In this case, try to stop overclocking your system and check if Windows still shows the same error.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Two RAM Modules](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/Overclock-RAM.jpg)
 
  But if you don’t want to stop overclocking, so you can make the most out of your hardware, you should use some of the [best overclocking software to boost your computer performance](https://www.makeuseof.com/best-cpu-overclocking-software/).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Check the Paging File Size
 
  Sometimes, the random access memory (or RAM) doesn’t have enough storage space. In this case, Windows uses the page file to store and access the additional data.
@@ -92,12 +82,13 @@ thumbnail: https://thmb.techidaily.com/ce2c767b4ea66790422350863194f4cca1e1e1f1b
 7. Check the **Automatically manage paging file size for all drives**.  
 ![File paging settings in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/file-paging-1.jpg)
 8. Click **OK** to save your new system settings.
-9. Restart your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+9. Restart your computer.
+
 ## Fix the Windows Breakpoint Error
 
  Hopefully, one or more of the mentioned solutions helped you fix the “An exception breakpoint has been reached” error. Maybe, a quick app update was enough to correct the problem.
@@ -108,11 +99,31 @@ thumbnail: https://thmb.techidaily.com/ce2c767b4ea66790422350863194f4cca1e1e1f1b
 
  There might be a malware infection, incorrect paging file settings, or some of the system files got corrupted. Fortunately, we’ve put together a quick guide to help you fix the problem no matter the cause.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-streamline-your-virtual-conferencing-from-skype-to-zoom/"><u>[New] 2024 Approved Streamline Your Virtual Conferencing From Skype to Zoom</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-tips-to-improve-visual-integrity-while-watching-youtube-content/"><u>[New] Tips to Improve Visual Integrity While Watching YouTube Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-mastering-youtube-metrics-for-effective-content-strategy/"><u>[Updated] Mastering YouTube Metrics for Effective Content Strategy</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-elevating-imagery-an-in-depth-review-of-the-gopro-karma-drone/"><u>2024 Approved Elevating Imagery An In-Depth Review of the GoPro Karma Drone</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-peek-at-your-gadgets-soul-6-methods-to-discover-its-make/"><u>A Peek at Your Gadget's Soul: 6 Methods to Discover Its Make</u></a></li>
+<li><a href="https://windows11.techidaily.com/disregard-met-not-fulfilled-emblem-on-win11/"><u>Disregard Met Not Fulfilled Emblem on Win11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essential-steps-picking-your-ideal-4k-lens/"><u>Essential Steps Picking Your Ideal 4K Lens</u></a></li>
+<li><a href="https://win-updates.techidaily.com/essential-techniques-for-preserving-contact-information-on-android-devices/"><u>Essential Techniques for Preserving Contact Information on Android Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/flushing-dns-on-windows-best-practices/"><u>Flushing DNS on Windows: Best Practices</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-uninstall-oneself-avoiding-admin-restrictions-in-windows/"><u>How To Uninstall Oneself: Avoiding Admin Restrictions in WINDOWS</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/locating-your-own-playlists-on-youtube/"><u>Locating Your Own Playlists on Youtube</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-sluggishness-boosting-speed-of-steam-on-windows/"><u>Overcoming Sluggishness: Boosting Speed of Steam on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-eliminate-windows-error-xc0f1103f-on-geforce/"><u>Steps to Eliminate Windows Error XC0F1103F on GeForce</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-lessening-high-cpu-demand-from-tiworkerexe-tasks/"><u>Strategies for Lessening High CPU Demand From TiWorker.exe Tasks</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-essential-gratis-tools-for-windows-11-enthusiasts/"><u>Top Essential Gratis Tools for Windows 11 Enthusiasts</u></a></li>
+<li><a href="https://article-helps.techidaily.com/ultimate-guide-to-android-photo-fixes-for-2024/"><u>Ultimate Guide to Android Photo Fixes for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-apple-iphone-13-here-is-the-answer-drfone-by-drfone-virtual-ios/"><u>Wondering the Best Alternative to Hola On Apple iPhone 13? Here Is the Answer | Dr.fone</u></a></li>
+</ul></div>
+

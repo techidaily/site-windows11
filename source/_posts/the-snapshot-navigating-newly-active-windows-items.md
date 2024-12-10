@@ -1,7 +1,7 @@
 ---
 title: "The Snapshot: Navigating Newly Active Windows Items"
-date: 2024-08-15T16:15:51.843Z
-updated: 2024-08-16T16:15:51.843Z
+date: 2024-12-08T16:14:31.072Z
+updated: 2024-12-10T18:26:35.971Z
 tags:
   - windows10
   - windows11
@@ -29,8 +29,9 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
  Moreover, Quick Access does not allow you to sort recently opened files by specific parameters, which is easy to do in the Recent Items folder. Let's see how you can access recently opened files on Windows using both methods.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to View Recently Opened Files in Quick Access
 
  You can view recently opened items in Quick Access by opening**File Explorer** from the taskbar and selecting**Quick access** from the left sidebar. Following that, you will see a list of recently opened files in the right pane. So, scroll down to find the recent file or folder you were looking for.
@@ -39,9 +40,6 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
 
  If you cannot fix the Quick Access to show recently opened files or want to do a deeper analysis of recently opened items, you can check recently opened items in the Recent Items folder.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### How to View Recently Opened Items in the Recent Items Folder
 
  Follow these steps to view recently opened items in the Recent Items folder:
@@ -64,21 +62,18 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
 3. Click on the parameter you wish to sort the files by.  
 ![Sorting the Files or Folders by Clicking on the Sort By Option in the Context Menu of the File in the Recent Items Folder in File Explorer in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/3-Sorting-the-Files-or-Folders-by-Clicking-on-the-Sort-By-Option-in-the-Context-Menu-of-the-File-in-the-Recent-Items-Folder-in-File-Explorer-in-Windows.jpg)
 4. If you cannot find the parameter you want to sort the items by, click on the**More...** button in the**Sort by** menu, check the box for the detail you wish to sort the data by, and click**Ok** .  
-![Sorting Data by Checking the Box for Author Field by Clicking on the More button in the Sort By Dropdown Menu in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/4-Sorting-Data-by-Checking-the-Box-for-Author-Field-by-Clicking-on-the-More-button-in-the-Sort-By-Dropdown-Menu-in-File-Explorer.jpg)
+
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Sorting Data by Checking the Box for Author Field by Clicking on the More button in the Sort By Dropdown Menu in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/4-Sorting-Data-by-Checking-the-Box-for-Author-Field-by-Clicking-on-the-More-button-in-the-Sort-By-Dropdown-Menu-in-File-Explorer.jpg)
 5. After that, the parameter will appear in the**Sort by** menu, where you can select it to sort the recently opened items.  
 ![Sorting the Files or Folder by Author by Clicking on the Sort By Option in the Recent Items Folder in File Explorer in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/5-Sorting-the-Files-or-Folder-by-Author-by-Clicking-on-the-Sort-By-Option-in-the-Recent-Items-Folder-in-File-Explorer-in-Windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to View Recently Opened Files for Specific Apps on Windows
 
@@ -89,17 +84,11 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
  To see more recently opened items than what appears in the search results, open the app and navigate to its recent files section.
 
 ![Viewing Recently Opened Files for Specific Apps by Navigating to Recent File Section in Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/6-Viewing-Recently-Opened-Files-for-Specific-Apps-by-Navigating-to-Recent-File-Section-in-Windows-Search.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 
 ## How to See Recently Opened Files Removed From Quick Access
 
  Quick Access is an access point that lets you access recently closed files quickly. Therefore, even if you or someone you share the computer with removes the files from Quick Access, they don't get deleted from their original location. You can still access the recently closed files in the main Recent Items folder using the same steps we explained earlier.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to See Recently Opened Files Deleted From the Recent Items Folder
 
  When you clear the File Explorer history or delete recently opened files from the Recent Items folder, they are permanently removed from Windows. Restoring this data is complex, and your chances of doing so are slim. However, some workarounds may allow you to access the recently opened files again.
@@ -109,11 +98,16 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
  If this option isn't available in the context menu for the Recent Items folder, repeat the process for its parent folder,**"Windows."** So, right-click on the**Windows** folder and select**Restore previous versions** from the context menu.
 
 ![Restoring Previous Version of Windows Folder in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Restoring-Previous-Version-of-Windows-Folder-in-Windows-File-Explorer.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If neither of these folders has a previous version, your only recourse should be to[use third-party recovery software to recover the data](https://www.makeuseof.com/windows-best-data-recovery-tools-guides/) in the Recent Items folder, albeit with low chances of success.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Access Recently Opened Files With Ease
 
@@ -121,14 +115,11 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
 
  If someone deletes files from the Recent Items folder after using them, you can try restoring them with our solution. If you succeed, you're all set; otherwise, you'll have to resort to third-party recovery software.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -137,4 +128,26 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-toontech-complete-insight-2024-edition/"><u>[New] ToonTech Complete Insight - 2024 Edition</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-a-complete-guide-to-crafting-best-in-class-yt-thumbnails-for-2024/"><u>[Updated] A Complete Guide to Crafting Best-in-Class YT Thumbnails for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-stream-perfecting-tweets-with-correct-video-formats/"><u>2024 Approved Stream-Perfecting Tweets with Correct Video Formats</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-unleash-potential-with-these-top-20-tiktok-caption-insights/"><u>2024 Approved Unleash Potential with These Top 20 TikTok Caption Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/advanced-audio-capture-and-conversion-made-simple-by-otters-latest-teams-software-update-explore-features-on-zdnet/"><u>Advanced Audio Capture and Conversion Made Simple by Otter's Latest Teams Software Update | Explore Features on ZDNET</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-guide-overcoming-the-winscomrssrvdll-crashes/"><u>Essential Guide: Overcoming the Winscomrssrvdll Crashes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/excellence-in-viewing-10-preeminent-iphoneipad-videos/"><u>Excellence in Viewing 10 Preeminent iPhone/iPad Videos</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-from-apple-iphone-14-by-drfone-ios/"><u>How to Fix when Apple Account Locked From Apple iPhone 14?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-infinix-smart-8-plus-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Infinix Smart 8 Plus by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-resolve-your-apple-iphone-7-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>In 2024, Resolve Your Apple iPhone 7 Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/ipogo-will-be-the-new-ispoofer-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-10-and-11-fixing-isdonedll-errors/"><u>Mastering Windows 10 & 11: Fixing ISDone.dll Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-the-office-activation-barrier/"><u>Overcoming the Office Activation Barrier</u></a></li>
+<li><a href="https://windows11.techidaily.com/secretive-sweeteners-of-windows-11-customization/"><u>Secretive Sweeteners of Windows 11 Customization</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-missing-d3dx939-dll-in-win11-os/"><u>Tackling Missing D3DX9_39 DLL in Win11 OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleashing-the-potential-of-dism-on-windows-11-systems/"><u>Unleashing the Potential of Dism on Windows 11 Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-potential-ms-store-apps-that-elevate-experience/"><u>Unlock Potential: MS Store Apps That Elevate Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-hidden-workings-of-windows-aggregatorhostexe/"><u>Unveiling the Hidden Workings of Windows AggregatorHost.exe</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-short-term-disabling-of-its-protection-systems/"><u>Windows 11: Short-Term Disabling of Its Protection Systems</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mastering Windows 11'S Multimedia Control Panel
-date: 2024-11-26T17:26:01.811Z
-updated: 2024-12-03T17:59:41.157Z
+date: 2024-12-06T21:01:35.288Z
+updated: 2024-12-10T18:48:00.111Z
 tags:
   - windows10
   - windows11
@@ -23,17 +23,21 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Use the Run Command Line
 
  This is the quickest way to open Volume Mixer in Windows 11\. All you have to do is press the**Win + R** keys and type "**sndvol.exe** " into the text box.
 
 ![Open Volume Mixer Using Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-volume-mixer-using-run-command.jpg)
 
- Now click**OK** or hit Enter on your keyboard. You will see the Volume Mixer window where you can adjust individual programs' volume.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Now click**OK** or hit Enter on your keyboard. You will see the Volume Mixer window where you can adjust individual programs' volume.
 
 ## 2\. Use Taskbar Volume Icon
 
@@ -53,18 +57,18 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 
 ![Volume Mixer in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/volume-mixer-in-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In order to change the volume of a specific application, click on its icon and drag the slider. To mute a specific application, click on the speaker icon next to it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Use the Windows File Explorer
 
  Windows File Explorer has an address bar that allows you to reach almost all files or programs on your computer. To open Volume Mixer, type**sndvol.exe** into the address bar and press Enter. This will open the Volume Mixer instantly, and you can adjust each app's volume from here.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Use the Task Manager
@@ -73,11 +77,11 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 
 ![Open Volume Mixer Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-volume-mixer-using-task-manager.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the Task Manager window, click**Run new task** and type**sndvol.exe** in the Create new task window. Finally, click**OK** to launch Volume Mixer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Use the Command Prompt
 
@@ -93,10 +97,6 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 
  Once the Volume Mixer window opens, you can adjust individual volume levels for applications or change their output devices in order to get your desired sound experience.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Create a Desktop Shortcut
 
 [Creating a desktop shortcut in Windows](https://www.makeuseof.com/tag/create-program-shortcuts-windows-easy-way/) for Volume Mixer can help you quickly access this tool without having to search for it in different places.
@@ -109,11 +109,11 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 
 ![Create Shortcut to open Volume Mixer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/create-shortcut-to-open-volume-mixer.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then, enter a name for the shortcut and click**Finish** . This will create a shortcut on the desktop, and you can double-click on it to open Volume Mixer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get Quick and Easy Access to the Volume Mixer
 
@@ -134,18 +134,21 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-captivating-audience-with-these-innovative-videos-for-2024/"><u>[New] Captivating Audience with These Innovative Videos for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-deciphering-the-secrets-of-gopro-hero5-captures/"><u>[Updated] Deciphering the Secrets of GoPro Hero5 Captures</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-crafting-compact-comforts-essential-mc-abodes-for-beginners/"><u>[Updated] In 2024, Crafting Compact Comforts Essential MC Abodes for Beginners</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-uncover-these-top-ten-thriving-youtube-communities-today/"><u>[Updated] In 2024, Uncover These Top Ten Thriving YouTube Communities Today</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-speaking-for-characters-the-screenwriters-challenge-for-2024/"><u>[Updated] Speaking for Characters The Screenwriter's Challenge for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-transform-playtime-into-memories-with-switch-videos/"><u>2024 Approved Transform Playtime Into Memories with Switch Videos</u></a></li>
-<li><a href="https://windows11.techidaily.com/fix-installation-failed-for-discord-on-windows-11-and-11/"><u>Fix 'Installation Failed' For Discord on Windows 11 & 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-the-pink-screen-crisis-on-your-system/"><u>Navigating the Pink Screen Crisis on Your System</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/secure-your-data-with-no-cost-sql-server-database-backup-solutions/"><u>Secure Your Data with No-Cost SQL Server Database Backup Solutions</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/tech-faceoff-analyzing-the-differences-between-apples-ipad-pro-and-microsoft-surface-pro/"><u>Tech Faceoff: Analyzing the Differences Between Apple’s iPad Pro and Microsoft Surface Pro</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-ultimate-guide-opening-windows-stubborn-folders-on-double-click/"><u>The Ultimate Guide: Opening Windows' Stubborn Folders on Double-Click</u></a></li>
-<li><a href="https://windows11.techidaily.com/unraveling-the-puzzle-of-windows-subsystem-for-linux-error-4294967295/"><u>Unraveling the Puzzle of Windows Subsystem for Linux Error 4294967295</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/updated-in-2024-how-to-make-a-imovie-photo-slideshow-with-music-imovie-tutorial/"><u>Updated In 2024, How to Make a iMovie Photo Slideshow with Music? IMovie Tutorial</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-customize-confidently-express-optimizing-your-voice-on-snapchat/"><u>[Updated] Customize, Confidently Express Optimizing Your Voice on Snapchat</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-tailored-titles-for-your-youtube-success/"><u>[Updated] In 2024, Tailored Titles for Your YouTube Success</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unleash-your-creative-brand-selecting-one-of-a-kind-channel-titles/"><u>[Updated] Unleash Your Creative Brand Selecting One-of-a-Kind Channel Titles</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-abrupt-game-closure-in-roblox-fix-tips-for-pc-users/"><u>Avoiding Abrupt Game Closure in Roblox: Fix Tips for PC Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/boost-your-workflow-with-windows-11s-widget-toolbar/"><u>Boost Your Workflow with Windows 11'S Widget Toolbar</u></a></li>
+<li><a href="https://windows11.techidaily.com/configuring-alternate-pdf-reader-on-windows/"><u>Configuring Alternate PDF Reader on Windows</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/easy-steps-to-mastering-the-game-of-army-commander-on-your-computer/"><u>Easy Steps to Mastering the Game of Army Commander on Your Computer</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-reprogram-windows-11s-preferred-programs-effectively/"><u>How to Reprogram Windows 11'S Preferred Programs Effectively</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-restore-a-bricked-oppo-a18-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Oppo A18 Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-windows-package-unopenable-woes/"><u>Navigating Through Windows Package Unopenable Woes</u></a></li>
+<li><a href="https://article-tips.techidaily.com/premier-5-goggles-securing-victory-in-air-races-for-2024/"><u>Premier 5 Goggles Securing Victory in Air Races for 2024</u></a></li>
+<li><a href="https://discover-help.techidaily.com/scambiare-grandi-file-vob-in-formato-mp4-soluzioni-facili-sicure-ed-economiche/"><u>Scambiare Grandi File VOB in Formato MP4: Soluzioni Facili, Sicure Ed Economiche</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-to-address-game-pass-connection-errors-in-windows/"><u>Techniques to Address Game Pass Connection Errors in Windows</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-runners-choice-a-thorough-examination-of-the-garmin-forerunner-45-gps-watch/"><u>The Runner's Choice: A Thorough Examination of the Garmin Forerunner 45 GPS Watch</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/transforming-dvd-files-into-mp4-on-windows-and-macos-effortlessly-a-guide-with-10-proven-strategies/"><u>Transforming DVD Files Into MP4 on Windows and macOS Effortlessly: A Guide with 10 Proven Strategies</u></a></li>
+<li><a href="https://windows11.techidaily.com/unblock-windows-task-scheduler-issues-quickly/"><u>Unblock Windows Task Scheduler Issues Quickly</u></a></li>
 </ul></div>
 

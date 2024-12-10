@@ -1,7 +1,7 @@
 ---
 title: Tackling the Busy Resource Issue in Windows Environments (153 Chars)
-date: 2024-12-01T20:15:55.065Z
-updated: 2024-12-04T00:53:01.929Z
+date: 2024-12-04T16:55:12.866Z
+updated: 2024-12-10T21:27:07.887Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 
  If that doesn’t work, go into Task Manager and close superfluous third-party app background processes. Our guide to [fixing too many background processes on Windows](https://www.makeuseof.com/windows-pc-too-many-background-processes/) provides further instructions for how you can do that.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Disable File Explorer’s Preview Pane
 
  Many users have fixed the “requested resource is in use” error by disabling File Explorer’s preview pane. That preview pane can hinder the file copy operation. You can disable File Explorer’s preview pane in Windows 11 as follows:
@@ -46,16 +50,12 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 ![The Preview pane option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/preview-pane-option.jpg)
 5. Then try moving or copying your files again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The layout in Windows 10 File Explorer is a little different. To disable preview panes in that file manager, you’ll need to click the **View** tab. Then click **Preview pane** to deselect that option.
 
 ![The View tab in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-view-tab.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Note that just disabling the preview pane might not always be enough. If that doesn’t work, try turning off the icon file view. To do so in Windows 11 File Explorer, click **View** and select the **List** or **Details view** option. You can select the same options on the **View** tab in Windows 10 File Explorer.
@@ -70,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 3. Select the **Full scan** setting.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Click **Scan now** to initiate the malware scanning.  
@@ -84,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 ![windows 11 startup settings safe mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-startup-settings-safe-mode.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Disable Any Unknown Programs in Task Manager
@@ -98,6 +98,10 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 ![The Disable button on Task Manager's Startup tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-button.jpg)
 5. Then restart your PC to see if the issue persists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Uninstall Any Suspicious-Looking Programs
 
  The SmartService trojan might also be listed within the Programs and Features Control Panel applet for uninstalling software. If you notice suspicious-looking software in Programs and Features, you can also select to uninstall it from there.
@@ -110,7 +114,7 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 3. Right-click on the suspected SmartService malware and select **Uninstall**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. If you can’t uninstall the suspicious software, restart Windows in safe mode. Then try removing the same suspicious item via Programs and Features in safe mode.
@@ -124,10 +128,6 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
  The "Reset this PC" utility lets you factory reset Windows 11 and 10\. That tool includes an option you can select to stop the reset deleting user files. Our [how to factory reset Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) guide provides detailed guidelines for resetting the platform.
 
 ![The Reset this PC tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-keep-my-files-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Get the “Requested Resource Is in Use” Error Sorted on Windows
 
@@ -145,20 +145,22 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-obs-vs-twitch-studio-which-is-better/"><u>[New] In 2024, OBS Vs Twitch Studio Which Is Better?</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-professional-tips-for-sims-game-capture/"><u>[New] In 2024, Professional Tips for Sims Game Capture</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/iuoajoamhpluswqjeobleocjoobnpluss6uuejqeobrumfspluswjsoakuea2idrli5xnllvnt6jpm4bjgafkvbjgyjjgovmnidmlrdjg4bjgqjg4vjg4pjgqjgi0i/"><u>「指名された人物の音声抹消:動画編集で使える最新テクニック」</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-the-quest-for-video-perfection-debating-between-bandicam-and-camtasia/"><u>2024 Approved The Quest for Video Perfection Debating Between Bandicam & Camtasia</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-change-your-vivo-y200e-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Vivo Y200e 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-best-honor-100-pro-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Honor 100 Pro Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://windows11.techidaily.com/launching-wordpad-windows-users-handbook/"><u>Launching WordPad: Windows User's Handbook</u></a></li>
-<li><a href="https://windows11.techidaily.com/minmax-cpu-states-navigating-windows-power-control/"><u>Min/Max CPU States: Navigating Windows Power Control</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-10-best-reaper-plugins-you-need-to-know/"><u>New 10 Best Reaper Plugins You Need to Know</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-unsupported-boots-a-5-step-windows-guide/"><u>Resolving Unsupported Boots: A 5-Step Windows Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/solving-disappearing-results-from-windows-1011-search-tool/"><u>Solving Disappearing Results From Windows 10/11 Search Tool</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-the-essentials-of-a-vbk-file-a-comprehensive-guide/"><u>Understanding the Essentials of a VBK File: A Comprehensive Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/unearthing-bsod-traces-within-windows-vista2008/"><u>Unearthing BSOD Traces Within Windows Vista/2008</u></a></li>
-<li><a href="https://windows11.techidaily.com/unleashing-productivity-a-guide-to-making-multiple-directories-at-once-in-windows/"><u>Unleashing Productivity: A Guide to Making Multiple Directories at Once in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-10-product-key-our-guide-to-the-top-deals/"><u>Windows 10 Product Key: Our Guide to the Top Deals</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-overcome-chrome-video-loading-woes/"><u>[New] 2024 Approved Overcome Chrome Video Loading Woes</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-integrated-approach-to-post-videos-on-twittertumblr/"><u>[Updated] 2024 Approved Integrated Approach to Post Videos on Twitter/Tumblr</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-top-essential-fluid-dynamics-gaming-experiences/"><u>[Updated] 2024 Approved Top Essential Fluid Dynamics Gaming Experiences</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-metaverse-giggle-guide-generating-20plus-amusing-virtual-creations-for-2024/"><u>[Updated] Metaverse Giggle Guide Generating 20+ Amusing Virtual Creations for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/deactivating-file-read-only-mode-in-windows/"><u>Deactivating File Read-Only Mode in Windows</u></a></li>
+<li><a href="https://win-bits.techidaily.com/deciphering-club-culture-a-guide-to-understanding-customer-song-choices-for-proficient-djs/"><u>Deciphering Club Culture: A Guide to Understanding Customer Song Choices for Proficient DJs</u></a></li>
+<li><a href="https://media-tips.techidaily.com/easy-methods-to-increase-the-loudness-of-your-wav-audio/"><u>Easy Methods to Increase the Loudness of Your WAV Audio</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-huawei-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from Huawei</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-steam-data-flow-stopping-frustrating-speed-drops/"><u>Enhance Steam Data Flow: Stopping Frustrating Speed Drops</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-guide-to-fixing-0x80071a90-windows-error/"><u>Essential Guide to Fixing 0X80071A90 Windows Error</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Tecno Phone without Any Data Loss</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/is-earnings-linked-to-product-reviews-in-media-in-2024/"><u>Is Earnings Linked to Product Reviews in Media, In 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-fix-printer-spooler-not-running-windows/"><u>Strategies to Fix Printer Spooler Not Running Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/switchnotepaddisplaytodarkwin/"><u>SwitchNotepadDisplayToDarkWin</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-to-reinstate-functional-utorrent-installer-after-failure-on-winos/"><u>Tips to Reinstate Functional uTorrent Installer After Failure on WinOS</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-app-non-installation-microsoft-tips/"><u>Troubleshooting App Non-Installation: Microsoft Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-diminished-window-11-icon-size/"><u>Understanding Diminished Window 11 Icon Size</u></a></li>
 </ul></div>
 

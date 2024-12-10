@@ -1,7 +1,7 @@
 ---
 title: Keyboard Tricks for Immediate Translation on Modern Windows OS
-date: 2024-08-08T06:14:36.402Z
-updated: 2024-08-09T06:14:36.402Z
+date: 2024-12-03T16:26:49.361Z
+updated: 2024-12-10T17:21:20.542Z
 tags:
   - windows10
   - windows11
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 4. Go to whatever folder has the QTranslate setup file in it.
 5. Double-click the**Qtranslate.6.10.0.exe** installer file.
 6. Select the**I Agree** and**Install** options for QTranslate. The software will then automatically start after installation so long as you kept the Run QTranslate checkbox selected.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The QTranslate setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-qtranslate-setup-window.jpg)
 7. Open a website in a foreign language to try out the translator. For the sake of example, this[German Microsoft Store page](https://www.microsoft.com/de-de/store/b/microsoftunddu) will do.
 8. Select some text to translate on the website, and press the**Ctrl** +**Q** hotkey. A popup window with an English translation for your selected foreign text will open.  
@@ -43,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
  You can view the main QTranslate translation window by selecting text and pressing the**Ctrl** key twice. That window displays the selected foreign text alongside the translated content. There you can change the translation by choosing a different language on the drop-down menu and clicking**Translate** . Click the**Listen** **to text** (headphone) buttons to play an audio text-to-speech translation.
 
 ![The main QTranslate translation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-main-qtranslate-window.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To view your translation history, press the**Ctrl** +**H** hotkey. That keyboard shortcut opens a window that displays a list of text passages you’ve translated in QTranslate. There you can select to save translations or clear the list.
 
@@ -56,16 +57,14 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 
  QTranslate also incorporates some**Appearance** settings with which you can customize its user interface. Click the**Theme** drop-down menu there to choose a different window style. You can customize the software’s colors by clicking the**Text** and**Frame Color** options.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![The Theme drop-down menu in DeepL](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-theme-drop-down-menu.jpg)
 
  If you like translating text on the web, check out the[best browser tools to translate web pages](https://www.makeuseof.com/tag/10-top-browser-tools-translate-web-pages/) .
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Translate Text in Windows Software With DeepL
 
  DeepL is the online translator service's official Windows desktop program. That software has freemium, starter, advanced, and ultimate versions. The freemium version has a 5,000-word character translation limit. DeepL has similar hotkey functionality to QTranslate with which you can translate text passages as follows:
@@ -79,23 +78,28 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 7. Press the**Ctrl** +**C** hotkey twice to bring up the DeepL translation window. That window shows the selected text alongside an English translation for it.  
 ![The DeepL translation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-deepl-translation-window.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  There you can select different languages to translate by clicking the drop-down menu on the right side of the DeepL window. You can also look up translations for specific words. Select a word with the cursor and click**Dictionary entries** at the bottom of the window to look it up.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Translate Files With DeepL
 
  DeepL also enables you to select files to translate. Click the**Translate Files** tab at the top of its window. Then press the**Browse** button to select a file for translation and click the**Open** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Translate files tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-translate-files-tab.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Ctrl** +**F9** is an alternative hotkey you can press for DeepL translations. Selecting text and pressing**Ctrl** +**F9** will bring up a smaller quick translate window. There you can click a**Copy** option to add the translation to your clipboard for pasting elsewhere.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The main QTranslate translation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-main-qtranslate-window.jpg)
 
  If you would like to change the keyboard shortcuts, click the menu button at the top right of DeepL’s window. Select Settings to view hotkey options for the software. There you can select alternative**Alt** ,**Ctrl** ,**Key** , and**Shift** keys for each hotkey. Click in the boxes to set combination keys by pressing them.
@@ -104,9 +108,6 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 
  DeepL matches your system’s dark or light mode by default. However, you can select for the app to be dark or light. Click the**Select dark or light mode** drop-down menu to choose your preference.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ## Translate Text With Handy Hotkeys in Windows
 
  QTranslate’s and DeepL’s hotkeys enable you to quickly and easily translate in Windows 11 and 10\. You can press those convenient keyboard shortcuts to translate text in websites and documents across all Windows software whenever needed. The hotkey functionality those software packages provide makes them preferable alternatives to the Google and Microsoft translation tools.
@@ -117,8 +118,6 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +125,16 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-top-strategies-for-zoom-use-with-a-chrome-os-device/"><u>[New] Top Strategies for Zoom Use with a Chrome OS Device</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-improving-zoom-hd-quality-quick-fixes/"><u>[Updated] 2024 Approved Improving Zoom HD Quality Quick Fixes</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-quick-ways-to-transfer-contacts-from-apple-iphone-6-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>4 Quick Ways to Transfer Contacts from Apple iPhone 6 to iPhone With/Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-chromebooks-finest-free-video-capturers/"><u>In 2024, Chromebooks' Finest Free Video Capturers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-film-fragments-the-ultimate-editors-collection/"><u>In 2024, Film Fragments The Ultimate Editor's Collection</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fix-guide-to-restore-windows-11-troubleshooters/"><u>Quick FIX Guide to Restore Windows 11 Troubleshooters</u></a></li>
+<li><a href="https://windows11.techidaily.com/securing-smooth-operation-fix-frozen-epic-games-launcher/"><u>Securing Smooth Operation: Fix Frozen Epic Games Launcher</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-ipad-image-import-issues-in-windows-1111-pro/"><u>Solving iPad Image Import Issues in Windows 11/11 Pro</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-device-synergy-with-google-nearby-sharing/"><u>Unlocking Device Synergy with Google Nearby Sharing</u></a></li>
+</ul></div>
 

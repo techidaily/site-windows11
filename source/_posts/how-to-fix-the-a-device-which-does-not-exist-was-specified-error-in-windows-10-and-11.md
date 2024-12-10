@@ -1,7 +1,7 @@
 ---
 title: How to Fix the “A Device Which Does Not Exist Was Specified” Error in Windows 10 & 11
-date: 2024-08-15T16:16:32.196Z
-updated: 2024-08-16T16:16:32.196Z
+date: 2024-12-04T19:39:04.841Z
+updated: 2024-12-10T18:52:44.311Z
 tags:
   - windows10
   - windows11
@@ -31,8 +31,13 @@ thumbnail: https://thmb.techidaily.com/3afd30f31da7656743dda52f15a6af22d0fe17904
  Users have confirmed the System File Checker tool can resolve this drive error. That highlights system file corruption can cause this issue, which an SFC scan will likely resolve. Our guide to[running a System File Checker scan](https://www.makeuseof.com/system-file-checker-sfc-windows/) tells you how to execute the SFC command in Windows.
 
 ![The sfc /scannow](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/sfc-scannow.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Run a Check Disk Scan for the Drive
@@ -45,9 +50,6 @@ thumbnail: https://thmb.techidaily.com/3afd30f31da7656743dda52f15a6af22d0fe17904
 4. Then execute the Check Disk scan by inputting this command:  
 `chkdsk X: /f /r`  
 ![The chkdsk scan command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chkdsk-scan.jpg)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 5. Press**Enter** to initiate the scan.
 
  You’ll need to replace X in the above command with the actual letter of the affected drive you need to scan. For example, the command for a drive labeled D would be:
@@ -67,6 +69,11 @@ thumbnail: https://thmb.techidaily.com/3afd30f31da7656743dda52f15a6af22d0fe17904
 5. Click the drop-down menu for the**Assign the following drive lette** r option.  
 ![The Assign the following drive letter option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/assign-the-following-drive-letter.jpg)
 6. Select a drive letter that you’ve never used.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Click**OK** on the Change Drive Letter or Path window.
 8. Select**Yes** on the Disk Management confirmation dialog.
 
@@ -79,14 +86,8 @@ thumbnail: https://thmb.techidaily.com/3afd30f31da7656743dda52f15a6af22d0fe17904
 3. Click the drive for which the error occurs in Disk Management.
 4. Then click the**Action** menu.  
 ![The Properties option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/properties-option2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 5. Select**Rescan Disks** on the menu.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Select the Full Control Option for a Drive Location
 
  The “device which does not exist” error can arise because of restricted drive permissions. In that scenario, users need to select a**Full control** permission option for their drives. These are the steps for selecting the**Full control** permission setting:
@@ -95,17 +96,19 @@ thumbnail: https://thmb.techidaily.com/3afd30f31da7656743dda52f15a6af22d0fe17904
 2. Then click**This PC** in Explorer’s left sidebar.
 3. Right-click the affected drive to select**Properties** .  
 ![The Properties option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/properties-option2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 4. Click the drive’s**Security** tab.
 5. If the**Full control** option isn’t ticked, click the**Edit** button.
 6. Select the**Allow** box for the**Full control** option.  
 ![The Full control option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/full-control-checkbox.jpg)
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Click**Apply** \>**OK** on the drive’s permissions window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Reinstall the Affected Drive
 
@@ -117,20 +120,15 @@ Insert the affected drive into one of your PC’s USB ports.
 2. Double-click**Disk drives** in Device Manager.
 3. Right-click your drive and select**Uninstall device** .  
 ![The Uninstall device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/uninstall-device2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Then select the**Uninstall** option on the dialog box prompt.  
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/uninstall-option3.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 5. Disconnect the drive plugged into the PC.
 6. Plug the drive back into the computer to reinstall its driver.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Update Your Motherboard’s Chipset Driver
 
  It might be necessary for some users to update motherboard drivers to fix this issue. To do so manually, you’ll need the motherboard model and manufacturer details. You can check those details as follows:
@@ -143,14 +141,15 @@ Insert the affected drive into one of your PC’s USB ports.
 5. Execute this baseboard command:  
 `wmic baseboard get product,Manufacturer,version,serialnumber`  
 ![The baseboard command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/baseboard-command.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Copy and paste the serial number for the motherboard shown within the Command Prompt into Notepad or another text editor.
 
  Then open the download section of your motherboard manufacturer’s website. Select your motherboard model and download its latest chipset driver from there. You can install the new driver for your motherboard with the downloaded driver (setup.exe) package file.
 
  The driver package might be included within a ZIP archive, which you’ll need to extract as outlined within this guide to[unzipping files in Windows](https://www.makeuseof.com/unzip-files-windows-10/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Access Your Drive Again on Windows
 
@@ -162,8 +161,6 @@ Insert the affected drive into one of your PC’s USB ports.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -171,4 +168,23 @@ Insert the affected drive into one of your PC’s USB ports.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-clandestine-glimpse-at-fb-flashbacks/"><u>[New] 2024 Approved Clandestine Glimpse at Fb Flashbacks</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-digital-duel-diaries-record-galaxy-gamer-stories/"><u>[New] Digital Duel Diaries Record Galaxy Gamer Stories</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-the-best-android-and-ios-wedding-timers-for-seamless-countdowns/"><u>[Updated] Exploring the Best Android & iOS Wedding Timers for Seamless Countdowns</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-14-pro-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone 14 Pro Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/guaranteeing-your-printers-access-in-win11/"><u>Guaranteeing Your Printer's Access in Win11</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Realme 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-stealth-concealing-drives-on-windows-11-and-10/"><u>Mastering Stealth: Concealing Drives on Windows 11 & 10</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/rpiece-moments-top-15-musician-behind-the-scenes-vlogs/"><u>Masterpiece Moments Top 15 Musician Behind-the-Scenes Vlogs</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/snickerstreamer-share-your-wit-with-a-click/"><u>SnickerStreamer Share Your Wit with a Click</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-your-code-with-jdk-on-windows-11/"><u>Streamlining Your Code with JDK on Windows 11</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/successful-file-retrieval-on-ipads-a-step-by-step-guide-to-restoring-lost-data/"><u>Successful File Retrieval on iPads: A Step-by-Step Guide to Restoring Lost Data</u></a></li>
+<li><a href="https://windows11.techidaily.com/surmounting-ram-barriers-in-the-windows-environment/"><u>Surmounting RAM Barriers in the Windows Environment</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-samsung-galaxy-a75g-review-an-affordable-contender-for-flagship-devices/"><u>The Samsung Galaxy A7^5G Review: An Affordable Contender for Flagship Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-automatic-downtime-on-windows-11-pcs/"><u>The Ultimate Guide to Automatic Downtime on Windows 11 PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-winning-formula-for-stunning-images-and-engaging-slide-shows-on-windows-11s-photo-app/"><u>The Winning Formula for Stunning Images and Engaging Slide Shows on Windows 11'S Photo App</u></a></li>
+<li><a href="https://windows11.techidaily.com/unzipping-and-zipping-made-easy-windows-command-line-guidebook/"><u>Unzipping & Zipping Made Easy: Windows Command Line Guidebook</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Reawaken Your Computer's USB: A Quick Fix Guide, Windows"
-date: 2024-12-03T05:55:13.021Z
-updated: 2024-12-03T23:43:07.541Z
+date: 2024-12-06T21:10:58.693Z
+updated: 2024-12-10T21:35:43.926Z
 tags:
   - windows10
   - windows11
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Think Your USB Port Is Not Working? Test It
 
  Before proceeding, be sure that it is the port that is faulty, rather than the device you're connecting.
@@ -36,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
  Start by connecting the device to another USB port. If it works, then the problem is the first port; if the device remains undetected, you have a faulty device. (Note that if you can't [reformat the USB drive](https://www.makeuseof.com/tag/format-usb-drive/), it will need replacing.)
 
 ![Have your USB ports stopped working?](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/muo-diy-fix-USB-ports.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If there's a problem with your USB port, you'll notice it thanks to either of these things:
 
@@ -54,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 
  Finally, grab a USB cable (or flash drive) and gently wiggle it around. If the drive is moving and feels loose---typically this will be up and down---then you have a problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Fix a Broken USB Port on PC and Laptop
 
  We'll look at some software fixes in a moment, but first, what if the USB port is loose?
@@ -66,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 
  Of course, you could take this to an expert for repair, but there will be associated costs with this. If you want to do it yourself, make sure you [learn how to solder](http://www.makeuseof.com/tag/learn-solder-simple-tips-projects/). If you're not sure, check out the software fixes first.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Can Restarting a Computer Fix Broken USB Ports?
 
  "Have you tried turning it off and back on again?"
@@ -73,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
  This old tech support standby is well-known for a reason: it works!
 
  With your unrecognized USB device correctly inserted into the suspect USB port, restart your computer. Once the operating system has rebooted, it should detect the USB device. If not, it's worth looking at the device in the Windows device manager.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Check USB Ports on Windows 10 With Device Manager
 
@@ -94,10 +98,6 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 6. If no USB Host Controller is listed, click **Scan for hardware changes** on the toolbar
 
  If you're using a USB mouse and keyboard, it will be disabled while the USB Host Controllers are uninstalled.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Have Power Settings Stopped Your USB Ports Working?
 
@@ -121,12 +121,16 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 7. Click **Apply** and **OK** to confirm
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. Finally, reboot your PC to ensure this change is applied
 
  You should find that any USB ports that were not working have now been fixed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## USB Port Still Not Working? Reset the BIOS/UEFI Settings
 
@@ -135,10 +139,6 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
  It's no wonder, then, that any tampered settings in your BIOS or UEFI will leave a variety of problems in its wake, including a malfunctioning USB port. So if you've reason to believe something has gone wrong with the BIOS/UEFI settings, we suggest resetting its settings.
 
  Check out [how to enter the BIOS settings on Windows](https://www.makeuseof.com/tag/enter-bios-computer/) for instructions. If it was indeed a faulty BIOS/ UEFI stopping your USB port from working properly, then everything will be back to normal after a reset.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## You've Fixed Your Broken USB Port
 
@@ -156,18 +156,21 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-top-10-audio-change-tools-enhancing-virtual-presence/"><u>[New] In 2024, Top 10 Audio Change Tools Enhancing Virtual Presence</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-virtual-vetting-best-animal-games-for-android/"><u>2024 Approved Virtual Vetting Best Animal Games for Android</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-yogic-alchemy-transform-your-body-mind-and-spirit/"><u>2024 Approved Yogic Alchemy - Transform Your Body, Mind & Spirit</u></a></li>
-<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/career-enhancement-through-effective-social-media-use/"><u>Career Enhancement Through Effective Social Media Use</u></a></li>
-<li><a href="https://windows11.techidaily.com/from-phones-playground-to-pc-realm-android-games-via-microsoft-and-google/"><u>From Phone's Playground to PC Realm: Android Games via Microsoft & Google</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-convert-mkv-to-mp4-in-windows/"><u>How to Convert MKV to MP4 in Windows</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-successfully-install-new-software-updates-on-a-samsung-tv/"><u>How To Successfully Install New Software Updates On A Samsung TV</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-windows-xpatch-troubleshooting/"><u>Mastering Windows XPatch Troubleshooting</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastery-guide-navigating-and-controlling-windows-fn-key/"><u>Mastery Guide: Navigating and Controlling Windows' Fn Key</u></a></li>
-<li><a href="https://windows11.techidaily.com/microsoft-and-local-unpacking-key-contrasts-in-windows-login-mechanisms/"><u>Microsoft & Local: Unpacking Key Contrasts in Windows Login Mechanisms</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-successfully-starting-up-evil-genius-2-after-initial-failure/"><u>Troubleshooting Guide: Successfully Starting Up Evil Genius 2 After Initial Failure</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-windows-mail-error-code-zero-x-eight-oh-three-one-f/"><u>Troubleshooting Windows Mail Error Code: Zero X Eight Oh Three One F</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-comprehensive-io-recorder-explained-for-users/"><u>[Updated] Comprehensive IO Recorder Explained for Users</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-youtube-mastery-elevate-your-content-with-smart-tag-techniques/"><u>2024 Approved YouTube Mastery Elevate Your Content with Smart Tag Techniques</u></a></li>
+<li><a href="https://facebook.techidaily.com/changing-passwords-a-comprehensive-guide-to-facebook/"><u>Changing Passwords: A Comprehensive Guide to Facebook</u></a></li>
+<li><a href="https://windows11.techidaily.com/comprehensive-fixes-for-common-windows-monitor-mishaps/"><u>Comprehensive Fixes for Common Windows Monitor Mishaps</u></a></li>
+<li><a href="https://win-premium.techidaily.com/datentransfer-zu-einer-neuen-festplatte-oder-cloning-in-einem-virtual-machine-system-uber-vmware-tipps-und-tricks/"><u>Datentransfer Zu Einer Neuen Festplatte Oder Cloning in Einem Virtual Machine System Über Vmware - Tipps Und Tricks</u></a></li>
+<li><a href="https://windows11.techidaily.com/diagnosing-and-repairing-win-lsa-errors/"><u>Diagnosing and Repairing Win LSA Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/easy-mouse-customization-tips-for-win11s-pointer-accessibility/"><u>Easy Mouse Customization Tips for Win11's Pointer Accessibility</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevating-privacy-settings-add-trusted-websites-to-windows-11/"><u>Elevating Privacy Settings: Add Trusted Websites to Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/evaluating-the-new-windows-11-interface/"><u>Evaluating the New Windows 11 Interface</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-motorola-edge-40-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Motorola Edge 40 Pro to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-xcover-6-pro-tactical-edition-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Samsung Galaxy XCover 6 Pro Tactical Edition Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-apple-iphone-6-plus-fixed-drfone-by-drfone-virtual-ios/"><u>In 2024, Why is iPogo not working On Apple iPhone 6 Plus? Fixed | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/low-ram-footprint-webbrowsers-an-intensive-benchmark-analysis/"><u>Low RAM Footprint Webbrowsers: An Intensive Benchmark Analysis</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-package-discrepinas-in-windows-photos-with-step-by-step-tips/"><u>Overcoming Package Discrepinas in Windows Photos with Step-by-Step Tips</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/prestigious-top-8-sites-combining-vivid-3d-graphics-and-luxe-text/"><u>Prestigious Top 8 Sites Combining Vivid 3D Graphics & Luxe Text</u></a></li>
 </ul></div>
 

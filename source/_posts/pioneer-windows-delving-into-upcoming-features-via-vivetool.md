@@ -1,7 +1,7 @@
 ---
 title: "Pioneer Windows: Delving Into Upcoming Features via ViVeTool"
-date: 2024-12-01T16:28:23.439Z
-updated: 2024-12-03T18:33:56.913Z
+date: 2024-12-07T22:03:48.450Z
+updated: 2024-12-10T18:47:03.153Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/6c8487e0b404251fb12aeaebde28154ddd618ecb4
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is ViVeTool, and How Does It Work?
 
  ViVeTool is a third-party open-source C# library and console app to enable unreleased features on your Windows computer. You can also use it to restore or disable certain features.
@@ -38,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/6c8487e0b404251fb12aeaebde28154ddd618ecb4
  You can source the feature ID from the internet or by using the ViVeTool GUI version. That said, the feature ID description in the GUI version is mostly cryptic, so tread carefully. Once you have the feature ID, you can use the ViVeTool command-line or GUI version to enable or disable features on your Windows computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is ViVeTool Safe to Use?
@@ -58,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/6c8487e0b404251fb12aeaebde28154ddd618ecb4
 2. Download the latest version of the **Setup.exe file** available. You can also download a portable version if you prefer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Run the setup file and keep the default settings. Follow the on-screen instructions to install the app.
@@ -80,16 +84,12 @@ thumbnail: https://thmb.techidaily.com/6c8487e0b404251fb12aeaebde28154ddd618ecb4
 6. If the changes are not immediately visible, [restart Windows Explorer](https://www.makeuseof.com/ways-to-restart-file-explorer-windows-10/) to apply the changes. In some instances, you may need to restart your PC to make the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To revert the changes or disable a feature, you can use the Deactivate Feature option available in ViVeTool. Here's how to disable a feature using ViVeTool:
 
 ![deactivate feature vivetool gui](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/deactivate-feature-vivetool-gui.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Launch **ViVeTool GUI.**
 2. Search and select the feature you want to disable.
@@ -119,14 +119,14 @@ thumbnail: https://thmb.techidaily.com/6c8487e0b404251fb12aeaebde28154ddd618ecb4
 ![vivetool zip extract folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/vivetool-zip-extract-folder.jpg)
 5. Right-click on the **Zip** file and select **Extract** **all**. Select a destination and click **Extract**. Take note of the extraction folder.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Next, press the **Win** key and type **cmd**.
 2. Right-click on **Command Prompt** and select **Run as administrator.**  
 ![command prompt vivetool change directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/command-prompt-vivetool-change-directory.jpg)
 3. In the Command Prompt, change the directory to ViVeTool extracted folder. So, type the following command and press **Enter** to change the directory:  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 `cd /d [ViVeToolFolderPath]`
 4. For example, if I have the ViVeTool folder saved in C:\\Users\\username\\Downloads\\ViVeTool-v0.3.2, then the full command will look this:  
@@ -151,7 +151,7 @@ thumbnail: https://thmb.techidaily.com/6c8487e0b404251fb12aeaebde28154ddd618ecb4
  In other instances, it may be due to the feature state being set to **Always Disabled** or **Enabled** during compilation. In this instance, even if ViVeTool successfully processes your request, you are unlikely to see any real changes, as the feature is hard-coded to remain on or off.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ViVeTool's Supported Commands
@@ -191,20 +191,20 @@ thumbnail: https://thmb.techidaily.com/6c8487e0b404251fb12aeaebde28154ddd618ecb4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-seamless-integration-of-video-filters-in-zoom/"><u>[New] Seamless Integration of Video Filters in Zoom</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-how-to-add-video-to-text/"><u>[Updated] 2024 Approved How to Add Video to Text</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-investigating-top-viewed-comments/"><u>[Updated] 2024 Approved Investigating Top Viewed Comments</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/vering-your-youtube-unique-slot-for-2024/"><u>Discovering Your YouTube Unique Slot for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-unblock-chrome-from-firewall-settings-on-windows-1011/"><u>How to Unblock Chrome From Firewall Settings on Windows 10/11</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-google-pixel-8-pro-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Google Pixel 8 Pro to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/integrating-microsofts-pc-manager-into-windows-11/"><u>Integrating Microsoft's PC Manager Into Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/launching-linux-virtualization-effortlessly-within-hyper-v-windows/"><u>Launching Linux Virtualization Effortlessly Within Hyper-V Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/post-cortana-windows-the-next-4-interfaces/"><u>Post-Cortana Windows: The Next 4 Interfaces</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/productivity-unleashed-how-ipados-transforms-the-7th-gen-ipad-experience/"><u>Productivity Unleashed: How iPadOS Transforms the 7Th Gen iPad Experience</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-display-hiccup-with-windows-11-and-nvidia/"><u>Resolving Display Hiccup with Windows 11 & Nvidia</u></a></li>
-<li><a href="https://extra-support.techidaily.com/srt-audio-file-handling-for-oses-for-2024/"><u>SRT Audio File Handling for OSes for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-best-of-the-best-top-gaming-websites-for-pc-game-downloads/"><u>The Best of the Best Top Gaming Websites for PC Game Downloads</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-fall-guys-disconnect-issues-in-windows/"><u>Troubleshooting Fall Guys Disconnect Issues in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-generation-gauge-guide/"><u>Windows Generation Gauge Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-iphone-podcast-downloading-essentials-a-complete-walkthrough/"><u>[New] 2024 Approved IPhone Podcast Downloading Essentials A Complete Walkthrough</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-artistic-excellence-foremost-ios-art-tools/"><u>[New] In 2024, Artistic Excellence Foremost iOS Art Tools</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-top-25-secrets-for-effective-win10-use/"><u>[New] In 2024, Top 25 Secrets for Effective Win10 Use</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-capturing-skype-audiovideo-windows-and-mac-tips-for-2024/"><u>[Updated] Capturing Skype Audio/Video Windows & Mac Tips for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/all-the-paint-3d-keyboard-shortcuts-you-must-know/"><u>All the Paint 3D Keyboard Shortcuts You Must Know</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-windows-dism-failure-0x800f082f-quickly/"><u>Eliminating Windows' DISM Failure 0X800F082F Quickly</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-sign-up-to-subscription-optimizing-every-gaming-moment-in-ea-play-ps5/"><u>From Sign-Up to Subscription: Optimizing Every Gaming Moment in EA Play PS5</u></a></li>
+<li><a href="https://windows11.techidaily.com/guiding-windows-users-through-system-slumber/"><u>Guiding Windows Users Through System Slumber</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-make-your-retro-games-look-like-they-used-to-with-retroarchs-shaders/"><u>How to Make Your Retro Games Look Like They Used to With RetroArch’s Shaders</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-from-iphone-12-pro-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock From iPhone 12 Pro? How to Fix it?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-vivo-y100t-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Vivo Y100t</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/methoden-zur-wiederherstellung-vergangener-mails-in-microsoft-outlook-archive-folders/"><u>Methoden Zur Wiederherstellung Vergangener Mails in Microsoft Outlook Archive Folders.</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-screen-glitches-in-windows-11-a-step-by-step-guide/"><u>Solving Screen Glitches in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/transform-your-social-media-experience-livestream-fb-flawlessly/"><u>Transform Your Social Media Experience Livestream FB Flawlessly</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-microsoft-store-issues-overcoming-0x80072f30/"><u>Unraveling Microsoft Store Issues: Overcoming 0X80072F30</u></a></li>
 </ul></div>
 

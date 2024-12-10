@@ -1,7 +1,7 @@
 ---
 title: Three Tech-Savvy Tactics to Remove Microsoft Store
-date: 2024-12-02T21:12:35.870Z
-updated: 2024-12-04T05:41:58.086Z
+date: 2024-12-04T17:35:01.949Z
+updated: 2024-12-10T20:50:11.392Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/87eef5cf587ac33a0581d68baadab4d33ca4c311a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Should You Uninstall the Microsoft Store App?
 
  Microsoft Store houses all the useful and popular applications for Windows devices. Moreover, it guarantees safe and malware-free application downloads. But if the app fails to start or doesn’t work properly, removing it makes sense.
@@ -32,16 +36,12 @@ thumbnail: https://thmb.techidaily.com/87eef5cf587ac33a0581d68baadab4d33ca4c311a
  But don’t worry. You can remove the app and then reinstall it if you want. Reinstallation can fix persistent issues with the current version of the Microsoft Store app. It will remove the current app installation and all its related files and corrupt data. After that, you can reinstall the Microsoft app with a single command.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Uninstall Microsoft Store App From Windows 11
 
  You can remove the Microsoft Store app from Windows 11 using the winget tool and run it using the command prompt. In addition, you can use the PowerShell cmdlet to remove the Microsoft Store application package from your system or use a batch file.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Using Winget
 
@@ -57,7 +57,7 @@ winget uninstall Microsoft.WindowsStore_8wekyb3d8bb
 6. Type**exit** in the command prompt window and press enter to close it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Using PowerShell
@@ -65,7 +65,7 @@ winget uninstall Microsoft.WindowsStore_8wekyb3d8bb
  Before winget was officially integrated into Windows 10 and 11, there was a method to[remove the Microsoft Store app using PowerShell](https://www.makeuseof.com/remove-reinstall-microsoft-store-windows-11/) . The method still works and all you need to do is list the package name and then use the**Remove-AppxPackage** cmdlet to uninstall the Microsoft Store app from your system. Make sure to run PowerShell with elevated permissions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Using a Batch File
@@ -79,13 +79,13 @@ winget uninstall Microsoft.WindowsStore_8wekyb3d8bb
 ![Uninstall Microsoft Store App using batch file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-microsoft-store-app-using-batch-file.jpg)
 4. Click on the**Save** button. Close the Notepad window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Press**Win + D** to switch to the desktop again. Right-click on the batch file and select the**Run as administrator** option from the context menu.
 6. A command prompt window will open, run the Microsoft Store app uninstallation command, and close automatically. You don’t need to interact with the window.
 7. Open the Start menu and search for Microsoft Store. You won’t find any matching app on your system.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Easily Remove the Microsoft Store From Windows
 
@@ -106,24 +106,21 @@ winget uninstall Microsoft.WindowsStore_8wekyb3d8bb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-syma-x5c-insights-choosing-the-best-drone-for-aviation-rookies-for-2024/"><u>[Updated] Syma X5C Insights Choosing the Best Drone for Aviation Rookies for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-spectacular-top-liquid-physics-gaming/"><u>2024 Approved Spectacular Top Liquid Physics Gaming</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-top-picks-for-instant-recorder-performance/"><u>2024 Approved Top Picks for Instant Recorder Performance</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/creative-labs-sound-blaster-zxr-unveiled-analyzing-the-2013-leading-audio-card/"><u>Creative Labs Sound Blaster ZXR Unveiled: Analyzing the 2013 Leading Audio Card!</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-to-overcoming-java-installation-errors-on-pc/"><u>Guide to Overcoming Java Installation Errors on PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-return-to-original-windows-setup-settings/"><u>How to Return to Original Windows Setup Settings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-tackle-failed-projection-links-on-windows-os/"><u>How to Tackle Failed Projection Links on Windows OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/improving-system-performance-by-curbing-browser-activity/"><u>Improving System Performance by Curbing Browser Activity</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-from-apple-iphone-12-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons From Apple iPhone 12? Find the Best Solution Here</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-audio-excellence-with-windows-11-a-beginner-written-by-your-name/"><u>In 2024, Audio Excellence with Windows 11 A Beginner' Written by [Your Name]</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Poco C51? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/maintain-full-size-icons-on-your-windows-11-machine/"><u>Maintain Full-Size Icons on Your Windows 11 Machine</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-windows-speakers-unresponsiveness/"><u>Overcoming Windows Speakers Unresponsiveness</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-update-breakdown-overcoming-error-0x80246007-on-win11/"><u>Resolving Update Breakdown: Overcoming Error 0X80246007 on Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/secure-your-wi-fi-blocking-networks-on-windows-pc/"><u>Secure Your Wi-Fi: Blocking Networks on Windows PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/success-tips-reviving-your-intel-unison-app/"><u>Success Tips: Reviving Your Intel Unison App</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-perfect-blend-of-efficiency-sabrents-cable-enhanced-miniature-portable-mouse-for-precision-performance/"><u>The Perfect Blend of Efficiency: Sabrent's Cable-Enhanced Miniature Portable Mouse for Precision Performance</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-blackwhite-windows-store-errors/"><u>Troubleshooting Black/White Windows Store Errors</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/walking-the-digital-path-scoring-the-best-vr-exercinas/"><u>Walking the Digital Path Scoring the Best VR Exercinas</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-mastering-iphone-screen-capture-with-simplicity/"><u>[New] 2024 Approved Mastering iPhone Screen Capture with Simplicity</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ptimize-your-watch-activate-av1-on-youtube-platform-for-2024/"><u>[New] Optimize Your Watch Activate AV1 on YouTube Platform for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-become-a-tiktok-icon-top-unique-personalities-and-pfps/"><u>2024 Approved Become a TikTok Icon Top Unique Personalities and PFPs</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-earning-a-living-with-social-media-snaps/"><u>2024 Approved Earning a Living with Social Media Snaps</u></a></li>
+<li><a href="https://windows11.techidaily.com/bringing-print-functionality-to-microsofts-secure-edge/"><u>Bringing Print Functionality to Microsoft's Secure Edge</u></a></li>
+<li><a href="https://windows11.techidaily.com/chronicle-of-windows-seven-enduring-traits-in-the-new-era-of-11/"><u>Chronicle of Windows: Seven Enduring Traits in the New Era of 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-prevalent-anydesk-errors-in-windows/"><u>Decoding Prevalent AnyDesk Errors in Windows</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-apple-iphone-13-pro-have-find-my-friends-drfone-by-drfone-virtual-ios/"><u>Does Apple iPhone 13 Pro Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-usb-resources-on-pcs/"><u>Enhancing USB Resources on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/hidden-panels-revealed-recovering-offscreen-windows-in-edges-os/"><u>Hidden Panels Revealed: Recovering Offscreen Windows in Edges OS</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-apple-iphone-se-2020-with-7-methods-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for Apple iPhone SE (2020) With 7 Methods</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-solution-correct-unidentified-usb-problems-with-this-simple-fix/"><u>Master the Solution: Correct Unidentified USB Problems with This Simple Fix</u></a></li>
+<li><a href="https://windows11.techidaily.com/revealing-concealed-elements-a-guide-to-windows-11-ui/"><u>Revealing Concealed Elements: A Guide to Windows 11 UI</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-motorola-moto-g14-by-drfone-android/"><u>Top 10 Password Cracking Tools For Motorola Moto G14</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-unveiled-the-backup-and-sync-technological-advancements/"><u>Windows 11 Unveiled: The Backup & Sync Technological Advancements</u></a></li>
 </ul></div>
 

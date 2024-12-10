@@ -1,7 +1,7 @@
 ---
 title: Instantaneous Access to the Calculator in Windows 11 OS
-date: 2024-08-15T16:15:57.235Z
-updated: 2024-08-16T16:15:57.235Z
+date: 2024-12-03T21:22:02.826Z
+updated: 2024-12-10T20:47:12.782Z
 tags:
   - windows10
   - windows11
@@ -35,21 +35,23 @@ thumbnail: https://thmb.techidaily.com/c80fad792e3cb229a3e653969139437b39335328a
 1. Press the**Win + R** shortcut to open the Run command dialog box.
 2. Type "calc" into the Run dialog box and press Enter.  
 ![Open Calculator Using Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-calculator-using-run-command.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  This will bring up the Calculator so you can get started with your calculations.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. How to Open Calculator From File Explorer
 
  Did you know you can open Calculator directly from the File Explorer? It's a handy way to bring up the app if you're knee-deep in your file system.
 
 1. Open Windows File Explorer (see[how to open the Windows File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) ).
 2. In the address bar, type "calc" and press**Enter** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. How to Open Calculator Using Command Prompt
 
@@ -61,11 +63,12 @@ thumbnail: https://thmb.techidaily.com/c80fad792e3cb229a3e653969139437b39335328a
 2. Once you've opened the window, type “calc” and press Enter.  
 ![Open Calculator Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-calculator-using-command-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This will launch your Calculator application.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ## 5\. How to Open Calculator Using Windows PowerShell
 
  If you are unable to access the Command Prompt for any reason, but you still wish to be able to perform tasks from the command line, don't worry! You can instead use PowerShell to open the Calculator application in Windows 11.
@@ -81,8 +84,9 @@ To open Calculator using Windows PowerShell, follow these steps:
 4. This command will cause the Calculator application to open quickly.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. How to Open Calculator Through Task Manager
 
  Task Manager has been a part of the Windows operating system since its inception. It manages the performance of your computer as well as opens different applications.
@@ -92,9 +96,6 @@ To open the Calculator application on Windows 11, use these steps:
 1. Press**Ctrl + Shift + Esc** on your keyboard to open Task Manager.
 2. Once inside, click on**Run new task** at the top of the page.  
 ![Open Calculator Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-calculator-using-task-manager.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. Type “calc” into the text box and click**OK** to open the Calculator.
 
 ## 7\. How to Open Calculator From Start Menu
@@ -104,10 +105,11 @@ To open the Calculator application on Windows 11, use these steps:
 1. On your desktop screen, click**Start** in the left-hand corner.
 2. From there, tap**All apps** and scroll to**Calculator** .  
 ![Open Calculator Using Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-calculator-using-start-menu.jpg)
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Once you find it, click on it and a pop-up window will appear with all its features.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You are now ready to start performing calculations!
 
@@ -134,24 +136,12 @@ You are now ready to start performing calculations!
 1. Right-click the shortcut icon and select**Properties** .
 2. On the**Shortcut** tab, go to the**Shortcut** field.  
 ![Open Calculator Using Batch File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-calculator-using-batch-file.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 3. In the Shortcut field, type any letter or number you like.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click**Apply > OK** to save your selections.
 
  To open Calculator using the shortcut key, hold down**Ctrl + Alt** and then type the letter or number. For example, if you select**D** as a shortcut letter, you will have to press**Ctrl + Alt + D** on your keyboard to open the Calculator application on Windows.
@@ -168,21 +158,18 @@ To do this, follow these steps:
  From now on, you can simply click on the Calculator icon on your taskbar to start performing calculations.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## You’re Now Ready To Use the Calculator on Windows 11
 
  The Calculator app is one of the most common tools used on computers running Windows, and it is indispensable for many different tasks. If you need help opening this tool, try one of the many methods covered here and get calculating quicker.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -191,4 +178,24 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-21-vegas-pro-insights-an-expert-breakdown/"><u>2024 Approved '21 Vegas Pro Insights – An Expert Breakdown</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-enhancing-viewership-maintaining-youtubes-creative-commons/"><u>2024 Approved Enhancing Viewership Maintaining YouTube's Creative Commons</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-reading-experience-top-5-ai-infused-literary-apps/"><u>Elevate Your Reading Experience - Top 5 AI-Infused Literary Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-admin-focused-issues-in-windows-security-framework/"><u>Fixing Admin-Focused Issues in Windows Security Framework</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-xc0000142-blue-screen-in-win10win11/"><u>Fixing XC0000142 Blue Screen in WIN10/WIN11</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-ceasing-built-in-laptop-input-through-windows/"><u>Guide: Ceasing Built-In Laptop Input Through Windows</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-does-just-feed-reflect-on-facebooks-brand-evolution/"><u>How Does 'Just Feed' Reflect on Facebook's Brand Evolution</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-keep-sticky-notes-always-on-top-on-windows-10-and-11/"><u>How to Keep Sticky Notes Always on Top on Windows 10 & 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-jest-joys-ranking-the-most-hilarious-text-tools/"><u>In 2024, Jest Joys Ranking the Most Hilarious Text Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/key-tools-enabling-seamless-shift-from-mac-os-to-windows-powered-pc/"><u>Key Tools Enabling Seamless Shift From Mac OS to Windows-Powered PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-over-post-update-linux-integration-on-win-11/"><u>Mastery Over Post-Update Linux Integration on Win 11</u></a></li>
+<li><a href="https://facebook.techidaily.com/post-purity-techniques-for-removing-unwanted-discussions/"><u>Post Purity: Techniques for Removing Unwanted Discussions</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-illusionists-toolkit-drawing-on-win-1011/"><u>The Illusionist's Toolkit: Drawing on Win 10/11</u></a></li>
+<li><a href="https://article-tips.techidaily.com/top-cameraphone-gimbal-optimal-pan-and-tilt-stability-for-2024/"><u>Top Camera/Phone Gimbal – Optimal Pan & Tilt Stability for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-the-potential-of-disks-on-win-1011-systems/"><u>Unlocking the Potential of Disks on Win 10/11 Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-apples-latest-innovation-an-ai-powered-assistant-that-revolutionizes-siri-with-smart-home-interaction/"><u>Unveiling Apple's Latest Innovation: An AI-Powered Assistant That Revolutionizes Siri with Smart Home Interaction</u></a></li>
+</ul></div>
 

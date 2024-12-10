@@ -1,7 +1,7 @@
 ---
 title: Navigating Through the Maze of Windows Security Faults
-date: 2024-12-02T20:48:16.274Z
-updated: 2024-12-04T05:00:50.366Z
+date: 2024-12-05T16:51:36.957Z
+updated: 2024-12-10T17:29:34.153Z
 tags:
   - windows10
   - windows11
@@ -25,11 +25,19 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check for New Windows Updates
 
  First, check for and install available Windows patch updates. Microsoft releases many patches to update Microsoft Defender. So, a patch update could feasibly resolve a Windows Security bug. Our[guide to manually updating Windows](https://www.makeuseof.com/update-windows-manually/#:~:text=Press%20the%20Win%20%2B%20I%20hotkeys,the%20Check%20for%20updates%20button.) tells you how to check for and install new updates in Settings.
 
 ![The Reset option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Run System File and Image Scans
 
@@ -59,13 +67,17 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 4. Type**DisableAntiSpyware** in the DWORD’s text box.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Double-click the**DisableAntiSpyware** DWORD to access its**Value** box.
 6. Input**0** in the data box if that’s not the current value set.  
 ![The Edit DWORD window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-edit-dword-window.jpg)
 7. Select**OK** to confirm the value for the DWORD.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Reset the Windows Security App
 
@@ -74,11 +86,7 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 ![The Reset option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Run a Malwarebytes Scan
@@ -93,6 +101,10 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 6. Click**Install** to add Malwarebytes to a default directory path.  
 ![The Install button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/install-button-for-malwarebytes.jpg)
 7. Select**Me or my family** (for personal use) at the production selection step and click**Next** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 8. Click**Skip this for now** if you prefer not to install the additional Malwarebytes Browser Guard software.  
 ![The Skip this for now option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/skip-this-for-now-option.jpg)
@@ -109,7 +121,7 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
  The Microsoft Safety Scanner is an alternative to Malwarebytes you can run a malware scan with as well. However, that’s only a temporary scanning utility that expires after 10 days. You can download that utility from this[Microsoft page](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/safety-scanner-download?view=o365-worldwide) . Check out[our Microsoft Safety Scanner guide](https://www.makeuseof.com/microsoft-safety-scanner-guide/) for details about to purge malware with that tool.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Check the "Turn Off Microsoft Defender Antivirus" Group Policy Setting
@@ -123,16 +135,8 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 ![The Group Policy Editor window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/microsoft-defender-antivirus-policy-settings.jpg)
 4. Click**Not Configured** if that policy is set to**Enabled** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Turn Off Microsoft Defender Antivirus policy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-microsoft-defender-antivirus.jpg)
 5. Select the policy’s**Apply** and**OK** options.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Reset Windows or Perform an In-Place Upgrade
 
@@ -141,10 +145,6 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 [Applying a Windows reset](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) might resolve some deeper system issues causing the “Unexpected error” issue. However, it’s only advised to do so if none of the other potential solutions suggested here work.
 
 ![The Reset this PC tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-this-pc-tool.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  An in-place upgrade is an alternative troubleshooting method to resetting Windows. Performing an in-place upgrade will reinstall Windows by installing the latest build version. So, it’s like a reset, but the advantage is that an in-place upgrade preserves the apps you’ve installed. This guide to[performing an in-place upgrade on Windows](https://www.makeuseof.com/in-place-upgrade-windows-11/) provides full instructions for upgrading Windows 11 in such a way.
 
@@ -169,22 +169,17 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-ultimate-guide-to-audio-integration-on-reels/"><u>[Updated] 2024 Approved The Ultimate Guide to Audio Integration on Reels</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-simple-strategies-upside-down-video-rotation-via-vlc-for-2024/"><u>[Updated] Simple Strategies Upside-Down Video Rotation via VLC for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-numbers-that-shook-youtube-facts-in-visual-form-2017/"><u>2024 Approved Numbers that Shook! YouTube Facts in Visual Form (2017)</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/1722623303103-best-bargains-in-2019-tcls-50-inch-50s425-roku-smart-tv-our-ultimate-review/"><u>Best Bargains in 2019: TCL's 50-Inch 50S425 Roku Smart TV - Our Ultimate Review</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-insights-into-utilizing-microsofts-system-restore-feature/"><u>Essential Insights Into Utilizing Microsoft's System Restore Feature</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/explore-top-tech-in-depth-analysis-at-toms-hardware-hub/"><u>Explore Top Tech: In-Depth Analysis at Tom's Hardware Hub</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-srt-to-the-future-mastering-xmlssattml-transforms-for-2024/"><u>From SRT to the Future Mastering XML/SSA/TTML Transforms for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-solve-microsoft-office-365-glitches-error-30015-26/"><u>How to Solve Microsoft Office 365 Glitches: Error 30015-26</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Sony Xperia 10 V? | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/laughlinelab-picchuckleworkshop-for-2024/"><u>LaughLineLab PicChuckleWorkshop for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/methods-to-resolve-non-installed-windows-store-apps/"><u>Methods to Resolve Non-Installed Windows Store Apps</u></a></li>
-<li><a href="https://extra-support.techidaily.com/peering-behind-the-scenes-of-youtube-reviews-for-2024/"><u>Peering Behind the Scenes of YouTube Reviews for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/pinpointing-powerful-policies-in-windows-systems/"><u>Pinpointing Powerful Policies in Windows Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/preventing-devices-from-suspending-during-energy-saver/"><u>Preventing Devices From Suspending During Energy Saver</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlined-strategy-for-downloading-adobe-on-microsoft-platform/"><u>Streamlined Strategy for Downloading Adobe on Microsoft Platform</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-7-sketch-tools-on-windows-11/"><u>Top 7 Sketch Tools on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11-unveiled-a-dive-into-widgets/"><u>Windows 11 Unveiled - A Dive Into Widgets</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-expert-techniques-for-swift-mac-screenshotting-using-shortcuts/"><u>[New] Expert Techniques for Swift Mac Screenshotting Using Shortcuts</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-streamlining-video-conferencing-combining-skype-and-zoom-effortlessly/"><u>[Updated] 2024 Approved Streamlining Video Conferencing Combining Skype & Zoom Effortlessly</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-speed-with-wordpad-embedding-keyboard-macros-into-windows-menu/"><u>Boosting Speed with WordPad: Embedding Keyboard Macros Into Windows Menu</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-the-dilemma-of-windows-code-crashes/"><u>Decoding the Dilemma of Windows Code Crashes</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95783041-9781594778728-ecstasy-the-complete-guide/"><u>Ecstasy: The Complete Guide | Free Book</u></a></li>
+<li><a href="https://windows11.techidaily.com/embracing-the-future-revolutionary-changes-to-file-explorer/"><u>Embracing the Future: Revolutionary Changes to File Explorer</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-free-drivers-windows-best-five-boosters/"><u>Essential Free Drivers: Windows' Best Five Boosters</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-xs-to-other-iphone-12-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone XS to other iPhone 12 devices? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-mystery-of-missing-contacts-on-iphone-a-step-by-step-guide/"><u>Solving the Mystery of Missing Contacts on iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-trick-for-modifying-gps-location-on-android-and-ios-devices/"><u>The Ultimate Trick for Modifying GPS Location on Android and iOS Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-guide-resolving-issues-with-your-non-responsive-macbook-pro-keys/"><u>Troubleshooting Guide: Resolving Issues with Your Non-Responsive MacBook Pro Keys</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-fast-access-to-textual-explanations/"><u>Windows 11: Fast Access to Textual Explanations</u></a></li>
 </ul></div>
 

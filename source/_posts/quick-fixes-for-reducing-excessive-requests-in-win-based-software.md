@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Reducing Excessive Requests in Win-Based Software
-date: 2024-08-08T06:15:29.692Z
-updated: 2024-08-09T06:15:29.692Z
+date: 2024-12-05T21:36:22.315Z
+updated: 2024-12-10T19:02:13.670Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/fce57db6d0ca9f41bfe3bd2fdd239ef79b5c70d70
 
  But what causes the 0x80860010 error, and how do you resolve it? Let’s find out.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Causes the "Application Made Too Many Requests" Error (0x80860010)?
 
  Here are some of the things that can cause this error:
@@ -34,10 +38,11 @@ thumbnail: https://thmb.techidaily.com/fce57db6d0ca9f41bfe3bd2fdd239ef79b5c70d70
 
 ## 1\. Restart the Affected App or Fix Network Issues
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![A person using a Windows computer on a brown desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-person-using-a-Windows-computer-on-a-brown-desk.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the issue is caused by a minor bug on the app, then restarting the affected app should help.
 
@@ -51,18 +56,16 @@ thumbnail: https://thmb.techidaily.com/fce57db6d0ca9f41bfe3bd2fdd239ef79b5c70d70
 
 ## 2\. Sign Out and Sign Back Into Your Microsoft Account
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Entering a password on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/entering-a-password-on-a-laptop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It's possible that the cause of the issue is related to your Microsoft account. Fortunately, signing out and then signing back into your account seems to be enough to fix any account-based causes.
 
  Alternatively, [switch from a local account to a Microsoft account](https://www.makeuseof.com/windows-switch-local-account-to-microsoft-account/) (or vice versa) and see if that helps.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Configure the Rate Limit and Script Settings
 
  You could also consider configuring a few settings to ensure the affected app operates within the allowed request limits.
@@ -78,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/fce57db6d0ca9f41bfe3bd2fdd239ef79b5c70d70
 5. Save the changes by clicking on the appropriate button or menu option. Some apps may require a restart for the changes to apply. So, follow any prompts or instructions provided.
 
  Also, don't forget that misconfigured scripts and automation tools can cause apps to generate an excessive number of requests. So if you’re using an automation tool, you might want to configure its settings to get rid of the issue. Meanwhile, if you’re using an automation script, then it could be worth editing it to tackle the problem
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Update or Reinstall the Faulty App
 
@@ -97,13 +104,13 @@ thumbnail: https://thmb.techidaily.com/fce57db6d0ca9f41bfe3bd2fdd239ef79b5c70d70
 
 ## 6\. Try Some Generic Windows Fixes
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![A woman using a gray Windows laptop](https://thmb.techidaily.com/749189d3cf96e07116b3345727ad3fbca6dd8d53dc60a64adccf57fc91fbbcad.jpg)
 
  There are a few tricks that act as a "cure-all" for Windows bugs, so it's worth giving these a try if nothing has worked.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Perform a Clean Boot
 
@@ -111,25 +118,17 @@ thumbnail: https://thmb.techidaily.com/fce57db6d0ca9f41bfe3bd2fdd239ef79b5c70d70
 
  If you notice that the error stops once you've clean-booted into Windows, it means that one of the services or programs that got disabled is causing it. You can now try uninstalling apps you no longer need, or if you need to know the exact service causing the problem, slowly begin re-enabling them until the error resurfaces.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ### Perform a Windows Update
 
  If that fails, [updating your Windows device](https://www.makeuseof.com/update-windows-manually/) could also help. This ensures that you have the latest bug fixes and features that can tackle strange error messages like the "App made too many requests" issue.
 
 ##
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ## Conquering the "Application Made Too Many Requests" Error
 
  Coming across the "App made too many requests" error can instantly ruin your day. But the good news is you can tackle this problem by applying any of the solutions we’ve covered.
 
  But what causes the 0x80860010 error, and how do you resolve it? Let’s find out.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -137,3 +136,22 @@ thumbnail: https://thmb.techidaily.com/fce57db6d0ca9f41bfe3bd2fdd239ef79b5c70d70
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-a-compilation-of-best-video-chatting-applications-mobilepluspc/"><u>[New] A Compilation of Best Video Chatting Applications (Mobile+PC)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-how-to-create-gif-format-outros/"><u>[New] In 2024, How To Create GIF Format Outros</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-mastering-the-moment-best-drone-footage-editing-tools-ranked/"><u>[New] Mastering the Moment Best Drone Footage Editing Tools Ranked</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-youtube-mastery-comprehensive-editing-for-lifelong-learners/"><u>[New] YouTube Mastery Comprehensive Editing for Lifelong Learners</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-capturing-screen-mac-video-recording-guide/"><u>2024 Approved Capturing Screen MAC Video Recording Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-microsofts-phone-link-for-android-usage-guide/"><u>Exploring Microsoft's Phone Link for Android: Usage Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximize-print-speed-on-windows-devices/"><u>Maximize Print Speed on Windows Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-failed-nvidia-connect-attempts-on-windows-11-pcs/"><u>Overcoming Failed Nvidia Connect Attempts on Windows 11 PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-the-empty-folder-puzzle-in-win-11/"><u>Overcoming the Empty Folder Puzzle in Win 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-solution-to-the-vanishing-mouse-pointer-problem-in-windows-10/"><u>The Ultimate Solution to the Vanishing Mouse Pointer Problem in Windows 10</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-5-troubleshooting-tips-for-a-smooth-gameplay-experience-in-world-of-warships-pc-edition/"><u>Top 5 Troubleshooting Tips for a Smooth Gameplay Experience in World of Warships [PC Edition]</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-create-stunning-intros-top-10-pc-software-online-and-offline/"><u>Updated Create Stunning Intros Top 10 PC Software Online and Offline</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-hurdles-apps-with-dull-facades-draining-energy/"><u>Windows 11 Hurdles: Apps With Dull Facades Draining Energy</u></a></li>
+</ul></div>
+

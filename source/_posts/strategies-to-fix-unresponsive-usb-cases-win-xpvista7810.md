@@ -1,7 +1,7 @@
 ---
 title: "Strategies to Fix Unresponsive USB Cases: Win XP/Vista/7/8/10"
-date: 2024-08-15T16:21:38.279Z
-updated: 2024-08-16T16:21:38.279Z
+date: 2024-12-07T18:12:37.513Z
+updated: 2024-12-10T19:30:07.868Z
 tags:
   - windows10
   - windows11
@@ -20,17 +20,26 @@ thumbnail: https://thmb.techidaily.com/0be5a94dd3d4589909d5a9db46fde9f5e7dc17aa8
 
  While USB data transferring errors happen for a variety of reasons, definite fixes exist that will get your copying back to normal in time. We’ve gone through a host of methods to get rid of debilitating errors for good, and below present you with the best one. Let’s start with the simplest one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Unplug and Replug the USB Stick
 
 ![usb stick](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/usb-stick.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The simplest of solutions are often the most neglected ones. We say this often for a lot of tech things, so naturally, this holds for any kind of problems with a USB stick as well. If you’re unable to move the data with your USB stick, try unplugging it and putting it back in. You'd be surprised how often this simple trick does the job for you.
 
  It’s not uncommon for a USB drive to throw errors because you plugged it in improperly, or it didn't fit in all the way. As such, when you plug it back in, make sure it's seated nicely within the USB port.
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Update Your USB Device's Drivers
 
  The USB driver is the set of instructions that lets your USB stick interact with Windows. In practical terms, this means without a proper driver installed, your USB stick is as good as a pebble for your PC.
@@ -46,17 +55,11 @@ thumbnail: https://thmb.techidaily.com/0be5a94dd3d4589909d5a9db46fde9f5e7dc17aa8
 ## 3\. Perform a Malware Scan
 
 ![malware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/malware.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 
  Malware can create all kinds of problems on your PC. From the smallest of bugs to big-blown corruptions—malware can do it all. Problems with your USB are another such problem that can arise because of malware.
 
  In most cases, a [quick scan with Microsoft Defender](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) is often enough to find and fix different malware on your PC. So give Microsoft Defender a go and see if that fixes the error.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Format Your USB Stick
 
  If the data transfer stopped in the middle of a process, then it’s very likely primarily a corruption issue. Like everything in tech, USB corruption can happen because of disruptions in a variety of ways—software, hardware, and so on.
@@ -67,20 +70,22 @@ thumbnail: https://thmb.techidaily.com/0be5a94dd3d4589909d5a9db46fde9f5e7dc17aa8
 
  And that’s it—when your USB stick will be formatted, you should be able to transfer your USB data to and from your Windows again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Restart Your PC
 
 ![windows booting-up](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-booting-up.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 
  If you’ve tried all the above methods and none of them have worked so far, it’s likely that the problem is not with the USB stick but with the PC. If that's the case the first thing we'd like to recommend is to restart your PC. You’d be shocked how a simple reboot is often enough to fix many abrupt issues in a PC.
 
  So do a simple restart and see if that fixes your USB copying problem.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Check for Compatibility Issues
 
  Another addition to checking things out with the PC first, it’s often helpful to check the compatibility of whatever software or hardware you’re using with your PC. Remember that compatibility is often one of the first things you should check out when buying software or hardware for yourself.
@@ -97,16 +102,11 @@ thumbnail: https://thmb.techidaily.com/0be5a94dd3d4589909d5a9db46fde9f5e7dc17aa8
 
  If none of them work, then it’s very likely a problem with the slot. Getting your PC examined by a tech specialist will be helpful in those cases.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## The Best Ways to Transfer Your Data to and From a Windows PC
 
  Transferring your files with USB is one of the best ways to move your files or other vital data. While it's true it isn’t the only method to do this, it’s fair to say it will stay prevalent for the foreseeable future. So problems with anything tech are going to stay no matter what. But problems in anything tech are typical, and your UBS drive is no different. Don’t worry, though. Try the above methods, and you will be good to go in no time.
 
  While USB data transferring errors happen for a variety of reasons, definite fixes exist that will get your copying back to normal in time. We’ve gone through a host of methods to get rid of debilitating errors for good, and below present you with the best one. Let’s start with the simplest one.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -114,3 +114,27 @@ thumbnail: https://thmb.techidaily.com/0be5a94dd3d4589909d5a9db46fde9f5e7dc17aa8
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-dive-deep-into-windows-11-the-ultimate-guide-to-video-cutting/"><u>[New] 2024 Approved Dive Deep Into Window's 11 The Ultimate Guide to Video Cutting</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-quickclip-genius/"><u>[Updated] In 2024, QuickClip Genius</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-quick-fixes-utilizing-the-eraser-tool-in-psx/"><u>[Updated] Quick Fixes Utilizing the Eraser Tool in PSX</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-sonys-masterpiece-in-motion-graphics-xperia-xz-premium-unboxed/"><u>2024 Approved Sony's Masterpiece in Motion Graphics Xperia XZ Premium Unboxed</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/conversao-gratuita-png-para-tiff-on-line-via-movavi-facil-e-rapida/"><u>Conversão Gratuita PNG Para TIFF On-Line via Movavi - Fácil E Rápida</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-windows-junk-uninstall-list-revealed/"><u>Essential Windows Junk: Uninstall List Revealed</u></a></li>
+<li><a href="https://windows11.techidaily.com/ftdibussys-dissected-why-it-causes-disturbances-in-windows-memory/"><u>Ftdibus.sys Dissected: Why It Causes Disturbances in Windows Memory</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/hidden-viewers-guide-reading-instagram-stories-privately-from-pcandroidios/"><u>Hidden Viewers Guide Reading Instagram Stories Privately From PC/Android/iOS</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-nokia-g42-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Nokia G42 5G? | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-top-8-montage-apps-for-your-androidiphone/"><u>In 2024, Top 8 Montage Apps for Your Android/iPhone</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-cortana-archive-windows-based-steps/"><u>Master Cortana Archive: Windows-Based Steps</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-11-folder-access-top-techniques-explored/"><u>Mastering Windows 11 Folder Access: Top Techniques Explored</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-wpm-in-windows-11-a-step-by-step-guide/"><u>Mastering WPM in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-of-common-obs-error-fixes-on-windows-11/"><u>Mastery of Common OBS Error Fixes on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/reimagine-windows-11-notepad-aesthetics-and-readability/"><u>Reimagine Windows 11 Notepad: Aesthetics & Readability</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/l-network-power-play-understanding-igtv-vs-youtubes-dynamics/"><u>Social Network Power Play Understanding IGTV Vs. YouTube's Dynamics</u></a></li>
+<li><a href="https://windows11.techidaily.com/swiftly-syncing-spotify-on-windows-11-systems/"><u>Swiftly Syncing Spotify on Windows 11 Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/unsupported-devices-heres-how-to-elevate-with-win11-22h2/"><u>Unsupported Devices? Here’s How to Elevate with Win11 22H2</u></a></li>
+<li><a href="https://facebook.techidaily.com/yearly-summary-the-hottest-podcasts-reviewed-and-rated/"><u>Yearly Summary: The Hottest Podcasts Reviewed & Rated</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Unsuccessful Files Download on Windows 11
-date: 2024-11-26T20:46:43.968Z
-updated: 2024-12-04T05:31:04.895Z
+date: 2024-12-03T20:31:51.366Z
+updated: 2024-12-10T18:39:25.462Z
 tags:
   - windows10
   - windows11
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 ![The Disk Clean-up window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disk-clean-up-tool.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Run the SFC and DISM Command-Line Tools
@@ -53,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 
 ![The Downloads location setting in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/download-location-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Change the Current Location in the Website Data Settings
 
  This downloading issue can occur because the current location in Internet Properties isn’t set to a local C: drive. You can check and change that current location within Internet Properties as follows:
@@ -68,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 ![The General tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/general-tab.jpg)
 5. If the current location is not set to your local C: drive, click on the **Move folder** button.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Website Data Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/current-location.jpg)
 6. Select a folder on your PC’s C: drive and click **OK**.
 
@@ -80,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
  We also recommend checking some security settings in Internet Properties. Click **Custom level** on the **Security** tab. Make sure the **File download** and **Font download** options are enabled there. If they’re not, select the **Enable** radio buttons for those settings and click **OK**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Run an Antivirus Scan
@@ -92,16 +84,16 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 ![The Scan options navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/scan-options.jpg)
 3. Select **Full scan** for the most thorough antivirus scanning.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click **Scan now** to start the scanning.  
 ![full-scan-options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/full-scan-options.jpg)
 5. Select **Start actions** to eradicate detected malware.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Disable Any Active Third-Party Antivirus Utilities
@@ -121,7 +113,7 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
  If disabling Windows Defender Firewall works, it’s not a good idea to leave it off. Resetting that firewall to its default configuration will likely disable the rules causing the issue. To do that, click the **Restore defaults** in the Windows Defender Firewall Control Panel applet. Then click the **Restore defaults** button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Reset Your Browser Software
@@ -139,6 +131,10 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 
 4. Click **Reset** inside the confirmation prompt.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Factory Reset Window
 
  If you still can’t download files after applying all the other resolutions above, there could be a deeper Windows issue that needs addressing. Resetting Windows involves a full reinstallation and will usually fix most system issues. It’s not an ideal resolution because you will need to reinstall all of your third-party software after applying it.
@@ -146,6 +142,10 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
  However, the "Reset this PC" tool does have an option for keeping user files. So, there’s no need to back up your user files before a reset. Follow the instructions in this [how to factory reset Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) article to apply this potential fix with the Reset this PC utility.
 
 ![The Reset this PC window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/reset-this-pc.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Download Files Again on Your Windows PC
 
@@ -165,16 +165,22 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-score-free-adventures-tiktoks-hidden-background-gemstones/"><u>[New] Score-Free Adventures TikTok's Hidden Background Gemstones</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficiently-reactivate-bluetooth-via-win11-drivers/"><u>Efficiently Reactivate Bluetooth via Win11 Drivers</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Vivo X100 Pro | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/proactive-battery-status-enabling-full-charge-alerts-in-windows-11/"><u>Proactive Battery Status: Enabling Full Charge Alerts in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/sidestep-denied-login-issues-in-windows-with-easy-fixes/"><u>Sidestep Denied Login Issues in Windows with Easy Fixes</u></a></li>
-<li><a href="https://win-blog.techidaily.com/strange-behavior-alert-rectifying-the-issue-of-a-self-moving-mouse-pointer/"><u>Strange Behavior Alert! Rectifying the Issue of a Self-Moving Mouse Pointer</u></a></li>
-<li><a href="https://windows11.techidaily.com/strengthening-windows-11-enhanced-mobile-accessibility/"><u>Strengthening Windows 11: Enhanced Mobile Accessibility</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/top-3-most-popular-asian-languagesback-buttonfilter-button/"><u>Top 3 Most Popular Asian LanguagesBack ButtonFilter Button</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Motorola Edge 40? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/win-11-guide-nullify-local-account-security-prompts/"><u>Win 11 Guide: Nullify Local Account Security Prompts</u></a></li>
-<li><a href="https://windows11.techidaily.com/win11-and-10-home-enabling-administrator-access/"><u>Win11 & 10 Home: Enabling Administrator Access</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unleashing-fun-crafting-amazing-youtube-reaction-videos-in-3-ways/"><u>[Updated] Unleashing Fun Crafting Amazing YouTube Reaction Videos in 3 Ways</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-unraveling-twitchs-mysteries-the-recording-connoisseurs-guide/"><u>[Updated] Unraveling Twitch's Mysteries The Recording Connoisseur's Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-instant-illusions-mastering-time-lapse-photography-on-samsung/"><u>2024 Approved Instant Illusions Mastering Time-Lapse Photography on Samsung</u></a></li>
+<li><a href="https://windows11.techidaily.com/can-you-get-rid-of-the-windows-bt-directories/"><u>Can You Get Rid of the Windows ~BT Directories?</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-empty-folder-warning-in-windows-11/"><u>Eliminating 'Empty Folder' Warning in Windows 11</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/guida-passo-passo-per-il-backup-di-windows-11-fallito-e-soluzioni/"><u>Guida Passo-Passo per Il Backup Di Windows 11 Fallito E Soluzioni</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-wire-free-audio-on-windows-airpods/"><u>Guide to Wire-Free Audio on Windows (AirPods)</u></a></li>
+<li><a href="https://windows11.techidaily.com/guides-to-mastering-your-fax-interface-with-w11s-tools/"><u>Guides to Mastering Your Fax Interface with W11's Tools</u></a></li>
+<li><a href="https://facebook.techidaily.com/hurdles-in-the-horizon-facebooks-predictions/"><u>Hurdles in the Horizon: Facebook's Predictions</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-xiaomi-redmi-note-13-pro-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Xiaomi Redmi Note 13 Pro 5G Phones with/without a PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/live-transcribing-made-easy-the-whisper-way/"><u>Live Transcribing Made Easy - The Whisper Way</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-correctly-installing-apps-from-ms-store/"><u>Mastering the Art of Correctly Installing Apps From MS Store</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mendcorrupted-high-definition-data-doctor/"><u>MendCorrupted: High Definition Data Doctor</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-steps-for-minecraft-not-opening-in-windows-operating-system/"><u>Solution Steps for Minecraft Not Opening in Windows Operating System</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-password-creation-companion-for-windows-users/"><u>The Ultimate Password Creation Companion for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/ultimate-bundle-premier-cost-free-windows-11-assistants/"><u>Ultimate Bundle: Premier Cost-Free Windows 11 Assistants</u></a></li>
+<li><a href="https://change-location.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Vivo S17t | Dr.fone</u></a></li>
 </ul></div>
 

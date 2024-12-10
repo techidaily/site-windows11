@@ -1,7 +1,7 @@
 ---
 title: How BSoD Outputs Aid in System Recovery Planning
-date: 2024-08-08T06:14:46.911Z
-updated: 2024-08-09T06:14:46.911Z
+date: 2024-12-03T16:15:09.378Z
+updated: 2024-12-10T19:41:59.916Z
 tags:
   - windows10
   - windows11
@@ -24,11 +24,11 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
 
 ## What Are BSoD Memory Dumps?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![Blue Screen of Death on Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/bsod.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In simple terms, a BSoD memory dump is a file created by Windows whenever a BSoD error occurs, containing logs of what exactly happened. By [locating the dump files](https://www.makeuseof.com/windows-bsod-log-file-location/) and using a kernel debugger, users may debug the memory dump file to determine the true cause of the stop error.
 
@@ -43,21 +43,15 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
  Lastly, by letting you know what the root cause of the BSoD error is, BSoD memory dumps allow you to take the necessary precautions and make the required changes to prevent BSoD errors from happening again.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Different Types of BSoD Memory Dumps
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Types of Kernel-Mode Memory Dumps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/types-of-memory-dumps.jpg)
 
  There are several kinds of BSoD memory dumps, depending on what version of Microsoft Windows you're running:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### Complete Memory Dump
 
  The largest of the kernel-mode dump files, Complete Memory Dumps contains all the physical memory used by Windows.
@@ -82,9 +76,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Like with the previous dump file, whenever new Kernel Memory Dumps are generated, the previous ones will be overwritten.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Automatic Memory Dump
 
  For all intents and purposes, Automatic Dump files are identical to Kernel Memory Dump files. However, the difference between the two is how Windows manages the system paging file.
@@ -99,6 +90,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Just like Kernel Memory Dumps, newly generated Automatic Memory Dumps will overwrite the previous ones.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Small Memory Dump
 
  The smallest of the kernel-mode dump files, Small Memory Dumps are always limited to exactly 64 KB and require just 64 KB of pagefile.
@@ -111,6 +106,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  In the event of a new Small Memory Dump being generated, the previous file will not be overwritten. Instead, each Small Memory Dump will be given a different name that will make it easier to distinguish from one another.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Active Memory Dump
 
  Very similar to Complete Memory Dumps, Active Memory Dumps are much smaller since they don't refer to pages that may not be the cause of the BSoD error.
@@ -122,8 +121,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 `%SystemRoot%\Memory.dmp`
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Choosing the Right Memory Dump for You
 
 ![Lightbulb Idea Making a Choice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/making-a-choice.jpg)
@@ -144,9 +144,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Active Memory Dump files are only available on Windows 10 and later, while Automatic Memory Dump files are available on Windows 8 and later.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## Tools for Reading and Analyzing BSoD Memory Dumps
 
  Kernel-mode dump files exist so that users may analyze them and find out the root cause of occurring BSoD errors. Fortunately enough, there are several tools that can help with analyzing BSoD Memory Dumps:
@@ -159,25 +156,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  While it can seem overwhelming at first, with a bit of time and patience, you too can [get started with WinDbg](http://www.makeuseof.com/windbg-windows-10-guide/) and use it to solve most of your computer's issues.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### BlueScreenView
 
 ![BlueScreenView Main Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/bluescreenview-interface.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Both [WinDbg and BlueScreenView can help solve BSoD errors](https://www.makeuseof.com/tag/solve-blue-screen-errors/), however, BlueScreenView is much more suitable for users who are newer to kernel debugging.
 
  While it doesn't provide users with as much in-depth information as WinDbg, it does present the information in a much more simplistic and efficient manner.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### WhoCrashed
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![WhoCrashed Main Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/whocrashed-interface.jpg)
 
  If user-friendliness is what you're looking for, then you can't get any simpler than WhoCrashed. While the interface may look dated, the information that this tool provides is more than enough to help you find the cause of BSoD errors.
@@ -185,6 +177,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  The great thing about WhoCrashed is that it can even find the cause of kernel errors, which are errors that don't usually come accompanied by actual blue screens. Besides, WhoCrashed is great at finding system issues fast, especially if they happen to be driver-related.
 
  Lastly, [analyzing BSoD errors with WhoCrashed](https://www.makeuseof.com/tag/whocrashed-sheds-some-light-on-bsod-errors-windows/) is extremely easy due to how the final analysis results are presented. In fact, in some cases WhoCrashed may even give you suggestions as to what course of action you should take.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## BSoD Memory Dumps Are Great at Helping You Solve BSoD Errors
 
@@ -196,11 +192,30 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  One way to narrow down the list of reasons is via BSoD memory dumps (also known as kernel-mode dump files).
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-enhance-workflow-the-essential-list-of-8-scheduling-apps/"><u>2024 Approved Enhance Workflow The Essential List of 8 Scheduling Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-excessive-cpu-load-by-dropbox-app-on-windows-devices/"><u>Addressing Excessive CPU Load by Dropbox App on Windows Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/bridging-the-gap-between-wi-fi-and-ethernet-in-windows/"><u>Bridging the Gap Between Wi-Fi and Ethernet in Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-knowledge-sharing-broad-impact/"><u>ChatGPT Knowledge Sharing: Broad Impact</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-oppo-reno-9a-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Oppo Reno 9A Quickly | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/from-data-handlers-to-drivers-of-innovation-facebook-employees/"><u>From Data Handlers to Drivers of Innovation - Facebook Employees</u></a></li>
+<li><a href="https://windows11.techidaily.com/handling-iphone-photographic-file-import-failures-on-windows-pcs/"><u>Handling iPhone Photographic File Import Failures on Windows PCs</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-6s-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 6s to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-nokia-c02-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Nokia C02</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-ultimate-guide-convert-youtube-speeches-easily/"><u>In 2024, Ultimate Guide Convert YouTube Speeches Easily</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-review-of-lg-bp350-for-home-theaters/"><u>In 2024, Ultimate Review of LG BP350 for Home Theaters</u></a></li>
+<li><a href="https://windows11.techidaily.com/pro-tip-unearthing-windows-apps-installed-locations-quickly/"><u>Pro Tip: Unearthing Windows Apps' Installed Locations Quickly</u></a></li>
+<li><a href="https://windows11.techidaily.com/revising-account-lockout-count-after-multiple-login-failures-in-windows-11/"><u>Revising Account Lockout Count After Multiple Login Failures in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/tactile-hover-over-customizing-your-click-experience-in-win11/"><u>Tactile Hover Over: Customizing Your Click Experience in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-complete-surface-computing-firmware-upgrade-manual/"><u>The Complete Surface Computing Firmware Upgrade Manual</u></a></li>
+<li><a href="https://win11.techidaily.com/win-11-setting-a-new-path-for-your-onedrive/"><u>Win 11: Setting a New Path for Your OneDrive</u></a></li>
+</ul></div>
+

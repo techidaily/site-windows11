@@ -1,7 +1,7 @@
 ---
 title: Essential Steps to Address WinError 0Xc0000005 Instantly
-date: 2024-11-27T21:16:51.953Z
-updated: 2024-12-03T18:04:33.337Z
+date: 2024-12-05T16:22:27.245Z
+updated: 2024-12-10T20:59:43.907Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/157145562d322ac42b18debf7cc17b6e328143a79
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Deactivate Data Execution Prevention (DEP)
@@ -46,16 +46,12 @@ bcdedit.exe /set {current} nx AlwaysOff
 ![cmd](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/cmd.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In this case, you will first have to[disable the Windows secure boot](https://www.makeuseof.com/tag/disable-secure-uefi-dual-boot/) , and then repeat the above steps again.
 
  That's it—the DEP will be disabled from here on. Now, give your PC a quick reboot and see if the error 0xc0000005 persists.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Check Your App's and PC Version and Compatibility
 
@@ -79,13 +75,13 @@ Similarly, to check the app's version, follow the steps below:
 ![installed apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/installed-apps.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now check if the app and your operating system are compatible with each other.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Apply Some Generic Fixes for Fixing Errors on Windows
@@ -100,6 +96,10 @@ Let's go over all of them one by one.
 4. [Repair your app:](https://www.makeuseof.com/windows-repair-apps-programs/) It's possible that the app's files you're trying to run have become damaged and, as a result, your PC throws the 0xc0000005 error code. A quick app repair is a good possible solution in this scenario.
 5. [Run a malware scan:](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) A malware scan can break or create malfunctions for otherwise normal processes on your PC; run and see if that's the case in this error as well.
 6. [Perform a Factory Reset](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) : A Factory reset is, as I sometimes like to call it, the "all pulverizer" all Windows problems. It removes your operating system and reinstalls it so you can start again with a clean slate. It's a drastic measure, but sometimes it's the only way to get a Windows error fixed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixing the Error Code 0xc0000005 on a Windows PC
 
@@ -122,16 +122,24 @@ Let's go over all of them one by one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-harness-the-power-of-twitch-livestream-tips-and-tricks/"><u>[Updated] In 2024, Harness the Power of Twitch Livestream Tips & Tricks</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-on-apple-iphone-x-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock on Apple iPhone X</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-oppo-a18-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Oppo A18 to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/learn-how-to-resurrect-the-non-functional-win-plus-p-feature-in-windows/"><u>Learn How to Resurrect the Non-Functional Win + P Feature in Windows.</u></a></li>
-<li><a href="https://windows11.techidaily.com/secure-and-slim-filesystem-setting-up-auto-delete-in-win11/"><u>Secure and Slim Filesystem: Setting Up Auto Delete in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/simplified-approach-to-batch-convert-heic-files-to-jpeg-in-windows-11/"><u>Simplified Approach to Batch Convert HEIC Files to JPEG in Windows 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-fix-dealing-with-realtek-wifi-driver-issues-on-windows-operating-systems/"><u>Step-by-Step Fix: Dealing with RealTek WiFi Driver Issues on Windows Operating Systems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-solution-for-reconnecting-with-your-lost-co-processor-driver-on-windows-10-machine/"><u>Step-by-Step Solution for Reconnecting with Your Lost Co-Processor Driver on Windows #10 Machine</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-ultimate-guide-how-fitbit-sense-outperforms-apple-watch-for-mindful-living/"><u>The Ultimate Guide: How Fitbit Sense Outperforms Apple Watch for Mindful Living</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlock-your-pc-easily-windows-hello-fingerprint-guide/"><u>Unlock Your PC Easily: Windows Hello Fingerprint Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/unraveling-blue-screen-mystery-0xc0000001/"><u>Unraveling Blue Screen Mystery - 0xC0000001</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-clear-cut-content-how-to-minimize-unwanted-elements-in-video/"><u>[New] 2024 Approved Clear Cut Content How to Minimize Unwanted Elements in Video</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-instant-insight-into-colour-difference-filming-methods/"><u>[Updated] Instant Insight Into Colour Difference Filming Methods</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/1-how-to-transform-your-ebook-into-a-high-quality-pdf-format-a-comprehensive-guide/"><u>1. How to Transform Your eBook Into a High-Quality PDF Format: A Comprehensive Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypass-script-failures-windows-script-troubleshooting-guide/"><u>Bypass Script Failures: Windows Script Troubleshooting Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-windows-11-restrictions-a-beginners-guide/"><u>Bypassing Windows 11 Restrictions: A Beginner's Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/enabling-opaque-windows-11-themes-via-registry-manipulation/"><u>Enabling Opaque Windows 11 Themes via Registry Manipulation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enfournez-au-milieu-du-four-pendant-12-a-15-minutes-ou-jusqua-ce-que-la-tarte-soit-doree-et-legerement-croustillante-servez-cette-delicieuse-tarte-aux-fruit159/"><u>Enfournez Au Milieu Du Four Pendant 12 À 15 Minutes Ou Jusqu'à Ce Que La Tarte Soit Dorée Et Légèrement Croustillante. Servez Cette Délicieuse Tarte Aux Fruits De Mer en Plat Principal Accompagné D’une Salade Verte Croquante Pour Un Repas Équilibré !</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-level-insights-into-windows-non-adjacent-partition-integration/"><u>Expert-Level Insights Into Windows Non-Adjacent Partition Integration</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/how-much-money-does-mr-beast-make-for-2024/"><u>How Much Money Does Mr. Beast Make for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-write-a-great-podcast-techniques-and-10plus-free-example-scripts-inside/"><u>In 2024, How to Write a Great Podcast Techniques & 10+ Free Example Scripts Inside</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-record-and-upload-speeches-to-powerpoint/"><u>In 2024, Record and Upload Speeches to PowerPoint</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/in-depth-assessment-the-pros-and-cons-of-googles-latest-smartphone-pixel/"><u>In-Depth Assessment: The Pros and Cons of Google's Latest Smartphone - Pixel 지점</u></a></li>
+<li><a href="https://windows11.techidaily.com/inside-outlook-and-file-explorers-new-backup-integration-in-windows-11/"><u>Inside Outlook and File Explorer's New Backup Integration in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/localize-onedrive-a-step-by-step-windows-approach/"><u>Localize OneDrive: A Step-by-Step Windows Approach</u></a></li>
+<li><a href="https://games-able.techidaily.com/managing-game-bar-introspection-in-windows-11-scope/"><u>Managing Game Bar Introspection in Windows 11 Scope</u></a></li>
+<li><a href="https://windows11.techidaily.com/monitoring-for-failed-windows-logins-a-security-checkers-guide/"><u>Monitoring for Failed Windows Logins: A Security Checker's Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-for-overcoming-error-0x800700e1-in-windows-11-devices/"><u>Techniques for Overcoming Error 0X800700E1 in Windows 11 Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-to-curtail-excessive-wmi-worker-use/"><u>Tips to Curtail Excessive WMI Worker Use</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-your-audio-experience-find-new-replacement-ear-cushions-for-old-headphones/"><u>Upgrade Your Audio Experience: Find New Replacement Ear Cushions for Old Headphones</u></a></li>
 </ul></div>
 

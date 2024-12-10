@@ -1,7 +1,7 @@
 ---
 title: Uncover & Fix Hidden 5GHz Connections in Windows 11 Easily
-date: 2024-08-15T16:16:45.637Z
-updated: 2024-08-16T16:16:45.637Z
+date: 2024-12-05T17:48:29.381Z
+updated: 2024-12-10T19:47:46.287Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/a02a9911f50368d686754fe93fbecd3af42fa7537
 
  As such, if your router's 5GHz connection is not appearing on your computer, here are some fixes you can try to eliminate the problem for good.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Is Windows 11 Not Showing Any 5GHz Wi-Fi Connections?
 
  The 5GHz band offers higher speeds and lets you connect more devices. But sometimes, Windows 11 may fail to detect the 5GHz Wi-Fi connection. This mainly happens due to the following reasons:
@@ -29,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/a02a9911f50368d686754fe93fbecd3af42fa7537
 3. An issue with the Transmission Control Protocol and Internet Protocol (or TCP/IP) can also be the prime reason why Windows 11 is unable to recognize the 5GHz band.
 
  Now that you know all the primary culprits behind the issue let's dive into the working fixes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Make Sure Your Computer Supports the 5GHz Wi-Fi Band
 
@@ -42,19 +50,17 @@ thumbnail: https://thmb.techidaily.com/a02a9911f50368d686754fe93fbecd3af42fa7537
 `netsh wlan show drivers`
 4. Scroll down and look for the section named**"Number of** **supported bands."**  
 ![Check supported bands in CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/check-supported-bands.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. If this section shows both 2.4GHz and 5GHz, then it indicates your computer is compatible with the 5GHz band. But if it only shows 2.4GHz, then it means that your device doesn't support a 5GHz connection.
 
  Another method to confirm your computer's compatibility is by checking the radio types.
 
 ![Radio Types using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/radio-types.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the radio type shows**802.11a 802.11g 802.11n** , then your computer is compatible with both 2.4GHz and 5GHz connections. But if it shows**802.11g 802.11n** or**802.11n 802.11g 802.11b** as available network modes, then your device only supports the 2.4GHz Wi-Fi band.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Restart Your Router
 
@@ -72,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/a02a9911f50368d686754fe93fbecd3af42fa7537
 ![Enable 5GHz in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/enable-5ghz.jpg)
 6. Click**OK** to save the changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Disable and Re-Enable the Wi-Fi Adapter
 
  A Wi-Fi adapter is an important component that lets your device connect to a network. Sometimes, a temporary glitch with the Wi-Fi adapter can stop Windows from recognizing a particular band.
@@ -84,16 +94,10 @@ thumbnail: https://thmb.techidaily.com/a02a9911f50368d686754fe93fbecd3af42fa7537
 4. Click**Change adapter settings** in the left panel.
 5. Right-click on the Wi-Fi adapter and click**Disable.**  
 ![Disable Network Adapter using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-network-adapter.jpg)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 6. Wait for a minute or so, and then right-click on the Wi-Fi adapter again and choose**Enable.**
 
  That's it. Now check if your computer is showing a 5GHz connection.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ## 5\. Run the Internet Connection Troubleshooter
 
 [Windows 11 comes with various troubleshooters](https://www.makeuseof.com/windows-11-troubleshooters/) that you can use to get rid of most of the system-level problems. If the problem results from an issue with your network adapter, you can run the Internet Connection troubleshooter. Here's how:
@@ -103,15 +107,9 @@ thumbnail: https://thmb.techidaily.com/a02a9911f50368d686754fe93fbecd3af42fa7537
 3. Head towards**Troubleshoot** \>**Other troubleshooters** .
 4. Click the**Run** button next to**Internet Connection** .  
 ![Internet Connection Troubleshooter in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/internet-connection-troubleshooter.jpg)
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The troubleshooter will scan your network adapter for issues. If it finds any, follow the on-screen instructions to apply the recommended fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Download the Latest Network Driver Update
 
  You will likely face the issue if you last updated the network driver a long time ago. To download the latest network driver update on your computer, follow the below steps:
@@ -119,6 +117,10 @@ thumbnail: https://thmb.techidaily.com/a02a9911f50368d686754fe93fbecd3af42fa7537
 1. Open the Device Manager, expand the Network adapter, right-click on the installed network adapter and choose**Update** **driver** .
 2. Select**Search automatically for drivers** from the window that crops up.  
 ![Updating Network Drivers on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/5-Updating-Network-Drivers-on-Windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Windows will now look for and download the latest network driver update on your computer. After that, restart your device and check for the issue.
 
@@ -136,23 +138,17 @@ ipconfig /renew`
 
 Reboot your computer after executing the above commands.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Get Faster Transfer Speeds With a 5GHz Connection
 
  Nothing more frustrating than settling for 2.4GHz if you know your computer is compatible with the 5GHz connection. The problem mainly results due to corruption in the network adapter. Fortunately, you can quickly fix the issue by following the solutions.
 
  But in the worst-case scenario, if the problem continues, you can consider resetting your network settings.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -161,4 +157,21 @@ Reboot your computer after executing the above commands.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-excellent-extra-storage-for-sony-a7s-ii/"><u>[New] Excellent Extra Storage for Sony A7S II</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-clip-weaver-workshop/"><u>[Updated] 2024 Approved Clip Weaver Workshop</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-essential-thumbnail-strategies-for-amplifying-viewership-on-youtube-for-2024/"><u>[Updated] Essential Thumbnail Strategies for Amplifying Viewership on YouTube for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-essential-guide-to-affordable-video-conferencing-tools-for-corporateeducational-use/"><u>[Updated] In 2024, The Essential Guide to Affordable Video Conferencing Tools For Corporate/Educational Use</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-youtube-to-mp3-simple-recording-steps/"><u>[Updated] In 2024, YouTube to MP3 Simple Recording Steps</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Nokia C22? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-tecno-spark-10-4g-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Tecno Spark 10 4G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-how-to-stop-cortana-in-windows-11/"><u>Guide: How to Stop Cortana in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-link-onedrive-to-your-microsoft-account-on-windows/"><u>How to Link OneDrive to Your Microsoft Account on Windows</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/professional-steps-for-high-quality-powerpoint-replays-for-2024/"><u>Professional Steps for High-Quality PowerPoint Replays for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/rectifying-win1011-portaudio-hiccups-within-audacity-application/"><u>Rectifying Win10/11 PortAudio Hiccups Within Audacity Application</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-rectify-valorants-lacking-in-game-communication/"><u>Steps to Rectify Valorant's Lacking In-Game Communication</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-bsod-prevention-with-vmware-on-windows-11/"><u>Strategies for BSOD Prevention with VMware on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/widgets-essentials-launching-into-windows-11/"><u>Widgets Essentials: Launching Into Windows 11</u></a></li>
+</ul></div>
 

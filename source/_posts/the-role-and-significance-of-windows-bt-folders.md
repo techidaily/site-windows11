@@ -1,7 +1,7 @@
 ---
 title: The Role and Significance of Windows ~BT Folders
-date: 2024-08-15T16:21:24.123Z
-updated: 2024-08-16T16:21:24.123Z
+date: 2024-12-05T16:23:27.142Z
+updated: 2024-12-10T21:38:29.151Z
 tags:
   - windows10
   - windows11
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/0656fd665c6180b1a80265c93dba7068c3a0cbd85
 
  Deleting the hidden "$Windows.\~BT" folder and recovering gigabytes of space on your hard drive is tempting. But what is this cryptically named folder for, and how critical is it to your Windows installation?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is the “$Windows.\~BT” Folder, and Should You Delete It?
 
  Windows creates the "$Windows.\~BT" folder when you upgrade the operating system to a newer build. This folder contains all the essential files for the upgrade process, like temporary installation files and logs from the previous Windows installation.
@@ -27,8 +31,9 @@ thumbnail: https://thmb.techidaily.com/0656fd665c6180b1a80265c93dba7068c3a0cbd85
  But you shouldn't just delete this hidden folder like any other folder on the desktop. Instead, you should turn to the Disk Cleanup tool or the Command Prompt.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Find and Delete the "$Windows.\~BT" Folder
 
  As "$Windows.\~BT" is a hidden folder, you need to [configure Windows to show hidden files and folders](https://www.makeuseof.com/windows-11-show-hidden-files-folders/) to find it in File Explorer. Once you do, the **C:\\$Windows.\~BT** directory will become visible.
@@ -43,8 +48,9 @@ thumbnail: https://thmb.techidaily.com/0656fd665c6180b1a80265c93dba7068c3a0cbd85
 6. Click **OK**.
 7. Choose **Delete Files** to confirm.  
 ![Delete the $Windows.~BT Folder Using the Disk Cleanup Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/delete-the-windows-bt-folder-using-the-disk-cleanup-tool.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the "$Windows.\~BT" folder shows up even after you run the Disk Cleanup tool, you'll need to execute a few commands in Command Prompt. For that, [open Command Prompt with administrative rights](https://www.makeuseof.com/windows-run-command-prompt-admin/) and then run the following commands one by one.
@@ -57,11 +63,29 @@ rmdir /S /Q C:\$Windows.~BT\`
 
  Now that you understand the purpose of the "$Windows.\~BT" folder, you can decide how to handle it. Beyond the "$Windows.\~BT" folder, you may also come across folders like "Windows.old," "$WinREAgent," "$SysReset," and others which can also be deleted safely using the Disk Cleanup tool.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-expert-roundup-top-10-camcorders/"><u>[New] 2024 Approved Expert Roundup Top 10 Camcorders</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-instagram-starters-guide-select-the-best-10-editors/"><u>[Updated] 2024 Approved Instagram Starters Guide - Select the Best 10 Editors</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-expert-gopro-editor-software-for-smartphone-users/"><u>[Updated] Expert GoPro Editor Software for Smartphone Users</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-transform-your-in-game-identity-with-these-free-free-fire-vocal-hacks/"><u>[Updated] In 2024, Transform Your In-Game Identity with These Free Free Fire Vocal Hacks</u></a></li>
+<li><a href="https://windows11.techidaily.com/1-mastering-image-to-excel-conversion-a-step-by-step-guide-for-microsoft-windows/"><u>1. Mastering Image-to-Excel Conversion: A Step-by-Step Guide for Microsoft Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/1-seamless-integration-microsoft-office-and-libreoffice-working-together-smoothly/"><u>1. Seamless Integration: Microsoft Office and LibreOffice Working Together Smoothly</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/comprehensive-list-the-most-acclaimed-10-vimeo-video-harvesters/"><u>Comprehensive List The Most Acclaimed 10 Vimeo Video Harvesters</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-review-of-oneplus-nord-n10-5g-essential-insights-for-smartphone-enthusiasts/"><u>In-Depth Review of OnePlus Nord N10 5G: Essential Insights for Smartphone Enthusiasts</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-unit-conversions-a-step-by-step-guide-using-microsoft-excel/"><u>Mastering Unit Conversions: A Step-by-Step Guide Using Microsoft Excel</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-command-execution-installation-guide-for-advanced-run-feature/"><u>Maximize Command Execution: Installation Guide for Advanced Run Feature</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-adding-images-to-your-microsoft-excel-spreadsheet/"><u>Step-by-Step Guide: Adding Images to Your Microsoft Excel Spreadsheet</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-properly-formatting-telephone-digits-in-excel-spreadsheets/"><u>Step-by-Step Guide: Properly Formatting Telephone Digits in Excel Spreadsheets</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-removing-a-pivottable-from-your-microsoft-excel-spreadsheet/"><u>Step-by-Step Guide: Removing a PivotTable From Your Microsoft Excel Spreadsheet</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96456840-9781420948141-the-key-of-solomon-the-king-clavicula-salomonis/"><u>The Key of Solomon the King: Clavicula Salomonis | Free Book</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-secrets-of-locating-data-positions-with-excel-match-function-a-comprehensive-guide/"><u>Unveiling the Secrets of Locating Data Positions with Excel MATCH Function: A Comprehensive Guide</u></a></li>
+</ul></div>
+

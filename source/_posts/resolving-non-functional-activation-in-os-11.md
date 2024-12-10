@@ -1,7 +1,7 @@
 ---
 title: Resolving Non-Functional Activation in OS 11
-date: 2024-08-15T16:18:46.619Z
-updated: 2024-08-16T16:18:46.619Z
+date: 2024-12-05T20:19:41.442Z
+updated: 2024-12-10T19:02:19.981Z
 tags:
   - windows10
   - windows11
@@ -27,8 +27,9 @@ thumbnail: https://thmb.techidaily.com/4e1e135a4b0338f686903eb0c608ba2a349e6fad2
  To fix this, you could try restarting your router or check out[how to speed up your internet connection on Windows](https://www.makeuseof.com/tag/fix-internet-speed-windows-tweaks/) .
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Check That Windows Isn’t Already Activated
 
  You can get a computer with preinstalled Windows, so you don't have to deal with the process of installing the operating system by yourself. Usually, you can set it up when you first turn on your PC.
@@ -46,8 +47,9 @@ thumbnail: https://thmb.techidaily.com/4e1e135a4b0338f686903eb0c608ba2a349e6fad2
  If the status is**Active** , your problem stops here; you're already activated.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Run the Activation Troubleshooter
 
  If you didn’t manage to activate Windows 11 with your activation key, you can run the Activation troubleshooter to fix the problem.
@@ -56,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/4e1e135a4b0338f686903eb0c608ba2a349e6fad2
 
 **Note** : If you don’t see the Activation troubleshooter, it means you’ve already activated Windows 11\. In this case,[check your Windows 11 product key](https://www.makeuseof.com/windows-11-find-product-key/) so you don’t try and use it for another activation.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Ensure You're Using the Correct Windows Edition
 
  There’s a chance there’s nothing wrong with the activation key or your computer, but you can't activate Windows because the digital license doesn’t match the Windows edition. If you’re trying to use a Windows Home activation key, but you’ve installed Windows Pro, there’s no way you can make it work.
@@ -66,8 +65,9 @@ thumbnail: https://thmb.techidaily.com/4e1e135a4b0338f686903eb0c608ba2a349e6fad2
  In this case, ask for a refund and get a digital license that matches your Windows edition.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Use a Genuine Activation Key
 
 ![3-download-windows-11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/3-download-windows-11.jpg)
@@ -82,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/4e1e135a4b0338f686903eb0c608ba2a349e6fad2
 
  This will open an official Microsoft storefront where you can buy a key without any risk of scammers.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Ensure You're Using the Key on One Computer Only
 
  Even if you’re sure that you have a genuine activation key and license, you can’t use them for more than one computer. If you already used the key, you’ll have to deactivate Windows 11 by uninstalling the product key.
@@ -89,8 +93,9 @@ thumbnail: https://thmb.techidaily.com/4e1e135a4b0338f686903eb0c608ba2a349e6fad2
  If you don't want to do that, you'll need to purchase a new key for each PC you want to use Windows 11 on.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Activate Windows Using the Command Prompt
 
  If you can’t activate Windows 11 from Settings, there’s another method you can use. Press**Windows key + R** to bring up a Run dialog. Type**cmd** and press**Enter** . Then, use the**slmgr /ipk <Activation\_Key>** command to activate Windows.
@@ -101,21 +106,15 @@ thumbnail: https://thmb.techidaily.com/4e1e135a4b0338f686903eb0c608ba2a349e6fad2
 
  Launch Command Prompt with administrative rights, type**sfc /scannow,** and press**Enter** . Windows will now search for any corrupted or damaged files and replace them automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ## No More Activation Key Blunders
 
  Hopefully, you got the key working, and you’re now using an activated Windows license. If you don’t mind the Activate Windows watermark or the constant notifications, you may think that there’s no point in paying for a license. However, there are a few considerations why you shouldn’t use a non-activated Windows license.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -124,4 +123,21 @@ thumbnail: https://thmb.techidaily.com/4e1e135a4b0338f686903eb0c608ba2a349e6fad2
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-in-depth-study-of-video-tech-outside-manycam/"><u>[New] 2024 Approved In-Depth Study of Video Tech Outside ManyCam</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-planting-prowess-in-valheim-uncovering-premium-saplings/"><u>[Updated] In 2024, Planting Prowess in Valheim Uncovering Premium Saplings</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-leading-6-apps-to-transform-photos-by-eliminating-backgrounds-for-2024/"><u>[Updated] Leading 6 Apps to Transform Photos by Eliminating Backgrounds for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-insightful-examination-of-wirecast-and-its-peers/"><u>2024 Approved Insightful Examination of WireCast & Its Peers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/insider-tips-for-manual-windows-security-scanning/"><u>Insider Tips for Manual Windows Security Scanning</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-noctuas-exclusive-home-range-the-dazzling-100-nv-fs1-desk-cooler/"><u>Introducing Noctua's Exclusive Home Range: The Dazzling $100 NV-FS1 Desk Cooler</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimal-6-tracking-applications-to-enhance-pc-productivity/"><u>Optimal 6 Tracking Applications to Enhance PC Productivity</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-0x80246007-update-obstacle-on-windows-1011/"><u>Overcoming 0X80246007 Update Obstacle on Windows 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/recovering-lost-access-to-windows-command-center/"><u>Recovering Lost Access to Windows Command Center</u></a></li>
+<li><a href="https://windows11.techidaily.com/simplifying-the-windows-search-interface-no-graphics/"><u>Simplifying the Windows Search Interface: No Graphics</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-rectify-microsoft-store-problem-on-windows/"><u>Steps to Rectify Microsoft Store Problem on Windows</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-common-day-duel-claude-against-the-ai-giants/"><u>The Common Day Duel: Claude Against the AI Giants</u></a></li>
+<li><a href="https://windows11.techidaily.com/websites-as-apps-step-by-step-windows-installation/"><u>Websites as Apps: Step-by-Step Windows Installation</u></a></li>
+</ul></div>
 

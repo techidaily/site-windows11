@@ -1,7 +1,7 @@
 ---
 title: The Art of Unfreezing the Windows Update Troubleshooter
-date: 2024-08-15T16:21:57.267Z
-updated: 2024-08-16T16:21:57.267Z
+date: 2024-12-04T18:01:52.975Z
+updated: 2024-12-10T17:57:01.667Z
 tags:
   - windows10
   - windows11
@@ -42,9 +42,6 @@ thumbnail: https://thmb.techidaily.com/fbcf05b0c32ba329cf6957ae3248e625c39ba58c1
 
  If the process is successful, you will get the confirmation message of the DNS Resolver Cache being successfully flushed. Now try running the Windows Update Troubleshooter.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Restart Windows Cryptographic Services
 
  At times, an erratic or stopped Windows Cryptographic Services can cause problems in the smooth running of the Windows Update Troubleshooter.
@@ -56,17 +53,20 @@ To fix this, you can try restarting Cryptographic Services.
 1. Search for**Services** in**Windows Search** and click on the**Services app** under**Best match** . Or use one of the[many ways to open Services](https://www.makeuseof.com/windows-11-open-services-app/) .
 2. In the**Services** app, look for**Cryptographic** **Services** and double-click on it to open its**Properties** .  
 ![Windows Cryptographic Services in the Services App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-cryptographic-services.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 3. In**Properties** , click the**Stop** button to stop Cryptographic Services.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Cryptographic Services Stopped](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/stop-cryptographic-services.jpg)
 4. Now, wait a few seconds and then click on the**Start** button. Also, ensure that the**Startup type** is set to**Automatic** .  
-![Cryptographic Services Started With Automatic Startup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/start-cryptographic-services.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Cryptographic Services Started With Automatic Startup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/start-cryptographic-services.jpg)
 5. Then click**Apply** and then**OK** .
 
  Now close Services and try running the Windows Update Troubleshooter again.
@@ -81,9 +81,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  After these scans finish running, try running the Windows Update Troubleshooter again.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Update System Drivers
 
  Computer drivers enable Windows and its components to communicate and function efficiently. So it's good for you to[know what drivers are and why you should keep them updated](https://www.makeuseof.com/computer-drivers-what-are-they-why-should-you-update/) .
@@ -96,11 +93,17 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. Click**Windows Update** in**Settings** and then on the right pane select**Advanced options** .  
 ![Advanced Options in Windows Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/advanced-options-windows-update.jpg)
 3. In**Advanced options** , under the**Additional options** section, click on**Optional updates** .  
-![Optional Updates in Advanced Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/optional-updates-windows-update.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Optional Updates in Advanced Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/optional-updates-windows-update.jpg)
 4. If there are driver updates available they would be listed under the**Driver Updates** option. Select all the driver updates and click on**Download & install** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After you've updated the drivers, try running the Windows Troubleshooter and see if it works properly.
 
@@ -117,9 +120,6 @@ To edit and enable the Scripted Diagnostics policy:
 1. Press the**Windows** +**R** keys together to open the**Run** box.
 2. Type**gpedit.msc** in the navigation bar and click**Enter** .  
 ![Open Group Policy Editor Via Run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-group-policy-editor-via-run.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. Click**Yes** on the UAC prompt. The**Group Policy Editor** will open.
 4. In the**Group Policy Editor** , navigate to**Scripted Diagnostics** using the following path:  
 `Computer Configuration > Administrative Templates > System > Troubleshooting and Diagnostics > Scripted Diagnostics`
@@ -127,13 +127,14 @@ To edit and enable the Scripted Diagnostics policy:
 ![Open Scripted Diagnostics Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-scripted-diagnostics-policy.jpg)
 6. Double-click on the first item and select the**Enable** option in the window that opens.  
 ![Enable Each Item in Scripted Diagnostics Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-items-of-scripted-diagnostics-policy.jpg)
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Finally, tap on**Apply** and then**OK** .
 8. Repeat steps 5 and 6 for the other two items of Scripted Diagnostics.
 
  Now close the Group Policy Editor and run the Windows Update Troubleshooter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get the Windows Update Troubleshooter Working Again to Fix Update Errors
 
@@ -147,8 +148,6 @@ To edit and enable the Scripted Diagnostics policy:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +155,24 @@ To edit and enable the Scripted Diagnostics policy:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-clear-your-twitter-timeline-fast-topunfollowtools-revealed/"><u>[Updated] 2024 Approved Clear Your Twitter Timeline Fast #TopUnfollowTools Revealed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/2024s-essential-guide-to-the-507-perfect-instagram-captions/"><u>2024'S Essential Guide to the 507 Perfect Instagram Captions</u></a></li>
+<li><a href="https://discover-community.techidaily.com/comparative-timeline-analysis-windows-11-vs-windows-10-evolution/"><u>Comparative Timeline Analysis: Windows 11 Vs. Windows 10 Evolution</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-absent-mfc71udll-steps-for-windows-users/"><u>Fixing Absent Mfc71u.dll: Steps for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-windows-components-administration-tool/"><u>Guide to Windows Components Administration Tool</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2526326-9780811748759-haunted-utah/"><u>Haunted Utah | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-failed-to-attach-the-usb-device-error-in-virtualbox-on-windows/"><u>How to Fix the Failed to Attach the USB Device Error in VirtualBox on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-swiftly-overcome-directdraw-errors-in-win1011-environments/"><u>How to Swiftly Overcome DirectDraw Errors in Win10/11 Environments</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-lenovofrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your LenovoFRP Lock</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-winscombsvr-crashes-in-windows/"><u>Navigating Through WinScombSvr Crashes in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-security-updating-user-passwords-on-win-11/"><u>Optimizing Security: Updating User Passwords on Win 11</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/quick-guide-editing-mac-videos-by-eliminating-unnecessary-segments-with-precision/"><u>Quick Guide: Editing Mac Videos by Eliminating Unnecessary Segments with Precision</u></a></li>
+<li><a href="https://common-error.techidaily.com/simple-techniques-to-correct-dns-server-not-found-mishaps-quickly/"><u>Simple Techniques to Correct 'DNS Server Not Found' Mishaps Quickly</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-inability-to-run-os-disk-organizer/"><u>Tackling Inability to Run OS Disk Organizer</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-windows-11-with-non-admin-steps/"><u>Unlocking Windows 11 With Non-Admin Steps</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-secrets-of-fax-cover-page-editing-in-win11/"><u>Unveiling the Secrets of Fax Cover Page Editing in Win11</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-motorola-razr-40-ultra-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Motorola Razr 40 Ultra Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+</ul></div>
 

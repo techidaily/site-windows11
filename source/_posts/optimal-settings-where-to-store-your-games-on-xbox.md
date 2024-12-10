@@ -1,7 +1,7 @@
 ---
 title: "Optimal Settings: Where to Store Your Games on Xbox"
-date: 2024-11-28T03:17:55.932Z
-updated: 2024-12-04T01:40:48.795Z
+date: 2024-12-08T20:42:13.928Z
+updated: 2024-12-10T16:58:11.848Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/c9e9de36eb357f7db5b739ff1ada424f8276ace68
 
 ![Restart option in Power menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restart.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You might fail to change the installation drive in the Xbox app due to a temporary system glitch or bug. Luckily, you can quickly eliminate such bugs and glitches by restarting your computer.
 
  To restart, press the**Alt + F4** hotkeys to open the Shut Down Windows prompt, click the drop-down icon, choose**Restart** from the context menu, and then click**OK.** After restart, launch the Xbox app and check if you can choose a different drive to install games. If not, then it's time to dive into the advanced troubleshooting methods.
@@ -45,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/c9e9de36eb357f7db5b739ff1ada424f8276ace68
 ![Change Folder in Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/change-folder.jpg)
 4. Choose the location where you want to install the game and then click the**Select Folder** option.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Customize the System Settings
 
  If editing the Xbox app settings wasn't helpful, you can edit the system settings and check if it makes a difference. Here's what you need to do:
@@ -60,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/c9e9de36eb357f7db5b739ff1ada424f8276ace68
 4. Click the drop-down icon under the**New** **apps** **will save to** section, choose the drive where you want to install the game, and then click**Apply.**  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![New apps will save to section in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/new-apps-will-save-to-section.jpg)
@@ -68,16 +68,12 @@ thumbnail: https://thmb.techidaily.com/c9e9de36eb357f7db5b739ff1ada424f8276ace68
  That's it! Restart your computer and check if the problem continues.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Restart Important Xbox Services
 
 ![Restart Service option in Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restart-service.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  There are certain Xbox services that must be running for you to use the Xbox app properly. If any of these services fail to start properly, you might face the problem at hand.
 
@@ -90,10 +86,6 @@ thumbnail: https://thmb.techidaily.com/c9e9de36eb357f7db5b739ff1ada424f8276ace68
 Xbox Live Game Save  
 Xbox Live Auth Manager  
 Xbox Live Networking Service`
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Reinstall the Gaming Services App
 
@@ -120,11 +112,19 @@ Xbox Live Networking Service`
 
  After uninstalling the Gaming Services app, restart your computer. Then, open the Microsoft Store, search for and[download the Gaming Services](https://apps.microsoft.com/store/detail/gaming-services/9MWPM2CQNLHN?hl=en-us&gl=us) app again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Repair the Xbox App
 
  It's very common for the Xbox app to get corrupt and throw various issues. The best way to remove corruption from the UWP apps like the Xbox app is to use the Windows repair feature.
 
  Check out[how to repair apps and programs on Windows](https://www.makeuseof.com/windows-repair-apps-programs/) for information on how to do this.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Update the Xbox App
 
@@ -160,24 +160,19 @@ To update the Xbox app, follow the below steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-fast-tracked-fine-arts-edits-made-easy-with-windows-10-paint-application/"><u>[New] In 2024, Fast-Tracked Fine Arts Edits Made Easy with Windows 10 Paint Application</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-the-complete-archive-of-high-quality-online-workshops-for-2024/"><u>[New] The Complete Archive of High-Quality Online Workshops for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-exploring-the-eminent-on-niche-focused-instagram-groups/"><u>[Updated] 2024 Approved Exploring the Eminent on Niche-Focused Instagram Groups</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-dive-into-social-media-streams-watching-facebook-live-on-roku-for-2024/"><u>[Updated] Dive Into Social Media Streams Watching Facebook Live on Roku for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1-master-the-art-of-capturing-gaming-moments-the-ultimate-guide-to-recording-your-pc-gameplay-in-6-effective-methods/"><u>1. Master the Art of Capturing Gaming Moments: The Ultimate Guide to Recording Your PC Gameplay in 6 Effective Methods</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-guide-overcoming-outlook-crashing-issues/"><u>Essential Guide: Overcoming Outlook Crashing Issues</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/from-zero-to-hero-crafting-an-authoritative-online-self-for-2024/"><u>From Zero to Hero Crafting an Authoritative Online Self for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-correctly-evaluate-processor-load-using-task-manager/"><u>How to Correctly Evaluate Processor Load Using Task Manager</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-get-past-a-non-starting-battlenet-interface/"><u>How to Get Past a Non-Starting Battle.net Interface</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-vivo-y78plus-t1-edition-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Vivo Y78+ (T1) Edition Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/master-the-art-of-regaining-win-folder-entry/"><u>Master the Art of Regaining Win Folder Entry</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-heic-jpeg-conversions-on-windows/"><u>Mastering HEIC-JPEG Conversions on Windows</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-opaque-outcomes-in-os-devices/"><u>Overcoming Opaque Outcomes in OS Devices</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/preserving-your-google-voice-history-a-step-by-step-guide-for-2024/"><u>Preserving Your Google Voice History A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/reinstate-audio-preferences-winvolume-issue-resolution/"><u>Reinstate Audio Preferences: WinVolume Issue Resolution</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-vivo-y27-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Vivo Y27 5G Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-realign-file-history-configurations-in-windows/"><u>Steps to Realign File History Configurations in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-essential-guide-to-windows-11-widget-bar-activation/"><u>The Essential Guide to Windows 11 Widget Bar Activation</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-for-windows-11-help-app-restoration/"><u>Tips for Windows 11 Help App Restoration</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-mastering-the-art-of-shorts-imagery-quick-smart-updates/"><u>[Updated] In 2024, Mastering the Art of Shorts Imagery Quick, Smart Updates</u></a></li>
+<li><a href="https://fox-search.techidaily.com/5lplusu5q2j44gv44km44gf44kk44oh44o844k444ov44kh44kk44or44gu44oh44oq44kk44k544g444gu44oe44km44oz44og44kj44oz44kw5pa55rov/"><u>修正されたイメージファイルのデバイスへのマウンティング方法</u></a></li>
+<li><a href="https://windows11.techidaily.com/accelerated-cross-language-compreinasion-via-windows-keyboard-tricks/"><u>Accelerated Cross-Language Compreinasion via Windows Keyboard Tricks</u></a></li>
+<li><a href="https://windows11.techidaily.com/digital-drawings-redefined-top-7-windows-10-art-tools-for-you/"><u>Digital Drawings Redefined: Top 7 Windows 10 Art Tools for You</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-desktop-experience-fixing-this-pc-spotlight/"><u>Elevate Desktop Experience: Fixing 'This PC' Spotlight</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-pubg-save-problems-on-windows-systems/"><u>Eliminating PUBG Save Problems on Windows Systems</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/exploring-dvd-capabilities-unraveling-whether-they-offer-full-hd-or-pal-480p576i/"><u>Exploring DVD Capabilities: Unraveling Whether They Offer Full HD or PAL 480P/576i?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-tecno-camon-30-pro-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Tecno Camon 30 Pro 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-innovative-notetaking-for-mobile-photographers/"><u>In 2024, Innovative Notetaking for Mobile Photographers</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-realme-c67-4g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Realme C67 4G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-files-6-methods-to-retrieve-windows-11-paths/"><u>Mastering Files: 6 Methods to Retrieve Windows 11 Paths</u></a></li>
+<li><a href="https://windows11.techidaily.com/rectifying-screen-resolution-problems-in-windows-os/"><u>Rectifying Screen Resolution Problems in Windows OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/swift-transfer-obtain-rs232-usb-drivers-at-lightning-speed/"><u>Swift Transfer: Obtain RS232-USB Drivers at Lightning Speed</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tips-and-tricks-easily-spread-your-chatgpt-messages-wide-online/"><u>Tips & Tricks: Easily Spread Your ChatGPT Messages Wide Online</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Migrate OneDrive to a Desired Folder on Win 11
-date: 2024-12-01T00:46:41.108Z
-updated: 2024-12-03T18:06:11.044Z
+date: 2024-12-04T21:59:48.816Z
+updated: 2024-12-10T19:56:12.628Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Change the Location of Your OneDrive Folder
@@ -41,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 
  Once you’ve done this, you will be presented with a window to set up OneDrive. Leave this open for the moment. You will need to revisit it once you’ve moved your OneDrive folder to a different location on your PC.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Moving Your OneDrive Folder
 
 With that done, you can now relocate your OneDrive folder.
@@ -55,17 +51,29 @@ With that done, you can now relocate your OneDrive folder.
 ![Moving Your OneDrive folder on your PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/01-move-onedrive-folder.jpg)
 4. From the drop-down that appears, click on the**Choose location** option.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Move your OneDrive folder to new location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/02-move-onedrive-folder-to-location.jpg)
 5. A pop-up will appear. Browse to the location you want your new OneDrive folder to reside, and click on the**Move** button on the bottom of the pop-up.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Move OneDrive folder to a new location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/03-choose-new-local-onedrive-location.jpg)
 6. Windows will start to move your OneDrive folder and all of its contents to the new location you’ve selected. This may take a while depending on the size of the folder.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That’s it! You’ve moved your OneDrive folder to a new location on your Windows PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Re-Linking OneDrive
 
@@ -77,10 +85,6 @@ With that done, you can now relocate your OneDrive folder.
 ![Change where OneDrive syncs your files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/04-change-onedrive-location.jpg)
 4. Then browse to the new location where you moved your OneDrive folder on your PC, and click on the**Select Folder** button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. You’ll be presented with a warning screen, telling you that files already exist in this folder. Click on the**Use this folder** button.  
 ![Choose where OneDrive saves files on your PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/07-choose-onedrive-location.jpg)
 6. Verify that the location you’ve selected is the correct one, and click on**Next** .
@@ -90,10 +94,6 @@ With that done, you can now relocate your OneDrive folder.
  Your OneDrive folder has been moved, and any files you add, or existing ones you modify, will be synced to the cloud from this new OneDrive location on your PC.
 
  Additionally, there are many[ways to control how OneDrive syncs files on your PC](https://www.makeuseof.com/ways-to-control-onedrive-sync-pc/) , from pausing automatic sync on metered networks to stopping specific folders from syncing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Free Up PC Storage by Moving Your OneDrive Folder
 
@@ -114,20 +114,18 @@ With that done, you can now relocate your OneDrive folder.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-diving-into-user-preferences-a-tiktok-vs-snapchat-breakdown/"><u>[Updated] Diving Into User Preferences A TikTok Vs Snapchat Breakdown</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-explore-the-latest-in-video-compression-technology-with-these-46-new-tools/"><u>[Updated] Explore the Latest in Video Compression Technology with These 46 New Tools</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/exploring-wide-angles-to-long-distances-powershot-sx70-hs/"><u>Exploring Wide Angles to Long Distances: PowerShot SX70 HS!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-vivo-t2-5g-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Vivo T2 5G?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-harness-the-power-of-color-grading-a-guide-to-luts-in-photoshop-cs6/"><u>In 2024, Harness the Power of Color Grading A Guide to LUTs in Photoshop CS6</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-unique-concepts-for-enhancing-fb-video-marketing-impact/"><u>In 2024, Unique Concepts for Enhancing Fb Video Marketing Impact</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-guide-to-counteract-windows-11-error-x80049dd3/"><u>Step-by-Step Guide to Counteract Windows 11 Error X80049DD3</u></a></li>
-<li><a href="https://win-community.techidaily.com/sync-your-onedrive-with-an-external-hard-drive-quick-and-easy-guides/"><u>Sync Your OneDrive with an External Hard Drive - Quick and Easy Guides</u></a></li>
-<li><a href="https://win-bits.techidaily.com/top-3-fixes-pour-resoudre-les-problemes-de-sauvegarde-sous-windows-10-8-et-7/"><u>Top 3 Fixes Pour Résoudre Les Problèmes De Sauvegarde Sous Windows 10, 8 Et 7</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-secret-tips-for-accessing-win11s-credential-vault-in-under-a-minute/"><u>Top Secret Tips for Accessing Win11's Credential Vault in Under a Minute</u></a></li>
-<li><a href="https://windows11.techidaily.com/unleash-the-power-of-your-digital-brush-on-windows-11-with-paint-cocreator-for-ai-artistry/"><u>Unleash the Power of Your Digital Brush on Windows 11 with Paint Cocreator for AI Artistry</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-windows-1111-discord-install-obstructions/"><u>Unlocking Windows 11/11 Discord Install Obstructions</u></a></li>
-<li><a href="https://windows11.techidaily.com/what-lies-behind-the-numbers-in-windows-updates/"><u>What Lies Behind the Numbers in Windows Updates?</u></a></li>
-<li><a href="https://windows11.techidaily.com/windowing-ways-to-keep-notes-above-the-rest/"><u>Windowing Ways to Keep Notes Above the Rest</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11-mastery-integrating-custom-directories-into-menus/"><u>Windows 11 Mastery: Integrating Custom Directories Into Menus</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-captivate-audiences-quickly-shortcuts-for-youtube-trailers-with-filmora/"><u>[New] 2024 Approved Captivate Audiences Quickly Shortcuts for YouTube Trailers with Filmora</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-step-by-step-audio-transformation-tips-for-enhanced-competitive-play-in-free-fire/"><u>[New] Step-by-Step Audio Transformation Tips for Enhanced Competitive Play in Free Fire</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-chart-your-course-to-partner-status-via-a-rapid-10000-views-journey-for-2024/"><u>[Updated] Chart Your Course to Partner Status via a Rapid 10,000 Views Journey for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-ending-invisible-gaming-captures-in-software/"><u>2024 Approved Ending Invisible Gaming Captures in Software</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-unlocking-facebook-video-integration-with-home-screen-apps/"><u>2024 Approved Unlocking Facebook Video Integration with Home Screen Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/breaking-down-barriers-regaining-computer-management-access/"><u>Breaking Down Barriers: Regaining Computer Management Access</u></a></li>
+<li><a href="https://win11.techidaily.com/easing-up-on-windows-update-troubles-defeating-0x800736cc/"><u>Easing Up on Windows Update Troubles: Defeating 0X800736CC</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-fixes-for-windows-hellos-recognition-failures/"><u>Essential Fixes for Windows Hello's Recognition Failures</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-blue-screen-in-win11-5-methods-to-prevent-hybrid-errors/"><u>Fixing Blue Screen in Win11: 5 Methods to Prevent Hybrid Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-onedrive-cloud-operation-was-unsuccessful-error-in-windows-10-and-11/"><u>How to Fix the OneDrive Cloud Operation Was Unsuccessful Error in Windows 10 & 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-beginners-pathway-to-installing-and-running-windows-10-on-a-fresh-hard-drive/"><u>The Beginner's Pathway to Installing and Running Windows 10 on a Fresh Hard Drive</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-path-to-professional-print-perfection-nine-key-techniques-for-powerpoint-on-pcs/"><u>The Path to Professional Print Perfection: Nine Key Techniques for PowerPoint on PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-pokemon-games-on-iphoneipad/"><u>The Ultimate Guide to Pokémon Games on iPhone/iPad</u></a></li>
 </ul></div>
 

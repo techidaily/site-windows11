@@ -1,7 +1,7 @@
 ---
 title: Identifying Non-Essential Windows 11 Functions to Turn Off
-date: 2024-08-15T16:21:00.808Z
-updated: 2024-08-16T16:21:00.808Z
+date: 2024-12-09T18:00:39.036Z
+updated: 2024-12-10T19:44:01.746Z
 tags:
   - windows10
   - windows11
@@ -40,18 +40,6 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
 
  For that, we've listed all the services below in alphabetical order. Make sure to read about each service before disabling it! If you mistakenly disable a service, you can re-enable it from the same **Properties** window.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. AllJoyn Router Service
 
  The AllJoyn Router service enables you to connect your [IoT devices](https://www.makeuseof.com/tag/what-is-internet-of-things/) to your computer.
@@ -59,13 +47,18 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
  If you don't prefer using or connecting smart devices like digital home security solutions, smart lights, or smart TVs with your Windows, there's no reason to keep this service enabled.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. AssignedAccessManager Service
 
  You might not be aware, but Windows has a feature called [Kiosk mode](https://www.makeuseof.com/windows-11-kiosk-mode/). This feature allows you to place restrictions on your computer. More specifically, it empowers you to force all users to access only a single app on your PC.
 
  The AssignedAccessManager service helps in setting up the kiosk mode. You may never need the kiosk mode if you don't use a public-facing computer. So, disable it using the steps outlined in the previous section.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. BitLocker Drive Encryption Service
 
@@ -84,9 +77,6 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
 * **Bluetooth User Support Service**
 
 ![All Windows Bluetooth Services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-bluetooth-services.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Connected User Experiences and Telemetry
 
@@ -102,9 +92,6 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
 
  Don't be too excited, as it only works in the case of a local network or deployment setup! If you're not part of any local network, disable the Delivery Optimization service.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Diagnostic Services
 
  Whenever something goes wrong on Windows, the first step the internet suggests is to [use Windows troubleshooters](https://www.makeuseof.com/windows-11-troubleshooters/). But, if you never bother to use any of them and fix the issues on your own, there are several diagnostic services that you can disable.
@@ -119,33 +106,29 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
 ![All Windows Diagnostic Services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-diagnostic-services.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Geolocation Service
 
  As its name suggests, this service provides location-related data to Windows apps when needed. You can disable your location data if you don't want to share it due to privacy concerns.
 
  Once the Geolocation service is disabled, you won't be able to share your location using any Windows app or web browser.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9\. Netlogon
 
  The Netlogon service is only for domain networks. It means this service is only helpful in authenticating users within a domain environment. However, if your computer isn't part of such a network (as in the case of personal computers), disabling this service is a better option.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 10\. Optimize Drives
 
  If you have ever defragmented your hard drive, you may be aware of its scheduled defragmentation feature. Simply put, this service handles routine defragmentation and optimization of your drives.
 
  So, if you like to [defrag your hard drive manually](https://www.makeuseof.com/defrag-hard-disk-drive-windows-11/) or if your system comes equipped with an SSD (which doesn't benefit from defragmentation), you might consider turning it off.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 11\. Parental Controls
 
  This service is only helpful if you are a parent. With Parental Controls enabled, you can [restrict your children's computer use](https://www.makeuseof.com/windows-11-parental-controls-guide/). It mainly manages restrictive controls, including website and app restrictions.
@@ -155,6 +138,10 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
 ## 12\. Phone Service
 
  The Phone Service handles connections between your computer and mobile devices. If you disable it, you may lose some mobile device syncing capabilities.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 13\. Print Spooler
 
@@ -174,15 +161,18 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
 
 ![All Windows Remote Desktop Services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-remote-desktop-services.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 15\. Sensor Service
 
  The Sensor service manages integration with sensors like GPS and ambient light sensors. If your device doesn't come equipped with such sensors or if you don't use applications that need sensor data, disabling this service is a good decision.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ## 16\. Smart Card services
 
  Smart Cards are mainly for corporate users who sometimes need them for authentication on Windows devices. However, if you're a typical Windows user who prefers using a keyboard for login, you can disable the following smart card services:
@@ -192,20 +182,19 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 * **Smart Card Removal Policy**
 
 ![All Windows Smart Card Services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-smart-card-services.jpg)
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 17\. Windows Biometric Service
 
  The Windows Biometric service is only helpful if you are using a laptop. It just enables the fingerprint to unlock functionality on laptops. Other than that, there is no use for this service. So, if you're using a PC or don't prefer using biometric unlock, you can disable it safely.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 18\. Windows Error Reporting Service
 
  Just like other operating systems, Windows is not perfect. You may encounter an error or two after a Windows update.
@@ -233,6 +222,10 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![All Windows Xbox Services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-xbox-services.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Get Rid of Unwanted Windows 11 Services
 
  All the services we've mentioned above are safe to disable. However, always remember to create a restore point before making any changes, and be cautious when disabling services that might have specific use cases. For example, don't disable Bluetooth services if you prefer using a Bluetooth device. Similarly, if you use the fingerprint unlock on your laptop, don't modify the Windows Biometric service.
@@ -241,11 +234,25 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  In this article, we'll look over all those Windows 11 services that may contribute to slow performance and how you can disable them.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-concluding-steps-for-an-irremediable-tiktok-account-termination/"><u>[Updated] 2024 Approved Concluding Steps for an Irremediable TikTok Account Termination</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-essential-vhs-illusions-transforming-video-artistry/"><u>[Updated] Essential VHS Illusions Transforming Video Artistry</u></a></li>
+<li><a href="https://windows11.techidaily.com/1-uncontrollable-mouse-movements-effective-solutions-to-regain-control/"><u>1. Uncontrollable Mouse Movements: Effective Solutions to Regain Control</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-insta-facebook-connection-essentials/"><u>2024 Approved Insta-Facebook Connection Essentials</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/apple-watch-variants-explored-navigating-with-gps-or-opting-for-cellular-service/"><u>Apple Watch Variants Explored: Navigating with GPS or Opting for Cellular Service</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-realme-c53-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Realme C53 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://discover-best.techidaily.com/cookiebot-enhanced-power-your-websites-analytics-and-optimization/"><u>Cookiebot-Enhanced: Power Your Website's Analytics and Optimization</u></a></li>
+<li><a href="https://windows11.techidaily.com/future-of-windows-11s-copilot-feature-understanding-the-phasing-out-process/"><u>Future of Windows 11'S Copilot Feature: Understanding the Phasing Out Process</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-tutorial-on-locking-your-system-via-the-windows-11-command-line/"><u>Step-by-Step Tutorial on Locking Your System via the Windows 11 Command Line</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-10-fundamental-windows-terminal-commands-every-new-user-should-know/"><u>Top 10 Fundamental Windows Terminal Commands Every New User Should Know</u></a></li>
+<li><a href="https://windows11.techidaily.com/transform-messy-script-into-neat-text-with-microsoft-onenotes-new-feature/"><u>Transform Messy Script Into Neat Text with Microsoft OneNote's New Feature!</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Mastery: Integrating Custom Directories Into Menus"
-date: 2024-08-15T16:17:41.638Z
-updated: 2024-08-16T16:17:41.638Z
+date: 2024-12-08T18:09:30.664Z
+updated: 2024-12-10T18:14:44.835Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,11 @@ thumbnail: https://thmb.techidaily.com/4740430244a268b3ae9a4b1e15c683b234a7cf8bd
 6. Enter a name or email address within the**User Name** box, and click**Next** again.  
 ![The Setup - MyFolders window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/setup-myfolder-option.jpg)
 7. Select**Next** two more times, and then click MyFolders’**Install** option.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Install button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-install-option.jpg)
 8. Click the**Yes** ,**restart the computer now radio** button, and select**Finish** .
 
@@ -40,12 +45,13 @@ Once your PC has restarted:
 3. Click the**Add** button.  
 ![The Add button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-add-button.jpg)
 4. Choose a directory to add to the context menu and select the**OK** option.
-5. Click**Done** to exit the MyFolders window.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Click**Done** to exit the MyFolders window.
+
 ### How to Use MyFolders
 
  Check out the new folder shortcut you’ve just added to the context menu. Right-click a space on the desktop background and select**Show more options** . Move the cursor over the**MyFolders** submenu and**Go to** . Then click the folder shortcut you just added to open its directory in Explorer.
@@ -60,9 +66,6 @@ Once your PC has restarted:
 
  To remove folders from the context menu, select**Settings** on the**MyFolders** submenu. Then select an added folder with the app’s window and click**Remove** . You can also reorganize items by clicking the**Move up** and**Move down** buttons.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Add Folders to Windows 11’s Context Menu With Right Click Context Menu Adder
 
  Right Click Context Menu Adder is an app with which you can add a folder, program, web address, and file shortcuts to Windows 11’s right-click menu. This software comes packed in a RAR archive. So, you’ll need one of the[best RAR extraction tools](https://www.makeuseof.com/tag/how-to-open-rar-files/) like 7-Zip File Manager to open up its archive.
@@ -78,12 +81,14 @@ Once your PC has restarted:
 7. Then launch the 7-Zip software.
 8. Select the**RightClickContextMenuAdder.RAR** in 7-ZIP and click the**Extract** button.  
 ![The Extract button in 7-Zip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-rar-archive.jpg)
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 9. Click the**ellipsis (…)** button, choose a location for Right Click Context Menu Adder, and select**OK** .  
 ![The Extract window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-extract-window2.jpg)
 10. Press the**OK** button to extract the RAR archive.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 11. Exit the 7-Zip software.
 
  After extracting the RAR archive, you can launch and utilize Right Click Context Menu Adder right-away, since no installation is required. This is how to add folders to the context menu with that software:
@@ -93,9 +98,6 @@ Once your PC has restarted:
 3. Double-click the Right Click Context Menu.exe file.
 4. Click the**Folder** radio button.  
 ![The Right Click Context Menu Adder window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/right-click-context-menu-adder-window.jpg)
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Press the**Choose Folder** button.
 6. Select a directory to add to the context menu within the**Browse For Folder** window and click**OK** .
 7. Click the**Add to Desktop Context Menu** **and to Folders Context Menu** option.
@@ -105,10 +107,6 @@ Once your PC has restarted:
 
 ![A Program Files folder shortcut on the context menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/program-files-folder-shortcut.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### How to Tweak Right Click Context Menu Adder
 
  There are a few optional settings you can change when adding folders to the context menu with Right Click Context Menu Adder. To change the shortcut’s position, select a different**Position on Menu** option.
@@ -119,11 +117,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![The Enable Aero Glass checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-enable-aero-glass-setting.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To delete folder shortcuts added, and other context menu icons, click the**Remove items** **from menu** tab. Then select a folder you’ve added to the menu and click**Remove** . Select**Yes** to confirm you’re sure about deleting the menu entry.
 
 ![The Remove items from menu tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/remove-items-from-menu-tab.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Open Your Most Important Folders From the Windows 11 Context Menu
@@ -136,8 +143,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +150,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-smart-solutions-for-gathering-visual-assets/"><u>[New] 2024 Approved Smart Solutions for Gathering Visual Assets</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-perfect-lighting-setup-for-engaging-youtube-videos/"><u>[New] Perfect Lighting Setup for Engaging YouTube Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-is-there-a-cash-incentive-in-critique-videos/"><u>[Updated] Is There a Cash Incentive in Critique Videos?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-motion-graphics-basic-knowledge-and-usage/"><u>[Updated] Motion Graphics Basic Knowledge and Usage</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-unveiling-simple-techniques-for-effortless-undersea-vids-for-2024/"><u>[Updated] Unveiling Simple Techniques for Effortless Undersea Vids for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/8-ways-to-open-the-file-history-in-windows-11/"><u>8 Ways to Open the File History in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-tips-for-handling-windows-security-mishaps/"><u>Expert Tips for Handling Windows Security Mishaps</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-xiaomi-redmi-12withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Xiaomi Redmi 12with/without a PC</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Vivo Y55s 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-apple-watch-series-9/"><u>In-Depth Analysis of the Apple Watch Series 9</u></a></li>
+<li><a href="https://windows11.techidaily.com/making-your-own-speech-to-text-app-for-windows-whisper-plus-ahk-guide/"><u>Making Your Own Speech-to-Text App for Windows: Whisper + AHK Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-prevention-of-automatic-bios-entry-at-booting/"><u>Mastering Prevention of Automatic BIOS Entry at Booting</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-window-management-with-keys/"><u>Mastering the Art of Window Management with Keys</u></a></li>
+<li><a href="https://windows11.techidaily.com/reestablishing-functionality-for-frozen-spotify-app/"><u>Reestablishing Functionality for Frozen Spotify App</u></a></li>
+<li><a href="https://windows11.techidaily.com/securely-uninstalling-windows-11-printers-without-errors/"><u>Securely Uninstalling Windows 11 Printers Without Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-fixing-the-compatibility-issue-with-your-device-drivers-in-wow/"><u>Solution: Fixing the Compatibility Issue with Your Device Drivers in WoW</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-discord-js-crashes-in-win-11-with-ease-and-precision/"><u>Tackling Discord JS Crashes in Win 11 with Ease and Precision</u></a></li>
+<li><a href="https://windows11.techidaily.com/tech-hacks-6-new-ways-to-open-programs-in-windows/"><u>Tech Hacks: 6 New Ways to Open Programs in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-fixes-for-microsoft-store-error-0x80131500/"><u>Unveiling Fixes for Microsoft Store Error 0X80131500</u></a></li>
+</ul></div>
 

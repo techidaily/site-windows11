@@ -1,7 +1,7 @@
 ---
 title: ROG Ally and the New Competitor From ASUS
-date: 2024-08-08T06:15:47.560Z
-updated: 2024-08-09T06:15:47.560Z
+date: 2024-12-06T16:20:00.970Z
+updated: 2024-12-10T18:15:29.040Z
 tags:
   - windows10
   - windows11
@@ -28,14 +28,8 @@ So, what is the ROG Ally? And when could you get your hands on it?
 
  But a couple of days later, we were greeted by preview videos from two YouTube channels: Dave2D and Linus Tech Tips. Simultaneous with these videos, ASUS opened the[ROG Ally page](https://www.asus.com/ca-en/site/gaming/rog/handheld-consoles/rog-ally/) , where you can sign up to get notified when the handheld console is available for pre-order.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## What Is the ROG Ally?
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![ROG Ally vs Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/rog-ally-vs-steam-deck.jpg)
 
  Image Credit: Dave2D/[YouTube](https://www.youtube.com/watch?v=drLZxyv79Oo&t=14s&ab%5Fchannel=Dave2D)
@@ -49,10 +43,11 @@ So, what is the ROG Ally? And when could you get your hands on it?
 
  ASUS' latest handheld console also has a chockful of ports and system controls. You get a 3.5mm combo headphone jack, a UHS-II microSD slot, and a USB-C port that also connects to the ASUS ROG XG Mobile external GPU. If you plan to get one for your Asus ROG laptop and future ROG Ally console, you should check out these[things you must know about external GPUs](https://www.makeuseof.com/tag/everything-need-know-external-gpu/) .
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ROG Ally top view](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/rog-ally-top-view.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit: Dave2D/[YouTube](https://www.youtube.com/watch?v=drLZxyv79Oo&t=14s&ab%5Fchannel=Dave2D)
 
@@ -62,12 +57,17 @@ So, what is the ROG Ally? And when could you get your hands on it?
 
  After all, if you're going to plug your handheld console into a TV, you'd likely plug it in an outlet, too, to avoid draining its battery.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When Can You Get Your Hands on the ROG Ally? How Much Will It Be?
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![Gaming on the ROG Ally](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/gaming-on-the-rog-ally.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit: ROG Global/[YouTube](https://www.youtube.com/watch?v=s5lq4Q7YAjE&ab%5Fchannel=ROGGlobal)
 
@@ -79,33 +79,31 @@ So, what is the ROG Ally? And when could you get your hands on it?
 
  As for the launch date, we expect the handheld console to appear on store shelves this year. Although ASUS didn't announce when we could start buying its console, the fact that it has shown the prototype to everyone and even allowed Dave2D to play with it for a week means production is well underway.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Game Library on the ROG Ally](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/game-library-on-the-rog-ally.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit: ROG Global/[YouTube](https://www.youtube.com/watch?v=s5lq4Q7YAjE&ab%5Fchannel=ROGGlobal)
 
  So, if we give ASUS a six-month buffer to get everything ironed out, the device should come out by October 2023—just in time to hype the product and ramp up sales for Christmas. Again, this is just an assumption, as ASUS is mum about when we could get the ROG Ally.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Handheld Console Gaming Scene Is Heating Up
 
  The Nintendo Switch revived the handheld gaming console, and the Steam Deck added fire to the mix. Although there are other small handheld console makers, like AYANEO and GPD, none have the deep pockets and brand recognition of Nintendo and Steam.
 
  With the entry of ASUS into this highly-competitive space, Nintendo and Steam will be forced to give better offers and deliver better hardware to keep gamers happy. These developments will help the handheld gaming console stand its ground against the rising tide of smartphone gaming.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -114,4 +112,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-snapmaster-z7-pro-excellence-in-picture-magnification/"><u>[New] SnapMaster Z7 Pro Excellence in Picture Magnification</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-effortless-srt-to-txt-change-up-made-simple-and-swift/"><u>[Updated] 2024 Approved Effortless SRT to TXT Change-Up Made Simple and Swift</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-stepwise-journey-to-excellence-in-voice-memos/"><u>[Updated] In 2024, Stepwise Journey to Excellence in Voice Memos</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-icue-link-with-corsair-improve-performance-fourfold/"><u>Discover iCUE Link with Corsair - Improve Performance Fourfold</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-frozen-resource-monitor-applications-on-win11/"><u>Fixing Frozen Resource Monitor Applications on Win11</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/from-raw-footage-to-excellence-the-webcam-edition/"><u>From Raw Footage to Excellence The Webcam Edition</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-guide-for-snapchat-business/"><u>In 2024, Guide for Snapchat Business</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-streamlined-steps-for-storing-webcam-chat-transcripts/"><u>In 2024, Streamlined Steps for Storing Webcam Chat Transcripts</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-xiaomi-mix-fold-3-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Xiaomi Mix Fold 3? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-unresponsive-pc-mouse-connections/"><u>Resolving Unresponsive PC Mouse Connections</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-nostalgic-pathway-transform-windows-11-to-98/"><u>The Nostalgic Pathway: Transform Windows 11 to '98</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-unihertz-atom-xl-guide-how-this-small-sturdy-phone-delivers-big-on-power/"><u>The Ultimate Unihertz Atom XL Guide: How This Small, Sturdy Phone Delivers Big on Power</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-rebirth-techniques-three-simple-resets/"><u>Windows Rebirth Techniques: Three Simple Resets</u></a></li>
+</ul></div>
 

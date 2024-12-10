@@ -1,7 +1,7 @@
 ---
 title: "Remedy: Cease Random File Explorer Launch"
-date: 2024-08-15T16:17:04.892Z
-updated: 2024-08-16T16:17:04.892Z
+date: 2024-12-08T21:23:36.955Z
+updated: 2024-12-10T21:38:52.591Z
 tags:
   - windows10
   - windows11
@@ -34,8 +34,9 @@ thumbnail: https://thmb.techidaily.com/3b3b313aac4422406d268b9ec86a52f71522ac5df
  Once complete the above steps, your taskbar will disappear for a brief moment before reappearing. After that, check if the issue is still there.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Check Your PC's AutoPlay Settings
 
  AutoPlay is a handy feature in Windows that automatically examines your removable storage devices and performs preset actions accordingly. You need to make sure that AutoPlay in Windows is not set up to launch File Explorer whenever you insert a removable drive or memory card.
@@ -50,6 +51,14 @@ thumbnail: https://thmb.techidaily.com/3b3b313aac4422406d268b9ec86a52f71522ac5df
 2. Type**explorer options** in the box and select the first result that appears.
 3. Under the**General** tab, click the**Clear** button next to**Clear File Explorer history** .  
 ![File Explorer Options Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Clear-File-Explorer-History.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Run the System Maintenance Troubleshooter
 
@@ -68,8 +77,9 @@ To run the System Maintenance troubleshooter on Windows:
  Follow the on-screen instructions to run the troubleshooter and allow it to do its thing.
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Check for Corrupted System Files
 
  Another reason why File Explorer may keep opening randomly is if some of the system files on your PC are corrupt. If that’s the case, running the SFC (System File Checker) and DISM (Deployment Image Servicing and Management) scans should help. These tools will scan your computer for damaged or missing system files and attempt to repair them.
@@ -82,9 +92,6 @@ To run the System Maintenance troubleshooter on Windows:
 
  If any threats are found, apply the recommended fixes to remove them. After that, File Explorer should not open on its own.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## 7\. Install Windows Updates
 
  Several users on forums reported experiencing this issue after a Windows update. If the issue is indeed caused by a bug, it shouldn’t take long before Microsoft releases a fix. It's a good idea to check your computer for any pending system updates and install them right away.
@@ -92,9 +99,6 @@ To run the System Maintenance troubleshooter on Windows:
  Press**Win + I** to open the Settings app and navigate to the**Windows update** tab. Click the**Check for updates** button on your right.
 
 ![Check for Windows Update-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-for-windows-update-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 
  If a newer update is not available, you may have to uninstall the recent update or perform a system restore to[fix problems caused by a Windows update](https://www.makeuseof.com/fix-problems-caused-windows-update/) .
 
@@ -104,28 +108,23 @@ To run the System Maintenance troubleshooter on Windows:
 
  After your PC boots in a clean boot state, try using it for some time and check if File Explorer still opens without your input. If it does not, it means one of the third-party services or startup programs you disabled was causing the problem. To identify it, you’ll have to re-enable your services and startup apps one at a time until the issue occurs again.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 9\. Create a New User Account
 
  Lastly, if none of the above tips work, the problem may be related to your user account. If that's the case, you have no option but to create and switch to a new user account on Windows. If you need help with the same, check our guide on[how to fix Windows issues by creating a new user account](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/) and follow the steps outlined there.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Prevent File Explorer From Opening Automatically on Windows
 
  Having a File Explorer window appear at random can disrupt your workflow and leave you frustrated. In most cases, you should be able to fix the issue by restarting the Windows Explorer process or running the System Maintenance troubleshooter. If not, you may have to boot Windows in a clean boot state to investigate the root cause.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -134,4 +133,26 @@ To run the System Maintenance troubleshooter on Windows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-expert-tips-for-crafting-viral-twitter-campaigns/"><u>[New] 2024 Approved Expert Tips for Crafting Viral Twitter Campaigns</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-unveiling-the-specs-hp-envy-27s-4k-capabilities/"><u>[New] 2024 Approved Unveiling the Specs HP Envy 27'S 4K Capabilities</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-chrome-extensions-best-5-facebook-video-downloaders-for-chrome-for-2024/"><u>[New] Chrome Extensions | Best 5 Facebook Video Downloaders for Chrome for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-audiophiles-choice-best-microphones-for-podcasting/"><u>[New] In 2024, Audiophile's Choice Best Microphones for Podcasting</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-direct-video-transmission-from-twitters-to-whatsapp/"><u>[New] In 2024, Direct Video Transmission From Twitters to WhatsApp</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-mastering-the-art-of-youtube-conversion-top-10-strategies/"><u>[Updated] 2024 Approved Mastering the Art of YouTube Conversion Top 10 Strategies</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/best-free-backup-software-for-windows-server-2ergy-2008-r2/"><u>Best Free Backup Software for Windows Server 2Ergy (2008, R2)</u></a></li>
+<li><a href="https://facebook.techidaily.com/discover-disconnection-a-guide-to-living-offline/"><u>Discover Disconnection: A Guide to Living Offline</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-techniques-to-resolve-your-steam-update-download-conundrums/"><u>Expert Techniques to Resolve Your Steam Update Download Conundrums</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-avoid-lag-extra-monitor-usage-in-windows-laptops/"><u>How to Avoid Lag: Extra Monitor Usage in Windows Laptops</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-search-tool-in-windows-10-and-11-not-displaying-results/"><u>How to Fix the Search Tool in Windows 10 & 11 Not Displaying Results</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-poco-m6-pro-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/no-pretenders-allowed-steps-for-selecting-real-windows-apps/"><u>No Pretenders Allowed: Steps for Selecting Real Windows Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fix-for-windows-update-failure-error-code-0x80070003/"><u>Quick Fix for Windows' Update Failure (Error Code 0X80070003)</u></a></li>
+<li><a href="https://windows11.techidaily.com/shortcuts-how-to-skip-ongoing-password-prompts-on-pc/"><u>Shortcuts: How to Skip Ongoing Password Prompts on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-for-compatibility-problems-with-intel-hd-graphics-hardware/"><u>Solutions for Compatibility Problems with Intel HD Graphics Hardware</u></a></li>
+<li><a href="https://windows11.techidaily.com/stopping-chromes-self-launching-tabs-a-guide/"><u>Stopping Chrome's Self-Launching Tabs: A Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/techniques-for-capturing-the-perfect-verbal-note-for-2024/"><u>Techniques for Capturing the Perfect Verbal Note for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-screener-customization-guide/"><u>Win11 Screener Customization Guide</u></a></li>
+</ul></div>
 

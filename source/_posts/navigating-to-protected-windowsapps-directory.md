@@ -1,7 +1,7 @@
 ---
 title: Navigating to Protected WindowsApps Directory
-date: 2024-11-28T16:05:44.140Z
-updated: 2024-12-04T02:55:00.138Z
+date: 2024-12-04T17:47:18.723Z
+updated: 2024-12-10T16:49:24.690Z
 tags:
   - windows10
   - windows11
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/28b4424e01d4cc277a30d2dc85adec4230b241c9e
 
  There are many ways to access the WindowsApps folder and bypass the protection to gain access to the necessary files.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1\. How to Access WindowsApps via File Explorer
 
  You can easily find the WindowsApps folder in the Windows File Explorer by unhiding the respective folder first. However, to access the folder and make changes to the files—you need to gain some extra rights by changing the ownership.
@@ -58,10 +62,6 @@ thumbnail: https://thmb.techidaily.com/28b4424e01d4cc277a30d2dc85adec4230b241c9e
 
  If you try to open it, you'll see an information popup saying, "You have been denied permission." So, to actually access that folder and gain exclusive read and write rights—you've got to do a bit more.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Change Ownership Properties to Get Access
 
  For the next steps, you need a user account with administrative rights. If you're a beginner, you must know [everything about the Administrator account](https://www.makeuseof.com/tag/windows-administrator-account-everything-need-know/) to understand the steps better.
@@ -73,18 +73,22 @@ thumbnail: https://thmb.techidaily.com/28b4424e01d4cc277a30d2dc85adec4230b241c9e
 ![WindowsApps Properties Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/WindowsApps-Properties-Option.jpg)
 3. Now, under the **Properties** window. Click the **Security** tab and then the **Advanced** option locatedright at the bottom.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![WindowsApps Security Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/WindowsApps-Security-Properties.jpg)
 4. Once you've opened the Advanced Security Settings window, click the **Change** text next to Owner.
 5. Now, click **Advanced > Find Now > Administrator on the following screen**.  
 ![Advanced Security Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/advanced-security-properties.jpg)
 6. Finally, click **OK** to select the Administrator as the owner and again **OK** to save the changes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![User Group Selection Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/User-Group-Selection-Window.jpg)
 7. Then, tick the checkbox before the **Replace owner on sub containers and objects** text.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 8. Now, click the **Apply** button, followed by the **OK** button, to initiate the process of transferring ownership.  
 ![WindowsApps Advanced Security Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/WindowsApps-Advanced-Security-Settings.jpg)
@@ -95,6 +99,10 @@ thumbnail: https://thmb.techidaily.com/28b4424e01d4cc277a30d2dc85adec4230b241c9e
  When you don't pause automatic software installations from the Microsoft store, the WindowsApps folder occupies a considerable bit of disc space. So, it becomes essential for you to access this folder once and check for the files that you no longer need.
 
  Moreover, you can also check out some [free tools for taking control of files and folders](https://www.makeuseof.com/take-ownership-of-windows-files-and-folders-with-these-tools/) on Windows. Such tools allow you to take full ownership of all your files and folders with a single click.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2\. How to Access WindowsApps via a PowerShell Command
 
@@ -114,19 +122,11 @@ thumbnail: https://thmb.techidaily.com/28b4424e01d4cc277a30d2dc85adec4230b241c9e
 
 ![Change Ownership Command In Shell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Change-Ownership-Command-In-Shell.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The above command will restore all the files or folder ownership to the system administrator. It will take some time for your administrator user account to become the owner of the WindowsApps folder and everything in it.
 
  The access you gain by executing the above process is similar to that of the Windows File Explorer-based method. You have just automated the process and eliminated the unhiding of system files. Now, you can back up, clear some space, or make changes to the Windows apps' back-end files.
 
  If you're facing crashes while executing the file, make sure to check out some [effective ways to fix PowerShell crash errors](http://www.makeuseof.com/windows-powershell-has-stopped-working-error-fix/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. How to Access WindowsApps via a Registry Hack
 
@@ -140,7 +140,7 @@ thumbnail: https://thmb.techidaily.com/28b4424e01d4cc277a30d2dc85adec4230b241c9e
 3. On the next screen, click **Yes** to add it to the registry.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Next, exit the popup by clicking **OK** and navigate to the **C:\\Program Files** directory.
@@ -149,11 +149,11 @@ thumbnail: https://thmb.techidaily.com/28b4424e01d4cc277a30d2dc85adec4230b241c9e
 ![Take Ownership Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Take-Ownership-Context-Menu.jpg)
 7. In the Command Prompt, you must [give User Account Control Administrator rights](https://www.makeuseof.com/tag/user-account-control-windows-10/) for the registry hack to work. After that, please wait a few minutes for the window to close. Soon, it will display success messages constantly in the Command Prompt.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once finished, you'll no longer face the "You've been denied permission" error on clicking the WindowsApps folder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Enjoy Unrestricted Access to the WindowsApps Folder
 
@@ -175,16 +175,20 @@ thumbnail: https://thmb.techidaily.com/28b4424e01d4cc277a30d2dc85adec4230b241c9e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-revolutionary-reddit-techniques-for-aspiring-digital-wizards/"><u>[Updated] Revolutionary Reddit Techniques for Aspiring Digital Wizards</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-youtube-movie-maker-unveiled-your-path-to-video-mastery-for-2024/"><u>[Updated] YouTube Movie Maker Unveiled Your Path to Video Mastery for 2024</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/iphone-e/"><u>瞭解何以iPhone上的 E 容量供能經常消失？拯救充電效果</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effortless-methods-for-disconnecting-microsoft-account-on-windows-10-system/"><u>Effortless Methods for Disconnecting Microsoft Account on Windows 10 System</u></a></li>
-<li><a href="https://windows11.techidaily.com/fix-network-access-error-for-google-chrome-in-windows-settings/"><u>Fix Network Access Error for Google Chrome in Windows Settings</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-itel-a60s-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Itel A60s via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-samsung-galaxy-z-flip-5-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Samsung Galaxy Z Flip 5? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/mitigating-windows-update-problem-code-0x8024800c/"><u>Mitigating Windows Update Problem: Code 0X8024800C</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-handle-and-solve-app-runtime-error-on-pc/"><u>Strategies to Handle and Solve App Runtime Error on PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-file-search-in-windows-moving-away-from-ls/"><u>Streamlining File Search in Windows: Moving Away From LS</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11-unveiling-the-triple-widget-configuration-steps/"><u>Windows 11: Unveiling the Triple Widget Configuration Steps</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-premier-knowledge-trivia-video-channels/"><u>[Updated] 2024 Approved Premier Knowledge Trivia Video Channels</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-freenoweb-recorder-app-evaluation-insights/"><u>[Updated] FreenoWeb Recorder App Evaluation Insights</u></a></li>
+<li><a href="https://windows11.techidaily.com/boost-workflow-efficiency-mastering-flow-launcher/"><u>Boost Workflow Efficiency: Mastering Flow Launcher</u></a></li>
+<li><a href="https://windows11.techidaily.com/bring-forth-dormant-windows-11-control-panel-options/"><u>Bring Forth Dormant Windows 11 Control Panel Options</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-various-windows-techniques-for-program-activation/"><u>Exploring Various Windows Techniques for Program Activation</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guaranteeing-successful-enex-driver-operation-in-win11/"><u>Guaranteeing Successful eNEX Driver Operation in Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-a-missing-intel-processor-driver-error-on-windows-11-instantly-solved/"><u>How to Fix a Missing Intel Processor Driver Error on Windows 11 (Instantly Solved)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Meizu 21 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/integrate-xps-essential-movie-making-features-for-2024/"><u>Integrate XP's Essential Movie Making Features for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/intense-evaluation-the-detailed-study-of-bublcam-360/"><u>Intense Evaluation The Detailed Study of Bublcam 360</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-maze-of-directdraw-fixes-on-modern-microsoft-oses/"><u>Navigating the Maze of DirectDraw Fixes on Modern Microsoft OSes</u></a></li>
+<li><a href="https://windows11.techidaily.com/personalize-your-windows-dashboard-incorporate-portable-apps/"><u>Personalize Your Windows Dashboard: Incorporate Portable Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-network-path-with-fixed-ea-server-error-in-os/"><u>Restoring Network Path with Fixed EA Server Error in OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/taming-the-walls-of-windows-icons/"><u>Taming the Walls of Windows Icons</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-ue590-review-top-4k-game-display-with-fs-for-2024/"><u>The UE590 Review Top 4K Game Display with FS for 2024</u></a></li>
 </ul></div>
 

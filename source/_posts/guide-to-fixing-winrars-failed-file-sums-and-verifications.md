@@ -1,7 +1,7 @@
 ---
 title: Guide to Fixing WinRAR's Failed File Sums and Verifications
-date: 2024-08-15T16:16:44.154Z
-updated: 2024-08-16T16:16:44.154Z
+date: 2024-12-09T19:09:16.937Z
+updated: 2024-12-10T19:43:15.533Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/ef0c500c1ff8cdea11d6b2ce7132e969a27a23353
 * The files contain viruses or malware.
 * The file was not downloaded properly from the source.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Enable the Keep Broken Files Option
 
  By default, WinRAR automatically deletes the corruption in your archive file. While this feature generally works well, there are instances where it may delete segments that are essential for the extraction process, leading to a checksum error.
@@ -40,20 +44,24 @@ thumbnail: https://thmb.techidaily.com/ef0c500c1ff8cdea11d6b2ce7132e969a27a23353
 
 1. Right-click on the archive file, hover the cursor on **WinRAR**, and choose **Extract files** from the context menu.  
 ![Extract files option of WinRAR](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/extract-files-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Check the **Keep my files** option and click **OK**.  
-![Keep my files option of WinRAR](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/keep-my-files-option-2.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![Keep my files option of WinRAR](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/keep-my-files-option-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  WinRAR will now extract your archive file without deleting the corrupt or broken parts from it. After the extraction, you can [repair corrupted files in Windows](https://www.makeuseof.com/tag/best-tools-repair-corrupted-damaged-files-windows/) using different repair tools available on the market.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Temporarily Disable the Security Program
 
  Often, the security program on your computer can interfere with WinRAR, causing it to display an error message. This usually occurs when the security program thinks the archive file contains malicious agents.
@@ -75,10 +83,6 @@ thumbnail: https://thmb.techidaily.com/ef0c500c1ff8cdea11d6b2ce7132e969a27a23353
 ![Repair archive option in WinRAR](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/repair-archive-option.jpg)
 3. Choose the **Treat the corrupt archive as RAR** option if your archive is a RAR file. Select the **Treat the corrupt archive as ZIP** option if it's a ZIP file. Then, click **OK**.  
 ![Repairing window of WinRAR](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/repairing-window.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 
  The WinRAR repair window will crop up and try to repair the archive file. After the process is complete, restart your computer, try to extract the file, and check if the error reappears. If yes, try the next solution on the list.
 
@@ -98,9 +102,6 @@ chkdsk/r C:
 
  The CHKDSK scan takes a long time to finish, so be patient. Once the scan is complete, restart your computer (see how to [restart a Windows computer](https://www.makeuseof.com/windows-restart-methods/)) and check for the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Re-Download the Archive File
 
  If you continue to experience the error while extracting the file, it is likely due to an issue that occurred during the file download process. It's possible that you were disconnected from the internet while downloading the file or your computer experienced a sudden power cut.
@@ -108,8 +109,9 @@ chkdsk/r C:
  In this case, the best course of action is to re-download the archive file. If someone sent you the file via email, request them to resend it. If you downloaded the file from a website, revisit the website and initiate a fresh download of the file.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Try a Different Extraction Tool
 
  If you’re still facing the checksum error even after trying the previous troubleshooting steps, the problem likely lies with WinRAR rather than the archive file. In such a scenario, you’re left with no option other than to use any other [extraction tool to extract your archive file](https://www.makeuseof.com/tag/the-top-3-file-compression-extraction-softwares/).
@@ -122,11 +124,26 @@ chkdsk/r C:
 
  Thankfully, you can try various troubleshooting methods to eliminate the checksum error in WinRAR. Let's check them out.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-quick-fire-photos-with-iphone-burst-feature/"><u>[New] Quick-Fire Photos with iPhone Burst Feature</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-sustainable-traffic-growth-ethical-video-marketing-tips/"><u>[New] Sustainable Traffic Growth Ethical Video Marketing Tips</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-top-11-auditory-capture-devices-reviewed-here/"><u>[Updated] In 2024, Top 11 Auditory Capture Devices Reviewed Here</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-audio-recorder-performance-assessment/"><u>2024 Approved Audio Recorder Performance Assessment</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-cutting-costs-without-compromising-on-youtube-intros-quality/"><u>2024 Approved Cutting Costs without Compromising on YouTube Intros Quality</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-vivo-v27-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Vivo V27 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-read-only-files-windows-strategies-for-recovery/"><u>Fixing Read-Only Files: Windows Strategies for Recovery</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-zoom-establishing-a-top-tier-video-conferencing-space/"><u>Mastering Zoom Establishing a Top-Tier Video Conferencing Space</u></a></li>
+<li><a href="https://windows11.techidaily.com/play-ocm-like-pros-strategies-and-tips-for-the-uninitiated/"><u>Play OCM Like Pros: Strategies and Tips for the Uninitiated</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-your-system-the-best-windows-software-to-ditch/"><u>Streamline Your System: The Best Windows Software to Ditch</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-w11s-print-management-techniques-max-50-chars/"><u>Unraveling W11’s Print Management Techniques (Max 50 Chars)</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-win11s-password-vault-11-proven-strategies-for-easy-access/"><u>Unraveling Win11's Password Vault: 11 Proven Strategies for Easy Access</u></a></li>
+</ul></div>
+

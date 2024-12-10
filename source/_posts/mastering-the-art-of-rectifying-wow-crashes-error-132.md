@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Rectifying WoW Crashes: Error 132"
-date: 2024-11-29T16:32:34.693Z
-updated: 2024-12-03T18:02:59.819Z
+date: 2024-12-08T17:14:49.640Z
+updated: 2024-12-10T17:15:48.597Z
 tags:
   - windows10
   - windows11
@@ -49,8 +49,16 @@ thumbnail: https://thmb.techidaily.com/7e475b588f2cf5836119cf29eeb77a68a0d6cc175
 ![A screenshot of the Retail folder in the system files for World of Warcraft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/retail-folder.jpg)
 5. Then right-click on the **Interface** subfolder, select **Rename**, and input **InterfaceOld** for the new name.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Repeat the previous step for the **Classic** and **WTF** folders. Rename those folders to **ClassicOld** and **WTFOld**.  
 ![A screenshot of the system file options for the Cache folder for World of Warcraft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/rename-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then go back to the Battle.net software to launch World of Warcraft. The renamed folders will be recreated, which resets the UI for the World of Warcraft game. The game might initially start more slowly than usual because of that, but hopefully, you’ll be able to play it without further issues.
 
@@ -59,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/7e475b588f2cf5836119cf29eeb77a68a0d6cc175
  If error 132 still affects your game, even after renaming folders, you may want to try other ways to [fix World of Warcraft not launching in Windows 10/11](https://www.makeuseof.com/windows-11-10-world-of-warcraft-not-launching/). Some potential fixes associated with launching WoW may also fix error 132\.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Enable DirectX Legacy Mode
@@ -71,17 +79,13 @@ thumbnail: https://thmb.techidaily.com/7e475b588f2cf5836119cf29eeb77a68a0d6cc175
 ![A screenshot of the Main Menu Options for Battle Net](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/settings-menu-option.jpg)
 3. Select **Game Settings** \> **World of Warcraft**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click on the **Additional command line arguments** box to activate a text box.
 5. Input **\-d3d11legacy** inside the text box.  
 ![A screenshot of the Additional Command Line Arguments option for Battle Net](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/game-settings-tab.jpg)
 6. Press **Done** to set World of Warcraft’s command line argument.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Restart the Blizzard software after setting this new command line argument for World of Warcraft. Then start WoW to see if this possible resolution makes a difference.
@@ -92,16 +96,12 @@ thumbnail: https://thmb.techidaily.com/7e475b588f2cf5836119cf29eeb77a68a0d6cc175
 
 ![A screenshot of the option to Add An Exclusion to the Windows Security Exclusions List](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/add-an-exclusion.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To ensure your security software never blocks World of Warcraft, add the game’s .exe (application) file to your antivirus and firewall exception lists. You can [whitelist files for Microsoft Defender](https://www.makeuseof.com/how-to-whitelist-files-windows-defender/#:~:text=Under%20Protection%20areas%2C%20select%20Virus,type%2C%20or%20process%20to%20exclude.) by clicking the **Add an exclusion** button in the Windows Security app. If you’ve installed a third-party antivirus tool, set a WoW exception in that app’s exclusion list instead.
 
  If adding World of Warcraft to your Windows Defender Exclusion List doesn’t fix error 132, you may want to [run the System File Checker for Windows](https://www.makeuseof.com/system-file-checker-sfc-windows/) instead. This could repair any corrupted files causing the error.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Enjoy World of Warcraft Again
@@ -120,19 +120,18 @@ thumbnail: https://thmb.techidaily.com/7e475b588f2cf5836119cf29eeb77a68a0d6cc175
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-evaluating-available-vs-desired-vr-content-today-for-2024/"><u>[New] Evaluating Available Vs. Desired VR Content Today for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-hasten-haste-in-videos-with-top-apps-android-for-2024/"><u>[New] Hasten Haste in Videos with Top Apps, Android for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-analysis-power-meets-portability-in-razer-blade-pro-17-gaming-laptop-review/"><u>Expert Analysis: Power Meets Portability in Razer Blade Pro 17 Gaming Laptop Review</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/mastering-aomei-sqlbackrestore-in-depth-tips-and-step-by-step-instructions/"><u>Mastering AOMEI SQLBackRestore: In-Depth Tips and Step-by-Step Instructions</u></a></li>
-<li><a href="https://windows11.techidaily.com/microsoft-edges-secret-process-gang/"><u>Microsoft Edge's Secret Process Gang</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimal-notetaking-top-6-ai-enhanced-software-picks/"><u>Optimal Notetaking: Top 6 AI-Enhanced Software Picks</u></a></li>
-<li><a href="https://windows11.techidaily.com/powertoys-lockmaster-a-compreayers-guide-to-files/"><u>PowerToys Lockmaster: A Compreayer's Guide to Files</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-access-errors-with-epic-launcher/"><u>Resolving Access Errors with Epic Launcher</u></a></li>
-<li><a href="https://windows11.techidaily.com/team-chat-freezing-heres-a-fix/"><u>Team Chat Freezing? Here’s a Fix</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-breakdown-of-grok-ai-insights-into-the-creation-by-elon-musk-and-potential-pricing/"><u>The Breakdown of Grok AI: Insights Into the Creation by Elon Musk & Potential Pricing</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshoot-no-display-on-pc-startup/"><u>Troubleshoot No-Display on PC Startup</u></a></li>
-<li><a href="https://windows11.techidaily.com/understanding-impactful-windows-11-service-disabling/"><u>Understanding Impactful Windows 11 Service Disabling</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/unlock-ultimate-clarity-choosing-the-perfect-4k-screen/"><u>Unlock Ultimate Clarity Choosing the Perfect 4K Screen</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unpacking-video-editing-excellence-is-inshot-at-the-top/"><u>Unpacking Video Editing Excellence Is InShot at the Top?</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-premier-editing-software-for-vimeo-streams/"><u>2024 Approved Premier Editing Software for Vimeo Streams</u></a></li>
+<li><a href="https://windows11.techidaily.com/choosing-the-right-nearby-share-software-for-secure-collaboration/"><u>Choosing the Right Nearby Share Software for Secure Collaboration</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/conversion-facile-de-videos-mkv-en-swf-sur-internet-gratuite-a-laide-de-movavi/"><u>Conversion Facile De Vidéos MKV en SWF Sur Internet, Gratuite À L'aide De Movavi</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-your-system-launch-by-configuring-services-in-windows-11/"><u>Elevate Your System Launch by Configuring Services in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/getting-acquainted-with-apple-maps-on-windows-desktops/"><u>Getting Acquainted with Apple Maps on Windows Desktops</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-achieving-harmony-selecting-ideal-aspect-ratios/"><u>In 2024, Achieving Harmony Selecting Ideal Aspect Ratios</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-xiaomi-redmi-note-13-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Xiaomi Redmi Note 13 5G to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/incorporate-live-captions-seamlessly-into-stories-for-2024/"><u>Incorporate Live Captions Seamlessly Into Stories for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-securely-enabling-controlled-folder-access-in-windows-11/"><u>Navigate Securely: Enabling Controlled Folder Access in Windows 11</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-definitive-guide-to-premium-vr-players-oculus-focus-for-2024/"><u>The Definitive Guide to Premium VR Players - Oculus Focus for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-the-power-of-local-gpo-control-on-windows-11/"><u>Unlock the Power of Local GPO Control on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-windows-10-keys-a-step-by-step-guide/"><u>Unlocking Windows 10 Keys: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tools.techidaily.com/videosoftdev/products/"><u>Videosoftdev's Products</u></a></li>
 </ul></div>
 

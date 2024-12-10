@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Resolving Nvidia CP Access Denied on WS11/10"
-date: 2024-08-08T06:14:57.969Z
-updated: 2024-08-09T06:14:57.969Z
+date: 2024-12-05T20:15:51.062Z
+updated: 2024-12-10T20:41:23.746Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/775033cec734e193d493811f769dcaa65d428fba2
 
  The “Access denied” error is mostly reported to arise for 3D settings. As a result, NVIDIA Control Panel doesn’t apply (save) the settings users select. This is how you can resolve NVIDIA Control Panel’s “Access denied” error within Windows 11/10.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Run the NVIDIA Control Panel as an Administrator
 
  Firstly, try running the NVIDIA Control Panel with elevated admin permissions, which has worked for some users. To do that, press the**Windows** logo +**S** keyboard buttons and input NVIDIA Control Panel. Right-click NVIDIA Control Panel and select**Run as administrator** .
@@ -35,21 +32,16 @@ thumbnail: https://thmb.techidaily.com/775033cec734e193d493811f769dcaa65d428fba2
 
 `C:\Program Files\WindowsApps\NVIDIACorp.NVIDIAControlPanel_8.1.964.0_x64__56jybvy8sckqj`
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Select the Repair and Reset Options for the NVIDIA Control Panel
 
  The NVIDIA Control Panel app has**Repair** and**Reset** troubleshooting options you can select in Settings. Both options can be useful for fixing apps when they’re not working right. So, try selecting the**Repair** option first and then**Reset** to clear the app’s data if repairing isn’t enough. Check out this[article about resetting apps in Windows](https://www.makeuseof.com/windows-reset-app/) for details about how to apply this potential fix.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Repair and Reset option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-reset-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Start or Restart the NVIDIA Display Container Service
 
  The NVIDIA Display Container is an important GPU service that runs numerous other NVIDIA background tasks. Make sure that service is running or restart it if it is. You can start or restart NVIDIA Display Container like this:
@@ -60,10 +52,20 @@ thumbnail: https://thmb.techidaily.com/775033cec734e193d493811f769dcaa65d428fba2
 4. Then double-click**NVIDIA Display Container** to view the settings for that service.  
 ![The Services app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-services-app.jpg)  
  Screenshot captured by Jack Slater - No attribution required
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click on the**Startup type** menu and select**Automatic** from there.
 6. Next, select**Start** if the NVIDIA Display Container service is stopped. Or select**Stop** \>**Start** to restart that service.  
 ![The NVIDIA Display Container service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/nvidia-display-container-service.jpg)
 7. Click**Apply** to set the NVIDIA Display Container service’s settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Close the NVIDIA Display Container Properties window by clicking**OK** .
 
 ## 4\. Update Your NVIDIA Graphics Card Driver
@@ -72,15 +74,12 @@ thumbnail: https://thmb.techidaily.com/775033cec734e193d493811f769dcaa65d428fba2
 
  When you’ve downloaded the latest NVIDIA driver package for your GPU, bring up the directory that includes its setup file. Double-click the NVIDIA driver package file to view its setup wizard and select the**Custom** option. Then select the**Perform a clean installation** checkbox and click**Next** to install.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![The Perform a clean installation checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/perform-a-clean-installation.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Roll Back the NVIDIA Driver
 
  If the “Access denied” error arises after installing a new NVIDIA driver, rolling back that driver to a previous one could be a viable potential solution. You’ll only be able to do that if the previous NVIDIA GPU driver file is still available. Our[article about rolling back drivers](https://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) includes guidelines for how to apply this potential fix.
@@ -88,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/775033cec734e193d493811f769dcaa65d428fba2
  If the**Roll Back** option is grayed out, you might still be able to roll back to a previous NVIDIA graphics driver with the System Restore utility. Rolling Windows back to a restoration point restores drivers installed before the selected date. However, that will only work if your PC has a restore point that predates the driver update.
 
 ![The Roll Back Driver button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/roll-back-driver-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This[post about creating and utilizing restore points](https://www.makeuseof.com/windows-11-create-restore-point/) tells you how to roll back Windows. Select a restore point that will restore the previous NVIDIA graphics driver. You can click**Scan for affected** programs in System Restore to check if a chosen restoration point will restore an NVIDIA graphics driver.
 
@@ -98,12 +101,13 @@ thumbnail: https://thmb.techidaily.com/775033cec734e193d493811f769dcaa65d428fba2
 1. First, bring up File Explorer by clicking the taskbar button with the folder library icon.
 2. Then click the**View** button to select a**Show** option.
 3. Select the**Hidden Items** option.  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![The Hidden items checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/hidden-items-option.jpg)
 4. Clear Explorer’s address bar to input the following path:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `C:\ProgramData\NVIDIA Corporation`
 5. Then right-click the DRS folder and select**Properties** .
 6. Click the**Previous Versions** tab.  
@@ -113,9 +117,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  To select the same**Hidden Items** option in Windows 10, you’ll need to open the**View** tab in Explorer. Then select the checkbox labeled**Hidden Items** on that tab.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ## 7\. Turn Off the Game Bar
 
  It’s also recommended to turn off the Game Bar in case that’s causing any issues with the NVIDIA Control Panel. This potential resolution applies more to Windows 10 since Windows 11’s Settings app doesn’t include a specific option for disabling the Game Bar. You can turn off the Game Bar in Windows 10 like this:
@@ -135,8 +136,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +143,23 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-free-final-cut-pro-mastery-secrets-revealed/"><u>[New] 2024 Approved Free Final Cut Pro Mastery Secrets Revealed</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-skype-call-capture-the-most-effective-free-and-paid-approaches/"><u>[New] Skype Call Capture The Most Effective Free & Paid Approaches</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-improve-timestamp-accuracy-for-social-media-posts/"><u>[Updated] Improve Timestamp Accuracy for Social Media Posts</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-leveraging-tweet-sharing-for-facebook-audience/"><u>2024 Approved Leveraging Tweet Sharing for Facebook Audience</u></a></li>
+<li><a href="https://apple-account.techidaily.com/3-ways-of-how-to-get-someones-apple-id-off-iphone-12-mini-without-password-by-drfone-ios/"><u>3 Ways of How to Get Someones Apple ID Off iPhone 12 mini without Password</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-offscreen-windows-errors/"><u>Addressing Offscreen Windows Errors</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/begin-a-new-era-of-editing-with-xps-video-suite-for-2024/"><u>Begin a New Era of Editing with Xp's Video Suite for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/caution-not-to-use-chatbots-for-windows-key-formation/"><u>Caution: Not to Use Chatbots For Windows Key Formation</u></a></li>
+<li><a href="https://windows11.techidaily.com/effective-file-system-in-windows-unveiled-max-156/"><u>Effective File System in Windows Unveiled (Max 156)</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-tips-to-overcome-windows-code-error/"><u>Essential Tips to Overcome Window's Code Error</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-illumination-innovations-advanced-lighting-in-video-making/"><u>In 2024, Illumination Innovations Advanced Lighting in Video Making</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-nurturing-natural-light-within-domestic-spaces/"><u>In 2024, Nurturing Natural Light Within Domestic Spaces</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcome-sluggishness-valorant-on-windows/"><u>Overcome Sluggishness: Valorant on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/tech-integration-connect-ps3-dualshock-wirelessly/"><u>Tech Integration: Connect PS3 DualShock Wirelessly</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-windows-11-audio-adjustment-tools/"><u>Unveiling the Windows 11 Audio Adjustment Tools</u></a></li>
+</ul></div>
 

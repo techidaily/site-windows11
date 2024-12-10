@@ -1,7 +1,7 @@
 ---
 title: Swiftly Transform HEIC Pics to JPEG with Windows 11 Tech
-date: 2024-11-26T20:35:03.117Z
-updated: 2024-12-03T22:32:50.566Z
+date: 2024-12-04T19:29:07.488Z
+updated: 2024-12-10T21:21:26.107Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/8e847bcd25e1bb956f9c0d5ed5c3e1ee40f922a7b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Batch Convert HEIC Images to JPEG With CopyTrans HEIC for Windows
@@ -52,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/8e847bcd25e1bb956f9c0d5ed5c3e1ee40f922a7b
 4. Right-click on one of the selected image files to select**Convert to JPEG With CopyTrans** . Windows 11 users need to select**Show more options** \>**Convert to JPEG** .  
 ![The Convert to JPEG with CopyTrans option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/convert-to-jpeg-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then CopyTrans will convert the selected images to JPEG format without any kind of confirmation window popping up. It will save new JPG files for the HEIC images in the same folder. You’ll need to click on a different folder and then return to the directory that includes the HEIC images to see new files.
 
  CopyTrans HEIC for Windows doesn’t have any kind of user interface. So, there isn’t any way you can configure what folder converted output gets saved in or change any other settings.
@@ -63,10 +59,6 @@ thumbnail: https://thmb.techidaily.com/8e847bcd25e1bb956f9c0d5ed5c3e1ee40f922a7b
  With CopyTrans installed, you can enable HEIC image previews in Windows 11 File Explorer by clicking the**View** command bar button. Select**Show** \>**Preview pane** on the menu. In Windows 10, you can select**Preview Pane** on the**View** tab. Then selecting a HEIC image will show a sidebar preview of it.
 
 ![A HEIC image preview in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-heic-image-preview.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Batch Convert HEIC Images to JPEG With FoneTool
 
@@ -91,10 +83,6 @@ Now it's time to convert images with FoneTool:
 ![The HEIC Converter window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/heic-converter-tool.jpg)
 5. Click the**Select** button to choose a directory to save the converted JPEG files within. Click the**Select Folder** button to confirm.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Select optional**Photo Quality** and**Conversion Speed** settings.
 7. Press the**Start Converting** option.
 
@@ -104,9 +92,17 @@ Now it's time to convert images with FoneTool:
 
 ![The Phone Transfer tab in FoneTool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/phone-transfer-tab.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Plus, there’s a duplicate photo finder tool that could be useful for some users. Click**Photo Deduplication** on the**Toolbox** tab to open that utility. Select the**Scan Computer** option and click**Add Folder** to search a directory for matching images. Then you can erase similar or duplicate photos by selecting them and clicking**Delete** .
 
 ![The Photo Deduplication tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/photo-duplication-tool.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Bach Convert HEIC Images With HEIC to JPEG Free Online Converter
 
@@ -117,13 +113,17 @@ Now it's time to convert images with FoneTool:
 ![The Add HEIC files button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-heic-files-button.jpg)
 3. Choose a HEIC image to convert and click the**Open** option. As you can only select one image at a time, you’ll need to repeat steps two and three to add more files.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click (Select output format) to expand options.
 5. Select**JPEG** on the**Convert to** drop-down menu.  
 ![The Convert to option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/convert-to-option.jpg)
 6. Then set a value in the**Quality** box.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Select the**I consent** checkbox. You can click the**Privacy Policy** link to view further info about the fCoder Solutions' data-sharing policy.
@@ -136,7 +136,7 @@ Now it's time to convert images with FoneTool:
 ![Image resize options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-image-size-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Make iPhone Photos More Accessible on Windows
@@ -158,18 +158,22 @@ Now it's time to convert images with FoneTool:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-unlocking-the-full-potential-of-iphone-7-screen-save/"><u>[New] In 2024, Unlocking the Full Potential of iPhone 7 Screen Save</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-trailblazers-in-vr-eyewear-design/"><u>[New] Trailblazers in VR Eyewear Design</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-streamline-your-audio-savings-from-youtube-playback/"><u>[Updated] Streamline Your Audio Savings From YouTube Playback</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-upload-and-share-videos-on-twitter-made-easy/"><u>[Updated] Upload & Share Videos on Twitter Made Easy</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-select-vhs-visuals-perfect-for-video-editors/"><u>2024 Approved Select VHS Visuals Perfect for Video Editors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/get-rid-of-highlighted-icon-in-windows-11/"><u>Get Rid of Highlighted Icon in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-prolong-windows-10-restart-time-while-tasks-run/"><u>How to Prolong Windows 10 Restart Time While Tasks Run</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Realme GT Neo 5 SE | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ating-your-online-presence-expert-tips-for-video-enhancement-after-upload-for-2024/"><u>Innovating Your Online Presence Expert Tips for Video Enhancement After Upload for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/maximize-graphics-performance-with-1-6-tools-for-windows-pcs/"><u>Maximize Graphics Performance with #1-#6 Tools for Windows PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-failures-of-file-segmentation-service/"><u>Resolving Failures of File Segmentation Service</u></a></li>
-<li><a href="https://windows11.techidaily.com/turning-classic-computers-into-modern-windows-11-hubs-with-tools/"><u>Turning Classic Computers Into Modern Windows 11 Hubs with Tools</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11-stop-intelligent-assistant/"><u>Windows 11: Stop Intelligent Assistant</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-capturing-moving-images-mirrorless-versus-dslr-for-2024/"><u>[New] Capturing Moving Images Mirrorless Versus DSLR for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-transcendence-in-music-mixing-crossfade-unveiled/"><u>[New] In 2024, Transcendence in Music Mixing Crossfade Unveiled</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-the-floating-window-technology-in-netflix/"><u>[New] Navigating The Floating Window Technology in Netflix</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-top-steadicams-to-elevate-your-dslr-filming-capabilities/"><u>[New] Top Steadicams to Elevate Your DSLR Filming Capabilities</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-unveiling-wintv-magic-compre-written-guide-to-capturing-live-on-windows-pc/"><u>[Updated] 2024 Approved Unveiling WinTV Magic Compre Written Guide to Capturing Live on Windows PC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-achieving-seamless-ages-shifting-scenes/"><u>[Updated] Achieving Seamless Ages Shifting Scenes</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-memory-overuse-in-user-services-and-connected-devices/"><u>Addressing Memory Overuse in User Services and Connected Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-windows-11-faux-pas-an-experts-guide-to-safe-practices/"><u>Avoiding Windows 11 Faux Pas: An Expert's Guide to Safe Practices</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-navigation-disabling-accelerated-motion-windows-style/"><u>Efficient Navigation: Disabling Accelerated Motion Windows Style</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6s-without-passcode-by-drfone-ios/"><u>How to Unlock iPhone 6s Without Passcode?</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-rotate-your-3gp-videos-without-spending-a-dime-top-5-free-tools/"><u>New In 2024, Rotate Your 3GP Videos Without Spending a Dime Top 5 Free Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-capture-failures-overcoming-pc-spec-limitations/"><u>Resolving Capture Failures: Overcoming PC Spec Limitations</u></a></li>
+<li><a href="https://windows11.techidaily.com/solution-for-fixing-the-invalid-file-history-options-in-windows/"><u>Solution for Fixing the Invalid File History Options in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-unlock-windows-credentials-management/"><u>Steps to Unlock Windows Credentials Management</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-pathway-to-personalizing-windows-11-fax-cover-pages/"><u>The Pathway to Personalizing Windows 11 Fax Cover Pages</u></a></li>
+<li><a href="https://windows11.techidaily.com/time-travel-for-files-mastering-windows-11s-history/"><u>Time Travel for Files: Mastering Windows 11'S History</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/uncovering-the-most-economical-cellular-contracts-this-year/"><u>Uncovering the Most Economical Cellular Contracts This Year</u></a></li>
 </ul></div>
 

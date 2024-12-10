@@ -1,7 +1,7 @@
 ---
 title: "Mastering Multitasking: Running Windows 11 in MacOS with Parallels"
-date: 2024-08-15T16:21:28.465Z
-updated: 2024-08-16T16:21:28.465Z
+date: 2024-12-09T16:53:13.715Z
+updated: 2024-12-10T18:40:09.464Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/747f020dba73f73220750a642a58d9200a84cba1b
 
 ![The Parallels Desktop 18 website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/parallels-desktop-18-website.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  While there have been various workarounds, neither Apple nor Microsoft officially supports booting directly into Windows 11 using the Boot Camp feature built into macOS.
 
  Thanks to virtualization, you can run Windows 11 in a window alongside macOS (at the expense of speed and battery life). Keep in mind that not many PC apps are compatible with Windows on ARM, a version of Windows compiled for ARM64 devices like Apple silicon Macs.
@@ -40,9 +44,6 @@ thumbnail: https://thmb.techidaily.com/747f020dba73f73220750a642a58d9200a84cba1b
 
  Parallels 18 will automatically download the Windows installer, but you can also provide a copy of the installer if you've[downloaded a Windows 11 ISO file](https://www.makeuseof.com/windows-11-download-iso/) on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Step 1: Download Parallels Desktop 18
 
 ![The Parallels Desktop 18 installer in the macOS Finder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/parallels-desktop-18-macos-installer-finder.jpg)
@@ -54,22 +55,19 @@ thumbnail: https://thmb.techidaily.com/747f020dba73f73220750a642a58d9200a84cba1b
  With the disk image mounted, double-click the**Install Parallels Desktop** app. To finish installing Parallels, you must accept the terms, provide your Mac's username and password, and permit Parallels to access your Mac.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Step 2: Install Windows 11 in Parallels
 
 ![Installation Assistant in Parallels Desktop 18 for macOS offering to download and install Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/parallels-desktop-18-macos-installation-assistant-download-install-windows-11.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 
  Launch Parallels, and the Installation Assistant should take over. If it doesn't show up, click the**File** menu and choose**New** to create a fresh virtual machine. If the Installation Assistant offers to download and install Windows 11, accept by clicking the**Install Windows** button.
 
 ![A "Downloading Windows 11" message in Parallels Desktop 18 for macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/parallels-desktop-18-macos-installation-assistant-downloading-windows-11.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  People with a Windows 11 ISO file already downloaded can optionally choose the**Install Windows or another OS from a DVD or image file** option and hit**Continue** . Assuming you've opted for automatic installation, Parallels will now automatically download a version of the Windows 11 ISO from Microsoft's website that's appropriate for your Mac hardware.
@@ -78,6 +76,10 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  With that done, Parallels will validate and launch the installer. It may take a while to install Windows 11—be patient as Parallels optimizes Windows 11 on your Mac. You'll see an "Installation Complete" message at the end of the process. At that point, click the mouse to continue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 3: Complete the Installation
 
  You'll be prompted to create a free Parallels account, but you can**Sign in with Apple** and avoid sharing your real email address. Parallels Desktop 18 includes a free trial without limitations. After it expires, you'll need to buy a license from the[Parallels website](https://parallels.sjv.io/c/119570/1081277/13842?subId1=UUmuoUeUpU2013712&subId2=emuo&u=https%3A%2F%2Fwww.parallels.com%2Fproducts%2Fdesktop%2Fbuy%2F) .
@@ -85,15 +87,13 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
  Parallels will now boot your virtual machine to finish installing Windows 11\. The Windows License Agreement comes up next, so click the**Accept** button to continue.
 
 ![Windows 11 running in Parallels Desktop 18 alongside macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/parallels-desktop-18-macos-windows-11-dektop-edge-browser.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You should now land on the Windows 11 desktop in a macOS window. With everything installed and set up correctly, you can run your favorite Windows apps and games alongside macOS!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## Step 4\. Install the Parallels Toolbox
 
 ![Accessing Parallels Desktop Toolbox from the macOS menu bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Parallels-Desktop-Toolbox-macOS-menu-bar.jpg)
@@ -109,8 +109,9 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 ## Step 5\. Customize Your Windows 11 Virtual Machine
 
 ![Choosing primary Windows 11 use case in Parallels Desktop 18 for macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/parallels-desktop-18-macos-settings-configure-for.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can adjust various settings by clicking**Parallels > Configure** from the menu bar (some of the settings cannot be changed until your virtual machine is shut down). Under the**General** tab, click the**Change** button next to**Configure for** to choose whether you'll primarily use Windows 11 for productivity, gaming, development, etc.
@@ -123,9 +124,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  Click additional sections in the sidebar to configure other simulated hardware capabilities and how software features like sharing and picture-in-picture behave. Close the settings window to save the changes to your virtual PC.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Unsupported Features in Windows on ARM
 
  According to[Microsoft's support document](https://support.microsoft.com/windows/options-for-using-windows-11-with-mac-computers-with-apple-m1-and-m2-chips-cd15fd62-9b34-4b78-b0bc-121baa3c568c) , some features are unsupported in Windows on ARM:
@@ -143,14 +141,11 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  Or, maybe you want to check out cool Windows games on your Mac. Regardless of your reason, virtualization software like Parallels is a very convenient method to run Microsoft's latest and greatest operating system alongside macOS with minimal effort.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -159,4 +154,23 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-unraveling-the-best-solo-play-strategies-for-apex-legends/"><u>[New] 2024 Approved Unraveling the Best Solo Play Strategies for Apex Legends</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-how-to-make-every-snap-count-top-15-tips-and-tricks-for-2024/"><u>[New] How to Make Every Snap Count Top 15 Tips & Tricks for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-joining-flv-files-a-step-by-step-guide/"><u>[New] In 2024, Joining FLV Files A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-screen-savvy-secure-your-captures-chromebooks-top-4-techniques/"><u>[Updated] 2024 Approved Screen Savvy Secure Your Captures - Chromebook's Top 4 Techniques</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-explore-revolutionary-meeting-platforms-that-cost-nothing-for-2024/"><u>[Updated] Explore Revolutionary Meeting Platforms That Cost Nothing for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-safe-audio-conversion-techniques-turning-youtube-to-mp3-easily-and-securely/"><u>[Updated] Safe Audio Conversion Techniques Turning YouTube to MP3 Easily & Securely</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-sharing-authenticity-a-guide-to-personal-youtube-content/"><u>[Updated] Sharing Authenticity A Guide to Personal YouTube Content</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-seamless-integration-turning-audio-into-written-format-in-ms-word/"><u>2024 Approved Seamless Integration Turning Audio Into Written Format in MS Word</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-pictorial-data-representation-embedding-pictures-into-ms-excel-worksheets/"><u>Mastering Pictorial Data Representation: Embedding Pictures Into MS Excel Worksheets</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-quick-freezing-of-selected-row-groups-in-ms-excel-a-step-by-step-guide/"><u>Mastering the Quick Freezing of Selected Row Groups in MS Excel: A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/one-click-syncing-of-ms-excel-workbooks-with-onedrive-explained/"><u>One-Click Syncing of MS Excel Workbooks with OneDrive Explained</u></a></li>
+<li><a href="https://win11.techidaily.com/powerful-techniques-for-unlocking-your-system-writable-files/"><u>Powerful Techniques for Unlocking Your System' Writable Files</u></a></li>
+<li><a href="https://windows11.techidaily.com/save-time-and-effort-with-quick-excel-solutions-no-more-manual-file-organization/"><u>Save Time and Effort with Quick Excel Solutions - No More Manual File Organization!</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamlessly-moving-your-contacts-converting-excel-data-for-use-in-outlook/"><u>Seamlessly Moving Your Contacts: Converting Excel Data for Use in Outlook</u></a></li>
+<li><a href="https://windows11.techidaily.com/securing-your-files-a-guide-to-encrypting-documents-and-pdfs-using-microsoft-office-tools/"><u>Securing Your Files: A Guide to Encrypting Documents & PDFs Using Microsoft Office Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/speedy-techniques-for-removing-pictorial-data-from-your-excel-files/"><u>Speedy Techniques for Removing Pictorial Data From Your Excel Files</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fixing WSL Distributor Error 0X80370102 on Windows Systems
-date: 2024-11-27T20:38:09.280Z
-updated: 2024-12-04T06:18:00.970Z
+date: 2024-12-05T20:51:52.262Z
+updated: 2024-12-10T16:00:15.260Z
 tags:
   - windows10
   - windows11
@@ -37,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/b55c24263d5a9a2d0075e95ed2cba33cc134d0a45
 
  In case you are using an Insider Build of Windows, consider installing a stable Windows version, since a version under development is prone to errors like this one.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Enable Hyper-V
 
  The first thing that we recommend doing is making sure that all the relevant services like Hyper-V and Virtualization are enabled. In this method, we will be enabling the Hyper-V feature using the Control Panel. We will also use the Task Manager utility to check if the Virtualization feature is working fine.
@@ -52,15 +48,19 @@ Here is how you can enable Hyper-V on your PC:
 ![Choose Programs and Features in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/program-and-features.jpg)
 3. Click on**Turn Windows Feature on or off** in the left pane.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Turn Windows features on or off option in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-windows-features-on-or-off.jpg)
 4. In the following dialog, checkmark the box associated with**Hyper-V** and click**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Enable Hyper-V in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/hyper-v-setting.jpg)
 5. Once done, restart your computer and check if the issue is resolved. While you are at it, we also recommend checking if the Virtual Machine Platform feature is enabled by following the same steps. If it is disabled, enabling it should help you fix the issue as well.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Next, we will check if Virtualization is enabled on the device. In most devices, it is disabled by default. Follow the steps below to proceed:
 
@@ -68,6 +68,10 @@ Here is how you can enable Hyper-V on your PC:
 2. Click on the**More details** button to expand the Task Manager window.  
 ![More details option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/task-manager-more-details.jpg)
 3. Head over to the**Performance** tab and click on CPU.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Under the CPU graph on the right side, check the status for**Virtualization** . In case you are not sure if your PC supports virtualization, view the Hyper-V support section in the same window. If it says Yes, then it implies that you can make use of hardware virtualization on your computer.  
 ![Virtualization in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/virtualization-setting.jpg)
@@ -97,14 +101,14 @@ Here is how you can do that:
 5. Now, click on the**Stop** button, wait for a few seconds, and then hit**Start** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Click on the Start button in the Properties dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/stop-button.jpg)
 6. Once the service is restarted, check if the issue is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Enable Nested Virtualization and Change the RAM Settings
@@ -119,10 +123,6 @@ Here is how you can proceed:
 Set-VMProcessor <VMName> -ExposeVirtualizationExtensions $true  
 ![Execute the entered command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/powershell-command-hyperv.jpg)
 4. Now, launch the Hyper-V manager and right-click on the virtual machine.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Choose**Settings** from the context menu.
 6. Click on**Memory** in the left pane.
@@ -152,22 +152,17 @@ Set-VMProcessor <VMName> -ExposeVirtualizationExtensions $true
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-fiendish-film-pause-techniques-for-2024/"><u>[New] Fiendish Film Pause Techniques for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-ideal-technique-to-embed-gopro-clips-in-panoramic-movies/"><u>[New] In 2024, Ideal Technique to Embed GoPro Clips in Panoramic Movies</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-selecting-the-right-top-15-tripods-for-gopro-cameras-for-2024/"><u>[New] Selecting the Right Top 15 Tripods for GoPro Cameras for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-ai-transform-how-we-interpret-search-results/"><u>Can AI Transform How We Interpret Search Results?</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-on-win-xpvista7-backup-reset-procedure/"><u>Guide on Win XP/Vista/7 Backup Reset Procedure</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-infinix-hot-40i-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Infinix Hot 40i to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Xiaomi Redmi Note 12 Pro 4G? | Dr.fone</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-unlock-creative-potential-access-free-sfx/"><u>In 2024, Unlock Creative Potential, Access Free SFX!</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-unlocking-fullscreen-potential-in-adobe-premiere/"><u>In 2024, Unlocking Fullscreen Potential in Adobe Premiere</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-the-art-of-reversed-color-photography-for-2024/"><u>Mastering the Art of Reversed Color Photography for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-freeze-frames-in-leading-lol-game/"><u>Navigating Freeze Frames in Leading LOL Game</u></a></li>
-<li><a href="https://windows11.techidaily.com/preventing-windows-11-overheating-issues/"><u>Preventing Windows 11 Overheating Issues</u></a></li>
-<li><a href="https://windows11.techidaily.com/tame-the-tech-tyranny-restoring-sound-on-your-pc/"><u>Tame the Tech Tyranny: Restoring Sound on Your PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/techniques-to-halt-automatic-startup-of-spotify/"><u>Techniques to Halt Automatic Startup of Spotify</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlock-hyper-v-on-windows-11-homes-with-simple-instructions/"><u>Unlock Hyper-V on Windows 11 Homes with Simple Instructions</u></a></li>
-<li><a href="https://windows11.techidaily.com/unraveling-secure-settings-governed-by-windows-admins/"><u>Unraveling Secure Settings Governed by Windows Admins</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-fingerprint-scanners-hacked-security-advisory-needed/"><u>Windows Fingerprint Scanners Hacked – Security Advisory Needed</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-humor-highway-tailored-joke-routes-for-each-occasion-for-2024/"><u>[New] Humor Highway Tailored Joke Routes for Each Occasion for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-periscope-review-for-2024/"><u>[New] Periscope Review for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-dominate-any-space-the-ultimate-metaverse-device-guide/"><u>[Updated] Dominate Any Space The Ultimate Metaverse Device Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-launchpad-gear-list-enhance-your-beginners-gopro-journey/"><u>2024 Approved Launchpad Gear List - Enhance Your Beginner's GoPro Journey</u></a></li>
+<li><a href="https://windows11.techidaily.com/advanced-notetaking-for-windows-professionals-win11w10/"><u>Advanced Notetaking for Windows Professionals (Win11/W10)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/amd-troubleshoot-driver-detection-errors-cleared-in-win10/"><u>AMD Troubleshoot: Driver Detection Errors Cleared in Win10</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-realme-v30t-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Realme V30T Activity | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-nokia-c12-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Nokia C12 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-file-write-permissions-correction-on-win/"><u>Mastering File Write Permissions Correction on Win</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-process-for-ram-recalibration-on-win-11/"><u>Step-by-Step Process for RAM Recalibration on Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/what-is-a-keygen-examining-its-impacts-and-cleanup-techniques-for-pcs/"><u>What Is a Keygen? Examining Its Impacts and Cleanup Techniques for PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-guide-to-the-best-mobile-gaming-escapes/"><u>Your Guide to the Best Mobile Gaming Escapes</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Maintaining Harmony: Keeping Your Gaming System Steady on Win"
-date: 2024-08-15T16:17:03.864Z
-updated: 2024-08-16T16:17:03.864Z
+date: 2024-12-07T17:12:39.924Z
+updated: 2024-12-10T22:01:34.933Z
 tags:
   - windows10
   - windows11
@@ -30,26 +30,24 @@ thumbnail: https://thmb.techidaily.com/73077bb518e58764d0d667c24acb26e31ce2706df
 
  Regardless of what is causing the crash, it's very likely that whatever problem you're having can be fixed by one of the following solutions.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ## 1\. Basic Troubleshooting Steps
 
 ![screenshot of verifying steam files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_verify_steam_game_files.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  First things first, and that's going over the basics. If you haven't already, you should run through[the most common troubleshooting steps when fixing a crashing game](https://www.makeuseof.com/tag/why-do-my-games-keep-crashing/) .
 
  The game being on the Steam platform brings with it another share of troubleshooting steps. Take a look at our guide on[troubleshooting Steam issues on Windows](https://www.makeuseof.com/troubleshoot-windows-steam-games-not-playing/) and make sure you at least verify the integrity of the game files. That, combined with a system restart, is sometimes all you need to do.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Force Dwarf Fortress to Use Dedicated Graphics
 
 ![screenshot of the AMD radeon program showing the games list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_amd_games_list-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  A common cause of crashes for the new Dwarf Fortress release is related to whether or not your dedicated graphics card is being used.
@@ -62,6 +60,10 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ![screenshot dwarf fortress properties disabling fullscreen optimizations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_dwarf_fortress_properties_disable_fullscreen_optimizations.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  There's a common Windows function that can cause problems for Dwarf Fortress. To disable full-screen optimization, follow these steps:
 
 1. Right-click on Dwarf Fortress in Steam. Hover over**Manage** and click**Browse local files.**
@@ -70,28 +72,12 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  Now give it a go. This option doesn't actually affect the visuals or gameplay in any way, so this option is safe to turn on as a "just in case" measure.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## 4\. Set the Resolution to Non-Widescreen
 
 ![screenshot of dwarf fortress video settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_dwarf_fortress_video_settings.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Dwarf Fortress doesn't play nice with widescreen resolutions. Note that this refers to non-standard widescreen resolutions. If you have a particularly large monitor, it's worth it to try setting the in-game resolution of Dwarf Fortress to something standard. For example, 1920x1080.
@@ -100,12 +86,13 @@ Key features:
 
  The first screen that opens is the video settings screen. Simply change the**Resolution** drop-down to something below 1920x1080.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Delete Save Data
 
 ![screenshot of dwarf fortress save folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_dwarf_fortress_saves.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Don't worry, this won't involve losing any progress. However, deleting save files is always risky, so make sure you back up your saves before you proceed.
 
@@ -135,8 +122,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +129,22 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-prime-filters-to-elevate-submerged-photography/"><u>[New] Prime Filters to Elevate Submerged Photography</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-best-practices-in-choosing-the-perfect-format-for-youtube-videos/"><u>[Updated] In 2024, Best Practices in Choosing the Perfect Format for YouTube Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/inside-tools-for-windows-11-management/"><u>Inside Tools for Windows 11 Management</u></a></li>
+<li><a href="https://windows11.techidaily.com/pinpointing-voice-input-anomalies-on-pcs/"><u>Pinpointing Voice Input Anomalies on PCs</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/professional-touch-ups-for-your-tiktok-media-for-2024/"><u>Professional Touch-Ups for Your TikTok Media for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/recharge-your-space-top-cloud-service-picks-offering-plentiful-free-storage/"><u>Recharge Your Space Top Cloud Service Picks Offering Plentiful, FREE Storage</u></a></li>
+<li><a href="https://windows11.techidaily.com/recognize-unlisted-hardware-in-device-manager/"><u>Recognize Unlisted Hardware in Device Manager</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-to-rectify-windows-geforce-error-x0001/"><u>Solutions to Rectify Windows' GeForce Error X0001</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-oppo-a59-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Oppo A59 5G to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-circumvent-file-cap-on-windows/"><u>Strategies to Circumvent File Cap on Windows</u></a></li>
+<li><a href="https://win-forum.techidaily.com/technii-corecte-pentru-a-reduce-temporul-de-renderizare-unui-videoclip-in-adobe-after-effects/"><u>Technii Corecte Pentru a Reduce Temporul De Renderizare Unui Videoclip in Adobe After Effects</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-to-locate-and-eliminate-unused-windows-folder-space/"><u>Techniques to Locate & Eliminate Unused Windows Folder Space</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-lava-blaze-2-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Lava Blaze 2 Phone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/virtueel-verwerpen-van-arw-naar-png-gratuite-online-convertitie-processen-met-movavi/"><u>Virtueel Verwerpen Van ARW Naar PNG: Gratuite Online-Convertitie-Processen Met Movavi</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-device-health-essential-steps-to-confirm-availability/"><u>Windows 11 Device Health: Essential Steps to Confirm Availability</u></a></li>
+</ul></div>
 

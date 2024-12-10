@@ -1,7 +1,7 @@
 ---
 title: Navigating Spotify Error 4 in Windows 11 Environments
-date: 2024-12-02T21:39:21.897Z
-updated: 2024-12-04T03:48:08.673Z
+date: 2024-12-05T16:43:19.699Z
+updated: 2024-12-10T19:34:07.565Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Run the Flush DNS Command
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
 ![The flushdns command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/flushdns-command.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  One confirmed solution for error code 4 is to flush the DNS cache. The DNS (Domain Name System) cache is a local storage repository of IP addresses on your PC. Your web browser retrieves DNS lookup data from that cache.
@@ -55,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
 5. Then select**Restart App** to apply.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Change DNS Server Settings
@@ -65,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
  Our guide to[changing the DNS server in Windows](https://www.makeuseof.com/windows-11-alternate-ways-change-dns-server-settings/) post includes step-by-step guidelines for how to apply this solution via the Control Panel and Settings among other methods. You’ll need to set the preferred and alternative DNS server settings to Google addresses. Input**8.8.8.8** for the preferred DNS server and**8.8.4.4** for the alternative DNS setting.
 
 ![DNS server settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dns-server-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Tweak the Registry
 
@@ -85,11 +81,15 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
 7. If**EnableActiveProbing** is set to**0** , clear the**Value data** box. Then input**1** inside that data box.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Edit DWORD window for the EnableActiveProbing DWORD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/edit-dword-window.jpg)
 8. Select**OK** to save the new**EnableActiveProbing** value.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Exclude Spotify From Your Antivirus Software
 
@@ -105,16 +105,12 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
 
 ![The turn off firewall settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-firewall-s-allow-app-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Should this solution work, it’s not a good idea to keep the firewall disabled. Open Windows Defender Firewall’s allowed app list and select the Spotify checkboxes there to permit that app through it. Check out our how to guide about[allowing apps through the Windows firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) for further details.
 
 ![The firewall's allowed apps settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/allowed-app-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Of course, numerous standalone third-party firewalls can block Spotify much the same. If you have installed a third-party firewall, try disabling it to see if that resolves error 4\. Then add Spotify to its allowed apps and turn the firewall back on if it does.
@@ -138,6 +134,10 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
 
  Another option is to install the Spotify UWP (Universal Windows Platform) app on Microsoft Store. Click the**Get it From Microsoft Store** button on the linked Spotify download page to bring up that app’s MS store page. Then click the**Get in Store app** \>**Open Microsoft Store** options and select**Get** to install the UWP app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Enjoy Spotify Music Online Again
 
  There’s a very good chance at least one Windows troubleshooting method in this guide will resolve Spotify error code 4 on your PC. They’re user-confirmed fixes that address the most common reasons for error 4 arising. With that app connection issue sorted, you can then enjoy all the best online music and radio Spotify has to offer again.
@@ -157,22 +157,22 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/avigating-green-screen-integration-in-post-production/"><u>[New] Navigating Green Screen Integration in Post-Production</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-evaluating-cost-effectiveness-in-youtube-promotions/"><u>[Updated] Evaluating Cost Effectiveness in YouTube Promotions</u></a></li>
-<li><a href="https://solve-info.techidaily.com/1726029357749-avidemux/"><u>動画圧縮のためのAvidemux代替方法とヒント</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/diagnosing-and-solving-peripheral-detection-errors-on-windows-10-systems/"><u>Diagnosing and Solving Peripheral Detection Errors on Windows 10 Systems</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/effortlessly-connect-vlc-for-networked-video-streaming-for-2024/"><u>Effortlessly Connect VLC for Networked Video Streaming for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-steps-to-successful-remote-podcasting/"><u>In 2024, Steps to Successful Remote Podcasting</u></a></li>
-<li><a href="https://windows11.techidaily.com/mending-disabled-trash-can-symbol-on-win11-os/"><u>Mending Disabled Trash Can Symbol on Win11 OS</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96311317-9781459744585-real-hauntings-5-book-bundle/"><u>Real Hauntings 5-Book Bundle | Free Book</u></a></li>
-<li><a href="https://windows11.techidaily.com/revealing-secrets-unmasking-the-facade-of-restricted-communication/"><u>Revealing Secrets: Unmasking the Facade of Restricted Communication</u></a></li>
-<li><a href="https://windows11.techidaily.com/secure-method-for-adobe-reader-purchase-in-microsoft-store/"><u>Secure Method for Adobe Reader Purchase in Microsoft Store</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-stop-vmware-blue-screen-in-win11/"><u>Strategies to Stop VMware Blue Screen in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/techniques-to-prolong-windows-10-closure-with-ongoing-processes/"><u>Techniques to Prolong Windows 10 Closure with Ongoing Processes</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-9-pc-advantages-over-macs/"><u>Top 9: PC Advantages Over Macs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-dealing-with-windows-cannot-access-device-paths/"><u>Troubleshooting Steps: Dealing with 'Windows Cannot Access Device Paths'</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-success-effective-techniques-to-dominate-searches-on-apple-tv/"><u>Unlocking Success: Effective Techniques to Dominate Searches on Apple TV</u></a></li>
-<li><a href="https://windows11.techidaily.com/why-choose-dxvk-a-game-changer-on-your-windows-system/"><u>Why Choose DXVK: A Game Changer on Your Windows System?</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11-meets-virtual-box-70-a-detailed-guide-for-the-tech-savvy/"><u>Windows 11 Meets Virtual Box 7.0: A Detailed Guide for the Tech-Savvy</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-elite-trailer-showcase-collection/"><u>[New] 2024 Approved Elite Trailer Showcase Collection</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ccelerate-yt-growth-strategies-for-1kplus-subscribers-for-2024/"><u>[New] Accelerate YT Growth Strategies for 1K+ Subscribers for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-step-by-step-capturing-ios-device-screen-on-video/"><u>[New] In 2024, Step-by-Step Capturing iOS Device Screen on Video</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-flash-share-sharing-playlists-in-a-snap/"><u>2024 Approved Flash-Share Sharing Playlists in a Snap</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-windows-requirement-errors-in-gaming/"><u>Bypassing Windows Requirement Errors in Gaming</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722094085655-comparing-top-language-models-bard-chatgpt-and-offline-alpaca-the-ultimate-showdown/"><u>Comparing Top Language Models: Bard, ChatGPT, and Offline Alpaca – The Ultimate Showdown</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-guide-deciphering-and-fixing-error-x800704cf/"><u>Expert Guide: Deciphering and Fixing Error X800704CF</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-storm-5g-pin-by-drfone-android-unlock-android-unlock/"><u>How to remove Storm 5G PIN</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-motorola-edge-2023-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Motorola Edge 2023 Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-through-the-steps-disabling-your-tiktok-user-account/"><u>Navigating Through the Steps: Disabling Your TikTok User Account</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-windows-11s-0x8007045d-bluescreen-troubleshooting/"><u>Navigating Through Windows 11'S 0X8007045D Bluescreen Troubleshooting</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolve-null-audio-output-on-windows-pcs/"><u>Resolve Null Audio Output on Windows PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/resurrecting-lost-wi-fi-link-windows-edition/"><u>Resurrecting Lost Wi-Fi Link: Windows Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/rewiring-success-restoring-troubleshooters-in-windows-11/"><u>Rewiring Success: Restoring Troubleshooters in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-eradicate-0x80072af9-on-windows/"><u>Steps to Eradicate 0X80072AF9 on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-efficiency-advanced-tips-for-task-juggling-in-windows-11/"><u>Unlock Efficiency: Advanced Tips for Task Juggling in Windows 11</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210292698-9781098005511-your-facts-are-not-my-truths/"><u>your Facts Are Not My Truths | Free Book</u></a></li>
 </ul></div>
 

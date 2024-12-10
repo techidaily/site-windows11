@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 at Your Fingertips: Crafting Unique Shortcuts"
-date: 2024-12-01T22:11:25.081Z
-updated: 2024-12-04T06:38:12.644Z
+date: 2024-12-05T20:27:28.275Z
+updated: 2024-12-10T17:12:44.651Z
 tags:
   - windows10
   - windows11
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Download and Install WinHotKey
 
@@ -55,13 +51,17 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 2. Type an optional description for the hotkey in the text box on the **General** tab if you wish.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Select the **Launch an application** option on the drop-down menu.
 4. Press the **Browse** button to bring up a new application window.  
 ![The Browse for application window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/browse-for-application-window.png)
 5. Select an app for the hotkey to launch.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Click the **OK** button.
 2. Now select a keyboard key for the shortcut on the **Along with the key** drop-down menu.  
@@ -71,6 +71,10 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 4. To further configure the keyboard shortcut, click the **Advanced** button. You can enter additional parameters and change how the software window opens on the Launch: Advanced window.  
 ![The Launch: Advanced window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/launch-advanced-window.png)
 5. Click the **OK** button to exit the Launch: Advanced window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Then press the **OK** button on the New Hotkey window to add the keyboard shortcut.
 
@@ -91,6 +95,10 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 * Services Windows: services.msc
 * Optimize Drives: dfrgui
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Set Up Folder, Document, and Window Control Hotkeys
 
  Aside from software shortcuts, you can establish hotkeys for opening folders and document files much the same. Instead of selecting **Launch an Application** on the New Hotkey window, select either the **Open a Folder** or **Open a Document** option. Then click **Browse** to select a document’s or folder’s path, configure a key combination, and press the **OK** button.
@@ -100,7 +108,7 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 ![Make the Current Windows drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/make-the-current-window-drop-down-menu.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Create Custom Keyboard Shortcuts With HotkeyP
@@ -113,25 +121,21 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 ![The Extract Compressed tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/extract-compressed-zip-folder.jpg)
 4. Double-click **HotkeyP.exe** file inside the extracted **hotkeyp\_64bit** directory.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now you’ll see an empty HotkeyP window. You can fill that window by adding some new custom hotkeys. First, try setting up a hotkey that opens software on your PC like this:
 
 1. Click the **Add** button.  
 ![The HotkeyP window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/hotkeyp-window.jpg)
 2. Press the **…** (ellipses) button for the **Command** box.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Select a program’s EXE (application) file for the hotkey to open.
 4. Then click inside the empty box beside those checkboxes and press a key on your keyboard to include it within the hotkey.
 5. Next, select one of the **Ctrl**, **Shift**, **Alt**, and **Win** checkboxes to set a modifier key for the hotkey.  
 ![The Hot Key window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-hot-key-window.jpg)
 6. Select **OK** to add the new custom hotkey.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Now you’ll see the new hotkey you’ve created included within the all and programs categories on the HotkeyP window. Press the new hotkey you just set up to launch the selected program.
 
@@ -142,10 +146,6 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
  To set up some system, multimedia, window, and display hotkeys with HotkeyP, click the **<** button on the Hot Key window. Move your cursor over the **Windows**, **Display**, **Multimedia**, or **System** submenu. Select a function (or action) to assign to the hotkey. For example, you can [set up a hotkey that shuts down Windows](http://www.makeuseof.com/tag/how-to-shutdown-or-sleep-windows-10-with-a-keyboard-shortcut/) by selecting **Shutdown** on the **System** menu.
 
 ![The Shutdown option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-shutdown-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can change general software settings for HotkeyP by clicking the **Options** button. That will bring up an Options window that includes numerous miscellaneous software. Make sure the **Start automatically at Windows startup** checkbox is selected on the **General** tab. Then HotKeyP will automatically start in the background.
 
@@ -167,17 +167,20 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-a-straightforward-path-to-turn-off-igtv-for-2024/"><u>[Updated] A Straightforward Path to Turn Off IGTV for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-navigating-the-process-of-avi-to-gif-conversion-using-filmora-software/"><u>[Updated] Navigating the Process of AVI-to-GIF Conversion Using Filmora Software</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-semaphore-timeout-period-has-expired-error-0x80070079-in-windows-1110/"><u>How to Fix the “Semaphore Timeout Period Has Expired” Error 0X80070079 in Windows 11/10</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-elevating-your-youtube-profile-with-high-impact-artwork-guide/"><u>In 2024, Elevating Your YouTube Profile with High-Impact Artwork Guide</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-elevating-youtube-consumption-strategies-for-organizing-videos-for-future-viewing/"><u>In 2024, Elevating YouTube Consumption Strategies for Organizing Videos for Future Viewing</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-vivo-v27e-by-drfone-android/"><u>In 2024, How to Bypass FRP on Vivo V27e?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-htc-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change HTC Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://windows11.techidaily.com/integrating-ios-calendar-with-windows-a-practical-guide/"><u>Integrating iOS Calendar with Windows: A Practical Guide</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/navigating-the-secrets-of-funimate-download-for-2024/"><u>Navigating the Secrets of Funimate Download for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-shadowplay-hiccups-effortless-recording-tips-for-windows-users/"><u>Overcome ShadowPlay Hiccups - Effortless Recording Tips for Windows Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/techniques-for-reversing-loadlibrary-misload-on-windows/"><u>Techniques for Reversing LoadLibrary Misload on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/what-to-do-when-your-recent-discord-updates-breakdown-on-windows/"><u>What to Do When Your Recent Discord Updates Breakdown on Windows</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-quickest-quarter-mile-sochi-22/"><u>[New] The Quickest Quarter Mile - Sochi '22</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-perfecting-sound-design-for-canva-video-templates/"><u>[Updated] 2024 Approved Perfecting Sound Design for Canva Video Templates</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mediameld-editsuite/"><u>2024 Approved MediaMeld EditSuite</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-honor-magic-6-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Honor Magic 6 Pro without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/cutting-edge-windows-gadgets-2024s-must-haves-list/"><u>Cutting-Edge Windows Gadgets - 2024'S Must-Haves List</u></a></li>
+<li><a href="https://windows11.techidaily.com/demystifying-your-global-ip-on-win-os-via-cli/"><u>Demystifying Your Global IP on WIN OS via CLI</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-how-to-deactivate-amdnvidia-vr-boosting/"><u>Guide: How to Deactivate AMD/Nvidia VR Boosting</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-xiaomi-redmi-note-12r-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Xiaomi Redmi Note 12R Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-samsung-galaxy-s23plus-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Samsung Galaxy S23+ to iPhone | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-file-restoration-top-8-techniques-for-windows/"><u>Mastering File Restoration: Top 8 Techniques for Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-of-device-id-extraction-techniques-for-windows-users/"><u>Mastery of Device ID Extraction Techniques for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/mending-freeze-flaws-in-adobes-pc-artist-suite/"><u>Mending Freeze Flaws in Adobe's PC Artist Suite</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-windows-update-fixes-for-error-0x800736cc/"><u>Streamlining Windows Update Fixes for Error 0X800736CC</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-ultimate-source-of-high-quality-video-downloaders-for-2024/"><u>The Ultimate Source of High-Quality Video Downloaders for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upcoming-iphone-rumors-debunked-price-predictions-and-expected-release-details-unveiled/"><u>Upcoming iPhone Rumors Debunked: Price Predictions and Expected Release Details Unveiled</u></a></li>
 </ul></div>
 

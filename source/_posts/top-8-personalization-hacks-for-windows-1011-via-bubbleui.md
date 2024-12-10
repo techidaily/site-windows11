@@ -1,7 +1,7 @@
 ---
 title: Top 8 Personalization Hacks for Windows 10/11 via BubbleUI
-date: 2024-08-15T16:18:17.286Z
-updated: 2024-08-16T16:18:17.286Z
+date: 2024-12-07T19:48:46.572Z
+updated: 2024-12-10T17:21:46.120Z
 tags:
   - windows10
   - windows11
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/e85b07a038fb75437a0c598bbd5152a02fef6e44f
 
  The default customization options within Windows 11 and 10 are relatively limited. However, some third-party software packages give you lots more options for customizing Microsoft’s desktop operating system. WinBubble is freeware customization software that enables you to tweak the Windows platform in many different ways. Here are eight ways you can tweak Windows 11/10 with WinBubble.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## First, Download and Extract WinBubble
 
  The latest version of WinBubble is primarily designed for customizing Windows 10\. Its WinBubble for Windows 10 title makes it clear what platform it’s intended for. There are older versions of the software for Windows 7 and Vista.
@@ -31,8 +35,9 @@ thumbnail: https://thmb.techidaily.com/e85b07a038fb75437a0c598bbd5152a02fef6e44f
  You can extract the archive as covered in our guide on[how to unzip files on Windows](https://www.makeuseof.com/unzip-files-windows-10/) . Double-click**WinBubble.exe** in the extracted WinBubbles directory to open the software.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. How to Customize Desktop Shortcut Icons With WinBubble
 
  The icons for desktop shortcuts on Windows include little arrows on them. However, you can change that with WinBubble’s Customize Shortcut Icon option. That option enables you to remove the arrow or change it to a star, heart, or Windows logo. You can tweak the desktop shortcut icons like this:
@@ -53,19 +58,21 @@ thumbnail: https://thmb.techidaily.com/e85b07a038fb75437a0c598bbd5152a02fef6e44f
  For example, you can select**Glassy Bubbles** or**Metallic Bubbles** options with different sizes for the Bubbles screensaver. Selecting the**Metallic Bubbles** option will give you multicolored bubbles shown in the snapshot below.
 
 ![Metallic bubbles screensaver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/metallic-bubbles.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 
  You can also adjust the number of ribbons or lines for the different**Ribbon** and**Mystify** screensaver presets. Select a preset and then input values in the number boxes to change how many lines or ribbons are included in the screensavers. You can also input a width value in the**Ribbon** **width** box.
 
 ![A Preset drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/a-preset-drop-down-menu.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When you’ve customized a screensaver, click the**View** button to preview it. Select**Set** to save the settings. You might also need to select and set the customized screensaver in the Change screensaver Control Panel applet.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. How to Change the Menu Delay With WinBubble
 
  You can speed up menus a bit by reducing the menu delay. By default, Windows has a 400-millisecond menu delay, which you can cut to zero. WinBubble includes a**Menu Show Delay** option you can configure among numerous other optimization settings.
@@ -74,9 +81,6 @@ thumbnail: https://thmb.techidaily.com/e85b07a038fb75437a0c598bbd5152a02fef6e44f
 
  While you’re at it, you can also speed up the Window shutdown process a little. To do this, select WinBubble’s**Decrease Shutdown Time for services** and**Do not Clear Pagefile at Shutdown** checkboxes on the same**Optimize** tab.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. How to Add New Submenus to the Context Menu
 
  WinBubble includes lots of customization settings for the desktop context menu in Windows. It enables you to add three alternative shortcut submenus to the desktop context menu. You can select to add context menu submenus for opening Control Panel applets, Microsoft apps, and system tools.
@@ -84,17 +88,15 @@ thumbnail: https://thmb.techidaily.com/e85b07a038fb75437a0c598bbd5152a02fef6e44f
  Click the**General** tab to view those customization settings for the context menu. Select a**Control Panel Menu** ,**MS Software Menu** , or**System Tools Menu** option on that tab to add one of those submenus. Click**Run** on any Open File warning dialog box to apply.
 
 ![The submenu context menu settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/context-menu-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 
  Then right-click a desktop area to view your new**Control Panel** ,**System Tool** , or**Software** submenus. In Windows 11, you’ll also need to click**Show more options** since this tweak is applied to the classic context menu. Each submenu includes a variety of handy shortcuts.
 
 ![The System Tools submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/a-system-tools-menu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. How to Add New Take Ownership Explorer Options for Files and Folders
 
  You can’t open folders with restricted access unless you take ownership of them in Windows 11/10\. To manually take ownership of a folder, you’ll need to change its security settings via its properties window.
@@ -102,22 +104,11 @@ thumbnail: https://thmb.techidaily.com/e85b07a038fb75437a0c598bbd5152a02fef6e44f
  However, it’s much simpler to add options for taking ownership of folders and files to the context menu with WinBubble. Then you can right-click a folder or file in Explorer to select a**Take the Ownership** option.
 
 ![A Take the Ownership of this folder context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/take-the-ownership-of-this-folder.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 
  WinBubble’s**General** tab includes two settings for adding take ownership options to File Explorer’s context menu. Select both the**“Take the Ownership of this folder”** and**“Take the Ownership of this folder”** checkboxes to add those options. You’ll also need to click**Apply** for this tweak.
 
 ![The Take the Ownership of this folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/take-ownership-off-options.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ## 6\. How to Add New Software Shortcuts to the Context Menu
 
  If you prefer not to stuff your desktop area with too many software shortcuts, the context menu is an ideal alternative space for them. You can add lots of shortcuts to different context menus with WinBubble without manually editing the[Windows registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) . This is how to add shortcuts for opening programs to the desktop’s right-click menu in Windows:
@@ -134,8 +125,9 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
  Now, look at the context menu by right-clicking the desktop (selec**t Show more options** in Windows 11). You’ll see a shortcut for opening the software you added there. Click that shortcut to launch the program.
 
 ![A WinBubble context menu shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/winbubble-context-menu-shortcut.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can remove shortcuts added by selecting them in the Explorer/Desktop box within WinBubble’s**Tools** tab. Click the**Remove** option there. Then choose**Yes** when asked to confirm the deletion.
@@ -151,11 +143,20 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 5. Enter a title for the selected software in the**Name** box.  
 ![Control Panel item options in WinBubble](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/control-panel-item-shortcuts.jpg)
 6. Press the**Set** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Then click**OK** to close the message dialog that pops up.
 
  Now you’ll be able to open the software added from the Control Panel. Bring up the Control Panel window, and select**Large icons** from the**View by** drop-down menu there. Click the new software shortcut there.
 
 ![A WinBubble shortcut in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/winbubble-control-panel-shortcut.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. How to Disable the Registry Editor in WinBubble
 
@@ -175,8 +176,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -184,4 +183,21 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-iconic-acting-peek-vimeo/"><u>[New] Iconic Acting Peek - Vimeo</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-posting-media-on-twitter-keep-it-simple-no-twit/"><u>[New] Posting Media on Twitter - Keep It Simple, No Twit</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-from-followers-to-fans-a-guide-to-thriving-instagram-presence-for-2024/"><u>[Updated] From Followers to Fans A Guide to Thriving Instagram Presence for 2024</u></a></li>
+<li><a href="https://win-webster.techidaily.com/chinas-strategic-response-during-the-1950-1953-korean-conflict-insights-from-yl-computing-and-yl-software/"><u>China's Strategic Response During the 1950-1953 Korean Conflict: Insights From YL Computing & YL Software</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/te-your-video-game-with-these-5-youtube-thumbnail-builders/"><u>Elevate Your Video Game with These 5 YouTube Thumbnail Builders</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-merge-folders-and-files-in-windows-11-and-11/"><u>How to Merge Folders and Files in Windows 11 and 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-fast-startup-in-windows-11-installation/"><u>Mastering Fast Startup in Windows 11 Installation</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-mouse-gestures-on-windows-11s-microsoft-edge/"><u>Mastering Mouse Gestures on Windows 11'S Microsoft Edge</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-back-to-default-windows-preferences/"><u>Navigating Back to Default Windows Preferences</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-stuck-on-downloading-of-meizu-21-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Meizu 21? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/refine-your-mouses-click-speed-three-simple-adjustments/"><u>Refine Your Mouse's Click Speed: Three Simple Adjustments</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-6-fixes-for-resolving-pc-issues-with-activisions-modern-warfare-ii-game/"><u>Top 6 Fixes for Resolving PC Issues with Activision's Modern Warfare II Game</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/transform-your-discord-experience-learn-message-pinning-for-2024/"><u>Transform Your Discord Experience Learn Message Pinning for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-printer-errors-another-computer/"><u>Troubleshooting Printer Errors: Another Computer?</u></a></li>
+</ul></div>
 

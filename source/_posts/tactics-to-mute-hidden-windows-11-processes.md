@@ -1,7 +1,7 @@
 ---
 title: Tactics to Mute Hidden Windows 11 Processes
-date: 2024-11-28T23:58:09.304Z
-updated: 2024-12-03T16:27:49.345Z
+date: 2024-12-06T16:17:17.807Z
+updated: 2024-12-10T19:00:35.073Z
 tags:
   - windows10
   - windows11
@@ -56,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 ![manage background activity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/manage-background-activity.png)
 5. To change the background app permission, click the **three-dots menu** beside the app name, and click on **Manage background productivity**. This option is only available for Microsoft Store apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click the **drop-down** (**Power optimized**) under the **Background apps permissions** section and select **Never**. This will disable the app from running in the background.
 7. Repeat the steps for all the apps that can drain your battery or affect system performance.
 
@@ -74,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 ![disable background apps windows 11 registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disable-background-apps-windows-11-registry-editor.jpg)
 3. In the Notepad file, copy and paste the following content:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `Windows Registry Editor Version 5.00  
 
 [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications]  
@@ -90,7 +90,7 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 6. Click the **Save** button to save the file.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Right-click on the newly created reg file and select **Open.** Click **Yes** to confirm and modify the registry entries to disable background apps.
@@ -104,15 +104,15 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 
 ![reg file content background app disable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/reg-file-content-background-app-disable.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `Windows Registry Editor Version 5.00  
 [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications]  
 "GlobalUserDisabled"=-  
 [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Search]  
 "BackgroundAppGlobalToggle"=-`
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. How to Disable Background Apps for All Users Using Registry Editor
 
@@ -128,13 +128,13 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 ![registry editor create new key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/registry-editor-create-new-key.png)
 5. Right-click on the **Windows** key and select **New > Key.** Rename the key as **AppPrivacy.**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Right-click on the **AppPrivacy** key and select **New > DWORD (32-bit) Value**. Rename the value as **LetAppsRunInBackground.**  
 ![registry editor create new value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/registry-editor-create-new-value.png)
 7. Right-click on the **LetAppsRunInBackground** value and select **Modify**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![registry editor data 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/registry-editor-data-2.png)
 8. Type **2** in the **Value data** field and click **OK** to save the changes.
@@ -144,7 +144,7 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
  This should disable Microsoft Store apps from running in the background. To enable the background apps, modify the **LetAppsRunInBackground** value and set it to **0**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. How to Disable Background Apps Using the Group Policy Editor
@@ -166,13 +166,13 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 ![disable background app group policy editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/disable-background-app-group-policy-editor.png)
 6. Click **OK** and **Apply** to save the changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Alternatively, you can set the Let Windows apps run in the background policy to **Disabled** and apply the changes. However, when set to **Disabled** or **Not Configured**, individual employees in your organization can configure the apps to run in the background.
 
  On the contrary, setting this policy to **Force Deny** will prevent the app from running in the background, with no option for the employees to change the policy.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Disabling Background Apps in Windows 11
 
@@ -192,21 +192,17 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-insightful-review-the-comprehensive-theta-s-experience/"><u>[New] Insightful Review The Comprehensive Theta S Experience</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-critical-review-of-best-screen-capture-tools-in-linux/"><u>[Updated] 2024 Approved Critical Review of Best Screen Capture Tools in Linux</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-break-free-the-chuckles-the-most-hilarious-facebook-detainment-stories/"><u>[Updated] In 2024, Break Free the Chuckles The Most Hilarious Facebook Detainment Stories</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-breaking-the-streak-code-proven-techniques/"><u>2024 Approved Breaking the Streak Code Proven Techniques</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-dynamic-design-the-art-of-adding-motion-to-photos-in-adobe-illustrators/"><u>2024 Approved Dynamic Design The Art of Adding Motion to Photos in Adobe Illustrators</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comparing-screen-technologies-neo-qled-versus-oled-televisions/"><u>Comparing Screen Technologies: Neo QLED Versus OLED Televisions</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-tips-to-boost-your-speed-in-3d-paint-keys/"><u>Essential Tips to Boost Your Speed in 3D Paint Keys</u></a></li>
-<li><a href="https://windows11.techidaily.com/exclusive-w10w11-climate-software-roundup/"><u>Exclusive W10/W11 Climate Software Roundup</u></a></li>
-<li><a href="https://windows11.techidaily.com/five-key-insights-into-how-win11-tracks-your-life/"><u>Five Key Insights Into How Win11 Tracks Your Life</u></a></li>
-<li><a href="https://windows11.techidaily.com/maintaining-harmony-keeping-your-gaming-system-steady-on-win/"><u>Maintaining Harmony: Keeping Your Gaming System Steady on Win</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastering-pip-views-on-chrome-across-devices/"><u>Mastering PIP Views on Chrome Across Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/prtscn-and-snipping-tool-tie-in-in-windows-11-how-to-break-it/"><u>PrtScn & Snipping Tool Tie-In in Windows 11 - How to Break It</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/reloj-digital-conocimiento-esencial-en-espanol/"><u>Reloj Digital: Conocimiento Esencial en Español</u></a></li>
-<li><a href="https://windows11.techidaily.com/remedy-cease-random-file-explorer-launch/"><u>Remedy: Cease Random File Explorer Launch</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-unplugged-play-linking-windows-to-ps3-gamepad/"><u>The Unplugged Play: Linking Windows to PS3 Gamepad</u></a></li>
-<li><a href="https://common-error.techidaily.com/why-cant-teredo-meet-qualification-standards/"><u>Why Can't Teredo Meet Qualification Standards?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-how-to-record-hulu-on-all-platforms-winmacmobile/"><u>[New] How To Record Hulu On All Platforms - Win/Mac/Mobile</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortless-data-retrieval-how-to-master-the-art-of-qr-scanning-with-windows/"><u>Effortless Data Retrieval: How to Master the Art of QR Scanning with Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/enabling-hidden-programs-on-windows-pc/"><u>Enabling Hidden Programs on Windows PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/enabling-smart-color-settings-in-windows-11-apps/"><u>Enabling Smart Color Settings in Windows 11 Apps</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-lava-yuva-3-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Lava Yuva 3 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-reset-freezes-and-crashes-in-virtual-worlds/"><u>How to Reset Freezes & Crashes in Virtual Worlds</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-on-your-apple-iphone-11-pro-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID On your Apple iPhone 11 Pro without Security Questions?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/successfully-dealing-with-asus-pce-ac56-drivers-a-step-by-step-fix-for-windows-users-1187/"><u>Successfully Dealing with ASUS PCE-AC56 Drivers: A Step-by-Step Fix for Windows Users (11/8/7)</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-error-0x80042306-on-windows-to-reset-successfully/"><u>Tackling Error 0X80042306 on Windows to Reset Successfully</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-end-of-rdo-crashes-expert-tips-and-fixes-for-a-seamless-gaming-experience/"><u>The End of RDO Crashes: Expert Tips and Fixes for a Seamless Gaming Experience</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/tiny-content-overview-made-easy/"><u>Tiny Content Overview Made Easy</u></a></li>
 </ul></div>
 

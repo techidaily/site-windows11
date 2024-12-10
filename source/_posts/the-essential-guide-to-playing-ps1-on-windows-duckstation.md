@@ -1,7 +1,7 @@
 ---
 title: The Essential Guide to Playing PS1 on Windows - Duckstation
-date: 2024-08-08T06:15:09.180Z
-updated: 2024-08-09T06:15:09.180Z
+date: 2024-12-07T21:58:45.776Z
+updated: 2024-12-10T21:58:52.620Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/b47fd0e753c3df7e85d7c99e9dd6f25592469353c
 
  Let's look at how this relatively new emulator can play almost any game from your PlayStation library, with the added bonus of higher resolutions and improved visuals.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Download and Install Duckstation
 
 Duckstation's installation differs depending on the platform:
@@ -38,25 +35,25 @@ Duckstation's installation differs depending on the platform:
 2. Locate Duckstation's executable file within that folder. It should be similar to**duckstation-qt-x64-ReleaseLTCG.exe** .
 3. Right-click the file and, while holding down the right mouse button, drag and drop it to your desktop to create a shortcut. This eliminates the need to seek its executable whenever you want to play your favorite PlayStation game.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Import Your Games Into Duckstation
 
  When you run the Duckstation executable, you'll see a plain and uninteresting window. And yet, this simple window will soon become your portal to your entire PlayStation library.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![Duckstation Main Window Before Configuration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/duckstation-main-window-before-configuration.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Duckstation, like many other PlayStation emulators, requires the console's original BIOS for full compatibility with its titles. We won't go over how to get it in this guide, but the official and legal way is to "dump" your own PlayStation console's BIOS.
 
  However, if you've previously used PlayStation emulators such as PCSX or ePSXe (as we saw in our article on[how to play PlayStation (PS1) games on your PC](https://www.makeuseof.com/tag/emulating-console-games-on-your-pc-part-1-sony-playstation-1/) ), you already have that file. In our case, we imported the same BIOS files we were using with ePSXe into Duckstation.
 
 1. Select**BIOS** from the Duckstation**Settings** menu.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![Duckstation Menu BIOS Entry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/duckstation-menu-bios-entry.jpg)
 2. Navigate to the**BIOS Directory** and select**Browse** . Point Duckstation to the folder containing your BIOS files.  
 ![Duckstation Settings BIOS Directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/duckstation-settings-bios-directory.jpg)
@@ -68,10 +65,16 @@ The powerful video editing program for your Windows PC</a>
 1. Go to the**Settings** menu and select**Game List** .  
 ![Duckstation Menu Game List Entry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/duckstation-menu-game-list-entry.jpg)
 2. On the top right, click the "plus" button. Select the folder containing your PlayStation games. In the bottom right corner of the window, click**Scan For New Games** . If you keep your games in folders within folders, answer positively when asked if you want to scan the selected folder recursively.  
+
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Duckstation Scan Recursively For Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/duckstation-scan-recursively-for-games.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Getting Duckstation Set Up for PS1 Games
 
@@ -81,18 +84,12 @@ The powerful video editing program for your Windows PC</a>
 
  Most users should be fine with the defaults on the General page. You might also be interested in the following:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![Duckstation Settings General](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/duckstation-settings-general.jpg)
 
 * **Pause On Start** : will have games started in "paused" mode until you manually resume them.
 * **Start Fullscreen** : Have your games launch in fullscreen mode, similar to most "normal" Windows games, rather than as a floating window.
 * **Pause On Focus Loss** : will auto-pause a game when Duckstation's window "loses its focus". This way, enemies won't keep shooting at you while you're checking an incoming email.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. Console
 
  It's best to leave those settings alone "globally" and only change them per game. They can improve some games while breaking others. Fortunately, Duckstation allows you to save different game configurations.
@@ -108,10 +105,11 @@ The powerful video editing program for your Windows PC</a>
 
  To become a master of time, go to the**Emulation** page, where you can, among other things, control the emulator's actual "flow of time" in both directions.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Duckstation Settings Emulation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/duckstation-settings-emulation.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. **Emulation Speed** : Choose the "normal" NTSC/PAL setting with**100%** speed, or a different percentage to slow down or speed up Duckstation. Leave it at 100% for maximum compatibility.
 2. **Fast Forward Speed** and**Turbo Speed** : Using these features may cause some games to run too fast for you. That is why you can control from here how fast those alternative speed modes go.
@@ -122,6 +120,10 @@ The powerful video editing program for your Windows PC</a>
  On the Display page, you'll find the options defining how Duckstation will "show a game's graphics on the screen".
 
 ![Duckstation Settings Display](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/duckstation-settings-display.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. **Renderer** : For most games and modern GPUs, leave it at**Hardware (Vulkan)** . If a game glitches or you have an older GPU, try**Hardware (OpenGL)** or**Hardware (D3D12)** . Try the**Hardware (D3D11)** option for even older GPUs. If you still face issues with them, fall back to the most compatible but slowest option,**Software** .
 2. **Aspect Ratio** : For purists,**Auto (Game Native)** is the best option because it does not introduce distortion. Other options allow you to have a game's graphics "cover" your entire monitor, but this usually results in "stretched" and more pixelated or blurry visuals.
@@ -139,22 +141,21 @@ The powerful video editing program for your Windows PC</a>
 4. **PGXP** : All PGXP-related options can vastly improve a game's visuals by removing the "wobbly geometry" effect that is common in all PlayStation titles. It's worth trying them out, but they can and will break some games. And that's why you should configure them for each game separately.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 6\. Post-Processing
 
  The second spot where you can improve the visuals of your games, Post-Processing, allows you to use "shaders" to give Duckstation's visual output a more authentic, "retro" look.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Duckstation Settings Post Processing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/duckstation-settings-post-processing.jpg)
 
  We'll skip this section because it's a matter of personal preference. Feel free to experiment with all the available shaders by clicking the plus button and trying them out one by one. Or you could skip them entirely.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 7\. Controller Setup
 
  Check the**Controllers** menu in**Settings** to ensure your joypad is detected. Your controller should be visible on the right side of the**Global Settings** page.
@@ -171,14 +172,11 @@ The powerful video editing program for your Windows PC</a>
 
  After investing some time to set it up, Duckstation can work as a Steam launcher equivalent for all your PlayStation games. Playing the original Resident Evil or Final Fantasy VII with it will be as simple as double-clicking on them and grabbing your joypad.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -187,4 +185,24 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-unlocking-the-art-of-iphone-podcast-downloads-with-ease/"><u>[New] Unlocking the Art of iPhone Podcast Downloads with Ease</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-unveiling-the-role-of-emotions-in-executive-choices-a-neuroscientific-perspective/"><u>2024 Approved Unveiling the Role of Emotions in Executive Choices A Neuroscientific Perspective</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-nubia-red-magic-9-proplus-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Nubia Red Magic 9 Pro+ Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/co-pilot-and-you-enhancing-your-experience-with-chatgpts-new-features/"><u>Co-Pilot & You: Enhancing Your Experience with ChatGPT’s New Features</u></a></li>
+<li><a href="https://windows11.techidaily.com/guided-techniques-for-tackling-stale-group-policies-on-desktops/"><u>Guided Techniques for Tackling Stale Group Policies on Desktops</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-update-and-install-the-epson-wf-3620-driver-on-your-windows-pc-windows-1187/"><u>How to Update and Install the Epson WF-3620 Driver on Your Windows PC (Windows 11/8/7)</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-terrain-of-your-onedrive-savings-in-windows/"><u>Navigating the Terrain of Your OneDrive Savings in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-with-assistance-essential-keybindings-in-windows-11/"><u>Navigating with Assistance: Essential Keybindings in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/predictive-prowess-leading-windows-11-weather-app-selection/"><u>Predictive Prowess: Leading Windows 11 Weather App Selection</u></a></li>
+<li><a href="https://windows11.techidaily.com/recovering-dormant-backup-service-on-os-x/"><u>Recovering Dormant Backup Service on OS X</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-dilemma-of-a-non-connecting-ipad-a-guide-on-wi-fi-fixes/"><u>Solving the Dilemma of a Non-Connecting iPad: A Guide on Wi-Fi Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-overcome-upgrade-errors-on-windows-11-systems/"><u>Steps to Overcome Upgrade Errors on Windows 11 Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/trouble-adding-mp4-to-imovie-discover-how-to-successfully-integrate-your-video/"><u>Trouble Adding MP4 to iMovie? Discover How to Successfully Integrate Your Video!</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-w11-calendar-and-mail-an-essential-tutorial/"><u>Unlocking W11 Calendar & Mail: An Essential Tutorial</u></a></li>
+<li><a href="https://fox-access.techidaily.com/unveil-clarity-the-finest-10-online-editing-utilities-ranked-for-2024/"><u>Unveil Clarity The Finest 10 Online Editing Utilities Ranked for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-woes-no-more-essential-fixers-ranked/"><u>Windows Woes No More: Essential Fixers Ranked</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/your-essential-guide-to-watching-live-sports-for-free-online-top-picks/"><u>Your Essential Guide to Watching Live Sports for Free Online - Top Picks</u></a></li>
+</ul></div>
 
