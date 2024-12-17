@@ -1,7 +1,7 @@
 ---
 title: "Reconciling WinRAR's File Sums: A Guide with 6 Fixes"
-date: 2024-08-08T06:10:49.000Z
-updated: 2024-08-09T06:10:49.000Z
+date: 2024-12-11T18:29:20.044Z
+updated: 2024-12-16T17:07:27.846Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/3cd047344d86e8920c72e515095d66dfd7e255dbc
 
  Thankfully, you can try various troubleshooting methods to eliminate the checksum error in WinRAR. Let's check them out.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is Checksum Error in WinRAR
 
  A checksum error in WinRAR occurs when the checksum value of your archive file doesn't match the expected value. WinRAR calculates the checksum value based on the content of your archive file, which helps ensure that your file doesn't contain any broken or corrupted segments.
@@ -30,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/3cd047344d86e8920c72e515095d66dfd7e255dbc
 * The files contain viruses or malware.
 * The file was not downloaded properly from the source.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Enable the Keep Broken Files Option
 
  By default, WinRAR automatically deletes the corruption in your archive file. While this feature generally works well, there are instances where it may delete segments that are essential for the extraction process, leading to a checksum error.
@@ -39,21 +47,16 @@ thumbnail: https://thmb.techidaily.com/3cd047344d86e8920c72e515095d66dfd7e255dbc
  Follow these steps to enable the feature:
 
 1. Right-click on the archive file, hover the cursor on **WinRAR**, and choose **Extract files** from the context menu.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Extract files option of WinRAR](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/extract-files-option.jpg)
 2. Check the **Keep my files** option and click **OK**.  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Keep my files option of WinRAR](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/keep-my-files-option-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  WinRAR will now extract your archive file without deleting the corrupt or broken parts from it. After the extraction, you can [repair corrupted files in Windows](https://www.makeuseof.com/tag/best-tools-repair-corrupted-damaged-files-windows/) using different repair tools available on the market.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Temporarily Disable the Security Program
 
  Often, the security program on your computer can interfere with WinRAR, causing it to display an error message. This usually occurs when the security program thinks the archive file contains malicious agents.
@@ -72,11 +75,13 @@ thumbnail: https://thmb.techidaily.com/3cd047344d86e8920c72e515095d66dfd7e255dbc
 
 1. Right-click on your archive file, hover the cursor to WinRAR, and choose the **Open with WinRAR** option.
 2. Click the **Tools** tab at the top and choose the **Repair archive** option from the context menu.  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Repair archive option in WinRAR](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/repair-archive-option.jpg)
 3. Choose the **Treat the corrupt archive as RAR** option if your archive is a RAR file. Select the **Treat the corrupt archive as ZIP** option if it's a ZIP file. Then, click **OK**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Repairing window of WinRAR](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/repairing-window.jpg)
 
  The WinRAR repair window will crop up and try to repair the archive file. After the process is complete, restart your computer, try to extract the file, and check if the error reappears. If yes, try the next solution on the list.
@@ -97,21 +102,19 @@ chkdsk/r C:
 
  The CHKDSK scan takes a long time to finish, so be patient. Once the scan is complete, restart your computer (see how to [restart a Windows computer](https://www.makeuseof.com/windows-restart-methods/)) and check for the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ## 5\. Re-Download the Archive File
 
  If you continue to experience the error while extracting the file, it is likely due to an issue that occurred during the file download process. It's possible that you were disconnected from the internet while downloading the file or your computer experienced a sudden power cut.
 
  In this case, the best course of action is to re-download the archive file. If someone sent you the file via email, request them to resend it. If you downloaded the file from a website, revisit the website and initiate a fresh download of the file.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## 6\. Try a Different Extraction Tool
 
  If you’re still facing the checksum error even after trying the previous troubleshooting steps, the problem likely lies with WinRAR rather than the archive file. In such a scenario, you’re left with no option other than to use any other [extraction tool to extract your archive file](https://www.makeuseof.com/tag/the-top-3-file-compression-extraction-softwares/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixing the WinRAR Checksum Error
 
@@ -121,11 +124,33 @@ chkdsk/r C:
 
  Thankfully, you can try various troubleshooting methods to eliminate the checksum error in WinRAR. Let's check them out.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-rising-from-the-crowd-post-vidcon-video-events/"><u>[New] In 2024, Rising From the Crowd Post-VidCon Video Events</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-youtubers-picks-on-anti-shake-gear-for-professional-videos-for-2024/"><u>[New] YouTubers’ Picks on Anti-Shake Gear for Professional Videos for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-echoes-encode-discovering-exceptional-audio-to-text-programs/"><u>[Updated] In 2024, Echoes Encode Discovering Exceptional Audio to Text Programs</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-illuminating-path-to-stellar-android-video-quality/"><u>2024 Approved Illuminating Path to Stellar Android Video Quality</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-step-by-step-guide-to-making-engaging-audio-promos/"><u>A Step-by-Step Guide to Making Engaging Audio Promos</u></a></li>
+<li><a href="https://windows11.techidaily.com/augmenting-your-window-11-with-these-6-pioneering-android-apps/"><u>Augmenting Your Window 11 with These 6 Pioneering Android Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-lost-messages-how-to-fix-notifications-that-fail/"><u>Avoiding Lost Messages: How to Fix Notifications That Fail</u></a></li>
+<li><a href="https://windows11.techidaily.com/booting-up-windows-sound-service-quick-fix-steps/"><u>Booting Up Windows Sound Service: Quick Fix Steps</u></a></li>
+<li><a href="https://windows11.techidaily.com/comparing-ease-of-use-in-soft-installation-tools/"><u>Comparing Ease of Use in Soft Installation Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/counteracting-dxgierrordeviceremoved-in-win-1011/"><u>Counteracting DXGI_ERROR_DEVICE_REMOVED in Win 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/cross-browser-conundrums-unlocking-windows-website-shutouts/"><u>Cross-Browser Conundrums: Unlocking Windows' Website Shutouts</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-the-discrepancy-c-drive-vs-d-drive/"><u>Decoding the Discrepancy: C: Drive Vs. D: Drive</u></a></li>
+<li><a href="https://windows11.techidaily.com/discover-where-windows-keeps-snaps/"><u>Discover Where Windows Keeps Snaps</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-vivo-s17-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Vivo S17 online without jailbreak</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-best-motivational-films-to-fuel-your-ambition/"><u>In 2024, The Best Motivational Films to Fuel Your Ambition</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719327539921-master-the-art-of-microsoft-support-for-problems/"><u>Master the Art of Microsoft Support for Problems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/preserve-your-ai-chats-in-depth-instructions-for-keeping-track-of-your-chatgpt-sessions/"><u>Preserve Your AI Chats: In-Depth Instructions for Keeping Track of Your ChatGPT Sessions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/preserving-audio-visual-content-itunes-edition-for-2024/"><u>Preserving Audio-Visual Content ITunes Edition for 2024</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/top-strategies-for-retrieving-missing-texts-on-your-iphone-post-ios-1718-updates/"><u>Top Strategies for Retrieving Missing Texts on Your iPhone: Post-iOS 17/18 Updates</u></a></li>
+</ul></div>
+

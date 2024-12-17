@@ -1,7 +1,7 @@
 ---
 title: "Sharpen Windows' Keystrokes: Seven Tactics to Decrease Delay"
-date: 2024-08-08T06:11:03.709Z
-updated: 2024-08-09T06:11:03.709Z
+date: 2024-12-10T16:46:00.616Z
+updated: 2024-12-16T21:56:49.030Z
 tags:
   - windows10
   - windows11
@@ -28,11 +28,13 @@ thumbnail: https://thmb.techidaily.com/7bdbd3764d17d309bfae3520695cdadc9f0f0ab5e
 2. Click **Enter**. This will open the keyboard properties window, where you will see the option to adjust the **Repeat delay** and **Repeat rate**. The Repeat delay allows you to set the delay between you press-holding a key and the initiation of the repeated output of the key. The Repeat rate allows you to adjust the speed at which this output is repeated.  
 ![changing keyboard settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/keyboard-settings.jpg)
 3. Shorten the **Repeat delay** and increase the **Repeat rate** to eliminate the input lag. This may require some experimentation before you find the sweet spot, but there's a convenient test box built right into the Keyboard properties window to help you find the right balance.
-4. When you've found an ideal Repeat delay and Repeat rate, press **OK** at the bottom to save and exit.
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. When you've found an ideal Repeat delay and Repeat rate, press **OK** at the bottom to save and exit.
+
 ## 2\. Update or Reinstall the Keyboard Driver
 
  Your system's driver tells your PC how to handle external hardware like your keyboard. If your keyboard's driver is outdated, your computer will struggle to communicate with the hardware. As such, an outdated driver is a possible cause of your keyboard input lag.
@@ -44,9 +46,6 @@ thumbnail: https://thmb.techidaily.com/7bdbd3764d17d309bfae3520695cdadc9f0f0ab5e
 3. Right-click on the keyboard driver and choose **Update driver** from the context menu.
 4. Click on **Search automatically for drivers**. If your system has an updated version available, it will notify you, and you can proceed with installing it. .
 5. Otherwise, you can choose **Search for updated drivers on Windows Update** and install the updated version if available.  
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Searching for updated drivers using Windows update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/search-for-updated-drivers.jpg)
 
  Alternatively, you can download the latest available version of the driver manually from the manufacturer's website. Then, follow these steps:
@@ -55,8 +54,9 @@ thumbnail: https://thmb.techidaily.com/7bdbd3764d17d309bfae3520695cdadc9f0f0ab5e
 2. Locate and select the updated version you just downloaded and install it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Disable Filter Keys
 
  Filter keys is an accessibility feature that instructs Windows to ignore brief or repeated keystrokes. This could potentially be a reason for the delayed output of your keyboard. You can fix this by disabling Filter keys from the keyboard settings.
@@ -67,19 +67,19 @@ thumbnail: https://thmb.techidaily.com/7bdbd3764d17d309bfae3520695cdadc9f0f0ab5e
 4. Under this head, you will find a toggle button. If it's enabled, disable it and close the Settings app.  
 ![Turning off the Use Filter Keys button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/turning-off-the-use-filter-keys-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you're running Windows 11, you'll find the option to disable Filter Keys in **Settings > Accessibility > Keyboard > Filter Keys**.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![disabling filter keys on windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/update.jpg)
 
  Then, try typing something into your text editor and see if it still lags.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Run the Windows Keyboard Troubleshooter
 
@@ -87,16 +87,21 @@ thumbnail: https://thmb.techidaily.com/7bdbd3764d17d309bfae3520695cdadc9f0f0ab5e
 
 1. Open the Settings app and navigate to **Update & Security** \> **Troubleshoot**.
 2. You'll now see a list of recommended troubleshooters. If there are none, simply click on **Additional troubleshooters** and look for **Keyboard**. Click on it and select **Run the troubleshooter**.  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Run the keyboard troubleshooter in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/keyboard-troubleshooter-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you're running Windows 11, you'll find the Keyboard troubleshooter in **Settings > System > Troubleshoot > Other Troubleshooter > Keyboard**.
 
 ![running the keyboard troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/keyboard-troubleshooter.jpg)
 
  The troubleshooter will look for potential issues. If it finds something to fix, go ahead and follow the directions. When you're done, see if the issue has been resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Use the DISM Command Line Tool
 
@@ -113,16 +118,10 @@ DISM /Online /Cleanup-Image /RestoreHealth`
 
  Let the process finish, then verify if this trick solved the keyboard input lag.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Perform Specific Fixes for Wireless Keyboards
 
  The above issues apply to keyboards in general. However, some issues are specific to wireless keyboards. If your keyboard is wireless, try the following fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### 1\. Replace the Batteries
 
  Start by ruling out the possibility of the lag being caused by a drained battery. To do this, replace the battery or recharge your keyboard to full. If this doesn't fix the problem, try the next solution.
@@ -131,9 +130,6 @@ DISM /Online /Cleanup-Image /RestoreHealth`
 
  Start by trying to re-sync your keyboard with the USB receiver. If that doesn't help, insert the USB receiver into a different USB port on your computer if the current port lacks enough power. Try placing the keyboard closer to the USB receiver if possible.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ### 3\. Remove Interference From Wireless Devices
 
  If you've placed other Wi-Fi devices such as a router or a cell phone near the computer, move it away and see if that eliminates the input lag.
@@ -144,10 +140,11 @@ DISM /Online /Cleanup-Image /RestoreHealth`
 
  While you're waiting for your new keyboard, you can use the Windows onscreen keyboard. Search for "**onscreen keyboard**" in the Start Menu and launch the Best Match.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![launching on screen keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/on-screen-keyboard.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Alternatively, you can use one of the several [virtual keyboard apps](https://www.makeuseof.com/windows-best-virtual-keyboards/) available out there. If you don't like the idea of virtual keyboards, you can use speech-to-text software to type without having the user your keyboard.
 
@@ -159,11 +156,33 @@ DISM /Online /Cleanup-Image /RestoreHealth`
 
  Before you troubleshoot the issue, ensure that it really is the keyboard that's causing the problem. Sometimes, you may be inadvertently doing things that cause your Windows PC to slow down, which can also be a reason for keyboard input lag. However, if that's not the case, here are some easy fixes you can try to rid yourself of the annoying keyboard input lag.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/updated-unmatched-4k-hdtvs-for-intense-gaming/"><u>[Updated] Unmatched 4K HDTVs for Intense Gaming</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-unravel-the-mystery-of-accessing-your-watchlist-on-facebook/"><u>[Updated] Unravel the Mystery of Accessing Your Watchlist on Facebook</u></a></li>
+<li><a href="https://windows11.techidaily.com/accelerate-vm-performance-on-windows-6-precise-tips-and-tricks/"><u>Accelerate VM Performance on Windows: 6 Precise Tips & Tricks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/beheben-sie-probleme-beim-ripping-von-dvd-filmen-konvertieren-zu-mp4avi-formaten-fur-mobile-gerate/"><u>Beheben Sie Probleme Beim Ripping Von DVD-Filmen - Konvertieren Zu MP4/AVI-Formaten Für Mobile Geräte</u></a></li>
+<li><a href="https://windows11.techidaily.com/boost-your-productivity-with-w11-desktop-organization/"><u>Boost Your Productivity with W11 Desktop Organization</u></a></li>
+<li><a href="https://windows11.techidaily.com/ceasing-chrome-notifications-on-windows-desktop/"><u>Ceasing Chrome Notifications on Windows Desktop</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/creative-composite-imagery-for-a-brighter-tomorrow-for-2024/"><u>Creative Composite Imagery for a Brighter Tomorrow for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-solutions-for-keyboard-spacebar-glitches-in-windows-11-computers-and-laptops/"><u>Easy Solutions for Keyboard Spacebar Glitches in Windows 11 Computers and Laptops</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/elite-choices-for-high-speed-memory-sticks/"><u>Elite Choices for High-Speed Memory Sticks</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-add-an-uninstall-shortcut-to-the-context-menu-in-windows-1110/"><u>How to Add an Uninstall Shortcut to the Context Menu in Windows 11/10</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-soothing-serenity-sessions-leading-asmr-artists/"><u>In 2024, Soothing Serenity Sessions Leading ASMR Artists</u></a></li>
+<li><a href="https://facebook.techidaily.com/monetize-mastery-unveiling-instagrams-fresh-earnings-opportunities/"><u>Monetize Mastery: Unveiling Instagram's Fresh Earnings Opportunities</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-ais-pitfalls-the-risks-of-chatbots-in-windows-keys/"><u>Navigating AI's Pitfalls: The Risks of Chatbots in Windows Keys</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-pc-performance-top-6-monitoring-apps-recommended-for-win/"><u>Optimize PC Performance: Top 6 Monitoring Apps Recommended for Win</u></a></li>
+<li><a href="https://win11.techidaily.com/safeguarding-data-update-windows-11-user-passwords/"><u>Safeguarding Data: Update Windows 11 User Passwords</u></a></li>
+<li><a href="https://windows11.techidaily.com/stopping-google-chrome-alerts-tips-for-windows/"><u>Stopping Google Chrome Alerts: Tips for Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-controlling-file-compression-in-windows-11/"><u>Strategies for Controlling File Compression in Windows 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-first-steps-in-starting-a-review-channel-for-tech-gadgets/"><u>The First Steps in Starting a Review Channel for Tech Gadgets</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-phasing-out-of-microsofts-windows-xp-7-and-81-lifeline/"><u>The Phasing Out of Microsoft's Windows XP, 7 & 8.1 Lifeline</u></a></li>
+</ul></div>
+

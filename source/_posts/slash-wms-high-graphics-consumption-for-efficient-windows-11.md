@@ -1,7 +1,7 @@
 ---
 title: Slash WM's High Graphics Consumption for Efficient Windows 11
-date: 2024-08-08T06:12:06.109Z
-updated: 2024-08-09T06:12:06.109Z
+date: 2024-12-10T23:22:05.826Z
+updated: 2024-12-16T23:28:15.829Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
 
  However, the DWM can occasionally consume significant GPU resources, affecting the overall system performance. If you find that the Desktop Window Manager consumes a lot of GPU resources, try the solutions below to troubleshoot the problem for good.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## What Causes the Desktop Windows Manager's High GPU Usage on Windows?
 
  Before getting into the solutions, it's crucial to understand the root causes behind this issue. While the Desktop Window Manager (DWM) may consume a significant amount of GPU resources for various reasons, the most common ones are listed below:
@@ -41,9 +38,6 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
 
  Windows will not search for any available updates for all the installed components, including the graphics driver. If it finds any, it will automatically download it without much user input.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Check for updates option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-for-updates-1.jpg)
 
  Alternatively, you have the option to directly download the latest update for your graphics driver from the manufacturer's website.
@@ -54,23 +48,14 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
 
  Upon successfully updating the graphics driver, restart your computer and check if the DWM GPU consumption is back to normal.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Turn Off Hardware-Accelerated GPU Scheduling
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![GPU Scheduling option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/gpu-scheduling-option.jpg)
 
  Hardware-accelerated GPU scheduling is a handy Windows feature that reduces the CPU workload by allocating graphics-intensive tasks to the GPU. While this feature typically operates well, there are instances when it might lead to unintended consequences, particularly on systems with weak GPUs.
 
  Enabling GPU scheduling on a weak GPU could result in latency issues and high GPU consumption by various processes, including the Desktop Window Manager. Consequently, you can [disable GPU scheduling](https://www.makeuseof.com/hardware-accelerated-gpu-scheduling-disable-windows/) if you face graphics-related problems on your PC subsequent to its activation.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ## 3\. Configure the NVIDIA Control Panel Settings
 
  Desktop Windows Manager's high GPU consumption issue also stems from your NVIDIA GPU's incorrect power management settings. To resolve this, you'll need to access the NVIDIA Control Panel and use it to configure your GPU's power consumption. Here’s how to do it:
@@ -80,17 +65,20 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
 3. Choose the **High-performance NVIDIA processor** option from the Preferred graphics process drop-down menu.  
 ![High-performance NVIDIA processor option in NVIDIA control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/high-performance-nvidia-processor-option.jpg)
 4. Click the drop-down icon next to **Power management mode** and choose **Prefer maximum performance**.  
+
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Prefer maximum performance option in NVIDIA Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/prefer-maximum-performance-option.jpg)
 5. Click **Apply.**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, restart your computer and check for the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Adjust the Resolution and Scaling Settings
 
  Windows allows you to manually configure your display resolution and scaling settings. But sometimes configuring these settings to more than the recommended value can cause high GPU usage.
@@ -104,9 +92,6 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
 
  After that, open the Task Manager and check the Desktop Window Manager GPU consumption.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ## 5\. Disable HDR
 
  HDR, or High Dynamic Range, is a technology that uses your system's GPU to display a wider range of brightness and colors. However, enabling HDR on a weak GPU can do more harm than good.
@@ -129,9 +114,18 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
 2. Type **sysdm.cpl ,3** into the search bar and press **Enter**.  
 ![Advanced system settings code in the Run dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/advanced-system-settings-code.jpg)
 3. Under the Performance section, click on **Settings**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Select the **Adjust for best performance** option.  
 ![Adjust for best performance option in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/adjust-for-best-performance-option.jpg)
 5. Click **Apply** and then **OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now, monitor your computer's GPU consumption. If it remains high, there's a possibility that corruption in important system files is causing the issue.
 
@@ -143,12 +137,17 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
 
  SFC, or System File Checker, is a Windows built-in utility that looks for and repairs current system files. To run an SFC scan, open Command Prompt as an administrator (see how to [launch Command Prompt with administrative rights](https://www.makeuseof.com/windows-run-command-prompt-admin/)), type **sfc /scannow**, and press **Enter**.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![Sfc scan in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sfc-scan.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After the scan is complete, restart your computer, and you will see that you’re no longer facing the Desktop Window Manager high GPU consumption issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Prevent the Desktop Window Manager From Hogging Your GPU
 
@@ -158,11 +157,25 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
 
  However, the DWM can occasionally consume significant GPU resources, affecting the overall system performance. If you find that the Desktop Window Manager consumes a lot of GPU resources, try the solutions below to troubleshoot the problem for good.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-crafting-compelling-content-on-reddit-a-stepwise-path/"><u>[Updated] In 2024, Crafting Compelling Content on Reddit - A Stepwise Path</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-navigating-a-world-of-videos-made-easy-with-vidas-aid-for-2024/"><u>[Updated] Navigating a World of Videos Made Easy with Vida's Aid for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-ultimate-windows-recordings-made-simple-for-2024/"><u>[Updated] Ultimate Windows Recordings Made Simple for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/1-vlc-media-player-troubleshooting-fixing-h265hevc-4k-streaming-issues/"><u>1. VLC Media Player Troubleshooting: Fixing H.265/HEVC 4K Streaming Issues</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-seamless-techniques-for-saving-facetime-chats-live/"><u>2024 Approved Seamless Techniques for Saving FaceTime Chats Live</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphering-the-role-of-copilot-key-in-your-windows-11-pc/"><u>Deciphering the Role of Copilot Key in Your Windows 11 PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/enrich-your-windows-setup-with-personal-menus/"><u>Enrich Your Windows Setup with Personal Menus</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-verdict-on-iphone-15-professional-level-performance-meets-user-satisfaction-according-to-zdnet/"><u>Expert Verdict on iPhone 15: Professional-Level Performance Meets User Satisfaction – According to ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-halt-unwanted-file-explorer-triggers/"><u>How to Halt Unwanted File Explorer Triggers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-digital-compositing-with-kinemasters-gs-capabilities/"><u>Mastering Digital Compositing with KineMaster's GS Capabilities</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-smart-unlock-hacked-is-it-safe-to-use/"><u>Windows Smart Unlock Hacked – Is It Safe to Use?</u></a></li>
+</ul></div>
+

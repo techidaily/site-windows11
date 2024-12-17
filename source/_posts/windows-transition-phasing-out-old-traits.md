@@ -1,7 +1,7 @@
 ---
 title: "Windows Transition: Phasing Out Old Traits"
-date: 2024-08-08T06:12:18.287Z
-updated: 2024-08-09T06:12:18.287Z
+date: 2024-12-15T17:04:22.422Z
+updated: 2024-12-17T01:07:28.139Z
 tags:
   - windows10
   - windows11
@@ -39,83 +39,6 @@ thumbnail: https://thmb.techidaily.com/b55c24263d5a9a2d0075e95ed2cba33cc134d0a45
 
 ## 2  Windows 10: Cortana
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
-![Ask Cortana in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/cortana-1-1.jpg)
-
- Cortana received a lot of criticism for not being as accurate as Siri, Alexa, and Google Assistant when interpreting voice commands. Couple that with its lack of third-party integrations (other apps couldn’t take advantage of Cortana’s voice assistant shortcuts), and making a case for it was quite hard.
-
- Some users also didn’t see the need for a voice assistant on Windows since it was usually faster to find what you needed using your mouse and keyboard. With Cortana’s shortcomings, being pre-installed in Windows 10 made it even more polarizing. Users didn't appreciate having the feature forced on them. It also couldn’t be disabled and was always listening, which raised privacy concerns.
-
- Eventually, [Microsoft allowed users to disable Cortana](https://www.makeuseof.com/how-to-disable-cortana-on-windows-10/) and no longer urged people to use it.
-
-## 3  Windows 8: Live Tiles / The Metro Interface
-
-![The Windows 8 Start screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-8-start-screen.jpg)
-
- People found the Metro interface difficult to get used to. It was touchscreen-focused, which was not intuitive for desktop users, especially since touchscreen laptops didn't take off the way some expected. While those with a Windows tablet or touchscreen laptop found it user-friendly, it was frustrating to use without touch input.
-
- For anyone who disliked the Metro design, Live Tiles didn’t help. They were meant to display real-time information, including news, weather, and notifications. However, they didn’t work as advertised and had a noticeable performance impact.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
-## 4  Windows 7: The Aero Theme
-
-![The Windows 7 Start menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-7-start-menu.jpg)
-
- The Aero theme, which Microsoft introduced with Windows Vista and carried over to Windows 7, made windows, the taskbar, and other UI elements semi-transparent. App windows also had glasslike borders, live previews, and fluid transition animations. The theme's slickness made Windows 7 enjoyable to look at and use, so why did some users hate it?
-
- Well, everything that made the Aero theme great was graphically demanding for many computers at the time. People who didn’t have a great [CPU and GPU](https://www.makeuseof.com/tag/what-is-the-difference-between-an-apu-a-cpu-and-a-gpu-makeuseof-explains/) had a terrible time with it. Luckily, you could disable the theme.
-
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
-## 5  Windows XP: The Classic Theme
-
-![windows xp theme in windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-xp-theme-in-windows-10-1.jpg)
-
- When Microsoft [released Windows XP](https://www.makeuseof.com/looking-back-windows-xp/) with all its enhancements and improvements, those coming from Windows 95, 98, and 2000 were glad it included the classic theme. However, others considered the minimalistic design simple, bland, and dated, even though it was better for performance.
-
- The classic theme divided those new to Windows and those who came from previous versions. New users liked the vibrant and modern design of the default theme. The people who upgraded from prior versions found it childish and unprofessional—many even said it [looked like a Fisher-Price toy](https://arstechnica.com/information-technology/2014/04/memory-lane-before-everyone-loved-windows-xp-they-hated-it/).
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
-## 6  Windows 98: Active Desktop
-
- Active Desktop was a feature that allowed users to render web pages and other HTML content on the desktop. Some people didn’t like it because it was resource-intensive and impacted performance, causing the computer to become sluggish or even freeze and crash.
-
- Of course, while some disliked these features, there were people who loved them. Regardless, Microsoft has ended support or removed them from Windows because they didn’t catch on. Other examples include Steps Recorder, WordPad, Mail, Calendar, and [Windows Subsystem for Android](https://www.makeuseof.com/windows-subsystem-for-android-going-away/), which future Windows users won’t get to enjoy.
-
- Not everyone will love what Microsoft puts into Windows. In fact, several features have caused a great deal of division and debate among users. We are going to look at five of them that Microsoft eventually removed.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
-## 1  Windows 10: Timeline
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![Windows 10 Timeline keeping track of events](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Windows-10-Timeline.jpg)
-
- The idea behind Timeline, a window that allows you to access your recently opened apps, documents, and websites, seemed innovative. However, some users didn’t like it because it felt redundant. There was no need to use Timeline when many apps that supported it, like Word, Excel, and Edge, had built-in features to open recent files and websites.
-
- The biggest turn-off was when Microsoft removed cross-device syncing. This feature uploads your activity history to your Microsoft account, allowing you to access recently used items on devices linked to the account. With cross-device syncing, you could start working on a Word document on your desktop or Android device and pick up where you left off on your laptop.
-
- However, with its removal, even many who vouched for Timeline as a great productivity tool found it to be a former shell of itself. Timeline was eventually deprecated in 2021, and it did not make its way to Windows 11\.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## 2  Windows 10: Cortana
-
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Ask Cortana in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/cortana-1-1.jpg)
 
  Cortana received a lot of criticism for not being as accurate as Siri, Alexa, and Google Assistant when interpreting voice commands. Couple that with its lack of third-party integrations (other apps couldn’t take advantage of Cortana’s voice assistant shortcuts), and making a case for it was quite hard.
@@ -136,13 +59,14 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 ![The Windows 7 Start menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-7-start-menu.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Aero theme, which Microsoft introduced with Windows Vista and carried over to Windows 7, made windows, the taskbar, and other UI elements semi-transparent. App windows also had glasslike borders, live previews, and fluid transition animations. The theme's slickness made Windows 7 enjoyable to look at and use, so why did some users hate it?
 
  Well, everything that made the Aero theme great was graphically demanding for many computers at the time. People who didn’t have a great [CPU and GPU](https://www.makeuseof.com/tag/what-is-the-difference-between-an-apu-a-cpu-and-a-gpu-makeuseof-explains/) had a terrible time with it. Luckily, you could disable the theme.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 5  Windows XP: The Classic Theme
 
 ![windows xp theme in windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-xp-theme-in-windows-10-1.jpg)
@@ -151,9 +75,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  The classic theme divided those new to Windows and those who came from previous versions. New users liked the vibrant and modern design of the default theme. The people who upgraded from prior versions found it childish and unprofessional—many even said it [looked like a Fisher-Price toy](https://arstechnica.com/information-technology/2014/04/memory-lane-before-everyone-loved-windows-xp-they-hated-it/).
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6  Windows 98: Active Desktop
 
  Active Desktop was a feature that allowed users to render web pages and other HTML content on the desktop. Some people didn’t like it because it was resource-intensive and impacted performance, causing the computer to become sluggish or even freeze and crash.
@@ -162,16 +83,13 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  Not everyone will love what Microsoft puts into Windows. In fact, several features have caused a great deal of division and debate among users. We are going to look at five of them that Microsoft eventually removed.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## 1  Windows 10: Timeline
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Windows 10 Timeline keeping track of events](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Windows-10-Timeline.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The idea behind Timeline, a window that allows you to access your recently opened apps, documents, and websites, seemed innovative. However, some users didn’t like it because it felt redundant. There was no need to use Timeline when many apps that supported it, like Word, Excel, and Edge, had built-in features to open recent files and websites.
 
@@ -180,9 +98,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  However, with its removal, even many who vouched for Timeline as a great productivity tool found it to be a former shell of itself. Timeline was eventually deprecated in 2021, and it did not make its way to Windows 11\.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2  Windows 10: Cortana
 
 ![Ask Cortana in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/cortana-1-1.jpg)
@@ -203,23 +121,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ## 4  Windows 7: The Aero Theme
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![The Windows 7 Start menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-7-start-menu.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Aero theme, which Microsoft introduced with Windows Vista and carried over to Windows 7, made windows, the taskbar, and other UI elements semi-transparent. App windows also had glasslike borders, live previews, and fluid transition animations. The theme's slickness made Windows 7 enjoyable to look at and use, so why did some users hate it?
 
  Well, everything that made the Aero theme great was graphically demanding for many computers at the time. People who didn’t have a great [CPU and GPU](https://www.makeuseof.com/tag/what-is-the-difference-between-an-apu-a-cpu-and-a-gpu-makeuseof-explains/) had a terrible time with it. Luckily, you could disable the theme.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5  Windows XP: The Classic Theme
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![windows xp theme in windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-xp-theme-in-windows-10-1.jpg)
 
  When Microsoft [released Windows XP](https://www.makeuseof.com/looking-back-windows-xp/) with all its enhancements and improvements, those coming from Windows 95, 98, and 2000 were glad it included the classic theme. However, others considered the minimalistic design simple, bland, and dated, even though it was better for performance.
@@ -235,8 +148,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Not everyone will love what Microsoft puts into Windows. In fact, several features have caused a great deal of division and debate among users. We are going to look at five of them that Microsoft eventually removed.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1  Windows 10: Timeline
 
 ![Windows 10 Timeline keeping track of events](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Windows-10-Timeline.jpg)
@@ -249,10 +163,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ## 2  Windows 10: Cortana
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Ask Cortana in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/cortana-1-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Cortana received a lot of criticism for not being as accurate as Siri, Alexa, and Google Assistant when interpreting voice commands. Couple that with its lack of third-party integrations (other apps couldn’t take advantage of Cortana’s voice assistant shortcuts), and making a case for it was quite hard.
 
@@ -261,8 +176,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Eventually, [Microsoft allowed users to disable Cortana](https://www.makeuseof.com/how-to-disable-cortana-on-windows-10/) and no longer urged people to use it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3  Windows 8: Live Tiles / The Metro Interface
 
 ![The Windows 8 Start screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-8-start-screen.jpg)
@@ -273,18 +189,76 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ## 4  Windows 7: The Aero Theme
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![The Windows 7 Start menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-7-start-menu.jpg)
 
  The Aero theme, which Microsoft introduced with Windows Vista and carried over to Windows 7, made windows, the taskbar, and other UI elements semi-transparent. App windows also had glasslike borders, live previews, and fluid transition animations. The theme's slickness made Windows 7 enjoyable to look at and use, so why did some users hate it?
 
  Well, everything that made the Aero theme great was graphically demanding for many computers at the time. People who didn’t have a great [CPU and GPU](https://www.makeuseof.com/tag/what-is-the-difference-between-an-apu-a-cpu-and-a-gpu-makeuseof-explains/) had a terrible time with it. Luckily, you could disable the theme.
 
+## 5  Windows XP: The Classic Theme
+
+![windows xp theme in windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-xp-theme-in-windows-10-1.jpg)
+
+ When Microsoft [released Windows XP](https://www.makeuseof.com/looking-back-windows-xp/) with all its enhancements and improvements, those coming from Windows 95, 98, and 2000 were glad it included the classic theme. However, others considered the minimalistic design simple, bland, and dated, even though it was better for performance.
+
+ The classic theme divided those new to Windows and those who came from previous versions. New users liked the vibrant and modern design of the default theme. The people who upgraded from prior versions found it childish and unprofessional—many even said it [looked like a Fisher-Price toy](https://arstechnica.com/information-technology/2014/04/memory-lane-before-everyone-loved-windows-xp-they-hated-it/).
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## 6  Windows 98: Active Desktop
+
+ Active Desktop was a feature that allowed users to render web pages and other HTML content on the desktop. Some people didn’t like it because it was resource-intensive and impacted performance, causing the computer to become sluggish or even freeze and crash.
+
+ Of course, while some disliked these features, there were people who loved them. Regardless, Microsoft has ended support or removed them from Windows because they didn’t catch on. Other examples include Steps Recorder, WordPad, Mail, Calendar, and [Windows Subsystem for Android](https://www.makeuseof.com/windows-subsystem-for-android-going-away/), which future Windows users won’t get to enjoy.
+
+ Not everyone will love what Microsoft puts into Windows. In fact, several features have caused a great deal of division and debate among users. We are going to look at five of them that Microsoft eventually removed.
+
+## 1  Windows 10: Timeline
+
+![Windows 10 Timeline keeping track of events](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Windows-10-Timeline.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+ The idea behind Timeline, a window that allows you to access your recently opened apps, documents, and websites, seemed innovative. However, some users didn’t like it because it felt redundant. There was no need to use Timeline when many apps that supported it, like Word, Excel, and Edge, had built-in features to open recent files and websites.
+
+ The biggest turn-off was when Microsoft removed cross-device syncing. This feature uploads your activity history to your Microsoft account, allowing you to access recently used items on devices linked to the account. With cross-device syncing, you could start working on a Word document on your desktop or Android device and pick up where you left off on your laptop.
+
+ However, with its removal, even many who vouched for Timeline as a great productivity tool found it to be a former shell of itself. Timeline was eventually deprecated in 2021, and it did not make its way to Windows 11\.
+
+## 2  Windows 10: Cortana
+
+![Ask Cortana in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/cortana-1-1.jpg)
+
+ Cortana received a lot of criticism for not being as accurate as Siri, Alexa, and Google Assistant when interpreting voice commands. Couple that with its lack of third-party integrations (other apps couldn’t take advantage of Cortana’s voice assistant shortcuts), and making a case for it was quite hard.
+
+ Some users also didn’t see the need for a voice assistant on Windows since it was usually faster to find what you needed using your mouse and keyboard. With Cortana’s shortcomings, being pre-installed in Windows 10 made it even more polarizing. Users didn't appreciate having the feature forced on them. It also couldn’t be disabled and was always listening, which raised privacy concerns.
+
+ Eventually, [Microsoft allowed users to disable Cortana](https://www.makeuseof.com/how-to-disable-cortana-on-windows-10/) and no longer urged people to use it.
+
+## 3  Windows 8: Live Tiles / The Metro Interface
+
+![The Windows 8 Start screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-8-start-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+ People found the Metro interface difficult to get used to. It was touchscreen-focused, which was not intuitive for desktop users, especially since touchscreen laptops didn't take off the way some expected. While those with a Windows tablet or touchscreen laptop found it user-friendly, it was frustrating to use without touch input.
+
+ For anyone who disliked the Metro design, Live Tiles didn’t help. They were meant to display real-time information, including news, weather, and notifications. However, they didn’t work as advertised and had a noticeable performance impact.
+
+## 4  Windows 7: The Aero Theme
+
+![The Windows 7 Start menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-7-start-menu.jpg)
+
+ The Aero theme, which Microsoft introduced with Windows Vista and carried over to Windows 7, made windows, the taskbar, and other UI elements semi-transparent. App windows also had glasslike borders, live previews, and fluid transition animations. The theme's slickness made Windows 7 enjoyable to look at and use, so why did some users hate it?
+
+ Well, everything that made the Aero theme great was graphically demanding for many computers at the time. People who didn’t have a great [CPU and GPU](https://www.makeuseof.com/tag/what-is-the-difference-between-an-apu-a-cpu-and-a-gpu-makeuseof-explains/) had a terrible time with it. Luckily, you could disable the theme.
+
 ## 5  Windows XP: The Classic Theme
 
 ![windows xp theme in windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-xp-theme-in-windows-10-1.jpg)
@@ -305,8 +279,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -314,4 +286,23 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-how-to-download-vimeo-video-to-mp3/"><u>[Updated] 2024 Approved How to Download Vimeo Video to MP3</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-premium-aerial-choices-for-high-quality-gopro-recordings/"><u>[Updated] In 2024, Premium Aerial Choices For High-Quality GoPro Recordings</u></a></li>
+<li><a href="https://windows11.techidaily.com/5-ways-to-fix-the-windows-family-safety-feature-not-working/"><u>5 Ways to Fix the Windows Family Safety Feature Not Working</u></a></li>
+<li><a href="https://windows11.techidaily.com/dive-into-dark-display-settings-for-calc-app/"><u>Dive Into Dark Display Settings for Calc App</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-your-taskbar-windows-11-edition/"><u>Elevate Your Taskbar: Windows 11 Edition</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-conversion-of-vob-format-video-files-online-with-movavi/"><u>Free Conversion of VOB Format Video Files - Online with Movavi</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-successfully-install-broadcom-bluetooth-drivers-on-pc-with-windows-os-windows-10-8-or-ebx/"><u>How to Successfully Install Broadcom Bluetooth Drivers on PC with Windows OS (Windows 10, 8, or Ebx)</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-the-apple-iphone-xs-max-icloud-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing the Apple iPhone XS Max iCloud Lock</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/291071-9781416560661-matrix-energetics/"><u>Matrix Energetics | Free Book</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-through-windows-sound-settings-9-easy-methods-quickly/"><u>Navigate Through Windows' Sound Settings: 9 Easy Methods, Quickly</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-connectivity-hurdles-spotify-and-windows-11/"><u>Overcoming Connectivity Hurdles: Spotify & Windows 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pixels-and-power-revisiting-magix-manager-for-2024/"><u>Pixels and Power Revisiting MAGIX Manager for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-fix-logitech-audio-connection-updates/"><u>Quick-Fix Logitech Audio Connection Updates</u></a></li>
+<li><a href="https://windows11.techidaily.com/revive-slow-windows-apps-ensure-robust-web-linkage/"><u>Revive Slow Windows Apps: Ensure Robust Web Linkage</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721267842139-revive-your-lost-images-stellar-repair-standard-windows-version-order-today/"><u>Revive Your Lost Images: Stellar Repair Standard Windows Version - Order Today!</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-users-beware-is-yourphoneexe-safe-to-use/"><u>Windows Users Beware: Is YourPhone.exe Safe to Use?</u></a></li>
+</ul></div>
 

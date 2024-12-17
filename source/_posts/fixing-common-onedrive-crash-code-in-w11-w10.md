@@ -1,7 +1,7 @@
 ---
 title: Fixing Common OneDrive Crash Code in W11, W10
-date: 2024-12-04T21:46:45.532Z
-updated: 2024-12-10T21:38:07.277Z
+date: 2024-12-10T19:12:06.739Z
+updated: 2024-12-16T16:41:19.563Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/7dae447899f95c82a6cf6fb6c187f3946b55a92e5
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Pause and Resume Syncing
@@ -38,14 +38,14 @@ thumbnail: https://thmb.techidaily.com/7dae447899f95c82a6cf6fb6c187f3946b55a92e5
 ![The Pause syncing option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/pause-syncing-option.jpg)
 3. Select**2 hours** on the menu.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Then wait for about five minutes.
 5. Right-click OneDrive's system tray icon again to select**Help & Settings** .  
 ![The Resume syncing option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/resume-syncing-option.jpg)
 6. Click the**Resume Syncing** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Reset OneDrive with Command Prompt Commands
 
@@ -61,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/7dae447899f95c82a6cf6fb6c187f3946b55a92e5
 ![Run OneDrive command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/onedrive-command.jpg)
 4. Start OneDrive to see if the issue persists.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Disable Files On-Demand
 
  Files On-Demand is a feature that can sometimes cause OneDrive issues to arise. So, try disabling Files On-Demand in OneDrive to see if that makes any difference. You can turn off that feature as follows:
@@ -77,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/7dae447899f95c82a6cf6fb6c187f3946b55a92e5
 5. Turn off the**File On-Demand** option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Unlink and Relink Your OneDrive Account
@@ -90,8 +86,16 @@ thumbnail: https://thmb.techidaily.com/7dae447899f95c82a6cf6fb6c187f3946b55a92e5
 ![The Unlink this PC option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/account-tab.jpg)
 4. Press the**Unlink account** button to confirm.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Unlink account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/unlink-account-button2.jpg)
 5. Input the email address you utilize for linking OneDrive in the Microsoft OneDrive window that automatically opens.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Click the**Sign in** option.  
 ![The Sign in button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/sign-in-button.jpg)
@@ -113,14 +117,10 @@ thumbnail: https://thmb.techidaily.com/7dae447899f95c82a6cf6fb6c187f3946b55a92e5
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-uninstall-option2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To reinstall the app, open the[OneDrive MS Store page](https://apps.microsoft.com/store/detail/onedrive/9WZDNCRFJ1P3?hl=en-gb&gl=gb&rtc=1) in a browser. Click**Get in Store** app >**Open Microsoft Store** to bring up an**Install** option for the app. Click**Get** to download and install OneDrive. Then you'll need to open OneDrive and sign in to an account again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Open and Copy Files in Your OneDrive Folder
 
@@ -141,20 +141,21 @@ thumbnail: https://thmb.techidaily.com/7dae447899f95c82a6cf6fb6c187f3946b55a92e5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-4k-masterpieces-our-favorites-listed/"><u>2024 Approved 4K Masterpieces Our Favorites Listed</u></a></li>
-<li><a href="https://windows11.techidaily.com/adjusting-win11-taskbar-icon-dimensions/"><u>Adjusting Win11 Taskbar Icon Dimensions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/bioshock-2-ultimate-fix-enhanced-graphics-and-stability-patch/"><u>Bioshock 2 Ultimate Fix: Enhanced Graphics & Stability Patch</u></a></li>
-<li><a href="https://extra-information.techidaily.com/expertly-charged-hero5-black-batteries-authenticity-and-counterparts/"><u>Expertly Charged Hero5 Black Batteries - Authenticity & Counterparts</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-open-wordpad-in-windows/"><u>How to Open WordPad in Windows</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-infinix-smart-8-hd-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Infinix Smart 8 HD FRP?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-taking-on-screen-capture-giants-how-bandicam-stacks-up-against-camtasia/"><u>In 2024, Taking on Screen Capture Giants How Bandicam Stacks Up Against Camtasia</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-oppo-k11x-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Oppo K11x – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/revisiting-microsofts-phone-tethering-for-windows-11-users/"><u>Revisiting Microsoft's Phone Tethering for Windows 11 Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-how-to-recover-accidentally-deleted-texts-on-your-android-device/"><u>Step-by-Step Guide: How to Recover Accidentally Deleted Texts on Your Android Device</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-for-correcting-malwarebytes-call-failure-in-win11win10/"><u>Steps for Correcting Malwarebytes Call Failure in Win11/Win10</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-prevent-and-fix-windows-error-code-0xc00000f/"><u>Strategies to Prevent & Fix Windows Error Code 0Xc00000f</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-the-setup-of-new-non-operational-store-programs/"><u>Streamlining the Setup of New, Non-Operational Store Programs</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-using-and-enjoying-the-nook-glowlight-plus-from-barnes-and-noble/"><u>The Ultimate Guide to Using and Enjoying the Nook GlowLight Plus From Barnes & Noble</u></a></li>
-<li><a href="https://windows11.techidaily.com/understanding-nearby-share-for-file-transfers/"><u>Understanding Nearby Share for File Transfers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-exploring-the-best-of-android-does-pickup-lead-photo-editing-tools-for-2024/"><u>[Updated] Exploring the Best of Android Does PickUp Lead Photo Editing Tools for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-complete-insight-into-ricoh-theta-s-camera/"><u>[Updated] In 2024, Complete Insight Into Ricoh Theta S Camera</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-speaking-with-impact-in-google-meet-the-guidebook-for-2024/"><u>[Updated] Speaking with Impact in Google Meet The Guidebook for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-learn-to-convert-youtube-videos-into-text-no-cost/"><u>2024 Approved Learn to Convert YouTube Videos Into Text – No Cost!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gaming-woes-sudden-pc-crashes-on-1011-systems/"><u>Gaming Woes: Sudden PC Crashes on 10/11 Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-overcome-new-cell-placement-hurdles-in-excel-widows/"><u>How to Overcome New Cell Placement Hurdles in Excel Widows</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-windows-11s-security-with-rufus-expertise/"><u>Navigating Windows 11'S Security with Rufus Expertise</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-the-art-of-auditory-transformation-replacing-audio-in-videos-step-by-step/"><u>New 2024 Approved The Art of Auditory Transformation Replacing Audio in Videos Step by Step</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fixes-to-stop-steam-from-halting-games-on-windows-11/"><u>Quick Fixes to Stop Steam From Halting Games on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/securing-your-desktops-background-stability/"><u>Securing Your Desktop's Background Stability</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-dark-side-of-ai-how-to-stay-secure-from-the-threats-posed-by-fraudgpt-and-similar-bots/"><u>The Dark Side of AI: How to Stay Secure From the Threats Posed by FraudGPT and Similar Bots</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-repair-windows-groove-with-these-5-solutions-for-a-malfunctioning-touchscreen/"><u>Troubleshoot and Repair Windows Groove with These 5 Solutions for a Malfunctioning Touchscreen</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-inaccurate-power-estimator-on-windows-11-desktops/"><u>Troubleshooting Inaccurate Power Estimator on Windows 11 Desktops</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-the-power-of-testing-enable-sandbox-in-win-11/"><u>Unlocking the Power of Testing: Enable Sandbox in Win 11</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-vivo-y78plus-t1-edition-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Vivo Y78+ (T1) Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-bluescreen-blitz-implement-these-11-essential-steps/"><u>Win11 Bluescreen Blitz: Implement These 11 Essential Steps</u></a></li>
 </ul></div>
 

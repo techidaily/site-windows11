@@ -1,7 +1,7 @@
 ---
 title: Resetting & Restoring Sync in the Microsoft To-Do Application
-date: 2024-08-08T06:11:09.810Z
-updated: 2024-08-09T06:11:09.810Z
+date: 2024-12-15T00:22:05.987Z
+updated: 2024-12-16T19:14:22.957Z
 tags:
   - windows10
   - windows11
@@ -26,11 +26,11 @@ thumbnail: https://thmb.techidaily.com/f5fc965758dead74b06c9dd7514fff9b2e384059d
 
  You can check the servers’ status by heading to the [Microsoft Service Status webpage](https://admin.microsoft.com/servicestatus). If there’s an issue with Microsoft To Do, you’ll have to wait until they fix it.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![Check Microsoft To Do status on Microsoft website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/microsoft-to-do-status-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Also, [check the internet connection on your Windows computer](https://www.makeuseof.com/check-stability-internet-connection-windows/) as an unstable connection will stop Microsoft To Do from syncing.
 
@@ -40,24 +40,23 @@ thumbnail: https://thmb.techidaily.com/f5fc965758dead74b06c9dd7514fff9b2e384059d
 
  Close Microsoft To Do and press **Ctrl + Shift + Esc** to bring up the Task Manager. There, right-click the app and select **End task**. This way, you stop any background process from running, and you’ll have a fresh start when you relaunch the app.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stop Microsoft To Do from running with Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/restart-microsoft-to-do-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Update Microsoft To Do
 
  If restarting the app didn’t fix the syncing issue, you should check if you’re running the latest version available. If Microsoft To Do fails to update itself, you can manually update the app.
 
  On a Windows computer, open the Microsoft Store and check if there’s an update available for Microsoft To Do. You can also click the **Get updates** button to download and install all pending updates for your apps.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Update Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/update-microsoft-store-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  For Microsoft To Do on mobile, you can update the app through the [Google Play Store](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2030136/https://play.google.com/store/apps/details?id=com.microsoft.todos&hl=en&gl=US) or [Apple Store](https://apps.apple.com/us/app/microsoft-to-do/id1212616790). If there’s an update available, you’ll see the **Update** button next to the app.
 
@@ -65,16 +64,14 @@ thumbnail: https://thmb.techidaily.com/f5fc965758dead74b06c9dd7514fff9b2e384059d
 
  Microsoft To Do might fail to sync if there’s an authentication issue with your account. To fix it, click on your profile icon and head to **Manage accounts**. Then, click on **Sign out**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Sign out of Microsoft To Do](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/sign-out-to-do-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Sign back in and check if the problem is now fixed.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## 5\. Let the App Run in the Background
 
  On Windows, apps can keep running their processes even if you’re not actively in the app’s window. These background apps can stay notified, keep data synchronized, and update themselves. If you’ve changed the app’s settings and [stopped it from running in the background in Windows 11](https://www.makeuseof.com/windows-11-disable-background-apps/), Microsoft To Do will not sync unless you’re actively using it.
@@ -85,13 +82,14 @@ thumbnail: https://thmb.techidaily.com/f5fc965758dead74b06c9dd7514fff9b2e384059d
 2. Head to **Apps > Installed apps**.
 3. Find **Microsoft To Do** and click the **three-dot** icon next to it.
 4. Select **Advanced options**.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Allow Microsoft To Do to run in the background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/to-do-background-1.jpg)
 5. Extend the **Let this app run in background** menu.
 6. Choose **Always**.  
 ![Give Microsoft To Do permission to run in the background on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/to-do-permissions-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Repair Microsoft To Do
 
@@ -107,11 +105,27 @@ thumbnail: https://thmb.techidaily.com/f5fc965758dead74b06c9dd7514fff9b2e384059d
 
  Either way, you shouldn’t let Microsoft To Do syncing issues affect your productivity. Here's how to fix it.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-comparing-augmented-reality-stickers-beyond-google/"><u>[New] Comparing Augmented Reality Stickers Beyond Google</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-essential-guide-easy-to-install-vrecorder/"><u>[New] In 2024, Essential Guide Easy-to-Install VRecorder</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-vanishing-acts-how-to-blur-faces-and-objects-online/"><u>[New] In 2024, Vanishing Acts How to Blur Faces and Objects Online</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-optimizing-inner-spaces-with-sunshine/"><u>2024 Approved Optimizing Inner Spaces with Sunshine</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-oppo-find-x6-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Oppo Find X6 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/audience-favorites-outstanding-vr-gaming-with-google-cardboard/"><u>Audience Favorites Outstanding VR Gaming with Google Cardboard</u></a></li>
+<li><a href="https://windows11.techidaily.com/automating-network-drives-on-win11/"><u>Automating Network Drives on Win11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-speculations-on-nothing-phone-3s-arrival-estimated-price-range-tentative-release-timeline-and-hints-at-specifications/"><u>Decoding Speculations on Nothing Phone 3'S Arrival - Estimated Price Range, Tentative Release Timeline, and Hints at Specifications</u></a></li>
+<li><a href="https://win-answers.techidaily.com/experience-premium-quality-on-a-budget-with-the-caixun-75-4k-smart-tv/"><u>Experience Premium Quality on a Budget with the Caixun 75 4K Smart TV</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-restore-absentee-application-association-windows/"><u>How To Restore Absentee Application Association (Windows)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Honor 90 Pro? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-windows-update-failures-0x800736cc-issue/"><u>Solving Windows Update Failures: 0X800736CC Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-overcome-audio-glitch-in-win1011/"><u>Strategies to Overcome Audio Glitch in Win10/11</u></a></li>
+</ul></div>
+

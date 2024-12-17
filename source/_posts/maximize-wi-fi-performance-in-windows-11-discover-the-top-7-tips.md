@@ -1,7 +1,7 @@
 ---
 title: "Maximize Wi-Fi Performance in Windows 11: Discover the Top 7 Tips"
-date: 2024-08-08T06:13:40.854Z
-updated: 2024-08-09T06:13:40.854Z
+date: 2024-12-10T16:30:25.750Z
+updated: 2024-12-17T00:27:25.860Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/634ac9f760c3e79a9b2c54edc99fe994b8053a847
  Thankfully, you can fix the problem by yourself. We’ll show you the most common fixes to get rid of the "Limited Access" issue.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Check Your ISP's Data Plan
 
  Even if Windows shows the Limited access message when you connect to the Wi-Fi, there’s a chance you don’t have any system or connectivity issues.
@@ -32,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/634ac9f760c3e79a9b2c54edc99fe994b8053a847
  You can check how much data you’ve used through Windows Settings. Press**Win + I** to bring up the Settings menu. Head to **Network & Internet > Advanced network settings > Data usage** . There, check your data usage and compare it with your data cap.
 
 ![Check data usage in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/check-data-usage-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Turn Off the Metered Connection Feature
 
@@ -53,8 +58,9 @@ thumbnail: https://thmb.techidaily.com/634ac9f760c3e79a9b2c54edc99fe994b8053a847
  Similarly, you could[enable and disable Airplane mode on Windows 11](https://www.makeuseof.com/how-to-turn-airplane-mode-on-or-off-windows-11/) as it disables all wireless functions on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Restart Your Router
 
  If every device connected to the same network has limited access, you should restart the router. However, simply turning it off and on might not be enough. To get the best results you should[use the correct way to restart a router](https://www.makeuseof.com/reboot-router-correct-way/) .
@@ -69,15 +75,8 @@ thumbnail: https://thmb.techidaily.com/634ac9f760c3e79a9b2c54edc99fe994b8053a847
 4. Click the**Run** button next to**Network Adapter** .
 5. If the next window, you can select which network adapter Windows should diagnose. Select the**Wi-Fi** option and go through the next instructions.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![Run network troubleshooter in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-troubleshooter-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Restart the Network Adapter
 
  Restarting your network adapter might solve wireless issues, including Wi-Fi showing limited access. Here’s how you can restart the network adapter through Device Manager:
@@ -89,13 +88,14 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Restart network driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/restart-driver-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Additionally, you should update the wireless driver, in case you’re running an outdated or corrupted version. Go through the above steps again, right-click the adapter, and select**Update driver** . In the next window, select**Install drivers automatically** , so Windows will search for and install the latest version available.
 
  If you can’t find your network adapter driver, open the**View** menu and click**Show hidden devices** . If the adapter doesn’t show up, you might be[dealing with a missing network adapter in Windows](https://www.makeuseof.com/windows-10-network-adapter-missing/) .
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ## 7\. Check the Adapter Properties
 
  Another cause for Wi-Fi showing the Limited Access message might be inappropriate adapter properties. Here's how you can check them:
@@ -109,16 +109,14 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 7. Click**OK** to save the new adapter settings.
 8. Restart your computer and connect to the Wi-Fi network.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ![Network adapter properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/set-adapter-auto-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Depending on the adapter producer, you might not be able to set**Wireless Mode** to**Auto** . In this case, search for**802.11n Channel Width for 2.4GHz** and**802.11n Channel Width for 5.2Ghz** in the Property field and set their value to**Auto** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 8\. Stop Windows From Turning Off the Network Adapter
 
  Depending on your power management settings, Windows might turn off the network adapter if your computer has a low battery. While this may keep your computer working longer, it will cause the Wi-Fi network to show limited access.
@@ -138,10 +136,11 @@ Go through the following steps to reset the network:
 3. Head to the**More settings** section and click**Network reset** .
 4. Click the**Reset now** button.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Network settings in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/network-reset-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Keep in mind this will restart your computer, so make sure to save any work in progress and bookmark any browser tab that you might still need.
 
@@ -151,14 +150,11 @@ Go through the following steps to reset the network:
 
  As you’ve fixed the problem, you should focus on increasing your internet speed in Windows 11.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -167,4 +163,22 @@ Go through the following steps to reset the network:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-free-image-repository-roundup-top-10-sites-reviewed/"><u>[New] In 2024, Free Image Repository Roundup Top 10 Sites Reviewed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-perfecting-your-punchline-kinemasters-way/"><u>[Updated] Perfecting Your Punchline KineMaster's Way</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/1-best-methods-how-to-retrieve-data-from-your-hard-drive-even-when-no-operating-system-is-available/"><u>1. Best Methods: How To Retrieve Data From Your Hard Drive Even When No Operating System Is Available</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-are-there-alternatives-to-googles-ar-gems/"><u>2024 Approved Are There Alternatives to Google's AR Gems?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-clarity-crusade-enhancing-video-in-zoom-meetings/"><u>2024 Approved Clarity Crusade Enhancing Video in Zoom Meetings</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722991104349-among-us-troubleshooting-persistent-loading-issue-get-unstuck/"><u>Among Us: Troubleshooting Persistent 'Loading' Issue - Get Unstuck!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/bypasando-restricciones-de-region-de-dvd-transformacion-a-formatos-libres-de-region-en-computadoras-con-windows/"><u>Bypasando Restricciones De Región De DVD: Transformación a Formatos Libres De Región en Computadoras Con Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-file-selection-adding-directories-to-context-menu/"><u>Enhancing File Selection: Adding Directories to Context Menu</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-microsofts-enhancements-in-februarys-win11-patch/"><u>Exploring Microsoft's Enhancements in February's Win11 Patch</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-solving-win-1011-ad-ds-printer-problems-efficiently/"><u>Guide to Solving Win 10/11 AD DS Printer Problems Efficiently</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-properly-posted-tweets-with-professional-videos/"><u>In 2024, Properly Posted Tweets with Professional Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/initiate-your-narrative-with-a-click-on-windows-11/"><u>Initiate Your Narrative with a Click on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-of-file-explorer-opening-tabs-in-windows-11/"><u>Mastery of File Explorer: Opening Tabs in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-reversion-of-graphics-settings-for-optimal-viewing/"><u>Quick Reversion of Graphics Settings for Optimal Viewing</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-steps-for-online-printer-on-windows/"><u>Quick Steps for Online Printer on Windows</u></a></li>
+</ul></div>
 
