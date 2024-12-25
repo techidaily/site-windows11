@@ -1,7 +1,7 @@
 ---
 title: PowerToys' Guide to Text Pasting Perfection
-date: 2024-08-08T06:06:18.045Z
-updated: 2024-08-09T06:06:18.045Z
+date: 2024-12-23T19:30:22.418Z
+updated: 2024-12-25T16:42:38.428Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/d1e396e3c497492ee5cb72e95e743dcb132cd92c3
 
  PowerToys recently added two new features: Paste as Plain Text and Mouse Jump. We will discuss the usefulness of these features along with the steps to apply and use them on your system. Without further ado, let’s dive into the post.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is the "Paste as Plain Text" Feature in PowerToys?
 
  Whenever you copy text from a site or a document that contains styling, everything gets copied to the clipboard. If you paste that directly into a Word document or any[free online text editor](https://www.makeuseof.com/tag/6-more-fresh-free-online-word-processors/) , it retains all the source formatting. Somethings this is great; other times, it messes up your document's formatting.
@@ -36,17 +40,19 @@ thumbnail: https://thmb.techidaily.com/d1e396e3c497492ee5cb72e95e743dcb132cd92c3
 2. Click on the**toggle** next to the**Enable Paste As Plain Text** option to enable the feature.
 3. Next, you need to configure the shortcut key to paste as plain text. The default key combination is too long, so you must change it.
 4. Click on the**pencil** icon. Press the keys you want to set as a shortcut for Paste as Plain Text feature. Then click on the**Save** button.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![Enable the Paste as Plain Text Feature in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-the-paste-as-plain-text-feature-in-powertoys.jpg)
 5. Minimize the PowerToys window and then copy any text with some formatting associated with it.
-6. Open Microsoft Word or Google Docs and press the key combination you previously set for the Paste as Plain Text feature. You will see that the text appears in the document without any source formatting.  
+
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+6. Open Microsoft Word or Google Docs and press the key combination you previously set for the Paste as Plain Text feature. You will see that the text appears in the document without any source formatting.  
 ![Paste as Plain Text Feature in Action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/paste-as-plain-text-feature-in-action.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is "Mouse Jump" in PowerToys?
 
@@ -57,8 +63,9 @@ thumbnail: https://thmb.techidaily.com/d1e396e3c497492ee5cb72e95e743dcb132cd92c3
  With the Mouse Jump feature, you can press a shortcut key to open a small replica of the complete display and then move the mouse cursor to the desired location. It saves a lot of time wasted in struggling to get from one corner to other on a wide-screen display.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Enable and Use "Mouse Jump" in Power Toys
 
  Retrace the following steps to enable and configure Mouse Jump in PowerToys:
@@ -66,32 +73,24 @@ thumbnail: https://thmb.techidaily.com/d1e396e3c497492ee5cb72e95e743dcb132cd92c3
 1. Open the PowerToys application and click on the**Mouse utilities** option in the left-hand side menu.
 2. Scroll down and locate the Mouse Jump section. Click on the**toggle** next to the enable Mouse Jump shortcut.
 3. Like the Paste as Plain Text method, you can change the shortcut key to start the feature. Use the**pencil** icon to set your preferred key combination and then click on the**Save** button.  
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![Enable Mouse Jump in Power Toys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-mouse-jump-in-power-toys.jpg)
 4. Minimize the PowerToys window.
 5. **Press** the key combination to open the Mouse Jump window. Hover the mouse pointer to the desired display area and click on it. The Mouse Jump window will close automatically, and the mouse pointer will appear in the area you selected before.  
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Mouse Jump Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mouse-jump-window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Leverage These Useful PowerToys Features on Windows
 
  Microsoft PowerToys is slowly improving and adding new features. Both of these new features are more than a gimmick and will help you increase your productivity. But PowerToys can do much more than fix windows on the top or batch renaming images.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -100,4 +99,22 @@ thumbnail: https://thmb.techidaily.com/d1e396e3c497492ee5cb72e95e743dcb132cd92c3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-enhancing-user-experience-through-smart-analytics/"><u>Cookiebot: Enhancing User Experience Through Smart Analytics</u></a></li>
+<li><a href="https://windows11.techidaily.com/guaranteeing-presence-of-startup-applications/"><u>Guaranteeing Presence of Startup Applications</u></a></li>
+<li><a href="https://windows11.techidaily.com/ifas-premier-laptop-showcase-the-ultimate-finds/"><u>IFA's Premier Laptop Showcase - The Ultimate Finds</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-x100-pro-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo X100 Pro to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-tecno-spark-20c-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Tecno Spark 20C Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/lost-thumbnail-images-on-windows-11-a-step-by-step-resolution/"><u>Lost Thumbnail Images on Windows 11: A Step-by-Step Resolution</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-google-duets-a-step-by-step-guide-to-integrating-with-gmail/"><u>Mastering Google Duets: A Step-by-Step Guide to Integrating with Gmail</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/movavibmptiff/"><u>Movaviで快適なBMPファイルとTIFFファイルの自由な変換方法</u></a></li>
+<li><a href="https://windows11.techidaily.com/personalizing-permanent-trash-settings-in-windows-1011/"><u>Personalizing Permanent Trash Settings in Windows 10/11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/squad-mic-woes-master-the-art-of-repairing-for-seamless-chats-in-202n4/"><u>Squad Mic Woes? Master the Art of Repairing for Seamless Chats in 202N4!</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-hidden-value-in-preserving-your-windows-11-notification-alerts/"><u>The Hidden Value in Preserving Your Windows 11 Notification Alerts</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-accessing-photos-via-windows-11s-explorer/"><u>Tips for Accessing Photos via Windows 11'S Explorer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-methods-to-address-windows-sign-in-rejections/"><u>Top Methods to Address Windows Sign-In Rejections</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-windows-1110-stop-pin-connection-hurdle/"><u>Troubleshooting Windows 11/10: Stop PIN Connection Hurdle</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unable-to-connect-hp-printer-on-win1110/"><u>Unable to Connect HP Printer on Win11/10</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Is Split Screen Not Working on Windows? Here's What to Do
-date: 2024-12-10T16:14:12.095Z
-updated: 2024-12-16T16:44:04.987Z
+date: 2024-12-23T17:43:51.561Z
+updated: 2024-12-25T19:48:27.921Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Causes Split Screen to Not Work?
@@ -39,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
 
  Now that you know the potential causes of the split screen not working, let’s look at how to resolve it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Try Some Generic Fixes
 
  Before we jump into more complicated fixes, it's worth trying out some basic ones that typically fix Windows errors like this.
@@ -51,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
 2. There are also some generic solutions you can try that fix Windows-specific errors. These include [System File Checker](https://www.makeuseof.com/system-file-checker-sfc-windows/) and Deployment Image Servicing and Management. Running these utilities [clears out corrupted or missing system files](https://www.makeuseof.com/windows-built-in-repair-tools/) and replaces them with new ones.
 3. You can also [perform a Clean Boot](https://www.makeuseof.com/clean-boot-windows-11/) to resolve split screen problems. This method starts Windows with a minimum set of drivers and programs. If this works, it means a driver or program you installed recently is causing the problem; uninstall the culprit and try again.
 4. If the split screen still doesn't work, update your graphics driver. Outdated drivers usually cause conflicts and lead to problems such as split screen not working. To do that, check out [how to update your graphics drivers on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Make Sure "Snap Windows" Is Enabled
 
@@ -62,11 +62,11 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
 ![Enable Snap windows in Multitasking](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/enable-snap-windows-in-multitasking.jpg)
 4. Now click the down arrow key and ensure all the checkboxes are selected.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After making these changes, close the Settings window and check if it solves the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Check Your Display Settings
 
@@ -75,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
  To get started, [open Windows Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) and navigate to **System** \> **Display**. In the right pane, scroll down to the **Scale & layout** section.
 
 ![Display Resolution in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/display-resolution-in-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now click the **Display resolution** drop-down menu and adjust the resolution to fit your connected display. Once you've done that, try using split screen again.
 
@@ -92,7 +96,7 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
 5. Now click **Run new task** at the top of the Task Manager window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Type **explorer.exe** in the Open field and click **OK**. This will start a new Windows Explorer instance.
@@ -122,10 +126,6 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
 
  Similarly, press **Win + Up Arrow** or **Down Arrow** to snap windows into a quarter-screen size, allowing you to have four windows open simultaneously.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Manage Apps and Tasks Simultaneously to Enhance Your Productivity on Windows
 
  Whether it’s for work or leisure, a split screen can make all the difference in multitasking. Now that you know how to fix split screen problems on Windows, you can manage your apps and tasks simultaneously easily.
@@ -140,19 +140,21 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-creators-guide-15-unrestricted-music-archives/"><u>[New] YouTube Creators' Guide 15 Unrestricted Music Archives</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-the-newbies-guide-to-av1-codec/"><u>[Updated] In 2024, The Newbie's Guide to AV1 Codec</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-professional-guide-expertise-in-vimeo-video-logging-for-2024/"><u>[Updated] Professional Guide Expertise in Vimeo Video Logging for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/dissecting-the-oneplus-9-scorecard-insights-into-performance-and-value/"><u>Dissecting the OnePlus 9 Scorecard: Insights Into Performance and Value</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-to-silencing-folder-views-in-windows-11/"><u>Guide to Silencing Folder Views in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-get-excel-data-displayed-in-notepad/"><u>How To Get Excel Data Displayed in Notepad</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Poco X5 | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-iphone-13-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking iPhone 13 i Do? Get Answers here</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-iphone-xs-max-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud From your iPhone XS Max</u></a></li>
-<li><a href="https://windows11.techidaily.com/insight-into-windows-canary-vulnerability-monitoring/"><u>Insight Into Windows' Canary Vulnerability Monitoring</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-unseen-hdd-in-windows/"><u>Troubleshooting Unseen HDD in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlock-the-full-potential-of-win11-with-command-shortcuts/"><u>Unlock the Full Potential of Win11 with Command Shortcuts</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unsticking-yourself-from-the-continuous-load-of-a-roblox-game-startup/"><u>Unsticking Yourself From the Continuous Load of a Roblox Game Startup</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-the-silent-song-methods-to-extract-and-remove-vocal-tracks-from-audio-sequences-in-audacity/"><u>Updated The Silent Song Methods to Extract and Remove Vocal Tracks From Audio Sequences in Audacity</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-the-ultimate-guide-to-profiting-from-youtube-shorts-and-earning-potential/"><u>[New] 2024 Approved The Ultimate Guide to Profiting From Youtube Shorts & Earning Potential</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-ace-windows-10-tricks-to-save-time-and-energy/"><u>[New] Ace Windows 10 Tricks to Save Time & Energy</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-essential-online-locations-alarm-ringtones-collection/"><u>[New] In 2024, Essential Online Locations Alarm Ringtones Collection</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-unlock-virtual-worlds-top-10-pc-games-for-ultimate-vr-experience/"><u>[Updated] In 2024, Unlock Virtual Worlds Top 10 PC Games for Ultimate VR Experience</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-your-complete-path-to-crafting-perfect-srt-files/"><u>[Updated] Your Complete Path to Crafting Perfect SRT Files</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-delving-deeply-into-obs-studios-capture-capabilities/"><u>2024 Approved Delving Deeply Into OBS Studio's Capture Capabilities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/assessing-the-danger-could-chatgpt-be-misused-in-creating-harmful-software/"><u>Assessing the Danger: Could ChatGPT Be Misused in Creating Harmful Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-silent-xbox-console-windows-techniques/"><u>Fixing Silent Xbox Console: Windows Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/guidelines-for-overcoming-installer-hurdles-in-windows-environments/"><u>Guidelines for Overcoming Installer Hurdles in Windows Environments</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-regain-control-over-faulty-anydesk-service/"><u>How To Regain Control Over Faulty AnyDesk Service</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-your-windows-workspace-5-folder-tips-revealed/"><u>Master Your Windows Workspace: 5 Folder Tips Revealed</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-remedies-for-windows-nine-solutions-to-revive-your-non-responsive-keyboard-shortcuts/"><u>Quick Remedies for Windows: Nine Solutions to Revive Your Non-Responsive Keyboard Shortcuts</u></a></li>
+<li><a href="https://windows11.techidaily.com/redirecting-and-reinstating-windows-1011s-ms-store/"><u>Redirecting and Reinstating Windows 10/11'S MS Store</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/soundscapes-synced-video-with-music-via-windows-11-software-for-2024/"><u>Soundscapes Synced Video with Music via Windows 11 Software for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleashing-the-full-potential-of-win-for-ps1-gaming-duckstations-insight/"><u>Unleashing the Full Potential of WIN for PS1 Gaming - Duckstation's Insight</u></a></li>
+<li><a href="https://win-web3.techidaily.com/upgrading-to-windows-11-is-paid-heres-what-you-need-to-know-according-to-zdnet/"><u>Upgrading to Windows 11 Is Paid – Here’s What You Need to Know According to ZDNet</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Cannot Reach Server Error in Win 10 & 11 for MB
-date: 2024-12-14T20:54:25.334Z
-updated: 2024-12-16T19:22:57.997Z
+date: 2024-12-24T18:15:12.667Z
+updated: 2024-12-25T17:47:07.424Z
 tags:
   - windows10
   - windows11
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/ef0c500c1ff8cdea11d6b2ce7132e969a27a23353
 
 ![The Run this program as an administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-this-program-as-an-administrator-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Check That the Malwarebytes Service Is Enabled and Running
 
  The Malwarebytes Service is needed for the Malwarebytes software to run properly. The "unable to connect the service" error message may occur if this service isn't running. So, check that the Malwarebytes Service is enabled and running as follows:
@@ -46,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/ef0c500c1ff8cdea11d6b2ce7132e969a27a23353
 3. Double-click**Malwarebytes Services** to access that service’s properties window.  
 ![The Service window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/malwarebytes-service.jpg)
 4. Then click on the**Startup type** drop-down menu to open it and select**Automatic** from there.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Select**Start** to run the Malwarebytes Services.  
 ![The Malwarebytes Service window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/malwarebytes-service-window.jpg)
@@ -60,11 +60,7 @@ thumbnail: https://thmb.techidaily.com/ef0c500c1ff8cdea11d6b2ce7132e969a27a23353
 ![The Windows Management Instrumentation service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-management-instrumentation-service.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Repair Malwarebytes With Its Dedicated Support Tool
@@ -82,6 +78,10 @@ Here is how you can repair Malwarebytes with its support tool:
 ![The Repair System button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/repair-system-option.jpg)
 7. Select all four checkboxes for the**Repair System** option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Press the**Repair System** button.
 9. Restart your PC when prompted.
 
@@ -94,12 +94,16 @@ Here is how you can repair Malwarebytes with its support tool:
 ![The Scan options navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/scan-options.jpg)
 3. Click the radio button labeled**Full Scan** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Scan now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/scan-now-button.jpg)
 4. Press**Scan now** to start a Microsoft Defender scan.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Reinstall Malwarebytes
 
@@ -115,10 +119,6 @@ Here is how you can repair Malwarebytes with its support tool:
 6. Select**Yes** in the Reinstall Malwarebytes for Windows popup dialog box that opens.
 7. Click the**Personal Computer** option.
 8. Finally, select**Yes** to reinstall Malwarebytes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Now You Can (Probably) Utilize Malwarebytes
 
@@ -141,24 +141,16 @@ Here is how you can repair Malwarebytes with its support tool:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-optimizing-income-through-youtube-short-tutorials/"><u>[New] In 2024, Optimizing Income Through YouTube Short Tutorials</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-xbox-extended-storage-5-must-have-hdds/"><u>[New] Xbox Extended Storage 5 Must-Have HDDs</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-luminous-upgrades-5-must-try-online-video-tools/"><u>[Updated] Luminous Upgrades 5 Must-Try Online Video Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-imagination-to-illustration-ranking-the-best-8-iphone-drawing-software/"><u>2024 Approved From Imagination to Illustration Ranking the Best 8 iPhone Drawing Software</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/5yq55p6c55qe44gr44oi44kt44kq44oi44o844k344on44oz44ot44oh44kq44ks6kiy6yyy44gz44kl44gf44kb44gu5oml6acg/"><u>効果的にトキオモーションビデオを記録するための手順</u></a></li>
-<li><a href="https://windows11.techidaily.com/elevate-your-execution-shortcuts-for-microsoft-project-success/"><u>Elevate Your Execution: Shortcuts for Microsoft Project Success</u></a></li>
-<li><a href="https://windows11.techidaily.com/elevate-your-language-input-with-customized-keyboard-options-in-win-11/"><u>Elevate Your Language Input with Customized Keyboard Options in Win 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/elevating-your-windows-screenshot-game-with-these-fixes/"><u>Elevating Your Windows Screenshot Game with These Fixes</u></a></li>
-<li><a href="https://windows11.techidaily.com/eliminate-random-shutdowns-on-windows-11-pcs/"><u>Eliminate Random Shutdowns on Windows 11 PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/eliminate-yellow-tint-on-windows-lcd-monitor/"><u>Eliminate Yellow Tint on Windows LCD Monitor</u></a></li>
-<li><a href="https://windows11.techidaily.com/eliminating-barriers-to-successful-printer-use/"><u>Eliminating Barriers to Successful Printer Use</u></a></li>
-<li><a href="https://windows11.techidaily.com/elite-compilation-prime-windows-systems-for-nds-simulation/"><u>Elite Compilation: Prime Windows Systems for NDS Simulation</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhancing-efficiency-crafting-shortcuts-next-to-power-on-windows-11/"><u>Enhancing Efficiency: Crafting Shortcuts Next to Power on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhancing-pointer-visibility-on-win11/"><u>Enhancing Pointer Visibility on Win11</u></a></li>
-<li><a href="https://facebook.techidaily.com/ensuring-authenticity-tech-giants-obligation-to-remove-deceptive-advertising/"><u>Ensuring Authenticity: Tech Giants' Obligation to Remove Deceptive Advertising</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-guide-to-troubleshooting-and-overcoming-graphical-gaffes-in-rust/"><u>Expert Guide to Troubleshooting & Overcoming Graphical Gaffes in Rust</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-for-resolving-intel-software-desktop-applications-problems/"><u>Expert Tips for Resolving Intel Software Desktop Applications Problems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/football-manager-2021-launch-error-solved-step-by-step-fixes-for-a-seamless-experience/"><u>Football Manager 2021 Launch Error Solved – Step-by-Step Fixes for a Seamless Experience</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-twitch-community-quirks-insights-for-first-time-watchers/"><u>Understanding Twitch Community Quirks: Insights for First-Time Watchers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-grab-your-favorite-facebook-videos-today/"><u>[New] 2024 Approved Grab Your Favorite Facebook Videos Today</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-elevate-your-video-watchlist-activate-av1-on-youtube/"><u>[New] In 2024, Elevate Your Video Watchlist - Activate AV1 on YouTube</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-secure-mp4-conversion-at-your-fingertits-fb-only/"><u>[Updated] 2024 Approved Secure MP4 Conversion at Your Fingertits – FB Only</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-eras-endwatchers-top-youtube-viewership/"><u>[Updated] In 2024, Era's Endwatchers Top YouTube Viewership</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-the-process-to-pinpoint-a-personalized-identifier-for-tiktok-for-2024/"><u>[Updated] The Process to Pinpoint a Personalized Identifier for TikTok for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-top-5-timelapse-recording-software/"><u>[Updated] Top 5 Timelapse Recording Software</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/changing-tides-in-academia-has-ai-innovation-outpaced-traditional-essay-assignments/"><u>Changing Tides in Academia: Has AI Innovation Outpaced Traditional Essay Assignments?</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-uninstall-tactics-for-windows-11-os-108-chars/"><u>Essential Uninstall Tactics for Windows 11 OS (108 Chars)</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-microsoft-store-error-code-0x00000000-in-windows-11-and-11/"><u>How to Fix the Microsoft Store Error Code 0X00000000 in Windows 11 & 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/personalize-window-11s-system-monitor-screen/"><u>Personalize Window 11'S System Monitor Screen</u></a></li>
+<li><a href="https://windows11.techidaily.com/taking-control-a-comprehensive-guide-to-touchpad-adjustment-on-windows-11/"><u>Taking Control: A Comprehensive Guide to Touchpad Adjustment on Windows 11</u></a></li>
 </ul></div>
 

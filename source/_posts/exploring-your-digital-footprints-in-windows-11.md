@@ -1,7 +1,7 @@
 ---
 title: Exploring Your Digital Footprints in Windows 11
-date: 2024-08-08T06:09:07.533Z
-updated: 2024-08-09T06:09:07.533Z
+date: 2024-12-24T16:39:55.730Z
+updated: 2024-12-25T17:53:35.097Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/67c52f8f8d1e1c526acfd18d30076a8ec8c694652
 
  But Control Panel isn’t the only way to access File History on Windows. This guide will list eight quick methods to open the File History page in Windows 11\.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Using Start Menu
 
  The most obvious place to search for an app or file on Windows PC is the Start menu. You can even see web results because Microsoft integrated Bing into the Start menu. Repeat the following steps:
@@ -31,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/67c52f8f8d1e1c526acfd18d30076a8ec8c694652
 2. Type **File History** in the search box. Click on the first relevant search result to open File History in a new window.  
 ![Open File History Using Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-file-history-using-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Using Control Panel
 
  File history previously lived in the Settings app in Windows 10 but is now only present in Control Panel's System and Security section. Here's how to access it:
@@ -38,14 +39,16 @@ thumbnail: https://thmb.techidaily.com/67c52f8f8d1e1c526acfd18d30076a8ec8c694652
 1. Press the Windows key, type **Control Panel** and press the Enter key.
 2. In the Control Panel window, click on the **System and Security** option.
 3. Scroll down and locate the **File History** option. Double-click on it to view and manage the connected devices and backups.  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Open File History Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-file-history-using-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Using the Settings App
 
  The Settings app doesn't have File History as a separate section but can redirect you to its Control Panel page. Repeat the following steps:
@@ -53,15 +56,13 @@ thumbnail: https://thmb.techidaily.com/67c52f8f8d1e1c526acfd18d30076a8ec8c694652
 1. Press **Win + I** to launch the settings app.
 2. Go to the left-hand side section and click on the search bar.
 3. Type **File History** and click on the **Restore your files with File History** search result.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Open File History Using Settings App-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-file-history-using-settings-app-1.jpg)
 4. The Control Panel window will open with the File History page.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Using the Run Dialog Box
 
  Launching programs and system apps from the Run dialog box is possible if you know the exact file name or the file path. Repeat the following steps:
@@ -82,18 +83,22 @@ thumbnail: https://thmb.techidaily.com/67c52f8f8d1e1c526acfd18d30076a8ec8c694652
 5. Double-click on the **FileHistory.exe** file to open the tool.  
 ![Open File History Using File explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-file-history-using-file-explorer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Using Task Manager
 
  Task Manager isn’t just meant for ending tasks and sub-processes. You can launch any system app or tools, and access file locations using the Run new task option. Here’s how:
 
 1. Press the **Ctrl + Shift + Esc** keys simultaneously to [open the Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/).
 2. Click on the **Run new task** button. Now, type **FileHistory.exe** in the text box and click on the **OK** button.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![Open File History Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-file-history-using-task-manager.jpg)
 3. File History will launch on your system. Close the Task Manager
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Using Terminal App
 
@@ -102,24 +107,9 @@ thumbnail: https://thmb.techidaily.com/67c52f8f8d1e1c526acfd18d30076a8ec8c694652
 1. Right-click on the Start button to open the Power User menu.
 2. Click on the **Terminal** option.
 3. Now, type the following command and press the **Enter** key to execute it: **control /name Microsoft.FileHistory**  
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Open File History Using Terminal App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-file-history-using-terminal-app.jpg)
 4. Close the Terminal app.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Using a Desktop Shortcut
 
  The fastest method to access any app is by [creating a desktop shortcut](https://www.makeuseof.com/tag/how-to-create-desktop-shortcuts-from-anywhere-in-windows/). You can switch to the desktop and launch programs with or without administrator privileges. Repeat the following steps:
@@ -137,11 +127,25 @@ thumbnail: https://thmb.techidaily.com/67c52f8f8d1e1c526acfd18d30076a8ec8c694652
 
  But Control Panel isn’t the only way to access File History on Windows. This guide will list eight quick methods to open the File History page in Windows 11\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-exploring-vsdcs-features-and-best-rival-tools/"><u>[New] In 2024, Exploring VSDC's Features and Best Rival Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-master-quick-photo-collage-with-google-images-in-minutes/"><u>[Updated] Master Quick Photo Collage with Google Images in Minutes</u></a></li>
+<li><a href="https://windows11.techidaily.com/harnessing-the-power-of-linux-inside-a-windows-os/"><u>Harnessing the Power of Linux Inside a Windows OS</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-phantom-v-flip-phone-without-password-by-drfone-android/"><u>How To Unlock Tecno Phantom V Flip Phone Without Password?</u></a></li>
+<li><a href="https://win-lab.techidaily.com/incoming-changes-alert-windows-11-update-fees-set-by-microsoft-for-next-year-what-youll-need-to-pay-wired-innovation-news/"><u>Incoming Changes Alert: Windows 11 Update Fees Set by Microsoft for Next Year - What You'll Need to Pay | Wired Innovation News</u></a></li>
+<li><a href="https://windows11.techidaily.com/reactivating-frozen-discord-widgets-on-windows-desktop/"><u>Reactivating Frozen Discord Widgets on Windows Desktop</u></a></li>
+<li><a href="https://windows11.techidaily.com/repairing-rough-operations-with-ccleaner-in-win11/"><u>Repairing Rough Operations with CCleaner in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-ensure-precise-cpu-usage-readings-from-task-manager/"><u>Strategies to Ensure Precise CPU Usage Readings From Task Manager</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/sustainable-growth-developing-a-long-term-personal-brand-on-youtube/"><u>Sustainable Growth Developing a Long-Term Personal Brand on YouTube</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/tiktok-hashtag-techniques-to-boost-your-post-visibility/"><u>TikTok Hashtag Techniques to Boost Your Post Visibility</u></a></li>
+<li><a href="https://windows11.techidaily.com/tutorial-activating-and-launching-ms-paint-in-windows-11/"><u>Tutorial: Activating and Launching MS Paint in Windows 11</u></a></li>
+</ul></div>
+

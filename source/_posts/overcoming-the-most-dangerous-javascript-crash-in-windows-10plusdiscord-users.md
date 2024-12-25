@@ -1,7 +1,7 @@
 ---
 title: Overcoming the Most Dangerous Javascript Crash in Windows 10+Discord Users
-date: 2024-08-08T06:07:36.052Z
-updated: 2024-08-09T06:07:36.052Z
+date: 2024-12-19T17:09:03.371Z
+updated: 2024-12-25T17:33:34.254Z
 tags:
   - windows10
   - windows11
@@ -20,17 +20,15 @@ thumbnail: https://thmb.techidaily.com/b7b45cfdc35344213e5101907c39a4f8622c548d3
 
  Either way, the fatal Javascript error stops users from utilizing Discord. If you need to fix that issue on your Windows 11/10, try applying these fatal Javascript error solutions.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## 1\. Run Discord With Admin Rights
 
  Running Discord with administrative rights could potentially fix the fatal Javascript error. Then the software will have maximum system access (privileges for accessing restricted folders and changing files). You can set Discord to always run as administrator as covered within our guide for[running apps with admin rights on Windows](http://www.makeuseof.com/tag/always-run-apps-administrator-windows/) .
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The Run this program in compatibility mode checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-this-program-as-administrator-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Uninstall BetterDiscord
 
@@ -46,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/b7b45cfdc35344213e5101907c39a4f8622c548d3
 7. Choose a**Discord** version.
 8. Click**Uninstall** to finish.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Delete Discord’s Data Folders
 
  The fatal Javascript error often arises because of corrupted Discord cache data. Fortunately, erasing a couple of Discord data folders will clear out any corruption.
@@ -60,9 +62,6 @@ thumbnail: https://thmb.techidaily.com/b7b45cfdc35344213e5101907c39a4f8622c548d3
 5. Open Windows Explorer with**Win + E** .
 6. Type**%appdata%** inside Explorer’s address bar and press**Return** .
 7. Then select the Discord data folder and click Explorer's**Delete** option on the**Home** tab or command bar.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![A discord folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/discord-folder.jpg)
 8. Input**%LocalAppData%** in Explorer’s address bar and press**Enter** .
 9. Next, click the Discord folder with the mouse’s right button and select**Delete** .
@@ -76,12 +75,14 @@ thumbnail: https://thmb.techidaily.com/b7b45cfdc35344213e5101907c39a4f8622c548d3
 3. Then select**Uninstall** when prompted for app removal confirmation.  
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-option2.jpg)
 4. Delete leftover Discord app data subfolders as outlined for the third resolution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Reboot your Windows PC before reinstalling the Discord software.
 6. Open up the[download page for Discord](https://discord.com/download) .
 7. Click**Download** **for Windows** to get the Discord setup wizard.  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Download for Windows option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/download-for-windows-button.jpg)
 8. Next, double-click**DiscordSet.exe** in whatever file your browser downloaded it in.
 9. Go through Discord’s installation wizard to reinstall the software.
@@ -100,15 +101,14 @@ thumbnail: https://thmb.techidaily.com/b7b45cfdc35344213e5101907c39a4f8622c548d3
 2. Select**Virus & threat protection** on Windows Security’s**Home** tab.  
 ![The Virus & threat protection tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/virus-threat-protection.jpg)
 3. Click**Manage Settings** to view the options.
-4. Toggle off the**Real-time protection** option to disable background antivirus scanning.  
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/real-time-protection-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. Toggle off the**Real-time protection** option to disable background antivirus scanning.  
+![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/real-time-protection-option.jpg)
+
 ## 6\. Check the Quality Windows Audio Video Experience Service is Enabled
 
  Quality Windows Audio Video Experience is a service for improving audio and video streaming performance. That’s an important service to have enabled and running for Discord. So, check that qWave is turned on and running as follows:
@@ -116,28 +116,29 @@ thumbnail: https://thmb.techidaily.com/b7b45cfdc35344213e5101907c39a4f8622c548d3
 1. To access the app launcher in Windows, right-click**Start** (on the taskbar) and select the**Run** accessory shortcut.
 2. Input**services.msc** inside Run’s**Open** command box.
 3. Select**OK** to launch the Services app.  
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Services app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-services-app.jpg)
 4. Then double-click**Quality Windows Audio Video Experience** inside the Services window.
 5. If Quality Windows Audio Video Experience is disabled, select the**Automatic** startup option.  
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Startup type drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-startup-type-drop-down-menu.jpg)
 6. Press the service’s**Start** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Select**Log On** at the top of the service’s properties window.  
 ![The Log On tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/this-account-radio-button.jpg)
 8. Click**Browse** for the**This account** radio button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 9. Input your user account within the**Enter** object name box.
 10. Click**OK** to close out of the Select user window.
 11. To save the service’s new settings, select its**Apply** option.
 12. Then exit the window by selecting**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## Start Chatting in Discord Again on Windows
 
  So, you don’t have to ditch Discord because of the fatal Javascript error. One of the above fatal Javascript error resolutions will likely resolve that issue on your PC since they’ve worked for many users. Yet, seldom is anything guaranteed, and you can get in touch with Discord’s help service on the[submit a request](https://support.discord.com/hc/en-us/requests/new) page if more potential fixes for this issue are required.
@@ -148,8 +149,6 @@ thumbnail: https://thmb.techidaily.com/b7b45cfdc35344213e5101907c39a4f8622c548d3
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +156,26 @@ thumbnail: https://thmb.techidaily.com/b7b45cfdc35344213e5101907c39a4f8622c548d3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-elite-web-recording-gadgets-ranked/"><u>[New] Elite Web Recording Gadgets Ranked</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-charting-creators-fortune-revenue-generated-from-youtube-advertisements/"><u>[Updated] Charting Creator's Fortune Revenue Generated From Youtube Advertisements?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-elevate-your-digital-artistry-with-these-free-tools-for-2024/"><u>[Updated] Elevate Your Digital Artistry with These Free Tools for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-unraveling-top-6-your-guide-to-free-and-favored-shorts-downloaders/"><u>[Updated] In 2024, Unraveling Top 6 Your Guide to Free & Favored Shorts Downloaders</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-methods-to-get-your-voicemod-running-smoothly-again-a-users-guide/"><u>Effective Methods to Get Your Voicemod Running Smoothly Again: A User's Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/fix-system-error-allow-blocked-program/"><u>Fix System Error: Allow Blocked Program</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-htc-u23-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your HTC U23 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-the-complete-playbook-for-team-call-recording-desktopmobile/"><u>In 2024, The Complete Playbook for Team Call Recording (Desktop/Mobile)</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/new-mf4770n-software-package-for-windows-users/"><u>New MF4770n Software Package for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-screen-stumbles-winning-at-full-screen-in-sonic-frontiers-on-windows-11/"><u>Overcoming Screen Stumbles: Winning at Full-Screen in Sonic Frontiers on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-saturated-load-on-windows-chatgpt/"><u>Preventing Saturated Load on Windows ChatGPT</u></a></li>
+<li><a href="https://windows11.techidaily.com/proven-methods-for-mastering-the-mspcm-toolbar-windows-11-edition/"><u>Proven Methods for Mastering the MSPCM Toolbar, Windows 11 Edition</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/steps-to-ensure-peaceful-gmeet-sessions-silence-techniques-for-2024/"><u>Steps to Ensure Peaceful GMeet Sessions Silence Techniques for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-reverse-non-downloading-challenges-with-chrome-windows/"><u>Steps to Reverse Non-Downloading Challenges with Chrome, Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-system-resources-for-better-gaming-experience/"><u>Streamlining System Resources for Better Gaming Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-essential-checklist-for-creating-stellar-titles-for-2024/"><u>The Essential Checklist for Creating Stellar Titles for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-essentials-of-seamless-interoperability-via-nearby-share/"><u>The Essentials of Seamless Interoperability via Nearby Share</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-restoring-windows-dashboard-functionality/"><u>Tips for Restoring Windows Dashboard Functionality</u></a></li>
+<li><a href="https://windows11.techidaily.com/what-are-the-best-bottleneck-calculators-for-windows-how-to-check-your-hardware-for-bottlenecks-manually/"><u>What Are the Best Bottleneck Calculators for Windows? How to Check Your Hardware for Bottlenecks Manually</u></a></li>
+</ul></div>
 

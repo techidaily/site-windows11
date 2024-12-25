@@ -1,7 +1,7 @@
 ---
 title: Fixing Unclickable Recycling Symbol in Windows 11
-date: 2024-12-12T18:48:09.827Z
-updated: 2024-12-16T22:10:25.886Z
+date: 2024-12-18T18:01:08.120Z
+updated: 2024-12-25T17:16:55.735Z
 tags:
   - windows10
   - windows11
@@ -44,14 +44,14 @@ thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f
 5. In the **Properties** dialog, select **Not Configured**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![edit remove recycle bin icon from settings gpedit policy not configured](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/edit-remove-recycle-bin-icon-from-settings-gpedit-policy-not-configured.jpg)
 6. Click **Apply** and **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Close the Group Policy Editor and check your desktop to see if you can access the Recycle Bin. If not, make sure the Recycle Bin is set to show in Desktop Icon Settings.
@@ -64,19 +64,19 @@ thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f
 ![desktop icon settings windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/desktop-icon-settings-windows-11.jpg)
 4. Click on **Desktop icon settings** under the **Related settings** section.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. In the **Desktop Icon Settings** dialog, select **Recycle Bin**.  
 ![enable recycle bin desktop icon settings windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/enable-recycle-bin-desktop-icon-settings-windows-11.jpg)
 6. Click **Apply** and **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you can’t access Group Policy Editor or if the issue persists, you can use the Registry Editor to fix this problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Modify the Recycle Bin Registry Settings
 
@@ -94,6 +94,10 @@ thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f
 ![registry editor nonnum new dword value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/registry-editor-nonnum-new-dword-value.jpg)
 5. If it does not exist, you’ll need to create a new value. To do this, right-click on the **NonEnum** subkey folder in the left pane and select **New > DWORD (32-bit) Value**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Rename the value as **{645FF040-5081-101B-9F08-00AA002F954E}**.
 7. Next, double-click on the new DWORD value to open its properties.  
 ![registry editor nonnum new dword value edit 0](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/registry-editor-nonnum-new-dword-value-edit-0.jpg)
@@ -102,10 +106,6 @@ thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f
 9. Close Registry Editor and restart your computer. Sometimes, you’ll need to restart your computer for the new registry modifications to work.
 
  If the issue persists, try to [create a new user account with administrative rights](https://www.makeuseof.com/windows-11-create-local-user-account/), [perform a system restore](https://www.makeuseof.com/use-system-restore-windows/), or [repair corrupted Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Get Access to the Recycle Bin Desktop Icon Setting Again
 
@@ -123,21 +123,21 @@ thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-elevate-video-consumption-constructing-an-ideal-watch-later-list-on-youtube-for-2024/"><u>[New] Elevate Video Consumption Constructing an Ideal 'Watch Later' List on YouTube for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-transforming-ordinary-recordings-into-pro-level-with-audacity/"><u>[New] Transforming Ordinary Recordings Into Pro-Level With Audacity</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-playbook-for-crafting-engaging-podcast-titles/"><u>2024 Approved The Ultimate Playbook for Crafting Engaging Podcast Titles</u></a></li>
-<li><a href="https://article-files.techidaily.com/behind-the-lens-nikon-d500s-4k-innovation-for-2024/"><u>Behind the Lens Nikon D500's 4K Innovation for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/conversion-facile-de-videos-mkv-vers-aac-gratuite-en-ligne-solutions-movavi/"><u>Conversion Facile De Vidéos MKV Vers AAC Gratuite en Ligne - Solutions Movavi</u></a></li>
-<li><a href="https://windows11.techidaily.com/effortless-arrow-navigation-post-fixes/"><u>Effortless Arrow Navigation Post-Fixes</u></a></li>
-<li><a href="https://windows11.techidaily.com/eliminate-the-shrinkage-your-guide-to-a-stable-window/"><u>Eliminate the Shrinkage: Your Guide to a Stable Window</u></a></li>
-<li><a href="https://windows11.techidaily.com/enabling-effortless-cross-platform-file-exchange/"><u>Enabling Effortless Cross-Platform File Exchange</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhance-printer-functionality-in-windows-11-today/"><u>Enhance Printer Functionality in Windows 11 Today</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhance-your-workflow-with-a-customized-windows-outlook-schedule/"><u>Enhance Your Workflow with a Customized Windows Outlook Schedule</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhancing-wsl2-android-resource-management/"><u>Enhancing WSL2: Android Resource Management</u></a></li>
-<li><a href="https://windows11.techidaily.com/ensuring-complete-screen-images-with-snip-and-sketch-tips/"><u>Ensuring Complete Screen Images with Snip & Sketch Tips.</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Honor Magic V2 | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-14-pro-with-or-without-password-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone 14 Pro With or Without Password | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-todays-digital-world-through-facebook-twitter-instagram-and-youtube/"><u>Navigating Today's Digital World Through Facebook, Twitter, Instagram, and Youtube</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/pushing-creative-boundaries-the-power-of-magix-vpx-for-2024/"><u>Pushing Creative Boundaries The Power of Magix VPX for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/iscover-variety-50-complimentary-youtube-banners-available-for-2024/"><u>[New] Discover Variety – 50 Complimentary YouTube Banners Available for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-turning-vimeo-video-into-reusable-mp3-chunks/"><u>[Updated] 2024 Approved Turning Vimeo Video Into Reusable MP3 Chunks</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-realme-gt-5-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Realme GT 5 Pro without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/captivate-viewers-adding-animation-to-instagram-text-for-2024/"><u>Captivate Viewers Adding Animation to Instagram Text for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/delving-into-language-models-how-does-gpt-stack-up-against-bert/"><u>Delving Into Language Models: How Does GPT Stack Up Against BERT?</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-management-issues-5-approaches-with-windows-11-focus/"><u>Fixing Management Issues: 5 Approaches with Windows 11 Focus</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hp-victus-15-laptop-now-discounted-by-350-at-best-buy-exclusive-labor-day-sale-offer-on-zdnet/"><u>HP Victus 15 Laptop Now Discounted by $350 at Best Buy: Exclusive Labor Day Sale Offer on ZDNet</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-dive-into-filmoras-certified-creative-program/"><u>In 2024, Dive Into Filmora’s Certified Creative Program</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-samsung-galaxy-a23-5g-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Samsung Galaxy A23 5G Phone</u></a></li>
+<li><a href="https://windows11.techidaily.com/perfect-taskbar-alignment-with-win-11-tips/"><u>Perfect Taskbar Alignment with Win 11 Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/retrace-to-original-directory-view-in-windows-11/"><u>Retrace to Original Directory View in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/secure-your-system-save-big-keys-fans-black-friday-treat-for-windows-11/"><u>Secure Your System, Save Big - Keys Fan's Black Friday Treat for Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-cooling-computers-running-hot-w11/"><u>Steps for Cooling Computers Running Hot W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-a-shimmering-window-title-bar-in-win11/"><u>Tips for A Shimmering Window Title Bar in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-a-non-operational-media-player-in-windows-11/"><u>Troubleshooting a Non-Operational Media Player in Windows 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-price-guide-for-cloud-storage-services/"><u>Ultimate Price Guide for Cloud Storage Services</u></a></li>
 </ul></div>
 

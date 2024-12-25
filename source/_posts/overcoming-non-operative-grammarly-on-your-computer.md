@@ -1,7 +1,7 @@
 ---
 title: Overcoming Non-Operative Grammarly on Your Computer
-date: 2024-12-13T17:09:11.609Z
-updated: 2024-12-16T18:13:59.168Z
+date: 2024-12-24T19:47:14.340Z
+updated: 2024-12-25T17:23:18.720Z
 tags:
   - windows10
   - windows11
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Are Some Common Grammarly App Issues on Windows?
@@ -53,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 * **Troubleshoot your slow Internet connection:** A slow Internet connection may not be ideal while using Grammarly. So, refer to our [guide on fixing slow internet](https://www.makeuseof.com/internet-slow-on-windows-laptop-not-on-phone/) for help.
 * **Turn off your proxy or VPN:** Such networking services sometimes interfere with Grammarly. We recommend disabling any proxy or VPN to check if it resolves the issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Update the Grammarly App
 
  One of the best ways to ensure your Grammarly app works correctly is to keep it up-to-date.
@@ -76,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
  Grammarly's Windows client offers limited settings to adjust. However, you can manage two crucial settings to resolve most Grammarly issues: block list and Grammarly startup settings.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Clear the Grammarly Block List
@@ -93,16 +97,20 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 3. Open the **Block List** tab and click **Remove** next to any website you want to exclude.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Grammarly Blocklist Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/grammarly-blocklist-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Note that the settings should apply automatically once you click **Remove**; if it doesn't, restart the app once.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Enable Grammarly at Startup
 
@@ -115,10 +123,6 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 3. Locate the **Grammarly** app in the list and right-click on it. Click **Enable** from the context menu to launch Grammarly whenever you boot up your computer.  
 ![Grammarly Startup Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/grammarly-startup-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Sign Out and Sign In Again
 
  If Grammarly is not functioning as expected, try signing out and signing in again.
@@ -130,7 +134,7 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 ![Grammarly App Account Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/grammarly-app-account-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Clear Grammarly's AppData Folder
@@ -144,10 +148,6 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 3. Right-click on the **DesktopIntegrations** folder and click the **Delete** icon.  
 ![Grammarly AppData Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/grammarly-appdata-folder.jpg)
 4. Now restart your Grammarly app.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  For a quick test, you can [open Grammarly inside Google Docs](https://www.makeuseof.com/how-to-install-use-grammarly-google-docs/) and see where the suggestion sidebar appears.
 
@@ -201,16 +201,17 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/asterpiece-maker-scenery-and-sound-unite/"><u>[New] Masterpiece Maker Scenery & Sound Unite</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-ideal-7-digital-photography-devices-for-high-quality-video-streams/"><u>[Updated] Ideal 7 Digital Photography Devices for High-Quality Video Streams</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-exploring-interactive-boundaries-the-vision-of-mixed-reality/"><u>[Updated] In 2024, Exploring Interactive Boundaries The Vision of Mixed Reality</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-oneplus-nord-ce-3-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset OnePlus Nord CE 3 5G Without Password | Dr.fone</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/losungen-finden-probleme-zugriff-verweigert-auf-bereitgestellten-speicher-sicherungsvolumes/"><u>Lösungen Finden: Probleme Zugriff Verweigert Auf Bereitgestellten Speicher-Sicherungsvolumes</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-windows-10-and-11-lengthening-your-pin/"><u>Mastering Windows 10 & 11: Lengthening Your Pin</u></a></li>
-<li><a href="https://windows11.techidaily.com/reactivating-dormant-cpu-temp-control-measures/"><u>Reactivating Dormant CPU Temp Control Measures</u></a></li>
-<li><a href="https://windows11.techidaily.com/secure-boot-woes-overcome-support-issues-with-top-fixes/"><u>Secure Boot Woes: Overcome Support Issues with Top Fixes</u></a></li>
-<li><a href="https://windows11.techidaily.com/snip-tool-engagement-in-windows-11-for-immediate-use/"><u>Snip Tool Engagement in Windows 11 for Immediate Use</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-s17t-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo S17t Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/why-no-thumbnails-on-windows-11-find-your-fix-here/"><u>Why No Thumbnails on Windows 11? Find Your Fix Here</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-quick-guide-downloading-and-setting-up-vrecord/"><u>2024 Approved Quick Guide Downloading & Setting Up VRecord</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/advancing-smart-multimodal-transit-solutions-the-insights-from-abbyys-perspective/"><u>Advancing Smart Multimodal Transit Solutions - The Insights From ABBYY's Perspective</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-no-watermark-free-video-compression-tools-top-picks-for-youtube-and-more/"><u>Best No-Watermark Free Video Compression Tools - Top Picks for YouTube and More</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-vivo-x90smirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Vivo X90SMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-guide-to-top-8-linux-screenshot-solutions/"><u>In 2024, Guide to Top 8 Linux Screenshot Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/microsoft-brings-ai-to-windows-11-revolutionizing-the-taskbar-experience/"><u>Microsoft Brings AI to Windows 11, Revolutionizing the Taskbar Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-secure-boot-snags-with-these-5-proven-fixes/"><u>Navigate Secure Boot Snags with These 5 Proven Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-rejuvenation-routine-top-13-methods-for-restoring-windows/"><u>The Rejuvenation Routine: Top 13 Methods for Restoring Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-file-unpreviews-in-windows-based-outlook/"><u>Troubleshooting File Unpreviews in Windows-Based Outlook</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-forefront-ai-vs-chatgpts-capabilities/"><u>Understanding Forefront AI vs ChatGPT's Capabilities</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-hour-hand-healed-harmonize-system-time/"><u>Windows Hour Hand Healed: Harmonize System Time</u></a></li>
 </ul></div>
 

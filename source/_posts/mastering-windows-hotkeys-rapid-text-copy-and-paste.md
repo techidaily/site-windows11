@@ -1,7 +1,7 @@
 ---
 title: "Mastering Windows Hotkeys: Rapid Text Copy and Paste"
-date: 2024-12-10T19:33:24.767Z
-updated: 2024-12-16T18:09:25.526Z
+date: 2024-12-18T17:47:59.182Z
+updated: 2024-12-25T16:31:17.569Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Set Up Hotkeys for Pasting Pre-Defined Text With QuickTextPaste
@@ -40,17 +40,9 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 ![The Extract Compressed (Zipped) Folders tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/extract-compressed-window.jpg)
 5. Double-click**QuickTextPaste\_x64.exe** to run QuickTextPaste.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Now input some text you want to set up a custom paste hotkey for within the**Add** **text** box.  
 ![The QuickTextPaste window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-quicktextpaste-window.jpg)
 7. Select the keys to include within your hotkey on the two drop-down menus at the bottom of the QuickTextPaste window.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 8. Press the**Add** button. You should see your new hotkey listed within the Keyboard Shortcuts column.
 
@@ -59,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
  To set up some program hotkeys, input**run: <application file name>** within the**Add** text box. For example, input**run: msedge.exe** to set up an Edge hotkey. Select the key combination for running the software in the drop-down menus.
 
 ![A run Edge hotkey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-edge-hotkey.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  QuickTextPaste has a 4,000-character limit for text snippets. However, that’s not an especially big restriction. You can probably fit up to 600 words within a 4,000-character limit.
 
@@ -75,14 +71,14 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 5. Unzip the**hotkeyp\_64bit.zip** archive by right-clicking it and selecting**Extract All** . Click**Show extracted files** **when complete** \>**Extract** within the extraction tool.  
 ![The Extract All context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/extract-all-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Double-click**HotkeyP.exe** within the hotkeyp\_64bit folder.
 2. Click**Add** to bring up a Hot Key window.  
 ![The HotkeyP window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/hotkeyp.jpg)
 3. Next, press the arrow (**<**) button for the**Command** box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Select**Macro** and the**Paste text** option.  
 ![The Paste text option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/paste-text-option.jpg)
@@ -94,10 +90,6 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 ![The Hot Key window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/hot-key-window.jpg)
 9. Select**OK** to add the new custom paste hotkey.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now you’ll see the hotkey you’ve just set listed within the HotkeyP window. Press**Esc** to hide the HotkeyP in the system tray. Then open WordPad, Notepad, or another text editor to try out the hotkey. Press the custom hotkey you’ve set up to paste in its pre-defined text.
 
  When you need to modify a hotkey or its text, select it in HotkeyP and click**Edit** . Then you can adjust the parameter and key configuration within the Hot Key window again. To remove a hotkey, select a keyboard shortcut and click**Delete** .
@@ -105,6 +97,14 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
  You can configure general settings for HotkeyP by clicking**Window** \>**Options** . The**Start automatically at Windows startup** checkbox is already selected by default on the**General** tab. That tab also includes options for adding/removing buttons in the main window, setting buttons for hiding the window and showing the program in the system tray among others.
 
 ![The General tab in HotkeyP's Options window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-general-tab.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Creating Other Hotkeys With HotkeyP
 
@@ -135,18 +135,21 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-instagram-tips-sharing-your-podcast-content/"><u>[New] Instagram Tips Sharing Your Podcast Content</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-online-meme-maker/"><u>[Updated] 2024 Approved Online MEME Maker</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-a-comprehensive-look-at-youtuber-snippets/"><u>[Updated] In 2024, A Comprehensive Look at Youtuber Snippets</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-conquering-camera-fear-paving-the-path-to-youtube-success/"><u>[Updated] In 2024, Conquering Camera Fear Paving the Path to YouTube Success</u></a></li>
-<li><a href="https://win-premium.techidaily.com/opuswma-movavi/"><u>線上OPUS免費變更為WMA - 利用Movavi編解碼器</u></a></li>
-<li><a href="https://windows11.techidaily.com/adding-tools-to-clipboard-access-for-easier-compatibility-fixes/"><u>Adding Tools to Clipboard Access for Easier Compatibility Fixes</u></a></li>
-<li><a href="https://windows11.techidaily.com/best-practices-for-turning-off-your-pc-safely/"><u>Best Practices for Turning Off Your PC Safely</u></a></li>
-<li><a href="https://solve-news.techidaily.com/cookiebot-driven-personalization-and-analytics-solutions/"><u>Cookiebot-Driven Personalization and Analytics Solutions</u></a></li>
-<li><a href="https://windows11.techidaily.com/dive-into-the-world-of-dxvk-essential-knowledge-for-windows-gamers/"><u>Dive Into the World of DXVK: Essential Knowledge for Windows Gamers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-analysis-the-ultimate-guide-to-the-high-performance-xbox-series-x/"><u>Expert Analysis: The Ultimate Guide to the High-Performance Xbox Series X</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-top-listings-of-youtube-partner-opportunities-and-advertisements/"><u>In 2024, Top Listings of YouTube Partner Opportunities and Advertisements</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719369938575-run-a-free-locally-stored-gpt-on-your-pc-with-gpt4all/"><u>Run a Free, Locally-Stored GPT on Your PC with GPT4All.</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-honor-magic-6-pro-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Honor Magic 6 Pro Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-top-10-aerial-cameras-unleashing-creative-potential/"><u>[New] Top 10 Aerial Cameras Unleashing Creative Potential</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/accurate-age-reflection-in-just-a-minute-for-2024/"><u>Accurate Age Reflection in Just a Minute for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/connecting-windows-device-to-a-lost-network/"><u>Connecting Windows Device to a Lost Network</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/effective-strategies-to-shield-your-pc-against-malware-and-viruses-insights-from-yl-computing/"><u>Effective Strategies to Shield Your PC Against Malware & Viruses - Insights From YL Computing</u></a></li>
+<li><a href="https://driver-download.techidaily.com/elevate-your-gameplay-with-the-latest-steelseries-engine-compatible-with-windows-10/"><u>Elevate Your Gameplay with the Latest SteelSeries Engine Compatible with Windows 10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-connectivity-and-performance-on-winxp1110-install-mtk-drivers/"><u>Enhance Connectivity & Performance on WINXP11/10 - Install MTK Drivers</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-restore-windows-network-access/"><u>How To Restore Windows Network Access</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-xiaomi-redmi-note-12-pro-5g-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Xiaomi Redmi Note 12 Pro 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://windows11.techidaily.com/is-the-windows-aggregatehostexe-system-process-safe-an-analysis/"><u>Is the Windows AggregateHost.exe System Process Safe? An Analysis</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-blue-screen-chaos-a-systematic-approach/"><u>Navigating Blue Screen Chaos: A Systematic Approach</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-start-enabling-and-customizing-sandbox-in-win-11/"><u>Quick Start: Enabling and Customizing Sandbox in Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-disk-errors-on-windows-1011-a-step-by-step-guide/"><u>Tackling Disk Errors on Windows 10/11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/the-power-of-persuasion-maximizing-facebook-ad-performance-through-animation/"><u>The Power of Persuasion Maximizing Facebook Ad Performance Through Animation</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-to-elevate-task-prominence-and-reduce-window-chaos-on-win-11/"><u>Tips to Elevate Task Prominence and Reduce Window Chaos on Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-microsofts-error-code-0x8007251d-on-windows/"><u>Troubleshooting Microsoft's Error Code 0X8007251d on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-strategy-instructing-windows-to-recognize-suitable-printer-drivers/"><u>Winning Strategy: Instructing Windows to Recognize Suitable Printer Drivers</u></a></li>
 </ul></div>
 

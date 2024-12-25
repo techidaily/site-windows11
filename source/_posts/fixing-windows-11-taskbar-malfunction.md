@@ -1,7 +1,7 @@
 ---
 title: Fixing Windows 11 Taskbar Malfunction
-date: 2024-12-03T05:42:56.248Z
-updated: 2024-12-04T02:28:01.557Z
+date: 2024-12-23T17:55:53.100Z
+updated: 2024-12-25T16:30:40.146Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/482035835ea328d1609501451811446cad884a7a6
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Restart Windows File Explorer
 
 ![restart windows file explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restart-windows-file-explorer.jpg)
@@ -39,13 +43,13 @@ To restart a Windows Explorer service:
 4. Click the**Restart** task button in the top right corner. Alternatively, right-click on**Windows Explorer** and select**Restart** .
 5. Your screen may flicker for a moment as the Windows Explorer restarts. Your taskbar should start working now.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Reinstall and Re-Register All Windows Apps for All Accounts
 
 ![reinstall re_register all Windows 11 apps powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reinstall-re_register-all-windows-11-apps-powershell.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Windows 11 taskbar can stop working due to issues with the built-in apps and the user account. To fix the problem, you can reinstall and re-register all the built-in apps using a PowerShell cmdlet. Doing so will restore the taskbar to its working state.
 
@@ -55,10 +59,6 @@ To reinstall and register all Windows apps:
 2. Right-click on**Windows PowerShell** and select**Run as administrator.**  
 ![system restore select restore point recommended](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reinstall-re_register-all-windows-11-apps-powershell-1.jpg)
 3. In the PowerShell window, type the following command and press**Enter** :  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 `Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}`
 4. Windows will now try to reinstall and re-register all the built-in Windows apps. You’ll see an error message in red indicating the app already exists and cannot be reinstalled. Ignore the message and wait for the process to complete till you see the following line:  
@@ -91,6 +91,10 @@ To restart system services in Task Manager:
  RuntimeBroker.exe`
 4. After you restart all the services, close Task Manager and restart your computer. After the computer restarts, check if the taskbar is working.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Enable XAML for Start Menu Using Registry Editor
 
  Another nifty trick to fix the taskbar not working issue is to make the Start menu use XAML and resolve issues that may cause the menu to stop working.
@@ -111,11 +115,11 @@ To make the Start menu use XAML:
 ![registry editor advanced new dword value data 0](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/registry-editor-advanced-new-dword-value-data-0.jpg)
 7. Type**0** in the**Value data** field and click**OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8. Close Registry Editor and restart your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Run System File Checker and DISM
 
@@ -126,7 +130,7 @@ To make the Start menu use XAML:
  If the taskbar is not loading due to system file corruption,[run the DISM utility to repair the Windows image](https://www.makeuseof.com/tag/fix-corrupted-windows-10-installation/) . Next,[run System File Checker](https://www.makeuseof.com/system-file-checker-sfc-windows/) to fix issues with protected system files. Both processes can take a while to complete.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Perform a System Restore
@@ -139,10 +143,6 @@ To make the Start menu use XAML:
 2. Type**rstrui.exe** and click**OK** .  
 ![system restore select restore point recommended](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-restore-select-restore-point-recommended.jpg)
 3. In the**System Restore** dialog, you may be prompted to use a recommended restore point. Ensure the restore point was created before the taskbar stopped working, and click**Next** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Alternatively, select**Choose a different restore point** option and click**Next** .  
 ![system restore select restore point](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-restore-select-restore-point.jpg)
@@ -160,7 +160,7 @@ To make the Start menu use XAML:
  You can[create a new user account in Windows 11](https://www.makeuseof.com/windows-11-create-local-user-account/) from the Settings panel, using the User Accounts dialog, Command Prompt, and Local Users and Groups. Next, log in to your new user account and check if the taskbar works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Easy Fixes to Restore the Windows 11 Taskbar
@@ -184,22 +184,20 @@ To make the Start menu use XAML:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-direction-and-intensity-in-video-lighting/"><u>[New] 2024 Approved Direction and Intensity in Video Lighting</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-ps2-on-ios-selecting-the-best-emulators/"><u>[New] In 2024, PS2 on iOS Selecting the Best Emulators</u></a></li>
-<li><a href="https://windows11.techidaily.com/discover-restful-nights-with-the-ihome-zenergy-bedside-sleep-enhancer-comprehensive-review/"><u>Discover Restful Nights with the IHome Zenergy Bedside Sleep Enhancer – Comprehensive Review</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/evaluating-safety-top-6-security-threats-associated-with-using-openais-chatgpt/"><u>Evaluating Safety: Top 6 Security Threats Associated with Using OpenAI's ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-new-frontiers-apples-revelation-on-ai-technology-during-worldwide-developers-conference/"><u>Exploring New Frontiers: Apple's Revelation on AI Technology During Worldwide Developers Conference</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/from-favorites-to-featured-the-journey-to-a-unique-youtube-list-for-2024/"><u>From Favorites to Featured The Journey to a Unique YouTube List for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-to-revealing-your-pcs-background-image-storage/"><u>Guide to Revealing Your PC’s Background Image Storage</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-tecno-camon-30-pro-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Tecno Camon 30 Pro 5G?</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-transfer-your-powertoys-settings-to-a-new-pc/"><u>How to Transfer Your PowerToys Settings to a New PC</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-snapshot-to-success-an-in-depth-video-guide-for-youtube-photos/"><u>In 2024, From Snapshot to Success An In-Depth Video Guide for YouTube Photos</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Xiaomi 13T | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastery-over-taskbar-icon-separation-in-win-11/"><u>Mastery Over Taskbar Icon Separation in Win 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/microsoft-store-sign-in-woes-heres-how-to-fix-it/"><u>Microsoft Store Sign-In Woes? Here's How to Fix It</u></a></li>
-<li><a href="https://windows11.techidaily.com/modernize-windows-shift-to-enhanced-tiled-workspace/"><u>Modernize Windows: Shift to Enhanced Tiled Workspace</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-revive-non-launching-obs-on-windows/"><u>Steps to Revive Non-Launching OBS on Windows</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ltimate-compilation-budget-friendly-editing-tools-for-2024/"><u>The Ultimate Compilation Budget-Friendly Editing Tools for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/unblocking-windows-notification-blockade-from-phone-link/"><u>Unblocking Windows Notification Blockade From Phone Link</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-direct-twitter-media-transfer-to-whatsapp-for-2024/"><u>[New] Direct Twitter Media Transfer to WhatsApp for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-from-zero-to-hero-in-youtubing-equipment-essentials/"><u>[Updated] From Zero to Hero in YouTubing Equipment Essentials</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-smooth-operators-guide-to-capturing-mac-lectures-for-2024/"><u>[Updated] Smooth Operator’s Guide to Capturing Mac Lectures for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-the-psychology-behind-successful-facebook-gifting-campaigns/"><u>2024 Approved The Psychology Behind Successful Facebook Gifting Campaigns</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-updater-failures-eliminate-xerror-0x80246007-in-win1011/"><u>Fixing Updater Failures: Eliminate XError 0X80246007 in Win10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-phone-link-app-notifications-not-working-on-windows/"><u>How to Fix Phone Link App Notifications Not Working on Windows</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-13-mini-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>In 2024, iPhone 13 mini Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-youtube-playlist-rearrangement-made-simple/"><u>In 2024, YouTube Playlist Rearrangement Made Simple</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/logo-magic-sprucing-up-your-podcasts-visual-appeal-for-2024/"><u>Logo Magic Sprucing Up Your Podcast's Visual Appeal for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-the-art-of-finding-administrative-rules-on-pcs/"><u>Master the Art of Finding Administrative Rules on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-gameplay-and-frames-per-second-in-roblox-windows/"><u>Optimizing Gameplay & Frames per Second in Roblox Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-essential-expedition-for-pinpointing-pc-program-locations/"><u>The Essential Expedition for Pinpointing PC Program Locations</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-frozen-epic-launcher-steps-for-win-users/"><u>Troubleshooting Frozen Epic Launcher: Steps for Win Users</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/ultimate-guide-on-apple-iphone-11-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide on Apple iPhone 11 iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-the-full-potential-of-windows-startup-options/"><u>Unlocking the Full Potential of Windows Startup Options</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Solutions for Unwanted Chrome Tab Autopilot in Windows
-date: 2024-12-12T21:06:42.107Z
-updated: 2024-12-16T19:10:04.717Z
+date: 2024-12-24T19:36:16.494Z
+updated: 2024-12-25T19:05:18.511Z
 tags:
   - windows10
   - windows11
@@ -47,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 
  If this is the case, unplug or [temporarily turn off your keyboard](https://www.makeuseof.com/windows-disable-laptop-keyboard/) and have it inspected. However, if no keys appear to be pressed, move on to the next step.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Stop Chrome From Opening Links in New Tabs
 
  Chrome comes with a built-in feature that lets users open links in new tabs. This feature helps users open and go through multiple links from the search engine results page at once without having to go back and forth.
@@ -58,11 +62,11 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 ![Open See All Search Settings in the Chrome Quick Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/3-open-see-all-search-settings-in-the-chrome-quick-settings.jpg)
 3. Navigate to the **Where results open** section and uncheck the box beside **Open each selected result in a new browser window**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Uncheck the Box Beside Open Each Selected Result in a New Browser Window Option in See All Search Settings in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/4-uncheck-the-box-beside-open-each-selected-result-in-a-new-browser-window-option-in-see-all-search-settings-in-chrome.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Stop Chrome From Opening New Tabs on PC Startup or Browser Launch
 
@@ -71,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 ![Disable Chrome From Startup Apps in the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-chrome-from-startup-apps-in-the-task-manager-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If new tabs open up at browser startup, you've probably configured the browser to open a set of new tabs at its launch or to open the tabs you left open when you last used the browser. Follow these steps to remove these permissions:
@@ -82,7 +86,11 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 ![Select Open the New Tab Option in the On Startup Tab of Chrome Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/6-select-open-the-new-tab-option-in-the-on-startup-tab-of-chrome-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Ensure That the Website You Are on Isn’t Malicious
@@ -90,10 +98,6 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
  If Chrome opens new tabs with unwanted websites whenever you click on a text, link, or area on a particular website, that site or its content is likely malicious. That might explain why it redirects you to malicious offers and landing pages run by threat actors.
 
  There are many ways to determine whether a website is untrustworthy, so learn [how to check if a site is safe](https://www.makeuseof.com/how-to-check-if-a-website-is-safe-to-use/) for more information.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Ensure Your Browser and Device are Malware-Free
 
@@ -108,10 +112,6 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
  To reset Chrome, go to **Chrome** settings, click on **Reset settings** on the left-hand side, and click **Restore settings to their original defaults** on the right.
 
 ![Click Restore Settings to their Original Defaults Option to Reset Chrome Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/7-click-restore-settings-to-their-original-defaults-option-to-reset-chrome-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If resetting the browser also doesn't work, you can reinstall the browser from scratch, which is the least desirable solution. Before you begin the new installation, ensure you properly remove the old installation using our guide on [uninstalling apps on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/).
 
@@ -137,18 +137,20 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-maximizing-your-youtube-videos-viewer-count/"><u>[New] Maximizing Your YouTube Video's Viewer Count</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-economic-approaches-to-online-educational-broadcasting/"><u>[Updated] 2024 Approved Economic Approaches to Online Educational Broadcasting</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-art-of-capturing-sound-via-mac/"><u>[Updated] In 2024, The Art of Capturing Sound via Mac</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-supercharge-image-editing-10-must-know-pixlr-strategies/"><u>[Updated] Supercharge Image Editing 10 Must-Know Pixlr Strategies</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-quick-guide-to-finding-exceptional-pexels-visuals/"><u>2024 Approved Quick Guide to Finding Exceptional Pexels Visuals</u></a></li>
-<li><a href="https://program-issues.techidaily.com/dauntless-pc-glitched-heres-what-you-can-do-to-uncrash-it/"><u>Dauntless PC Glitched? Here's What You Can Do to Uncrash It</u></a></li>
-<li><a href="https://windows11.techidaily.com/eliminating-chrome-profiles-errors-on-your-workstation/"><u>Eliminating Chrome Profiles Errors on Your Workstation</u></a></li>
-<li><a href="https://windows11.techidaily.com/eliminating-windows-notepad-system-breakdowns/"><u>Eliminating Windows Notepad System Breakdowns</u></a></li>
-<li><a href="https://windows11.techidaily.com/enabling-device-detection-for-razer-gear-in-windows-11/"><u>Enabling Device Detection for Razer Gear in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/eradicate-performance-hiccups-a-guide-to-optimizing-warhammer-on-windows/"><u>Eradicate Performance Hiccups: A Guide to Optimizing Warhammer on Windows</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/excellent-10-drone-set-professional-filming-and-photography-for-2024/"><u>Excellent 10-Drone Set Professional Filming & Photography for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-boutonniere-bookmarks-casino-critique/"><u>In 2024, BOUTONNIERE BOOKMARKS Casino Critique</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Vivo Y100A? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-elevating-engagement-with-innovative-techniques-in-fb-lives-for-2024/"><u>[New] Elevating Engagement with Innovative Techniques in FB Lives for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-the-premier-guide-to-high-definition-android-viewing-tools/"><u>2024 Approved The Premier Guide to High-Definition Android Viewing Tools</u></a></li>
+<li><a href="https://media-tips.techidaily.com/effortlessly-organize-your-google-tv-interface-with-our-streamlined-feature/"><u>Effortlessly Organize Your Google TV Interface with Our Streamlined Feature</u></a></li>
+<li><a href="https://windows11.techidaily.com/harness-the-power-of-windows-11-expert-level-docx-to-pdf-processes/"><u>Harness the Power of Windows 11: Expert-Level DOCX to PDF Processes</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-batch-convert-heic-images-to-jpeg-format-in-windows-11-and-11/"><u>How to Batch Convert HEIC Images to JPEG Format in Windows 11 & 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-samsung-galaxy-s24-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Samsung Galaxy S24 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-turn-standard-alerts-into-personalized-unique-sounds-on-android-devices/"><u>In 2024, Turn Standard Alerts Into Personalized, Unique Sounds on Android Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/making-windows-11-quieter-stop-non-user-apps/"><u>Making Windows 11 Quieter: Stop Non-User Apps</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209551285-9781547559794-megan-e-o-gato-perdido/"><u>Megan e o Gato Perdido | Free Book</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/premium-net-repositories-ringtones-collection-hub-for-2024/"><u>Premium Net Repositories Ringtones Collection Hub for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pristine-movie-trailer-curated-list-for-2024/"><u>Pristine Movie Trailer Curated List for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fixes-for-spotify-not-replying-on-pcs-with-windows-11/"><u>Quick Fixes for Spotify Not Replying on PCs with Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/re-establish-missing-5ghz-network-link-on-windows-11-successfully/"><u>Re-Establish Missing 5GHz Network Link on Windows 11 Successfully</u></a></li>
+<li><a href="https://windows11.techidaily.com/system-breakthroughs-overcoming-os-barriers-to-photoscape/"><u>System Breakthroughs: Overcoming OS Barriers to Photoscape</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/toms-tech-insights-expert-computer-and-gadget-reviews/"><u>Tom's Tech Insights: Expert Computer and Gadget Reviews</u></a></li>
 </ul></div>
 

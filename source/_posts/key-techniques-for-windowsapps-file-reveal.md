@@ -1,7 +1,7 @@
 ---
 title: Key Techniques for WindowsApps File Reveal
-date: 2024-12-09T16:16:29.761Z
-updated: 2024-12-16T19:04:56.688Z
+date: 2024-12-22T20:08:25.930Z
+updated: 2024-12-25T17:24:26.531Z
 tags:
   - windows10
   - windows11
@@ -51,19 +51,19 @@ thumbnail: https://thmb.techidaily.com/8c939daafbcd042f39c237e82182653fc156f3f06
 ![Program Files Directory In Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Program-Files-Directory-In-Explorer.jpg)
 2. Now, click the **View** options button at the top of the File Explorer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Click or hover over the **Show** button and select the **Hidden items** option to enable it.  
 ![File Explorer View Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/file-explorer-view-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  That's it. Now, you can see theWindowsApps folder in the same directory.
 
  If you try to open it, you'll see an information popup saying, "You have been denied permission." So, to actually access that folder and gain exclusive read and write rights—you've got to do a bit more.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Change Ownership Properties to Get Access
@@ -77,20 +77,16 @@ thumbnail: https://thmb.techidaily.com/8c939daafbcd042f39c237e82182653fc156f3f06
 ![WindowsApps Properties Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/WindowsApps-Properties-Option.jpg)
 3. Now, under the **Properties** window. Click the **Security** tab and then the **Advanced** option locatedright at the bottom.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![WindowsApps Security Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/WindowsApps-Security-Properties.jpg)
 4. Once you've opened the Advanced Security Settings window, click the **Change** text next to Owner.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Now, click **Advanced > Find Now > Administrator on the following screen**.  
 ![Advanced Security Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/advanced-security-properties.jpg)
 6. Finally, click **OK** to select the Administrator as the owner and again **OK** to save the changes.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![User Group Selection Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/User-Group-Selection-Window.jpg)
 7. Then, tick the checkbox before the **Replace owner on sub containers and objects** text.
@@ -98,6 +94,10 @@ thumbnail: https://thmb.techidaily.com/8c939daafbcd042f39c237e82182653fc156f3f06
 8. Now, click the **Apply** button, followed by the **OK** button, to initiate the process of transferring ownership.  
 ![WindowsApps Advanced Security Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/WindowsApps-Advanced-Security-Settings.jpg)
 9. Once done, click the **OK** button on the next pop-up.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you followed the steps above to take ownership of the WindowsApps folder, you can now move or delete files from that folder.
 
@@ -141,7 +141,7 @@ thumbnail: https://thmb.techidaily.com/8c939daafbcd042f39c237e82182653fc156f3f06
 3. On the next screen, click **Yes** to add it to the registry.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Next, exit the popup by clicking **OK** and navigate to the **C:\\Program Files** directory.
@@ -150,11 +150,11 @@ thumbnail: https://thmb.techidaily.com/8c939daafbcd042f39c237e82182653fc156f3f06
 ![Take Ownership Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Take-Ownership-Context-Menu.jpg)
 7. In the Command Prompt, you must [give User Account Control Administrator rights](https://www.makeuseof.com/tag/user-account-control-windows-10/) for the registry hack to work. After that, please wait a few minutes for the window to close. Soon, it will display success messages constantly in the Command Prompt.
 
- Once finished, you'll no longer face the "You've been denied permission" error on clicking the WindowsApps folder.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Once finished, you'll no longer face the "You've been denied permission" error on clicking the WindowsApps folder.
 
 ## Enjoy Unrestricted Access to the WindowsApps Folder
 
@@ -176,21 +176,16 @@ thumbnail: https://thmb.techidaily.com/8c939daafbcd042f39c237e82182653fc156f3f06
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-securely-extract-and-convert-youtube-audios-as-mp3/"><u>[New] 2024 Approved How To Securely Extract and Convert YouTube Audios as MP3</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-mastering-facebook-hashtags-for-strategic-marketing/"><u>[Updated] 2024 Approved Mastering Facebook Hashtags for Strategic Marketing</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-memetic-mastery-crafting-joy-via-adobe/"><u>2024 Approved Memetic Mastery Crafting Joy via Adobe</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-pioneering-visual-stories-with-windows-10-photos-and-story-remix/"><u>2024 Approved Pioneering Visual Stories with Window's 10 Photos & Story Remix</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-the-complete-walkthrough-for-console-gaming-pc-recordings/"><u>2024 Approved The Complete Walkthrough for Console Gaming PC Recordings</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-plus-a-comprehensive-analysis-of-benefits-and-limitations/"><u>ChatGPT Plus: A Comprehensive Analysis of Benefits & Limitations</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/elevate-your-android-lifestyle-with-these-essential-smartwatch-app-picks/"><u>Elevate Your Android Lifestyle with These Essential Smartwatch App Picks</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-access-denied-and-restricted-access-issues-windows-office-solution/"><u>Fixing 'Access Denied' And Restricted Access Issues: Windows Office Solution</u></a></li>
-<li><a href="https://windows11.techidaily.com/get-your-data-fast-onedrive-without-web-connection/"><u>Get Your Data Fast: OneDrive, Without Web Connection</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-mend-the-dxgi-error-in-win-11-os/"><u>How to Mend the DXGI Error in Win 11 OS</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Nokia C12 Plus | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastery-over-windows-elevated-command-window/"><u>Mastery Over Windows: Elevated Command Window</u></a></li>
-<li><a href="https://windows11.techidaily.com/outsmart-your-pcs-bluescreen-adopting-win11s-best-practices/"><u>Outsmart Your PC's Bluescreen: Adopting Win11's Best Practices</u></a></li>
-<li><a href="https://windows11.techidaily.com/reducing-ram-burden-in-cross-device-service-platforms-on-windows/"><u>Reducing RAM Burden in Cross-Device Service Platforms on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-audacitys-paudio-error-on-w10w11-systems/"><u>Resolving Audacity's PAudio Error on W10/W11 Systems</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/revolutionize-post-production-the-best-11-tutorials-on-color-workflow-for-2024/"><u>Revolutionize Post-Production The Best 11 Tutorials on Color Workflow for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-top-tier-writing-structure-space/"><u>[New] 2024 Approved Top-Tier Writing Structure Space</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-integrating-obs-studio-for-optimal-android-performance/"><u>[New] In 2024, Integrating OBS Studio for Optimal Android Performance</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/1728477265960-usb/"><u>最適な手順：USBドライブに画像データを瞬時に保存・転送！</u></a></li>
+<li><a href="https://fox-that.techidaily.com/easy-steps-to-resolve-iphones-imessage-sign-out-problem/"><u>Easy Steps to Resolve iPhone's iMessage Sign-Out Problem</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/hide-location-on-apple-iphone-15-plus-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>Hide location on Apple iPhone 15 Plus and Android without others knowing | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-mend-interruptexception-crash-on-pcs-running-windows-1011/"><u>How to Mend INTERRUPT_EXCEPTION Crash on PCs Running Windows 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinstating-typical-sort-and-group-features-on-files/"><u>Reinstating Typical Sort and Group Features on Files</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/the-ultimate-guide-to-solving-deadly-glitches-via-event-tracer-on-your-windows-10-machine-fix-now/"><u>The Ultimate Guide to Solving Deadly Glitches via Event Tracer on Your Windows 10 Machine – Fix Now</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-the-full-potential-of-your-computers-booting-process-with-configurations/"><u>Unlock the Full Potential of Your Computer's Booting Process with Configurations</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/unveiling-quality-thorough-review-of-apples-ebook-management-system/"><u>Unveiling Quality: Thorough Review of Apple's eBook Management System</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11s-aesthetic-edge-maximizing-backdrop-impact/"><u>Windows 11'S Aesthetic Edge: Maximizing Backdrop Impact</u></a></li>
 </ul></div>
 

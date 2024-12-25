@@ -1,7 +1,7 @@
 ---
 title: Navigating the 'Not Written' Memory Crisis in Win
-date: 2024-12-10T18:37:53.765Z
-updated: 2024-12-16T20:19:31.858Z
+date: 2024-12-23T17:27:01.166Z
+updated: 2024-12-25T16:33:02.239Z
 tags:
   - windows10
   - windows11
@@ -27,15 +27,15 @@ Here are a few solutions to fix this annoying problem.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Properly Close Your Apps Before Shutting Down Your Computer
 
  If you encounter the "memory could not be written error" when shutting down your PC, check if you still have open apps. If this is the case, close all apps first before turning off your computer. Doing so could help you avoid this error and stop it from recurring.
 
  Should you get this error randomly while you're using your computer, you should restart it. If it doesn't recur after turning on your PC again, then it confirms that the problem might have only been a temporary hiccup.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Repair Corrupt System Files
 
@@ -48,7 +48,7 @@ Here are a few solutions to fix this annoying problem.
  Refer to our[guide on running the SFC scan](https://www.makeuseof.com/system-file-checker-sfc-windows/) if you aren't familiar with using it and analyzing its results.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Perform a Clean Boot to Disable Third-Party Services
@@ -57,11 +57,11 @@ Here are a few solutions to fix this annoying problem.
 
 ![hide all microsoft services clean boot windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/hide-all-microsoft-services-clean-boot-windows-11.jpg)
 
- It's easy to clean boot your PC. If you're unfamiliar with it, refer to our guide on performing a clean boot on[Windows 11](https://www.makeuseof.com/clean-boot-windows-11/) or[Windows 10](https://www.makeuseof.com/how-perform-clean-boot-windows-10/) .
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ It's easy to clean boot your PC. If you're unfamiliar with it, refer to our guide on performing a clean boot on[Windows 11](https://www.makeuseof.com/clean-boot-windows-11/) or[Windows 10](https://www.makeuseof.com/how-perform-clean-boot-windows-10/) .
 
 ## 4\. Run a Memory Diagnostic Check
 
@@ -71,6 +71,10 @@ Here are a few solutions to fix this annoying problem.
 
  If the system detects any problems with your RAM, get it checked as soon as possible. If a severe technical issue affects your PC's memory, it could fail at the most inopportune moment. If you keep using it without having it at least checked, your memory modules might break while you're in the middle of catching a deadline. Avoid this trouble by installing reliable RAM sticks on your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Increase the Virtual Memory
 
  Virtual memory refers to the small space on your HDD or SSD that your operating system uses as memory when other processes consume all available system memory. Allocating more virtual memory will ensure your device has enough memory to process its needs, thereby resolving the error.
@@ -79,19 +83,11 @@ Here are a few solutions to fix this annoying problem.
 
  If you've never changed the virtual memory before, refer to our guide about[increasing the virtual memory in Windows 11](https://www.makeuseof.com/how-increase-virtual-memory-windows-11/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Repair Corrupted App or Game Files
 
  If you experience the error when running a particular app or game, then its files might be corrupted. You should repair or reset the problematic app to see if it deals with the issue you're experiencing. You should check out our[solutions to misbehaving apps](https://www.makeuseof.com/apps-arent-working-properly-windows/) if you're unfamiliar with how to go about these procedures.
 
  As a last resort for app-specific problems, you can reinstall the app. Although it isn't the most favorable fix, it usually fixes app-specific problems. And if it still causes issues after reinstalling it, the nuclear option is to remove the app and replace it with a different but similar one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Perform a System Restore
 
@@ -104,6 +100,10 @@ Here are a few solutions to fix this annoying problem.
 ## 8\. Repair the .Net Framework on Windows
 
  The .Net framework a necessary for running many apps on your PC. If it's corrupted, it can cause memory issues and more. To fix this issue, you can run the SFC scan we mentioned in step two. You can also check out the other ways to[repair the .Net framework on Windows](https://www.makeuseof.com/windows-repair-net-framework/) to get it running again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Configure the Problem App to Use a Different GPU
 
@@ -130,24 +130,24 @@ Here are a few solutions to fix this annoying problem.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-facebook-videos-which-aspect-ratio-fits/"><u>[New] 2024 Approved Facebook Videos Which Aspect Ratio Fits?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-lighten-the-digital-landscape-kapwings-meme-builder/"><u>[New] Lighten the Digital Landscape Kapwing's Meme Builder</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-emerging-realities-speak-top-30-metaverse-expressions-arvr-for-2024/"><u>[Updated] Emerging Realities Speak Top 30 Metaverse Expressions [AR/VR] for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-maximize-engagement-discover-the-8-best-timers-for-android-and-iphone/"><u>[Updated] In 2024, Maximize Engagement Discover the 8 Best Timers for Android & iPhone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-real-time-engagement-tracker/"><u>[Updated] Real-Time Engagement Tracker</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-on-screen-caption-composer/"><u>2024 Approved On-Screen Caption Composer</u></a></li>
-<li><a href="https://windows11.techidaily.com/5-essential-tweaks-for-your-windows-11-search-settings/"><u>5 Essential Tweaks for Your Windows 11 Search Settings</u></a></li>
-<li><a href="https://windows11.techidaily.com/amplify-your-pcs-wi-fi-with-8-effective-fixes-for-windows-11/"><u>Amplify Your PC's Wi-Fi with 8 Effective Fixes for Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/beginners-tutorial-on-windows-canary-usage/"><u>Beginner’s Tutorial on Windows Canary Usage</u></a></li>
-<li><a href="https://windows11.techidaily.com/building-your-signature-input-scheme-on-win11/"><u>Building Your Signature Input Scheme on Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypassing-the-add-folder-now-obstacle-in-windows-onedrive-for-a-smooth-experience/"><u>Bypassing the 'Add Folder Now' Obstacle in Windows OneDrive for a Smooth Experience</u></a></li>
-<li><a href="https://windows11.techidaily.com/confronting-error-code-0x8007045d-a-guide-for-windows-11-users/"><u>Confronting Error Code 0X8007045d: A Guide for Windows 11 Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-dism-a-practical-guide-to-fixing-win11-os/"><u>Decoding Dism: A Practical Guide to Fixing Win11 OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/demystifying-blue-screen-errors-through-microsofts-tools-in-w11/"><u>Demystifying Blue Screen Errors Through Microsoft's Tools in W11</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exploring-oculus-quest-2-a-revolutionary-vr-adventure-at-an-incredible-deal/"><u>Exploring Oculus Quest 2 – A Revolutionary VR Adventure at an Incredible Deal</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-honor-x50-gt-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Honor X50 GT | Dr.fone</u></a></li>
-<li><a href="https://win-info.techidaily.com/master-the-solution-uncover-reasons-behind-windows-10s-file-copy-failures/"><u>Master the Solution: Uncover Reasons Behind Windows 10'S File Copy Failures</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719208597283-unravel-complex-windows-issues-help-at-hand/"><u>Unravel Complex Windows Issues: Help at Hand</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Samsung Galaxy F34 5G? | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-clip-conquest-top-tags-for-dominating-video-trends-on-social-media/"><u>[New] 2024 Approved Clip Conquest Top Tags for Dominating Video Trends on Social Media</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-breaking-down-the-process-of-livestreaming-online-for-2024/"><u>[New] Breaking Down the Process of Livestreaming Online for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-pro-level-text-wonders-discover-the-top-10-for-videos/"><u>[New] In 2024, Pro-Level Text Wonders - Discover the Top 10 for Videos</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-apple-podcast-listing-essentials/"><u>[Updated] 2024 Approved Apple Podcast Listing Essentials</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-focus-on-the-main-sound-in-video-capturing-free-advice/"><u>[Updated] Focus on the Main Sound in Video Capturing (Free Advice)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/all-now-free-explore-gpt-4-but-dont-disregard-plus-perks/"><u>All Now Free: Explore GPT-4, But Don't Disregard Plus Perks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/digital-decorum-addressing-ai-like-chatgpt-and-others/"><u>Digital Decorum: Addressing AI Like ChatGPT & Others</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ensuring-compatibility-free-download-and-update-for-corsair-keyboards-k55-model/"><u>Ensuring Compatibility: Free Download & Update for Corsair Keyboard's K55 Model</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-xiaomi-redmi-note-12-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Xiaomi Redmi Note 12 5G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-silence-your-license-will-end-soon-warning-on-woses/"><u>How To Silence Your License Will End Soon Warning on WOSes</u></a></li>
+<li><a href="https://windows11.techidaily.com/implementing-access-barriers-for-insiders-in-windows-11/"><u>Implementing Access Barriers for Insiders in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-computer-crisis-management-with-tools/"><u>Mastering Computer Crisis Management with Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/propel-windows-video-workflow-adopt-distributed-power-by-tdarr-technology/"><u>Propel Window's Video Workflow: Adopt Distributed Power by Tdarr Technology</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-missing-update-files-issue-error-code-0x80070003-in-windows/"><u>Resolving Missing Update Files Issue (Error Code 0X80070003) in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-unfunctional-enter-key-in-windows-os/"><u>Resolving Unfunctional Enter Key in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/smart-strategies-for-merging-content-on-win-11/"><u>Smart Strategies for Merging Content on Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/triumph-over-glitches-the-ultimate-guide-for-eradicating-error-0x800700e9-on-xbox-game-pass-and-windows-11/"><u>Triumph Over Glitches: The Ultimate Guide for Eradicating Error 0X800700E9 on Xbox Game Pass & Windows 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/vrije-online-omzetting-wav-naar-aiff-met-movavi-kostenloos/"><u>Vrije Online Omzetting: WAV Naar AIFF Met Movavi - Kostenloos!</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-whisper-techniques-concealing-commands-effectively/"><u>Window's Whisper Techniques: Concealing Commands Effectively</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unraveling and Remedying Error Code: 0X80071A90 Windows Issue"
-date: 2024-12-13T21:19:04.602Z
-updated: 2024-12-16T22:40:33.166Z
+date: 2024-12-21T19:43:16.523Z
+updated: 2024-12-25T17:21:41.647Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/482b0b9f60bdf46ea3aa9192b63978daf29cfbcce
 
  Regardless of what might be causing the problem in your case, the troubleshooting methods we have listed above should help you fix it in no time. Proceed with the method that fits your situation the best.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Disable Your Antivirus
 
  Antivirus programs are designed to protect your computer from harmful software and viruses but in doing so, they may also prevent some legitimate Windows components and features from installing or updating properly. This typically happens when the antivirus falsely considers the feature to be harmful.
@@ -48,13 +52,13 @@ thumbnail: https://thmb.techidaily.com/482b0b9f60bdf46ea3aa9192b63978daf29cfbcce
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once the security program is disabled, try enabling the targeted Windows feature again and check if the problem is now fixed. If the antivirus program happens to be the culprit, you can consider switching to a better alternative.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Perform the Action in Safe Mode
@@ -64,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/482b0b9f60bdf46ea3aa9192b63978daf29cfbcce
  This mode launches Windows with only the necessary drivers and services, allowing you to finish tasks without interference from third-party software.
 
  Once you[boot into Safe Mode on Windows](https://www.makeuseof.com/windows-11-boot-safe-mode/) , launch the Windows Features utility and try performing the action that was initially triggering the error. If a background process was leading to it, you should be able to enable the targeted feature without any problems now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Rebuild the WMI Repository
 
@@ -94,20 +94,20 @@ Follow these steps to proceed:
 
 ![install windows 11 feature update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-windows-11-feature-update.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you haven’t installed the latest Windows updates in a while, then you might be facing the problem due to an outdated system. This can be due to a compatibility issue or because your system lacks updates/hotfixes that were released by Microsoft to address specific issues related to Windows features.
 
  In this case, we recommend taking your time to[install any pending Windows updates](https://www.makeuseof.com/windows-11-install-updates/) available. This will ensure that the drivers and software are compatible with the latest version of Windows.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Check the System for Corruption Errors
 
 ![Run SFC scan in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sfc-scan-1-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In order to install or enable Windows features, the system relies on critical files and the Windows component store. If any of these files or the store becomes corrupted, it can impede the system's access to the necessary components for feature installation or enablement, leading to errors like the one at hand.
@@ -137,24 +137,18 @@ Follow these steps to proceed:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-churn-out-custom-internet-echo-jokes/"><u>[New] 2024 Approved Churn Out Custom Internet Echo Jokes</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-in-depth-asmr-video-insights/"><u>[New] 2024 Approved In-Depth ASMR Video Insights</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-unleash-creativity-in-instagram-with-looping-tricks/"><u>[Updated] 2024 Approved Unleash Creativity in Instagram with Looping Tricks</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-exclusive-movies-behind-the-best-chart/"><u>[Updated] Exclusive Movies Behind the Best Chart</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-redefining-engagement-virtual-reality-in-education-for-2024/"><u>[Updated] Redefining Engagement Virtual Reality in Education for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-start-your-edit-journey-top-tips-for-photo-gurus-in-training-for-2024/"><u>[Updated] Start Your Edit Journey Top Tips for Photo Gurus in Training for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-guide-turn-off-hardware-assisted-gpgpus-on-widno/"><u>Essential Guide: Turn Off Hardware-Assisted GPGPUs on WIDNO</u></a></li>
-<li><a href="https://windows11.techidaily.com/harmonizing-operations-combining-windows-11-and-tablet-for-peak-efficiency/"><u>Harmonizing Operations: Combining Windows 11 & Tablet for Peak Efficiency</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-seamlessly-integrate-split-goprodjicanonsony-video-files-into-one-sequence/"><u>How to Seamlessly Integrate Split GoPro/DJI/Canon/Sony Video Files Into One Sequence</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-from-iphone-13-mini-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes From iPhone 13 mini?</u></a></li>
-<li><a href="https://windows11.techidaily.com/launching-home-screen-in-windows-11-easily/"><u>Launching Home Screen in Windows 11 Easily</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/make-facebook-videos-extend-the-wallpaper-for-2024/"><u>Make Facebook Videos Extend the Wallpaper for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/method-to-turn-off-geforce-graphic-overlay-on-pc/"><u>Method to Turn Off GeForce Graphic Overlay on PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-to-safest-win-friendly-free-software-deals/"><u>Navigating to Safest Win-Friendly Free Software Deals</u></a></li>
-<li><a href="https://win-top.techidaily.com/outlook-aomei-backupper/"><u>Outlook メールを効率良く AOMEI Backupperでバックアップするための詳細ガイド</u></a></li>
-<li><a href="https://windows11.techidaily.com/screen-recording-and-audio-integration-the-ultimate-guide-to-the-snipping-tool-max-156/"><u>Screen Recording & Audio Integration: The Ultimate Guide to the Snipping Tool (Max 156)</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-revive-frozen-windows-terminal-apps/"><u>Strategies to Revive Frozen Windows Terminal Apps</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategizing-onedrives-positioning-within-windows-directory-space/"><u>Strategizing OneDrive's Positioning Within Windows Directory Space</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-resolving-windows-disk-management-crashes/"><u>Tips: Resolving Windows Disk Management Crashes</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/et-free-youtube-music-anytime-with-these-high-performing-splitters/"><u>[New] Get Free YouTube Music Anytime With These High-Performing Splitters</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-farm-tastic-fun-and-games-top-friendly-farming-titles/"><u>[Updated] Farm-Tastic Fun & Games Top Friendly Farming Titles</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigating-soundtrack-selection-in-unboxing-filmmaking/"><u>[Updated] Navigating Soundtrack Selection in Unboxing Filmmaking</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726221500233-mp4wav-movavi/"><u>網路直接將MP4轉成WAV自由下載 - 動態多媒體Movavi轉換器</u></a></li>
+<li><a href="https://fox-making.techidaily.com/access-educational-content-securely-downloading-video-on-demand-vod-from-learnerorg/"><u>Access Educational Content - Securely Downloading Video-on-Demand (VoD) From Learner.org</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-tips-for-handling-windows-security-mishaps/"><u>Expert Tips for Handling Windows Security Mishaps</u></a></li>
+<li><a href="https://windows11.techidaily.com/making-your-own-speech-to-text-app-for-windows-whisper-plus-ahk-guide/"><u>Making Your Own Speech-to-Text App for Windows: Whisper + AHK Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/photographic-purity-and-proficiency-in-chromatic-control/"><u>Photographic Purity and Proficiency in Chromatic Control</u></a></li>
+<li><a href="https://windows11.techidaily.com/reestablishing-functionality-for-frozen-spotify-app/"><u>Reestablishing Functionality for Frozen Spotify App</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-discord-js-crashes-in-win-11-with-ease-and-precision/"><u>Tackling Discord JS Crashes in Win 11 with Ease and Precision</u></a></li>
+<li><a href="https://windows11.techidaily.com/tech-hacks-6-new-ways-to-open-programs-in-windows/"><u>Tech Hacks: 6 New Ways to Open Programs in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-8-video-edits-software-the-ultimate-guide-for-win11-users/"><u>Top 8 Video Edits Software: The Ultimate Guide for Win11 Users</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Infinix Note 30i? | Dr.fone</u></a></li>
 </ul></div>
 

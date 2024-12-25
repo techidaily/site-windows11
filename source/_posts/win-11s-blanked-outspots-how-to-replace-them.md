@@ -1,7 +1,7 @@
 ---
 title: "Win 11'S Blanked Outspots: How to Replace Them"
-date: 2024-12-12T22:24:19.866Z
-updated: 2024-12-16T18:54:07.945Z
+date: 2024-12-24T18:59:07.474Z
+updated: 2024-12-25T19:25:22.369Z
 tags:
   - windows10
   - windows11
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/72ad6224a96d1332d870ccac31eeed89a25da9895
 
 ![Show Desktop Icons on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Show-Desktop-Icons-on-Windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Check Desktop Icon Settings
 
  If you're only missing a few desktop icons, such as This PC, Recycle Bin, Control Panel, and others, you may have disabled them in the "Desktop Icon Settings" window. In that case, you can use the following steps to re-enable those desktop icons.
@@ -50,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/72ad6224a96d1332d870ccac31eeed89a25da9895
 ![Desktop Icon Settings Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Desktop-Icon-Settings-Window.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you complete the above steps, your icons should appear on the desktop.
@@ -85,16 +81,12 @@ To rebuild icon cache on Windows 11:
 7. Finally, type in the following text and hit**Enter** to restart Explorer:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `Explorer.exe`
 
  Once you complete the above steps, restart your PC and see if the desktop icons appear.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Update Your PC’s Graphics Driver
 
@@ -107,7 +99,15 @@ To rebuild icon cache on Windows 11:
 5. Select**Search automatically for drivers** to let Windows find and install the best drivers.  
 ![Update Graphics Driver on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Update-Graphics-Driver-on-Windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the issue persists even after updating the driver, your graphics driver may be corrupt. In that case, you'll need to reinstall the graphics driver on your PC. Refer to our guide on[how to fix corrupt drivers on Windows](https://www.makeuseof.com/how-to-fix-corrupt-drivers-on-windows-10/) for more instructions on how to fix this.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Check the Group Policy Settings
 
@@ -124,11 +124,7 @@ To rebuild icon cache on Windows 11:
 ![Enable Desktop Icons on Windows 11 via Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Enable-Deskop-Icons-on-Windows-11-via-Group-Policy-Editor-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Perform a System Restore
@@ -155,6 +151,10 @@ Follow these steps to perform a system restore on Windows:
 
 ![Create Desktop Shortcut From Start Menu in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Create-Desktop-Shortcut-From-Start-Menu-in-Windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Alternatively, you can create a shortcut on your desktop by using the Create Shortcut wizard. To do so, right-click anywhere on the desktop and select**New > Shortcut** . Then, click the**Browse** button to locate the file, folder, or app you want to add to your desktop. Then, click**Next** followed by**Finish** .
 
  We covered this topic in more detail in our guide to[how to add icons to the desktop on Windows](https://www.makeuseof.com/how-to-add-icon-to-desktop-windows/) .
@@ -178,22 +178,20 @@ Follow these steps to perform a system restore on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-detailed-examination-of-chilled-treat-recorders-for-2024/"><u>[New] Detailed Examination of Chilled Treat Recorders for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-gain-ground-by-generating-earnings-on-your-youtube-channel-like-ajay/"><u>[New] Gain Ground by Generating Earnings on Your Youtube Channel Like Ajay</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-automating-your-channels-youtube-subscription-link/"><u>[New] In 2024, Automating Your Channel's YouTube Subscription Link</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-navigate-to-notoriety-on-facebook-with-10-effective-tactics/"><u>[Updated] In 2024, Navigate to Notoriety on Facebook with 10 Effective Tactics</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/2024-approved-creating-an-individualistic-tiktok-identifier/"><u>2024 Approved Creating an Individualistic TikTok Identifier</u></a></li>
-<li><a href="https://windows11.techidaily.com/expert-strategies-for-toolbar-mastery-in-mspcm-win11/"><u>Expert Strategies for Toolbar Mastery in MSPCM Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/harnessing-the-clarity-step-by-step-guide-for-background-blur-in-w11-photos/"><u>Harnessing the Clarity: Step-by-Step Guide for Background Blur in W11 Photos</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-cut-the-clutter-advanced-techniques-for-cam-recordings/"><u>In 2024, Cut the Clutter Advanced Techniques for Cam Recordings</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-premium-visual-enhancer-cutting-edge-conversion/"><u>In 2024, Premium Visual Enhancer Cutting-Edge Conversion</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-backdrop-blur-on-windows-11-a-visual-masterclass-in-photo-editing/"><u>Navigating Backdrop Blur on Windows 11: A Visual Masterclass in Photo Editing</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-system-errors-fixes-for-win11-fs-failures/"><u>Navigating System Errors: Fixes for Win11 FS Failures</u></a></li>
-<li><a href="https://windows11.techidaily.com/opera-stuck-quick-window-fixes-to-unlock/"><u>Opera Stuck? Quick Window Fixes to Unlock</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-unwanted-discoloration-clean-your-windows-pc-screen/"><u>Overcoming Unwanted Discoloration: Clean Your Windows Pc Screen</u></a></li>
-<li><a href="https://windows11.techidaily.com/simplified-guide-to-buy-install-adobe-on-ms-store/"><u>Simplified Guide to Buy, Install Adobe on MS Store</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/soluzioni-per-il-problema-unita-non-supportata-sulla-macchina-da-bucato-samsung-magic-guida-completa-ai-7-migliori-passaggi/"><u>Soluzioni per Il Problema Unità Non Supportata Sulla Macchina Da Bucato Samsung Magic - Guida Completa Ai 7 Migliori Passaggi</u></a></li>
-<li><a href="https://windows11.techidaily.com/solve-windows-color-control-woes-efficiently/"><u>Solve Window's Color Control Woes Efficiently</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/streamline-your-filming-gameplay-on-fbx-for-2024/"><u>Streamline Your Filming - Gameplay on FBX for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-definitive-top-ten-nintendo-switch-combat-apps-max-156/"><u>[New] Definitive Top Ten Nintendo Switch Combat Apps (Max 156)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-perfecting-proximity-views-an-essential-for-roblox-enthusiasts/"><u>[Updated] Perfecting Proximity Views An Essential for Roblox Enthusiasts</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-precision-planning-of-collaborative-slack-plus-filmora-meetings/"><u>[Updated] Precision Planning of Collaborative Slack + Filmora Meetings</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-prime-old-school-techniques-elevating-edits-for-2024/"><u>[Updated] Prime Old-School Techniques Elevating Edits for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-avoid-posting-mistakes-on-twitter-by-knowing-the-aspect-ratio/"><u>2024 Approved Avoid Posting Mistakes on Twitter by Knowing the Aspect Ratio</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-fixes-for-windows-remote-desktop-problems/"><u>Essential Fixes for Windows Remote Desktop Problems</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-pathways-for-opening-hardware-spaces-on-w10w11/"><u>Essential Pathways for Opening Hardware Spaces on W10/W11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-expected-video-gb-for-continuous-24-hour-viewing/"><u>In 2024, Expected Video GB for Continuous 24-Hour Viewing</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-how-to-create-endless-video-on-iphone/"><u>In 2024, How-To Create Endless Video on iPhone</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-to-prevent-data-loss-in-unresponsive-usb-cases-windows/"><u>Methods to Prevent Data Loss in Unresponsive USB Cases (Windows)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-the-bargains-what-to-expect-from-amazon-prime-day-2024/"><u>Navigating the Bargains: What to Expect From Amazon Prime Day 2024?</u></a></li>
+<li><a href="https://windows11.techidaily.com/personalize-your-pcs-clock-view-ideal-screensaver-creation-apps-in-windows-platform/"><u>Personalize Your PC's Clock View: Ideal Screensaver Creation Apps in Windows Platform</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleash-your-windows-start-windows-media-player-now/"><u>Unleash Your Windows: Start Windows Media Player Now</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-torrent-speed-resetting-stalled-status-on-windows/"><u>Unlocking Torrent Speed: Resetting Stalled Status on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-non-essential-windows-applications-for-elimination/"><u>Unveiling Non-Essential Windows Applications for Elimination</u></a></li>
 </ul></div>
 

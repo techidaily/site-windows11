@@ -1,7 +1,7 @@
 ---
 title: "Unmasking Windows 'Not Found': Top Fixes and Strategies"
-date: 2024-08-08T06:08:10.057Z
-updated: 2024-08-09T06:08:10.057Z
+date: 2024-12-21T17:14:54.736Z
+updated: 2024-12-25T17:25:03.961Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 
  Stop. Take a deep breath. Your data is still there—and just as importantly, you can fix the problem. Let's take a look at how to fix the "operating system not found" error on Windows 10 or Windows 11.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Force Restart Your Windows
 
  Plenty of Windows troubles such as freezing up or programs malfunctions can be taken care of by a simple restart. In this case, since you are unable to boot your operating system, the only option left is to restart your PC straight from the power button of your computer.
@@ -39,12 +36,13 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 
  Within the Boot tab, highlight**Hard Drive** and press**Enter** . Make sure**Hard Drive** is listed above**USB Storage** ,**CD\\DVD\\BD-ROM** ,**Removable Devices** , and**Network Boot** . You can adjust the order using the**+** and**–** keys.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![boot order windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/boot-order-windows.jpg)
 
  If everything in your BIOS menu looked fine, jump to step three. If you didn't see the hard drive listed, go to step two.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Reset the BIOS
 
@@ -55,8 +53,9 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
  If the operating system is still not found, you can stop reading this article. Unless you know a lot about building computers, you'll need to take your machine to a computer repair shop.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Fix the Boot Records
 
  Microsoft Windows primarily relies on three records to boot your machine. They are the**Master Boot Record** (MBR),**DOS Boot Record** (DBR), and the**Boot Configuration Database** (BCD).
@@ -65,9 +64,6 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 
  Thankfully, fixing these records is not as complicated as you might think. You just need a removable Windows installation drive. Use Microsoft's[Media Creation Tool](https://www.microsoft.com/en-gb/software-download/windows10) to create some Windows installation media.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![windows media creation tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-media-creation-tool.jpg)
 
  When your tool is ready, you need to use it to boot your machine. Depending on your device, you might only need to press a single key during the boot process, or you might have to change the boot order in the BIOS menu.
@@ -91,13 +87,11 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 ![secure boot configuration windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/secure-boot-configuration-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Activate the Windows Partition
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![disk part](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/disk-part.jpg)
 
  It's possible that the Windows partition is disabled. If that's the case, then it's possible to encounter the 'operating system not found' error in your PC. You can fix this using Windows' native diskpart tool. To work through the following steps, you will once again need a Windows installation media USB.
@@ -111,6 +105,10 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
  Now type**list volume** and press**Enter** . It will show you all the partitions on the disk you selected. Establish which partition Windows is installed on and make a note of the number, then type**select volume \[number\]** , again replacing \[number\] with the number you just noted.
 
  Finally, type**active** and press**Enter** . To see if the process was successful, restart your machine.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Use Easy Recovery Essentials
 
@@ -131,6 +129,10 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 
 **Download:** [Easy Recovery Essentials](https://neosmart.net/EasyRE/) ($40, free for Windows 11)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Reinstall Windows
 
  If none of the methods above have worked so far, then perhaps a complete reinstallation is in order. Don't worry, you won't lose any of your data though. Now, since you can't launch your PC, you will have to reinstall your Windows straight from a USB drive, as[laid out by Microsoft](http://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/install-windows-from-a-usb-flash-drive?view=windows-11) .
@@ -139,9 +141,6 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 
  The process is fairly straightforward from there. Just follow the on-screen instructions, launch the installation wizard and wait while it installs a new copy of Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ## Last Resort: Head to the Shops
 
  Our tips should help you fix the operating system not found error on Windows in all but the direst of circumstances. Unfortunately, however, it's just one of many error messages that you're likely to encounter while using Microsoft's operating system.
@@ -160,8 +159,6 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -169,4 +166,26 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-unlocking-potential-discovering-hidden-streaming-tricks/"><u>[New] 2024 Approved Unlocking Potential Discovering Hidden Streaming Tricks</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/he-art-of-the-end-scene-tutorials-and-templates-for-youtube/"><u>[New] The Art of the End Scene Tutorials & Templates for YouTube</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-unveiling-the-best-video-player-apps-for-idevices-top-10/"><u>[Updated] 2024 Approved Unveiling the Best Video Player Apps for iDevices (Top 10)</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/d-link-powerline-adapter-series-2000-the-efficient-path-to-fast-data-exchange-an-insiders-assessment/"><u>D-Link Powerline Adapter Series 2000: The Efficient Path to Fast Data Exchange - An Insider's Assessment</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/explore-all-content-jointly-shared-photos-and-vids-for-2024/"><u>Explore All Content Jointly Shared Photos & Vids for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/explore-football-fantasyland-how-to-thrive-in-ocm-without-spending-money/"><u>Explore Football Fantasyland: How to Thrive in OCM Without Spending Money</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-realme-v30t-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Realme V30T Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-identify-hard-drive-specs-on-windows/"><u>How to Identify Hard Drive Specs on Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-malfunctioning-your-hardware-drivers-with-windows-device-manager-on-windows-7-by-drivereasy-guide/"><u>How to identify malfunctioning your hardware drivers with Windows Device Manager on Windows 7</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-mastering-instagram-the-art-of-rewinding-videos/"><u>In 2024, Mastering Instagram The Art of Rewinding Videos</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-samsung-galaxy-s24-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Samsung Galaxy S24 Phone</u></a></li>
+<li><a href="https://windows11.techidaily.com/integrating-taskbar-on-modern-windows-11-tablets/"><u>Integrating Taskbar on Modern Windows 11 Tablets</u></a></li>
+<li><a href="https://windows11.techidaily.com/journey-to-enhanced-productivity-integrating-android-and-windows-11-devices/"><u>Journey to Enhanced Productivity: Integrating Android and Windows 11 Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-value-uncertainty-issues-in-windows-10/"><u>Overcoming Value Uncertainty Issues in Windows 10</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/social-platforms-and-sentient-software-which-to-trust/"><u>Social Platforms and Sentient Software: Which to Trust?</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategic-approach-to-overcoming-wows-unrecoverable-error-132/"><u>Strategic Approach to Overcoming WoW’s Unrecoverable Error 132</u></a></li>
+<li><a href="https://windows11.techidaily.com/trigger-microsoft-word-to-open-email-attachments-in-read-pane/"><u>Trigger Microsoft Word to Open Email Attachments in Read Pane</u></a></li>
+<li><a href="https://windows11.techidaily.com/unheard-voices-in-meet-solving-windows-microphone-problems/"><u>Unheard Voices in Meet: Solving Windows Microphone Problems</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-world-unravested-formulating-and-examining-diagnostic-data/"><u>Windows World Unravested: Formulating & Examining Diagnostic Data</u></a></li>
+</ul></div>
 

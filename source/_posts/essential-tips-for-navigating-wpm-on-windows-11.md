@@ -1,7 +1,7 @@
 ---
 title: Essential Tips for Navigating WPM on Windows 11
-date: 2024-08-08T06:05:57.576Z
-updated: 2024-08-09T06:05:57.576Z
+date: 2024-12-20T17:54:38.904Z
+updated: 2024-12-25T19:47:52.862Z
 tags:
   - windows10
   - windows11
@@ -42,17 +42,15 @@ Some examples of popular package managers include:
 * Yarn.
 * Advanced Packaging Tool (APT).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## What Is the Windows Package Manager?
 
  The Windows Package Manager, or winget as it is commonly referred to, is Microsoft’s version of a Linux-style package manager. Winget was released in 2020 as an open-source command-line utility package manager and contains a wide range of available applications for users to install from. Like other widely used package managers, Microsoft has made sure that the Windows Package Manager is free and available on GitHub.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![remove reinstall microsoft store windows 11](https://thmb.techidaily.com/99bb08ac4320921b1ffab3e5a5166b4c117aac2cf8ab3a2d0b2277eb6b26d486.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  By using the Windows Package Manager, you can easily install, update, and delete applications with just a single command in the terminal. Say goodbye to the days of downloading setup files and manually installing each application.
 
@@ -60,9 +58,6 @@ Some examples of popular package managers include:
 
  Previously, Windows users had to rely on Chocolatey—a third-party package manager specialized for Windows OS. Chocolatey is quite powerful and widely adopted by the larger Windows fraternity. On the other hand, most Windows users are not familiar or comfortable with the Windows Package Manager yet; we hope this guide will help change that.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Set Up Windows Package Manager on Windows 11
 
  The Windows Package Manager does not come pre-installed on Windows, so you’ll have to download it manually. Fortunately, the installation process is straightforward and shouldn’t pose any hurdles.
@@ -77,15 +72,17 @@ Some examples of popular package managers include:
 
 1. Launch the**Microsoft Store** using the**Start menu** .
 2. Search for**App Installer** and select the best match.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![app installer win11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/app-installer.jpg)
 3. Click on the**Install** button if you see it. Otherwise,**App Installer** already exists on your PC, and you will just have to make sure it’s updated.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Install Winget Through PowerShell
 
  If you’re having issues in the Microsoft Store, you should consider installing winget using Windows PowerShell. Once you’ve connected to the internet, follow the below steps:
@@ -99,9 +96,6 @@ Some examples of popular package managers include:
 
  Now that you’ve set up winget, you’ll have to learn how to use commands associated with the winget tool, including downloading, config configuring, and viewing installed applications.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. How to Download New Applications
 
  There’s a vast range of available applications within winget, and you can download apps such as Google Chrome, 7-Zip, etc.
@@ -116,6 +110,10 @@ To download an application using winget, use the following command:
 
 ![winget search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/winget-search.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 For example, to search for zipping programs, you can type:
 
 `winget search zip`
@@ -123,8 +121,9 @@ For example, to search for zipping programs, you can type:
  Alternatively, you can use a[third-party tool](https://winstall.app/) that provides an easy-to-use user interface for winget.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. How to View Installed Applications
 
  You can view applications that have been installed on your PC through:
@@ -143,14 +142,11 @@ For example, to search for zipping programs, you can type:
 
  Winget is incredible at installing applications on your Windows 11 PC. You no longer need to hunt for malware-free download links on the internet; simply open up a terminal and download the application you need via winget.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -159,4 +155,22 @@ For example, to search for zipping programs, you can type:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-streamlined-scheduling-making-the-most-of-zoom-calls/"><u>[Updated] Streamlined Scheduling Making the Most of Zoom Calls</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-dynamics-behind-tseries-youtube-earning-patterns/"><u>[Updated] The Dynamics Behind TSeries' YouTube Earning Patterns</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-free-visuals-galore-top-10-sites-to-explore/"><u>2024 Approved Free Visuals Galore – Top 10 Sites to Explore</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-perfect-your-online-presence-with-these-18-elite-recording-systems/"><u>2024 Approved Perfect Your Online Presence with These 18 Elite Recording Systems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhance-playtime-by-resolving-persona-5-strikers-pc-crashing-dilemmas/"><u>Enhance Playtime by Resolving 'Persona 5 Strikers' PC Crashing Dilemmas</u></a></li>
+<li><a href="https://windows11.techidaily.com/from-mp3-files-to-audio-cds-a-step-by-step-imgburn-process-on-pc/"><u>From Mp3 Files to Audio CDs: A Step-by-Step ImgBurn Process on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-overcome-privilege-not-held-error-code-0x80070522-in-win1110/"><u>How to Overcome Privilege Not Held Error (Code 0X80070522) in Win11/10</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-se-2020-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone SE (2020) to iPhone | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mitigating-installer-setbacks-for-amd-software/"><u>Mitigating Installer Setbacks for AMD Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-non-timed-lock-screen-pause-on-pcs/"><u>Resolving Non-Timed Lock Screen Pause on PCs</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/troubleshooting-guide-for-unresponsive-graphics-cards-learn-from-yl-software-experts/"><u>Troubleshooting Guide for Unresponsive Graphics Cards - Learn From YL Software Experts</u></a></li>
+<li><a href="https://windows11.techidaily.com/uncover-hidden-windows-11-taskbar-investigative-tool/"><u>Uncover Hidden Windows 11 Taskbar Investigative Tool</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-the-battle-against-windows-service-not-responding-errors/"><u>Winning the Battle Against Windows' Service Not Responding Errors</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/yl-software-solutions-are-they-aligned-with-gdpr-regulations/"><u>YL Software Solutions: Are They Aligned With GDPR Regulations?</u></a></li>
+</ul></div>
 

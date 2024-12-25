@@ -1,7 +1,7 @@
 ---
 title: "Make Your File Explorer Reliable: Fixes That Work in Windows 11"
-date: 2024-08-08T06:09:24.152Z
-updated: 2024-08-09T06:09:24.152Z
+date: 2024-12-18T19:38:44.555Z
+updated: 2024-12-25T18:13:06.554Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/c07b7ea823a20fff0d48f1accc60826d6016566f3
 
  Frequent File Explorer crashes can disrupt your workflow and leave you frustrated. This post will discuss some useful tips to fix File Explorer crashes in Windows 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Restart the Windows Explorer Process
 
  Windows Explorer is a system process that provides the graphical interface for several utilities like File Explorer, taskbar, Start menu, and more. Temporary issues with the Windows Explorer process can sometimes cause File Explorer to close unexpectedly on Windows. Instead of rebooting the system entirely, you can simply restart the Windows Explorer process to fix issues with it. Here are the steps for the same.
@@ -36,14 +40,8 @@ thumbnail: https://thmb.techidaily.com/c07b7ea823a20fff0d48f1accc60826d6016566f3
 
 1. Open the**Start menu** , search for**file explorer options** , and select the first result that appears.
 2. Under the**General** tab, click the**Clear** button next to**Clear File Explorer history** .  
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![File Explorer Options Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Clear-File-Explorer-History.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Configure File Explorer Options
 
 [Issues with Quick Access in Windows 11](https://www.makeuseof.com/windows-11-fix-quick-access-not-showing-recent-files/) can also cause File Explorer to malfunction at times. If that's the case, you can configure File Explorer to open on This PC page to resolve the issue. Here are the steps you can follow.
@@ -58,9 +56,6 @@ thumbnail: https://thmb.techidaily.com/c07b7ea823a20fff0d48f1accc60826d6016566f3
 
  It’s always a good idea to protect your system with an antivirus program. However, not all antivirus programs are equally reliable. It’s possible that your third-party antivirus program is conflicting with File Explorer processes, resulting in abrupt crashes. To check for this possibility, you can temporarily disable your antivirus program by clicking its icon on the taskbar and selecting**Disable > Disable until the next restart** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Launch Folder Windows in a Separate Process
 
  By default, all instances of File Explorer operate within a single explorer.exe process. As a result, when one of the File Explorer windows experiences issues, it affects all the active windows. To avoid this, you can configure Windows to open each File Explorer window in a separate process. Here's how to do it.
@@ -70,30 +65,29 @@ thumbnail: https://thmb.techidaily.com/c07b7ea823a20fff0d48f1accc60826d6016566f3
 3. Switch to the**View** tab.
 4. Under**Advanced settings** , tick the**Launch folder windows in a separate process** checkbox.
 5. Hit**Apply** followed by**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![Launch Folder Windows in a Separate Process](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/launch-folder-windows-in-a-separate-process.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Run the Windows Memory Diagnostic Tool
 
  You are likely to experience such File Explorer crashes if there is an issue with your PC’s RAM. Fortunately, Windows includes a useful Memory Diagnostic tool that can examine your RAM for any potential errors. Running the tool requires a system restart, so be sure to save all your work beforehand.
 
  Press**Win + R** to open the Run dialog box. Type**mdsched** in the box and press**Enter** . Click**Restart now and check for problems** in the Windows Memory Diagnostic window.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Run Windows Memory Diagnostic Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-windows-memory-diagnostic-tool.jpg)
 
  Wait for the Windows Memory Diagnostic tool to scan your PC's RAM for errors. If it discovers any issues, take appropriate steps to troubleshoot those problems.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Troubleshoot in Clean Boot Mode
 
@@ -111,23 +105,20 @@ No advertising on the website.
 * **Install Windows Updates:** Such issues can also occur due to a buggy or outdated Windows build. You can try[installing all the pending Windows updates](https://www.makeuseof.com/windows-11-install-updates/) and see if that solves your problem.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Use File Explorer Again Without Any Interruptions
 
  So, this is how you can stop File Explorer from crashing on your Windows computer. In most cases, temporary glitches or an outdated File Explorer cache are the main culprits behind the issue. If not, you may have to resort to the other methods mentioned above to resolve the underlying issue.
 
  Not a fan of the default File Explorer in Windows 11? There are plenty of File Explorer alternatives worth trying out.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -136,4 +127,20 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-zoom-mastery-for-podcasters-a-complete-guide-to-exceptional-audio-capture/"><u>[New] 2024 Approved Zoom Mastery for Podcasters A Complete Guide to Exceptional Audio Capture</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-youtube-shorts-demystified-in-30-minutes/"><u>[Updated] 2024 Approved YouTube Shorts Demystified in 30 Minutes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/dvd-digiarty-t17252907156392/"><u>DVDコピー手順を学ぶ - Digiarty公式チャンネルで見つける方法 | デジタル複製技術</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/effiziente-methode-fur-das-vervielfaltigen-und-kopieren-von-dynamisches-volume-auf-die-basis-hardware-in-windows-systemen/"><u>Effiziente Methode Für Das Vervielfältigen Und Kopieren Von Dynamisches Volume Auf Die Basis-Hardware in Windows Systemen</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-self-repair-your-iphone-15-and-m2-mac-mini-ultimate-step-by-step-tutorials-for-tech-enthusiasts/"><u>How To Self-Repair Your iPhone 15 & M2 Mac Mini - Ultimate Step-by-Step Tutorials for Tech Enthusiasts</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-poco-m6-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Poco M6 5G to iPod | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-turn-on-quick-startup-your-complete-windows-11-guidebook/"><u>How to Turn On Quick Startup: Your Complete Windows 11 Guidebook</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-maximize-reach-essential-youtube-seo-tools-unlocked/"><u>In 2024, Maximize Reach Essential YouTube SEO Tools Unlocked</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-unlocking-old-tweets-with-twitter-archive-tools/"><u>In 2024, Unlocking Old Tweets with Twitter Archive Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/make-your-phone-games-mobile-again-transitioning-to-pcwindows-11-via-google-play/"><u>Make Your Phone Games Mobile Again: Transitioning to PC/Windows 11 via Google Play</u></a></li>
+<li><a href="https://windows11.techidaily.com/pinpoint-customization-techniques-for-windows-11-search/"><u>Pinpoint Customization Techniques for Windows 11 Search</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-disms-role-in-fixing-win11-os-images/"><u>Understanding DISM's Role in Fixing Win11 OS Images</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-the-mystery-behind-windows-memory-snapshot/"><u>Unraveling the Mystery Behind Windows' Memory Snapshot</u></a></li>
+</ul></div>
 

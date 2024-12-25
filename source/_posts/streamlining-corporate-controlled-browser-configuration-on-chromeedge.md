@@ -1,7 +1,7 @@
 ---
 title: Streamlining Corporate Controlled Browser Configuration on Chrome/Edge
-date: 2024-12-09T22:57:08.806Z
-updated: 2024-12-16T21:28:16.045Z
+date: 2024-12-18T18:49:55.695Z
+updated: 2024-12-25T19:26:18.098Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Causes the "Your Browser is Managed By Your Organization" Error?
 
  If you use a work computer, this message indicates that your organization controls some settings and behavior of the Edge or Chrome browser. You can ignore the message if you are using a work computer and contact your IT admin to verify the cause.
@@ -42,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
 ![avg web shield off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/avg-web-shield-off.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Third-party antivirus programs come with some web protection features. Sometimes, these features can be intrusive and create issues with your network and the browser. For example, the AVG Antivirus Web Shield feature can trigger the "your browser is managed by your organization" message.
@@ -52,10 +56,6 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
  Next, launch Task Manager (see[how to launch Task Manager](https://www.makeuseof.com/how-to-access-task-manager-on-windows-11/) ) and end services associated with the Chrome or Edge browser. If the message vanishes upon relaunch, it is safe to assume that your antivirus web protection is responsible for the message. You can turn on your antivirus and the web protection feature now.
 
  If the issue persists, it is likely malware or adware triggering the message on your browser. To fix the problem, check the Registry Editor policies for the browser and remove any suspicious policies.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Remove Chrome or Edge Registry Editor Policies
 
@@ -71,14 +71,14 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
 ![delete chrome policy registry editor 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/delete-chrome-policy-registry-editor-1.jpg)
 5. If there are no Chrome or Edge policies in the**Policies** key, navigate to the following location:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\`
 6. Next, if you use**Chrome** , navigate to**\\Google\\Chrome** and delete any policy values in the right pane.  
 ![delete chrome policy registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/delete-chrome-policy-registry-editor.jpg)
 7. For**Edge** , navigate to**\\Microsoft\\MicrosoftEdge** . In the right pane, check for any suspicious policies. If it exists, right-click on the policy and select**Delete** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 8. Close Registry Editor and restart your computer to see if the message is removed.
 
@@ -99,12 +99,16 @@ RD /S /Q "%WinDir%\System32\GroupPolicy"
 6. Close Command Prompt and check if the message is removed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Reset Chrome and Edge
 
 ![Clicking on the Reset Button to Restore Settings to their Original Defaults in Chrome Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/5-clicking-on-the-reset-button-to-restore-settings-to-their-original-defaults-in-chrome-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  A browser reset removes settings and shortcuts, disables extensions, and deletes cookies and other temporary site data. It doesn’t remove your bookmarks or passwords, so it is completely safe to perform.
 
@@ -120,10 +124,6 @@ To reset Google Chrome:
 To reset Microsoft Edge:
 
 ![Reset Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/reset-edge-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Click the**three-dots menu** and select**Settings** .
 2. Open the**Reset settings** tab in the left pane, and click on**Restore settings to their default values** .
@@ -180,24 +180,18 @@ To perform a Windows system reset:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-maximizing-your-videos-impact-with-expertly-recorded-voices/"><u>[New] 2024 Approved Maximizing Your Video's Impact with Expertly Recorded Voices</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-confirming-youtube-pro-rated-earnings/"><u>[Updated] 2024 Approved Confirming YouTube Pro-Rated Earnings</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-key-elements-of-viral-success-in-instagram-videos/"><u>[Updated] Key Elements of Viral Success in Instagram Videos</u></a></li>
-<li><a href="https://windows11.techidaily.com/activating-clipboard-operations-in-application-guard-edge-win11-guide/"><u>Activating Clipboard Operations in Application Guard (Edge) - Win11 Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-qt-plugin-initialization-failure-error/"><u>Addressing Qt Plugin Initialization Failure Error</u></a></li>
-<li><a href="https://windows11.techidaily.com/advance-windows-11-task-manager-refresh-speeds/"><u>Advance Windows 11 Task Manager Refresh Speeds</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoiding-quit-notifications-from-roblox-on-your-computer/"><u>Avoiding Quit Notifications From Roblox on Your Computer</u></a></li>
-<li><a href="https://windows11.techidaily.com/boosting-pc-maintenance-speed-customizing-win-1011-hotkeys/"><u>Boosting PC Maintenance Speed: Customizing Win 10/11 Hotkeys</u></a></li>
-<li><a href="https://windows11.techidaily.com/briskly-engage-bings-ai-assistant-in-windows-11-search-field/"><u>Briskly Engage Bing's AI Assistant in Windows 11 Search Field</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypassing-wacatacbml-barriers-a-guide-for-safe-windows-navigation/"><u>Bypassing Wacatac.B!ml Barriers - A Guide for Safe Windows Navigation</u></a></li>
-<li><a href="https://windows11.techidaily.com/command-line-tip-disable-amdnvidia-gpu-enhancements/"><u>Command Line Tip: Disable AMD/Nvidia GPU Enhancements</u></a></li>
-<li><a href="https://windows11.techidaily.com/compact-windows-powered-systems-unveiled/"><u>Compact Windows-Powered Systems Unveiled</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-itel-s23-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Itel S23? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-discover-hidden-airtags-a-guide-to-protect-your-privacy-based-on-zdnets-research/"><u>How to Discover Hidden AirTags: A Guide to Protect Your Privacy Based on ZDNet's Research</u></a></li>
-<li><a href="https://driver-download.techidaily.com/hp-officejet-pro-e8610-driver-update-for-compatibility-with-multiple-windows-os-versions-including-11-8-and-7/"><u>HP Officejet Pro E8610 Driver Update for Compatibility with Multiple Windows OS Versions Including 11, 8 & 7</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-honor-100-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Honor 100 Lock Screen Password?</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-how-to-innovatively-deploy-music-stickers-on-instafeatures/"><u>In 2024, How to Innovatively Deploy Music Stickers on InstaFeatures</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/resolving-network-connectivity-problems-expert-tips-from-yl-computing/"><u>Resolving Network Connectivity Problems: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-discover-the-perfect-video-editor-minitool-movie-maker-review-and-alternatives/"><u>Updated 2024 Approved Discover the Perfect Video Editor Minitool Movie Maker Review and Alternatives</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-create-memes-for-free-with-the-meme-maker-tools/"><u>[New] Create Memes for Free with the Meme Maker Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-acclaimed-vehicle-monitoring-systems-explained-for-2024/"><u>[Updated] Acclaimed Vehicle Monitoring Systems Explained for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-explore-the-power-of-vce-22-for-impeccable-video-clarity/"><u>[Updated] In 2024, Explore the Power of VCE 2.2 for Impeccable Video Clarity</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-hardware-insights-by-toms-review/"><u>Comprehensive Hardware Insights by Tom's Review</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/cut-edit-share-the-top-android-video-editing-apps-free-and-paid/"><u>Cut, Edit, Share The Top Android Video Editing Apps (Free and Paid)</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-glitch-management-in-wow-stop-error-132/"><u>Mastering Glitch Management in WoW: Stop Error #132</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-recovery-8-steps-for-lost-files-in-windows/"><u>Mastering Recovery: 8 Steps for Lost Files in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-fix-for-an-invisible-logging-window-on-win1011/"><u>Mastering the Fix for an Invisible Logging Window on WIN10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-your-way-to-print-management-in-w11-max-50-chars/"><u>Navigating Your Way to Print Management in W11 (Max 50 Chars)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-personalizing-whatsapp-ringtone-on-all-devices-for-2024/"><u>The Ultimate Guide to Personalizing WhatsApp Ringtone on All Devices for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-path-to-updated-radeon-graphics-on-windows-11/"><u>The Ultimate Path to Updated Radeon Graphics on Windows 11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-rated-all-inclusive-full-screen-capture-tools-for-complete-desktop-recording/"><u>Top-Rated All-Inclusive Full Screen Capture Tools for Complete Desktop Recording</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-windows-pre-run-settings-essentials/"><u>Unveiling Windows' Pre-Run Settings Essentials</u></a></li>
 </ul></div>
 

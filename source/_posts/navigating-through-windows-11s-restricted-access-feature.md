@@ -1,7 +1,7 @@
 ---
 title: Navigating Through Windows 11’S Restricted Access Feature
-date: 2024-12-09T22:40:48.580Z
-updated: 2024-12-16T20:21:05.668Z
+date: 2024-12-22T18:09:19.140Z
+updated: 2024-12-25T18:33:26.650Z
 tags:
   - windows10
   - windows11
@@ -25,12 +25,16 @@ thumbnail: https://thmb.techidaily.com/90c049846794e5aed031591412d4826aac7c7bd65
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is Windows 11 S Mode?
 
 ![photo of a person using a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/using-laptop.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  S Mode is a feature that Microsoft created to give users a secure, smooth experience with the Windows operating system. When you use Windows 11 in S mode, your computer only gets access to basic resources and drivers. More notably, S mode freezes all other apps that hog your RAM and processes that may task your CPU. These changes in your user experience of Windows S mode will sound very familiar if you have used a Chromebook.
@@ -40,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/90c049846794e5aed031591412d4826aac7c7bd65
  It depends on your security and privacy goals. Here are four reasons you may consider using a PC in Windows S Mode:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. You Want to Ensure Your Child’s Safety
@@ -49,17 +53,9 @@ thumbnail: https://thmb.techidaily.com/90c049846794e5aed031591412d4826aac7c7bd65
 
  You may also want to get a standard PC for your child and put it in S mode if you don’t want to buy a Chromebook for almost the same price. You may then take the computer out of S mode as their tech needs and ability to handle more responsibilities increase. But remember, deactivating S mode is quite easy, and your school-age child may learn to [bypass parental controls](https://www.makeuseof.com/tag/7-ways-children-might-bypass-parental-control-software/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. You Handle Sensitive Documents
 
 ![photo of person using a pc in tab mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/using-pc-in-tab-mode.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Window S mode prevents users from installing third-party apps. This restriction means your chances of installing malware on your computer reduce significantly. So, if you are a businessperson who routinely handles documents containing company secrets, you may use your personal computer in S mode.
 
@@ -70,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/90c049846794e5aed031591412d4826aac7c7bd65
  If you find yourself needing an [escape from digital noise](https://www.makeuseof.com/best-digital-detox-tools-to-boost-productivity/) but can’t avoid your main PC entirely, consider getting a PC in S mode. Games on Microsoft Store aren’t the most exciting. And many handy third-party apps aren’t there either. So, you will be using only the [apps necessary for your productivity](https://www.makeuseof.com/windows-10-built-in-productivity-features/).
 
  However, remember that S mode is a one-way street. There’s no leaving S mode and going back. So, if you need to install a new non-Microsoft Store app for work, you’ll have to leave S mode. The alternative would be using a separate computer or web-based version of the app, if available. If these options sound like a hassle or you don't want to buy another PC, you can always [dual-boot another operating system](https://www.makeuseof.com/tag/how-to-install-multiple-bootable-operating-systems-on-one-usb-stick/) instead.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. You Want the Chromebook Experience
 
@@ -89,10 +89,6 @@ thumbnail: https://thmb.techidaily.com/90c049846794e5aed031591412d4826aac7c7bd65
 
  As seen on this [Microsoft Dev Blog](https://devblogs.microsoft.com/commandline/will-linux-distros-run-on-windows-10-s/), users of Windows S can only run Modern Universal Windows Platform (UWP) store apps. These are apps that Microsoft developers directly created or verified. Other types of apps delivered through third-party licenses to the Microsoft Store will be unavailable in S mode.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. You Can’t Use the Command Line or Code Editors
 
  S mode is not for you if you are a developer, hacker, admin, or IT person managing a network of company computers. S mode prevents users from using the [Windows Terminal or PowerShell](https://www.makeuseof.com/windows-terminal-vs-powershell/). You can’t use Linux either. The main reason is that these apps run outside the safe environment that protects the operating system from malware. So, VS Code, other [code editors](https://www.makeuseof.com/9-best-free-code-editors/), and developer tools are off the table.
@@ -104,7 +100,7 @@ thumbnail: https://thmb.techidaily.com/90c049846794e5aed031591412d4826aac7c7bd65
 ![photo of the windows search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/regedit.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Activate S Mode in Windows 11
@@ -120,6 +116,10 @@ thumbnail: https://thmb.techidaily.com/90c049846794e5aed031591412d4826aac7c7bd65
 1. If your PC is indeed running Windows 11 Home in S mode, you can leave by navigating to **Windows > Settings > System > Activation**.
 2. Click **Upgrade your edition of Windows**
 3. Follow the on-screen instructions
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Window S Mode: Fast, Secure, but Limiting
 
@@ -137,22 +137,19 @@ thumbnail: https://thmb.techidaily.com/90c049846794e5aed031591412d4826aac7c7bd65
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-reinstate-disappearing-watch-thumbnail/"><u>[New] 2024 Approved Reinstate Disappearing Watch Thumbnail</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-easy-and-fast-youtubes-best-subtitle-getters/"><u>[Updated] In 2024, Free, Easy and Fast YouTube's Best Subtitle Getters</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-the-15-best-smartphone-blur-apps-reviewed/"><u>[Updated] In 2024, The 15 Best Smartphone Blur Apps Reviewed</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-top-15-budget-friendly-online-editors-for-stunning-images/"><u>[Updated] In 2024, Top 15 Budget-Friendly Online Editors for Stunning Images</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-reviving-shadows-and-highlights-in-iphone-hdr-footage-with-premiere-pro/"><u>2024 Approved Reviving Shadows and Highlights in iPhone HDR Footage with Premiere Pro</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-oppo-a56s-5g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Oppo A56s 5G</u></a></li>
-<li><a href="https://windows11.techidaily.com/accelerate-profit-with-windows-11-pro-capture-best-offers/"><u>Accelerate Profit with Windows 11 Pro: Capture Best Offers</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-gaps-in-time-remaining-estimates-of-windows-11-laptops/"><u>Addressing Gaps in Time Remaining Estimates of Windows 11 Laptops</u></a></li>
-<li><a href="https://windows11.techidaily.com/audible-overdrive-best-5-programs-for-higher-than-100-pc-audio/"><u>Audible Overdrive: Best 5 Programs for Higher-Than-100% PC Audio</u></a></li>
-<li><a href="https://windows11.techidaily.com/audio-system-refreshment-navigating-the-windows-driver-update-process/"><u>Audio System Refreshment: Navigating the Windows Driver Update Process</u></a></li>
-<li><a href="https://windows11.techidaily.com/clear-path-to-app-removal-tackling-do-not-have-access-errors/"><u>Clear Path to App Removal: Tackling Do Not Have Access Errors</u></a></li>
-<li><a href="https://windows11.techidaily.com/deciphering-the-significance-of-windows-subsystem-for-linux-error-4294967295/"><u>Deciphering the Significance of Windows Subsystem for Linux Error 4294967295</u></a></li>
-<li><a href="https://windows11.techidaily.com/diminishing-drain-techniques-to-limit-vanguards-user-mode-cpu-use/"><u>Diminishing Drain: Techniques to Limit Vanguard's User-Mode CPU Use</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719228177134-functions-not-working-on-win10-heres-what-to-do/"><u>Functions Not Working on Win10? Here's What to Do!</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on OnePlus 12R? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-siri-a-guide-to-enable-text-to-speech-functionality-on-ios-and-mac/"><u>Mastering Siri: A Guide to Enable Text-to-Speech Functionality on iOS & Mac</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/slash-your-budget-with-acers-latest-deal-on-the-nitro-5-for-gamers-save-250-more-zdnet/"><u>Slash Your Budget with Acer's Latest Deal on the Nitro 5 for Gamers - Save $250 More! | ZDNet</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-elevating-android-video-to-a-new-level-time-lapse-excellence/"><u>[New] 2024 Approved Elevating Android Video to a New Level Time-Lapse Excellence</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-comprehensive-insights-mastering-lenovo-screenshot-techniques/"><u>[New] Comprehensive Insights Mastering Lenovo Screenshot Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-quickly-and-easily-share-a-youtube-playlist/"><u>[New] In 2024, How to Quickly And Easily Share A YouTube Playlist</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-formulating-final-fact-finding-flourishes/"><u>[Updated] In 2024, Formulating Final Fact-Finding Flourishes</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-guide-updating-your-toshiba-notebooks-drivers-on-a-windows-computer/"><u>Easy Guide: Updating Your Toshiba Notebook's Drivers on a Windows Computer</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-on-zte-nubia-flip-5g-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Videos Not Playing on ZTE Nubia Flip 5G?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/how-to-make-your-archive-pop-with-instagrams-vibrant-filter-options-for-2024/"><u>How to Make Your Archive Pop with Instagram's Vibrant Filter Options for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/key-steps-for-admin-level-access-on-windows/"><u>Key Steps for Admin-Level Access on Windows</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/narakeet-review-text-to-speech-convenient-voice-maker/"><u>Narakeet Review Text to Speech Convenient Voice Maker</u></a></li>
+<li><a href="https://windows11.techidaily.com/pixel-perfect-designs-for-your-pc-wallpaper/"><u>Pixel Perfect Designs for Your PC Wallpaper</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/real-time-hardware-for-vr-for-2024/"><u>Real-Time Hardware for VR for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-resolve-error-0x80041015-in-ms-word-and-excel/"><u>Strategies to Resolve Error 0X80041015 in MS Word & Excel</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailoring-permission-levels-for-non-administrative-windows-users/"><u>Tailoring Permission Levels for Non-Administrative Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-strategy-against-corrupted-filedir-error-x70-on-pcs/"><u>Winning Strategy Against 'Corrupted' File/Dir Error X70 on PCs</u></a></li>
 </ul></div>
 

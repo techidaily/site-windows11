@@ -1,7 +1,7 @@
 ---
 title: Modifying Webcam Activity Alert Settings for Win11
-date: 2024-12-15T22:02:25.245Z
-updated: 2024-12-16T16:29:44.466Z
+date: 2024-12-24T17:36:19.436Z
+updated: 2024-12-25T16:58:14.645Z
 tags:
   - windows10
   - windows11
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Turn On Camera On and Off Notifications
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 ![Enable camera notifications in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/notify-camera-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the**NoPhysicalCameraLED** value is missing, you can create it. Right-click on the empty space in the right pane, and click**New > Dword(32-bit) value** . Set its name and**Value data** to**1** . Then, save the new changes and restart your computer for the changes to take place.
@@ -55,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
  Once your computer boots up access the camera and test if Windows is showing the camera notification.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Check Camera History
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
  Also, it might be worth it to take a look at your Privacy settings and[check which apps can access your camera](https://www.makeuseof.com/how-to-change-app-permissions-in-windows-10/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Know When Your Camera Starts on Windows
@@ -87,18 +87,20 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-boost-your-tv-experience-automatic-loops-of-youtube-videos/"><u>[New] Boost Your TV Experience Automatic Loops of YouTube Videos</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-fix-invisible-facebook-watch-icon-now-fixed-for-2024/"><u>[New] Fix Invisible Facebook Watch Icon, Now Fixed for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-mac-recording-hub-essential-insights-for-2024/"><u>[New] Mac Recording Hub Essential Insights for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/rofessionals-picks-best-editors-for-online-streams-for-2024/"><u>[New] Professionals' Picks Best Editors for Online Streams for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unleash-creative-potential-with-a-comprehensive-guide-to-ps-background-removal/"><u>[New] Unleash Creative Potential with a Comprehensive Guide to PS Background Removal</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-essential-techniques-for-integrating-b-roll-sequences-for-2024/"><u>[Updated] Essential Techniques for Integrating B-Roll Sequences for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/elevating-your-experience-switching-from-windows-7-to-10/"><u>Elevating Your Experience: Switching From Windows 7 to 10</u></a></li>
-<li><a href="https://windows11.techidaily.com/instructional-insights-into-activating-windows-11s-wireless-feature/"><u>Instructional Insights Into Activating Windows 11'S Wireless Feature</u></a></li>
-<li><a href="https://windows11.techidaily.com/make-your-file-explorer-reliable-fixes-that-work-in-windows-11/"><u>Make Your File Explorer Reliable: Fixes That Work in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-startup-fixes-for-frozen-windows-obs-studio/"><u>Mastering Startup Fixes for Frozen Windows OBS Studio</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigate-smartly-minimizing-applications-using-ctrlplustab/"><u>Navigate Smartly: Minimizing Applications Using Ctrl+Tab</u></a></li>
-<li><a href="https://windows11.techidaily.com/restore-smooth-operation-to-windows-timer-tasks/"><u>Restore Smooth Operation to Windows Timer Tasks</u></a></li>
-<li><a href="https://windows11.techidaily.com/setting-window-cookie-expiry-post-login-errors/"><u>Setting Window' Cookie Expiry Post-Login Errors</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-spectrum-surge-tools-for-sharper-web-videos/"><u>[New] Spectrum Surge Tools for Sharper Web Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-reel-it-in-techs-video-harvest/"><u>[Updated] 2024 Approved Reel It In Tech's Video Harvest</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-best-performing-8-recording-software-picks/"><u>[Updated] In 2024, Best Performing 8 Recording Software Picks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-the-art-of-webp-conversion-to-jpeg/"><u>2024 Approved Mastering the Art of WebP Conversion to JPEG</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoid-deception-true-tales-of-tech-and-false-fakes/"><u>Avoid Deception: True Tales of Tech & False Fakes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-guide-to-updating-your-microsoft-mouse-drivers-on-a-windows-machine/"><u>Easy Guide to Updating Your Microsoft Mouse Drivers on a Windows Machine</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-master-windows-odbc-connection-management/"><u>How to Master Windows ODBC Connection Management</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/master-strategies-to-stop-windows-10-photos-crashes-for-2024/"><u>Master Strategies to Stop Windows 10 Photos Crashes for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-to-reduceeliminate-laptop-screen-yellow-hue/"><u>Methods to Reduce/Eliminate Laptop Screen Yellow Hue</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-tips-for-efficient-text-editing-in-win-11s-snipt/"><u>Quick Tips for Efficient Text Editing in Win 11'S Snipt</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolve-w11-printer-software-problems/"><u>Resolve W11 Printer Software Problems</u></a></li>
+<li><a href="https://windows11.techidaily.com/turn-your-favorite-websites-into-windows-tools/"><u>Turn Your Favorite Websites Into Windows Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleash-your-inner-explorer-optimal-classic-gaming-in-hd-on-pcs-via-scummvm/"><u>Unleash Your Inner Explorer: Optimal Classic Gaming in HD on PCs via ScummVM</u></a></li>
+<li><a href="https://windows11.techidaily.com/utilizing-microsoft-copilot-for-enhanced-software-design/"><u>Utilizing Microsoft Copilot for Enhanced Software Design</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-evolution-the-significant-changes-from-w10-to-w11/"><u>Windows Evolution: The Significant Changes From W10 to W11</u></a></li>
 </ul></div>
 

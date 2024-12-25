@@ -1,7 +1,7 @@
 ---
 title: "Reawaken Your Computer's USB: A Quick Fix Guide, Windows"
-date: 2024-12-12T16:43:38.301Z
-updated: 2024-12-16T21:22:21.881Z
+date: 2024-12-20T18:38:31.088Z
+updated: 2024-12-25T18:11:08.651Z
 tags:
   - windows10
   - windows11
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Think Your USB Port Is Not Working? Test It
 
@@ -46,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 
  Finally, grab a USB cable (or flash drive) and gently wiggle it around. If the drive is moving and feels loose---typically this will be up and down---then you have a problem.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Fix a Broken USB Port on PC and Laptop
 
  We'll look at some software fixes in a moment, but first, what if the USB port is loose?
@@ -62,10 +62,6 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 
  Of course, you could take this to an expert for repair, but there will be associated costs with this. If you want to do it yourself, make sure you [learn how to solder](http://www.makeuseof.com/tag/learn-solder-simple-tips-projects/). If you're not sure, check out the software fixes first.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Can Restarting a Computer Fix Broken USB Ports?
 
  "Have you tried turning it off and back on again?"
@@ -73,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
  This old tech support standby is well-known for a reason: it works!
 
  With your unrecognized USB device correctly inserted into the suspect USB port, restart your computer. Once the operating system has rebooted, it should detect the USB device. If not, it's worth looking at the device in the Windows device manager.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Check USB Ports on Windows 10 With Device Manager
 
@@ -85,7 +85,7 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 2. **Browse the list for** **Universal Serial Bus controllers**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Expand this and look for the **USB Host Controller**(your device may have a longer title, but it will feature those three words)  
@@ -93,7 +93,7 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 4. Right-click USB Host Controller (and any duplicates) and select **Uninstall**  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Uninstall USB Host Controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/muo-diy-fix-USB-ports-device-mgr-host-controller-uninstall.png)
@@ -137,7 +137,7 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
  Check out [how to enter the BIOS settings on Windows](https://www.makeuseof.com/tag/enter-bios-computer/) for instructions. If it was indeed a faulty BIOS/ UEFI stopping your USB port from working properly, then everything will be back to normal after a reset.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## You've Fixed Your Broken USB Port
@@ -156,22 +156,22 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-video-capture-pro-for-windows-10-ultimate-quality/"><u>[New] In 2024, Video Capture Pro for Windows 10 - Ultimate Quality</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-harness-the-power-of-twitch-livestream-tips-and-tricks-for-2024/"><u>[Updated] Harness the Power of Twitch Livestream Tips & Tricks for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-pioneers-of-virtual-reality-top-vr-headsets-on-pc/"><u>[Updated] Pioneers of Virtual Reality Top VR Headsets on PC</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtube-copyrights-demystified-understanding-and-managing-strikes/"><u>2024 Approved YouTube Copyrights Demystified Understanding and Managing Strikes</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/guia-paso-a-paso-para-recuperar-datos-de-backup-en-un-disco-seagate-externo/"><u>Guía Paso a Paso Para Recuperar Datos De Backup en Un Disco Seagate Externo</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-vivo-y100-5g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Vivo Y100 5G</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-samsung-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Samsung Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-maximize-your-streaming-experience-dual-screen-mode-on-netflix/"><u>In 2024, Maximize Your Streaming Experience - Dual Screen Mode on Netflix</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-12-mini-drfone-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone 12 mini | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-bottleneck-detection-in-windows/"><u>Mastering Bottleneck Detection in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimizing-disk-space-protecting-files-while-freeing-up-in-win11-max-156-chars/"><u>Optimizing Disk Space: Protecting Files While Freeing Up in Win11 (Max 156 Chars)</u></a></li>
-<li><a href="https://windows11.techidaily.com/stop-disabled-pop-up-from-invalid-adobe/"><u>Stop Disabled Pop-Up From Invalid Adobe</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-significance-of-bsod-in-hardware-troubleshooting/"><u>The Significance of BSoD in Hardware Troubleshooting</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-profiles-in-windows-1111-amidst-errors/"><u>Unlocking Profiles in Windows 11/11 Amidst Errors</u></a></li>
-<li><a href="https://windows11.techidaily.com/unseen-steps-eliminating-security-qanda-for-windows-11-admin/"><u>Unseen Steps: Eliminating Security Q&A for Windows 11 Admin</u></a></li>
-<li><a href="https://windows11.techidaily.com/win11-bsod-guide-to-handle-exceptions/"><u>Win11 BSOD Guide to Handle Exceptions</u></a></li>
-<li><a href="https://windows11.techidaily.com/win11-terminal-default-setting-restoration-guide/"><u>Win11 Terminal: Default Setting Restoration Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/1716068681006-updated-2024-approved-ultimate-recorder-select-top-12-no-timer/"><u>[Updated] 2024 Approved Ultimate Recorder Select Top 12, No Timer!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-night-photos-on-iphones/"><u>2024 Approved The Ultimate Guide to Night Photos on iPhones</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/the-perfect-free-video-editor-app-for-iphones-and-ipads/"><u>Find the Perfect Free Video Editor App for iPhones & iPads</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/freelancing-in-the-ai-era-weighing-bing-chat-against-chatgpt-based-on-these-8-crucial-considerations/"><u>Freelancing in the AI Era: Weighing Bing Chat Against ChatGPT Based on These 8 Crucial Considerations</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/maximize-reach-in-telegram-a-marketers-playbook-for-2024/"><u>Maximize Reach in Telegram A Marketer's Playbook for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-missing-dll-rockalldlldll-glitches/"><u>Overcoming 'Missing DLL: Rockalldll.dll' Glitches</u></a></li>
+<li><a href="https://windows11.techidaily.com/pathway-to-correcting-windows-backup-settings/"><u>Pathway to Correcting Windows Backup Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/post-upgrade-realignment-of-the-windows-and-wsl-system/"><u>Post-Upgrade: Realignment of the Windows and WSL System</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-selections-convert-youtube-videos-quickly/"><u>Prime Selections Convert YouTube Videos Quickly</u></a></li>
+<li><a href="https://windows11.techidaily.com/re-engineering-your-typing-experience-layout-changes-in-win-11/"><u>Re-Engineering Your Typing Experience: Layout Changes in Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-sniptools-performance-9-key-actions/"><u>Reviving SnipTool's Performance: 9 Key Actions</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-for-a-shaky-cursor-on-windows-pcs/"><u>Solutions for a Shaky Cursor on Windows PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-troubleshoot-processes-in-win10win11/"><u>Streamlining Troubleshoot Processes in Win10/Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-windows-n-variants-for-software-developers/"><u>Understanding Windows N Variants: For Software Developers</u></a></li>
+<li><a href="https://windows11.techidaily.com/uninterrupted-play-overcoming-fall-guys-network-errors-on-pc/"><u>Uninterrupted Play: Overcoming Fall Guys Network Errors on PC</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Tecno Pop 7 Pro | Dr.fone</u></a></li>
 </ul></div>
 

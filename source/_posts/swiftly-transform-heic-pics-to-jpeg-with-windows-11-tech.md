@@ -1,7 +1,7 @@
 ---
 title: Swiftly Transform HEIC Pics to JPEG with Windows 11 Tech
-date: 2024-12-12T22:03:44.390Z
-updated: 2024-12-16T18:19:57.978Z
+date: 2024-12-21T18:05:32.323Z
+updated: 2024-12-25T16:49:52.572Z
 tags:
   - windows10
   - windows11
@@ -57,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/8e847bcd25e1bb956f9c0d5ed5c3e1ee40f922a7b
 ![A HEIC image preview in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-heic-image-preview.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Batch Convert HEIC Images to JPEG With FoneTool
@@ -72,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/8e847bcd25e1bb956f9c0d5ed5c3e1ee40f922a7b
 ![The FoneTool setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fonetool-setup-window.jpg)
 6. Click**Enjoy Now** to exit the installation and start FoneTool.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now it's time to convert images with FoneTool:
 
 1. Select the**ToolBox** tab in FoneTool’s window.
@@ -87,6 +83,10 @@ Now it's time to convert images with FoneTool:
 ![The HEIC Converter window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/heic-converter-tool.jpg)
 5. Click the**Select** button to choose a directory to save the converted JPEG files within. Click the**Select Folder** button to confirm.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Select optional**Photo Quality** and**Conversion Speed** settings.
 7. Press the**Start Converting** option.
 
@@ -96,16 +96,12 @@ Now it's time to convert images with FoneTool:
 
 ![The Phone Transfer tab in FoneTool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/phone-transfer-tab.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Plus, there’s a duplicate photo finder tool that could be useful for some users. Click**Photo Deduplication** on the**Toolbox** tab to open that utility. Select the**Scan Computer** option and click**Add Folder** to search a directory for matching images. Then you can erase similar or duplicate photos by selecting them and clicking**Delete** .
 
 ![The Photo Deduplication tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/photo-duplication-tool.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Bach Convert HEIC Images With HEIC to JPEG Free Online Converter
@@ -117,26 +113,30 @@ Now it's time to convert images with FoneTool:
 ![The Add HEIC files button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-heic-files-button.jpg)
 3. Choose a HEIC image to convert and click the**Open** option. As you can only select one image at a time, you’ll need to repeat steps two and three to add more files.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click (Select output format) to expand options.
 5. Select**JPEG** on the**Convert to** drop-down menu.  
 ![The Convert to option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/convert-to-option.jpg)
 6. Then set a value in the**Quality** box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7. Select the**I consent** checkbox. You can click the**Privacy Policy** link to view further info about the fCoder Solutions' data-sharing policy.
 8. Press**Convert** to perform the conversion.  
 ![The Convert button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/convert-button.jpg)
 9. Click**Download all** to save the JPEG files.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also utilize this tool for batch-resizing images. To do so, click the**Set image size, remove all EXIF information** option. Then input values in the new width and new height text boxes.
 
 ![Image resize options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-image-size-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Make iPhone Photos More Accessible on Windows
@@ -158,24 +158,18 @@ Now it's time to convert images with FoneTool:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-expressive-artistry-on-snapchat-simplified-lenses-methods-for-2024/"><u>[New] Expressive Artistry on Snapchat Simplified Lenses Methods for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-implement-shutter-speed-blurring-in-psx/"><u>[New] Implement Shutter Speed Blurring in PSX</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-podcasting-power-play-selecting-the-best-audio-interfaces/"><u>2024 Approved Podcasting Power Play Selecting the Best Audio Interfaces</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-stepwise-methods-for-captivating-collage-compositions/"><u>2024 Approved Stepwise Methods for Captivating Collage Compositions</u></a></li>
-<li><a href="https://windows11.techidaily.com/effective-tips-for-steam-streaming-woes/"><u>Effective Tips for Steam Streaming Woes</u></a></li>
-<li><a href="https://windows11.techidaily.com/efficiently-accessing-windows-emergency-tools/"><u>Efficiently Accessing Windows Emergency Tools</u></a></li>
-<li><a href="https://windows11.techidaily.com/elevate-podcasts-on-pc-select-5-freebies/"><u>Elevate Podcasts on PC: Select 5 Freebies</u></a></li>
-<li><a href="https://windows11.techidaily.com/elevate-your-workflow-using-task-scheduler-for-batches/"><u>Elevate Your Workflow: Using Task Scheduler for Batches</u></a></li>
-<li><a href="https://windows11.techidaily.com/eliminating-overlay-effects-in-nvidia-gpu-software/"><u>Eliminating Overlay Effects in Nvidia GPU Software</u></a></li>
-<li><a href="https://windows11.techidaily.com/embracing-independence-chatgpt-alternatives-for-windows-users/"><u>Embracing Independence: ChatGPT Alternatives for Windows Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/enabling-clear-xbox-audio-on-windows-11-interface/"><u>Enabling Clear Xbox Audio on Windows 11 Interface</u></a></li>
-<li><a href="https://windows11.techidaily.com/engage-your-windows-11-interface-adding-interactive-backdrops/"><u>Engage Your Windows 11 Interface: Adding Interactive Backdrops</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhance-your-workday-quick-setup-for-outlook-preview-in-windows-11/"><u>Enhance Your Workday: Quick Setup for Outlook Preview in Windows 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/free-guide-convert-your-powtoon-creations-into-high-quality-mp4-files/"><u>Free Guide: Convert Your Powtoon Creations Into High-Quality MP4 Files</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-winx-dvd-ripper-convert-dvds-to-mp4-avi-and-more-compatible-formats-for-ios-and-android-devices/"><u>Free WinX DVD Ripper: Convert DVDs to MP4, AVI & More Compatible Formats for iOS and Android Devices</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-honor-x50-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Honor X50 | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/must-have-10-tiktok-video-editor-apps-for-windows-pc-for-2024/"><u>Must-Have 10 TikTok Video Editor Apps for Windows PC for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-path-to-a-pristine-windows-11-launch/"><u>The Ultimate Path to a Pristine Windows 11 Launch</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/ultimate-guide-how-to-make-money-from-instagram/"><u>Ultimate Guide How to Make Money From Instagram</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-hit-the-floor-with-optimal-posting-hours/"><u>[Updated] Hit the Floor with Optimal Posting Hours</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-optimal-strategies-for-mobile-snapchat-recordings/"><u>[Updated] Optimal Strategies for Mobile Snapchat Recordings</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/expert-solutions-to-power-up-your-scanner-from-scratch-tips-from-yl-software-professionals/"><u>Expert Solutions to Power Up Your Scanner From Scratch - Tips From YL Software Professionals</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-prevent-auto-restart-events-on-win11/"><u>How to Prevent Auto-Restart Events on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-troubleshoot-high-cpu-usage-with-the-windows-resource-monitor/"><u>How to Troubleshoot High CPU Usage With the Windows Resource Monitor</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/ideal-photo-and-video-shows-on-latest-iphone-models-xr-ios12-for-2024/"><u>Ideal Photo & Video Shows on Latest iPhone Models (XR-iOS12) for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/illuminate-creativity-engage-in-pcs-high-dynamic-range-vision-for-2024/"><u>Illuminate Creativity Engage in PC's High Dynamic Range Vision for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-poco-c50-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Poco C50 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-capture-and-preserve-sound-on-windows-10/"><u>In 2024, Capture and Preserve Sound on Windows 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-win11s-accessibility-keys/"><u>Mastering Win11's Accessibility Keys</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-connection-lost-5-easy-steps-for-a-fixed-usb-wi-fi-adapter/"><u>Seamless Connection Lost? 5 Easy Steps for a Fixed USB Wi-Fi Adapter</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-cut-down-energy-use-of-wlanextexe/"><u>Strategies to Cut Down Energy Use of Wlanext.EXE</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-windows-ignoring-local-lsa-warning/"><u>Troubleshooting Windows: Ignoring Local LSA Warning</u></a></li>
 </ul></div>
 

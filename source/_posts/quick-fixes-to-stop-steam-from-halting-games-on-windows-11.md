@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes to Stop Steam From Halting Games on Windows 11
-date: 2024-08-08T06:05:00.773Z
-updated: 2024-08-09T06:05:00.773Z
+date: 2024-12-22T19:58:50.380Z
+updated: 2024-12-25T18:03:33.994Z
 tags:
   - windows10
   - windows11
@@ -23,8 +23,9 @@ thumbnail: https://thmb.techidaily.com/0e07053ee64fa15ad5d79e86651cfe492e77f4718
  If this has happened to you, there’s no need to fret as you can quickly fix it by going through the below steps.
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Launch Steam
 
  Most of the time, the easiest solution is the best. The “Steam must be running to play this game” error will appear if Steam isn’t running or is missing from your computer. Even if didn’t buy the game from Steam, certain AAA titles need it to complete the authentication process.
@@ -32,13 +33,18 @@ thumbnail: https://thmb.techidaily.com/0e07053ee64fa15ad5d79e86651cfe492e77f4718
  Launch Steam and check if the game is now running. Alternatively, you could[add Steam to the Windows startup apps list](https://www.makeuseof.com/how-to-add-remove-startup-programs-windows-11/) so you don't need to manually boot it up every time. If you don’t have Steam installed on your computer, head to[the official Steam website](https://store.steampowered.com/) to download and install it.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Delete Game Mods
 
 [Video game mods](https://www.makeuseof.com/mods-video-games/) are a great way to add more content to an existing game. While you can download and install mods without breaking the game, sometimes they might stop the game from working.
 
  If Windows only shows this error for a modded game, try uninstalling and deleting any custom mods that you’ve added to the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Update Steam
 
@@ -54,18 +60,6 @@ thumbnail: https://thmb.techidaily.com/0e07053ee64fa15ad5d79e86651cfe492e77f4718
 
  If you have Steam running but still run into the same error, you should[try opening Steam with administrative rights.](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) This way, Steam has the power to make the necessary changes to your computer, such as creating files, installing new games, and so on.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Check the Integrity of the Game Files
 
  If the error is limited to a single game, there’s a chance the game is missing important files. Fortunately, you don’t have to reinstall it to fix the issue as Steam can check the game files' integrity for you.
@@ -78,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/0e07053ee64fa15ad5d79e86651cfe492e77f4718
 
 ![Check Steam game local files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-local-files-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Steam will now search your computer for the game files on compare them to the ones stored on its servers. If there’s any file missing, the app will download it on your computer.
 
 ## 6\. Leave Any Active Steam Beta Programs
@@ -86,28 +84,18 @@ thumbnail: https://thmb.techidaily.com/0e07053ee64fa15ad5d79e86651cfe492e77f4718
 
  In this case, you should opt out of Steam Beta programs. Click**Steam** and go to**Settings** . Select account, and from the**Beta participation** section, click**Change** . Then, set it to**NONE- Opt out of all beta programs** and click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![Opt out of Steam Beta](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/steam-beta-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Reinstall the Problematic Game
 
  If you’ve tried anything but still can’t get the game to work, there’s one more solution for you to try. Reinstall the game.
 
  Select the problematic game and click the**Manage icon** . There, head to**Manage > Uninstall** , and confirm the action in the pop-up window.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![Uninstall Steam game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-steam-1.jpg)
 
  Once Steam uninstalls the game, all you have to do is click the**Install** button and Steam will manage the installation process for you.
@@ -116,14 +104,11 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  Hopefully, the above tips helped you get rid of the “Steam must be running to play this game” error. To keep this from happening again, allow Steam to launch at system start-up and set it to automatically update the games.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -132,4 +117,18 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-seamless-capture-and-share-iphone-to-snapchat-backup-guide/"><u>[New] In 2024, Seamless Capture & Share IPhone to Snapchat Backup Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-optimizing-your-fb-video-ads-20-best-tips-for-success-for-2024/"><u>[Updated] Optimizing Your FB Video Ads 20 Best Tips for Success for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-ios-and-android-photo-editing-face-tools/"><u>2024 Approved Best iOS and Android Photo-Editing Face Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/8-which-should-you-choose/"><u>8 - Which Should You Choose?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/evaluating-the-efficient-lamicall-s-tablet-mount-where-form-meets-function-seamlessly/"><u>Evaluating the Efficient Lamicall S Tablet Mount: Where Form Meets Function Seamlessly</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-redmi-note-12t-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi Redmi Note 12T Pro without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-discord-game-detection-feature-not-working-on-windows/"><u>How to Fix the Discord Game Detection Feature Not Working on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-enlisting-widgets-in-windows-11-ui/"><u>Steps for Enlisting Widgets in Windows 11 UI</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-systemsettingsexe-failure-on-windows-11/"><u>Troubleshooting SystemSettings.exe Failure on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/uninstall-and-reinstall-how-to-get-icloud-on-windows/"><u>Uninstall and Reinstall: How to Get iCloud on Windows</u></a></li>
+</ul></div>
 

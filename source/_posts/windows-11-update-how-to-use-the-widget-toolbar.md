@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Update: How to Use the Widget Toolbar"
-date: 2024-08-08T06:05:29.598Z
-updated: 2024-08-09T06:05:29.598Z
+date: 2024-12-18T16:16:51.258Z
+updated: 2024-12-25T17:37:06.519Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99
  In this guide, we'll explore how to enable the Widgets Toolbar so that you can reap its benefits.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Enable the Widgets Toolbar in Windows 11
 
  In order to enable and use the widget's toolbar, you will need to [download ViveTool from GitHub](https://github.com/thebookisclosed/ViVe/releases). Once the zip file has been downloaded, extract its contents into the folder **C:/ViVeTool** on your computer.
@@ -33,10 +34,11 @@ thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99
 
 c:\vivetool\vivetool /enable /id:40772499
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Enable Toolbar for Widgets in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-toolbar-for-widgets-in-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once the command is executed on your computer, you will see a message saying "Successfully set feature configuration (s)". After executing the above command, restart your device for the changes to take effect.
 
@@ -46,28 +48,27 @@ c:\vivetool\vivetool /enable /id:40772499
 
 c:\vivetool\vivetool /disable /id:40772499
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Disable Widgets Toolbar in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-widgets-toolbar-in-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After executing the program, you should restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Windows 11 Now Has a New Toolbar for Widgets
 
  With Windows 11 build 25227, there is a new toolbar that provides quick access to critical services on the Widgets menu. Hopefully, we have helped you enable and disable the Widgets Toolbar to access these Microsoft services easily.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -76,4 +77,18 @@ c:\vivetool\vivetool /disable /id:40772499
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-alight-motion-comprehensive-review-2023/"><u>[Updated] 2024 Approved Alight Motion Comprehensive Review 2023</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/experience-visual-brilliance-and-next-gen-power-a-comprehensive-imac-m1-evaluation/"><u>Experience Visual Brilliance and Next-Gen Power: A Comprehensive iMac M1 Evaluation</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-will-eliminating-taskbar-chat-from-windows-11-change-your-user-experience/"><u>How Will Eliminating Taskbar Chat From Windows 11 Change Your User Experience?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-oneplus-12r-frp-by-drfone-android/"><u>In 2024, How Can We Bypass OnePlus 12R FRP?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Tecno Pop 8? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/insights-into-xboxs-consequences-for-cheating/"><u>Insights Into Xbox's Consequences for Cheating</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximizing-windows-11s-application-management-capabilities-with-winget/"><u>Maximizing Windows 11'S Application Management Capabilities with Winget</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/perfecting-tiktok-videos-efficient-techniques-for-numerical-edits/"><u>Perfecting TikTok Videos Efficient Techniques for Numerical Edits</u></a></li>
+<li><a href="https://windows11.techidaily.com/race-the-rating-effective-techniques-for-measuring-network-adapter-speed-on-windows/"><u>Race the Rating: Effective Techniques for Measuring Network Adapter Speed on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-over-frozen-exe-files-on-your-computer/"><u>Win Over Frozen Exe Files on Your Computer</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-startup-guide-navigating-accessibility-features/"><u>Windows Startup Guide: Navigating Accessibility Features</u></a></li>
+</ul></div>
 

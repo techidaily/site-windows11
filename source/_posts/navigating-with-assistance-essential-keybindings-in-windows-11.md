@@ -1,7 +1,7 @@
 ---
 title: "Navigating with Assistance: Essential Keybindings in Windows 11"
-date: 2024-12-09T19:22:13.038Z
-updated: 2024-12-16T16:21:02.071Z
+date: 2024-12-21T16:11:40.490Z
+updated: 2024-12-25T17:55:53.329Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/60aeb73e6646ca7cba89b069f503754c9115c11cb
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## All the Narrator Keyboard Shortcuts in Windows 11
@@ -185,7 +185,7 @@ Here are all the Narrator shortcuts available to you:
 | Narrator + Ctrl + Enter                         | Toggle search mode                                    |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Windows Narrator Can Do More
@@ -207,20 +207,20 @@ Here are all the Narrator shortcuts available to you:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-best-cameras-elevating-podcast-engagement/"><u>[New] Best Cameras Elevating Podcast Engagement</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-comprehensively-guide-windows-10s-best-practices-for-mov-files/"><u>[New] In 2024, Comprehensively Guide Windows 10'S Best Practices for Mov Files</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-audience-centric-approaches-to-voiceover-on-slides/"><u>[Updated] 2024 Approved Audience-Centric Approaches to Voiceover on Slides</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-fb-link-mastery-8-powerful-free-extractor-tools/"><u>[Updated] In 2024, FB Link Mastery 8 Powerful FREE Extractor Tools</u></a></li>
-<li><a href="https://windows11.techidaily.com/11-fixes-if-windows-10-cant-detect-a-wi-fi-network/"><u>11 Fixes if Windows 10 Can’t Detect a Wi-Fi Network</u></a></li>
-<li><a href="https://windows11.techidaily.com/analyzing-space-efficiency-of-windows-software/"><u>Analyzing Space Efficiency of Windows Software</u></a></li>
-<li><a href="https://windows11.techidaily.com/beneath-the-surface-innocent-looking-apps-steal-speed-from-pcs/"><u>Beneath the Surface, Innocent-Looking Apps Steal Speed From PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/breached-byte-bastion-maintain-reflect-then-switch/"><u>Breached Byte Bastion: Maintain, Reflect, Then Switch</u></a></li>
-<li><a href="https://windows11.techidaily.com/customizing-home-screen-preferences-on-w11-os/"><u>Customizing Home Screen Preferences on W11 OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/design-dilemma-overcoming-unexpected-screen-shades/"><u>Design Dilemma: Overcoming Unexpected Screen Shades</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-iphones-high-dynamic-range-step-by-step-guide/"><u>In 2024, IPhone's High Dynamic Range Step-by-Step Guide</u></a></li>
-<li><a href="https://solve-help.techidaily.com/obstacle-surmonte-necessite-imperative-dignorer-la-creation-du-point-de-restauration/"><u>Obstacle Surmonté : Nécessité Impérative D'Ignorer La Création Du Point De Restauration</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ct-your-asmr-recordings-with-these-mic-choices/"><u>Perfect Your ASMR Recordings with These Mic Choices</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719270325227-seeking-help-navigate-through-windows-troubles-easily/"><u>Seeking Help? Navigate Through Windows Troubles Easily</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-7-key-strategies-to-accelerate-your-computer/"><u>Ultimate Guide: 7 Key Strategies to Accelerate Your Computer</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-ultimate-10-battle-royale-matchups/"><u>[New] 2024 Approved Ultimate 10 Battle Royale Matchups</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-tricks-to-control-music-paceplay-in-spotify/"><u>[New] Top Tricks to Control Music Paceplay in Spotify</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-understanding-intellectual-property-rights-on-video-screen-captures/"><u>[Updated] 2024 Approved Understanding Intellectual Property Rights on Video Screen Captures</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-mastering-the-art-of-text-trimming-in-ms-excel/"><u>Guide: Mastering the Art of Text Trimming in MS Excel</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722964965675-hassle-free-connection-get-your-essential-targus-docking-station-drivers-installed-today/"><u>Hassle-Free Connection: Get Your Essential Targus Docking Station Drivers Installed Today</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-honor-70-lite-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Honor 70 Lite 5G phone? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-passcode-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 11 Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/learning-excel-from-scratch-top-6-skills-you-need-to-get-started/"><u>Learning Excel From Scratch? Top 6 Skills You Need to Get Started!</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-birthday-math-a-step-by-step-guide-to-finding-age-with-excel/"><u>Mastering Birthday Math: A Step-by-Step Guide to Finding Age with Excel</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-excel-tips-how-to-create-bullet-point-items-in-your-spreadsheets-easily/"><u>Mastering Excel Tips: How To Create Bullet Point Items In Your Spreadsheets Easily</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-excel-a-step-by-step-guide-to-using-exponents/"><u>Mastering Excel: A Step-by-Step Guide to Using Exponents</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-microsoft-excel-a-comprehensive-guide-to-utilizing-round-functions/"><u>Mastering Microsoft Excel: A Comprehensive Guide to Utilizing Round Functions</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-guide-fixed-and-the-specific-features-of-excel-like-cell-dimensions-setting-fixed-columns-and-rows/"><u>Mastering, Guide, Fixed, and the Specific Features of Excel Like Cell Dimensions, Setting Fixed Columns, and Rows.</u></a></li>
+<li><a href="https://driver-install.techidaily.com/ready-your-pc-for-windows-11s-tactile-interface/"><u>Ready Your PC for Windows 11'S Tactile Interface</u></a></li>
+<li><a href="https://article-helps.techidaily.com/step-by-step-audio-fading-in-lumafusion-software/"><u>Step-by-Step Audio Fading in Lumafusion Software</u></a></li>
 </ul></div>
 

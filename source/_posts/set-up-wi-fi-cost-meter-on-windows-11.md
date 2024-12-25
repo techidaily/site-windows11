@@ -1,7 +1,7 @@
 ---
 title: Set Up Wi-Fi Cost Meter on Windows 11
-date: 2024-12-12T22:00:20.593Z
-updated: 2024-12-16T22:44:39.577Z
+date: 2024-12-24T17:30:55.757Z
+updated: 2024-12-25T18:12:53.131Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Enable or Disable Metered Connections for a Wi-Fi Network Using the Settings App
@@ -42,13 +42,13 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 ![Enable or Disable Metered Connection in Windows 11 Using Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-or-disable-metered-connection-in-windows-11-using-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Note that you'll have to repeat the above steps for each Wi-Fi network separately. Following that, Windows will remember your network preferences.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable or Disable Wi-Fi Metered Connections via the Command Prompt
@@ -64,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 5. Note down the Wi-Fi network name for which you want to enable or disable the metered connection option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Next, run the following command to determine whether your connection is metered or unmetered.  
@@ -75,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 `netsh wlan set profileparameter name="Wi-Fi Name" cost=Fixed`  
 ![Disable Metered Connection in Windows 11 Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-metered-connection-in-windows-11-using-command-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to disable the metered connection for a network, run the following command instead.
 
 `netsh wlan set profileparameter name="Wi-Fi Name" cost=Unrestricted`
@@ -82,10 +86,6 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
  The Command Prompt should display a message once the network profile is updated. After that, you can close the terminal window.
 
  Aside from the above, you can view important details about your Wi-Fi network using the Command Prompt. If you're interested in doing that, check our guide on[the best commands to manage wireless networks on Windows](https://www.makeuseof.com/tag/commands-manage-wireless-networks-windows/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Efficiently Manage Your Data With Metered Connection
 
@@ -108,17 +108,24 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-pursuing-your-vision-learn-professional-filmmaking-on-youtube/"><u>[New] 2024 Approved Pursuing Your Vision Learn Professional Filmmaking on YouTube</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-ideal-asmr-channel-selections/"><u>[New] In 2024, Ideal ASMR Channel Selections</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-the-ultimate-selection-high-quality-zero-price-free-luts/"><u>[Updated] The Ultimate Selection High Quality, Zero Price Free LUTs</u></a></li>
-<li><a href="https://windows11.techidaily.com/6-different-ways-to-open-programs-on-windows/"><u>6 Different Ways to Open Programs on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/ace-your-development-setup-with-top-wsl-2-tricks/"><u>Ace Your Development Setup with Top WSL 2 Tricks</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/budget-friendly-asus-vivobook-11-an-all-in-one-compact-laptop-review/"><u>Budget-Friendly Asus VivoBook 11: An All-in-One Compact Laptop Review</u></a></li>
-<li><a href="https://windows11.techidaily.com/bygone-brilliance-reviving-retro-gameplay-with-dosbox-x/"><u>Bygone Brilliance: Reviving Retro Gameplay with DOSBox-X</u></a></li>
-<li><a href="https://windows11.techidaily.com/clearing-up-the-confusing-blue-screen-error-0x8007007e/"><u>Clearing Up the Confusing Blue Screen Error: 0X8007007E</u></a></li>
-<li><a href="https://windows11.techidaily.com/converting-heic-photos-to-jpeg-on-windows-1011/"><u>Converting HEIC Photos to JPEG on Windows 10/11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Tecno Spark 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-samsung-galaxy-m54-5g-easily-by-drfone-android/"><u>In 2024, How To Unlock a Samsung Galaxy M54 5G Easily?</u></a></li>
-<li><a href="https://win11.techidaily.com/outsmarting-google-chromes-webp-image-saving-on-windows/"><u>Outsmarting Google Chrome's WebP Image Saving on Windows</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-harnessing-the-power-of-depth-perception-iphone-xs-advantage/"><u>[Updated] Harnessing the Power of Depth Perception IPhone X's Advantage</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-converting-gifs-into-stickers-complete-step-by-step-tutorial/"><u>[Updated] In 2024, Converting GIFs Into Stickers – Complete Step-by-Step Tutorial</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Oppo Reno 10 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ient-tactics-for-viewing-subscribers-on-yt-for-2024/"><u>Efficient Tactics for Viewing Subscribers on YT for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-difference-cat5-versus-cat6-networking-cable-options/"><u>Exploring the Difference: Cat5 Versus Cat6 Networking Cable Options</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-htc-u23-pro-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an HTC U23 Pro Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-12-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-tackle-windows-no-write-file-saving-problems/"><u>How to Tackle Windows No Write File Saving Problems</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unleashing-the-full-potential-of-your-channel-in-studio/"><u>In 2024, Unleashing the Full Potential of Your Channel in Studio</u></a></li>
+<li><a href="https://windows11.techidaily.com/preserve-your-tailored-powertoys-environment-at-new-devices/"><u>Preserve Your Tailored PowerToys Environment at New Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-conflicts-easy-access-to-your-printer/"><u>Resolving Conflicts: Easy Access to Your Printer</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/reviving-zombies-a-comprehensive-review-of-7-days-to-die-and-its-single-sandbox-format/"><u>Reviving Zombies: A Comprehensive Review of '7 Days to Die' And Its Single-Sandbox Format</u></a></li>
+<li><a href="https://windows11.techidaily.com/supercharge-ssds-in-windows-mastery-of-ssd-fresh/"><u>Supercharge SSDs in Windows - Mastery of SSD Fresh</u></a></li>
+<li><a href="https://windows11.techidaily.com/swift-solutions-for-stuck-windows-update-fixers/"><u>Swift Solutions for Stuck Windows Update Fixers</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-6-brightness-tools-for-windows-multi-screen-setups/"><u>Top 6 Brightness Tools for Windows Multi-Screen Setups</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-unretrievable-graphics-settings-via-geforce-experience-windows-11/"><u>Troubleshooting Unretrievable Graphics Settings via GeForce Experience, Windows 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tutorial-triumphant-skyrocketing-your-youtube-presence/"><u>Tutorial Triumphant Skyrocketing Your YouTube Presence</u></a></li>
+<li><a href="https://windows11.techidaily.com/uncovering-the-invisible-workers-in-win11/"><u>Uncovering the Invisible Workers in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-wacatacbml-mystery-and-removal-guide-for-windows-pcs/"><u>Unveiling: The Wacatac.B!ml Mystery & Removal Guide for Windows PCs</u></a></li>
 </ul></div>
 

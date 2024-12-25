@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Windows After Failed Sign-In
-date: 2024-12-10T18:28:32.861Z
-updated: 2024-12-16T23:37:45.110Z
+date: 2024-12-22T17:16:24.316Z
+updated: 2024-12-25T18:21:44.603Z
 tags:
   - windows10
   - windows11
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/05a2bebe19d9c7fab4bc3ec91fa821946b0580297
  Fortunately, you can fix this error by resetting the login PIN and a registry tweak to disable the account lockout option. Follow all the steps in the given order, and you should be able to fix the error and log in to your Windows computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Keep Your Device Powered On for Two Hours
@@ -48,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/05a2bebe19d9c7fab4bc3ec91fa821946b0580297
  The two-hour cooling period seemingly comes with strings attached. Once you see the wait for two hours message after entering the PIN, reboot your computer. When the login screen appears, don't sign in immediately. Wait for two hours and then put in your PIN to sign in.
 
  That said, if you can't wait for two hours, try to log in using an alternate sign-in option, such as a password or biometric authentication. To use the alternate sign-in option, click the dotted icon under the Sign-in options in the error screen to log in with your password.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Reset the Account Password from the Sign-In Screen
 
@@ -66,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/05a2bebe19d9c7fab4bc3ec91fa821946b0580297
 4. Enter your new password and then re-enter the password to confirm the same.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Press **Enter** to sign-in to your user account.
@@ -113,7 +117,7 @@ thumbnail: https://thmb.techidaily.com/05a2bebe19d9c7fab4bc3ec91fa821946b0580297
 2. Next, copy and paste the following script into the Notepad file:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `@echo off  
@@ -128,10 +132,6 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 3. Press **Ctrl + S** to open the Save dialog and name the file **Remove-Win-Account-PIN.bat**.  
 ![save remove win account pin batch script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/save-remove-win-account-pin-batch-script.jpg)
 4. Next, click the **Save as type** drop-down and select **All files**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Click **Save** to create the batch script.
 
@@ -155,11 +155,15 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 ![account lockout threshold gpedit windows modify](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/account-lockout-threshold-gpedit-windows-modify.jpg)
 5. Type **0** in the **Account will not lock out** field.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![account lockout threshold gpedit windows modify o value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/account-lockout-threshold-gpedit-windows-modify-o-value.jpg)
 6. Click **Apply** and **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Edit the Account Lockout Policy Using Registry Editor
@@ -180,10 +184,6 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 
 ![modify Maxdenials registry DWORD value registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/modify-maxdenials-registry-dword-value-registry-editor.jpg)
 6. Type **0** in the **Value data** field and click **OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Close Registry Editor and reboot your computer to apply the changes.
 
@@ -207,24 +207,22 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-digital-download-king-comprerante-video-acquisition-guide/"><u>[New] In 2024, Digital Download King Comprerante Video Acquisition Guide</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-essential-mobile-media-apps-for-high-quality-photographyvideography/"><u>[Updated] Essential Mobile Media Apps for High-Quality Photography/Videography</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-simplify-multitasking-on-iphone-activatedeactivate-youtubes-pip-feature/"><u>[Updated] Simplify Multitasking on iPhone Activate/Deactivate YouTube's PIP Feature</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-volume-ebb-and-flow-operating-systems-methods/"><u>[Updated] Volume Ebb and Flow Operating Systems Methods</u></a></li>
-<li><a href="https://change-location.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Vivo T2 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/error-free-installation-solving-msi-cab-is-missing-issues/"><u>Error-Free Installation: Solving 'MSI (...).cab' Is Missing Issues</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/guide-des-principaux-formats-de-photos-et-leurs-utilisations-optimisees-seo/"><u>Guide Des Principaux Formats De Photos Et Leurs Utilisations Optimisées SEO</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-xiaomi-redmi-12-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Xiaomi Redmi 12 Phones with/without a PC</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-asus-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Asus</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-off-game-lists-in-win11/"><u>Mastering Off Game Lists in Win11</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/quick-fix-how-to-stop-titanfall-2-from-frequently-crashing/"><u>Quick Fix: How to Stop Titanfall 2 From Frequently Crashing</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-fix-guide-for-degraded-windows-based-excel-performance/"><u>Quick-Fix Guide for Degraded Windows-Based Excel Performance</u></a></li>
-<li><a href="https://windows11.techidaily.com/selecting-a-window-for-your-needs-the-win11-homepro-showdown/"><u>Selecting a Window for Your Needs: The Win11 Home/Pro Showdown</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-for-accurate-interpretation-of-task-manager-writings/"><u>Strategies for Accurate Interpretation of Task Manager' Writings</u></a></li>
-<li><a href="https://windows11.techidaily.com/supercharge-steam-downloads-overcoming-frustrating-lulls/"><u>Supercharge Steam Downloads: Overcoming Frustrating Lulls</u></a></li>
-<li><a href="https://windows11.techidaily.com/turn-your-windows-11-pc-into-a-portable-wireless-router/"><u>Turn Your Windows 11 PC Into a Portable Wireless Router</u></a></li>
-<li><a href="https://windows11.techidaily.com/unclogging-peak-time-gpt-service-in-windows/"><u>Unclogging Peak-Time GPT Service in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-yourphoneexe-usefulness-on-modern-windows/"><u>Unlocking YourPhone.exe: Usefulness on Modern Windows?</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-upgraded-the-future-of-using-sudo/"><u>Windows Upgraded: The Future of Using Sudo</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-premium-avi-playback-software-for-computers/"><u>[New] 2024 Approved Premium Avi Playback Software for Computers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-behind-the-curtain-how-youtube-tallys-its-views-for-2024/"><u>[New] Behind the Curtain How YouTube Tally's Its Views for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-optimize-video-search-with-these-top-7-youtube-tags-extractor-tools/"><u>[New] In 2024, Optimize Video Search with These Top 7 Youtube Tags Extractor Tools</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/no-cost-wma-file-transformation-easy-diy-tutorial/"><u>[No-Cost WMA File Transformation: Easy DIY Tutorial]</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-pioneer-your-personal-brand-in-tiktok-with-dynamic-backgrounds/"><u>[Updated] Pioneer Your Personal Brand in TikTok with Dynamic Backgrounds</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-oppo-a1x-5g-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Oppo A1x 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-installation-mastering-the-surface-dock-driver-in-minutes/"><u>Effortless Installation: Mastering the Surface Dock Driver in Minutes</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-tips-finding-installed-programs-locations/"><u>Essential Tips: Finding Installed Programs' Locations</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-hard-drive-not-detected-error-on-windows/"><u>How to Fix the Hard Drive Not Detected Error on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximizing-space-in-windows-without-data-loss/"><u>Maximizing Space in Windows Without Data Loss</u></a></li>
+<li><a href="https://windows11.techidaily.com/mending-the-game-pass-network-issue-a-guide-for-windows-users/"><u>Mending the Game Pass Network Issue: A Guide for Windows Users</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-how-to-rotate-iphone-videos-for-free-top-app-choices/"><u>New In 2024, How to Rotate iPhone Videos for Free Top App Choices</u></a></li>
+<li><a href="https://windows11.techidaily.com/re-establishing-service-connections-in-windows-1011-after-ms-sql-hiccup/"><u>Re-Establishing Service Connections in Windows 10/11 After MS SQL Hiccup</u></a></li>
+<li><a href="https://windows11.techidaily.com/secrets-of-the-system-customizing-your-window-11-actions/"><u>Secrets of the System: Customizing Your Window 11 Actions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-infinix-smart-8-plus-by-drfone-android/"><u>Top 10 Password Cracking Tools For Infinix Smart 8 Plus</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-why-you-shouldnt-turn-off-wins-11s-alerts/"><u>Unveiling Why You Shouldn’t Turn Off Wins 11'S Alerts</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-pinpointing-5-disturbing-design-traits/"><u>Windows 11: Pinpointing 5 Disturbing Design Traits</u></a></li>
 </ul></div>
 

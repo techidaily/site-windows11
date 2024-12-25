@@ -1,7 +1,7 @@
 ---
 title: "Transform Your Photos: Innovative Erase on Windows"
-date: 2024-12-12T00:31:33.909Z
-updated: 2024-12-16T21:41:10.197Z
+date: 2024-12-18T19:07:56.953Z
+updated: 2024-12-25T17:39:12.931Z
 tags:
   - windows10
   - windows11
@@ -21,23 +21,19 @@ thumbnail: https://thmb.techidaily.com/89e14fb11e9e592fbd5c568e89cdfa2567dfefcd7
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * ![Screenshot highlighting the Edit button in the Windows Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/edit-button-on-the-windows-photos-app-1.jpg)  
  Windows Photos' Generative Erase easily removes objects from images for free on Windows PCs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * The Erase tool is available on the Windows Photos app in version 2024.11020.21001.0 or higher.
 * While Google's Magic Eraser is more lenient with object selection, Windows Photos did better at replicating and adjusting the background.
 
  Removing objects from photos is easier than ever on a smartphone, but that's largely limited to Pixels, Samsung flagships, or a Google One subscription. While you might think doing so requires expensive software on desktop, the Photos app on Windows is all you need to remove unwanted elements from an image. It's easily accessible, free, and is pretty great!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Is Windows Photos Generative Erase?
 
@@ -46,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/89e14fb11e9e592fbd5c568e89cdfa2567dfefcd7
  You don't need expensive photo editing software or a high-end phone. The Photos app is available on all Windows 10 and 11 machines. You should see the Erase tool after [updating the Windows Photos app](https://www.makeuseof.com/tag/update-windows-software-guide/) to version 2024.11020.21001.0 or higher.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use Generative Erase in Windows Photos
@@ -56,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/89e14fb11e9e592fbd5c568e89cdfa2567dfefcd7
 ![Screenshot highlighting the Edit button in the Windows Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/edit-button-on-the-windows-photos-app-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Click the **Edit** button in the top bar and select **Erase**. If you want to get granular with your edit, you can adjust the brush size and zoom in on the picture.
@@ -67,10 +63,14 @@ thumbnail: https://thmb.techidaily.com/89e14fb11e9e592fbd5c568e89cdfa2567dfefcd7
 
 ![Using the Erase tool on Windows Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/using-the-erase-tool-on-windows-photos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You have to be precise with the brush tool, but the option to adjust the size makes highlighting objects relatively easy.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Generative Erase on Windows Photos Any Good?
@@ -104,24 +104,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-streamlining-presentations-webcam-recording-tips/"><u>[New] In 2024, Streamlining Presentations Webcam Recording Tips</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-exploring-automatic-aspect-ratios-in-imovie/"><u>[Updated] Exploring Automatic Aspect Ratios in iMovie</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-tech-savvy-tips-to-ensure-perfect-call-recording-on-facetime/"><u>[Updated] In 2024, Tech-Savvy Tips to Ensure Perfect Call Recording on FaceTime</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-the-ultimate-guide-to-selecting-8-best-instagram-scheduler-tools/"><u>[Updated] The Ultimate Guide to Selecting 8 Best Instagram Scheduler Tools</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/crafting-memes-that-stand-out-the-9gag-way-for-2024/"><u>Crafting Memes that Stand Out The 9GAG Way for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/explore-asl-freely-discovering-the-ultimate-list-of-16-complimentary-language-resources/"><u>Explore ASL Freely: Discovering the Ultimate List of 16 Complimentary Language Resources</u></a></li>
-<li><a href="https://windows11.techidaily.com/hide-or-show-clock-secrets-of-the-taskbar/"><u>Hide or Show Clock - Secrets of the Taskbar</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-6-plus-withwithout-sim-card-by-drfone-ios/"><u>How to Unlock Apple iPhone 6 Plus with/without SIM Card</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-innovating-with-color-a-complete-look-at-ps-3d-luts/"><u>In 2024, Innovating with Color A Complete Look at PS 3D LUTs</u></a></li>
-<li><a href="https://windows11.techidaily.com/leap-ahead-in-workflow-management-embrace-flow-launcher-advantage/"><u>Leap Ahead in Workflow Management: Embrace Flow Launcher Advantage</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-xbox-live-service-recovery-steps/"><u>Mastering Xbox Live Service Recovery Steps</u></a></li>
-<li><a href="https://windows11.techidaily.com/mending-windows-x709-problems/"><u>Mending Windows X709 Problems</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-through-the-windows-and-wsl-harmony-in-post-update-phase/"><u>Navigating Through The Windows & WSL Harmony in Post-Update Phase</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/skype-speak-saver-mp3-conversion-masterclass/"><u>Skype Speak Saver MP3 Conversion Masterclass</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-account-associations-between-win-and-microsoft/"><u>Streamlining Account Associations Between WIN and MICROSOFT</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-calls-using-intel-unison-with-windows-11-pcs/"><u>Streamlining Calls: Using Intel Unison with Windows 11 PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/transforming-file-system-visibility-on-modern-windows-pcs/"><u>Transforming File System Visibility on Modern Windows PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/understanding-and-overcoming-key-issues-on-win11/"><u>Understanding and Overcoming Key Issues on Win11</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-13-pro-without-passcode-easily-by-drfone-ios/"><u>Unlock Apple iPhone 13 Pro Without Passcode Easily</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-download-free-mcb-logo-templates/"><u>[New] Download Free MCB Logo Templates</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-avoiding-common-pitfalls-in-drone-battery-choices/"><u>[Updated] Avoiding Common Pitfalls in Drone Battery Choices</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/beginners-guide-to-crypto-trading-step-by-step-tips-from-yl-computing/"><u>Beginner's Guide to Crypto Trading: Step-by-Step Tips From YL Computing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/from-ordinary-to-outstanding-mastering-instagram-editing-skills/"><u>From Ordinary to Outstanding Mastering Instagram Editing Skills</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tips-for-optimizing-tiktok-video-sharing-on-zoom/"><u>In 2024, Tips for Optimizing TikTok Video Sharing on Zoom</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/insight-into-openais-advanced-language-models-gpt-14/"><u>Insight Into OpenAI’s Advanced Language Models (GPT-1–4)</u></a></li>
+<li><a href="https://windows11.techidaily.com/leveraging-universal-stickies-in-windows-11/"><u>Leveraging Universal Stickies in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-wi-fi-disconnection-on-windows-11/"><u>Mastering the Art of Wi-Fi Disconnection on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-microsofts-phone-link-app/"><u>Navigating Through Microsoft's Phone Link App</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-best-free-video-editing-solutions-for-gamers/"><u>New In 2024, The Best Free Video Editing Solutions for Gamers</u></a></li>
+<li><a href="https://win-docs.techidaily.com/professionelle-strategien-fur-die-verbesserung-der-e-mail-backup-performance-ein-leitfaden/"><u>Professionelle Strategien Für Die Verbesserung Der E-Mail-Backup-Performance: Ein Leitfaden</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/registro-de-sonido-para-windows-y-macos-sin-costo/"><u>Registro De Sonido Para Windows Y macOS Sin Costo</u></a></li>
+<li><a href="https://windows11.techidaily.com/securely-modifying-your-windows-11-keyboard-layout/"><u>Securely Modifying Your Windows 11 Keyboard Layout</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailored-choice-in-windows-11-identifying-best-home-or-pro-option/"><u>Tailored Choice in Windows 11: Identifying Best Home or Pro Option</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-fix-unblocking-windows-11-logins/"><u>The Ultimate Fix: Unblocking Windows 11 Logins</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-a-blue-screen-free-windows-11-top-strategies-for-success/"><u>Unlock a Blue-Screen Free Windows 11: Top Strategies for Success</u></a></li>
 </ul></div>
 

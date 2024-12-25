@@ -1,7 +1,7 @@
 ---
 title: Reimagined User Support in New Windows Release
-date: 2024-12-12T01:13:32.933Z
-updated: 2024-12-16T22:27:17.011Z
+date: 2024-12-21T19:19:00.795Z
+updated: 2024-12-25T17:49:31.512Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/f0dbd5a21adf0257efb4cfc535a5b1745bbe68be5
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When Will Support for Cortana End?
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/f0dbd5a21adf0257efb4cfc535a5b1745bbe68be5
  According to Microsoft's announcement on [Microsoft Support](https://support.microsoft.com/en-us/topic/end-of-support-for-cortana-in-windows-d025b39f-ee5b-4836-a954-0ab646ee1efa), the company will no longer support Cortana as a standalone app starting in late 2023\. Instead, Microsoft is shifting towards the more modern AI tools the company developed long after Cortana's release, including Bing AI which uses the more-advanced ChatGPT.
 
  Microsoft has been getting ready to slash Cortana for a couple of years as it already [discontinued Cortana for Android and iOS devices](https://www.makeuseof.com/microsoft-silences-cortana-android-ios/) back in 2021\. The decision also reflects on Windows 11, where Cortana isn’t enabled by default.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is Cortana Gone for Good?
 
@@ -69,16 +73,12 @@ Image Credit: [Microsoft](https://blogs.windows.com/windowsdeveloper/2023/05/23/
 
  You can have an AI-powered conversation and ask Copilot to change your keyboard layout, turn off Bluetooth, increase the screen brightness, and so on. This way, you can focus on your work instead of going through the Settings menu for every minor system tweak.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Microsoft 365 Copilot
 
 ![A Copilot dialog box in Microsoft Word](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/copilot-dialog-in-word.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Image Credit: Microsoft/[M](https://www.shutterstock.com/image-photo/bangkokthailandapril92020-nintendo-switch-consoles-gaming-controller-1699898014)[icrosoft 365 Copilot](https://news.microsoft.com/reinventing-productivity/)
@@ -88,7 +88,7 @@ Image Credit: Microsoft/[M](https://www.shutterstock.com/image-photo/bangkokthai
  If you want to learn more, check out our guide on [what Microsoft 365 can do](https://www.makeuseof.com/what-is-microsoft-365-copilot/) to simplify your work.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What About Third-Party Alternatives to Cortana?
@@ -98,7 +98,7 @@ Image Credit: Microsoft/[M](https://www.shutterstock.com/image-photo/bangkokthai
  If you’re not willing to update to Windows 11 but still need a replacement, you can check our guide on the [best alternatives to Cortana on Windows 10](https://www.makeuseof.com/best-alternatives-cortana-windows-10/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Replace Cortana With AI on Windows
@@ -115,24 +115,19 @@ Image Credit: Microsoft/[M](https://www.shutterstock.com/image-photo/bangkokthai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-elevate-your-instagram-feed-vertical-video-edits-in-fcpx/"><u>[New] 2024 Approved Elevate Your Instagram Feed Vertical Video Edits in FCPX</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-smooth-iphone-screen-recording-made-simple/"><u>[New] Smooth iPhone Screen Recording Made Simple</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-paint-jocular-visuals-with-giphy-in-mind/"><u>[Updated] In 2024, Paint Jocular Visuals with Giphy in Mind</u></a></li>
-<li><a href="https://windows11.techidaily.com/10-overlooked-windows-11-aesthetic-themes/"><u>10 Overlooked Windows 11 Aesthetic Themes</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-from-basics-to-bonus-elevate-your-cam-game/"><u>2024 Approved From Basics to Bonus Elevate Your Cam Game</u></a></li>
-<li><a href="https://windows11.techidaily.com/5-ways-to-fix-the-remote-procedure-call-failed-error-in-windows/"><u>5 Ways to Fix the Remote Procedure Call Failed Error in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-practical-approach-to-windows-network-file-transfer-via-python/"><u>A Practical Approach to Windows Network File Transfer via Python</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-windows-11-get-support-disruption/"><u>Addressing Windows 11 'Get Support' Disruption</u></a></li>
-<li><a href="https://windows11.techidaily.com/browser-breakdowns-heres-how-to-get-past-the-roadblocks-in-win-os/"><u>Browser Breakdowns? Here's How to Get Past the Roadblocks in WIN OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/command-your-computer-mastery-of-windows-through-alomware/"><u>Command Your Computer: Mastery of Windows Through AlomWare</u></a></li>
-<li><a href="https://windows11.techidaily.com/converting-oculus-quest-2-to-windows-vr-compatibility-level/"><u>Converting Oculus Quest 2 to Windows VR Compatibility Level</u></a></li>
-<li><a href="https://windows11.techidaily.com/deterring-windows-auto-update-alerts/"><u>Deterring Windows Auto-Update Alerts</u></a></li>
-<li><a href="https://windows11.techidaily.com/discovery-of-four-cortana-succession-steps/"><u>Discovery of Four Cortana Succession Steps</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-apple-iphone-15-drfone-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your Apple iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-vivo-y36i-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Vivo Y36i Device SIM</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-explore-the-most-economical-video-conference-software-best-10-recommendations-for-business-and-education/"><u>In 2024, Explore the Most Economical Video Conference Software Best 10 Recommendations for Business & Education</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/resolving-non-functional-audio-devices-expert-tips-by-yl-software-team/"><u>Resolving Non-Functional Audio Devices - Expert Tips by YL Software Team</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1124168-9780892545599-the-future-that-brought-her-here/"><u>The Future That Brought Her Here | Free Book</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlock-the-secrets-of-identifying-your-hidden-email-details-easily/"><u>Unlock the Secrets of Identifying Your Hidden Email Details Easily</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-first-steps-in-filmmaking-mastering-key-camera-techniques/"><u>[New] First Steps in Filmmaking Mastering Key Camera Techniques</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-take-control-with-kinemaster-a-compreayer-guide-to-android-gameplay/"><u>[New] In 2024, Take Control with KineMaster A Compreayer Guide to Android Gameplay</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-ensuring-faster-audio-with-secure-spotify-tips-for-2024/"><u>[Updated] Ensuring Faster Audio with Secure Spotify Tips for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-tutorial-on-setting-up-ps-vr-compatibility-with-desktop-systems/"><u>Complete Tutorial on Setting Up PS VR Compatibility with Desktop Systems</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/forgot-your-oppo-find-x6-lock-screen-pattern-pin-or-password-here-s-what-to-do-by-drfone-android-unlock-android-unlock/"><u>Forgot your Oppo Find X6 lock screen pattern, PIN or password? Here’s what to do</u></a></li>
+<li><a href="https://fox-access.techidaily.com/ghostly-lens-takedown-reviews/"><u>Ghostly Lens Takedown Reviews</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-innovative-tiktok-pfp-ideas-to-enhance-your-profile-visibility/"><u>In 2024, Innovative TikTok PFP Ideas to Enhance Your Profile Visibility</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-resolve-your-iphone-11-pro-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>In 2024, Resolve Your iPhone 11 Pro Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/lenovo-legion/"><u>Lenovo Legion</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximizing-performance-8-must-do-tasks-following-the-acquisition-of-a-new-windows-computer/"><u>Maximizing Performance: 8 Must-Do Tasks Following the Acquisition of a New Windows Computer</u></a></li>
+<li><a href="https://windows11.techidaily.com/revamping-the-boring-windows-terminal-into-a-stylish-command-hub/"><u>Revamping the Boring Windows Terminal Into a Stylish Command Hub</u></a></li>
+<li><a href="https://windows11.techidaily.com/say-goodbye-to-netflix-download-functionality-for-desktop-upcoming-changes-explained/"><u>Say Goodbye to Netflix Download Functionality for Desktop: Upcoming Changes Explained</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-essential-12-improvements-for-a-future-release-what-users-hope-for-from-windows-12/"><u>The Essential 12 Improvements for a Future Release: What Users Hope For From Windows 12</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-nearly-complete-windows-11-update-for-2amz-may-2024-innovations-and-features-ahead/"><u>The Nearly Complete Windows 11 Update for 2Amz, May 2024: Innovations and Features Ahead!</u></a></li>
 </ul></div>
 

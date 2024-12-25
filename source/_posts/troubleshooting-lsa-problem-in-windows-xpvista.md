@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting LSA Problem in Windows XP/Vista
-date: 2024-12-13T23:05:15.615Z
-updated: 2024-12-16T17:55:07.527Z
+date: 2024-12-19T17:33:50.000Z
+updated: 2024-12-25T18:21:43.699Z
 tags:
   - windows10
   - windows11
@@ -32,12 +32,16 @@ thumbnail: https://thmb.techidaily.com/2df210d64d34d4b3dc09759541c3c9d53d18577f1
  This error is usually triggered when Windows attempts to enable Local Security Authority (LSA) protection and fails. In some cases, the error may also appear after you enabled LSA protection and restarted your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Restart Your PC
 
  As the error message suggests, you first restart your Windows system. This minor step can fix several system-level errors and is worth a try. Restarting your computer involves shutting down all running programs and starting it up again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Scan for Malicious Programs
 
@@ -51,10 +55,6 @@ thumbnail: https://thmb.techidaily.com/2df210d64d34d4b3dc09759541c3c9d53d18577f1
 4. Click **Scan options** on the right side of the screen.  
 ![Full Scan Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/full-scan-windows-security.jpg)
 5. Select **Full scan** and click **Scan now**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now wait for the scan to finish. If malicious programs are detected, Windows Security will remove them from your system automatically.
 
@@ -78,7 +78,7 @@ Administrative Templates > System > Local Security Authority
 8. Now click **Apply > OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After making the above changes, restart your computer and check if the error is resolved.
@@ -98,7 +98,7 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 6. Change the Value data from 0 to **2** and click **OK**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Similarly, find the **RunAsPPLBoot** key and set its value to **2**.  
@@ -119,10 +119,6 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 ![Reset Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-windows-security.jpg)
 7. If the confirmation window pops up, click **Reset** to continue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Wait for the reset process to finish and restart your computer. After restarting, check if the error is still present.
 
 ## 6\. Perform Some Generic Fixes
@@ -130,6 +126,10 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
  There are also some generic fixes to resolve the issue. First, [run the System File Checker](https://www.makeuseof.com/system-file-checker-sfc-windows/) command to repair incorrect or damaged system files. You may also want to use the Deployment Image Servicing and Management tool to diagnose issues with local system images. If the problem persists, try [updating Windows to the latest version](https://www.makeuseof.com/update-windows-manually/) to resolve any glitches or bugs.
 
  Some antivirus and security programs can be too aggressive in protecting your system. They could prevent access to the LSA feature, leading to this problem. To be sure, you can [temporarily disable your security software](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) and check if it solves the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixing the LSA Protection Error on Windows
 
@@ -147,20 +147,19 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-revival.techidaily.com/discovering-gpt-4-without-paying-top-4-free-strategies/"><u>Discovering GPT-4 Without Paying: Top 4 Free Strategies</u></a></li>
-<li><a href="https://windows11.techidaily.com/effortless-tech-integration-flow-app-connects-pc-galaxy/"><u>Effortless Tech Integration – Flow App Connects PC, Galaxy</u></a></li>
-<li><a href="https://windows11.techidaily.com/elderly-tech-making-older-computers-senior-friendly/"><u>Elderly Tech: Making Older Computers Senior Friendly</u></a></li>
-<li><a href="https://windows11.techidaily.com/elevate-your-vm-experience-implement-these-six-strategies-for-windows/"><u>Elevate Your VM Experience: Implement These Six Strategies for Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/elevating-device-protection-prolonging-windows-11-pin-code/"><u>Elevating Device Protection: Prolonging Windows 11 Pin Code</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/te-video-success-gaining-youtube-confidence-skills-for-2024/"><u>Emulate Video Success Gaining YouTube Confidence Skills for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhance-windows-interface-with-an-efficient-auto-check-function-for-win11/"><u>Enhance Windows Interface with an Efficient Auto-Check Function for Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhancing-ram-performance-bypass-windows-limitations/"><u>Enhancing RAM Performance: Bypass Windows Limitations</u></a></li>
-<li><a href="https://windows11.techidaily.com/ensuring-full-visibility-for-system-startups/"><u>Ensuring Full Visibility for System Startups</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-mend-the-missing-link-top-9-ways-to-reconnect-bluetooth-in-win-11/"><u>How to Mend the Missing Link: Top 9 Ways to Reconnect Bluetooth in Win 11</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-samsung-galaxy-f04-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Samsung Galaxy F04 | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-seamless-multiplayer-sessions-with-xbox-zoom-support/"><u>In 2024, Seamless Multiplayer Sessions with Xbox Zoom Support</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/les-meilleures-options-pour-la-synchronisation-dappareils-ios-avec-windows-ebon-ios-device-management-sans-itunes/"><u>Les Meilleures Options Pour La Synchronisation D'Appareils iOS Avec Windows Ebon iOS Device Management Sans iTunes</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/swiftly-adjust-youtube-videos-to-mac-screen-ratios-for-2024/"><u>Swiftly Adjust YouTube Videos to Mac Screen Ratios for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-capturing-memories-a-guide-to-sharing-ps4-screenshots-online/"><u>Updated In 2024, Capturing Memories A Guide to Sharing PS4 Screenshots Online</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-artisans-guide-to-picture-in-picture-videos-on-macos-systems/"><u>[New] The Artisan's Guide to Picture in Picture Videos on macOS Systems</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-10-proven-methods-for-boosting-fb-search-rankings/"><u>[Updated] 10 Proven Methods for Boosting FB Search Rankings</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-discover-free-methods-to-enhance-alter-and-amplify-your-vocal-expression/"><u>[Updated] In 2024, Discover FREE Methods To Enhance, Alter & Amplify Your Vocal Expression</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hunt-down-the-best-free-vfx-platforms-for-your-editing-needs/"><u>2024 Approved Hunt Down the Best Free VFX Platforms for Your Editing Needs</u></a></li>
+<li><a href="https://article-files.techidaily.com/craft-your-logo-legacy-affordable-and-flexible-templates-for-customization-for-2024/"><u>Craft Your Logo Legacy Affordable & Flexible Templates for Customization for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/file-organization-made-easy-configuring-win11s-auto-delete/"><u>File Organization Made Easy: Configuring Win11's Auto Delete</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/find-your-new-favorite-10-cost-free-tv-platforms-comparable-to-netflix/"><u>Find Your New Favorite: 10 Cost-Free TV Platforms Comparable To Netflix</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-make-sure-your-temp-folder-is-valid-error-in-windows-11/"><u>How to Fix the Make Sure Your Temp Folder Is Valid Error in Windows 11</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-expanding-social-footprint-tying-igtv-and-facebook-together/"><u>In 2024, Expanding Social Footprint Tying IGTV & Facebook Together</u></a></li>
+<li><a href="https://windows11.techidaily.com/powershell-mastery-for-windows-administrators/"><u>PowerShell Mastery for Windows Administrators</u></a></li>
+<li><a href="https://windows11.techidaily.com/proactive-measures-to-increase-virtual-memory-in-windows-11-operations/"><u>Proactive Measures to Increase Virtual Memory in Windows 11 Operations</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-glance-uncovering-graphics-card-version-win11/"><u>Quick Glance: Uncovering Graphics Card Version, Win11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-ranking-macos-software-a-comprehensive-review-by-zdnet/"><u>Top-Ranking macOS Software : A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/win1011-recycle-troubleshooting-restoring-corruption-error/"><u>Win10/11 Recycle Troubleshooting: Restoring Corruption Error</u></a></li>
 </ul></div>
 

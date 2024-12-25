@@ -1,7 +1,7 @@
 ---
 title: In-Depth Guide to Alternatives for Windows' LS Functionality
-date: 2024-12-13T16:01:50.743Z
-updated: 2024-12-16T23:46:11.458Z
+date: 2024-12-21T16:04:01.662Z
+updated: 2024-12-25T18:30:29.098Z
 tags:
   - windows10
   - windows11
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
  By using the “ls” command, users can list the contents of the current working directory, similarly, you can also [switch directories using Command Prompt](http://www.makeuseof.com/how-to-change-directory-in-cmd/). On Windows, the usage of "ls" in Command Prompt is slightly different compared to Linux, but it can accomplish the same task.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use the “ls” Command in Command Prompt on Windows 10 and 11
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
 ![Use dir command to list files in Windows CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/dir-command-cmd.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To list files and directories using the equivalent of "ls" in Command Prompt on Windows 10 and 11:
@@ -56,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
 3. Command Prompt will now list all of the files in the current working directory, along with their sizes and last modified date.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use "ls" Command in Windows PowerShell
@@ -68,7 +68,7 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
 ![powershell-ls](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/powershell-ls-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Follow these steps to view a file directory using the "**ls**" command on Windows using Windows PowerShell:
@@ -79,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
 4. Similarly, you can even use the **dir** or **gci** command to view the contents of a folder.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A Handy Tool for Both Linux and Windows Users
@@ -100,24 +100,16 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-10plus-incredible-free-youtube-intro-makers/"><u>[New] 2024 Approved 10+ Incredible Free YouTube Intro Makers</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-maximize-windows-10-top-5-recording-techniques/"><u>[New] 2024 Approved Maximize Windows 10 Top 5 Recording Techniques</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-10-cost-free-innovative-photo-overlays-for-mobile-devices/"><u>[Updated] In 2024, 10 Cost-Free, Innovative Photo Overlays for Mobile Devices</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-elevating-selfies-advanced-techniques-in-snapchat-photography/"><u>[Updated] In 2024, Elevating Selfies Advanced Techniques in Snapchat Photography</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-art-of-retracing-instagram-pictures-roots/"><u>[Updated] In 2024, The Art of Retracing Instagram Pictures' Roots</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-create-impact-with-intro-excellence-best-free-services-reviewed/"><u>2024 Approved Create Impact with Intro Excellence Best Free Services Reviewed</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-maximize-visibility-resizing-your-youtube-images-effectively/"><u>2024 Approved Maximize Visibility Resizing Your YouTube Images Effectively</u></a></li>
-<li><a href="https://windows11.techidaily.com/4-ways-to-fix-the-mail-apps-cant-get-mail-error-on-windows-11/"><u>4 Ways to Fix the Mail App's Can’t Get Mail Error on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/add-compatibility-tool-to-windows-quick-access/"><u>Add Compatibility Tool to Windows' Quick Access</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoid-unintended-snipping-tool-launch-via-prtsc-on-win-11/"><u>Avoid Unintended Snipping Tool Launch via PrtSc on Win 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoiding-and-remedying-windows-error-code-0x0000004e/"><u>Avoiding and Remedying Windows' Error Code: 0X0000004E</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoiding-duplicate-local-device-names-in-windows-systems/"><u>Avoiding Duplicate Local Device Names in Windows Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/bridging-no-network-access-on-winethernet/"><u>Bridging No Network Access on WinEthernet</u></a></li>
-<li><a href="https://windows11.techidaily.com/crucial-cross-platform-tools-for-windowsandroid-users/"><u>Crucial Cross-Platform Tools For Windows/Android Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/dealing-with-ios-photos-import-errors-on-windows-devices/"><u>Dealing with iOS Photos Import Errors on Windows Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/dive-into-customization-windows-11s-potential-unlocked/"><u>Dive Into Customization: Windows 11'S Potential Unlocked</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-and-simple-install-amd-ryzen-eamon-5-2400g-graphics-card-driver-download/"><u>Quick & Simple Install: AMD Ryzen Eamon 5 2400G Graphics Card Driver Download</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/step-by-step-guide-to-mining-bitcoins-insights-from-yl-computings-expertise/"><u>Step-by-Step Guide to Mining Bitcoins: Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/icks-for-phone-based-asmr-enthusiasts-for-2024/"><u>Top Picks for Phone-Based ASMR Enthusiasts for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-innovative-photography-adding-stylish-borders-to-instagram-pics/"><u>[New] Innovative Photography Adding Stylish Borders to Instagram Pics</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-swift-action-on-slow-footage-with-best-apps/"><u>[New] Swift Action on Slow Footage with Best Apps</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-eating-the-trend-top-food-moments-on-tiktok/"><u>[Updated] 2024 Approved Eating the Trend Top Food Moments on TikTok</u></a></li>
+<li><a href="https://games-able.techidaily.com/excellent-office-mats-and-their-benefits/"><u>Excellent Office Mats and Their Benefits</u></a></li>
+<li><a href="https://windows11.techidaily.com/from-ios-to-windows-mastering-the-use-of-imessage/"><u>From iOS to Windows: Mastering the Use of iMessage</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-your-routine-nircmds-win-commands-for-speed/"><u>Optimize Your Routine: NirCmd's Win Commands for Speed</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-the-deadly-windows-error-c0000022-breakdown/"><u>Overcoming the Deadly Window's Error C0000022 Breakdown</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionize-your-experience-optimal-grip-techniques-for-iphones-and-airpods-explained-by-zdnet/"><u>Revolutionize Your Experience: Optimal Grip Techniques for iPhones & AirPods Explained by ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/start-with-style-not-sponsorship-in-w11/"><u>Start with Style, Not Sponsorship in W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-stop-windows-task-moving-apps/"><u>Strategies to Stop Windows Task Moving Apps</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Tecno Spark 20 | Dr.fone</u></a></li>
 </ul></div>
 

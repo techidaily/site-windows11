@@ -1,7 +1,7 @@
 ---
 title: Overcoming the Empty Folder Puzzle in Win 11
-date: 2024-12-15T00:53:31.691Z
-updated: 2024-12-17T01:04:14.563Z
+date: 2024-12-22T16:42:59.915Z
+updated: 2024-12-25T19:01:52.206Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Run the System File Checker Tool
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
  The “there are no more files” error isn't commonly known to be a hard drive issue, but don’t rule out such a possibility. An error related to saving files could feasibly have something to do with the health of your PC’s hard drive.
 
  As such, you should run a Check Disk (CHKDSK) scan to check for and address hard disk drive file system errors detected. To do so, follow the guidelines within our [how-to run a CHKDSK scan](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10) article.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Uninstall the ASUS Data Security Manager Software
 
@@ -59,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
 ![The Programs and Features applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-windows-uninstaller.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Perform a Clean Boot
@@ -67,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
 ![The MSConfig app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-system-configuration-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The ASUS Data Security Manager is not the only third-party security tool that can trigger the “there are no more files” error. So, try clean-booting Windows to disable all third-party apps and services. A clean boot will stop other background apps or services from automatically starting, which may fix the error.
@@ -75,10 +71,6 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
  This article about [how to clean boot Windows](https://www.makeuseof.com/clean-boot-windows-11/) covers how you can disable startup items and services with the System Configuration and Task Manager system tools. After changing the boot settings, restart your computer for the resolution to take effect. Then try saving document and image files to see if the “there are no more files” error continues.
 
  If it doesn't, it means there is another third-party app on your system causing this error. Try deleting any recent apps you've installed and see if that fixes the problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Roll Back Windows With a System Restore
 
@@ -90,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
 
 ![The System Restore window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/system-restore-window.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Perform a Windows Factory Reset
 
  This reset solution will restore your Windows PC to its original factory state. If none of the potential solutions suggested above work for you, resetting Windows is the last thing you should try. Users confirm applying a factory reset fixes the “there are no more files” error.
@@ -97,6 +93,10 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
  You will need to reinstall all third-party packages that weren’t pre-installed on your Windows PC after a reset. However, you need not back up any user files as you can select to keep them within the Reset this PC tool. Our [how to factory reset your Windows PC](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) guide provides full details on applying this last resort resolution.
 
 ![The Keep my files option in the Reset this PC tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-keep-my-files-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Save Your Files Again on Windows
 
@@ -114,19 +114,24 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/-comprehensive-guide-to-making-gifs-from-youtube-tracks/"><u>[New] A Comprehensive Guide to Making GIFs From YouTube Tracks</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-top-5-display-choices-to-enhance-ps5xbox-playtime/"><u>[New] Top 5 Display Choices to Enhance PS5/Xbox Playtime</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/1-will-starting-over-on-ps4-wipe-out-all-data/"><u>1. Will Starting Over on PS4 Wipe Out All Data?</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/complete-overview-how-to-navigate-telegram-web/"><u>Complete Overview How To Navigate Telegram Web</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/die-besten-4-schnellen-videokonverter-bewertet-gratular-und-kostenlose-downloads/"><u>Die Besten 4 Schnellen Videokonverter Bewertet - Gratulär Und Kostenlose Downloads</u></a></li>
-<li><a href="https://windows11.techidaily.com/efficient-local-drive-usage-keeping-your-data-safe-in-win11-max-156-chars/"><u>Efficient Local Drive Usage: Keeping Your Data Safe in Win11 (Max 156 Chars)</u></a></li>
-<li><a href="https://windows11.techidaily.com/effortless-focus-discover-these-8-premier-timers-for-pc-tasks/"><u>Effortless Focus: Discover These 8 Premier Timers For PC Tasks</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhance-windows-security-today-the-best-7-free-password-creator-apps/"><u>Enhance Windows Security Today: The Best 7 Free Password Creator Apps</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhancing-search-capabilities-of-windows-11-os/"><u>Enhancing Search Capabilities of Windows 11 OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/eradicating-share-error-in-windows-11/"><u>Eradicating Share Error in Windows 11</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-realme-11-proplus-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Realme 11 Pro+ Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/say-hello-in-mandarin-a-practical-guide/"><u>Say Hello in Mandarin: A Practical Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/the-clear-sight-crusade-nine-methods-to-sharpen-your-monitor/"><u>The Clear Sight Crusade: Nine Methods to Sharpen Your Monitor</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-free-video-converters-for-windows-11-and-mac-the-best-alternatives-to-winxdvd/"><u>Top Free Video Converters for Windows 11 and Mac: The Best Alternatives to WinXDVD</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-masterclass-in-virality-cutting-edge-strategies-for-instagram-films/"><u>[New] 2024 Approved Masterclass in Virality Cutting-Edge Strategies for Instagram Films</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-how-to-craft-engaging-macootd-tiktoks-effortlessly-for-2024/"><u>[New] How To Craft Engaging MacOOTD TikToks Effortlessly for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-drone-racing-all-you-need-to-know-and-5-best-fpv-racing-drones/"><u>[Updated] Drone Racing All You Need to Know and 5 Best FPV Racing Drones</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-video-crafting-for-the-modern-youtube-creator/"><u>[Updated] Video Crafting for the Modern YouTube Creator</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-download-instagram-reels-effortlessly-anytime/"><u>2024 Approved Download Instagram Reels Effortlessly, Anytime</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/earn-big-savings-amazon-prime-day-kicks-off-on-july-16-2024/"><u>Earn Big Savings: Amazon Prime Day Kicks Off on July 16, 2024!</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/free-online-jpggif-converters-the-best-10-list/"><u>Free Online JPG/GIF Converters The Best 10 List</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-awaken-divine-powers-within-windows-11-os/"><u>How to Awaken Divine Powers Within Windows 11 OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/making-windows-10-work-tips-if-you-cant-upgrade/"><u>Making Windows 10 Work: Tips if You Can't Upgrade</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/navigating-unparalleled-clarity-with-the-sony-xbr49x900f-smart-led-tv-review/"><u>Navigating Unparalleled Clarity with the Sony XBR49X900F Smart LED TV Review</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-obstacles-fixing-outlook-issues-in-windows/"><u>Overcoming Obstacles: Fixing Outlook Issues in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-app-glitch-x80131500/"><u>Overcoming Windows App Glitch X80131500</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-missing-alerts-a-guide-for-non-working-phone-link-on-pc/"><u>Restoring Missing Alerts: A Guide for Non-Working Phone Link on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/solve-your-nvidia-scanner-trouble-in-windows-environment/"><u>Solve Your Nvidia Scanner Trouble in Windows Environment</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-steam-broadcast-glitches-in-windows/"><u>Solving Steam Broadcast Glitches in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/stalled-opera-install-windows-fix-guide/"><u>Stalled Opera Install? Windows Fix Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-guide-capturing-scrollable-content-with-screen-shots-on-mac-16-techniques-explained-by-movavi/"><u>The Ultimate Guide: Capturing Scrollable Content with Screen Shots on Mac - 16 Techniques Explained by Movavi</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-chrome-cookie-and-cache-issues-for-download-problems-windows/"><u>Troubleshooting Chrome’ Cookie & Cache Issues for Download Problems, Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unboxing-innovation-exploring-the-latest-tech-treasures-on-toms-gadget-blog/"><u>Unboxing Innovation: Exploring the Latest Tech Treasures on Tom's Gadget Blog</u></a></li>
 </ul></div>
 

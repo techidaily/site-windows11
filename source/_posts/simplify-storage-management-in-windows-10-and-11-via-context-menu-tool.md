@@ -1,7 +1,7 @@
 ---
 title: Simplify Storage Management in Windows 10 & 11 via Context Menu Tool
-date: 2024-12-10T19:56:30.762Z
-updated: 2024-12-16T21:35:54.320Z
+date: 2024-12-24T18:38:59.911Z
+updated: 2024-12-25T17:10:59.748Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/b820d864536876d7d0a61d1c45147aa7dcf60bfd6
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Add a Visual Disk Space Analyzer Tool to Explorer’s Context Menu With RidNacs
 
  RidNacs is a freeware disk analyzer app with which you can scan whole drives, folders, or removable storage devices (USB sticks). This tool displays storage usage reports with percentage bars that give users a clear picture of what’s hogging the most space. You can add the RidNacs analyzer tool to Explorer’s context menu like this:
@@ -45,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/b820d864536876d7d0a61d1c45147aa7dcf60bfd6
 ![The Install button for RidNacs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/setup-ridnac.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now you start analyzing folder storage space usage on your PC with RidNacs. Open the Explorer file manager window, and right-click a folder to select**Show more options** . Click the**Analyze Disk Space Usage with RidNacs** option on the classic context menu to start the scan.
@@ -54,15 +50,15 @@ thumbnail: https://thmb.techidaily.com/b820d864536876d7d0a61d1c45147aa7dcf60bfd6
 
 ![The RidNacs window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/ridnacs-window.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can select other directories or a whole drive to scan within the RidNacs window. To do so, click**File** and the**Choose Directory** option. Then choose another folder or an entire drive to scan and click**OK** .
 
  RidNacs doesn’t have lots of customization settings. However, you can change the percentage bar style. To do so, click the**Preferences** button. Then select a different color option on the Percentage bar style. Select**Apply** \>**OK** to save the new bar style setting.
 
 ![The Preferences window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/preferences-window.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Add a Visual Disk Space Analyzer Tool to Explorer’s Context Menu With Disk Savvy
 
@@ -74,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/b820d864536876d7d0a61d1c45147aa7dcf60bfd6
 4. Select**Next** and**I Agree** **to confirm acceptance** of the end user agreement.  
 ![The Disk Savvy setup wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disk-savvy-window.jpg)
 5. Then press**Install** to add the Disk Savvy tool to the Windows context menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Select**Next** when installation is complete.
 7. Click**Finish** to exit the Disk Savvy setup window.
@@ -90,22 +90,22 @@ thumbnail: https://thmb.techidaily.com/b820d864536876d7d0a61d1c45147aa7dcf60bfd6
 
 ![A Disk Space Usage Per File Extension graph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disk-space-usage-window.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Disk Savvy also has a feature that displays all the top (biggest) files within an analyzed folder. To utilize that feature, click the**Top Files** button. Then select an option like**View Top Images Sorted By File Size** or**View Top Music Files Sorted By the File Size** to see what the biggest ones are.
 
  This software can analyze multiple folders at once. To select multiple folders in the Disk Savvy window, click**Default profiles** on the left and the**+** **Add** **input** button for directories. Then select the**Add Input Directory** option, click the**ellipsis** button, choose a folder to add, and press the**OK** buttons. Click**Analyze** to scan all selected folders.
 
 ![Add Input Directory option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-input-directory.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can save and export disk usage reports to various file formats. To do so, click the**Save** option. Select a file extension option on the**Report format** drop-down menu; click the**Report type** drop-down menu to choose an option there, and press the**Save** button. You can view the report by opening it from the default Documents folder save location.
 
 ![Disk space analyzis report options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disk-report-options.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Get a Visual Overview of Folder and File Disk Usage in Windows
@@ -127,18 +127,18 @@ thumbnail: https://thmb.techidaily.com/b820d864536876d7d0a61d1c45147aa7dcf60bfd6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-step-by-step-guide-to-hulu-screen-capture-for-various-operating-systems-for-2024/"><u>[New] Step-by-Step Guide to Hulu Screen Capture for Various Operating Systems for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-bypass-samsungs-vr-camera-here-are-your-top-alternatives-for-2024/"><u>[Updated] Bypass Samsung’s VR Camera - Here Are Your Top Alternatives for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-elevating-art-advanced-techniques-for-curving-photos/"><u>[Updated] Elevating Art Advanced Techniques for Curving Photos</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-photographic-tapestry-assembly-techniques-for-2024/"><u>[Updated] Photographic Tapestry Assembly Techniques for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-best-live-recording-gadgets-for-youtube-content-creators/"><u>In 2024, Best Live Recording Gadgets for YouTube Content Creators</u></a></li>
-<li><a href="https://windows11.techidaily.com/manage-battery-saver-functionality-on-your-laptop-seamlessly/"><u>Manage Battery Saver Functionality on Your Laptop Seamlessly</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-audio-format-switches-srt-to-ssa-and-more/"><u>Mastering Audio Format Switches SRT to SSA & More</u></a></li>
-<li><a href="https://techtrends.techidaily.com/playing-h264-videos-on-your-computer-a-comprehensive-guide-for-windows-and-macos-users/"><u>Playing H.264 Videos on Your Computer: A Comprehensive Guide for Windows & macOS Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-task-management-customize-keyboard-shortcuts-by-power-in-win11/"><u>Quick Task Management: Customize Keyboard Shortcuts by Power in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/revolutionizing-image-editing-with-photos-apps-delete-feature/"><u>Revolutionizing Image Editing with Photos App's Delete Feature</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-solve-memory-failure-in-windows/"><u>Strategies to Solve Memory Failure in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/unblocking-the-frozen-windows-enter-button-function/"><u>Unblocking the Frozen Windows 'Enter' Button Function</u></a></li>
-<li><a href="https://windows11.techidaily.com/visual-advancements-for-safe-web-experience-in-windows-11/"><u>Visual Advancements for Safe Web Experience in Windows 11</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-exploration-of-distinct-video-camera-kinds/"><u>[Updated] Exploration of Distinct Video Camera Kinds</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-unlocking-vrecorders-potential-quick-download-and-install/"><u>[Updated] Unlocking VRecorder's Potential Quick Download & Install</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/budget-friendly-outdoor-security-upgrade-get-a-high-quality-blink-four-camera-system-and-led-floodlight-mount-at-just-80-this-labor-day-zdnet/"><u>Budget-Friendly Outdoor Security Upgrade: Get a High-Quality Blink Four-Camera System and LED Floodlight Mount at Just $80 This Labor Day | ZDNET</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conclusion-non-supportive-stance-from-drivers-on-opengl/"><u>Conclusion: Non-Supportive Stance From Drivers on OpenGL</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-internal-error-has-occurred-remote-desktop-connection-error-in-windows-11-and-11/"><u>How to Fix the “Internal Error Has Occurred” Remote Desktop Connection Error in Windows 11 & 11</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-from-apple-iphone-14-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock from Apple iPhone 14</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-reel-in-your-audience-with-professional-ipadiphone-podcasting-hacks/"><u>In 2024, Reel in Your Audience with Professional IPad/iPhone Podcasting Hacks</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-code-with-microsoft-copilot-on-windows/"><u>Mastering Code with Microsoft Copilot on Windows</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/mp3-cutter-download/"><u>MP3 Cutter Download</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-resolving-non-functional-windows-alt-keys/"><u>Steps for Resolving Non-Functional Windows Alt Keys</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/streamlining-video-creation-for-snapchat-on-mac-for-2024/"><u>Streamlining Video Creation for Snapchat on Mac for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/transform-your-computer-with-windows-11-touch-driver/"><u>Transform Your Computer with Windows 11 Touch Driver</u></a></li>
+<li><a href="https://windows11.techidaily.com/upgrade-pcs-for-efficient-scalable-transcoding-using-tdarr/"><u>Upgrade PCs for Efficient, Scalable Transcoding Using Tdarr</u></a></li>
 </ul></div>
 

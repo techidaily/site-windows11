@@ -1,7 +1,7 @@
 ---
 title: "Win11 Screen Reset: 3 Straightforward Solutions"
-date: 2024-08-08T06:07:23.722Z
-updated: 2024-08-09T06:07:23.722Z
+date: 2024-12-18T18:18:28.135Z
+updated: 2024-12-25T17:05:27.654Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/8f88442ac6dedc419a65e9e8bd02cadcc874f8f08
  Finding yourself stuck with a Windows 10/11 black screen with a cursor is frustrating, but this article is here to help you with this issue. But how can you[fix Windows stuck on a black screen with just a cursor](https://www.passfab.com/windows-repair/how-to-fix-windows-11-black-screen-with-cursor.html) ?
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why Is My Windows 10/11 Stuck on a Black Screen With Cursor?
 
  This issue is characterized by a blank black screen with nothing but a cursor on display. You can’t use your PC, you can’t log in, and may not be able to shut down your device.
@@ -32,17 +33,15 @@ thumbnail: https://thmb.techidaily.com/8f88442ac6dedc419a65e9e8bd02cadcc874f8f08
  Windows updates, driver updates, and other glitches can all be responsible for causing your screen to turn black, and this is why there are multiple solutions to the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 1: PassFab FixUWin
 
  This first method is the easiest on this list, enabling you to rely on third-party tools to handle the job for you. You can download and use[PassFab FixUWin](https://www.passfab.com/products/fix-windows.html) for free, enabling you to try it out and get started without having to commit to purchasing a copy for yourself.
 
 ### Step 1: Download & Install PassFab FixUWin
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![download fixuwin on website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/download-fixuwin.jpg)
 
  Head to the PassFab website and go to the FixUWin page. Click on**Free Trial** to download an executable file for your new software.
@@ -53,18 +52,27 @@ thumbnail: https://thmb.techidaily.com/8f88442ac6dedc419a65e9e8bd02cadcc874f8f08
 
 ![fixuwin create boot disk window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/fixuwin-create-boot-disk.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You need a black CD/DVD or a USB drive to use PassFab FixUWin to fix Windows 10/11 black screen with a cursor. Insert your disk or drive into your computer and select**Create Boot Disk Now** .
 
 ![fixuwin select drive and windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/fixuwin-select-drive-and-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Choose the version of Windows that matches the machine you are trying to fix and select the drive or disk you want to turn into a boot device before clicking**Next** and accepting the prompt that comes up.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fixuwin creating boot drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/fixuwin-creating-boot-drive.jpg)
 
 It will take a few minutes to create your new boot device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 3: Boot the Machine Using Your Boot Disk/Drive
 
@@ -80,16 +88,10 @@ It will take a few minutes to create your new boot device.
 
  PassFab is currently offering discounts of up to 80% across its range of software tools and utilities to celebrate Thanksgiving and Black Friday 2022\. This makes it possible to get your hands on a copy of[PassFab FixUWin](https://www.passfab.com/products/fix-windows.html) for just $39.95 per year.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Method 2: Reset Your PC
 
  Windows 10 and 11 both come with a feature to enable you to reset the operating system and all of its features. Open the Start Menu, type Reset This PC, and choose the first option from the list. Click**Get Started** in the Reset PC section and follow the prompts to reset your machine.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ## Method 3: Reboot Windows in Safe Mode
 
  Windows Safe Mode makes it easier to diagnose issues with the operating system by only running the most essential drivers and tools. Turn off your PC by holding the power button for 10 seconds, turn it back on, and press the power button for 10 seconds again as soon as you see the Windows logo appear. Turn it back on and repeat this process until you enter winRE.
@@ -100,14 +102,11 @@ It will take a few minutes to create your new boot device.
 
 [PassFab FixUWin](https://www.passfab.com/products/fix-windows.html) is a simple tool that can fix an array of Windows issues with ease. You just need to press the button to get the software started, and it can fix problems like blank screens without any work on your part. What’s best, though, is that all of PassFab’s excellent tools are available at incredible discounts to celebrate Black Friday.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -116,4 +115,19 @@ It will take a few minutes to create your new boot device.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-secure-and-sync-your-cinematic-recordings-across-platforms-for-2024/"><u>[New] Secure and Sync Your Cinematic Recordings Across Platforms for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-5-affordable-pinterest-video-downloaders-unveiled/"><u>[Updated] Top 5 Affordable, Pinterest Video Downloaders Unveiled</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-video-dimensionssize-guide-for-upload-settings/"><u>2024 Approved YouTube Video Dimensions/Size [Guide for Upload Settings]</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expertise-en-photos-trouver-lequilibre-ideal-pour-les-blanc-en-images-professionnelles/"><u>Expertise en Photos: Trouver L'Équilibre Idéal Pour Les Blanc en Images Professionnelles</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-essence-of-android-perfection-with-the-google-pixel-3-review/"><u>Exploring the Essence of Android Perfection with the Google Pixel 3 Review</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-turn-off-windows-from-starting-spotify/"><u>Guide to Turn Off Windows From Starting Spotify</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-copy-and-paste-not-working-in-windows-11/"><u>How to Fix Copy and Paste Not Working in Windows 11</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-pro-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 Pro Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/lut-enthusiasts-delight-free-bundles-with-dji-minis-and-air-2-for-2024/"><u>LUT Enthusiasts' Delight – Free Bundles with DJI Minis & Air 2 for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-recovery-reviving-a-vanished-windows-update/"><u>Quick Recovery: Reviving a Vanished Windows Update</u></a></li>
+<li><a href="https://windows11.techidaily.com/reversing-game-launch-hurdles-with-epic-logins/"><u>Reversing Game Launch Hurdles with Epic Logins</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Vivo X100 Pro? | Dr.fone</u></a></li>
+</ul></div>
 

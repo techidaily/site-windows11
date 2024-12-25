@@ -1,7 +1,7 @@
 ---
 title: Pinpointing Where Windows Stores New Software
-date: 2024-11-30T19:21:35.112Z
-updated: 2024-12-03T17:29:48.482Z
+date: 2024-12-18T16:42:11.874Z
+updated: 2024-12-25T16:50:18.677Z
 tags:
   - windows10
   - windows11
@@ -33,11 +33,15 @@ thumbnail: https://thmb.techidaily.com/2dc71f07a766ca604beda3fe20bd5fd81321c87e0
 ![start menu program location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/start-menu-file-location.jpg)
 2. Right-click on the program icon, and click on**Open file location** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. In the folder that opens, right-click the required program’s icon and click on**Open file location** one final time.
 4. You should now be in the installation folder of the program.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Find the Installation Folder of a Program Using Its Desktop Shortcuts
@@ -52,11 +56,7 @@ thumbnail: https://thmb.techidaily.com/2dc71f07a766ca604beda3fe20bd5fd81321c87e0
 3. Click on the**Shortcut** tab, and you will find the installation path in the**Target** field.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Locate the Folder Where a Program Is Installed Using Task Manager
@@ -76,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/2dc71f07a766ca604beda3fe20bd5fd81321c87e0
 3. After locating the program you need, right-click and then click on**Open file location** .
 4. A new File Explorer window will open up, and you will have found the program's installation directory.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Access the Installation Folder of a Program Using File Explorer
 
  If for some reason, you want to take a more grueling approach to find the installation folder of a program, you can do so by browsing the main installation directory on your system.
@@ -88,10 +92,6 @@ To find where a program is located using the File Explorer:
 2. Navigate to**This PC** and click on the drive where Windows is installed (typically the C Drive).  
 ![program files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/program-files-explorer.jpg)
 3. Navigate to**Program Files > Program Files (x86)** and then scroll the list of folders until you find one with the program name you’re looking for.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Finding a Program's Install Location Is Easy
 
@@ -114,22 +114,20 @@ To find where a program is located using the File Explorer:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-efficiently-applying-luts-in-video-editing-premiere/"><u>[New] In 2024, Efficiently Applying LUTs in Video Editing Premiere</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-flash-vids-unpacked-whats-inside-for-2024/"><u>[Updated] Flash Vids Unpacked What's Inside for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-pinpoint-pioneering-podium-places/"><u>[Updated] Pinpoint Pioneering Podium Places</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-crafting-visual-narratives-with-the-leading-frames/"><u>In 2024, Crafting Visual Narratives with the Leading Frames</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/instantaneous-accurate-image-browser-win11/"><u>Instantaneous, Accurate Image Browser Win11</u></a></li>
-<li><a href="https://extra-information.techidaily.com/instructions-on-integrating-audio-into-unboxings/"><u>Instructions on Integrating Audio Into Unboxings</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Motorola Moto G24? | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/lenovo-unleashes-productivity-introducing-the-innovative-l-series-line-of-computers/"><u>Lenovo Unleashes Productivity: Introducing the Innovative L-Series Line of Computers</u></a></li>
-<li><a href="https://windows11.techidaily.com/proactive-pc-management-keeping-windows-11s-amd-drivers-current/"><u>Proactive PC Management: Keeping Windows 11'S AMD Drivers Current</u></a></li>
-<li><a href="https://windows11.techidaily.com/quickly-restart-print-spool-in-windows/"><u>Quickly Restart Print Spool in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/reconfiguring-system-settings-managed-by-your-organization-on-windows-11/"><u>Reconfiguring System Settings Managed by Your Organization on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/regain-control-over-windows-11s-dropped-items/"><u>Regain Control Over Windows 11'S Dropped Items</u></a></li>
-<li><a href="https://windows11.techidaily.com/secrets-resolving-uncontrolled-mouse-jitter-in-win11/"><u>Secrets: Resolving Uncontrolled Mouse Jitter in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/stop-windows-update-failures-with-these-fixes/"><u>Stop Windows Update Failures with These Fixes</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamline-coding-process-essential-wsl-2-tips-and-tricks-for-dev/"><u>Streamline Coding Process: Essential WSL 2 Tips and Tricks for Dev</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-quintessential-5-applications-every-twitch-performer-needs-to-thrive/"><u>The Quintessential 5 Applications Every Twitch Performer Needs to Thrive</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-reactivating-explore-in-11os/"><u>The Ultimate Guide to Reactivating Explore in 11OS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-complete-guide-to-help-you-convert-srt-to-xml-ssa-ttml-and-othe/"><u>[New] 2024 Approved The Complete Guide to Help You Convert SRT to XML, SSA, TTML, and Othe</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-elevate-your-biz-game-utilizing-snapchat-features/"><u>[New] In 2024, Elevate Your Biz Game Utilizing Snapchat Features</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-stand-alone-hold-tight-camera-stability-techniques/"><u>2024 Approved Stand Alone, Hold Tight Camera Stability Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-advanced-gadgets-and-devices-on-toms-hardware-platform/"><u>Exploring Advanced Gadgets and Devices on Tom's Hardware Platform</u></a></li>
+<li><a href="https://windows11.techidaily.com/file-location-enthusiasts-guide-unlocking-win11s-best-practices-6-techniques/"><u>File Location Enthusiast's Guide: Unlocking Win11's Best Practices (6 Techniques)</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-audio-failures-in-windows-11-and-11-error-code-0xc00d36b4/"><u>Fixing Audio Failures in Windows 11 & 11 Error Code 0xC00D36B4</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/from-novice-to-pro-your-journey-with-the-io-screener/"><u>From Novice to Pro Your Journey with the IO Screener</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mp4-files-on-samsung-galaxy-f54-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play MP4 files on Samsung Galaxy F54 5G?</u></a></li>
+<li><a href="https://windows11.techidaily.com/improve-visual-quality-with-enhanced-scaling-on-windows-11/"><u>Improve Visual Quality with Enhanced Scaling on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/jumpstart-your-pc-activate-classic-windows-photo-viewer-on-win11/"><u>Jumpstart Your PC: Activate Classic Windows Photo Viewer on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/mending-nvidia-display-settings-unavailability-issue/"><u>Mending Nvidia Display Settings Unavailability Issue</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/premier-manual-leveraging-mobizens-full-potential-for-mobile-capture/"><u>Premier Manual Leveraging Mobizen's Full Potential for Mobile Capture</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/refund-terms-for-winxdvd-by-digiarty-how-to-secure-your-money-back/"><u>Refund Terms for WinXDVD by Digiarty - How to Secure Your Money Back</u></a></li>
+<li><a href="https://windows11.techidaily.com/secure-savings-on-windows-11-pro-upgrade-offers/"><u>Secure Savings on Windows 11 Pro Upgrade Offers</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211444388-9780975624432-the-anxiety-diaries/"><u>THE ANXIETY DIARIES | Free Book</u></a></li>
 </ul></div>
 

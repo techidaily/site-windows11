@@ -1,7 +1,7 @@
 ---
 title: "From 4 to 16GB: The Evolution in Windows Computing Power"
-date: 2024-12-14T16:48:15.944Z
-updated: 2024-12-17T01:07:02.780Z
+date: 2024-12-18T18:36:15.726Z
+updated: 2024-12-25T18:23:58.444Z
 tags:
   - windows10
   - windows11
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
 * [Is Setting 16GB RAM as the New Standard Good News for You?](#is-setting-16gb-ram-as-the-new-standard-good-news-for-you)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -40,16 +40,12 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
 
  As operating systems become more complex, the minimum specifications for new PCs rise to meet them. Recent reports claim that Microsoft is pushing to have 16GB of RAM become the minimum amount of memory for new devices. But why would it make that change, and is this good for you?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is RAM?
 
 ![Inside of computer with ram sticks and cpu cooler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/inside-of-computer-with-ram-sticks-and-cpu-cooler.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Pexels](https://www.pexels.com/photo/interior-of-computer-15109653/)
@@ -57,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
  For anyone unsure what RAM is: it's short for "random access memory." You can imagine it like the size of your computer's work table; the more room it has to work with, the more programs it can run simultaneously without encountering any problems.
 
  Be sure to check out our [explainer on RAM](https://www.makeuseof.com/tag/quick-dirty-guide-ram-need-know/) that everyone can understand.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is Happening With RAM in Windows Computers?
 
@@ -66,17 +66,9 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
 
  Right now, you can purchase a new PC with 8GB of RAM minimum. If this report is accurate, these models will eventually be phased out, and 16GB computers will take their place as the baseline.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why Is Microsoft Setting a Baseline of 16GB of RAM?
 
 ![The Microsoft Copilot logo](https://thmb.techidaily.com/a9744aafdac80a7e4f169749236f6a9a3444533f48662a5ae5f051ec41bdae27.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Unsplash](https://unsplash.com/photos/blue-and-pink-light-illustration-LeG68PrXA6Y)
 
@@ -85,6 +77,10 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
  At the time of writing, we don't know exactly what an "AI PC" is. We know that many companies are developing them, and as you would expect, they will feature artificial intelligence in some form.
 
  An "AI PC" could be a machine where AI powers the operating system itself. It might also be a flashy marketing term for a regular PC with some simple AI tools pre-installed. Regardless of how AI PCs go, those special processing tools will need more memory to run properly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The Potential Set Up for Windows 12
 
@@ -97,6 +93,10 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
 [Copilot is Microsoft's personal AI assistant](https://www.makeuseof.com/what-is-microsoft-365-copilot/), powered by ChatGPT. Right now, you can find a dedicated Copilot button on Windows 10 and 11, Microsoft Edge, and Office. The company has already released a standalone Copilot app for Android, too.
 
  Windows 12 is currently believed to have a 2025 release date, which gives Microsoft a lot of time to work on implementing artificial intelligence into its operating system. And for people to make the most of Windows 12, Microsoft needs new PCs to have enough RAM to support it; hence the 16GB suggestion.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is Setting 16GB RAM as the New Standard Good News for You?
 
@@ -118,20 +118,18 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-artisans-shaping-virtual-marvel-universes/"><u>[New] In 2024, Artisans Shaping Virtual Marvel Universes</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/breaking-down-barriers-with-words-of-affection/"><u>Breaking Down Barriers with Words of Affection</u></a></li>
-<li><a href="https://windows11.techidaily.com/efficient-word-lookups-for-newbies-to-win11/"><u>Efficient Word Lookups for Newbies to Win11</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/effortless-system-image-backup-for-windows-7-8-and-10-users-two-proven-methods/"><u>Effortless System Image Backup for Windows 7, 8 & 10 Users - Two Proven Methods!</u></a></li>
-<li><a href="https://windows11.techidaily.com/effortlessly-access-the-microsoft-store/"><u>Effortlessly Access the Microsoft Store</u></a></li>
-<li><a href="https://windows11.techidaily.com/elevating-low-sound-levels-for-external-speakers/"><u>Elevating Low Sound Levels for External Speakers</u></a></li>
-<li><a href="https://windows11.techidaily.com/eliminating-boltguns-lags-winning-techniques-for-windows-users/"><u>Eliminating Boltgun's Lags: Winning Techniques for Windows Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/eliminating-win1011-error-0xc0000001/"><u>Eliminating Win10/11 Error 0xC0000001</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhance-night-vision-with-dark-mode-for-notepad-on-win-11/"><u>Enhance Night Vision with Dark Mode for Notepad on Win 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/escalate-typing-pace-via-windows-powertoys/"><u>Escalate Typing Pace via Windows' PowerToys</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/maximize-playtime-by-increasing-ps3-storage-space/"><u>Maximize Playtime by Increasing PS3 Storage Space</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/media-text-producer-for-2024/"><u>Multimedia Text Producer for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/quick-fixes-for-when-your-samsung-soundbar-wont-turn-on/"><u>Quick Fixes for When Your Samsung Soundbar Won’t Turn On</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-fixes-for-the-container-objects-not-listed-error-in-windows-11/"><u>Step-by-Step Fixes for the 'Container Objects Not Listed' Error in Windows 11</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/trending-pictures-life-stories-uncovered/"><u>Trending Pictures Life Stories Uncovered</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-clearshot-suite-high-quality-windows/"><u>[New] In 2024, ClearShot Suite - High-Quality Windows</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-unlocking-maximum-video-sizes-in-instagram-upload/"><u>[New] In 2024, Unlocking Maximum Video Sizes in Instagram Upload</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-complete-scrutiny-of-cutmatic-editor/"><u>[Updated] 2024 Approved Complete Scrutiny of CutMatic Editor</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-blur-out-not-your-photos-top-10-edits-to-fix-fuzziness/"><u>[Updated] Blur Out, Not Your Photos! Top 10 Edits to Fix Fuzziness</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-unveil-the-secrets-of-exceptional-tiktok-intro-videos-mac-for-2024/"><u>[Updated] Unveil the Secrets of Exceptional TikTok Intro Videos (Mac) for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-lock-down-your-pcs-external-hard-drive-access/"><u>How To Lock Down Your PC's External Hard Drive Access</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-image-transitions-with-ease-and-style/"><u>In 2024, Mastering Image Transitions with Ease and Style</u></a></li>
+<li><a href="https://windows11.techidaily.com/modernize-your-tech-consider-alternatives-to-windows/"><u>Modernize Your Tech: Consider Alternatives to Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/social-platforms-and-sentient-software-which-to-trust/"><u>Social Platforms and Sentient Software: Which to Trust?</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-fix-system-call-failures-in-windows/"><u>Strategies to Fix System Call Failures in Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshoot-windows-11-search-issues-with-our-top-fixing-tips/"><u>Troubleshoot Windows 11 Search Issues with Our Top Fixing Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-ios-calendar-in-your-windows-environment/"><u>Unlocking iOS Calendar in Your Windows Environment</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>Will iSpoofer update On Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
 </ul></div>
 

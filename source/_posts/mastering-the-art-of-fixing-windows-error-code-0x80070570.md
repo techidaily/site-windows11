@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Fixing Windows Error Code 0X80070570
-date: 2024-12-12T18:04:56.368Z
-updated: 2024-12-16T23:51:22.329Z
+date: 2024-12-24T18:56:00.734Z
+updated: 2024-12-25T20:01:50.689Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/482b831c6b34c789ab00f688124bfef762b7175ea
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Repair System Files With an SFC Scan
 
  Some users have confirmed repairing system files resolved error 0x80070570 on their PCs. System File Checker is a command-line tool with which you can check for and repair corrupted system files that might be causing file operation issues. Check out our guide to [utilizing System File Checker](https://www.makeuseof.com/system-file-checker-sfc-windows/) for details about how to run an SFC scan within the Command Prompt.
@@ -32,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/482b831c6b34c789ab00f688124bfef762b7175ea
 ![The SFC command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sfc-scannow-command2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Utilize the Check Disk Tool
@@ -41,20 +45,20 @@ thumbnail: https://thmb.techidaily.com/482b831c6b34c789ab00f688124bfef762b7175ea
 
 ![The chkdsk scan command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chkdsk-scan-command.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Our [guide to running CHKDSK on Windows](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/#:~:text=In%20Command%20Prompt%2C%20type%20chkdsk,let%20it%20do%20its%20work.) tells you how to initiate a Check Disk scan. You’ll need to run the Check Disk scan for the drive that includes the files you can’t delete or copy to. If that’s an external drive, you’ll need to connect the storage device to the PC and specify its letter within the command. For example, a CHKDSK command for scanning an external E: drive would be:
 
 `chkdsk /r E:`
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Try Moving Files to a Different Location
 
  If error 0x80070570 when you’re trying to transfer a file, try moving (or copying) the file into a different folder location on the target drive. You can do that by right-clicking an affected file and selecting either **Cut** or **Copy**. Then right-click inside a different folder location and select **Paste** to see if the error occurs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Turn Off Real-Time Antivirus Shields
@@ -63,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/482b831c6b34c789ab00f688124bfef762b7175ea
 
 ![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/real-time-protection-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you don’t have third-party security software, turn off Windows Security’s real-time antivirus shield, as covered in our article about [disabling Microsoft Defender](https://www.makeuseof.com/permanently-disable-microsoft-defender-windows-11/). .
 
  Users with third-party antivirus utilities will need to turn off their antivirus shields via the apps’ system tray context menus. Right-click the antivirus app’s icon in the system tray and select a disable or turn off shield protection setting.
@@ -74,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/482b831c6b34c789ab00f688124bfef762b7175ea
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Perform a Startup Repair
@@ -113,24 +113,21 @@ thumbnail: https://thmb.techidaily.com/482b831c6b34c789ab00f688124bfef762b7175ea
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-converting-youtube-to-gif-a-comprehensive-online-process/"><u>[New] 2024 Approved Converting YouTube to GIF A Comprehensive Online Process</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-ultimate-step-by-step-on-instagram-filter-usage-2023/"><u>[New] 2024 Approved The Ultimate Step-by-Step on Instagram Filter Usage 2023</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-how-much-do-podcasters-make/"><u>[New] How Much Do Podcasters Make?</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-continuous-improvement-regularly-practice-and-evaluate-your-listening-skills-identifying-areas-for-improvement-30-new-titles-that-convey-sim/"><u>[Updated] In 2024, Continuous Improvement Regularly Practice and Evaluate Your Listening Skills, Identifying Areas for Improvement. 30 New Titles that Convey Similar Meanings to How to Change Your Voice in Free Fire Game? [Free Solution Included]</u></a></li>
-<li><a href="https://extra-information.techidaily.com/advanced-methodologies-for-backdrop-purification-in-figma-design/"><u>Advanced Methodologies for Backdrop Purification in Figma Design</u></a></li>
-<li><a href="https://windows11.techidaily.com/effective-methods-to-rename-microsoft-account-on-win11-systems/"><u>Effective Methods to Rename Microsoft Account on Win11 Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/efficient-method-to-engagedisengage-bings-taskbar-assist/"><u>Efficient Method to Engage/Disengage Bing's Taskbar Assist</u></a></li>
-<li><a href="https://windows11.techidaily.com/efficient-ways-to-handle-lunar-client-not-starting-on-pc/"><u>Efficient Ways To Handle Lunar Client Not Starting on PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/efficiently-tailor-dns-settings-for-your-win11-system/"><u>Efficiently Tailor DNS Settings for Your Win11 System</u></a></li>
-<li><a href="https://windows11.techidaily.com/eliminate-overscan-maximizing-screen-real-estate-in-windows/"><u>Eliminate Overscan: Maximizing Screen Real Estate in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/empower-your-pc-with-the-most-innovative-powertoys-use-cases/"><u>Empower Your PC with the Most Innovative PowerToys Use Cases</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhance-your-win11-experience-with-rgb-customization/"><u>Enhance Your Win11 Experience with RGB Customization</u></a></li>
-<li><a href="https://windows11.techidaily.com/eradicate-the-windows-1011-requires-privilege-issue-error-0x80070522/"><u>Eradicate the Windows 10/11 Requires Privilege Issue (Error 0X80070522)</u></a></li>
-<li><a href="https://windows11.techidaily.com/eradicating-windows-update-problems-the-0x800736cc-way/"><u>Eradicating Windows Update Problems: The 0X800736CC Way</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-and-secure-installation-of-corsair-keyboard-drivers-on-windows/"><u>Free and Secure Installation of Corsair Keyboard Drivers on Windows</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-your-samsung-blu-ray-player-running-again-with-these-proven-solutions/"><u>Get Your Samsung Blu-Ray Player Running Again with These Proven Solutions</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/how-to-correctly-tag-people-in-apples-photos-app-quick-solutions-for-accurate-recognition/"><u>How to Correctly Tag People in Apple's Photos App: Quick Solutions for Accurate Recognition</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/mastering-facebook-hashtags-for-strategic-marketing/"><u>Mastering Facebook Hashtags for Strategic Marketing</u></a></li>
-<li><a href="https://driver-install.techidaily.com/mastering-usbasp-compatibility-on-windows-from-7-to-11-fixed/"><u>Mastering USBasp Compatibility on Windows From 7 to 11 [FIXED]</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-big-waters-better-views-top-5-fishing-cams/"><u>[Updated] Big Waters, Better Views - Top 5 Fishing Cams</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-mastering-online-meetings-zoom-tips-for-chromebooks/"><u>[Updated] Mastering Online Meetings Zoom Tips for Chromebooks</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-unlocking-the-power-of-seamless-youtube-content-flow-onto-facebook/"><u>[Updated] Unlocking the Power of Seamless YouTube Content Flow Onto Facebook</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-streamlining-your-gaming-experience-with-easy-recordings/"><u>2024 Approved Streamlining Your Gaming Experience with Easy Recordings</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-visual-polishing-in-meetings-blurring-backgrounds-on-teammeeting/"><u>2024 Approved Visual Polishing in Meetings Blurring Backgrounds on TeamMeeting</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-tips-for-efficient-use-of-ea-play-on-ps5/"><u>Essential Tips for Efficient Use of EA Play on PS5</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fix-corrupted-and-damaged-mpeg-videos-with-advanced-mpeg-repair-solutions/"><u>Fix Corrupted & Damaged MPEG Videos with Advanced MPeg Repair Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-error-fixes-successfully-loading-a-plugin-in-google-chrome-for-windows-10/"><u>Mastering Error Fixes: Successfully Loading a Plugin in Google Chrome for Windows 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-solutions-to-csgo-opens-issue-w11/"><u>Quick Solutions to CS:GO Opens Issue W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-tips-how-to-overcome-restricted-file-viewers-in-windows/"><u>Quick Tips: How to Overcome Restricted File Viewers in Windows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-performance-hiccups-in-bloodhunt-a-guide-to-pc-optimization/"><u>Resolving Performance Hiccups in Bloodhunt: A Guide to PC Optimization</u></a></li>
+<li><a href="https://windows11.techidaily.com/revisiting-the-classics-uncovering-7-older-windows-functionalities-in-11/"><u>Revisiting the Classics: Uncovering 7 Older Windows Functionalities in 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlined-windows-11-upsize-an-in-place-methodology-overview/"><u>Streamlined Windows 11 Upsize: An In-Place Methodology Overview</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-techniques-for-maximizing-windows-11-features/"><u>Top Techniques for Maximizing Windows 11 Features</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-chrome-blackout-on-pcs/"><u>Troubleshooting Chrome Blackout on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-non-operational-event-viewer/"><u>Troubleshooting Non-Operational Event Viewer</u></a></li>
 </ul></div>
 

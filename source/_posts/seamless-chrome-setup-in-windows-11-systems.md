@@ -1,7 +1,7 @@
 ---
 title: Seamless Chrome Setup in Windows 11 Systems
-date: 2024-08-08T06:07:03.842Z
-updated: 2024-08-09T06:07:03.842Z
+date: 2024-12-21T18:47:20.502Z
+updated: 2024-12-25T17:40:53.504Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/397bec7e1ac564d870578f8e53b0d9b1f4434dbf6
 
 ![selecting the about section in settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/about-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  By default, when you visit the[download Chrome webpage](https://www.google.com/chrome/browser/) , it will offer up the 32-bit version of Chrome. This is because the 32-bit version will run on 64-bit computers (the inverse, however, is not true—64-bit Chrome will not run on 32-bit Windows).
 
  So if you have a 32-bit system, simply click the**Download** button on this page. The download of the .exe file will begin after you accept Google's terms and conditions and choose if you want it as your default browser or not.
@@ -38,15 +42,19 @@ thumbnail: https://thmb.techidaily.com/397bec7e1ac564d870578f8e53b0d9b1f4434dbf6
 
  Those with a 64-bit system will want to visit the[64-bit Chrome download page](https://www.google.com/chrome/browser/?platform=win64) , which is specifically for 64-bit Windows. Once the download is complete, just run the .exe file as you normally would, and presto: you've got 64-bit Windows that can fully take advantage of all the perks of your system.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 64-bit Users: It's Time to Update
 
  You can verify which version you're running by clicking on the vertical ellipsis in the top-right corner of the Chrome browser and selecting**Settings** . You’ll be redirected to a new page. Here, choose**About Chrome** . Here, you can check if you're running 32-bit or 64-bit Chrome.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![checking the chrome version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/chrome-version.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you're running 32-bit Chrome, don't worry; the transition is seamless. Simply download 64-bit Chrome as detailed above and run the installer. Once the installer is done, close Chrome completely.
 
@@ -60,14 +68,19 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Chrome Canary, on the other hand, is much riskier than the Beta. Canary is for the bleeding edge folks who want the latest and greatest and are willing to sacrifice stability. Thankfully, Canary runs as a separate app from stable Chrome, so you can have both running side-by-side. That way, if a major bug renders Canary unusable, you have stable Chrome as a backup.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What if Windows SmartScreen Can't Be Reached?
 
  If during the installation of your chosen version of Chrome, you get a large green bar across your screen that says**Windows SmartScreen Can't Be Reached** and won't allow you to run the installer, there's a simple fix.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![windows-64-5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/09/windows-64-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Windows Smartscreen is one of the many[security features of Windows 11](https://www.makeuseof.com/windows-11-quick-security-guide/) , and it's meant to protect you from viruses. When connected to the internet, Smartscreen scans any executable files (like the .exe that installs Chrome) and compares them to a list of known malware. This is a great last defense if you've accidentally downloaded malware and it has tried to install itself, but Chrome is obviously not malware.
 
@@ -77,32 +90,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Click on**Reputation-based protection settings** and turn off the**SmartScreen for Microsoft Edge** toggle.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![selecting reputation-based protection in security settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/reputation-based-protection.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Doing this will disable Windows SmartScreen, although this is not recommended.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## Trouble With Your Internet Connection?
 
  The Chrome installer needs the internet to properly install, but not everyone has a consistent and strong enough connection for it to work well. If that's the case, go ahead and download the[offline Chrome installer](https://support.google.com/chrome/answer/126299?hl=en) . After downloading the file, you can share it with another PC or install it on the PC you downloaded it to. Launch the installer and follow the on-screen instructions to install Chrome.
 
  Once Chrome is installed, though, you should really keep your Chrome updating in the background for security and performance enhancements. If you prevent Chrome from doing that, you should revisit the offline Chrome installer page every once in a while to install the newest version of Chrome to make sure your browser remains secure and fast.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ## Common Errors With Your Chrome Installation
 
  If your Chrome installation fails, it should give you an error number for why it failed. Remember that number, and you can look it up on[Google's Chrome support website](https://support.google.com/chrome/table/3097092?hl=en) for specific instructions on how to fix it.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Start Menu and Taskbar Icons
 
  With Chrome installed, the icon will appear in your list of apps. You can see this list by pressing the Windows Key to get to the Start menu, and then either swiping up (on a touchscreen) or searching for**Chrome** (on a non-touchscreen).
@@ -111,9 +116,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  If you prefer to stay in the desktop environment, you can pin it to the Taskbar to keep it pinned to the bar that runs along the bottom of your desktop.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Master the Chrome Keyboard Shortcuts
 
  We've provided a list of all the[keyboard shortcuts for Chrome](https://www.makeuseof.com/tag/google-chrome-shortcuts-pdf/) on Windows, and they're incredibly helpful for increasing the speed at which you can use your browser. Keep a list of the most useful ones for yourself and work on memorizing them—you won't regret it.
@@ -130,21 +132,15 @@ If it ever gives you issues, you can always go back and disable it.
 
  This will open a window on the desktop with a list of all your installed desktop applications. Find Chrome, select the vertical ellipsis to the app's right, and click**Uninstall** .
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Getting the Most Out of Chrome on Windows 11
 
  Chrome is the most-used browser on the market right now, and for good reason. Hopefully, by now, you've got Chrome all set up and working perfectly on your Windows 11 device.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -153,4 +149,24 @@ If it ever gives you issues, you can always go back and disable it.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-aerial-footage-a-guide-to-drone-video-editing/"><u>[New] Mastering Aerial Footage A Guide to Drone Video Editing</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-visual-verve-essential-guide-for-iphones-photo-cropping/"><u>[Updated] Visual Verve Essential Guide for iPhone's Photo Cropping</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/a-comprehensive-guide-to-using-youtubes-cc-licensing-for-2024/"><u>A Comprehensive Guide to Using YouTube's CC Licensing for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/backwards-play-iphones-unique-reverse-feature/"><u>Backwards Play IPhone's Unique Reverse Feature</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/from-iphones-to-samsung-galaxies-the-future-of-cross-platform-switching-with-enhanced-apple-support/"><u>From iPhones to Samsung Galaxies: The Future of Cross-Platform Switching with Enhanced Apple Support</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-add-a-desktop-trash-bin-for-permanently-deleting-files-on-windows-10-and-11/"><u>How to Add a Desktop Trash Bin for Permanently Deleting Files on Windows 10 & 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-a05s-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy A05s to Outlook | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pro-photography-meets-canva-exclusive-editing-secrets/"><u>In 2024, Pro Photography Meets Canva Exclusive Editing Secrets</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/introduction-to-basic-mathematical-terms-in-russian/"><u>Introduction to Basic Mathematical Terms in Russian</u></a></li>
+<li><a href="https://windows11.techidaily.com/minimizing-time-outs-and-lag-in-windows-discord-service/"><u>Minimizing Time-Outs and Lag in Windows Discord Service</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-access-errors-with-epic-launcher/"><u>Resolving Access Errors with Epic Launcher</u></a></li>
+<li><a href="https://windows11.techidaily.com/secure-your-system-top-5-ways-to-reactivate-defender-threat-detection/"><u>Secure Your System: Top 5 Ways to Reactivate Defender Threat Detection</u></a></li>
+<li><a href="https://windows11.techidaily.com/setting-new-preferred-pdf-reader-in-windows/"><u>Setting New Preferred PDF Reader in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-the-obstacle-of-file-creation-windows-error-30005/"><u>Tackling the Obstacle of File Creation - Windows Error 30005</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-impactful-windows-11-service-disabling/"><u>Understanding Impactful Windows 11 Service Disabling</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-canon-video-post-production-made-easy-software-and-workflow-essentials/"><u>Updated In 2024, Canon Video Post-Production Made Easy Software and Workflow Essentials</u></a></li>
+<li><a href="https://windows11.techidaily.com/upgrade-security-mastering-windows-11-password-change/"><u>Upgrade Security: Mastering Windows 11 Password Change</u></a></li>
+</ul></div>
 

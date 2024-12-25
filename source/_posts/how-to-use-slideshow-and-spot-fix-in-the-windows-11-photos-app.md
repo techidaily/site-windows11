@@ -1,7 +1,7 @@
 ---
 title: How to Use Slideshow and Spot Fix in the Windows 11 Photos App
-date: 2024-08-08T06:09:16.064Z
-updated: 2024-08-09T06:09:16.064Z
+date: 2024-12-20T16:07:43.702Z
+updated: 2024-12-25T19:01:23.212Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/5d40c0bfb2b671dade97ca433b00bb587bba5a397
 
  Wondering how to get these latest features in the Photos app and use them to organize and edit your image collection? Let’s discuss these features and whether they fix the flaws in the Photos app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Does the Slideshow Feature Do?
 
  The current Photos app in Windows 11 lacks a slideshow feature. If you want to preview images in full-screen or windowed mode, you need to click the left or right icons in the app to change the image or press the left or right arrow keys. The slideshow feature automates this process but doesn’t just stop there.
@@ -36,19 +40,21 @@ thumbnail: https://thmb.techidaily.com/5d40c0bfb2b671dade97ca433b00bb587bba5a397
 
  If you don’t yet see the update for the Photos app, copy the official Microsoft Store link of the app and visit the [Store.Rg-adguard website](https://store.rg-adguard.net/). Paste the link in the search box and select the **Fast** or **Slow** option. Click on the **tick** icon and download the latest Photos app build for Windows Insider. Install the app and then continue to the next section.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![Download Photos App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/download-photos-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Use the Slideshow Feature in the Photos App
 
  When you launch the Photos app, you will notice a **Start Slideshow** icon in the **All Photos** section next to the filters option. Click on it to begin the slideshow. Alternatively, you can press the **F5** key to start the slideshow.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Start Slideshow in Photos App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/start-slideshow-in-photos-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The slideshow will continue playing in the background even if you click on the music icon. You can press the **Spacebar** or click on the **Pause** icon to stop it.
 
@@ -56,29 +62,22 @@ thumbnail: https://thmb.techidaily.com/5d40c0bfb2b671dade97ca433b00bb587bba5a397
 
 ![Slideshow options in Photos App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slideshow-options-in-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  By default, you are stuck with a basic zoom-in animation effect, a fade-out transition, and an auto-loop option. The only customizable feature is the background music where you can choose tracks from multiple categories.
 
  If you want to adjust the volume of the slideshow, you can hover on the **speaker** icon and use the **slider bar**. It doesn’t affect the system volume settings. Click on the **speaker** icon or press the **M** key to mute the slideshow.
 
  If you want to resize the slideshow window, click on the **resize** icon. Now, snap the window to the left or right side. To close the slideshow click on the **Exit Slideshow** button in the top-left corner.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Slideshow running in windowed mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slideshow-running-in-windowed-mode.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is the Spot Fix Feature?
 
  Spot fix feature can remove spots or objects from any image. Think of it as an eraser tool that factors in the background color and nearby elements. It deletes the selected spot or object and tries to blend the empty space with the color scheme or pattern of the nearby objects.
@@ -91,9 +90,6 @@ thumbnail: https://thmb.techidaily.com/5d40c0bfb2b671dade97ca433b00bb587bba5a397
 
  Now, click on the area which you want to remove using the tool. If you want to increase the size of the tool, adjust the **size slider** present on the right side. You may have to use the spot fix on an area (textured or patterns) multiple times to get it right.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![Spotfix feature in Photos App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/spotfix-feature-in-photos-app.jpg)
 
  We tried deleting some taskbar icons from an image and the tool worked perfectly. But it also struggled in some areas, where transparency effects were in action. However, with a real-world image of an ice cream cone the tool somewhat struggled to do a convincing spot fix. So, the end result depends on the number of objects, shapes, patterns, and colors in an image.
@@ -102,9 +98,6 @@ thumbnail: https://thmb.techidaily.com/5d40c0bfb2b671dade97ca433b00bb587bba5a397
 
  Another gripe with the Spot Fix feature is that you cannot select an area in an image. You are left with the maximum size of the tool only. The circular size of the tool makes it difficult to tackle the corners of the object you want to remove from the image.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Other Improvements in the Photos App
 
  The app reintroduces the Timeline Scrollbar using which you can quickly view photos added in a particular month or year. Microsoft also added the [timeline scrollbar in the Gallery section of the File Explorer](https://www.makeuseof.com/enable-gallery-file-explorer-windows-11/) which is also in the experimental stage.
@@ -115,16 +108,11 @@ thumbnail: https://thmb.techidaily.com/5d40c0bfb2b671dade97ca433b00bb587bba5a397
 
  If you want to select consecutive photos, hold the **Shift** key and click on images. It is a faster way to select multiple images without having to click on each one of them. For non-consecutive photo selection, you can use the **Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## A Much-Needed Overhaul for Photos on Windows 11
 
  Microsoft Photos never captured the interest of users until this update came around. The ability to organize photo collection, add a captivating slideshow, and image editing features make it a competent photo editing app.
 
  Wondering how to get these latest features in the Photos app and use them to organize and edit your image collection? Let’s discuss these features and whether they fix the flaws in the Photos app.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -132,3 +120,24 @@ thumbnail: https://thmb.techidaily.com/5d40c0bfb2b671dade97ca433b00bb587bba5a397
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-revolutionize-your-videos-essential-obs-edits-at-hand/"><u>[New] 2024 Approved Revolutionize Your Videos Essential OBS Edits at Hand</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-top-11-pro-level-screen-recorders-for-mac-users/"><u>[New] 2024 Approved Top 11 Pro-Level Screen Recorders for Mac Users</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-quick-fame-formula-amplify-your-insta-presence-with-content-for-2024/"><u>[New] Quick Fame Formula Amplify Your Insta Presence with Content for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-transform-insta-videos-into-mp4-format-expert-methods-revealed/"><u>[Updated] 2024 Approved Transform Insta Videos Into MP4 Format Expert Methods Revealed</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-elite-sound-recording-tools-11-selection-for-2024/"><u>[Updated] Elite Sound Recording Tools - #11 Selection for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-the-boundaries-of-visual-storytelling-in-windows-photos-plus-story-remix/"><u>[Updated] Explore the Boundaries of Visual Storytelling in Windows Photos + Story Remix</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-garageband-tutorial-for-podcast-creation/"><u>[Updated] Step-by-Step GarageBand Tutorial for Podcast Creation</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/asteroid-arsenal-skys-backup-base/"><u>Asteroid Arsenal - Sky's Backup Base</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/connecting-nintendo-switch-to-tv-a-comprehensive-tutorial-for-gamers/"><u>Connecting Nintendo Switch to TV: A Comprehensive Tutorial for Gamers</u></a></li>
+<li><a href="https://windows11.techidaily.com/fix-for-windows-0x80780119-error-in-image/"><u>Fix for Windows' 0X80780119 Error in Image</u></a></li>
+<li><a href="https://windows11.techidaily.com/fortify-your-pc-with-these-7-leading-gratis-password-apps/"><u>Fortify Your PC with These 7 Leading, Gratis Password Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-your-windows-license-will-expire-soon-error-on-windows-11-and-11/"><u>How to Fix the “Your Windows License Will Expire Soon” Error on Windows 11 and 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-reset-and-reinstate-blocked-windows-program/"><u>How to Reset and Reinstate Blocked Windows Program</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-and-resolve-the-mystery-of-zero-error-in-new-windows-11/"><u>Navigate & Resolve the Mystery of Zero Error in New Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/rog-ally-and-the-new-competitor-from-asus/"><u>ROG Ally and the New Competitor From ASUS</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-strategies-for-resolving-windows-11-onedrive-disconnects/"><u>Top Strategies for Resolving Windows 11 OneDrive Disconnects</u></a></li>
+</ul></div>
+

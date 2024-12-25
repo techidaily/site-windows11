@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Windows Media Player Launch
-date: 2024-08-08T06:09:10.026Z
-updated: 2024-08-09T06:09:10.026Z
+date: 2024-12-21T16:49:50.380Z
+updated: 2024-12-25T19:30:02.328Z
 tags:
   - windows10
   - windows11
@@ -23,13 +23,14 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
  If you're seeking information about how to open Windows Media Player on your computer, the Windows Search tool is a good place to start. To open Windows Media Player using the search tool, do the following:
 
 1. Press**Win + Q** on your keyboard.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![Open Windows Media Player Using Search Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-windows-media-player-using-search-tool.jpg)
 2. From here, type “**Windows Media Player Legacy** ” into the search bar.
 
  Upon doing this, you will see a list of related results; clicking on this will then open Windows Media Player automatically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. How to Open Windows Media Player Using Run Dialog Box
 
@@ -51,14 +52,14 @@ To open Windows Media Player using Task Manager, follow these steps:
 1. First, press the**Ctrl + Shift + Esc** keys simultaneously on your keyboard.
 2. In the Task Manager window, click on**More details** if necessary.
 3. Click**Run new task** at the top of the page.  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![Open Windows Media Player Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-windows-media-player-using-task-manager.jpg)
 4. Now in the text box, type**wmplayer.exe** and press Enter on your keyboard.
 
  This will open up Media Player, so you can enjoy all your media files without any trouble!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. How to Open Windows Media Player From File Explorer
 
@@ -78,8 +79,9 @@ To open Windows Media Player using Task Manager, follow these steps:
 4. Double-click**Windows Media Player Legacy** on the next page.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. How to Open Windows Media Player Using Control Panel
 
  The Control Panel is a feature on Windows that allows you to access and manage system settings easily. With the help of this tool, you can access almost any application you have installed.
@@ -89,15 +91,9 @@ To open Windows Media Player using Task Manager, follow these steps:
 1. Click on**Start** , search for**Control Panel** , and select it from the top of the list.
 2. In the Control Panel window, make sure that the View option is set to Large or Small icons.
 3. Scroll down and click**Windows Tools** . This will open a new folder containing advanced tools for system administrators.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![Open Windows Media Player Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-windows-media-player-using-control-panel.jpg)
 4. Now double-click**Windows Media Player Legacy** to launch the tool.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. How to Open Windows Media Player With a Desktop Shortcut
 
  Creating a desktop shortcut for Windows Media Player is one of the most convenient and efficient ways to start playing audio and video files. This can be very useful if you frequently open the Windows Media Player application on your computer. This way, you can quickly access the application without having to search your hard drive or a search engine.
@@ -120,36 +116,36 @@ C:\Program Files (x86)\Windows Media Player\wmplayer.exe
 
  After creating the shortcut, double-click it to launch Windows Media Player Legacy.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 8\. How to Open Windows Media Player Using a Keyboard Shortcut
 
  Windows offers multiple ways to open Windows Media Player, but the keyboard shortcut is the quickest and easiest way. To use it, follow these steps:
 
 1. Make a Windows Media Player shortcut as per method number seven.
 2. Right-click on the shortcut icon and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Create Shortcut key for Windows Media Player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/create-shortcut-key-for-windows-media-player.jpg)
 3. Type any letter or number in the shortcut field.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Next, click**Apply > OK** to save the changes
 
  Once you have done so, just press Ctrl + Alt and type the letter or number you chose. Just remember to keep the desktop shortcut around; if you ever delete it, it'll take down the keyboard shortcut with it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Media Player Is Now at Your Fingertips
 
  After reading this article, you should now be familiar with nine different ways that you can use to open Windows Media Player on your Windows operating system. Try them out and choose the one that works for you.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -158,4 +154,22 @@ C:\Program Files (x86)\Windows Media Player\wmplayer.exe
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-secrets-to-perfectly-lit-evening-portraits/"><u>[New] 2024 Approved Secrets to Perfectly Lit Evening Portraits</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-launching-a-video-channel-dedicated-to-new-and-used-product-reviews/"><u>[New] Launching a Video Channel Dedicated to New and Used Product Reviews</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-the-future-of-playtime-analysis-beyond-fbx-solutions/"><u>[Updated] 2024 Approved The Future of Playtime Analysis Beyond FBX Solutions</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-securing-your-videos-on-facebook-pc-plus-android-methods-for-2024/"><u>[Updated] Securing Your Videos on Facebook PC + Android Methods for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-10-best-youtube-music-rippers-for-android-and-ios/"><u>[Updated] The 10 Best YouTube Music Rippers for Android and iOS</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-unleash-retro-game-delights-with-the-leading-android-tools-for-ps2-titles/"><u>[Updated] Unleash Retro Game Delights with the Leading Android Tools for PS2 Titles</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-tips-solving-last-usb-malfunction-and-recognition-issues-on-your-computer-with-windows/"><u>Expert Tips: Solving Last USB Malfunction & Recognition Issues on Your Computer with Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/keeping-calculator-top-displayed-in-windows/"><u>Keeping Calculator Top-Displayed in Windows</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/kensuns-compact-tire-pump-assessment-durable-and-handy-anywhere/"><u>Kensun's Compact Tire Pump Assessment: Durable & Handy Anywhere</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-world-of-remote-device-collaboration-googlewindows/"><u>Navigating the World of Remote Device Collaboration: Google/Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/reestablishing-active-slack-signals-in-windows-11/"><u>Reestablishing Active Slack Signals in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/solo-system-imaging-techniques-for-win-users/"><u>Solo System Imaging Techniques for Win Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-your-browsing-with-mouse-gestures-in-microsoft-edge/"><u>Streamline Your Browsing with Mouse Gestures in Microsoft Edge</u></a></li>
+<li><a href="https://windows11.techidaily.com/subtlety-shifts-concealing-win-11s-control/"><u>Subtlety Shifts: Concealing Win 11'S Control</u></a></li>
+<li><a href="https://windows11.techidaily.com/tech-refresh-3000-revolutionary-windows-rebooting/"><u>Tech Refresh 3000: Revolutionary Windows Rebooting</u></a></li>
+</ul></div>
 

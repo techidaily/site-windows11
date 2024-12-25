@@ -1,7 +1,7 @@
 ---
 title: Gauge Your Window's Workhorse - Power Efficiency Explored
-date: 2024-08-08T06:06:46.008Z
-updated: 2024-08-09T06:06:46.008Z
+date: 2024-12-18T17:21:43.718Z
+updated: 2024-12-25T19:03:42.921Z
 tags:
   - windows10
   - windows11
@@ -26,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/a5bc9c78cbf7ddebb3c4b881340c3ed8f01e0b70f
 
  In this article, we'll show you how to measure your PC's power consumption using different methods and calculate the dollars your PC contributes to your electricity bills each month.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## The Different Methods to Measure Power Consumption of a PC
 
  There are various ways of measuring the power consumption of a PC, but three of the most popular methods involve using online power supply calculators, Windows apps, and Watt meters. There are benefits and drawbacks to each method, and the following tips can help you choose which is best for you:
@@ -45,9 +42,6 @@ thumbnail: https://thmb.techidaily.com/a5bc9c78cbf7ddebb3c4b881340c3ed8f01e0b70f
 
 ## How to Measure Power Consumption of a PC Using Online Power Supply Calculators
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![Calculating Power Consumption on OuterVision Power Measurement Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Calculating-Power-Consumption-on-OuterVision-Power-Measurement-Tool.jpg)
 
  To measure a computer's power consumption using online calculators, you need data about all the components installed in your device. If you don't already know that, you can gather your device's technical specifications from the manufacturer's website. Having collected that information, the next step is to select a calculator for measuring power consumption.
@@ -56,9 +50,6 @@ thumbnail: https://thmb.techidaily.com/a5bc9c78cbf7ddebb3c4b881340c3ed8f01e0b70f
 
  The OuterVision calculator offers two types of power estimations: basic and expert. In the basic one, you are asked for a few details and get a quick estimate of power consumption, while in the expert one, you can get an in-depth assessment of power consumption for your entire device.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Measure Power Consumption of a PC Using an App
 
  To know how much power your computer consumes at peak load, you must stress your components before measuring the power consumption with an app. Although you can use any [free benchmark program for Windows](https://www.makeuseof.com/tag/5-free-benchmark-programs/) for this purpose, we recommend using the AIDA64 Extreme.
@@ -69,22 +60,24 @@ thumbnail: https://thmb.techidaily.com/a5bc9c78cbf7ddebb3c4b881340c3ed8f01e0b70f
 2. Install the software once it has been downloaded.
 3. Type **"AIDA64 Extreme"** in Windows Search, right-click on the app, and select **Run as administrator**.
 4. Click on the **Tools** tab and select **System Stability Test**.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Selecting System Stability Test from the Dropdown of the Tools Tab in AIDA Extreme Software on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/1-Selecting-System-Stability-Test-from-the-Dropdown-of-the-Tools-Tab-in-AIDA-Extreme-Software-on-Windows.jpg)
 5. Check all the boxes in the top-left corner of the **System Stability Test** window to stress test your entire system.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Checking all the Boxes in the Top-left corner of the System Stability Test Window to Stress Test all Components in AIDA Extreme Software on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/2-Checking-all-the-Boxes-in-the-Top-left-corner-of-the-System-Stability-Test-Window-to-Stress-Test-all-Components-in-AIDA-Extreme-Software-on-Windows.jpg)
 6. To view a graph showing the power fluctuations, go to the **Powers** tab.
 7. Click on the **Start** button.  
 ![AIDA64 Software Graph Showing Power Consumption of a CPU at Full Stress](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/3-AIDA64-Software-Graph-Showing-Power-Consumption-of-a-CPU-at-Full-Stress.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As soon as the stress test starts, the software will display the power fluctuations. Let it run for a while and see how power consumption has fluctuated. You can also uncheck a few boxes to unstress specific components and see how it impacts power consumption. In the same way, you can check the power consumption of individual components under full load.
 
  Even though this tool will give you a better idea of power consumption, if you want the most accurate measurement, we recommend you use a watt meter or other power measuring device. If you choose this route, ensure you keep your system at peak stress as you did with AIDA64 Extreme.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Measure Power Consumption Using a Watt Meter
 
@@ -98,12 +91,13 @@ Image Credit: Tina Sieber
 
  Increasing the load will also increase the wattage reading and vice versa. Thus, overloading your PC to its maximum capacity will allow you to see how much power it consumes at peak performance.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Calculate the Cost of Your PC's Power Consumption
 
 ![Cash Money and a Calculator on White Paper Printout](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Expense-Management.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you have the data for your PC's power consumption in watts, convert it into kWh using any online calculator. After that, multiply the calculated power consumed in kWh by the electricity cost per kWh charged in your state or country. That's how much your device adds to your electricity bill each hour.
 
@@ -125,6 +119,10 @@ Image Credit: Tina Sieber
 | **Gaming/Designing Laptop** | 180                                   | 176                                  | 31.68                               | 380.16                             |
 | **General Purpose PC**      | 250-300                               | 176                                  | 44-50                               | 528-600                            |
 | **Gaming/Designing PC**     | 300-500                               | 176                                  | 50-88                               | 600-1056                           |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Know How Much Power Your PC Uses
 
@@ -160,9 +158,6 @@ Image Credit: Tina Sieber
 
  The OuterVision calculator offers two types of power estimations: basic and expert. In the basic one, you are asked for a few details and get a quick estimate of power consumption, while in the expert one, you can get an in-depth assessment of power consumption for your entire device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Measure Power Consumption of a PC Using an App
 
  To know how much power your computer consumes at peak load, you must stress your components before measuring the power consumption with an app. Although you can use any [free benchmark program for Windows](https://www.makeuseof.com/tag/5-free-benchmark-programs/) for this purpose, we recommend using the AIDA64 Extreme.
@@ -173,14 +168,8 @@ Image Credit: Tina Sieber
 2. Install the software once it has been downloaded.
 3. Type **"AIDA64 Extreme"** in Windows Search, right-click on the app, and select **Run as administrator**.
 4. Click on the **Tools** tab and select **System Stability Test**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Selecting System Stability Test from the Dropdown of the Tools Tab in AIDA Extreme Software on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/1-Selecting-System-Stability-Test-from-the-Dropdown-of-the-Tools-Tab-in-AIDA-Extreme-Software-on-Windows.jpg)
 5. Check all the boxes in the top-left corner of the **System Stability Test** window to stress test your entire system.  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Checking all the Boxes in the Top-left corner of the System Stability Test Window to Stress Test all Components in AIDA Extreme Software on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/2-Checking-all-the-Boxes-in-the-Top-left-corner-of-the-System-Stability-Test-Window-to-Stress-Test-all-Components-in-AIDA-Extreme-Software-on-Windows.jpg)
 6. To view a graph showing the power fluctuations, go to the **Powers** tab.
 7. Click on the **Start** button.  
@@ -192,9 +181,6 @@ Image Credit: Tina Sieber
 
 ## How to Measure Power Consumption Using a Watt Meter
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![Oukitel P2001 output charge vs wattage meter output charge.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/Oukitel-P2001-14.jpg)
 
 Image Credit: Tina Sieber
@@ -205,14 +191,8 @@ Image Credit: Tina Sieber
 
  Increasing the load will also increase the wattage reading and vice versa. Thus, overloading your PC to its maximum capacity will allow you to see how much power it consumes at peak performance.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Calculate the Cost of Your PC's Power Consumption
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Cash Money and a Calculator on White Paper Printout](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Expense-Management.jpg)
 
  Once you have the data for your PC's power consumption in watts, convert it into kWh using any online calculator. After that, multiply the calculated power consumed in kWh by the electricity cost per kWh charged in your state or country. That's how much your device adds to your electricity bill each hour.
@@ -237,8 +217,9 @@ Image Credit: Tina Sieber
 | **Gaming/Designing PC**     | 300-500                               | 176                                  | 50-88                               | 600-1056                           |
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Know How Much Power Your PC Uses
 
  Even though the little box on your table won't break the bank in electricity costs, it is essential to keep an eye on it and try to reduce it as much as possible. This small expense, when added up to the annual electricity bill, can add up to quite a bit.
@@ -265,10 +246,11 @@ Image Credit: Tina Sieber
 
 ## How to Measure Power Consumption of a PC Using Online Power Supply Calculators
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Calculating Power Consumption on OuterVision Power Measurement Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Calculating-Power-Consumption-on-OuterVision-Power-Measurement-Tool.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To measure a computer's power consumption using online calculators, you need data about all the components installed in your device. If you don't already know that, you can gather your device's technical specifications from the manufacturer's website. Having collected that information, the next step is to select a calculator for measuring power consumption.
 
@@ -276,9 +258,6 @@ Image Credit: Tina Sieber
 
  The OuterVision calculator offers two types of power estimations: basic and expert. In the basic one, you are asked for a few details and get a quick estimate of power consumption, while in the expert one, you can get an in-depth assessment of power consumption for your entire device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## How to Measure Power Consumption of a PC Using an App
 
  To know how much power your computer consumes at peak load, you must stress your components before measuring the power consumption with an app. Although you can use any [free benchmark program for Windows](https://www.makeuseof.com/tag/5-free-benchmark-programs/) for this purpose, we recommend using the AIDA64 Extreme.
@@ -291,15 +270,9 @@ Image Credit: Tina Sieber
 4. Click on the **Tools** tab and select **System Stability Test**.  
 ![Selecting System Stability Test from the Dropdown of the Tools Tab in AIDA Extreme Software on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/1-Selecting-System-Stability-Test-from-the-Dropdown-of-the-Tools-Tab-in-AIDA-Extreme-Software-on-Windows.jpg)
 5. Check all the boxes in the top-left corner of the **System Stability Test** window to stress test your entire system.  
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Checking all the Boxes in the Top-left corner of the System Stability Test Window to Stress Test all Components in AIDA Extreme Software on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/2-Checking-all-the-Boxes-in-the-Top-left-corner-of-the-System-Stability-Test-Window-to-Stress-Test-all-Components-in-AIDA-Extreme-Software-on-Windows.jpg)
 6. To view a graph showing the power fluctuations, go to the **Powers** tab.
 7. Click on the **Start** button.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![AIDA64 Software Graph Showing Power Consumption of a CPU at Full Stress](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/3-AIDA64-Software-Graph-Showing-Power-Consumption-of-a-CPU-at-Full-Stress.jpg)
 
  As soon as the stress test starts, the software will display the power fluctuations. Let it run for a while and see how power consumption has fluctuated. You can also uncheck a few boxes to unstress specific components and see how it impacts power consumption. In the same way, you can check the power consumption of individual components under full load.
@@ -309,6 +282,10 @@ Image Credit: Tina Sieber
 ## How to Measure Power Consumption Using a Watt Meter
 
 ![Oukitel P2001 output charge vs wattage meter output charge.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/Oukitel-P2001-14.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Image Credit: Tina Sieber
 
@@ -320,18 +297,20 @@ Image Credit: Tina Sieber
 
 ## How to Calculate the Cost of Your PC's Power Consumption
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![Cash Money and a Calculator on White Paper Printout](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Expense-Management.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you have the data for your PC's power consumption in watts, convert it into kWh using any online calculator. After that, multiply the calculated power consumed in kWh by the electricity cost per kWh charged in your state or country. That's how much your device adds to your electricity bill each hour.
 
  For instance, if your device consumes 200 watts of power, and your electricity supplier charges you 20 cents per kWh, your electricity cost will be four cents per hour. To calculate monthly costs, multiply the hourly rate by the average number of hours you use your PC per day and the number of days you use it in a month.
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Much Power Does a Laptop or PC Consume?
 
  There is no baseline for how much power a typical laptop or PC consumes since it depends on the model, energy efficiency, use case, and other factors.
@@ -349,9 +328,6 @@ Image Credit: Tina Sieber
 | **General Purpose PC**      | 250-300                               | 176                                  | 44-50                               | 528-600                            |
 | **Gaming/Designing PC**     | 300-500                               | 176                                  | 50-88                               | 600-1056                           |
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Know How Much Power Your PC Uses
 
  Even though the little box on your table won't break the bank in electricity costs, it is essential to keep an eye on it and try to reduce it as much as possible. This small expense, when added up to the annual electricity bill, can add up to quite a bit.
@@ -363,8 +339,9 @@ Image Credit: Tina Sieber
  In this article, we'll show you how to measure your PC's power consumption using different methods and calculate the dollars your PC contributes to your electricity bills each month.
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Different Methods to Measure Power Consumption of a PC
 
  There are various ways of measuring the power consumption of a PC, but three of the most popular methods involve using online power supply calculators, Windows apps, and Watt meters. There are benefits and drawbacks to each method, and the following tips can help you choose which is best for you:
@@ -381,9 +358,6 @@ Image Credit: Tina Sieber
 
 ## How to Measure Power Consumption of a PC Using Online Power Supply Calculators
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Calculating Power Consumption on OuterVision Power Measurement Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Calculating-Power-Consumption-on-OuterVision-Power-Measurement-Tool.jpg)
 
  To measure a computer's power consumption using online calculators, you need data about all the components installed in your device. If you don't already know that, you can gather your device's technical specifications from the manufacturer's website. Having collected that information, the next step is to select a calculator for measuring power consumption.
@@ -392,9 +366,6 @@ Image Credit: Tina Sieber
 
  The OuterVision calculator offers two types of power estimations: basic and expert. In the basic one, you are asked for a few details and get a quick estimate of power consumption, while in the expert one, you can get an in-depth assessment of power consumption for your entire device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ## How to Measure Power Consumption of a PC Using an App
 
  To know how much power your computer consumes at peak load, you must stress your components before measuring the power consumption with an app. Although you can use any [free benchmark program for Windows](https://www.makeuseof.com/tag/5-free-benchmark-programs/) for this purpose, we recommend using the AIDA64 Extreme.
@@ -428,9 +399,6 @@ Image Credit: Tina Sieber
 
  Increasing the load will also increase the wattage reading and vice versa. Thus, overloading your PC to its maximum capacity will allow you to see how much power it consumes at peak performance.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Calculate the Cost of Your PC's Power Consumption
 
 ![Cash Money and a Calculator on White Paper Printout](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Expense-Management.jpg)
@@ -461,15 +429,12 @@ Image Credit: Tina Sieber
  Even though the little box on your table won't break the bank in electricity costs, it is essential to keep an eye on it and try to reduce it as much as possible. This small expense, when added up to the annual electricity bill, can add up to quite a bit.
 
  Hopefully, our article will help you figure out the actual power consumption and how to calculate costs accurately. Several online tools let you estimate the price automatically if you don't want to do it manually.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -478,4 +443,26 @@ Image Credit: Tina Sieber
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-image-savers-optimizing-video-graphics/"><u>[New] 2024 Approved FREE Image Savers Optimizing Video Graphics</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-obs-tutorial-capturing-every-moment-of-gameplay/"><u>[New] 2024 Approved OBS Tutorial Capturing Every Moment of Gameplay</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-gateways-to-googles-advertising-on-youtube-platforms/"><u>[Updated] 2024 Approved Gateways to Google's Advertising on YouTube Platforms</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-hotspots-for-revolutionary-vr-cinema/"><u>[Updated] Hotspots for Revolutionary VR Cinema</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-craft-humor-for-giphy-network/"><u>2024 Approved Craft Humor for Giphy Network</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-remove-the-onedrive-icon-from-file-explorer-in-windows-11/"><u>How to Remove the OneDrive Icon From File Explorer in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-set-up-your-own-keyboard-shortcuts-in-windows-11/"><u>How to Set Up Your Own Keyboard Shortcuts in Windows 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-youtubes-premier-gatherings-top-events-beyond-vidcon/"><u>In 2024, Youtube's Premier Gatherings Top Events Beyond VidCon</u></a></li>
+<li><a href="https://windows11.techidaily.com/merge-functionality-and-elegance-in-windows-10plus/"><u>Merge Functionality and Elegance in Windows 10+</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-launch-failures-effective-fixes-for-tekken-8-not-starting-on-pcs/"><u>Overcoming Launch Failures: Effective Fixes for Tekken 8 Not Starting on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/removing-curved-edges-from-windows-11/"><u>Removing Curved Edges From Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-hidden-power-of-windows-firewall-management/"><u>The Hidden Power of Windows' Firewall Management</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-quickest-way-to-shift-your-windows-qbittorrent-software/"><u>The Quickest Way to Shift Your Windows qBittorrent Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-transformation-ai-integration-into-windows-11/"><u>The Transformation: AI Integration Into Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-to-address-steams-file-privilege-problem-in-win11/"><u>Tips to Address Steam's File Privilege Problem in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/turbocharge-your-windows-printer-with-quick-fixes/"><u>Turbocharge Your WIndows Printer with Quick Fixes</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/unlock-endless-entertainment-with-tiktok-on-your-macbook/"><u>Unlock Endless Entertainment with TikTok on Your MacBook</u></a></li>
+<li><a href="https://driver-install.techidaily.com/vega-3-gpu-update-free-driver-download-2024/"><u>Vega 3 GPU Update - Free Driver Download 2024</u></a></li>
+</ul></div>
 

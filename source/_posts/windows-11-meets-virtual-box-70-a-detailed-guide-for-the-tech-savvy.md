@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Meets Virtual Box 7.0: A Detailed Guide for the Tech-Savvy"
-date: 2024-08-08T06:10:02.245Z
-updated: 2024-08-09T06:10:02.245Z
+date: 2024-12-21T18:07:55.253Z
+updated: 2024-12-25T17:00:21.780Z
 tags:
   - windows10
   - windows11
@@ -24,14 +24,6 @@ thumbnail: https://thmb.techidaily.com/6304baca930779dbe6ae3412704c6577c66eb8d78
 
  VirtualBox comes with support for Secure Boot in UEFI mode. It can now emulate TPM chips which are a mandatory requirement for Windows 11\. Along with that, there are some subtle but useful design changes that make it feel like a latest-gen app. Some menu options appear in new places, but it isn’t something to worry about. Plus, you can enjoy the dark mode on VirtualBox now and protect your eyes!
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## How to Upgrade to VirtualBox 7.0 on Windows 11
 
  VirtualBox does remind you that an update is available. But unlike most apps, you need to visit the official site and download all the necessary components and the new installer file to upgrade VirtualBox. Then, you need to install the new version on your system which will replace all the files of the current build present on your system.
@@ -47,14 +39,16 @@ thumbnail: https://thmb.techidaily.com/6304baca930779dbe6ae3412704c6577c66eb8d78
 3. Navigate to the left-hand side menu and click on the**Downloads** option.  
 ![Download VirtualBox 7.0](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/download-virtualbox-7-0.jpg)
 4. Locate the**VirtualBox 7.0.4 platform packages** section. Click on the**Windows Hosts** option to download the installer file on your system.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Scroll down and find the**VirtualBox 7.0.4 Oracle VM VirtualBox Extension Pack** section. Click on the**All supported platforms** option to download the extension pack file for version 7.0.4.
 6. Wait for both downloads to finish and close the browser.
 
 Now, you have all the necessary files to upgrade to VirtualBox 7.0.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Install VirtualBox 7.0
 
 To install VirtualBox 7.0, repeat the following steps:
@@ -64,19 +58,18 @@ To install VirtualBox 7.0, repeat the following steps:
 3. Right-click on the installer file and select the**Run as administrator** option from the context menu.
 4. UAC will pop up. Click on the**Yes** button to continue.
 5. VirtualBox 7.0 installer will launch. Pick the installation destination and click on the**Yes** button.  
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![Install VirtualBox 7.0](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-virtualbox-7-0.jpg)
 6. VirtualBox will warn you about temporarily shutting the network interfaces. It means you will lose internet connectivity for some time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Click on the**Yes** button. The installer will notify you about the missing dependencies. Click on the**Yes** button to install them as well.
 8. Wait for the installation to complete. Click on the**Finish** button to close the installer window.
 
  VirtualBox 7.0 will launch on your system. But wait! Don’t close the app yet.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Install the New Extension Pack
 
  Even after you upgrade the VirtualBox app to the newest version, the extension pack doesn’t upgrade along with it. So, it will have the older version of the extension pack which worked with the older VirtualBox version. You need to remove it and install the new extension pack that you download in the second method.
@@ -88,14 +81,15 @@ To install the VirtualBox 7.0 extension pack, do as follows:
 3. Right-click on the old extension pack and select the**Uninstall** option.  
 ![Remove the Old Extension Pack](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/remove-the-old-extension-pack.jpg)
 4. Click on the**Remove** button to begin the uninstallation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. UAC will pop up. Click on the**Yes** button to begin the uninstallation.
 
 1. Now, click on the**Install Extension Pack** button located at the top. Locate the extension pack file you downloaded previously and select it. Click on the**Open** button.
 2. VirtualBox extension pack installer will pop up. Click on the**Install** button.  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![Install the New Extension Pack](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-the-new-extension-pack.jpg)
 3. Accept the**EULA** by scrolling down. Click on the**I Agree** button.
 4. UAC will pop up. Click on the**Yes** button to begin the extension pack installation.
@@ -116,34 +110,34 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 5. Double-click to open the CD image directory. Scroll down and right-click on the**VBoxWindowsAdditions–amd64.exe** file. Select**Run as administrator** from the context menu.  
 ![Install the Guest Additions 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-the-guest-additions-1.jpg)
 6. UAC will pop up. Click on**Yes** to continue.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Install the Guest Additions 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-the-guest-additions-2.jpg)
 7. Follows the on-screen prompts to install the Guest Additions on your system.
 8. Click on the**Reboot now** option to apply changes to the Windows virtual machine.
 
  It may take a while to install the guest additions. Once done, you can change the resolution of the virtual machine to match the display resolution.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## Will the Old Virtual Machines Work With VirtualBox 7.0?
 
  Yes. VirtualBox 7.0 will run the old virtual machines that you created without any issues. But you have to install the extension pack and the guest additions otherwise it could crash or not run at all. We tried running old Windows 10 and 11 virtual machines that we created in version 6.1.32, and they worked fine.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Upgrade to VirtualBox 7.0 With Ease
 
  VirtualBox 7.0 is the first third-party hypervisor to introduce emulation of TPM 2.0 chips. Microsoft still impedes Windows 11 installation as a virtual machine if the hypervisor cannot emulate the chip. But VirtualBox 7.0 can now install Windows 11 after enabling the passthrough of the TPM 2.0 chip for a virtual machine.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -152,4 +146,26 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-launch-your-athletic-channel-step-by-step-guide-on-mac-os/"><u>[New] 2024 Approved Launch Your Athletic Channel Step by Step Guide on Mac OS</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-a-streamers-companion-roku-plus-facebook-live-explained/"><u>[New] A Streamer's Companion ROKU + Facebook Live Explained</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-audience-captivation-at-its-peak-top-20-tiktok-caption-ideas-for-2024/"><u>[New] Audience Captivation at Its Peak Top 20 TikTok Caption Ideas for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-tailored-treasure-troves-the-ultimate-list-of-online-box-sellers-for-2024/"><u>[New] Tailored Treasure Troves The Ultimate List of Online Box Sellers for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-unveiling-the-top-5-virtual-pilots-helmets-for-2024/"><u>[New] Unveiling the Top 5 Virtual Pilot's Helmets for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-deciphering-disguised-dialogues-with-youtube-viewers/"><u>2024 Approved Deciphering Disguised Dialogues with YouTube Viewers</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-temp-storage-errors-in-the-latest-win11-version/"><u>Fixing Temp Storage Errors in the Latest Win11 Version</u></a></li>
+<li><a href="https://win-trending.techidaily.com/how-to-ensure-up-to-date-graphics-driver-support-on-your-pc-advice-by-yl-software-experts/"><u>How To Ensure Up-To-Date Graphics Driver Support on Your PC - Advice by YL Software Experts</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/less-is-more-compact-view-strategies-for-windows-11/"><u>Less Is More: Compact View Strategies for Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-the-art-of-drag-and-drop-in-w11-folder-moving/"><u>Master the Art of Drag & Drop in W11 Folder Moving</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-network-management-wi-fi-removal-guide/"><u>Mastering Network Management: Wi-Fi Removal Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/resetting-and-restoring-sync-in-the-microsoft-to-do-application/"><u>Resetting & Restoring Sync in the Microsoft To-Do Application</u></a></li>
+<li><a href="https://windows11.techidaily.com/speed-up-task-managers-dynamic-display-in-windows-11/"><u>Speed up Task Manager's Dynamic Display in Windows 11</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ltimate-diy-guide-for-building-powerful-youtube-ad-videos/"><u>The Ultimate DIY Guide for Building Powerful YouTube Ad Videos</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-to-revamping-and-improving-intel-imac-computers/"><u>Ultimate Guide to Revamping and Improving Intel iMac Computers</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleash-vm-potential-in-windows-through-these-techniques/"><u>Unleash VM Potential in Windows Through These Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-a-fresh-start-with-these-steam-game-tips/"><u>Unlock a Fresh Start with These Steam Game Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-system-tray-and-concealed-options-on-win11/"><u>Unveiling System Tray & Concealed Options on Win11</u></a></li>
+</ul></div>
 

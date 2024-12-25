@@ -1,7 +1,7 @@
 ---
 title: "Solutions to Reduce CPU Consumption: Fixing Dropbox on Windows"
-date: 2024-08-08T06:08:46.236Z
-updated: 2024-08-09T06:08:46.236Z
+date: 2024-12-23T18:51:24.737Z
+updated: 2024-12-25T17:32:50.694Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/84a4620f422e4279d6cc9c20449448701c42416df
 
  Fortunately, it’s a very common issue and can easily be fixed. This article features some quick ways to fix Dropbox's high CPU usage on Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Use Dropbox's Selective Sync Feature
 
  If Dropbox is asked to synchronize a large number of files simultaneously, it can consume a high amount of your CPU's resources. To fix this problem, you can use the Dropbox Selective Sync feature.
@@ -33,24 +30,24 @@ thumbnail: https://thmb.techidaily.com/84a4620f422e4279d6cc9c20449448701c42416df
 
 1. Click the **Dropbox icon** in the system tray area to open the Dropbox pop-up window.
 2. Click your profile icon in the top right corner and choose **Preferences** from the menu that crops up.  
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Preferences option of Dropbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/preferences.jpg)
 3. Switch to the **Sync** tab and click the **Select** **folder** button.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Select folder option of Dropbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/select-folder.jpg)
 4. Uncheck all folders you want to remove from your computer and move them to your Dropbox account.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click the **Update** button.  
 ![Update option of Dropbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/update-option.jpg)
 
  Now, open the Task Manager (see how to [launch Task Manager on Windows](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/)) and check the CPU consumption of Dropbox.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Temporarily Disable Any Active Security Program
 
  The security app on your PC ensures the safety of your computer against both online and offline threats. However, there are instances where a security program can make changes to the Dropbox folder, which, in turn, causes Dropbox to consider these tweaks as edits.
@@ -59,12 +56,13 @@ thumbnail: https://thmb.techidaily.com/84a4620f422e4279d6cc9c20449448701c42416df
 
  If you’re using Windows Security, check our guide to [temporarily disable Windows Security on Windows 11](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/). Alternatively, if you’re using a third-party security application, simply right-click on its icon in the system tray area and select **Disable** from the menu that appears.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Close Any Other Active File Management Apps
 
 ![End Task option in Task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/end-task.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Oftentimes, similar applications, like Google Drive or OneDrive, can interfere with Dropbox, leading to excessive CPU resource consumption. You can fix this by [closing all conflicting applications in the background on Windows](https://www.makeuseof.com/windows-11-disable-background-apps/).
 
@@ -75,11 +73,16 @@ thumbnail: https://thmb.techidaily.com/84a4620f422e4279d6cc9c20449448701c42416df
  In order to use the syncing feature of Dropbox, your computer must have a file system that supports extended attributes. If this feature is absent, Dropbox will persistently encounter sync failures, resulting in increased CPU usage. To resolve this issue, relocate your Dropbox folder to a hard drive [formatted with the NTFS file system](https://www.makeuseof.com/windows-11-format-usb-drive-ntfs/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Reinstall Dropbox
 
 ![Dropbox download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/dropbox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you are still facing the problem, it is likely related to an issue with the Dropbox installation files. In such cases, the best solution is to reinstall Dropbox.
 
@@ -91,11 +94,28 @@ thumbnail: https://thmb.techidaily.com/84a4620f422e4279d6cc9c20449448701c42416df
 
  Fortunately, it’s a very common issue and can easily be fixed. This article features some quick ways to fix Dropbox's high CPU usage on Windows.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-prime-landscapes-for-streaming-success/"><u>[New] In 2024, Prime Landscapes for Streaming Success</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-from-project-board-to-public-display-imovie-on-youtube-for-2024/"><u>[Updated] From Project Board to Public Display IMovie on YouTube for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-effortlessly-connect-with-these-10-affordable-video-conferencing-services/"><u>[Updated] In 2024, Effortlessly Connect with These 10 Affordable Video Conferencing Services</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/clients-praise-data-resurrected-with-stellars-expertise/"><u>Clients Praise: Data Resurrected with Stellar's Expertise</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exclusive-insider-written-by-an-experienced-video-editor-for-2024/"><u>Exclusive Insider' Written by an Experienced Video Editor for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-voice-typing-malfunction-error-code-0x80049dd3-on-windows-11/"><u>Fixing Voice Typing Malfunction (Error Code: 0X80049DD3) on Windows 11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-and-secure-corsair-keyboard-driver-download-for-windows-users/"><u>Free and Secure Corsair Keyboard Driver Download for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-guide-to-inspecting-windows-11-history/"><u>Mastery Guide to Inspecting Windows 11 History</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ist-best-free-video-subtitles-and-downloader-for-2024/"><u>Pro List Best Free Video Subtitles & Downloader for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/purge-your-pcs-defender-footprint-with-easy-steps/"><u>Purge Your PC’s Defender Footprint with Easy Steps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/rising-costs-the-increasing-price-of-apple-battery-replacement-services/"><u>Rising Costs: The Increasing Price of Apple Battery Replacement Services</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-to-rectify-non-registered-hdds/"><u>Techniques to Rectify Non-Registered HDDs</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-insiders-guide-to-authentic-instagram-imagery/"><u>The Insider’s Guide to Authentic Instagram Imagery</u></a></li>
+<li><a href="https://windows11.techidaily.com/turn-onoff-windows-key-like-a-pro/"><u>Turn On/Off Windows Key Like a Pro</u></a></li>
+</ul></div>
+

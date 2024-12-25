@@ -1,7 +1,7 @@
 ---
 title: Overcoming Slow Download Woes in Battle.net PCs
-date: 2024-08-08T06:06:10.947Z
-updated: 2024-08-09T06:06:10.947Z
+date: 2024-12-18T17:40:06.668Z
+updated: 2024-12-25T17:03:11.899Z
 tags:
   - windows10
   - windows11
@@ -33,9 +33,6 @@ thumbnail: https://thmb.techidaily.com/506707788e28afb0dd333ede3d14b446e4802e54b
 
  Now that you're aware of all the common culprits let's check out what you can do to improve the connection.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Allocate Adequate Bandwidth to Battle.net
 
  The first thing you must do is allocate adequate bandwidth to the Battle.net app. You can do this by pausing other downloads running in the background and closing network-hogging applications. Also, ensure that streaming applications like Twitch are not running in the background.
@@ -47,9 +44,6 @@ thumbnail: https://thmb.techidaily.com/506707788e28afb0dd333ede3d14b446e4802e54b
 
  Furthermore, make sure that the Efficiency mode isn't configured for Battle.net. The efficiency mode decreases the priority of an application. To get more information about efficiency mode and the steps to disable it, check out our[guide on efficiency mode](https://www.makeuseof.com/windows-11-task-manager-efficiency-mode/#how-to-enable-or-disable-efficiency-mode) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## 2\. Turn Off Windows' Metered Connection
 
  Windows has a metered connection feature that lets you control your bandwidth usage. This feature is mainly designed to save data, especially if you're under a data cap. It also affects how an app uses the available bandwidth.
@@ -62,11 +56,12 @@ thumbnail: https://thmb.techidaily.com/506707788e28afb0dd333ede3d14b446e4802e54b
 4. Disable the toggle next to**Metered connection.**  
 ![Metered Connection option in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Metered-Connection.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That's it. Restart Battle.net, and check if there's any improvement in the download speed.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## 3\. Troubleshoot Your Connection
 
  A weak internet connection might be affecting Battle.net's download speed. You can confirm this by testing your connection speed by visiting any of the[best speed test websites](https://www.makeuseof.com/best-free-websites-test-internet-speed/) .
@@ -83,11 +78,12 @@ thumbnail: https://thmb.techidaily.com/506707788e28afb0dd333ede3d14b446e4802e54b
 2. In the search bar, type**Internet options** and press Enter.
 3. Switch to the**Connections** tab.
 4. Click the**LAN settings** option and uncheck the**Use** **a proxy server for your LAN** box.  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Turn off proxy on Internet Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Turn-off-proxy.jpg)
 5. Save the changes by clicking the**OK** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Download the Latest Network Driver Updates
 
@@ -98,19 +94,17 @@ To update the network driver update, follow the below instructions:
 1. Press the**Win + X** hotkeys to open the**Power menu.**
 2. Choose**Device Manager** from the context menu.
 3. Right-click on the installed network adapters and select**Update driver.**  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Update Network Drivers on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Update-Network-Drivers-on-Windows.jpg)
 4. Choose**Search automatically for drivers.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Windows will now look for and download the latest network driver update. If it finds nothing, search for the network adapter's manufacturer's official website for drivers instead.
 
 After that, restart your computer and check for the issue again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ## 6\. Clear the Battle.net Cache Data
 
  Battle.net stores cache data to offer faster access. Sometimes, this cache folder can get corrupted and affect your download speed. You'll have to delete the content of this folder to solve the problem. Don't worry; deleting this folder will not affect your game data.
@@ -131,9 +125,6 @@ After that, restart your computer and check for the issue again.
 
  After flushing the DNS cache, restart your computer and check for the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Reset the Network Settings
 
  Is there still no improvement in Battle.net download speed? Probably there's something wrong with your current network settings.
@@ -145,6 +136,14 @@ You can fix this by resetting the network settings. Here's how:
 3. Click the**Reset now** button.  
 ![The Reset now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/the-network-reset-button.jpg)
 4. Click**Yes** to the prompt that appears to confirm your selection.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Improve Your Battle.net Download Speed
 
@@ -158,8 +157,6 @@ You can fix this by resetting the network settings. Here's how:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,4 +164,20 @@ You can fix this by resetting the network settings. Here's how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-no-cost-upgrade-excellent-online-beat-detection-for-music-producers/"><u>[New] 2024 Approved No Cost Upgrade Excellent Online Beat Detection for Music Producers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-recording-games-via-steam/"><u>[Updated] 2024 Approved The Ultimate Guide to Recording Games via Steam</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-streamline-caption-insertion-photos-app-tutorials-for-win-11-for-2024/"><u>[Updated] Streamline Caption Insertion Photos App Tutorials for WIN 11 for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-nokia-xr21-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Nokia XR21 to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/easily-remove-tiktok-watermarks-top-online-services-for-2024/"><u>Easily Remove TikTok Watermarks Top Online Services for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-remedies-when-encountering-netflix-error-code-ui-800-3/"><u>Effective Remedies When Encountering Netflix Error Code UI-800-3</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-cmd-commands-every-user-should-master/"><u>Essential CMD Commands Every User Should Master</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/evaluating-the-motorola-mg7700-robust-and-rapid-experience/"><u>Evaluating the Motorola MG7700 - Robust & Rapid Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-guide-to-eliminate-error-0x80070570-in-windows-xp-sky/"><u>Expert Guide to Eliminate Error 0X80070570 in Windows XP-Sky</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-execution-hiccups-in-malwarebytes-for-windows-1110-pcs/"><u>Fixing Execution Hiccups in Malwarebytes for Windows 11/10 PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-use-dev-drive-for-developers-on-windows-11/"><u>How to Use Dev Drive for Developers on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-for-rectifying-media-error-0xc10100bf/"><u>Methods for Rectifying Media Error 0XC10100BF</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-guide-to-recognizing-hard-drive-and-ssd-on-windows-pcs/"><u>Seamless Guide to Recognizing Hard Drive and SSD on Windows PCs</u></a></li>
+</ul></div>
 

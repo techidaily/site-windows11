@@ -1,7 +1,7 @@
 ---
 title: Solve Mystery of Disappearing Hardware in WinOS
-date: 2024-08-08T06:07:25.797Z
-updated: 2024-08-09T06:07:25.797Z
+date: 2024-12-22T18:54:34.139Z
+updated: 2024-12-25T17:50:07.640Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/655813b140cebedb2250090e80755301611474980
  Rest assured, the drive didn't magically disappear from your computer. It's just that Windows cannot recognize it for some reason, and we're going to show you how to fix it.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Scan Your Computer for Viruses
 
  A virus could be the reason why you can't see one of your drives on Windows. Fortunately, while viruses that target computer drivers can affect the drive's configuration and even destroy data, they can't physically damage the drive. Y
@@ -31,11 +32,12 @@ thumbnail: https://thmb.techidaily.com/655813b140cebedb2250090e80755301611474980
 
 ![The Scan options navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/scan-options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Also, if your drive doesn't pop up right away, you can try [using a System Restore point to revert Windows](https://www.makeuseof.com/use-system-restore-windows/) back to a point in time when it was showing. If that doesn't work, it could be that the virus corrupted the hard drive's files, and you can easily fix this by [running the CHKDSK utility](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Try Changing the Drive's Name
 
  Sometimes, a glitch can cause Windows to no longer recognize the drive. By [renaming the drive on Windows](https://www.makeuseof.com/change-volume-label-windows-11/), you can trigger a refresh of the operating system's recognition system so that the drive reappears.
@@ -48,30 +50,27 @@ thumbnail: https://thmb.techidaily.com/655813b140cebedb2250090e80755301611474980
 
 1. Press **Win + S** to open Windows Search.
 2. In the Search box, type **computer management**, and select **Computer Management** when it shows up in the results.  
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![launching-computer-management-from-windows-search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/launching-computer-management-from-windows-search.jpg)
 3. In the navigation pane on the left, expand **Storage** and select **Disk Management**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![the Disk Management option in Computer Management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-disk-management-option-in-computer-management.jpg)
 4. Click **Action** in the top menu and select **Rescan Disks**.  
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![rescaning disks in Computer Management on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/rescaning-disks-in-computer-management-on-windows.jpg)
 
  Now, check to see if you can see the drive again and if you can access it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Update the Disk's Driver
 
  If the driver of your disk drive is outdated, it can cause it to go missing on your computer. A quick way to remedy the situation is to simply [find and replace the outdated disk driver on Windows](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/).
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![updating a disk drive on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/updating-a-disk-drive-on-windows.jpg)
 
  Afterward, you can check if the drive has reappeared in File Explorer and the Send to menu.
@@ -86,13 +85,15 @@ thumbnail: https://thmb.techidaily.com/655813b140cebedb2250090e80755301611474980
 
  If there's nothing wrong with the connections upon physical inspection, then it could be that the drive is faulty. Check it for physical damage or if its disks are spinning inside when plugged in. If you find that something is wrong with the drive physically, then you might have no choice but to replace it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Get Your Missing Drive to Reappear on Windows
 
  It can be strange to find that a drive is suddenly missing on your Windows computer for no reason. If there's nothing wrong with the drive physically, then this guide should help you restore it where it belongs. It will also prepare you for what to do the next time a drive goes missing.
 
  Rest assured, the drive didn't magically disappear from your computer. It's just that Windows cannot recognize it for some reason, and we're going to show you how to fix it.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -100,3 +101,17 @@ thumbnail: https://thmb.techidaily.com/655813b140cebedb2250090e80755301611474980
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-best-free-and-paid-canvas-creations-apps-for-pc-users/"><u>[New] Best Free & Paid Canvas Creations Apps for PC Users</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-final-step-guide-free-yourself-from-youtube-shorts/"><u>[Updated] 2024 Approved Final Step Guide Free Yourself From YouTube Shorts</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-advice-how-to-reset-win11-search-default-configurations/"><u>Expert Advice: How to Reset Win11 Search Default Configurations</u></a></li>
+<li><a href="https://windows11.techidaily.com/modify-your-windows-personalized-spotlight-image/"><u>Modify Your Windows Personalized Spotlight Image</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/seamlessly-integrate-android-autocarplay-into-your-vehicle-with-simple-steps/"><u>Seamlessly Integrate Android Auto/CarPlay Into Your Vehicle with Simple Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-taskbar-button-image-glitches/"><u>Solutions for Taskbar Button Image Glitches</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailoring-your-first-load-webpage-on-win11/"><u>Tailoring Your First Load Webpage on Win11</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1125937-9781609251826-the-old-girls-book-of-dreams/"><u>The Old Girls' Book of Dreams | Free Book</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-against-windowss-notorious-pink-screens/"><u>Winning Against Windows's Notorious Pink Screens</u></a></li>
+</ul></div>
+

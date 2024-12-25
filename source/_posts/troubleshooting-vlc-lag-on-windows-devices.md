@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting VLC Lag on Windows Devices
-date: 2024-08-08T06:06:38.747Z
-updated: 2024-08-09T06:06:38.747Z
+date: 2024-12-18T18:54:07.039Z
+updated: 2024-12-25T19:16:37.721Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/90cf06f9730c5591652ae4f421f62950743940a3b
  Fortunately, there’s no need to settle for a subpar experience as it is possible to fix this annoying issue. Here we show you seven easy ways for fixing video lag in the VLC media player for Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Check the File Format
 
  Although VLC media player supports nearly every popular video format available, it does not support them all. If the video you're attempting to play is in an unsupported format, you may experience lag.
@@ -40,10 +41,11 @@ thumbnail: https://thmb.techidaily.com/90cf06f9730c5591652ae4f421f62950743940a3b
 3. Select the**Input / Codes** tab at the top.
 4. Use the drop-down menu next to**Hardware-accelerated decoding** to select**Disable** .
 5. Click on**Save** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Disable Hardware Acceleration in VLC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disable-hardware-acceleration-in-vlc.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Restart the VLC app after this and see if the video plays smoothly.
 
@@ -60,9 +62,6 @@ Restart the VLC app after this and see if the video plays smoothly.
 
  Can’t find the High Performance power plan in Power Options? Check our guide on[how to restore a missing High Performance power plan in Windows](https://www.makeuseof.com/tag/missing-high-performance-power-plan/) and follow the steps outlined there.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Disable In-Loop Deblocking Filter
 
  Another thing you can do to fix video lag in VLC is to disable the loop filter for H.264 decoding. Here's how to do it.
@@ -70,10 +69,6 @@ Restart the VLC app after this and see if the video plays smoothly.
 1. In the VLC app, click the**Tools** menu at the top and select**Preferences** . Alternatively, you can press**Ctrl + P** to quickly open the VLC Preferences window.
 2. Switch to the**Input / Codes** tab.
 3. Click the drop-down menu next to**Skip H.264 in-loop deblocking filter** and select**All** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![Skip In-Loop Deblocking Filter in VLC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/skip-in-loop-deblocking-filter-in-vlc.jpg)
 
 ## 5\. Change the Caching Value
@@ -89,14 +84,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 5. Under the**Advanced** section, increase the value in the**File caching (ms)** field.
 6. Similarly, increase the value for the**Network caching (ms)** as well.
 7. Click the**Save** button.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Increase File Caching in VLC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/increase-file-caching-in-vlc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Reset the VLC Preferences
 
  VLC allows you to customize a number of settings and preferences that affect its behavior. However, if some of these preferences in the VLC app are not configured correctly, it could cause it to misbehave on Windows. Instead of going through each of your preferences one by one, it's easier to reset them all and start over.
@@ -107,9 +100,6 @@ To reset your VLC media player preferences, use these steps:
 2. Click the**Tools** menu at the top and select**Preferences** from the list.
 3. In the Interface tab, click the**Reset Preferences** button at the bottom.
 4. Click**OK** when the **Are you sure you want to reset your VLC media player preferences** dialog appears.  
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Reset VLC Preferences](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/reset-vlc-preferences.jpg)
 
 Restart the VLC media player and check if the videos still lag.
@@ -135,7 +125,15 @@ To check for pending updates in the VLC media player:
 5. Select**Uninstall** once again to confirm.  
 ![Uninstall VLC Media Player on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-vlc-media-player-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once removed, open Microsoft Store on your PC and search for the VLC app. Then, click the**Install** button to download the app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Enjoy Smooth Video Playback in VLC for Windows Again
 
@@ -143,14 +141,11 @@ To check for pending updates in the VLC media player:
 
  Although VLC is a popular media player for Windows, it is not your only option. There are plenty of excellent media player apps available for Windows.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -159,4 +154,26 @@ To check for pending updates in the VLC media player:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-choosing-gopro-wisely-a-comparative-examination/"><u>[New] 2024 Approved Choosing GoPro Wisely A Comparative Examination</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-tiktok-copycat-techniques-for-social-media-success/"><u>[Updated] TikTok Copycat Techniques for Social Media Success</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-efficient-use-of-telegram-browser-interface/"><u>2024 Approved Efficient Use of Telegram Browser Interface</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/configure-your-bricklaying-bot-with-yl-computings-advanced-guide-optimized-for-yl-software-integration/"><u>Configure Your Bricklaying Bot with YL Computing's Advanced Guide - Optimized for YL Software Integration</u></a></li>
+<li><a href="https://windows11.techidaily.com/fix-lacking-steam-icon-issues-on-windows-pc/"><u>Fix Lacking Steam Icon Issues on Windows PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/halting-windows-edge-tab-loads-properly/"><u>Halting Windows Edge Tab Loads Properly</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-rectify-the-incorrect-token-call-error-on-win11/"><u>How to Rectify the “Incorrect Token Call” Error on Win11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-12-mini-to-other-iphone-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 12 mini To Other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a15-5g-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Samsung Galaxy A15 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-front-runners-in-4k-gaming-graphics/"><u>In 2024, Front-Runners in 4K Gaming Graphics</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-itel-p55plus-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/increase-dynamic-display-speed-of-task-manager-win-11/"><u>Increase Dynamic Display Speed of Task Manager Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-errors-in-windows-memory-check-tool/"><u>Overcoming Errors in Windows Memory Check Tool</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-stubborn-windows-key-issues/"><u>Overcoming Stubborn Windows Key Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/reactivating-windows-11-search-tool-performance/"><u>Reactivating Windows 11 Search Tool Performance</u></a></li>
+<li><a href="https://windows11.techidaily.com/reverse-lost-rendering-device-error-in-overwatch-2/"><u>Reverse Lost Rendering Device Error in Overwatch 2</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-vivo-t2-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Vivo T2 5G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-tackle-errortoomanyretries-in-wsl-subsystem/"><u>Strategies to Tackle ERROR_TOO_MANY_RETRIES in WSL Subsystem</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/unboxing-and-testing-the-lenovo-nook-9-inch-tablet-experience/"><u>Unboxing and Testing: The Lenovo Nook 9 Inch Tablet Experience</u></a></li>
+</ul></div>
 

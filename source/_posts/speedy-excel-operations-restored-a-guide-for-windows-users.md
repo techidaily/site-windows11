@@ -1,7 +1,7 @@
 ---
 title: "Speedy Excel Operations Restored: A Guide for Windows Users"
-date: 2024-12-13T16:14:15.067Z
-updated: 2024-12-17T01:14:53.951Z
+date: 2024-12-22T18:49:35.382Z
+updated: 2024-12-25T18:21:51.464Z
 tags:
   - windows10
   - windows11
@@ -55,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 
  Restart Excel after this and check if it still runs slowly or lags on your Windows computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Disable Hardware Graphics Acceleration
 
 [Hardware graphics acceleration](https://www.makeuseof.com/what-is-hardware-acceleration/) is a useful feature in Microsoft Excel that allows the app to use your GPU and enhance performance during graphics-related tasks. However, if this feature fails to work as expected, Excel may operate slowly on Windows.
@@ -75,7 +79,11 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 ![Enable Manual Calculation in Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/enable-manual-calculation-in-excel.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Reduce the Size of Your Excel File
@@ -84,12 +92,16 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 
  Another thing you can do is save your Excel file in binary (.xslb) format. To do so, press **F12** on your keyboard to bring up the **Save As** dialog in Excel. Click the drop-down menu next to **Save as type** to select **Excel Binary Workbook (\*.xslb)** and click the **Save** button.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Save As Dialog in Excel
 
 ![Save As Dialog in Excel](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/save-as-dialog-in-excel.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Update Microsoft Excel
@@ -100,10 +112,6 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 2. Select **Account** from the left sidebar.
 3. Click **Update Options > Update Now**.  
 ![Update Microsoft Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/update-microsoft-excel.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Wait for Microsoft Office to update Excel along with other Office apps and check if that fixes the problem.
 
@@ -120,14 +128,10 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 ![Repair Microsoft Office](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/repair-microsoft-office.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Allow the repair tool to fix any issues with Excel. If the issue remains even after that, you can perform an **Online Repair** instead. This will allow the tool to perform a more comprehensive repair to resolve any issues.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Try Some Generic Windows Fixes
 
@@ -136,10 +140,6 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 * **Close Background Apps:** Running an excessive number of apps and programs simultaneously can strain system resources, leading to slow performance in Excel. Try [closing apps and programs](https://www.makeuseof.com/windows-close-apps-programs/) you don’t need to free up system resources and see if that helps.
 * **Repair Your Excel File:** If Excel experiences lag only when you work on a specific workbook, there might be an issue with that file itself. In that case, you can try [repairing the Excel workbook](https://www.makeuseof.com/repair-courrpted-excel-workbook/) to solve the problem.
 * **Speed Up Your Windows PC:** Issues with your Windows computer can make it seem like there's a problem with Excel. If your [Windows computer is running slowly or lagging](https://www.makeuseof.com/ways-to-fix-slow-lagging-windows-11/), try changing the power plan or freeing up storage space to fix the problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Experience a Lag-Free Excel Again on Windows
 
@@ -157,18 +157,21 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-cutting-edge-science-education-through-yt-channels-for-2024/"><u>[Updated] Cutting Edge Science Education Through YT Channels for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-revolutionize-your-posts-best-igtv-edits-unveiled/"><u>[Updated] In 2024, Revolutionize Your Posts Best IGTV Edits Unveiled</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-macos-sierra-switching-back-to-os-x-el-capitan-for-2024/"><u>[Updated] MacOS Sierra Switching Back To OS X El Capitan for 2024</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/1-ultimate-guide-simplifying-your-m2ts-file-conversion-process/"><u>1. Ultimate Guide: Simplifying Your M2TS File Conversion Process</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/aural-tapestry-weaving-sounds-into-cinematic-threads/"><u>Aural Tapestry Weaving Sounds Into Cinematic Threads</u></a></li>
-<li><a href="https://games-able.techidaily.com/enjoy-seamless-play-with-a-self-fixing-xbox-d-pad/"><u>Enjoy Seamless Play with a Self-Fixing Xbox D-Pad</u></a></li>
-<li><a href="https://windows11.techidaily.com/expert-tips-for-secure-nddrive-configuration-win11/"><u>Expert Tips for Secure NDDrive Configuration (Win11)</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-non-detection-of-devices-on-windows-11-system/"><u>Fixing Non-Detection of Devices on Windows 11 System</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/harnessing-the-power-of-mov-recording-in-windows-10-for-2024/"><u>Harnessing the Power of MOV Recording in Windows 10 for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/pinnacle-of-windows-portability-top-laptop-selections/"><u>Pinnacle of Windows Portability: Top Laptop Selections</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-avoid-demanded-assets-alerts-on-windows-10and11/"><u>Troubleshooting: Avoid Demanded Assets Alerts on Windows 10&11</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-windows-knowledge-finding-software-install-spots/"><u>Unlocking Windows Knowledge: Finding Software Install Spots</u></a></li>
-<li><a href="https://windows11.techidaily.com/win-10w11-mastery-quick-paste-snippet-techniques/"><u>Win 10/W11 Mastery: Quick Paste Snippet Techniques</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-elevate-instagram-presence-with-professional-video-editing-skills-for-2024/"><u>[New] Elevate Instagram Presence with Professional Video Editing Skills for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-gopro-start-up-must-haves-decoded/"><u>2024 Approved GoPro Start-Up Must-Haves Decoded</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-top-10-igtv-edit-apps-maximize-your-video-content/"><u>2024 Approved Top 10 IGTV Edit Apps Maximize Your Video Content</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capture-and-keep-your-linkedin-content-with-these-6-powerful-apps/"><u>Capture & Keep Your LinkedIn Content with These 6 Powerful Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/crafting-optimal-gaming-graphics-and-modeling/"><u>Crafting Optimal Gaming Graphics and Modeling</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-move-from-a-convenient-pin-to-robust-password-login-on-windows-11/"><u>How to Move From a Convenient PIN to Robust Password Login on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-resolve-system-call-failure-in-windows-os/"><u>How to Resolve 'System Call Failure' In Windows OS</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-stop-facebook-tracking-with-the-off-facebook-activity-tool/"><u>How to Stop Facebook Tracking With the Off-Facebook Activity Tool</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-through-10-steps-for-win-11s-display-settings/"><u>Navigate Through 10 Steps for Win 11'S Display Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/reconciling-discrepancies-restoring-ms-to-do-sync/"><u>Reconciling Discrepancies: Restoring MS To-Do Sync</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-poco-x5-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Poco X5</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/revive-your-dead-pixels-ultimate-guide-to-fix-a-non-responsive-monitor-display-yl-computings-insights/"><u>Revive Your Dead Pixels: Ultimate Guide to Fix a Non-Responsive Monitor Display - YL Computing's Insights</u></a></li>
+<li><a href="https://windows11.techidaily.com/sleepy-systems-unlocked-keyboard-and-mouse-fixes-for-winos/"><u>Sleepy Systems Unlocked: Keyboard & Mouse Fixes for WinOS</u></a></li>
+<li><a href="https://windows11.techidaily.com/stop-the-screeching-corkscrew-of-your-mouse-wheel/"><u>Stop the Screeching Corkscrew of Your Mouse Wheel</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-nokia-150-2023-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Nokia 150 (2023) for Streaming | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-the-mystery-behind-0x80070570-on-pcs-and-laptops/"><u>Unraveling the Mystery Behind 0X80070570 on PCs and Laptops</u></a></li>
 </ul></div>
 

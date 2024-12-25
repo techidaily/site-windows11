@@ -1,7 +1,7 @@
 ---
 title: How to Fix Error Code 0Xc0000001 on Windows 10 or 11
-date: 2024-12-11T21:00:47.047Z
-updated: 2024-12-16T18:34:48.077Z
+date: 2024-12-18T18:56:59.073Z
+updated: 2024-12-25T16:23:08.599Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/288c4a8a533b0f1094aca3a28c5db0188ea8b5a3c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Run the Startup Repair Tool
 
  As we mentioned above, figuring out the possible causes for the error code 0xc0000001 on your Windows PC can be a challenge; there are seemingly many likely culprits of the error. In such cases, the Startup Repair tool can help you out. In brief, it’s an in-built Windows tool that can help you repair and fix a variety of startup problems.
@@ -45,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/288c4a8a533b0f1094aca3a28c5db0188ea8b5a3c
 
  The Startup Repair tool will sift through your PC for possible issues with your Windows 10 or 11 and then start fixing them one by one. After the scan and repair are complete, give your PC a quick reboot and see if this fixes the error code 0xc0000001 on your Windows computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Use the Command Prompt
 
  If the Startup Repair tool didn’t successfully do the job for you, then your next best bet will be the Command prompt. Just select the **Command Prompt** from the **Advanced options** menu, put in a command, and you will be set.
@@ -63,7 +55,7 @@ Bootrec /fixmbrBootrec /fixbootBootrec /scanosBootrec /rebuildbcd
 ![windows command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The above commands are basically aimed at fixing or rebuilding the Boot Configuration Data (BCD) of your Windows. Since the error code 0xc0000001 is a booting error, it therefore makes sense to give this method a shot.
@@ -71,7 +63,7 @@ Bootrec /fixmbrBootrec /fixbootBootrec /scanosBootrec /rebuildbcd
  Once you’re done with all the commands, reboot your PC and see if you still face the error code 0xc0000001 on your Windows PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Unplug All External Devices
@@ -91,7 +83,7 @@ Bootrec /fixmbrBootrec /fixbootBootrec /scanosBootrec /rebuildbcd
  If you see that disabling a specific program has fixed the error code 0xc0000001 problem, it’s highly probable the said app was behind it. In this case, uninstall the software while in Safe mode and reboot your PC normally—it will boot up quickly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Perform a Windows System Restore
@@ -106,6 +98,10 @@ Bootrec /fixmbrBootrec /fixbootBootrec /scanosBootrec /rebuildbcd
 
  A [quick malware scan by Microsoft Defender](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) is a surefire way to rule out this possibility for good.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Perform a CHDSK Scan
 
  Another handy utility to carry in your Windows fix-it toolkit, the CHKDSK utility works by scanning—and then fixing—a variety of issues with your Windows hard drive.
@@ -117,6 +113,10 @@ Bootrec /fixmbrBootrec /fixbootBootrec /scanosBootrec /rebuildbcd
  If all fails, you will always have the Factory reset of your Windows as the last resort. Of course, it goes without saying that, like all resorts, you should only turn to it if your fixes have yet to work.
 
  There are [many ways to factory reset your Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/). So pick whatever method suits you best and then start fresh from ground zero.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixing the Error Code 0xc0000001 on Windows Computer
 
@@ -134,21 +134,24 @@ Bootrec /fixmbrBootrec /fixbootBootrec /scanosBootrec /rebuildbcd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-prime-pick-the-top-10-video-capture-tools-for-windows/"><u>[New] 2024 Approved Prime Pick The Top 10 Video Capture Tools for Windows</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-integrated-video-flow-linking-multiple-youtube-content/"><u>[Updated] 2024 Approved Integrated Video Flow Linking Multiple YouTube Content</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-complete-analysis-hero4-black-system/"><u>[Updated] Complete Analysis Hero4 Black System</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-brainy-brigade-top-11-quiz-channels/"><u>2024 Approved Brainy Brigade Top 11 Quiz Channels</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-extensive-appraisal-a-look-into-bublcam-360/"><u>2024 Approved Extensive Appraisal A Look Into Bublcam 360</u></a></li>
-<li><a href="https://windows11.techidaily.com/4-ways-to-fix-the-windows-powershell-cannot-be-loaded-because-running-scripts-is-disabled-error/"><u>4 Ways to Fix the Windows PowerShell Cannot Be Loaded Because Running Scripts Is Disabled Error</u></a></li>
-<li><a href="https://windows11.techidaily.com/applying-local-group-policies-to-individual-users-windows-11-guide/"><u>Applying Local Group Policies to Individual Users: Windows 11 Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/best-fit-the-ideal-vms-that-complement-your-windows-11-pc/"><u>Best Fit: The Ideal VMs That Complement Your Windows 11 PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypassing-inaccessible-router-settings-in-windows/"><u>Bypassing Inaccessible Router Settings in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/comprehensive-solution-to-stop-0xf0831-in-windows-11/"><u>Comprehensive Solution to Stop 0xF0831 in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/cracking-code-repaired-windows-family-security-glitches/"><u>Cracking Code: Repaired Windows Family Security Glitches</u></a></li>
-<li><a href="https://windows11.techidaily.com/customizing-your-command-prompt-palette/"><u>Customizing Your Command Prompt Palette</u></a></li>
-<li><a href="https://extra-information.techidaily.com/gradual-amplitude-reduction-guide/"><u>Gradual Amplitude Reduction Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-xiaomi-civi-3-disney-100th-anniversary-edition-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Xiaomi Civi 3 Disney 100th Anniversary Edition without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/liberate-iphone-photos-from-red-eye-effects-at-no-cost/"><u>Liberate iPhone Photos From Red Eye Effects at No Cost</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-elevate-audio-output-simple-gratis-methods-to-increase-volume-on-windows/"><u>Updated In 2024, Elevate Audio Output Simple, Gratis Methods to Increase Volume on Windows</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-best-soundshapers-for-content-makers-on-youtube/"><u>[New] 2024 Approved Best Soundshapers for Content Makers on YouTube</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-diving-into-youtube-creation-and-making-it-monetary/"><u>[Updated] 2024 Approved Diving Into YouTube Creation & Making It Monetary</u></a></li>
+<li><a href="https://common-error.techidaily.com/fast-fix-for-windows-d3dx943dll-file-not-found-issue/"><u>Fast Fix for Windows D3DX9_43.dll File Not Found Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-recycle-bin-icon-setting-grayed-out-in-windows-11/"><u>How to Fix the Recycle Bin Icon Setting Grayed Out in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-re-position-your-qbittorrent-on-different-windows-devices/"><u>How to Re-Position Your qBittorrent on Different Windows Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/idea-illumination-strategies-for-visual-notetaking-in-obsidian/"><u>Idea Illumination: Strategies for Visual Notetaking in Obsidian</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-easily-unlock-nubia-screen-by-drfone-android/"><u>In 2024, How To Easily Unlock Nubia Screen?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-xiaomi-redmi-12-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Xiaomi Redmi 12 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-inside-look-a-detailed-review-of-the-android-lightroom-app/"><u>In 2024, Inside Look A Detailed Review of the Android Lightroom App</u></a></li>
+<li><a href="https://windows11.techidaily.com/making-your-life-easier-deploying-multiple-apps-on-windows-11-via-winstall/"><u>Making Your Life Easier: Deploying Multiple Apps on Windows 11 via Winstall</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximizing-efficiency-three-ways-to-upgrade-double-click-rate/"><u>Maximizing Efficiency: Three Ways to Upgrade Double-Click Rate</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-samsung-galaxy-s23-fe-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Samsung Galaxy S23 FE and Browser | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinstating-lost-d3dx939dll-for-windows-11/"><u>Reinstating Lost D3DX9_39.dll for Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-nvidia-related-windows-connections/"><u>Tackling Nvidia-Related Windows Connections</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-vlogging-battle-gopro-hero5-black-vs-sessions-for-2024/"><u>The Ultimate Vlogging Battle GoPro Hero5 Black VS Sessions for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/transforming-hidden-content-fb-video-strategies/"><u>Transforming Hidden Content FB Video Strategies</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723005266523-troubleshooting-tips-solve-your-gta-v-crashing-issues-now/"><u>Troubleshooting Tips - Solve Your GTA V Crashing Issues Now!</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-guide-forcibly-remove-printers/"><u>Win11 Guide: Forcibly Remove Printers</u></a></li>
+<li><a href="https://windows11.techidaily.com/workaround-to-permit-chrome-network-connectivity-on-pc/"><u>Workaround to Permit Chrome Network Connectivity on PC</u></a></li>
 </ul></div>
 

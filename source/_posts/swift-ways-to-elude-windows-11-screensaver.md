@@ -1,7 +1,7 @@
 ---
 title: Swift Ways to Elude Windows 11 Screensaver
-date: 2024-08-08T06:05:50.462Z
-updated: 2024-08-09T06:05:50.462Z
+date: 2024-12-23T18:33:22.569Z
+updated: 2024-12-25T18:11:41.474Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/9e54865f3f57ec57dc69d69631538169245afb52f
  Call it a personal observation, but the lock screen adds an extra step to the login process. So, if you want to remove the lock screen and go directly to the logon screen in Windows 11, this post will offer many methods to do it.
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why Consider Disabling Your Lock Screen?
 
  The Windows lock screen is the first barrier to getting to the desktop. It displays a background image, date and time, and app notifications. But if you don't want to see any of those things, then disabling it makes sense. After removing the lock screen, you can go straight to the desktop after entering your PIN/Password. You can also set up a lock screen-free computer for a public computer.
@@ -41,22 +42,22 @@ Here's how to disable the lock screen using Group Policy:
 2. Now, type**gpedit.msc** and hit the**Enter** key to open the**Group Policy Editor** .
 3. Then go to the left-hand side panel. Navigate to **Computer Configuration > Administrative Templates > Control Panel > Personalization** .
 4. Double-click on the**Do not display the lock screen** option in the Personalization options.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![Group policy editor window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Group-policy-editor-1-1.jpg)
 5. A new window with detailed settings for the option will open. The**enabled** option will be active by default which means that the lock screen is active.
-6. Click on the**Disabled** Radio button to disable the lock screen on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+6. Click on the**Disabled** Radio button to disable the lock screen on your system.  
 ![Disable lock screen settings in Group policy editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Group-policy-editor-2.jpg)
 7. Now, click on the**Apply** button and click the**OK** button to finalize the changes.
 8. You need to restart your system. You will notice that there is no lock screen, and you enter the login screen straight away.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Use the Registry Editor
 
  You can also disable the lock screen on Windows by tweaking the registry settings. But make sure to export a copy of your registry for safety purposes. It will help you revert to the previous registry settings in case of corruption. Check our detailed guide on[how to perform a registry backup](https://www.makeuseof.com/windows-11-automatic-registry-backups/) for more info.
@@ -66,9 +67,6 @@ Here's how to remove the lock screen through the registry:
 1. Press the**Win key + R** to launch the**Run** command box. Now, type**regedit** in the text input box and hit the**Enter** key to launch Registry Editor.
 2. Now, paste the following path in the text input area and then hit the enter key: **Computer\\HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows**
 3. Navigate to the left-hand panel and right-click on the**Windows** key. Then select**New > Key** and name it**Personalization** .  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![Creating a new key in Registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Registry-editor-lockscreen-1.jpg)
 4. Right-click on Personalization and select**New > DWORD (32-bit) Value** . Name it as**NoLockScreen** .
 5. Double-click on the**NoLockScreen** value and set the**Value Data** to**1** . Keep the base hexadecimal.
@@ -77,8 +75,9 @@ Here's how to remove the lock screen through the registry:
 7. To bring back the lock screen, revert the**NoLockScreen** key value to**0** .
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Use Winaero Tweaker
 
  You can try the Winaero Tweaker app if you find registry tweaking cumbersome. It is a free app that allows you to customize Windows beyond the basic options. The app offers a GUI interface with detailed information about what each option does.
@@ -89,11 +88,12 @@ Follow these steps to remove the lock screen with this tool:
 ![Winaero tweaker home window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Winaero-tweaker-1.jpg)
 2. Now, go to the**Boot and Logon** option on the left-hand side menu.
 3. Find the**Disable Lock Screen** option under the**Boot and Logon** section. Click on the**Disable Lock Screen** checkbox.  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Disable lock screen in Winaero Tweaker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Winaero-tweaker-2.jpg)
 4. Now,**Restart** your system to apply the changes. You will notice that the lock screen doesn't appear anymore.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Use Ultimate Windows Tweaker
 
@@ -121,8 +121,6 @@ Follow these steps to remove the lock screen with this tool:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +128,21 @@ Follow these steps to remove the lock screen with this tool:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/tep-by-step-guide-establishing-your-first-youtube-profile-for-2024/"><u>[New] Step-by-Step Guide Establishing Your First YouTube Profile for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-leveraging-your-google-id-for-private-yt-video-distribution/"><u>[Updated] 2024 Approved Leveraging Your Google ID for Private YT Video Distribution</u></a></li>
+<li><a href="https://win-answers.techidaily.com/2024wav8/"><u>2024年に最高の無料WAV変換プログラムを発表！トップ8秒読み</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-imyfone-d-back-overview-tips-benefits-and-user-experience/"><u>Complete IMyFone D-Back Overview – Tips, Benefits, & User Experience</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/high-speed-replicas-best-racing-games/"><u>High-Speed Replicas Best Racing Games</u></a></li>
+<li><a href="https://windows11.techidaily.com/identifying-your-device-top-6-windows-pc-model-names/"><u>Identifying Your Device: Top 6 Windows PC Model Names</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-vivo-s18e-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Vivo S18e by Name | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-simplified-approach-to-embedding-multiple-video-playlists-from-youtube/"><u>In 2024, Simplified Approach to Embedding Multiple Video Playlists From YouTube</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-text-pasting-in-powertoys-quickly/"><u>Navigating Text Pasting in PowerToys Quickly</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-code-0x0000004e-anomalies/"><u>Navigating Through Code 0X0000004E Anomalies</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/premier-action-cams-for-dynamic-sports-for-2024/"><u>Premier Action Cams for Dynamic Sports for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/reclaim-lost-boot-prompts-uefi-fixes/"><u>Reclaim Lost Boot Prompts: UEFI Fixes</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-new-game-for-facebook-post-ios-145-release/"><u>The New Game for Facebook Post-iOS 14.5 Release</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleash-potential-understanding-function-fn-key-operations/"><u>Unleash Potential: Understanding Function (Fn) Key Operations</u></a></li>
+</ul></div>
 

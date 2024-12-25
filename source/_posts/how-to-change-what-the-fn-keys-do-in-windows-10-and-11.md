@@ -1,7 +1,7 @@
 ---
 title: How to Change What the Fn Keys Do in Windows 10 and 11
-date: 2024-12-13T20:25:31.408Z
-updated: 2024-12-16T23:59:24.037Z
+date: 2024-12-23T17:06:44.389Z
+updated: 2024-12-25T16:44:54.786Z
 tags:
   - windows10
   - windows11
@@ -44,18 +44,26 @@ Here is how to proceed:
 ![Hardware and Sound in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/hardware-and-sound.jpg)
 3. Click on**Windows Mobility Center** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Windows mobility center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/hardware-and-sound-windows-mobility-center.jpg)
 4. In the following window, look for the Fn key row section and expand the drop-down under it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. If you wish to choose the F keys for basic functions, choose**Function key** .
 6. Select**Multimedia key** if you want to use the F keys to perform functions that typically require pressing the Fn key.  
 ![Multimedia key in Windows Mobility Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/windows-mobility-center-multimedia-key-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you own other devices, then you might want to look for similar options in the System or keyboard settings. You can also search the manufacturer’s official website for information regarding such customizations.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. How to Modify the Function Keys Settings in the BIOS
 
@@ -77,10 +85,6 @@ Similarly, if you have an Acer device, follow these steps:
 2. Once you reach the BIOS screen, head over to the System Configuration Menu and click Enter in the Action Keys Mode option.
 3. Pick the desired mode and hit Exit.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. How to Change the Function Key Settings Using the UEFI Settings
 
  If you cannot boot into BIOS for some reason, try changing the Fn keys using UEFI settings. UEFI is basically BIOS on steroids, as it offers a bunch of additional functions and is more powerful.
@@ -94,10 +98,6 @@ Similarly, if you have an Acer device, follow these steps:
 
 ![Restart now button in Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/restart-now.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If you are a Windows 11 user, follow these steps:
 
 1. Press the Win + S keys together to open the Windows Search utility.
@@ -106,7 +106,7 @@ If you are a Windows 11 user, follow these steps:
 ![Click on Restart now](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/restart-now-button.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you have booted in the Windows Recovery Environment using these steps, proceed with the following:
@@ -116,13 +116,13 @@ If you are a Windows 11 user, follow these steps:
 ![UEFI Firmware settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/advanced-options-startup.jpg)
 3. In the following window, head over to the**Configuration** tab.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Select the**Hotkey Mode** and click on**Enabled** or**Disabled** .  
 ![hotkey-mode-disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/hotkey-mode-disabled.jpg)
 5. Click**Save** and then press**Exit** to sign out of BIOS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Enable the Fn Lock
 
@@ -165,18 +165,24 @@ If you are a Windows 11 user, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-mastery-in-action-steps-for-extracting-videos-on-messenger/"><u>[New] 2024 Approved Mastery in Action Steps for Extracting Videos on Messenger</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-harmony-hearts-the-ideal-playlist-for-a-life-changing-kiss/"><u>[New] Harmony Hearts The Ideal Playlist for a Life-Changing Kiss</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-ultimate-tutorial-for-uploading-to-instagram-tv/"><u>[New] In 2024, The Ultimate Tutorial for Uploading to Instagram TV</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/a-novices-guide-to-selecting-key-gopro-enhancements-for-2024/"><u>A Novice's Guide to Selecting Key GoPro Enhancements for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-to-reversing-customized-search-in-windows-11/"><u>Guide to Reversing Customized Search in Windows 11</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-a-dual-device-expedition-in-virtual-frontiers/"><u>In 2024, A Dual-Device Expedition in Virtual Frontiers</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-perfecting-podcast-production-an-ultimate-tutorial-for-high-quality-zoom-recordings/"><u>In 2024, Perfecting Podcast Production An Ultimate Tutorial for High-Quality Zoom Recordings</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-smooth-operations-leading-windows-phones-videos/"><u>In 2024, Smooth Operations Leading Windows Phones Videos</u></a></li>
-<li><a href="https://windows11.techidaily.com/instant-notify-shutdown-in-windows-11/"><u>Instant Notify Shutdown in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/methods-to-retrieve-unseen-razer-devices-on-windows-11/"><u>Methods to Retrieve Unseen Razer Devices on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/system-snooze-button-unlocking-windows-top-8-resets/"><u>System Snooze Button: Unlocking Windows' Top 8 Resets</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/the-4-essential-steps-to-create-engaging-instagram-loops-for-2024/"><u>The 4 Essential Steps to Create Engaging Instagram Loops for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshoot-missing-camera-in-device-manager/"><u>Troubleshoot Missing Camera In Device Manager</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-drive-participation-with-artisanal-story-inquiries-for-2024/"><u>[New] Drive Participation with Artisanal Story Inquiries for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-top-tier-video-capture-tools-for-pc-users-for-2024/"><u>[New] Top-Tier Video Capture Tools for PC Users for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-seamless-sharing-strategies-insta-tik-tok-integration/"><u>[Updated] In 2024, Seamless Sharing Strategies Insta-Tik Tok Integration</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-quick-guide-to-faster-tiktok-creation-for-2024/"><u>[Updated] Quick Guide to Faster TikTok Creation for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/direct-route-setting-up-wi-fi-ethernet-device-on-pcs/"><u>Direct Route: Setting up Wi-Fi Ethernet Device on PCs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-depth-analysis-of-powerdirector-24-features-for-2024/"><u>In-Depth Analysis of PowerDirector '24 Features for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-file-flow-effective-win11-disk-management/"><u>Mastering File Flow: Effective Win11 Disk Management</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-friend-connect-fixes-for-win11s-steam/"><u>Mastering Friend Connect Fixes for Win11's Steam</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-volume-mixer-windows-11-sounds-configuration-steps/"><u>Mastering the Volume Mixer: Windows 11 Sounds Configuration Steps</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-and-conceal-pc-folders-with-ease-windows-11/"><u>Navigate and Conceal PC Folders with Ease (Windows 11)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/obs-studio-vs-fraps-deciding-the-ultimate-screen-grab-software-for-2024/"><u>OBS Studio vs Fraps Deciding the Ultimate Screen Grab Software for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-your-playstation-4-hurdles-with-a-quick-fix-to-error-code-ce-34878-0/"><u>Overcome Your PlayStation 4 Hurdles with a Quick Fix to Error Code CE-34878-0</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-11-system-call-errors/"><u>Overcoming Windows 11 System Call Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/prime-tools-for-your-gameplay-selecting-best-fps-counter-apps-in-windows-11/"><u>Prime Tools for Your Gameplay: Selecting Best FPS Counter Apps in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/reimagine-windows-task-execution-via-enhanced-run-toolkit-implementation/"><u>Reimagine Windows Task Execution via Enhanced Run Toolkit Implementation</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-for-recovering-lost-router-configuration/"><u>Solutions for Recovering Lost Router Configuration</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/by-step-save-youtube-sounds-directly-for-2024/"><u>Step-by-Step Save YouTube Sounds Directly for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-revive-a-non-responsive-gamepad/"><u>Strategies to Revive a Non-Responsive Gamepad</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-edit-like-a-pro-top-10-free-and-paid-android-video-editors-you-need-for-2024/"><u>Updated Edit Like a Pro Top 10 Free and Paid Android Video Editors You Need for 2024</u></a></li>
 </ul></div>
 

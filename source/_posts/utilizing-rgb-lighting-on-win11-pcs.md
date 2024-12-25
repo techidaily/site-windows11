@@ -1,7 +1,7 @@
 ---
 title: Utilizing RGB Lighting on Win11 PCs
-date: 2024-08-08T06:06:52.569Z
-updated: 2024-08-09T06:06:52.569Z
+date: 2024-12-22T19:32:35.769Z
+updated: 2024-12-25T18:03:47.818Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/f21de38b9a60edd6d3298db1bc5cbe93a61c6bb25
  But as far as color tweaking goes, Windows users have to use custom or third-party software for their computer accessories (if the device supports it). However, Microsoft is testing an RGB Lighting control feature that could potentially eliminate the need for such software. Want to try it out? Let’s begin.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Do You Really Need RGB Lighting Controls on Windows?
 
  If you use any external peripherals (especially gaming-related), RGB lighting has a great visual appeal. Even[the best gaming accessories](https://www.makeuseof.com/best-laptop-gaming-accessories/) (mouse, keyboard, and controllers) now have some form of RGB lighting embedded in them. Expensive products offer slightly better customizations compared to moderately priced ones.
@@ -37,21 +38,19 @@ thumbnail: https://thmb.techidaily.com/f21de38b9a60edd6d3298db1bc5cbe93a61c6bb25
 
  This setting will act as a central hub to manage and tweak all the connected devices with RGB lighting. So, you will need fewer or no third-party apps for adjusting RGB effects on any connected device in Windows 11.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Enable RGB Lighting Controls in Windows 11
 
  The RGB lighting feature is in the testing phase and is only available in Windows Insider build 25295 and above. So, you need to first update to the latest Canary channel build and then use ViveTool to enable the feature on your system.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Change to the Insider Build
 
  You can download the Insider build 25295 by enrolling in the Windows Insider program and then checking for new builds using the Update Windows section in the Settings app.
 
  However, if you don’t want to enroll in the program, you can use[UUP Dump to download the latest Windows Insider builds](https://www.makeuseof.com/windows-11-download-insider-iso-without-insider-program/) and try it on your system or on a virtual machine. After that, install the build and boot to the desktop.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Enable RGB Lighting Using ViVeTool
 
@@ -64,34 +63,36 @@ thumbnail: https://thmb.techidaily.com/f21de38b9a60edd6d3298db1bc5cbe93a61c6bb25
 5. Now, type the following commands and execute them one by one to enable the hidden RGB lighting feature:  
 vivetool /enable /id:41355275 vivetool /enable /id:35262205
 6. Type**exit** in the Command Prompt window to close it. Restart your system to apply changes made by the ViVeTool.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Enabling RGB Lighting Using ViveTool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enabling-rgb-lighting-using-vivetool.jpg)
 7. Once you boot to the Desktop, press**Win + I** to launch the Settings app.
-8. Click on the**Personalization** option in the left-hand side menu.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+8. Click on the**Personalization** option in the left-hand side menu.  
 ![RGB Lighting Settings 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/rgb-lighting-settings-1.jpg)
 9. Scroll down, and you see the**Lighting** option in the personalization settings. Click on it and then tweak the RGB lighting of all the supported devices. You can even match the RGB effects of a device with the Windows accent color.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![RGB Lighting Settings 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/rgb-lighting-settings-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Control All Your RGB Peripherals in One Place
 
  RGB has amplified its appeal in the last five years. It has moved from bland boring colors to customizable effects. But installing separate software to tweak each device isn’t a good idea. Thankfully, Microsoft is working on centralizing RGB lighting customization, so you won’t need to install a sketchy RGB tweaking app ever again.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -100,4 +101,20 @@ vivetool /enable /id:41355275 vivetool /enable /id:35262205
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-audiovisual-excellence-on-youtube-through-enhancements/"><u>[New] In 2024, Audiovisual Excellence on YouTube Through Enhancements</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-edge-of-insanity-the-10-most-chaotic-tiktok-contests/"><u>[Updated] 2024 Approved Edge of Insanity The 10 Most Chaotic TikTok Contests</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/202310/"><u>音声編集入門者必見！無料ツールが選ばれる【2023年版】トップ10リスト</u></a></li>
+<li><a href="https://network-issues.techidaily.com/disentangled-rtx-manager-access/"><u>Disentangled: RTX Manager Access</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diy-repair-strategies-for-the-common-acrocefexe-system-crashes/"><u>DIY Repair Strategies for the Common AcroCEF.exe System Crashes</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-resolve-blue-screens-resulting-from-unhandled-exceptions/"><u>How to Resolve Blue Screens Resulting From Unhandled Exceptions</u></a></li>
+<li><a href="https://windows11.techidaily.com/recovering-internet-router-settings-on-windows-pc/"><u>Recovering Internet Router Settings on Windows PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/refining-malfunctional-fixes-within-windows-1011-diagnostics/"><u>Refining Malfunctional Fixes Within Windows 10/11 Diagnostics</u></a></li>
+<li><a href="https://os-tips.techidaily.com/regain-your-tunes-effective-strategies-for-retrieving-accidentally-erased-songs/"><u>Regain Your Tunes: Effective Strategies for Retrieving Accidentally Erased Songs</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-future-is-here-windows-11-changes-to-file-explorer/"><u>The Future Is Here: Windows 11 Changes to File Explorer</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/the-future-of-content-navigating-video-landscapes-on-fb-for-2024/"><u>The Future of Content Navigating Video Landscapes on FB for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-tier-business-tablet-unmatched-by-microsoft-and-lenovo-insider-review-revealed-on-zdnet/"><u>Top-Tier Business Tablet Unmatched by Microsoft and Lenovo: Insider Review Revealed on ZDNet</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-honor-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Honor</u></a></li>
+</ul></div>
 

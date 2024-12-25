@@ -1,7 +1,7 @@
 ---
 title: Rectifying 'Device Not Initialized' Warning in Win 11
-date: 2024-12-14T22:47:01.674Z
-updated: 2024-12-16T19:38:34.146Z
+date: 2024-12-20T16:44:59.014Z
+updated: 2024-12-25T16:28:42.240Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/857cad2a82232e03f92aad9809b4a548e4964a8c9
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Causes the Unknown USB Device, Port Reset Failed Error in Windows 11?
 
  USB devices are generally easy to use with computers. But sometimes, you might face different errors upon connecting them to your computer. One of these errors is the Unknown USB Device, Port Reset Failed error that appears due to the following reasons:
@@ -35,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/857cad2a82232e03f92aad9809b4a548e4964a8c9
 * Outdated BIOS
 
  Knowing the reasons behind the error message, let's get into all the working fixes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Try the Basic Repairs
 
@@ -54,10 +62,14 @@ thumbnail: https://thmb.techidaily.com/857cad2a82232e03f92aad9809b4a548e4964a8c9
 ![Scan for hardware changes option in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/scan-for-hardware-changes-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That's it. Now, wait until the scan is complete. Once done, check if the issue continues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Use the Hardware and Devices Troubleshooter
 
@@ -74,10 +86,6 @@ Here's how to use the Hardware and Devices troubleshooter:
 
  The Hardware and Devices troubleshooter will now look for and automatically fix any available hardware issues on your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Disable Fast Startup
 
  Windows has a[fast startup feature](https://www.makeuseof.com/what-is-windows-fast-startup-why-disable-it/) that you can enable to fasten your computer's boot speed. But on the negative side, enabling this feature can also result in different system issues, including the Unknown USB Device, Port Reset Failed error.
@@ -93,15 +101,7 @@ Here's how to use the Hardware and Devices troubleshooter:
 ![Disable Fast Startup in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Disable-Fast-Starup.jpg)
 7. Click the**Save changes** button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Next, restart your computer and check for the problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Download the Latest Driver Update
 
@@ -124,6 +124,10 @@ Next, restart your computer and check for the problem.
 
  Next, restart your computer and plug in the USB device again. Check if you still see the error message. If yes, continue with the guide.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Disable the USB Selective Suspend Setting
 
  Disabling the USB Selective Suspend setting is another thing you can do to get rid of the problem at hand. Here's how to do it:
@@ -140,10 +144,6 @@ Next, restart your computer and check for the problem.
  Are you still facing the problem? If yes, then probably outdated BIOS is the culprit.
 
  An outdated BIOS can cause issues like low system performance and stability, and incompatibility with certain devices. It can also cause the Unknown USB Device, Port Reset Failed error. So, update your BIOS to fix the issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixing the Unknown USB Device, Port Reset Failed Error
 
@@ -166,24 +166,19 @@ Next, restart your computer and check for the problem.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-video-transformation-pics-and-tunes-fusion/"><u>[Updated] Video Transformation Pics and Tunes Fusion</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-filmmakers-choice-selecting-perfect-lenses-for-youtube-creation/"><u>2024 Approved Filmmaker's Choice Selecting Perfect Lenses for YouTube Creation</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-gigabyte-totals-for-extended-video-playback/"><u>2024 Approved Gigabyte Totals for Extended Video Playback</u></a></li>
-<li><a href="https://windows11.techidaily.com/6-common-windows-screen-resolution-issues-and-fixes/"><u>6 Common Windows Screen Resolution Issues and Fixes</u></a></li>
-<li><a href="https://windows11.techidaily.com/7-essential-fixes-to-tackle-the-http-too-many-requests-issue-in-windows/"><u>7 Essential Fixes to Tackle the HTTP Too Many Requests Issue in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/amplify-tray-ui-add-scrolllock-and-number-keys-iconos/"><u>Amplify Tray UI: Add ScrollLock and Number Keys Iconos</u></a></li>
-<li><a href="https://windows11.techidaily.com/asus-vivobook-s-15-the-ultimate-blend-of-style-and-functionality/"><u>ASUS Vivobook S 15: The Ultimate Blend of Style & Functionality</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoiding-disruption-correcting-photo-package-issues-on-windows-1011/"><u>Avoiding Disruption: Correcting Photo Package Issues on Windows 10/11</u></a></li>
-<li><a href="https://windows11.techidaily.com/bold-stealth-for-your-wi-fi-on-windows-pcs/"><u>Bold Stealth for Your Wi-Fi on Windows PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/bootable-windows-11-flashdrive-top-3-efficient-techniques/"><u>Bootable Windows 11 Flashdrive: Top 3 Efficient Techniques</u></a></li>
-<li><a href="https://windows11.techidaily.com/circumventing-error-code-0x800736cc-in-windows-update/"><u>Circumventing Error Code 0X800736CC in Windows Update</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/command-openvpn-browse-resolv-conf-config-configpath/"><u>Command = ['Openvpn', '--Browse-Resolv-Conf', '--Config', Config_path</u></a></li>
-<li><a href="https://windows11.techidaily.com/deciphering-microsofts-window-file-format-cab-for-ease-of-use/"><u>Deciphering Microsoft's Window File Format (CAB) for Ease of Use</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-headphone-connectivity-problems-on-windows-11-systems/"><u>Fixing Headphone Connectivity Problems on Windows 11 Systems</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-realme-c53-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Realme C53 Phone Screen?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-tecno-spark-20-pro-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Tecno Spark 20 Pro to Protect Your Individual Information</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-plus-online-here-are-6-easy-ways-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 15 Plus Online? Here are 6 Easy Ways</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/key-top-8-gpt-queries-to-diminish-online-diversions-and-boost-efficiency/"><u>Key Top 8 GPT Queries to Diminish Online Diversions & Boost Efficiency</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/screen-display-armored-again-post-windows-fix/"><u>Screen Display Armored Again Post-Windows Fix</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-efficient-ways-to-save-ppt-slides/"><u>[Updated] 2024 Approved Efficient Ways to Save PPT Slides</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-discover-engaging-youtube-threads/"><u>[Updated] In 2024, Discover Engaging YouTube Threads</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-the-art-of-illusion-crafting-stunning-snaps-with-filters/"><u>[Updated] In 2024, The Art of Illusion Crafting Stunning Snaps with Filters</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-transforming-photos-with-easy-online-cropping-steps-for-2024/"><u>[Updated] Transforming Photos with Easy Online Cropping Steps for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/3-ways-to-record-whatsapp-call-for-2024/"><u>3 Ways to Record WhatsApp Call for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/fading-fast-with-premiere-pro/"><u>Fading Fast with Premiere Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-avi-images-to-graphics-a-complete-filmora-walkthrough-for-2024/"><u>From AVI Images to Graphics A Complete Filmora Walkthrough for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-the-art-of-clutter-free-windows-desktop/"><u>Master the Art of Clutter-Free Windows Desktop</u></a></li>
+<li><a href="https://windows11.techidaily.com/minimize-lag-troubleshooting-windows-extended-monitor-use/"><u>Minimize Lag: Troubleshooting Windows Extended Monitor Use</u></a></li>
+<li><a href="https://windows11.techidaily.com/pathways-to-discover-and-implement-win-group-policies/"><u>Pathways to Discover and Implement Win Group Policies</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fixes-to-reduce-app-latency-in-windows-discord/"><u>Quick Fixes to Reduce App Latency in Windows Discord</u></a></li>
+<li><a href="https://windows11.techidaily.com/re-aligning-windows-11-writable-interface-keyboard-and-touch-panel/"><u>Re-Aligning Windows 11' Writable Interface: Keyboard & Touch Panel</u></a></li>
+<li><a href="https://windows11.techidaily.com/relaunching-print-processor-in-windows/"><u>Relaunching Print Processor in Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-battle-of-mobile-os-a-closer-look-at-android-iphone-and-symbian/"><u>The Battle of Mobile OS: A Closer Look at Android, iPhone, and Symbian</u></a></li>
 </ul></div>
 

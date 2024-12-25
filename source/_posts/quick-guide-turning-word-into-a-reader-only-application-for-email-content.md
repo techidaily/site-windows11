@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: Turning Word Into a Reader-Only Application for Email Content"
-date: 2024-12-12T16:25:13.354Z
-updated: 2024-12-16T21:38:08.830Z
+date: 2024-12-24T20:02:49.062Z
+updated: 2024-12-25T18:25:15.783Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Change Microsoft Word Startup Settings to Always Open Email Attachments in Reading View
 
  You can modify Word's startup settings to specify how your documents are handled. From there, you can set Word to open all email attachments in reading mode by default. Here's how:
@@ -37,13 +41,13 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
 ![Word Startup Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Word-Startup-Options.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you complete the above steps, Word will open email attachments in reading view by default.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. How to Change the Local Group Policy to Open Email Attachments in Reading View in Microsoft Word
@@ -59,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
 ![Configure Word to Open Email Attachments in Reading View Using Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Configure-Word-to-Open-Email-Attachments-in-Reading-View-Using-Group-Policy-Editor.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. How to Tweak the Windows Registry to Open Email Attachments in Reading View in Microsoft Word
@@ -80,14 +84,10 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
 ![Configure Word to Open Email Attachments in Reading View Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Configure-Word-to-Open-Email-Attachments-in-Reading-View-Using-Registry-Editor.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Restart your PC for the changes to take effect. Following that, Word will open all your email attachments in reading view.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Opening Email Attachments in Microsoft Word's Reading View
 
@@ -108,24 +108,18 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/urating-tunes-a-comprehensive-guide-to-youtube-lists-for-2024/"><u>[New] Curating Tunes A Comprehensive Guide to YouTube Lists for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/assessing-vulnerability-levels-in-chatgpt-systems/"><u>Assessing Vulnerability Levels in ChatGPT Systems</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-on-apple-iphone-11-pro-maxipadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock on Apple iPhone 11 Pro Max/iPad/iPod</u></a></li>
-<li><a href="https://windows11.techidaily.com/expert-tips-on-resolving-the-v22h2-windows-upgrade-not-installed-error/"><u>Expert Tips on Resolving the V22H2 Windows Upgrade Not Installed Error</u></a></li>
-<li><a href="https://windows11.techidaily.com/finding-fixes-for-share-issue-on-nvidia-software/"><u>Finding Fixes for Share Issue on NVIDIA Software</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-windows-unable-to-use-enter-button/"><u>Fixing Windows: Unable to Use Enter Button</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-windows-10-ready-quick-guide-to-downloading-sound-blaster-z-drivers/"><u>Get Your Windows 10 Ready: Quick Guide to Downloading Sound Blaster Z Drivers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-use-luts-to-obs-studio-and-download-free-lut-for-2024/"><u>How to Use LUTs to OBS Studio & Download Free LUT for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-the-blueprint-to-youtube-wealth-smart-strategies-for-facebook-video-marketing/"><u>In 2024, The Blueprint to YouTube Wealth Smart Strategies for Facebook Video Marketing</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-your-go-to-list-asmr-on-phone-platforms/"><u>In 2024, Your Go-To List ASMR on Phone Platforms</u></a></li>
-<li><a href="https://windows11.techidaily.com/integrate-hardware-monitoring-seamlessly-using-windows-widgets/"><u>Integrate Hardware Monitoring Seamlessly Using Windows Widgets</u></a></li>
-<li><a href="https://windows11.techidaily.com/keyboard-command-compendium-for-ms-project-users/"><u>Keyboard Command Compendium for MS Project Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-slow-download-woes-in-battlenet-pcs/"><u>Overcoming Slow Download Woes in Battle.net PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/rescue-a-crippled-windows-settings-application/"><u>Rescue a Crippled Windows Settings Application</u></a></li>
-<li><a href="https://windows11.techidaily.com/revolutionize-your-windows-cars-with-these-five-essentials/"><u>Revolutionize Your Windows Cars with These Five Essentials</u></a></li>
-<li><a href="https://windows11.techidaily.com/stopping-autolock-on-your-computer-screen/"><u>Stopping AutoLock on Your Computer Screen</u></a></li>
-<li><a href="https://windows11.techidaily.com/summoning-windows-11s-masked-search-facilitator/"><u>Summoning Windows 11'S Masked Search Facilitator</u></a></li>
-<li><a href="https://win11.techidaily.com/the-most-reliable-windows-photo-organizer-list/"><u>The Most Reliable Windows Photo Organizer List</u></a></li>
-<li><a href="https://win-guides.techidaily.com/1728508779290-windows-10-c/"><u>Windows 10上保证安全清空 C:驱动器的三种方式</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-extreme-weather-footage-showdown-black-hero5/"><u>[Updated] In 2024, Extreme Weather Footage Showdown Black Hero5</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-device-transcending-entry-editor-leader-of-2023/"><u>2024 Approved Device-Transcending Entry Editor Leader of 2023</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-free-srt-conversion-uncover-top-8-online-options/"><u>2024 Approved Free SRT Conversion Uncover Top 8 Online Options</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-honor-play-8t-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Honor Play 8T? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/download-macx-premium-free-webm-and-mov-converter-for-macos/"><u>Download MacX - Premium Free WebM & MOV Converter for MacOS</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/how-reliable-is-windows-defender-against-viruses-a-deep-dive-with-malwarefox-perspectives/"><u>How Reliable Is Windows Defender Against Viruses: A Deep Dive with MalwareFox Perspectives</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-open-the-control-panel-as-an-administrator-in-windows/"><u>How to Open the Control Panel as an Administrator in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/instructions-to-create-safe-dialogue-for-hardware-disconnect/"><u>Instructions to Create Safe Dialogue for Hardware Disconnect</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-smooth-video-transitions-taming-vlc-lags/"><u>Mastering Smooth Video Transitions: Taming VLC Lags</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-constant-display-of-edge-buttons/"><u>Preventing Constant Display of Edge Buttons</u></a></li>
+<li><a href="https://windows11.techidaily.com/transitioning-to-kali-your-windows-pathway/"><u>Transitioning to Kali: Your Windows Pathway</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-over-wi-fi-errors-addressing-missing-actions-in-prompts/"><u>Winning Over Wi-Fi Errors: Addressing Missing Actions in Prompts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/zero-net-windows-update-a-self-service-manual/"><u>Zero-Net Windows Update: A Self-Service Manual</u></a></li>
 </ul></div>
 

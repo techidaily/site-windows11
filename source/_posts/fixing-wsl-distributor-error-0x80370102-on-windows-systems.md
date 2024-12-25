@@ -1,7 +1,7 @@
 ---
 title: Fixing WSL Distributor Error 0X80370102 on Windows Systems
-date: 2024-12-11T00:53:58.590Z
-updated: 2024-12-16T18:04:48.508Z
+date: 2024-12-20T17:32:47.133Z
+updated: 2024-12-25T18:45:59.656Z
 tags:
   - windows10
   - windows11
@@ -51,10 +51,6 @@ Here is how you can enable Hyper-V on your PC:
 ![Turn Windows features on or off option in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-windows-features-on-or-off.jpg)
 4. In the following dialog, checkmark the box associated with**Hyper-V** and click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Enable Hyper-V in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/hyper-v-setting.jpg)
 5. Once done, restart your computer and check if the issue is resolved. While you are at it, we also recommend checking if the Virtual Machine Platform feature is enabled by following the same steps. If it is disabled, enabling it should help you fix the issue as well.
 
@@ -69,11 +65,19 @@ Here is how you can enable Hyper-V on your PC:
 ![Virtualization in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/virtualization-setting.jpg)
 5. Alternatively, open Run by pressing the**Win + R** keys together.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Type cmd in the text field and press**Ctrl + Shift + Enter** to open Command Prompt as admin.
 7. Click**Yes** in the User Account Control Prompt.
 8. Type systeminfo in Command Prompt and hit Enter.
 9. Wait for the command to execute, and then head over to the**Hyper-V requirements** section. You should be able to see if the Virtualization is enabled from there.  
 ![Check Hyper-V requirements in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/hyper-v-requirements.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the service is disabled,[enabling the Hyper-V technology on Windows](https://www.makeuseof.com/windows-11-enable-hyper-v/) should fix the problem for you.
 
@@ -93,14 +97,18 @@ Here is how you can do that:
 5. Now, click on the**Stop** button, wait for a few seconds, and then hit**Start** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Click on the Start button in the Properties dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/stop-button.jpg)
 6. Once the service is restarted, check if the issue is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Enable Nested Virtualization and Change the RAM Settings
@@ -122,16 +130,8 @@ Set-VMProcessor <VMName> -ExposeVirtualizationExtensions $true
 ![Modify the memory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/configure-hyper-v-dynamic-memory.jpg)
 8. Click**Apply** \>**OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 9. Now, right-click on your virtual machine again and choose**Connect** .
 10. Let the system restart and try installing/running Ubuntu again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The WslRegisterDistribution Error, Fixed
 
@@ -152,19 +152,21 @@ Set-VMProcessor <VMName> -ExposeVirtualizationExtensions $true
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-navigating-google-translate-for-superior-speech-to-text/"><u>[New] In 2024, Navigating Google Translate for Superior Speech-to-Text</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-effective-steps-to-dismiss-videos-in-youtube-watchlater/"><u>[Updated] In 2024, Effective Steps to Dismiss Videos in YouTube Watchlater</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2023/"><u>2023最佳影片背誦軟體總選 - 您的完美助手！</u></a></li>
-<li><a href="https://windows11.techidaily.com/adapting-windows-11-multifaceted-monitor-wallpaper-strategy/"><u>Adapting Windows 11: Multifaceted Monitor Wallpaper Strategy</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-lost-extra-screen-in-w11/"><u>Addressing Lost Extra Screen in W11</u></a></li>
-<li><a href="https://windows11.techidaily.com/augmenting-windows-functionality-with-these-top-6-android-apps/"><u>Augmenting Windows Functionality with These Top 6 Android Apps</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoidance-of-soon-to-end-windows-license-issues/"><u>Avoidance of Soon-to-End Windows License Issues</u></a></li>
-<li><a href="https://windows11.techidaily.com/configure-windows-11-to-optimize-system-audio-performance/"><u>Configure Windows 11 to Optimize System Audio Performance</u></a></li>
-<li><a href="https://windows11.techidaily.com/counteracting-the-impact-of-vac-denial-in-steam-gaming/"><u>Counteracting the Impact of VAC Denial in Steam Gaming</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-vivo-x90s-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Vivo X90S | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-capturing-brilliance-with-the-q500-drone/"><u>In 2024, Capturing Brilliance with the Q500 Drone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-xiaomi-redmi-k70-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Xiaomi Redmi K70 Data? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/remedy-for-accidental-youself-reappearance-during-fb-chats/"><u>Remedy for Accidental 'Youself' Reappearance During FB Chats</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-cellphone-offers-and-discounts-for-independence-day-a-guide-from-zdnet/"><u>Top Cellphone Offers & Discounts for Independence Day: A Guide From ZDNet</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-premiere-pro-solutions-to-perfect-iphone-hd-video-exposure-balance-for-2024/"><u>[New] Premiere Pro Solutions to Perfect iPhone HD Video Exposure Balance for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-tiktok-content-creation-navigating-copyright-rules/"><u>[New] TikTok Content Creation Navigating Copyright Rules</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-prime-websites-boosting-youtube-video-popularity/"><u>[Updated] Prime Websites Boosting YouTube Video Popularity</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-step-by-step-guide-to-producing-quality-mobile-videos-for-2024/"><u>[Updated] Step-by-Step Guide to Producing Quality Mobile Videos for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-set-up-troubleshooter-shortcuts-in-windows-10-and-11/"><u>How to Set Up Troubleshooter Shortcuts in Windows 10 & 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premier-streaming-platforms-reviewed-and-rated/"><u>In 2024, Premier Streaming Platforms Reviewed & Rated</u></a></li>
+<li><a href="https://windows11.techidaily.com/inside-look-7-windows-activities-harboring-risks/"><u>Inside Look: 7 Windows Activities Harboring Risks</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-customization-in-windows-11s-settings/"><u>Mastering Customization in Windows 11'S Settings</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ring-the-market-essential-youtube-finance-channels-for-2024/"><u>Mastering the Market Essential YouTube Finance Channels for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-xboxs-stranded-issue-step-by-step-in-windows-11/"><u>Overcoming Xbox's Stranded Issue, Step-by-Step in Windows 11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-zte-nubia-z60-ultra-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best ZTE Nubia Z60 Ultra Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/proven-strategies-for-effective-phone-note-taking-for-2024/"><u>Proven Strategies for Effective Phone Note-Taking for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fix-guide-for-flaky-windows-scheduled-jobs/"><u>Quick-Fix Guide for Flaky Windows Scheduled Jobs</u></a></li>
+<li><a href="https://windows11.techidaily.com/resetting-typed-position-for-windows-11s-touch-interface/"><u>Resetting Typed Position for Windows 11'S Touch Interface</u></a></li>
+<li><a href="https://windows11.techidaily.com/shine-bright-again-the-5-must-do-fixes-for-dead-backlight-on-windows/"><u>Shine Bright Again: The 5 Must-Do Fixes for Dead Backlight on Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-era-of-on-the-spot-knowledge-with-chatgpt-and-its-significance-to-society/"><u>The Era of On-the-Spot Knowledge with ChatGPT and Its Significance to Society</u></a></li>
 </ul></div>
 

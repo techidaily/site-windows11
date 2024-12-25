@@ -1,7 +1,7 @@
 ---
 title: Essential Steps to Address WinError 0Xc0000005 Instantly
-date: 2024-12-12T19:30:35.730Z
-updated: 2024-12-16T21:42:43.815Z
+date: 2024-12-22T17:36:26.177Z
+updated: 2024-12-25T16:10:03.843Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/157145562d322ac42b18debf7cc17b6e328143a79
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Deactivate Data Execution Prevention (DEP)
@@ -46,7 +46,7 @@ bcdedit.exe /set {current} nx AlwaysOff
 ![cmd](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/cmd.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In this case, you will first have to[disable the Windows secure boot](https://www.makeuseof.com/tag/disable-secure-uefi-dual-boot/) , and then repeat the above steps again.
@@ -54,7 +54,7 @@ bcdedit.exe /set {current} nx AlwaysOff
  That's it—the DEP will be disabled from here on. Now, give your PC a quick reboot and see if the error 0xc0000005 persists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Check Your App's and PC Version and Compatibility
@@ -78,11 +78,11 @@ Similarly, to check the app's version, follow the steps below:
 
 ![installed apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/installed-apps.jpg)
 
- Now check if the app and your operating system are compatible with each other.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Now check if the app and your operating system are compatible with each other.
 
 ## 3\. Apply Some Generic Fixes for Fixing Errors on Windows
 
@@ -98,7 +98,7 @@ Let's go over all of them one by one.
 6. [Perform a Factory Reset](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) : A Factory reset is, as I sometimes like to call it, the "all pulverizer" all Windows problems. It removes your operating system and reinstalls it so you can start again with a clean slate. It's a drastic measure, but sometimes it's the only way to get a Windows error fixed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixing the Error Code 0xc0000005 on a Windows PC
@@ -122,20 +122,20 @@ Let's go over all of them one by one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-broadcast-iptv-across-platforms/"><u>[New] 2024 Approved Broadcast IPTV Across Platforms</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-desktop-recording-battle-go-with-obs-or-shadowplay/"><u>[New] Desktop Recording Battle Go with OBS or ShadowPlay</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-professional-recording-software-for-education-sector/"><u>[Updated] 2024 Approved Professional Recording Software for Education Sector</u></a></li>
-<li><a href="https://windows11.techidaily.com/elevating-your-touch-sensitivity-experience-on-a-windows-laptop/"><u>Elevating Your Touch Sensitivity Experience on a Windows Laptop</u></a></li>
-<li><a href="https://windows11.techidaily.com/eliminating-non-functional-behavior-of-ccleaner-in-windows/"><u>Eliminating Non-Functional Behavior of CCleaner in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/empowered-scripting-in-windows-mastering-execution-policies/"><u>Empowered Scripting in Windows: Mastering Execution Policies</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhance-creativity-ranking-the-best-drawers-for-win-11/"><u>Enhance Creativity: Ranking the Best Drawers for Win 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhance-taskbar-clarity-separate-groups-on-win-11/"><u>Enhance Taskbar Clarity: Separate Groups on Win 11</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/enhanced-connectivity-made-effortless-discover-why-the-clearstream-eclipse-antenna-is-a-game-changer/"><u>Enhanced Connectivity Made Effortless - Discover Why the ClearStream Eclipse Antenna Is a Game Changer</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhancing-efficiency-microsoft-adds-artificial-intelligence-to-windows-11-taskbar/"><u>Enhancing Efficiency: Microsoft Adds Artificial Intelligence to Windows 11 Taskbar</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhancing-note-visibility-with-windows-tools/"><u>Enhancing Note Visibility with Windows Tools</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/precision-tips-for-effective-network-livestreaming-using-vlc/"><u>Precision Tips for Effective Network Livestreaming Using VLC</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/recording-your-sound-on-myspace-a-step-by-step-tutorial-with-myspace-music-recorder/"><u>Recording Your Sound on Myspace: A Step-by-Step Tutorial with Myspace Music Recorder</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/king-your-youtube-music-collection-a-detailed-guide/"><u>Unlocking Your YouTube Music Collection A Detailed Guide</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-from-start-to-finish-a-complete-guide-to-editing-mp4-videos-on-mac-and-windows-for-2024/"><u>Updated From Start to Finish A Complete Guide to Editing MP4 Videos on Mac and Windows for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/levate-your-channels-visibility-through-proven-methods-for-2024/"><u>[New] Elevate Your Channels Visibility Through Proven Methods for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-explore-5-premier-photographers-and-videographers-mixing-tunes/"><u>[New] Explore 5 Premier Photographers & Videographers Mixing Tunes</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitters-top-10-viral-tiktoks-uncovered-for-2024/"><u>[Updated] Twitter's Top 10 Viral TikToks Uncovered for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-unleashing-the-power-of-preparedness-in-your-streams/"><u>[Updated] Unleashing the Power of Preparedness in Your Streams</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unleash-creativity-exclusive-free-youtube-banner-templates/"><u>2024 Approved Unleash Creativity - Exclusive Free YouTube Banner Templates</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-capturing-clarity-ranking-5-excellent-live-stream-devices/"><u>In 2024, Capturing Clarity Ranking 5 Excellent Live Stream Devices</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-google-pixel-foldfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Google Pixel FoldFRP Lock</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, Where Is the Best Place to Catch Dratini On Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-window-11-stealthy-hiding-of-linguistic-signal/"><u>Mastering Window 11: Stealthy Hiding of Linguistic Signal</u></a></li>
+<li><a href="https://windows11.techidaily.com/rapid-dns-flush-techniques-for-win11-devices/"><u>Rapid DNS Flush Techniques for Win11 Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/reigniting-disappearing-windows-on-your-screen-top-6-fixes-for-win11/"><u>Reigniting Disappearing Windows on Your Screen: Top 6 Fixes for Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-counteract-error-x80300024-in-winxp/"><u>Steps to Counteract Error X80300024 in WinXP</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-buyers-guide-to-selecting-a-quality-secondhand-notebook-computer/"><u>The Buyer's Guide to Selecting a Quality Secondhand Notebook Computer</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-secure-access-a-comprehensive-look-at-fixes-for-key-errors-in-win11/"><u>Unlocking Secure Access: A Comprehensive Look at Fixes for Key Errors in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11s-design-faux-pas-a-list-of-7/"><u>Windows 11'S Design Faux Pas: A List of 7</u></a></li>
 </ul></div>
 

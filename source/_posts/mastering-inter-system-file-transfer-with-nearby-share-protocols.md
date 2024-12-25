@@ -1,7 +1,7 @@
 ---
 title: Mastering Inter-System File Transfer with Nearby Share Protocols
-date: 2024-08-08T06:08:09.048Z
-updated: 2024-08-09T06:08:09.048Z
+date: 2024-12-24T19:37:23.975Z
+updated: 2024-12-25T19:37:17.266Z
 tags:
   - windows10
   - windows11
@@ -22,9 +22,6 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
 
 ## What You Need to Share Files Between Android and Windows Using Nearby Share
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![Google's Nearby Share App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/google-s-nearby-share-app-on-windows.jpg)
 
  Image Credit:[Google](https://blog.google/products/android/nearby-share-windows/)
@@ -37,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
 * Both devices should be connected to the same Wi-Fi network and within**16 feet (5 meters)** of each other.
 * Google’s Nearby Share app for Windows is available in most parts of the world except for a few European countries. You can check if your country is supported via[Google Support](https://support.google.com/product-documentation/answer/13470053) , under "availability."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Download and Set Up Google’s Nearby Share App on Windows
 
  To exchange files between your Android phone and Windows PC, you’ll first need to install and set up Google’s Nearby Share app on your computer. Here’s how you can go about it.
@@ -48,9 +49,6 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
 5. Under**Receiving** , specify who is allowed to share files with your computer:**Everyone** ,**Contacts** ,**Your devices** , or**No one** .
 6. Click**Done** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Set Up Google's Nearby Share App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/set-up-google-s-nearby-share-app-on-windows.jpg)
 
 ## How to Use Nearby Share to Send Files From Android to Windows
@@ -66,10 +64,11 @@ To send files from Android to Windows via Nearby Share:
 
 ![Share From Gallery App on Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/share-from-gallery-app-on-android.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Share Files via Nearby Share Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/share-files-via-nearby-share-android.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Transfer Files Using Nearby Share Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/transfer-files-using-nearby-share-android.jpeg)
 
@@ -77,19 +76,20 @@ Close
 
  On your PC, open the Nearby Share app and click**Accept** to receive the file.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Receive Files From Android on Windows With Nearby Share](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/receive-files-from-android-on-windows-with-nearby-share.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  By default, the Nearby Share app will save any files you receive in the**Downloads** folder. To change the default location for saving received files, click the**gear icon** in the Nearby Share app on your PC. Then, click the**Change** button next to**Save received files to** and pick a different location.
 
 ![Change Default Download Location for Google Nearby Share App in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/change-default-download-location-for-google-nearby-share-app-in-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Use Nearby Share to Send Files From Windows to Android
 
  With Nearby Share,[transferring files from your Windows PC to an Android device](https://www.makeuseof.com/tag/5-ways-to-get-data-from-your-desktop-to-your-android/) isn’t too difficult either. Here are the steps you can follow.
@@ -101,10 +101,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  ​​​​​​​​​​​​​​
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Send Files From Windows to Android With Nearby Share](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/send-files-from-windows-to-android-with-nearby-share.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Sharing Made Simple With Nearby Share on Android
 
@@ -112,14 +113,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  If you are looking for more functionality, however, you can use Microsoft’s Phone Link app to access your phone’s contacts, messages, call logs, photos, and more on your Windows PC.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -128,4 +126,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-binge-watching-to-billions-jake-pauls-video-venture/"><u>[Updated] Binge-Watching to Billions Jake Paul's Video Venture</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/top7/"><u>日本語動画圧縮ツールベストセレクションTOP7 - ご推薦サイト</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-maplestory-bugs-a-comprehensive-fix-guide-for-players-using-windows-11/"><u>Beat MapleStory Bugs : A Comprehensive Fix Guide for Players Using Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-overcome-livekernelevent-error-code-117/"><u>Comprehensive Guide: Overcome LiveKernelEvent Error Code 117</u></a></li>
+<li><a href="https://windows11.techidaily.com/five-free-methods-to-jot-down-on-windows-11/"><u>Five Free Methods to Jot Down on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-overcoming-wrong-character-display/"><u>Guide to Overcoming Wrong Character Display</u></a></li>
+<li><a href="https://windows11.techidaily.com/hiding-login-details-deactivating-security-questions-on-windows-11/"><u>Hiding Login Details: Deactivating Security Questions on Windows 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-from-iphone-se-by-drfone-ios/"><u>How to Fix when Apple Account Locked From iPhone SE?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-exploring-the-top-rated-ios-video-capture-apps/"><u>In 2024, Exploring the Top-Rated iOS Video Capture Apps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-ps4-nat-troubles-expert-step-by-step-strategies-that-work/"><u>Overcome PS4 NAT Troubles: Expert Step-by-Step Strategies That Work</u></a></li>
+<li><a href="https://windows11.techidaily.com/reactivating-non-functional-outlook-email-banners/"><u>Reactivating Non-Functional Outlook Email Banners</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-rockalldll-dll-not-found-on-windows-xpvista/"><u>Tackling 'Rockalldll' DLL Not Found on Windows XP/Vista</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlocking-productivity-how-the-hp-copilotplus-laptop-became-my-ultimate-tool-for-successful-telecommuting-a-firsthand-review-by-zdnet/"><u>Unlocking Productivity: How the HP Copilot+ Laptop Became My Ultimate Tool for Successful Telecommuting - A Firsthand Review by ZDNet</u></a></li>
+</ul></div>
 

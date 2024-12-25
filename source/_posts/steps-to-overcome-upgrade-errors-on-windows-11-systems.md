@@ -1,7 +1,7 @@
 ---
 title: Steps to Overcome Upgrade Errors on Windows 11 Systems
-date: 2024-12-12T00:49:30.869Z
-updated: 2024-12-16T20:07:01.457Z
+date: 2024-12-18T17:32:25.885Z
+updated: 2024-12-25T19:55:27.036Z
 tags:
   - windows10
   - windows11
@@ -54,14 +54,10 @@ Additionally, you may also see the following error:
 
 ![pc health check upgrade windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/pc-health-check-upgrade-windows-11.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You may also encounter said error when installing Windows 11 through a bootable drive or setup file from the mounted ISO.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What Is UEFI Boot Mode?
@@ -84,6 +80,10 @@ Additionally, you may also see the following error:
 
  To fix this error, you should set the Boot Mode to UEFI and enable Secure Boot, and then make sure TPM 1.2/2.0 is enabled on your computer. Please note that the tab names may vary between manufacturers, but the instructions should translate roughly across hardware.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Enable Secure Boot in Windows 10
 
 ![Enable Secure Boot UEFI Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Secure-Boot-enabled.png)
@@ -102,7 +102,7 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
  Once you have enabled Secure Boot and UEFI in Boot Mode, make sure TPM 1.2/2.0 is also enabled for your PC. So, don't close the BIOS setup menu yet.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable TMP 1.2/2.0 to fix the "This PC Can't Install Windows 11 Error"
@@ -134,13 +134,13 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
 ![registry editor mosetup new value bypass windows 11 restriction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/registry-editor-mosetup-new-value-bypass-windows-11-restriction.jpg)
 5. Rename the value as**AllowUpgradeWithUnsupportedTPMorCPU.**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Right-click on the newly created value and select**Modify** .  
 ![registry editor mosetup new value 1 bypass windows 11 restriction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/registry-editor-mosetup-new-value-1-bypass-windows-11-restriction.jpg)
 7. In the Value data field, type**1** and click**OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 8. Close the Registry Editor and try to install Windows 11 using the media creation tool or ISO. The upgrade should complete without the error.
 
@@ -157,7 +157,7 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
  If the bootable drive does not show up in the Boot Manager after enabling Secure Boot, ensure it is formatted with the UEFI system in Rufus. If not, create a bootable drive again with the target system set to UEFI (CMS).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixing the This PC Can't Run Windows 11 Error
@@ -179,17 +179,22 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-humor-hierarchy-the-20-most-popular-memes-for-2024/"><u>[New] Humor Hierarchy The 20 Most Popular Memes for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-detailed-guide-to-enhancing-your-digital-art-with-picsart/"><u>[New] In 2024, Detailed Guide to Enhancing Your Digital Art with PicsArt</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-finding-yt-comments-tips-for-desktop-iphone-android-users/"><u>[New] In 2024, Finding YT Comments Tips for Desktop, iPhone, Android Users</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-pioneering-techniques-in-hand-based-tracking/"><u>[New] Pioneering Techniques in Hand-Based Tracking</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-exposing-effective-promotions/"><u>[Updated] In 2024, Exposing Effective Promotions</u></a></li>
-<li><a href="https://windows11.techidaily.com/4-ways-to-check-the-hardware-ids-of-your-devices-on-windows/"><u>4 Ways to Check the Hardware IDs of Your Devices on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-guide-to-overhauling-the-settings-app-in-win11/"><u>A Guide to Overhauling the Settings App in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoid-decreased-size-of-your-windows-11-icons/"><u>Avoid Decreased Size of Your Windows 11 Icons</u></a></li>
-<li><a href="https://windows11.techidaily.com/breaking-down-the-workflow-of-windows-11s-recovery-features/"><u>Breaking Down the Workflow of Windows 11'S Recovery Features</u></a></li>
-<li><a href="https://windows11.techidaily.com/create-your-own-windows-speech-recognition-app-with-autohotkey-and-whisper/"><u>Create Your Own Window's Speech Recognition App with AutoHotkey and Whisper</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/snap-away-the-best-cams-for-novice-photographers-for-2024/"><u>Snap Away The Best Cams for Novice Photographers for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Xiaomi Redmi 13C 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/efeat-bot-intruders-elevate-video-engagement/"><u>[New] Defeat Bot Intruders, Elevate Video Engagement</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-producing-channel-trailer-synopses-a-guide/"><u>[New] In 2024, Producing Channel Trailer Synopses A Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-elevate-your-content-top-rated-cameras-for-youtubers/"><u>[Updated] In 2024, Elevate Your Content Top-Rated Cameras for YouTubers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-writing-engaging-documentary-stories-for-2024/"><u>[Updated] Writing Engaging Documentary Stories for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/beginning-your-journey-with-windows-live-mesh-2011-the-ultimate-guide-for-seamless-data-management/"><u>Beginning Your Journey with Windows Live Mesh 2011 – The Ultimate Guide for Seamless Data Management</u></a></li>
+<li><a href="https://windows11.techidaily.com/check-out-the-most-recent-updates-to-microsoft-office-suite-whats-new/"><u>Check Out the Most Recent Updates to Microsoft Office Suite: What's New?</u></a></li>
+<li><a href="https://windows11.techidaily.com/complete-guide-securing-data-with-cell-locking-techniques-in-excel/"><u>Complete Guide: Securing Data with Cell Locking Techniques in Excel</u></a></li>
+<li><a href="https://windows11.techidaily.com/effective-techniques-to-compress-data-within-cells-using-microsoft-excel/"><u>Effective Techniques to Compress Data Within Cells Using Microsoft Excel</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-methods-for-identifying-and-enclosing-erroneous-data-points-in-microsoft-excel/"><u>Efficient Methods for Identifying and Enclosing Erroneous Data Points in Microsoft Excel</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficiently-planning-tasks-using-excels-gantt-chart-technique/"><u>Efficiently Planning Tasks Using Excel's Gantt Chart Technique</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/enhancing-visuals-through-effective-music-addition-techniques-in-premiere-pro/"><u>Enhancing Visuals Through Effective Music Addition Techniques in Premiere Pro</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-your-data-visualization-tutorial-on-secondary-axis-management-in-excel-charts/"><u>Enhancing Your Data Visualization: Tutorial on Secondary Axis Management in Excel Charts</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-word-2003-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signature - For Word 2003</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/how-to-say-hello-in-french-12-useful-french-greetings/"><u>How to Say Hello in French: 12 Useful French Greetings</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-microsoft-excel-a-comprehensive-guide-with-12-tricks-for-correcting-faulty-formulas/"><u>Master Microsoft Excel: A Comprehensive Guide with 12 Tricks for Correcting Faulty Formulas</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-mastering-the-art-of-creating-lithophane-photo-paper-through-3d-printing/"><u>Step-by-Step Guide: Mastering the Art of Creating Lithophane Photo Paper Through 3D Printing</u></a></li>
+<li><a href="https://win11.techidaily.com/the-perfect-sync-blueprint-for-android-plus-microsoft-os/"><u>The Perfect Sync Blueprint for Android + Microsoft OS</u></a></li>
 </ul></div>
 

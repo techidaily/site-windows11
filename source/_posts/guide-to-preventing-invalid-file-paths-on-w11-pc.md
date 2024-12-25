@@ -1,7 +1,7 @@
 ---
 title: Guide to Preventing Invalid File Paths on W11 PC
-date: 2024-12-15T16:09:09.221Z
-updated: 2024-12-16T20:41:47.206Z
+date: 2024-12-24T17:33:19.892Z
+updated: 2024-12-25T19:52:11.331Z
 tags:
   - windows10
   - windows11
@@ -25,15 +25,15 @@ thumbnail: https://thmb.techidaily.com/aa9290eddc8ec2cc97b63ee765b598d95b8b81e9c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Remove the Temporary Files on Windows
 
  There’s a chance you might’ve forgotten about your system's temporary files, as Windows does a pretty good job at managing them. But if your computer’s temporary files are taking too much space, or they somehow got corrupted, you’ll experience several issues, including the “make sure your temp folder is valid” error.
 
  To fix it, check out[how to delete Windows' temporary files](https://www.makeuseof.com/windows-11-delete-temporary-files/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Disable Read-Only Access
 
@@ -51,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/aa9290eddc8ec2cc97b63ee765b598d95b8b81e9c
 7. Click**Apply > OK** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. Restart your computer and check if the problem is now solved.
@@ -63,12 +63,16 @@ thumbnail: https://thmb.techidaily.com/aa9290eddc8ec2cc97b63ee765b598d95b8b81e9c
  Right-click the EXE file and select**Send to > Compressed (Zipped)** . Windows will create a zipped folder with the same name. Open the folder and launch the installer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Run the Windows Memory Diagnostic Tool
 
  The inability to install new software on your Windows 11 computer, might be caused by memory-related issues. If you try to install an app and Windows keeps freezing, you should[run the Windows Memory Diagnostic tool](https://www.makeuseof.com/windows-memory-diagnostic-tool-guide/) to fix the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Clean Boot Your System
 
@@ -82,10 +86,6 @@ thumbnail: https://thmb.techidaily.com/aa9290eddc8ec2cc97b63ee765b598d95b8b81e9c
 
  If you think your PC is infected, be sure to[perform an offline scan with Microsoft Defender](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) to ensure nothing is lurking in your PC.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Reset Your Computer
 
  If nothing worked until now, and you can’t install anything on your computer, you should[reset your computer](https://www.makeuseof.com/windows-11-factory-reset-without-admin-password/) . Fortunately, Windows allows you to use the**Cloud download** option, so you can keep your files while it removes all third-party apps on your computer.
@@ -93,7 +93,7 @@ thumbnail: https://thmb.techidaily.com/aa9290eddc8ec2cc97b63ee765b598d95b8b81e9c
 ![Reset Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/reset-windows-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix Windows 11's Temp Files With These Tips
@@ -117,16 +117,16 @@ thumbnail: https://thmb.techidaily.com/aa9290eddc8ec2cc97b63ee765b598d95b8b81e9c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-economical-microphones-catered-to-vloggers-for-2024/"><u>[New] Economical Microphones Catered to Vloggers for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-achieving-peak-performance-in-video-submissions-on-youtube-for-2024/"><u>[Updated] Achieving Peak Performance in Video Submissions on YouTube for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/algorithmic-humorists-at-play-will-tech-tickle-us/"><u>Algorithmic Humorists at Play: Will Tech Tickle Us?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/easy-tips-for-switching-between-landscape-and-portrait-modes-on-a-laptop-screen/"><u>Easy Tips for Switching Between Landscape and Portrait Modes on a Laptop Screen</u></a></li>
-<li><a href="https://windows11.techidaily.com/elevate-your-desktop-8-winbubble-methods-for-window-tailoring/"><u>Elevate Your Desktop: 8 WinBubble Methods for Window Tailoring</u></a></li>
-<li><a href="https://windows11.techidaily.com/enablingdisabling-wi-fi-cost-monitor-in-win11/"><u>Enabling/Disabling Wi-Fi Cost Monitor in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhance-performance-with-customized-windows-11-configurations/"><u>Enhance Performance with Customized Windows 11 Configurations</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhance-productivity-unleash-potential-via-flow-launcher/"><u>Enhance Productivity: Unleash Potential via Flow Launcher</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhancing-user-identity-management-in-win11-pro/"><u>Enhancing User Identity Management in Win11 Pro</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/t-tips-for-selecting-lenses-as-a-video-blogger-for-2024/"><u>Expert Tips for Selecting Lenses as a Video Blogger for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-infinix-smart-7-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Infinix Smart 7 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pinnacle-business-cloud-haven/"><u>[Updated] Pinnacle Business Cloud Haven</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-elevate-your-edm-game-with-free-state-of-the-art-beat-detectors/"><u>2024 Approved Elevate Your EDM Game with FREE, State-of-the-Art Beat Detectors</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-streamline-your-youtube-shorts-thumbnail-process/"><u>2024 Approved Streamline Your YouTube Shorts Thumbnail Process</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-advice-optimizing-your-3d-printers-performance-with-regular-nozzle-maintenance/"><u>Expert Advice: Optimizing Your 3D Printer's Performance with Regular Nozzle Maintenance</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-windows-canary-a-guide-for-first-timers/"><u>Exploring Windows Canary: A Guide for First-Timers</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/hasten-recovering-deleted-snaps-for-2024/"><u>Hasten Recovering Deleted Snaps for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-comprehensive-analysis-bublcams-360-vision/"><u>In 2024, Comprehensive Analysis Bublcam's 360 Vision</u></a></li>
+<li><a href="https://windows11.techidaily.com/insights-into-ftdibussys-the-implications-for-windows-memory-safety/"><u>Insights Into ftdibus.sys: The Implications for Windows Memory Safety</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-memory-safety-in-windows-11s-system-settings/"><u>Restoring Memory Safety in Windows 11'S System Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-silent-setbacks-ccleaner-issues-in-windows-11/"><u>Solving Silent Setbacks: CCleaner Issues in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategic-steps-launching-your-admin-privileged-powershell-console/"><u>Strategic Steps: Launching Your Admin Privileged PowerShell Console</u></a></li>
 </ul></div>
 

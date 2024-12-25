@@ -1,7 +1,7 @@
 ---
 title: Mastering Windows 11'S Multimedia Control Panel
-date: 2024-12-13T17:54:12.064Z
-updated: 2024-12-17T00:00:05.100Z
+date: 2024-12-24T17:07:34.863Z
+updated: 2024-12-25T16:31:44.944Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Use the Run Command Line
@@ -33,11 +33,11 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 
 ![Open Volume Mixer Using Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-volume-mixer-using-run-command.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now click**OK** or hit Enter on your keyboard. You will see the Volume Mixer window where you can adjust individual programs' volume.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Use Taskbar Volume Icon
 
@@ -45,7 +45,15 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 
 ![Open Volume Mixer Using the Taskbar Volume Icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-volume-mixer-using-the-taskbar-volume-icon.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This will open the Volume Mixer window where you can control the volume levels of different applications and adjust their output devices.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Use the Control Panel
 
@@ -70,14 +78,10 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 ![Open Volume Mixer Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-volume-mixer-using-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the Task Manager window, click**Run new task** and type**sndvol.exe** in the Create new task window. Finally, click**OK** to launch Volume Mixer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Use the Command Prompt
 
@@ -86,7 +90,7 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 ![Open Volume Mixer Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-volume-mixer-using-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the Command Prompt window, type**sndvol.exe** , and hit Enter again. This will open Volume Mixer immediately, allowing you to adjust the volume of each application from there.
@@ -111,10 +115,6 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 
  Then, enter a name for the shortcut and click**Finish** . This will create a shortcut on the desktop, and you can double-click on it to open Volume Mixer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Get Quick and Easy Access to the Volume Mixer
 
  In this article, you will find eight ways to open Volume Mixer on your PC. It allows you to customize individual application volumes within Windows to meet your specific needs. Give them a shot and see which works best for you.
@@ -134,22 +134,24 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-stream-your-webcam-in-real-time-using-vlc-software/"><u>[New] 2024 Approved Stream Your Webcam in Real Time Using VLC Software</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-from-parts-to-project-designing-your-own-4k-pc-workstation/"><u>[New] From Parts to Project Designing Your Own 4K PC Workstation</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-elite-fighters-unleashed-selecting-superior-street-fighter-clones/"><u>[Updated] 2024 Approved Elite Fighters Unleashed Selecting Superior Street Fighter Clones</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-eliminate-the-sneaky-youtube-thumbnail-glimpse/"><u>[Updated] Eliminate the Sneaky YouTube Thumbnail Glimpse</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-navigating-zoom-with-skype-a-guide-to-seamless-video-calls/"><u>[Updated] Navigating Zoom with Skype A Guide to Seamless Video Calls</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/bringing-microsofts-copilot-artificial-intelligence-directly-to-your-typing-experience/"><u>Bringing Microsoft's Copilot Artificial Intelligence Directly to Your Typing Experience</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-tips-for-win11-defender-firewall-control/"><u>Essential Tips for Win11 Defender Firewall Control</u></a></li>
-<li><a href="https://windows11.techidaily.com/expert-tactics-to-unite-windows-directories/"><u>Expert Tactics to Unite Windows Directories</u></a></li>
-<li><a href="https://windows11.techidaily.com/handling-abnormal-character-output-windows-wise/"><u>Handling Abnormal Character Output Windows-Wise</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-y100-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo Y100 5G Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-hardware-space-exploring-disks-in-w10-and-w11/"><u>Mastering Hardware Space: Exploring Disks in W10 & W11</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-windows-non-detected-proxy-setup/"><u>Navigating Windows Non-Detected Proxy Setup</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-tip-erasing-microsoft-edge-on-windows-11/"><u>Quick Tip: Erasing Microsoft Edge on Windows 11</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-restoring-functionality-in-internet-explorer-failures/"><u>Troubleshooting Guide: Restoring Functionality in Internet Explorer Failures</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-vlc-lag-on-windows-devices/"><u>Troubleshooting VLC Lag on Windows Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/unleashing-quick-deletion-windows-customization-for-instant-removal/"><u>Unleashing Quick Deletion: Windows Customization for Instant Removal</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-eluding-prying-eyes-privacy-preserving-video-editing/"><u>[New] Eluding Prying Eyes Privacy-Preserving Video Editing</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-champion-phonographs-for-seminar-sessions/"><u>[Updated] Champion Phonographs for Seminar Sessions</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-guide-to-writing-enthralling-videography-content/"><u>[Updated] Guide to Writing Enthralling Videography Content</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-expert-tips-for-enhancing-ppts-with-auditory-content/"><u>2024 Approved Expert Tips for Enhancing PPTs with Auditory Content</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-fixes-for-a-frozen-windows-11-search-box-within-settings-app/"><u>Essential Fixes for a Frozen Windows 11 Search Box Within Settings App</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/experience-personalized-ai-assistance-free-and-locally-installed-chatgpt-clone-with-gpt4all-on-windows/"><u>Experience Personalized AI Assistance: Free and Locally Installed ChatGPT Clone with GPT4All on Windows</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-nokia-c32-by-drfone-android/"><u>In 2024, How to Bypass FRP from Nokia C32?</u></a></li>
+<li><a href="https://windows11.techidaily.com/microsofts-windows-11-reimagined-with-ai-infused-taskbar-companion/"><u>Microsoft's Windows 11 Reimagined with AI-Infused Taskbar Companion</u></a></li>
+<li><a href="https://win11.techidaily.com/recommended-fixes-for-unresponsive-run-as-admin-feature/"><u>Recommended Fixes for Unresponsive Run as Admin Feature</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-file-overload-utilizing-windows-automatic-cleanup/"><u>Tackling File Overload: Utilizing Windows' Automatic Cleanup</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailoring-new-interface-redesigned-widgets-chooser-for-win11/"><u>Tailoring New Interface: Redesigned Widgets Chooser for Win11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-samsung-galaxy-watch3-through-a-critical-lens-classic-elegance-pairing-with-latest-innovations/"><u>The Samsung Galaxy Watch3 Through a Critical Lens: Classic Elegance Pairing With Latest Innovations</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-troubleshooting-photoscape-on-new-windows-systems/"><u>Tips for Troubleshooting Photoscape on New Windows Systems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-5-free-online-sites-for-downloading-music-a-comprehensive-list/"><u>Top 5 FREE Online Sites for Downloading Music: A Comprehensive List</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-oled-laptop-picks-thoroughly-analyzed-and-endorsed-by-professionals-techradar/"><u>Top-Ranking OLED Laptop Picks : Thoroughly Analyzed & Endorsed by Professionals | TechRadar</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-access-denied-message-in-microsoft-office-for-pc/"><u>Troubleshooting 'Access Denied' Message in Microsoft Office for PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-unresponsive-copypaste-on-windows-11/"><u>Troubleshooting Unresponsive Copy/Paste on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unshackling-from-the-internet-localized-onedrive-usage/"><u>Unshackling From the Internet: Localized OneDrive Usage</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-windows-11-shortcut-wizardry-for-efficient-control/"><u>Unveiling Windows 11 Shortcut Wizardry for Efficient Control</u></a></li>
 </ul></div>
 

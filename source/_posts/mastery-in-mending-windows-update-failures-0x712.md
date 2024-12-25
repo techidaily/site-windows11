@@ -1,7 +1,7 @@
 ---
 title: "Mastery in Mending Windows Update Failures: 0X712"
-date: 2024-12-11T18:00:45.683Z
-updated: 2024-12-16T16:54:46.993Z
+date: 2024-12-18T16:23:09.996Z
+updated: 2024-12-25T17:45:55.054Z
 tags:
   - windows10
   - windows11
@@ -36,6 +36,11 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
 5. Then, click on the**Run** button to start the troubleshooter.  
 ![Windows Update Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-update-troubleshooter.jpg)
 6. Wait for the Windows Update troubleshooter to identify problems. Click on the**Next** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Close the troubleshooter window and reattempt the Windows update installation.
 
 ## 2\. Perform a Complete system shutdown
@@ -49,6 +54,10 @@ Here’s how to perform a complete system shutdown:
 3. Type the**shutdown /s /f /t 0** command and press the**enter** key.
 4. Your system will power off. It will take a tad bit longer that a normal shutdown procedure.
 5. Now, restart your Windows PC and try to install the Windows update.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Restart Windows Update services
 
@@ -65,10 +74,6 @@ Repeat the following steps to start the necessary services:
 5. Similarly, set all the services as automatic and manually start them.
 6. **Close** the Services window and reattempt the Windows update.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Run the Disk Cleanup Tool
 
  Disk Cleanup can wipe the delivery optimization files, old Windows update files as well as the Temp folder. If files in these locations are corrupted, they can interfere with the normal update process. Here’s how to run disk cleanup on Windows:
@@ -81,13 +86,13 @@ Repeat the following steps to start the necessary services:
 5. Disk Cleanup will close and redirect you to pick the appropriate drive. Click on the**OK** button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Lastly, click on the**Delete files** button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Rename the SoftwareDistribution Folder
@@ -106,16 +111,16 @@ Repeat the following steps:
 ![Rename the SoftwareDistribution Folder 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rename-the-softwaredistribution-folder-2.jpg)
 4. Both the above commands rename the**SoftwareDistribution** folder and**Catroot2** folder.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Now, you need to restart all the Windows services you stopped in step 3\. Enter the following commands:  
 net start wuauserv net start cryptSvc net start bits net start msiserver  
 ![Rename the SoftwareDistribution Folder 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rename-the-softwaredistribution-folder-3.jpg)
 6. Lastly,**restart** your system and visit the following folder location:**C:\\Windows** . You will notice that there is a new SoftwareDistribution folder in that location.
 
 7. Open the Windows update in Settings and try to download and install updates.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Delete the Pending.xml file
 
@@ -129,10 +134,6 @@ Retrace the following steps to delete the pending.xml file:
 4. Press the**Shift** key and click on the**Delete** option.
 5. Restart your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Manually Download Windows Updates
 
  If you are unable to download a specific Windows update using the Settings page, consider a direct download and install approach. Visit the Microsoft Update Catalog website and search for the KB update you want to download. However, you first have to check the corresponding update number which is failing to download and install on your system.
@@ -140,7 +141,7 @@ Retrace the following steps to delete the pending.xml file:
 ![Manually Download Windows Updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/manually-download-windows-updates.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Reset Windows
@@ -166,22 +167,17 @@ Retrace the following steps to delete the pending.xml file:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-creating-stunning-instagram-profile-screenshots/"><u>[New] Creating Stunning Instagram Profile Screenshots</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-essential-virtual-worlds-worth-playing/"><u>[New] In 2024, Essential Virtual Worlds Worth Playing</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoiding-pitfalls-of-unknown-not-initialized-disks-on-windows/"><u>Avoiding Pitfalls of Unknown Not Initialized Disks on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/choosing-a-fresh-termbackground-pic/"><u>Choosing a Fresh TermBackground Pic</u></a></li>
-<li><a href="https://windows11.techidaily.com/choosing-your-win-software-downloader-choco-versus-wslm/"><u>Choosing Your Win Software Downloader: Choco Versus WSLM</u></a></li>
-<li><a href="https://windows11.techidaily.com/comprehending-cab-files-within-the-windows-ecosystem/"><u>Comprehending CAB Files Within the Windows Ecosystem</u></a></li>
-<li><a href="https://windows11.techidaily.com/correct-keyboard-fixes-for-windows-11s-unresponsive-f-keys/"><u>Correct: Keyboard Fixes for Windows 11'S Unresponsive F Keys</u></a></li>
-<li><a href="https://windows11.techidaily.com/deciphering-the-workings-of-windows-memory-cache/"><u>Deciphering the Workings of Windows Memory Cache</u></a></li>
-<li><a href="https://windows11.techidaily.com/directing-system-thermal-output-with-customization/"><u>Directing System Thermal Output with Customization</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/free-conversion-guide-transforming-heic-images-into-png-format-on-various-versions-of-windows/"><u>Free Conversion Guide: Transforming HEIC Images Into PNG Format on Various Versions of Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719207064707-ifas-hottest-laptops-unveiled/"><u>IFA's Hottest Laptops Unveiled</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-oppo-reno-9a-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Oppo Reno 9A</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-xiaomi-redmi-13c-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Xiaomi Redmi 13C Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://blog-min.techidaily.com/netflix-arashi/"><u>Netflix ARASHIドキュメンタリーの保存方法：ダウンロードと再生解除前にレコーディング完了ガイド</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unlocking-the-art-of-l-slow-in-action-photography-with-hero-10/"><u>Unlocking the Art of L-Slow in Action Photography with Hero 10</u></a></li>
-<li><a href="https://solve-info.techidaily.com/upgrading-your-pcs-cpu-a-step-by-step-guide-from-yl-computing/"><u>Upgrading Your PC's CPU: A Step-by-Step Guide From YL Computing</u></a></li>
-<li><a href="https://change-location.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Vivo G2? | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-uncluttered-focus-affinity-photos-cleanup-technique-for-2024/"><u>[New] Uncluttered Focus Affinity Photo's Cleanup Technique for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-unveiling-the-asus-mg28uq-the-future-of-4k-gaming-screens/"><u>[Updated] 2024 Approved Unveiling the ASUS MG28UQ The Future of 4K Gaming Screens</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-conveniently-keep-your-linkedin-videos-with-these-6-apps/"><u>[Updated] Conveniently Keep Your LinkedIn Videos with These 6 Apps</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-balancing-act-watching-multiple-videos-on-one-screen/"><u>2024 Approved Balancing Act Watching Multiple Videos on One Screen</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-techniques-to-get-rid-of-programs-missing-from-system-settings/"><u>Expert Techniques to Get Rid of Programs Missing From System Settings</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-mastering-youtube-cards-and-markup-tips/"><u>In 2024, Mastering YouTube Cards & Markup Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-of-multitasking-reviving-non-operational-keys-in-windows-os/"><u>Mastery of Multitasking: Reviving Non-Operational Keys in Windows OS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavi-video-editor-gratis-installazione-facile-e-download-assolutamente-sicuro/"><u>Movavi Video Editor Gratis - Installazione Facile E Download Assolutamente Sicuro</u></a></li>
+<li><a href="https://windows11.techidaily.com/restore-missing-bluetooth-top-9-fixes-for-windows-11-users/"><u>Restore Missing Bluetooth: Top 9 Fixes for Windows 11 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-windows-11-browsing-key-techniques-unveiled/"><u>Streamlining Windows 11 Browsing: Key Techniques Unveiled</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-global-dialogues-utilizing-hotkey-tricks-in-windows-language-switching/"><u>Unlock Global Dialogues: Utilizing Hotkey Tricks in Windows Language Switching</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-the-power-of-painting-ms-paint-in-windows-11/"><u>Unlocking the Power of Painting: MS Paint in Windows 11</u></a></li>
 </ul></div>
 

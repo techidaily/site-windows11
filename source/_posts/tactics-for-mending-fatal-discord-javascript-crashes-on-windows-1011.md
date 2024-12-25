@@ -1,7 +1,7 @@
 ---
 title: Tactics for Mending Fatal Discord Javascript Crashes on Windows 10/11
-date: 2024-12-15T16:51:33.082Z
-updated: 2024-12-16T20:47:59.299Z
+date: 2024-12-20T16:16:32.950Z
+updated: 2024-12-25T19:15:57.409Z
 tags:
   - windows10
   - windows11
@@ -44,15 +44,7 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 ![The Uninstall BetterDiscord option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-betterdiscord-option.jpg)
 7. Choose a**Discord** version.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8. Click**Uninstall** to finish.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Delete Discord’s Data Folders
 
@@ -66,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 4. Terminate all Discord-related processes by selecting them and clicking their**End task** options.  
 ![A Discord-related processes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/discord-related-process.jpg)
 5. Open Windows Explorer with**Win + E** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Type**%appdata%** inside Explorer’s address bar and press**Return** .
 7. Then select the Discord data folder and click Explorer's**Delete** option on the**Home** tab or command bar.  
@@ -91,14 +87,10 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 8. Next, double-click**DiscordSet.exe** in whatever file your browser downloaded it in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 9. Go through Discord’s installation wizard to reinstall the software.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Disable Any Third-Party Antivirus Tools
 
@@ -118,10 +110,6 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 4. Toggle off the**Real-time protection** option to disable background antivirus scanning.  
 ![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/real-time-protection-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Check the Quality Windows Audio Video Experience Service is Enabled
 
  Quality Windows Audio Video Experience is a service for improving audio and video streaming performance. That’s an important service to have enabled and running for Discord. So, check that qWave is turned on and running as follows:
@@ -133,21 +121,33 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 4. Then double-click**Quality Windows Audio Video Experience** inside the Services window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. If Quality Windows Audio Video Experience is disabled, select the**Automatic** startup option.  
 ![The Startup type drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-startup-type-drop-down-menu.jpg)
 6. Press the service’s**Start** button.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Select**Log On** at the top of the service’s properties window.  
 ![The Log On tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/this-account-radio-button.jpg)
 8. Click**Browse** for the**This account** radio button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 9. Input your user account within the**Enter** object name box.
 10. Click**OK** to close out of the Select user window.
 11. To save the service’s new settings, select its**Apply** option.
 12. Then exit the window by selecting**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Start Chatting in Discord Again on Windows
 
@@ -168,24 +168,19 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-critical-review-of-vlcs-capture-tools/"><u>[New] 2024 Approved Critical Review of VLC's Capture Tools</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-mastering-switch-pro-controller-in-steam-gaming/"><u>[New] Mastering Switch Pro Controller in Steam Gaming</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-a-detailed-walkthrough-of-internet-radio-logging/"><u>[New] The Ultimate Guide A Detailed Walkthrough of Internet Radio Logging</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-mastering-durecorder-complete-breakdown/"><u>[Updated] 2024 Approved Mastering DuRecorder Complete Breakdown</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-navigating-the-secrets-of-funimate-download/"><u>2024 Approved Navigating the Secrets of Funimate Download</u></a></li>
-<li><a href="https://windows11.techidaily.com/6-essential-rotation-tips-for-windows-11-photos/"><u>6 Essential Rotation Tips for Windows 11 Photos</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-journey-into-innovation-windows-11-writes-the-next-chapter/"><u>A Journey Into Innovation - Windows 11’ Writes the Next Chapter</u></a></li>
-<li><a href="https://windows11.techidaily.com/accessing-control-panel-with-ease-on-pcs/"><u>Accessing Control Panel with Ease on PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-vagrant-boot-failures-on-win11plusvmware/"><u>Addressing Vagrant Boot Failures on Win11+VMware</u></a></li>
-<li><a href="https://windows11.techidaily.com/advanced-strategies-for-overcoming-win11-installer-challenges/"><u>Advanced Strategies for Overcoming Win11 Installer Challenges</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/budget-no-more-top-5-free-visual-effect-sites-for-2024/"><u>Budget No More! Top 5 FREE Visual Effect Sites for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/cease-windows-logging-for-app-execution-dates/"><u>Cease Windows' Logging for App Execution Dates</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719314513697-combat-snip-and-sketch-failures-a-guide-to-capturing-entire-display/"><u>Combat Snip & Sketch Failures: A Guide to Capturing Entire Display.</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-and-overcoming-0x80072af9-errors/"><u>Decoding and Overcoming 0X80072AF9 Errors</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-and-resolving-directdraw-errors-on-win1011/"><u>Decoding and Resolving DirectDraw Errors on WIN10/11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/fifty-bucks-for-freedom-breaking-through-mobile-phone-ransomware-with-ais-help-in-our-podcast-evolution/"><u>Fifty Bucks for Freedom: Breaking Through Mobile Phone Ransomware with AI's Help in Our Podcast Evolution!</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Honor 90? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-motherboard-selection-a-checklist-of-seven-crucial-points/"><u>Mastering Motherboard Selection: A Checklist of Seven Crucial Points</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/recover-any-lost-or-missed-out-notes-from-your-iphone-software-expertise-revealed/"><u>Recover Any Lost or Missed Out Notes From Your iPhone: Software Expertise Revealed</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-linking-your-favorite-tiktoks-seamlessly-to-facebook-for-2024/"><u>[New] Linking Your Favorite TikToks Seamlessly to Facebook for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-tech-insights-the-best-browser-screen-capture-tools-of-the-year-for-2024/"><u>[New] Tech Insights The Best Browser Screen Capture Tools of the Year for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-big-sur-basics-for-system-and-hardware-enthusiasts/"><u>[Updated] 2024 Approved Big Sur Basics for System & Hardware Enthusiasts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-transcript-download-analyze-content/"><u>[Updated] In 2024, Transcript Download, Analyze Content</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-the-rumors-surrounding-sony-afeela-an-inside-look-at-expected-price-points-release-plans-and-advanced-features/"><u>Decoding the Rumors Surrounding Sony AFEELA: An Inside Look at Expected Price Points, Release Plans, and Advanced Features!</u></a></li>
+<li><a href="https://win-bits.techidaily.com/fix-and-improve-performance-steps-to-take-if-your-graphics-unit-stops-functioning-expert-advice-from-yl-computing/"><u>Fix and Improve Performance: Steps to Take If Your Graphics Unit Stops Functioning – Expert Advice From YL Computing</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-tutorial-on-integrating-your-pc-with-a-tv-display/"><u>Step-by-Step Tutorial on Integrating Your PC with a TV Display</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-tutorial-activating-and-deactivating-secure-login-in-windows-11/"><u>Step-by-Step Tutorial: Activating and Deactivating Secure Login in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-access-how-windows-subsystem-for-linux-is-becoming-more-user-friendly/"><u>Streamlining Access: How Windows Subsystem for Linux Is Becoming More User-Friendly</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-complete-guide-to-canva-audio-amendments/"><u>The Complete Guide to Canva Audio Amendments</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-4-cost-free-applications-for-monitoring-and-optimizing-your-windows-pcs-storage/"><u>Top 4 Cost-Free Applications for Monitoring and Optimizing Your Windows PC's Storage</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-essential-windows-applications-the-must-have-software-tools-and-their-importance/"><u>Top Essential Windows Applications: The Must-Have Software Tools & Their Importance</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-windows-10-built-in-apps-crashing-issues/"><u>Troubleshooting Windows 10 Built-In Apps Crashing Issues</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/unlock-the-secrets-of-stellar-snaps-and-snapchat-boomers/"><u>Unlock the Secrets of Stellar Snaps and Snapchat Boomers</u></a></li>
 </ul></div>
 

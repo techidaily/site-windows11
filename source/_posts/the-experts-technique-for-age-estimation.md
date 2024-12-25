@@ -1,7 +1,7 @@
 ---
 title: The Expert's Technique for Age Estimation
-date: 2024-12-16T00:48:31.311Z
-updated: 2024-12-17T00:26:31.482Z
+date: 2024-12-21T19:38:37.078Z
+updated: 2024-12-25T19:03:55.781Z
 tags:
   - windows10
   - windows11
@@ -49,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/83810aeb2f4e9067a8450e307f943cc7eb4a02a55
 ![command prompt serial number laptop 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/command-prompt-serial-number-laptop-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the serial number is not visible or the sticker is removed, you can use Windows Management Instrumentation command-line utility to recover your computer's serial number.
@@ -62,9 +62,17 @@ thumbnail: https://thmb.techidaily.com/83810aeb2f4e9067a8450e307f943cc7eb4a02a55
 wmic bios get serial number
 4. The output will display your device's serial number. Use the same to check your device's warranty status and more using the steps in the first method.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Check the BIOS Version Using the System Information Utility
 
 ![system information bios version details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-information-bios-version-details.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you need to know the manufacturing date, check the BIOS version. You can [use the System Information utility on Windows to check the BOS version](https://www.makeuseof.com/windows-11-check-system-information/), including the date it was installed.
 
@@ -83,10 +91,6 @@ systeminfo.exe
  The above command will execute the system information command-line version and show all the essential details of your computer. Locate the BIOS Version entry and check the date.
 
  Important to note that if your system has received a BIOS update, the date will reflect the latest update date and not the manufacturer date.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Check the Windows Installation Method Using the Command Prompt
 
@@ -113,7 +117,7 @@ systeminfo | find /I "install date"
 ![Hp support assistant battery health](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/hp-support-assistant-battery-health.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Laptop manufacturers like HP, Dell, Lenovo, and Asus offer free applications to maintain your devices. For example, HP's Support Assistant lets you access your product information, including model name, product ID, serial number, and Warranty Status.
@@ -121,7 +125,7 @@ systeminfo | find /I "install date"
  Battery status is another critical bit of information that you may find useful. It displays the battery's health and age to help you gauge how old your system is. Especially when you want to buy a second-hand laptop, knowing battery health can help you bargain the right price.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Tell Your Desktop Computer Age
@@ -129,10 +133,6 @@ systeminfo | find /I "install date"
  You can use the above method to identify the age of a factory-built desktop computer. However, the same doesn't apply to a custom-built PC.
 
  You can run the System Information utility on the PC to extract CPU, GPU, memory, storage drive, and network component information. For everything else, you'll need to perform a manual inspection to find the serial number and see the condition.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The PC Components or Laptop Age is Not Everything
 
@@ -155,16 +155,16 @@ systeminfo | find /I "install date"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-navigating-multitasking-media-expertise-in-using-picture-in-picture/"><u>[New] Navigating Multitasking Media Expertise in Using Picture-in-Picture</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-compreeved-analysis-a-full-review-of-the-gecata-device/"><u>[Updated] 2024 Approved Compreeved Analysis A Full Review of the Gecata Device</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-videopilot-social-networks-to-files/"><u>[Updated] VideoPilot Social Networks to Files</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-practical-manual-for-windowss-pink-flash-dilemnas/"><u>A Practical Manual for Windows's Pink Flash Dilemnas</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoidance-of-windows-updates-interruptions/"><u>Avoidance of Windows Updates Interruptions</u></a></li>
-<li><a href="https://windows11.techidaily.com/bring-back-windows-photo-viewer-a-1111-edition-guide/"><u>Bring Back Windows Photo Viewer: A 11/11 Edition Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/dissecting-the-runtime-broker-its-job-in-computing-architecture/"><u>Dissecting the Runtime Broker: Its Job in Computing Architecture</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/guia-simple-y-rapida-para-rescatar-datos-de-tu-iphone-en-pc-con-windows-11/"><u>Guía Simple Y Rápida Para Rescatar Datos De Tu iPhone en PC Con Windows 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-tecno-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Tecno</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719297453407-mastery-overprint-how-to-reactivate-the-missing-windows-functionality/"><u>Mastery Overprint: How to Reactivate the Missing Windows Functionality</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96176764-9781605291802-uncommon-wisdom/"><u>Uncommon Wisdom | Free Book</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-original-tape-review-study-guide/"><u>[New] In 2024, Original Tape Review Study Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-exploring-the-monetary-mechanics-of-t-series-youtube-channel/"><u>[Updated] Exploring the Monetary Mechanics of T-Series Youtube Channel</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-mastering-fb-video-in-hd-1080p-techniques/"><u>2024 Approved Mastering FB Video in HD 1080P Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-reactivate-sound-capture-in-obs-studio-on-windows-11-pcs/"><u>How to Reactivate Sound Capture in OBS Studio on Windows 11 PCs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1723808113864-how-to-screenshot-on-windows-heres-the-quick-way/"><u>How to Screenshot on Windows? Here’s the Quick Way</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-novice-to-expert-kinemaster-gs-journey/"><u>In 2024, From Novice to Expert KineMaster GS Journey</u></a></li>
+<li><a href="https://windows11.techidaily.com/never-delay-in-decision-making-terminal-as-admin-instantly/"><u>Never Delay in Decision Making: Terminal as Admin, Instantly</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-errors-for-smooth-navigation/"><u>Overcoming Windows Errors for Smooth Navigation</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-resurrecting-non-responsive-windows-batch-jobs/"><u>Strategies for Resurrecting Non-Responsive Windows Batch Jobs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stuck-keys-alert-restoring-order-in-windows/"><u>Stuck Keys Alert: Restoring Order in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/triumphant-tech-reboot-triple-effect-windows-fixes/"><u>Triumphant Tech Reboot: Triple-Effect Windows Fixes</u></a></li>
 </ul></div>
 

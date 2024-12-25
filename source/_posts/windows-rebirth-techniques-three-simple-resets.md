@@ -1,7 +1,7 @@
 ---
 title: "Windows Rebirth Techniques: Three Simple Resets"
-date: 2024-12-13T01:13:08.714Z
-updated: 2024-12-16T17:24:51.733Z
+date: 2024-12-18T17:30:16.603Z
+updated: 2024-12-25T17:28:01.359Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/e663bf23b6887cb8279b82d66477ecb71e4a937f5
 
  Make sure you [know what to back up from your computer](https://www.makeuseof.com/tag/backup-windows-files-folders/), then see our [Windows data backup guide](https://www.makeuseof.com/tag/ultimate-windows-10-data-backup-guide/). Once you have a safe copy of everything, you can proceed with reinstalling Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Factory Reset Windows 10 or Windows 11 Using the Built-In Method
 
  Factory resetting Windows was once an inconvenient process, but Microsoft introduced a much easier way to do so starting in Windows 8\. As this is also included in Windows 10 and Windows 11, it's the best way to factory reset a Windows computer in most cases.
@@ -43,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/e663bf23b6887cb8279b82d66477ecb71e4a937f5
 
 ![Reset This PC Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Reset-This-PC-Windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Keep Your Files or Remove Everything?
 
  You'll have two initial options to choose from when you factory reset Windows 10 or 11 this way: **Keep my files** or **Remove everything**.
@@ -54,10 +62,6 @@ thumbnail: https://thmb.techidaily.com/e663bf23b6887cb8279b82d66477ecb71e4a937f5
  Though the **Keep my files** option will retain your personal data, you should still back up before using it in case something goes wrong.
 
 ![Windows 11 Factory Reset Keep Files Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Windows-11-Factory-Reset-Keep-Files-Option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Cloud Download vs. Local Reinstall
 
@@ -72,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/e663bf23b6887cb8279b82d66477ecb71e4a937f5
 ![Windows 10 Cloud Reinstall Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/Windows-10-Cloud-Reinstall-Option.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Options When Resetting Windows 10 and 11
@@ -87,10 +91,6 @@ thumbnail: https://thmb.techidaily.com/e663bf23b6887cb8279b82d66477ecb71e4a937f5
 
 ![Windows 10 Reset PC Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/Windows-10-Reset-PC-Options.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Turn on **Delete files from all drives?** to erase everything on all drives you have connected to your computer. This includes external hard drives and recovery drives. Because you probably have backups and other important files on those drives, you shouldn't use this unless you want to permanently erase everything associated with your computer. Be careful with this option!
 
 ### Confirm the Windows Factory Reset Operation
@@ -103,6 +103,10 @@ thumbnail: https://thmb.techidaily.com/e663bf23b6887cb8279b82d66477ecb71e4a937f5
 
  Make sure you [take the recommended steps after reinstalling Windows 10](https://www.makeuseof.com/tag/post-installation-windows-10/) if you're sticking with that OS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Reinstall Windows Manually Using Windows Installation Media
 
  If you're not using Windows 10 or 11, want to factory reset Windows 10 or 11 without the Settings menu, or don't want to use the other methods for some reason, you can always factory reset Windows using installation media. This allows you to install a fresh copy of Windows on your computer and wipe out everything currently on it.
@@ -113,15 +117,15 @@ thumbnail: https://thmb.techidaily.com/e663bf23b6887cb8279b82d66477ecb71e4a937f5
 
 ![Create installation media for Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/muo-windows-install-usb-media2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you need to reinstall Windows 8.1 from scratch for some reason, you can use [Microsoft's Windows 8.1 download tool](https://www.microsoft.com/en-us/software-download/windows8ISO). This lets you download an [ISO to burn onto a flash drive](https://www.makeuseof.com/tag/10-tools-make-bootable-usb-iso-file/) or DVD so you can reinstall Windows. Simply insert the USB drive or disc containing your installation media, then [boot from the removable device](https://www.makeuseof.com/tag/how-to-change-the-boot-order-on-your-pc-so-you-can-boot-from-usb/). You'll be greeted with the Windows setup screen, which you can proceed through to install a clean copy. Remember that doing this will remove everything currently on the drive where you install Windows.
 
  Since Windows 7 has been out of support for years, Microsoft no longer offers an official Windows 7 download. We recommend that you [upgrade to a modern version of Windows](https://www.makeuseof.com/why-you-shouldnt-use-old-windows/); don't download Windows 7 from a random website, as it may contain malware.
 
  Note that the methods in #1 above allow you to reinstall Windows in effectively the same way without manually creating a USB installer, so they're much more convenient.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Factory Reset Windows 10 or 11 From Boot Using Advanced Methods
 
@@ -137,19 +141,11 @@ thumbnail: https://thmb.techidaily.com/e663bf23b6887cb8279b82d66477ecb71e4a937f5
 
 ![advanced recovery option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/troubleshoot-options-reset-this-PC.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Otherwise, you may be able to boot into the BIOS and directly load the recovery partition on your hard drive, if your PC manufacturer included one. However, if you factory reset with this method, you'll reinstall all the manufacturer bloatware. While it's not ideal, it can work if you have no other options.
 
  You can also type "create a recovery drive" into the Start menu to access a tool that lets you make your own. However, this requires a fair bit of space, and you'll have to do it before you have a problem. If you haven't already made one, you're best off making a new Windows install disk, as described in #2\.
 
  To cover all the bases: there is no way to factory reset Windows from the BIOS. While you can reset the BIOS to its default options, you can't factory reset Windows itself through the BIOS. There's also no way to factory reset your laptop without turning it on; you need power to perform all the above operations.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## If You're on an Older Version of Windows 10
 
@@ -160,6 +156,10 @@ thumbnail: https://thmb.techidaily.com/e663bf23b6887cb8279b82d66477ecb71e4a937f5
  If you're on at least Windows 10 version 2004, clicking this link text will open [Microsoft's Fresh Start page](https://support.microsoft.com/en-us/windows/give-your-pc-a-fresh-start-0ef73740-b927-549b-b7c9-e6f2b48d275e) in your browser and recommend that you use method #1 above to reset. However, if you're on a version of Windows 10 that still offers this, you need to [install the latest version of Windows](https://www.makeuseof.com/update-windows-manually/) as soon as you can to keep your PC secure.
 
 ![Windows 10 Security Fresh Start](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/04/Windows-10-Security-Fresh-Start.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Now You Know How to Factory Reset Your Windows Computer
 
@@ -179,17 +179,24 @@ thumbnail: https://thmb.techidaily.com/e663bf23b6887cb8279b82d66477ecb71e4a937f5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-how-to-change-background-in-google-meet/"><u>[Updated] How to Change Background in Google Meet</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-maximum-definition-boost-expert-video-upscaler/"><u>[Updated] In 2024, Maximum Definition Boost Expert Video Upscaler</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-infuse-ingenuity-and-fun-make-memes-with-kapwing-for-2024/"><u>[Updated] Infuse Ingenuity & Fun – Make Memes with Kapwing for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/bite-the-dessert-bullet-tiktoks-sweetest-treats-for-2024/"><u>Bite the Dessert Bullet TikTok's Sweetest Treats for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/did-your-apple-iphone-11-pro-max-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your Apple iPhone 11 Pro Max Passcode Change Itself? Unlock It Now</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-address-the-loadlibrary-error-code-87-on-pcs/"><u>How to Address the LoadLibrary Error Code 87 on PCs</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Lava Yuva 3 Pro | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigate-through-9-ways-to-access-sound-configuration-in-windows-11/"><u>Navigate Through 9 Ways to Access Sound Configuration in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/rectifying-missing-d3dx939-dll-in-windows-11-pcs/"><u>Rectifying Missing D3DX9_39 DLL in Windows 11 PCs</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/resolving-printing-issues-post-driver-update-a-guide-yl-computings-expert-solutions/"><u>Resolving Printing Issues Post Driver Update: A Guide - YL Computing's Expert Solutions</u></a></li>
-<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-on-apple-iphone-14-plus-by-drfone-ios/"><u>Unlock Apple ID without Phone Number On Apple iPhone 14 Plus</u></a></li>
-<li><a href="https://windows11.techidaily.com/wordsmithing-wonders-selective-windows-aid/"><u>Wordsmithing Wonders: Selective Windows Aid</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-effortless-text-labeling-on-video-in-windows-photos-for-2024/"><u>[New] Effortless Text Labeling on Video in Windows Photos for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-sleep-aid-asmr-techniques-unveiled-for-2024/"><u>[Updated] Sleep Aid ASMR Techniques Unveiled for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-maximizing-earnings-with-youtube-studio-monetization-on-any-device/"><u>2024 Approved Maximizing Earnings with YouTube Studio Monetization on Any Device</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-uncover-top-8-sites-offering-free-3d-text-psd-images-and-files/"><u>2024 Approved Uncover Top 8 Sites Offering FREE 3D Text PSD Images and Files</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/beyond-solutions-how-to-resolve-driver-issues-for-the-asus-pce-ac56-on-windows-7811/"><u>Beyond Solutions: How to Resolve Driver Issues for the ASUS PCE-AC56 on Windows 7/8/11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/efficient-workflow-with-split-screen-functionality-on-macbook-air/"><u>Efficient Workflow with Split Screen Functionality on MacBook Air</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-drive-unformatted-notice-in-windows-os/"><u>Fixing Drive Unformatted Notice in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-halt-the-spontaneous-open-of-search-menu-on-win11/"><u>How To Halt the Spontaneous Open of Search Menu on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-keep-your-files-intact-weekly-windows-backups/"><u>How to Keep Your Files Intact: Weekly Windows Backups</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Life360 Notify When You Log Out On Apple iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-integrating-mixer-with-macos-for-smooth-streaming/"><u>In 2024, Integrating Mixer with macOS for Smooth Streaming</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-and-rectifying-steam-installation-issues-win11-edition/"><u>Navigating and Rectifying Steam Installation Issues, Win11 Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-issues-with-touchpad-gestures-in-windows-systems/"><u>Overcoming Issues with Touchpad Gestures in Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-the-net-runtime-issue-on-your-system/"><u>Overcoming the .NET Runtime Issue on Your System</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-game-interruptions-resolving-euro-truck-simulator-2-pc-crashes/"><u>Say Goodbye to Game Interruptions: Resolving Euro Truck Simulator 2 PC Crashes</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamlessly-integrate-windows-11-into-your-routine/"><u>Seamlessly Integrate Windows 11 Into Your Routine</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-cooling-your-pc-during-heavy-games/"><u>Tips for Cooling Your PC During Heavy Games</u></a></li>
+<li><a href="https://windows11.techidaily.com/unearthing-hidden-functions-in-windows-reliability-and-performance-tools/"><u>Unearthing Hidden Functions in Windows' Reliability & Performance Tools</u></a></li>
 </ul></div>
 

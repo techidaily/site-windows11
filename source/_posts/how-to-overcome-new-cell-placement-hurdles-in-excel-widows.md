@@ -1,7 +1,7 @@
 ---
 title: How to Overcome New Cell Placement Hurdles in Excel Widows
-date: 2024-08-08T06:04:58.715Z
-updated: 2024-08-09T06:04:58.715Z
+date: 2024-12-24T17:23:58.170Z
+updated: 2024-12-25T16:01:01.299Z
 tags:
   - windows10
   - windows11
@@ -28,12 +28,13 @@ thumbnail: https://thmb.techidaily.com/e7f1cad7a399e71169efcdbd386bd0d5b12f456c3
 2. Under the **Home** tab, click the **Format** button and select **Format cells** from the resulting menu.
 3. Switch to the **Protection** tab and uncheck the box that reads **Locked**.
 4. Click **OK** to apply the changes.  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Disable Cell Protection in Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-cell-protection-in-excel.jpg)
 
  After disabling the cell protection feature, try to insert new cells again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Unfreeze the Panes
 
@@ -45,16 +46,10 @@ thumbnail: https://thmb.techidaily.com/e7f1cad7a399e71169efcdbd386bd0d5b12f456c3
 2. Click the **View** tab at the top.
 3. Click the **Freeze Panes** option.
 4. Select **Unfreeze Panes** from the resulting menu.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![Unfreeze Pane in Microsoft Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/unfreeze-pane-in-microsoft-excel.jpg)
 
  Once you unfreeze the panes, Excel should let you insert new cells.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ## 3\. Unmerge the Cells
 
  Excel might not allow you to insert cells if you are trying to add them into cells that have been merged. To resolve this, you will need to [unmerge the cells in your Excel worksheet](https://www.makeuseof.com/find-unmerge-merged-excel-cells/).
@@ -71,10 +66,11 @@ thumbnail: https://thmb.techidaily.com/e7f1cad7a399e71169efcdbd386bd0d5b12f456c3
 
  To clear entries from the last row, select any cell in the first column and press the **Ctrl + Down arrow** key to quickly navigate to the last row of your sheet. Click the row number to select the entire last row. Then, switch to the **Home** tab and select **Editing > Clear > Clear All**.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Clear Excel Last Row](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/clear-excel-last-row.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Repair the Corrupted Excel Workbook
 
@@ -86,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/e7f1cad7a399e71169efcdbd386bd0d5b12f456c3
 4. Click the arrow beside the **Open** button and select **Open and Repair**.  
 ![Repair Excel File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/repair-excel-file.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait for Excel to fix any issues with your worksheet and then open it. After that, check if the issue is still there.
 
 ## 6\. Copy Your Data to a New Workbook
@@ -96,12 +96,17 @@ thumbnail: https://thmb.techidaily.com/e7f1cad7a399e71169efcdbd386bd0d5b12f456c3
 2. Press **Ctrl + C** to copy the selected data.
 3. Press **Ctrl + N** to open a new Excel workbook.
 4. In the **Home** tab, click the **Paste** button and select your preferred option from the resulting menu.  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Paste Option in Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/paste-option-in-excel.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After completing the above steps, you should be able to insert new rows and columns without any errors.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Update Microsoft Excel
 
@@ -117,9 +122,9 @@ thumbnail: https://thmb.techidaily.com/e7f1cad7a399e71169efcdbd386bd0d5b12f456c3
  Wait for Microsoft Office to update Excel along with other Office apps and check if that fixes the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Run the Office Repair Tool
 
  If none of the above solutions help, you can consider running the Office Repair tool as a last resort. Here's how to run it.
@@ -131,23 +136,15 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 5. Locate and select the **Microsoft Office suite** on the list.
 6. Click the **Change** option at the top.
 7. Select the **Quick Repair** option and hit the **Repair** button.  
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Repair Microsoft Office](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/repair-microsoft-office.jpg)
 
  Wait for the tool to repair your Office apps and then check if you can insert cells in Excel. If you still get errors, repeat the above steps and select the **Online Repair** option. This will allow the tool to perform a thorough repair operation and download any missing files from the internet.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Insert Cells in Your Excel Spreadsheet Without Errors
 
  It is annoying when Microsoft prevents you from performing basic tasks such as inserting cells. Hopefully, one of the suggestions above has resolved your issue and you are now able to insert cells in your Excel workbook.
 
  If you are facing a similar problem, don’t fret. This guide will walk you through some effective solutions that should fix the problem in no time.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -155,3 +152,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://review-topics.techidaily.com/how-to-fake-snapchat-location-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-refining-zoom-visuals-proactive-measures/"><u>In 2024, Refining Zoom Visuals Proactive Measures</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-realme-c33-2023-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Realme C33 2023</u></a></li>
+<li><a href="https://extra-information.techidaily.com/quick-zoom-and-crop-module/"><u>Quick Zoom and Crop Module</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolve-icloud-install-issues-on-windows-quickly/"><u>Resolve iCloud Install Issues on Windows Quickly</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-windows-service-command-line-issues-a-list-of-7-solutions/"><u>Unlocking Windows Service Command Line Issues: A List of 7 Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/unravel-and-solve-your-windows-update-puzzle-fast/"><u>Unravel and Solve Your Windows Update Puzzle Fast!</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/video-file-stuck-after-data-retrieval/"><u>Video File Stuck After Data Retrieval</u></a></li>
+<li><a href="https://windows11.techidaily.com/write-better-work-smarter-5-pc-apps-guide/"><u>Write Better, Work Smarter: 5 PC Apps Guide</u></a></li>
+</ul></div>
+

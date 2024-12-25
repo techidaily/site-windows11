@@ -1,7 +1,7 @@
 ---
 title: "Quick Fixes: Resetting and Restoring Search on Windows 11 Settings UI"
-date: 2024-08-08T06:04:42.247Z
-updated: 2024-08-09T06:04:42.247Z
+date: 2024-12-22T16:43:10.734Z
+updated: 2024-12-25T19:13:07.261Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/b44ba119c3a3d46ced364c534eba92d8a8e7f5db9
 
  But what if the Search is not working in the Settings app? In this article, we are putting together a list of fixes you can try when Search is not working in Windows 11 Settings app.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Restart Your Device
 
 ![Restart Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/restart-windows-11-edit.jpg)
@@ -31,16 +28,21 @@ thumbnail: https://thmb.techidaily.com/b44ba119c3a3d46ced364c534eba92d8a8e7f5db9
 
  However, if your PC frequently requires a restart to fix this issue, the underlying problem affecting the Search feature in the Settings app persists. In that case, you should look for a more robust solution.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ## 2\. Install All the Latest Windows Updates
 
 ![Windows 11 Update setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-update-edit.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Besides new features, software updates are meant to improve performance by fixing issues impacting your PC. While it can happen to anyone, a dysfunctional Search can be pretty common if you are running a Windows 11 Insider build. Either way, if you are seeing a software update on the**Windows Update** page in the Settings app, you should install it to see if it fixes the issue.
 
  If you're not sure how to do this, check out[how to install Windows 11 updates](https://www.makeuseof.com/windows-11-install-updates/) for more info.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Run the Search and Indexing Troubleshooter
 
@@ -55,12 +57,13 @@ thumbnail: https://thmb.techidaily.com/b44ba119c3a3d46ced364c534eba92d8a8e7f5db9
 
  The troubleshooter will look for the root cause of the issue and offer you solutions. Now, follow the fixes it recommends and see if the problem is gone.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Reset the Settings App
 
 ![Settings app setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/settings-app-setting-edit.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can troubleshoot whatever is causing the Search issue in the Settings app by resetting or repairing it. A reset will take the Settings app to a normal state, though the app data will be deleted. On the other hand, if you repair the app, your system will look for what's causing the problem and try to fix it without deleting app data.
 
@@ -68,22 +71,17 @@ To reset or repair the Settings app, follow the below steps:
 
 1. Click the Start icon and type "Settings."
 2. Right-click on**Settings** , and then click**App settings** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Reset Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/reset-or-repair-settings-app-edit.jpg)
 3. Scroll the page down until you see the**Reset** option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Under the**Reset** option, you will see**Repair** and**Reset** . Try repairing the app first, as it will not delete anything. However, if repairing does not work, you should try the**Reset** option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Use Commands in PowerShell to Reset Settings App
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![PowerShell Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/powershell-command.jpg)
 
  PowerShell in Windows 11 is a powerful tool that helps you control your PC from a command-line interface. One of the things you can do using PowerShell is reset what's causing the issue to its original setting.
@@ -94,18 +92,19 @@ To reset or repair the Settings app, follow the below steps:
 
  It will reset the Settings app and take it back to its default state, which means you can find settings quickly by searching in the app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Windows Explorer Search Strip, Restored
 
  After following the above steps, the Settings app's Search functionality should return to normal, providing you with desired results. However, the Search in Settings app can become dysfunctional again in the future, and if it does, you should try fixing it again by following the methods mentioned above.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -114,4 +113,20 @@ To reset or repair the Settings app, follow the below steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/updated-diving-deep-reviewing-your-old-tweets-for-2024/"><u>[Updated] Diving Deep Reviewing Your Old Tweets for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-supercharge-your-channel-with-smart-youtube-collaborations/"><u>[Updated] Supercharge Your Channel with Smart YouTube Collaborations</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723000942307-gta-5-online-errors-heres-how-you-can-resolve-them/"><u>GTA 5 Online Errors? Here's How You Can Resolve Them</u></a></li>
+<li><a href="https://windows11.techidaily.com/halt-auto-restarts-windows-11-troubleshooting/"><u>Halt Auto Restarts: Windows 11 Troubleshooting</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-correct-chatgpt-live-dialogue-problems/"><u>How To Correct ChatGPT Live Dialogue Problems</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-the-art-of-window-tweaking-using-alomware-suite/"><u>Master the Art of Window Tweaking Using AlomWare Suite</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-windows-update-problem-error-0x8024800c/"><u>Solving Windows Update Problem: Error 0X8024800C</u></a></li>
+<li><a href="https://win-best.techidaily.com/step-by-step-tutorial-adding-programs-via-control-panel-in-yl-software-suite/"><u>Step-by-Step Tutorial: Adding Programs via Control Panel in YL Software Suite</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-addressing-blackwhite-monochrome-in-shop/"><u>Strategies for Addressing Black/White Monochrome in Shop</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/syma-107g-home-flight-adventure-a-detailed-look-at-the-economical-remote-control-helicopter/"><u>Syma 107G Home Flight Adventure: A Detailed Look at the Economical Remote Control Helicopter</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-the-latency-problem-with-gpsvc/"><u>Tackling the Latency Problem with GPSVC</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-and-overcoming-display-errors-in-win1011/"><u>Understanding and Overcoming Display Errors in Win10/11</u></a></li>
+<li><a href="https://win-trending.techidaily.com/1728492870319-windows-10-aomei-backupper/"><u>Windows 10上傳硬碟應用程式: AOMEI Backupper的高效選擇</u></a></li>
+</ul></div>
 

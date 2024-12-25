@@ -1,7 +1,7 @@
 ---
 title: Strategies to Revive Frozen Windows Terminal Apps
-date: 2024-08-08T06:06:25.578Z
-updated: 2024-08-09T06:06:25.578Z
+date: 2024-12-23T17:07:11.130Z
+updated: 2024-12-25T19:58:06.453Z
 tags:
   - windows10
   - windows11
@@ -20,16 +20,14 @@ thumbnail: https://thmb.techidaily.com/64d6132273fa0f5624faa24b024a9043c67b09153
 
  If you can no longer access Windows Terminal, there’s no need to worry. We’ve compiled a quick guide to help you fix the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Try a Different Method to Open the Windows Terminal
 
  One of the most common methods to open Windows Terminal is to right-click the**Start** button and select**Windows Terminal (Admin)** . But if the option is missing or nothing happens when you click it, you should[try a different method to open Windows Terminal](https://www.makeuseof.com/windows-11-open-windows-terminal/) .
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Check if Windows Terminal Is Enabled
 
  If you’ve tried multiple ways to open Windows Terminal and had no success, you should check if it’s not disabled on your computer. Here’s how you can do it:
@@ -52,19 +50,21 @@ thumbnail: https://thmb.techidaily.com/64d6132273fa0f5624faa24b024a9043c67b09153
 
 ![Repair Windows Terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-terminal-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## 4\. Reset Windows Terminal
 
  If you still can’t get Windows Terminal to work, you should try reverting it to its default settings. Check out[how to reset Windows Terminal](https://www.makeuseof.com/windows-11-reset-terminal-settings/#:~:text=To%20reset%20Windows%20Terminal%20Settings%20back%20to%20their%20defaults%2C%20follow,cmd%22%20in%20the%20Run%20dialog.&text=Now%20press%20the%20Enter%20key%20to%20delete%20the%20settings.) for steps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Run an SFC Scan
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![Run SFC scan in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sfc-scan-1-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Missing or corrupted system files might cause the inability to open Windows Terminal. In this case, you should[run an SFC scan](https://www.makeuseof.com/system-file-checker-sfc-windows/) . This will search for any broken system files and replace them automatically.
 
@@ -72,30 +72,29 @@ thumbnail: https://thmb.techidaily.com/64d6132273fa0f5624faa24b024a9043c67b09153
 
  If nothing worked until now, it’s time to reinstall Windows Terminal. Go to**Settings > Apps > Installed apps** and locate**Terminal** . Then, click the**three-dot** icon next to it and select**Uninstall** .
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Uninstall Windows Terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-terminal-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once Windows uninstall the app, launch Microsoft Store and reinstall Windows Terminal.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Launch Windows Terminal Any Time Again
 
  Hopefully, one or more of the above solutions helped you fix Windows Terminal. Sometimes, you have to enable it on your computer or have Windows repair the app. But if you’re still struggling to make it work, you should go nuclear and reinstall the app.
 
  Once you get it working again, you should learn about Windows Terminal tips and tricks to make the most out of it.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -104,4 +103,17 @@ thumbnail: https://thmb.techidaily.com/64d6132273fa0f5624faa24b024a9043c67b09153
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-diy-delights-in-motion-personalized-animation-artistry/"><u>[New] 2024 Approved DIY Delights in Motion Personalized Animation Artistry</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-seamless-obs-zoom-connection-step-by-step/"><u>[New] In 2024, Seamless OBS-Zoom Connection Step-by-Step</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-seafarers-choice-top-5-pro-fish-cameras/"><u>[New] Seafarer's Choice Top 5 Pro-Fish Cameras</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-guide-steps-to-erase-your-yahoo-email-forever/"><u>Complete Guide: Steps to Erase Your Yahoo Email Forever</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fail-to-initialize-graphical-engine/"><u>Fail to Initialize Graphical Engine</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-overcome-windows-11-cortana-non-responsiveness/"><u>How to Overcome Windows 11 Cortana Non-Responsiveness</u></a></li>
+<li><a href="https://windows11.techidaily.com/jingle-all-the-way-making-windows-11-celebrate/"><u>Jingle All the Way: Making Windows 11 Celebrate</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-11s-hidden-themes-a-registry-guide/"><u>Mastering Windows 11'S Hidden Themes: A Registry Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-speaker-or-headphones-non-detection-errors-on-pc/"><u>Navigating Speaker or Headphones Non-Detection Errors on PC</u></a></li>
+<li><a href="https://win-updates.techidaily.com/sending-images-via-email-from-your-iphone-discover-the-top-3-simple-techniques/"><u>Sending Images via Email From Your iPhone: Discover the Top 3 Simple Techniques</u></a></li>
+</ul></div>
 

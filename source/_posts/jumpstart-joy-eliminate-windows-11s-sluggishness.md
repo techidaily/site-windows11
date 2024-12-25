@@ -1,7 +1,7 @@
 ---
 title: "Jumpstart Joy: Eliminate Windows 11'S Sluggishness"
-date: 2024-12-12T21:59:26.221Z
-updated: 2024-12-17T01:07:53.902Z
+date: 2024-12-23T17:39:26.979Z
+updated: 2024-12-25T17:07:50.482Z
 tags:
   - windows10
   - windows11
@@ -31,15 +31,15 @@ thumbnail: https://thmb.techidaily.com/860b3898b4af7e1c1dc6c593b5d2eb5997c8c8e6a
 
  If you suspect that having insufficient storage space could be degrading the performance of your device, turn on Storage Sense to boost your device's performance. If you're unfamiliar with this process, see our guide on[using Storage Sense on Windows 11](https://www.makeuseof.com/windows-11-storage-sense-guide/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Set the Power Plan to Best Performance
 
  Windows users can choose between two power plans: high performance and balanced. Although the balanced power plan can help lower power consumption (particularly on laptops), it limits the device's performance. Since the balanced power plan is often selected by default, you are likely using the same if you have not changed the power plan before.
 
  Changing your device's power plan to high performance can significantly improve its performance. So, you should[change the power plan](https://www.makeuseof.com/windows-11-change-power-plan/) from balanced to high-performance. Note that switching to this plan will increase your device's performance but will also increase its power consumption. So, expect that your laptop's battery will drain faster than usual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Disable Some Third-Party Services
 
@@ -51,17 +51,13 @@ To turn off these services, follow these steps:
 ![Open System Configuration Window From Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-system-configuration-window-from-windows-search.jpg)
 2. Go to the**Services** tab and check the box beside**Hide all Microsoft services** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Check the boxes beside the services you don't use much from the remaining services.
 4. Click**Disable all** \>**Apply** \>**OK** .  
 ![Hit OK After Disabling Certain Services in Windows System Configuration App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/hit-ok-after-disabling-certain-services-in-windows-system-configuration-app.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Disable Notifications
 
@@ -73,11 +69,15 @@ To turn off these notifications, follow the below steps:
 ![Go to Notifications Settings in the System Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/go-to-notifications-settings-in-the-system-tab-of-the-windows-settings-app.jpg)
 2. Disable the toggle next to**Notifications** to stop receiving all notifications.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Turn Off the Toggle Next to Notifications to Disable Notifications](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-the-toggle-next-to-notifications-to-disable-notifications.jpg)
 3. Disable the toggle next to specific apps in the**Notifications from apps and other senders** section.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Disable the Toggle Next to Specific Apps in the Notifications From Apps and Other Senders Section in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/disable-the-toggle-next-to-specific-apps-in-the-notifications-from-apps-and-other-senders-section-in-windows-settings-app.jpg)
@@ -92,7 +92,7 @@ To turn off these notifications, follow the below steps:
 ![Windows Permissions Settings in the Privacy and Security Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-permissions-settings-in-the-privacy-and-security-tab-of-the-windows-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Don't Let Windows Updates Hamper Your Device's Performance
@@ -120,15 +120,15 @@ To pause updates, follow these steps:
 
 ![high cpu usage service task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/high-cpu-usage-service-task-manager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Some Other Ways to Improve Performance
 
  Besides the above tips, removing unwanted programs, defragmenting storage drives, debloating your Windows operating system, and disabling visual effects are other ways to speed up your device. Our[guide on speeding up Windows 11](https://www.makeuseof.com/windows-11-speed-up-tricks/) includes more detailed instructions on how to make these tweaks.
 
 So, try them out to boost your system's performance.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Speed Up Your Slow and Laggy Windows 11 PC
 
@@ -151,24 +151,22 @@ So, try them out to boost your system's performance.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-essential-audio-transforming-software-for-streamers/"><u>[Updated] 2024 Approved Essential Audio Transforming Software for Streamers</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-quick-tips-for-embedding-timestamps-into-youtube-videos/"><u>[Updated] 2024 Approved Quick Tips for Embedding Timestamps Into YouTube Videos</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-the-art-of-image-enhancement-pivotal-pixlr-insights/"><u>[Updated] 2024 Approved The Art of Image Enhancement Pivotal Pixlr Insights</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-screenscapes-saved-high-quality-online-tv-recordings-for-2024/"><u>[Updated] Screenscapes Saved High-Quality Online TV Recordings for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-economical-systems-optimized-by-ideal-obs-settings/"><u>2024 Approved Economical Systems Optimized by Ideal OBS Settings</u></a></li>
-<li><a href="https://windows11.techidaily.com/effortless-access-key-strategies-for-w11s-rdc/"><u>Effortless Access: Key Strategies for W11's RDC</u></a></li>
-<li><a href="https://windows11.techidaily.com/effortless-file-management-winpcs-most-valuable-fileshare-apps/"><u>Effortless File Management: WinPC's Most Valuable Fileshare Apps</u></a></li>
-<li><a href="https://windows11.techidaily.com/eliminating-error-0x80072efd-a-windows-store-solution/"><u>Eliminating Error 0X80072EFD: A Windows Store Solution</u></a></li>
-<li><a href="https://windows11.techidaily.com/eliminating-windows-11-zoom-problem-code-1132/"><u>Eliminating Windows 11 Zoom Problem: Code 1132</u></a></li>
-<li><a href="https://windows11.techidaily.com/enabling-hyper-v-a-quick-win11-guide/"><u>Enabling Hyper-V: A Quick Win11 Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhancing-and-streamlining-windows-based-discord-searches/"><u>Enhancing and Streamlining Windows-Based Discord Searches</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhancing-visual-quality-setting-sizes-on-win11/"><u>Enhancing Visual Quality: Setting Sizes on Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/eradicating-code-0x800700e1-complications-on-windows-11-pcs/"><u>Eradicating Code 0X800700E1 Complications on Windows 11 PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/eradicating-empty-directory-warning-code-0x80070091-in-windows-11-os/"><u>Eradicating Empty Directory Warning Code 0X80070091 in Windows 11 OS</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/hdr-software-showdown-sns-vs-others/"><u>HDR Software Showdown SNS vs Others</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-itel-p40plus-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Itel P40+ Phone that is Locked?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastery-over-size-limits-a-win11-guide-to-overcoming-stuck-on-size-error-in-discord/"><u>Mastery over Size Limits: A Win11 Guide to Overcoming Stuck-On-Size Error in Discord</u></a></li>
-<li><a href="https://win-popular.techidaily.com/step-by-step-guide-successfully-opening-pdf-files-on-your-windows-pc-with-yl-computings-help/"><u>Step-by-Step Guide: Successfully Opening PDF Files on Your Windows PC with YL Computing's Help</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/the-most-effective-7-apps-for-blocking-android-web-ads/"><u>The Most Effective 7 Apps for Blocking Android Web Ads</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/op-picks-11-affordable-innovative-yt-moniker-generators/"><u>[New] Top Picks 11 Affordable, Innovative YT Moniker Generators</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-tactics-for-trimming-outside-fb-ads-for-2024/"><u>[Updated] Tactics for Trimming Outside FB Ads for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1726223229051-pcinshot/"><u>當今年度最佳五位PC程式組合體，探索InShot版本選項</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavi-m4aogg/"><u>移動網路無限制自由改變音頻格式：Movavi M4A到OGG的智能轉換工具</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-top-pick-the-best-non-lenovo-non-dell-2-in-1-laptop-before-prime-day-deals-hit/"><u>Affordable Top Pick: The Best Non-Lenovo, Non-Dell 2-in-1 Laptop Before Prime Day Deals Hit!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enthralling-type-mobility-setups/"><u>Enthralling Type Mobility Setups</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-inaccessible-folders-in-windows-outlook-a-comprerani-guide/"><u>Fixing Inaccessible Folders in Windows Outlook: A Comprerani Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-oppo-a1x-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Oppo A1x 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-use-the-windows-canary-protection-tool/"><u>How to Use the Windows Canary Protection Tool</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-for-rectifying-unlaunchable-lunar-client-warning/"><u>Methods for Rectifying Unlaunchable Lunar Client Warning</u></a></li>
+<li><a href="https://windows11.techidaily.com/overhauling-windows-11-camera-glitch-fix-for-error-code-a00f425d/"><u>Overhauling Windows 11 Camera Glitch: Fix for Error Code A00F425D</u></a></li>
+<li><a href="https://windows11.techidaily.com/pinpoint-win-logins-the-differentiator-between-right-and-wrong-entries/"><u>Pinpoint Win Logins: The Differentiator Between Right & Wrong Entries</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/revive-corrupt-movie-files-quickly-using-vlc-media-players-tools/"><u>Revive Corrupt Movie Files Quickly Using VLC Media Player's Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/skirting-legalities-shun-chatbots-for-windows-keys/"><u>Skirting Legalities: Shun Chatbots for Windows Keys</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-complete-process-for-adding-widgets-on-windows-11/"><u>The Complete Process for Adding Widgets on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-memory-feature-disabled-in-win11/"><u>Troubleshooting Memory Feature Disabled in Win11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-top-tips-and-tricks-for-hosting-an-unforgettable-labor-day-bash/"><u>Ultimate Guide: Top Tips and Tricks for Hosting an Unforgettable Labor Day Bash</u></a></li>
 </ul></div>
 

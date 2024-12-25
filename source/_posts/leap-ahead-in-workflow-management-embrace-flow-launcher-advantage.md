@@ -1,7 +1,7 @@
 ---
 title: "Leap Ahead in Workflow Management: Embrace Flow Launcher Advantage"
-date: 2024-08-08T06:08:07.068Z
-updated: 2024-08-09T06:08:07.068Z
+date: 2024-12-23T19:24:55.392Z
+updated: 2024-12-25T18:57:19.709Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,10 @@ Here's how to get the most from this popular productivity tool.
 
 ![Editing the flow launcher settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/flowlauncher-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also change the number of results shown in the search box when you begin typing. Ranging from the default 5 to as many as 17\. Showing 8-10 search results should be the most efficient amount for most people.
 
  And if you prefer your apps in dark mode, you can change how Flow Launcher looks in the**Theme** tab. You can also use the slider to alter the width of the search/results window.
@@ -51,14 +55,12 @@ Here's how to get the most from this popular productivity tool.
 2. Begin typing the name of the app. You shouldn't need to click in the search box before you type because Flow Launcher will be in focus when opened.
 3. As soon as you see the required app in the list, you can click it to open it or press the displayed shortcut, e.g.**Alt + 2** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![launching an app with Flow Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/flowlauncher-searchapp.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Search Files More Effectively
 
  Flow Launcher is brilliant for searching your PC. It manages to find everything Windows Search can find, but displays results in a much less cluttered and much more efficient way.
@@ -76,16 +78,14 @@ Here's how to get the most from this popular productivity tool.
 * You can even use it to perform simple calculations. Type**5\*5** to see what 5 multiplied by 5 equals. Other mathematical symbols you can use include + (plus), - (minus), and /(divided by).
 * If you want to search in a specific directory, type the directory name between percentage symbols, e.g.**%programfiles%\\** . You will also need to include a trailing backslash.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![searching for directories in flowlauncher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/flowlauncher-searchdirectory.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When you start using Flow Launcher, you might see a result such as**Allow Web Searches Plugin** . This will activate an existing plugin available within Flow Launcher. You can also download and install extra plugins from the store.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Add Extra Features With Flow Launcher Plugins
 
  There are several plugins already installed and activated in Flow Launcher. You can enable and disable these whenever you like in the settings. You can also easily add extra plugins to further increase the scope of the utility.
@@ -97,9 +97,9 @@ Here's how to get the most from this popular productivity tool.
 5. The plugin will be added to the plugin list, where you can enable and disable it as required.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Uninstalling Flow Launcher
 
  If you installed Flow Launcher onto your PC, you can uninstall it in the same way you would any other app. Check out our guide on[how to uninstall programs on Windows](https://www.makeuseof.com/tag/how-to-uninstall-programs-on-windows-10/) if you need some help with this.
@@ -107,20 +107,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Of course, if you decided to use Flow Launcher in portable mode, you won't need to uninstall it. If you are using the utility in this mode, it is worth enabling the**Portable Mode** option in the settings. This ensures that all search data and settings are stored in a single folder, making this data equally portable.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Improve Productivity in Windows With Flow Launcher
 
  Flow Launcher is an outwardly simple tool that might have you wondering why you need another search box. But dig a little deeper, and you should quickly see how powerful and helpful it can be. If you are looking for ways to improve your productivity in Windows 10 or 11 this is a brilliant place to start.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -129,4 +127,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-making-a-mark-with-google-slides-by-adding-youtube-videos/"><u>[New] 2024 Approved Making a Mark with Google Slides by Adding YouTube Videos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-pixel-perfect-preservation-the-best-practices-of-recording-games/"><u>[New] In 2024, Pixel-Perfect Preservation The Best Practices of Recording Games</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-sleep-soundly-top-aspers-techniques-unveiled/"><u>[New] Sleep Soundly Top Asper's Techniques Unveiled</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-the-experts-roadmap-to-bulk-downloading-on-tiktok-platform/"><u>2024 Approved The Expert's Roadmap to Bulk Downloading on TikTok Platform</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/download-gratis-top-10-series-en-hindi-de-alta-definicion-hd-temporadas-2016-2017/"><u>Download Gratis: Top 10 Series en Hindi De Alta Definición HD - Temporadas 2016-2017</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-s18e-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Vivo S18e Phone without PIN</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-of-access-control-regedit-in-win11/"><u>Mastery of Access Control: RegEdit in Win11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-through-the-api-agreement-for-abbyys-flexicapture-cloud-your-comprehensive-guide-to-data-archive-services/"><u>Navigating Through the API Agreement for ABBYY's FlexiCapture Cloud - Your Comprehensive Guide to Data Archive Services</u></a></li>
+<li><a href="https://windows11.techidaily.com/skip-bloatware-embrace-pure-windows-11-experience/"><u>Skip Bloatware: Embrace Pure Windows 11 Experience!</u></a></li>
+<li><a href="https://windows11.techidaily.com/swift-guide-to-identify-your-graphic-model-in-win11/"><u>Swift Guide to Identify Your Graphic Model in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/tweaking-device-settings-on-windows-11-a-step-by-step-guide/"><u>Tweaking Device Settings on Windows 11: A Step-by-Step Guide</u></a></li>
+</ul></div>
 

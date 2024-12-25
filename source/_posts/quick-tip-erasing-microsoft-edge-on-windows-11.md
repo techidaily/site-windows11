@@ -1,7 +1,7 @@
 ---
 title: "Quick Tip: Erasing Microsoft Edge on Windows 11"
-date: 2024-08-08T06:06:37.757Z
-updated: 2024-08-09T06:06:37.757Z
+date: 2024-12-22T16:28:35.492Z
+updated: 2024-12-25T18:15:26.038Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/da7734e84e246f918bdf5e60b91499ba1ad151293
 
  It’s no secret that Microsoft wants users to use its own browser on Windows 11\. To that end, the company has made it difficult to remove the browser from Windows 11\. However, it’s still possible to do so. Here we'll show you three different ways to uninstall Microsoft Edge from your Windows 11 PC.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## 1\. How to Uninstall Microsoft Edge Using the Command Prompt
 
  You can uninstall Microsoft Edge from your PC by running a few commands in the command prompt. The process requires you to know the version number of Microsoft Edge on your computer. Once you have that, you can get rid of the browser.
@@ -32,11 +29,13 @@ Here are the steps you need to follow.
 1. Open Microsoft Edge on your PC.
 2. Click the**three-dot menu icon** in the top right corner and select**Help and feedback > About Microsoft Edge** .
 3. Copy Microsoft Edge's version number from the**About** section.  
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Check Microsoft Edge Version Number](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Microsoft-Edge-Version-Number.jpg)
 4. Press**Win + X** and select**Terminal (Admin)** from the menu that appears.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Select**Yes** when the User Account Control (UAC) prompt shows up.
 6. In the console, run the following commands to navigate to the directory where Microsoft Edge is installed:  
 `cd/  
@@ -44,10 +43,11 @@ cd %Program Files (x86)%\Microsoft\Edge\Application\EdgeVersion\Installer`
  Replace**EdgeVersion** in the above command with the actual version number noted earlier.
 7. Paste the following command and press**Enter** to uninstall Microsoft Edge.  
 `setup --uninstall --force-uninstall --system-level`  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![Uninstall Microsoft Edge Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Uninstall-Microsoft-Edge-Using-Command-Prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you run the above commands, Microsoft Edge will be removed from your PC. If you want to install the browser in the future, you can do so by downloading it from the Microsoft Store.
 
@@ -63,6 +63,11 @@ cd %Program Files (x86)%\Microsoft\Edge\Application\EdgeVersion\Installer`
 `get-appxpackage *edge*`  
 ![Uninstall Microsoft Edge With Windows PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Uninstall-Microsoft-Edge-Using-Windows-PowerShell-1.jpg)
 4. Highlight the text next to**PackageFullName** and press**Ctrl + C** to copy it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Run the following command to uninstall Microsoft Edge.  
 `Remove-appxpackage <PackageFullName>`  
  Replace**<PackageFullName>** in the above command with the package name copied earlier.
@@ -70,8 +75,9 @@ cd %Program Files (x86)%\Microsoft\Edge\Application\EdgeVersion\Installer`
  Once you execute the above command, Microsoft Edge will be uninstalled.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. How to Uninstall Microsoft Edge Beta, Dev, or Canary Channel Builds Using the Settings App
 
  Unlike the stable version, removing a preview build of Microsoft Edge is relatively simple. You can uninstall it just like any other app. Here's how to do it using[Windows 11 Settings app](https://www.makeuseof.com/windows-11-settings-whats-new/) .
@@ -81,16 +87,14 @@ cd %Program Files (x86)%\Microsoft\Edge\Application\EdgeVersion\Installer`
 3. Scroll down to locate Microsoft Edge's preview build.
 4. Click the**three-dot menu icon** next to it and select**Uninstall** .
 5. Select**Uninstall** again when the confirmation pop-up appears.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Uninstall Microsoft Edge Beta From Windows 11 Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Uninstall-Microsoft-Edge-Beta-From-Windows-11-1.jpg)
 
  Aside from the Settings app, you can uninstall the browser from the Start menu or the Control Panel. See our guide to learn different[ways to uninstall built-in apps on Windows 11](https://www.makeuseof.com/ways-to-uninstall-apps-windows-11/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Stop Microsoft Edge From Reinstalling on Windows 11
 
  Although uninstalling Edge from your computer is easy, it does not prevent newer Windows updates from potentially reinstalling the browser. To get around this, you need to[edit a few registry files](https://www.makeuseof.com/windows-registry-file-guide/) on your PC. For that, use the following steps:
@@ -112,14 +116,11 @@ cd %Program Files (x86)%\Microsoft\Edge\Application\EdgeVersion\Installer`
 
  Now that you've uninstalled Microsoft Edge, you might want to make your preferred web browser the default option on Windows 11.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -128,4 +129,21 @@ cd %Program Files (x86)%\Microsoft\Edge\Application\EdgeVersion\Installer`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-harvesting-hits-and-heads-how-to-profit-from-your-youtube-presence-without-ads/"><u>[New] 2024 Approved Harvesting Hits and Heads How to Profit From Your YouTube Presence Without Ads</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-iphone-video-editing-shorten-crop-and-resize-basics/"><u>[Updated] 2024 Approved IPhone Video Editing Shorten, Crop & Resize Basics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-first-steps-launching-a-youtube-channel-for-profit-for-2024/"><u>[Updated] First Steps Launching a YouTube Channel for Profit for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-easiest-way-to-convert-your-youtube-videos-into-texts-for-free/"><u>[Updated] The Easiest Way to Convert Your YouTube Videos Into Texts for FREE</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-flawlessly-flip-twist-and-merge-videos-on-your-android-gear/"><u>2024 Approved Flawlessly Flip, Twist & Merge Videos on Your Android Gear</u></a></li>
+<li><a href="https://windows11.techidaily.com/from-novice-to-pro-setting-up-hyper-v-on-win-11-for-home-users/"><u>From Novice to Pro: Setting Up Hyper-V on Win 11 for Home Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-control-of-windows-installer-on-devices/"><u>Master Control of Windows Installer on Devices</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-video-repair-tool-repair-corrupt-damaged-unplayable-video-files-of-vivo-by-stellar-video-repair-mobile-video-repair/"><u>MP4 Video Repair Tool - Repair corrupt, damaged, unplayable video files of Vivo</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-unverified-app-errors-in-windows/"><u>Overcoming Unverified App Errors in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/revive-security-settings-windows-11-admin-control-restoration/"><u>Revive Security Settings: Windows 11 Admin Control Restoration</u></a></li>
+<li><a href="https://extra-support.techidaily.com/secure-and-updated-altering-numbers-in-tiktok-profiles-for-2024/"><u>Secure and Updated Altering Numbers in TikTok Profiles for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/top-10-timecode-conversion-tools-for-accurate-timing-web-ios-android-for-2024/"><u>Top 10 Timecode Conversion Tools for Accurate Timing (Web, iOS, Android) for 2024</u></a></li>
+<li><a href="https://win-docs.techidaily.com/unlocking-the-secrets-of-serp-snippets-for-superior-search-engine-optimization-techniques/"><u>Unlocking the Secrets of SERP Snippets for Superior Search Engine Optimization Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/upgrade-taskbar-appearance-instructions-to-include-a-weather-icon-in-windows-11-system-tray/"><u>Upgrade Taskbar Appearance: Instructions to Include a Weather Icon in Windows 11 System Tray</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Revel in Easy Entry: Unlocking Windows 11'S Application Archive"
-date: 2024-12-09T18:36:58.966Z
-updated: 2024-12-16T16:32:38.495Z
+date: 2024-12-24T16:17:10.508Z
+updated: 2024-12-25T17:56:09.898Z
 tags:
   - windows10
   - windows11
@@ -33,10 +33,14 @@ thumbnail: https://thmb.techidaily.com/3ad4f7e8b48f19c37105255d0826afad52f6608be
 2. Type **shell:AppsFolder** into the text field and hit Enter.  
 ![Open AppsFolder Using Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-appsfolder-using-run-command.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The AppsFolder opens up in its own window, where you can view and manage the applications installed on your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. How to Open AppsFolder Using File Explorer
@@ -59,6 +63,10 @@ thumbnail: https://thmb.techidaily.com/3ad4f7e8b48f19c37105255d0826afad52f6608be
 
  The AppsFolder window shows all the programs and apps installed on your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. How to Open AppsFolder Using Command Prompt
 
  If you're comfortable with Command Prompt, you can use it to open the AppsFolder. Here's how:
@@ -68,10 +76,6 @@ thumbnail: https://thmb.techidaily.com/3ad4f7e8b48f19c37105255d0826afad52f6608be
 3. In the Command Prompt window, type **Explorer Shell:AppsFolder**​ and press **Enter**.  
 ![Open AppsFolder Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-appsfolder-using-command-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. How to Open AppsFolder Using Windows PowerShell
 
  Windows PowerShell is also a command-line tool, and you can use it to open the AppsFolder. Follow these steps:
@@ -80,10 +84,6 @@ thumbnail: https://thmb.techidaily.com/3ad4f7e8b48f19c37105255d0826afad52f6608be
 2. Select **Windows PowerShell** from the results list.
 3. Once the Windows PowerShell window appears, type **Explorer Shell:AppsFolder** and press Enter.  
 ![Open AppsFolder Using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-appsfolder-using-powershell.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  That's it! The AppsFolder window opens with all your installed applications listed inside.
 
@@ -95,6 +95,10 @@ thumbnail: https://thmb.techidaily.com/3ad4f7e8b48f19c37105255d0826afad52f6608be
 2. Type **Explorer Shell:AppsFolder** in the Location box and click **Next**.  
 ![Open AppsFolder Using Desktop Shortcut-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-appsfolder-using-desktop-shortcut-1.jpg)
 3. Name your shortcut like “Apps Folder” or whatever you want to call it, and click **Finish**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Name the Desktop Shortcut key-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/name-the-desktop-shortcut-key-1.jpg)
 
@@ -110,14 +114,10 @@ thumbnail: https://thmb.techidaily.com/3ad4f7e8b48f19c37105255d0826afad52f6608be
 ![Open AppsFolder Using Shortcut Key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-appsfolder-using-shortcut-key.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The shortcut key will appear next to the **Ctrl + Alt** options. You can now quickly open the AppsFolder with this keyboard shortcut.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Getting to the AppsFolder Quickly on Windows
 
@@ -135,24 +135,24 @@ thumbnail: https://thmb.techidaily.com/3ad4f7e8b48f19c37105255d0826afad52f6608be
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-efficient-techniques-accelerating-or-decelerating-instagram-stories-for-2024/"><u>[New] Efficient Techniques Accelerating or Decelerating Instagram Stories for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/treamlined-sharing-the-best-shortened-link-apps-for-youtubers/"><u>[New] Streamlined Sharing The Best Shortened Link Apps for Youtubers</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-digital-companion-fb-stories-collector/"><u>[Updated] Digital Companion - FB Stories Collector</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-transform-your-facebook-vids-to-mp3-easy-and-fast/"><u>2024 Approved Transform Your Facebook Vids to MP3 - Easy & Fast</u></a></li>
-<li><a href="https://windows11.techidaily.com/does-the-print-screen-key-open-the-snipping-tool-in-windows-11-heres-how-to-stop-it/"><u>Does the Print Screen Key Open the Snipping Tool in Windows 11? Here’s How to Stop It</u></a></li>
-<li><a href="https://windows11.techidaily.com/efficient-techniques-overcoming-wwe-2k23-crash-issues-in-windows/"><u>Efficient Techniques: Overcoming WWE 2K23 Crash Issues in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/effortlessly-jump-to-handheneld-hits-win-11-and-android-via-google-play-access/"><u>Effortlessly Jump to Handheneld Hits: Win 11 & Android via Google Play Access</u></a></li>
-<li><a href="https://windows11.techidaily.com/elevate-your-windows-experience-with-tpm-and-secure-boot-setup/"><u>Elevate Your Windows Experience with TPM & Secure Boot Setup</u></a></li>
-<li><a href="https://windows11.techidaily.com/eliminating-ads-from-win-11s-start-interface/"><u>Eliminating Ads From Win 11'S Start Interface</u></a></li>
-<li><a href="https://windows11.techidaily.com/eliminating-chromes-grey-screen-hurdle/"><u>Eliminating Chrome's Grey Screen Hurdle</u></a></li>
-<li><a href="https://windows11.techidaily.com/eliminating-hexadecimal-errors-the-zeroxc000003e-guide/"><u>Eliminating Hexadecimal Errors: The ZeroXC000003E Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/enabling-samsung-dex-a-step-by-step-pc-control/"><u>Enabling Samsung DeX: A Step-by-Step PC Control</u></a></li>
-<li><a href="https://windows11.techidaily.com/error-rectified-fix-installation-of-mspm/"><u>Error Rectified: Fix Installation of MSPM</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-14-pro-max-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 14 Pro Max System? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-htc-u23-by-fonelab-android-recover-music/"><u>How to restore wiped music on HTC U23</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-honor-90-gt-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Honor 90 GT Location by Number | Dr.fone</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-your-selling-strategy-with-lazlive-live-selling-for-2024/"><u>New Your Selling Strategy With LazLive Live Selling for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-tips-to-overcome-common-workspace-failures-on-windows/"><u>Quick Tips to Overcome Common Workspace Failures on Windows</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-oneplus-11-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from OnePlus 11 5G to Gmail | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-ultimate-guide-vimeo-video-grabs-for-2024/"><u>[New] Ultimate Guide Vimeo Video Grabs for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-comprehensive-examination-razer-kiyo-cam/"><u>[Updated] Comprehensive Examination Razer Kiyo Cam</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-elevate-speech-clarity-chromebooks-best-voice-modification-extensions/"><u>[Updated] Elevate Speech Clarity Chromebook's Best Voice Modification Extensions</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-multiple-monitor-troubles-in-windows/"><u>Fixing Multiple-Monitor Troubles in Windows</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-vivo-v29-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-halt-chromiums-automatic-creation-of-new-windows-tabs/"><u>How to Halt Chromium's Automatic Creation of New Windows Tabs</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-x-without-passcode-or-face-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock iPhone X without Passcode or Face ID</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-x5-pro-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Poco X5 Pro Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pro-stream-wars-choosing-between-vmix-and-wirecast/"><u>In 2024, Pro-Stream Wars Choosing Between VMix and Wirecast</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-the-art-of-creating-secure-window-11-lock-patterns/"><u>Master the Art of Creating Secure Window 11 Lock Patterns</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-startup-routine-windows-exploration-guide/"><u>Mastering the Startup Routine: Windows Exploration Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/saving-your-windows-11-fix-system-call-failed/"><u>Saving Your Windows 11: Fix System Call Failed</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-activation-of-windows-11s-dialer/"><u>Seamless Activation of Windows 11'S Dialer</u></a></li>
+<li><a href="https://windows11.techidaily.com/secrets-to-overcoming-non-installed-hard-drive-dilemranacies-win-11-edition/"><u>Secrets to Overcoming Non-Installed Hard Drive Dilemranacies, Win 11 Edition</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/securing-your-data-step-by-step-guide-to-safe-mountpoint-setup-with-amazon-s3/"><u>Securing Your Data: Step-by-Step Guide to Safe Mountpoint Setup with Amazon S3</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-engage-windows-terminal-in-quake/"><u>Steps to Engage Windows Terminal in Quake</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-most-effective-ways-to-bypass-apple-iphone-14-pro-activation-lock-by-drfone-ios/"><u>The Most Effective Ways to Bypass Apple iPhone 14 Pro Activation Lock</u></a></li>
+<li><a href="https://windows11.techidaily.com/transform-stuck-windows-handbrake-usage/"><u>Transform Stuck Windows HandBrake Usage</u></a></li>
 </ul></div>
 

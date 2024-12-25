@@ -1,7 +1,7 @@
 ---
 title: The Beginner's Guide to the Windows 11 Calendar
-date: 2024-08-08T06:04:54.616Z
-updated: 2024-08-09T06:04:54.616Z
+date: 2024-12-22T19:08:54.118Z
+updated: 2024-12-25T16:05:56.635Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/4914ba55ffacf89f7eecf219812b0360d597ec646
 
  With the Calendar app on Windows 11, you can do everything from creating an event reminder to a schedule setup—without the complexity that's necessary for using third-party apps. So let's look at all the ways you can make use of the Calendar app on Windows 11\.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Install and Set Up Your Calendar Account on Windows 11
 
  If you are looking to [set up your account on Windows 11](https://www.makeuseof.com/windows-11-create-local-user-account/), you first need to check if you have the Calendar app installed on your PC in the first place.
@@ -33,14 +30,15 @@ thumbnail: https://thmb.techidaily.com/4914ba55ffacf89f7eecf219812b0360d597ec646
 2. From the search bar on the top, type in 'mail and calendar', and select the **Mail and Calendar** app from Microsoft, as shown below.
 3. Click on **Install** to get the app on your Windows 11\.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![mail and calendar app on microsoft store app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/mail-and-calendar-app-on-microsoft-store-app.jpg)
 
  As soon as you go through the above steps, installation of the Calendar app on your Windows 11 will begin in a few seconds. From there, sign in to the app with your Microsoft account, and you will be able to use the app from here on.
 
  Once the app is installed, you find it from the Start menu search bar, from your taskbar, or you can [add the app to your Windows Start menu](https://www.makeuseof.com/windows-start-menu-add-remove-items/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Scheduler Your Events in Calendar
 
@@ -54,18 +52,24 @@ thumbnail: https://thmb.techidaily.com/4914ba55ffacf89f7eecf219812b0360d597ec646
 4. Now, you can put in the event name, time, and even the place of the event to fill in all the event details.
 5. Click **Save** to solidify the information, and you will be ready.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![event on the calendar app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/event-on-the-calendar-app-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After you have created the event as we laid down in the above steps, you will get the specified date marked with a notification, as you can see below.
 
 ![event on the calendar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/event-on-the-calendar.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Use the Calendar Feature
 
  When you first log in and start using the Calendar app, you will notice many default calendars on your app from before. You can add many more.
@@ -74,28 +78,17 @@ thumbnail: https://thmb.techidaily.com/4914ba55ffacf89f7eecf219812b0360d597ec646
 
  From the newly launched **Add calendars** dialog box, you can select from a slew of calendar options: Holiday calendars, Sports, NBA, NHL, and so on. For example, click on **Holiday calendars**, and you will then get to select the country of your choice.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![calendars menu on windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/calendars-menu-on-windows-11.jpg)
 
  Now go back to your Calendar, and you will see all the essential festive dates marked as holidays in your famous festivals. In our case, we see the date for Labor Day, a prominent holiday celebrated in the USA, marked out differently from the rest.
 
  You are, of course, free to add in multiple holiday calendars like this, whether of different countries or sports events.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![calendar app main menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/calendar-app-main-menu.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Our only tip, though, will be to keep yourself from adding too many calendars right away; that will complicate your Calendar very quickly and will beat the very purpose of using Calendar.
 
@@ -113,9 +106,6 @@ thumbnail: https://thmb.techidaily.com/4914ba55ffacf89f7eecf219812b0360d597ec646
 
  The Calendar Settings on your PC is the only place where you can tweak the first day of the week, your days in a week, and your working hours—it has a separate section for all the options.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![calendar app accounts settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/calendar-app-accounts-1.jpg)
 
  Apart from this, the Calendar app offers a unique way to choose your language and a host of different calendars, such as Hijri, Saka Hera, and so on. So you should definitely play around with the settings and pick the ones that suit you best.
@@ -126,23 +116,15 @@ thumbnail: https://thmb.techidaily.com/4914ba55ffacf89f7eecf219812b0360d597ec646
 
  To invite someone to your meeting, just head to the **People** section and click on the **Contacts** icon. From there, start typing in your saved contacts and then select the best match to add and send an invitation.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![calendar menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/calendar-menu.jpg)
 
  Another handy feature is **Repeat**, situated right above the **People** section. Just click on the **Repeat** icon, select how often you would like your event or reminder to repeat (weekly, monthly, or yearly), and put in the date and time. That's it; your event will repeat from here on unless you cancel it manually.
 
 ![repeat feature on calendar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/repeat-feature-on-calendar.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Using Your Calendar on Windows 11 Computer
 
@@ -150,11 +132,31 @@ thumbnail: https://thmb.techidaily.com/4914ba55ffacf89f7eecf219812b0360d597ec646
 
  With the Calendar app on Windows 11, you can do everything from creating an event reminder to a schedule setup—without the complexity that's necessary for using third-party apps. So let's look at all the ways you can make use of the Calendar app on Windows 11\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-solidify-iphone-hdr-quality-with-4-key-editing-steps-for-2024/"><u>[Ultimate Guide] Solidify iPhone HDR Quality with 4 Key Editing Steps for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-beauty-brilliance-inside-the-world-of-youtube-cosmetics-for-2024/"><u>[Updated] Beauty Brilliance Inside the World of Youtube Cosmetics for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-simplifying-video-content-on-vimeo-with-right-plan-selection/"><u>[Updated] Simplifying Video Content on Vimeo with Right Plan Selection</u></a></li>
+<li><a href="https://windows11.techidaily.com/guiding-through-chrome-edge-and-firefox-pasting-fixes/"><u>Guiding Through Chrome, Edge & Firefox Pasting Fixes</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-oppo-a1-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Oppo A1 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Vivo S17e? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/key-to-command-line-shorthand-in-program-launches/"><u>Key to Command Line Shorthand in Program Launches</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-8-windows-cutting-apps-for-videos/"><u>Master 8 Windows Cutting Apps for Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/masterclass-in-making-panzoids-for-2024/"><u>Masterclass in Making Panzoids for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximizing-frame-rates-in-rainbow-six-extraction-proven-solutions-to-combat-fps-drops/"><u>Maximizing Frame Rates in Rainbow Six Extraction: Proven Solutions to Combat FPS Drops</u></a></li>
+<li><a href="https://windows11.techidaily.com/pathway-to-windows-11-utilizing-windows-7-key-as-a-gateway/"><u>Pathway to Windows 11: Utilizing Windows 7 Key as a Gateway</u></a></li>
+<li><a href="https://windows11.techidaily.com/proving-win-hardware-with-top-6-graphics-testing-apps/"><u>Proving Win Hardware with Top 6 Graphics Testing Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/removing-limitation-message-from-your-windows-admin-account/"><u>Removing Limitation Message From Your Windows Admin Account</u></a></li>
+<li><a href="https://windows11.techidaily.com/resetting-icons-the-step-by-step-process/"><u>Resetting Icons: The Step-by-Step Process</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-control-panel-error-with-missing-display-adjustments/"><u>Resolving Control Panel Error with Missing Display Adjustments</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-features-of-the-garmin-forerunner-945-expert-gps-smartwatch-analysis/"><u>Top Features of the Garmin Forerunner 945: Expert GPS Smartwatch Analysis</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-motorola-moto-g73-5g-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Motorola Moto G73 5G Device</u></a></li>
+</ul></div>
+

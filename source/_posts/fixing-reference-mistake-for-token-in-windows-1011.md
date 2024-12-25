@@ -1,7 +1,7 @@
 ---
 title: Fixing Reference Mistake for Token in Windows 10/11
-date: 2024-12-14T21:06:24.274Z
-updated: 2024-12-16T17:50:58.839Z
+date: 2024-12-20T16:10:39.494Z
+updated: 2024-12-25T19:35:16.622Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. End and Restart File Explorer
 
  If the “reference a token” error occurs when you try to access File Explorer or folders, try restarting the Explorer process. Some users who’ve needed to fix the token reference error have said ending that Windows Explorer process and starting it again worked for them. You can end and restart Explorer as follows:
@@ -36,12 +40,17 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 4. Select **End process** to confirm. The background Windows desktop will go blank when you do that, and restarting Explorer will restore it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click **File** at the top of Task Manager.  
 ![The Run new task option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-new-task.jpg)
 6. Select **Run new task** to access a Create new task box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Input **Explorer.exe** inside the **Open** text box.  
 ![The Create new task window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/create-new-task.jpg)
 8. Select **Create this task with administrative privileges** and click **OK** to restart Explorer.
@@ -59,7 +68,7 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 5. Wait for the command to finish reregistering DLLs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Close your Command Prompt app, bring up the Start menu, and select **Restart**.
@@ -69,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
  If nothing has worked, try these Windows fixes that can fix a wide variety of errors, including this one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Scan and Repair System Files With SFC
@@ -89,10 +98,6 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 
  If that option is grayed out, you can also try restoring the previous Windows build from the **Advanced options** menu. Open recovery options in Settings as outlined in steps one and two above and click **Restart** **now**. Then select **Troubleshoot** \> **Advanced** options and the **Go back** **to previous build** option if available.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Go Back to a Previous Restore Point
 
  System Restore is another tool that can resolve system file issues causing the “reference a token” error, but only if you have that utility enabled on your PC. If there’s a suitable restore point on your PC, you can roll back Windows to a previous point in time that predates the token reference error. Doing so might undo updates and other system changes that triggered the issue.
@@ -104,10 +109,6 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 ### Reset Windows
 
  Resetting Windows 11/10 is a last resort for fixing the “reference a token” error that will probably work. It’s best to save this probable resolution until last because you’ll need to reinstall all third-party UWP and desktop apps installed before the reset. You can apply this possible resolution as instructed within method one of our [how to factory reset Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/#:~:text=To%20run%20a%20Windows%20factory,%3E%20Update%20%26%20Security%20%3E%20Recovery.) guide.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Get the “Reference a Token” Error Sorted Out
 
@@ -125,18 +126,19 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/he-mystery-of-unlisted-content-on-youtube-explored/"><u>[New] The Mystery of Unlisted Content on YouTube Explored</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-the-most-inexpensive-video-cameras-reviewed/"><u>2024 Approved The Most Inexpensive Video Cameras Reviewed</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/como-subir-y-editar-videos-en-imovie-el-mejor-convertidor-para-usar/"><u>Cómo Subir Y Editar Videos en iMovie: El Mejor Convertidor Para Usar</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-fix-netflix-error-ui-800-3/"><u>How to Fix Netflix Error UI-800-3</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-stop-windows-from-automatically-locking-itself/"><u>How to Stop Windows From Automatically Locking Itself</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-directdraw-repair-techniques-on-the-latest-version-of-windows/"><u>Mastering DirectDraw Repair Techniques on the Latest Version of Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-technology-with-toms-hardware-insights/"><u>Navigating Technology with Tom's Hardware Insights</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-fixes-resetting-and-restoring-search-on-windows-11-settings-ui/"><u>Quick Fixes: Resetting and Restoring Search on Windows 11 Settings UI</u></a></li>
-<li><a href="https://windows11.techidaily.com/tactical-plan-to-vanquish-wows-deadly-error-132-in-osxwin/"><u>Tactical Plan to Vanquish WoW's Deadly Error #132 in OSX/Win</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-economics-of-evaluating-everything-on-electronic-streams-for-2024/"><u>The Economics of Evaluating Everything on Electronic Streams for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-story-of-facebook-origins-unraveled-insights-on-its-global-appeal-and-fundamental-elements/"><u>The Story of Facebook: Origins Unraveled, Insights on Its Global Appeal, and Fundamental Elements</u></a></li>
-<li><a href="https://windows11.techidaily.com/turbocharge-storage-space-with-win11-defrag-guide/"><u>Turbocharge Storage Space with Win11 Defrag Guide</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultimate-microsoft-surface-laptop-4-analysis-top-of-the-line-performance/"><u>Ultimate Microsoft Surface Laptop 4 Analysis: Top-of-the-Line Performance</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-30-powerful-freegame-hashtags-for-dominating-youtube/"><u>[New] 30 Powerful FreeGame Hashtags for Dominating YouTube</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-eye-catching-typography-top-5-font-tools-to-propel-your-tiktok-growth/"><u>[New] In 2024, Eye-Catching Typography Top 5 Font Tools to Propel Your TikTok Growth</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-synchronizing-teams-mastering-device-agnostic-zoom-events-for-2024/"><u>[New] Synchronizing Teams Mastering Device-Agnostic Zoom Events for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-capturing-life-from-above-yuneec-breeze-experience/"><u>[Updated] Capturing Life From Above Yuneec Breeze Experience</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-mastering-windows-8-moviemaker-step-by-step-guide-for-2024/"><u>[Updated] Mastering Windows 8 Moviemaker Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-mute-microphones-reclaim-your-systems-voice/"><u>Fixing Mute Microphones: Reclaim Your System's Voice</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-hardware-problems-were-detected-error-in-the-windows-memory-diagnostic-tool/"><u>How to Fix the Hardware Problems Were Detected Error in the Windows Memory Diagnostic Tool</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-flash-dead-nokia-c300-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Nokia C300 Safely | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-getting-acquainted-the-basics-of-ez-grabber-utilization/"><u>In 2024, Getting Acquainted The Basics of EZ Grabber Utilization</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximize-storage-calculating-app-usage-in-windows/"><u>Maximize Storage: Calculating App Usage in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-windows-system-crashes-fixing-c0000022-fatalities/"><u>Navigating Windows System Crashes: Fixing C0000022 Fatalities</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-windows-needs-old-pass-troubleshooting-tips/"><u>Resolving Windows Needs Old Pass: Troubleshooting Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/why-does-task-manager-list-unrelated-processes-under-microsoft-edge/"><u>Why Does Task Manager List Unrelated Processes Under Microsoft Edge?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Motorola Moto G73 5G | Dr.fone</u></a></li>
 </ul></div>
 

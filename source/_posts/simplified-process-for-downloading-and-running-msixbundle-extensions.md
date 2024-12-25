@@ -1,7 +1,7 @@
 ---
 title: Simplified Process for Downloading and Running MSixbundle Extensions
-date: 2024-12-13T18:36:42.704Z
-updated: 2024-12-16T22:16:23.761Z
+date: 2024-12-23T17:36:06.890Z
+updated: 2024-12-25T19:52:29.318Z
 tags:
   - windows10
   - windows11
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/fd4e779227951f738339902ec6bf865ee57c2e0e8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. How to Download Appx/AppxBundle Files Using Adguard
 
 ![adguard msixbundle download](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/adguard-msixbundle-download.jpg)
@@ -52,7 +48,7 @@ To download appx, appxbundle or msixbundle using Adguard:
 8. Next, click on the msixbudle link to download. Microsoft Edge may sometimes block the download as not secure. You can use alternative browsers like Google Chrome and Firefox to compelete the download.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Generate Microsoft Store Apps Direct Download Links Using Fiddler
@@ -67,7 +63,7 @@ To generate a Microsoft Store app downloading link using Fiddler:
 3. In the**AppContainer Lookback** **Exception Utility** dialog, scroll down and check the**Microsoft Store** box.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Fiddler app container loopback exception utlility](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fiddler-app-container-loopback-exception-utlility.jpg)
@@ -85,12 +81,16 @@ To generate a Microsoft Store app downloading link using Fiddler:
 ![Fiddler copy just url](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fiddler-copy-just-url.jpg)
 5. Right-click on any entry highlighted in yellow and select**Copy > Just URL.**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Open**Google Chrome** or**Firefox** and paste the copied URL in the address bar. Press**Enter** and click**Save** to download the file. On Microsoft Edge, you may face a connection is not secure error. If so, switch to a different browser to complete the download.
 
  To install the downloaded appx, appxbundle, or msixbundle file, you can use PowerShell or the App Installer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Install Appx, Appxbundle and Msixbundle Apps
@@ -102,7 +102,7 @@ To generate a Microsoft Store app downloading link using Fiddler:
 ![install appxbundle double click](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-appxbundle-double-click.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can install some appx, appxbundle, and msixbundle files like you would do with any .exe file. Follow these steps to sideload and install Universal Windows Platform apps.
@@ -115,6 +115,10 @@ To generate a Microsoft Store app downloading link using Fiddler:
 ### 2\. Install Appx, Appxbundle, and Msixbundle using App Installer
 
 ![microsoft app installer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/microsoft-app-installer.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Microsoft offers an official App Installer to sideload Windows 10 apps. However, this app installer also works on Windows 11\. If you encounter an error when sideloading apps using the convention double-click method, the App Installer will do the trick.
 
@@ -151,10 +155,6 @@ To enable Developer Mode on Windows 11
 
 ![enable developer mode windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-developer-mode-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Press**Win + I** to open**Settings** .
 2. Open the**Privacy & Security** tab in the left pane,
 3. Click on**For Developers** and then toggle the switch for**Developer Mode.**
@@ -178,22 +178,20 @@ To enable Developer Mode on Windows 11
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/mp4ogv/"><u>「MP4ファイルをOGV形式にシームレスに変換する究極ガイド」</u></a></li>
-<li><a href="https://windows11.techidaily.com/exiting-others-user-sessions-on-win-11/"><u>Exiting Others' User Sessions on Win 11</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-oppo-find-x6-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Oppo Find X6 in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-persistent-subnautica-below-zero-pc-game-crashing-problems-efficiently/"><u>How to Fix Persistent Subnautica (Below Zero) PC Game Crashing Problems Efficiently</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-stop-the-license-will-expire-warning-in-win11/"><u>How to Stop the License Will Expire Warning in Win11</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-m54-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy M54 5G to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-ultimate-guide-to-live-streaming-fb-on-laptops-macs-and-pcs/"><u>In 2024, Ultimate Guide to Live Streaming FB on Laptops, Macs, and PCs</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-intel-raid-controller-driver-updates-and-downloads-for-various-windows-versions/"><u>Latest Intel RAID Controller Driver Updates & Downloads for Various Windows Versions</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/pixelation-portraiture-sketching-a-playful-virtual-emblem-for-2024/"><u>Pixelation Portraiture Sketching a Playful Virtual Emblem for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/priority-accessibility-attach-google-mail-taskbar-ready/"><u>Priority Accessibility: Attach Google Mail Taskbar-Ready</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-steps-to-resolve-steams-internet-connectivity/"><u>Quick Steps to Resolve Steam's Internet Connectivity</u></a></li>
-<li><a href="https://windows11.techidaily.com/securely-expanding-windows-volume-no-deletion-compatible/"><u>Securely Expanding Windows Volume, No Deletion Compatible</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-methodology-for-full-uninstallation-of-wsl/"><u>Step-by-Step Methodology for Full Uninstallation of WSL</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-pin-verification-hurdles-for-windows-1011-systems/"><u>Tackling PIN Verification Hurdles for Windows 10/11 Systems</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-realme-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Realme without backup.</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-vivo-s18-by-drfone-android/"><u>Three Ways to Sim Unlock Vivo S18</u></a></li>
-<li><a href="https://windows11.techidaily.com/unleashing-peak-performance-why-choose-windows-for-gaming/"><u>Unleashing Peak Performance: Why Choose Windows for Gaming</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-6-high-definition-21-hdmi-models-analyzed/"><u>[New] 2024 Approved 6 High-Definition 2.1 HDMI Models Analyzed</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-leading-audio-transformation-software-listings-for-2024/"><u>[New] Leading Audio Transformation Software Listings for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/addressing-legal-constraints-of-chatgpt-evolutions-in-the-google-news-feed-algorithm-and-strategies-for-uninterrupted-mobile-internet-during-vacations/"><u>Addressing Legal Constraints of ChatGPT: Evolutions in the Google News Feed Algorithm & Strategies for Uninterrupted Mobile Internet During Vacations</u></a></li>
+<li><a href="https://techtrends.techidaily.com/end-unwanted-sms-a-3-step-guide-to-blocking-spam-text-messages-on-iphones-tips-from-tech-experts/"><u>End Unwanted SMS: A 3-Step Guide to Blocking Spam Text Messages on iPhones - Tips From Tech Experts</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-unveiling-dji-phantom-3-a-complete-technical-review/"><u>In 2024, Unveiling DJI Phantom 3 A Complete Technical Review</u></a></li>
+<li><a href="https://windows11.techidaily.com/keeping-taskmanager-visible-above-others/"><u>Keeping TaskManager Visible Above Others</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-file-archives-cli-mastery-in-windows/"><u>Navigating File Archives: CLI Mastery in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-systems-blocked-app-barrier/"><u>Overcoming System's Blocked App Barrier</u></a></li>
+<li><a href="https://windows11.techidaily.com/reclaiming-defaults-in-win11-command-prompt/"><u>Reclaiming Defaults in Win11 Command Prompt</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-to-nokia-c110-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Nokia C110 Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-false-alarms-in-chrome-security-alert/"><u>Troubleshooting False Alarms in Chrome Security Alert</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-and-resolving-win10win11-security-faults/"><u>Understanding & Resolving Win10/Win11 Security Faults</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-windows-sign-in-option-post-fail/"><u>Unlocking Windows Sign-In Option Post-Fail</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/world-languages-at-your-fingertips-discover-mondly-vr-learning-platform/"><u>World Languages at Your Fingertips - Discover Mondly VR Learning Platform</u></a></li>
 </ul></div>
 

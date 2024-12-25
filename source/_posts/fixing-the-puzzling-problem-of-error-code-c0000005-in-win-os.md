@@ -1,7 +1,7 @@
 ---
 title: Fixing the Puzzling Problem of Error Code C0000005 in Win-OS
-date: 2024-12-09T22:15:23.652Z
-updated: 2024-12-16T22:24:52.348Z
+date: 2024-12-22T19:10:22.752Z
+updated: 2024-12-25T18:05:09.274Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/f3ddbfc1319d06192a1f603baf76c1f6dea1578ed
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Deactivate Data Execution Prevention (DEP)
@@ -46,12 +46,16 @@ bcdedit.exe /set {current} nx AlwaysOff
 ![cmd](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/cmd.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In this case, you will first have to[disable the Windows secure boot](https://www.makeuseof.com/tag/disable-secure-uefi-dual-boot/) , and then repeat the above steps again.
 
  That's it—the DEP will be disabled from here on. Now, give your PC a quick reboot and see if the error 0xc0000005 persists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Check Your App's and PC Version and Compatibility
 
@@ -74,14 +78,10 @@ Similarly, to check the app's version, follow the steps below:
 
 ![installed apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/installed-apps.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now check if the app and your operating system are compatible with each other.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Apply Some Generic Fixes for Fixing Errors on Windows
@@ -98,7 +98,7 @@ Let's go over all of them one by one.
 6. [Perform a Factory Reset](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) : A Factory reset is, as I sometimes like to call it, the "all pulverizer" all Windows problems. It removes your operating system and reinstalls it so you can start again with a clean slate. It's a drastic measure, but sometimes it's the only way to get a Windows error fixed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixing the Error Code 0xc0000005 on a Windows PC
@@ -122,22 +122,17 @@ Let's go over all of them one by one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-is-cash-involved-with-criticism-displays/"><u>[New] Is Cash Involved with Criticism Displays?</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-revolutionizing-art-into-nfts-top-7-tools-explored/"><u>[Updated] 2024 Approved Revolutionizing Art Into NFTs - Top 7 Tools Explored</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-exploring-beyond-manycam-enhanced-alternatives-in-2024/"><u>[Updated] Exploring Beyond ManyCam Enhanced Alternatives, In 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-not-just-carjacking-fun-the-best-non-gta-games-for-2024/"><u>[Updated] Not Just Carjacking Fun The Best Non-GTA Games for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-crafting-gopro-professionals-a-filmmaking-guide/"><u>2024 Approved Crafting GoPro Professionals A Filmmaking Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-no-pay-all-praise-tailor-made-outro-videos-here/"><u>2024 Approved No Pay, All Praise Tailor-Made Outro Videos Here</u></a></li>
-<li><a href="https://extra-information.techidaily.com/a-celebrated-list-top-15-classic-stop-motion-flicks-for-2024/"><u>A Celebrated List Top 15 Classic Stop-Motion Flicks for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-step-by-step-solution-for-spotify-connectivity-fails/"><u>A Step-by-Step Solution for Spotify Connectivity Fails</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-windows-11-key-inactivity-issues/"><u>Addressing Windows 11 Key Inactivity Issues</u></a></li>
-<li><a href="https://windows11.techidaily.com/boost-productivity-with-these-5-essential-windows-folder-practices/"><u>Boost Productivity with These 5 Essential Windows Folder Practices</u></a></li>
-<li><a href="https://windows11.techidaily.com/conquering-parsing-setback-code-0xc00ce556/"><u>Conquering Parsing Setback: Code 0xC00CE556</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-windows-xc0f1103f-geforce-not-working/"><u>Correcting Windows' XC0F1103F GeForce Not Working</u></a></li>
-<li><a href="https://windows11.techidaily.com/custom-menus-on-windows-1111-with-psoft-tools/"><u>Custom Menus on Windows 11/11 with PSoft Tools</u></a></li>
-<li><a href="https://windows11.techidaily.com/demystifying-the-meaning-behind-windows-folders-x-marks/"><u>Demystifying: The Meaning Behind Windows' Folders X-Marks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/hp-touchbook-with-companion-wireless-mouse-and-office-365-suite-complete-tech-bundle-at-400-special-offer/"><u>HP Touchbook with Companion Wireless Mouse & Office 365 Suite - Complete Tech Bundle at $400 Special Offer</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719265109241-master-google-chromes-filesync-on-your-windows-device-now/"><u>Master Google Chrome's Filesync on Your Windows Device Now</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-voicing-efficiency-a-comprehensive-review-of-the-top-6-auto-transcribing-software-systems/"><u>Updated 2024 Approved Voicing Efficiency A Comprehensive Review of the Top 6 Auto-Transcribing Software Systems</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-quick-guide-to-collecting-massive-tiktok-video-collections/"><u>[New] Quick Guide to Collecting Massive TikTok Video Collections</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-unlocking-asmr-potential-professional-filming-practices-revealed/"><u>[Updated] Unlocking ASMR Potential Professional Filming Practices Revealed</u></a></li>
+<li><a href="https://solve-news.techidaily.com/effortless-site-personalization-via-advanced-cookie-technology-backed-by-cookiebot/"><u>Effortless Site Personalization via Advanced Cookie Technology - Backed by Cookiebot</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-the-random-selection-of-default-windows-printer/"><u>Fixing the Random Selection of Default Windows Printer</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, iPogo will be the new iSpoofer On Apple iPhone 11? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-6-tools-for-audiovisual-interpretation/"><u>In 2024, Ultimate 6 Tools for Audio/Visual Interpretation</u></a></li>
+<li><a href="https://windows11.techidaily.com/indispensable-items-on-the-agenda-prior-to-os-clean-slate/"><u>Indispensable Items on the Agenda Prior to OS Clean Slate</u></a></li>
+<li><a href="https://windows11.techidaily.com/innovating-user-experience-ais-role-in-windows-11/"><u>Innovating User Experience: AI's Role in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/keyboard-command-compendium-masterful-win11-narrator-use/"><u>Keyboard Command Compendium: Masterful Win11 Narrator Use</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/step-by-step-laptop-screenrecord-guide-for-2024/"><u>Step-by-Step Laptop ScreenRecord Guide for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/taming-the-printer-busy-state-in-win11/"><u>Taming the Printer Busy State in Win11</u></a></li>
 </ul></div>
 

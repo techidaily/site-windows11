@@ -1,7 +1,7 @@
 ---
 title: "Optimize Your Workspace: Dragging Tabs, Window Explorer Ways"
-date: 2024-12-09T16:12:27.459Z
-updated: 2024-12-16T22:53:27.988Z
+date: 2024-12-18T17:09:00.889Z
+updated: 2024-12-25T16:57:56.944Z
 tags:
   - windows10
   - windows11
@@ -31,21 +31,21 @@ thumbnail: https://thmb.techidaily.com/98a99e3eeb7551ca233212f1d8efc0e3f75521fee
 
 ![Dragging out tabs in Chrome Browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dragging-out-tabs-in-chrome-browser.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  So, you can have two file locations open in two separate tabs in File Explorer. But if you have to stack them side by side, there is no such option. You will have to close one tab (if you like) and open another instance of File Explorer and then use the split-screen layout.
 
  Thankfully, the latest Insider build 25290 has a hidden feature that makes it possible to drag out tabs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Enable the Drag-Out Feature in File Explorer
 
  This feature is exclusive to Windows 11 Insider builds and is in the testing phase. So, you will have to download and install the build version 25290 and then use the ViveTool to enable the feature.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Update to the Latest Insider Build
 
@@ -71,11 +71,11 @@ thumbnail: https://thmb.techidaily.com/98a99e3eeb7551ca233212f1d8efc0e3f75521fee
 9. Try to drag the tabs out of File Explorer. It will open in a second window. You can stack them on each side if you like.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can You Restore the Tab to the File Explorer Window?
@@ -85,7 +85,7 @@ thumbnail: https://thmb.techidaily.com/98a99e3eeb7551ca233212f1d8efc0e3f75521fee
  If you aren’t able to accurately position the tab, it will not merge with the File Explorer tab bar. In Chrome browser, dragging out and restoring them to the same window is pretty easy. You can even hover the tab and position it between two open tabs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Drag Tabs Out Like a Pro in File Explorer
@@ -107,21 +107,20 @@ thumbnail: https://thmb.techidaily.com/98a99e3eeb7551ca233212f1d8efc0e3f75521fee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-essential-tutorial-navigating-mobizen-recording-features-for-2024/"><u>[New] Essential Tutorial Navigating Mobizen Recording Features for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-connect-online-screen-sharing-secrets-for-live-streaming-for-2024/"><u>[Updated] Connect Online Screen-Sharing Secrets for Live Streaming for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-from-front-to-back-a-step-by-step-guide-for-instagram-video-angles/"><u>[Updated] In 2024, From Front to Back A Step-by-Step Guide for Instagram Video Angles</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-navigate-and-neutralize-your-own-overly-green-spectrum-in-youtube-videos-mac-for-2024/"><u>[Updated] Navigate and Neutralize Your Own Overly Green Spectrum in YouTube Videos (Mac) for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-screen-scrapers-companion-easy-steps-to-save-tweets-visuals-for-2024/"><u>[Updated] Screen Scrapers' Companion Easy Steps to Save Tweets' Visuals for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-anon-fb-live-watchers-group/"><u>2024 Approved Anon FB Live Watchers Group</u></a></li>
-<li><a href="https://windows11.techidaily.com/5-proven-strategies-for-superior-windows-11-search-performance/"><u>5 Proven Strategies for Superior Windows 11 Search Performance</u></a></li>
-<li><a href="https://windows11.techidaily.com/activating-restoration-features-your-pathway-through-windows-11/"><u>Activating Restoration Features: Your Pathway Through Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/adjusting-windows-11s-task-manager-launch-interface/"><u>Adjusting Windows 11'S Task Manager Launch Interface</u></a></li>
-<li><a href="https://windows11.techidaily.com/adopting-a-context-menu-toolbar-alert-for-routine-update-checks-on-windows-11plus11/"><u>Adopting a Context Menu Toolbar Alert for Routine Update Checks on Windows 11+11</u></a></li>
-<li><a href="https://windows11.techidaily.com/correct-windows-11s-no-error-zero-error-flaw-quickly/"><u>Correct Windows 11'S No Error, Zero-Error Flaw Quickly</u></a></li>
-<li><a href="https://windows11.techidaily.com/customize-taskbar-and-menu-on-windows-1011-easily/"><u>Customize Taskbar & Menu on Windows 10/11 Easily</u></a></li>
-<li><a href="https://windows11.techidaily.com/disabling-inadvertent-launches-of-ms-storeapp/"><u>Disabling Inadvertent Launches of MS StoreApp</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/guide-tracking-a-contacts-position-using-your-iphone/"><u>Guide: Tracking a Contact's Position Using Your iPhone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-gt-3-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme GT 3 To Phone | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/the-complete-breakdown-setting-up-game-capture-on-ps4-console/"><u>The Complete Breakdown Setting Up Game Capture on PS4 Console</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-efficient-tricks-to-scramble-youtube-playlists-pcphonetv/"><u>[New] 2024 Approved Efficient Tricks to Scramble YouTube Playlists (PC/Phone/TV)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-documenting-digital-dialogues-for-2024/"><u>[New] Documenting Digital Dialogues for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-how-to-effectively-share-youtube-links-on-instagrams-story-feature/"><u>[New] How to Effectively Share YouTube Links on Instagram's Story Feature</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-basics-of-digital-imagery-sizes/"><u>[Updated] Unveiling the Basics of Digital Imagery Sizes</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-techniques-to-resurrect-an-unopenable-notepad-on-pc/"><u>Essential Techniques to Resurrect an Unopenable Notepad on PC</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-loom-lens-illuminating-your-recording-journey/"><u>In 2024, Loom Lens Illuminating Your Recording Journey</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-tapping-into-the-telegraphic-trend-maximizing-your-telegram-presence/"><u>In 2024, Tapping Into the Telegraphic Trend Maximizing Your Telegram Presence</u></a></li>
+<li><a href="https://windows11.techidaily.com/innovative-design-techniques-for-customizing-windows-outlook-calendars/"><u>Innovative Design Techniques for Customizing Windows Outlook Calendars</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-to-index-settings-on-windows/"><u>Navigate to Index Settings on Windows</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reactivating-vintage-visual-archives/"><u>Reactivating Vintage Visual Archives</u></a></li>
+<li><a href="https://windows11.techidaily.com/speedy-data-retrieval-on-pc-embracing-everythingapp/"><u>Speedy Data Retrieval on PC: Embracing EverythingApp</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-bypassing-cannot-end-task-error-in-windows/"><u>Tips for Bypassing 'Cannot End Task Error' In Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-on-preventing-windows-notepad-hangouts/"><u>Tips on Preventing Windows Notepad Hangouts</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/top-rated-clear-screen-protector-background-applications-for-android-and-iphone-devices/"><u>Top Rated Clear Screen Protector Background Applications for Android and iPhone Devices</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-create-stunning-animated-videos-with-these-12-online-makers-for-2024/"><u>Updated Create Stunning Animated Videos with These 12 Online Makers for 2024</u></a></li>
 </ul></div>
 

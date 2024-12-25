@@ -1,7 +1,7 @@
 ---
 title: "Synchronize Your Files: Collective Directory Creation in Win11+11"
-date: 2024-12-14T16:21:16.368Z
-updated: 2024-12-16T19:40:58.381Z
+date: 2024-12-24T17:21:04.335Z
+updated: 2024-12-25T18:20:14.653Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/2ceae87a9b9364e8de7f8199f6943542799e9e444
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Use the Command Prompt to Create Multiple Folders at Once
 
  In this first method, we will be using a command-line utility called Command Prompt in Windows. Unless you are very tech-savvy, you may not have noticed it anywhere in Windows, but it has been around for quite a long time.
@@ -43,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/2ceae87a9b9364e8de7f8199f6943542799e9e444
 3. Click **Yes** in the User Account Control prompt.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Type the following command in the Command Prompt window and hit **Enter** to execute it. Make sure to replace the \[location\] with the location where you want to create multiple folders.  
@@ -72,7 +68,7 @@ thumbnail: https://thmb.techidaily.com/2ceae87a9b9364e8de7f8199f6943542799e9e444
 5. Once done, execute the following command. Replace the \[foldername\] with the names you want to give the folders.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `md "[foldername]", "[foldername]", "[foldername]", "[foldername]"`
@@ -81,10 +77,14 @@ thumbnail: https://thmb.techidaily.com/2ceae87a9b9364e8de7f8199f6943542799e9e444
 ![File names command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win11-terminal-md-files.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Finally, close the Powershell window and check if the folders have been created.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Use the Notepad to Create Multiple Folders at Once
 
@@ -104,10 +104,6 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
 
 ![Save as option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/notepad-save-as.jpg)
 5. Give your file a name followed by **.bat**. For instance, we named our file as makeuseof.bat.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Notepad file name](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/notepad-file-name.jpg)
 6. Expand the dropdown for Save as type and choose **All files**.
@@ -138,12 +134,16 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
 4. Once the Folder Frenzy dialog launches, type the names of the folders you want to create and click on the **Create Folder** button. These folders will be created in the Folder Frenzy file.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Create folder in Folder Frenzy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/folder-frenzy-create-folder.jpg)
 
  From here, you can even take a step further and learn [how to launch multiple programs with one shortcut on Windows](https://www.makeuseof.com/tag/launch-multiple-programs-single-shortcut-using-batch-file/) to increase your productivity at work or school. In case you no longer need the tool after creating bulk folders, you can uninstall it. This won't automatically delete the folders you have created using the tool, unless the uninstallation process explicitly offers to do so and you confirm that action.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Create Multiple Folders in a Few Clicks on Windows
 
@@ -163,24 +163,24 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-how-to-make-awesome-youtube-channel-art-ultimate-guide/"><u>[New] 2024 Approved How to Make Awesome YouTube Channel Art [Ultimate Guide]</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-the-void-of-originality-in-vr-content/"><u>[New] Exploring the Void of Originality in VR Content</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-a-creators-primer-to-understanding-major-content-providers-for-2024/"><u>[Updated] A Creator's Primer to Understanding Major Content Providers for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-hot-list-todays-youtube-sensations-for-2024/"><u>[Updated] Hot List Today's YouTube Sensations for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-whats-different-on-facebook-a-comprehensive-overview/"><u>[Updated] In 2024, What's Different on Facebook? - A Comprehensive Overview</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/15plus-4k1080p/"><u>15+無料高清影片转换工具 - 从4K到1080p，或者反过来</u></a></li>
-<li><a href="https://windows11.techidaily.com/expert-windows-pathways-to-filefolder-secrets/"><u>Expert Windows Pathways to File/Folder Secrets</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-error-0x8019-in-windows-updates/"><u>Fixing Error 0X8019 in Windows Updates</u></a></li>
-<li><a href="https://windows11.techidaily.com/from-novice-to-pro-mastering-github-desktop-on-windows-11/"><u>From Novice to Pro: Mastering GitHub Desktop on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-stop-win11-from-showing-00-error-codes/"><u>How to Stop Win11 From Showing 00 Error Codes</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-strategies-for-effortlessly-sharing-youtube-videos-on-fb/"><u>In 2024, Strategies for Effortlessly Sharing YouTube Videos on FB</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/is-auroras-premium-tech-a-wise-investment/"><u>Is Aurora's Premium Tech a Wise Investment?</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-sefx-windows-11-sfx-creation/"><u>Mastering SEFX: Windows 11 SFX Creation</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimizing-microphone-performance-with-xbox-app-windows-11/"><u>Optimizing Microphone Performance with Xbox App Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/preventive-measures-for-csgo-launch-woes-on-windows-11/"><u>Preventive Measures for CS:GO Launch Woes on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/techniques-to-deal-with-missing-values-on-pcs-running-winos/"><u>Techniques to Deal with Missing Values on PCs Running WinOS</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/understanding-the-smart-capabilities-of-android-operating-system/"><u>Understanding the Smart Capabilities of Android Operating System</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-hidden-potential-in-vintage-video-gaming-titles-using-retroarch/"><u>Unlocking Hidden Potential in Vintage Video Gaming Titles Using Retroarch</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-get-final-cut-pro-for-less-take-advantage-of-educational-pricing-for-2024/"><u>Updated Get Final Cut Pro for Less Take Advantage of Educational Pricing for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-aspect-ratio-guidelines-for-twitter-videos/"><u>[Updated] In 2024, Aspect Ratio Guidelines for Twitter Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/accessible-alternatives-googles-simplicity-versus-samsungs-innovation/"><u>Accessible Alternatives Google's Simplicity Versus Samsung's Innovation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enjoy-movie-nights-at-home-connecting-fandango-to-apple-tv/"><u>Enjoy Movie Nights at Home: Connecting Fandango to Apple TV</u></a></li>
+<li><a href="https://win-able.techidaily.com/future-proof-gaming-anticipated-changes-to-rainbow-six-siege/"><u>Future-Proof Gaming: Anticipated Changes to Rainbow Six Siege</u></a></li>
+<li><a href="https://windows11.techidaily.com/guides-to-reinstate-windows-print-spooler/"><u>Guides to Reinstate Windows Print Spooler</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-full-review-of-logitechs-ultimate-4k-professional-cam/"><u>In 2024, Full Review of Logitech's Ultimate 4K Professional Cam</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-11s-unidentified-usb-port-problems/"><u>Overcoming Windows 11'S Unidentified USB Port Problems</u></a></li>
+<li><a href="https://windows11.techidaily.com/polishing-windows-11-backgrounds-for-eye-pleasure/"><u>Polishing Windows 11 Backgrounds for Eye Pleasure</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoration-of-microsoft-store-applications-in-1011-systems/"><u>Restoration of Microsoft Store Applications in 10/11 Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/securing-high-scores-fixing-fps-drops-in-valorant/"><u>Securing High Scores: Fixing FPS Drops in Valorant</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-workflow-integrating-a-functional-taskbar-on-slate-devices-windows-11/"><u>Streamlining Workflow: Integrating a Functional Taskbar on Slate Devices (Windows 11)</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/top-strategies-for-retrieving-lost-files-from-damaged-hard-drives/"><u>Top Strategies for Retrieving Lost Files From Damaged Hard Drives</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-tips-and-techniques-to-overcome-finals-wont-start-glitches-in-202/"><u>Top Tips and Techniques to Overcome 'Finals Won't Start' Glitches in 202</u></a></li>
+<li><a href="https://windows11.techidaily.com/transform-your-pc-audio-with-a-fresh-windows-driver-installation/"><u>Transform Your PC Audio With a Fresh Windows Driver Installation</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-and-utilizing-microsofts-phone-link-app/"><u>Understanding and Utilizing Microsoft's Phone Link App</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-vivo-y36-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Vivo Y36 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/wie-wahlt-man-die-richtige-methode-fur-das-wiederherstellen-von-windows-server-backups-auf-einer-virtuellen-maschine-aus/"><u>Wie Wählt Man Die Richtige Methode Für Das Wiederherstellen Von Windows-Server-Backups Auf Einer Virtuellen Maschine Aus?</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-strategies-for-ms-teams-error-80080300/"><u>Win11 Strategies for MS Teams Error 80080300</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-modern-standby-demystified-with-pros-and-cons/"><u>Windows Modern Standby Demystified with Pros & Cons</u></a></li>
 </ul></div>
 

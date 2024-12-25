@@ -1,7 +1,7 @@
 ---
 title: Quick Guide to Eliminate Error 0X0000004E in Win10/11
-date: 2024-12-11T16:53:12.622Z
-updated: 2024-12-16T18:06:05.020Z
+date: 2024-12-22T17:13:26.357Z
+updated: 2024-12-25T17:33:39.569Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/0ec3b3e91ce6c2fd312d0c52b550de8f05b444cc8
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Common Causes of the PFN\_LIST\_CORRUPT Error in Windows
@@ -41,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/0ec3b3e91ce6c2fd312d0c52b550de8f05b444cc8
  Before we delve into the troubleshooting methods for the 0x0000004E error, it is recommended that you [switch to an administrator account](https://www.makeuseof.com/windows-standard-adminstrator-account-differences/) if you are currently using a standard user account. This is because most of the solutions for this issue will require administrative access to the system.
 
  Once you have administrative access, you can proceed with the troubleshooting methods to resolve the 0x0000004E error.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Check Your Hard Drive for Issues
 
@@ -62,10 +58,6 @@ chkdsk /f
 ![CHKDSK command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chkdsk-command.jpg)
 5. If prompted, type Y and hit **Enter**. This will schedule a disk check upon the next system restart.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Finally, restart your computer. Upon reboot, Check Disk will run and scan your hard drive for issues.
 
  This process may take a while, so hang in there. We also recommend keeping a backup of your important files and data before you run Check Disk, just to be safe.
@@ -73,7 +65,7 @@ chkdsk /f
  You can also diagnose and fix a faulty RAM or memory-related issues [using the Memory Diagnostic tool in Windows](https://www.makeuseof.com/ways-to-open-windows-memory-diagnostic/). If the Check Disk utility failed to fix the problem, run the Memory Diagnostic tool and check the results in the Event Viewer. You can then take the necessary steps to fix the problem based on the underlying cause.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Disable Your Antivirus
@@ -86,9 +78,17 @@ chkdsk /f
 
 ![Disable antivirus in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/disable-antivirus-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the error does not appear after disabling the antivirus, then we highly recommend switching to a different, better security program. You can also configure Windows Defender Firewall properly if you do not want to trust a third-party security solution again.
 
  If you're already using Windows Defender, be sure to check out [how to turn off Windows Defender](https://www.makeuseof.com/how-to-turn-off-windows-defender/) and see if that fixes the BSOD.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Other Generic Windows BSOD Fixes to Try
 
@@ -99,7 +99,7 @@ chkdsk /f
  Finally, it's time to pull out the reliable fixes. Windows BSODs are usually due to a common pool of issues, and fixing those problems can fix almost any BSOD, including the 0x0000004E error. As such. be sure to check out our [tips to help you fix a Windows BSOD](https://www.makeuseof.com/tag/4-tips-fix-blue-screen-error/) for all the ways you can fix this issue, and any potential ones you encounter in the future.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## PFN\_LIST\_CORRUPT BSOD, Fixed
@@ -118,22 +118,21 @@ chkdsk /f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-ideal-camcorders-for-high-definition-podcasts/"><u>[Updated] Ideal Camcorders for High-Definition Podcasts</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-rethink-your-youtube-videos-with-these-non-youtube-edits/"><u>[Updated] Rethink Your YouTube Videos with These Non-Youtube Edits</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-infinix-note-30i-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Infinix Note 30i | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-tips-for-navigating-wpm-on-windows-11/"><u>Essential Tips for Navigating WPM on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-bypass-printer-settings-on-windows-11/"><u>How to Bypass Printer Settings on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-connect-airpods-to-windows/"><u>How to Connect AirPods to Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-recover-from-file-explorer-crashing-on-windows-10-computers/"><u>How to Recover From File Explorer Crashing on Windows 10 Computers</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-photo-your-display-windows-781011-style/"><u>In 2024, Photo Your Display Windows 7/8/10/11 Style</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlock-the-full-potential-of-your-gopro-4k-recordings/"><u>In 2024, Unlock the Full Potential of Your GoPro 4K Recordings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/intercepting-wacatacbml-attacks-securing-windows-against-malware-invasion/"><u>Intercepting Wacatac.B!ml Attacks: Securing Windows Against Malware Invasion</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimize-your-pc-a-guide-to-spotting-huge-files-and-folders/"><u>Optimize Your PC: A Guide to Spotting Huge Files & Folders</u></a></li>
-<li><a href="https://windows11.techidaily.com/preserve-your-files-as-you-boost-windows-drive/"><u>Preserve Your Files as You Boost Windows Drive</u></a></li>
-<li><a href="https://windows11.techidaily.com/restoring-steam-data-write-functionality-in-windows/"><u>Restoring Steam Data Write Functionality in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-for-correcting-0xc0000005-failures-on-pcs/"><u>Strategies for Correcting 0Xc0000005 Failures on PCs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-best-buy-bargains-in-june-2024-find-your-next-purchase/"><u>Top-Rated Best Buy Bargains in June 2024: Find Your Next Purchase</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unhappy-with-vsdc-explore-these-top-mac-video-editing-options/"><u>Unhappy with VSDC? Explore These Top Mac Video Editing Options</u></a></li>
-<li><a href="https://windows11.techidaily.com/unobstructed-wireless-resurrecting-disconnected-networks/"><u>Unobstructed Wireless: Resurrecting Disconnected Networks</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-cutting-edge-method-quick-erasure-of-youtube-comments/"><u>[New] 2024 Approved Cutting-Edge Method Quick Erasure of Youtube Comments</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-elevate-your-tiktok-presence-with-exquisite-video-templates/"><u>[New] 2024 Approved Elevate Your TikTok Presence with Exquisite Video Templates</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/dell-audio-driver-download-and-update-easily/"><u>Dell Audio Driver Download & Update Easily</u></a></li>
+<li><a href="https://windows11.techidaily.com/establishing-system-heat-control-on-windows-os/"><u>Establishing System Heat Control on Windows OS</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/excellent-sd-cards-compatible-with-gopro-hero-7-and-8-for-2024/"><u>Excellent SD Cards Compatible with GoPro Hero 7 & 8 for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-infinix-note-30i-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/increase-speed-of-task-manager-view-on-windows-11/"><u>Increase Speed of Task Manager View on Windows 11</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/master-tweet-management-ultimate-list-of-unfollow-aids/"><u>Master Tweet Management Ultimate List of Unfollow Aids</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-steam-connection-problems-rust-guide-for-windows-users/"><u>Mastering Steam Connection Problems: Rust Guide for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-windows-11-installation-hurdles-for-uncomplicated-clipchamp-use/"><u>Navigate Windows 11 Installation Hurdles for Uncomplicated ClipChamp Use</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-user-interaction-with-windows-narrators-shortcuts/"><u>Optimizing User Interaction with Windows Narrator's Shortcuts</u></a></li>
+<li><a href="https://win-special.techidaily.com/proven-fixes-for-no-bootable-device-found-error-in-windows-11-8-and-7-system-restoration-guide/"><u>Proven Fixes for 'No Bootable Device Found' Error in Windows 11, 8 & 7 - System Restoration Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/simplify-your-game-collection-emulating-classics-using-steam-deck-and-emudeck/"><u>Simplify Your Game Collection: Emulating Classics Using Steam Deck and EmuDeck</u></a></li>
+<li><a href="https://win-premium.techidaily.com/step-by-step-guide-how-to-retrieve-lost-data-from-a-raw-disk-drive/"><u>Step-by-Step Guide: How to Retrieve Lost Data From a Raw Disk Drive</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-rejuvenate-stuck-windows-start-button/"><u>Steps to Rejuvenate Stuck Windows Start Button</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-hdd-and-ssd-identification-on-windows/"><u>The Ultimate Guide to HDD & SSD Identification on Windows</u></a></li>
 </ul></div>
 

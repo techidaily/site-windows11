@@ -1,7 +1,7 @@
 ---
 title: How to Address the LoadLibrary Error Code 87 on PCs
-date: 2024-08-08T06:09:48.690Z
-updated: 2024-08-09T06:09:48.690Z
+date: 2024-12-23T16:59:14.726Z
+updated: 2024-12-25T19:39:46.007Z
 tags:
   - windows10
   - windows11
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/8607afd112c21db80344a74ef1409282fa825e22b
 
  Here are a few troubleshooting steps to help you fix the "LoadLibrary failed with error 87: The parameter is incorrect" issue on Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## 1\. Perform a Quick Restart
 
  At times, the LoadLibrary failed error can be a temporary glitch. However, the error dialog won’t let you close it or access anything else on your computer. In this instance, a force shutdown is useful. Make sure that you don’t have any important and unsaved work which may be lost after an abrupt restart.
@@ -40,9 +36,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  To fix the issue, check and[update your graphics drivers on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) . If you have a dedicated GPU, use the GPU management tool from the manufacturer to download the update. You can also download the newer updates from the GPU manufacturer’s website.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Perform a Driver Roll Back
 
  This error is often due to the issue with your display adapter and mainly with the AMD machines. If the error is triggered after a recent driver or OS update, check if your graphics device has received a newer update. If so, you can perform a driver rollback to reinstall the older driver.
@@ -50,13 +43,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  You can[perform a driver rollback using Device Manager](https://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) . This should work irrespective of the Windows version you are running. However, if the rollback driver option is greyed out, it means Windows doesn’t have an older version that you can go back to and reinstall.
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Uninstall and Reinstall the Graphics Drivers
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![uninstall display adapter device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-display-adapter-device.png)
 
  Corrupt display adapter drivers can also trigger "LoadLibrary failed with error 87". To fix the issue, you can uninstall the display driver from Device Manager and then perform a reinstall.
@@ -72,12 +63,17 @@ To uninstall a display adapter driver:
 
  You can now reinstall the driver from the GPU manufacturer’s website. If the issue persists, check if the GPU drive is completely removed. If not, you can[use Display Driver Uninstall to completely remove GPU drivers](https://www.makeuseof.com/how-to-cleanly-install-and-reinstall-gpu-drivers-on-windows/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Rename the atig6pxx.dll File
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![rename atig6pxx dll file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rename-atig6pxx-dll-file.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you use an old AMD ATI graphics card, you can fix the error by renaming the atig6pxx.dll file in the System32 folder. It is a graphic drivers module, and issues with it can prevent 3D apps and games on your system from working.
 
@@ -107,10 +103,11 @@ attrib -r -s atig6pxx.dll`
 
 ## 6\. Repair Windows Image with DISM
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![DISM scan health restore health command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dism-scan-health-restore-health-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Corrupt system files are another cause that can trigger the LoadLibrary failed error. Fortunately, Windows comes with a built-in system image repair tool to repair the system image.
 
@@ -138,6 +135,10 @@ To uninstall the app:
 4. Search for the app and click the**three-dots menu** beside the app name.
 5. Click**Uninstall** and then click**Uninstall** again to confirm the action.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixing the LoadLibrary Failed With Error 87 on Windows
 
  This error is often triggered due to incompatible or outdated graphics drivers. You can update or reinstall the drivers to fix the issue. Renaming the specified DLL file is another common solution. But any issues with the system image will require repairing the Windows image using the DISM command-line utility.
@@ -148,8 +149,6 @@ To uninstall the app:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +156,16 @@ To uninstall the app:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-superb.techidaily.com/convertissez-votre-fichier-avi-en-3gp-gratuitement-sur-le-web-avec-moviavi/"><u>Convertissez Votre Fichier AVI en 3GP Gratuitement Sur Le Web Avec Moviavi</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-the-freeze-troubleshooting-windows-obs-not-starting/"><u>Fixing the Freeze: Troubleshooting Windows OBS Not Starting</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/beat-to-buzz-creating-impact-in-10-seconds-on-youtube-for-2024/"><u>From Beat to Buzz Creating Impact in 10 Seconds on YouTube for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-and-handling-file-unreadable-problem-on-windows/"><u>Preventing and Handling ‘File Unreadable’ Problem on Windows</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pro-3-analysis-how-ion-is-redefining-the-action-video-landscape/"><u>Pro 3 Analysis - How ION Is Redefining the Action Video Landscape</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fix-for-read-from-disk-failed-error/"><u>Quick Fix for Read From Disk Failed Error</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-tackle-physical-ram-limitations-on-windows-vmware/"><u>Steps to Tackle Physical RAM Limitations on Windows VMware</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-black-ops-cold-wars-critical-error-code-0xc00cuh005/"><u>Troubleshooting Steps for Black Ops Cold War's Critical Error Code 0Xc00cuh005</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-a60-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of A60?</u></a></li>
+</ul></div>
 
