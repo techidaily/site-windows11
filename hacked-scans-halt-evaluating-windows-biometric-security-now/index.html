@@ -29,8 +29,8 @@
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/passwords-are-a-thing-of-the-past-passwordless-logins-benefits.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/professional-thinking-with-laptop.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hacher-hat.jpg">
-<meta property="article:published_time" content="2024-12-14T10:24:43.033Z">
-<meta property="article:modified_time" content="2024-12-16T10:53:02.793Z">
+<meta property="article:published_time" content="2024-12-21T10:20:32.910Z">
+<meta property="article:modified_time" content="2024-12-25T11:21:19.523Z">
 <meta property="article:author" content="Joseph">
 <meta property="article:tag" content="windows10">
 <meta property="article:tag" content="windows11">
@@ -716,15 +716,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-12-14 18:24:43</span>
-        <span class="mobile">2024-12-14 18:24:43</span>
+        <span class="desktop">2024-12-21 18:20:32</span>
+        <span class="mobile">2024-12-21 18:20:32</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-12-16 18:53:02</span>
-            <span class="mobile">2024-12-16 18:53:02</span>
+            <span class="desktop">2024-12-25 19:21:19</span>
+            <span class="mobile">2024-12-25 19:21:19</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -800,26 +800,22 @@
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/passwords-are-a-thing-of-the-past-passwordless-logins-benefits.jpg"
                       alt="Lock Having Fingerprint in the Middle on Blue Background"
                 ></p>
-<p> If a hacker wants to bypass a fingerprint scanner on a Windows machine, they’re aiming to get past a service called Windows Hello. This service handles how you log into Windows, such as PINs, facial scans, and fingerprint scans.</p>
-<p> As part of research into Windows Hello’s strength, two <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/white-hat-hacker/" >white-hat hackers <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, Jesse D’Aguanno and Timo Teräs, posted a report on their website, <a class="link"   target="_blank" rel="noopener" href="https://blackwinghq.com/blog/posts/a-touch-of-pwn-part-i/" >Blackwing HQ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. The report details how they breached three popular devices: the Dell Inspiron 15, Lenovo ThinkPad T14, and the Microsoft Surface Pro Type Cover.</p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+<p> If a hacker wants to bypass a fingerprint scanner on a Windows machine, they’re aiming to get past a service called Windows Hello. This service handles how you log into Windows, such as PINs, facial scans, and fingerprint scans.</p>
+<p> As part of research into Windows Hello’s strength, two <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/white-hat-hacker/" >white-hat hackers <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, Jesse D’Aguanno and Timo Teräs, posted a report on their website, <a class="link"   target="_blank" rel="noopener" href="https://blackwinghq.com/blog/posts/a-touch-of-pwn-part-i/" >Blackwing HQ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. The report details how they breached three popular devices: the Dell Inspiron 15, Lenovo ThinkPad T14, and the Microsoft Surface Pro Type Cover.</p>
 <h3 id="How-the-Hackers-Breached-Windows-Hello-on-the-Dell-Inspiron-15"><a href="#How-the-Hackers-Breached-Windows-Hello-on-the-Dell-Inspiron-15" class="headerlink" title="How the Hackers Breached Windows Hello on the Dell Inspiron 15"></a>How the Hackers Breached Windows Hello on the Dell Inspiron 15</h3><p> For the Dell Inspiron 15, the hackers noticed they could boot into Linux on the laptop. Once logged into Linux, they can register their fingerprints in the system and give it the same ID as the Windows user they want to log into.</p>
 <p> Then, they perform a man-in-the-middle attack on the connection between the PC and the sensor. They set it up so that when Windows goes to double-check that a scanned fingerprint is legitimate, it ends up checking the Linux database of fingerprints instead of its own.</p>
 <p> To dodge Windows Hello, the hackers uploaded their fingerprints to the Linux database, assigned it the same ID as the user on Windows, and then tried to log into Windows with their fingerprints. During the authentication process, they redirected the packet to the Linux database, which told Windows that the user at the specified ID was ready to log in.</p>
 <h3 id="How-the-Hackers-Breached-Windows-Hello-on-the-Lenovo-ThinkPad-T14"><a href="#How-the-Hackers-Breached-Windows-Hello-on-the-Lenovo-ThinkPad-T14" class="headerlink" title="How the Hackers Breached Windows Hello on the Lenovo ThinkPad T14"></a>How the Hackers Breached Windows Hello on the Lenovo ThinkPad T14</h3><p> For the Lenovo ThinkPad, the hackers discovered that the laptop used a custom encryption method to verify fingerprints. With some work, the hackers managed to decrypt it, giving them a way into the fingerprint verification process.</p>
 <p> Once done, the hackers could force the fingerprint database to accept their fingerprint as the user’s. Then, all they had to do was scan their fingerprint to access the Lenovo ThinkPad.</p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <h3 id="How-the-Hackers-Breached-Windows-Hello-on-the-Microsoft-Surface-Pro-Type-Cover"><a href="#How-the-Hackers-Breached-Windows-Hello-on-the-Microsoft-Surface-Pro-Type-Cover" class="headerlink" title="How the Hackers Breached Windows Hello on the Microsoft Surface Pro Type Cover"></a>How the Hackers Breached Windows Hello on the Microsoft Surface Pro Type Cover</h3><p> The hackers believed the Surface Pro would be the hardest device to crack, but they were surprised to find the Surface Pro lacked a lot of security measures for checking valid fingerprints. In fact, they discovered that they only had to dodge past one defense, then tell the Surface Pro that the fingerprint scan was successful, and the device let them in.</p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h2 id="What-Do-These-Hacks-Mean-for-You"><a href="#What-Do-These-Hacks-Mean-for-You" class="headerlink" title="What Do These Hacks Mean for You?"></a>What Do These Hacks Mean for You?</h2><p><img  
                      lazyload
                      src="/images/loading.svg"
@@ -827,18 +823,18 @@
                       alt="Professional Thinking With Laptop"
                 ></p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <p> These hacks may sound pretty scary if you use fingerprints to log into your laptop. However, it’s essential to remember some crucial things before you forgo fingerprint scans entirely.</p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <h3 id="1-The-Attacks-Were-Performed-by-Skilled-Hackers"><a href="#1-The-Attacks-Were-Performed-by-Skilled-Hackers" class="headerlink" title="1. The Attacks Were Performed by Skilled Hackers"></a>1. The Attacks Were Performed by Skilled Hackers</h3><p> The reason threats like <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/what-is-ransomware-as-a-service/" >ransomware as a service <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> are so deadly is that anyone with minimal cybersecurity can use them. However, the above hacks require a high level of expertise, with a deep understanding of how devices authenticate fingerprints and how to avoid them.</p>
 <h3 id="2-The-Attacks-Require-the-Attacker-to-Physically-Interact-With-the-Device"><a href="#2-The-Attacks-Require-the-Attacker-to-Physically-Interact-With-the-Device" class="headerlink" title="2. The Attacks Require the Attacker to Physically Interact With the Device"></a>2. The Attacks Require the Attacker to Physically Interact With the Device</h3><p> The hackers must have physical contact with the device to perform the above hacks. In the report, the hackers stated they might be able to create USB devices that can perform the attack once plugged in, but that means a potential attacker needs to plug something into your PC to hack it.</p>
 <h3 id="3-The-Attacks-Only-Work-on-Specific-Devices"><a href="#3-The-Attacks-Only-Work-on-Specific-Devices" class="headerlink" title="3. The Attacks Only Work on Specific Devices"></a>3. The Attacks Only Work on Specific Devices</h3><p> You’ll notice that each attack had to take a different path to achieve the same goal. Every device is unique, and a hack that works on one device may not work on another. As such, you shouldn’t believe that Windows Hello has now been blown wide open on every device; it’s just these three that failed.</p>
 <p> While these hacks may sound scary, they’ll be challenging to perform against actual targets. The hacker will likely have to steal the device to perform these hacks, which would undoubtedly alert the previous owner.</p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h2 id="How-to-Stay-Safe-From-Fingerprint-Hacking"><a href="#How-to-Stay-Safe-From-Fingerprint-Hacking" class="headerlink" title="How to Stay Safe From Fingerprint Hacking"></a>How to Stay Safe From Fingerprint Hacking</h2><p><img  
                      lazyload
                      src="/images/loading.svg"
@@ -848,6 +844,10 @@
 <p> As stated above, the discovered hacks are complicated to perform and may require the hacker to remove the device to hack into it physically. As such, there’s an extremely low chance that these attacks will personally target you.</p>
 <p> However, if you’re still not satisfied, there are some ways to protect yourself from fingerprint scanner hacks:</p>
 <h3 id="1-Do-Not-Leave-Devices-Unattended-and-Unprotected"><a href="#1-Do-Not-Leave-Devices-Unattended-and-Unprotected" class="headerlink" title="1. Do Not Leave Devices Unattended and Unprotected"></a>1. Do Not Leave Devices Unattended and Unprotected</h3><p> Because a hacker will need to interact with your device physically, you should ensure it doesn’t fall into the wrong hands. For computers, you can <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/tag/stop-entire-desktop-pc-home-office-stolen/" >take steps to stop it from being stolen <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. If you’re using a laptop, never leave it alone in a public space, and use an <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/tag/anti-theft-laptop-bags/" >anti-theft laptop bag <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> to stop people from tearing your bag open.</p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <h3 id="2-Use-a-Different-Login-Method"><a href="#2-Use-a-Different-Login-Method" class="headerlink" title="2. Use a Different Login Method"></a>2. Use a Different Login Method</h3><p> Windows Hello supports many different login methods, some more secure than others. If you’ve fallen out of love with fingerprint scans, check out if <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/face-iris-fingerprint-password-pin-most-secure/" >face, iris, fingerprint, PIN, or password logins are more secure <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, and choose one that suits you best.</p>
 <p> If you’re worried about these hacks, it’s important to remember that there’s a very low chance they’ll target you specifically. As such, you should be safe using fingerprint scans; just don’t allow people to steal your devices.</p>
 <p> So, how can people hack past a Windows Hello fingerprint scan, and should you worry about it?</p>
@@ -859,17 +859,23 @@
       data-full-width-responsive="true"></ins></p>
 <p><span class="atpl-alsoreadstyle">Also read:</span></p>
 <div><ul>
-<li><a target="_blank" rel="noopener" href="https://screen-video-capture.techidaily.com/new-in-2024-the-ultimate-guide-to-video-call-capturing-on-devices/"><u>[New] In 2024, The Ultimate Guide to Video Call Capturing on Devices</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://visual-screen-recording.techidaily.com/updated-2024-approved-your-ultimate-companion-for-mastering-mov-recordings-on-windows-10/"><u>[Updated] 2024 Approved Your Ultimate Companion for Mastering MOV Recordings on Windows 10</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-data.techidaily.com/ed-in-2024-quick-subscribe-does-it-really-amplify-watch-time/"><u>[Updated] In 2024, Quick-Subscribe Does It Really Amplify Watch Time?</u></a></li>
-<li><a href="https://windows11.techidaily.com/adding-faithful-functions-to-windows-ui-tools/"><u>Adding Faithful Functions to Windows' UI Tools</u></a></li>
-<li><a href="https://windows11.techidaily.com/break-the-cycle-of-a-non-opening-notepad-on-your-windows-device/"><u>Break the Cycle of a Non-Opening Notepad on Your Windows Device</u></a></li>
-<li><a href="https://windows11.techidaily.com/breaking-through-disabled-script-barrier-4-key-techniques-to-load-ps-successfully/"><u>Breaking Through Disabled Script Barrier: 4 Key Techniques to Load PS Successfully</u></a></li>
-<li><a href="https://windows11.techidaily.com/combat-unknown-obs-record-error-on-windows-11-pc/"><u>Combat Unknown OBS Record Error on Windows 11 PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/confirm-if-your-system-is-a-win11-recipe/"><u>Confirm if Your System Is a Win11 Recipe</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://common-error.techidaily.com/quick-clean-install-tips-to-get-the-most-out-of-your-new-windows-11-experience/"><u>Quick Clean Install Tips to Get the Most Out of Your New Windows 11 Experience</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://hardware-tips.techidaily.com/top-electronic-savings-spots-grab-amazon-fire-tv-anker-energy-packs-and-dji-drones-for-less/"><u>Top Electronic Savings Spots: Grab Amazon Fire TV, Anker Energy Packs & DJI Drones for Less!</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://os-tips.techidaily.com/ultimate-guide-top-3-methods-to-correct-invalid-disk-issues-and-secure-your-data/"><u>Ultimate Guide: Top 3 Methods to Correct Invalid Disk Issues & Secure Your Data</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://visual-screen-recording.techidaily.com/new-in-2024-insightful-guide-to-sharex-critiques-and-counterparts/"><u>[New] In 2024, Insightful Guide to ShareX Critiques & Counterparts</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fox-http.techidaily.com/updated-obs-vs-wirecast-which-should-you-trust-for-live-for-2024/"><u>[Updated] OBS Vs. Wirecast - Which Should You Trust for Live for 2024</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://extra-skills.techidaily.com/2024-approved-pcs-best-vr-top-10-immersive-360-video-players/"><u>2024 Approved PC's Best VR Top 10 Immersive 360 Video Players</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://extra-resources.techidaily.com/amplify-your-brands-message-top-terminology-secrets/"><u>Amplify Your Brand’s Message Top Terminology Secrets</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://tech-revival.techidaily.com/digging-up-drowned-chatgpt-memories/"><u>Digging Up Drowned ChatGPT Memories</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://twitter-videos.techidaily.com/eliminate-clutter-on-tweet-feed-with-top-20-apps/"><u>Eliminate Clutter on Tweet Feed with Top 20 Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/exposing-6-incongruent-features-in-windows-11/"><u>Exposing 6 Incongruent Features in Windows 11</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-honor-magic-6-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Honor Magic 6? Try These Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximizing-efficiency-prioritizing-terminal-over-others/"><u>Maximizing Efficiency: Prioritizing Terminal Over Others</u></a></li>
+<li><a href="https://windows11.techidaily.com/no-expense-spared-try-these-5-top-tier-driver-upgrades/"><u>No Expense Spared? Try These 5 Top-Tier Driver Upgrades</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-audacity-audio-error-in-windows-1111/"><u>Overcoming Audacity Audio Error in Windows 11/11</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://buynow-reviews.techidaily.com/protecting-your-macbook-with-style-an-insightful-look-at-the-twelve-south-bookbook-v2-cover/"><u>Protecting Your MacBook with Style: An Insightful Look at the Twelve South BookBook V2 Cover</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fix-for-erroneous-0x80246007-in-win11-uptime/"><u>Quick Fix for Erroneous 0X80246007 in Win11 Uptime</u></a></li>
+<li><a href="https://windows11.techidaily.com/realign-windows-clock-stop-time-discrepancy-woes/"><u>Realign Windows Clock: Stop Time Discrepancy Woes</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinstating-credible-power-consumption-forecasts-on-windows-11/"><u>Reinstating Credible Power Consumption Forecasts on Windows 11</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://win11-tips.techidaily.com/streamline-windows-11-with-android-powered-webcams/"><u>Streamline Windows 11 with Android-Powered Webcams</u></a></li>
+<li><a href="https://windows11.techidaily.com/swift-application-launch-in-windows-11/"><u>Swift Application Launch in Windows 11</u></a></li>
 </ul></div>
 
 
@@ -882,11 +888,11 @@
         <li><strong>Title:</strong> Hacked Scans Halt: Evaluating Window&#39;s Biometric Security Now</li>
         <li><strong>Author:</strong> Joseph</li>
         <li><strong>Created at
-                :</strong> 2024-12-14 18:24:43</li>
+                :</strong> 2024-12-21 18:20:32</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2024-12-16 18:53:02
+                    :</strong> 2024-12-25 19:21:19
             </li>
         
         <li>
@@ -930,13 +936,13 @@
                     <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="prev"
                         rel="prev"
-                        href="/overcoming-setup-snags-clipchamp-on-the-latest-of-windows-11/"
+                        href="/navigating-wintoys-essentials-of-a-versatile-windows-utility/"
                         >
                             <span class="left arrow-icon flex justify-center items-center">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </span>
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Overcoming Setup Snags: ClipChamp on the Latest of Windows 11</span>
+                                <span class="post-nav-title-item">Navigating &#39;WinToys&#39;: Essentials of a Versatile Windows Utility</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -946,10 +952,10 @@
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/windows-11-advanced-integrating-dolby-atmos-support/"
+                        href="/fast-forwarding-copy-and-paste-custom-hotkeys-for-text-snaps-in-win11/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Windows 11 Advanced: Integrating Dolby Atmos Support</span>
+                                <span class="post-nav-title-item">Fast-Forwarding Copy &amp; Paste: Custom Hotkeys for Text Snaps in Win11</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">
