@@ -1,7 +1,7 @@
 ---
 title: "Elevate PC Capabilities: A Comprehensible WinToy Approach"
-date: 2024-07-29T04:25:24.856Z
-updated: 2024-07-30T04:25:24.856Z
+date: 2025-01-01T20:21:20.280Z
+updated: 2025-01-04T02:14:49.001Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/0fde8be80e602ff65625842ff908df27188b32034
 
  But how can you make the process easier? If you don’t want to go through the Settings menu, edit the Registry, or run Command Prompt lines, Wintoys will make the job easier for you. In this article, we’ll take a look at some of the best Wintoys features and how you can use them to get the most out of your Windows computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Monitor Your System
 
  Wintoys makes it easy to keep a close eye on your system hardware and software performance. In the **Home** tab, you can check your device specifications such as installed RAM, GPU edition, or processor type. If you need more information, hover the cursor over them.
@@ -28,23 +32,20 @@ thumbnail: https://thmb.techidaily.com/0fde8be80e602ff65625842ff908df27188b32034
 
  Also, you can check your system performance through the processor, video card, and memory usage indicators. The only thing that needs to be added to the Wintoys Home tab is a tool showing you the GPU and [CPU temperature](https://www.makeuseof.com/how-to-check-cpu-temperature/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Manage Installed Apps
 
  Wintoys does a great job by putting together the ways you can manage your installed apps. Without Wintoys you’d have to launch Task Manager to stop an app from running or access the Settings menu to uninstall or repair a problematic app, and your browser to make an online search about the app.
 
  With Wintoys, all you have to do is to click the **three-dot** icon next to the app.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![Manage installed apps with Wintoys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/manage-apps-1.jpg)
 
  In the **Apps** tab, all of your installed software is color-coded, and you can tell which one is a Microsoft or third-party app. Additionally, you can have Wintoys display only one category or sort them alphabetically, or by size, among other options.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## 3\. Tweak Your System for Better Performance
 
  There are a lot of apps and processes that Windows has to take care of. And some of them are slowing down your system. However, tracking down every one of these processes might take a lot of time and some of these settings are well-hidden.
@@ -53,25 +54,20 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  For example, if you have a lot of apps set to launch at system startup, your boot time will slow down. To disable unnecessary apps from running when your system starts, open the **Startup Apps** menu. There, turn off the toggle for the apps that you don’t need as quickly as you start your system.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Control startup apps with Wintoys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/startup-wintoys-1.jpg)
 
  Also, in the same tab, you can find settings to [improve your Windows computer performance during gaming](https://www.makeuseof.com/tag/optimize-windows-10-gaming/). For instance, you could turn on the toggle next to **Ultimate performance plan**.
 
  Or head to the **Gaming settings menu**. There, you can enable Windows’s Game Mode or activate the Superfetch feature. If you’re not sure whether you should enable it, [check out our guide on Superfetch](https://www.makeuseof.com/tag/what-is-superfetch/).
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Enable HAGS on Windoys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/hags-wintoys-1.jpg)
 
  Now, if you’re really looking the make the most out of your hardware while gaming, you could also turn on the **HAGS (Hardware-accelerated GPU scheduling)** feature.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Manage Storage Space
 
  You might know the frustration of constantly running out of storage on your Windows computer. You have to constantly run the Disk Cleanup tool, search for old files, or [batch uninstall Steam games](https://www.makeuseof.com/tag/its-easy-to-batch-install-and-uninstall-steam-games/), to make space for new files and folders.
@@ -94,26 +90,24 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ![Change destkop design with Wintoys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/desktop-wintoys-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  These are just a few of the available tweaks that can change how Windows looks and feel.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Run Repair Tools Without Command Prompt
 
  There are plenty of things on a Windows computer that can go wrong without much of a warning. You might encounter frequent program crashes, data loss, or the inability to access your files. Now, the most efficient way to fix these problems is to run the SFC, CHKDSK, and DISM scans. Instead of opening Command Prompt and searching online for the correct lines, you can use Wintoys.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Run repair tools without Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/repair-wintoys-1.jpg)
 
  In the **Health** tab, click on **Repair**. There, you can select the tool to fix your problem. On Command Prompt, you’d have to run the lines one at a time. However, on Wintoys, you can select all tools and Wintoys will run them for you. This way, you don’t have to monitor the process and can even step away from your computer as the issue is getting fixed.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Control Windows Ads
 
  Nowadays, it seems there’s no way you can completely escape ads. Microsoft has added more ads through tips, suggestions, recommendations, or the Start menu. If you want more control over how Windows shows ads, open the **Tweaks** tab and click on **Ads**. There, you can select how Windows should display content about new products or features.
@@ -121,8 +115,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![Stop Windows from showing you ads](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/wintoys-ads-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Protect Your Privacy
 
  As you may know, Windows collects a considerable amount of user data. While Microsoft claims it gathers data to provide a better user experience, you might not feel so generous about your user activity data.
@@ -133,6 +128,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  There, you can control which data Microsoft collects about your usage patterns. However, Wintoys doesn’t allow full control over Windows Privacy settings, so you might want to manually [check Privacy settings on Windows](https://www.makeuseof.com/windows-11-privacy-options-explained/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Control Your System Services
 
  Windows services are apps that run in the background and perform tasks that are used by software you interact with. So, whenever you run into an issue on your computer, you should check if the correspondent service is still working as usual.
@@ -141,9 +140,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Open the **Services** tab, and you’ll get a complete list of every service on your computer. Let’s say you’ve run into an issue, and you’re certain the culprit it’s a service that stopped by itself. You can quickly check by opening the **Filter** drop-down menu and selecting **Stopped**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Manage Windows services with Wintoys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/wintoys-services-1.jpg)
 
  Also, there are more criteria that you can use to find a certain service. If you need more information about one of the services, click the **Description**. Finally, to change the service’s settings, click the **three-dot** icon next to it. There, you can start, stop, restart, or change the service’s mode.
@@ -154,11 +150,29 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  But how can you make the process easier? If you don’t want to go through the Settings menu, edit the Registry, or run Command Prompt lines, Wintoys will make the job easier for you. In this article, we’ll take a look at some of the best Wintoys features and how you can use them to get the most out of your Windows computer.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-best-cloud-storage-deals-prices-to-watch/"><u>[New] In 2024, Best Cloud Storage Deals – Prices to Watch</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-immediate-color-correction-with-canons-paired-luts/"><u>2024 Approved Immediate Color Correction with Canon's Paired LUTs</u></a></li>
+<li><a href="https://windows11.techidaily.com/curing-grayed-screen-savers-quick-fixes-for-windows-users/"><u>Curing Grayed Screen Savers: Quick Fixes for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphering-system-crashes-sifting-through-win-files/"><u>Deciphering System Crashes: Sifting Through Win Files</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-productivity-choosing-terminal-as-primary-command-line-interface/"><u>Enhancing Productivity: Choosing Terminal as Primary Command Line Interface</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210253203-9781087954615-finding-your-superpowers-in-the-place-you-left-them/"><u>Finding Your Superpowers in the Place you Left Them | Free Book</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-address-0x800f0845-failure/"><u>How to Address 0X800f0845 Failure</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-tecno-spark-10cfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Tecno Spark 10CFRP Lock</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/sky-warriors-guide-to-drone-racing-plus-selecting-premier-fpvs/"><u>Sky Warriors' Guide to Drone Racing + Selecting Premier FPVs</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-for-wows-abrupt-server-quit-error-132-in-win11/"><u>Solutions for WoW's Abrupt Server Quit (Error 132) in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/tactical-aid-for-windows-issues-in-googles-nearby-share-app/"><u>Tactical Aid for Windows Issues in Google's Nearby Share App</u></a></li>
+<li><a href="https://techidaily.com/turn-off-screen-lock-a60s-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - A60s</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlocking-an-icloud-locked-ipad-and-apple-iphone-6-plus-by-drfone-ios/"><u>Unlocking an iCloud Locked iPad and Apple iPhone 6 Plus</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-windows-11-for-optimal-clipchamp-functionality/"><u>Unlocking Windows 11 for Optimal ClipChamp Functionality</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-value-in-a-small-package-with-the-acer-predator-triton-300se-laptop-review/"><u>Unveiling Value in a Small Package with the Acer Predator Triton 300SE Laptop Review</u></a></li>
+</ul></div>
+

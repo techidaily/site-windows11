@@ -1,7 +1,7 @@
 ---
 title: Effective Methods to Cut Edge's Background Activity
-date: 2024-07-29T04:28:08.879Z
-updated: 2024-07-30T04:28:08.879Z
+date: 2024-12-31T17:44:39.170Z
+updated: 2025-01-04T02:40:21.677Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/ad5375273ed5273cf93923e35b6ab94c30b893011
  Let's dig into how Edge works, why its process list clutters up the Task Manager, and what you can do about it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why Does Edge Show So Many Processes on Task Manager?
 
  The reasons why Edge creates so many processes really come down to two things: security and stability. Edge is one of[the best Chromium-based browsers](https://www.makeuseof.com/tag/alternative-chromium-browsers/) , and, like all such browsers that use Chromium, it uses multi-process architecture.
@@ -30,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/ad5375273ed5273cf93923e35b6ab94c30b893011
  That means that rather than using a single process for the browser, it uses a separate process for each tab. It also creates processes for individual components of each open browser tab.
 
 ![the Windows task manager showing edge processes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/task-manager-processes.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  For example, there might be a core browser process. Next, you have a renderer process that handles things like HTML, CSS, and other website code. There will also be a GPU process that is responsible for communicating with your graphics chip to speed up page rendering. Plugin or extension processes handle your browser add-ons. And so the list goes on.
 
@@ -41,24 +46,14 @@ thumbnail: https://thmb.techidaily.com/ad5375273ed5273cf93923e35b6ab94c30b893011
 
  You can also look at the browser's built-in Task Manager for a more detailed view. You can open this by pressing**Shift+Esc** when Edge is running and selected. Here you can see details of the individual processes we mentioned earlier.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![the task manager in the Edge Browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/edge-task-manager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ## How to Reduce the Number of Edge Processes on Windows
 
  As we have hopefully explained above, many of the Edge processes you see running in Task Manager are simply a part of how the browser works. And few of them put too much strain on system resources.
 
  But there are some simple ways to reduce the number of processes Edge uses if you're concerned about their impact on PC performance.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Remove Unused Extensions
 
  Have a look at your installed browser extensions to see if you can remove any. Each active extension can have one or more processes running, so cleaning out your add-on clutter is an easy way to reduce the count.
@@ -70,33 +65,36 @@ thumbnail: https://thmb.techidaily.com/ad5375273ed5273cf93923e35b6ab94c30b893011
  Several optional Edge settings require their own separate processes. This includes Startup Boost and Hardware Acceleration. You can disable both of these features in**Edge Settings > System and Performance** .
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3/ Close Some Unused Tabs
 
  Each open tab in Edge could result in ten or more processes. If you regularly leave multiple unused tabs open, closing them will instantly help to reduce the number of active processes.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is There a Better Browser Choice For Windows
 
  Many modern browsers exhibit the same problem, including Opera, Brave, Vivaldi, and Chrome. All of them are based on Chromium. Firefox is one of the few modern browsers not to use the Google-developed browser architecture.
 
  It is worth remembering that the multi-process system is used for a reason and can provide better stability and security. But if you feel like trying out a new browser, peruse our list of the[best browsers for gamers](https://www.makeuseof.com/best-web-browsers-for-gamers/) and the[best browsers for Windows 11](https://www.makeuseof.com/windows-11-best-browsers/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Microsoft Edge's Processes, Cut DOwn
 
  The reasons why Microsoft Edge needs to have so many processes running might make sense, but that doesn't mean you have to be happy about the issue. Processes are an unavoidable part of Windows and any app you use, but reducing their number can provide a welcome performance boost.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -105,4 +103,26 @@ thumbnail: https://thmb.techidaily.com/ad5375273ed5273cf93923e35b6ab94c30b893011
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/updated-navigating-through-the-top-8-blended-mobile-video-collage-choices-on-android/"><u>[Updated] Navigating Through the Top 8 Blended Mobile Video Collage Choices on Android</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-prime-techniques-converting-visual-content-on-pinterest-to-mp3s/"><u>[Updated] Prime Techniques Converting Visual Content on Pinterest To MP3s</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-toptiktok-eats-10-famous-feast-fads-for-2024/"><u>[Updated] TopTiktok Eats 10 Famous Feast Fads for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-quick-and-budget-mp3-conversion-from-skype-talks/"><u>2024 Approved Quick & Budget MP3 Conversion From Skype Talks</u></a></li>
+<li><a href="https://windows11.techidaily.com/beyond-boundaries-3-tools-that-elevate-pc-audio-above-100/"><u>Beyond Boundaries: 3 Tools That Elevate PC Audio Above 100%</u></a></li>
+<li><a href="https://windows11.techidaily.com/detailed-exploration-retrieving-the-true-nature-of-device-ids-in-windows/"><u>Detailed Exploration: Retrieving the True Nature of Device IDs in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-windows-1011-unsigned-update-errors/"><u>Eliminating Windows 10/11 'Unsigned' Update Errors</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/essential-logitech-g920-drivers-for-windows-users-update-now/"><u>Essential Logitech G920 Drivers for Windows Users: Update Now!</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-cant-detect-camera-error-on-windows-11-pc/"><u>Fixing Can't Detect Camera Error on Windows 11 PC</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-razr-40-ultra-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Motorola Razr 40 Ultra PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-your-computers-potential-a-wintoy-guidebook/"><u>Master Your Computer's Potential: A Wintoy Guidebook</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-and-protect-enabling-powershell-script-policy/"><u>Optimize & Protect: Enabling PowerShell Script Policy</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/renderer-initialization-error-solved-overcoming-the-hurdles-of-updating/"><u>Renderer Initialization Error Solved: Overcoming the Hurdles of Updating</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolve-compromised-windows-defender-in-windows-11/"><u>Resolve Compromised Windows Defender in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-microsoft-store-programs-on-windows-1011-systems/"><u>Restoring Microsoft Store Programs on Windows 10/11 Systems</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/schritt-fur-schritt-anleitung-zur-erweiterung-ihrer-kontakte-mit-dem-postfaches-von-kollegen-in-microsoft-outlook/"><u>Schritt-Für-Schritt-Anleitung Zur Erweiterung Ihrer Kontakte Mit Dem Postfaches Von Kollegen in Microsoft Outlook</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-chkdsk-vs-scan-disk-dissecting-windows-tools/"><u>Understanding Chkdsk Vs. Scan Disk: Dissecting Windows Tools</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unlocking-the-potential-of-wake-on-lan-for-your-windows-11-system/"><u>Unlocking the Potential of Wake-on-LAN for Your Windows 11 System</u></a></li>
+</ul></div>
 

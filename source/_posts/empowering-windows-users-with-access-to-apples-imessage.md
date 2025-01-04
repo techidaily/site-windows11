@@ -1,7 +1,7 @@
 ---
 title: Empowering Windows Users with Access to Apple's iMessage
-date: 2024-07-29T04:28:21.746Z
-updated: 2024-07-30T04:28:21.746Z
+date: 2024-12-30T20:41:33.163Z
+updated: 2025-01-04T01:13:40.862Z
 tags:
   - windows10
   - windows11
@@ -17,8 +17,9 @@ thumbnail: https://thmb.techidaily.com/7d954d5ef5beb31b578dcda4509d16e23f0ef0d1b
 ## Empowering Windows Users with Access to Apple's iMessage
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * For your iPhone and Windows computer to communicate, you will need to connect them over Bluetooth.
@@ -28,20 +29,22 @@ thumbnail: https://thmb.techidaily.com/7d954d5ef5beb31b578dcda4509d16e23f0ef0d1b
  Looking at your iPhone to check your messages can be distracting when you're working. Apple's excellent cross-device support means that you can easily send and receive messages on a Mac without breaking your flow. But did you know that it's as simple if you have a Windows PC, too?
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Use Phone Link to Get iMessages on Windows
 
  If you're running the latest version of Windows, the Microsoft Phone Link app should already be installed on your device. If not, you may have to[update Windows on your computer](https://www.makeuseof.com/update-windows-manually/) first. You’ll use this app to sync contacts and messages from your iPhone.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Download the Link to Windows App on Your iPhone
 
  You’ll need to download a Microsoft app called Link to Windows on your iPhone from the[App Store](https://apps.apple.com/us/app/link-to-windows/id6443686328) . Tap**Open** to launch the app to get started.
 
 ![Downloading the Link to Windows app on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/open-link-to-windows-iphone.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![The screen that appears when you first open the Link to Windows app on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/link-to-windows-pair-screen-iphone.PNG)
 
@@ -55,6 +58,10 @@ Close
 
 ![Opening the Phone Link app on Windows.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/opening-phone-link-windows.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After launching Phone Link, choose the mobile device you want to connect to by clicking**iPhone** .
 
 ![Choosing a mobile device in the Phone Link app on Windows.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/phone-link-choose-mobile-device-screen-windows.png)
@@ -64,8 +71,9 @@ Close
 ![Scanning a QR code on an iPhone,](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/iphone-camera-pairing-qr-code.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Prompt to open the Link to Windows app after scanning the QR code.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/prompt-pair-devices-link-to-windows-iphone.PNG)
 
 Close
@@ -80,10 +88,6 @@ Close
 
  Now, go to the Phone Link app on Windows and click**Pair** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![The pairing screen with code in the Phone Link app on Windows.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/pair-screen-phone-link-windows.png)
 
  On your iPhone, tap**Done** . You’re almost done setting up iMessage for your PC; there’s just one more step.
@@ -94,14 +98,8 @@ The ultimate burning program for all your needs!</a>
 
  Go to**Settings > Bluetooth** on your phone and tap the**i** icon next to your PC's name. Toggle on**Share System Notifications** ,**Show Notification** , and**Sync Contacts** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The Bluetooth settings page on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/bluetooth-settings-iphone.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The Bluetooth settings of a Windows PC on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/pc-bluetooth-settings-iphone.PNG)
 
 Close
@@ -110,20 +108,22 @@ Close
 
  And you're done! The good news is that the setup is a one-time process. Your phone and Windows PC should now automatically connect as long as Bluetooth is enabled and the two devices are within range.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### View and Write Messages in the Phone Link App
 
  You can see any messages you receive on your iPhone in the Phone Link app by opening the**Messages** tab at the top. Click on the sender's name to see the ongoing conversation in a chat window on the right.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![Viewing messages in the phone link app.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/viewing-message-phone-link-windows.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click**New Message** —the blue pencil icon button—to send a message to a contact who doesn't have an existing thread. Start typing the person's name in the text box that appears and select it from the search results.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Searching for a contact in the Phone Link app on Windows.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/searching-contact-phone-link-windows.png)
 
  Type your message in the chat box at the bottom and press Enter or click**Send** .
@@ -132,9 +132,6 @@ Close
 
  As long as you have notifications enabled on the Phone Link app, you will get an alert when the other person responds.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## An Alternative Method to Use iMessage on Windows
 
  If you don't want to use the Phone Link, there is an alternate, albeit more complicated, way to interact with iMessage on your Windows PC. This method involves using the Remote Desktop extension for Chrome, which you can download from the[Chrome Web Store](https://chromewebstore.google.com/detail/chrome-remote-desktop/inomeogfingihgjfjlpeplalcfajhgai) . However, you will also need a Mac and Windows computer and install the extension on both devices.
@@ -143,14 +140,11 @@ Close
 
  If your messages aren’t going through or the Remote Desktop extension isn’t working, first check whether the[Windows PC is connected to the Internet](https://www.makeuseof.com/windows-ways-to-connect-to-wifi/) and ensure you have a[stable network connection](https://www.makeuseof.com/check-stability-internet-connection-windows/) . Of course, if you aren't able to send someone a message, whether on a PC or your iPhone, the person may have[blocked you on iMessage](https://www.makeuseof.com/check-if-someone-blocked-you-imessage/) .
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -159,4 +153,18 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-secure-social-screen-avoid-facebook-vids/"><u>[New] In 2024, Secure Social Screen Avoid Facebook Vids</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/tep-by-step-guide-to-emoji-usage-in-yt-feedback-for-2024/"><u>[New] Step-by-Step Guide to Emoji Usage in YT Feedback for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/nlimited-view-of-youtube-cover-pics-no-payment-required-for-2024/"><u>[New] Unlimited View of YouTube Cover Pics No Payment Required for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-elevating-imagery-detailed-analysis-of-mavic-pro-for-2024/"><u>[Updated] Elevating Imagery - Detailed Analysis of Mavic Pro for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-engaging-storytelling-podcasts-with-applee-devices-for-2024/"><u>Crafting Engaging Storytelling Podcasts with Apple'e Devices for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/fix-it-fast-dealing-with-microsoft-store-errors-in-1011-systems/"><u>Fix It Fast: Dealing with Microsoft Store Errors in 10/11 Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-visibility-of-missing-disk-in-win/"><u>Restoring Visibility of Missing Disk in Win</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-no-files-available-error-in-windows-11/"><u>Solving 'No Files Available' Error in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/supercharge-your-workday-top-5-win-11-productivity-tools/"><u>Supercharge Your Workday: Top 5 Win 11 Productivity Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/trimming-excessive-load-reducing-the-burden-of-user-mode-services-on-pcs/"><u>Trimming Excessive Load: Reducing the Burden of User-Mode Services on PCs</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-uncover-the-secrets-to-quieting-tiktoks-background-noise-simple-tricks-revealed/"><u>Updated In 2024, Uncover the Secrets to Quieting TikToks Background Noise Simple Tricks Revealed</u></a></li>
+</ul></div>
 

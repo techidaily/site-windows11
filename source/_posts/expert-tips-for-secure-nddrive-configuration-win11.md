@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Secure NDDrive Configuration (Win11)
-date: 2024-08-08T06:03:48.322Z
-updated: 2024-08-09T06:03:48.322Z
+date: 2024-12-31T22:32:57.876Z
+updated: 2025-01-03T22:58:30.259Z
 tags:
   - windows10
   - windows11
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
 
  But is it really that simple to set up mapping? Keep reading to learn how to map a network drive in Windows 11 using different methods.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Configure Network Discovery in Windows
 
  Windows has a feature called[network discovery](https://www.makeuseof.com/windows-network-discovery-turn-on-off/) that allows your computer to discover and access other devices on the same network, such as computers, servers, and printers.
@@ -33,13 +37,14 @@ Follow the sets below to enable network discovery on Windows:
 1. Press**Win + I** to open the Settings app.
 2. Head over to**Network & internet** from the left pane and click on**Advanced network settings** on the right.
 3. Next, click on the**Advanced sharing settings** option under**More Settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Windows Advanced Network Sharing Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-advanced-network-settings.jpg)
 4. Open the**Private networks** settings and set the toggle next to**Network discovery** to**On** .  
 ![Windows Advanced Sharing Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-advanced-sharing-settings.jpg)
 5. If you're looking to access a printer on the network, make sure to enable**File and printer sharing** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you turn on network discovery, other devices on the same network can see your computer and access it.
 
@@ -49,9 +54,6 @@ Follow the sets below to enable network discovery on Windows:
 
  Therefore, it's crucial to ensure that you have a strong password and[customize your default Windows Firewall](https://www.makeuseof.com/windows-firewall-control-guide/) to protect your device in case something goes wrong.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Map a Network Drive Using File Explorer
 
  Once you have turned on network discovery, you can map a network drive in Windows 11 using File Explorer.
@@ -60,20 +62,22 @@ Here's what you need to do to use File Explorer for mapping:
 
 1. Press**Win + E** to open File Explorer directly, and click on**This PC** in the left pane.
 2. Right-click on**This PC** and select the**Map network drive...** button in the context menu that appears.  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![This PC Context Menu In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/this-pc-context-menu-in-windows.jpg)
 3. Choose a unique drive letter in the**Map Network Drive** window. This is the drive you'll use to access the shared folder from your computer. As an example, we've selected**A:** as the drive letter.
 4. Enter the path to the shared folder you want to map in the**Folder:** field. This can be a local path on the computer, such as**\\\\YourComputer\\SharedFolder** , or a network path, such as**\\\\ServerName\\SharedFolder** .  
 ![Windows Shared Network Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-shared-network-folder.jpg)
 5. If you need a username and password to access the shared folder, check the**Connect using different credentials** box and enter the required information.
-6. Click**Finish** to complete the mapping process.  
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+6. Click**Finish** to complete the mapping process.  
 ![Map Network Drive In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/map-network-drive-in-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you have completed these steps, it'll map the folder to the specified drive letter in File Explorer. You can access the shared folder at any time by double-clicking on the drive.
 
@@ -96,9 +100,6 @@ New-PSDrive -Name X -PSProvider FileSystem -Root \\ServerName\SharedFolder -Cred
 
  Besides mapping, you can do a wide range of things, like managing and automating tasks on Windows. For that, you must know some[useful PowerShell commands](https://www.makeuseof.com/windows-powershell-commands-cmdlets/) .
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Use Command Prompt for Mapping
 
  Just like you used PowerShell earlier, you can use the Windows Command Prompt tool to map a network drive.
@@ -115,9 +116,6 @@ net use DRIVE \\ServerName\SharedFolder /user:username pass
 
  That's it. It'll take a few seconds, and then you can access the mapped drive from File Explorer with one click.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ## How to Disconnect a Mapped Network Drive
 
  Disconnecting the network drive is a no-brainer if you no longer need access to the files on it.
@@ -132,22 +130,20 @@ net use DRIVE \\ServerName\SharedFolder /user:username pass
  The mapped network drive will now disappear from File Explorer, and you can no longer access it from the drive letter you created earlier.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Map Network Drives Easily in Windows 11
 
  Mapping a network drive in Windows 11 is a great way to access shared folders on other computers or servers. This can save you time and make managing and organizing your files easier.
 
  While mapping is only useful in the case of network drives, there are many other methods to share files without a network setup. For example, you can use external storage, cloud storage services, a data transfer cable, etc.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -156,4 +152,22 @@ net use DRIVE \\ServerName\SharedFolder /user:username pass
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-perfect-pacing-with-macos-a-specialists-guide-to-srt-editing/"><u>[New] 2024 Approved Perfect Pacing with macOS A Specialist's Guide to SRT Editing</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-instagram-filters-a-comprehensive-guide-for-2024/"><u>[Updated] Instagram Filters A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-strategic-spending-to-skyrocket-your-video-views/"><u>2024 Approved Strategic Spending to Skyrocket Your Video Views</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/download-the-best-free-m4v-video-player-codec-suite-enhance-your-streaming-experience/"><u>Download the Best FREE M4V Video Player Codec Suite - Enhance Your Streaming Experience</u></a></li>
+<li><a href="https://win-news.techidaily.com/effective-strategies-for-safeguarding-your-system-backup-and-restoration-of-the-windows-registry-tips-by-yl-computing/"><u>Effective Strategies for Safeguarding Your System: Backup & Restoration of the Windows Registry - Tips by YL Computing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elevating-film-previews-with-thoughtful-soundtrack-selection/"><u>Elevating Film Previews with Thoughtful Soundtrack Selection</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-missing-drivers-on-windows-11-start-up-process/"><u>Fixing Missing Drivers on Windows 11 Start-Up Process</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-files-attributes-date-editing-techniques/"><u>Mastering Windows Files' Attributes: Date Editing Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-a-guide-to-reading-qr-codes/"><u>Mastering Windows: A Guide to Reading QR Codes</u></a></li>
+<li><a href="https://windows11.techidaily.com/mute-unwanted-tips-and-hints-in-windows-notification-hub/"><u>Mute Unwanted Tips and Hints in Windows Notification Hub</u></a></li>
+<li><a href="https://windows11.techidaily.com/switching-up-task-managers-launch-screen-in-windows-11/"><u>Switching up Task Manager's Launch Screen in Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-5-free-online-sites-for-downloading-music-a-comprehensive-list/"><u>Top 5 FREE Online Sites for Downloading Music: A Comprehensive List</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-defective-xbox-mic-in-windows-1011/"><u>Troubleshooting Defective Xbox Mic in Windows 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-disconnected-steam-in-windows/"><u>Troubleshooting Disconnected Steam in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-windows-11-taskbar-towards-invisibility/"><u>Unveiling the Windows 11 Taskbar: Towards Invisibility</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Performance: Lowering Edge's Resource Load"
-date: 2024-07-29T04:27:26.254Z
-updated: 2024-07-30T04:27:26.254Z
+date: 2024-12-29T01:29:18.639Z
+updated: 2025-01-03T16:35:23.121Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 
  Let's dig into how Edge works, why its process list clutters up the Task Manager, and what you can do about it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## Why Does Edge Show So Many Processes on Task Manager?
 
  The reasons why Edge creates so many processes really come down to two things: security and stability. Edge is one of[the best Chromium-based browsers](https://www.makeuseof.com/tag/alternative-chromium-browsers/) , and, like all such browsers that use Chromium, it uses multi-process architecture.
@@ -31,36 +28,36 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 
 ![the Windows task manager showing edge processes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/task-manager-processes.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  For example, there might be a core browser process. Next, you have a renderer process that handles things like HTML, CSS, and other website code. There will also be a GPU process that is responsible for communicating with your graphics chip to speed up page rendering. Plugin or extension processes handle your browser add-ons. And so the list goes on.
 
  Spreading browser functions over several processes means that the failure of one is less likely to cause the entire browser to crash. It is also better for security, as process isolation means they don't share memory and can be given restricted privileges.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to View Edge's Processes on Windows
 
  You can see the processes Edge is using in the[Windows Task Manager](https://www.makeuseof.com/how-to-use-windows-task-manager/) . This will show you the overall number of running processes but provides few details about what they are for. However, it will show you that many of the Edge processes consume minimal system resources.
 
  You can also look at the browser's built-in Task Manager for a more detailed view. You can open this by pressing**Shift+Esc** when Edge is running and selected. Here you can see details of the individual processes we mentioned earlier.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![the task manager in the Edge Browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/edge-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Reduce the Number of Edge Processes on Windows
 
  As we have hopefully explained above, many of the Edge processes you see running in Task Manager are simply a part of how the browser works. And few of them put too much strain on system resources.
 
  But there are some simple ways to reduce the number of processes Edge uses if you're concerned about their impact on PC performance.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 1\. Remove Unused Extensions
 
  Have a look at your installed browser extensions to see if you can remove any. Each active extension can have one or more processes running, so cleaning out your add-on clutter is an easy way to reduce the count.
@@ -71,9 +68,17 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 
  Several optional Edge settings require their own separate processes. This includes Startup Boost and Hardware Acceleration. You can disable both of these features in**Edge Settings > System and Performance** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3/ Close Some Unused Tabs
 
  Each open tab in Edge could result in ten or more processes. If you regularly leave multiple unused tabs open, closing them will instantly help to reduce the number of active processes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is There a Better Browser Choice For Windows
 
@@ -81,21 +86,15 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 
  It is worth remembering that the multi-process system is used for a reason and can provide better stability and security. But if you feel like trying out a new browser, peruse our list of the[best browsers for gamers](https://www.makeuseof.com/best-web-browsers-for-gamers/) and the[best browsers for Windows 11](https://www.makeuseof.com/windows-11-best-browsers/) .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Microsoft Edge's Processes, Cut DOwn
 
  The reasons why Microsoft Edge needs to have so many processes running might make sense, but that doesn't mean you have to be happy about the issue. Processes are an unavoidable part of Windows and any app you use, but reducing their number can provide a welcome performance boost.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -104,4 +103,26 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-becoming-a-podcast-writer-pro-strategies-and-comprehensible-script-samples/"><u>[New] Becoming a Podcast Writer Pro Strategies & Comprehensible Script Samples</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-rapid-routines-to-disrupt-youtube-list-ordering/"><u>[New] In 2024, Rapid Routines to Disrupt YouTube List Ordering</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-device-footage-to-youtube-shorts-your-streamlined-approach/"><u>[Updated] 2024 Approved From Device Footage to YouTube Shorts - Your Streamlined Approach</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-in-class-iphone-and-android-video-enhancers-for-2024/"><u>Best-In-Class iPhone and Android Video Enhancers for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-task-monitor-in-win-11-accelerating-real-time-updates/"><u>Boosting Task Monitor in Win 11: Accelerating Real-Time Updates</u></a></li>
+<li><a href="https://windows11.techidaily.com/breath-of-fresh-air-for-windows-13-revival-techniques/"><u>Breath of Fresh Air for Windows: 13 Revival Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-performance-gauges-for-pcs/"><u>Efficient Performance Gauges for PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-code-0x800700e1-problems-in-windows-11/"><u>Fixing Code 0X800700E1 Problems in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-enjoy-desktop-wallpapers-in-their-best-quality-on-windows-11/"><u>How to Enjoy Desktop Wallpapers in Their Best Quality on Windows 11</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-vivo-t2x-5g-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Vivo T2x 5G FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/maximize-your-site-visitors-through-authentic-endorsements-discover-how-massmail-helps-with-mass-communication-tactics/"><u>Maximize Your Site Visitors Through Authentic Endorsements - Discover How Massmail Helps With Mass Communication Tactics</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-the-obstacle-of-error-code-0x0000004e/"><u>Overcoming the Obstacle of Error Code 0X0000004E</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/plan-pack-and-proceed-the-ultimate-guide-to-7-free-ai-powered-apps/"><u>Plan, Pack, and Proceed – The Ultimate Guide to 7 Free, AI-Powered Apps</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/premier-tools-for-video-creation-on-android-and-desktop-oses/"><u>Premier Tools for Video Creation on Android & Desktop OSes</u></a></li>
+<li><a href="https://windows11.techidaily.com/six-secrets-to-spinning-pictures-in-w11-os/"><u>Six Secrets to Spinning Pictures in W11 OS</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/efinitive-list-of-top-quality-mics-for-yt-styles/"><u>The Definitive List of Top-Quality Mics for YT Styles</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2201804-9780007518876-the-four-noble-truths/"><u>The Four Noble Truths | Free Book</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleashing-creativity-in-calendar-design-a-windows-outlook-method/"><u>Unleashing Creativity in Calendar Design - A Windows Outlook Method</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-cost-effective-windows-11-keys/"><u>Unveiling Cost-Effective Windows 11 Keys</u></a></li>
+</ul></div>
 

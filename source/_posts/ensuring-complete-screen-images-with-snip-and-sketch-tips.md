@@ -1,7 +1,7 @@
 ---
 title: Ensuring Complete Screen Images with Snip & Sketch Tips.
-date: 2024-07-29T04:24:50.687Z
-updated: 2024-07-30T04:24:50.687Z
+date: 2024-12-29T20:47:26.079Z
+updated: 2025-01-03T22:50:19.553Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/73f237caff1293d1dd4178031db987cf4821ccb81
 
  If you are facing a similar issue, we've got you covered. Below, we'll cover the different reasons you might be facing the problem and the solutions you can try to fix it for good.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Isn't the Snip & Sketch Tool Covering the Entire Screen?
 
  Here are a few reasons that might prevent the Snip & Sketch tool from covering your entire screen.
@@ -30,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/73f237caff1293d1dd4178031db987cf4821ccb81
 
  Now that we have identified the possible causes, let's explore some effective troubleshooting methods to help you quickly resolve the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Adjust the Scale Levels
 
  Incorrect scaling settings are the primary cause of the Snip & Sketch tool's inability to capture the entire screen. This typically affects users using multiple displays.
@@ -45,9 +46,6 @@ Here is how you can change the scaling settings:
 2. Navigate to**System** \>**Display** .
 3. In the right pane, head over to the Scale & layout section and expand the dropdown menu under it.
 4. Select**100%** (or whatever scaling setting you have on your other display) from the list of options available.  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Adjust the Scale settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/scale-settings-windows11.jpg)
 5. Close the Settings app and reboot to save the changes.
 
@@ -62,12 +60,13 @@ To change your primary display on Windows, follow these steps:
 3. You should now be able to see the displays installed. Click on the**Identify** button to see which display is the primary one.
 4. Click on the screen that you want to make your primary display and expand the**Multiple displays** option.
 5. Choose the**Make this my main display** option.  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![Switch the main display in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/switch-displays.jpg)
 
  We also recommend keeping the main display positioned on the right side since it may cause the system to handle scaling differently, resolving the error in the process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Restart Snip & Sketch
 
@@ -85,20 +84,16 @@ Follow these steps to proceed:
 
  You should now be able to capture the entire screen successfully. If you encounter the problem again, repeat this process to solve it. But if you want a more permanent solution, check out the following step.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Update Snip & Sketch
 
  The issue can also occur if the Snip & Sketch app itself is outdated, which causes it to malfunction. In this case, an easy solution that can fix the problem is updating the snipping utility.
 
  Since the Snip & Sketch tool is a Microsoft Store app, you can use the Store utility to update it. Here's[how to update Microsoft Store apps](https://www.makeuseof.com/update-apps-windows-11/) in Windows, so check it out to learn how to keep Snip & Sketch (and all other Microsoft Store apps) updated.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## 4\. Repair/Reset Snip & Sketch
 
  If the problem is within the snipping app and updating it has not worked, you can also use the Repair tool offered with the app by default. This feature will attempt to fix any issues that might be causing the app to malfunction.
@@ -111,20 +106,24 @@ Here is how to do that:
 2. Click on**Apps & features** .  
 ![The Apps & features option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Apps--features-option.jpg)
 3. Now, scroll down the following window to look for Snip & Sketch.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click on the three dots associated with it and choose**Advanced options** .
 5. Next, head to the Reset section and click the**Repair** button.  
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Repair the snipping tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/repair-app.jpg)
 6. Wait for the process to complete, then check if the issue is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. If it persists, click the**Reset** button in the same section and follow the on-screen instructions to proceed.
 
  Once the tool has been reset, it should work correctly. If the problem appears again in the future, you can consider using any of the other[ways to take screenshots in Windows 11](https://www.makeuseof.com/take-screenshot-windows-11/) until Microsoft releases an official fix for this problem.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Snip With Ease
 
  The Snip & Sketch tool in Windows is a useful utility that can help you save on-screen information quickly. That said, it can be frustrating when the tool fails to work, especially if your work depends on it. Hopefully, the methods we've mentioned above will help you successfully fix the problem.
@@ -135,8 +134,6 @@ Here is how to do that:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +141,19 @@ Here is how to do that:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-unveiling-superiority-in-choosing-drones-lipo-energizers/"><u>[New] 2024 Approved Unveiling Superiority in Choosing Drones' LiPo Energizers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-precision-video-correction-eradicating-fish-eye-from-gopro/"><u>[New] In 2024, Precision Video Correction Eradicating Fish Eye From GoPro</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-uniting-brands-and-youtube-for-maximum-impact-for-2024/"><u>[New] Uniting Brands & YouTube for Maximum Impact for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-streamline-your-video-upload-process-instagram-ready-sizing/"><u>2024 Approved Streamline Your Video Upload Process Instagram-Ready Sizing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/decouvrez-les-plus-puissants-programmes-vedette-de-montage-video-compatibles-avec-windows-11/"><u>Découvrez Les Plus Puissants Programmes Vedette De Montage Vidéo Compatibles Avec Windows 11 !</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-hello-fingerprint-setup-on-11/"><u>Mastering Windows Hello Fingerprint Setup on 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mits-innovative-solution-advancing-deep-learning-with-sub-photon-optics-for-enhanced-edge-computing/"><u>MIT's Innovative Solution: Advancing Deep Learning with Sub-Photon Optics for Enhanced Edge Computing</u></a></li>
+<li><a href="https://windows11.techidaily.com/no-more-fbm-hurdles-top-windows-troubleshooting-tips/"><u>No More FBM Hurdles: Top Windows Troubleshooting Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/precision-tools-for-crafting-custom-windows-filename-dates/"><u>Precision Tools for Crafting Custom Windows Filename Dates</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-to-resolving-pin-check-errors-on-windows-devices/"><u>Quick Guide to Resolving Pin Check Errors on Windows Devices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/ranking-premium-photo-and-video-shows-x-ios14-for-2024/"><u>Ranking Premium Photo & Video Shows (X-IOS14) for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-best-ispoofer-alternative-to-try-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Vivo Y27 5G | Dr.fone</u></a></li>
+</ul></div>
 

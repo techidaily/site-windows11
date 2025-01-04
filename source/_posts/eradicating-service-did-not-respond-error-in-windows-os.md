@@ -1,7 +1,7 @@
 ---
 title: Eradicating Service Did Not Respond Error in Windows OS
-date: 2024-07-29T04:26:53.716Z
-updated: 2024-07-30T04:26:53.716Z
+date: 2025-01-03T01:59:05.818Z
+updated: 2025-01-03T21:31:52.768Z
 tags:
   - windows10
   - windows11
@@ -20,14 +20,8 @@ thumbnail: https://thmb.techidaily.com/d37006e5965cff133da2576b0b3455692491cf1f8
 
  Windows can’t start whatever service for which error 1053 occurs. Consequently, Windows features, software packages, and tasks that need affected services won’t work. This is how you can fix error 1053 on a Windows PC.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Repair Corrupted System Files With SFC and DISM Scans
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/sfc-scannow-command.jpg)
 
  It could be the case that some corrupted system files required for a service operation are causing error 1053\. To address such a possibility, run System File Checker and Deployment Image Service Management command scans.
@@ -42,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/d37006e5965cff133da2576b0b3455692491cf1f8
 
 ![The Check for updates button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/check-for-updates-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Tweak the Control Registry Key
 
  Tweaking the **Control** registry key is one of the most widely user-confirmed potential fixes for error 1053\. Applying this potential fix sets a new timeout value for services, which extends the response time frame. This gives services more time to respond. So, try editing the **Control** registry key as follows:
@@ -51,16 +49,20 @@ thumbnail: https://thmb.techidaily.com/d37006e5965cff133da2576b0b3455692491cf1f8
 3. Bring up the **Control** key by inputting this path in the address bar and pressing **Enter**:  
 `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\`
 4. Skip to step six if you can see a **ServicesPipeTimeout** DWORD in the **Control** key. If that DWORD isn't there, click the **Control** key with your right mouse button and select **New** \> **DWORD** **(32-bit) Value**.  
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The New and DWORD options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/new-dword-value-option.jpg)
 5. Next, enter **ServicesPipeTimeout** in the DWORD text box.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![The ServicesPipeTimeout DWORD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/servicespipetimeout-dword.jpg)
 6. Double-click **ServicesPipeTimeout** to bring up a window for editing that DWORD value.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Then input **180000** into the **Value** box and select **OK**.  
 ![The Edit DWORD window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/edit-dword-window.jpg)
 8. Click **X** at the top right of the Registry Editor window.
@@ -73,27 +75,25 @@ thumbnail: https://thmb.techidaily.com/d37006e5965cff133da2576b0b3455692491cf1f8
  Fortunately, it's very easy to [reset the Winsock catalog](https://www.makeuseof.com/reset-winsock-catalog-windows/) and [flush the DNS cache](https://www.makeuseof.com/flush-dns-cache-windows-11/) on a Windows PC.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Take Ownership of Affected Software’s Installation Directory
 
  If error 1053 occurs when utilizing or starting software, the affected program might not be able to execute a service because you don’t have ownership of it. To remedy that, try taking ownership of the software’s EXE (application) file.
 
  To do so, check out this article about [taking ownership of a folder](https://www.makeuseof.com/windows-10-11-own-folder/) in Windows 11/10\. The steps for taking ownership of a software package’s EXE file are the same as for a folder.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Advanced Security Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/advanced-security-settings-window.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Reinstall the Affected Software Packages
 
  Reinstalling affected software is another potential fix for error 1053 when it occurs when you try to start a desktop app. Applying this possible solution will likely address any issues with the software that could be causing the error. Uninstall the affected desktop app with a suitable method in this article about [removing software on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/).
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/uninstall-option.jpg)
 
  Restart Windows before reinstalling the software. Download the newest version of the same software from the publisher’s website. Then open the folder that includes your file downloads and double-click on the downloaded installer pack to reinstall the desktop app.
@@ -104,11 +104,29 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  Windows can’t start whatever service for which error 1053 occurs. Consequently, Windows features, software packages, and tasks that need affected services won’t work. This is how you can fix error 1053 on a Windows PC.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-inside-the-revamped-sony-bdp-s6700/"><u>[New] Inside the Revamped Sony BDP-S6700</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-top-8-viral-vids-capturing-social-medias-attention/"><u>[New] Top 8 Viral Vids Capturing Social Media's Attention</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-7-proven-strategies-for-astonishing-ig-films-for-2024/"><u>[Updated] 7 Proven Strategies for Astonishing IG Films for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-leveraging-fb-media-speeds-up-strategies/"><u>[Updated] Leveraging FB Media Speeds Up Strategies</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-prime-video-communication-experience-the-top-10-mobile-apps/"><u>2024 Approved Prime Video Communication Experience The Top 10 Mobile Apps</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-honor-90-lite-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/easy-steps-to-fix-error-code-0xc0000001-on-windows-pcs/"><u>Easy Steps To Fix Error Code 0XC0000001 on Windows PCs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enabling-effortless-speech-translation-to-text-within-powerpoint-slides/"><u>Enabling Effortless Speech Translation to Text Within PowerPoint Slides</u></a></li>
+<li><a href="https://windows11.techidaily.com/improving-workflow-integration-adding-shortcuts-to-the-wordpad-menu-of-windows-11/"><u>Improving Workflow Integration: Adding Shortcuts to the WordPad Menu of Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/operative-systems-now-error-free/"><u>Operative Systems Now Error-Free</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-error-code-3-nvidia-opengl-on-windows-1011/"><u>Resolving Error Code 3: NVIDIA OpenGL on Windows 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-5-best-practices-for-using-wsl-2-on-windows-10-and-11/"><u>The 5 Best Practices for Using WSL 2 on Windows 10 & 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/ultraportables-with-prime-windows-software/"><u>Ultraportables with Prime Windows Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-your-pcs-potential-onedrive-troubleshooting-tips/"><u>Unlocking Your PC's Potential: OneDrive Troubleshooting Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/using-windows-system-restore-feature-efficiently/"><u>Using Windows' System Restore Feature Efficiently</u></a></li>
+</ul></div>
+

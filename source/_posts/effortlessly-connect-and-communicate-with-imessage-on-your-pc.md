@@ -1,7 +1,7 @@
 ---
 title: Effortlessly Connect and Communicate with iMessage on Your PC
-date: 2024-07-29T04:25:20.149Z
-updated: 2024-07-30T04:25:20.149Z
+date: 2024-12-30T19:53:00.522Z
+updated: 2025-01-03T21:46:41.839Z
 tags:
   - windows10
   - windows11
@@ -34,14 +34,6 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
 
 ![Downloading the Link to Windows app on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/open-link-to-windows-iphone.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![The screen that appears when you first open the Link to Windows app on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/link-to-windows-pair-screen-iphone.PNG)
 
 Close
@@ -49,9 +41,9 @@ Close
  Before continuing on the app,[connect your iPhone to the Windows PC](https://www.makeuseof.com/tag/how-to-connect-your-cell-phone-to-your-pc-through-bluetooth/) via Bluetooth since this is how Link to Windows will communicate with Phone Link.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Connect Your iPhone to Phone Link on Windows
 
  On the PC, click the**Search** bar and type "phone link." Click the**Phone Link** app that appears in the results to launch it. Remember, if you don't see the app, you may need to update Windows to the latest version available.
@@ -64,14 +56,8 @@ Close
 
  The app will display a QR code that you can scan using the Camera app on your iPhone. Tap**Pair Your Devices** when it appears on your iPhone—it will pop up below the QR code. Then, tap**Open** on the prompt that appears.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Scanning a QR code on an iPhone,](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/iphone-camera-pairing-qr-code.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Prompt to open the Link to Windows app after scanning the QR code.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/prompt-pair-devices-link-to-windows-iphone.PNG)
 
 Close
@@ -80,18 +66,23 @@ Close
 
 ![Screen to continue pairing with a Windows PC in the Link to Windows app on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/continue-bluetooth-pair-link-to-windows-iphone.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The prompt with a pairing code in the Link to Windows app on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/pair-prompt-link-to-windows-iphone.PNG)
 
 Close
 
  Now, go to the Phone Link app on Windows and click**Pair** .
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The pairing screen with code in the Phone Link app on Windows.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/pair-screen-phone-link-windows.png)
 
  On your iPhone, tap**Done** . You’re almost done setting up iMessage for your PC; there’s just one more step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Sync Contacts and Messages from Your iPhone
 
@@ -103,6 +94,10 @@ Close
 
 ![The Bluetooth settings of a Windows PC on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/pc-bluetooth-settings-iphone.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  Click**Continue** in the Phone link app on Windows to sync contacts and messages from your iPhone.
@@ -110,40 +105,33 @@ Close
  And you're done! The good news is that the setup is a one-time process. Your phone and Windows PC should now automatically connect as long as Bluetooth is enabled and the two devices are within range.
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### View and Write Messages in the Phone Link App
 
  You can see any messages you receive on your iPhone in the Phone Link app by opening the**Messages** tab at the top. Click on the sender's name to see the ongoing conversation in a chat window on the right.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![Viewing messages in the phone link app.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/viewing-message-phone-link-windows.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click**New Message** —the blue pencil icon button—to send a message to a contact who doesn't have an existing thread. Start typing the person's name in the text box that appears and select it from the search results.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![Searching for a contact in the Phone Link app on Windows.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/searching-contact-phone-link-windows.png)
 
  Type your message in the chat box at the bottom and press Enter or click**Send** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![Sending a message in the Phone Link app on Windows.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/sending-message-phone-link-windows.png)
 
  As long as you have notifications enabled on the Phone Link app, you will get an alert when the other person responds.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## An Alternative Method to Use iMessage on Windows
 
  If you don't want to use the Phone Link, there is an alternate, albeit more complicated, way to interact with iMessage on your Windows PC. This method involves using the Remote Desktop extension for Chrome, which you can download from the[Chrome Web Store](https://chromewebstore.google.com/detail/chrome-remote-desktop/inomeogfingihgjfjlpeplalcfajhgai) . However, you will also need a Mac and Windows computer and install the extension on both devices.
@@ -152,14 +140,11 @@ No advertising on the website.
 
  If your messages aren’t going through or the Remote Desktop extension isn’t working, first check whether the[Windows PC is connected to the Internet](https://www.makeuseof.com/windows-ways-to-connect-to-wifi/) and ensure you have a[stable network connection](https://www.makeuseof.com/check-stability-internet-connection-windows/) . Of course, if you aren't able to send someone a message, whether on a PC or your iPhone, the person may have[blocked you on iMessage](https://www.makeuseof.com/check-if-someone-blocked-you-imessage/) .
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -168,4 +153,20 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-how-to-engage-with-snapchat-luminaries-for-2024/"><u>[Updated] How to Engage with Snapchat Luminaries for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-mastering-google-meeting-documentation-a-time-saving-guide/"><u>2024 Approved Mastering Google Meeting Documentation A Time-Saving Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/dismantling-tpm-in-win11-using-the-power-of-rufus/"><u>Dismantling TPM in Win11 Using the Power of Rufus</u></a></li>
+<li><a href="https://windows11.techidaily.com/handling-fatal-discord-errors-on-windows-1011-a-comprehensible-guide/"><u>Handling Fatal Discord Errors on Windows 10/11: A Comprehensible Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-samsung-galaxy-s24-ultra-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Samsung Galaxy S24 Ultra Data? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-a-beginners-pathway-building-a-simple-youtube-signup/"><u>In 2024, A Beginner’s Pathway Building a Simple YouTube Signup</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/iphones-ultimate-podcast-downloading-manual/"><u>IPhone's Ultimate Podcast Downloading Manual</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-wins-control-in-windows-11-easy-steps/"><u>Master Wins Control in Windows 11: Easy Steps</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-to-correct-event-viewer-glitches-in-win-11/"><u>Methods to Correct Event Viewer Glitches in Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-adding-speed-meter-to-taskbar/"><u>Quick Guide: Adding Speed Meter to Taskbar</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-and-personalize-the-ultimate-desktop-guide-for-win11-users/"><u>Streamline & Personalize: The Ultimate Desktop Guide for Win11 Users</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/troubleshooting-youtube-fixing-warped-video-frames/"><u>Troubleshooting YouTube Fixing Warped Video Frames</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-13-mini-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock iPhone 13 mini With Forgotten Passcode Different Methods You Can Try</u></a></li>
+</ul></div>
 

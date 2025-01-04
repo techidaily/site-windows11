@@ -1,7 +1,7 @@
 ---
 title: Steps to Resolve Failed Page Loading on MS Store
-date: 2024-08-08T06:02:31.426Z
-updated: 2024-08-09T06:02:31.426Z
+date: 2025-01-02T21:45:29.701Z
+updated: 2025-01-04T02:41:25.005Z
 tags:
   - windows10
   - windows11
@@ -20,14 +20,15 @@ thumbnail: https://thmb.techidaily.com/581e555a79746fa6146e452431e04adcc0fe595ec
 
  As such, if you also see this error message on the Microsoft Store, then this is the place where you need to be. Here, we'll share seven different ways to fix the "Page could not be loaded" error message.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## What Is the Microsoft Store "Page Could Not Be Loaded" Error?
 
  Usually, the "Page could not be loaded" error message appears when the app you are searching for is unavailable on the Microsoft Store. But sometimes, it appears even on searching for available apps like Minecraft. The error message comes along with the 0x80131505 code.
 
  Some of the prime culprits behind this error are corruption in the Microsoft Store, misconfigured date and time, and any active proxy server. Fortunately, you can make certain changes to troubleshoot the problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Sign Out and Back Into the Microsoft Store
 
@@ -37,13 +38,20 @@ thumbnail: https://thmb.techidaily.com/581e555a79746fa6146e452431e04adcc0fe595ec
 2. Choose the**Sign out** option.  
 ![Sign Out option in the Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/sign-out-option.jpg)
 3. Next, restart the Microsoft Store, click the profile icon and choose**Sign in.**  
-![Sign In Option of the Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/sign-in-option.jpg)
-4. Select your account and then click the**Continue** option.
-5. Enter your PIN to confirm your identity.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Sign In Option of the Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/sign-in-option.jpg)
+4. Select your account and then click the**Continue** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+5. Enter your PIN to confirm your identity.
+
 ## 2\. Change the Microsoft Store Region to the Country You're In
 
  If you're using the Microsoft Store in a different country, make sure to change the region; otherwise, you will face issues accessing it. You can do this by following the below instructions:
@@ -52,13 +60,15 @@ thumbnail: https://thmb.techidaily.com/581e555a79746fa6146e452431e04adcc0fe595ec
 2. In the search bar, type**Region settings** and choose**Open** from the right pane.  
 ![Region Settings option in Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/region-settings-1.jpg)
 3. Click the drop-down icon next to**Country and region** and choose your country name from the list.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Choose Region in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/choose-region.jpg)
 
  That's it. You might need to restart your computer (see[how to restart a Windows PC](https://www.makeuseof.com/windows-restart-methods/) ) for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## 3\. Use the Built-In Windows Troubleshooter
 
  Microsoft is aware of issues users face regularly; that's why they offer[various troubleshooters](https://www.makeuseof.com/windows-11-troubleshooters/) that can come in handy in fixing them. To eliminate any kind of Microsoft Store issue, you can use the Windows Store Apps troubleshooter.
@@ -73,6 +83,10 @@ thumbnail: https://thmb.techidaily.com/581e555a79746fa6146e452431e04adcc0fe595ec
 
  Now, the troubleshooter window will appear and start detecting problems. If it finds any, it will automatically fix it without much user input.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Check Your System Date and Time
 
  It doesn't matter how outlandish it may sound; the "Page could not be loaded" error message is likely to appear if your computer is showing an incorrect date and time. The reason is that Microsoft Store matches the official time with the time shown on your computer.
@@ -86,9 +100,6 @@ thumbnail: https://thmb.techidaily.com/581e555a79746fa6146e452431e04adcc0fe595ec
 
  Now open the Microsoft Store and check if you are still facing the problem. If yes, then try the next solution on the list.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Reset the SoftwareDistribution Folder
 
  Corruption in the SoftwareDistribution folder can also be a reason behind the error message. You'll have to reset this folder to remove the corruption.
@@ -111,14 +122,6 @@ Net Start wuauserv
 Net Start appidsvc  
 Net Start cryptsvc`
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## 6\. Turn Off Any Active Proxy Server Settings
 
  Using a[proxy server](https://www.makeuseof.com/tag/what-is-a-proxy-server/) can come in handy when you want to access websites and apps blocked in your region. But on the negative side, it can cause issues in apps like the Microsoft Store, Xbox, and YouTube.
@@ -129,14 +132,12 @@ Net Start cryptsvc`
 2. Choose**Proxy.**
 3. Click the**Set up** button.
 4. Disable the toggle under the**Use a proxy server** option.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![Use a Proxy Server option in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/use-a-proxy-server-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Repair and Reset the Microsoft Store
 
  Windows offer Repair and Reset troubleshooting options for most of the built-in applications. The Repair option repairs the broken and corrupt files of the app. In contrast, the Reset option deletes all the app's data.
@@ -147,9 +148,6 @@ To use these troubleshooting options, follow the below instructions:
 2. Search for and click on the**three dots** next to the Microsoft Store.
 3. Choose**Advanced options.**
 4. Click the**Repair.**  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![MS Store Repair Option in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/ms-store-repair-option.jpg)
 
  Windows will now start repairing the Microsoft Store. After the process is complete, you'll see a checkmark next to the repair option.
@@ -162,14 +160,11 @@ To use these troubleshooting options, follow the below instructions:
 
  However, if none of the solutions was helpful, consider resetting your computer to factory defaults.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -178,4 +173,19 @@ To use these troubleshooting options, follow the below instructions:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-discover-top-ten-unforgettable-youtube-vr-videos/"><u>[Updated] 2024 Approved Discover Top Ten Unforgettable YouTube VR Videos</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-the-ultimate-guide-to-saving-youtube-tracks-and-dialogues/"><u>[Updated] In 2024, The Ultimate Guide to Saving YouTube Tracks & Dialogues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conversione-gratuita-flac-a-m4a-su-internet-scopri-il-programma-convertitore-di-movavi/"><u>Conversione Gratuita Flac a M4a Su Internet: Scopri Il Programma Convertitore Di Movavi</u></a></li>
+<li><a href="https://windows11.techidaily.com/edging-into-the-non-edge-process-quagmire/"><u>Edging Into the Non-Edge Process Quagmire</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-keep-the-calculator-always-on-top-on-windows/"><u>How to Keep the Calculator Always on Top on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-run-adobe-ps-in-windows-without-trouble-or-failure/"><u>How to Run Adobe PS in Windows without Trouble or Failure</u></a></li>
+<li><a href="https://windows11.techidaily.com/integrating-google-play-store-into-win11-os/"><u>Integrating Google Play Store Into Win11 OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-new-era-of-filesystems-windows-11s-innovations/"><u>Navigating the New Era of Filesystems: Windows 11'S Innovations</u></a></li>
+<li><a href="https://program-issues.techidaily.com/snapchat-camera-not-showing-heres-how-you-can-solve-it/"><u>Snapchat Camera Not Showing? Here's How You Can Solve It!</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-art-of-selecting-prime-participation-rich-discs/"><u>The Art of Selecting Prime, Participation-Rich Discs</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/top-wrf-format-transformer-how-to-change-your-webex-audiovideo-files-into-various-types/"><u>Top WRF Format Transformer: How to Change Your WebEx Audio/Video Files Into Various Types</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/your-ultimate-guide-to-downloading-the-epson-xp-n400-printer-drivers-step-by-step-instructions/"><u>Your Ultimate Guide to Downloading the Epson XP N400 Printer Drivers - Step by Step Instructions</u></a></li>
+</ul></div>
 

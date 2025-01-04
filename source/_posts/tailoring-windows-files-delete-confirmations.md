@@ -1,7 +1,7 @@
 ---
 title: Tailoring Windows Files' Delete Confirmations
-date: 2024-08-08T06:02:47.651Z
-updated: 2024-08-09T06:02:47.651Z
+date: 2024-12-31T23:52:01.924Z
+updated: 2025-01-03T22:05:15.477Z
 tags:
   - windows10
   - windows11
@@ -27,9 +27,6 @@ thumbnail: https://thmb.techidaily.com/4e90942cb4f7cac0b8179c9a85473a89372090550
 1. Right-click on the**Recycle Bin** icon on the desktop and select**Properties** .
 2. In the**Recycle Bin Properties** window, tick the**Display delete confirmation dialog** checkbox.
 3. Click**Apply** followed by**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![Enable or Disable Delete Confirmation Dialog via Recycle Bin Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Enable-or-Disable-Delete-Confirmation-Dialog-via-Recycle-Bin-Properties.jpg)
 
  Once you complete the above steps, Windows should display the delete confirmation dialog every time you move something to the Recycle Bin.
@@ -37,9 +34,9 @@ thumbnail: https://thmb.techidaily.com/4e90942cb4f7cac0b8179c9a85473a89372090550
  If you want to disable the delete confirmation dialog in the future, repeat the above steps and uncheck the**Display delete confirmation dialog** checkbox.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Enable or Disable Delete Confirmation Dialog Using Group Policy Editor
 
  If you’re a system administrator, you might prefer using the Group Policy Editor to make system-level changes. In that case, you can use the following steps to enable or disable the delete confirmation dialog on Windows.
@@ -52,14 +49,16 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 4. Double-click the**Display confirmation dialog when deleting files** policy.
 5. Select the**Enabled** radio button.
 6. Click**Apply** followed by**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Enable or Disable Delete Confirmation Dialog via Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Enable-or-Disable-Delete-Confirmation-Dialog-via-Group-Policy-Editor.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Enable or Disable Delete Confirmation Dialog With Registry Editor
 
  If the above methods do not work for some reason, you can make a few changes in the Registry Editor to enable or disable the delete confirmation prompt on Windows. Since Windows Registry holds critical settings for Windows operating system, make sure you[back up all the registry files](https://www.makeuseof.com/tag/backup-restore-windows-registry/) or[create a restore point](https://www.makeuseof.com/windows-11-create-restore-point/) before proceeding.
@@ -74,30 +73,29 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 6. Double-click the newly created DWORD.
 7. In the**Value data** field, enter**1** to enable the delete confirmation dialog.
 8. Click**OK** and restart your PC to apply the changes.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Enable or Disable Delete Confirmation Dialog via Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Enable-or-Disable-Delete-Confirmation-Dialog-via-Registry-Editor.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After the reboot, Windows should display the delete confirmation dialog when you try to delete something. If you want to undo this change at any time, follow the same steps above and change the value data for**ConfirmFileDelete** to**0** . Alternatively, you can delete the**ConfirmFileDelete** entry altogether.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Enabling or Disabling the Delete Confirmation Dialog on Windows
 
  The delete confirmation dialog might not be exciting to see, but it is definitely useful. On the other hand, if you're cleaning up old files on your computer, you might want to disable the confirmation dialog for a while. Either way, enabling or disabling the delete confirmation dialog is pretty simple.
 
  And as difficult as it may sound, it's actually very easy to restore accidentally deleted files on Windows.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -106,4 +104,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-timeless-media-capturing-device/"><u>[New] 2024 Approved Timeless Media Capturing Device</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-exploring-sky-vistas-yuneec-breezes-high-def-adventure-for-2024/"><u>[Updated] Exploring Sky Vistas Yuneec Breeze's High-Def Adventure for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-non-athletic-games-the-best-10-front-rows/"><u>2024 Approved Non-Athletic Games The Best 10 Front Rows</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/guide-detaille-depannage-de-handbrake-sous-les-systemes-dexploitation-windows-versions-7810-et-vista/"><u>Guide Détaillé : Dépannage De Handbrake Sous Les Systèmes D'Exploitation Windows (Versions 7/8/10 Et Vista)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-retrieve-lost-default-volume-levels-on-pc/"><u>How to Retrieve Lost Default Volume Levels on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-powershell-clearing-blocked-files-in-windows/"><u>Mastering PowerShell: Clearing Blocked Files in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-over-misbehaving-mouse-travel-on-windows/"><u>Mastery Over Misbehaving Mouse Travel on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/next-level-smartwatch-experience-how-the-samsung-galaxy-watch-active-2-elevates-from-the-original/"><u>Next Level Smartwatch Experience: How the Samsung Galaxy Watch Active 2 Elevates From the Original</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722964673483-overcoming-intel-chipset-drivers-hurdles-csr85-and-a10-on-windows-systems-fixed/"><u>Overcoming Intel Chipset Drivers Hurdles: CSR85# and A10 on Windows Systems Fixed!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/reactivating-closed-captions-on-your-roku-device-a-comprehensive-guide/"><u>Reactivating Closed Captions on Your Roku Device - A Comprehensive Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/swift-remedies-for-fixing-microsoft-store-crash-code-0x80072efd/"><u>Swift Remedies for Fixing Microsoft Store Crash Code 0X80072EFD</u></a></li>
+<li><a href="https://windows11.techidaily.com/tactics-to-mute-hidden-windows-11-processes/"><u>Tactics to Mute Hidden Windows 11 Processes</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-top-5-effects-for-reshaping-sound-tracks-for-2024/"><u>Updated Top 5 Effects for Reshaping Sound Tracks for 2024</u></a></li>
+</ul></div>
 

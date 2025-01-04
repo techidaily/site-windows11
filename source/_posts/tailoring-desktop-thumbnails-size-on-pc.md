@@ -1,7 +1,7 @@
 ---
 title: Tailoring Desktop Thumbnails Size on PC
-date: 2024-08-08T06:03:26.085Z
-updated: 2024-08-09T06:03:26.085Z
+date: 2024-12-31T21:27:56.739Z
+updated: 2025-01-03T21:58:15.843Z
 tags:
   - windows10
   - windows11
@@ -19,8 +19,9 @@ thumbnail: https://thmb.techidaily.com/f15d1bc826d6244cad0ae98fe7b4565620a90c952
  Have you ever had trouble identifying your images in Windows because their thumbnail size was too small? If so, you've come to the right place. In this article, we'll share two efficient ways to change the image thumbnail size, allowing you to easily organize and locate your files.
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Change Image Thumbnail Size Using the File Explorer
 
  Whether you need to perform simple tasks like viewing images or more complex operations like managing [Folder options](https://www.makeuseof.com/windows-folder-options-guide/), the Windows File Explorer has you covered. And if you want to adjust image thumbnail sizes to your liking, you can do that too using File Explorer.
@@ -31,18 +32,12 @@ thumbnail: https://thmb.techidaily.com/f15d1bc826d6244cad0ae98fe7b4565620a90c952
 2. In the search bar, type **File Explorer** and press Enter. Alternatively, you can press the **Win + E** hotkey to launch the File Explorer.
 3. Head towards the target image folder.
 4. Click the **View** option at the top and choose the image thumbnail size from the context menu. Windows offers four thumbnail sizes – extra large, large, medium, and small. You can choose either of the thumbnail sizes as per your preference.  
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![View option in the File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/view-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Change the Image Thumbnail Size Using the Registry Editor
 
  The Registry Editor is a crucial Windows utility that allows you to configure various system settings. However, it's important to note that editing the registry can be risky, as one mistake could cause your system to become unstable. Therefore, it's essential to [back up the registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) and [create a restore point](https://www.makeuseof.com/windows-11-create-restore-point/) before proceeding with any changes.
@@ -53,27 +48,28 @@ No advertising on the website.
 2. In the Registry Editor, head toward the following location:  
 `Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer`
 3. Right-click the blank space in the right pane, hover the cursor to **New**, and select **DWORD (32-bit) Value**.  
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![DWORD (32-bit) Value in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/dword-32-bit-value-2.jpg)
 4. Name the value **ThumbnailSize**.
-5. Double-click on ThumbnailSize, and enter the value between **32** and **256**. The higher the number, the larger the image thumbnail.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Double-click on ThumbnailSize, and enter the value between **32** and **256**. The higher the number, the larger the image thumbnail.  
 ![Value data in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/value-data-1.jpg)
 6. Click **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Everything Is Large and Clear on Windows
 
  Thumbnails are small representations of the original image, allowing you to identify and organize your images easily. However, if the image thumbnail size is too small, identifying and organizing your images can be challenging. Fortunately, the above methods can help you change the image thumbnail size according to your preference, making it easier to manage your files.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -81,3 +77,27 @@ No advertising on the website.
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-navigate-facebooks-video-playback-like-a-pro/"><u>[New] 2024 Approved Navigate Facebook's Video Playback Like a Pro</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-keep-your-viewers-hooked-6-compelling-video-types/"><u>[New] Keep Your Viewers Hooked 6 Compelling Video Types</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-bringing-dimensions-to-life-the-1-list-of-pcs-top-vr-360-players-for-2024/"><u>[Updated] Bringing Dimensions to Life The #1 List of PC's Top VR 360 Players for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-error-3-nvidia-opengl-on-windows-oses/"><u>Fixing Error 3: NVIDIA OpenGL on Windows OSes</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/gif-galore-converting-tweet-videos-at-zero-cost-for-2024/"><u>GIF Galore Converting Tweet Videos at Zero Cost for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-achieve-a-crystal-clear-taskbar-in-windows-11/"><u>How to Achieve a Crystal Clear Taskbar in Windows 11</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-unrivaled-popularity-ranking-the-top-subscribers-on-youtube/"><u>In 2024, Unrivaled Popularity Ranking the Top Subscribers on YouTube</u></a></li>
+<li><a href="https://windows11.techidaily.com/initiate-system-check-with-these-5-methods/"><u>Initiate System Check with These 5 Methods</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/interrupting-real-time-recording-on-quicktime-for-2024/"><u>Interrupting Real-Time Recording on QuickTime for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-pin-related-bluetooth-link-problems-in-win11win10/"><u>Mastering PIN-Related Bluetooth Link Problems in Win11/Win10</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-non-responsive-power-controls-in-win11/"><u>Navigating Non-Responsive Power Controls in Win11</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/revamping-images-with-advanced-features/"><u>Revamping Images with Advanced Features</u></a></li>
+<li><a href="https://program-issues.techidaily.com/six-essential-solutions-to-prevent-street-fighter-6-pc-game-crashes/"><u>Six Essential Solutions to Prevent Street Fighter 6 PC Game Crashes</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-windows-11s-search-bar-efficacy/"><u>Streamline Windows 11'S Search Bar Efficacy</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-techniques-to-fix-win11-system-call-errors/"><u>Troubleshooting Techniques to Fix Win11 System Call Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-full-screen-without-mobile-mode-win-11/"><u>Unlock Full Screen Without Mobile Mode (Win 11)</u></a></li>
+<li><a href="https://windows11.techidaily.com/unwrapping-the-mystery-of-failed-discord-installation/"><u>Unwrapping the Mystery of Failed Discord Installation</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-final-cut-pro-x-compression-made-easy-a-beginners-guide-for-2024/"><u>Updated Final Cut Pro X Compression Made Easy A Beginners Guide for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/what-makes-dxvk-a-key-player-for-games-on-windows-pcs/"><u>What Makes DXVK a Key Player for Games on Windows PCs?</u></a></li>
+</ul></div>
+

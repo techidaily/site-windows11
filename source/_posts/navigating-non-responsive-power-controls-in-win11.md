@@ -1,7 +1,7 @@
 ---
 title: Navigating Non-Responsive Power Controls in Win11
-date: 2024-11-27T02:04:10.335Z
-updated: 2024-12-03T16:13:37.040Z
+date: 2025-01-01T17:28:16.761Z
+updated: 2025-01-03T17:32:11.279Z
 tags:
   - windows10
   - windows11
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/0c8f696950ea736c2174f2d7e8a74906124afdbd8
  Now that we know what can cause the problem, let's look at what you can do to solve it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Change the Power Plan
@@ -46,23 +46,31 @@ Here is how you can proceed:
 ![Click on Large icons option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/large-icons-control-panel.jpg)
 4. Now, look for**Power options** and click on it.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Click on Power Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/win11-power-options.jpg)
 5. You should now be able to see your current power plan. Click on**Create a power plan** in the left pane.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Create a power plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/create-power-plan-1.jpg)
 6. Choose the**Balanced power plan** and click**Next** \>**Create** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Click on the Create button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-power-plan-next-create.jpg)
 
 Once done, check if you can now change the power mode successfully.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Run the Power Troubleshooter
 
@@ -106,17 +114,9 @@ Computer Configuration -> Administrative Templates -> System -> Power Management
 ![Choose the Select an active power plan policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/select-an-active-power-plan.jpg)
 4. Choose**Enabled** and then choose the targeted power plan from the dropdown.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Click**Apply** \>**OK** to save the changes, and then restart your computer.
 
 Hopefully, this will resolve the issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Revert the System to an Older Working State
 
@@ -147,20 +147,19 @@ Hopefully, this will resolve the issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-quick-steps-for-adding-speech-to-text-in-powerpoint-slides/"><u>[New] Quick Steps for Adding Speech-to-Text in PowerPoint Slides</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-visual-voyage-from-realistic-images-to-animated-marvels-on-pcmac/"><u>[Updated] 2024 Approved Visual Voyage From Realistic Images to Animated Marvels on PC/Mac</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effortless-download-and-setup-for-your-hp-sound-system-drivers-no-cost-involved/"><u>Effortless Download & Setup for Your HP Sound System Drivers: No Cost Involved!</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/guide-rapide-transformation-dun-fichier-vob-en-asf-sans-cout-utilisation-du-convertisseur-video-libre/"><u>Guide Rapide : Transformation D'un Fichier VOB en ASF Sans Coût - Utilisation Du Convertisseur Vidéo Libre</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-samsung-galaxy-xcover-7-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Samsung Galaxy XCover 7</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Vivo S18 | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/learn-to-record-dual-track-screenshots-with-windows-11s-snipping-tool-max-156/"><u>Learn to Record Dual-Track Screenshots with Windows 11'S Snipping Tool (Max 156)</u></a></li>
-<li><a href="https://windows11.techidaily.com/leveraging-ntfs-compression-to-optimize-disk-storage/"><u>Leveraging NTFS Compression to Optimize Disk Storage</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/restful-narratives-on-display/"><u>Restful Narratives on Display</u></a></li>
-<li><a href="https://windows11.techidaily.com/seamless-system-sync-resurrecting-unresponsive-windows-photoshop/"><u>Seamless System Sync: Resurrecting Unresponsive Windows Photoshop</u></a></li>
-<li><a href="https://windows11.techidaily.com/seven-key-benefits-of-continuing-with-your-oldie-but-goodie-windows-10/"><u>Seven Key Benefits of Continuing with Your Oldie but Goodie - Windows 10</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-guide-to-personalized-windows-11-lock-patterns/"><u>Step-by-Step Guide to Personalized Windows 11 Lock Patterns</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-for-a-larger-space-for-pin-listings-in-w11/"><u>Tips for a Larger Space for Pin Listings in W11</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-upgrades-in-connectivity-and-controls-samsung-galaxy-watch-active2-unboxed/"><u>Unveiling the Upgrades in Connectivity & Controls: Samsung Galaxy Watch Active2 Unboxed</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-lockscreen-customization-switching-spotlight-on-and-off/"><u>Windows Lockscreen Customization: Switching Spotlight On and Off</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ow-does-youtube-manage-post-upload-operations-in-2024/"><u>[New] How Does YouTube Manage Post-Upload Operations, In 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-mastering-obs-recording-setup-and-usage-tips-for-mac-users/"><u>[New] Mastering OBS Recording Setup & Usage Tips for Mac Users</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-youtube-descriptions-with-expert-templates-for-2024/"><u>Boosting YouTube Descriptions with Expert Templates for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/discovering-the-ultimate-solution-showmores-recording-mastery-for-2024/"><u>Discovering The Ultimate Solution ShowMore's Recording Mastery for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/effective-strategies-for-adjacent-and-disjoint-partition-combination/"><u>Effective Strategies for Adjacent and Disjoint Partition Combination</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminate-onedrive-icons-in-explorer-on-windows-11/"><u>Eliminate OneDrive Icons in Explorer on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-watching-tips-for-prime-subtitles-glitches-in-windows-11/"><u>Enhance Watching: Tips for Prime Subtitles Glitches in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-your-win11-experience-with-rgb-customization/"><u>Enhance Your Win11 Experience with RGB Customization</u></a></li>
+<li><a href="https://windows11.techidaily.com/eradicating-disk-read-issues-on-your-pc-today/"><u>Eradicating Disk Read Issues on Your PC Today</u></a></li>
+<li><a href="https://windows11.techidaily.com/eradicating-windows-update-problems-the-0x800736cc-way/"><u>Eradicating Windows Update Problems: The 0X800736CC Way</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-s23-ultra-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy S23 Ultra Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-beat-makers-paradise-downloading-premium-dj-visuals/"><u>In 2024, Beat Makers' Paradise Downloading Premium DJ Visuals</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-a18-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo A18 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-phantom-v-fold-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Phantom V Fold without backup.</u></a></li>
 </ul></div>
 

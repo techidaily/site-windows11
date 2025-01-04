@@ -1,7 +1,7 @@
 ---
 title: "Resolve the Enigma: How to Solve No Mail on Windows 11 Apps"
-date: 2024-12-21T19:22:35.845Z
-updated: 2024-12-25T16:18:10.267Z
+date: 2024-12-30T22:46:17.609Z
+updated: 2025-01-03T17:03:02.548Z
 tags:
   - windows10
   - windows11
@@ -40,11 +40,11 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
 ![Add account option in the Mail app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/add-account.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Check the Date and Time on Windows
@@ -55,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
 
  If the Mail app is blocked under the Windows Firewall settings, it will fail to fetch emails and show the "System error can't get mail" error. To fix this, you'll have to[allow the Mail app to run through the Windows Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Update Windows
 
  The error can also appear due to an outdated Windows version. So, download any available Windows update to eliminate the problem at hand. To do that, open the**Settings app** (see how to[access Settings in Windows 11](https://www.makeuseof.com/windows-ways-to-open-system-settings/) ), choose**Windows Update** from the left sidebar, and then click on the**Check for updates** option in the right pane.
@@ -62,11 +66,7 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
 ![Check for Updates option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-for-updates-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Use the Windows Update Troubleshooter
@@ -78,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
 ![The Run button for the Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-run-button.jpg)
 
  Next, go through the troubleshooter and apply all suggestions to fix the problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Change the Mail App Privacy Settings
 
@@ -103,6 +107,10 @@ Now, restart your system and check for the issue.
 ![Advanced options in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/advanced-options.jpg)
 3. Click the**Repair** button.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Repair option in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/repair-option.jpg)
 
  Once the repair process is complete, you'll see a checkmark next to the Repair button. Next, restart your system and check for the issue. If it continues, reset the Mail app as a last resort.
@@ -110,14 +118,6 @@ Now, restart your system and check for the issue.
  To do that, open the Advanced options of the Mail and Calendar app, and click the**Reset** button.
 
 ![Reset option in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-option-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Use the Mail App to Access Your Emails Again on Windows
 
@@ -140,17 +140,22 @@ Now, restart your system and check for the issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-elevate-your-works-discover-the-elite-6-in-nft-creativity/"><u>[New] 2024 Approved Elevate Your Works Discover the Elite 6 in NFT Creativity</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harnessing-hashtags-elevating-your-youtube-gaming-series/"><u>[New] In 2024, Harnessing Hashtags Elevating Your YouTube Gaming Series</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-independent-android-adventures-the-ultimate-list-of-unplugged-titles/"><u>[Updated] In 2024, Independent Android Adventures - The Ultimate List of Unplugged Titles</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-toms-hardware-the-ultimate-resource-for-gadget-enthusiasts/"><u>Exploring Tom's Hardware: The Ultimate Resource for Gadget Enthusiasts</u></a></li>
-<li><a href="https://windows11.techidaily.com/preventing-in-use-errors-a-guide-for-windows-users-153-chars/"><u>Preventing In Use Errors: A Guide for Windows Users (153 Chars)</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/recovering-lost-conversations-a-guide-to-restoring-your-deleted-chatgpt-history/"><u>Recovering Lost Conversations: A Guide to Restoring Your Deleted ChatGPT History</u></a></li>
-<li><a href="https://windows11.techidaily.com/reinstating-file-explorer-classics/"><u>Reinstating File Explorer Classics</u></a></li>
-<li><a href="https://windows11.techidaily.com/rethinking-your-pc-critical-changes-in-windows-11s-explore/"><u>Rethinking Your PC: Critical Changes in Windows 11'S Explore</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamline-your-digital-experience-using-window-11s-search-box/"><u>Streamline Your Digital Experience: Using Window 11'S Search Box</u></a></li>
-<li><a href="https://driver-error.techidaily.com/the-complete-walkthrough-downloading-and-installing-new-drivers-on-hps-envy-laptops/"><u>The Complete Walkthrough: Downloading and Installing New Drivers on HP'S Envy Laptops</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-significance-of-interactive-components-in-win-11s-interface/"><u>The Significance of Interactive Components in Win 11'S Interface</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-facebooks-most-impressive-new-additions-decoded/"><u>[New] Facebook's Most Impressive New Additions Decoded</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-pro-tips-for-iphone-burst-photo-sequences-for-2024/"><u>[New] Pro Tips for iPhone Burst Photo Sequences for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-popsocket-mounts-for-optimal-video-shooting/"><u>[Updated] In 2024, PopSocket Mounts for Optimal Video Shooting</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-step-by-step-username-modification-guide-for-meet-sessions/"><u>2024 Approved Step-by-Step Username Modification Guide for Meet Sessions</u></a></li>
+<li><a href="https://windows11.techidaily.com/adjusting-low-power-options-for-better-battery-life/"><u>Adjusting Low-Power Options for Better Battery Life</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-duplicate-local-device-names-in-windows-systems/"><u>Avoiding Duplicate Local Device Names in Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/boot-old-gear-into-latest-windows-11-22h2/"><u>Boot Old Gear Into Latest Windows 11 22H2</u></a></li>
+<li><a href="https://windows11.techidaily.com/compilation-of-best-windows-11-art-software/"><u>Compilation of Best Windows 11 Art Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/comprehensive-fix-for-msvcr110dll-absence/"><u>Comprehensive Fix for msvcr110.dll Absence</u></a></li>
+<li><a href="https://windows11.techidaily.com/crucial-cross-platform-tools-for-windowsandroid-users/"><u>Crucial Cross-Platform Tools For Windows/Android Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/dealing-with-ios-photos-import-errors-on-windows-devices/"><u>Dealing with iOS Photos Import Errors on Windows Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-dism-your-ultimate-toolkit-for-fixing-win11/"><u>Decoding DISM: Your Ultimate Toolkit for Fixing Win11</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-failed-to-load-configuration-error-in-windows-11-comprehensive-guide/"><u>How to Fix 'Failed to Load Configuration' Error in Windows 11 - Comprehensive Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-7-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone 7 in Lost Mode</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-addressing-missing-image-display-in-youtubes-shorts/"><u>In 2024, Addressing Missing Image Display in YouTubes Shorts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/laptop-expansion-a-comprehensive-tutorial-on-attaching-a-display-unit/"><u>Laptop Expansion: A Comprehensive Tutorial on Attaching a Display Unit</u></a></li>
 </ul></div>
 

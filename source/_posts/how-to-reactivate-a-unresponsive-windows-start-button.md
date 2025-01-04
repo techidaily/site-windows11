@@ -1,7 +1,7 @@
 ---
 title: How to Reactivate a Unresponsive Window's Start Button
-date: 2024-08-08T06:02:36.415Z
-updated: 2024-08-09T06:02:36.415Z
+date: 2024-12-28T21:31:36.708Z
+updated: 2025-01-03T20:32:49.998Z
 tags:
   - windows10
   - windows11
@@ -21,17 +21,9 @@ thumbnail: https://thmb.techidaily.com/3435ed54de8a47266623e22c7fb2a2e96dbea38f3
  Fortunately, there are more than a few ways to get the Start Menu button working again if it quits on you.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Restart
 
 ![windows booting up](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-booting-up.jpg)
@@ -40,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/3435ed54de8a47266623e22c7fb2a2e96dbea38f3
 
  So, restart your PC and see if the Windows Start button still isn't working on the next boot-up. If the problem was because of memory or similar low-level issues, a restart should be enough to get everything back to work.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Update Windows
 
  One of the easiest ways to resolve issues plaguing Windows 10 is to update it. Microsoft constantly pushes out patches, new features, and improvements to Windows with big updates every year and smaller security updates in between.
@@ -51,16 +40,14 @@ thumbnail: https://thmb.techidaily.com/3435ed54de8a47266623e22c7fb2a2e96dbea38f3
 
  So, press the**Windows key** , write “Updates”, and choose**Check for updates** from the options. Let the system check for and download updates if there are some available.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Windows Update settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/start-menu-not-working-windows-update.JPG)
 
  Finally, finalize the update by restarting your computer. This will hopefully fix the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Sign Out of Your User Account
 
  After performing a Windows update, signing out and in again into your user account is the next quickest possible way to fix the Start Menu.
@@ -73,11 +60,12 @@ To sign out of your PC:
 
 ![Signing out of Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/start-menu-not-working-sign-out.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Although this is a sort of hack and not a “solid” solution, this simple trick can save you from having to take more drastic measures like editing the registry entries or restarting Windows Explorer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Restart Windows Explorer
 
  Windows Explorer is Windows’ default file manager. Microsoft first introduced Window Explorer in Windows 95\. Explorer allows you to see, interact with, and modify files present on your system.
@@ -90,16 +78,14 @@ To restart Explorer:
 2. Under the**Processes** tab, right-click**Windows Explorer** and click**Restart** .
 3. Wait for the Explorer to boot up.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Restarting Windows Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/start-menu-not-working-restart-explorer.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When you restart Windows Explorer, the Explorer application will quit, causing the GUI that sits on top of the file system to disappear momentarily. So, don’t worry if you see everything go blank for a sec.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Perform a System File Checker Scan
 
  Corrupt system files causing unforeseen problems are an issue as old as Windows itself. As you can expect, such files can also affect the Start Menu and cause it to stop working.
@@ -125,8 +111,9 @@ Start the Command Prompt with administrative privileges. To do this:
 ![Windows PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/start-menu-not-working-powershell.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Disable Temporary Cortana Files With the Command Prompt
 
  One of the biggest changes that Microsoft made to Windows 10 was to integrate Cortana into the OS. Cortana was Microsoft’s take on a smart voice assistant. But it fell short of its goal and a lot of people choose to[disable Cortana](https://www.makeuseof.com/windows-11-enable-disable-cortana/) .
@@ -143,6 +130,10 @@ Once Command Prompt starts, run the following commands in order:
 3. RD /S /Q Settings
 
  If these commands don’t work, you have a few more options at your disposal so follow along.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Boot Into Safe Mode
 
@@ -162,14 +153,11 @@ So, boot into Safe Mode and see if it fixes the Start Menu.
 
  Hopefully, the above methods have helped you get your Start menu back. Remember; if you're planning to do a full reset of your PC to fix the issue, make a backup of your computer, so you can put everything back once you're done.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -178,4 +166,22 @@ So, boot into Safe Mode and see if it fixes the Start Menu.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-engineering-superior-canon-chrono-footage/"><u>[New] 2024 Approved Engineering Superior Canon Chrono Footage</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-boost-your-facebook-profile-select-8-apps-with-highest-like-potential/"><u>2024 Approved Boost Your Facebook Profile Select 8 Apps with Highest Like Potential</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-start-to-finish-the-complete-telegram-web-journey/"><u>2024 Approved From Start to Finish The Complete Telegram Web Journey</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-retailing-revelations-and-methods/"><u>2024 Approved Retailing Revelations and Methods</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/5-best-gaming-webcams-streammers-must-try/"><u>5 Best Gaming Webcams Streammers Must Try</u></a></li>
+<li><a href="https://windows11.techidaily.com/craft-compelling-content-with-these-windows-tools/"><u>Craft Compelling Content with These Window's Tools</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/navigating-the-propeller-market-for-top-tier-fpv-drones/"><u>Navigating the Propeller Market for Top-Tier FPV Drones</u></a></li>
+<li><a href="https://windows11.techidaily.com/niche-windows-11-theme-alternatives-youll-love/"><u>Niche Windows 11 Theme Alternatives You'll Love</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-windowed-discord-for-flawless-search-experience/"><u>Optimizing Windowed Discord for Flawless Search Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/refinement-of-your-touchpad-settings-for-optimal-interaction/"><u>Refinement of Your Touchpad Settings for Optimal Interaction</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-closed-folder-issues-via-double-clicks-in-w10w11/"><u>Resolving Closed Folder Issues via Double-Clicks in W10/W11</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/steps-to-eliminate-the-obs-blank-screens-in-gaming-setup/"><u>Steps to Eliminate the OBS Blank Screens in Gaming Setup</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-adjusting-touchpad-sensitivity-in-windows/"><u>The Ultimate Guide to Adjusting Touchpad Sensitivity in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-5-tips-for-optimizing-wsl-2-on-modern-windows/"><u>Top 5 Tips for Optimizing WSL 2 on Modern Windows</u></a></li>
+</ul></div>
 

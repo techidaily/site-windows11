@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Wi-Fi Setup: Addressing Inadequate Actions on PCs"
-date: 2024-12-22T18:21:50.767Z
-updated: 2024-12-25T18:29:37.843Z
+date: 2024-12-30T18:56:39.624Z
+updated: 2025-01-04T04:35:20.087Z
 tags:
   - windows10
   - windows11
@@ -43,10 +43,6 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NlaSvc\Parameters\Internet
 5. Move to the right pane and right-click on the **EnableActiveProbing** value.  
 ![EnableActiveProbing key in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-active-probing-key.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Type 0 in the text field for Value data and click **OK**.
 2. Now, navigate to the following location:  
 HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
@@ -56,7 +52,7 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 5. Double-click on this newly created value and change its value data to 1\.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Now, create another value the same way and name it as DisablePassivePolling.
@@ -65,10 +61,6 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 8. Click **OK** to save the changes and exit the Registry Editor.
 
 9. Finally, restart your computer and upon reboot, check if the problem is resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Disable the NCSI Probe From GPE
 
@@ -85,10 +77,6 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 ![Network connectivity test policy in GPE](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/network-connectivity-test-policy.jpg)
 6. Checkmark the box with **Enabled** and click **Apply** \> **OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Next, head over to the following location:  
 ​​​​​​​​​​​​​​Computer Configuration\Administrative Templates\Network
 8. Select **Network Connectivity Status Indicator** \> **Specify passive polling**.  
@@ -100,7 +88,7 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
  Hopefully, upon reboot, the issue will no longer appear.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Run the Internet Connection Troubleshooter
@@ -115,6 +103,10 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 4. You should now be able to see a list of troubleshooters offered by Windows. Locate the Internet connection troubleshooter and click on the **Run** button for it.  
 ![Internet Connection Troubleshooter in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/internet-connection-troubleshooter.jpg)
 5. Wait for the troubleshooter to complete its scan and once done, check if a problem is identified. If it is, click on the **Apply this fix** option. You can also apply a solution manually.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. In case the troubleshooter fails to identify the culprit, click on **Close the troubleshooter** option and move to the next method below.
 
@@ -135,11 +127,19 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 ![Disable Fast Startup on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/disable-fast-startup-on-windows.jpg)
 7. Click on the **Save changes** button and exit Control Panel. Check if the issue is now resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Try These Additional Generic Fixes
 
  If the specific fixes we have listed above have not worked for you, there are some additional fixes related to the network errors in Windows that you can try.
 
  These include updating the network drivers, re-enabling your wireless network adapter, installing the latest system updates, and resetting the network configurations on your computer. Our guide on[how to fix common Windows network errors](https://www.makeuseof.com/not-connected-any-networks-error-windows/) discusses all of these in detail, so you can head over there for step-by-step instructions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixing Network Connections in Windows Made Easy
 
@@ -159,22 +159,20 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-archive-your-albums-in-the-sky-optimal-photo-cloud-storage-compared-for-2024/"><u>[New] Archive Your Albums in the Sky Optimal Photo Cloud Storage Compared for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-silent-streamers-academy-learn-to-broadcast-on-ig-without-attention/"><u>[New] Silent Streamers Academy Learn to Broadcast on IG without Attention</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/he-creators-guide-to-mastering-youtube-aspect-ratios/"><u>[New] The Creator's Guide to Mastering YOUTUBE Aspect Ratios</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-excellence-in-camera-technology-top-15/"><u>[Updated] In 2024, Excellence in Camera Technology – Top 15</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-mastering-the-art-of-softening-dynamics-in-fl-studio-soundscape/"><u>[Updated] Mastering the Art of Softening Dynamics in FL Studio Soundscape</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixed-attempt-connection-error-blocking-device-linkage/"><u>Fixed: 'Attempt Connection' Error Blocking Device Linkage</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-google-pixel-7a-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Google Pixel 7a Lock Screen Password?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-on-your-apple-iphone-6s-plus-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock on your Apple iPhone 6s Plus and iPad</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-no-sound-error-in-powerpoint-screen-capture/"><u>Overcoming No Sound Error in PowerPoint Screen Capture</u></a></li>
-<li><a href="https://windows11.techidaily.com/remedy-for-inaudible-recordings-while-using-powerpoint/"><u>Remedy for Inaudible Recordings While Using PowerPoint</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-into-flexibility-opening-fax-editor-on-windows-11-pcs/"><u>Step Into Flexibility: Opening Fax Editor on Windows 11 PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/sustained-calculator-visibility-on-windows-os/"><u>Sustained Calculator Visibility on Windows OS</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/1722588352134-the-ultimate-guide-to-the-lg-oled-c9-unleashing-the-power-of-a-superior-4k-65-tv-in-our-in-depth-review/"><u>The Ultimate Guide to the LG OLED C9: Unleashing the Power of a Superior 4K, 65 TV in Our In-Depth Review</u></a></li>
-<li><a href="https://windows11.techidaily.com/unexplored-avenues-in-windows-11-boost-your-usability/"><u>Unexplored Avenues in Windows 11 - Boost Your Usability</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/king-youtube-chat-insights/"><u>Unlocking YouTube Chat Insights</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-tips-for-better-mouseclicklock-implementation/"><u>Unveiling Tips for Better MouseClickLock Implementation</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-terminal-vs-powershell-decoding-what-makes-them-diverge/"><u>Windows Terminal Vs. PowerShell: Decoding What Makes Them Diverge</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-movavi-plus-review-a-detailed-look-at-its-version/"><u>[New] Movavi Plus Review – A Detailed Look at Its Version</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-elevate-your-visuals-the-definitive-guide-to-zooming-with-videoleap/"><u>[Updated] Elevate Your Visuals The Definitive Guide to Zooming With Videoleap</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-perfectly-permanent-images-instagram-photowatermark-techniques/"><u>[Updated] Perfectly Permanent Images Instagram Photowatermark Techniques</u></a></li>
+<li><a href="https://fox-http.techidaily.com/best-camera-stabilizers-for-youtuber-for-2024/"><u>Best Camera Stabilizers for YouTuber for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-practices-to-speed-up-or-slow-down-music-in-spotify/"><u>Best Practices to Speed Up or Slow Down Music in Spotify</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciding-on-the-best-nvidia-driver-type/"><u>Deciding on the Best Nvidia Driver Type</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/download-gratis-movavi-video-transcoder-movil-y-descargador-de-videos-libre/"><u>Download Gratis Movavi Video Transcoder - Móvil Y Descargador De Videos Libre</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-apple-iphone-15-plus-could-not-be-activatedreached-issue-by-drfone-ios/"><u>How To Fix Apple iPhone 15 Plus Could Not Be Activated/Reached Issue</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-skip-these-fatal-errors-when-writing-prompts-for-chatgpt/"><u>How to Skip These Fatal Errors When Writing Prompts for ChatGPT</u></a></li>
+<li><a href="https://windows11.techidaily.com/identifying-superior-video-encoders-for-windows-computing/"><u>Identifying Superior Video Encoders for Windows Computing</u></a></li>
+<li><a href="https://video-capture.techidaily.com/rapid-methods-for-capturing-digital-conference-sessions/"><u>Rapid Methods for Capturing Digital Conference Sessions</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-alt-key-code-issues-in-windows-systems/"><u>Solving ALT Key Code Issues in Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/switch-onoff-windows-filter-keys-guide/"><u>Switch On/Off: Window's Filter Keys Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/unwinding-windows-11s-0x8004def5-onedrive-snags/"><u>Unwinding Windows 11'S 0X8004DEF5 Onedrive Snags</u></a></li>
+<li><a href="https://windows11.techidaily.com/what-does-s-mode-mean-in-the-world-of-windows-11-updates/"><u>What Does 'S Mode' Mean in the World of Windows 11 Updates?</u></a></li>
 </ul></div>
 

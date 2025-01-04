@@ -1,7 +1,7 @@
 ---
 title: Downloading & Instaling Windows 11 ARM - A Streamlined Process
-date: 2024-07-29T04:24:34.895Z
-updated: 2024-07-30T04:24:34.895Z
+date: 2025-01-01T18:43:51.093Z
+updated: 2025-01-03T19:32:42.131Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/69247ac14d53a4d423914a7a567f7db5686b08abe
 
  If you are using an unsupported ARM-based PC or want to install Windows 11 on your Mac computer, this guide will help. Here we show you how to download and install Windows 11 ARM with ISO. We also briefly discuss the limitations and compatible ARM-based devices that may support Windows 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Can Windows 11 Run on ARM?
 
  Like its predecessor, the newest iteration of Microsoft's popular operating system can run on compatible ARM devices. However, Windows 11 now uses the new ARM64EC application binary interface (ABI) for ARM devices. It helps developers achieve native speed and makes it compatible with x64 apps and their dependencies.
@@ -29,8 +33,9 @@ thumbnail: https://thmb.techidaily.com/69247ac14d53a4d423914a7a567f7db5686b08abe
  If you have an ARM-based device that hasn't officially received the upgrade yet or want to install Windows 11 on your ARM-based Mac, you can do so using the Windows 11 ARM64 ISO file. That said,[Windows 11 and M1 Macs bring some additional challenges](https://www.makeuseof.com/will-windows-11-work-on-mac/) to the table that you should be aware of.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What are the Limitations of a Windows 11 ARM-based PC?
 
  The biggest limitation of Windows 10 ARM-based PC was its incompatibility with 64-bit Windows applications. Microsoft has resolved this issue by ditching Compiled Hybrid Portable Executable (CHPE) for the new ARM64EC ABI in Windows 11.
@@ -50,32 +55,28 @@ To download the Windows 11 ARM ISO:
 
 1. Go to the[UUP Dump page](https://uupdump.net/) .
 2. Type**Windows 11** in the search bar and hit**Enter** to view the search results.  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![uup dump upgrade windows 11 arm64](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/uup-dump-upgrade-windows-11-arm64.jpg)
 3. When the search page appears, look for the**Windows 11 ARM64** build and click on the build you want to download. You can press**Ctrl + F** to open**Finder** and type**Upgrade to Windows 11** to locate all the builds. Make sure it is an**arm64** build and not the standard x64.
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 4. ![select language uup download windows 11 arm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/select-language-uup-download-windows-11-arm-.jpg)
 5. On the next page, click the**Language** drop-down and select your preferred language. If you want**English** , leave it as default.
 
 1. Click**Next** .  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![choose edition uup dump windows 11 arm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/choose-edition-uup-dump-windows-11-arm.jpg)
 2. Now you need to select the edition to download. Select**Windows Home** and click**Next** .
-3. Next, under the**Download method,** select**Download and convert to ISO.**  
+
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+3. Next, under the**Download method,** select**Download and convert to ISO.**  
 ![download options windows 11arm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/download-options-windows-11arm.jpg)
 4. Next, under**Conversion options** , select**Include updates** and leave other options as default.
 5. In the right pane, you can view the information about the ISO package, including the total download size, etc.  
 ![download package uup dump conversion option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/download-package-uup-dump-conversion-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. To download the ISO file, click on**Create download package** . UUP Dump will download a zip file containing the ISO download package to your hard drive.
 2. Extract the zip file to locate the files inside.
@@ -86,8 +87,9 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  UUP Dump will save the ISO to your initially extracted folder. You can now use it to[create a bootable USB drive to install Windows 11](https://www.makeuseof.com/windows-11-create-bootable-usb-drive/) to install on a virtual machine. You can also use the Windows 11 ARM ISO to[create a bootable Windows 11 USB with a Mac](https://www.makeuseof.com/how-to-make-a-bootable-windows-11-usb-on-mac/) .
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Upgrade Your ARM-based PC to Windows 11
 
  If you use an ARM-based device running Snapdragon 850, 7c and above, and 8cx and above, you can likely upgrade to Windows 11 using the ISO. Also, Microsoft Surface Pro devices running the SQ1 and SQ2 chipset may also support the upgrade.
@@ -98,8 +100,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -107,4 +107,24 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-unlocking-the-potential-of-multi-stream-video-on-microsoft-edge-for-2024/"><u>[New] Unlocking the Potential of Multi-Stream Video on Microsoft Edge for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-essential-links-where-to-get-official-skype-ringtone-files/"><u>[Updated] Essential Links Where to Get Official Skype Ringtone Files</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-how-to-record-your-favorite-youtube-show-regardless-of-your-gear/"><u>2024 Approved How to Record Your Favorite YouTube Show, Regardless of Your Gear</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-and-overcoming-unidentified-obs-recording-issue-on-win-11/"><u>Decoding and Overcoming Unidentified OBS Recording Issue on Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/highlighting-key-windows-processes-for-virus-alerts/"><u>Highlighting Key Windows Processes for Virus Alerts</u></a></li>
+<li><a href="https://windows11.techidaily.com/ideal-mobile-software-for-windows-pc-owners-on-android/"><u>Ideal Mobile Software for Windows PC Owners on Android</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-htc-u23-pro-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change HTC U23 Pro IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/installing-the-latest-canon-mx340-drivers-on-your-pc-running-windows-1187/"><u>Installing the Latest Canon MX340 Drivers on Your PC Running Windows 11/8/7</u></a></li>
+<li><a href="https://win11.techidaily.com/longer-security-patch-cycle-what-you-need-to-know-about-windows-11-h2/"><u>Longer Security Patch Cycle: What You Need to Know About Windows 11 H2</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-win10-blue-screen-recovery/"><u>Mastering the Art of Win10 Blue Screen Recovery</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-discord-from-starting-with-windows-boot/"><u>Preventing Discord From Starting with Windows Boot</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-win11-with-powertoys-installation/"><u>Streamlining Win11 with PowerToys Installation</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-pc-performance-hiccups-in-warhammer-40k-boltgun/"><u>Tackling PC Performance Hiccups in Warhammer 40K Boltgun</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-path-to-defaults-resetting-win11-admin-permissions/"><u>The Path to Defaults: Resetting Win11 Admin Permissions</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fixes-for-mount-and-blade-2-bannerlord-game-crashes-step-by-step/"><u>Ultimate Fixes for Mount & Blade 2: Bannerlord Game Crashes - Step by Step</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-guide-to-multi-region-dvd-players-sony-vs-samsung-vs-philips-and-beyond/"><u>Ultimate Guide to Multi-Region DVD Players: Sony vs Samsung vs Philips and Beyond!</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-gopro-quik-for-macbook-how-to-edit-your-gopro-videos-easily/"><u>Updated In 2024, GoPro Quik for MacBook How to Edit Your GoPro Videos Easily</u></a></li>
+</ul></div>
 

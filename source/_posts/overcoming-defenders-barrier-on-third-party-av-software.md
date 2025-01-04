@@ -1,7 +1,7 @@
 ---
 title: Overcoming Defender's Barrier on Third-Party AV Software
-date: 2024-12-03T00:41:43.552Z
-updated: 2024-12-04T00:46:27.992Z
+date: 2025-01-01T22:37:51.504Z
+updated: 2025-01-04T04:16:24.584Z
 tags:
   - windows10
   - windows11
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/477a0b3e8eaad5a77258f27b87d4827ff92a53251
  This may result in conflicts and compromise the overall protection of your system. If you encounter such an issue, here is what to do.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Disable Tamper Protection
@@ -42,15 +42,19 @@ thumbnail: https://thmb.techidaily.com/477a0b3e8eaad5a77258f27b87d4827ff92a53251
 
 ![Disable Tamper Protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/disable-tamper-protection.jpg)
 
- After disabling Tamper Protection, see if your third-party antivirus works.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ After disabling Tamper Protection, see if your third-party antivirus works.
 
 ### 2\. Turn Off Microsoft Defender
 
  As mentioned earlier, two active security solutions on your system may conflict. In this case, you can [turn off Microsoft Defender](http://www.makeuseof.com/permanently-disable-microsoft-defender-windows-11/) temporarily and use your third-party antivirus software. Doing this will turn off all Microsoft Defender features, including real-time protection, cloud-delivered protection, and automatic sample submission. However, you can turn it back on when needed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Add an Exclusion for the File to Windows Defender
 
@@ -64,25 +68,21 @@ thumbnail: https://thmb.techidaily.com/477a0b3e8eaad5a77258f27b87d4827ff92a53251
 ![Open Virus & threat protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/open-virus-threat-protection.jpg)
 4. Under **Virus & threat protection settings**, click on **Manage settings**.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Manage settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/manage-settings.jpg)
 5. Scroll down and you'll find the **Exclusions** option. Click on **Add or remove exclusions**.  
 
 ![Add or remove exclusions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/add-or-remove-exclusions.jpg)
 6. If the UAC prompts you for permission, click **Yes**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Click on the **Add an exclusion** button and select **Folder**. In File Explorer, navigate to the folder where your third-party antivirus is installed.  
 ![Add an exclusion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/add-an-exclusion.jpg)
 8. Select the file and click on **Select Folder**. You'll see the folder added under the Exclusions section.
 
  After adding the exclusion, close the settings window and restart your computer. Once the computer restarts, Microsoft Defender should stop blocking third-party antivirus programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Reinstall Your Third-Party Antivirus Software
 
@@ -95,7 +95,7 @@ thumbnail: https://thmb.techidaily.com/477a0b3e8eaad5a77258f27b87d4827ff92a53251
  Next, navigate to the official website and download the latest version. Once installed, restart your computer again. This should resolve any conflicts between Microsoft Defender and the third-party antivirus software.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix Microsoft Defender Blocking Your Third-Party Antivirus
@@ -113,20 +113,16 @@ thumbnail: https://thmb.techidaily.com/477a0b3e8eaad5a77258f27b87d4827ff92a53251
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-tackling-text-transformations-converting-xmlttml-for-voice-outputs/"><u>[New] 2024 Approved Tackling Text Transformations Converting XML/TTML for Voice Outputs</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/new-boosting-earning-potential-on-youtube-shorts/"><u>[New] Boosting Earning Potential on YouTube Shorts</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-screen-recorder-showdown-apoyser-vs-emerging-alternatives-review/"><u>[New] In 2024, Screen Recorder Showdown Apoyser Vs Emerging Alternatives Review</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-prime-dialogue-designer-space-for-2024/"><u>[New] Prime Dialogue Designer Space for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-how-to-make-the-most-out-of-spotifys-advertising-features-for-2024/"><u>[Updated] How to Make the Most Out of Spotify's Advertising Features for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-gamification-unleashed-djis-air-vs-spark-duel-revealed/"><u>[Updated] In 2024, Gamification Unleashed DJI's Air Vs. Spark Duel Revealed</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-veiled-vocal-keepers-ios-and-android-secretive-sound-tools/"><u>[Updated] In 2024, Veiled Vocal Keepers IOS & Android Secretive Sound Tools</u></a></li>
-<li><a href="https://extra-information.techidaily.com/creative-openings-just-a-click-away/"><u>Creative Openings, Just a Click Away</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-4-windows-11-email-issues-resolving-unavailable-mail-alerts/"><u>Overcoming 4 Windows 11 Email Issues: Resolving Unavailable Mail Alerts</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-windows-11-version-22h2-update-non-installation-barrier/"><u>Overcoming Windows 11 Version 22H2 Update Non-Installation Barrier</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolve-icloud-install-issues-on-windows-quickly/"><u>Resolve iCloud Install Issues on Windows Quickly</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-counteract-source-not-available-errors-in-windows-1011/"><u>Strategies to Counteract Source Not Available Errors in Windows 10/11</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-windows-service-command-line-issues-a-list-of-7-solutions/"><u>Unlocking Windows Service Command Line Issues: A List of 7 Solutions</u></a></li>
-<li><a href="https://windows11.techidaily.com/unraveling-and-tackling-error-code-0x803f700f-in-windows-activation/"><u>Unraveling and Tackling Error Code 0X803f700f in Windows Activation</u></a></li>
-<li><a href="https://windows11.techidaily.com/write-better-work-smarter-5-pc-apps-guide/"><u>Write Better, Work Smarter: 5 PC Apps Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-guide-to-seamlessly-share-your-igtv-story/"><u>[New] In 2024, Guide to Seamlessly Share Your IGTV Story</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-notable-sites-elevating-youtube-videography/"><u>[New] Notable Sites Elevating YouTube Videography</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-yuneec-typhoon-h-deep-dive-aerial-expert-review/"><u>[New] Yuneec Typhoon H Deep Dive Aerial Expert Review</u></a></li>
+<li><a href="https://windows11.techidaily.com/automation-made-simple-windows-task-scheduler-batch/"><u>Automation Made Simple: Windows Task Scheduler Batch</u></a></li>
+<li><a href="https://windows11.techidaily.com/bless-your-pc-god-mode-enhancements/"><u>Bless Your PC: God Mode Enhancements</u></a></li>
+<li><a href="https://windows11.techidaily.com/boost-clarity-with-these-budget-friendly-tools/"><u>Boost Clarity with These Budget-Friendly Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/delve-into-multi-display-setup-in-windows-11/"><u>Delve Into Multi-Display Setup in Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/enhance-your-online-presence-with-manycam-ultimate-guide-to-virtual-webcams-and-live-broadcasts/"><u>Enhance Your Online Presence with ManyCam: Ultimate Guide to Virtual Webcams and Live Broadcasts</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhanced-hd-sound-support-through-software-fix/"><u>Enhanced HD Sound Support Through Software Fix</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/navigating-aloneness-in-depth-review-of-3dr-tech-for-2024/"><u>Navigating Aloneness In-Depth Review of '3DR' Tech for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unparalleled-display-quality-meets-exceptional-deal-discover-this-thin-and-light-laptop-at-a-steal-zdnet/"><u>Unparalleled Display Quality Meets Exceptional Deal - Discover This Thin & Light Laptop at a Steal! | ZDNet</u></a></li>
 </ul></div>
 

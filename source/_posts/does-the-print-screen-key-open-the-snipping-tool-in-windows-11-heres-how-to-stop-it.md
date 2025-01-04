@@ -1,7 +1,7 @@
 ---
 title: Does the Print Screen Key Open the Snipping Tool in Windows 11? Here’s How to Stop It
-date: 2024-07-29T04:25:09.892Z
-updated: 2024-07-30T04:25:09.892Z
+date: 2024-12-30T22:26:20.019Z
+updated: 2025-01-04T00:46:05.889Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/7b44dc75606a866e6986fc574670153990f3b9d45
  If you're not a fan of the Snipping tool, here's how to reclaim the Print Screen key on Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Did Windows 11 Claim the Print Screen Key?
 
  Microsoft recently released a new Insider Preview build of Windows 11, announced via the[Windows Blog](https://blogs.windows.com/windows-insider/2023/04/07/announcing-windows-11-insider-preview-build-22621-1546-and-22624-1546/) , that changes the way the Print Screen button functions by default. Earlier, the key would screenshot your entire screen and save it to the clipboard. You’d then have the option of importing this copied image data into a program such as a photo editor or even a word processor.
@@ -32,8 +33,9 @@ thumbnail: https://thmb.techidaily.com/7b44dc75606a866e6986fc574670153990f3b9d45
  If you update to the latest Windows 11 build, pressing the Print Screen key will open the Windows Sipping tool instead. But that’s only if you haven’t previously changed this setting. If you have it set up to do something else, your preference will be preserved, Microsoft says.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Reset Print Screen Functionality to Default
 
  If your Print Screen key opens the Snipping tool and you’d like to go back to the way things were, a simple settings change will turn back the clock.
@@ -41,27 +43,26 @@ thumbnail: https://thmb.techidaily.com/7b44dc75606a866e6986fc574670153990f3b9d45
 1. Navigate to**Settings** .
 2. Click on**Accessibility** on the left pane.
 3. Scroll down to the**On-screen keyboard, access keys, and Print screen** section.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Change how Windows print screen button works](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/toggle-print-screen-button-snipping-tool.jpg)
 4. Toggle the print screen button option off.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Take Screenshots Easily in Windows 11
 
  There are many ways to take a screenshot in Windows 11\. Using the Print Screen key is just one of them. And if you want to reclaim the old functionality of the Print Screen key, it's easy to do so.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -70,4 +71,18 @@ thumbnail: https://thmb.techidaily.com/7b44dc75606a866e6986fc574670153990f3b9d45
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-achieve-a-millennium-of-subscriber-milestones/"><u>[New] 2024 Approved Achieve a Millennium of Subscriber Milestones</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nraveling-the-secrets-of-captivating-education-videos-the-ultimate-youtube-strategy-for-2024/"><u>[New] Unraveling the Secrets of Captivating Education Videos The Ultimate YouTube Strategy for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-bring-back-windows-photo-viewer-steps-in-win-11-edition/"><u>[Updated] 2024 Approved Bring Back Windows Photo Viewer Steps in Win 11 Edition</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-custom-whatsapp-ringtone-for-ios-and-android-users/"><u>[Updated] Mastering Custom WhatsApp Ringtone for iOS and Android Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-of-die-gratis-dvd-player-losungen-unter-microsoft-windows-11-erweiterte-auswahl/"><u>Best Of Die Gratis DVD-Player Lösungen Unter Microsoft Windows 11 – Erweiterte Auswahl</u></a></li>
+<li><a href="https://windows11.techidaily.com/dissecting-differences-how-exe-files-function-compared-to-msi/"><u>Dissecting Differences: How Exe Files Function Compared to Msi</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Itel S23? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-lock-your-oneplus-nord-3-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your OnePlus Nord 3 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/instructional-guide-for-end-task-enabling-on-windows-11/"><u>Instructional Guide for End Task Enabling on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/mindfulness-meets-the-mind-cognitive-and-emotional-responses-to-meditation/"><u>Mindfulness Meets the Mind: Cognitive & Emotional Responses to Meditation</u></a></li>
+<li><a href="https://windows11.techidaily.com/swift-solutions-to-the-windows-too-many-requests-challenge/"><u>Swift Solutions to the Windows Too Many Requests Challenge</u></a></li>
+</ul></div>
 

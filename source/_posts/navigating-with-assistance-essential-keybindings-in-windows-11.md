@@ -1,7 +1,7 @@
 ---
 title: "Navigating with Assistance: Essential Keybindings in Windows 11"
-date: 2024-12-21T16:11:40.490Z
-updated: 2024-12-25T17:55:53.329Z
+date: 2025-01-03T01:42:45.883Z
+updated: 2025-01-03T21:43:09.014Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/60aeb73e6646ca7cba89b069f503754c9115c11cb
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## All the Narrator Keyboard Shortcuts in Windows 11
@@ -185,7 +185,7 @@ Here are all the Narrator shortcuts available to you:
 | Narrator + Ctrl + Enter                         | Toggle search mode                                    |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Windows Narrator Can Do More
@@ -207,20 +207,20 @@ Here are all the Narrator shortcuts available to you:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-ultimate-10-battle-royale-matchups/"><u>[New] 2024 Approved Ultimate 10 Battle Royale Matchups</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-top-tricks-to-control-music-paceplay-in-spotify/"><u>[New] Top Tricks to Control Music Paceplay in Spotify</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-understanding-intellectual-property-rights-on-video-screen-captures/"><u>[Updated] 2024 Approved Understanding Intellectual Property Rights on Video Screen Captures</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-mastering-the-art-of-text-trimming-in-ms-excel/"><u>Guide: Mastering the Art of Text Trimming in MS Excel</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722964965675-hassle-free-connection-get-your-essential-targus-docking-station-drivers-installed-today/"><u>Hassle-Free Connection: Get Your Essential Targus Docking Station Drivers Installed Today</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-honor-70-lite-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Honor 70 Lite 5G phone? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-passcode-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 11 Passcode without Computer? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/learning-excel-from-scratch-top-6-skills-you-need-to-get-started/"><u>Learning Excel From Scratch? Top 6 Skills You Need to Get Started!</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-birthday-math-a-step-by-step-guide-to-finding-age-with-excel/"><u>Mastering Birthday Math: A Step-by-Step Guide to Finding Age with Excel</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-excel-tips-how-to-create-bullet-point-items-in-your-spreadsheets-easily/"><u>Mastering Excel Tips: How To Create Bullet Point Items In Your Spreadsheets Easily</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-excel-a-step-by-step-guide-to-using-exponents/"><u>Mastering Excel: A Step-by-Step Guide to Using Exponents</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-microsoft-excel-a-comprehensive-guide-to-utilizing-round-functions/"><u>Mastering Microsoft Excel: A Comprehensive Guide to Utilizing Round Functions</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-guide-fixed-and-the-specific-features-of-excel-like-cell-dimensions-setting-fixed-columns-and-rows/"><u>Mastering, Guide, Fixed, and the Specific Features of Excel Like Cell Dimensions, Setting Fixed Columns, and Rows.</u></a></li>
-<li><a href="https://driver-install.techidaily.com/ready-your-pc-for-windows-11s-tactile-interface/"><u>Ready Your PC for Windows 11'S Tactile Interface</u></a></li>
-<li><a href="https://article-helps.techidaily.com/step-by-step-audio-fading-in-lumafusion-software/"><u>Step-by-Step Audio Fading in Lumafusion Software</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-become-a-zoom-pro-on-your-pc-the-win10-way/"><u>[New] Become a Zoom Pro on Your PC The Win10 Way</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-leveraging-hashtags-to-skyrocket-your-engagement-for-2024/"><u>[New] Leveraging Hashtags to Skyrocket Your Engagement for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-snappy-movement-capturing-blur-with-iphone-photos/"><u>[New] Snappy Movement Capturing Blur with iPhone Photos</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-essential-blueprint-instagram-tiktok-merger/"><u>[Updated] 2024 Approved Essential Blueprint Instagram-TikTok Merger</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-closing-in-on-the-essence-of-cinematic-action/"><u>2024 Approved Closing in on the Essence of Cinematic Action</u></a></li>
+<li><a href="https://windows11.techidaily.com/activate-virtualization-your-step-by-step-guide-for-win-11-homes/"><u>Activate Virtualization: Your Step by Step Guide for Win 11 Homes</u></a></li>
+<li><a href="https://windows11.techidaily.com/brushstrokes-begin-accessing-microsoft-paint-in-windows-11/"><u>Brushstrokes Begin: Accessing Microsoft Paint in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/decreasing-cpu-and-ram-usage-tackling-unrealcefsubprocess-issues/"><u>Decreasing CPU and RAM Usage: Tackling UnrealCEFSubprocess Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-strategies-for-overcoming-windows-error-code-0x80040610/"><u>Essential Strategies for Overcoming Windows Error Code 0X80040610</u></a></li>
+<li><a href="https://windows11.techidaily.com/handling-incomplete-updates-in-your-windows-based-discord/"><u>Handling Incomplete Updates in Your Windows-Based Discord</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-muted-audio-recordings-in-obs-studio-on-windows-11-pcs/"><u>How to Fix Muted Audio Recordings in OBS Studio on Windows 11 PCs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/improved-resolution-on-outriders-say-goodbye-to-blurry-game-scenes/"><u>Improved Resolution on Outriders - Say Goodbye to Blurry Game Scenes</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-from-free-to-paid-subscriber-count-surpasses-500/"><u>In 2024, From Free to Paid Subscriber Count Surpasses 500</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ion-tailgater-plus-speaker-review-endless-hours-of-enhanced-bass-boosted-soundscape-at-a-glance/"><u>ION Tailgater Plus Speaker Review: Endless Hours of Enhanced Bass-Boosted Soundscape at a Glance</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-failed-jvm-launch-windows-guide/"><u>Remedying Failed JVM Launch: Windows Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Uncomplicated Upgrade: The Essence of Windows 11 Installation"
-date: 2024-12-24T17:37:33.407Z
-updated: 2024-12-25T16:55:37.574Z
+date: 2024-12-29T16:22:38.395Z
+updated: 2025-01-03T17:16:13.936Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/b478b0983a67f36010d885714312f70db32d5d3a2
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/b478b0983a67f36010d885714312f70db32d5d3a2
  There are a few things you need to prepare before you can proceed with your Windows 11 installation—specifically the Windows 11 ISO and the bootable Windows 11 USB flash drive you'll install it from. Furthermore, if you're installing Windows 11 on a new device, it's worth [considering Windows 11's minimum specifications](https://www.makeuseof.com/windows-11-old-pc-to-go-rufus/) to make sure your machine is up to scratch.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Download the Windows 11 Media Creation Tool
@@ -68,7 +68,7 @@ thumbnail: https://thmb.techidaily.com/b478b0983a67f36010d885714312f70db32d5d3a2
  Once downloaded, move to section three on how to burn your ISO to a USB flash drive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Create a Bootable Windows 11 USB Drive
@@ -76,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/b478b0983a67f36010d885714312f70db32d5d3a2
  Now, the Windows 11 Media Creation Tool gives you two options: create a USB flash drive or download a Windows 11 ISO. You can use either option for a clean Windows 11 installation, with the only major difference being that you'll have to create a bootable USB flash drive yourself if you download the ISO. Either option works well, though.
 
 ![windows 11 media creation tool usb or iso download](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-11-media-creation-tool-usb-or-iso-download.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Windows 11 USB Flash Drive**
 
@@ -92,7 +96,7 @@ thumbnail: https://thmb.techidaily.com/b478b0983a67f36010d885714312f70db32d5d3a2
  Once finished, move to the next section.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Burn the Windows 11 ISO to a Bootable USB Flash Drive
@@ -127,10 +131,6 @@ thumbnail: https://thmb.techidaily.com/b478b0983a67f36010d885714312f70db32d5d3a2
 
 ![windows 11 select language for installation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/windows-11-select-language-for-installation.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Work through the Windows 11 setup pages one by one, checking them as you go. There are options for privacy, location, data sharing, and more.
 
 ## What Is the Windows 11 Installation Assistant?
@@ -159,18 +159,19 @@ thumbnail: https://thmb.techidaily.com/b478b0983a67f36010d885714312f70db32d5d3a2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-essential-knowledge-base-using-googles-ai-for-speech-recognition/"><u>[New] 2024 Approved Essential Knowledge Base Using Google's AI for Speech Recognition</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-digital-subtitling-simplified-best-online-tools-of-the-decade/"><u>[New] In 2024, Digital Subtitling Simplified Best Online Tools of the Decade</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-for-students-discover-the-top-10-historical-youtube-channels-now/"><u>[New] In 2024, For Students, Discover the Top 10 Historical YouTube Channels Now</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2023-how-to-download-facebook-status-videos-in-2024/"><u>[Updated] 2023 | How to Download Facebook Status Videos, In 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-revive-and-restart-stuck-spotify-on-w10w11-pcs/"><u>How to Revive and Restart Stuck Spotify on W10/W11 PCs</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-vivo-y02t-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Vivo Y02T Device</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-windows-cameras-unsaved-photos-hurdle/"><u>Overcoming Windows Camera's Unsaved Photos Hurdle</u></a></li>
-<li><a href="https://windows11.techidaily.com/perfecting-pc-performance-set-active-hours-prevent-sudden-updates-on-windows-11/"><u>Perfecting PC Performance: Set Active Hours, Prevent Sudden Updates on Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/reinstalling-wacom-software-for-win-11-10-and-7-systems/"><u>Reinstalling Wacom Software for Win 11, 10, and 7 Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-core-skills-for-conquering-classic-diablos-world/"><u>The Core Skills for Conquering Classic Diablo's World</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/ultimate-guide-transferring-and-protecting-your-data-from-windows-11-to-a-nas-device/"><u>Ultimate Guide: Transferring and Protecting Your Data From Windows 11 to a NAS Device</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-windows-1011-old-login-logon-error/"><u>Unlocking Windows 10/11: Old Login Logon Error</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-methods-for-vanished-folder-recovery-on-windows/"><u>Unveiling Methods for Vanished Folder Recovery on Windows</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-how-to-edit-youtube-videos-ultimate-guide/"><u>[New] 2024 Approved How To Edit YouTube Videos [Ultimate Guide]</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-following-fades-track-losses-on-insta/"><u>[New] Following Fades Track Losses on Insta</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-the-ascent-of-jake-paul-in-online-video-fame/"><u>[Updated] 2024 Approved The Ascent of Jake Paul in Online Video Fame</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-video-frame-rates-explained-why-choose-30-or-60-in-2024/"><u>[Updated] Video Frame Rates Explained Why Choose 30 or 60, In 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-elevating-laughs-the-essential-tutorial-for-memetic-mastery-at-9gag/"><u>2024 Approved Elevating Laughs The Essential Tutorial for Memetic Mastery at 9GAG</u></a></li>
+<li><a href="https://windows11.techidaily.com/achieve-peak-speed-for-your-windows-ssd-using-fresh-methods/"><u>Achieve Peak Speed for Your Windows' SSD Using Fresh Methods</u></a></li>
+<li><a href="https://windows11.techidaily.com/altering-monitors-sequence-on-laptops/"><u>Altering Monitors' Sequence on Laptops</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-cannot-calculate-issues-on-windows-platform/"><u>Correcting 'Cannot Calculate' Issues on Windows Platform</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crypto-red-flags-how-to-detect-phony-bingcrypt-schemes/"><u>Crypto Red Flags: How to Detect Phony BingCrypt Schemes</u></a></li>
+<li><a href="https://windows11.techidaily.com/deletion-redefined-windows-photo-apps-new-edge/"><u>Deletion Redefined: Windows Photo App's New Edge</u></a></li>
+<li><a href="https://windows11.techidaily.com/dispatching-speed-limits-defeat-windows-100mbps-boundary/"><u>Dispatching Speed Limits: Defeat Windows' 100Mbps Boundary</u></a></li>
+<li><a href="https://driver-download.techidaily.com/installing-the-latest-hp-laserjet-p1102w-drivers-for-windows-step-by-step-tutorial/"><u>Installing the Latest HP LaserJet P1102w Drivers for Windows - Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-intel-integrated-graphic-driver-update-for-windows-users/"><u>Latest Intel Integrated Graphic Driver Update for Windows Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-overcome-constant-tower-of-fantasy-crashes-on-windowsmac/"><u>Troubleshooting Guide: Overcome Constant Tower of Fantasy Crashes on Windows/Mac</u></a></li>
 </ul></div>
 

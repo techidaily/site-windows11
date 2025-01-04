@@ -1,7 +1,7 @@
 ---
 title: Easily Shift Your MKV Files to MP4 on Windows
-date: 2024-07-29T04:25:36.939Z
-updated: 2024-07-30T04:25:36.939Z
+date: 2024-12-30T03:28:10.300Z
+updated: 2025-01-04T04:11:03.729Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/74045d9d6303c7a70563d004d7c7b11c2909530a5
 
  If your device doesn’t support the MKV format, you can convert it to MP4\. It is a common multimedia format supported by almost all devices. Here we show you the best online and offline tools to convert MKV to MP4 in Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Convert MKV to MP4 Using XMedia Recode
 
  XMedia Recode is a capable media converter app for Windows. This little utility is free to use and supports all the major audio and video format conversions. Despite its capabilities, XMedia Recode has pretty basic hardware requirements to encode media files.
@@ -34,16 +38,15 @@ thumbnail: https://thmb.techidaily.com/74045d9d6303c7a70563d004d7c7b11c2909530a5
 2. Launch **XMedia Recode.**
 3. Drag and drop the media file onto the app interface to load it. Once loaded, select the media file to view the convert options.
 4. In the **Format** tab, set **Profile** to **Custom** and **Format** as **MP4**.  
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![XMedia Recode MKV to Mp4 converter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/xmedia-recode-mkv-to-mp4-converter.jpg)
 5. Next, select **Video** and **Audio** in the **Output stream type** section.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Next, click **Browse** and select the output destination to save the video after conversion. For advanced customization features, explore the **Video, Audio, Subtitle, Filters/Preview**, and **Chapter Editor** tabs.
 7. Click the bigplus **(+) Add to queue** icon in the toolbar to cerate a convert job and add it to the queue.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![XMedia Recode MKV to Mp4 converter encode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/xmedia-recode-mkv-to-mp4-converter-encode.jpg)
 8. Next, open the **Queue** tab and select the convert job.
 9. Click **Encode** in the toolbar to start the media file conversion.
@@ -53,8 +56,9 @@ thumbnail: https://thmb.techidaily.com/74045d9d6303c7a70563d004d7c7b11c2909530a5
 **Download**: [XMedia Recode](https://www.xmedia-recode.de/en/download.php) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. CloudConvert
 
  CloudConvert is a [multi-format online video converter](https://www.makeuseof.com/best-online-mp4-video-converters/). It offers both free and premium options and can convert your MKV videos to MP4 in a jiffy. You can upload videos from your local drive and cloud storage accounts such as Google Drive, DropBox, and URL.
@@ -65,15 +69,14 @@ thumbnail: https://thmb.techidaily.com/74045d9d6303c7a70563d004d7c7b11c2909530a5
 
 1. Go to the [CloudConvert website](https://cloudconvert.com/) and click on **Select File**.
 2. Now, select the file to upload.  
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![cloud convert upload video](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/cloud-convert-upload-video.jpg)
 3. After the file is selected, click the drop-down for **Convert** to and select **MP4** from the list.
-4. Click the **Wrench icon (Settings)** to customize the output settings. Here you can change the video resolution, aspect ratio, video codec, profile, preset and more.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. Click the **Wrench icon (Settings)** to customize the output settings. Here you can change the video resolution, aspect ratio, video codec, profile, preset and more.  
 ![cloud convert download](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/cloud-convert-download.jpg)
 5. Click the **Convert** button to begin the process.
 6. CloudConvert will first upload the selected video. Depending on the file size and your Internet speed, this may take some time.
@@ -92,9 +95,6 @@ thumbnail: https://thmb.techidaily.com/74045d9d6303c7a70563d004d7c7b11c2909530a5
 1. [Download and install OBS](https://obsproject.com/welcome) if you don’t have it already installed.
 2. Once installed, launch OBS.
 3. Click **File** and select **Remux Recordings**.  
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![obs remux recording windows 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/obs-remux-recording-windows-1.jpg)
 4. In the **Remux Recordings** dialog, drag and drop your MKV file under **OBS Recordings**. It supports batch conversion, so feel free to add multiple files.
 5. In the **Target File** section, you’ll see the default save location. By default, OBS sets the source folder as the destination folder. Click the **three-dots** (…) button to change the destination folder.  
@@ -107,8 +107,9 @@ thumbnail: https://thmb.techidaily.com/74045d9d6303c7a70563d004d7c7b11c2909530a5
 **Download**: [OBS](https://obsproject.com/welcome) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Convert MKV to MP4 Using VLC Media Player
 
  VLC is a free, open-source multimedia player that supports almost all audio and video formats, including MKV. If you have VLC installed, you don’t need to convert and play the video.
@@ -124,11 +125,13 @@ thumbnail: https://thmb.techidaily.com/74045d9d6303c7a70563d004d7c7b11c2909530a5
 4. Once the video is selected, click on **Convert/Save.**  
 ![open media vlc add source](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/open-media-vlc-add-source.jpg)
 5. In the **Convert** dialog, click the drop-down for **Profile** and select **Video – H.264 + MP3 (MP4).**  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![conver vlc media player destination profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/conver-vlc-media-player-destination-profile.jpg)
 6. Next, click the **Browse** button and select the file destination. You may need to enter a new name for the file to prevent the VLC media player from overwriting your original MKV file if it is in the same destination.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Once done, click **Start**.
 
  VLC media player timeline will show the conversion progress. Once it finishes, it will save your video to the destination folder.
@@ -169,11 +172,29 @@ thumbnail: https://thmb.techidaily.com/74045d9d6303c7a70563d004d7c7b11c2909530a5
 
  If your device doesn’t support the MKV format, you can convert it to MP4\. It is a common multimedia format supported by almost all devices. Here we show you the best online and offline tools to convert MKV to MP4 in Windows.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-cutting-edge-editing-meets-online-video-sharing-for-2024/"><u>[New] Cutting-Edge Editing Meets Online Video Sharing for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-unveiling-the-hidden-secrets-of-facetime-voice-capturing/"><u>[New] Unveiling the Hidden Secrets of FaceTime Voice Capturing</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-entering-a-friends-tiktok-live-a-step-by-step-guide/"><u>[Updated] Entering a Friend's TikTok Live A Step-by-Step Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-telltale-signs-your-chat-is-hidden/"><u>[Updated] In 2024, Telltale Signs Your Chat Is Hidden</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-optimal-recorders-top-10-tools-for-webinars/"><u>[Updated] Optimal Recorders Top 10 Tools for Webinars</u></a></li>
+<li><a href="https://windows11.techidaily.com/9-ways-to-fix-windows-hello-fingerprint-recognition-not-working/"><u>9 Ways to Fix Windows Hello Fingerprint Recognition Not Working</u></a></li>
+<li><a href="https://windows11.techidaily.com/adjusting-reset-account-lockout-counter-post-failed-sign-in-attempts/"><u>Adjusting Reset Account Lockout Counter Post-Failed Sign-In Attempts</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevating-window-11-safety-with-best-in-class-password-protectors/"><u>Elevating Window 11 Safety with Best-in-Class Password Protectors</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-keep-windows-full-screen-without-mobility-features/"><u>How To Keep Windows Full Screen without Mobility Features</u></a></li>
+<li><a href="https://windows11.techidaily.com/installation-essentials-intel-network-adapters-for-windows-users/"><u>Installation Essentials: Intel Network Adapters for Windows Users</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/livestream-lifelines-combatting-common-interruption-issues-on-fb-for-2024/"><u>Livestream Lifelines Combatting Common Interruption Issues on FB for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/proactive-measures-for-sticky-notes-longevity/"><u>Proactive Measures for Sticky Notes' Longevity</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-ea-play-titles-to-master-on-ps5/"><u>Top EA Play Titles to Master on PS5</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-to-the-inexpensive-vuebell-video-doorbell-model/"><u>Ultimate Guide to the Inexpensive VueBell Video Doorbell Model</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-the-application-startup-hexadecimal-issue-error/"><u>Unraveling The Application Startup Hexadecimal Issue (Error)</u></a></li>
+</ul></div>
+

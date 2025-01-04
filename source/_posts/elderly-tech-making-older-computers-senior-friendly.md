@@ -1,7 +1,7 @@
 ---
 title: "Elderly Tech: Making Older Computers Senior Friendly"
-date: 2024-07-29T04:28:55.036Z
-updated: 2024-07-30T04:28:55.036Z
+date: 2025-01-02T16:45:02.309Z
+updated: 2025-01-03T22:45:49.861Z
 tags:
   - windows10
   - windows11
@@ -34,23 +34,19 @@ thumbnail: https://thmb.techidaily.com/c8e68cffef41fc4061ac722c7019bbd23a7bd7418
 
  You can also [enable the Narrator function on Windows](https://www.makeuseof.com/windows-11-start-narrator/) so that your grandparents will receive an audio description of what is currently onscreen.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Create Desktop Shortcuts for Your Grandparents' Preferred Programs
 
  This is a simple but important step. To make your grandparents' computer accessible for their specific needs, it’s a good idea to make sure the programs they use are easy to find. Therefore, add shortcuts to the desktop for just the programs they will use.
 
  Removing any unwanted or unused desktop shortcuts will also reduce any confusion or your grandparents opening unwanted or unfamiliar programs by accident.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ## 3\. Rename Programs and Apps With an Accurate Description
 
 ![Make your grandparents PC accessible with large desktop items](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/make-your-grandparents-pc-accessible-with-large-desktop-items.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  There’s a high chance that your grandparents won’t associate “Chrome” with the internet, “Outlook” with their email service provider, or find it easy to differentiate between each visual icon. Brand names and icon designs of various programs will seem nonsensical to your elderly relatives, so it’s best to rename desktop icons to something more descriptive that they will understand.
 
@@ -59,17 +55,9 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
  To change the name of program shortcuts, simply right-click each icon and either click **Rename** or press **F2** to enter a personalized label.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Set Up Email Filters to Avoid Message Overloads
 
 ![Create email filters to help your grandparent's autonomy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/create-email-filters-to-help-your-grandparent-s-autonomy.jpg)
@@ -87,9 +75,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  Once inbox rules are set in Outlook, all new emails will be redirected to your chosen folder. This should declutter your grandparents' inbox and make it less confusing for them to access.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Enable Remote Desktop
 
  Even with all your efforts to make your grandparents' computer as accessible as possible, it’s likely they’ll still run into difficulties. While they may attempt to explain to you what they see on their screen over the phone, enabling remote desktop access can make the fixing process much easier when you’re not around.
@@ -105,13 +90,11 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
  An easy way to do this is to write up some basic instructions in their preferred document program (such as Word, Google Docs, or Notes if their PC is really old school!) and add a shortcut to the desktop. That way your grandparents will be able to preserve their sense of independence by troubleshooting and fixing their problems without your help.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Uninstall All Bloatware and Unnecessary Programs
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![Remove bloatware from your grandparent's PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/remove-bloatware-from-your-grandparent-s-pc.jpg)
 
 [Bloatware](https://www.makeuseof.com/what-is-bloatware/)—or Potentially Unwanted Programs (PUP)— are programs that you don’t want, that take up hardware space, and often slow down your computer. When it comes to your grandparents' computer, their bloatware is likely to come as pre-installed software. It’s unlikely that your grandparents will want or benefit from any bloatware, so it’s best to remove it for them.
@@ -126,11 +109,19 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  Make sure you manually check available updates and implement any appropriate changes when necessary when you visit your grandparents.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Create Templates for Letters
 
  If your grandparents write letters or emails often, it can be useful for them to have a template with the correct formatting ready to use when needed. Being able to send correspondence—whether by post or electronically—can help preserve their sense of independence as they continue to handle their own affairs.
 
  Consider creating letter templates in Word (or their preferred word processor) and save the document to the desktop so that they can easily access it. You can also [create email templates in Outlook](https://www.makeuseof.com/how-to-make-and-use-email-template-outlook/) and Gmail so that your elderly relative can just focus on the content of their messages on their computer without worrying about any technicalities.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Making Your Grandparents' Computer More Accessible Can Preserve Their Sense of Independence
 
@@ -140,11 +131,28 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  Here are ways you can make your older relatives' computer more accessible to boost their sense of independence.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-innovate-humorous-gifry-on-giphy-network-for-2024/"><u>[Updated] Innovate Humorous Gifry on Giphy Network for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-winning-tv-recorder-strategies-no-cost-no-hassle/"><u>2024 Approved Winning TV Recorder Strategies (No-Cost, No Hassle)</u></a></li>
+<li><a href="https://windows11.techidaily.com/advanced-resource-utilization-monitors/"><u>Advanced Resource Utilization Monitors</u></a></li>
+<li><a href="https://windows11.techidaily.com/erase-secure-questions-a-guide-to-altering-local-account-in-win-11/"><u>Erase Secure Questions: A Guide to Altering Local Account in Win 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/free-fc-champions-guide-old-championship-manager-for-pc/"><u>Free FC Champions Guide: Old Championship Manager for PC</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-14-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 14 Plus without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-photo-capture-file-creation-failed-camera-app-error-on-windows-11-and-11/"><u>How to Fix the “Photo Capture File Creation Failed” Camera App Error on Windows 11 & 11</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/how-to-resolve-sony-dvd-player-issues-when-seeing-sound-not-image-on-your-screen/"><u>How to Resolve Sony DVD Player Issues when Seeing Sound, Not Image on Your Screen</u></a></li>
+<li><a href="https://windows11.techidaily.com/slowing-down-windows-10-shutdown-keep-programs-open/"><u>Slowing Down Windows 10 Shutdown: Keep Programs Open</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/spectral-stories-telling-tales-through-color-for-2024/"><u>Spectral Stories Telling Tales Through Color for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-removing-onedrive-linkage-on-windows-os/"><u>Steps for Removing OneDrive Linkage on Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailored-instructions-for-software-icons-on-desktop-menu/"><u>Tailored Instructions for Software Icons on Desktop Menu</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-list-of-best-value-gaming-monitors-for-2cu24-from-economical-choices-to-elite-curved-panels-and-synchronized-graphics/"><u>The Ultimate List of Best Value Gaming Monitors for 2Cu24: From Economical Choices to Elite Curved Panels and Synchronized Graphics</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-davinci-resolve-scopes-have-undergone-significant-improvements-find-out-how-to-use-these-scopes-and-improve-your-video-editing-skills/"><u>Updated In 2024, DaVinci Resolve Scopes Have Undergone Significant Improvements. Find Out How to Use These Scopes and Improve Your Video Editing Skills</u></a></li>
+</ul></div>
+

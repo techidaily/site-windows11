@@ -1,7 +1,7 @@
 ---
 title: Effortlessly Get iCloud Up and Running on Windows
-date: 2024-07-29T04:25:16.768Z
-updated: 2024-07-30T04:25:16.768Z
+date: 2024-12-29T23:29:19.163Z
+updated: 2025-01-03T16:27:22.868Z
 tags:
   - windows10
   - windows11
@@ -26,10 +26,15 @@ thumbnail: https://thmb.techidaily.com/bb71352b27a9f0530f59cc2c36b568ff3e277e8a2
 
  To fix this, simply click the **Download** button when the “Install Media Feature Pack to use iCloud” dialog appears, and then follow the on-screen prompts to finish the installation process. After that, you should be able to install iCloud on your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![iCloud Installation Error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/icloud-installation-error.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Turn On Media Features
 
@@ -43,9 +48,6 @@ thumbnail: https://thmb.techidaily.com/bb71352b27a9f0530f59cc2c36b568ff3e277e8a2
 4. Click the **Turn Windows features on or off** link in the left pane.
 5. Tick the checkboxes next to **Media Features** and **Windows Media Player**.
 6. Click **OK** to save changes.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Enable Media Features on Windows PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/enable-media-features-on-windows-pc.jpg)
 
 [Restart your PC](https://www.makeuseof.com/windows-restart-methods/) after completing the above steps, and then try to install iCloud again.
@@ -59,16 +61,14 @@ thumbnail: https://thmb.techidaily.com/bb71352b27a9f0530f59cc2c36b568ff3e277e8a2
 3. In the Programs and Features window, locate and select **iCloud**.
 4. Click the **Change** button at the top.
 5. Select **Remove** and click **Next**.  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![Uninstall iCloud on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/uninstall-icloud-on-windows.jpg)
 
  Once removed, you should be able to download and install the iCloud app from the Microsoft Store.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Run the Program Install and Uninstall Troubleshooter
 
  Microsoft offers several useful [troubleshooters for fixing common issues with your Windows](https://www.makeuseof.com/windows-11-troubleshooters/) computer. In this case, you can run the Program Install and Uninstall troubleshooter to fix any problems that may have been [preventing Windows from installing](https://www.makeuseof.com/tag/block-users-installing-software-windows-computer/) iCloud.
@@ -80,9 +80,6 @@ thumbnail: https://thmb.techidaily.com/bb71352b27a9f0530f59cc2c36b568ff3e277e8a2
 3. Click on **Next**.
 4. Select the **Installing** option.
 5. Select **iCloud** from the list and click **Next**.  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![Run Program Install and Uninstall Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/run-program-install-and-uninstall-troubleshooter-on-windows.jpg)
 
  Allow the troubleshooter to do its thing and see if you can install iCloud after that.
@@ -96,18 +93,21 @@ thumbnail: https://thmb.techidaily.com/bb71352b27a9f0530f59cc2c36b568ff3e277e8a2
 3. Accept the terms in the license agreement and click **Install**.  
 ![Install iCloud on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/install-icloud-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait for the installer to run and install the iCloud app on your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Start Using iCloud on Your Windows Computer
 
  Going through the solutions above should help fix any problems and allow you to download and install the iCloud app on your Windows 10 or 11 PC. Following that, you should be able to use services such as iCloud Photos and Drive on your Windows PC.
 
  If you’re irked by a similar issue yourself, here are some solutions that should help.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -115,3 +115,22 @@ thumbnail: https://thmb.techidaily.com/bb71352b27a9f0530f59cc2c36b568ff3e277e8a2
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-elevate-your-virtual-engagement-with-snap-capabilities-in-meet/"><u>[Updated] Elevate Your Virtual Engagement with Snap Capabilities in Meet</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-refine-iphone-image-capture-specialized-filming-tools/"><u>[Updated] Refine iPhone Image Capture Specialized Filming Tools</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-zero-cost-expertise-in-analyzing-youtube-videos-frame-by-frame/"><u>[Updated] Zero-Cost Expertise in Analyzing YouTube Videos Frame by Frame</u></a></li>
+<li><a href="https://windows11.techidaily.com/boost-your-workflow-with-windows-11s-widget-toolbar/"><u>Boost Your Workflow with Windows 11'S Widget Toolbar</u></a></li>
+<li><a href="https://windows11.techidaily.com/elusive-network-how-to-conceal-on-windows-pc/"><u>Elusive Network: How to Conceal on Windows PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-windows-version-numbers-post-update/"><u>Exploring Windows Version Numbers Post-Update</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/factory-reset-on-iphone-x-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on iPhone X | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-oppo-find-x7-ultra-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Oppo Find X7 Ultra Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-on-iphone-8-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication On iPhone 8? 5 Tips You Must Know</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leverage-disk-efficiency-windows-11-defrag-tips/"><u>Leverage Disk Efficiency: Windows 11 Defrag Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/personalizing-win11-screen-saver-settings/"><u>Personalizing Win11 Screen Saver Settings</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/stunning-black-panther-themes-for-your-pc-premium-comics-desktop-images-and-wallpapers-from-yl-software/"><u>Stunning Black Panther Themes for Your PC: Premium Comics Desktop Images & Wallpapers From YL Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/vanishing-acts-concealing-keys-without-notice/"><u>Vanishing Acts: Concealing Keys Without Notice</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-developers-rejoice-unveiling-microsoft-copilot/"><u>Windows Developers Rejoice: Unveiling Microsoft Copilot</u></a></li>
+</ul></div>
+

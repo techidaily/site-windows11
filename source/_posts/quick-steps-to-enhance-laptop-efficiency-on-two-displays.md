@@ -1,7 +1,7 @@
 ---
 title: Quick Steps to Enhance Laptop Efficiency on Two Displays
-date: 2024-08-08T06:03:32.006Z
-updated: 2024-08-09T06:03:32.006Z
+date: 2024-12-29T00:43:09.096Z
+updated: 2025-01-03T21:51:24.193Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/00d8a989d7a324ab139f90cea816e72b6f2451ab8
  Below, we will explore several effective troubleshooting tips that can help resolve performance issues with your Windows laptop when it is connected to an external display.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Make Sure Your Laptop Is Compatible With the External Monitor
 
  One of the most common reasons why your Windows laptop may lag is if it lacks the minimum hardware requirements to support the monitor. This usually happens when your laptop's graphics card isn't powerful enough to handle the monitor's resolution. Try [lowering the resolution of the external monitor](https://www.makeuseof.com/windows-11-change-screen-resolution/) to see if that resolves the lag.
@@ -41,9 +42,13 @@ thumbnail: https://thmb.techidaily.com/00d8a989d7a324ab139f90cea816e72b6f2451ab8
 ![Change Monitor Refresh Rate on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/change-monitor-refresh-rate-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Run the Hardware and Devices Troubleshooter
 
  Windows’ Hardware and Devices troubleshooter can help fix all kinds of issues with your external devices. It can scan your system for any irregularities and attempt to resolve them.
@@ -55,9 +60,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 3. Type **msdt.exe -id DeviceDiagnostic** in the text field and press **Enter**.
 4. In the Hardware and Devices window, click **Advanced** and tick the **Apply repairs automatically** checkbox.
 5. Click **Next** to run the troubleshooter.  
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Hardware and Devices Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/hardware-and-devices-troubleshooter-on-windows.jpg)
 
  Allow the troubleshooter to detect any issues and fix them. After that, check if your Windows laptop still lags when connected to an external monitor.
@@ -68,14 +70,12 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  Press **Ctrl + Shift + Esc** to open the Task Manager. In the **Processes** tab, locate and select the program you don’t need and click the **End task** option at the top. Close all unwanted apps and programs and check if you still experience lag.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Close Programs Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/close-programs-using-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Try Some Generic Fixes
 
  Still having problems? Don't fret, you can try the following generic solutions to solve the problem.
@@ -85,15 +85,14 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 * **Install Windows Updates:** A buggy Windows build can also cause such anomalies. As a last resort, try [installing any pending Windows updates](https://www.makeuseof.com/update-windows-manually/) to see if they resolve the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## No More Lag When Using an External Monitor With Your Windows Laptop
 
  As with most Windows problems, there’s no single fix that will work for everyone. That said, applying the above tips should resolve any issues that may have been causing your Windows laptop to lag or slow down when you connect an external monitor.
 
  Below, we will explore several effective troubleshooting tips that can help resolve performance issues with your Windows laptop when it is connected to an external display.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -101,3 +100,17 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-guide-to-uploading-videos-into-youtube-lists/"><u>[New] Guide to Uploading Videos Into YouTube Lists</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-discover-the-ace-of-virtual-worlds-top-oculus-headsets-for-2024/"><u>[Updated] Discover the Ace of Virtual Worlds Top Oculus Headsets for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-poco-c51-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Poco C51 Phone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-iphone-6-without-apple-id-password-by-drfone-ios/"><u>In 2024, How To Erase an iPhone 6 Without Apple ID Password?</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-future-of-gaming-on-windows-systems/"><u>Navigating the Future of Gaming on Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/open-windows-with-a-click-essential-routes-revealed/"><u>Open Windows with a Click: Essential Routes Revealed</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-the-stumbling-block-of-0x80072af9/"><u>Overcoming the Stumbling Block of 0X80072AF9</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-for-fixing-roblox-application-fails/"><u>Solutions for Fixing Roblox Application Fails</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1727790437954-top-rated-magsafe-wallets-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated MagSafe Wallets - Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+</ul></div>
+

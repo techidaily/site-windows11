@@ -1,7 +1,7 @@
 ---
 title: The Expert's Guide to Navigating with Windows Narrator
-date: 2024-08-08T06:02:43.566Z
-updated: 2024-08-09T06:02:43.566Z
+date: 2025-01-02T18:47:35.285Z
+updated: 2025-01-04T01:05:29.690Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/3854233be38a7a3b692f6b1c87d1917c44d3f0b5a
  In this article, we've put together a complete list of legacy keyboard shortcuts that you can use to make your Narrator experience more seamless.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Do I Switch Between Legacy and Standard Keyboard Layouts?
 
  There are two popular keyboard layouts for Narrator: Legacy and Standard. The Legacy keyboard layout was traditionally used on computers before the widespread adoption of the Standard layout. It's still in use today and offers advantages at certain times.
@@ -32,18 +33,20 @@ thumbnail: https://thmb.techidaily.com/3854233be38a7a3b692f6b1c87d1917c44d3f0b5a
 1. Press**Win + Ctrl + N** on your keyboard.
 2. Scroll down to the**Mouse and keyboard** section.
 3. Select**Keyboard layout** from the drop-down menu.  
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Change Narrator Keyboard Layout](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/change-narrator-keyboard-layout.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This way, you can switch between the Legacy and Standard layouts.
 
  While this piece just covers the shortcuts, be sure to check out[the beginner's guide to Narrator](https://www.makeuseof.com/beginners-guide-windows-narrator/) for more general tips.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## All the Narrator Legacy Keyboard Shortcuts
 
  Here is a list of keyboard shortcuts that you can use in Narrator to maximize your productivity.
@@ -168,21 +171,18 @@ This way, you can switch between the Legacy and Standard layouts.
 | Narrator + Q                                | Move to last item in containing area                                  |
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Get More Out of Windows Narrator
 
  Windows Narrator is an incredible tool for people with low vision or blindness, but its features can be used by anyone. Whether you need to quickly find a file or hear today’s news summary, Narrator can help you get the job done. You will find here a list of keyboard shortcuts to help you get more done with Narrator.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -191,4 +191,22 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-skyrocketing-your-contents-view-count-title-and-tag-mastery/"><u>[Updated] In 2024, Skyrocketing Your Content's View Count Title & Tag Mastery</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-beginners-guide-to-youtube-image-sharing-for-2024/"><u>[Updated] The Beginner's Guide to YouTube Image Sharing for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-ultimate-tutorial-for-instagram-story-polls/"><u>[Updated] The Ultimate Tutorial for Instagram Story Polls</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-turn-off-youtube-sneak-peek-embrace-uninterrupted-watching/"><u>[Updated] Turn Off YouTube Sneak Peek, Embrace Uninterrupted Watching</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-modern-shoppers-guide-to-360-degree-imaging-tech/"><u>2024 Approved The Modern Shopper's Guide to 360-Degree Imaging Tech</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyys-content-intelligence-revolutionizing-the-financial-sector-and-accounting-practices/"><u>ABBYY's Content Intelligence: Revolutionizing the Financial Sector and Accounting Practices</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-motorola-moto-g84-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Motorola Moto G84 5G? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/essentials-in-filming-journeys/"><u>Essentials in Filming Journeys</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-stop-recurring-windows-settings-crashes/"><u>How to Stop Recurring Windows Settings Crashes</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/lgs-latest-gem-the-stylo-6-smartphone-where-aesthetics-meet-usability/"><u>LG's Latest Gem: The Stylo 6 Smartphone – Where Aesthetics Meet Usability</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-fixes-for-no-sufficient-privileges-in-windows-installer/"><u>Mastering Fixes for No Sufficient Privileges in Windows Installer</u></a></li>
+<li><a href="https://windows11.techidaily.com/shrouded-language-feature-win11-status-bar-camouflage-tactics/"><u>Shrouded Language Feature: Win11 Status Bar Camouflage Tactics</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-for-unlinked-device-errors-in-win/"><u>Solutions for Unlinked Device Errors in Win</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-and-correcting-error-0x8007251d-in-win-os/"><u>Understanding and Correcting Error 0X8007251d in Win OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/which-browser-minimizes-cpu-and-ram-on-triple-system-os/"><u>Which Browser Minimizes CPU and RAM On Triple System OS?</u></a></li>
+</ul></div>
 

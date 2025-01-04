@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Disable AMD/Nvidia Graphics Extras
-date: 2024-07-29T04:27:32.174Z
-updated: 2024-07-30T04:27:32.174Z
+date: 2024-12-27T19:09:10.589Z
+updated: 2025-01-03T20:27:21.877Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/a6c09f57496c52b8e907a972b91ffe1ac4bdb6bfa
 
  If you feel that you don't need the GeForce overlay or the features that it offers, you can disable it. We will list out all the possible methods to hide and disable the Nvidia GeForce overlay.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## Why Use the Nvidia GeForce Overlay?
 
  Nvidia GeForce overlay is a useful gaming utility. It offers many great features for avid gamers and streamers. Rather than installing separate software for each feature, gamers get all of them in one app. Check our detailed[guide on Nvidia GeForce Experience app](https://www.makeuseof.com/tag/geforce-experience-use-si/) for more info.
@@ -43,8 +40,9 @@ Here are some of the features of Nvidia GeForce overlay offers:
  Despite this, it doesn’t provide a method to disable the overlay for a single game. There is a trick to do so, but unfortunately, it doesn’t work all the time.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Turn Off the Nvidia GeForce Overlay for All Games
 
  If you no longer need the Nvidia GeForce overlay, you can disable it on your system. Remember that this method will completely disable the overlay. You won't be able to use recording or streaming features.
@@ -55,16 +53,16 @@ To disable the Nvidia GeForce overlay, repeat the following steps:
 2. Right-click on the**Nvidia** icon and select the**Nvidia GeForce Experience** from the list.  
 ![open geforce experience](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-overlays-1.jpg)
 3. In the Nvidia GeForce Experience app, find the**gear** icon on the top bar and click on it to enter the**settings** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Now, scroll down and locate the**In-Game Overlay** option. If you see a**green toggle** next to it, then the overlay is active.  
 ![disable overlay option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-overlays-2.jpg)
 5. Click on the green toggle to disable the**In-Game Overlay** on your system.
 6. Now, close the Nvidia GeForce Experience app. The overlay will not be active anymore. You can confirm it by pressing the**Alt + Z** which is the default overlay shortcut.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ## How to Close yhr Nvidia GeForce Overlay Using a Keyboard Shortcut
 
  You can close or launch the Nvidia GeForce overlays with the**Alt + Z** key combination. If you want a more convenient hotkey, you can change it in the overlay settings.
@@ -80,8 +78,9 @@ To change the keyboard shortcut for overlay, do as follows:
 5. Then click on**back** and exit the overlay. Try your new key combination to check whether it launches the overlay.
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Uninstall the Nvidia GeForce Experience App Completely
 
  Nvidia GeForce Experience is additional software that offers the latest game-ready drivers. You also get the overlay feature and the option to auto-optimize games for your hardware. But you can run games and other GPU-intensive apps without it.
@@ -91,25 +90,24 @@ To change the keyboard shortcut for overlay, do as follows:
 To remove the Nvidia GeForce Experience, repeat the following steps:
 
 1. Press**Win + I** to[launch the Settings app](https://www.makeuseof.com/windows-ways-to-open-system-settings/) . Navigate to the left-hand side menu and scroll down to find the**Apps** option.  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/uninstall-geforce-experience-1.jpg)
 2. Click on it and then click on the**Installed Apps** option.
 3. Now, scroll down the installed app list and find the**Nvidia GeForce Experience** app. You can even use the search bar on the top to find the app.  
 ![Installed apps window in settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/uninstall-geforce-experience-2.jpg)
 4. Click on the**three dots** and select the**Uninstall** option. Windows will reconfirm your decision to uninstall the app. Click on the**Uninstall** button.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![uninstall geforce experience window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/uninstall-geforce-experience-3.jpg)
 5. Now, wait for the uninstallation to complete.**Restart** your system.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Nvidia GeForce Experience is now removed from your system. You won't have to worry about the overlays feature anymore.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why Should You Remove the Nvidia GeForce Overlay?
 
  The Nvidia GeForce overlay has its fair share of problems. These include jittery game detection, problematic behavior with full-screen apps, and more. If you face any of these problems, it is advisable to remove the Nvidia GeForce Experience app to see if it fixes the problem.
@@ -126,14 +124,11 @@ To remove the Nvidia GeForce Experience, repeat the following steps:
 
  Nvidia GeForce Experience isn't a bad app. It is a handy tool for automatically optimizing your games. But it depends upon your use case and whether you need the overlays feature or not. If you rarely use the GeForce overly, you can either disable it from within the app's settings or uninstall the program from your PC.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -142,4 +137,20 @@ To remove the Nvidia GeForce Experience, repeat the following steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-personal-content-management-building-a-structured-watch-later-list/"><u>[New] Mastering Personal Content Management Building a Structured 'Watch Later' List</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-pixel-to-passion-unlocking-new-forms-of-entertainment-with-vr/"><u>[New] Pixel to Passion Unlocking New Forms of Entertainment with VR</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-essential-top-6-digital-engagement-channels-for-companies/"><u>[Updated] Essential Top 6 Digital Engagement Channels for Companies</u></a></li>
+<li><a href="https://windows11.techidaily.com/breaking-down-barriers-regaining-computer-management-access/"><u>Breaking Down Barriers: Regaining Computer Management Access</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-blue-screen-in-win11-5-methods-to-prevent-hybrid-errors/"><u>Fixing Blue Screen in Win11: 5 Methods to Prevent Hybrid Errors</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-onedrive-cloud-operation-was-unsuccessful-error-in-windows-10-and-11/"><u>How to Fix the OneDrive Cloud Operation Was Unsuccessful Error in Windows 10 & 11</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/online-photo-cartoonizer-software-for-2024/"><u>Online Photo Cartoonizer Software for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcome-could-not-initialize-vm-error-on-pc/"><u>Overcome 'Could Not Initialize VM' Error on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solve-frame-rate-drops-and-stutter-issues-on-naraka-bladepoint/"><u>Solve Frame Rate Drops & Stutter Issues on Naraka: Bladepoint</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-spotify-connection-errors-in-win11/"><u>Tackling Spotify Connection Errors in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-your-digital-contents-full-value-winning-at-powerpoint-prints-in-windows/"><u>Unlocking Your Digital Content's Full Value: Winning at PowerPoint Prints in Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-does-warno-keep-failing-to-load-on-pc-find-out-the-reasons-here/"><u>Why Does Warno Keep Failing to Load on PC? Find Out the Reasons Here</u></a></li>
+</ul></div>
 

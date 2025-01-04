@@ -1,7 +1,7 @@
 ---
 title: "Enhance Taskbar Clarity: Separate Groups on Win 11"
-date: 2024-07-29T04:28:12.269Z
-updated: 2024-07-30T04:28:12.269Z
+date: 2024-12-28T17:32:29.542Z
+updated: 2025-01-04T00:48:26.140Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
 
  What if you like the icons, but don't like how they group together? Let's have a look at how to disable taskbar icon grouping in Windows 11\.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is Taskbar Icon Grouping?
 
 ![screenshot of multiple file explorer windows open in task bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_multiple_file_explorer_windows_open_in_taskbar.jpg)
@@ -29,11 +33,16 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
  This results in a cleaner and less cluttered taskbar, but one that gives you significantly less information. Some users [restore the old taskbar labels on Windows](https://www.makeuseof.com/windows-11-10-taskbar-labels/), but this takes up more space on your taskbar than the icons do.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Disable Taskbar Icon Grouping
 
 ![screenshot of windhawk main screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_windhawk_main_screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The quickest way to disable this function is to use a program called Windhawk. Windhawk carries a number of quality-of-life modifications for Windows 11\.
 
@@ -41,36 +50,32 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
 
 ![screenshot of disable grouping on taskbar in windhawk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_disable_grouping_on_taskbar_windhawk.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click on the **Explore** button, and search for **Disable grouping on the taskbar.** Go into **Details** and hit the **Install** button. After a few seconds, it'll be enabled, but you may need to [restart Windows File Explorer](https://www.makeuseof.com/ways-to-restart-file-explorer-windows-10/) or your overall system to see the difference.
 
  You can also modify how the modification behaves by clicking **Details** and then **Settings.** You can enable or disable features like keeping the icons together, or to separate the pinned apps from the rest of the open windows.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Exploring the Other Taskbar Mods on Windhawk
 
 ![screenshot of taskbar search in windhawk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_taskbar_search_in_windhawk.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Windhawk has a range of other modifications for different aspects of Windows 11\. If you search just **taskbar** into Windhawk, you'll see a few other options.
 
  Since you're already modifying your taskbar, it can't hurt to look into these. Features that aren't usually supported by Windows, such as middle-clicking to close a taskbar window, can be found here, and are as simple to install as the above.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## Achieve Supreme Taskbar Flexibility With Windhawk
 
  When it comes to tweaking your taskbar, the default Windows options can sometimes be lacking. While many modifications on Windhawk can be major changes, most that relate to the taskbar are minor or subtle changes. Regardless, these small alterations can greatly enhance the user experience.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## FAQ
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Q: Can I Move the Taskbar Icons in Windows 11?
 
  Yes, you can [move the taskbar icons to the left on your Windows 11 PC](https://www.makeuseof.com/move-taskbar-windows-11/) by heading into Settings > Personalization > Taskbar > Taskbar behaviors and choosing Left from the Taskbar alignment drop-down menu. Your taskbar has now moved to the left.
@@ -79,16 +84,11 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
 
  You can [customize your taskbar in Windows 11](https://www.makeuseof.com/windows-11-customize-taskbar/) by right-clicking your taskbar, choosing Taskbar settings, and tweaking various options displayed on your screen. These options let you change your taskbar's functionality and appearance.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ### Q: How Do I Fix My Taskbar in Windows 11?
 
  You can [resolve issues with your Windows 11 taskbar](https://www.makeuseof.com/windows-11-taskbar-not-working-loading/) by restarting the Windows Explorer process. You can do that by opening Task Manager, right-clicking "Windows Explorer," and choosing "Restart."
 
  What if you like the icons, but don't like how they group together? Let's have a look at how to disable taskbar icon grouping in Windows 11\.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -96,3 +96,27 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-capturefreeplay-cutting-edge-recording-for-gamers-for-2024/"><u>[New] CaptureFreePlay Cutting-Edge Recording for Gamers for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/achieving-seamless-background-blurs-in-video-calls/"><u>Achieving Seamless Background Blurs in Video Calls</u></a></li>
+<li><a href="https://win-blog.techidaily.com/alternative-allo-studio-di-video-professionale-come-windows-movie-maker/"><u>Alternative Allo Studio Di Video Professionale Come Windows Movie Maker</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-your-apple-iphone-15-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From your Apple iPhone 15</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/clear-speech-path-hone-your-pronunciation-with-twisters/"><u>Clear Speech Path: Hone Your Pronunciation with Twisters</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-honor-x50iplus-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Honor X50i+ is off? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-learn-to-convert-youtube-videos-into-text-no-cost/"><u>In 2024, Learn to Convert YouTube Videos Into Text – No Cost!</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/keeping-windows-screensaver-status-intact-from-user-changes/"><u>Keeping Windows Screensaver Status Intact From User Changes</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-pc-gamepad-adjustments-and-accuracy-checks/"><u>Mastering PC Gamepad Adjustments & Accuracy Checks</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-wsl-2-for-efficient-docker-workflows/"><u>Optimizing WSL 2 for Efficient Docker Workflows</u></a></li>
+<li><a href="https://windows11.techidaily.com/rejuvenating-your-apathetic-windows-start-button-click/"><u>Rejuvenating Your Apathetic Windows Start Button Click</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-microsoft-store-hiccup-0x80131500/"><u>Remedying Microsoft Store Hiccup 0X80131500</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-non-active-thermal-management-on-pcs/"><u>Reviving Non-Active Thermal Management on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-fix-for-invalid-system-id-alert-in-win11/"><u>Step-by-Step Fix for Invalid System ID Alert in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/swift-reset-of-windows-icon-positions/"><u>Swift Reset of Windows Icon Positions</u></a></li>
+<li><a href="https://windows11.techidaily.com/turbocharge-android-studio-for-peak-performance-in-windows/"><u>Turbocharge Android Studio for Peak Performance in Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleash-your-imagination-with-these-8-dall-e-3-image-creation-cues/"><u>Unleash Your Imagination with These 8 DALL-E 3 Image Creation Cues</u></a></li>
+<li><a href="https://windows11.techidaily.com/why-bypass-automated-systems-for-win-11-key-generation-safety/"><u>Why Bypass Automated Systems for Win 11 Key Generation Safety?</u></a></li>
+</ul></div>
+
