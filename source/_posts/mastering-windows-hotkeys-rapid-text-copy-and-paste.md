@@ -1,7 +1,7 @@
 ---
 title: "Mastering Windows Hotkeys: Rapid Text Copy and Paste"
-date: 2025-01-01T21:12:11.913Z
-updated: 2025-01-03T21:08:35.865Z
+date: 2025-01-09T16:17:51.499Z
+updated: 2025-01-10T19:31:57.834Z
 tags:
   - windows10
   - windows11
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Set Up Hotkeys for Pasting Pre-Defined Text With QuickTextPaste
 
@@ -67,13 +63,17 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 5. Unzip the**hotkeyp\_64bit.zip** archive by right-clicking it and selecting**Extract All** . Click**Show extracted files** **when complete** \>**Extract** within the extraction tool.  
 ![The Extract All context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/extract-all-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Double-click**HotkeyP.exe** within the hotkeyp\_64bit folder.
 2. Click**Add** to bring up a Hot Key window.  
 ![The HotkeyP window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/hotkeyp.jpg)
 3. Next, press the arrow (**<**) button for the**Command** box.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Select**Macro** and the**Paste text** option.  
@@ -95,7 +95,11 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 ![The General tab in HotkeyP's Options window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-general-tab.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Creating Other Hotkeys With HotkeyP
@@ -104,16 +108,12 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 
 ![The System hotkey options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/system-hotkey-options.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or you can set up some custom window control hotkeys. Select**Window** on the command menu to view the various window keyboard shortcut options. There you can select**Always on Top** ,**Maximize window** ,**Minimize others** ,**Window snapshot,** **Close window** , and**Opacity** hotkey options, to name a few.
 
  You can set up a program keyboard shortcut by selecting an app’s path within the Hot Key window. Click the**ellipses (…)** button for the**Command** box to select a program for a keyboard shortcut to open. Then you can also select additional**Process priority** and**Run as administrator** settings for the software the hotkey launches.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create Handy Hotkeys for Pasting Pre-Defined Text in Windows
@@ -135,22 +135,19 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-quick-guide-seamless-audio-transitions/"><u>[New] Quick Guide Seamless Audio Transitions</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-safe-methods-to-fast-forward-in-spotify-files-for-2024/"><u>[Updated] Safe Methods to Fast-Forward in Spotify Files for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-seamless-sound-shift-best-10-youtube-audio-converters/"><u>2024 Approved Seamless Sound Shift Best 10 YouTube Audio Converters</u></a></li>
-<li><a href="https://windows11.techidaily.com/backtracking-your-pc-with-ease-using-system-restore/"><u>Backtracking Your PC with Ease Using System Restore</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/boosting-download-velocity-a-comprehensive-guide-for-improving-origin-speed/"><u>Boosting Download Velocity: A Comprehensive Guide for Improving Origin Speed</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/find-and-install-updated-audio-drivers-for-your-windows-7-pc-today/"><u>Find and Install Updated Audio Drivers for Your Windows 7 PC Today</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-most-asked-questions-about-pokemon-go-battle-league-rewards-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Most Asked Questions about Pokemon Go Battle League Rewards On Apple iPhone 13 mini | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-top-rated-iphone-apps-expert-reviews-and-recommendations/"><u>In 2024, Top-Rated iPhone Apps Expert Reviews and Recommendations</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-through-windows-fn-key-management-basics/"><u>Navigating Through Windows: Fn Key Management Basics</u></a></li>
-<li><a href="https://article-tips.techidaily.com/pixels-musical-ensemble-unveiled-online-for-2024/"><u>Pixel's Musical Ensemble Unveiled Online for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/restoring-visuals-how-to-fix-an-invisible-login-window-in-win1011/"><u>Restoring Visuals: How to Fix an Invisible Login Window in WIN10/11</u></a></li>
-<li><a href="https://windows11.techidaily.com/revamping-your-win8-black-screen-effects/"><u>Revamping Your Win8 Black Screen Effects</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-common-touchscreen-problems-on-windows-10-a-guide-to-five-reliable-solutions/"><u>Solving Common Touchscreen Problems on Windows 10: A Guide to Five Reliable Solutions</u></a></li>
-<li><a href="https://windows11.techidaily.com/tactics-for-finding-hidden-regedit-command/"><u>Tactics for Finding Hidden Regedit Command</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719327094876-top-4-solutions-for-troubleshooting-full-screen-capture-issues-in-windows-snipping-tool/"><u>Top 4 Solutions for Troubleshooting Full-Screen Capture Issues in Windows Snipping Tool.</u></a></li>
-<li><a href="https://windows11.techidaily.com/what-actions-can-you-take-if-windows-ignores-powershell/"><u>What Actions Can You Take if Windows Ignores PowerShell?</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11-a-guide-to-copying-file-and-folder-navigational-trails-via-6-steps/"><u>Windows 11: A Guide to Copying File and Folder Navigational Trails, via 6 Steps</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-advanced-directors-toolkit-powerdirector-24-for-2024/"><u>[Updated] Advanced Directors' Toolkit PowerDirector '24 for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-legal-tips-and-tricks-for-custom-watermarking-in-instagram/"><u>[Updated] Legal Tips and Tricks for Custom Watermarking in Instagram</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-ultimate-camcorder-features-front-view-display/"><u>2024 Approved Ultimate Camcorder Features - Front View Display</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-realme-c67-4g-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Realme C67 4G?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elite-comic-image-crafting-suite/"><u>Elite Comic Image Crafting Suite</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-realign-read-aloud-settings-on-word-app/"><u>How To Realign Read Aloud Settings on Word App</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-honor-100-pro-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Honor 100 Pro Location | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-unveiling-how-t-series-earnings-growth-on-youtube-works/"><u>In 2024, Unveiling How T-Series Earnings Growth on YouTube Works</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-battle-against-the-mighty-lynel-in-the-legend-of-zelda-breath-of-the-wild/"><u>Mastering the Battle Against the Mighty Lynel in The Legend of Zelda: Breath of the Wild</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-frozen-grammarly-on-your-computer-system/"><u>Solving Frozen Grammarly on Your Computer System</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-recover-from-a-blank-login-display-window/"><u>Steps to Recover From a Blank Login Display Window</u></a></li>
+<li><a href="https://windows11.techidaily.com/transformative-tools-in-the-studio-4-microsoft-paint-redesigns/"><u>Transformative Tools in the Studio: 4 Microsoft Paint Redesigns</u></a></li>
+<li><a href="https://windows11.techidaily.com/unblocking-the-store-error-a-fix-for-windows-x800704cf/"><u>Unblocking the Store Error: A Fix for Windows' X800704CF</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-power-of-cross-platform-note-taking-in-win11/"><u>Unveiling the Power of Cross-Platform Note Taking in Win11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Strategies to Mend Windows 11 Assistive Tool
-date: 2024-12-29T01:34:16.806Z
-updated: 2025-01-04T03:31:22.944Z
+date: 2025-01-05T22:48:10.638Z
+updated: 2025-01-10T16:33:18.593Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Begin With Some General Fixes
 
  Here are some quick tips on how to fix the Get Help app not working issues quickly:
@@ -37,13 +33,13 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 ![Get Help End Task Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-help-end-task-option.jpg)
 * **Reboot your computer:** Rebooting a computer often resolves many problems by clearing your system's memory and terminating problematic processes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * **Update your Windows version:** Older versions of Windows may contain bugs that may prevent the Get Help app from functioning correctly. So, always [ensure your Windows version is up-to-date](https://www.makeuseof.com/update-windows-manually/).
 
  Note that these fixes can't help you if your issue is serious. In that case, try the following troubleshooting methods.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Repair or Reset the Get Help App
 
@@ -56,14 +52,18 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 ![Windows Settings Search Results](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-settings-search-results.jpg)
 3. Search for **Get Help** in the list of apps and click on the three-dot menu. Then click on **Advanced options**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Get Help In Installed Apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-help-in-installed-apps.jpg)
 4. Now, scroll to the bottom and click **Repair**. If the repair fails, you can use the **Reset** option.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Get Help Repair Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-help-repair-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Here's the best part: This process isn't exclusive to the Get Help app. So, you can also apply the above steps to other malfunctioning Windows apps
 
@@ -76,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 * Restarting your router or modem to rectify minor network hiccups.
 * Connecting to a different network, as specific network configurations might disrupt certain apps.
 * Contacting your Internet Service Provider (ISP) to inquire about potential network maintenance.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Disable VPN or Proxy Temporarily
 
@@ -93,10 +97,6 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 
  Now you can open the Get Help app and check whether the content loads correctly. Try the following troubleshooting method if the Get Help app still displays a blank screen.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Restart Windows Services
 
  If you don't know, Windows services continuously operate in the background. Such services handle various system tasks, and specific applications, like the Get Help app, rely on the services to work correctly. If the app is still not working, it may be due to one or more Windows services malfunctioning.
@@ -107,18 +107,10 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 ![Services Command On Run App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/services-command-on-run.jpg)
 2. Now press **Enter** to launch the Services app.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. You'll see a list of all the services currently available in your system. Locate the **Diagnostic Policy Service** and right-click on its name.
 4. Select **Restart** from its context menu.  
 ![Diagnostic Policy Service Restart Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/diagnostic-policy-service-restart-option.jpg)
 5. Similarly, repeat the steps to restart the **Windows Management Instrumentation** service.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Install the Microsoft Edge WebView2 Runtime
 
@@ -137,6 +129,10 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 
  If you see an error saying "**Setup failed**," "please re-download the correct version again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Uninstall and Reinstall the Get Help App
 
  If you've tried all other solutions, we recommend uninstalling and reinstalling the Get Help app.
@@ -146,6 +142,10 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 ![Get Help In Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-help-in-store.jpg)
 
  A fresh installation should resolve all the issues with the app. And now, you can go back to troubleshooting without any hassle.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## No More Blank Screen in the Get Help App
 
@@ -165,21 +165,18 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-the-roadmap-to-thriving-in-twitter-live-broadcasts/"><u>[New] In 2024, The Roadmap to Thriving in Twitter Live Broadcasts</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-tips-for-effortless-sharing-of-musical-selections/"><u>[New] In 2024, Tips for Effortless Sharing of Musical Selections</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-full-spectrum-visual-creativity-with-vsco/"><u>[Updated] In 2024, Full Spectrum Visual Creativity with VSCO</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-increase-clicks-and-watch-time-with-best-in-class-thumbnails-for-youtube/"><u>[Updated] Increase Clicks and Watch Time with Best-in-Class Thumbnails for YouTube</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-will-televising-facebook-vids-become-a-trend/"><u>[Updated] Will Televising Facebook Vids Become a Trend ?</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-monthly-earnings-potential-on-youtube/"><u>2024 Approved Monthly Earnings Potential on YouTube</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-windows-disk-errors-with-ease-and-expertise/"><u>Addressing Windows Disk Errors with Ease and Expertise</u></a></li>
-<li><a href="https://windows11.techidaily.com/beginner-friendly-steps-to-install-chrome-on-windows-11/"><u>Beginner-Friendly Steps to Install Chrome on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/boosting-elderly-friendly-window-pc-usability/"><u>Boosting Elderly-Friendly Window PC Usability</u></a></li>
-<li><a href="https://windows11.techidaily.com/boosting-security-the-art-of-updating-gpo-in-windows/"><u>Boosting Security: The Art of Updating GPO in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/breathing-life-into-your-dormant-windows-mouse/"><u>Breathing Life Into Your Dormant Windows Mouse</u></a></li>
-<li><a href="https://windows11.techidaily.com/desktop-dynamics-shifted-key-changes-from-windows-10-to-11/"><u>Desktop Dynamics Shifted: Key Changes From Windows 10 to 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/disabling-error-code-zero-on-your-gaming-machine/"><u>Disabling Error Code Zero on Your Gaming Machine</u></a></li>
-<li><a href="https://driver-install.techidaily.com/hawki-car-wizardry-handy-repair-hints/"><u>Hawki Car Wizardry: Handy Repair Hints</u></a></li>
-<li><a href="https://network-issues.techidaily.com/improve-windows-graphics-by-installing-current-intel-drivers/"><u>Improve Windows Graphics by Installing Current Intel Drivers</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-top-7-icloud-activation-bypass-tools-for-your-iphone-6-plus-by-drfone-ios/"><u>In 2024, Top 7 iCloud Activation Bypass Tools For your iPhone 6 Plus</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-ringtone-archive-iphone-2024-edition/"><u>[New] Ringtone Archive IPhone 2024 Edition</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-from-twitter-to-facebook-sending-your-tweets/"><u>[Updated] From Twitter to Facebook Sending Your Tweets</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-maximize-impact-strategies-for-uploading-4k-content-on-youtube/"><u>[Updated] Maximize Impact Strategies for Uploading 4K Content on Youtube</u></a></li>
+<li><a href="https://windows11.techidaily.com/affordable-and-durable-storage-solutions-below-100/"><u>Affordable and Durable Storage Solutions Below $100</u></a></li>
+<li><a href="https://windows11.techidaily.com/ai-enhanced-microsoft-teams-transforming-your-virtual-background-easily/"><u>AI-Enhanced Microsoft Teams: Transforming Your Virtual Background Easily</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/e-a-short-form-video-star-with-these-10-proven-methods-for-2024/"><u>Become a Short-Form Video Star with These 10 Proven Methods for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/create-an-eye-catching-custom-windows-desktop-with-rainmeter-tips/"><u>Create an Eye-Catching Custom Windows Desktop with Rainmeter Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/discover-improved-voice-modulation-in-the-latest-version-of-microsoft-clipchamp/"><u>Discover Improved Voice Modulation in the Latest Version of Microsoft Clipchamp</u></a></li>
+<li><a href="https://windows11.techidaily.com/ease-system-overload-in-your-linux-vmware-by-regaining-lost-storage-capacity-quickly/"><u>Ease System Overload in Your Linux Vmware by Regaining Lost Storage Capacity Quickly</u></a></li>
+<li><a href="https://windows11.techidaily.com/effective-strategies-to-address-and-correct-dpc-watchdog-errors-in-windows-10-systems/"><u>Effective Strategies to Address and Correct DPC Watchdog Errors in Windows 10 Systems</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/insta-tiktik-mastery-uniting-two-social-giants-for-2024/"><u>Insta-TikTik Mastery Uniting Two Social Giants for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-to-integrating-videoclips-with-windows-movie-maker-on-pc/"><u>Step-by-Step Guide to Integrating Videoclips with Windows Movie Maker on PC</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-step-by-step-approach-to-personalizing-your-phones-alerts/"><u>The Step-By-Step Approach to Personalizing Your Phone's Alerts</u></a></li>
 </ul></div>
 

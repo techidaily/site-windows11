@@ -1,7 +1,7 @@
 ---
 title: "Unraveling and Remedying Error Code: 0X80071A90 Windows Issue"
-date: 2024-12-31T19:47:56.954Z
-updated: 2025-01-03T19:45:53.117Z
+date: 2025-01-09T19:19:21.221Z
+updated: 2025-01-10T19:40:54.354Z
 tags:
   - windows10
   - windows11
@@ -37,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/482b0b9f60bdf46ea3aa9192b63978daf29cfbcce
 
  Regardless of what might be causing the problem in your case, the troubleshooting methods we have listed above should help you fix it in no time. Proceed with the method that fits your situation the best.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Disable Your Antivirus
 
  Antivirus programs are designed to protect your computer from harmful software and viruses but in doing so, they may also prevent some legitimate Windows components and features from installing or updating properly. This typically happens when the antivirus falsely considers the feature to be harmful.
@@ -53,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/482b0b9f60bdf46ea3aa9192b63978daf29cfbcce
 
  Once the security program is disabled, try enabling the targeted Windows feature again and check if the problem is now fixed. If the antivirus program happens to be the culprit, you can consider switching to a better alternative.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Perform the Action in Safe Mode
 
  As we mentioned earlier, certain applications and processes running in the background can also interfere with the installation or enablement of Windows features. To prevent any potential third-party software conflicts, you can try performing the action in Safe Mode.
@@ -64,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/482b0b9f60bdf46ea3aa9192b63978daf29cfbcce
  This mode launches Windows with only the necessary drivers and services, allowing you to finish tasks without interference from third-party software.
 
  Once you[boot into Safe Mode on Windows](https://www.makeuseof.com/windows-11-boot-safe-mode/) , launch the Windows Features utility and try performing the action that was initially triggering the error. If a background process was leading to it, you should be able to enable the targeted feature without any problems now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Rebuild the WMI Repository
 
@@ -87,27 +83,27 @@ Follow these steps to proceed:
  If nothing else works, these general WIndows fixes can help you fix the issue:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Update Windows
 
 ![install windows 11 feature update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-windows-11-feature-update.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you haven’t installed the latest Windows updates in a while, then you might be facing the problem due to an outdated system. This can be due to a compatibility issue or because your system lacks updates/hotfixes that were released by Microsoft to address specific issues related to Windows features.
 
  In this case, we recommend taking your time to[install any pending Windows updates](https://www.makeuseof.com/windows-11-install-updates/) available. This will ensure that the drivers and software are compatible with the latest version of Windows.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Check the System for Corruption Errors
 
 ![Run SFC scan in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sfc-scan-1-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In order to install or enable Windows features, the system relies on critical files and the Windows component store. If any of these files or the store becomes corrupted, it can impede the system's access to the necessary components for feature installation or enablement, leading to errors like the one at hand.
@@ -115,6 +111,10 @@ Follow these steps to proceed:
  To fix such corruption errors, you can use a tool like the System File Checker (SFC) to scan and repair system files or the Deployment Image Servicing and Management (DISM) tool to repair the Windows component store. You can run both these utilities via Command Prompt.
 
  Follow the correct steps for running SFC and DISM in Windows in our guide on[how to fix file system errors on Windows](https://www.makeuseof.com/fix-file-system-errors-windows/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Enable Your Windows Features Again
 
@@ -137,24 +137,17 @@ Follow these steps to proceed:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-from-screens-to-gifs-the-art-of-converting-vimeo-footage/"><u>[New] From Screens to Gifs The Art of Converting Vimeo Footage</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-top-low-cost-4k-recording-options/"><u>[Updated] In 2024, Top Low-Cost 4K Recording Options</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-step-by-step-guide-to-full-periscope-mastery/"><u>[Updated] Step-by-Step Guide to Full Periscope Mastery</u></a></li>
-<li><a href="https://win-blog.techidaily.com/achieving-stable-connection-with-steam-servers-after-recent-fix/"><u>Achieving Stable Connection with Steam Servers After Recent Fix</u></a></li>
-<li><a href="https://windows11.techidaily.com/adjust-brightness-slider-look-for-the-brightness-slider-under-system-or-personalization-tabs-in-settings/"><u>Adjust Brightness Slider: Look for the Brightness Slider Under 'System' Or 'Personalization' Tabs in Settings</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoidance-tactics-against-flaky-saving-mechanism-in-nvidia-gui/"><u>Avoidance Tactics Against Flaky Saving Mechanism in Nvidia GUI</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypass-license-validity-warning-on-w10-and-w11-systems/"><u>Bypass License Validity Warning on W10 & W11 Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/combating-writing-denials-in-windows-11-environment/"><u>Combating Writing Denials in Windows 11 Environment</u></a></li>
-<li><a href="https://windows11.techidaily.com/comparative-overview-of-installation-methods-exe-and-msi-files/"><u>Comparative Overview of Installation Methods: Exe & Msi Files</u></a></li>
-<li><a href="https://windows11.techidaily.com/corrective-measures-for-xc0351000-hyprocvisor-not-found/"><u>Corrective Measures for XC0351000: Hyprocvisor Not Found</u></a></li>
-<li><a href="https://windows11.techidaily.com/customizing-graphics-output-dpi-adjustment-guide/"><u>Customizing Graphics Output: DPI Adjustment Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-the-complexity-of-wintoys-your-guide-to-a-versatile-tool/"><u>Decoding the Complexity of 'WinToys': Your Guide to a Versatile Tool</u></a></li>
-<li><a href="https://windows11.techidaily.com/demystifying-microsofts-code-companion-for-enhanced-programming/"><u>Demystifying Microsoft's Code Companion for Enhanced Programming</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-3-ways-of-how-to-get-someones-apple-id-off-iphone-13-without-password-by-drfone-ios/"><u>In 2024, 3 Ways of How to Get Someones Apple ID Off iPhone 13 without Password</u></a></li>
-<li><a href="https://extra-support.techidaily.com/inspection-enhanced-edition-parrot-ar-drone-for-2024/"><u>Inspection Enhanced Edition Parrot AR Drone for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/install-the-correct-drivers-for-your-brother-hl-l2380d-printer-on-a-pc-with-windows-os/"><u>Install the Correct Drivers for Your Brother HL-L2380D Printer on a PC with Windows OS</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/psvr2-gaming-selection-showcase-a-thorough-inventory-of-confirmed-titles-to-date/"><u>PSVR2 Gaming Selection Showcase: A Thorough Inventory of Confirmed Titles to Date</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/1722890929434-top-rated-television-streaming-services/"><u>Top-Rated Television Streaming Services</u></a></li>
-<li><a href="https://games-able.techidaily.com/transition-to-unity-linking-your-epic-game-and-steam-accounts/"><u>Transition to Unity: Linking Your Epic Game & Steam Accounts</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-how-to-distinguish-real-from-sham-on-your-instagram-circle-quickly/"><u>[Updated] How to Distinguish Real From Sham on Your Instagram Circle Quickly</u></a></li>
+<li><a href="https://win-online.techidaily.com/beheben-sie-den-fehlercode-0x80070643-beim-aktualisierungsprozess-von-windows-updates-version-kb5034441/"><u>Beheben Sie Den Fehlercode 0X80070643 Beim Aktualisierungsprozess Von Windows-Updates, Version KB5034441</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/essential-tech-for-new-channel-launches-for-2024/"><u>Essential Tech for New Channel Launches for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-chrono-translocation-techniques/"><u>In 2024, Mastering Chrono-Translocation Techniques</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mkv-movies-on-samsung-galaxy-s24-ultra-is-it-possible-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Play MKV movies on Samsung Galaxy S24 Ultra, is it possible?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/radeon-hd-7850-graphics-driver-download-and-update-on-windows-10/"><u>Radeon HD 7850 Graphics Driver Download & Update on Windows 10</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/simple-step-by-step-guide-how-to-effortlessly-upgrade-your-samsung-laptop-with-an-ssd-kit/"><u>Simple Step-by-Step Guide: How to Effortlessly Upgrade Your Samsung Laptop with an SSD Kit</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-5-techniques-for-resolving-memory-corruption-issues-in-windows-11/"><u>Top 5 Techniques for Resolving Memory Corruption Issues in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-strategies-microsoft-should-implement-to-rescue-github-copilot-from-a-fate-similar-to-cortana/"><u>Top Strategies Microsoft Should Implement to Rescue GitHub Copilot From a Fate Similar to Cortana</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-the-windows-license-permits-just-one-display-language-issue-expert-advice/"><u>Troubleshooting the 'Windows License Permits Just One Display Language' Issue - Expert Advice</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-windows-11-issues-on-legacy-processors/"><u>Troubleshooting Windows 11 Issues on Legacy Processors</u></a></li>
+<li><a href="https://windows11.techidaily.com/weekly-tech-insights-atandt-data-leak-incident-and-latest-innovations-in-samsungs-phone-line-up/"><u>Weekly Tech Insights: AT&T Data Leak Incident & Latest Innovations in Samsung's Phone Line-Up</u></a></li>
 </ul></div>
 

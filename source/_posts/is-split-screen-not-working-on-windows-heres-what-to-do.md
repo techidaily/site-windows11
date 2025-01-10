@@ -1,7 +1,7 @@
 ---
 title: Is Split Screen Not Working on Windows? Here's What to Do
-date: 2024-12-29T02:13:02.359Z
-updated: 2025-01-04T00:24:57.774Z
+date: 2025-01-03T20:35:40.279Z
+updated: 2025-01-10T22:21:59.966Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Causes Split Screen to Not Work?
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
  Now that you know the potential causes of the split screen not working, let’s look at how to resolve it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Try Some Generic Fixes
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
  After making these changes, close the Settings window and check if it solves the issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Check Your Display Settings
@@ -77,6 +77,10 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
 ![Display Resolution in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/display-resolution-in-settings.jpg)
 
  Now click the **Display resolution** drop-down menu and adjust the resolution to fit your connected display. Once you've done that, try using split screen again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Restart Windows Explorer
 
@@ -90,10 +94,6 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
 4. Once you find the process, right-click on it and select **End task**. This will terminate the Windows Explorer process.  
 ![Restart Windows Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/restart-windows-explorer.jpg)
 5. Now click **Run new task** at the top of the Task Manager window.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Type **explorer.exe** in the Open field and click **OK**. This will start a new Windows Explorer instance.
 
@@ -123,7 +123,7 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
  Similarly, press **Win + Up Arrow** or **Down Arrow** to snap windows into a quarter-screen size, allowing you to have four windows open simultaneously.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Manage Apps and Tasks Simultaneously to Enhance Your Productivity on Windows
@@ -140,20 +140,15 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-unleashing-potential-with-the-vida-editing-suite/"><u>[New] 2024 Approved Unleashing Potential with the Vida Editing Suite</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-vintage-visions-older-tech-modern-memories/"><u>[New] 2024 Approved Vintage Visions Older Tech, Modern Memories</u></a></li>
-<li><a href="https://windows11.techidaily.com/briefly-explain-what-cultural-relativism-means-in-your-own-words/"><u>Briefly Explain What Cultural Relativism Means in Your Own Words.</u></a></li>
-<li><a href="https://windows11.techidaily.com/broken-binkey-bastion-proceed-prudently-not-promptly/"><u>Broken Binkey Bastion: Proceed Prudently, Not Promptly</u></a></li>
-<li><a href="https://windows11.techidaily.com/clear-communication-test-your-mic-on-pc/"><u>Clear Communication: Test Your Mic on PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/coherent-organization-of-windows-files-max-156/"><u>Coherent Organization of Windows Files (Max 156)</u></a></li>
-<li><a href="https://windows11.techidaily.com/compact-guide-best-windows-forecasting-tools/"><u>Compact Guide: Best Windows Forecasting Tools</u></a></li>
-<li><a href="https://windows11.techidaily.com/connected-scribbles-using-stickies-across-all-devices-in-win11/"><u>Connected Scribbles: Using Stickies Across All Devices in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/dial-down-display-flicker-in-windows-11-devices/"><u>Dial Down Display Flicker in Windows 11 Devices</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-review-picsart-features-and-use/"><u>In 2024, In-Depth Review PicsArt Features and Use</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-f15-5gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy F15 5GFRP Lock</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/lamicall-tablet-holder-evaluation-built-for-ultimate-usability/"><u>Lamicall Tablet Holder Evaluation: Built For Ultimate Usability</u></a></li>
-<li><a href="https://fox-info.techidaily.com/navigating-windows-8-movie-maker-like-a-pro-for-2024/"><u>Navigating Windows 8 Movie Maker Like a Pro for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/pros-of-pushing-back-video-game-dates/"><u>Pros of Pushing Back Video Game Dates</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/replace-periscope-top-6-mobile-video-applications-for-2024/"><u>Replace Periscope Top 6 Mobile Video Applications for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/reaking-boundaries-coordinated-video-watch-across-channels/"><u>[New] Breaking Boundaries Coordinated Video Watch Across Channels</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-ai-powers-contrasting-the-performance-of-llama-3-and-gpt-4/"><u>Decoding AI Powers: Contrasting the Performance of Llama 3 And GPT-4</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/discord-live-stream-recording-guide/"><u>Discord Live Stream Recording Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-methods-to-modify-text-casing-in-microsoft-excel-2013-with-built-in-formulae/"><u>Efficient Methods to Modify Text Casing in Microsoft Excel 2013 with Built-In Formulae</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-techniques-for-merging-transforming-and-scaling-down-data-tables-in-microsoft-excel/"><u>Efficient Techniques for Merging, Transforming, and Scaling Down Data Tables in Microsoft Excel</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-14-features-why-google-sheets-outshines-microsoft-excel/"><u>Essential 14 Features: Why Google Sheets Outshines Microsoft Excel</u></a></li>
+<li><a href="https://windows11.techidaily.com/excel-strategies-decoded-leveraging-pivot-tables-to-compute-percent-change-easily/"><u>Excel Strategies Decoded: Leveraging Pivot Tables to Compute Percent Change Easily</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/redefine-your-digital-world-with-latest-windows-10-gaming-and-apps/"><u>Redefine Your Digital World with Latest Windows 10 Gaming & Apps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-tutorial-on-deleting-icloud-pictures-and-retaining-iphone-originals/"><u>The Ultimate Tutorial on Deleting iCloud Pictures and Retaining iPhone Originals</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-live-stream-scenery-ideas-2023-for-2024/"><u>Top Live Stream Scenery Ideas 2023 for 2024</u></a></li>
 </ul></div>
 

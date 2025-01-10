@@ -1,7 +1,7 @@
 ---
 title: Streamline the Prime Viewing Experience on Windows 11 Devices
-date: 2025-01-01T04:16:18.908Z
-updated: 2025-01-03T21:03:43.863Z
+date: 2025-01-06T18:51:28.496Z
+updated: 2025-01-10T20:14:52.720Z
 tags:
   - windows10
   - windows11
@@ -36,24 +36,20 @@ thumbnail: https://thmb.techidaily.com/5c8db21fb7e97eed2eddd025f3f66d3a9e58c7bc7
 ![Subtitles off option in Prime Video](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/subtitles-off-option.jpg)
 3. Wait for a few seconds. Then, turn on the subtitles of your preferred language.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Another quick way to fix Prime Video subtitles not working is to sign out and then back into your Prime Video account. To do that, click on your account name in the bottom left corner, and choose**Sign out** from the context menu.
 
 ![Sign Out option in Prime Video](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/sign-out.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After that, click the Sign In button and enter your credentials to log in with your account. Once in, check if you're still facing the issue.
 
 ![Sign in option of Prime Video](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/sign-in-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Eliminate Browser Issues
@@ -65,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/5c8db21fb7e97eed2eddd025f3f66d3a9e58c7bc7
  The problem can also occur due to an issue in the current version of your browser. In this case, you can[update your browser](https://www.makeuseof.com/how-to-update-chrome-firefox-edge-desktop-mobile/) to fix the issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Repair and Reset the Prime Video App
@@ -78,12 +74,16 @@ thumbnail: https://thmb.techidaily.com/5c8db21fb7e97eed2eddd025f3f66d3a9e58c7bc7
 4. Click the**Repair** button.  
 ![Repair option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait till Windows repairs the app. You will see a checkmark next to the repair button when it's done.
 
  If repairing the app wasn't helpful, you can use the reset option, which will clear all its data. Doing this will be helpful if corrupt Prime Video files are causing the issue. To reset the Prime Video app, click the**Reset** button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Reinstall the Prime Video App
@@ -113,24 +113,18 @@ thumbnail: https://thmb.techidaily.com/5c8db21fb7e97eed2eddd025f3f66d3a9e58c7bc7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-dive-into-your-digital-collection-find-fb-watched-content-now/"><u>[Updated] Dive Into Your Digital Collection Find FB Watched Content Now</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-breaking-down-the-font-inclusion-process-in-ae/"><u>[Updated] In 2024, Breaking Down the Font Inclusion Process in AE</u></a></li>
-<li><a href="https://windows11.techidaily.com/accelerating-windows-11-app-launches/"><u>Accelerating Windows 11 App Launches</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-windows-services-that-dont-launch/"><u>Addressing Windows Services That Don't Launch</u></a></li>
-<li><a href="https://windows11.techidaily.com/advanced-tips-for-adding-sound-in-snipping-tool-recordings-max-156/"><u>Advanced Tips for Adding Sound in Snipping Tool Recordings (Max 156)</u></a></li>
-<li><a href="https://windows11.techidaily.com/beneath-the-surface-innocent-looking-apps-steal-speed-from-pcs/"><u>Beneath the Surface, Innocent-Looking Apps Steal Speed From PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/circumventing-unyielding-power-switches-on-windows-11/"><u>Circumventing Unyielding Power Switches on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/clearing-the-obscure-fixing-white-out-screens-in-win1011/"><u>Clearing the Obscure: Fixing White Out Screens in WIN10/11</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-incompatible-drivers-on-windows-11/"><u>Correcting Incompatible Drivers on Windows 11</u></a></li>
-<li><a href="https://win-superb.techidaily.com/crafting-your-custom-icon-with-ease-discover-tips-for-utilizing-flipbuildercom/"><u>Crafting Your Custom Icon with Ease - Discover Tips for Utilizing FlipBuilder.com</u></a></li>
-<li><a href="https://fox-http.techidaily.com/cross-device-media-sharing-made-simple-with-iphones-for-2024/"><u>Cross-Device Media Sharing Made Simple with iPhones for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/distinguishing-key-features-of-exe-and-msi-formats/"><u>Distinguishing Key Features of EXE and MSI Formats</u></a></li>
-<li><a href="https://windows11.techidaily.com/diving-deep-using-the-netstat-command-in-windows-11-os/"><u>Diving Deep: Using the Netstat Command in Windows 11 OS</u></a></li>
-<li><a href="https://win-unique.techidaily.com/does-windows-defender-send-alerts-for-virus-detection-an-in-depth-guide-by-yl-software/"><u>Does Windows Defender Send Alerts for Virus Detection? An In-Depth Guide by YL Software</u></a></li>
-<li><a href="https://extra-information.techidaily.com/fcp-download-hack-get-it-for-free/"><u>FCP Download Hack Get It for Free?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-xiaomi-redmi-12-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Xiaomi Redmi 12</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/recording-made-easy-tips-for-youtube-vids/"><u>Recording Made Easy Tips for YouTube Vids</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/streamlining-team-communications-with-chatgpt-tools/"><u>Streamlining Team Communications with ChatGPT Tools</u></a></li>
-<li><a href="https://media-tips.techidaily.com/ultimate-guide-5-must-use-platforms-for-seamless-video-and-audio-file-transformations/"><u>Ultimate Guide: 5 Must-Use Platforms for Seamless Video & Audio File Transformations</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-sifting-through-the-sands-of-youtube-conversations/"><u>[New] In 2024, Sifting Through the Sands of YouTube Conversations</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-ig-upgrade-starts-here-top-tools-for-follower-growth/"><u>[Updated] 2024 Approved IG Upgrade Starts Here Top Tools for Follower Growth</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-erasing-your-instagram-identity-step-by-step-guidebook/"><u>2024 Approved Erasing Your Instagram Identity Step-by-Step Guidebook</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/factors-contributing-to-the-wii-us-marked-achievement-in-gaming/"><u>Factors Contributing to the Wii U's Marked Achievement in Gaming</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-enabling-the-developer-tab-in-your-microsoft-office-suite/"><u>Guide: Enabling the Developer Tab in Your Microsoft Office Suite</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-how-to-alter-the-money-sign-for-specific-cells-using-excel/"><u>Guide: How To Alter The Money Sign For Specific Cells Using Excel</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-mastering-the-art-of-text-trimming-in-ms-excel/"><u>Guide: Mastering the Art of Text Trimming in MS Excel</u></a></li>
+<li><a href="https://windows11.techidaily.com/learning-excel-from-scratch-top-6-skills-you-need-to-get-started/"><u>Learning Excel From Scratch? Top 6 Skills You Need to Get Started!</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-birthday-math-a-step-by-step-guide-to-finding-age-with-excel/"><u>Mastering Birthday Math: A Step-by-Step Guide to Finding Age with Excel</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-canon-video-post-production-expert-advice-on-editing-and-enhancing-your-videos/"><u>New In 2024, Canon Video Post-Production Expert Advice on Editing and Enhancing Your Videos</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-finest-phones-and-pay-plans-tailored-for-seniors-2024-edition/"><u>The Finest Phones & Pay Plans Tailored for Seniors, 2024 Edition</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Oppo Reno 11 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-best-keyboards-of-2er-24-in-depth-analysis-and-expert-opinions-reviewed/"><u>Ultimate Guide to the Best Keyboards of 2Er 24: In-Depth Analysis and Expert Opinions | Reviewed</u></a></li>
 </ul></div>
 

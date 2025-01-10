@@ -1,7 +1,7 @@
 ---
 title: "Transform Your Photos: Innovative Erase on Windows"
-date: 2025-01-02T00:04:32.134Z
-updated: 2025-01-03T21:45:33.489Z
+date: 2025-01-08T18:01:40.309Z
+updated: 2025-01-10T23:32:46.465Z
 tags:
   - windows10
   - windows11
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/89e14fb11e9e592fbd5c568e89cdfa2567dfefcd7
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * ![Screenshot highlighting the Edit button in the Windows Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/edit-button-on-the-windows-photos-app-1.jpg)  
@@ -35,15 +31,15 @@ thumbnail: https://thmb.techidaily.com/89e14fb11e9e592fbd5c568e89cdfa2567dfefcd7
 
  Removing objects from photos is easier than ever on a smartphone, but that's largely limited to Pixels, Samsung flagships, or a Google One subscription. While you might think doing so requires expensive software on desktop, the Photos app on Windows is all you need to remove unwanted elements from an image. It's easily accessible, free, and is pretty great!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is Windows Photos Generative Erase?
 
  The name is pretty self-explanatory in this case. Generative Erase is a tool built into the Windows Photos app that lets you select and remove objects from an image. The AI-powered feature does so without disrupting the background, using machine learning to gauge what the photo would be like without the object.
 
  You don't need expensive photo editing software or a high-end phone. The Photos app is available on all Windows 10 and 11 machines. You should see the Erase tool after [updating the Windows Photos app](https://www.makeuseof.com/tag/update-windows-software-guide/) to version 2024.11020.21001.0 or higher.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Use Generative Erase in Windows Photos
 
@@ -51,12 +47,16 @@ thumbnail: https://thmb.techidaily.com/89e14fb11e9e592fbd5c568e89cdfa2567dfefcd7
 
 ![Screenshot highlighting the Edit button in the Windows Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/edit-button-on-the-windows-photos-app-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click the **Edit** button in the top bar and select **Erase**. If you want to get granular with your edit, you can adjust the brush size and zoom in on the picture.
 
 ![Erase button in the Edit tool in the Windows Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/erase-button-in-the-edit-tool.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The **Auto Erase** toggle is enabled by default and erases objects as you go. To erase multiple objects, toggle off **Auto Erase**, use the brush to highlight everything you want to remove, and then tap **Erase**.
@@ -64,13 +64,13 @@ thumbnail: https://thmb.techidaily.com/89e14fb11e9e592fbd5c568e89cdfa2567dfefcd7
 ![Using the Erase tool on Windows Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/using-the-erase-tool-on-windows-photos.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You have to be precise with the brush tool, but the option to adjust the size makes highlighting objects relatively easy.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Generative Erase on Windows Photos Any Good?
@@ -104,20 +104,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-drive-participation-with-artisanal-story-inquiries/"><u>[New] Drive Participation with Artisanal Story Inquiries</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-master-the-art-of-live-streaming-utilizing-obs-for-youtube-and-twitch/"><u>[New] In 2024, Master the Art of Live Streaming Utilizing OBS for YouTube & Twitch</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-streamline-your-slide-show-secrets-to-excellent-ppt-recording/"><u>[New] In 2024, Streamline Your Slide Show Secrets to Excellent PPT Recording</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-ultimate-screen-recorder-unmatched-pcmacos-quality/"><u>[New] In 2024, Ultimate Screen Recorder - Unmatched PC/macOS Quality</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-make-screenshots-and-recordings-on-imac-simple/"><u>[New] Make Screenshots & Recordings on iMac Simple</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-comparing-syma-x8c-to-previous-models/"><u>2024 Approved Comparing Syma X8C to Previous Models</u></a></li>
-<li><a href="https://windows11.techidaily.com/android-meets-windows-easy-synching-protocol/"><u>Android Meets Windows: Easy Synching Protocol</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoiding-pitfalls-of-unknown-not-initialized-disks-on-windows/"><u>Avoiding Pitfalls of Unknown Not Initialized Disks on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/choosing-a-fresh-termbackground-pic/"><u>Choosing a Fresh TermBackground Pic</u></a></li>
-<li><a href="https://windows11.techidaily.com/choosing-your-win-software-downloader-choco-versus-wslm/"><u>Choosing Your Win Software Downloader: Choco Versus WSLM</u></a></li>
-<li><a href="https://windows11.techidaily.com/correct-keyboard-fixes-for-windows-11s-unresponsive-f-keys/"><u>Correct: Keyboard Fixes for Windows 11'S Unresponsive F Keys</u></a></li>
-<li><a href="https://windows11.techidaily.com/deciphering-the-workings-of-windows-memory-cache/"><u>Deciphering the Workings of Windows Memory Cache</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/highly-rated-philips-somneo-analysis-leading-alarm-clocks-unveiled/"><u>Highly Rated Philips Somneo Analysis: Leading Alarm Clocks Unveiled</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/how-to-fix-an-unbootable-acer-computer-a-comprehensive-guide-with-4-solutions/"><u>How to Fix an Unbootable Acer Computer: A Comprehensive Guide with 4 Solutions</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719207064707-ifas-hottest-laptops-unveiled/"><u>IFA's Hottest Laptops Unveiled</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-quick-and-fun-make-a-meme-with-kinemaster-for-2024/"><u>[New] Quick & Fun Make a Meme with KineMaster for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-winning-strategies-the-best-5-methods-for-game-recording-in-windows-11-for-2024/"><u>[New] Winning Strategies The Best 5 Methods for Game Recording in Windows 11 for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-music-transfer-essentials-keeping-your-playlist-alive/"><u>[Updated] 2024 Approved Music Transfer Essentials Keeping Your Playlist Alive</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-leveraging-highlights-proven-techniques-for-business-engagement/"><u>[Updated] Leveraging Highlights Proven Techniques for Business Engagement</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevating-imagination-uniting-advanced-tech-and-fantasy-creativity-for-dandd-characters/"><u>Elevating Imagination: Uniting Advanced Tech & Fantasy Creativity for D&D Characters</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-intel-centrino-n-6205-wifi-drivers-no-cost-installation-guide/"><u>Get the Latest: Intel Centrino N 6205 WiFi Drivers – No Cost Installation Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-webcam-camera-error-code-0xa00f4289-in-windows-11-and-11/"><u>How to Fix the Webcam Camera Error Code 0xA00F4289 in Windows 11 & 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-maximize-your-windows-11-understanding-copilot-key-benefits/"><u>How to Maximize Your Windows 11: Understanding Copilot Key Benefits</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-iphone-12-device-from-icloud-by-drfone-ios/"><u>How to Remove iPhone 12 Device from iCloud</u></a></li>
+<li><a href="https://windows11.techidaily.com/interpreting-complex-group-policies-on-windows-in-three-phases/"><u>Interpreting Complex Group Policies on Windows in Three Phases</u></a></li>
+<li><a href="https://windows11.techidaily.com/non-edge-processes-and-their-role-in-tasking/"><u>Non-Edge Processes and Their Role in Tasking</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-steam-stream-disconnects-on-pc/"><u>Overcoming Steam Stream Disconnects on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-the-error-roblox-inaccessible-due-to-user-configuration/"><u>Resolving the Error: Roblox Inaccessible Due to User Configuration</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-setup-of-microsoft-works-on-windows-10-and-11/"><u>Seamless Setup of Microsoft Works on WIndows 10 and 11</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/solid-shooter-with-an-economical-edge-canons-elph-190/"><u>Solid Shooter with an Economical Edge – Canon's ELPH 190</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/text-that-talks-back-adding-life-to-vids-on-a-budget-for-2024/"><u>Text that Talks Back Adding Life to Vids on a Budget for 2024</u></a></li>
 </ul></div>
 

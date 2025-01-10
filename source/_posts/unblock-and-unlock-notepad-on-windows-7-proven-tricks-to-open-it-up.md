@@ -1,7 +1,7 @@
 ---
 title: "Unblock and Unlock Notepad on Windows: 7 Proven Tricks to Open It Up"
-date: 2025-01-02T03:50:23.877Z
-updated: 2025-01-04T01:28:08.002Z
+date: 2025-01-07T17:00:38.703Z
+updated: 2025-01-10T16:13:12.436Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/2527931ff4c659441e41ccebfbfcddf054977d94a
 
 ![Open Notepad via Command-Line Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-notepad-via-command-line-tool.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You could also ask Cortana to open Notepad. However, if none of these methods work, proceed to the next solution.
 
 ## 2\. Set Notepad as the Default Text Editor
@@ -47,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/2527931ff4c659441e41ccebfbfcddf054977d94a
 6. Type**.txt** in the search box and click the current default app.
 7. Select**Notepad** and click the**Set default** button.  
 ![Set Notepad as Default Text Editor App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/set-notepad-as-default-text-editor-app-on-windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Try opening a few text files and see if they open in Notepad.
 
@@ -67,10 +67,6 @@ To repair the Notepad app on Windows:
 5. Scroll down to the Reset section and click the**Repair** button.  
 ![Repair or Reset the Notepad App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/repair-or-reset-the-notepad-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You should see a checkmark next to the Repair button once the process is complete. Then, try to[open the Notepad app](https://www.makeuseof.com/windows-11-open-notepad/) again.
 
  If repairing the Notepad app does not make any difference, you can try resetting it. Here are the steps for the same.
@@ -80,6 +76,10 @@ To repair the Notepad app on Windows:
 3. Under the Reset section, click the**Reset** button.
 
  Windows will reset the Notepad app to its default version, which should resolve any issues with it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Reinstall the Notepad App
 
@@ -101,7 +101,7 @@ To repair the Notepad app on Windows:
  Wait for Windows to install Notepad on your computer and then try to open it using the search menu.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Run the SFC and DISM Scans
@@ -123,7 +123,7 @@ To run the SFC scan on Windows:
 ![DISM Scan in Windows Terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/dism-scan-in-windows-terminal.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After the scan is complete, restart your PC and see if you can access Notepad.
@@ -133,10 +133,6 @@ To run the SFC scan on Windows:
  At times, third-party apps and background services can conflict with Windows processes and cause problems like the one discussed here. One way to verify this possibility is to boot your computer in a clean boot state, where it only runs with essential apps and services.
 
  If you perform a clean boot and Notepad opens normally, it means that the culprit causing the issue got disabled. If you'd like to learn more about the topic, check out our guide on[how to perform a clean boot on Windows](https://www.makeuseof.com/how-perform-clean-boot-windows-10/) and follow the steps listed there.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Create Another User Account
 
@@ -153,6 +149,10 @@ To create a new user account on Windows:
  Follow the on-screen prompts to create a new user account. Make sure you give the new account administrative privileges so that you can[move your personal files and data to the new account](https://www.makeuseof.com/windows-10-copy-files-between-user-accounts/) with ease.
 
  Once you sign in with your newly created account, Notepad should open without problems.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Start Using Notepad Again
 
@@ -173,17 +173,24 @@ To create a new user account on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-inside-the-speech-of-cyberspace-must-know-vr-terms/"><u>[New] Inside the Speech of Cyberspace Must-Know VR Terms</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-navigating-multiple-perspectives-with-fb-lives-split-view-functionality/"><u>[New] Navigating Multiple Perspectives with FB Live's Split View Functionality</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/haping-viewers-attention-employing-jump-cuts-in-video-editing/"><u>[New] Shaping Viewers’ Attention Employing Jump Cuts in Video Editing</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-essential-idleness-tranquil-phone-game-recommendations/"><u>[Updated] Essential Idleness Tranquil Phone Game Recommendations</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-essence-of-shareable-humorous-content/"><u>[Updated] In 2024, The Essence of Shareable Humorous Content</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-step-by-step-photo-addition-to-instagram/"><u>2024 Approved Step-by-Step Photo Addition to Instagram</u></a></li>
-<li><a href="https://windows11.techidaily.com/boost-productivity-on-windows-by-adjusting-with-alomware/"><u>Boost Productivity on Windows by Adjusting with AlomWare</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/converti-formato-asf-a-wav-liberamente-on-line-scopri-come-farlo-con-lutilita-di-movavi/"><u>Converti Formato ASF a WAV Liberamente On-Line: Scopri Come Farlo Con L'utilità Di Movavi</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-the-deadly-c0000022-breakdown-in-windows-10/"><u>Fixing the Deadly C0000022 Breakdown in Windows 10</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-successfully-upgrade-to-virtualbox-70-on-windows-11-pcs/"><u>How to Successfully Upgrade to VirtualBox 7.0 on Windows 11 PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimizing-android-usage-a-windows-11-webcam-setup/"><u>Optimizing Android Usage: A Windows 11 Webcam Setup</u></a></li>
-<li><a href="https://windows11.techidaily.com/uncharted-territory-innovations-to-windows-11s-explorer-interface/"><u>Uncharted Territory: Innovations to Windows 11'S Explorer Interface</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-elite-content-consummation/"><u>[New] 2024 Approved Elite Content Consummation</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-mastery-in-motion-advanced-techniques-for-tiktok-edits/"><u>[New] 2024 Approved Mastery in Motion Advanced Techniques for TikTok Edits</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ynamic-subtitle-artisan-for-2024/"><u>[New] Dynamic Subtitle Artisan for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/aster-screen-time-find-your-must-have-7-android-blockers-for-2024/"><u>[New] Master Screen Time Find Your Must-Have 7 Android Blockers for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-mastering-time-management-for-youtubers-with-day-jobs/"><u>2024 Approved Mastering Time Management for YouTubers with Day Jobs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-perfecting-iphone-timelapse-techniques/"><u>2024 Approved Perfecting iPhone Timelapse Techniques</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-stream-your-webcam-in-real-time-using-vlc-software/"><u>2024 Approved Stream Your Webcam in Real Time Using VLC Software</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-honor-magic-5-lite-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Honor Magic 5 Lite to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-fixes-for-unresponsive-windows-defender-security-shield/"><u>Essential Fixes for Unresponsive Windows Defender Security Shield</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-oppo-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Oppo</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-new-era-of-win-pc-memory-capacity/"><u>Navigating the New Era of Win PC Memory Capacity</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pinnacle-ai-image-manipulation-suite/"><u>Pinnacle AI Image Manipulation Suite</u></a></li>
+<li><a href="https://windows11.techidaily.com/power-through-print-settings-in-win11-quick-guide-max-48-chars/"><u>Power Through Print Settings in Win11 - Quick Guide (Max 48 Chars)</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-recovery-actions-save-vanished-windows-content/"><u>Quick Recovery Actions: Save Vanished Windows Content</u></a></li>
+<li><a href="https://windows11.techidaily.com/stepping-up-stalled-safety-settings-on-win-11/"><u>Stepping Up Stalled Safety Settings on Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-system-recovery-focus-on-net-max-156/"><u>Streamlining System Recovery: Focus on .NET (Max 156)</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-non-installed-disk-errors-in-win-11-with-ease-and-simplicity/"><u>Tackling Non-Installed Disk Errors in Win 11 with Ease and Simplicity</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleash-smooth-gaming-on-windows-eradicate-errors/"><u>Unleash Smooth Gaming on Windows, Eradicate Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-divine-control-windows-11s-spiritual-command-center-guide/"><u>Unlocking Divine Control: Windows 11'S Spiritual Command Center Guide</u></a></li>
 </ul></div>
 

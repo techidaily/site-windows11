@@ -1,7 +1,7 @@
 ---
 title: Restoring the Essential Escape Function in Windows 7/8
-date: 2025-01-02T21:37:13.295Z
-updated: 2025-01-04T01:37:30.370Z
+date: 2025-01-05T21:46:19.403Z
+updated: 2025-01-10T20:56:00.954Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/8e45fcad350df735f2b4416d42d7d71c8933e8227
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Apply the Basic Fixes
 
  Over time, dirt and other particles can accumulate under the Esc key on your keyboard and prevent it from working properly. Hence, the first thing you should do is clean the Esc key gently with a brush and use a can of compressed air to blow out any dirt particles that might be trapped beneath it.
@@ -43,14 +47,6 @@ thumbnail: https://thmb.techidaily.com/8e45fcad350df735f2b4416d42d7d71c8933e8227
 
 ![Restart Windows Computer From Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Restart-Windows-Computer-From-Start-Menu.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Run the Windows Troubleshooters
 
  Your Windows computer includes a set of troubleshooters for dealing with system-related issues. In this case, you can run the keyboard troubleshooter to see if it gets the Esc key to work again.
@@ -64,7 +60,7 @@ To run the keyboard troubleshooter on Windows:
 ![Run Keyboard Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-keyboard-troubleshooter-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait for the troubleshooter to scan for any issues with your keyboard and fix them, then check if the Esc key works. If it does not, run the Hardware and Devices troubleshooter instead. For that, use these steps:
@@ -73,10 +69,6 @@ To run the keyboard troubleshooter on Windows:
 2. Type**msdt.exe -id DeviceDiagnostic** in the Open field and press**Enter** .
 3. In the Hardware and Devices window, click**Next** to run the troubleshooter.  
 ![Hardware and Devices Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Hardware-and-Devices-Troubleshooter-on-Windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Turn Off Filter Keys
 
@@ -95,10 +87,6 @@ To run the keyboard troubleshooter on Windows:
 
  Inconsistencies with the system files on your PC can also lead to such anomalies. If the problem is being caused due to a corruption error within system files, running the SFC (System File Checker) and DISM (Deployment Image Servicing and Management) scans should help. For more information on this, check our guide on[how to repair corrupt Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Update or Reinstall Keyboard Drivers
 
  The keyboard driver on your computer facilitates communication between Windows and your keyboard hardware. If this driver is outdated or faulty, you're likely to encounter issues. You can try updating the keyboard drivers on your PC to see if that gets the Esc key working again.
@@ -109,15 +97,27 @@ To run the keyboard troubleshooter on Windows:
 4. Select**Search automatically for driver** and allow Windows to update the driver.  
 ![Update Keyboard Driver in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/update-keyboard-driver-in-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the Esc key does not work even after this, the keyboard driver may be corrupt. In that case, uninstall the problematic driver using Device Manager.
 
  Once removed, restart your PC and allow Windows to automatically reinstall the missing driver during boot.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Install Windows Updates
 
  Aside from updating the keyboard drivers, you should also check your system for pending Windows updates. To do so, press**Win + I** to open the Settings app and navigate to the**Windows Update** tab. Click the**Check for updates** button to download and install pending updates.
 
 ![Check for Windows Update-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-for-windows-update-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Check for Malware
 
@@ -130,10 +130,6 @@ To run the keyboard troubleshooter on Windows:
  At times, background apps and services running on your computer can also conflict with Windows and prevent it from registering your keystrokes. If you suspect that to be the case, you can try using the Esc key in a clean boot state. For more information on this, check our guide on[how to perform a clean boot on Windows](https://www.makeuseof.com/clean-boot-windows-11/) .
 
  If the Esc key works fine during a clean boot, it means one of the apps or programs is responsible for the issue. Apps and programs that you have installed fairly recently are more likely to have caused the issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 11\. Perform a System Restore
 
@@ -150,7 +146,11 @@ To perform a system restore on Windows, use these steps:
 ![System Restore Dialog on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/system-restore-dialog-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Start Using the Esc Key Again on Windows
@@ -172,24 +172,22 @@ To perform a system restore on Windows, use these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-free-tools-to-master-voice-manipulation-and-sound-design/"><u>[New] Free Tools to Master Voice Manipulation and Sound Design</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-amplifying-video-reach-the-ultimate-guide-for-youtube-enthusiasts/"><u>[Updated] In 2024, Amplifying Video Reach The Ultimate Guide for YouTube Enthusiasts</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-honor-90-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Honor 90 Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/ais-influence-on-engaging-game-characters/"><u>AI's Influence on Engaging Game Characters</u></a></li>
-<li><a href="https://windows11.techidaily.com/downloading-woes-how-to-fix-windows-11-transfer-issues-2/"><u>Downloading Woes: How to Fix Windows 11 Transfer Issues (2)</u></a></li>
-<li><a href="https://windows11.techidaily.com/effective-steps-to-correct-windows-11-0x800f0922-error/"><u>Effective Steps to Correct Windows 11 0X800F0922 Error</u></a></li>
-<li><a href="https://windows11.techidaily.com/file-location-artistry-in-windows-11-exploring-best-practices-6-advanced-methods/"><u>File Location Artistry in Windows 11: Exploring Best Practices (6 Advanced Methods)</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-nvidia-control-panel-not-saving-settings-in-windows-11/"><u>How to Fix the NVIDIA Control Panel Not Saving Settings in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-samsung-galaxy-z-flip-5-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xs-max-withwithout-sim-card-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XS Max with/without SIM Card</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/master-the-middle-earth-journey-watch-lord-of-the-rings-in-the-true-timeline/"><u>Master the Middle-Earth Journey: Watch 'Lord of the Rings' In the True Timeline</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-avi-videos-in-vlc-a-guide-to-smooth-playback-and-issue-resolution/"><u>Mastering AVI Videos in VLC: A Guide to Smooth Playback and Issue Resolution</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-speedier-net-transfers-on-battlenet-windows/"><u>Mastering Speedier Net Transfers on Battle.net Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-window-terminals-shutdown-procedures-entryexit-tactics/"><u>Mastering Window Terminal's Shutdown Procedures: Entry/Exit Tactics</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/no-more-lag-master-the-art-of-tackling-fps-issues-in-elden-ring/"><u>No More Lag: Master the Art of Tackling FPS Issues in Elden Ring</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-black-screens-with-simple-win11-tweaks/"><u>Resolving Black Screens with Simple Win11 Tweaks</u></a></li>
-<li><a href="https://windows11.techidaily.com/restoring-access-to-disabled-windows-apps/"><u>Restoring Access to Disabled Windows Apps</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-methods-to-enhance-utorrent-download-speed-win-edition/"><u>Top Methods to Enhance uTorrent Download Speed, WIN Edition</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-enhance-your-video-with-pro-audio-editing-in-fcp/"><u>Updated In 2024, Enhance Your Video with Pro Audio Editing in FCP</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-heartstrings-plucked-essential-vocal-masterpieces-for-a-kiss/"><u>[New] 2024 Approved Heartstrings Plucked Essential Vocal Masterpieces for a Kiss</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-solving-grey-voids-in-gaming-capture-software/"><u>[New] 2024 Approved Solving Grey Voids in Gaming Capture Software</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unveiling-the-best-cinematic-love-top-8-premium-wedding-videos-online/"><u>[New] Unveiling the Best Cinematic Love Top 8 Premium Wedding Videos Online</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-mastering-video-record-with-vlc/"><u>2024 Approved Mastering Video Record with VLC</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/5-ways-to-remove-stickers-from-a-tiktok-video-for-2024/"><u>5 Ways to Remove Stickers From a TikTok Video for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/expert-advice-for-efficiently-creating-srt-files/"><u>Expert Advice for Efficiently Creating SRT Files</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-steps-for-swiftly-dealing-with-unspecified-obs-recording-problem/"><u>Expert Steps for Swiftly Dealing with Unspecified OBS Recording Problem</u></a></li>
+<li><a href="https://windows11.techidaily.com/exposing-the-trojan-terror-defending-your-windows-against-wacatacbml/"><u>Exposing the Trojan Terror: Defending Your Windows Against Wacatac.B!ml</u></a></li>
+<li><a href="https://windows11.techidaily.com/fix-your-pcs-missing-piece-how-to-restore-bluetooth-on-windows-11/"><u>Fix Your PC's Missing Piece: How to Restore Bluetooth on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/from-version-6-to-7-smoothly-upgrading-virtualbox-on-your-win11-device/"><u>From Version 6 to 7: Smoothly Upgrading VirtualBox on Your Win11 Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/get-ahead-top-strategies-to-master-the-windows-11-taskbar/"><u>Get Ahead: Top Strategies to Master the Windows 11 Taskbar</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-snapping-windows-uac-alerts/"><u>How-To: Snapping Windows UAC Alerts</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-a79-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/maximizing-battery-life-with-macos-montereys-low-power-mode-a-comprehensive-guide/"><u>Maximizing Battery Life with macOS Monterey's Low Power Mode: A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-lag-and-hiccups-in-dragons-dogma-2-optimize-your-experience/"><u>Resolving Lag & Hiccups in Dragon's Dogma 2 - Optimize Your Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/rush-your-print-jobs-how-to-spur-a-slow-windows-printer/"><u>Rush Your Print Jobs: How to Spur a Slow Windows Printer</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-unresponsive-programs-in-windows-os/"><u>Troubleshooting Unresponsive Programs in Windows OS</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Converting HEIC Photos to JPEG on Windows 10/11
-date: 2024-08-08T05:56:52.491Z
-updated: 2024-08-09T05:56:52.491Z
+date: 2025-01-05T18:49:50.675Z
+updated: 2025-01-10T22:08:40.198Z
 tags:
   - windows10
   - windows11
@@ -32,11 +32,12 @@ thumbnail: https://thmb.techidaily.com/cd61def31c266f510e96724b2a8477792657278ca
 4. Click**Next** to proceed to the software agreement options for CopyTrans HEIC.
 5. Select the**I accept** radio button for the terms of use agreement and click**Next** .
 6. Click the**I am installing CopyTrans HEIC for home use** checkbox to select that option.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ![The CopyTrans setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/copytrans-setup-window.jpg)
 7. Then select**Next** \>**Install** to add the new HEIC conversion context menu option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now that CopyTrans HEIC is installed, it's time to convert your files:
 
@@ -44,10 +45,11 @@ thumbnail: https://thmb.techidaily.com/cd61def31c266f510e96724b2a8477792657278ca
 2. Bring up a folder that contains some HEIC images you want to convert.
 3. Hold the**Ctrl** key to [select multiple HEIC files](https://www.makeuseof.com/windows-select-multiple-files/) within Explorer.
 4. Right-click on one of the selected image files to select**Convert to JPEG With CopyTrans** . Windows 11 users need to select**Show more options** \>**Convert to JPEG** .  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![The Convert to JPEG with CopyTrans option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/convert-to-jpeg-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then CopyTrans will convert the selected images to JPEG format without any kind of confirmation window popping up. It will save new JPG files for the HEIC images in the same folder. You’ll need to click on a different folder and then return to the directory that includes the HEIC images to see new files.
 
@@ -55,14 +57,16 @@ thumbnail: https://thmb.techidaily.com/cd61def31c266f510e96724b2a8477792657278ca
 
  With CopyTrans installed, you can enable HEIC image previews in Windows 11 File Explorer by clicking the**View** command bar button. Select**Show** \>**Preview pane** on the menu. In Windows 10, you can select**Preview Pane** on the**View** tab. Then selecting a HEIC image will show a sidebar preview of it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![A HEIC image preview in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-heic-image-preview.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Batch Convert HEIC Images to JPEG With FoneTool
 
  FoneTool is a more general software utility for transferring iPhone files to and from Windows PCs. That software incorporates phone file transfer, backup, and HEIC conversion tools. Its HEIC converter enables you to batch-convert multiple HEIC images to JPEG and PNG formats. This is how you can batch convert your HEIC images to JPEG with the freeware FoneTool version:
@@ -79,15 +83,9 @@ Now it's time to convert images with FoneTool:
 
 1. Select the**ToolBox** tab in FoneTool’s window.
 2. Click the**HEIC Converter** button.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![The Toolbox tab in FoneTool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/toolbox-tab.jpg)
 3. Press the**Add Photos** button, select some images, and click**Open** .
 4. Then select**JPEG** on the P**hoto Format** drop-down menu.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![The HEIC Converter window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/heic-converter-tool.jpg)
 5. Click the**Select** button to choose a directory to save the converted JPEG files within. Click the**Select Folder** button to confirm.
 6. Select optional**Photo Quality** and**Conversion Speed** settings.
@@ -103,15 +101,20 @@ Now it's time to convert images with FoneTool:
 
 ![The Photo Deduplication tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/photo-duplication-tool.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Bach Convert HEIC Images With HEIC to JPEG Free Online Converter
 
  There are various [online HEIC to JPEG conversion tools](https://www.makeuseof.com/convert-heic-files-tools/) you can utilize in Windows browsers. HEIC to JPEG Free Online Converter is a web app with which you can convert up to 100 images simultaneously to JPEG, PNG, or BMP formats. These are the steps for converting HEIC images to JPEG alternatives with that web app:
 
 1. Open the [HEIC to JPEG Free Online Converter](https://heic.online/) web app.
 2. Press the**Add HEIC files** button.  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Add HEIC files button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-heic-files-button.jpg)
 3. Choose a HEIC image to convert and click the**Open** option. As you can only select one image at a time, you’ll need to repeat steps two and three to add more files.
 4. Click (Select output format) to expand options.
@@ -125,9 +128,6 @@ Now it's time to convert images with FoneTool:
 
  You can also utilize this tool for batch-resizing images. To do so, click the**Set image size, remove all EXIF information** option. Then input values in the new width and new height text boxes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![Image resize options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-image-size-option.jpg)
 
 ## Make iPhone Photos More Accessible on Windows
@@ -140,8 +140,6 @@ Now it's time to convert images with FoneTool:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,6 +147,20 @@ Now it's time to convert images with FoneTool:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-infusing-humor-into-your-social-media-posts-for-2024/"><u>[New] Infusing Humor Into Your Social Media Posts for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-stream-switch-and-succeed-the-complete-guide-to-using-float-on-netflix-for-2024/"><u>[Updated] Stream, Switch and Succeed The Complete Guide to Using Float on Netflix for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-realme-gt-neo-5-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Realme GT Neo 5 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/github-copilot-vs-chatgpt-top-coding-aides-compared/"><u>GitHub Copilot Vs. ChatGPT: Top Coding Aides Compared</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/harmonic-windows-tunes-hub-for-2024/"><u>Harmonic Windows Tunes Hub for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-htc-u23-pro-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from HTC U23 Pro</u></a></li>
+<li><a href="https://windows11.techidaily.com/learn-how-to-suspend-gpu-task-ordering-in-windows-os/"><u>Learn How To Suspend GPU Task Ordering in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-11-setup-offline/"><u>Mastering Windows 11 Setup Offline</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/playlist-extraction-step-by-step-from-youtubes-archive-for-2024/"><u>Playlist Extraction - Step by Step From YouTube's Archive for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-greyed-out-remove-feature-in-windows-11-settings/"><u>Restoring Greyed Out Remove Feature in Windows 11 Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/stop-muted-microphone-issue-fixes-to-ensure-live-recording-obs-w11/"><u>Stop Muted Microphone Issue: Fixes to Ensure Live Recording, OBS W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/what-is-hardware-reserved-memory-on-windows/"><u>What Is Hardware Reserved Memory on Windows?</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-unlocked-enter-the-ease-of-access-center-fast/"><u>Windows Unlocked: Enter the Ease of Access Center Fast</u></a></li>
+</ul></div>
 

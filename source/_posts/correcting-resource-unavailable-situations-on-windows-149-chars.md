@@ -1,7 +1,7 @@
 ---
 title: Correcting 'Resource Unavailable' Situations on Windows (149 Chars)
-date: 2024-08-08T05:55:55.792Z
-updated: 2024-08-09T05:55:55.792Z
+date: 2025-01-06T19:20:13.473Z
+updated: 2025-01-10T20:40:25.617Z
 tags:
   - windows10
   - windows11
@@ -22,10 +22,11 @@ thumbnail: https://thmb.techidaily.com/852a46d71ad08464710a61d161bf50e16562d6afe
 
 ## 1\. Check if the File Is Already in Use
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The End task option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-end-task-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The “requested resource is in use” error message hints that the file (resource) you’re trying to copy is already in use. Thus, the copy operation cannot be completed because something else is using the file or folder. So, you might need to close some background processes to address this issue.
 
@@ -33,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/852a46d71ad08464710a61d161bf50e16562d6afe
 
  If that doesn’t work, go into Task Manager and close superfluous third-party app background processes. Our guide to [fixing too many background processes on Windows](https://www.makeuseof.com/windows-pc-too-many-background-processes/) provides further instructions for how you can do that.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## 2\. Disable File Explorer’s Preview Pane
 
  Many users have fixed the “requested resource is in use” error by disabling File Explorer’s preview pane. That preview pane can hinder the file copy operation. You can disable File Explorer’s preview pane in Windows 11 as follows:
@@ -47,14 +45,19 @@ thumbnail: https://thmb.techidaily.com/852a46d71ad08464710a61d161bf50e16562d6afe
 ![The Preview pane option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/preview-pane-option.jpg)
 5. Then try moving or copying your files again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The layout in Windows 10 File Explorer is a little different. To disable preview panes in that file manager, you’ll need to click the **View** tab. Then click **Preview pane** to deselect that option.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The View tab in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-view-tab.jpg)
 
  Note that just disabling the preview pane might not always be enough. If that doesn’t work, try turning off the icon file view. To do so in Windows 11 File Explorer, click **View** and select the **List** or **Details view** option. You can select the same options on the **View** tab in Windows 10 File Explorer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Run a Malware Scan
 
@@ -62,13 +65,13 @@ thumbnail: https://thmb.techidaily.com/852a46d71ad08464710a61d161bf50e16562d6afe
 
 1. Double-click Windows Security’s icon in the system tray (the shield).
 2. Click **Virus & threat protection** \> **Scan options** to access the Microsoft Defender antivirus tool.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![The Scan options navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-scan-options.jpg)
 3. Select the **Full scan** setting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click **Scan now** to initiate the malware scanning.  
 ![The Scan now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-full-scan-radio-button.jpg)
 5. Wait for the scanning to finish and select **Start actions** to remove detected malware.
@@ -77,14 +80,12 @@ The powerful video editing program for your Windows PC</a>
 
  To circumvent such a block, try running a Windows Security or third-party app antivirus scan in safe mode instead. Our guide to [booting into safe mode on Windows](https://www.makeuseof.com/windows-11-boot-safe-mode/) includes a few different methods for entering that troubleshooting mode. Select to enable safe mode with networking.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![windows 11 startup settings safe mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-startup-settings-safe-mode.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Disable Any Unknown Programs in Task Manager
 
  You might be able to disable a SmartService trojan from starting with Windows via Task Manager’s Startup tab. Look for and disable any suspicious programs listed on the **Startup** tab as follows:
@@ -96,9 +97,6 @@ The powerful video editing program for your Windows PC</a>
 ![The Disable button on Task Manager's Startup tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-button.jpg)
 5. Then restart your PC to see if the issue persists.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Uninstall Any Suspicious-Looking Programs
 
  The SmartService trojan might also be listed within the Programs and Features Control Panel applet for uninstalling software. If you notice suspicious-looking software in Programs and Features, you can also select to uninstall it from there.
@@ -114,8 +112,9 @@ The powerful video editing program for your Windows PC</a>
  Also, clear temporary data after uninstalling SmartService to ensure the malware can’t re-emerge. To do so, you’ll need to clear out the Temp folder. This article about [deleting temporary files](https://www.makeuseof.com/windows-11-delete-temporary-files/) includes alternative methods for clearing data in the Temp folder.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Perform a Factory Reset
 
  If the “requested resource is in use” error remains unresolved after trying all the potential resolutions above, performing a factory reset is the last resort. A factory reset will remove all programs not pre-installed with Windows and restore your PC to its default configuration. Applying this potential fix will likely eradicate malware causing the “requested resource is in use” error.
@@ -130,12 +129,31 @@ The powerful video editing program for your Windows PC</a>
 
  Here is how you can fix the “requested resource is in use” error on a Windows 10 or 11 PC.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-explore-the-best-apps-for-effortless-youtube-to-webm-conversion/"><u>[New] 2024 Approved Explore the Best Apps for Effortless YouTube to WebM Conversion</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-a-comprehensive-guide-to-embellishing-images-and-vids-in-windows-10s-photo-app/"><u>[Updated] A Comprehensive Guide to Embellishing Images and Vids in Windows 10'S Photo App</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/enhancing-slideshow-impact-with-webcam-integration/"><u>Enhancing Slideshow Impact with Webcam Integration</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-nokia-g310-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Nokia G310</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-vivo-y100-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Vivo Y100 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-vivo-v27-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Vivo V27 Phone Hassle-Free</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-fixes-for-hardware-detection-faults/"><u>Mastering Fixes for Hardware Detection Faults</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-for-resolving-process-termination-failure-on-pcs/"><u>Methods for Resolving 'Process Termination Failure' On PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-issues-for-microsoft-store-access-on-windows-11/"><u>Resolving Issues for Microsoft Store Access on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-unresizable-gif-error-tips-for-discord-on-windows-11/"><u>Resolving Unresizable GIF Error: Tips for Discord on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-7-photo-arrangers-for-a-clutter-free-pc-desktop/"><u>Top 7 Photo Arrangers for a Clutter-Free PC Desktop</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-winservicesexe-on-your-pc/"><u>Troubleshooting Winservices.exe on Your PC</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/understanding-the-usage-agreement-for-abbyy-flexicaptures-american-cloud-api-solutions/"><u>Understanding the Usage Agreement for ABBYY FlexiCapture's American Cloud API Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-microsoft-family-safety-potential/"><u>Unlocking Microsoft Family Safety Potential</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstuck-your-ios-devices-keyboard-quick-solutions-to-get-it-working-again/"><u>Unstuck Your iOS Device's Keyboard: Quick Solutions to Get It Working Again</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-system-check-ensuring-your-computer-meets-premiere-pros-requirements/"><u>Updated In 2024, System Check Ensuring Your Computer Meets Premiere Pros Requirements</u></a></li>
+<li><a href="https://windows11.techidaily.com/win10win11-diagnostics-tackling-0x0000004e-faults/"><u>Win10/Win11 Diagnostics: Tackling 0X0000004E Faults</u></a></li>
+</ul></div>
 

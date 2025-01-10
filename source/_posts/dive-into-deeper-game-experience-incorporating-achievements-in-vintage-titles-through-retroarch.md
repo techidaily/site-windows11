@@ -1,7 +1,7 @@
 ---
 title: "Dive Into Deeper Game Experience: Incorporating Achievements in Vintage Titles Through Retroarch"
-date: 2024-08-08T05:56:03.805Z
-updated: 2024-08-09T05:56:03.805Z
+date: 2025-01-06T18:06:29.547Z
+updated: 2025-01-10T20:08:52.947Z
 tags:
   - windows10
   - windows11
@@ -35,8 +35,9 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
  Rest assured, retro gaming achievements are almost never annoying. Being created by gamers for gamers, they should be fair even when they're hard to unlock, and work as one of the best excuses for revisiting old favorites.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Do Achievements Work in Retro Games?
 
  Adding achievements retroactively begins with a site, aptly named [RetroAchievements](https://retroachievements.org/). This is a database of digital trophies for hundreds of games on various platforms.
@@ -49,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 
  Neither MUO nor this writer are affiliated with RetroAchievements. Still, for retro-achievements to work, an emulator has to connect to RetroAchievements' database through a personal user account.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Enable RetroArch’s Support for Achievements
 
  Although many modern emulators support retro game achievements, for this article, we will be using the popular multi-emulator front-end RetroArch.
@@ -60,28 +57,24 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
  To add support for RetroAchievements to RetroAch:
 
 1. Visit the RetroAchievements site. Use the options on the top right to **register** and create a new account. Follow the provided instructions until you are logged in.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![RetroAchievements Site Account Fields Highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/retroachievements-site-account-fields-highlighted.jpg)
 2. Run RetroArch, and select **Settings** from its main menu (it's the second entry if using RetroArch's full-screen mode). Scroll down to find the **Achievements Settings** page.  
 ![RetroArch Settings Achievements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/retroarch-settings-achievements.jpg)
 3. Inside the **Achievements Settings** page, flick the switch next to **Achievements** to **On** to activate the emulator's support for them.  
 ![RetroArch Settings Achievements Switched On](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/retroarch-settings-achievements-switched-on.jpg)
 4. Enter your username and password at the RetroAchievements site in RetroArch's **Achievements** **Username** and **Password** fields.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![RetroArch Settings Achievements Username](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/retroarch-settings-achievements-username.jpg)
 5. If you wish, check the options and customize them to your liking. For example, you can enable a **Hardcore mode**, which unlocks more achievements, but disables many helpful functions in the emulator, like support for save states and rewind. Or you could enable the **Automatic Screenshot** feature to have a screen grab of your in-game action automatically taken when you unlock an achievement.  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![RetroArch Settings Achievements Automatic Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/retroarch-settings-achievements-automatic-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Unlock Achievements in RetroArch
 
@@ -90,9 +83,11 @@ No advertising on the website.
 1. When you launch a supported game with a supported core emulator, you will be notified that you are logged in to RetroAchievements.  
 ![RetroArch Logged In](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/retroarch-logged-in.jpg)
 2. You will also see an indication of your current achievement-hunting progress on the top left of the emulator. As you play the game and hit some milestones, any related achievements will be automatically unlocked, both "locally in your emulator" and synced to your account at RetroAchievements.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![RetroArch In Game Status](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/retroarch-in-game-status.jpg)
 
 ## How to Check if a Game Has Retroactive Achievements
@@ -102,25 +97,29 @@ No advertising on the website.
 1. Visit the RetroAchievements site and check its games list or use its search functionality to seek the title you are interested in.  
 ![RetroAchievements Site Games List](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/retroachievements-site-games-list.jpg)
 2. Various versions of the same games are available, and not all of them support RetroAchievements. To ensure your copy of a game does, visit its page at RetroAchievements and click **Supported Game Files** on the right side.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![RetroAchievements Site Metal Gear Solid Version Check](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/retroachievements-site-metal-gear-solid-version-check.jpg)
 3. There, you will find a list of the **supported game files** and their **hashes**, which you can use to check your version of the game. We won't dive into details for this part of the process. If you're not familiar with the term, check our article where we explain [what is hashing](https://www.makeuseof.com/what-is-hashing/). Then, take a look at our article on some great [free hash checkers and how to use them on Windows](https://www.makeuseof.com/tag/free-hash-checkers-file-integrity/).  
 ![RetroAchievements Site Metal Gear Solid Version Check File Hashes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/retroachievements-site-metal-gear-solid-version-check-file-hashes.jpg)
 4. You can see all the achievements you've unlocked at the RetroAchievements site by visiting the **Achievements** page under **My Pages**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![RetroAchievements Site My Pages Menu Achievements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/retroachievements-site-my-pages-menu-achievements.jpg)
 5. You can also see all the available achievements for a game you are playing by visiting RetroArch's menu (by default by pressing F1) and then selecting the **Achievements** menu entry.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![RetroArch Game Achievements List](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/retroarch-game-achievements-list-1.jpg)
 6. On the list within the **Achievements** entry, you can see the locked achievements at the top, followed by the ones you've unlocked.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![RetroArch Game Achievements Unlocked](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/retroarch-game-achievements-unlocked.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Achieving the Previously Unachievable With RetroArch
 
@@ -130,12 +129,29 @@ The ultimate burning program for all your needs!</a>
 
  Let's see how you can add modern achievements to ancient emulated titles using Retroarch.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/tep-by-step-approach-fine-tuning-your-youtube-videos-dimensions-and-sizes/"><u>[New] Step-by-Step Approach Fine-Tuning Your YouTube Videos' Dimensions & Sizes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-quieting-audio-fades-in-ableton-live/"><u>[Updated] Quieting Audio Fades in Ableton Live</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-vidoetwitter-fetcher-gather-twitter-videos-effortlessly/"><u>2024 Approved VidoeTwitter Fetcher Gather Twitter Videos Effortlessly</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-onedrive-cloud-connection-issues-in-win-1011/"><u>Fixing OneDrive Cloud Connection Issues in Win 10/11</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Google Pixel 7a? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-set-or-reset-the-default-terminal-app-on-windows/"><u>How to Set or Reset the Default Terminal App on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/making-oculus-q2-a-compatible-windows-vr-headset/"><u>Making Oculus Q2 a Compatible Windows VR Headset</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-wintoys-essentials-of-a-versatile-windows-utility/"><u>Navigating 'WinToys': Essentials of a Versatile Windows Utility</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-connectivity-challenges-steam-w11-edition/"><u>Overcoming Connectivity Challenges: Steam W11 Edition</u></a></li>
+<li><a href="https://win-superb.techidaily.com/simple-steps-to-retrieve-files-from-an-unresponsive-external-hdd/"><u>Simple Steps to Retrieve Files From an Unresponsive External HDD</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/step-by-step-guide-to-restoring-lost-photographs-in-wechat-for-ios-and-android-users/"><u>Step-by-Step Guide to Restoring Lost Photographs in WeChat for iOS & Android Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/switching-off-search-highlight-features-in-windows-11/"><u>Switching Off Search Highlight Features in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-bsod-guide-to-handle-exceptions/"><u>Win11 BSOD Guide to Handle Exceptions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722958364011-windows-compatible-geforce-rtx-3080-ti-graphics-driver-update-fresh-release/"><u>Windows Compatible GeForce RTX 3080 Ti Graphics Driver Update – Fresh Release!</u></a></li>
+</ul></div>
 

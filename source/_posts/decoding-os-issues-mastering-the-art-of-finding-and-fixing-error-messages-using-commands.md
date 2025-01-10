@@ -1,7 +1,7 @@
 ---
 title: "Decoding OS Issues: Mastering the Art of Finding & Fixing Error Messages Using Commands"
-date: 2024-08-08T05:57:17.995Z
-updated: 2024-08-09T05:57:17.995Z
+date: 2025-01-06T16:42:51.912Z
+updated: 2025-01-10T17:59:54.022Z
 tags:
   - windows10
   - windows11
@@ -21,17 +21,15 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
  In this guide, we will show you how you can use the Command Prompt utility to identify potential culprits behind annoying Windows errors. We will also discuss how you fix the issue using CMD as well.
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Diagnose Windows Errors in the Command Prompt
 
  To solve a problem in Windows, such as an update error or a Blue Screen of Death, it's important to identify the potential causes of the issue. Windows comes with several utilities that can help you with this, one of which is Command Prompt.
 
  Below, we have discussed different ways of using Command Prompt to look up Windows error codes.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ### 1\. Use the NET HELPMSG Command
 
  The NET HELPMSG command helps convert error codes into strings, which you can use to find relevant solutions for the problem. However, this command can only help you with system error codes, which are specific numerical values. This means you cannot use it for BSOD errors like the INACCESSIBLE\_BOOT\_DEVICE error.
@@ -51,9 +49,6 @@ Here is how you can use this command:
 
  Once you have the details on the error code, you can either look for solutions online or jump to the solutions listed later in this guide.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. Use the CertUtil Command
 
  Another easy way to look up error descriptions using the Command Prompt is by using the CertUtil command. This command is typically used for managing certificates and certificate services, but can also be a helpful tool in finding short explanations for the error codes.
@@ -70,8 +65,9 @@ Here is how you can use it:
  You should now be presented with a description of the error message. You can use this detail to identify the culprit and eliminate it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Access the Event Viewer
 
  When you encounter an error on Windows, a log file for the error is created in the Event Viewer. This log file contains the details of the event, including the time and date it occurred, the error code associated with it, and the source of the event.
@@ -84,19 +80,17 @@ Here is how you can use it:
 
  Here are some common ways you can use the Command Prompt to diagnose and resolve various issues with your Windows operating system.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ### 1\. Fix Any Corruption Errors
 
  There are a number of problems that may result from corruption errors and bugs within the operating system, such as frequent crashes and freezes, boot problems, data loss, and slow performance.
 
  The easiest way to fix such issues is by [running the built-in SFC and DISM tools](https://www.makeuseof.com/windows-built-in-repair-tools/) via Command Prompt.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Run SFC and DISM scans](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/scannow-restorehealth-cmd-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  SFC or the System File Checker works by scanning the protected system files to check their integrity. It will compare the files to a stable version stored in the Windows component store or the installation media. If a problem with the file is identified, the utility will automatically replace the file with its healthier counterpart and generate a report based on it.
 
@@ -125,8 +119,9 @@ Here is how you can use it:
 ![Uninstall the update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-update-cmd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Fix Boot Issues
 
  If you are having trouble booting into Windows, or the boot time is just painfully slow, the issue is likely to be related to the boot sector or boot configuration data (BCD).
@@ -145,20 +140,21 @@ Here is how you can do that:
 6. Once all the commands are executed, you can exit Command Prompt by typing exit and hitting Enter.
 7. Restart your computer, and you should be able to boot into Windows successfully!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Command Prompt to the Rescue
 
  Having knowledge of certain Windows tools can come in handy when dealing with various computer-related issues. One such utility that can help you find solutions is Command Prompt and knowing how to use it can save you both time and frustration.
 
  We highly recommend backing up your essential data before making any changes to your operating system, just to be safe. With a little patience and some troubleshooting skills, you can get rid of annoying Windows errors for good.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -167,6 +163,24 @@ Here is how you can do that:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-cone-chronicles-a-deep-dive-into-ice-cream-recording-software/"><u>[Updated] Cone Chronicles A Deep Dive Into Ice Cream Recording Software</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-easy-customization-free-youtube-visual-templates-for-2024/"><u>[Updated] Easy Customization Free YouTube Visual Templates for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-dualviewpoint-analysis/"><u>[Updated] In 2024, DualViewpoint Analysis</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-official-drivers-for-brother-hl-l2360dw-all-in-one-printer/"><u>Download Official Drivers for Brother HL-L2360DW All-in-One Printer</u></a></li>
+<li><a href="https://windows11.techidaily.com/from-phone-to-desktop-embracing-android-gaming-with-google-play/"><u>From Phone to Desktop: Embracing Android Gaming with Google Play</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Realme 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/innovative-audio-tools-now-on-facebooks-horizon/"><u>Innovative Audio Tools Now on Facebook's Horizon</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-dive-into-toms-hardware-discoveries/"><u>Mastering Gadgets: Dive Into Tom's Hardware Discoveries</u></a></li>
+<li><a href="https://windows11.techidaily.com/setup-smart-energy-saving-with-automatic-wakesleep-mode/"><u>Setup Smart Energy Saving with Automatic Wake/Sleep Mode</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-secret-tips-for-accessing-win11s-credential-vault-in-under-a-minute/"><u>Top Secret Tips for Accessing Win11's Credential Vault in Under a Minute</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleash-the-power-of-your-digital-brush-on-windows-11-with-paint-cocreator-for-ai-artistry/"><u>Unleash the Power of Your Digital Brush on Windows 11 with Paint Cocreator for AI Artistry</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlit-screen-following-graphics-install/"><u>Unlit Screen Following Graphics Install</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-windows-1111-discord-install-obstructions/"><u>Unlocking Windows 11/11 Discord Install Obstructions</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/untether-your-ipad-from-apple-id-a-no-password-solution/"><u>Untether Your iPad From Apple ID: A No-Password Solution</u></a></li>
+<li><a href="https://windows11.techidaily.com/what-lies-behind-the-numbers-in-windows-updates/"><u>What Lies Behind the Numbers in Windows Updates?</u></a></li>
+<li><a href="https://windows11.techidaily.com/windowing-ways-to-keep-notes-above-the-rest/"><u>Windowing Ways to Keep Notes Above the Rest</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-mastery-integrating-custom-directories-into-menus/"><u>Windows 11 Mastery: Integrating Custom Directories Into Menus</u></a></li>
+</ul></div>
 

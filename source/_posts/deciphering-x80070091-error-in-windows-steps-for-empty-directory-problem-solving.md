@@ -1,7 +1,7 @@
 ---
 title: Deciphering X80070091 Error in Windows - Steps for 'Empty Directory' Problem Solving
-date: 2024-08-08T05:56:02.857Z
-updated: 2024-08-09T05:56:02.857Z
+date: 2025-01-09T22:26:14.253Z
+updated: 2025-01-10T20:41:01.681Z
 tags:
   - windows10
   - windows11
@@ -32,19 +32,15 @@ thumbnail: https://thmb.techidaily.com/6391f80929a44e71d1cec19d1806bcb918554d022
 
 `rmdir /s "C:\Users\New folder"`
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The delete folder command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/delete-folder-command.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Restart Windows File Explorer
 
@@ -55,13 +51,18 @@ thumbnail: https://thmb.techidaily.com/6391f80929a44e71d1cec19d1806bcb918554d022
 ![The Restart option for File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/restart-options-for-file-explorer.jpg)
 3. Press the**Restart** button for the selected Explorer process.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Scan System Files With an SFC Scan
 
  Error 0x80070091 can be caused by some corrupted system files that need repairing. Running an SFC scan might both detect and repair corrupted system files and fix error 0x80070091 in the process. You can scan with SFC as instructed in our post for [running the System File Checker tool](https://www.makeuseof.com/system-file-checker-sfc-windows/) .
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The SFC command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/sfc-scannow-command.jpg)
 
 ## 4\. Check for Errors With a Disk Scan
@@ -75,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/6391f80929a44e71d1cec19d1806bcb918554d022
 ![The chkdsk scan command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chkdsk-scan-command.jpg)
 4. Click**Start** and select**Power** \>**Restart** to reboot.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the folder the 0x80070091 error occurs for isn’t on the C: drive, you’ll need to modify the above command. Replace**C:** with the letter of the storage drive that includes the affected folder.
 
 ## 5\. Modify the Affected Folder’s Permissions
@@ -82,20 +87,11 @@ thumbnail: https://thmb.techidaily.com/6391f80929a44e71d1cec19d1806bcb918554d022
  Error 0x80070091 can arise because of insufficient folder permission. You might need to set an affected folder to full permission to resolve error 0x80070091\. To do that, change the folder’s permission settings as follows:
 
 1. Open Explorer and right-click the affected folder to select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Properties option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/properties-option.jpg)
 2. Click the window’s**Security** tab.
 3. Next, press the**Advanced** button.  
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Security tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/security-tab.jpg)
 4. Click**Change** beside the owner’s name.  
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Advanced Security Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/advanced-security-settings-window.jpg)
 5. Enter your Windows user account name inside the object name text box.  
 ![The Select a User or Group window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/select-a-user-or-group.jpg)
@@ -103,10 +99,6 @@ thumbnail: https://thmb.techidaily.com/6391f80929a44e71d1cec19d1806bcb918554d022
 7. Click**Replace owner on subcontainers and objects** to select that setting.
 8. Press the Advanced Security Settings window’s**Apply** and**OK** buttons.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ## 6\. Run an Antivirus Scan
 
  Malware could also feasibly be causing error 0x80070091 on your PC. If you’re still trying to fix that issue after going through all the potential fixes above, run an antivirus scan with Windows Security or alternative third-party software. This is how to run a scan with the Windows Security app.
@@ -115,17 +107,15 @@ DbSchema database designer for all databases, schema design in the team, schema 
 2. Click**Virus & threat protection** \>**Scan options** to view all options for scanning.  
 ![The Scan options navigation link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-scan-options-link.jpg)
 3. Select the most thorough**Full Scan** option, which could take more than an hour to finish.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Full scan option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/full-scan-option.jpg)
 4. Press**Scan now** to start the antivirus scanning.
 5. Then wait to see if the scan detects anything, and select**Remove** if it does.
 6. Click**Start actions** to apply.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Delete Your Folders in File Explorer Again With These Fixes
 
  You’ll probably be able to delete the folders for which error 0x80070091 occurred after applying those potential solutions. If that error persists, the Windows registry on your PC could be corrupted. To resolve such registry issues, you might need to perform a system restore or even reset Windows 11/10.
@@ -136,8 +126,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,6 +133,26 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-maximize-video-conferencing-value-discover-our-top-10-recorder-picks/"><u>[Updated] 2024 Approved Maximize Video Conferencing Value - Discover Our Top 10 Recorder Picks</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-tailoring-video-resolution-and-size-a-must-know-guide-to-youtube-uploads/"><u>[Updated] 2024 Approved Tailoring Video Resolution and Size A Must Know Guide to YouTube Uploads</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-simplifying-itunes-add-and-listen-to-your-choice-of-podcasts/"><u>[Updated] Simplifying iTunes Add and Listen to Your Choice of Podcasts</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-infinix-note-30-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Infinix Note 30 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-non-filtered-youtube-video-trail-for-2024/"><u>Cease Non-Filtered YouTube Video Trail for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-microsoft-copilot-ai-driven-coding-assistant-explained/"><u>Exploring Microsoft Copilot: AI-Driven Coding Assistant Explained</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixed-low-frame-rate-issue-with-asus-usb-cam-in-win11/"><u>Fixed Low Frame Rate Issue with Asus USB Cam in Win11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-insert-sign-in-xlb-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to insert sign in .xlb files</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-xiaomi-14-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Xiaomi 14</u></a></li>
+<li><a href="https://win11.techidaily.com/instant-fix-resetting-key-software-directories-on-ws11-system/"><u>Instant Fix: Resetting Key Software Directories on WS11 System</u></a></li>
+<li><a href="https://windows11.techidaily.com/instructional-insights-into-activating-windows-11s-wireless-feature/"><u>Instructional Insights Into Activating Windows 11'S Wireless Feature</u></a></li>
+<li><a href="https://windows11.techidaily.com/make-your-file-explorer-reliable-fixes-that-work-in-windows-11/"><u>Make Your File Explorer Reliable: Fixes That Work in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-startup-fixes-for-frozen-windows-obs-studio/"><u>Mastering Startup Fixes for Frozen Windows OBS Studio</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-for-fixing-virtualboxs-windows-efail-error-0x80004005/"><u>Methods for Fixing Virtualbox's Windows E_FAIL Error (0X80004005)</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-smartly-minimizing-applications-using-ctrlplustab/"><u>Navigate Smartly: Minimizing Applications Using Ctrl+Tab</u></a></li>
+<li><a href="https://windows11.techidaily.com/restore-smooth-operation-to-windows-timer-tasks/"><u>Restore Smooth Operation to Windows Timer Tasks</u></a></li>
+<li><a href="https://windows11.techidaily.com/setting-window-cookie-expiry-post-login-errors/"><u>Setting Window' Cookie Expiry Post-Login Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-windows-10s-caption-error-correction/"><u>Streamlining Windows 10'S Caption Error Correction</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722985347971-trouble-with-nier-gestaltreplicant-remaster-heres-what-to-do/"><u>Trouble with NieR Gestalt/Replicant Remaster? Here's What To Do!</u></a></li>
+</ul></div>
 

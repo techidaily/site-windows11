@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Unsuccessful Files Download on Windows 11
-date: 2024-12-27T20:49:43.090Z
-updated: 2025-01-04T02:20:57.532Z
+date: 2025-01-05T21:48:08.969Z
+updated: 2025-01-10T17:15:51.790Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Free Up Drive Storage Space
 
  First, we recommend you check how much free space is available on your PC’s hard drive. You might not be able to download any files because your PC’s hard drive has hardly any free space left on it. Check out [how to check your local drive storage](https://www.makeuseof.com/windows-11-check-locak-drive-storage-space/) for several methods on how to view how much space is left on a drive.
@@ -37,17 +33,9 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 
 ![The Disk Clean-up window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disk-clean-up-tool.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Run the SFC and DISM Command-Line Tools
 
 ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/sfc-scannow.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Another possibility is that something has gone wrong with Windows' system files. So, try [repairing corrupted Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/), specifically the System File Checker and the Deployment Image Servicing and Management command-line tools.
 
@@ -62,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 ![The Downloads location setting in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/download-location-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Change the Current Location in the Website Data Settings
@@ -75,6 +63,10 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 4. Next, click **Settings** on the **General** tab.  
 ![The General tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/general-tab.jpg)
 5. If the current location is not set to your local C: drive, click on the **Move folder** button.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![The Website Data Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/current-location.jpg)
 6. Select a folder on your PC’s C: drive and click **OK**.
@@ -92,13 +84,17 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 ![The Scan options navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/scan-options.jpg)
 3. Select **Full scan** for the most thorough antivirus scanning.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click **Scan now** to start the scanning.  
 ![full-scan-options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/full-scan-options.jpg)
 5. Select **Start actions** to eradicate detected malware.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Disable Any Active Third-Party Antivirus Utilities
 
@@ -106,11 +102,11 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 
 ![Disable Avast antivirus temporarily](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/disable-avast.jpg)
 
- If this works, you can’t risk leaving antivirus protection off for too long. Consider uninstalling your antivirus utility and re-enabling real-time protection in the pre-installed Windows Security app. Or look for some settings in your security software to reduce the level of its antivirus protection.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If this works, you can’t risk leaving antivirus protection off for too long. Consider uninstalling your antivirus utility and re-enabling real-time protection in the pre-installed Windows Security app. Or look for some settings in your security software to reduce the level of its antivirus protection.
 
 ## 7\. Temporarily Turn Off the Windows Firewall Utility
 
@@ -135,6 +131,10 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 
 4. Click **Reset** inside the confirmation prompt.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Factory Reset Window
 
  If you still can’t download files after applying all the other resolutions above, there could be a deeper Windows issue that needs addressing. Resetting Windows involves a full reinstallation and will usually fix most system issues. It’s not an ideal resolution because you will need to reinstall all of your third-party software after applying it.
@@ -144,7 +144,7 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 ![The Reset this PC window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/reset-this-pc.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Download Files Again on Your Windows PC
@@ -165,24 +165,16 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-customize-video-speed-to-match-your-desired-watch-time/"><u>[New] 2024 Approved Customize Video Speed to Match Your Desired Watch Time</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-closing-powerhouses-free-top-6-video-closers-for-2024/"><u>[New] Closing Powerhouses Free Top 6 Video Closers for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-digital-delights-8-most-watched-movies/"><u>[New] Digital Delights 8 Most Watched Movies</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-tailored-screen-recording-guide-for-your-lenovo-device/"><u>[Updated] Tailored Screen Recording Guide for Your Lenovo Device</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/40l-desktop-for-just-550-less-top-deal-of-the-day/"><u>40L Desktop for Just $550 Less – Top Deal of the Day!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/complete-guide-to-streaming-your-ipad-pro-air-and-mini-on-apple-tv-gen-4plus-full-screen-setup/"><u>Complete Guide to Streaming Your iPad (Pro, Air & Mini) on Apple TV (Gen 4+): Full-Screen Setup</u></a></li>
-<li><a href="https://windows11.techidaily.com/confronting-and-overcoming-mmc-snaps-not-found-errors/"><u>Confronting and Overcoming MMC Snaps Not Found Errors</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-windows-error-0x80071a90-explained-simply/"><u>Fixing Windows Error 0X80071A90 Explained Simply</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95783034-9781594775154-global-awakening/"><u>Global Awakening | Free Book</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-transfer-apps-to-a-new-windows-11-pc/"><u>How to Transfer Apps to a New Windows 11 PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/invisible-to-others-windows-network-concealment/"><u>Invisible to Others: Windows Network Concealment</u></a></li>
-<li><a href="https://windows11.techidaily.com/jumpstart-your-system-reviving-windows-11s-error-detection/"><u>Jumpstart Your System: Reviving Windows 11'S Error Detection</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-art-of-recovering-battlenet-login-on-pcs/"><u>Mastering the Art of Recovering Battle.net Login on PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/resetting-the-explorer-view-for-better-management/"><u>Resetting the Explorer View for Better Management</u></a></li>
-<li><a href="https://windows11.techidaily.com/revealing-the-make-of-your-windows-machine-in-six-steps/"><u>Revealing the Make of Your Windows Machine in Six Steps</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/sharing-the-joy-of-reading-a-guide-to-passing-on-kindle-titles/"><u>Sharing the Joy of Reading: A Guide to Passing on Kindle Titles</u></a></li>
-<li><a href="https://windows11.techidaily.com/simplify-your-workflow-adding-context-menu-assistance/"><u>Simplify Your Workflow: Adding Context Menu Assistance</u></a></li>
-<li><a href="https://facebook.techidaily.com/tips-to-ensure-facebook-only-seen-by-friends/"><u>Tips to Ensure Facebook Only Seen by Friends</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/xbox-extra-storage-options-best-5-ranked-list-for-2024/"><u>Xbox Extra Storage Options Best 5 Ranked List for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-best-practices-for-documenting-ps4-gameplay/"><u>[New] Best Practices for Documenting PS4 Gameplay</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1-free-or-paid-understanding-costs-of-utilizing-digital-wallet-balance-verification-tools-by-yl-software/"><u>1. Free or Paid: Understanding Costs of Utilizing Digital Wallet Balance Verification Tools by YL Software</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-xiaomi-13-ultra-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Xiaomi 13 Ultra Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/african-americans/"><u>African Americans</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-pro-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 Pro Passcode Screen?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/proactive-pc-management-keeping-windows-11s-amd-drivers-current/"><u>Proactive PC Management: Keeping Windows 11'S AMD Drivers Current</u></a></li>
+<li><a href="https://windows11.techidaily.com/quickly-restart-print-spool-in-windows/"><u>Quickly Restart Print Spool in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/reconfiguring-system-settings-managed-by-your-organization-on-windows-11/"><u>Reconfiguring System Settings Managed by Your Organization on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/stop-windows-update-failures-with-these-fixes/"><u>Stop Windows Update Failures with These Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-coding-process-essential-wsl-2-tips-and-tricks-for-dev/"><u>Streamline Coding Process: Essential WSL 2 Tips and Tricks for Dev</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Tips for Restricting Removable Storage via Windows Settings
-date: 2024-12-28T23:23:25.060Z
-updated: 2025-01-04T03:24:05.819Z
+date: 2025-01-09T22:12:40.548Z
+updated: 2025-01-10T19:47:38.599Z
 tags:
   - windows10
   - windows11
@@ -25,17 +25,21 @@ thumbnail: https://thmb.techidaily.com/6bec6b49ef7ec1e5a2c1ba4a21123755124d462c6
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Prevent Others From Installing Any Removable Storage Devices
 
  Let's start by checking out how you can prevent others from installing any removable storage device into your PC. You can do this using either the Local Group Policy Editor or the Registry Editor.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Using the Local Group Policy Editor
 
 ![Using a Windows laptop on a brown desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Using-a-Windows-laptop-on-a-brown-desk.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Local Group Policy Editor (LGPE) is a reliable tool for troubleshooting system errors. Interestingly, you can also use it for other tasks such as [preventing others from changing your Windows desktop background](https://www.makeuseof.com/stop-others-change-windows-desktop-background/).
 
@@ -49,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/6bec6b49ef7ec1e5a2c1ba4a21123755124d462c6
 ![Clicking the prevent installation of removable devices option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Clicking-the-prevent-installation-of-removable-devices-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Select **Enabled** on the next screen to prevent others from installing removable storage devices into your PC. Alternatively, select **Disabled** or **Not Configured** to restore the default settings.
@@ -58,12 +62,16 @@ thumbnail: https://thmb.techidaily.com/6bec6b49ef7ec1e5a2c1ba4a21123755124d462c6
 
  Struggling to access the LGPE on Windows Home? There are a few tricks you can apply to [access the LGPE on Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/). But if that sounds complicated to you, then skip to the Registry Editor method.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Using the Registry Editor
 
 ![A person typing commands on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-person-typing-commands-on-a-laptop.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Registry Editor is another reliable tool you can use for tweaking system settings and troubleshooting PC issues.
@@ -86,19 +94,11 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows
 
 ![Clicking the DenyRemovableDevices value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Clicking-the-DenyRemovableDevices-value.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now, follow these steps:
 
 1. Double-click on the **DenyRemovableDevices** value.
 2. Set the **Value data** as **1** and then press **OK** to prevent others from installing storage devices into your PC. Alternatively, set the **Value data** as **0** and press **OK** to allow others to install removable storage devices on your PC.
 3. Close the Registry Editor and restart your device to save these changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Prevent Others From Installing Specific Removable Storage Devices
 
@@ -119,22 +119,21 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-clandestine-glimpse-at-fb-flashbacks/"><u>[New] In 2024, Clandestine Glimpse at Fb Flashbacks</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-unleashing-youtube-potential-with-effective-seo-methods-1-11/"><u>[New] Unleashing YouTube Potential with Effective SEO Methods (1-11)</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-the-ultimate-tutorial-on-phantoms-reverse-recording/"><u>[Updated] 2024 Approved The Ultimate Tutorial on Phantom's Reverse Recording</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-configuring-picture-in-picture-for-apple-browsers-for-2024/"><u>[Updated] Configuring Picture-in-Picture for Apple Browsers for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/6-methods-for-reviving-windows-command-line-interface/"><u>6 Methods for Reviving Windows' Command Line Interface</u></a></li>
-<li><a href="https://windows11.techidaily.com/address-common-printer-glitches-in-windows-11/"><u>Address Common Printer Glitches in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoid-dual-defense-opt-for-single-antivirus-in-windows-systems/"><u>Avoid Dual Defense: Opt for Single Antivirus in Windows Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoiding-error-0xc00000f-by-implementing-proper-fixes/"><u>Avoiding Error 0xC00000F by Implementing Proper Fixes</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/easy-ways-to-launch-cmd-from-your-targeted-folders/"><u>Easy Ways to Launch CMD From Your Targeted Folders</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-to-dismantle-spotlight-icons-in-win11/"><u>Guide to Dismantle Spotlight Icons in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-change-the-default-pdf-reader-on-windows/"><u>How to Change the Default PDF Reader on Windows</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-get-your-epson-xp-330-printer-up-and-running-download-drivers-today/"><u>How to Get Your Epson XP-330 Printer Up and Running – Download Drivers Today!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-nokia-g310-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Nokia G310 to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/mastering-video-dimensions-tips-and-tricks-for-optimizing-content-on-instagram-feed-stories-igtv-and-reels/"><u>Mastering Video Dimensions: Tips and Tricks for Optimizing Content on Instagram Feed, Stories, IGTV & Reels</u></a></li>
-<li><a href="https://windows11.techidaily.com/recover-lost-windows-customizations-on-reboot/"><u>Recover Lost Windows Customizations on Reboot</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-art-of-choosing-and-changing-screensavers-in-win11/"><u>The Art of Choosing and Changing Screensavers in Win11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-solving-issues-with-non-functional-steam-voice-chat/"><u>Troubleshooting Tips: Solving Issues with Non-Functional Steam Voice Chat</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-a-comprehensive-tutorial-changing-gender-in-social-media-images/"><u>[New] A Comprehensive Tutorial Changing Gender in Social Media Images</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-6-unique-asian-themed-structures-in-minecraft-for-2024/"><u>[Updated] 6 Unique Asian-Themed Structures in Minecraft for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-expert-advice-on-iphone-landscape-imaging-for-killer-photos/"><u>2024 Approved Expert Advice on iPhone Landscape Imaging for Killer Photos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-facebooks-unique-media-the-top-ios-downloader-tools-revealed-today/"><u>In 2024, Facebook's Unique Media The Top iOS Downloader Tools Revealed Today</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-6s-plus-location-without-installing-software-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone 6s Plus Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-is-your-iphone-6-plus-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Is Your iPhone 6 Plus in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/malware-softwares-impact-on-system-ram-allocation/"><u>Malware Software's Impact on System RAM Allocation</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-free-m4a-editing-solutions-top-5-software/"><u>New In 2024, Free M4A Editing Solutions Top 5 Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-steam-permission-hurdles-in-windows-11-environment/"><u>Overcoming Steam Permission Hurdles in Windows 11 Environment</u></a></li>
+<li><a href="https://windows11.techidaily.com/perfect-window-placement-with-sticknotes/"><u>Perfect Window Placement with StickNotes</u></a></li>
+<li><a href="https://windows11.techidaily.com/photography-made-hassle-free-troubleshooting-windows-camera/"><u>Photography Made Hassle-Free: Troubleshooting Windows Camera</u></a></li>
+<li><a href="https://windows11.techidaily.com/reignite-windows-update-success-with-this-guide/"><u>Reignite Windows Update Success With This Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-nokia-c12-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Nokia C12 Phones</u></a></li>
+<li><a href="https://windows11.techidaily.com/transform-your-workflow-top-7-methods-for-windows-11-excellence-42/"><u>Transform Your Workflow: Top 7 Methods for Windows 11 Excellence (42)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1721856656913-unlock-your-access-to-openais-latest-specialized-gpt-shopping-experience-right-away/"><u>Unlock Your Access to OpenAI's Latest Specialized GPT Shopping Experience Right Away</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-techniques-for-launching-repair-tools/"><u>Unveiling Techniques for Launching Repair Tools</u></a></li>
 </ul></div>
 

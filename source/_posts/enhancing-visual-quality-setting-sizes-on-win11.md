@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Visual Quality: Setting Sizes on Win11"
-date: 2024-07-29T04:23:52.965Z
-updated: 2024-07-30T04:23:52.965Z
+date: 2025-01-09T23:00:54.738Z
+updated: 2025-01-10T20:39:04.487Z
 tags:
   - windows10
   - windows11
@@ -31,16 +31,20 @@ thumbnail: https://thmb.techidaily.com/7d9570e63947f5c327258cd4fe6b134c780b31f63
 5. Then click**Finish** and**Yes** to bring up the AutoSizer window.
 
 1. Next, open the software you want to set the preset window size for. You should then see that software listed in the**Currently open windows** box.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The AutoSizer window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/autosizer-window.jpg)
 2. Select the software in the**Currently open windows** box and click the**AutoSize** button to bring up the window shown directly below.  
+
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![The Action to perform drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/autosize-window.jpg)
 3. Then select the**Resize** /**Position** option on the**Action to perform** drop-down menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click the**Set size** checkbox.
 5. Input the window width and height values in the two text boxes. The left box sets the width and the right one is for height.
 6. Click the**OK** button. The software window you set a size for will then be resized to the values entered.
@@ -53,13 +57,14 @@ thumbnail: https://thmb.techidaily.com/7d9570e63947f5c327258cd4fe6b134c780b31f63
 
 ![General options for AutoSizer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/general-autosize-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To set a hotkey to restore windows to their preset sizes, click inside the**AutoSize Now! Shortcut key** box. Press a keyboard hotkey to set it. Then you’ll be able to restore windows to their preset dimensions after resizing them by pressing that hotkey.
 
  And if you're a big fan of hotkeys, be sure to check out[how to set up your own keyboard shortcuts on Windows 11](https://www.makeuseof.com/windows-11-set-up-new-hotkeys/) .
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Set Custom Sizes for Software With WinSize2
 
  WinSize2 is another free tool for setting preset window sizes. This one is a portable app, which means it can run with no installation needed.
@@ -72,9 +77,6 @@ thumbnail: https://thmb.techidaily.com/7d9570e63947f5c327258cd4fe6b134c780b31f63
 2. Click the**Download WinSize 2** link.
 3. Then select**Download** on the Sourceforge page that opens.
 4. Double-click the**WinSize2\_2.38.04.zip** archive, then select the**Extract all** option on Explorer’s command bar.
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 5. ![The Extract all button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-extract-all-option3.jpg)
 6. Make sure**Show extracted files** is selected within the extraction utility.
 7. Click**Extract** to bring up the WinSize2\_2.38.04 folder.
@@ -84,6 +86,11 @@ Now it's time to use WinSize2 to size our windows:
 1. Double-click the**WinSize2.exe** file to launch WinSize2.  
 ![The WinSize2 window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/winsize2-window.jpg)
 2. Then open the software window for which to set the size.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Make sure the software window you’ve opened is the selected (active) window.
 4. Resize the window to a size you want to save.
 5. Press the**Ctrl** +**Alt** +**Z** hotkey to save the window’s size.
@@ -103,14 +110,12 @@ Now it's time to use WinSize2 to size our windows:
 
  To customize WinSize2’s hotkey for saving windows, click the**Extras-1** tab. Click inside the key box, and press the keyboard buttons for an alternative hotkey. Then select the**OK** option to apply.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![The define a new Hotkey box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-define-a-hotkey-box.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Open Your Software at Your Preferred Window Sizes
 
  Setting software packages to open with preset window sizes will save you from manually resizing them with the mouse. Both WinSize2 and AutoSize will automatically resize software windows for you when you’ve set some preset sizes with them. The additional settings they have for saving window positions will also come in handy for opening multiple programs.
@@ -121,8 +126,6 @@ Now it's time to use WinSize2 to size our windows:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +133,19 @@ Now it's time to use WinSize2 to size our windows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-add-cinematic-shake-to-images-using-ps/"><u>[New] Add Cinematic Shake to Images Using PS</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-surging-profits-with-three-steps-an-easy-way-to-tally-your-youtube-earning/"><u>[New] In 2024, Surging Profits with Three Steps An Easy Way to Tally Your YouTube Earning</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-10-iphone-camera-features-you-should-know-in-ios-11/"><u>2024 Approved 10 iPhone Camera Features You Should Know in iOS 11</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-tweeting-and-blogging-videos-integration-guide/"><u>2024 Approved Tweeting & Blogging Videos Integration Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-viewership-victory-surpassing-500-subscriber-mark/"><u>2024 Approved Viewership Victory Surpassing 500 Subscriber Mark</u></a></li>
+<li><a href="https://windows11.techidaily.com/dynamic-tray-display-live-system-usage-statistics-on-desktop/"><u>Dynamic Tray Display: Live System Usage Statistics on Desktop</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortless-win-based-open-ai-discussions/"><u>Effortless WIN-Based Open AI Discussions</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-the-real-time-update-speed-of-task-manager/"><u>Enhance the Real-Time Update Speed of Task Manager</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-productivity-grouped-software-installs-on-windows-11-using-winstall/"><u>Enhancing Productivity: Grouped Software Installs on Windows 11 Using Winstall</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-18-cameras-for-high-quality-online-sharing/"><u>Essential 18 Cameras for High-Quality Online Sharing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-sites-best-aesthetic-laptop-wallpapers/"><u>Essential Sites Best Aesthetic Laptop Wallpapers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-top-12-clicker-games-on-pc/"><u>In 2024, Top 12 Clicker Games on PC</u></a></li>
+</ul></div>
 

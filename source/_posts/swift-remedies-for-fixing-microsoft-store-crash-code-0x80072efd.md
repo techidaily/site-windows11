@@ -1,7 +1,7 @@
 ---
 title: Swift Remedies for Fixing Microsoft Store Crash Code 0X80072EFD
-date: 2024-12-31T00:33:54.858Z
-updated: 2025-01-04T00:49:54.767Z
+date: 2025-01-05T16:01:21.354Z
+updated: 2025-01-10T21:47:01.496Z
 tags:
   - windows10
   - windows11
@@ -36,10 +36,14 @@ thumbnail: https://thmb.techidaily.com/7e377b50c4e513bd18b3a4caf17d4fa401f54e28d
 ![The troubleshooter list in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/troubleshooter-list-in-windows-11.jpg)
 5. Go through and apply any suggestions the troubleshooter offers.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-store-apps.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Internet Connections** is another troubleshooter that may be useful for fixing the Microsoft Store's 0x80072EFD error. So, consider running that troubleshooter if the Windows Store Apps option doesn't help.
@@ -64,7 +68,7 @@ net stop msiserver`
 6. Also, rename a catroot2 directory with this command:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `ren C:\Windows\System32\catroot2 catroot2.old`  
@@ -72,7 +76,7 @@ net stop msiserver`
 7. Restart the turned-off services by inputting and executing the following commands:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `net start wuaserv  
@@ -81,11 +85,23 @@ net start bits
 net start msiserver`
 8. Then bring up your Start menu to select**Restart** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Reset the Microsoft Store's Cache
 
  Microsoft store has a cache in which data accumulates. Resetting or clearing that cache's data is a reliable solution to various Microsoft Store issues. So, we recommend users try doing that when troubleshooting the 0x80072EFD error. You can clear that cache in Settings, as covered in our[guide for resetting apps](https://www.makeuseof.com/windows-reset-app/) in Windows 11 and Windows 10.
 
 ![The Reset button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-button.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Turn Off Proxy Server
 
@@ -97,17 +113,9 @@ net start msiserver`
 ![The LAN settings button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/advanced-tab.jpg)
 4. Uncheck the checkbox for**Use a proxy server** if it's selected.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Click the**Automatically detect settings** option to select it.  
 ![The Use a proxy server for your LAN checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/use-a-proxy-server-option.jpg)
 6. Select the Local Area Network window's**OK** option.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Double-Check the Time Settings in Windows
 
@@ -139,10 +147,6 @@ net start msiserver`
 
 6. Select**OK** to exit the Internet Options window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Reregister Microsoft Store
 
  You can't reinstall Microsoft Store like other apps. However, reregistering it with PowerShell is similar to reinstalling. If other potential solutions don't fix the 0x80072EFD error, reregistering MS Store is worth a try. This is how you can register that app:
@@ -164,11 +168,7 @@ net start msiserver`
 ![The Reset now button for networks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-now-network-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Get Shopping in Microsoft Store Again
@@ -190,20 +190,20 @@ net start msiserver`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-best-budget-gaming-accessories-keyboards-and-mice-under-99/"><u>[Updated] Best Budget Gaming Accessories Keyboards & Mice Under $99</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-essential-tablets-for-enhancing-photos-move-past-filmora/"><u>[Updated] Essential Tablets for Enhancing Photos Move Past Filmora</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-fireside-screen-capture-tools/"><u>[Updated] In 2024, Fireside Screen Capture Tools</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guide-deleting-items-from-your-youtubeumbers-list/"><u>[Updated] In 2024, Guide Deleting Items From Your YouTube'umbers List</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-financial-insights-how-much-does-pewdopeep-make/"><u>2024 Approved Financial Insights How Much Does PewDoPeep Make?</u></a></li>
-<li><a href="https://windows11.techidaily.com/dive-into-dark-display-settings-for-calc-app/"><u>Dive Into Dark Display Settings for Calc App</u></a></li>
-<li><a href="https://windows11.techidaily.com/elevate-your-taskbar-windows-11-edition/"><u>Elevate Your Taskbar: Windows 11 Edition</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-address-freezing-problems-in-cyberpunk-2077-for-smoother-gaming-experience/"><u>How to Address Freezing Problems in Cyberpunk 2077 for Smoother Gaming Experience</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/1715860870841-in-2024-learn-and-master-io-screen-recording-today/"><u>In 2024, Learn and Master IO Screen Recording Today!</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-esd-file-conversion-to-iso-on-windows-systems/"><u>Mastering ESD File Conversion to ISO on Windows Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-resource-assignment-in-wsl-android-setup/"><u>Mastering Resource Assignment in WSL-Android Setup</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-essential-toolkit-for-crafting-instagram-collages/"><u>The Essential Toolkit for Crafting Instagram Collages</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-ramayana-of-valmiki-translation-by-mn-kutty/"><u>The Ramayana of Valmiki (Translation by M.N Kutty)</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-the-secrets-to-stable-apex-play-on-windows-11/"><u>Unlocking the Secrets to Stable Apex Play on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-users-beware-is-yourphoneexe-safe-to-use/"><u>Windows Users Beware: Is YourPhone.exe Safe to Use?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-elevate-your-imagery-top-lights-tactics-on-iphones-for-2024/"><u>[New] Elevate Your Imagery Top Lights Tactics on iPhones for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-the-seamless-shift-to-perfect-insta-pics-mac-driven-video-size-evolution/"><u>2024 Approved The Seamless Shift to Perfect Insta Pics Mac-Driven Video Size Evolution</u></a></li>
+<li><a href="https://facebook.techidaily.com/elevate-your-gameplay-with-the-ultimate-asus-vg245h-gaming-monitor/"><u>Elevate Your Gameplay with The Ultimate Asus VG245H Gaming Monitor</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-fixing-camera-unavailable-on-windows-11/"><u>Guide to Fixing “Camera Unavailable” On Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-get-rid-of-the-illustrations-inside-windows-search/"><u>How to Get Rid of the Illustrations Inside Windows Search</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-overcome-windows-11-cortana-non-responsiveness/"><u>How to Overcome Windows 11 Cortana Non-Responsiveness</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-13-pro-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 Pro With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-poco-c51-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Poco C51 to Protect Your Individual Information</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-infinix-note-30-vip-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Infinix Note 30 VIP Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/reviving-your-unresponsive-samsung-soundbar-tips-and-solutions/"><u>Reviving Your Unresponsive Samsung Soundbar - Tips & Solutions</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-nokia-130-music-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-freeze-ups-of-psx-software-in-new-os-version/"><u>Tackling Freeze-Ups of PSX Software in New OS Version</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-the-troublesome-fail-to-work-in-win-based-apps/"><u>Tackling the Troublesome 'Fail to Work' In Win-Based Apps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-5-cozy-winter-scenes-for-youtube-backdrops-for-2024/"><u>Top 5 Cozy Winter Scenes for YouTube Backdrops for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-how-windows-maintains-its-efficiency/"><u>Understanding How Windows Maintains Its Efficiency</u></a></li>
 </ul></div>
 

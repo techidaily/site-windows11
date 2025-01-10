@@ -1,7 +1,7 @@
 ---
 title: "Pathfinder's Guide: Unveiling the Sixest Steps for Copying Windows 11 File & Folders"
-date: 2024-12-27T17:32:36.442Z
-updated: 2025-01-04T00:15:50.458Z
+date: 2025-01-04T21:24:55.633Z
+updated: 2025-01-10T21:52:58.224Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. How to Copy Paths With Explorer’s "See More" Menu
 
  File Explorer’s **See more menu** includes a **Copy path** option that you can select. Clicking that option for a selected file or folder will copy its path to the clipboard. This is how you can select the **Copy path** option in Windows 11 File Explorer:
@@ -40,17 +36,9 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
 ![The Copy path option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/copy-path-option.jpg)
 5. Select the **Copy path** option.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then [open Notepad](https://www.makeuseof.com/windows-11-open-notepad/) or a word processor to paste the copied path. You can paste in copied paths by pressing the **Ctrl** \+ **V** hotkey. The paths you copy with this method will include the full location within inverted commas.
 
 ![A copied path with inverted commas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/a-copied-path.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. How to Select the Default Context Menu Option for Copying Paths
 
@@ -59,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
 ![The Copy as path option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/copy-as-path.jpg)
 
  You can also copy multiple paths. To do so, select multiple files and folders by holding the **Ctrl** key. Then right-click one to select **Copy as path**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. How to Copy Paths With a Hotkey
 
@@ -69,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
  If your Windows 11 version doesn’t have that hotkey, you’ll need to update the platform. You can do that with one of the methods in our guide about [manually updating Windows 11](https://www.makeuseof.com/update-windows-manually/#:~:text=Press%20the%20Win%20%2B%20I%20hotkeys,the%20Check%20for%20updates%20button.). Select to install the latest build of the platform if you’re utilizing an older version.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. How to Copy Paths With File Explorer’s Address Bar Options
@@ -78,11 +70,11 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
 
 ![The Copy address as text option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/copy-address-as-plain-text-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The **Copy address as text** option copies the folder path in the address bar as plain text. The pasted copied path will not include any inverted commas (quote marks).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. How to Copy Target Paths for Shortcuts
 
@@ -103,6 +95,10 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
 ![The I accept the agreement radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/i-accept-the-agreement-option.jpg)
 5. Then you’ll be prompted to restart Windows to complete installation. Select the **Yes, restart the computer now** radio button.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Log back into the Windows user account in which you installed the software.
 2. Open a folder in File Explorer.
 3. Then right-click on a file or subfolder and select **Show more options** on Windows 11’s context menu.
@@ -114,10 +110,6 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
 
 ![The Path Copy Copy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/path-copy-copy-window.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now right-click a file or folder to have another look at the Path Copy submenu, which will include many more options. You can select the **Short** option to copy the location with a shortened folder or file name. Or select **Name** to copy just a title for a file or folder. Try out the different copy path options by selecting them and pasting them into Notepad.
 
 ![All Path Copy options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/all-path-copy-options.jpg)
@@ -125,6 +117,14 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
  You can configure how the paths get copied by changing settings within Path Copy Copy’s **Options** tab. For example, your copied paths will include quote marks around them if you select the **Add quotes around copied paths** checkbox. Select the **Add < and > around copied paths** option to include brackets around copied brackets.
 
 ![The Options tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/options-tab.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Copy Paths on Windows Whichever Way You Like Best
 
@@ -142,14 +142,22 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-swiftly-blur-your-iphone-shots-with-these-4-tricks-for-2024/"><u>[New] Swiftly Blur Your iPhone Shots with These 4 Tricks for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-affordable-high-performance-game-mice-and-keyboards-for-gamers/"><u>2024 Approved Affordable High-Performance Game Mice and Keyboards for Gamers</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypass-windows-11-pc-life-hacks-for-older-systems/"><u>Bypass Windows 11: PC Life Hacks for Older Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/conquer-erratic-movement-7-windows-mouse-solutions/"><u>Conquer Erratic Movement: 7 Windows Mouse Solutions</u></a></li>
-<li><a href="https://windows11.techidaily.com/crafting-quick-repair-pathways-creating-custom-win-shortcuts/"><u>Crafting Quick Repair Pathways: Creating Custom Win Shortcuts</u></a></li>
-<li><a href="https://windows11.techidaily.com/deciphering-windows-11s-backup-and-sync-an-overview-of-its-functionality/"><u>Deciphering Windows 11’S Backup & Sync: An Overview of Its Functionality</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-subscription-share-problems-in-family-sharing-top-6-tips/"><u>Fixing Subscription Share Problems in Family Sharing - Top 6 Tips!</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-the-comprehensive-guide-to-changing-console-voice/"><u>In 2024, The Comprehensive Guide to Changing Console Voice</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-top-picks-for-novice-gopro-enthusiasts/"><u>In 2024, Top Picks for Novice GoPro Enthusiasts</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-lasting-freedom-how-to-banish-youtube-shorts-permanently/"><u>[New] 2024 Approved Lasting Freedom How To Banish YouTube Shorts Permanently</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-revolutionize-your-videos-first-impression-with-these-makers/"><u>[New] 2024 Approved Revolutionize Your Video's First Impression with These Makers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-the-ultimate-tech-handbook-working-with-srt-files-on-a-mac/"><u>[New] 2024 Approved The Ultimate Tech Handbook Working with SRT Files on a Mac</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-simplified-guide-to-burning-audio-from-cds-using-wmp/"><u>[Updated] Simplified Guide to Burning Audio From Cds Using WMP</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/balanced-flights-7-leading-gimbals-reviewed/"><u>Balanced Flights 7 Leading Gimbals Reviewed</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Vivo V27e? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/find-and-fix-your-missing-camera-on-device-screen/"><u>Find & Fix Your Missing Camera on Device Screen</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-fixing-inaccessible-click-areas-in-windows-11/"><u>Guide to Fixing Inaccessible Click Areas in Windows 11</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/how-to-easily-apply-watermarks-to-your-flipbook-prints-with-flipbuilder/"><u>How to Easily Apply Watermarks to Your Flipbook Prints with FlipBuilder</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-poco-f5-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Poco F5 5G to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlimited-dji-mini-and-air-2-luts-buy-or-free/"><u>In 2024, Unlimited DJI Mini & Air 2 LUTs - Buy or Free</u></a></li>
+<li><a href="https://windows11.techidaily.com/integrating-oracles-jvm-in-windows-11-pro-edition/"><u>Integrating Oracle's JVM in Windows 11 Pro Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/overriding-read-only-protection-for-windows-files/"><u>Overriding Read-Only Protection for Windows Files</u></a></li>
+<li><a href="https://windows11.techidaily.com/overturning-modern-windows-11-search-for-classic-icons/"><u>Overturning Modern Windows 11 Search for Classic Icons</u></a></li>
+<li><a href="https://windows11.techidaily.com/simplified-systems-choose-windows-11-tiny/"><u>Simplified Systems: Choose Windows 11 Tiny</u></a></li>
+<li><a href="https://windows11.techidaily.com/turbo-charging-steam-downloads-a-windows-guide/"><u>Turbo-Charging Steam Downloads: A Windows Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/unexpected-guests-unrelated-processes-with-edge/"><u>Unexpected Guests: Unrelated Processes with Edge</u></a></li>
 </ul></div>
 

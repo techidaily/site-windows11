@@ -1,7 +1,7 @@
 ---
 title: "Eliminating Windows 11 Zoom Problem: Code 1132"
-date: 2024-07-29T04:23:54.654Z
-updated: 2024-07-30T04:23:54.654Z
+date: 2025-01-09T23:15:06.213Z
+updated: 2025-01-10T20:17:15.451Z
 tags:
   - windows10
   - windows11
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/704c497d76ce3443a342fa34e8883ce74ed2e3eea
 
  Those instructions are for 2-in-1 modem routers. If you have a separate modem, you’ll also need to unplug that modem and reconnect it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Update the Zoom App
 
  Error 1132 can arise because of bugs in older Zoom versions. So, make sure you’re using the latest version of Zoom. You can manually select to update Zoom in the following steps:
@@ -39,21 +43,21 @@ thumbnail: https://thmb.techidaily.com/704c497d76ce3443a342fa34e8883ce74ed2e3eea
 1. Open your Windows Zoom app, and sign in to it if required.
 2. Click the user menu button in the top-right corner of Zoom.
 3. Select the**Check for updates** option.  
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Check for Updates option in Zoom](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/check-for-updates-option.jpg)
 4. If the window says there’s an update available, click the**Update** (or**Install**) option.  
+
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![The Update button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/zoom-update-window.jpg)
 5. Wait for the Zoom updater to finish.
 6. Sign back into Zoom after the update, and try joining a meeting.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Change Windows Defender Firewall Settings
 
  Internet connectivity is essential for the Zoom app. Windows Defender Firewall can feasibly cause error 1132 by blocking Zoom from establishing a connection. You could just try turning that firewall off to see if doing so makes a difference. However, you may be able to resolve error 1132 by adjusting a setting for Zoom firewall rules like this:
@@ -62,9 +66,6 @@ thumbnail: https://thmb.techidaily.com/704c497d76ce3443a342fa34e8883ce74ed2e3eea
 2. Enter a**Windows Defender Firewall with Advanced Security** search phrase within the text box.
 3. Select**Windows Defender Firewall with Advanced Security** to access that app.
 4. Next, click**Inbound Rules** within the left sidebar.  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Inbound rules in Windows Defender Firewall with Advanced Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/inbound-rules.jpg)
 5. Double-click any Zoom rule you find listed there.
 6. Select the**Protocols** **and** **Ports** tab shown below.
@@ -77,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/704c497d76ce3443a342fa34e8883ce74ed2e3eea
  Aside from that, consider checking if Zoom is permitted to communicate through the firewall. Windows Defender Firewall has an allowed app list in which you can select to authorize or disable Zoom and other software to establish connections through it. Select the**Private** and**Public** checkboxes for Zoom in that allowed app list. See our guide about[allowing apps through the Windows Defender Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) for further details.
 
 ![The allow app list for Windows Defender Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/allow-app-through-firewall.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Disable Third-Party Antivirus/Security Software
 
@@ -96,17 +101,15 @@ thumbnail: https://thmb.techidaily.com/704c497d76ce3443a342fa34e8883ce74ed2e3eea
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-option.jpg)
 4. Open[the Zoom](https://zoom.us/download#client%5F4meeting) download center.
 5. Click the**Download** for the Zoom Desktop Client.  
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Download option for Zoom](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/download-option-1.jpg)
 6. Press the keyboard button with the**Windows** logo +**E** key to access Explorer.
 7. Navigate to the directory that includes your downloaded files, and double-click the**ZoomInstallerFull.exe** setup wizard.
 8. Go through Zoom’s setup wizard to reinstall the software.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Set Up a New Windows Account
 
  Many Zoom users who’ve needed to fix error 1132 have said setting up a new Windows account works. So, it seems this error can arise because of some kind of user account issue. Try utilizing Zoom in a new Windows account as follows:
@@ -122,9 +125,6 @@ thumbnail: https://thmb.techidaily.com/704c497d76ce3443a342fa34e8883ce74ed2e3eea
 
  If this solution works, you can sign in to the new Windows account to use Zoom whenever needed. However, some users who need to utilize Zoom regularly may prefer to migrate files from their old accounts to new ones.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Join Your Zoom Meetings Again on Windows
 
  Those potential solutions will likely fix Zoom error code 1132 to enable you to join meetings with that app again. If you’re desperate to resolve that issue, more drastic solutions like resetting Windows to factory settings may also work. Yet, there isn’t a guaranteed error 1132 resolution, and you can submit a help request at the[Zoom support page](https://support.zoom.us/hc/en-us/requests/new) if further fixes are needed.
@@ -135,8 +135,6 @@ thumbnail: https://thmb.techidaily.com/704c497d76ce3443a342fa34e8883ce74ed2e3eea
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +142,19 @@ thumbnail: https://thmb.techidaily.com/704c497d76ce3443a342fa34e8883ce74ed2e3eea
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-ideal-shade-modifier-software/"><u>[New] Ideal Shade Modifier Software</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-free-tools-to-save-big-screen-fb-video/"><u>[Updated] Free Tools to Save Big Screen FB Video</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-realme-12-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Realme 12 5G? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-sound-top-5-apps-for-windows-beyond-maxed-volume/"><u>Elevate Sound: Top 5 Apps for Windows Beyond Maxed Volume</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevating-vintage-gameplay-experience-with-achievement-boost-via-retroarch/"><u>Elevating Vintage Gameplay Experience with Achievement Boost via Retroarch</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-shutdown-restart-and-sign-out-errors-by-suspicious-apps/"><u>Eliminating Shutdown, Restart, and Sign Out Errors by Suspicious Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-your-typing-speed-via-typingaid-tactics/"><u>Enhance Your Typing Speed via TypingAid Tactics</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-buffer-free-browsing-chromium-and-youtube/"><u>Enhancing Buffer-Free Browsing: Chromium & YouTube</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-discovering-calmer-video-consumption-three-ways-to-pause-time-56-chars-slightly-over-but-a-minor-exception-due-to-title-length/"><u>In 2024, Discovering Calmer Video Consumption Three Ways to Pause Time (56 Chars, Slightly over but a Minor Exception Due to Title Length)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectify-unresponsive-mouse-dark-screen-win10/"><u>Rectify Unresponsive Mouse, Dark Screen Win10</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/solve-trash-and-error-code-36-conundrum-on-mac/"><u>Solve Trash and Error Code 36 Conundrum on Mac</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-ultimate-list-of-teacher-friendly-screen-capture-apps-for-2024/"><u>The Ultimate List of Teacher-Friendly Screen Capture Apps for 2024</u></a></li>
+</ul></div>
 

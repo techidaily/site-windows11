@@ -1,7 +1,7 @@
 ---
 title: "Demystifying: The Meaning Behind Windows' Folders X-Marks"
-date: 2024-08-08T05:56:50.588Z
-updated: 2024-08-09T05:56:50.588Z
+date: 2025-01-08T22:04:19.515Z
+updated: 2025-01-10T21:59:54.063Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 
  Other possible causes for this issue include misconfigured OneDrive settings, issues with Windows File Explorer, or broken icons. If you're sick of seeing these circles, this article will show you how you can remove them.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ## Before We Get Started…
 
  First, perform the following preliminary checks, as they may help you get to the bottom of the problem:
@@ -35,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 
  If the above checks do not assist in pinpointing the cause, apply the remaining fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ## 1\. Log Into OneDrive and Begin Syncing
 
  Find the OneDrive icon at the right end of the taskbar, also known as the notification area or system tray. Seeing a red cross or slanted dash on the OneDrive icon means you are no longer logged in to OneDrive, and your files are not being synced. So, you'll need to sign in again to begin syncing. To do that, follow these steps:
@@ -46,14 +40,13 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 2. Click the**Sign in** button.  
 ![Click on the Sign in Button to Log in to Microsoft OneDrive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1-click-on-the-sign-in-button-to-log-in-to-microsoft-onedrive.jpg)
 3. Enter the email address associated with your Microsoft account and click**Sign in** . If you want to sync your data to a OneDrive account created with the same Microsoft account you are using on your device, you won't have to enter a password. If it's different, you may need to enter a password.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![Sign In to OneDrive Using Microsoft Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-sign-in-to-onedrive-using-microsoft-account.jpg)
 4. Choose a OneDrive folder location or click**Next** to use the default location.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Click on the Next Button After Choosing OneDrive Folder Location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3-click-on-the-next-button-after-choosing-onedrive-folder-location.jpg)
 5. Then, follow a few on-screen instructions to log into OneDrive.
 
@@ -66,17 +59,23 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 1. Click on the**OneDrive icon** in the system tray.
 2. Click on the**cog wheel icon** in the top-right corner.
 3. Select**Settings** from the menu.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Go to Settings From OneDrive Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/4-go-to-settings-from-onedrive-menu.jpg)
 4. Go to the**Account** tab in the**OneDrive Settings** window.
 5. Then click on**Unlink this PC** .  
 ![Unlink the PC From OneDrive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/5-unlink-the-pc-from-onedrive.jpg)
 6. In the confirmation window, click**Unlink account** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. After unlinking the account, open Windows File Explorer or the folder where you see a red circle with a white cross.
 8. Right-click to bring up the context menu, then click Refresh.  
 ![windows context menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/windows-context-menu.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hopefully, unlinking the OneDrive account will fix the issue. If it does, sign in to OneDrive again by following the instructions in the first fix.
 
@@ -88,44 +87,46 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 2. On the left sidebar, right-click on**OneDrive** and click**Show more options** .  
 ![Click on the Show More Options to Expand Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/7-click-on-the-show-more-options-to-expand-context-menu.jpg)
 3. Select**Settings** from the context menu.  
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Open OneDrive Settings From the Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/8-open-onedrive-settings-from-the-context-menu.jpg)
 4. Go to the**Sync and backup** tab in the**OneDrive Settings** window.
-5. In the**Preferences** settings, turn off toggles next to**Pause syncing when this device is in battery saver mode** and **Pause syncing when this device is on a metered connection** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. In the**Preferences** settings, turn off toggles next to**Pause syncing when this device is in battery saver mode** and **Pause syncing when this device is on a metered connection** .  
 ![Disable Certain Options in the Preferences Settings of Microsoft OneDrive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/9-disable-certain-options-in-the-preferences-settings-of-microsoft-onedrive.jpg)
 
  When you disable these two options, OneDrive syncing won't stop when your device is connected via a metered connection or set to power-saving mode.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Ensure OneDrive Has Enough Space Free
 
  The problem under discussion can also occur if there isn't sufficient space in OneDrive for syncing additional data. Hence, if you have not been successful in resolving the issue with the above fixes, you should check the available space in your OneDrive account.
 
  To check that, go to [OneDrive's sign-in page](https://onedrive.live.com/about/en-us/signin/) . Then, enter your login credentials to access OneDrive. After logging in, click on the**cog wheel icon** in the top-right corner and go to**Options** . Here, you will see how much storage space you have available.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Go to Options From the Settings Menu of OneDrive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/10-go-to-options-from-the-settings-menu-of-onedrive.jpg)
 
  In case the OneDrive storage is full, you will need to delete some of your data stored there, or you will need to uncheck some of the folders in OneDrive to stop them from syncing. Furthermore, if you're using a free plan with 5GB of free storage, which is not enough to accommodate your data, you should consider upgrading.
 
  If you have enough free storage space in OneDrive, which means low storage space isn't the issue, you can move on to the next step.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Restart the Windows Explorer Process
 
  Restarting the Windows Explorer process resolves most visual issues on a Windows PC. Therefore, if you have not already restarted it, you should do so now. If you're unfamiliar with the process, check out our guide on [how to restart File Explorer](https://www.makeuseof.com/ways-to-restart-file-explorer-windows-10/) .
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Reinstall OneDrive
 
  If the issue persists despite applying the above fixes, you should reinstall OneDrive. To do that, follow these steps:
@@ -146,14 +147,11 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 
  Seeing red circles on Windows folders gives the impression that your computer has a severe problem. Hopefully, now you understand why these annoying cross signs appear on your folders. In addition, the fixes discussed in the article will help you resolve this annoying problem.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -162,6 +160,24 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-zero-to-cool-video-star-your-mac-youtube-journey-starts-here/"><u>[New] In 2024, From Zero to Cool Video Star Your Mac Youtube Journey Starts Here</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-premium-hd-video-replay-devices/"><u>[New] In 2024, Premium HD Video Replay Devices</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-persuasive-visuals-uncover-the-power-in-6-video-types/"><u>[Updated] In 2024, Persuasive Visuals Uncover the Power in 6 Video Types</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-essence-of-authenticity-applying-personalized-watermarks-in-insta/"><u>[Updated] In 2024, The Essence of Authenticity Applying Personalized Watermarks in Insta</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/cambiar-archivo-de-mp3-a-formato-mp4-libre-y-gratuito-sin-perdida-de-calidad/"><u>Cambiar Archivo De MP3 a Formato MP4 Libre Y Gratuito Sin Pérdida De Calidad</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-solutions-for-dealing-with-the-windows-bsod-error/"><u>Comprehensive Solutions for Dealing with the Windows BSOD Error</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-unblock-chrome-from-firewall-settings-on-windows-1011/"><u>How to Unblock Chrome From Firewall Settings on Windows 10/11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hyperx-cloud-stinger-microphone-malfunctions-a-comprehensive-guide-to-solving-them/"><u>HyperX Cloud Stinger Microphone Malfunctions - A Comprehensive Guide to Solving Them</u></a></li>
+<li><a href="https://windows11.techidaily.com/integrating-microsofts-pc-manager-into-windows-11/"><u>Integrating Microsoft's PC Manager Into Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/launching-linux-virtualization-effortlessly-within-hyper-v-windows/"><u>Launching Linux Virtualization Effortlessly Within Hyper-V Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/post-cortana-windows-the-next-4-interfaces/"><u>Post-Cortana Windows: The Next 4 Interfaces</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quadro-rtx-6000-latest-driver-release/"><u>Quadro RTX 6000 Latest Driver Release</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-display-hiccup-with-windows-11-and-nvidia/"><u>Resolving Display Hiccup with Windows 11 & Nvidia</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-error-at-breakpoint-in-win-os/"><u>Troubleshooting Error at Breakpoint in Win OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-fall-guys-disconnect-issues-in-windows/"><u>Troubleshooting Fall Guys Disconnect Issues in Windows</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/venturing-solo-in-3d-printing-with-3dr-tech-review/"><u>Venturing Solo in 3D Printing with '3DR' Tech Review</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-generation-gauge-guide/"><u>Windows Generation Gauge Guide</u></a></li>
+</ul></div>
 

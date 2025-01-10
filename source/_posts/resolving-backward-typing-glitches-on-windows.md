@@ -1,7 +1,7 @@
 ---
 title: Resolving Backward Typing Glitches on Windows
-date: 2024-12-29T21:57:11.019Z
-updated: 2025-01-03T21:48:13.820Z
+date: 2025-01-06T20:52:06.337Z
+updated: 2025-01-10T18:12:55.944Z
 tags:
   - windows10
   - windows11
@@ -25,11 +25,19 @@ thumbnail: https://thmb.techidaily.com/1e90b427765970b2a66b4df52c7b1587d47d7c547
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Use the CTRL + Left Shift Keyboard Shortcut to Change the Typing Direction
 
  Some Windows computers have macros that can change the typing direction from left to right. This is one of the most common reasons why your keyboard may start typing from right to left on Windows. If this is the case, simply press **Ctrl + Right Shift** on your keyboard to change the typing direction back to left to right.
 
  Several users on a [Microsoft Community post](https://answers.microsoft.com/en-us/windows/forum/all/how-to-stop-keyboard-from-typing-in-reverse/a766f453-0ef3-4aaa-8690-76ee9e86729c)reported fixing the problem with this trick. Note that if you accidentally press the **Ctrl + Left Shift** key, Windows will start typing in reverse again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Check Region Settings
 
@@ -43,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/1e90b427765970b2a66b4df52c7b1587d47d7c547
 4. Similarly, set the correct **Regional format** as well.  
 ![Language and Region Settings on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/language-and-region-settings-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Run the Relevant Windows Troubleshooters
 
  If your keyboard types backward even after correcting the region settings, you can get help from the [built-in troubleshooters on Windows](https://www.makeuseof.com/windows-11-troubleshooters/). In this case, you can run the dedicated keyboard troubleshooter to see if it can fix the problem.
@@ -59,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/1e90b427765970b2a66b4df52c7b1587d47d7c547
 4. Click the **Run** button next to **Keyboard** and follow the on-screen prompts to finish the troubleshooting process.  
 ![Run Keyboard Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-keyboard-troubleshooter-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If the issue persists, you can run the Hardware and Devices troubleshooter. As this tool is unavailable in the Settings app, you must use the Run dialog box to access it. Here's how to do that:
 
 1. Press **Win + R** to open the Run dialog box.
@@ -73,22 +73,22 @@ thumbnail: https://thmb.techidaily.com/1e90b427765970b2a66b4df52c7b1587d47d7c547
 
  Allow the troubleshooter to find and fix any problems, and check if the issue still occurs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Update or Reinstall Your Keyboard Drivers
 
  Outdated or incompatible keyboard drivers on your computer can also cause this unusual behavior. You can try updating the keyboard driver on your computer to see if it stops Windows from typing backward.
 
  We have a comprehensive guide on [how to locate and replace outdated drivers on Windows](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/). Refer to it to update the keyboard drivers on your PC and then check if the issue persists. If it does, the keyboard driver may be damaged or corrupted. In that case, you will need to [fix the corrupted driver](https://www.makeuseof.com/how-to-fix-corrupt-drivers-on-windows-10/) by reinstalling it on your PC.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Check for Stuck Keys or Use a Different Keyboard
 
 ![Arrow Keys on Keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/arrow-keys-on-keyboard.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It's possible that the left arrow key on your keyboard is stuck, which is why Windows is typing in reverse. Try using the left arrow key in another program to see if the issue persists. If it does, you may need to clean the key or remove and reinsert it.
@@ -96,7 +96,7 @@ thumbnail: https://thmb.techidaily.com/1e90b427765970b2a66b4df52c7b1587d47d7c547
  Alternatively, you can also try using a different keyboard if one is available.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bring Backward Typing to a Full Stop on Windows
@@ -115,16 +115,19 @@ thumbnail: https://thmb.techidaily.com/1e90b427765970b2a66b4df52c7b1587d47d7c547
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-expert-guide-to-vlc-for-networked-webcasting-for-2024/"><u>[New] Expert Guide to VLC for Networked Webcasting for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/6-common-windows-screen-resolution-issues-and-fixes/"><u>6 Common Windows Screen Resolution Issues and Fixes</u></a></li>
-<li><a href="https://windows11.techidaily.com/7-essential-fixes-to-tackle-the-http-too-many-requests-issue-in-windows/"><u>7 Essential Fixes to Tackle the HTTP Too Many Requests Issue in Windows</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/aplus-craftsmen-outstanding-instagram-highlight-pages/"><u>A+ Craftsmen Outstanding Instagram Highlight Pages</u></a></li>
-<li><a href="https://windows11.techidaily.com/asus-vivobook-s-15-the-ultimate-blend-of-style-and-functionality/"><u>ASUS Vivobook S 15: The Ultimate Blend of Style & Functionality</u></a></li>
-<li><a href="https://windows11.techidaily.com/bootable-windows-11-flashdrive-top-3-efficient-techniques/"><u>Bootable Windows 11 Flashdrive: Top 3 Efficient Techniques</u></a></li>
-<li><a href="https://windows11.techidaily.com/circumventing-error-code-0x800736cc-in-windows-update/"><u>Circumventing Error Code 0X800736CC in Windows Update</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-step-into-the-world-of-incredible-ig-filmmaking/"><u>In 2024, Step Into the World of Incredible IG Filmmaking</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/jest-jacket-picture-fabricator/"><u>Jest Jacket Picture Fabricator</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-update-your-drivers-in-windows-10-by-drivereasy-guide/"><u>Use Device Manager to update your drivers in Windows 10</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-samsung-galaxy-f54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-voice-over-text-made-easy-choosing-the-best-mac-translation-software/"><u>[New] 2024 Approved Voice Over Text Made Easy Choosing the Best Mac Translation Software</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-dissecting-ajey-nagars-2023-youtube-economic-landscape/"><u>[New] Dissecting Ajey Nagar's 2023 YouTube Economic Landscape</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-the-complete-blueprint-for-success-adding-channels-as-features-on-youtube/"><u>[New] In 2024, The Complete Blueprint for Success Adding Channels as Features on Youtube</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-rapid-response-sharing-plays-with-pizzazz-for-2024/"><u>[Updated] Rapid Response Sharing Plays with Pizzazz for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-boost-engagement-stream-live-from-twitch-embed-on-fb/"><u>2024 Approved Boost Engagement Stream Live From Twitch, Embed on FB</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-secure-and-store-linkedin-videos-with-these-6-high-quality-apps/"><u>2024 Approved Secure and Store LinkedIn Videos with These 6 High-Quality Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/key-steps-for-admin-level-access-on-windows/"><u>Key Steps for Admin-Level Access on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/pixel-perfect-designs-for-your-pc-wallpaper/"><u>Pixel Perfect Designs for Your PC Wallpaper</u></a></li>
+<li><a href="https://windows11.techidaily.com/relaunching-print-processor-in-windows/"><u>Relaunching Print Processor in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-unknown-issuer-error-in-mozilla-firefox-quick-solutions/"><u>Resolving the Unknown Issuer Error in Mozilla Firefox - Quick Solutions!</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-resolve-error-0x80041015-in-ms-word-and-excel/"><u>Strategies to Resolve Error 0X80041015 in MS Word & Excel</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailoring-permission-levels-for-non-administrative-windows-users/"><u>Tailoring Permission Levels for Non-Administrative Windows Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-technique-professional-insights-on-leveraging-chamoinbot-for-note-taking-mastery/"><u>The Ultimate Technique: Professional Insights on Leveraging Chamoinbot for Note-Taking Mastery</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-strategy-against-corrupted-filedir-error-x70-on-pcs/"><u>Winning Strategy Against 'Corrupted' File/Dir Error X70 on PCs</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Decoding WinOS: Gain Control over Applications, Browsing"
-date: 2024-08-08T05:58:32.070Z
-updated: 2024-08-09T05:58:32.070Z
+date: 2025-01-07T18:20:48.991Z
+updated: 2025-01-10T16:02:04.075Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/d9580a0fe0d295d2fe4ac5bc754f7348af6d4884b
  With such essential tasks, it's no wonder that the app & browser control has also found its place in later versions of Windows. So, with the brief introduction out of the way, let's dig deeper into the workings of the App & browser control settings and see how its magic comes about.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is App and Browser Control?
 
  First introduced with the Windows 10 Creator's update in 2017, the**App & browser control** feature has made a long way since then—it's now part of Windows 11 Windows Security as well.
@@ -30,8 +31,9 @@ thumbnail: https://thmb.techidaily.com/d9580a0fe0d295d2fe4ac5bc754f7348af6d4884b
  The tool is part of Windows Security, the in-built Windows antivirus program. It offers three distinct sections that work in tandem to protect you from malicious apps and websites: Smart App Control, Reputation-based protection, and Exploit protection—each with a different but critical part to play. To enable and get the most out of the App and browser control, then, you will need to tweak the settings of individual sections. So let's cover all of them one by one.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Smart App Control
 
 [Smart App Control](https://www.makeuseof.com/windows-11-smart-app-control-explain/) protects you from arbitrary security breaches by blocking out all untrustworthy or malicious apps. This is a vital function, as third-party malicious apps often show you a host of dallying ads, make your device excessively slow, and come with additional baggage that can make your Windows experience overall subpar.
@@ -48,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/d9580a0fe0d295d2fe4ac5bc754f7348af6d4884b
 
 ![smart app control](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/smart-app-control.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Moreover, if the Smart App Control feature is turned off, you must do a clean Windows reinstall to turn it on again.
 
 ## 2\. Reputation-Based Protection
@@ -60,27 +66,22 @@ thumbnail: https://thmb.techidaily.com/d9580a0fe0d295d2fe4ac5bc754f7348af6d4884b
 
  On**Windows Security** , head to**App & browser control** and select**Reputation-based protection** settings. Now, toggle on the**Check apps and files** button, and your settings will be turned on. Finally, click on**Yes** to confirm your settings.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![reputation based protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reputation-based-protection.jpg)
 
  You can also tweak multiple reputation-based protection settings from there; simply click on the**Reputation-based protection** settings link. There, you will find a host of handy settings you choose from.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### 1\. Check Apps and Files
 
  When you have the Check apps and files button toggled on, the Microsoft Defender SmartScreen will protect your important files and apps on the web.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. SmartScreen for Microsoft Edge
 
  Toggle on the SmartScreen for Microsoft Edge button, and the Defender SmartScreen feature will protect you from malicious websites and downloads.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 3\. Phishing Protection
 
  Phishing is a type of online fraud that tricks users into revealing sensitive information, such as passwords or card numbers, by appearing as a credible or original source.
@@ -93,9 +94,6 @@ thumbnail: https://thmb.techidaily.com/d9580a0fe0d295d2fe4ac5bc754f7348af6d4884b
 
  Click on the relevant checkboxes to turn on the settings, and you will be well protected.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ### Potentially Unwanted App Blocking
 
  Not all apps are created equal. While some programs run well and do what they're designed to do efficiently, others don't deserve to see the light of day after the testing cycle.
@@ -105,6 +103,10 @@ thumbnail: https://thmb.techidaily.com/d9580a0fe0d295d2fe4ac5bc754f7348af6d4884b
 ### SmartScreen for Microsoft Store apps
 
  As the name suggests, when you have SmartScreen for Microsoft Store apps turned on, the SmartScreen will filter out any malicious content accessed by Microsoft Store apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Exploit Protection
 
@@ -120,14 +122,11 @@ thumbnail: https://thmb.techidaily.com/d9580a0fe0d295d2fe4ac5bc754f7348af6d4884b
 
  Other parts of Windows Security, like Family options or Virus & threat protection, are just as crucial as App & browser control. So make sure you don’t neglect other features, and try to learn about them too.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -136,6 +135,18 @@ thumbnail: https://thmb.techidaily.com/d9580a0fe0d295d2fe4ac5bc754f7348af6d4884b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-reel-in-success-top-drone-video-editors-for-every-stage-of-learning/"><u>[New] 2024 Approved Reel in Success Top Drone Video Editors for Every Stage of Learning</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-screenflow-uncovered-mastering-video-editing-on-a-mac-for-2024/"><u>[New] ScreenFlow Uncovered Mastering Video Editing on a Mac for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-initiate-twitter-journey-joining-the-network-for-2024/"><u>[Updated] Initiate Twitter Journey Joining the Network for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/from-fast-to-slow-decoding-the-varied-speeds-of-ev-charging-level-1-2-and-3-explained/"><u>From Fast to Slow: Decoding the Varied Speeds of EV Charging - Level 1, 2 & 3 Explained</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-counteract-dxgi-errors-after-device-loss/"><u>How to Counteract DXGI Errors After Device Loss</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-poco-f5-pro-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Poco F5 Pro 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-choices-best-vr-for-drones/"><u>In 2024, Expert Choices Best VR for Drones</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-vmware-start-issues-on-windows-11plusoses/"><u>Mastering VMware Start Issues on Windows 11+OSes</u></a></li>
+<li><a href="https://windows11.techidaily.com/recovering-from-disrupted-asana-use-a-focused-approach-for-pc-users/"><u>Recovering From Disrupted Asana Use: A Focused Approach for PC Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedy-for-save-failed-error-on-windows-systems/"><u>Remedy for Save Failed Error on Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-windows-improvements-what-to-expect-from-feb23/"><u>Top Windows Improvements: What to Expect From Feb23</u></a></li>
+</ul></div>
 

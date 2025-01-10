@@ -1,7 +1,7 @@
 ---
 title: Empower Your PC with the Most Innovative PowerToys Use Cases
-date: 2024-07-29T04:23:37.361Z
-updated: 2024-07-30T04:23:37.361Z
+date: 2025-01-04T16:24:01.448Z
+updated: 2025-01-10T16:48:27.286Z
 tags:
   - windows10
   - windows11
@@ -23,8 +23,9 @@ thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec0
  PowerToys is a set of free software which allows users to easily configure how Windows looks, feels, and works. If you’re still having doubts, we’ll list the best things you can do with PowerToys to level up your Windows user experience.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Install PowerToys
 
  Veteran Windows users might remember PowerToys from Windows 95 days. After a few years of absence, PowerToys became available again for Windows 10 and Windows 11\. We recommend downloading PowerToys from Microsoft Store, so you’ll avoid any pirated version that might infect your computer with malware.
@@ -32,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec0
  Launch Microsoft Store and search for**PowerToys** , or visit the[PowerToys official Store page](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD) directly. Then, press**Get** to install it.
 
 ![Install PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/install-power-toys-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now that you’ve installed PowerToys, let’s take a look at some of its coolest functionalities.
 
@@ -45,32 +50,24 @@ thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec0
 
  Once Color Picker identifies the color, it saves the information to your Windows clipboard. You can configure the tool and select which color formats to use or have Color Picker show the color’s name.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Rename Multiple Files at Once
 
  If you want to rename a lot of files for easier identification, you know how time-consuming the process is. Fortunately, you can rename batches of files at once with PowerRename.
 
  After enabling it in the PowerToys menu, right-click one of the files you want to rename and select**PowerRename** . Use the**Search** field to identify the files that PowerToys will rename.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Rename multiple files with PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/rename-files-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can check the**Preview** window to make sure the selection is correct. Then, type in the new name for your batch. PowerRename allows you to use multiple criteria when it comes to searching for your files. You can exclude files, enumerate items, or make the search case-sensitive.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Resize Multiple Images at Once
 
  Image Resizer is another File Explorer add-on to make your life easier. As its name says, you can resize multiple images at once.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Resize images with PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/resize-images-1.jpg)
 
  Select the images, bring up the context menu, and click**Image resize** . Then, in the pop-up window, you can choose one of the available settings or create a custom one.
@@ -83,9 +80,6 @@ thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec0
 
  File Explorer Preview really stands out when it comes to PDF files, as you can preview the first ten pages of the file.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ## 5\. Keep any Windows on Top
 
  Let’s say you created a Word doc to gather information from multiple files or apps. While you keep browsing through them, Word might get buried behind other windows. To keep this from happening, you could use PowerToys’**Always on Top** .
@@ -97,32 +91,20 @@ thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec0
  To turn it on or off, select the window and press**Win + Ctrl +T** .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Find Your Mouse
 
  If you[need to use a multiple-display setup](https://www.makeuseof.com/how-to-set-up-dual-monitors/) , the cursor might get lost between your monitors. Fortunately, you can have PowerToys indicate your cursor position for you.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![Find your mouse with PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/find-my-mouse-1.jpg)
 
  Head to**Mouse utilities** and turn on the toggle for**Enable Find My Mouse** . The next time when your cursor is lost, all you have to do is press**Left Control** twice. Also, you can use the old method of shaking the mouse, but this time, PowerToys will detect the movement and indicate your cursor position.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Manage Your Keyboard
 
@@ -138,20 +120,26 @@ Key features:
 
 ![Manage windows with FancyZones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/fancy-zones-1-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can add more zones, resize them, or add space between them, so your screen doesn’t look too cluttered.
 
 ## 9\. Remember Every Windows Shortcut
 
 [Windows comes with a lot of keyboard shortcuts](https://www.makeuseof.com/windows-11-keyboard-shortcuts/) that you can use to increase your productivity, but sometimes you may have a hard time remembering them. Instead of googling a shortcut every time you need it, you can have PowerToys refresh your memory.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![PowerToys Windows shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-shortcut-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 10\. Keep Your Computer Awake
 
  There are situations when you need your computer awake, while you step away from it. Maybe you’re downloading a large file or installing a game from Steam. Depending on your Power settings, your computer might enter Sleep mode, which will interrupt the process.
@@ -160,23 +148,17 @@ Key features:
 
  Now, instead of[changing the Power & sleep settings](https://www.makeuseof.com/windows-11-change-power-plan/) , you can use Awake. You can set Awake to keep your computer running indefinitely or for a set time. You can even choose to keep the monitor turned on.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Best Of PowerToys
 
  As you can see, there are plenty of PowerToys tools to make your life easier when you try to rename multiple files, keep your computer awake, or keep an app on top, among many other things. And the best part is that you don’t have to be tech-savvy to use them efficiently.
 
  Now, if you need more tools to upgrade your system, make sure you download new software from safe and trustworthy websites.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -185,4 +167,26 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ransform-videos-into-stories-discover-the-top-10-reactions-for-2024/"><u>[New] Transform Videos Into Stories Discover the Top 10 Reactions for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-chucklechips-studio-laughlens-lab-for-2024/"><u>[Updated] ChuckleChips Studio LaughLens Lab for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/a-comprehensive-guide-to-purging-ios-app-data-keeping-your-phone-clean-and-efficient/"><u>A Comprehensive Guide to Purging iOS App Data – Keeping Your Phone Clean & Efficient</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortlessly-switching-files-between-formats-in-windows/"><u>Effortlessly Switching Files Between Formats in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-development-workflow-navigating-windows-11s-dev-drive/"><u>Elevate Development Workflow: Navigating Windows 11'S Dev Drive</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-faulty-devices-from-system-logs-windows-1011/"><u>Eliminating Faulty Devices From System Logs: Windows 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-read-only-files-a-guide-for-windows-11-users/"><u>Eliminating Read-Only Files: A Guide for Windows 11 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-touchscreen-accuracy-windows-11-tutorial/"><u>Enhancing Touchscreen Accuracy: Windows 11 Tutorial</u></a></li>
+<li><a href="https://windows11.techidaily.com/ensuring-digital-security-best-windows-cryptography-picks-148-chars/"><u>Ensuring Digital Security: Best Window's Cryptography Picks (148 Chars)</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-app-list-for-seamless-os-transition-from-apple-to-windows/"><u>Essential App List for Seamless OS Transition From Apple to Windows</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-vivo-v29-pro-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Vivo V29 Pro to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-the-foremost-techniques-for-transforming-seminars-into-videos/"><u>In 2024, The Foremost Techniques for Transforming Seminars Into Videos</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/key-historical-milestones-paving-the-way-for-the-establishment-of-the-republic-of-china-insights-by-yl-technologies/"><u>Key Historical Milestones Paving the Way for the Establishment of the Republic of China - Insights by YL Technologies</u></a></li>
+<li><a href="https://win-trending.techidaily.com/klonen-von-ssds-auf-pcienvme-erfolgreiches-betriebssystemwechseln-mit-schritt-fur-schritt-anleitung/"><u>Klonen Von SSDs Auf PCIe/NVMe - Erfolgreiches Betriebssystemwechseln Mit Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-connecting-to-dropbox-and-google-drive-directly/"><u>Mastering Windows: Connecting to Dropbox & Google Drive Directly</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-and-resolving-steam-setup-errors-with-win11/"><u>Navigating and Resolving Steam Setup Errors with Win11</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-audiobook-making-made-simple-an-up-to-date-all-inclusive-handbook-for-2024/"><u>New Audiobook Making Made Simple An Up-to-Date, All-Inclusive Handbook for 2024</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/secure-your-documents-a-step-by-step-guide-to-safely-printing-pdfs/"><u>Secure Your Documents: A Step-by-Step Guide to Safely Printing PDFs</u></a></li>
+</ul></div>
 

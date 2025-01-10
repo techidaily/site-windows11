@@ -1,7 +1,7 @@
 ---
 title: "Jumpstart Joy: Eliminate Windows 11'S Sluggishness"
-date: 2025-01-02T23:17:29.690Z
-updated: 2025-01-04T02:58:25.510Z
+date: 2025-01-03T20:59:26.360Z
+updated: 2025-01-10T16:40:11.708Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/860b3898b4af7e1c1dc6c593b5d2eb5997c8c8e6a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Enable Storage Sense
 
  The junk files in our system often get piled up because we forget to clean them. These files not only occupy disk space but also negatively impact system performance. Storage Sense, a feature in Windows 11, acknowledges the importance of removing this extra burden. Once enabled, it automatically wipes out all junk on a device, improving its performance.
@@ -40,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/860b3898b4af7e1c1dc6c593b5d2eb5997c8c8e6a
  Windows users can choose between two power plans: high performance and balanced. Although the balanced power plan can help lower power consumption (particularly on laptops), it limits the device's performance. Since the balanced power plan is often selected by default, you are likely using the same if you have not changed the power plan before.
 
  Changing your device's power plan to high performance can significantly improve its performance. So, you should[change the power plan](https://www.makeuseof.com/windows-11-change-power-plan/) from balanced to high-performance. Note that switching to this plan will increase your device's performance but will also increase its power consumption. So, expect that your laptop's battery will drain faster than usual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Disable Some Third-Party Services
 
@@ -66,20 +66,24 @@ To turn off these notifications, follow the below steps:
 2. Disable the toggle next to**Notifications** to stop receiving all notifications.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Turn Off the Toggle Next to Notifications to Disable Notifications](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-the-toggle-next-to-notifications-to-disable-notifications.jpg)
 3. Disable the toggle next to specific apps in the**Notifications from apps and other senders** section.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Disable the Toggle Next to Specific Apps in the Notifications From Apps and Other Senders Section in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/disable-the-toggle-next-to-specific-apps-in-the-notifications-from-apps-and-other-senders-section-in-windows-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Disable Some Windows Permissions
@@ -90,10 +94,6 @@ To turn off these notifications, follow the below steps:
 2. Select the**Privacy & security** tab.
 3. Go through all the settings under**Windows permissions** and disable the ones you think won't affect any Windows features you might need.  
 ![Windows Permissions Settings in the Privacy and Security Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-permissions-settings-in-the-privacy-and-security-tab-of-the-windows-settings-app.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Don't Let Windows Updates Hamper Your Device's Performance
 
@@ -110,6 +110,10 @@ To pause updates, follow these steps:
 
  Besides this, Windows updates are sometimes buggy and can slow down your computer's performance. If the symptoms started after this, you could[fix Windows slowing down after an update](https://www.makeuseof.com/windows-10-slow-after-update-fix/) in several ways.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Check Which Apps Burden Your CPU, Memory, and Storage
 
  If you have made the above tweaks and they have failed to boost the performance of your device, some unnecessary processes might be overburdening it. So, you need to identify which processes are causing the most stress and which components they are straining. You can quickly check that in Task Manager.
@@ -125,10 +129,6 @@ To pause updates, follow these steps:
  Besides the above tips, removing unwanted programs, defragmenting storage drives, debloating your Windows operating system, and disabling visual effects are other ways to speed up your device. Our[guide on speeding up Windows 11](https://www.makeuseof.com/windows-11-speed-up-tricks/) includes more detailed instructions on how to make these tweaks.
 
 So, try them out to boost your system's performance.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Speed Up Your Slow and Laggy Windows 11 PC
 
@@ -151,22 +151,24 @@ So, try them out to boost your system's performance.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-auditory-aspects-in-inshot-video-creation/"><u>[New] 2024 Approved Auditory Aspects in InShot Video Creation</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-navigating-through-vrs-digital-storyscapes/"><u>[New] 2024 Approved Navigating Through VR's Digital Storyscapes</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-pixelpreserve-a-comprehensive-screen-record-review/"><u>[Updated] 'PixelPreserve' A Comprehensive Screen Record Review</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Honor Magic V2 | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/9-steps-to-resolve-windows-hello-fingerprint-lockout/"><u>9 Steps to Resolve Windows Hello Fingerprint Lockout</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-integration-in-bing-by-microsoft/"><u>AI Integration in Bing by Microsoft</u></a></li>
-<li><a href="https://windows11.techidaily.com/ceasing-chrome-notifications-on-windows-desktop/"><u>Ceasing Chrome Notifications on Windows Desktop</u></a></li>
-<li><a href="https://windows11.techidaily.com/easy-steps-to-revive-your-black-screen-windows-11/"><u>Easy Steps to Revive Your Black Screen Windows 11</u></a></li>
-<li><a href="https://fox-that.techidaily.com/experiencing-facetime-problems-discover-these-15-quick-fixes-for-a-smooth-video-call-experience/"><u>Experiencing FaceTime Problems? Discover These 15 Quick Fixes for a Smooth Video Call Experience</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/gaining-admin-rights-a-step-by-step-guide-to-access-filesfolders-on-windows-by-yl-computing/"><u>Gaining Admin Rights: A Step-by-Step Guide to Access Files/Folders on Windows - By YL Computing</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-to-open-installation-packages-resolving-windows-errors/"><u>Guide to Open Installation Packages: Resolving Windows Errors</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-add-an-uninstall-shortcut-to-the-context-menu-in-windows-1110/"><u>How to Add an Uninstall Shortcut to the Context Menu in Windows 11/10</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-pro-video-enhancement-ranking-the-superior-15-gopro-lut-tools/"><u>In 2024, Pro Video Enhancement Ranking the Superior 15 GoPro LUT Tools</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Realme 12+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-fix-for-frozen-downloads-restart-tracker-resume-progress/"><u>Quick-Fix for Frozen Downloads: Restart Tracker, Resume Progress</u></a></li>
-<li><a href="https://windows11.techidaily.com/slowing-down-windows-11-shutdown-tips-for-live-tasks/"><u>Slowing Down Windows 11 Shutdown: Tips for Live Tasks</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-6-best-to-do-list-apps-for-windows-10-and-11/"><u>The 6 Best To-Do List Apps for Windows 10 & 11</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-techniques-for-finding-original-images-in-instagram-posts/"><u>[New] 2024 Approved Techniques for Finding Original Images in Instagram Posts</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/levate-your-video-profiles-using-smart-templates-for-2024/"><u>[New] Elevate Your Video Profiles Using Smart Templates for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-excellent-4k-capture-gear-the-18-best-ones-for-2024/"><u>[New] Excellent 4K Capture Gear - The 18 Best Ones for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-yuneec-breeze-4k-the-ultimate-uav-showcase/"><u>[New] In 2024, Yuneec Breeze 4K - The Ultimate UAV Showcase</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/roubleshooting-tips-for-the-mystery-of-hidden-shorts-thumbnails-for-2024/"><u>[New] Troubleshooting Tips for the Mystery of Hidden Shorts Thumbnails for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easing-up-windows-11-restrictions-for-store-app/"><u>Easing Up Windows 11 Restrictions for Store App</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-network-issues-with-anydesk-in-win11/"><u>Fixing Network Issues with AnyDesk in WIn11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-oppo-reno-8t-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Oppo Reno 8T 5G Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-secrets-for-striking-fb-video-promos/"><u>In 2024, Secrets for Striking FB Video Promos</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximizing-visual-quality-with-w11s-auto-hdr/"><u>Maximizing Visual Quality with W11's Auto HDR</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-and-easy-guide-for-turning-onoff-windows-key/"><u>Quick & Easy Guide for Turning On/Off Windows Key</u></a></li>
+<li><a href="https://windows11.techidaily.com/safeguard-privacy-erasing-ms-defender-logs-in-windows-1011/"><u>Safeguard Privacy: Erasing MS Defender Logs in Windows 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/set-up-a-fast-safe-login-windows-hello-basics/"><u>Set Up a Fast, Safe Login: Windows Hello Basics</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-overcoming-windows-administrative-restriction-on-installers/"><u>Strategies for Overcoming Windows' Administrative Restriction on Installers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ffordable-art-of-youtube-introsends/"><u>The Affordable Art of YouTube Intros/Ends</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-insiders-guide-accessing-onedrive-offline-on-windows/"><u>The Insider's Guide: Accessing OneDrive Offline on WINDOWS</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-new-era-ai-enhancements-in-windows-platforms/"><u>The New Era: AI Enhancements in Windows Platforms</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-unsupported-app-packages-on-windows-xp/"><u>Troubleshooting Unsupported App Packages on Windows XP</u></a></li>
 </ul></div>
 

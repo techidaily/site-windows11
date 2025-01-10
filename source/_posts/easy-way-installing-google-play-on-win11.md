@@ -1,7 +1,7 @@
 ---
 title: "Easy Way: Installing Google Play on Win11"
-date: 2024-07-29T04:23:12.176Z
-updated: 2024-07-30T04:23:12.176Z
+date: 2025-01-09T18:20:51.800Z
+updated: 2025-01-10T23:30:27.267Z
 tags:
   - windows10
   - windows11
@@ -20,18 +20,6 @@ thumbnail: https://thmb.techidaily.com/1eb9ced51df0b5377c33b33676973c39490da0549
 
  However, you can install Google Play Store on Windows 11 to overcome this limitation. Here we show you how.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Install Google Play Store on Windows 11
 
  As discussed earlier, you can[sideload and run Android apps on Windows 11](https://www.makeuseof.com/windows-11-sideload-android-apps/) . However, finding APKs and installing them via the Command Prompt is cumbersome. You also need to configure Android Debug Bridge (ADB) to install Android apps.
@@ -47,14 +35,16 @@ thumbnail: https://thmb.techidaily.com/1eb9ced51df0b5377c33b33676973c39490da0549
  Note that this process requires installing third-party modified files and packages and involves potential risks. Before proceeding,[create a restore point in Windows 11](https://www.makeuseof.com/windows-11-create-restore-point/) or[recovery drive](http://www.makeuseof.com/create-recovery-drive-system-repair-disc-windows-10/) . These recovery options can help you undo the changes or repair the system if something goes wrong.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Step 1: Uninstall Android Subsystem for Android
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![uninstall windows subsystem for android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/uninstall-windows-subsystem-for-android.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you have Windows Subsystem for Android installed, you can uninstall it from the Apps & features section.
 
@@ -65,6 +55,10 @@ To uninstall WSA:
 3. Next, click on**Apps & Features.**
 4. Locate and click on**Windows Subsystem for Android** under**App list** .
 5. Click the**three dots** and select**Uninstall** . Click**Uninstall** again to confirm the action.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 2: Enable Developer Mode in Windows 11
 
@@ -81,9 +75,6 @@ To enable Developer Mode:
 
 ## Step 3: Enable Virtual Machine to Run Android Apps
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enable windows hypervisor platform windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/enable-windows-hypervisor-platform-windows-11.png)
 
  You need to[enable and configure Virtual Machine Platform and Windows Hypervisor Platform](https://www.makeuseof.com/windows-11-enable-hyper-v/) to run Windows Subsystem for Android on Windows 11\. Skip this step if you have installed WSA previously.
@@ -98,8 +89,9 @@ To configure the Virtual Machine:
 If successful, you will see an update status message during restart.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Step 4: Setup and Install Windows Subsystem for Linux and Linux Distro on Windows 11
 
  To install Google Play Store on Windows 11, you’ll need to build a locally modified Windows Subsystem for Android. For this, you’ll need to install Windows Subsystem for Linux (WSL) and a Linux distro. This is necessary as you’ll need to run some commands to build Windows Subsystem for Android.
@@ -116,29 +108,29 @@ To install WSL and a Linux distro on Windows 11:
 
  Now you’ll see a Linux\\Ubuntu folder in File Explorer’s left pane.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 5: Setup Magisk and Windows Subsystem for Android
 
  The next set of steps involve downloading a Gitbub repository, MagiskOnWSALocal, to integrate Magisk root and Google Apps into WSA.
 
 1. Go to the[MagiskOnWSALocal page](https://github.com/LSPosed/MagiskOnWSALocal) on GitHub.
 2. Click the**Code** drop-down in the top right corner.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![copy github url magiskonwsa](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/copy-github-url-magiskonwsa.jpg)
 3. Copy the**GitHub URL** under the**HTTPS** tab.  
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![download install magiskonWSA github command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/download-install-magiskonwsa-github-command-prompt.jpg)
 4. Open the Ubuntu terminal and type the following command followed by the GitHub URL:  
 `git clone https://github.com/LSPosed/MagiskOnWSALocal.git`
 5. Press**Enter** to close the GitHub repository to the Linux user account on your computer.  
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![run script magiskonwsa local install](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-script-magiskonwsa-local-install.jpg)
 6. Next, type the following command to move to the scripts folder. This will change the directory to the specified folder.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `cd MagiskOnWSALocal  
 cd scripts`
 7. Next, type the following command to run the script and download the necessary files to install all the necessary files for Magisk, Play Store, and Windows Subsystem for Android:  
@@ -147,8 +139,9 @@ cd scripts`
 9. As the process completes, you’ll see a command line installer open up.
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Step 6: Install Google Play Store on Windows 11
 
 1. Next, in the**Into to MagiskOnWSA** dialog, select**OK** .  
@@ -156,8 +149,18 @@ cd scripts`
 2. Next, select**X64 X86\_64** for**Build Arch** .  
 ![build arch masigkonwsa local](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/build-arch-masigkonwsa-local.jpg)
 3. Next, for**WSA release** type, select**Retail Stable Channel** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![WSA retail type](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/wsa-retail-type.jpg)
 4. Select**No** in the**Do you want to** **Root WSA dialog** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Select**Yes** in the**Do you want to install GApps** dialog.  
 ![which GApps you want to install](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/which-gapps-you-want-to-install.jpg)
 6. Select**OpenGApps** in the**Which GApps do you want to install** dialog.
@@ -189,9 +192,6 @@ or
 1. Paste the copied files into the**WSA** folder.
 2. Close**File Explorer** .
 3. Press the**Win** key and type**cmd** . Right-click on**Command Prompt** and select**Run as administrator** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![install Windows subsystem for Android windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/install-windows-subsystem-for-android-windows-11.jpg)
 4. In the Command Prompt window, type the following command to change the directory to the WSA folder:  
 `cd C:\WSA`
@@ -202,9 +202,6 @@ or
 
 To enable Developer mode on Windows Subsystem for Android:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![Windows subsystem for android enable developer mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-subsystem-for-android-enable-developer-mode.jpg)
 
 1. Press the**Win** key, type**Windows Subsystem for Android** , and open the app from the search results.
@@ -216,9 +213,6 @@ To enable Developer mode on Windows Subsystem for Android:
 
  Now you can install Android apps on Windows 11 from Google Play Store. That said, some apps may still not work properly due to the region and licensing restrictions.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Installing the Google Play Store on Windows 11
 
  Being able to run Android apps natively on Windows 11 removes the hassle of Android emulators. Now with the Play Store support, you can install most if not all the Android apps without sideloading.
@@ -231,8 +225,6 @@ To enable Developer mode on Windows Subsystem for Android:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -240,4 +232,23 @@ To enable Developer mode on Windows Subsystem for Android:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-your-guide-to-affordable-cloud-collaboration-top-10-software-recommendations/"><u>[New] In 2024, Your Guide to Affordable Cloud Collaboration Top 10 Software Recommendations</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-the-essential-guide-to-custom-voices-how-to-alter-game-character-sounds-in-free-fire-no-cost-for-2024/"><u>[New] The Essential Guide to Custom Voices How to Alter Game Character Sounds in Free Fire (No Cost!) For 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-windows-could-not-find-driver-software-for-your-device/"><u>[Solved] Windows Could Not Find Driver Software for Your Device</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-fullscreen-image-of-page-layout/"><u>[Updated] Fullscreen Image of Page Layout</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-in-class-extensive-sweep-cameras/"><u>Best in Class Extensive Sweep Cameras</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-huion-h420-functionality-on-windows-os/"><u>Effortless Huion H420 Functionality on Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-steps-to-correct-0x8009030e-in-virtualization/"><u>Essential Steps to Correct 0X8009030E in Virtualization</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-correcting-invalid-profiles-on-windows-oses/"><u>Guide to Correcting Invalid Profiles on Windows OSes</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-stop-windows-update-asking-to-update-and-restart/"><u>How to Stop Windows Update Asking to Update and Restart</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1723808213410-how-to-sync-ps4-controller-easy-guide/"><u>How to Sync PS4 Controller — Easy Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/independent-windows-version-improvement-tactics/"><u>Independent Windows: Version Improvement Tactics</u></a></li>
+<li><a href="https://windows11.techidaily.com/peering-into-microsofts-updating-mechanics-for-os/"><u>Peering Into Microsoft's Updating Mechanics for OS</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/post-weld-treatments-can-alleviate-residual-stresses-but-are-not-a-guaranteed-solution-to-prevent-all-forms-of-deformation/"><u>Post-Weld Treatments Can Alleviate Residual Stresses but Are Not a Guaranteed Solution to Prevent All Forms of Deformation.</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-device-errors-in-windows-11/"><u>Remedying Device Errors in Windows 11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-installing-nvme-drivers-for-windows-systems/"><u>Step-by-Step Guide: Installing NVMe Drivers for Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/unblocking-invisible-networks-microsoft-fix-it-guide/"><u>Unblocking Invisible Networks: Microsoft Fix-It Guide</u></a></li>
+</ul></div>
 

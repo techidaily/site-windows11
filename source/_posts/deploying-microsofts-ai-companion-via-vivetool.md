@@ -1,7 +1,7 @@
 ---
 title: Deploying Microsoft's AI Companion via ViveTool
-date: 2024-08-08T05:56:21.894Z
-updated: 2024-08-09T05:56:21.894Z
+date: 2025-01-08T22:28:00.316Z
+updated: 2025-01-10T20:04:20.388Z
 tags:
   - windows10
   - windows11
@@ -21,14 +21,16 @@ thumbnail: https://thmb.techidaily.com/f8ecdc6c33144a8756139b14ccc37972ba5fac512
  In this article, we will guide you through enabling Windows Copilot AI on Windows 11, though you'll need a third-party tool.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is ViveTool and Why Do You Need It to Enable Windows Copilot?
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Screenshot-showing-Windows-Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-copilot.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The third-party tool you need is ViveTool, a software that can enable hidden features or ones limited to select Windows users. Windows Copilot is one such functionality: at the time of writing, the feature is limited to select Windows users running Windows 11 Dev Insider builds.
 
@@ -39,14 +41,16 @@ thumbnail: https://thmb.techidaily.com/f8ecdc6c33144a8756139b14ccc37972ba5fac512
  To enable Windows Copilot using ViveTool, you'll need to install Windows 11 Dev build 23493 or later.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Enable Windows Copilot Using ViveTool
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![Screenshot showing Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/command-prompt-enabling-windows-copilot.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now that you've successfully installed ViveTool, you're halfway through enabling the Windows Copilot on your PC. All you have to do now is enable some IDs using Command Prompt and update the Microsoft Edge browser. Below is the step-by-step guide on enabling those feature IDs and updating the browser.
 
@@ -67,9 +71,9 @@ thumbnail: https://thmb.techidaily.com/f8ecdc6c33144a8756139b14ccc37972ba5fac512
  When Windows Copilot becomes available for everyone, you will no longer need ViveTool to enable it. You'll be able to enable it from the Taskbar page in the Settings app. You'll find the **Copilot** toggle in the Taskbar items on the Taskbar page.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Windows Copilot Makes Things Easier... but It's Not Nearly as Powerful as Bing Chat
 
  Windows Copilot is not available for everyone, and there is a reason for that. Microsoft will continue testing it with Insiders until it becomes ready for the general public. In other words, if you enable Windows Copilot using ViveTool, you will experience some issues. Windows Copilot is essentially Bing Chat built into Windows 11 and has system-level access.
@@ -78,12 +82,29 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  In this article, we will guide you through enabling Windows Copilot AI on Windows 11, though you'll need a third-party tool.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-action-camera-mics-top-tier-selection-unveiled/"><u>[New] In 2024, Action Camera Mics Top-Tier Selection Unveiled</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-depth-vita-video-editing-analysis-and-step-by-step-guide/"><u>[New] In-Depth Vita Video Editing Analysis & Step-by-Step Guide</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-into-the-humor-hub-of-the-world-wide-web-metaverse-memes-101/"><u>[Updated] In 2024, Into the Humor Hub of the World Wide Web - Metaverse Memes 101</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-video-management-made-easy-the-best-practices-in-mov-on-win-11/"><u>[Updated] In 2024, Video Management Made Easy The Best Practices in .MOV on Win 11</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/11-best-pokemon-go-spoofers-for-gps-spoofing-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>11 Best Pokemon Go Spoofers for GPS Spoofing on Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-overcoming-java-installation-errors-on-pc/"><u>Guide to Overcoming Java Installation Errors on PC</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Honor Magic 6 Lite? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/launch-successfully-guiding-through-startup-services-in-windows-11/"><u>Launch Successfully: Guiding Through Startup Services in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/maintain-full-size-icons-on-your-windows-11-machine/"><u>Maintain Full-Size Icons on Your Windows 11 Machine</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-wake-on-lid-closure-in-windows-devices/"><u>Mastering Wake on Lid Closure in Windows Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-speakers-unresponsiveness/"><u>Overcoming Windows Speakers Unresponsiveness</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pivoting-from-xsplit-top-video-splitters-ranked/"><u>Pivoting From XSplit Top Video Splitters Ranked</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-switching-offon-windows-11s-smartscreen/"><u>Tips for Switching Off/On Windows 11'S SmartScreen</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/transformacion-gratuita-de-peliculas-en-dvd-a-mp4-hevch2-surveno-con-la-mejor-fidelidad-visual-una-guia-completa/"><u>Transformación Gratuita De Películas en DVD a MP4 HEVC/H.2 Surveño Con La Mejor Fidelidad Visual: Una Guía Completa</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-photos-clever-trick-for-image-renewal/"><u>Windows Photos' Clever Trick for Image Renewal</u></a></li>
+</ul></div>
 

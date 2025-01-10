@@ -1,7 +1,7 @@
 ---
 title: Eliminating Team Error 80080300 in Windows 11
-date: 2024-07-29T04:24:10.412Z
-updated: 2024-07-30T04:24:10.412Z
+date: 2025-01-03T16:05:36.806Z
+updated: 2025-01-10T18:50:52.601Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/a3a9fc7f1967fe6814b7bcf229ad0c8c09fecb880
 
  Consequently, users can’t log in to MS Teams when the app throws up that error. Those users might still be able to log in via browsers, but the Windows app displays an 80080300 error code. Here is how you can fix Microsoft Teams error 80080300 in Windows 11.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## 1\. Disconnect Your Microsoft Work or School Account
 
  If you’re utilizing a Microsoft work or school account, we recommend you disconnect from it on your PC. Doing so will eliminate one potential cause of error 0080300\. You can disconnect from a Microsoft work or school account you’re connected with via Settings like this:
@@ -31,6 +28,11 @@ thumbnail: https://thmb.techidaily.com/a3a9fc7f1967fe6814b7bcf229ad0c8c09fecb880
 2. Then select the**Accounts** tab on the left side of Settings.  
 ![access-work-or-school-navigation-option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/access-work-or-school-navigation-option.jpg)
 3. Click**Access work or school** to view the options for those accounts.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Access work or school options in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/add-a-work-or-school-account.jpg)
 4. Next, click your listed work or school account to access a**Disconnect this account** option.
 5. Press the**Disconnect** button.
@@ -45,15 +47,9 @@ thumbnail: https://thmb.techidaily.com/a3a9fc7f1967fe6814b7bcf229ad0c8c09fecb880
 2. Bring up this directory:  
 `C:\Users\<user folder>AppData\Local\Microsoft\WindowsApps\MicrosoftTeams_8wekyb3d8bbwe`
 3. Right-click the**msteams.exe** file and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![properties-option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/properties-option.jpg)
 4. Select**Compatibility** in the msteams.exe Properties window.
 5. Click**Run this program in compatibility mode** **for** to activate the drop-down menu.  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Run this program in compatibility mode for checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/run-in-compatibility-mode-option.jpg)
 6. Select the**Windows 8** option on the drop-down menu.
 7. Click**Apply** to save the new compatibility setting.
@@ -71,10 +67,12 @@ thumbnail: https://thmb.techidaily.com/a3a9fc7f1967fe6814b7bcf229ad0c8c09fecb880
 4. Select the**Test the program** option. Then try logging into your account within the Teams app from there.  
 ![test-the-program-button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/test-the-program-button.jpg)
 5. Click**Next** to bring up further options.
-6. Then select**Yes, save these settings** , or**No, try again** depending on the test outcome. Selecting**No** will bring up further troubleshooting options if needed.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+6. Then select**Yes, save these settings** , or**No, try again** depending on the test outcome. Selecting**No** will bring up further troubleshooting options if needed.  
 ![The Yes, save these settings option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/troubleshooting-options.jpg)
 
 ## 4\. Clear the Cache for Microsoft Teams
@@ -85,22 +83,29 @@ thumbnail: https://thmb.techidaily.com/a3a9fc7f1967fe6814b7bcf229ad0c8c09fecb880
 2. Click the**Apps & features** navigation option to access that uninstaller tool.
 3. Next, click the menu button on the right side of the listed Microsoft Teams app.
 4. Select**Advanced** **options** to get to the**Reset** button for MS Teams.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![The Advanced options menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/advanced-options-option.jpg)
 5. Click**Reset** , and select**Reset** again to clear the app’s cached data.  
+
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![The Reset button for MS Teams](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-reset-button-for-microsoft-teams.jpg)
 6. There’s also an extra**Repair** option available, which doesn’t clear data. You can also try selecting that option if resetting doesn’t help.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  An alternative method is to delete the Teams cache folder in File Explorer. You can open that folder at the following path:
 
 `%appdata%\Microsoft\Teams`
 
  Press the**Windows** +**R** key combination, enter the above path into the Run dialogue, and click**OK** to bring up the Teams folder. Pressing**Ctrl** +**A** will[select all files](https://www.makeuseof.com/windows-11-file-explorer-select-all-files/) within the Teams folder. Then click the**Delete** (trash can) button on the command bar.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Erase Generic Credentials for Teams
 
@@ -110,11 +115,13 @@ thumbnail: https://thmb.techidaily.com/a3a9fc7f1967fe6814b7bcf229ad0c8c09fecb880
 2. Then enter**Credential Manager** inside Windows 11’s general search box.
 3. Select the Credential Manager to open up that Control Panel applet.
 4. Click**Windows Credentials** to view them.  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The Windows Credentials Control Panel applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-credentials-applet.jpg)
 5. Next, delete all the MS Teams and Microsoft Office account credentials saved there. You can erase a credential by clicking its down arrow and selecting**Remove** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Close the Credential Manager applet, and click the**Restart** Start Menu option.
 7. Launch Microsoft Teams after restarting to see if error 80080300 is resolved.
 
@@ -125,19 +132,17 @@ thumbnail: https://thmb.techidaily.com/a3a9fc7f1967fe6814b7bcf229ad0c8c09fecb880
 1. First, bring up the app and file search tool.
 2. Type**Microsoft Teams** in the search utility.
 3. Select the**Uninstall** option for Microsoft Teams in the search tool.  
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Uninstall option for MS Teams](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/uninstall-option-for-ms-teams.jpg)
 4. Click**Uninstall** again to confirm the app’s removal.
 5. Open a browser, and bring up the Microsoft Teams download page on MS Store.
 6. Select**Get in Store app** on the Microsoft Teams page.
 7. Click**Open Microsoft Store** to bring up that app.  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![the-install-option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-install-option.jpg)
 8. Then select MS Teams’**Install** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get Chatting on Microsoft Teams Again
 
@@ -149,8 +154,6 @@ thumbnail: https://thmb.techidaily.com/a3a9fc7f1967fe6814b7bcf229ad0c8c09fecb880
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,4 +161,20 @@ thumbnail: https://thmb.techidaily.com/a3a9fc7f1967fe6814b7bcf229ad0c8c09fecb880
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-key-tips-to-enhance-your-experience-with-tiktok-macos/"><u>[New] 2024 Approved Key Tips to Enhance Your Experience with TikTok (macOS)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-the-future-of-3d-color-grading-tools/"><u>2024 Approved The Future of 3D Color Grading Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-turbo-faster-window-photo-editor/"><u>2024 Approved Turbo Faster Window Photo Editor</u></a></li>
+<li><a href="https://windows11.techidaily.com/efface-the-expiring-windows-license-notifications/"><u>Efface the Expiring Windows License Notifications</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-strategies-to-bypass-windows-11s-tpm-lockdown/"><u>Efficient Strategies to Bypass Windows 11'S TPM Lockdown</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/te-your-video-game-top-tips-for-perfect-live-thumbnails/"><u>Elevate Your Video Game Top Tips for Perfect Live Thumbnails</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-search-issues-on-windows-11-os/"><u>Eliminating Search Issues on Windows 11 OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-performance-metrics-tracking-on-windows/"><u>Enhancing Performance Metrics Tracking on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/eradicating-microsoft-edge-on-win11/"><u>Eradicating Microsoft Edge on Win11</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-realme-c53-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-game-on-essential-samsung-gear-vr-experiences/"><u>In 2024, Game On Essential Samsung Gear VR Experiences</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-why-cant-i-complete-the-feature-upgrade-on-windows-11-version-1607/"><u>Troubleshooting Steps: Why Can't I Complete the Feature Upgrade on Windows 11 (Version 1607)?</u></a></li>
+</ul></div>
 

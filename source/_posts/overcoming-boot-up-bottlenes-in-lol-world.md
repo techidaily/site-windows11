@@ -1,7 +1,7 @@
 ---
 title: Overcoming Boot-Up Bottlenes in LOL World
-date: 2024-12-28T22:41:22.076Z
-updated: 2025-01-04T01:47:25.919Z
+date: 2025-01-05T20:53:12.028Z
+updated: 2025-01-10T21:23:13.498Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Does League of Legends Refuse to Open on Windows Devices?
 
@@ -51,10 +55,6 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
 
  If the above fixes don't help, start applying the remaining fixes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Wait It Out
 
 ![Round silver-colored analog stopwatch on brown wooden panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/pexels-anton-makarenko-1078057.jpg)
@@ -62,10 +62,6 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
  Sometimes, League of Legends takes a bit longer than usual to start up. It's more likely to happen if your hardware isn't strong enough and barely meets the system requirements. So, if you have just launched League of Legends and it appears to be stuck at the loading screen, wait a while to ensure the game isn't just taking extra time to load.
 
  If the screen stays stuck for a few minutes, the problem lies elsewhere. Therefore, begin applying the remaining fixes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Check Your Internet Connection
 
@@ -91,11 +87,7 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
 ![Ending the Riot Process in Windows Task Manager App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/2-ending-the-riot-process-in-windows-task-manager-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Free Up System Resources
@@ -105,6 +97,10 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
  To see that, open Task Manager and check the CPU, GPU, and RAM usage. If the usage percentage for these resources touches 100% periodically, your hardware is under severe strain. In other words, the game doesn't have access to the required resources to function properly.
 
  If that is the case, you will need to close graphics-intensive tasks simultaneously running alongside the game. By closing them, your system will have more resources available that League of Legends can use to function smoothly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Delete the Config and Logs Folders
 
@@ -129,7 +125,7 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
 ![Disabling the Discord Overlay](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Discord-Overlay.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you don't want to turn off the overlay for all games but only League of Legends, follow the below steps:
@@ -141,6 +137,10 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
 
  If you use any other overlay, you can also turn it off in a similar manner within the settings of the app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Whitelist League of Legends From the Windows Defender Firewall
 
  If the game opens for a few seconds and then closes down, the Windows Defender Firewall might be blocking it. To rule out this possibility, you should whitelist League of Legends from Windows Defender Firewall. If you've never done that before, check out our guide on [how to allow apps through Windows Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/).
@@ -148,7 +148,7 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
  Similarly, if you're using a third-party antivirus that you think may interfere with the game process, either disable it or whitelist the game files through it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 10\. Reinstall League of Legends
@@ -173,17 +173,22 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-crafting-content-masterpieces-with-these-essential-youtube-tips/"><u>[New] 2024 Approved Crafting Content Masterpieces with These Essential YouTube Tips</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-best-windows-music-managers/"><u>[New] In 2024, Best Windows Music Managers</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-journey-into-innovation-windows-11-writes-the-next-chapter/"><u>A Journey Into Innovation - Windows 11’ Writes the Next Chapter</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-vagrant-boot-failures-on-win11plusvmware/"><u>Addressing Vagrant Boot Failures on Win11+VMware</u></a></li>
-<li><a href="https://windows11.techidaily.com/advanced-strategies-for-overcoming-win11-installer-challenges/"><u>Advanced Strategies for Overcoming Win11 Installer Challenges</u></a></li>
-<li><a href="https://windows11.techidaily.com/cease-windows-logging-for-app-execution-dates/"><u>Cease Windows' Logging for App Execution Dates</u></a></li>
-<li><a href="https://win-web3.techidaily.com/comment-recupere-t-on-les-informations-dun-ancien-disque-dur-ide-pour-la-sauvegarde/"><u>Comment Récupère-T-On Les Informations D’un Ancien Disque Dur IDE Pour La Sauvegarde ?</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-and-resolving-directdraw-errors-on-win1011/"><u>Decoding and Resolving DirectDraw Errors on WIN10/11</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-poco-m6-pro-4g-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Poco M6 Pro 4G Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/mac-users-guide-to-recording-and-reviewing-educational-talks-for-2024/"><u>Mac Users' Guide to Recording and Reviewing Educational Talks for 2024</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/mastering-regular-sql-server-maintenance-a-guide-to-setting-up-daily-backups-with-ease/"><u>Mastering Regular SQL Server Maintenance: A Guide to Setting Up Daily Backups with Ease</u></a></li>
-<li><a href="https://media-tips.techidaily.com/switching-from-spotify-to-deezer-discovering-the-real-music-haven/"><u>Switching From Spotify to Deezer: Discovering the Real Music Haven</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-visual-excellence-criteria-for-top-10-smartphones-with-high-resolution-cameras-for-2024/"><u>[New] Visual Excellence Criteria for Top 10 Smartphones with High-Resolution Cameras for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-gear-up-yourself-selecting-prime-lenses-for-successful-vlogging/"><u>[Updated] 2024 Approved Gear Up Yourself Selecting Prime Lenses for Successful Vlogging</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-making-magic-transforming-ordinary-posts-into-social-sensations/"><u>[Updated] In 2024, Making Magic Transforming Ordinary Posts Into Social Sensations</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-tailored-content-personalizing-facebook-ad-videos-effectively/"><u>[Updated] Tailored Content Personalizing Facebook Ad Videos Effectively</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/anker-powercoreplus-26800-battery-pack-bundle-review-sleek/"><u>Anker PowerCore+ 26800 Battery Pack Bundle Review: Sleek</u></a></li>
+<li><a href="https://windows11.techidaily.com/arm-powered-windows-computers-get-official-chrome-support/"><u>ARM-Powered Windows Computers Get Official Chrome Support</u></a></li>
+<li><a href="https://windows11.techidaily.com/best-budget-friendly-options-for-adobe-photoshop-and-illustrator-on-windows-systems/"><u>Best Budget-Friendly Options for Adobe Photoshop and Illustrator on Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/comprehensive-analysis-and-ratings-keychron-kc3-chroma-wireless-mechanical-keyboard-premium-quality-at-excellent-value/"><u>Comprehensive Analysis & Ratings: Keychron KC3 Chroma Wireless Mechanical Keyboard – Premium Quality at Excellent Value!</u></a></li>
+<li><a href="https://windows11.techidaily.com/discover-the-ultimate-free-utilities-for-tracking-and-managing-disk-usage-on-windows-systems/"><u>Discover the Ultimate Free Utilities for Tracking and Managing Disk Usage on Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/discover-the-ultimate-list-of-key-apps-your-windows-computer-needs-explained/"><u>Discover the Ultimate List of Key Apps Your Windows Computer Needs, Explained!</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-your-connectivity-experience-swap-out-microsoft-phone-link-with-our-exceptional-app/"><u>Elevate Your Connectivity Experience - Swap Out Microsoft Phone Link with Our Exceptional App!</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-gameplay-experience-by-managing-keyboard-shortcuts-in-windows-and-preventing-altplustabsticky-key-issues/"><u>Enhancing Gameplay Experience by Managing Keyboard Shortcuts in Windows and Preventing Alt+Tab/Sticky Key Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-guide-to-updating-username-on-windows-11/"><u>Essential Guide to Updating Username on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-the-new-era-microsofts-wi-fi-7-experiments-with-windows-11-systems/"><u>Exploring the New Era: Microsoft's Wi-Fi 7 Experiments with Windows 11 Systems</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-how-to-join-and-reap-the-rewards-of-social-media-success-stories/"><u>In 2024, How to Join & Reap the Rewards of Social Media Success Stories</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/iphone-gaming-showdown-which-model-tops-the-list/"><u>IPhone Gaming Showdown: Which Model Tops the List?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/utionizing-channel-presence-the-secret-of-higher-subscriber-numbers/"><u>Revolutionizing Channel Presence The Secret of Higher Subscriber Numbers</u></a></li>
 </ul></div>
 

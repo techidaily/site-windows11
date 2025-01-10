@@ -1,7 +1,7 @@
 ---
 title: Dive Into Windows 11 Auditory Setup and Use
-date: 2024-08-08T05:56:26.152Z
-updated: 2024-08-09T05:56:26.152Z
+date: 2025-01-06T18:17:27.105Z
+updated: 2025-01-10T17:42:25.022Z
 tags:
   - windows10
   - windows11
@@ -21,11 +21,16 @@ thumbnail: https://thmb.techidaily.com/e0a34c7a81fb8279e0e4f8e61ff399b11932a0b05
  Here, we show you steps for recording audio on your Windows 11 PC using both native and third-party apps.
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Record Audio With Your Microphone on Windows 11
 
  There are a couple of different ways you can go about recording your audio in Windows 11\. You can either use the built-in Sound Recorder app or a [third-party app like Audacity to record audio](https://www.makeuseof.com/tag/6-awesome-alternatives-to-audacity-for-recording-and-editing-audio/) using your PC’s microphone. Here's how.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Record Your Audio Using the Sound Recorder App
 
@@ -33,18 +38,15 @@ thumbnail: https://thmb.techidaily.com/e0a34c7a81fb8279e0e4f8e61ff399b11932a0b05
 
  Press the red dot button to initiate the recording. While recording, you have the option to pause the process or save it by clicking the stop button. Alternatively, you can also [use keyboard shortcuts in the Sound Recorder app](https://www.makeuseof.com/windows-11-voice-recorder-keyboard-shortcuts/) to perform these actions.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![Sound Recorder App Settings on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/sound-recorder-app-settings-on-windows.jpg)
 
  You can open the Settings menu in the Sound Recorder app to change the recording format or set your preferred audio quality.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Sound Recorder App Settings on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/sound-recorder-app-settings-on-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Record Your Audio Using the Audacity App
 
@@ -52,16 +54,14 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Download and install the [Audacity app](https://www.audacityteam.org/download/) on your PC. Open it and click the record button to start recording audio. Once you are done recording, click the **File** menu, go to **Export**, and select your preferred format for saving the file.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![Use the Audacity App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/use-the-audacity-app-on-windows.jpg)
 
  In addition to recording audio, Audacity also allows you to combine multiple tracks, [remove background noise from recordings](https://www.makeuseof.com/tag/remove-ambient-noise-audio-files-audacity/), delete vocals from music, and do a lot more. To learn more, check our dedicated guide on [how to use Audacity to record audio on Windows](https://www.makeuseof.com/how-to-use-audacity-to-record-audio/).
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Record the Sound Coming From Your Windows 11 PC
 
  Do you want to record the sound coming out of your Windows 11 PC? Don't worry, you don't need to hold a microphone up to your computer's speakers, as Windows offers a convenient feature known as Stereo Mix for this purpose.
@@ -79,16 +79,14 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  After completing the above steps, open the Sound Recorder or Audacity app and set Stereo Mix as the default audio input device. Then, play a song, podcast, or lecture on your PC and record it.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Easily Record Your Audio on Windows
 
  As we just saw, recording audio on your Windows 11 PC is both quick and easy. The built-in Sound Recorder app is perfect for creating simple recordings like voice memos. But if you need more features, like recording multiple tracks or editing your recordings, it's better to use a third-party app like Audacity.
 
  Here, we show you steps for recording audio on your Windows 11 PC using both native and third-party apps.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -96,4 +94,25 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-accelerate-engagement-through-vimeo-linking/"><u>[New] Accelerate Engagement Through Vimeo Linking</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-quick-fix-for-identifying-imposters-in-your-instagram-community-for-2024/"><u>[New] Quick Fix for Identifying Imposters in Your Instagram Community for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-facebooks-favorite-hits-the-years-highest-viewers-for-2024/"><u>[Updated] Facebook’s Favorite Hits The Year's Highest Viewers for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1-convert-textbooks-into-searchable-pdfs-easily-with-vitalsource/"><u>1. Convert Textbooks Into Searchable PDFs Easily with Vitalsource</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1-top-rated-no-cost-vimeo-downloader-simple-steps-to-save-your-favorite-video/"><u>1. Top-Rated No Cost Vimeo Downloader: Simple Steps to Save Your Favorite Video</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/fix-compatibility-nightmares-in-windows-without-troubleshooting-tools/"><u>Fix Compatibility Nightmares in Windows without Troubleshooting Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-device-not-reset-issue-in-win-11/"><u>Fixing 'Device Not Reset' Issue in Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-windows-store-failure-codes/"><u>Fixing Windows Store Failure Codes</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-self-clearing-windows-recycle-bin/"><u>Guide to Self-Clearing Windows Recycle Bin</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-m54-5gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy M54 5GFRP Lock</u></a></li>
+<li><a href="https://windows11.techidaily.com/masterful-windows-11-app-launch-strategies/"><u>Masterful Windows 11 App Launch Strategies</u></a></li>
+<li><a href="https://windows11.techidaily.com/redefining-phones-role-in-windows-11-networking/"><u>Redefining Phones' Role in Windows 11 Networking</u></a></li>
+<li><a href="https://windows11.techidaily.com/secure-a-static-backdrop-on-modern-windows-11-pcs/"><u>Secure a Static Backdrop on Modern Windows 11 PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-to-prevent-overheating-in-w11-pcs/"><u>Techniques to Prevent Overheating in W11 PCs</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-vivo-y28-5g-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Vivo Y28 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-choosing-a-premium-apple-tv-vpn-in-202amelios-reviewed-rankings-for-the-best-of-2024-zdnet/"><u>Ultimate Guide to Choosing a Premium Apple TV VPN in 202Amelio's Reviewed Rankings for the Best of 2024 | ZDNET</u></a></li>
+</ul></div>
 

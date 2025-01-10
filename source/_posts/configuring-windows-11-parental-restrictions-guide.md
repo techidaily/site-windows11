@@ -1,7 +1,7 @@
 ---
 title: Configuring Windows 11 Parental Restrictions Guide
-date: 2024-08-08T05:56:42.361Z
-updated: 2024-08-09T05:56:42.361Z
+date: 2025-01-06T20:18:17.281Z
+updated: 2025-01-10T17:05:11.197Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/7111378cc0205319da99cc8db3992a3d311982c55
  With that said, let's see how you can keep your peace of mind with Microsoft's Parental control feature.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Create an Account for Your Child on Windows 11
 
  The first step of setting up parental control in Windows 11 is to create a child account. If you haven’t done it already, here’s how you can do it:
@@ -35,7 +36,15 @@ thumbnail: https://thmb.techidaily.com/7111378cc0205319da99cc8db3992a3d311982c55
 
 ![Create child account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/child-account-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Since you will not use this account too often, you should learn [how to start using a password manager](https://www.makeuseof.com/how-to-start-using-password-manager/) to remember its credentials.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Set Up Windows 11's Parental Control Feature
 
@@ -43,9 +52,6 @@ thumbnail: https://thmb.techidaily.com/7111378cc0205319da99cc8db3992a3d311982c55
 
  Press**Win + I** to launch Settings and click**Accounts > Family & other users** . There, click**Manage family settings online or remove an account** .
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Parental control settings in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/parental-control-1.jpg)
 
  This will bring up the Microsoft Family Safety website. Click the**Sign in to Family Safety** and enter your Microsoft account credentials. There you’ll see every account connected to your Microsoft account, including your child’s account.
@@ -58,9 +64,6 @@ thumbnail: https://thmb.techidaily.com/7111378cc0205319da99cc8db3992a3d311982c55
 
  In the**Overview** tab, you can check general information about your child’s account, such as spent screen time, which games your child is playing, or the amount of spent money.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Parental control overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/monitor-and-change-1.jpg)
 
  If you don’t have the time to constantly check the account, scroll down to**Activity settings** . There, turn on the toggle below**Activity reporting** , so you can monitor your child’s activity on all of their devices. Also, you can turn on the toggle below**Send a weekly email to me** .
@@ -78,8 +81,9 @@ thumbnail: https://thmb.techidaily.com/7111378cc0205319da99cc8db3992a3d311982c55
  There, use the slider to set how long they can use their device. Also, you can decide between which hours they can access the device. To save the schedule, click**Finished** .
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Use Parental Control to Filter Content
 
  In the**Content Filters** tab, you can restrict which websites and apps your child can access. To keep your kids safe online, you can enable filters for inappropriate websites and searches or allow access only to approved websites.
@@ -90,28 +94,23 @@ thumbnail: https://thmb.techidaily.com/7111378cc0205319da99cc8db3992a3d311982c55
 
  The filters and activity reporting work only if your kid is using Microsoft Edge. However, you can add the other internet browsers to the list of blocked apps in the**Overview** menu, or you can [use a parental control app for Windows](https://www.makeuseof.com/tag/best-parental-control-apps-windows/) .
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ### How to Use Parental Control to Overview Spending
 
  In the**Spending** category, you can add money or a credit card to the account. You can also set that every purchase needs to be approved by you. Additionally, you can get a notification for every purchase.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Keep Your Kids Safe on Windows 11
 
  Even if you're not that severe when it comes to your kids spending time on the computer, Parental control is still a helpful tool as you can monitor their activity and screen time. However, setting up Parental control software isn't a complete shield against the internet's biggest horrors, as there are ways your kids can bypass it.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -120,6 +119,16 @@ thumbnail: https://thmb.techidaily.com/7111378cc0205319da99cc8db3992a3d311982c55
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-elite-alternatives-to-microsofts-official-gaming-recorder/"><u>[New] 2024 Approved Elite Alternatives to Microsoft's Official Gaming Recorder</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/creer-un-temps-reelisez-avec-des-logiciels-de-montage-video-simples/"><u>Créer Un Temps Réelisez Avec Des Logiciels De Montage Vidéo Simples</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-at-hand-essential-methods-to-decode-qr-codes-on-windows/"><u>Mastery at Hand: Essential Methods to Decode QR Codes on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-one-way-outlook-on-safe-windows-mode/"><u>Overcoming One-Way Outlook on Safe Windows Mode</u></a></li>
+<li><a href="https://windows11.techidaily.com/separate-icons-simplify-win-11-ui/"><u>Separate Icons, Simplify Win 11 UI</u></a></li>
+<li><a href="https://windows11.techidaily.com/skyrocket-above-the-100mbps-ethernet-threshold-in-windows/"><u>Skyrocket Above the 100Mbps Ethernet Threshold in Windows</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-how-to-recover-deleted-events-from-your-iphone-ipad-or-ipod-calendar/"><u>Step-by-Step Tutorial: How to Recover Deleted Events From Your iPhone, iPad or iPod Calendar</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-performer-in-laptop-reviews-a-crowd-favorite-featuring-reliable-hardware/"><u>Top Performer in Laptop Reviews: A Crowd Favorite Featuring Reliable Hardware</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-oppo-a2-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Oppo A2 | Dr.fone</u></a></li>
+</ul></div>
 

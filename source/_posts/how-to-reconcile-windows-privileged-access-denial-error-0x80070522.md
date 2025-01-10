@@ -1,7 +1,7 @@
 ---
 title: How To Reconcile Windows' Privileged Access Denial (Error 0X80070522)
-date: 2024-12-30T21:31:54.813Z
-updated: 2025-01-03T21:19:09.978Z
+date: 2025-01-09T16:48:00.691Z
+updated: 2025-01-10T21:04:26.333Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Run Software Packages as an Administrator Before Saving Files
@@ -38,11 +38,7 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
 ![The Run this program in compatibility mode checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-run-as-administrator-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Set an Admin Account on Windows
@@ -52,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
 ![The Administrator radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-administrator-radio-button.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Turn Off User Account Control (in Three Different Ways)
@@ -60,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
  User Account Control is a Windows security feature that restricts software privileges. That feature is the most regular cause of error 0x80070522\. Follow the steps in our[g](https://www.makeuseof.com/windows-11-disable-user-account-control-prompt/) uide to[disabling User Account Control](https://www.makeuseof.com/windows-11-disable-user-account-control-prompt/) to set UAC to the lowest**Never notify** option.
 
  It’s not recommended to leave UAC off. Do what you must with the files when User Account Control is disabled. Then turn UAC back on after you’ve saved, moved, or copied the files as needed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Modify the Drive’s Sharing Permissions
 
@@ -74,14 +74,14 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
 5. Select the**Share this folder** checkbox.  
 ![The Share this folder checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/share-this-folder-checkbox.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Click the**Permissions** button.
 2. Select the**Full control** option’s**Allow checkbox for the Everyone** group.  
 ![The Full control checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-full-control-checkbox.jpg)
 3. Click the**Apply** and**OK** on the Permissions and Advanced Sharing windows.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Select**Close** to exit the properties window.
 5. Then click**Power** and select**Restart** within your Start menu.
@@ -107,18 +107,21 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-flipping-the-script-turning-online-games-into-channel-gold-for-2024/"><u>[Updated] Flipping the Script Turning Online Games Into Channel Gold for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-xiaomi-redmi-12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Xiaomi Redmi 12 | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-drivers-and-install-logitech-g402-gaming-mouse-software-now/"><u>Download Drivers & Install Logitech G402 Gaming Mouse Software Now!</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209944138-how-to-fix-csgo-crashing-quickly-and-easily/"><u>How To Fix CSGO Crashing. Quickly & Easily</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-messages-from-apple-iphone-se-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Messages From Apple iPhone SE to other iPhone All iOS Versions | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-disabled-apple-iphone-7-plusipad-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Disabled Apple iPhone 7 Plus/iPad Without Computer | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-your-ultimate-guide-to-youtube-shorts/"><u>In 2024, Your Ultimate Guide to YouTube Shorts</u></a></li>
-<li><a href="https://fox-within.techidaily.com/latest-party-tyme-singalong-collection-awaits-new-songs-added-11-13-17-join-the-dj-community/"><u>Latest Party Tyme Singalong Collection Awaits! New Songs Added 11-13-17 - Join the DJ Community!</u></a></li>
-<li><a href="https://windows11.techidaily.com/preserving-torrent-performance-post-transfer-to-a-new-machine/"><u>Preserving Torrent Performance Post-Transfer to a New Machine</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-unable-to-connect-error-with-malwarebytes-in-windows/"><u>Resolving Unable to Connect Error with Malwarebytes in Windows</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-developing-your-personalized-chatbot-using-custom-datasets/"><u>Step-by-Step Guide: Developing Your Personalized ChatBot Using Custom Datasets</u></a></li>
-<li><a href="https://windows11.techidaily.com/tailoring-your-touch-to-the-world-of-win11-keybindings/"><u>Tailoring Your Touch to the World of Win11 Keybindings</u></a></li>
-<li><a href="https://windows11.techidaily.com/taming-high-cpu-in-your-host-system/"><u>Taming High CPU in Your Host System</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-maximize-video-experience-enable-pip-on-youtube-ios/"><u>[Updated] Maximize Video Experience Enable PIP on YouTube iOS</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-vivo-v27-pro-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Vivo V27 Pro Phone When You Forget the Password</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/complete-guide-to-deleting-files-and-folders-on-your-pc-tips-from-yl-computings-experts/"><u>Complete Guide to Deleting Files & Folders on Your PC: Tips From YL Computing's Experts</u></a></li>
+<li><a href="https://games-able.techidaily.com/freeplay-exploring-valuable-game-acquisitions-on-steam/"><u>Freeplay: Exploring Valuable Game Acquisitions on Steam</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-reno-9a-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo Reno 9A to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-unfreeze-google-chrome-in-windows-11-fastly-find-out-now/"><u>How to Unfreeze Google Chrome in Windows 11 Fastly? Find Out Now!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-use-android-phones-in-watching-vr-or-360-videos-for-2024/"><u>How to Use Android Phones in Watching VR or 360 Videos for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hp-victus-cuios-bargain-alert-snag-your-high-quality-budget-friendly-gaming-pc-with-a-sweetening-deal-of-330-off/"><u>HP Victus Cuio's Bargain Alert: Snag Your High-Quality, Budget-Friendly Gaming PC with a Sweetening Deal of $330 Off!</u></a></li>
+<li><a href="https://windows11.techidaily.com/identifying-your-device-top-6-windows-pc-model-names/"><u>Identifying Your Device: Top 6 Windows PC Model Names</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-infinix-note-30-pro-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Infinix Note 30 Pro to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-non-operational-windows-programs-with-7-strategies/"><u>Navigating Non-Operational Windows Programs with 7 Strategies</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-text-pasting-in-powertoys-quickly/"><u>Navigating Text Pasting in PowerToys Quickly</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-top-rated-avi-video-rotators-free-solutions-for-all-platforms/"><u>New 2024 Approved Top-Rated AVI Video Rotators Free Solutions for All Platforms</u></a></li>
+<li><a href="https://windows11.techidaily.com/reclaim-lost-boot-prompts-uefi-fixes/"><u>Reclaim Lost Boot Prompts: UEFI Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/transformative-ways-to-customize-windows-11-ui/"><u>Transformative Ways to Customize Windows 11 UI</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleash-potential-understanding-function-fn-key-operations/"><u>Unleash Potential: Understanding Function (Fn) Key Operations</u></a></li>
 </ul></div>
 

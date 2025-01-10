@@ -1,7 +1,7 @@
 ---
 title: In-Depth Guide to Alternatives for Windows' LS Functionality
-date: 2024-12-27T20:06:33.863Z
-updated: 2025-01-04T00:42:51.388Z
+date: 2025-01-09T22:27:56.217Z
+updated: 2025-01-10T16:20:48.285Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is the “ls” Command in Windows?
 
  The “ls” command (that's LS, not IS) is one of the first terminal commands that veterans teach [Linux beginners](https://www.makeuseof.com/tag/linux-beginners-guide/). It allows users to list files and directories from the Command Line Interface. You can think of it as a File Explorer, but without the user-friendly icons and navigation buttons.
@@ -36,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
  By using the “ls” command, users can list the contents of the current working directory, similarly, you can also [switch directories using Command Prompt](http://www.makeuseof.com/how-to-change-directory-in-cmd/). On Windows, the usage of "ls" in Command Prompt is slightly different compared to Linux, but it can accomplish the same task.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use the “ls” Command in Command Prompt on Windows 10 and 11
@@ -50,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
 ![Use dir command to list files in Windows CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/dir-command-cmd.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To list files and directories using the equivalent of "ls" in Command Prompt on Windows 10 and 11:
@@ -60,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
 3. Command Prompt will now list all of the files in the current working directory, along with their sizes and last modified date.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use "ls" Command in Windows PowerShell
@@ -72,7 +68,7 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
 ![powershell-ls](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/powershell-ls-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Follow these steps to view a file directory using the "**ls**" command on Windows using Windows PowerShell:
@@ -81,6 +77,10 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
 2. Navigate to your target directory using the **cd** command.
 3. Type the **ls** command and press enter to view all of the listed files and folders within your target directory.
 4. Similarly, you can even use the **dir** or **gci** command to view the contents of a folder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## A Handy Tool for Both Linux and Windows Users
 
@@ -100,14 +100,22 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-principles-of-paradoxical-intervention/"><u>[New] 2024 Approved Principles of Paradoxical Intervention</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-essential-guidelines-for-implementing-music-emojis-in-instagram/"><u>[New] Essential Guidelines for Implementing Music Emojis in Instagram</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-demystifying-instagrams-videography-restrictions-for-2024/"><u>[Updated] Demystifying Instagram's Videography Restrictions for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-ditch-intels-onboard-graphics-in-windows/"><u>How to Ditch Intel's Onboard Graphics in Windows</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-iphone-selfie-gear-rankings-8/"><u>In 2024, The Ultimate Guide to Iphone Selfie Gear Rankings (#8)</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-lan-world-play-in-windows-mc-game/"><u>Mastering LAN World Play in Windows MC Game</u></a></li>
-<li><a href="https://video-capture.techidaily.com/no-cost-methods-for-transforming-dvd-videos-into-mp4-on-windows-11/"><u>No-Cost Methods for Transforming DVD Videos Into MP4 on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/redefine-reviving-with-modern-os-alternatives/"><u>Redefine Reviving with Modern OS Alternatives</u></a></li>
-<li><a href="https://windows11.techidaily.com/reverting-back-to-legacy-window-explorer/"><u>Reverting Back to Legacy Window Explorer</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-advanced-techniques-for-smartphone-screenshots/"><u>[New] 2024 Approved Advanced Techniques for Smartphone Screenshots</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-perfect-date-trackers-for-your-wedding-ios-and-android-edition/"><u>[New] Perfect Date Trackers for Your Wedding, iOS and Android Edition</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-from-live-demos-to-recordings-harness-ezvide-power/"><u>[Updated] 2024 Approved From Live Demos to Recordings Harness EZvide Power</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-premium-free-fb-imagemotion-graphics-builder/"><u>[Updated] 2024 Approved Premium Free FB Image/Motion Graphics Builder</u></a></li>
+<li><a href="https://blog-min.techidaily.com/download-des-freemaker-video-konverters-fur-mac-einfach-und-effektiv-erklart/"><u>Download Des FreeMaker Video-Konverters Für Mac: Einfach Und Effektiv Erklärt!</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-resolving-winerror-0x8007043c-on-media-creator/"><u>Guide to Resolving WinError 0X8007043C on Media Creator</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-enable-device-driver-loading-in-win11/"><u>How to Enable Device Driver Loading in Win11</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-perfect-presentation-with-personalized-typography-in-ae-projects/"><u>In 2024, Perfect Presentation with Personalized Typography in AE Projects</u></a></li>
+<li><a href="https://windows11.techidaily.com/keyboard-prodigy-tips-for-windows-photoshop/"><u>Keyboard Prodigy Tips for Windows Photoshop</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-technology-insights-the-essential-guide-to-hardware-by-tom/"><u>Mastering Technology Insights: The Essential Guide to Hardware by Tom</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-windows-11-typing-troubles-addressing-zerox-code-0x80049dd3/"><u>Navigating Through Windows 11 Typing Troubles: Addressing Zerox (Code: 0X80049DD3)</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-resource-already-active-issue-on-windows-11/"><u>Overcoming Resource Already Active Issue on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-nvidias-geforce-error-x0001-on-windows-1011/"><u>Resolving Nvidia's GeForce Error X0001 on Windows 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-rpc-issues-on-windows-key-strategies/"><u>Resolving RPC Issues on Windows: Key Strategies</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-windows-write-operations-error/"><u>Tackling Windows Write Operations Error</u></a></li>
+<li><a href="https://fox-info.techidaily.com/top-3-tactics-transforming-pin-videos-into-mp3-sounds/"><u>Top 3 Tactics Transforming Pin Videos Into MP3 Sounds</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/why-the-new-iphone-16-pro-is-my-top-choice-over-the-iphone-16-max-insights-from-apples-latest-reveal/"><u>Why the New iPhone 16 Pro Is My Top Choice Over the iPhone 16 Max - Insights From Apple's Latest Reveal</u></a></li>
 </ul></div>
 

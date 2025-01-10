@@ -1,7 +1,7 @@
 ---
 title: Cure the Save Issue in Microsoft OSes
-date: 2024-08-08T05:56:53.436Z
-updated: 2024-08-09T05:56:53.436Z
+date: 2025-01-09T16:15:07.573Z
+updated: 2025-01-10T17:49:08.023Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/738343d11636524e97e883ecdfb55ee8c179338e8
  Is that error also preventing you from changing where new apps save to? If it is, this is how you can fix error codes 0x80070005 or 0x80070539 on Windows 11/10\.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Set Your User Account to Administrator
 
  If you’re utilizing a standard Windows account, [change your user account type](https://www.makeuseof.com/ways-to-change-user-account-windows-10/) to an administrative one. A standard user account will prevent you from applying any more complicated system changes. Changing the save location for apps is something you might need admin privileges for.
@@ -43,23 +44,22 @@ thumbnail: https://thmb.techidaily.com/738343d11636524e97e883ecdfb55ee8c179338e8
 
  If that still doesn’t work, then proceed to the next resolution.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Delete or Rename the WpSystem Folder
 
  Many users confirm that renaming or deleting the WpSystem folder fixes error 0x80070005\. WpSystem is a folder created to store app data. Try renaming that folder to **WpSystem.old** on the drive you can’t set to be a save location for apps, as outlined for the previous method. The WpSystem will be in the same directory as the WindowsApps folder.
 
  Alternatively, delete the WpSystem folder. You can [erase a file or folder in Explorer](https://www.makeuseof.com/windows-11-delete-select-files/) by right-clicking it and selecting **Delete**. If you can’t find that folder or this potential solution doesn’t work, try the next resolution.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![The Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Set Full System Permission for the System Volume Folder
 
  Setting full permission for the System Volume folder is another confirmed fix for error 0x80070005\. Follow these steps to set full permission for the System Volume directory:
@@ -69,6 +69,11 @@ thumbnail: https://thmb.techidaily.com/738343d11636524e97e883ecdfb55ee8c179338e8
 3. Deselect the **Hide protected operating system files (Recommended)** option.  
 ![The Hide protected operating system files checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hide-protected-operating-system-files.jpg)
 4. Select the **Show hidden files, folders and drives** radio button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click **Apply** to save the new Explorer settings.
 
 1. Select the drive you need to set as the default save location for apps.
@@ -76,20 +81,18 @@ thumbnail: https://thmb.techidaily.com/738343d11636524e97e883ecdfb55ee8c179338e8
 3. Click **Security > Advanced** to bring up an Advanced Security Settings window.  
 ![The Security tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/security-tab.jpg)
 4. Press the **Continue** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Next, click **Add** to view a Permission Entry window.
 
 1. Click the **Select a principal** option.
 2. Input **SYSTEM** inside the object name box.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![The Select User or Group window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/select-user-group.jpg)
 3. Click on the **OK** button.
 4. Select the **Full control permission** setting.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Full control checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/full-control-option.jpg)
 5. Then select the **OK** options on the Permission Entry and Advanced Security Settings windows.
 
@@ -103,12 +106,31 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Is that error also preventing you from changing where new apps save to? If it is, this is how you can fix error codes 0x80070005 or 0x80070539 on Windows 11/10\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-high-fidelity-footage-face-off-hero5-black-vs-hero4-silver/"><u>[New] In 2024, High Fidelity Footage Face-Off Hero5 Black vs Hero4 Silver</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-top-budget-friendly-sites-for-stunning-fx-on-videos/"><u>[Updated] In 2024, Top Budget-Friendly Sites For Stunning FX on Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-digital-dimension-state-of-the-art-vr/"><u>[Updated] The Digital Dimension State-of-the-Art VR</u></a></li>
+<li><a href="https://media-tips.techidaily.com/enjoy-nfl-games-on-sundays-for-free-special-promotion-from-verizon/"><u>Enjoy NFL Games on Sundays For Free – Special Promotion From Verizon!</u></a></li>
+<li><a href="https://fox-info.techidaily.com/full-unveiling-of-picsart-complete-users-guide/"><u>Full Unveiling of PicsArt Complete User's Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/get-your-m3-mac-essential-app-tg-pro-enjoy-a-whopping-75-discount-only-available-this-cyber-monday/"><u>Get Your M3 Mac Essential App, TG Pro! Enjoy a Whopping 75% Discount Only Available This Cyber Monday .</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-capture-and-manage-screenshots-on-steam/"><u>How to Capture and Manage Screenshots on Steam</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-set-active-hours-and-avoid-sudden-updates-on-windows-11/"><u>How to Set Active Hours and Avoid Sudden Updates on Windows 11</u></a></li>
+<li><a href="https://fox-where.techidaily.com/how-to-transfer-your-dj-sets-from-pcdj-dex-2-to-dex-3-a-comprehensive-step-by-step-guide/"><u>How to Transfer Your DJ Sets From PCDJ Dex 2 to Dex 3: A Comprehensive Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-turn-on-quick-startup-your-complete-windows-11-guidebook/"><u>How to Turn On Quick Startup: Your Complete Windows 11 Guidebook</u></a></li>
+<li><a href="https://windows11.techidaily.com/make-your-phone-games-mobile-again-transitioning-to-pcwindows-11-via-google-play/"><u>Make Your Phone Games Mobile Again: Transitioning to PC/Windows 11 via Google Play</u></a></li>
+<li><a href="https://windows11.techidaily.com/pinpoint-customization-techniques-for-windows-11-search/"><u>Pinpoint Customization Techniques for Windows 11 Search</u></a></li>
+<li><a href="https://techidaily.com/repair-corrupt-pdf-v17-file-using-pdf-repair-tool-stellar-by-stellar-guide/"><u>Repair Corrupt PDF v1.7 File using PDF Repair Tool | Stellar</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-boot-time-windows-audio-recovery-procedures/"><u>Resolving Boot-Time Windows Audio Recovery Procedures</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-resolving-nvidia-cp-access-denied-on-ws1110/"><u>Troubleshooting: Resolving Nvidia CP Access Denied on WS11/10</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-disms-role-in-fixing-win11-os-images/"><u>Understanding DISM's Role in Fixing Win11 OS Images</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-the-mystery-behind-windows-memory-snapshot/"><u>Unraveling the Mystery Behind Windows' Memory Snapshot</u></a></li>
+</ul></div>
 

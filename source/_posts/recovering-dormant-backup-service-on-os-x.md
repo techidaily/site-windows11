@@ -1,7 +1,7 @@
 ---
 title: Recovering Dormant Backup Service on OS X
-date: 2024-12-31T03:29:29.608Z
-updated: 2025-01-04T02:03:29.299Z
+date: 2025-01-05T20:50:06.495Z
+updated: 2025-01-10T22:33:19.639Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Enable and Start Volume Shadow Copy Services
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 ![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/services-window.jpg)
 4. Click the drop-down menu labeled **Startup type** and select **Automatic** if the service is set differently.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Startup type drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/startup-type-drop-down-menu.jpg)
 5. Press **Start** in the Volume Shadow Copy Service window.
 
@@ -45,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 8. Also, check that the RPC Endpoint Mapper and DCOM Server Process dependency services for Volume Shadow Copy are enabled and running.
 
  Restart those shadow copy services if they’re already set as required. You can do that by right-clicking on those services and selecting the Restart context menu options for them.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Repair Your System Files With the SFC and DISM Commands
 
@@ -62,10 +62,6 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 
 ![The CHKDSK command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chkdsk-scan-command.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Disable Antivirus Shields
 
  Sometimes third-party antivirus software can interfere with and prevent Volume Shadow Copy from functioning correctly. So, try disabling third-party antivirus shields before attempting to back up or restore Windows. The usual way to do that is to right-click on an antivirus app’s system tray icon and select a disable/turn off shield protection option from there.
@@ -75,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
  Don’t leave your antivirus shield permanently disabled. If possible, select to disable it for a few hours before attempting the backup or system restoration operation again. Or manually re-enable your antivirus if you can’t select a temporary option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Disable Any Active Firewalls
@@ -87,7 +83,11 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 ![The Turn off Windows Defender Firewall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/turn-off-firewall-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Set Windows to Perform a Clean Boot
@@ -114,19 +114,18 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-effortlessly-capture-clear-water-scenes-top-tips-exposed/"><u>[Updated] In 2024, Effortlessly Capture Clear Water Scenes Top Tips Exposed</u></a></li>
-<li><a href="https://windows11.techidaily.com/5-tips-for-turning-around-a-frozen-windows-hello-system/"><u>5 Tips for Turning Around a Frozen Windows Hello System</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-tecno-pova-5-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Tecno Pova 5 Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/boosting-charge-awareness-customizing-battery-indicators-in-win11/"><u>Boosting Charge Awareness: Customizing Battery Indicators in Win11</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-download-and-update-your-geforce-gtx-980-ti-drivers-today/"><u>How to Download & Update Your GeForce GTX 980 Ti Drivers Today</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-something-went-wrong-office-error-on-windows/"><u>How to Fix the “Something Went Wrong” Office Error on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-most-common-blue-screen-errors-on-windows/"><u>How to Fix the Most Common Blue Screen Errors on Windows</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-perfect-screen-recording-made-simple-and-orderly/"><u>In 2024, Perfect Screen Recording Made Simple & Orderly</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/navigating-the-art-of-3d-text-rendering-in-ps-for-2024/"><u>Navigating the Art of 3D Text Rendering in PS for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/photo-to-video-magic-add-music-and-tell-a-story/"><u>Photo to Video Magic Add Music and Tell a Story</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/rollback-rx-alternatives-libres-et-performants-pour-les-systemes-dexploitation-windows-11-10-8-7/"><u>RollBack Rx Alternatives Libres Et Performants Pour Les Systèmes D'Exploitation Windows (11, 10, 8, 7)</u></a></li>
-<li><a href="https://windows11.techidaily.com/sync-software-unlocking-the-fourfold-compatibility-troubleshooter/"><u>Sync Software: Unlocking the Fourfold Compatibility Troubleshooter</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-artisans-approach-to-high-dynamic-range-mastery-on-windows-11/"><u>The Artisan’s Approach to High Dynamic Range Mastery on Windows 11</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/the-nexus-of-playfulness-for-young-gamers/"><u>The Nexus of Playfulness for Young Gamers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-mastering-cost-effective-visual-integration-in-writing/"><u>[New] Mastering Cost-Effective Visual Integration in Writing</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-understanding-ios-video-recording/"><u>[Updated] In 2024, Understanding iOS Video Recording</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-is-inshot-the-best-of-the-best-expert-reviews-speak-up/"><u>2024 Approved Is InShot The Best of the Best? Expert Reviews Speak Up</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/captivating-hd-zoological-wallpapers-exclusive-wildlife-artwork-and-background-images-from-yl-software/"><u>Captivating HD Zoological Wallpapers: Exclusive Wildlife Artwork and Background Images From YL Software</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Realme 12+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/minimizing-time-outs-and-lag-in-windows-discord-service/"><u>Minimizing Time-Outs and Lag in Windows Discord Service</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-access-errors-with-epic-launcher/"><u>Resolving Access Errors with Epic Launcher</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/schneller-und-sicherer-weg-zur-datenwiederherstellung-auf-micro-sd-karten-expertenrat/"><u>Schneller Und Sicherer Weg Zur Datenwiederherstellung Auf Micro-SD-Karten – Expertenrat</u></a></li>
+<li><a href="https://windows11.techidaily.com/team-chat-freezing-heres-a-fix/"><u>Team Chat Freezing? Here’s a Fix</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/transfer-data-effortlessly-three-techniques-for-iphone-backups-on-external-drives/"><u>Transfer Data Effortlessly: Three Techniques for iPhone Backups on External Drives</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshoot-no-display-on-pc-startup/"><u>Troubleshoot No-Display on PC Startup</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-impactful-windows-11-service-disabling/"><u>Understanding Impactful Windows 11 Service Disabling</u></a></li>
+<li><a href="https://windows11.techidaily.com/upgrade-security-mastering-windows-11-password-change/"><u>Upgrade Security: Mastering Windows 11 Password Change</u></a></li>
 </ul></div>
 

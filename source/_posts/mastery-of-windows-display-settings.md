@@ -1,7 +1,7 @@
 ---
 title: Mastery of Windows Display Settings
-date: 2024-12-29T22:08:28.298Z
-updated: 2025-01-04T03:55:56.690Z
+date: 2025-01-04T20:06:51.793Z
+updated: 2025-01-10T20:32:53.637Z
 tags:
   - windows10
   - windows11
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/214585cc6f04e9f51b09b50240658d386b443c6b6
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. How to Change the Lock Screen Timeout Settings
@@ -48,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/214585cc6f04e9f51b09b50240658d386b443c6b6
 5. Click the **On battery power** drop-down menu on the right-hand side pane and select your preferred option.
 
 ![Using Windows System Settings to Change the Lock Screen Timeout Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Using-Windows-System-Settings-to-Change-the-Lock-Screen-Timeout-Settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Apply the same settings for the **When plugged** in option on the right-hand side pane. From there, close the **system settings** and restart your device to save these changes.
 
@@ -69,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/214585cc6f04e9f51b09b50240658d386b443c6b6
 ![Using the Edit Plan Settings to Change the Lock Screen Timeout Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Using-the-Edit-Plan-Settings-to-Change-the-Lock-Screen-Timeout-Settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Use the Advanced Power Options (via the Control Panel)
@@ -86,10 +90,6 @@ thumbnail: https://thmb.techidaily.com/214585cc6f04e9f51b09b50240658d386b443c6b6
 6. Select the **On battery** option, and then configure the lock screen timeout settings using the **arrow buttons**. From there, apply the same settings for the **Plugged in** option.
 
 ![Using the Advanced Power Options to Change the Lock Screen Timeout Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Using-the-Advanced-Power-Options-to-Change-the-Lock-Screen-Timeout-Settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  When you're done, click **Apply** and then click **OK**. Finally, close the **Control Panel** and then restart your device to save these changes.
 
@@ -119,13 +119,13 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 
  Now, let's explore how you can change the screen saver timeout settings.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Use the System Settings
 
 ![An illustration of someone configuring settings on a PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/An-illustration-of-someone-configuring-settings-on-a-PC.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Here's how to change the duration of the screen saver using the system settings:
 
@@ -135,6 +135,10 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
  Bear in mind that you can change the screen saver timeout settings only if the screen saver is enabled. If the screen saver is currently disabled, click the **Screen saver** drop-down menu and select your preferred image.
 
 ![Enabling the screensaver option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Enabling-the-screensaver-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  From there, follow these steps to configure the screen saver timeout settings:
 
@@ -146,7 +150,7 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
  Finally, press **Apply** and then press **OK** to save these changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Use the Local Group Policy Editor
@@ -159,10 +163,6 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 4. Double-click the **Screen saver timeout** option on the right-hand side.
 
 ![Using the LGPE to Change the Screen Saver Timeout Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Using-the-LGPE-to-Change-the-Screen-Saver-Timeout-Settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In the next window, select the **Enabled** option. From there, use the **arrow buttons** next to the **Seconds** box to select the duration of the screen saver.
 
@@ -179,6 +179,10 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 ### Use the Registry Editor
 
 ![A person typing commands on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-person-typing-commands-on-a-laptop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Registry Editor can help you tweak the screen-saver timeout settings with ease. But it's quite a sensitive tool, so you should consider [backing up the Registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) first before you proceed.
 
@@ -197,10 +201,6 @@ HKEY_USERS\.DEFAULT\Control Panel\Desktop
  Next, double-click the **ScreenSaveTimeOut** value.
 
 ![Clicking the "ScreenSaveTimeOut" value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/clicking-the-screensavetimeout-value.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now, type the screen saver timeout duration (in seconds) in the **Value data** box. The default option is usually **900** seconds (15 minutes), but you can enter your desired value. Finally, click **OK** and then restart your device to save these changes.
 
@@ -225,18 +225,19 @@ HKEY_USERS\.DEFAULT\Control Panel\Desktop
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-achieving-financial-independence-through-youtube-and-adsense/"><u>[Updated] In 2024, Achieving Financial Independence Through YouTube and AdSense</u></a></li>
-<li><a href="https://windows11.techidaily.com/efficient-data-handling-in-modern-windows-file-deletion-automation/"><u>Efficient Data Handling in Modern Windows: File Deletion Automation</u></a></li>
-<li><a href="https://windows11.techidaily.com/exploring-soft-dependency-management-in-win-environments/"><u>Exploring Soft Dependency Management in Win Environments</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/flashfreeze-video-interruption-tip/"><u>FlashFreeze Video Interruption Tip</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-apple-iphone-6-plus-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From Apple iPhone 6 Plus? Heres the Best Fixes</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/local-account-creation-bypass-halted-by-windows-11-update/"><u>Local Account Creation Bypass Halted by Windows 11 Update</u></a></li>
-<li><a href="https://windows11.techidaily.com/maintaining-taskbars-presence-in-maxed-browser-views/"><u>Maintaining Taskbar's Presence in Maxed Browser Views</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-kb4056892-patch-for-windows-10-version-1903-a-step-by-step-guide-to-smooth-installation/"><u>Mastering the KB4056892 Patch for Windows 10 Version 1903 – A Step-by-Step Guide to Smooth Installation</u></a></li>
-<li><a href="https://windows11.techidaily.com/secure-your-sign-in-overcoming-access-restrictions-in-win/"><u>Secure Your Sign-In: Overcoming Access Restrictions in Win</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-achieve-stable-gameplay-and-fps-boost-in-roblox/"><u>Strategies to Achieve Stable Gameplay & FPS Boost in Roblox</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-deactivated-sliders-for-volume-control/"><u>Troubleshooting Deactivated Sliders for Volume Control</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-your-ultimate-source-list-the-top-picks-of-copyright-friendly-comic-soundtracks-websites/"><u>Updated In 2024, Your Ultimate Source List The Top Picks of Copyright-Friendly Comic Soundtracks Websites</u></a></li>
-<li><a href="https://article-helps.techidaily.com/xsplit-vs-obs-which-one-simplifies-live-broadcast-for-2024/"><u>XSplit Vs. OBS – Which One Simplifies Live Broadcast for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-spectacular-stop-motion-animations-15-list/"><u>[New] Spectacular Stop-Motion Animations #15 List</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-keep-a-permanent-record-fbm-calls-full-recording/"><u>[Updated] Keep a Permanent Record FBM Calls Full Recording</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-unseen-snaps-and-hushed-user-signal-to-check-for-blocks-for-2024/"><u>[Updated] Unseen Snaps and Hushed User Signal to Check for Blocks for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-close-up-filmmaking-zooming-into-details/"><u>2024 Approved Close-Up Filmmaking Zooming Into Details</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-type-on-your-apple-device-here-are-6-solutions/"><u>Can't Type on Your Apple Device? Here Are 6 Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-prolong-windows-10-restart-time-while-tasks-run/"><u>How to Prolong Windows 10 Restart Time While Tasks Run</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-top-5-must-have-video-editing-software-for-macos-sierra/"><u>In 2024, Top 5 Must-Have Video Editing Software for macOS Sierra</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximize-graphics-performance-with-1-6-tools-for-windows-pcs/"><u>Maximize Graphics Performance with #1-#6 Tools for Windows PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-remote-desktop-windows-problems/"><u>Navigating Through Remote Desktop Windows Problems</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-failures-of-file-segmentation-service/"><u>Resolving Failures of File Segmentation Service</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/sonic-synchronicity-100-tongue-twister-triumphs/"><u>Sonic Synchronicity: 100 Tongue Twister Triumphs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/tech-enhancement-latest-intel-chipset-drivers/"><u>Tech Enhancement: Latest Intel Chipset Drivers</u></a></li>
+<li><a href="https://windows11.techidaily.com/turning-classic-computers-into-modern-windows-11-hubs-with-tools/"><u>Turning Classic Computers Into Modern Windows 11 Hubs with Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-stop-intelligent-assistant/"><u>Windows 11: Stop Intelligent Assistant</u></a></li>
 </ul></div>
 

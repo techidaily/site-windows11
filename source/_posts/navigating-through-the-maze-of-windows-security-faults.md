@@ -1,7 +1,7 @@
 ---
 title: Navigating Through the Maze of Windows Security Faults
-date: 2024-12-29T21:25:20.798Z
-updated: 2025-01-04T00:50:21.557Z
+date: 2025-01-05T16:12:27.833Z
+updated: 2025-01-10T17:03:06.105Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check for New Windows Updates
 
  First, check for and install available Windows patch updates. Microsoft releases many patches to update Microsoft Defender. So, a patch update could feasibly resolve a Windows Security bug. Our[guide to manually updating Windows](https://www.makeuseof.com/update-windows-manually/#:~:text=Press%20the%20Win%20%2B%20I%20hotkeys,the%20Check%20for%20updates%20button.) tells you how to check for and install new updates in Settings.
@@ -32,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 ![The Reset option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Run System File and Image Scans
@@ -40,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
  System file issues might be causing the “Unexpected error” on your PC. To check if that’s the case, run a System File Checker scan within the Command Prompt. Such a scan will repair the corrupted system files detected. Our guide on[utilizing the SFC tool on Windows](https://www.makeuseof.com/system-file-checker-sfc-windows/) tells you how to scan system files with that utility.
 
 ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-sfc-scannow-command.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  It’s also recommended to run a Deployment Image Servicing and Management scan, which can resolve Windows system image issues. The System File Checker tool doesn’t work when there are issues with the system image. So, try executing this command before the SFC scan as well:
 
@@ -72,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 7. Select**OK** to confirm the value for the DWORD.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Reset the Windows Security App
@@ -80,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
  Resetting Windows Security is worth trying whenever that app isn’t working right. In this case, something is up with the antivirus component of that app. You can reset that app within Settings or by executing a PowerShell command. Our article about[resetting Windows Security](https://www.makeuseof.com/windows-11-reset-windows-security/) tells you how to apply this potential resolution in three different ways.
 
 ![The Reset option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Run a Malwarebytes Scan
 
@@ -98,10 +102,6 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 ![The Skip this for now option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/skip-this-for-now-option.jpg)
 9. Select**Done** to finish.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 10. Malwarebytes will then open automatically. Select**Get started** \>**Maybe later** within the Malwarebytes window.
 11. Click**Get started** again.
 12. Select Malwarebytes’**Scan** option.  
@@ -113,7 +113,7 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
  The Microsoft Safety Scanner is an alternative to Malwarebytes you can run a malware scan with as well. However, that’s only a temporary scanning utility that expires after 10 days. You can download that utility from this[Microsoft page](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/safety-scanner-download?view=o365-worldwide) . Check out[our Microsoft Safety Scanner guide](https://www.makeuseof.com/microsoft-safety-scanner-guide/) for details about to purge malware with that tool.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Check the "Turn Off Microsoft Defender Antivirus" Group Policy Setting
@@ -131,7 +131,7 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 5. Select the policy’s**Apply** and**OK** options.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Reset Windows or Perform an In-Place Upgrade
@@ -142,13 +142,13 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 
 ![The Reset this PC tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-this-pc-tool.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  An in-place upgrade is an alternative troubleshooting method to resetting Windows. Performing an in-place upgrade will reinstall Windows by installing the latest build version. So, it’s like a reset, but the advantage is that an in-place upgrade preserves the apps you’ve installed. This guide to[performing an in-place upgrade on Windows](https://www.makeuseof.com/in-place-upgrade-windows-11/) provides full instructions for upgrading Windows 11 in such a way.
 
  However, you could feasibly upgrade to a new Windows version via Settings. Open**Windows Update** in the Settings app to see if there’s a version upgrade available. If so, select to upgrade to the latest Windows build from there.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Run a Scan With Windows Security Again
 
@@ -169,24 +169,20 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-avoiding-common-mistakes-in-screencasting/"><u>[New] 2024 Approved Avoiding Common Mistakes in Screencasting</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-upgrade-to-high-quality-video-streaming-on-facebook/"><u>[New] 2024 Approved Upgrade to High-Quality Video Streaming on Facebook</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-a-user-friendly-guide-to-efficiently-use-ez-grabber/"><u>[New] A User-Friendly Guide to Efficiently Use EZ Grabber</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-exploring-metaverse-versus-omniverse-landscapes-for-2024/"><u>[New] Exploring Metaverse Versus Omniverse Landscapes for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-zd-soft-screen-recorder-key-features-and-review/"><u>[Updated] In 2024, ZD Soft Screen Recorder Key Features and Review</u></a></li>
-<li><a href="https://windows11.techidaily.com/11-ways-to-fix-the-windows-search-bar-not-showing-or-working-on-windows-11/"><u>11 Ways to Fix the Windows Search Bar Not Showing or Working on Windows 11</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-vr-and-ar-game-apps-for-phones/"><u>2024 Approved The Ultimate Guide to VR and AR Game Apps for Phones</u></a></li>
-<li><a href="https://windows11.techidaily.com/5-ways-to-check-your-device-uptime-on-windows-11/"><u>5 Ways to Check Your Device Uptime on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-comprehensive-guide-to-tweaking-firewall-security/"><u>A Comprehensive Guide to Tweaking Firewall Security</u></a></li>
-<li><a href="https://windows11.techidaily.com/accelerated-tactics-for-gaming-hardware-recognition/"><u>Accelerated Tactics for Gaming Hardware Recognition</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/audio-faceoff-which-is-better-google-nest-or-apple-homepod/"><u>Audio Faceoff: Which Is Better, Google Nest or Apple HomePod?</u></a></li>
-<li><a href="https://windows11.techidaily.com/boosting-boot-speed-with-simple-steps-in-windows-11-setup/"><u>Boosting Boot Speed with Simple Steps in Windows 11 Setup</u></a></li>
-<li><a href="https://windows11.techidaily.com/breach-limitation-threshold-unleash-higher-ethernet-speeds-on-windows/"><u>Breach Limitation Threshold: Unleash Higher Ethernet Speeds on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/breaking-down-roblox-error-262s-solutions/"><u>Breaking Down Roblox Error 262'S Solutions</u></a></li>
-<li><a href="https://windows11.techidaily.com/changing-onedrive-storage-address-in-windows-10/"><u>Changing OneDrive Storage Address in Windows 10</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-why-many-dismiss-windows-11-now/"><u>Decoding Why Many Dismiss Windows 11 Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-lenovo-thinkpad-x260-drivers-for-windows-10/"><u>Download and Update Lenovo ThinkPad X260 Drivers for Windows 10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-epson-ds-30-all-in-one-printer-driver-compatible-with-windows-11-8-and-7-download-now/"><u>Latest Epson DS 30 All-in-One Printer Driver Compatible with Windows 11, 8 & 7 – Download Now!</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/step-by-step-strategy-for-overcoming-files-with-unreadable-contents-issues/"><u>Step-by-Step Strategy for Overcoming Files with Unreadable Contents Issues</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-unveiling-the-techniques-of-premium-vr-gametime-captures/"><u>[New] Unveiling the Techniques of Premium VR Gametime Captures</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-metaverse-masterpieces-transforming-images-into-memetic-hits/"><u>[Updated] 2024 Approved Metaverse Masterpieces Transforming Images Into Memetic Hits</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-asmr-recommendations-for-android-users/"><u>[Updated] ASMR Recommendations for Android Users</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-expert-hashtag-analyzers-for-social-media-giants-fbtweetig/"><u>[Updated] In 2024, Expert Hashtag Analyzers for Social Media Giants (FB/Tweet/IG)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accessing-and-utilizing-widgets-in-windows-11/"><u>Accessing and Utilizing Widgets in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/is-the-antimalware-service-executable-hogging-your-memory-heres-how-to-turn-it-off/"><u>Is the Antimalware Service Executable Hogging Your Memory? Here's How to Turn It Off</u></a></li>
+<li><a href="https://article-posts.techidaily.com/novel-windows-11-strategies-for-peak-performance-for-2024/"><u>Novel Windows 11 Strategies for Peak Performance for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-11-microsoft-store-hurdles/"><u>Overcoming Windows 11 Microsoft Store Hurdles</u></a></li>
+<li><a href="https://windows11.techidaily.com/retrieving-hidden-pin-after-system-error-on-windows-11/"><u>Retrieving Hidden PIN After System Error on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/simplified-tracking-of-recently-active-windows-items/"><u>Simplified Tracking of Recently Active Windows Items</u></a></li>
+<li><a href="https://windows11.techidaily.com/steer-clear-of-stuck-startup-screen-lotr-style/"><u>Steer Clear of Stuck Startup Screen, LOTR Style</u></a></li>
+<li><a href="https://win-info.techidaily.com/step-by-step-guide-downloading-expert-trading-video-lessons-from-pro-traders-club/"><u>Step-by-Step Guide: Downloading Expert Trading Video Lessons From Pro Traders Club</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-importance-of-microsofts-family-safety-in-todays-world/"><u>The Importance of Microsoft's Family Safety in Today’s World</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-google-pixel-8-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Google Pixel 8 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/vmstart-errors-in-win11-try-these-top-7-solutions-vmware/"><u>VMstart Errors in Win11? Try These Top 7 Solutions, VMware</u></a></li>
 </ul></div>
 

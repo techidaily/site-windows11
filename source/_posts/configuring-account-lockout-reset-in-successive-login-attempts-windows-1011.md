@@ -1,7 +1,7 @@
 ---
 title: Configuring Account Lockout Reset in Successive Login Attempts Windows 10/11
-date: 2024-08-08T05:55:52.853Z
-updated: 2024-08-09T05:55:52.853Z
+date: 2025-01-09T20:29:37.811Z
+updated: 2025-01-10T20:48:50.301Z
 tags:
   - windows10
   - windows11
@@ -26,26 +26,28 @@ thumbnail: https://thmb.techidaily.com/c01f488742f525379e15c90538d56863d27988360
 
 1. Press the Windows key + R to open the **Run** dialogue.
 2. In the text field, type “secpol.msc” and hit Enter.  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Opening security policy via Run option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/01-windows-run-security-policy.jpg)
 3. On the left pane, navigate to **Account Lockout Policy** under the **Account Policies** folder.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Change Windows account lockout in Security Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/02-windows-account-policies.jpg)
 4. On the right pane, double-click on the **Reset account lockout counter after** option.  
 ![Windows account logon counter setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/03-reset-windows-account-logon-counter.jpg)
 5. Choose a number between one and 99,999, and hit **OK** to change how long the system will require to automatically reset any failed logon attempts.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Set Windows account logon reset timer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/04-choose-windows-account-logon-reset-timer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Change Account Lockout Counter Reset Time via Command Prompt
 
  If the system you’re working with isn’t running the Pro, Enterprise, or Education edition of Windows 10 or 11, you’ll have to change how long before the account lockout counter is reset via the command prompt.
@@ -55,28 +57,29 @@ thumbnail: https://thmb.techidaily.com/c01f488742f525379e15c90538d56863d27988360
 `net accounts`  
 ![Using the command prompt to list Windows account policies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/05-command-prompt-net-accounts-02.jpg)
 3. This will pull up information on how long a user has to wait before their account lockout counter is reset. It will be under the heading **Lockout observation window**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. To change the account lockout counter reset duration on Windows 10 and 11, type the following command into the console and hit **Enter**:  
 `net accounts /lockoutwindow:60`  
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Use the command prompt to change account lockout counter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/06-change-account-lockout-counter-command-prompt.jpg)
 5. Replace the number “60” in the command with any other number from one to 99,999 to set how many minutes a user will have to wait before their failed logon attempts are reset.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  A related setting, the [account lock-out duration](https://www.makeuseof.com/change-lockout-duration-windows/), must equal or exceed the time for the system to automatically reset the number of failed login attempts. If you want, you can [change the account lock-out duration on Windows](http://www.makeuseof.com/change-lockout-duration-windows/) to something that suits you best.
 
  You can also [limit the number of failed logon attempts on Windows](https://www.makeuseof.com/how-limit-number-failed-login-attempts-windows-10/) with a similar setting change.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Control How Long Before the Incorrect Logon Counter Is Reset
 
  With this setting, you control how long before the counter that keeps track of incorrect logon attempts is reset. Use it in conjunction with the lockout duration option account policy to make things more convenient for local users.
 
  Exceed this threshold and you will need this counter to be reset, which you can do by waiting a set amount of time. Here’s how to change the time you must wait in order for the counter to be automatically reset.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -84,4 +87,22 @@ thumbnail: https://thmb.techidaily.com/c01f488742f525379e15c90538d56863d27988360
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-fast-track-adding-snapchat-to-your-mac-for-2024/"><u>[Updated] Fast Track Adding Snapchat to Your Mac for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-mastering-youtube-frames-top-5-cost-free-techniques-for-2024/"><u>[Updated] Mastering YouTube Frames Top 5 Cost-Free Techniques for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-top-5-techniques-for-capturing-live-sound-over-the-web-for-2024/"><u>[Updated] Top 5 Techniques for Capturing Live Sound Over the Web for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-delve-deep-into-powerdirector-comprehensive-review-and-tutorial/"><u>2024 Approved Delve Deep Into PowerDirector - Comprehensive Review & Tutorial</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/adjusting-system-dates-times-and-time-zones-via-control-panel-a-guide-by-yl-computing/"><u>Adjusting System Dates, Times & Time Zones via Control Panel: A Guide by YL Computing</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-tips-win-compatibility-troubleshooting-guide/"><u>Expert Tips: Win Compatibility Troubleshooting Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-activatedeactivate-vm-security-with-secure-boot-on-virtualbox-70/"><u>How to Activate/Deactivate VM Security with Secure Boot on VirtualBox 7.0</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-huawei-nova-y71-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Huawei Nova Y71 online without jailbreak</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Life360 Notify When You Log Out On Apple iPhone 11? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-resolve-ax201-wi-fi-6-error-on-windows/"><u>Steps to Resolve AX201 Wi-Fi 6 Error on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/stop-windows-app-start-counter/"><u>Stop Windows App Start Counter</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/winxvideo-ai-advanced-video-and-image-optimization-suite-with-conversion-recording-and-editing-capabilities/"><u>WinxVideo AI – Advanced Video & Image Optimization Suite with Conversion, Recording, and Editing Capabilities</u></a></li>
+<li><a href="https://windows11.techidaily.com/workaround-for-win10-and-11s-audacity-device-opening-issue/"><u>Workaround for Win10 & 11’S Audacity Device Opening Issue</u></a></li>
+</ul></div>
 

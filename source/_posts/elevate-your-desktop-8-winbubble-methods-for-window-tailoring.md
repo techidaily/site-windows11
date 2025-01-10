@@ -1,7 +1,7 @@
 ---
 title: "Elevate Your Desktop: 8 WinBubble Methods for Window Tailoring"
-date: 2024-07-29T04:24:12.970Z
-updated: 2024-07-30T04:24:12.970Z
+date: 2025-01-05T16:08:55.699Z
+updated: 2025-01-10T18:33:00.643Z
 tags:
   - windows10
   - windows11
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/827b872e4173df13065942890d154daad888484fd
 
  The default customization options within Windows 11 and 10 are relatively limited. However, some third-party software packages give you lots more options for customizing Microsoft’s desktop operating system. WinBubble is freeware customization software that enables you to tweak the Windows platform in many different ways. Here are eight ways you can tweak Windows 11/10 with WinBubble.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## First, Download and Extract WinBubble
 
  The latest version of WinBubble is primarily designed for customizing Windows 10\. Its WinBubble for Windows 10 title makes it clear what platform it’s intended for. There are older versions of the software for Windows 7 and Vista.
@@ -30,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/827b872e4173df13065942890d154daad888484fd
 
  You can extract the archive as covered in our guide on[how to unzip files on Windows](https://www.makeuseof.com/unzip-files-windows-10/) . Double-click**WinBubble.exe** in the extracted WinBubbles directory to open the software.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ## 1\. How to Customize Desktop Shortcut Icons With WinBubble
 
  The icons for desktop shortcuts on Windows include little arrows on them. However, you can change that with WinBubble’s Customize Shortcut Icon option. That option enables you to remove the arrow or change it to a star, heart, or Windows logo. You can tweak the desktop shortcut icons like this:
@@ -44,9 +45,6 @@ thumbnail: https://thmb.techidaily.com/827b872e4173df13065942890d154daad888484fd
 4. Click**OK** on the dialog box that prompts a restart.
 5. Then you’ll need to restart Windows for this customization to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. How to Customize Windows’ Screensavers With WinBubble
 
  Windows 10 and 11 include Bubbles, Mystify, and Ribbon screensavers, but there aren’t any customization options for them. You can tweak those screensavers by manually editing the registry. However, WinBubble’s customization settings for the Bubbles, Mystify, and Ribbon screensavers make life easier for us.
@@ -55,23 +53,14 @@ thumbnail: https://thmb.techidaily.com/827b872e4173df13065942890d154daad888484fd
 
  For example, you can select**Glassy Bubbles** or**Metallic Bubbles** options with different sizes for the Bubbles screensaver. Selecting the**Metallic Bubbles** option will give you multicolored bubbles shown in the snapshot below.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![Metallic bubbles screensaver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/metallic-bubbles.jpg)
 
  You can also adjust the number of ribbons or lines for the different**Ribbon** and**Mystify** screensaver presets. Select a preset and then input values in the number boxes to change how many lines or ribbons are included in the screensavers. You can also input a width value in the**Ribbon** **width** box.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![A Preset drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/a-preset-drop-down-menu.jpg)
 
  When you’ve customized a screensaver, click the**View** button to preview it. Select**Set** to save the settings. You might also need to select and set the customized screensaver in the Change screensaver Control Panel applet.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. How to Change the Menu Delay With WinBubble
 
  You can speed up menus a bit by reducing the menu delay. By default, Windows has a 400-millisecond menu delay, which you can cut to zero. WinBubble includes a**Menu Show Delay** option you can configure among numerous other optimization settings.
@@ -80,15 +69,16 @@ thumbnail: https://thmb.techidaily.com/827b872e4173df13065942890d154daad888484fd
 
  While you’re at it, you can also speed up the Window shutdown process a little. To do this, select WinBubble’s**Decrease Shutdown Time for services** and**Do not Clear Pagefile at Shutdown** checkboxes on the same**Optimize** tab.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. How to Add New Submenus to the Context Menu
 
  WinBubble includes lots of customization settings for the desktop context menu in Windows. It enables you to add three alternative shortcut submenus to the desktop context menu. You can select to add context menu submenus for opening Control Panel applets, Microsoft apps, and system tools.
 
  Click the**General** tab to view those customization settings for the context menu. Select a**Control Panel Menu** ,**MS Software Menu** , or**System Tools Menu** option on that tab to add one of those submenus. Click**Run** on any Open File warning dialog box to apply.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The submenu context menu settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/context-menu-settings.jpg)
 
  Then right-click a desktop area to view your new**Control Panel** ,**System Tool** , or**Software** submenus. In Windows 11, you’ll also need to click**Show more options** since this tweak is applied to the classic context menu. Each submenu includes a variety of handy shortcuts.
@@ -96,8 +86,9 @@ thumbnail: https://thmb.techidaily.com/827b872e4173df13065942890d154daad888484fd
 ![The System Tools submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/a-system-tools-menu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. How to Add New Take Ownership Explorer Options for Files and Folders
 
  You can’t open folders with restricted access unless you take ownership of them in Windows 11/10\. To manually take ownership of a folder, you’ll need to change its security settings via its properties window.
@@ -106,12 +97,12 @@ thumbnail: https://thmb.techidaily.com/827b872e4173df13065942890d154daad888484fd
 
 ![A Take the Ownership of this folder context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/take-the-ownership-of-this-folder.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  WinBubble’s**General** tab includes two settings for adding take ownership options to File Explorer’s context menu. Select both the**“Take the Ownership of this folder”** and**“Take the Ownership of this folder”** checkboxes to add those options. You’ll also need to click**Apply** for this tweak.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![The Take the Ownership of this folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/take-ownership-off-options.jpg)
 
 ## 6\. How to Add New Software Shortcuts to the Context Menu
@@ -125,16 +116,26 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 5. Input the software’s title in the**Name** box.  
 ![The context menu customization tool in WinBubble](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-context-menu-customization-tool.jpg)
 6. Press the**Add** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Select**OK** on the prompt that appears.
 
  Now, look at the context menu by right-clicking the desktop (selec**t Show more options** in Windows 11). You’ll see a shortcut for opening the software you added there. Click that shortcut to launch the program.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![A WinBubble context menu shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/winbubble-context-menu-shortcut.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can remove shortcuts added by selecting them in the Explorer/Desktop box within WinBubble’s**Tools** tab. Click the**Remove** option there. Then choose**Yes** when asked to confirm the deletion.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. How to Add New Items to the Control Panel
 
@@ -151,10 +152,11 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  Now you’ll be able to open the software added from the Control Panel. Bring up the Control Panel window, and select**Large icons** from the**View by** drop-down menu there. Click the new software shortcut there.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A WinBubble shortcut in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/winbubble-control-panel-shortcut.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. How to Disable the Registry Editor in WinBubble
 
@@ -174,8 +176,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -183,4 +183,26 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/n-2024-mastering-the-art-of-locating-your-youtube-discussions/"><u>[New] In 2024, Mastering the Art of Locating Your YouTube Discussions</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-taking-your-content-public-steps-for-live-streaming/"><u>[New] Taking Your Content Public Steps for Live Streaming</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-beats-and-bits-video-sound-mixing-on-win11/"><u>[Updated] Beats & Bits Video Sound Mixing on Win11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/44cm44or44k944kz44oz5lik44gn5qw95puy44gu44kr44od44oi44go44ge44gg5oqa6kgt44cn/"><u>「パソコン上で楽曲のカットという技術」</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/does-error-8024002e-prevent-windows-from-updating-try-these-fixes/"><u>Does Error 8024002E Prevent Windows From Updating? Try These Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/dual-monitors-double-delight-themed-wallpapers-for-win-1011/"><u>Dual Monitors, Double Delight: Themed Wallpapers for WIN 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/easy-way-to-show-images-in-windows-11/"><u>Easy Way to Show Images in Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-strategies-for-debugging-goose-and-goose-errors-on-your-gaming-pc/"><u>Effective Strategies for Debugging 'Goose and Goose' Errors on Your Gaming PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/effective-strategies-to-delete-print-sources-on-windows-11/"><u>Effective Strategies to Delete Print Sources on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficiently-establish-microsoft-works-on-windows-11/"><u>Efficiently Establish Microsoft Works on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortless-jotting-in-windows-11-no-apps-required/"><u>Effortless Jotting in Windows 11: No Apps Required</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortlessly-connect-and-communicate-with-imessage-on-your-pc/"><u>Effortlessly Connect and Communicate with iMessage on Your PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortlessly-get-icloud-up-and-running-on-windows/"><u>Effortlessly Get iCloud Up and Running on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminate-installation-error-fix-oculus-for-winxc-and-winxi/"><u>Eliminate Installation Error: Fix Oculus for WinXC and WinXI</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-xiaomi-13t-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Xiaomi 13T Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-the-art-of-discovering-excellent-insta-soundtracks-and-creating-stellar-call-alerts/"><u>Mastering the Art of Discovering Excellent Insta Soundtracks & Creating Stellar Call Alerts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/uniting-viewers-mastering-interactive-dialogue-online-for-2024/"><u>Uniting Viewers Mastering Interactive Dialogue Online for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/watching-netflix-classics-compatibility-and-setup-for-classic-roku-models/"><u>Watching Netflix Classics: Compatibility and Setup for Classic Roku Models</u></a></li>
+</ul></div>
 

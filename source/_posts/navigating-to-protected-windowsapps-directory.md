@@ -1,7 +1,7 @@
 ---
 title: Navigating to Protected WindowsApps Directory
-date: 2024-12-28T01:22:38.925Z
-updated: 2025-01-04T00:24:17.428Z
+date: 2025-01-08T23:35:31.259Z
+updated: 2025-01-10T18:03:43.597Z
 tags:
   - windows10
   - windows11
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/28b4424e01d4cc277a30d2dc85adec4230b241c9e
 ![WindowsApps Hidden Folder In Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/WindowsApps-Hidden-Folder.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Even if you uninstall or debloat some of the apps on Windows, the core application files are not removed from the WindowsApps folder. So, there are chances that such apps will reappear after a new Windows update.
@@ -63,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/28b4424e01d4cc277a30d2dc85adec4230b241c9e
  If you try to open it, you'll see an information popup saying, "You have been denied permission." So, to actually access that folder and gain exclusive read and write rights—you've got to do a bit more.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Change Ownership Properties to Get Access
@@ -84,6 +84,10 @@ thumbnail: https://thmb.techidaily.com/28b4424e01d4cc277a30d2dc85adec4230b241c9e
 ![Advanced Security Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/advanced-security-properties.jpg)
 6. Finally, click **OK** to select the Administrator as the owner and again **OK** to save the changes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![User Group Selection Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/User-Group-Selection-Window.jpg)
 7. Then, tick the checkbox before the **Replace owner on sub containers and objects** text.
 
@@ -91,15 +95,15 @@ thumbnail: https://thmb.techidaily.com/28b4424e01d4cc277a30d2dc85adec4230b241c9e
 ![WindowsApps Advanced Security Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/WindowsApps-Advanced-Security-Settings.jpg)
 9. Once done, click the **OK** button on the next pop-up.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you followed the steps above to take ownership of the WindowsApps folder, you can now move or delete files from that folder.
 
  When you don't pause automatic software installations from the Microsoft store, the WindowsApps folder occupies a considerable bit of disc space. So, it becomes essential for you to access this folder once and check for the files that you no longer need.
 
  Moreover, you can also check out some [free tools for taking control of files and folders](https://www.makeuseof.com/take-ownership-of-windows-files-and-folders-with-these-tools/) on Windows. Such tools allow you to take full ownership of all your files and folders with a single click.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2\. How to Access WindowsApps via a PowerShell Command
 
@@ -113,10 +117,6 @@ thumbnail: https://thmb.techidaily.com/28b4424e01d4cc277a30d2dc85adec4230b241c9e
 
 ![PowerShell In Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/PowerShell-In-Windows-Search.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4\. In Powershell, run the following command and press the Enter key:
 
 `takeown /f &ldquo;C:\Program Files\WindowsApps&rdquo; /r`
@@ -124,7 +124,7 @@ thumbnail: https://thmb.techidaily.com/28b4424e01d4cc277a30d2dc85adec4230b241c9e
 ![Change Ownership Command In Shell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Change-Ownership-Command-In-Shell.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The above command will restore all the files or folder ownership to the system administrator. It will take some time for your administrator user account to become the owner of the WindowsApps folder and everything in it.
@@ -132,6 +132,10 @@ thumbnail: https://thmb.techidaily.com/28b4424e01d4cc277a30d2dc85adec4230b241c9e
  The access you gain by executing the above process is similar to that of the Windows File Explorer-based method. You have just automated the process and eliminated the unhiding of system files. Now, you can back up, clear some space, or make changes to the Windows apps' back-end files.
 
  If you're facing crashes while executing the file, make sure to check out some [effective ways to fix PowerShell crash errors](http://www.makeuseof.com/windows-powershell-has-stopped-working-error-fix/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. How to Access WindowsApps via a Registry Hack
 
@@ -149,10 +153,6 @@ thumbnail: https://thmb.techidaily.com/28b4424e01d4cc277a30d2dc85adec4230b241c9e
 6. From the context menu, click the **Take Ownership** option.  
 ![Take Ownership Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Take-Ownership-Context-Menu.jpg)
 7. In the Command Prompt, you must [give User Account Control Administrator rights](https://www.makeuseof.com/tag/user-account-control-windows-10/) for the registry hack to work. After that, please wait a few minutes for the window to close. Soon, it will display success messages constantly in the Command Prompt.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once finished, you'll no longer face the "You've been denied permission" error on clicking the WindowsApps folder.
 
@@ -176,17 +176,18 @@ thumbnail: https://thmb.techidaily.com/28b4424e01d4cc277a30d2dc85adec4230b241c9e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-transform-your-stream-embrace-obs-for-youtube-and-twitch/"><u>[New] In 2024, Transform Your Stream Embrace OBS for YouTube & Twitch</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-frame-by-frame-the-smartphone-storytellers-path-to-youtubes-thumbnails/"><u>[Updated] 2024 Approved Frame by Frame The Smartphone Storyteller's Path to YouTubes Thumbnails</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-breaking-down-lg-27ud88-uhd-tv-with-usb-type-c/"><u>[Updated] Breaking Down LG 27UD88-UHD TV with USB Type-C</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-viral-ventures-valuation-the-revenue-of-a-rising-star/"><u>[Updated] Viral Ventures Valuation The Revenue of a Rising Star</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-action-cameras-showdown-gopro-hero5-black-clashes-with-yi-4ks-latest/"><u>2024 Approved Action Cameras Showdown GoPro Hero5 Black Clashes with Yi 4K's Latest</u></a></li>
-<li><a href="https://win-dash.techidaily.com/amd-ryzen-5-2500u-instant-driver-update-guide/"><u>AMD Ryzen 5 2500U: Instant Driver Update Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/clearing-the-path-fixing-windows-11-writable-errors/"><u>Clearing the Path: Fixing Windows 11' Writable Errors</u></a></li>
-<li><a href="https://windows11.techidaily.com/crafting-a-plan-for-file-explorer-in-windows-11/"><u>Crafting a Plan for File Explorer in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/crafting-windows-11-shortcuts-a-step-by-step-guide-to-text-snapping/"><u>Crafting Windows 11 Shortcuts: A Step-by-Step Guide to Text Snapping</u></a></li>
-<li><a href="https://windows11.techidaily.com/curtailing-spontaneous-terminal-trigger-activations/"><u>Curtailing Spontaneous Terminal Trigger Activations</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo V27 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcome-ps4-nat-troubles-expert-step-by-step-strategies-that-work/"><u>Overcome PS4 NAT Troubles: Expert Step-by-Step Strategies That Work</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-prime-online-communities-eclipsing-twitterenasity-for-2024/"><u>[New] Prime Online Communities Eclipsing Twitter'enasity for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-crafting-comedy-the-art-of-parody-videos/"><u>[Updated] Crafting Comedy The Art of Parody Videos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-exploring-social-boundaries-sign-up-for-a-facebook-profile/"><u>[Updated] In 2024, Exploring Social Boundaries Sign Up for a Facebook Profile</u></a></li>
+<li><a href="https://windows11.techidaily.com/1-crafting-personalized-borders-in-excel-a-step-by-step-guide/"><u>1. Crafting Personalized Borders in Excel: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-real-time-videography-scaler/"><u>2024 Approved Real-Time Videography Scaler</u></a></li>
+<li><a href="https://windows11.techidaily.com/discover-microsoft-excels-innovative-integration-of-chatgpt-technology-for-enhanced-productivity/"><u>Discover Microsoft Excel's Innovative Integration of ChatGPT Technology for Enhanced Productivity</u></a></li>
+<li><a href="https://windows11.techidaily.com/easy-steps-for-changing-sheet-names-in-microsoft-excel/"><u>Easy Steps for Changing Sheet Names in Microsoft Excel</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explore-the-extent-using-gpt-my-bots-for-game-strategy-and-imagery/"><u>Explore the Extent: Using GPT-My Bots for Game Strategy and Imagery</u></a></li>
+<li><a href="https://win-able.techidaily.com/get-your-game-on-with-these-11-tips-to-fix-borderlands-3-startup-troubles/"><u>Get Your Game On with These 11 Tips to Fix Borderlands 3 Startup Troubles</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-disk-repair-a-comprehensive-guide-to-using-windows-chkdsk-utility/"><u>Mastering Disk Repair: A Comprehensive Guide to Using Windows' Chkdsk Utility</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-generating-word-mailing-labels-using-your-excel-spreadsheet/"><u>Step-by-Step Guide: Generating Word Mailing Labels Using Your Excel Spreadsheet</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-tutorial-on-leveraging-sumif-in-excel-techniques-and-strategies-for-effective-data-analysis/"><u>The Ultimate Tutorial on Leveraging SUMIF in Excel: Techniques and Strategies for Effective Data Analysis</u></a></li>
+<li><a href="https://windows11.techidaily.com/transform-your-productivity-microsoft-office-suite-available-in-immersive-quest-vr-experience/"><u>Transform Your Productivity: Microsoft Office Suite Available in Immersive Quest VR Experience!</u></a></li>
 </ul></div>
 

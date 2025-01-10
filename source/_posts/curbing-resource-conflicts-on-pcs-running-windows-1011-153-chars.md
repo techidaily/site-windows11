@@ -1,7 +1,7 @@
 ---
 title: Curbing Resource Conflicts on PCs Running Windows 10/11 (153 Chars)
-date: 2024-08-08T05:55:37.751Z
-updated: 2024-08-09T05:55:37.751Z
+date: 2025-01-03T21:04:23.108Z
+updated: 2025-01-10T16:08:33.861Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/ef8036d25906bf8bc672642e846b12e7bf455ea76
  Here is how you can fix the “requested resource is in use” error on a Windows 10 or 11 PC.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Check if the File Is Already in Use
 
 ![The End task option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-end-task-option.jpg)
@@ -34,8 +35,9 @@ thumbnail: https://thmb.techidaily.com/ef8036d25906bf8bc672642e846b12e7bf455ea76
  If that doesn’t work, go into Task Manager and close superfluous third-party app background processes. Our guide to [fixing too many background processes on Windows](https://www.makeuseof.com/windows-pc-too-many-background-processes/) provides further instructions for how you can do that.
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Disable File Explorer’s Preview Pane
 
  Many users have fixed the “requested resource is in use” error by disabling File Explorer’s preview pane. That preview pane can hinder the file copy operation. You can disable File Explorer’s preview pane in Windows 11 as follows:
@@ -44,11 +46,12 @@ thumbnail: https://thmb.techidaily.com/ef8036d25906bf8bc672642e846b12e7bf455ea76
 2. Then click the **View** menu button.
 3. Select the **Show** submenu.
 4. Deselect the **Preview pane** option.  
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![The Preview pane option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/preview-pane-option.jpg)
 5. Then try moving or copying your files again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The layout in Windows 10 File Explorer is a little different. To disable preview panes in that file manager, you’ll need to click the **View** tab. Then click **Preview pane** to deselect that option.
 
@@ -56,18 +59,12 @@ thumbnail: https://thmb.techidaily.com/ef8036d25906bf8bc672642e846b12e7bf455ea76
 
  Note that just disabling the preview pane might not always be enough. If that doesn’t work, try turning off the icon file view. To do so in Windows 11 File Explorer, click **View** and select the **List** or **Details view** option. You can select the same options on the **View** tab in Windows 10 File Explorer.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Run a Malware Scan
 
  If the previous two resolutions don’t work for you, it’s probably the case that malware is causing the “requested resource is in use” error on your PC. SmartService is a trojan known to cause the “required source is in use” error. So, try running an antivirus scan with third-party software or Windows Security to kill SmartService. You can run an antivirus scan with Windows Security like this:
 
 1. Double-click Windows Security’s icon in the system tray (the shield).
 2. Click **Virus & threat protection** \> **Scan options** to access the Microsoft Defender antivirus tool.  
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![The Scan options navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-scan-options.jpg)
 3. Select the **Full scan** setting.
 4. Click **Scan now** to initiate the malware scanning.  
@@ -81,8 +78,9 @@ thumbnail: https://thmb.techidaily.com/ef8036d25906bf8bc672642e846b12e7bf455ea76
 ![windows 11 startup settings safe mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-startup-settings-safe-mode.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Disable Any Unknown Programs in Task Manager
 
  You might be able to disable a SmartService trojan from starting with Windows via Task Manager’s Startup tab. Look for and disable any suspicious programs listed on the **Startup** tab as follows:
@@ -95,8 +93,9 @@ thumbnail: https://thmb.techidaily.com/ef8036d25906bf8bc672642e846b12e7bf455ea76
 5. Then restart your PC to see if the issue persists.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Uninstall Any Suspicious-Looking Programs
 
  The SmartService trojan might also be listed within the Programs and Features Control Panel applet for uninstalling software. If you notice suspicious-looking software in Programs and Features, you can also select to uninstall it from there.
@@ -105,18 +104,15 @@ thumbnail: https://thmb.techidaily.com/ef8036d25906bf8bc672642e846b12e7bf455ea76
 
 1. Bring up the Windows uninstaller tool with a method in our guide to opening Programs and Features.
 2. Look through the list of installed software to see if there’s any suspicious-looking program there. Look for a program you can’t recall installing with an unknown publisher title.  
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![The Uninstall option in Programs and Features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-uninstall-option4.jpg)
 3. Right-click on the suspected SmartService malware and select **Uninstall**.
 4. If you can’t uninstall the suspicious software, restart Windows in safe mode. Then try removing the same suspicious item via Programs and Features in safe mode.
 
  Also, clear temporary data after uninstalling SmartService to ensure the malware can’t re-emerge. To do so, you’ll need to clear out the Temp folder. This article about [deleting temporary files](https://www.makeuseof.com/windows-11-delete-temporary-files/) includes alternative methods for clearing data in the Temp folder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Perform a Factory Reset
 
@@ -132,12 +128,33 @@ No advertising on the website.
 
  Here is how you can fix the “requested resource is in use” error on a Windows 10 or 11 PC.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-instagram-illuminations-mastering-three-highlight-techniques/"><u>[Updated] 2024 Approved Instagram Illuminations Mastering Three Highlight Techniques</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-shining-spots-on-screen-top-video-lights-strategies/"><u>[Updated] Shining Spots on Screen Top Video Lights Strategies</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-bringing-jujutsu-kaisen-characters-to-life-online/"><u>2024 Approved Bringing Jujutsu Kaisen Characters to Life Online</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-huawei-nova-y71-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Huawei Nova Y71</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/efficient-setup-of-nexiq-usb-link-drivers-free-download-and-installation-instructions/"><u>Efficient Setup of Nexiq USB-Link Drivers - Free Download and Installation Instructions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-xiaomi-redmi-note-12t-pro-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Xiaomi Redmi Note 12T Pro?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-ispoofer-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Realme 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/method-to-turn-off-geforce-graphic-overlay-on-pc/"><u>Method to Turn Off GeForce Graphic Overlay on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-to-safest-win-friendly-free-software-deals/"><u>Navigating to Safest Win-Friendly Free Software Deals</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-top-5-best-video-editing-apps-for-iphone/"><u>New Top 5 Best Video Editing Apps for iPhone</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fixes-for-disabled-graphics-on-steam-os/"><u>Quick Fixes for Disabled Graphics on Steam OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-sequence-errors-for-running-tasks-windows-guide/"><u>Resolving Sequence Errors for Running Tasks: Windows Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/revitalize-your-search-on-windows-11-11-key-fixes-included/"><u>Revitalize Your Search on Windows 11: 11 Key Fixes Included</u></a></li>
+<li><a href="https://windows11.techidaily.com/screen-recording-and-audio-integration-the-ultimate-guide-to-the-snipping-tool-max-156/"><u>Screen Recording & Audio Integration: The Ultimate Guide to the Snipping Tool (Max 156)</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-shorthand-success-a-list-of-30-key-online-acronyms/"><u>Social Shorthand Success: A List of 30 Key Online Acronyms</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-resolving-windows-disk-management-crashes/"><u>Tips: Resolving Windows Disk Management Crashes</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-windows-unraveling-color-management-issues/"><u>Troubleshooting Windows: Unraveling Color Management Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-windows-0x80242016-update-issue/"><u>Unraveling Window's 0X80242016 Update Issue</u></a></li>
+</ul></div>
 

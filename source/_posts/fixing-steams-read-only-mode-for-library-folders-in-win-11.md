@@ -1,7 +1,7 @@
 ---
 title: Fixing Steam's Read-Only Mode for Library Folders in Win 11
-date: 2024-12-29T20:24:27.549Z
-updated: 2025-01-04T04:32:49.415Z
+date: 2025-01-08T18:52:19.845Z
+updated: 2025-01-10T19:47:37.894Z
 tags:
   - windows10
   - windows11
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 ![Change the Steam Folder Attributes-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/change-the-steam-folder-attributes-1.jpg)
 5. Click on the **Apply** button and then click on the **OK** button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Closethe File Explorer window and reopenthe Steam client.
 7. Try to install the game and check if the error appears or not.
 
@@ -54,11 +50,7 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 4. The User Account Control window will launch. Click on the **Yes** button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Grant Full Ownership of the Steam Folder
@@ -75,11 +67,11 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 ![Grant Full Ownership of the Steam Folder-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/grant-full-ownership-of-the-steam-folder-1.jpg)
 8. Now, click on the **Apply** button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 9. Lastly, click on the **OK** button and then close the Properties window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Repair the Steam Library Folder
 
@@ -91,6 +83,10 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 4. Click on the **horizontal ellipsis** (three dots) button. Select the **Repair folder** option.  
 ![Repair the Steam Library Folder-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/repair-the-steam-library-folder-1.jpg)
 5. The User Account Control window will pop up. Click on the **Yes** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. After the repair completes, click on the **Close** button.
 
@@ -118,10 +114,6 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 
 6. The app will restart after purging the download cache. You will have to sign in again to your Steam account.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Run a Check Disk Scan
 
  Hard Disk errors can be a reason due to which Steam is unable to add or modify files. You can [use the Check Disk utility in Windows](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/) to check your hard disk for errors and fix them. The Check Disk utility will scan the hard disk for errors and repair them, if possible.
@@ -137,6 +129,14 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 ![Reinstall the Game on Another Drive-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/reinstall-the-game-on-another-drive-1.jpg)
 5. Now, click on the **Add** button.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Format the Disk and Try Again
 
  Many users want to install games on a newly added disk drive but face the “Steam library folder not writable” error in the process. It is mainly because the newly added disk drive bears the same letter as the old drive with a Steam Library folder.
@@ -149,16 +149,16 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 ![Format the Disk And Try Again-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/format-the-disk-and-try-again-1.jpg)
 4. Expand the drop-down list and select a new drive letter. Click on the **OK** button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Now, right-click on the disk drive and select the **Format** option.
 6. Keep the **File System** as **NTFS** and click on the **OK** button.  
 ![Format the Disk And Try Again 2-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/format-the-disk-and-try-again-2-1.jpg)
 7. Lastly, click on the **OK** button once again.
 
 8. **Close** the Disk Management utility.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Make Your Steam Library Folder Writable Again on Windows
 
@@ -176,24 +176,14 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-a-guide-to-innovative-metaverse-marketing-for-2024/"><u>[New] A Guide to Innovative Metaverse Marketing for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-a-list-websites-with-free-thrones-audio-downloads/"><u>[New] A-List Websites with Free Thrones Audio Downloads</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-concluding-your-channel-on-youtube-expert-guides-and-templates/"><u>[New] In 2024, Concluding Your Channel on YouTube - Expert Guides & Templates</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-essential-aspect-ratio-info-for-effective-twitter-videos/"><u>[New] In 2024, Essential Aspect Ratio Info for Effective Twitter Videos</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-streamline-your-craft-expert-tutorials-in-youtube-studio-editor/"><u>[Updated] Streamline Your Craft Expert Tutorials in YouTube Studio Editor</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-the-complete-hulu-recording-manual-for-pc-mac-and-mobile-users-for-2024/"><u>[Updated] The Complete Hulu Recording Manual for PC, Mac & Mobile Users for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-captivating-crafting-writing-intriguing-youtube-descriptions-with-templates/"><u>2024 Approved Captivating Crafting Writing Intriguing Youtube Descriptions with Templates</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-delayed-auditory-feedback-on-pcs/"><u>Addressing Delayed Auditory Feedback on PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-spec-deficit-errors-from-windows-game-bar/"><u>Addressing Spec Deficit Errors From Window's Game Bar</u></a></li>
-<li><a href="https://windows11.techidaily.com/adjusting-photo-snapshots-in-windows-11/"><u>Adjusting Photo Snapshots in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/audio-prowess-on-windows-a-comprehensible-drivers-upgrade-blueprint/"><u>Audio Prowess on Windows: A Comprehensible Drivers' Upgrade Blueprint</u></a></li>
-<li><a href="https://windows11.techidaily.com/boost-your-windows-11-search-with-these-five-essentials/"><u>Boost Your Windows 11 Search with These Five Essentials</u></a></li>
-<li><a href="https://windows11.techidaily.com/clandestine-data-storage-zip-archives-in-image-files-for-windows-enthusiasts/"><u>Clandestine Data Storage: ZIP Archives in Image Files for Windows Enthusiasts</u></a></li>
-<li><a href="https://windows11.techidaily.com/conveniently-embedding-passwords-into-windows-text-archives/"><u>Conveniently Embedding Passwords Into Windows Text Archives</u></a></li>
-<li><a href="https://windows11.techidaily.com/crafting-classic-visuals-a-guide-to-shader-magic-in-retroarc/"><u>Crafting Classic Visuals: A Guide to Shader Magic in RetroArc</u></a></li>
-<li><a href="https://windows11.techidaily.com/dism-tactics-restoring-windows-11-os-images/"><u>DISM Tactics: Restoring Windows 11 OS Images</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-from-iphone-8-plus-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock from iPhone 8 Plus</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/upgrade-your-viewing-experience-tcl-boosts-its-lineup-with-19-advanced-models-in-q-and-s-smart-tv-range/"><u>Upgrade Your Viewing Experience: TCL Boosts Its Lineup with 19 Advanced Models in Q & S Smart TV Range</u></a></li>
-<li><a href="https://win-blog.techidaily.com/world-of-warcraft-optimization-guide-solve-your-lag-problems-and-enhance-playability/"><u>World of Warcraft Optimization Guide - Solve Your Lag Problems and Enhance Playability !</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-zooming-into-facebook-live-with-ease-using-zoom/"><u>[New] In 2024, Zooming Into Facebook Live with Ease Using Zoom</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-beyond-viral-tactics-uncovering-the-facts-about-reels-on-instagram/"><u>[Updated] 2024 Approved Beyond Viral Tactics Uncovering the Facts About Reels on Instagram</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-minicam-project-scrutiny-overview/"><u>In 2024, MiniCam Project Scrutiny Overview</u></a></li>
+<li><a href="https://video-capture.techidaily.com/mp4gifwindows/"><u>MP4ファイルをGIF画像にうまく変換するための、Windowsユーザー向け最適方法</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-text-entry-embedding-keyboard-triggers-into-context-menus/"><u>Optimize Text Entry: Embedding Keyboard Triggers Into Context Menus</u></a></li>
+<li><a href="https://windows11.techidaily.com/rectifying-no-sound-device-error-in-windows-os/"><u>Rectifying No Sound Device Error in Windows OS</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsung-phone-and-smartwatch-users-to-experience-latest-google-updates-discover-the-new-perks-with-zdnets-detailed-overview/"><u>Samsung Phone & Smartwatch Users to Experience Latest Google Updates - Discover the New Perks with ZDNet's Detailed Overview</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlined-multitasking-experience-microsofts-new-ai-taskbar-helper-in-windows-11/"><u>Streamlined Multitasking: Experience Microsoft’s New AI Taskbar Helper in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-update-glitches-the-case-of-error-codes-0xc1900101/"><u>Tackling Update Glitches: The Case of Error Codes 0xC1900101</u></a></li>
 </ul></div>
 

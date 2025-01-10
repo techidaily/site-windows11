@@ -1,7 +1,7 @@
 ---
 title: Ramping Up VRAM in Windows - A Comprehensive Guide for Gaming
-date: 2024-12-29T22:27:34.828Z
-updated: 2025-01-03T22:18:45.617Z
+date: 2025-01-05T20:05:06.978Z
+updated: 2025-01-10T22:26:27.872Z
 tags:
   - windows10
   - windows11
@@ -47,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
 
 ![Windows 10 Video RAM Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/Windows-10-Video-RAM-Information.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To reach this menu on Windows 11, go to**Settings > System > Display > Advanced display** . Then choose a display and click**Display adapter properties** .
 
  Under**Adapter Type** , you'll see the name of your**Nvidia** or**AMD** graphics card, depending on what device you have. If you see**AMD Accelerated Processing Unit** or**Intel HD Graphics** (more likely), you're[using integrated graphics](https://www.makeuseof.com/tag/can-shared-graphics-finally-compete-with-a-dedicated-graphics-card/) . We cover more on this below.
@@ -83,12 +87,16 @@ Head to the following location:
 
 ![Registry Intel Edit VRAM Value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/Registry-Intel-Edit-VRAM-Value.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  These methods aren't guaranteed to fix your video memory issues, but they're still worth a try if you run into problems. If you don't have a lot of system RAM and are having trouble running games with integrated graphics, try adding additional RAM or[freeing up RAM](https://www.makeuseof.com/tag/5-ways-clear-memory-increase-ram-windows-computer/) for the integrated graphics to use. With integrated graphics, your system will use your standard RAM, instead of dedicated video RAM in a graphics card, so you need plenty to run games smoothly.
 
  Like with most hardware tasks, upgrading your RAM or video card is often difficult on a laptop but simple to do on a desktop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Kinds of Tasks Need Video RAM?
@@ -108,16 +116,12 @@ Head to the following location:
 ![cyberpunk 2077 xbox series x](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/11/cyberpunk-2077.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Conversely, a cheap card with just 2GB of VRAM (or even integrated graphics with 8GB+ of system RAM) is sufficient for playing PC titles from 20-plus years ago. Games back then had nowhere near modern amounts of RAM at their disposal.
 
  Even if you're not interested in gaming, some popular software requires a fair amount of VRAM too. 3D design software like AutoCAD, particularly intense edits in Photoshop, and editing high-quality video will all suffer if you don't have enough video RAM.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How Much VRAM Do I Need?
 
@@ -133,10 +137,6 @@ Head to the following location:
 
  Extremes aren't the concern with VRAM. You don't need an $800, top-of-the-line card with 12GB of VRAM to play 2D indie platformers. Really, you only need to worry about how much VRAM to get when a card you want to buy is available in multiple VRAM configurations. VRAM isn't the only[factor that should go into your GPU decision](https://www.makeuseof.com/tag/5-things-know-buying-graphics-card/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Common Video RAM Concerns
 
  Remember that just like normal RAM, more VRAM doesn't always mean better performance. If your card has 4GB of VRAM and you're playing a game that only uses 2GB, upgrading to an 8GB card isn't going to do anything noticeable.
@@ -148,7 +148,7 @@ Head to the following location:
  The best way to find out which specific graphics card and amount of video RAM is right for you is to talk to someone knowledgeable. Ask a friend who knows about the latest graphics cards, or post on a forum like Reddit or Tom's Hardware asking if a specific card would work for your needs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Understanding VRAM With Integrated Graphics
@@ -184,22 +184,24 @@ Head to the following location:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-text-on-screen-essentials-perfecting-caption-placement-in-youtube-videos/"><u>[New] In 2024, Text on Screen Essentials Perfecting Caption Placement in YouTube Videos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-ai-generated-podcast-titles-that-stick-with-you/"><u>[Updated] AI-Generated Podcast Titles That Stick With You</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-simplify-macbook-screen-capture-for-beginners/"><u>[Updated] In 2024, Simplify MacBook Screen Capture for Beginners</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-harmonious-symphony-taming-your-computers-audio-irqs/"><u>A Harmonious Symphony: Taming Your Computer’s Audio IRQs</u></a></li>
-<li><a href="https://windows11.techidaily.com/accelerating-file-download-rates-in-utorrent-win-os-style/"><u>Accelerating File Download Rates in uTorrent, WIN OS Style</u></a></li>
-<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Xiaomi Redmi K70 | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/banishing-blue-screens-a-windows-fixers-manual/"><u>Banishing Blue Screens: A Windows Fixer’s Manual</u></a></li>
-<li><a href="https://windows11.techidaily.com/clearing-access-issues-enabling-windows-logins-post-fail/"><u>Clearing Access Issues: Enabling Windows Logins Post-Fail</u></a></li>
-<li><a href="https://windows11.techidaily.com/comprehensive-guide-to-using-bluescreenview-tools/"><u>Comprehensive Guide to Using BlueScreenView Tools</u></a></li>
-<li><a href="https://windows11.techidaily.com/customize-your-workspace-pinning-techniques-for-w11/"><u>Customize Your Workspace: Pinning Techniques for W11</u></a></li>
-<li><a href="https://windows11.techidaily.com/disabling-auto-triggered-console-crashes-on-windows/"><u>Disabling Auto-Triggered Console Crashes on Windows</u></a></li>
-<li><a href="https://extra-information.techidaily.com/discounted-action-cam-destinations/"><u>Discounted Action Cam Destinations</u></a></li>
-<li><a href="https://windows11.techidaily.com/discovering-surface-laptop-studio-2-the-near-perfect-companion/"><u>Discovering Surface Laptop Studio 2 - The Near-Perfect Companion</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-enable-msi-afterburner-detection-for-your-graphics-card-on-windows-10-or-11/"><u>How to Enable MSI Afterburner Detection for Your Graphics Card on Windows 10 or 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-realme-note-50-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Realme Note 50</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/quick-and-simple-guide-converting-mkv-files-into-avchd-format-in-minutes/"><u>Quick & Simple Guide: Converting MKV Files Into AVCHD Format in Minutes!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-12-player-apps-com-suporte-a-formato-avi-descubra-o-que-e-xvid/"><u>Top 12 Player Apps Com Suporte a Formato AVI - Descubra O Que É XVID</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-guide-to-saving-games-on-windows-10-pro-for-2024/"><u>[New] Guide to Saving Games on Windows 10 Pro for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-behind-the-scenes-of-successful-onestream-livestreams/"><u>[New] In 2024, Behind-the-Scenes of Successful OneStream Livestreams</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-unbelievable-examination-and-replacement-ideas-for-2024/"><u>[Updated] Unbelievable Examination & Replacement Ideas for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/handling-win11-screensaver-failures-effectively/"><u>Handling WIN11 Screensaver Failures Effectively</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-reset-audio-driver-error-unresponsive-device-issue/"><u>How To Reset Audio Driver Error: Unresponsive Device Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-use-the-diskusage-command-to-analyze-drive-space-on-windows/"><u>How to Use the DiskUsage Command to Analyze Drive Space on Windows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-crafting-humor-the-art-of-mememaking/"><u>In 2024, Crafting Humor The Art of Mememaking</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-zoom-guidance-for-virtual-team-spaces-in-msteams/"><u>In 2024, In-Depth Zoom Guidance for Virtual Team Spaces in MSTEAMS</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-9-ways-to-engage-windows-11s-volume-management/"><u>Master 9 Ways to Engage Windows 11'S Volume Management</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/narratives-in-motion-transforming-thoughts-into-words-for-2024/"><u>Narratives in Motion Transforming Thoughts Into Words for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/perfect-window-dimensions-win11s-configurability/"><u>Perfect Window Dimensions: Win11's Configurability</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/recovering-a-mistakenly-erased-windows-partition-simple-steps-for-success/"><u>Recovering a Mistakenly Erased Windows Partition: Simple Steps for Success!</u></a></li>
+<li><a href="https://windows11.techidaily.com/secretive-windows-11-aesthetic-designs/"><u>Secretive Windows 11 Aesthetic Designs</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-installing-and-setting-up-win11/"><u>Steps for Installing and Setting Up Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-resolving-efail-0x80004005-error-in-windows-virtualbox/"><u>Strategies for Resolving E_FAIL (0X80004005) Error in Windows Virtualbox</u></a></li>
+<li><a href="https://windows11.techidaily.com/swift-synonym-searches-in-windows-11/"><u>Swift Synonym Searches in Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/usbasp-windows-versions-resolution-guide-fixed/"><u>USBasp: Windows Versions Resolution Guide [Fixed]</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/1728462329548-windows-1110/"><u>Windows 11系統影像回復不成功？使用以下10個方法來解決問題</u></a></li>
 </ul></div>
 

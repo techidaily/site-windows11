@@ -1,7 +1,7 @@
 ---
 title: "Elevating Security: Controlling User Biometrics in Windows 11"
-date: 2024-07-29T04:23:24.543Z
-updated: 2024-07-30T04:23:24.543Z
+date: 2025-01-09T19:45:06.126Z
+updated: 2025-01-10T20:55:49.119Z
 tags:
   - windows10
   - windows11
@@ -29,20 +29,20 @@ thumbnail: https://thmb.techidaily.com/6060180ff020afbbd02ae1895cf9d82d0058a11f9
 3. In the Local Group Policy Editor, head towards the following location:  
 `Computer Configuration > Administrative Templates > Windows Components > Biometrics`
 4. Double-click on the **Allow domain users to log on using biometrics** policy in the right pane.  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Allow domain users to log on using biometrics policy in the Local Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/allow-domain-users-to-log-on-using-biometrics-policy.jpg)
 5. Choose the **Enabled** option to allow biometrics log on for the domain users. And choose the **Disabled** option to block biometrics log on for the domain users.  
+
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Enable option in the Local Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/enable-option.png)
 6. Click **Apply** \> **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Allow or Block a Biometrics Log-On Using the Registry Editor
 
  Another way to configure biometrics log-on for the domain users is through the Registry Editor. Here's how:
@@ -53,21 +53,26 @@ thumbnail: https://thmb.techidaily.com/6060180ff020afbbd02ae1895cf9d82d0058a11f9
 2. In the Registry Editor, navigate to the following location:  
 `HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Biometrics\Credential Provider`
 3. Right-click the **Credential Provider** key in the left sidebar, hover the cursor to **New,** and choose **DWORD (32-bit) Value**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![DWORD (32-bit) Value in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/dword-32-bit-value.jpg)
 4. Name the value **Domain Accounts.**  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Naming the Value Domain Accounts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/domain-accounts.jpg)
 5. Double-click on the Domain Accounts value, type **1** in the **Value data** section to enable biometrics log on and **0** to disable biometrics log on for domain users.  
+
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Editing the Value data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/value-data.jpg)
 6. Click **OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Control Biometrics Logins on Your Computer
 
@@ -75,11 +80,31 @@ thumbnail: https://thmb.techidaily.com/6060180ff020afbbd02ae1895cf9d82d0058a11f9
 
  This article will show some quick ways to allow or block a domain user from logging on using biometrics in Windows 11\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-elite-audio-gear-guide-for-4k-camera-quality-production-for-2024/"><u>[New] Elite Audio Gear Guide for 4K Camera Quality Production for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-expert-tips-on-ipad-screen-casts-for-2024/"><u>[New] Expert Tips on iPad Screen Casts for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-unlocking-financial-flows-youtube-affiliates-for-modest-channels/"><u>[Updated] 2024 Approved Unlocking Financial Flows YouTube Affiliates for Modest Channels</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-a-comprehensive-guide-to-implementing-and-using-high-dynamic-range-auto-hdr-in-windows-11-for-2024/"><u>[Updated] A Comprehensive Guide to Implementing and Using High Dynamic Range (Auto HDR) in Windows 11 for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/conquering-zoom-meetings-a-tech-savvy-setup-strategy/"><u>Conquering Zoom Meetings A Tech-Savvy Setup Strategy</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-elevate-your-workflow-master-dvd-creation-with-mac-os-x/"><u>In 2024, Elevate Your Workflow Master DVD Creation with Mac OS X</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-of-the-crucial-p310-nvme-ssd-enhanced-performance-on-m2-2280/"><u>In-Depth Review of the Crucial P310 NVMe SSD - Enhanced Performance on M.2 2280</u></a></li>
+<li><a href="https://win-superb.techidaily.com/klickbereit-jeden-tag-schutz-gewahrleisten-unter-windows-11-8-and-7-zwei-effiziente-ansatze/"><u>Klickbereit: Jeden Tag Schutz Gewährleisten Unter Windows 11, 8 & 7 - Zwei Effiziente Ansätze</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-off-game-lists-in-win11/"><u>Mastering Off Game Lists in Win11</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/navigating-the-process-how-to-securely-sign-up-with-a-digital-asset-broker-tips-by-yl-computing-and-yl-software-experts/"><u>Navigating the Process: How to Securely Sign Up with a Digital Asset Broker – Tips by YL Computing & YL Software Experts</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-unwanted-audio-app-utilization-issue-on-windows/"><u>Overcoming Unwanted Audio App Utilization Issue on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fix-guide-for-degraded-windows-based-excel-performance/"><u>Quick-Fix Guide for Degraded Windows-Based Excel Performance</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-accurate-interpretation-of-task-manager-writings/"><u>Strategies for Accurate Interpretation of Task Manager' Writings</u></a></li>
+<li><a href="https://windows11.techidaily.com/supercharge-steam-downloads-overcoming-frustrating-lulls/"><u>Supercharge Steam Downloads: Overcoming Frustrating Lulls</u></a></li>
+<li><a href="https://windows11.techidaily.com/turn-your-windows-11-pc-into-a-portable-wireless-router/"><u>Turn Your Windows 11 PC Into a Portable Wireless Router</u></a></li>
+<li><a href="https://windows11.techidaily.com/unclogging-peak-time-gpt-service-in-windows/"><u>Unclogging Peak-Time GPT Service in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-upgraded-the-future-of-using-sudo/"><u>Windows Upgraded: The Future of Using Sudo</u></a></li>
+</ul></div>
+

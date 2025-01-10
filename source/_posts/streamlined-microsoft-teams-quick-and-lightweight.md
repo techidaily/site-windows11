@@ -1,7 +1,7 @@
 ---
 title: "Streamlined Microsoft Teams: Quick & Lightweight"
-date: 2024-12-31T20:18:39.206Z
-updated: 2025-01-04T03:15:21.447Z
+date: 2025-01-08T20:39:44.718Z
+updated: 2025-01-10T22:37:29.654Z
 tags:
   - windows10
   - windows11
@@ -25,16 +25,12 @@ thumbnail: https://thmb.techidaily.com/3b3b313aac4422406d268b9ec86a52f71522ac5df
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What’s New in the Microsoft Teams Desktop App?
 
 ![new teams Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/new-teams-windows-11.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The new Teams app for the desktop comes with a minor design overhaul. It features a new color scheme and some modifications to the UI, making it easier to navigate. The header features a toggle switch to seamlessly switch between the Classic and new Teams interface.
@@ -42,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/3b3b313aac4422406d268b9ec86a52f71522ac5df
  However, the major changes to the app are under the hood in the form of performance improvements and resource efficiency. Courtesy of the new architecture, Teams now works two times faster while using 50 percent less memory, an area where it has lacked behind its competitors since its inception in 2017.
 
  Another significant change is the introduction of the new architecture. Microsoft Teams has now fully transitioned from AngularJS to React for its web development framework needs. Where Fluent UI’s UX controls provide standardized common component support, WebView2 replaces Electron as the rendering engine for the app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Other Features That Boost Collaboration and Productivity in Teams
 
@@ -54,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/3b3b313aac4422406d268b9ec86a52f71522ac5df
  Apart from these, Microsoft also plans to bring some new features later this year, including third-party and Line-of-Business(LOB) apps support and advanced calling and meeting feature.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Try the Teams Public Preview
@@ -62,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/3b3b313aac4422406d268b9ec86a52f71522ac5df
 ![Microsoft teams update policies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/microsoft-teams-update-policies.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The new Teams is only available as a public preview build and is available for commercial users now. While the company plans to bring it to Education and platforms like VDI and web later this year, here’s how to set an Update policy and enable Teams public preview for organizations.
@@ -82,7 +82,7 @@ To set the Update policy and enable public preview:
  To enable new Teams, launch the app and toggle the**new Teams** switch to starting using the latest iteration of Teams. You can switch between the classic and new Teams app without restrictions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft Teams is Now More Efficient and Faster
@@ -106,24 +106,17 @@ To set the Update policy and enable public preview:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-3-best-ways-to-get-pinterest-video-to-mp3-downloaded/"><u>[New] 3 Best Ways to Get Pinterest Video to MP3 Downloaded</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-poco-x6-pro-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Poco X6 Pro Activity | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/breach-ethernet-speed-barriers-past-windows-100mbps-ceiling/"><u>Breach Ethernet Speed Barriers: Past Windows' 100Mbps Ceiling</u></a></li>
-<li><a href="https://windows11.techidaily.com/changing-home-screen-settings-without-start-menu/"><u>Changing Home Screen Settings Without Start Menu</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discover-why-the-microsoft-sculpt-keyboard-is-a-highly-recommended-investment-for-comfort-and-productivity/"><u>Discover Why the Microsoft Sculpt Keyboard Is a Highly Recommended Investment for Comfort and Productivity!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-connection-for-double-viewing-adding-a-second-screen-in-windows-10/"><u>Easy Connection for Double Viewing: Adding a Second Screen in Windows 10</u></a></li>
-<li><a href="https://windows11.techidaily.com/from-oops-to-on-point-8-fixes-for-pink-desktop-displays/"><u>From Oops to On Point: 8 Fixes for Pink Desktop Displays</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-xiaomi-redmi-note-12-pro-4g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Xiaomi Redmi Note 12 Pro 4G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/leading-lights-in-the-land-of-vr-entertainment-for-2024/"><u>Leading Lights in the Land of VR Entertainment for 2024</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/maximize-windows-11-capabilities-with-the-powerful-media-creation-utility/"><u>Maximize Windows 11 Capabilities with the Powerful Media Creation Utility</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/rayman-legends-game-analysis-exceptional-artistry-in-a-2d-platform-adventure/"><u>Rayman Legends Game Analysis: Exceptional Artistry in a 2D Platform Adventure</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/reasons-to-favor-an-investment-in-m3-macbook-air/"><u>Reasons to Favor an Investment in M3 MacBook Air</u></a></li>
-<li><a href="https://windows11.techidaily.com/redefining-user-experience-the-changing-landsinas-of-w10-and-w11/"><u>Redefining User Experience: The Changing Landsinas of W10 & W11</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-overcome-windows-memory-errors/"><u>Steps to Overcome Windows Memory Errors</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/story-2-measuring-influencer-partnerships-in-social-media-campaigns/"><u>Story 2: Measuring Influencer Partnerships in Social Media Campaigns</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-eliminate-windows-unknown-value-warning/"><u>Strategies to Eliminate Windows Unknown Value Warning</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-the-unreachable-error-with-spotify-in-windows-1011/"><u>Tackling the Unreachable Error with Spotify in Windows 10/11</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-to-turn-on-or-off-windows-installation-service/"><u>Tips to Turn On or Off Windows Installation Service</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-7-tabs-notes-that-complement-pen-tech/"><u>Top 7 Tabs: Notes That Complement Pen Tech</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-clearing-up-that-persistent-green-tint-in-youtube-videos-on-mac/"><u>[New] In 2024, Clearing Up that Persistent Green Tint in YouTube Videos on Mac</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-glimpsing-at-huawei-p10s-thermal-management-tech/"><u>[New] In 2024, Glimpsing at Huawei P10's Thermal Management Tech</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/t-thumbnails-downloading-via-browser-app-and-command-line/"><u>[New] YT Thumbnails Downloading via Browser, App & Command Line</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/elevate-your-workspace-experience-the-dual-monitor-capability-with-your-m3-macbook-pro-just-as-you-can-with-the-m3-macbook-air/"><u>Elevate Your Workspace: Experience the Dual Monitor Capability with Your M3 MacBook Pro, Just as You Can With the M3 MacBook Air</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-jscriptdll-absent-or-missing-issues-quick-solutions-for-web-developers/"><u>Fixing jScript.DLL Absent or Missing Issues: Quick Solutions for Web Developers</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-effortlessly-engage-with-windows-11-service-tools/"><u>How to Effortlessly Engage with Windows 11 Service Tools</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/microsoft-outlook-pstonedrive/"><u>Microsoft Outlook PSTデータをOneDriveに自動転送する方法</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-checksum-accuracy-in-winrar-archives-with-6-tips/"><u>Restoring Checksum Accuracy in WinRAR Archives with 6 Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-tackling-windows-disk-errors/"><u>The Ultimate Guide to Tackling Windows Disk Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-non-responsive-windows-enter-key/"><u>Troubleshooting Non-Responsive Windows Enter Key</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-new-network-possibilities-with-win11s-settings/"><u>Unlock New Network Possibilities with Win11's Settings</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/usb-windows-11/"><u>USB ドライブで Windows 11 イメージを展開する手順</u></a></li>
 </ul></div>
 

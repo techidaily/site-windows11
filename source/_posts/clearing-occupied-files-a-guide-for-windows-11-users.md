@@ -1,7 +1,7 @@
 ---
 title: "Clearing Occupied Files: A Guide for Windows 11 Users"
-date: 2024-08-08T05:58:21.042Z
-updated: 2024-08-09T05:58:21.042Z
+date: 2025-01-06T20:44:53.028Z
+updated: 2025-01-10T23:31:48.363Z
 tags:
   - windows10
   - windows11
@@ -21,15 +21,16 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
  Here is how you can fix the “requested resource is in use” error on a Windows 10 or 11 PC.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Check if the File Is Already in Use
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![The End task option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-end-task-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The “requested resource is in use” error message hints that the file (resource) you’re trying to copy is already in use. Thus, the copy operation cannot be completed because something else is using the file or folder. So, you might need to close some background processes to address this issue.
 
@@ -45,24 +46,19 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
 2. Then click the **View** menu button.
 3. Select the **Show** submenu.
 4. Deselect the **Preview pane** option.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Preview pane option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/preview-pane-option.jpg)
 5. Then try moving or copying your files again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The layout in Windows 10 File Explorer is a little different. To disable preview panes in that file manager, you’ll need to click the **View** tab. Then click **Preview pane** to deselect that option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The View tab in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-view-tab.jpg)
 
  Note that just disabling the preview pane might not always be enough. If that doesn’t work, try turning off the icon file view. To do so in Windows 11 File Explorer, click **View** and select the **List** or **Details view** option. You can select the same options on the **View** tab in Windows 10 File Explorer.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ## 3\. Run a Malware Scan
 
  If the previous two resolutions don’t work for you, it’s probably the case that malware is causing the “requested resource is in use” error on your PC. SmartService is a trojan known to cause the “required source is in use” error. So, try running an antivirus scan with third-party software or Windows Security to kill SmartService. You can run an antivirus scan with Windows Security like this:
@@ -72,9 +68,6 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
 ![The Scan options navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-scan-options.jpg)
 3. Select the **Full scan** setting.
 4. Click **Scan now** to initiate the malware scanning.  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Scan now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-full-scan-radio-button.jpg)
 5. Wait for the scanning to finish and select **Start actions** to remove detected malware.
 
@@ -83,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
  To circumvent such a block, try running a Windows Security or third-party app antivirus scan in safe mode instead. Our guide to [booting into safe mode on Windows](https://www.makeuseof.com/windows-11-boot-safe-mode/) includes a few different methods for entering that troubleshooting mode. Select to enable safe mode with networking.
 
 ![windows 11 startup settings safe mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-startup-settings-safe-mode.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Disable Any Unknown Programs in Task Manager
 
@@ -103,11 +100,13 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
 
 1. Bring up the Windows uninstaller tool with a method in our guide to opening Programs and Features.
 2. Look through the list of installed software to see if there’s any suspicious-looking program there. Look for a program you can’t recall installing with an unknown publisher title.  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Uninstall option in Programs and Features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-uninstall-option4.jpg)
 3. Right-click on the suspected SmartService malware and select **Uninstall**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. If you can’t uninstall the suspicious software, restart Windows in safe mode. Then try removing the same suspicious item via Programs and Features in safe mode.
 
  Also, clear temporary data after uninstalling SmartService to ensure the malware can’t re-emerge. To do so, you’ll need to clear out the Temp folder. This article about [deleting temporary files](https://www.makeuseof.com/windows-11-delete-temporary-files/) includes alternative methods for clearing data in the Temp folder.
@@ -121,24 +120,14 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
 ![The Reset this PC tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-keep-my-files-option.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Get the “Requested Resource Is in Use” Error Sorted on Windows
 
  The potential solutions covered here are widely confirmed to resolve the “requested resource is in use” error. If it’s not caused by malware, disabling Explorer’s preview pane, as covered in resolution two, will usually fix the issue. Users confirm running an antivirus scan in safe mode (solution three) can fix the “required resource is in use” error when caused by malware.
 
  Here is how you can fix the “requested resource is in use” error on a Windows 10 or 11 PC.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -146,4 +135,23 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-insta-live-with-obs-broadcast/"><u>[New] 2024 Approved Insta Live with OBS Broadcast</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-optimal-offerings-best-devices-for-hd-video-processing/"><u>[New] In 2024, Optimal Offerings Best Devices for HD Video Processing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-personal-evolution-building-an-enduring-youtubing-identity/"><u>[Updated] Personal Evolution Building an Enduring YouTubing Identity</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-implementing-rgb-in-windows-11/"><u>Guide to Implementing RGB in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-turning-msi-on-or-off-through-group-policy/"><u>Guide to Turning MSI On or Off Through Group Policy</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-iphone-se-2020-device-from-icloud-by-drfone-ios/"><u>How to Remove Apple iPhone SE (2020) Device from iCloud</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-nubia-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Nubia Android SIM Unlock APK</u></a></li>
+<li><a href="https://windows11.techidaily.com/microsoft-woes-solutions-to-ease-your-way/"><u>Microsoft Woes? Solutions to Ease Your Way!</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-command-line-interface-use-set-as-primary-app/"><u>Optimize Command Line Interface Use: Set As Primary App</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/record-panel-wide-digital-view/"><u>Record Panel-Wide Digital View</u></a></li>
+<li><a href="https://windows11.techidaily.com/securing-and-streamlining-user-and-group-management-on-win1110-home/"><u>Securing & Streamlining User and Group Management on WIN11/10 Home</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-8-microsoft-syncs-for-android-from-a-windows-pc/"><u>Top 8 Microsoft Syncs for Android From a Windows PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-resolving-roblox-launch-issues/"><u>Ultimate Guide: Resolving Roblox Launch Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-guide-top-dvd-ripper-tools-for-seamless-plex-media-server-integration/"><u>Ultimate Guide: Top DVD Ripper Tools for Seamless Plex Media Server Integration</u></a></li>
+</ul></div>
 

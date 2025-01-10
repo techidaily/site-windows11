@@ -1,7 +1,7 @@
 ---
 title: Solutions for Unwanted Chrome Tab Autopilot in Windows
-date: 2024-12-27T20:23:40.191Z
-updated: 2025-01-03T20:32:38.302Z
+date: 2025-01-04T18:18:28.018Z
+updated: 2025-01-10T21:09:32.914Z
 tags:
   - windows10
   - windows11
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Apply Some Preliminary Fixes
 
  To troubleshoot the issue, perform the following fixes first, as they may resolve it right away:
@@ -51,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 
  If this is the case, unplug or [temporarily turn off your keyboard](https://www.makeuseof.com/windows-disable-laptop-keyboard/) and have it inspected. However, if no keys appear to be pressed, move on to the next step.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Stop Chrome From Opening Links in New Tabs
 
  Chrome comes with a built-in feature that lets users open links in new tabs. This feature helps users open and go through multiple links from the search engine results page at once without having to go back and forth.
@@ -62,21 +62,17 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 ![Open See All Search Settings in the Chrome Quick Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/3-open-see-all-search-settings-in-the-chrome-quick-settings.jpg)
 3. Navigate to the **Where results open** section and uncheck the box beside **Open each selected result in a new browser window**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Uncheck the Box Beside Open Each Selected Result in a New Browser Window Option in See All Search Settings in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/4-uncheck-the-box-beside-open-each-selected-result-in-a-new-browser-window-option-in-see-all-search-settings-in-chrome.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Stop Chrome From Opening New Tabs on PC Startup or Browser Launch
 
  If Chrome automatically launches and opens new tabs when your Windows device boots up, you probably granted it permission to do so. To turn off this permission, open Task Manager, navigate to the **Startup apps** tab, locate **Chrome** in the list of applications, right-click on it, and choose **Disable**.
 
 ![Disable Chrome From Startup Apps in the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-chrome-from-startup-apps-in-the-task-manager-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If new tabs open up at browser startup, you've probably configured the browser to open a set of new tabs at its launch or to open the tabs you left open when you last used the browser. Follow these steps to remove these permissions:
 
@@ -85,10 +81,6 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 3. Navigate to the **On startup** tab and check the circle besides **Open the New Tab page**.  
 ![Select Open the New Tab Option in the On Startup Tab of Chrome Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/6-select-open-the-new-tab-option-in-the-on-startup-tab-of-chrome-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Ensure That the Website You Are on Isn’t Malicious
 
  If Chrome opens new tabs with unwanted websites whenever you click on a text, link, or area on a particular website, that site or its content is likely malicious. That might explain why it redirects you to malicious offers and landing pages run by threat actors.
@@ -96,7 +88,7 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
  There are many ways to determine whether a website is untrustworthy, so learn [how to check if a site is safe](https://www.makeuseof.com/how-to-check-if-a-website-is-safe-to-use/) for more information.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Ensure Your Browser and Device are Malware-Free
@@ -104,6 +96,10 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
  The Chrome browser can also misbehave or act strangely if infected with malware or viruses. If none of the fixes above resolve the problem, your browser could be infected with a [browser hijacker](https://www.makeuseof.com/what-is-browser-hijacking/).
 
  If the problem persists despite removing the hijacker, you may have a malware infection on your device, forcing Chrome to open unwanted websites on its own. To rule out this possibility, [run a full malware scan using a Microsoft Security scanner](https://www.makeuseof.com/microsoft-safety-scanner-guide/) to get rid of any possible infections.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Reset and Reinstall Chrome
 
@@ -114,6 +110,10 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 ![Click Restore Settings to their Original Defaults Option to Reset Chrome Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/7-click-restore-settings-to-their-original-defaults-option-to-reset-chrome-settings.jpg)
 
  If resetting the browser also doesn't work, you can reinstall the browser from scratch, which is the least desirable solution. Before you begin the new installation, ensure you properly remove the old installation using our guide on [uninstalling apps on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Stop Chrome From Opening New Tabs on Windows
 
@@ -137,22 +137,17 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-ultimate-screenshot-and-recorder-windows-10/"><u>[New] 2024 Approved Ultimate Screenshot & Recorder, Windows 10</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-experience-the-future-of-learning-with-these-channels/"><u>[New] In 2024, Experience the Future of Learning with These Channels</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-whip-up-witty-cartoons/"><u>[Updated] Whip Up Witty Cartoons</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/1728471365540-windows-10/"><u>簡単な手順でWindows 10を整合性良く移行する方法</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-guide-to-overcoming-windows-resolution-riddles/"><u>A Guide to Overcoming Windows Resolution Riddles</u></a></li>
-<li><a href="https://windows11.techidaily.com/ace-your-win-11-games-with-these-best-fps-tools/"><u>Ace Your Win 11 Games with These Best FPS Tools</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-the-sluggishness-of-windows-discord-features/"><u>Addressing the Sluggishness of Windows Discord Features</u></a></li>
-<li><a href="https://howto.techidaily.com/app-wont-open-on-your-poco-c55-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Poco C55? Here Are All Fixes | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/boosting-control-mastering-local-gpo-access-on-windows-11/"><u>Boosting Control: Mastering Local GPO Access on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypass-bottlenecks-9-fixes-for-rapid-windows-verification/"><u>Bypass Bottlenecks: 9 Fixes for Rapid Windows Verification</u></a></li>
-<li><a href="https://windows11.techidaily.com/comprehensive-guide-to-unfreezing-window-taskbar/"><u>Comprehensive Guide to Unfreezing Window TaskBar</u></a></li>
-<li><a href="https://windows11.techidaily.com/compute-chronology-determining-window-system-era/"><u>Compute Chronology: Determining Window System Era</u></a></li>
-<li><a href="https://blog-min.techidaily.com/conversion-gratuite-de-fichiers-video-avi-vers-asf-en-ligne-avec-convertidivideo/"><u>Conversion Gratuite De Fichiers Vidéo: AVI Vers ASF en Ligne Avec Convertidivideo</u></a></li>
-<li><a href="https://windows11.techidaily.com/cutting-the-clutter-soundcard-irq-solutions/"><u>Cutting the Clutter: Soundcard IRQ Solutions</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-the-ultimate-toolkit-powerdirectors-comprehensive-24-analysis/"><u>In 2024, The Ultimate Toolkit PowerDirector's Comprehensive '24 Analysis</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-the-best-free-audio-recording-software-in-depth-reviews/"><u>New The Best Free Audio Recording Software In-Depth Reviews</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/1728510379051-5/"><u>データ失われる方法：誤って消えたワードを5つの復元手順で取り戻せ</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-professional-handbook-integrating-countdown-mechanisms-into-streaming-tools/"><u>[New] 2024 Approved Professional Handbook Integrating Countdown Mechanisms Into Streaming Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatbots-rising-the-transformation-of-digital-storytelling/"><u>Chatbots Rising: The Transformation of Digital Storytelling</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/end-of-an-era-for-apple-pay-later-unveiling-apples-latest-financial-solutions-strategy/"><u>End of an Era for Apple Pay Later: Unveiling Apple’s Latest Financial Solutions Strategy</u></a></li>
+<li><a href="https://windows11.techidaily.com/fortifying-win-connections-for-uninterrupted-surfing/"><u>Fortifying Win Connections for Uninterrupted Surfing</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Realme Narzo N53? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Infinix Smart 7 HD? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-coexistence-of-ethernet-and-wi-fi-for-enhanced-productivity/"><u>Mastering the Coexistence of Ethernet & Wi-Fi for Enhanced Productivity</u></a></li>
+<li><a href="https://windows11.techidaily.com/old-habits-die-hard-reasons-for-sticking-with-windows-10/"><u>Old Habits Die Hard – Reasons for Sticking with Windows 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-for-deactivating-hyper-v-win11/"><u>Techniques for Deactivating Hyper-V Win11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-the-mystery-of-a-missing-graphics-driver/"><u>Unraveling the Mystery of a Missing Graphics Driver</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-hidden-truth-behind-windows-activation-error-0x8007251d/"><u>Unveiling the Hidden Truth Behind Windows Activation Error 0X8007251D</u></a></li>
 </ul></div>
 

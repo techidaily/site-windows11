@@ -1,7 +1,7 @@
 ---
 title: Dealing with Non-Functional Router Web Interfaces
-date: 2024-08-08T05:55:36.789Z
-updated: 2024-08-09T05:55:36.789Z
+date: 2025-01-08T18:40:31.648Z
+updated: 2025-01-10T22:03:42.343Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/2ceae87a9b9364e8de7f8199f6943542799e9e444
 
  If you can’t access your router's login page or web interface, check if your default gateway IP address is correct. It can also be an issue with the browser and your wireless router. Here we show you a few ways to fix the problem of accessing the router IP address and login page.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Why Can’t You Access the Router Login Page?
 
  Your router’s login page may not work if you use an incorrect IP address to access the page. Check your Default Gateway address to verify the IP address. Other reasons why your router's login page can become inaccessible include:
@@ -39,9 +36,17 @@ thumbnail: https://thmb.techidaily.com/2ceae87a9b9364e8de7f8199f6943542799e9e444
 https:\\ 192.168.1.1
 2. This should work If your router mandates using a secure version of HTTP to access the login page.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Verify if the IP Address Is Correct
 
 ![default gateway ip address windows command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/default-gateway-ip-address-windows-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Almost all the router manufacturer use 192.168.1.1, a private IP address, to log into a router’s admin panel and change the default router settings. However, some routers may use a different address. If so, you’ll likely encounter an error when accessing the login page using 192.168.1.1.
 
@@ -64,11 +69,13 @@ To find your Default Gateway IP address for the router:
 
 1. In Google Chrome, click the three-dots menu and select**Settings** .
 2. Open the**Privacy and Security** tab in the left pane.  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![clear chrome browser cache](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/clear-chrome-browser-cache.jpg)
 3. Next, click**Clear browsing data** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Select a time range and click**Clear data** . If the router page suddenly stopped working, set the time range to last 7 days.
 
  Once the cache is cleared, relaunch the browser and check if you can access the router’s login page. If the issue persists, reinstalling the browser is an option. However, using a different browser to access your router’s login page is a much easier workaround.
@@ -84,20 +91,14 @@ To find your Default Gateway IP address for the router:
 3. Next, go to**Network and Internet** .
 4. Click on**Network and Sharing Center** .
 5. In the left pane, click**Change adapter settings** .  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![control panel network change adapter settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/control-panel-network-change-adapter-settings.jpg)
 6. Right-click on your**Ethernet adapter** and select**Properties** .
-7. Next, double-click on**Internet Protocol Version 4 (TCP/IPv4)** to open its**Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+7. Next, double-click on**Internet Protocol Version 4 (TCP/IPv4)** to open its**Properties** .  
 ![disable internet protocol version 6 network properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-internet-protocol-version-6-network-properties.jpg)
 8. In the**Properties** dialog, select**Obtain an IP address automatically** . Next, select**Obtain DNS server address automatically** .  
 ![The obtain DNS and IP address options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-automatic-dns-and-ip-address-options.jpg)
@@ -106,23 +107,8 @@ To find your Default Gateway IP address for the router:
 
  If you use a different VPN service, check for similar features and disable it to resolve the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Disable Invisibility on Any LAN VPNs
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Nordvpn disable invisibility on lan 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nordvpn-disable-invisibility-on-lan-1.png)
 
  If you use a VPN, check if the client has an Invisibility on LAN feature enabled. Invisibility on LAN hides your computer from others on the same local area network. However, this feature can also prevent you from accessing your router’s login page.
@@ -135,8 +121,9 @@ To disable Invisibility on LAN on NordVPN:
 4. Launch your browser and access your router’s login page to see if it works. If not, quit the VPN client from the system tray and try again.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Reset Your Router to Its Factory Defaults
 
  If you can’t reach the login page, check if your router is acting up. Temporary issues with the router can be fixed with a quick restart. If that doesn’t work, you can perform a factory reset to restore your router to its default settings.
@@ -149,14 +136,11 @@ To disable Invisibility on LAN on NordVPN:
 
  If you have trouble reaching the router login page, make sure you are using the correct IP address. Use the ipconfing command in Command Prompt and verify if your IP address matches the Default Gateway address. Additionally, check your network adapter’s TCP/IP settings, perform a router power cycle, or reset the router to its factory default settings to resolve the problem.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -165,6 +149,20 @@ To disable Invisibility on LAN on NordVPN:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-experts-guide-to-the-best-ipad-voice-recording-tools-3/"><u>[New] In 2024, Expert's Guide to the Best iPad Voice Recording Tools #3</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-all-encompassing-iptv-access-strategies/"><u>[Updated] In 2024, All-Encompassing IPTV Access Strategies</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitter-archive-mastery-tips-and-tricks-for-2024/"><u>[Updated] Twitter Archive Mastery Tips & Tricks for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-unleashing-facebooks-auto-play-feature-for-youtube-clips/"><u>[Updated] Unleashing Facebook's Auto-Play Feature for YouTube Clips</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-navigating-hashtag-use-for-maximum-marketing-reach/"><u>2024 Approved Navigating Hashtag Use for Maximum Marketing Reach</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-guide-turn-off-hardware-assisted-gpgpus-on-widno/"><u>Essential Guide: Turn Off Hardware-Assisted GPGPUs on WIDNO</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-realme-12-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/global-analysis-where-is-french-spoken-by-the-majority/"><u>Global Analysis: Where Is French Spoken by the Majority?</u></a></li>
+<li><a href="https://windows11.techidaily.com/harmonizing-operations-combining-windows-11-and-tablet-for-peak-efficiency/"><u>Harmonizing Operations: Combining Windows 11 & Tablet for Peak Efficiency</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-note-30-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Infinix Note 30 5G Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-revive-frozen-windows-terminal-apps/"><u>Strategies to Revive Frozen Windows Terminal Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategizing-onedrives-positioning-within-windows-directory-space/"><u>Strategizing OneDrive's Positioning Within Windows Directory Space</u></a></li>
+</ul></div>
 

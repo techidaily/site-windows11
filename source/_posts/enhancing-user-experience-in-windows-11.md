@@ -1,7 +1,7 @@
 ---
 title: Enhancing User Experience in Windows 11
-date: 2024-07-29T04:23:23.237Z
-updated: 2024-07-30T04:23:23.237Z
+date: 2025-01-04T19:27:42.407Z
+updated: 2025-01-10T22:49:16.731Z
 tags:
   - windows10
   - windows11
@@ -20,11 +20,12 @@ thumbnail: https://thmb.techidaily.com/b8679192be865a4926b833c7643d484e4a5289f4d
 
  While we do not know what the next version of Windows has in store for us, there are plenty of functionalities in Windows 11 that are fun and useful at the same time. In this article, we are putting together a list of such Windows 11 capabilities.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Use Snap Layouts to Arrange Windows
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![windows 11 snap layouts feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/windows-11-snap-layouts-feature.jpg)
 
  Snapping experience in Windows 11 is fun and can increase your productivity. The Snap layouts capability helps you arrange multiple windows side by side quickly, thus helping you multitask.
@@ -43,14 +44,8 @@ thumbnail: https://thmb.techidaily.com/b8679192be865a4926b833c7643d484e4a5289f4d
 
  There is more fun. You can also make Windows 11 open files at startup, meaning you do not have to click or touch anywhere to open files. To make it happen, you need to create and shortcut to the file you want to open at startup and then copy or paste it into the Startup folder. The Startup folder can be accessed by going to "C:\\Users\\YourUserName\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup".
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Comprehensive Stats on Battery Usage
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Screenshot showing Windows 11 Battery stats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/battery-stats.jpg)
 
  It's critical to have a comprehensive understanding of what's draining your laptop battery the most. Thanks to Windows 11's detailed report on battery usage, you get a clear picture of which apps consume more power and which consume less.
@@ -59,9 +54,6 @@ thumbnail: https://thmb.techidaily.com/b8679192be865a4926b833c7643d484e4a5289f4d
 
  You can also sort by to see the battery stats of apps currently in use and the ones running in the background. Overall, the **Power & battery** page in the Settings app provides you with all kinds of information required to understand your laptop's battery usage.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Customize the Quick Settings Panel
 
 ![Enable or Disable Battery Saver in via Quick Settings Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-or-disable-battery-saver-in-via-quick-settings-panel.jpg)
@@ -70,11 +62,12 @@ thumbnail: https://thmb.techidaily.com/b8679192be865a4926b833c7643d484e4a5289f4d
 
  The option to customize the Quick Settings panel is in the bottom-right corner of the Quick Settings panel.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Run Android Apps in Windows 11
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Android apps on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/top-windows-11-features-3.jpg)
 
  Microsoft's Windows Phone platform always suffered from a lack of apps, eventually leading to its demise. However, Microsoft does not want to make the same mistake with Windows 11 desktop.
@@ -83,20 +76,22 @@ thumbnail: https://thmb.techidaily.com/b8679192be865a4926b833c7643d484e4a5289f4d
 
  While not every Android app is available on the Amazon Appstore, you can check out a sizeable amount of well-known and famous names. Also, you can [install Google Play Store on your Windows 11 PC](https://www.makeuseof.com/windows-11-install-google-play-store/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Chat With Friends Using the Built-In Teams App
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Microsoft Teams integration in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/top-windows-11-features-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Microsoft Teams is available across all major platforms, but for Windows 11 users, getting access to Teams is a bit easier. Windows 11 taskbar has the Teams icon, clicking on which will open a small chat window for you to connect with people through text or video. You can also pop out chat windows, meaning you can chat with multiple people simultaneously. In other words, you can be a pro at multitasking while chatting on Teams.
 
  However, it is worth pointing out that what you see on the Windows 11 taskbar is not the full-fledged Teams experience with all the features and benefits. If that is what you want, you need to get the Teams app and remove the chat icon from the taskbar.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Use Widgets to Stay Updated With Topics
 
 ![Full View Widgets Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/full-view-widgets-panel.jpg)
@@ -105,13 +100,15 @@ thumbnail: https://thmb.techidaily.com/b8679192be865a4926b833c7643d484e4a5289f4d
 
  You can see the Widgets icon on the left side of the screen. Moving over the mouse over the icon will open the Widgets board for you to add and remove widgets, plus so much more. If you are new to Windows 11, [learn tips and tricks to get the most out of the Widgets experience](https://www.makeuseof.com/windows-11-widgets-starter-tips/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Windows 11 Is Fun... but Don’t Play With Everything
 
  You can play with Windows 11 settings to have some fun. While the default settings work in many cases, tweaking some of the settings in the OS will help you be more productive. However, you should not touch everything in the OS, as doing so might be counterproductive and break your system.
 
  While we do not know what the next version of Windows has in store for us, there are plenty of functionalities in Windows 11 that are fun and useful at the same time. In this article, we are putting together a list of such Windows 11 capabilities.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -119,3 +116,27 @@ thumbnail: https://thmb.techidaily.com/b8679192be865a4926b833c7643d484e4a5289f4d
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-seamless-communication-the-best-5-webcams-with-inbuilt-microphones/"><u>[New] In 2024, Seamless Communication The Best 5 Webcams with Inbuilt Microphones</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/apid-method-converting-images-into-desktop-thumbnails-for-youtube-for-2024/"><u>[New] Rapid Method Converting Images Into Desktop Thumbnails for YouTube for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-15-best-youtube-movies-channels-for-you-to-kill-time/"><u>[Updated] In 2024, 15 Best YouTube Movies Channels for You to Kill Time</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-perfecting-screenshots-editing-vids-vertically-on-fcpx/"><u>[Updated] Perfecting Screenshots Editing Vids Vertically on FCPX</u></a></li>
+<li><a href="https://article-tips.techidaily.com/an-honored-list-top-15-stop-motion-gems-through-ages-for-2024/"><u>An Honored List Top 15 Stop-Motion Gems Through Ages for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/steps-to-extract-and-save-your-youtube-watch-lists/"><u>Easy Steps to Extract and Save Your YouTube Watch Lists</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/exploring-the-construction-timeline-when-was-the-great-wall-of-china-erected/"><u>Exploring the Construction Timeline: When Was the Great Wall of China Erected?</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-fix-invalid-label-alert-in-win11/"><u>Guide to Fix Invalid Label Alert in Win11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-14-pro-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 14 Pro without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/inside-generative-ai-key-concepts-distilled/"><u>Inside Generative AI: Key Concepts Distilled</u></a></li>
+<li><a href="https://windows11.techidaily.com/minimizing-resource-waste-during-device-integration-on-windows/"><u>Minimizing Resource Waste During Device Integration on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-win11-with-ease-mastering-package-control-using-wingetui/"><u>Navigate Win11 with Ease: Mastering Package Control Using WingetUI</u></a></li>
+<li><a href="https://common-error.techidaily.com/netflix-outage-or-glitch-heres-how-you-can-get-it-running-smoothly-again/"><u>Netflix Outage or Glitch? Here's How You Can Get It Running Smoothly Again</u></a></li>
+<li><a href="https://windows11.techidaily.com/perfect-speech-capture-on-a-windows-device/"><u>Perfect Speech Capture on a Windows Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/selecting-a-window-for-your-needs-the-win11-homepro-showdown/"><u>Selecting a Window for Your Needs: The Win11 Home/Pro Showdown</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-efficiency-9-gains-from-the-newest-outlook-update/"><u>Unlocking Efficiency: 9 Gains From the Newest Outlook Update</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-the-power-of-outlook-preview-on-windows-11/"><u>Unlocking the Power of Outlook Preview on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-yourphoneexe-usefulness-on-modern-windows/"><u>Unlocking YourPhone.exe: Usefulness on Modern Windows?</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-with-virtualbox-deps-before-the-big-setup/"><u>Winning with VirtualBox: Deps Before the Big Setup</u></a></li>
+</ul></div>
+

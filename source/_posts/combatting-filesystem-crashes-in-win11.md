@@ -1,7 +1,7 @@
 ---
 title: Combatting FileSystem Crashes in Win11
-date: 2024-08-08T05:56:15.226Z
-updated: 2024-08-09T05:56:15.226Z
+date: 2025-01-06T19:51:38.788Z
+updated: 2025-01-10T20:34:52.628Z
 tags:
   - windows10
   - windows11
@@ -28,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/efc2d305e478474af3e17a5e089941fb3280acaab
 
 `DISM.exe /Online /Cleanup-image /Restorehealth`
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Scan Your Hard Drive
 
  Hard drive integrity issues such as bad sectors also cause file system errors to occur in Windows 11/10\. For that reason, scanning your hard drive with the Check Disk tool is a recommended troubleshooting method for file system errors. The Check Disk utility (otherwise CHKDSK) scans for and repairs bad drive sectors detected. This is how you can run CHKDSK in the Command Prompt:
@@ -40,16 +37,19 @@ thumbnail: https://thmb.techidaily.com/efc2d305e478474af3e17a5e089941fb3280acaab
 3. Then type this command in the Prompt’s window and press**Enter** :  
 `chkdsk c: /f /r`
 4. You’ll need to press**Y** to schedule the scan for a restart.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![The chkdsk command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chkdsk.jpg)
 5. Exit the Command Prompt window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click**Start > Power** to select**Restart** . The CHKDSK scan will start after the restart.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Run the Windows Store App Troubleshooter
 
  If a file system error occurs when you try launching MS Store apps or opening files with them, the Windows Store App troubleshooter might be useful for fixing it. That troubleshooter is there to resolve issues that stop UWP apps from working as they should. These are the steps for opening the Windows Store App troubleshooter:
@@ -60,14 +60,13 @@ thumbnail: https://thmb.techidaily.com/efc2d305e478474af3e17a5e089941fb3280acaab
 4. Then press the**Run** button for launching the Windows Store App troubleshooter.  
 ![The troubleshooter list in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-store-apps-troubleshooter1.jpg)
 5. Apply any suggestions the troubleshooter provides.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-store-app-window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-store-app-window.jpg)
+
 ## 4\. Check That the Windows License Manager Service Is Running
 
  Some file system errors can arise for opening files with UWP apps when the Windows License Manager service is disabled. That’s a service required for MS Store infrastructure support, and apps downloaded from the store don’t always work right when it’s disabled. This is how you can check that service is enabled and start it if necessary:
@@ -77,10 +76,19 @@ thumbnail: https://thmb.techidaily.com/efc2d305e478474af3e17a5e089941fb3280acaab
 3. Double-click**Windows License Manager Service** to access its properties window.  
 ![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-services-window2.jpg)
 4. Click on the**Startup type** menu to open it and select**Automatic** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Windows License Manager server window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-license-service-manager.jpg)
 5. If the service isn’t running, press**Start** within the properties window.
 6. Select**Apply** to save settings for the Windows License Manager Service.
 7. Click**OK** to close the Windows License Manager Service Properties window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Reinstall Any Affected App
 
@@ -88,16 +96,10 @@ thumbnail: https://thmb.techidaily.com/efc2d305e478474af3e17a5e089941fb3280acaab
 
  You can remove UWP apps with some of the methods in our guide for uninstalling software in Windows 11\. You can uninstall most apps with the Apps & Features tool in Settings. However, you might need to use the PowerShell method in our guide to remove some pre-installed Windows 11 apps.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![Apps & features in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/apps-features-window.jpg)
 
  When you’ve uninstalled the app, reinstall it from the MS Store. Bring up the Microsoft Store, and input the app’s title in its search box. Then select the app to reinstall in the search results, and click the**Get** button for it.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Set Up a New Local User Account on Windows
 
  File system errors can arise because of user account issues. Such errors might not arise if you set up and utilize a new local user account in Windows 11\. That might not be the most ideal resolution, but you can migrate user files to a newly established account.
@@ -106,9 +108,6 @@ thumbnail: https://thmb.techidaily.com/efc2d305e478474af3e17a5e089941fb3280acaab
 
 ![The Add account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-account-button.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Restore Windows to an Earlier Date
 
  System Restore is a troubleshooting tool that can potentially address various causes for file system errors, be it system file corruption, app conflicts, or recent Windows updates. It fixes many things by restoring Windows to an earlier date (system snapshot). However, restoring Windows to an earlier time will only likely work if you can select a restore point that predates the file system error on your PC.
@@ -116,6 +115,10 @@ thumbnail: https://thmb.techidaily.com/efc2d305e478474af3e17a5e089941fb3280acaab
  To apply this potential solution, read through our guide to [utilizing System Restore and creating restore points](https://www.makeuseof.com/windows-11-create-restore-point/) . Select a restoration date that will take your PC back to a time when there wasn’t a system file error on it. The oldest restore point available is the most likely one to do that.
 
 ![The System Restore tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/system-restore-window.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  However, restoring Windows to a previous time removes software not installed on the restoration point’s date. So, it’s likely you’ll have to reinstall some apps after rolling back Windows. Clicking**Scan for affected programs** in System Restore provides an overview of software that will be removed for a restore point.
 
@@ -135,8 +138,6 @@ thumbnail: https://thmb.techidaily.com/efc2d305e478474af3e17a5e089941fb3280acaab
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,6 +145,24 @@ thumbnail: https://thmb.techidaily.com/efc2d305e478474af3e17a5e089941fb3280acaab
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-how-much-does-pewdiepie-make/"><u>[New] How Much Does PewDiePie Make</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-beyond-3d-a-comparative-guide-to-metaverse-and-omniverse-realities-for-2024/"><u>[Updated] Beyond 3D A Comparative Guide to Metaverse and Omniverse Realities for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unveil-creativity-15plus-free-tools-for-youtube-intros/"><u>[Updated] Unveil Creativity 15+ Free Tools for YouTube Intros</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-google-pixel-8-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Google Pixel 8 PC | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1725289833638-dvdiphone/"><u>DVDコンテンツダウンロード無料！iPhoneに取り込むステップを学ぶ</u></a></li>
+<li><a href="https://windows11.techidaily.com/festive-fizzles-yule-time-apps-from-microsofts-hub/"><u>Festive Fizzles: Yule-Time Apps From Microsoft's Hub</u></a></li>
+<li><a href="https://windows11.techidaily.com/guidance-for-overcoming-indexer-service-start-up-issues/"><u>Guidance for Overcoming Indexer Service Start-Up Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-menu-management-quick-fixes/"><u>Mastering Windows Menu Management: Quick Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-components-settings-in-windows-11/"><u>Navigating Components Settings in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-the-forgotten-island-xbox-glitch-in-win11/"><u>Navigating Through the Forgotten Island Xbox Glitch in Win11</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/playing-dvd-content-on-your-ps5-understanding-the-features-and-limitations/"><u>Playing DVD Content on Your PS5: Understanding the Features and Limitations</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210106058-9781087907307-poop-random-words-musings-and-insight/"><u>Poop! Random Words, Musings and Insight | Free Book</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-infinix-hot-40-pro-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Infinix Hot 40 Pro Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/resetting-and-recovering-lost-steam-icons/"><u>Resetting and Recovering Lost Steam Icons</u></a></li>
+<li><a href="https://windows11.techidaily.com/reverting-your-pc-with-system-restore-step-by-step/"><u>Reverting Your PC with System Restore: Step-by-Step</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-fixing-apple-device-image-io-problems-in-w11/"><u>Strategies for Fixing Apple Device Image I/O Problems in W11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ultimate-tutorial-recording-playthroughs-of-flash-games-using-your-windows-laptopdesktop/"><u>Ultimate Tutorial: Recording Playthroughs of Flash Games Using Your Windows Laptop/Desktop</u></a></li>
+</ul></div>
 

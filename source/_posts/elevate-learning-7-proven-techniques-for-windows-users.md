@@ -1,7 +1,7 @@
 ---
 title: "Elevate Learning: 7 Proven Techniques for Windows Users"
-date: 2024-07-29T04:23:46.193Z
-updated: 2024-07-30T04:23:46.193Z
+date: 2025-01-08T16:19:18.582Z
+updated: 2025-01-10T22:22:49.881Z
 tags:
   - windows10
   - windows11
@@ -30,9 +30,11 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
 2. You must first select a main location where all the folders will be saved. We recommend storing the main folder on a separate volume for easy access. Go to the location, create a new folder, and name it.  
 ![A Folder In File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/a-folder-in-file-explorer.jpg)
 3. Go inside the folder you just created. Now, let’s create four different folders to organize the folder structure. We’ll use the PARA approach to name the folder. PARA refers to **Projects**, **Areas**, **Resources**, and **Archives**.  
+
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![PARA Styled Folder Structure](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/para-styled-folder-structure.jpg)
 
  Here is an overview of how the PARA approach can help organize student materials:
@@ -52,20 +54,18 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
 
 1. Go to the [Google Drive website](https://www.google.com/intl/en%5Fin/drive/download/) and click the **Download Drive for Desktop** button.
 2. Run the Google Drive installer file and click on **Install**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![Google Drive Installer Popup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/google-drive-installer-popup.jpg)
 3. Click **Launch** and log in with your primary Google account.
 4. Once logged in, right-click on the Google Drive icon on the taskbar. Click on the gear (settings) icon and then **Preferences**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Google Drive More Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/google-drive-more-options.jpg)
 5. Click on the **Add folder** button and select the main folder location that you created before.  
 ![Google Drive Preferences](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/google-drive-preferences.jpg)
 6. Click on **Done** and then **Save** to finish the backup process.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Google Drive Preferences Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/google-drive-preferences-options.jpg)
 
  We asked you to create the main folder (in the previous section) for a reason. Now that your main folder is synced live, whatever files/folders you save to that, you can access all of them from your smartphone.
@@ -76,9 +76,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Depending on your needs, you can customize sessions as short as 5 minutes or as long as multiple hours. You can access this feature from your **Windows Settings > System > Focus section**. Click the **Start focus session** button to start a session for the set amount. If you want to change the default timer, click the **Plus** or **Minus** button to adjust it.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Focus Session Option On Windows11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/focus-session-option-on-windows11.jpg)
 
 ## 4\. Install Useful Browser Extensions
@@ -96,8 +93,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  For non-Chromium based browsers, you can visit the official websites of the respective extensions to download supported add-ons.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Annotate Your PDFs With Drawboard PDF
 
  Wouldn't it be great if you could annotate and take notes directly on PDFs, just like you would on paper? There's a helpful app called Drawboard PDF that makes this possible.
@@ -110,17 +108,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Before opening the app, we'll set Drawboard PDF as the default app to open all the PDF files. For that, right-click on any PDF file and select **Open With Drawboard**.  
 ![Drawboard PDF Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/drawboard-pdf-option.jpg)
 3. Click on **Always** to set Drawboard as your default PDF viewer app.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![App Picker In Windows11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/app-picker-in-windows11.jpg)
 4. The app will ask you to create a new Drawboard account or sign in with your already existing one.
 5. The PDF file should open in Drawboard now. If you've not used Drawboard before, we suggest clicking on the (**+**) plus button on the left side of the ribbon. Set up or configure the annotation tools to add highlights, text, or shapes at your convenience.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Drawboard PDF Advanced Tools](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/drawboard-pdf-advanced-tools.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Take Digital Notes With Obsidian and OneNote
 
  Transcribing handwritten notes digitally can be tiresome with time. But the good thing is powerful note-taking apps that even support the use of AI technology now exist.
@@ -129,9 +130,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Obsidian is perfect for long-form writing and connecting concepts. It uses backlinks to display a knowledge graph of your notes. We have a [how to get started with Obsidian](https://www.makeuseof.com/what-is-obsidian-note-taking/) guide for those who want to go deep into note-taking with it.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Download Notion and Set It Up
 
  As a student, keeping track of classes, deadlines, and college activities can quickly become chaotic. You'll surely agree that managing academic life requires organization. This is where Notion can help.
@@ -140,18 +138,14 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  You can view a sample college student template in Notion to understand its usability. You can not only track your current semester's classes, notes, and materials; but can also manage your exam schedules in one searchable place.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Notion Page Example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/notion-page-example.jpg)
 
  We already have a [beginner's guide to get started with Notion](https://www.makeuseof.com/beginners-guide-to-notion/). Besides, you can also browse [Notion templates for students](http://www.notion.so/templates/category/school) to start with an attractive setup.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Install ChatGPT on Your PC
 
  ChatGPT is making a buzz in the education industry. It is gradually changing the way you gather information and write documents.
@@ -159,6 +153,10 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
  As it's a web-based service, you must open your browser and visit [chat.openai.com](https://chat.openai.com/) to use it. But, If you don't want to open your web browser every time, learn [how to install ChatGPT as a Windows app](https://www.makeuseof.com/run-chatgpt-windows-app/). Once done, you can one-click to open it and use it to brainstorm ideas, helpful resources, and draft outlines for your next project.
 
 ![ChatGPT Website Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/chatgpt-website-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Besides, if you don't know how to use ChatGPT for note-taking, you can refer to our guide on [how to use ChatGPT to take notes](https://www.makeuseof.com/use-chatgpt-to-take-notes/).
 
@@ -170,11 +168,33 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  As a student, you can get the most out of your Windows PC with just a few tweaks. Want to know some useful ones? In this article, we’ll show you some of the best ways to set up your Windows PC like a pro.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-2023-fb-video-downloader-app-windows-macos-android/"><u>[New] 2024 Approved 2023 FB Video Downloader App - Windows, macOS, Android</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-top-picks-for-free-high-quality-screen-recorders-in-chrome-os-for-2024/"><u>[Updated] Top Picks for Free, High-Quality Screen Recorders in Chrome OS for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-comparing-cloud-space-charges-methods-and-results/"><u>2024 Approved Comparing Cloud Space Charges Methods and Results</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-hack-the-art-of-instagram-reels-creation/"><u>2024 Approved Hack the Art of Instagram Reels Creation</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-the-quietest-cool-memes-on-the-web/"><u>2024 Approved The Quietest Cool Memes on the Web</u></a></li>
+<li><a href="https://windows11.techidaily.com/effective-methods-to-cut-edges-background-activity/"><u>Effective Methods to Cut Edge's Background Activity</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-microsoft-shop-errors-0x80131500/"><u>Eliminating Microsoft Shop Errors #0X80131500</u></a></li>
+<li><a href="https://windows11.techidaily.com/enablingdisabling-windows-software-configuration-service/"><u>Enabling/Disabling Windows Software Configuration Service</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-taskbar-clarity-separate-groups-on-win-11/"><u>Enhance Taskbar Clarity: Separate Groups on Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-efficiency-microsoft-adds-artificial-intelligence-to-windows-11-taskbar/"><u>Enhancing Efficiency: Microsoft Adds Artificial Intelligence to Windows 11 Taskbar</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-note-visibility-with-windows-tools/"><u>Enhancing Note Visibility with Windows Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-performance-with-virtual-memory-on-windows-11/"><u>Enhancing Performance with Virtual Memory on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-wi-fi-setup-accuracy-ensuring-complete-actions/"><u>Enhancing Wi-Fi Setup Accuracy: Ensuring Complete Actions</u></a></li>
+<li><a href="https://windows11.techidaily.com/epic-launcher-insights-best-practices-for-saving-your-playtime/"><u>Epic Launcher Insights: Best Practices for Saving Your Playtime</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211423651-9780645558135-from-the-prison-to-the-palace/"><u>From the Prison to the Palace | Free Book</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-infinix-note-30-5g-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Infinix Note 30 5G Through Google Earth?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/surpassing-expectations-the-superior-sound-of-a-non-jbl-non-klipsch-speaker-reviewed-on-zdnet/"><u>Surpassing Expectations: The Superior Sound of a Non-JBL, Non-Klipsch Speaker Reviewed on ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-acer-nitro-5-driver-software-for-optimal-performance-a-step-by-nstep-tutorial/"><u>Update Acer Nitro 5 Driver Software for Optimal Performance: A Step-by-nStep Tutorial</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-samsung-galaxy-a23-5g-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Samsung Galaxy A23 5G Device</u></a></li>
+</ul></div>
+

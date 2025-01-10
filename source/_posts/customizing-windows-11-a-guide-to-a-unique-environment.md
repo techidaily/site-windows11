@@ -1,7 +1,7 @@
 ---
 title: "Customizing Windows 11: A Guide to a Unique Environment"
-date: 2024-08-08T05:57:02.085Z
-updated: 2024-08-09T05:57:02.085Z
+date: 2025-01-04T23:23:39.437Z
+updated: 2025-01-10T20:30:28.805Z
 tags:
   - windows10
   - windows11
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/6490fa2e8c158c917a608e37e654c53e5a410f7e3
 
  The default customization options within Windows 11 and 10 are relatively limited. However, some third-party software packages give you lots more options for customizing Microsoft’s desktop operating system. WinBubble is freeware customization software that enables you to tweak the Windows platform in many different ways. Here are eight ways you can tweak Windows 11/10 with WinBubble.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## First, Download and Extract WinBubble
 
  The latest version of WinBubble is primarily designed for customizing Windows 10\. Its WinBubble for Windows 10 title makes it clear what platform it’s intended for. There are older versions of the software for Windows 7 and Vista.
@@ -30,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/6490fa2e8c158c917a608e37e654c53e5a410f7e3
 
  You can extract the archive as covered in our guide on [how to unzip files on Windows](https://www.makeuseof.com/unzip-files-windows-10/) . Double-click**WinBubble.exe** in the extracted WinBubbles directory to open the software.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. How to Customize Desktop Shortcut Icons With WinBubble
 
  The icons for desktop shortcuts on Windows include little arrows on them. However, you can change that with WinBubble’s Customize Shortcut Icon option. That option enables you to remove the arrow or change it to a star, heart, or Windows logo. You can tweak the desktop shortcut icons like this:
@@ -52,19 +53,25 @@ thumbnail: https://thmb.techidaily.com/6490fa2e8c158c917a608e37e654c53e5a410f7e3
 
  For example, you can select**Glassy Bubbles** or**Metallic Bubbles** options with different sizes for the Bubbles screensaver. Selecting the**Metallic Bubbles** option will give you multicolored bubbles shown in the snapshot below.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Metallic bubbles screensaver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/metallic-bubbles.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also adjust the number of ribbons or lines for the different**Ribbon** and**Mystify** screensaver presets. Select a preset and then input values in the number boxes to change how many lines or ribbons are included in the screensavers. You can also input a width value in the**Ribbon** **width** box.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![A Preset drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/a-preset-drop-down-menu.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When you’ve customized a screensaver, click the**View** button to preview it. Select**Set** to save the settings. You might also need to select and set the customized screensaver in the Change screensaver Control Panel applet.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. How to Change the Menu Delay With WinBubble
 
@@ -80,15 +87,15 @@ thumbnail: https://thmb.techidaily.com/6490fa2e8c158c917a608e37e654c53e5a410f7e3
 
  Click the**General** tab to view those customization settings for the context menu. Select a**Control Panel Menu** ,**MS Software Menu** , or**System Tools Menu** option on that tab to add one of those submenus. Click**Run** on any Open File warning dialog box to apply.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![The submenu context menu settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/context-menu-settings.jpg)
 
  Then right-click a desktop area to view your new**Control Panel** ,**System Tool** , or**Software** submenus. In Windows 11, you’ll also need to click**Show more options** since this tweak is applied to the classic context menu. Each submenu includes a variety of handy shortcuts.
 
 ![The System Tools submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/a-system-tools-menu.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. How to Add New Take Ownership Explorer Options for Files and Folders
 
@@ -100,28 +107,8 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  WinBubble’s**General** tab includes two settings for adding take ownership options to File Explorer’s context menu. Select both the**“Take the Ownership of this folder”** and**“Take the Ownership of this folder”** checkboxes to add those options. You’ll also need to click**Apply** for this tweak.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Take the Ownership of this folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/take-ownership-off-options.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. How to Add New Software Shortcuts to the Context Menu
 
  If you prefer not to stuff your desktop area with too many software shortcuts, the context menu is an ideal alternative space for them. You can add lots of shortcuts to different context menus with WinBubble without manually editing the [Windows registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) . This is how to add shortcuts for opening programs to the desktop’s right-click menu in Windows:
@@ -131,9 +118,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 3. Click the**ellipses** button for the**Command** box.
 4. Select software to add to the menu, and click the**Open** option.
 5. Input the software’s title in the**Name** box.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The context menu customization tool in WinBubble](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-context-menu-customization-tool.jpg)
 6. Press the**Add** button.
 7. Select**OK** on the prompt that appears.
@@ -142,11 +126,16 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![A WinBubble context menu shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/winbubble-context-menu-shortcut.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can remove shortcuts added by selecting them in the Explorer/Desktop box within WinBubble’s**Tools** tab. Click the**Remove** option there. Then choose**Yes** when asked to confirm the deletion.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. How to Add New Items to the Control Panel
 
  WinBubble’s**Tools** tab also includes a section that enables you to add new items to the Control Panel. You can add third-party software shortcuts to the Control Panel from there in the following steps:
@@ -164,19 +153,17 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![A WinBubble shortcut in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/winbubble-control-panel-shortcut.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ## 8\. How to Disable the Registry Editor in WinBubble
 
  The**More Policies** tab in WinBubble enables you to disable many things in Windows. It incorporates four subtabs from which you can disable desktop, Start menu, taskbar, machine, system, and Control Panel features. Plus, there are also some additional miscellaneous quick tweak settings available.
 
  For example, you can select to disable the Registry Editor if you don’t want other users messing around with the registry. To do so, click the**More Policies** \>**System** tabs. Select the**Prevent registry access** **to Registry Editor** checkbox and**Apply** option. An access denied message will then pop up when users try to open Registry Editor.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![The Prevent access to Registry Editor option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/prevent-access-to-registry-editor-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Customize Windows to Your Liking With WinBubble
 
@@ -188,8 +175,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -197,6 +182,22 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-awaken-the-artist-within-selective-shots-for-inspiration/"><u>[New] In 2024, Awaken the Artist Within Selective Shots for Inspiration</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-the-editors-playbook-for-drone-imagery/"><u>[New] In 2024, The Editor's Playbook for Drone Imagery</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-action-replay-compare-gopros-hero5-black-and-session/"><u>[Updated] 2024 Approved Action Replay Compare GoPro's Hero5 Black & Session</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-effortless-audio-collection-from-your-imac/"><u>[Updated] In 2024, Effortless Audio Collection From Your iMac</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-filmmakers-companion-for-advanced-lut-expertise/"><u>A Filmmaker's Companion for Advanced LUT Expertise</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-how-to-generate-a-copernic-software-offline-license/"><u>Guide: How to Generate a Copernic Software Offline License</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/ipad-tech-unveiling-the-secrets-of-time-lapse-videos/"><u>IPad Tech Unveiling the Secrets of Time-Lapse Videos</u></a></li>
+<li><a href="https://win-top.techidaily.com/las-11-mejores-fuentes-de-subtitulos-en-espanol-que-debe-probar-ahora-para-una-experiencia-optimizada-online/"><u>Las 11 Mejores Fuentes De Subtítulos en Español Que Debe Probar Ahora Para Una Experiencia Optimizada Online</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-quick-finds-in-illustrator-a-complete-guide-using-copernic/"><u>Mastering Quick Finds in Illustrator: A Complete Guide Using Copernic</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-flawless-file-handling-discover-copernics-software-secrets-for-maximum-efficiency/"><u>Navigating Flawless File Handling: Discover Copernic's Software Secrets for Maximum Efficiency</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/sion-cuts-at-a-touch-select-the-best-short-form-editors/"><u>Precision Cuts at a Touch Select the Best Short Form Editors</u></a></li>
+<li><a href="https://windows11.techidaily.com/reimagining-your-windows-11-search-experience/"><u>Reimagining Your Windows 11 Search Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/revolutionizing-business-data-retrieval-with-advanced-copernic-search-tech-explained/"><u>Revolutionizing Business Data Retrieval with Advanced Copernic Search Tech Explained</u></a></li>
+<li><a href="https://windows11.techidaily.com/santa-skims-but-you-need-depth-discover-how-copernic-transforms-your-data-check-with-precision-and-ease/"><u>Santa Skims, But You Need Depth - Discover How Copernic Transforms Your Data Check with Precision and Ease!</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-5-ways-copernic-enhances-your-work-from-home-experience/"><u>Top 5 Ways Copernic Enhances Your Work-From-Home Experience</u></a></li>
+</ul></div>
 

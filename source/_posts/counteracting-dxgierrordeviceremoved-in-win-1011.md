@@ -1,7 +1,7 @@
 ---
 title: Counteracting DXGI_ERROR_DEVICE_REMOVED in Win 10/11
-date: 2024-08-08T05:55:53.880Z
-updated: 2024-08-09T05:55:53.880Z
+date: 2025-01-09T18:58:00.067Z
+updated: 2025-01-10T17:07:02.446Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/c7779ebd6615899057fd1d41459b53b981bc532c7
  Consequently, Windows games either don’t launch at all or crash with regularity because of the DXGI\_ERROR\_DEVICE\_REMOVED error. The error message highlights that something associated with your graphics card has gone wrong. As such, these potential resolutions can fix the DXGI\_ERROR\_DEVICE\_REMOVED error in Windows 10 and 11\.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Modify the GraphicsDriver Registry Key
 
  Modifying the GraphicsDriver registry key is the most widely confirmed potential fix for the DXGI\_ERROR\_DEVICE\_REMOVED error. This resolution involves adding a TDR (Timeout Detection and Recovery) DWORD to the GraphicsDrivers key. Setting that DWORD to 0 disables TDR detection. You can apply this registry edit as follows:
@@ -33,6 +34,11 @@ thumbnail: https://thmb.techidaily.com/c7779ebd6615899057fd1d41459b53b981bc532c7
 3. Right-click on **GraphicsDrivers** and select the context menu’s **New** and **DWORD** options.  
 ![The New > Key options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-new-key-options.jpg)
 4. Type in a **TdrLevel** title for the DWORD.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Double-click on **TdrLevel** to activate its **Value** box.
 6. The DWORD’s value should already be set to zero by default. However, change that value to **0** if it’s not and click **OK**.  
 ![The TrdLevel DWORD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/trdlevel-dword.jpg)
@@ -40,24 +46,20 @@ thumbnail: https://thmb.techidaily.com/c7779ebd6615899057fd1d41459b53b981bc532c7
 
  A few users also confirm deleting a TdrDelay QWORD in the same key can also work for fixing the DXGI\_ERROR\_DEVICE\_REMOVED error. If you can see a TdrDelay QWORD in the GraphicsDrivers key, try deleting it as well. To do so, right-click the **TdrDelay** QWORD and select **Delete**. Select **Yes** to confirm the erasure.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## 2\. Disable the Antialiasing Setting
 
  Antialiasing is a graphic setting that smoothens jagged lines when enabled. However, this graphical effect can sometimes cause crashing issues like the DXGI\_ERROR\_DEVICE\_REMOVED error. This is how you can turn off Antialiasing within the NVIDIA Control Panel:
 
 1. Right-click on the NVIDIA logo in the system tray area and select **NVIDIA Control Panel**.  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![The NVIDIA Control Panel option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/nvidia-geforce-experience.jpg)
 2. Click the **Manage 3D** settings navigation option within the sidebar.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Select NVIDIA Control Panel’s **Global Settings** tab.
 4. Next, click the **Antialiasing – Mode** option and select **Off**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![The Antialising - Mode setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/antialiasing.jpg)
 5. Repeat the previous step for the **Antialiasing – Transparency**, **FXAA**, and **Gamma** correction options.
 6. Then select **Apply** to set the new graphics options.
@@ -70,13 +72,14 @@ thumbnail: https://thmb.techidaily.com/c7779ebd6615899057fd1d41459b53b981bc532c7
 
 1. To open GeForce Experience, right-click the NVIDIA system tray icon and select that software on the context menu.
 2. Then click on the **cog** (Settings) button to access further options.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Settings button in GeForce Experience.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/settings-button.jpg)
 3. Toggle off the **In-Game Overlay** option.  
 ![The in-game overlay option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/in-game-overlay.jpg)
 4. Exit the GeForce Experience software and try playing your games with ShadowPlay disabled.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Turn Off the DLSS Graphics Setting
 
@@ -85,16 +88,18 @@ thumbnail: https://thmb.techidaily.com/c7779ebd6615899057fd1d41459b53b981bc532c7
 ![A DLSS option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/dlss-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Undo Overclocking
 
  Have you done any GPU or processor overclocking on your PC? If you have, that overclocking could have caused the DXGI\_ERROR\_DEVICE\_REMOVED error. Undo the overclocking with the software you applied it with. Or you can undo overclocking by [resetting the BIOS](https://www.makeuseof.com/tag/reset-bios-default-settings-computer/) (Basic Input Output System).
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![MSI Afterburner homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/msi-afterburner.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Run the DirectX Web Installer
 
@@ -106,9 +111,6 @@ thumbnail: https://thmb.techidaily.com/c7779ebd6615899057fd1d41459b53b981bc532c7
 3. To view File Explorer, hold the **Windows** logo button and press **E**. Then open the folder containing the Microsoft DirectX End-User Runtime package.
 4. Double-click **dxwebsetup.exe** to bring up an Installing Microsoft (R) DirectX (R) window.
 5. Click **I accept the agreement** and **Next**.  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![I accept the agreement radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/i-accept-the-radio-button.jpg)
 6. If you don’t want Bing Bar, uncheck the **Install the Bing Bar** option.
 7. Select **Next** to install DirectX components.
@@ -117,9 +119,6 @@ thumbnail: https://thmb.techidaily.com/c7779ebd6615899057fd1d41459b53b981bc532c7
 
  If nothing has worked yet, here are some generic fixes for GPU issues.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Update the Graphics Driver for Your GPU
 
  The DXGI\_ERROR\_DEVICE\_REMOVED error message clearly says that this issue is often the result of a graphics driver crash. It also suggests users update their GPU graphics drivers to remedy the error. You can update your PC’s graphics driver with the methods covered in this guide to [updating a GPU’s driver in Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/).
@@ -130,11 +129,12 @@ thumbnail: https://thmb.techidaily.com/c7779ebd6615899057fd1d41459b53b981bc532c7
 
 ![uninstall graphics drivers DDU](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-graphics-drivers-ddu.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Run a Windows Memory Diagnostic Check
 
  Some users have said they needed to replace faulty RAM modules to resolve DXGI\_ERROR\_DEVICE\_REMOVED. So, try running a Windows Memory Diagnostic check if other resolutions here don’t work for you. Our guide to [resolving RAM issues with Windows Memory Diagnostic](https://www.makeuseof.com/windows-memory-diagnostic-tool-guide/) includes full instructions for utilizing that tool.
@@ -144,8 +144,9 @@ thumbnail: https://thmb.techidaily.com/c7779ebd6615899057fd1d41459b53b981bc532c7
  If that tool detects issues, removing the faulty RAM module from your PC will probably resolve the DXGI\_ERROR\_DEVICE\_REMOVED error. However, you’ll still need enough RAM for the game. If removing RAM leaves insufficient system memory for the game, purchase and add a new RAM module to your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Enjoy Your Windows Games Again
 
  The potential fixes above have worked for many players who’ve needed to resolve the DXGI\_ERROR\_DEVICE\_REMOVED error. That doesn’t necessarily mean they’re guaranteed fixes, but one will probably resolve that issue on your PC. Then you can play the Windows 11/10 games that error crashed without further issues.
@@ -154,12 +155,33 @@ thumbnail: https://thmb.techidaily.com/c7779ebd6615899057fd1d41459b53b981bc532c7
 
  Consequently, Windows games either don’t launch at all or crash with regularity because of the DXGI\_ERROR\_DEVICE\_REMOVED error. The error message highlights that something associated with your graphics card has gone wrong. As such, these potential resolutions can fix the DXGI\_ERROR\_DEVICE\_REMOVED error in Windows 10 and 11\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-survival-in-mc-top-house-ideas-and-plans/"><u>[Updated] In 2024, Survival in MC Top House Ideas & Plans</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-artistic-science-behind-youtube-live-imagery/"><u>[Updated] The Artistic Science Behind YouTube Live Imagery</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-tecno-spark-10-4g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Tecno Spark 10 4G? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-windows-pathways-to-filefolder-secrets/"><u>Expert Windows Pathways to File/Folder Secrets</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-xiaomi-14-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Xiaomi 14 to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/insightful-analysis-of-the-logitech-c615-webcam-where-excellence-meets-economy/"><u>Insightful Analysis of the Logitech C615 Webcam: Where Excellence Meets Economy</u></a></li>
+<li><a href="https://facebook.techidaily.com/is-meta-ais-social-media-presence-a-good-idea/"><u>Is Meta AI's Social Media Presence a Good Idea?</u></a></li>
+<li><a href="https://windows11.techidaily.com/managing-windows-modules-installer-resource-demand/"><u>Managing Windows Modules Installer Resource Demand</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-note-taking-on-win11-easy-as-pie/"><u>Master Note-Taking on Win11, Easy as Pie</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-sefx-windows-11-sfx-creation/"><u>Mastering SEFX: Windows 11 SFX Creation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722900288471-no-ejector-tool-heres-how-to-safely-open-your-iphone-sim-case/"><u>No Ejector Tool? Here's How to Safely Open Your iPhone SIM Case</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-grayscale-windows-backdrops-tips-for-enhancement/"><u>Overcoming Grayscale Windows Backdrops: Tips for Enhancement</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fixes-for-lsa-errors-on-windows-pcs/"><u>Quick Fixes for LSA Errors on Windows PCs</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/ripristina-il-cestino-senza-costi-su-windows-10-o-11/"><u>Ripristina Il Cestino Senza Costi Su Windows 10 O 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-to-deal-with-missing-values-on-pcs-running-winos/"><u>Techniques to Deal with Missing Values on PCs Running WinOS</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-gionee-f3-pro-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Gionee F3 Pro without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-hidden-potential-in-vintage-video-gaming-titles-using-retroarch/"><u>Unlocking Hidden Potential in Vintage Video Gaming Titles Using Retroarch</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-vivetool-enable-unseen-features-on-windows-pcs/"><u>Unraveling ViVeTool: Enable Unseen Features on Windows PCs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/unveiling-the-top-methods-of-video-and-screenshots-for-2024/"><u>Unveiling the Top Methods of Video & Screenshots for 2024</u></a></li>
+</ul></div>
 

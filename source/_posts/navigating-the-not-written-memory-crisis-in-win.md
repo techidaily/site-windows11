@@ -1,7 +1,7 @@
 ---
 title: Navigating the 'Not Written' Memory Crisis in Win
-date: 2024-12-30T23:46:18.309Z
-updated: 2025-01-03T17:51:41.801Z
+date: 2025-01-08T19:00:23.872Z
+updated: 2025-01-10T20:47:40.965Z
 tags:
   - windows10
   - windows11
@@ -27,6 +27,10 @@ Here are a few solutions to fix this annoying problem.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Properly Close Your Apps Before Shutting Down Your Computer
 
  If you encounter the "memory could not be written error" when shutting down your PC, check if you still have open apps. If this is the case, close all apps first before turning off your computer. Doing so could help you avoid this error and stop it from recurring.
@@ -49,15 +53,7 @@ Here are a few solutions to fix this annoying problem.
 
 ![hide all microsoft services clean boot windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/hide-all-microsoft-services-clean-boot-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  It's easy to clean boot your PC. If you're unfamiliar with it, refer to our guide on performing a clean boot on[Windows 11](https://www.makeuseof.com/clean-boot-windows-11/) or[Windows 10](https://www.makeuseof.com/how-perform-clean-boot-windows-10/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Run a Memory Diagnostic Check
 
@@ -66,13 +62,13 @@ Here are a few solutions to fix this annoying problem.
 ![Windows memory diagnostic tool restart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-memory-diagnostic-tool-restart.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the system detects any problems with your RAM, get it checked as soon as possible. If a severe technical issue affects your PC's memory, it could fail at the most inopportune moment. If you keep using it without having it at least checked, your memory modules might break while you're in the middle of catching a deadline. Avoid this trouble by installing reliable RAM sticks on your PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Increase the Virtual Memory
@@ -80,6 +76,10 @@ Here are a few solutions to fix this annoying problem.
  Virtual memory refers to the small space on your HDD or SSD that your operating system uses as memory when other processes consume all available system memory. Allocating more virtual memory will ensure your device has enough memory to process its needs, thereby resolving the error.
 
 ![The Virtual Memory window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/custom-radio-button.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you've never changed the virtual memory before, refer to our guide about[increasing the virtual memory in Windows 11](https://www.makeuseof.com/how-increase-virtual-memory-windows-11/) .
 
@@ -95,6 +95,10 @@ Here are a few solutions to fix this annoying problem.
 
 ![system restore point selection options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-restore-point-selection-options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you are unfamiliar with the process, see our guide on[creating a restore point in Windows 11](https://www.makeuseof.com/windows-11-create-restore-point/) for instructions on performing a System Restore. However, remember that you can only restore your system if you have already created a restore point. If you haven't made it before, you can skip this step.
 
 ## 8\. Repair the .Net Framework on Windows
@@ -104,10 +108,6 @@ Here are a few solutions to fix this annoying problem.
 ## 9\. Configure the Problem App to Use a Different GPU
 
  If you get the error with a GPU-intensive app, like AAA games, it might use too much RAM on your integrated GPU. To solve this,[configure the problematic app to use your dedicated GPU](https://www.makeuseof.com/windows-10-choose-preferred-gpu/) . That way, you can ensure that it uses the more powerful video card instead of the less powerful integrated GPU on your CPU that shares your system RAM.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Get Rid of Annoying Memory-Related Errors
 
@@ -130,24 +130,22 @@ Here are a few solutions to fix this annoying problem.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-navigate-your-way-to-youtube-fame-a-guide-to-25-proven-techniques/"><u>[New] In 2024, Navigate Your Way to YouTube Fame A Guide to 25 Proven Techniques</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-step-by-step-snagging-stunning-pexels-pictures/"><u>[Updated] In 2024, Step-by-Step Snagging Stunning Pexels Pictures</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-leading-e-stores-for-securely-downloading-youtube-ringtones/"><u>[Updated] Leading E-Stores for Securely Downloading YouTube Ringtones</u></a></li>
-<li><a href="https://windows11.techidaily.com/best-digital-journals-navigate-your-pen-for-windows/"><u>Best Digital Journals: Navigate Your Pen for Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-unopened-sharing-errors-with-geforce-experience/"><u>Correcting Unopened Sharing Errors with GeForce Experience</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/hard-disk-health-management-essential-software-apps-compared-by-tech-wizardry-inc/"><u>Hard Disk Health Management: Essential Software Apps Compared by Tech Wizardry Inc.</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-double-clicking-not-opening-folders-on-windows-1110/"><u>How to Fix Double-Clicking Not Opening Folders on Windows 11/10</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-honor-x7b-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Honor X7b Phone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE Passcode without Computer?</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-the-sharex-insight-reviews-and-competing-choices/"><u>In 2024, The ShareX Insight Reviews & Competing Choices</u></a></li>
-<li><a href="https://windows11.techidaily.com/key-to-performance-enhancement-with-windows-lav-filters-use/"><u>Key to Performance Enhancement with Window's LAV Filters Use</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-use-of-toolbars-an-insight-into-mspcm-windows-11/"><u>Mastering the Use of Toolbars: An Insight Into MSPCM, Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/mending-the-malfunction-of-defrag-in-windows-os/"><u>Mending the Malfunction of Defrag in Windows OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-windows-1011-a-workshop-for-custom-pattern-crafting/"><u>Navigating Windows 10/11: A Workshop for Custom Pattern Crafting</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcome-error-1-secure-your-minecraft-adventures/"><u>Overcome Error 1: Secure Your Minecraft Adventures</u></a></li>
-<li><a href="https://windows11.techidaily.com/process-of-disabling-laptops-internal-keys-in-os/"><u>Process of Disabling Laptop's Internal Keys in OS</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/what-does-jailbreaking-iphone-11-i-do-get-answers-here-drfone-by-drfone-ios/"><u>What Does Jailbreaking iPhone 11 i Do? Get Answers here | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/your-ultimate-guide-to-downloading-and-installing-llama-2-on-your-pc-or-mac/"><u>Your Ultimate Guide to Downloading & Installing Llama 2 on Your PC or Mac</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-detailed-steps-to-record-hulu-on-every-os-and-device-type/"><u>[New] Detailed Steps to Record Hulu on Every OS and Device Type</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-logo-innovations-branding-your-podcast-visually/"><u>[New] Logo Innovations Branding Your Podcast Visually</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-mastering-live-broadcasts-a-step-by-step-guide-for-fb-users/"><u>[New] Mastering Live Broadcasts A Step-by-Step Guide for FB Users</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-the-professionals-selection-top-5-drones-ranked/"><u>[Updated] In 2024, The Professionals' Selection Top 5 Drones Ranked</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/decouvrez-les-meilleures-applications-musiques-gratuites-pour-debutants-top-10-rapports/"><u>Découvrez Les Meilleures Applications Musiques Gratuites Pour Débutants : Top 10 Rapports</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-mend-nvidias-geforce-experience-errors-in-windows/"><u>How to Mend Nvidia's GeForce Experience Errors in Windows</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-storm-5g-phone-without-pin-by-drfone-android/"><u>How to Unlock Lava Storm 5G Phone without PIN</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-samsung-galaxy-s23-ultra-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Samsung Galaxy S23 Ultra to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximize-space-and-speed-with-these-5-win-folders-methods/"><u>Maximize Space and Speed with These 5 Win Folders Methods</u></a></li>
+<li><a href="https://windows11.techidaily.com/path-proficiency-unlocking-6-winning-techniques-for-file-and-folder-location-capture/"><u>Path Proficiency: Unlocking 6 Winning Techniques for File & Folder Location Capture</u></a></li>
+<li><a href="https://windows11.techidaily.com/premium-climate-apps-for-modern-windows-users/"><u>Premium Climate Apps for Modern Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/printscreen-vs-snip-and-sketch-choosing-your-screen-capture-companion/"><u>PrintScreen Vs. Snip & Sketch: Choosing Your Screen Capture Companion</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-your-windows-keys-quick-solutions-for-non-responsive-shortcuts/"><u>Reviving Your Windows Keys: Quick Solutions for Non-Responsive Shortcuts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/seamless-closure-in-digital-landscapes/"><u>Seamless Closure in Digital Landscapes</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-logins-quick-solutions-for-windows-11-issues/"><u>Streamlining Logins: Quick Solutions for Windows 11 Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooters-tackling-chrome-profile-anomalies-in-windows/"><u>Troubleshooters: Tackling Chrome Profile Anomalies in Windows</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-effortless-avi-file-trimming-learn-the-best-techniques-and-tools-2023-update/"><u>Updated In 2024, Effortless AVI File Trimming Learn the Best Techniques and Tools (2023 Update)</u></a></li>
 </ul></div>
 

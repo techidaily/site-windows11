@@ -1,7 +1,7 @@
 ---
 title: Lock Screen After How Long on Windows?
-date: 2024-12-28T20:07:51.037Z
-updated: 2025-01-03T20:49:57.853Z
+date: 2025-01-05T19:07:46.237Z
+updated: 2025-01-10T21:08:25.225Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/7180d1f46214638b981f44d739909bb52ccedea12
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Keep Your Windows PC Inaccessible While Your Gone
 
  There are lots of places you could use a PC or laptop. It could be in the office, at a conference venue, or on the go at your favorite café. And there'll be times you just need to get up to attend to something pressing.
@@ -40,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/7180d1f46214638b981f44d739909bb52ccedea12
  Instead, check out these methods to configure your Windows PC to lock automatically when there is no activity after a specific amount of time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. How to Lock Your Windows PC After a Set Time via the Local Security Policy
@@ -52,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/7180d1f46214638b981f44d739909bb52ccedea12
 1. Type**Local Security Policy** in Windows Search. Click the**Local Security Policy** under**Best match** to open it. Alternatively, press the**Win + R** keys together to open the**Run** box. Type**secpol.msc** in the**Open** navigation bar and click**OK** or hit**Enter** to launch it.  
 ![Open Local Security Policy via Run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-local-security-policy-via-run.jpg)
 2. Click the down arrow next to**Local Policies** in the left pane to expand it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. Click on**Security Options** to open it.
 4. The Security Options will open up in the right pane. Now scroll down to the policy named**Interactive logon: Machine inactivity limit** and double-click on it to open its properties.  
@@ -69,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/7180d1f46214638b981f44d739909bb52ccedea12
  If you ever want to reverse this action and not have your PC lock automatically, just open the**Interactive logon: Machine inactivity limit** policy in**Local Security Policy** . Then just change the time or seconds to**0** —this is the default setting and will not lock your PC automatically.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. How to Lock Your Windows PC After a Specific Amount of Inactivity via the Registry Editor
@@ -86,15 +78,23 @@ thumbnail: https://thmb.techidaily.com/7180d1f46214638b981f44d739909bb52ccedea12
 ![Navigate to System Key in Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/navigate-to-system-key-in-registry-editor.jpg)
 4. Click on the**System** key in the left pane and its components will open up in the right pane. Now scroll down to get to the**InactivityTimeoutSecs** DWORD.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Scroll to InactivityTimeoutSecs in System Key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/scroll-to-inactivitytimeoutsecs.jpg)
 5. Double-click on the**InactivityTimeoutSecs** DWORD to modify its value. Select**Decimal** under**Base** , and under**Value data** , enter a number between**0** to**599940** —this is the time in seconds after which your PC will get locked automatically. Like in the Local Security Policy method, we'll give it a time of**300 seconds** or five minutes. Now tap on**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. In case you do not find the**InactivityTimeoutSecs** DWORD in your registry, you can create it. Right-click on the**System** key folder in the left pane or right-click on a space in the right pane of the**System** key. Select**New** , then select**DWORD (32-bit) Value** .  
 ![Create InactivityTimeoutSecs DWORD in System Key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/create-inactivitytimeoutsecs-dword.jpg)  
  A new value will be created in the right pane. Name it**InactivityTimeoutSecs** . Then press**Enter** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Now double-click on**InactivityTimeoutSecs** DWORD, and enter the time after which you want your PC to get locked.
@@ -125,18 +125,17 @@ thumbnail: https://thmb.techidaily.com/7180d1f46214638b981f44d739909bb52ccedea12
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-most-listened-to-hits-on-spotify/"><u>[New] In 2024, Most Listened to Hits on Spotify</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209516795-9780008292430-365-days-wild/"><u>365 Days Wild | Free Book</u></a></li>
-<li><a href="https://windows11.techidaily.com/flipping-a-non-working-search-bar-in-windows-11s-settings/"><u>Flipping a Non-Working Search Bar in Windows 11’S Settings</u></a></li>
-<li><a href="https://program-issues.techidaily.com/get-back-into-the-game-overcoming-persistent-loading-issues-in-among-us/"><u>Get Back Into the Game: Overcoming Persistent Loading Issues in Among Us</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-masterful-video-lighting-ultimate-techniques-for-stunning-visuals/"><u>In 2024, Masterful Video Lighting Ultimate Techniques for Stunning Visuals</u></a></li>
-<li><a href="https://windows11.techidaily.com/leveraging-labels-for-efficient-file-management-on-windows-11/"><u>Leveraging Labels for Efficient File Management on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/reactivate-quieted-slack-feedback-in-win-11-systems/"><u>Reactivate Quieted Slack Feedback in Win 11 Systems</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/simple-steps-for-cloning-your-existing-ssd-onto-a-new-drive-using-windows-operating-systems-win-11-10-8-navigating-the-cloning-process/"><u>Simple Steps for Cloning Your Existing SSD Onto a New Drive Using Windows Operating Systems (Win 11, 10, 8, Navigating the Cloning Process.</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-driver-update-and-download-for-the-brother-mfc-7easy-access-to-brother-mfc-7360n-drivers-on-windows-1187/"><u>Step-by-Step Driver Update & Download for the Brother MFC-7easy Access to Brother MFC-7360N Drivers on Windows 11/8/7</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-instructions-effortless-installation-of-showbox-app-on-windowsmac-pc/"><u>Step-by-Step Instructions: Effortless Installation of ShowBox App on Windows/Mac PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-hidden-dangers-in-bot-made-win-11-codes/"><u>The Hidden Dangers in Bot-Made Win 11 Codes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-solution-steps-for-when-star-wars-the-old-republic-wont-open/"><u>Ultimate Solution Steps for When Star Wars The Old Republic Won't Open</u></a></li>
-<li><a href="https://windows11.techidaily.com/upgrade-your-win11s-connectivity-with-these-high-priority-solutions/"><u>Upgrade Your Win11's Connectivity with These High-Priority Solutions</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-perfecting-the-art-of-twitch-live-streams-recording/"><u>[New] 2024 Approved Perfecting the Art of Twitch Live Streams Recording</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-crafting-clearer-communication-the-art-of-adding-text-to-video-media/"><u>[New] In 2024, Crafting Clearer Communication The Art of Adding Text to Video Media</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-rekindling-relics-of-facebook-tales-step-by-device-step-for-2024/"><u>[Updated] Rekindling Relics of Facebook Tales Step by Device Step for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-your-meetings-using-zoom-with-win11/"><u>2024 Approved Streamlining Your Meetings Using Zoom with Win11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/addressing-the-absent-jvmdll-methods-to-correct-file-missing-issues/"><u>Addressing the Absent JVM.DLL: Methods to Correct File Missing Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-set-up-your-own-keyboard-shortcuts-in-windows-11/"><u>How to Set Up Your Own Keyboard Shortcuts in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/merge-functionality-and-elegance-in-windows-10plus/"><u>Merge Functionality and Elegance in Windows 10+</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigate-the-digital-world-prime-twitters-converters-for-2024/"><u>Navigate the Digital World Prime Twitters Converters for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-hidden-power-of-windows-firewall-management/"><u>The Hidden Power of Windows' Firewall Management</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-quickest-way-to-shift-your-windows-qbittorrent-software/"><u>The Quickest Way to Shift Your Windows qBittorrent Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-transformation-ai-integration-into-windows-11/"><u>The Transformation: AI Integration Into Windows 11</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/understanding-the-taiping-uprising-chronology-with-expert-analysis-from-yl-software-solutions/"><u>Understanding the Taiping Uprising Chronology with Expert Analysis From YL Software Solutions</u></a></li>
 </ul></div>
 

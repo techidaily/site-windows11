@@ -1,7 +1,7 @@
 ---
 title: Customizing Home Screen Preferences on W11 OS
-date: 2024-08-08T05:56:14.294Z
-updated: 2024-08-09T05:56:14.294Z
+date: 2025-01-05T16:20:14.658Z
+updated: 2025-01-10T16:37:37.746Z
 tags:
   - windows10
   - windows11
@@ -17,8 +17,9 @@ thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc
 ## Customizing Home Screen Preferences on W11 OS
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * You can remove the Home page from the Settings app in Windows 11 using the Group Policy Editor or the Registry Editor.
@@ -43,10 +44,11 @@ thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc
 6. Select the **Enabled** option.
 7. In the Options box, type **hide:home** in the text field next to Settings Page Visibility.
 8. Click **Apply** followed by **OK**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Settings Page Visibility Policy on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/settings-page-visibility-policy-on-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Home page will be hidden on the Settings app. If you want to view the Home tab at any point, repeat the above steps and set the **Settings Page Visibility** policy to **Disabled** or **Not configured**.
 
@@ -69,9 +71,6 @@ thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc
 
  Restart your PC after completing the above steps. Then, open Settings to confirm the Home page is hidden. To restore the removed Home tab later, repeat the above steps and delete the **SettingsPageVisibility** string value.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Get the Classic Windows 11 Settings Look
 
  While the Home screen provides quick and easy access to frequently used settings, you may prefer the older classic view. So, hide it from view and recover it when necessary.
@@ -81,8 +80,9 @@ thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc
  You can hide the Home page using the Group Policy Editor or the Registry Editor. This guide will walk you through both methods.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Use the Group Policy Editor to Remove the Home Page
 
  The Local Group Policy Editor on Windows makes modifying various advanced system settings easy. Among the many options, it allows you to manage the pages shown in the Settings app. So, you can use the Local Group Policy Editor to hide the Home tab from the Windows 11 Settings app.
@@ -97,13 +97,13 @@ thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc
 6. Select the **Enabled** option.
 7. In the Options box, type **hide:home** in the text field next to Settings Page Visibility.
 8. Click **Apply** followed by **OK**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![Settings Page Visibility Policy on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/settings-page-visibility-policy-on-windows.jpg)
 
  The Home page will be hidden on the Settings app. If you want to view the Home tab at any point, repeat the above steps and set the **Settings Page Visibility** policy to **Disabled** or **Not configured**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Use the Registry Editor to Remove the Home Page
 
@@ -120,16 +120,14 @@ thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc
 5. Right-click the **Explorer** key, click **New**, and select **String Value** from the submenu. Rename it to **SettingsPageVisibility**.
 6. Double-click the **SettingsPageVisibility** value to edit it.
 7. Type **hide:home** in the Value data field and click **OK**.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Edit a String Value in Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/edit-a-string-value-in-registry-editor.jpg)
 
  Restart your PC after completing the above steps. Then, open Settings to confirm the Home page is hidden. To restore the removed Home tab later, repeat the above steps and delete the **SettingsPageVisibility** string value.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Get the Classic Windows 11 Settings Look
 
  While the Home screen provides quick and easy access to frequently used settings, you may prefer the older classic view. So, hide it from view and recover it when necessary.
@@ -152,14 +150,6 @@ thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc
 6. Select the **Enabled** option.
 7. In the Options box, type **hide:home** in the text field next to Settings Page Visibility.
 8. Click **Apply** followed by **OK**.  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![Settings Page Visibility Policy on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/settings-page-visibility-policy-on-windows.jpg)
 
  The Home page will be hidden on the Settings app. If you want to view the Home tab at any point, repeat the above steps and set the **Settings Page Visibility** policy to **Disabled** or **Not configured**.
@@ -205,16 +195,10 @@ thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc
 6. Select the **Enabled** option.
 7. In the Options box, type **hide:home** in the text field next to Settings Page Visibility.
 8. Click **Apply** followed by **OK**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![Settings Page Visibility Policy on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/settings-page-visibility-policy-on-windows.jpg)
 
  The Home page will be hidden on the Settings app. If you want to view the Home tab at any point, repeat the above steps and set the **Settings Page Visibility** policy to **Disabled** or **Not configured**.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Use the Registry Editor to Remove the Home Page
 
  Can't access the Group Policy Editor on your Windows PC? You can also remove the Home tab from the Windows 11 Settings app by making a few changes to the registry files.
@@ -232,20 +216,25 @@ thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc
 7. Type **hide:home** in the Value data field and click **OK**.  
 ![Edit a String Value in Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/edit-a-string-value-in-registry-editor.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Restart your PC after completing the above steps. Then, open Settings to confirm the Home page is hidden. To restore the removed Home tab later, repeat the above steps and delete the **SettingsPageVisibility** string value.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get the Classic Windows 11 Settings Look
 
  While the Home screen provides quick and easy access to frequently used settings, you may prefer the older classic view. So, hide it from view and recover it when necessary.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -254,6 +243,19 @@ thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-detailed-blueprint-for-expert-use-of-adobe-cloud-storage-and-review-of-best-exits/"><u>[New] Detailed Blueprint for Expert Use of Adobe Cloud Storage & Review of Best Exits</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-of-the-best-high-res-gaming-displays/"><u>Best of the Best High-Res Gaming Displays</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-xiaomi-13t-device-sim-by-drfone-android/"><u>Easily Unlock Your Xiaomi 13T Device SIM</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mega-savings-on-samsungs-new-49-oled-ultrawide-display-enjoy-an-unbelievable-600-discount/"><u>Mega Savings on Samsung’s New 49 OLED UltraWide Display: Enjoy an Unbelievable $600 Discount</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-ceo-at-ai-hub-impact-on-gpt-usage/"><u>New CEO at AI Hub Impact on GPT Usage</u></a></li>
+<li><a href="https://windows11.techidaily.com/prevent-chromium-from-creating-spontaneous-tabs-on-pc/"><u>Prevent Chromium From Creating Spontaneous Tabs on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/reconciling-winrars-file-sums-a-guide-with-6-fixes/"><u>Reconciling WinRAR's File Sums: A Guide with 6 Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-ai-integration-in-the-web-sphere/"><u>Seamless AI Integration in the Web Sphere</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategic-approach-to-dispatch-microsoft-store-failure-code-0x0/"><u>Strategic Approach to Dispatch Microsoft Store Failure: Code 0X0</u></a></li>
+<li><a href="https://windows11.techidaily.com/swiftly-syncing-spotify-on-your-windows-11-device/"><u>Swiftly Syncing Spotify on Your Windows 11 Device</u></a></li>
+<li><a href="https://media-tips.techidaily.com/the-ultimate-tutorial-for-watching-movies-and-vids-on-kindle-fire-with-video-conversion-tools/"><u>The Ultimate Tutorial for Watching Movies & Vids on Kindle Fire with Video Conversion Tools</u></a></li>
+</ul></div>
 

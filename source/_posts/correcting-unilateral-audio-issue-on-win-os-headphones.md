@@ -1,7 +1,7 @@
 ---
 title: Correcting Unilateral Audio Issue on WIN OS Headphones
-date: 2024-08-08T05:56:39.547Z
-updated: 2024-08-09T05:56:39.547Z
+date: 2025-01-05T21:47:18.901Z
+updated: 2025-01-10T18:07:38.835Z
 tags:
   - windows10
   - windows11
@@ -32,13 +32,9 @@ thumbnail: https://thmb.techidaily.com/e0d972d2fcbdfdcba3e132e48f8036c4f80fa7e20
  If the above checks don't work, start applying the remaining fixes.
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Check for Hardware Issues
 
 ![A person wearing headphones next to a microphone and PC screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/a-person-wearing-headphones-next-to-a-microphone-and-pc-screen.jpeg)
@@ -50,13 +46,11 @@ thumbnail: https://thmb.techidaily.com/e0d972d2fcbdfdcba3e132e48f8036c4f80fa7e20
  In contrast, if you hear audio as usual when connecting your headphones to another device, it's a device-specific issue.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Check the Audio Jack or Port for Issues
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![An RCA jack with a broken pin inside](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/an-rca-jack-with-a-broken-pin-inside.jpg)
 
  Some PCs still come with separate jacks for microphones and headphones. Each jack supports a similar-looking connector, but the signal flow is different.
@@ -67,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/e0d972d2fcbdfdcba3e132e48f8036c4f80fa7e20
 
  Audio jacks often get clogged with dust and dirt, which can block signal transmission. Therefore, make sure that the jacks are clean.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## 4\. Ensure One Side of Your Headphones Isn't Muted
 
  The sound balance feature in Windows makes it possible to control the audio intensity from both the left and right sides of headphones. If the sound isn't coming from one side, that side could be muted in the settings. Therefore, you should make sure that isn't the case.
@@ -85,9 +75,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![Open Properties by Right-clicking on Your Device in the Playback Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/2-open-properties-by-right-clicking-on-your-device-in-the-playback-tab.jpg)
 5. Navigate to the **Levels** tab of the properties window.
 6. Click on the **Balance** button.  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Click the Balance Button in the Levels Tab of the Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-click-the-balance-button-in-the-levels-tab-of-the-properties-window.jpg)
 7. Make sure neither the left nor right side is muted. If both sides are at different levels at the moment, balance them.  
 ![Balance the Sound Levels of Both the Right and Left Side of Your Headphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-balance-the-sound-levels-of-both-the-right-and-left-side-of-your-headphone.jpg)
@@ -105,16 +92,14 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. Just like before, go to **Sound** settings, then navigate to **Playback**.
 2. Right-click on your headphones device and select **Properties**.
 3. Go to the **Advanced** tab and uncheck the box beside **Enable audio enhancements**.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Disable Audio Enhancements in the Advanced Tab of the Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/5-disable-audio-enhancements-in-the-advanced-tab-of-the-properties-window.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now give your headphones another try.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Disable Mono Audio
 
  The mono audio format combines the left and right audio channels into one and removes the stereo effect. Enabling this feature will give you the same audio quality on both sides of your headphones.
@@ -128,12 +113,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 3. Under **Hearing**, click on **Audio**.  
 ![Open Audio Settings in the Accessibility Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/6-open-audio-settings-in-the-accessibility-tab-of-the-windows-settings-app.jpg)
 4. Turn off the toggle next to **Mono audio** if it's already selected.  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Disable Mono Audio in Audio Settings of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/7-disable-mono-audio-in-audio-settings-of-the-windows-settings-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If this doesn't fix the issue, remember to turn the mono audio setting off again before continuing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Check for App-Specific Issues
 
@@ -141,9 +131,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Likewise, third-party audio enhancement apps can sometimes interfere with the audio output, blocking sound from one side of your headset. If you use such an app, try temporarily turning it off. If turning off the app solves the problem, delete the app permanently and find an alternative that does not cause the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 8\. Perform Some Windows Fixes
 
  If you fail to get one side of your headset up and running after performing the fixes above, here are some Windows fixes that might help:
@@ -152,13 +139,15 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 * **Run the audio troubleshooter:** Windows has a handy audio troubleshooter that can automatically diagnose and fix most audio problems. So, run the audio troubleshooter by following the instructions in our guide on [how to run Windows troubleshooters](https://www.makeuseof.com/run-troubleshooter-windows-10-11/).
 * **Update Windows:** Keeping your operating system up-to-date is crucial to get smooth performance. So, [check for pending Windows updates and manually install them](https://www.makeuseof.com/update-windows-manually/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Get Your Headphones Working Again
 
  Hearing from one side of your headphones completely ruins our experience. Hopefully, you now better understand why one side of your headphones goes mute and how you can fix it so you can hear from both sides.
 
  Here're a few checks and fixes to find out if the issue is hardware-related or caused by misconfigured settings and resolve it.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -166,4 +155,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-dynamic-design-the-art-of-adding-motion-to-photos-in-adobe-illustrators/"><u>[New] 2024 Approved Dynamic Design The Art of Adding Motion to Photos in Adobe Illustrators</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-10-premium-yoga-channels-for-ultimate-fitness-journey/"><u>[Updated] 2024 Approved 10 Premium Yoga Channels for Ultimate Fitness Journey</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-maximizing-reach-twitch-streams-via-facebook/"><u>[Updated] Maximizing Reach Twitch Streams via Facebook</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-change-the-microsoft-account-administrator-name-in-windows-11/"><u>How to Change the Microsoft Account Administrator Name in Windows 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-itel-p55-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Itel P55 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unleash-potential-quick-tips-for-establishing-a-business-and-personal-youtube-presence/"><u>In 2024, Unleash Potential Quick Tips for Establishing a Business & Personal YouTube Presence</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximize-wi-fi-performance-in-windows-11-discover-the-top-7-tips/"><u>Maximize Wi-Fi Performance in Windows 11: Discover the Top 7 Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-speed-fixing-slow-microsoft-edge-win10win11/"><u>Optimizing Speed: Fixing Slow Microsoft Edge (Win10/Win11)</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fix-for-blue-screen-on-windows-11/"><u>Quick Fix for Blue Screen on Windows 11</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/streaming-showdown-netflix-apple-tvplus-and-disneyplus-compared-who-takes-the-crown/"><u>Streaming Showdown: Netflix, Apple TV+ & Disney+ Compared - Who Takes the Crown?</u></a></li>
+</ul></div>
 

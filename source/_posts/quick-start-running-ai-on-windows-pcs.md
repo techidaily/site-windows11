@@ -1,7 +1,7 @@
 ---
 title: "Quick Start: Running AI on Windows PCs"
-date: 2024-12-30T04:24:20.075Z
-updated: 2025-01-03T16:51:13.010Z
+date: 2025-01-08T20:10:07.280Z
+updated: 2025-01-10T18:01:49.574Z
 tags:
   - windows10
   - windows11
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Run ChatGPT as a Windows App Using Edge
 
  Microsoft Edge offers an **Install this site as an app** feature. It lets you run web pages as standalone native Windows apps. Since ChatGPT is only available as a web app, you can install the AI chatbot website as an app on your computer. It looks and works similarly to the web version, except you don't see any web elements such as bookmarks, tabs, etc.
@@ -41,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 2. Next, click the t**hree-dots menu** to access the browser menu.  
 ![install this site as an app chatgpt edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-this-site-as-an-app-chatgpt-edge.jpg)
 3. Go to **Apps** and select **Install this site as an app**.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![install chatgpt app windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-chatgpt-app-windows.jpg)
 4. In the **Install App** popup, enter a name for the app. For example, enter **ChatGPT**. Entering a name makes it easy to search for the installed app.
@@ -60,17 +52,21 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 
  To pin the ChatGPT app, press the **Win** key and type ChatGPT. Right-click the app icon and select **Pin to Start** or **Taskbar**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Uninstall the ChatGPT Web App on Edge
 
 ![uninstall chatgpt edge app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-chatgpt-edge-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Press the **Win** key and type **ChatGPT**.
 2. Right-click on the app icon and **Uninstall.**
 3. Click **Uninstall** again to confirm the action.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Add ChatGPT as a Windows App Using Chrome
 
@@ -80,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 2. Click the **three-dots menu** in the top right corner.  
 ![chatgpt create chrome shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-create-chrome-shortcut.jpg)
 3. Select **More Tools** and then **Create Shortcut**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Enter a name in the **Create shortcut** popup.  
 ![chatgpt create chrome shortcut create](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-create-chrome-shortcut-create.jpg)
@@ -93,6 +93,10 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 
 ![uninstall chrome shortcut chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-chrome-shortcut-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Press the **Win** key and type **ChatGPT**.
 2. Right-click on the **ChatGPT** icon and select **Uninstall**.
 3. In the **Control Panel** window, locate and select **ChatGPT**.
@@ -103,10 +107,6 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 ## Run ChatGPT Natively Using an Unofficial Project
 
 ![chat gpt github unofficial project running on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chat-gpt-github-unofficial-project-running-on-windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  A developer on GitHub has posted an unofficial ChatGPT project which runs natively on the Windows computer. To use the app, you need to log in using the ChatGPT credentials. It works similarly to the AI chatbot web app but offers some additional features.
 
@@ -138,7 +138,7 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
  Once done, you might also want to delete the setup file from the Downloads folder in File Explorer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Install ChatGPT as a Windows App
@@ -161,19 +161,19 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-professional-fixes-enhance-dull-iphone-hdri-expert-tips-for-premiere-pro-users/"><u>[New] [Professional Fixes] Enhance Dull iPhone HDRI Expert Tips for Premiere Pro Users</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-the-creative-process-behind-bigger-head-effects-for-tiktok-films-3-techniques-for-2024/"><u>[New] The Creative Process Behind Bigger-Head Effects for TikTok Films (3 Techniques) for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-leveraging-secondary-footage-for-visual-impact/"><u>2024 Approved Leveraging Secondary Footage for Visual Impact</u></a></li>
-<li><a href="https://windows11.techidaily.com/6-routines-to-reclaim-your-desktops-daytime-look/"><u>6 Routines To Reclaim Your Desktop's Daytime Look</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/a-comprehensive-guide-to-azure-speech-to-text-implementation-for-2024/"><u>A Comprehensive Guide to Azure Speech-to-Text Implementation for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/banish-the-blues-of-a-non-opening-notepad-streamlined-fixes-for-windows-pcs/"><u>Banish the Blues of a Non-Opening Notepad: Streamlined Fixes for Windows PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/bigger-is-not-better-limited-minipc-zest/"><u>Bigger Is Not Better - Limited MiniPC Zest</u></a></li>
-<li><a href="https://windows11.techidaily.com/boost-efficiency-best-keys-for-auto-clicking/"><u>Boost Efficiency: Best Keys for Auto Clicking</u></a></li>
-<li><a href="https://windows11.techidaily.com/controlling-highlight-features-on-windows-11-pcs/"><u>Controlling Highlight Features on Windows 11 PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/data-mastery-for-pcs-uncovering-5-top-notch-fileshare-tools/"><u>Data Mastery for PCs: Uncovering 5 Top-Notch Fileshare Tools</u></a></li>
-<li><a href="https://techidaily.com/experience-swift-scanning-solutions-with-new-abbyy-finescanner-for-ios-maximizing-your-productivity-and-streamlining-document-management/"><u>Experience Swift Scanning Solutions with New ABBYY FineScanner for iOS - Maximizing Your Productivity and Streamlining Document Management!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-25-ways-to-spice-up-your-personal-screenshot/"><u>In 2024, 25 Ways to Spice Up Your Personal Screenshot</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-the-galaxy-s23-a-leap-forward-in-samsungs-journey-to-environmental-responsibility-zdnet/"><u>Introducing the Galaxy S23 – A Leap Forward in Samsung’s Journey to Environmental Responsibility | ZDNET</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-realme-c55-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Realme C55 Phone FRP Lock</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-steps-to-record-your-gameplay-on-a-nintendo-switch/"><u>[New] Steps to Record Your Gameplay on a Nintendo Switch</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-beginners-approach-to-title-and-caption-integration-in-windows-10-photos-for-2024/"><u>A Beginner's Approach to Title and Caption Integration in Windows 10 Photos for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/finding-the-ideal-spot-rearrange-onedrive-on-win-11/"><u>Finding the Ideal Spot: Rearrange OneDrive on Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-the-utorrent-pauseresume-issue-on-windows-pcs/"><u>Fixing the uTorrent Pause/Resume Issue on Windows PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-enable-dark-mode-on-the-windows-calculator-app/"><u>How to Enable Dark Mode on the Windows Calculator App</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-newest-amd-graphics-drivers-for-crypto-mining-platforms-on-windows-pcs/"><u>How to Get the Newest AMD Graphics Drivers for Crypto-Mining Platforms on Windows PCs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-manually-adjust-screen-brightness-and-deactivate-auto-brightness-feature-in-android/"><u>How to Manually Adjust Screen Brightness and Deactivate Auto-Brightness Feature in Android</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-samsung-galaxy-s24-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Samsung Galaxy S24? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-the-ultimate-encyclopedia-to-youtube-thumbnail-mastery/"><u>In 2024, The Ultimate Encyclopedia to YouTube Thumbnail Mastery</u></a></li>
+<li><a href="https://win-help.techidaily.com/master-the-art-of-file-transfers-on-windows-platform-yl-tech-tips-from-yl-software/"><u>Master the Art of File Transfers on Windows Platform - YL Tech Tips From YL Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-spontaneous-system-shutdown-on-w11/"><u>Overcoming Spontaneous System Shutdown on W11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-11-proplus-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme 11 Pro+ Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-path-to-creativity-start-microsoft-paint-windows-11-edition/"><u>The Path to Creativity: Start Microsoft Paint, Windows 11 Edition</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-cellphones-endorsed-editors-real-world-usage-revealed/"><u>Top Cellphones Endorsed Editors: Real-World Usage Revealed</u></a></li>
 </ul></div>
 

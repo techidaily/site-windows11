@@ -1,7 +1,7 @@
 ---
 title: "Defeating Inadequate PCs: Fixing Game Bar Errors"
-date: 2024-08-08T05:56:45.265Z
-updated: 2024-08-09T05:56:45.265Z
+date: 2025-01-08T19:17:36.831Z
+updated: 2025-01-10T18:52:31.891Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/494747ec004285de2aadee4c9fc771562b4f42ca2
 
  The error message highlights a PC doesn’t meet system requirements for Game Bar recording. Yet, this error often arises for users who’ve utilized Game Bar’s recording on their PCs before. This is how you can fix the “PC doesn't meet the hardware requirements for captures” error in Windows 10 and 11\.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Enable Game DVR With Game DVR Config
 
  Game DVR Config is third-party software with which some users have resolved the “PC doesn't meet the hardware requirements for captures” error. That software includes settings users can select to enable Game DVR along with audio and microphone capture.
@@ -34,21 +31,11 @@ thumbnail: https://thmb.techidaily.com/494747ec004285de2aadee4c9fc771562b4f42ca2
 3. Bring up Windows Explorer and the Downloads folder or other directory containing the Game DVR file.
 4. Double-click the **GameDVR\_Config** file.
 5. Select the **Enable Game DVR (Win+G)** checkbox.  
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![The Game DVR Config software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/game-dvr-config.jpg)
 6. Click the **Force software MFT** checkbox to select that setting.
 7. Exit Game DVR Config and [open Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/).
 8. Look for the Broadcast DVR server on the **Processes** tab. Right-click Broadcast DVR Server and select **End task** if you can find that process.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Edit the Control Registry Key
 
  Editing the Control registry key is a fix that’s worked for some users. Try editing that key like this:
@@ -66,13 +53,22 @@ No advertising on the website.
 8. Then close out of the Registry Editor app and restart Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Update Your Graphics Adapter’s Driver
 
  An outdated or faulty graphics driver might be causing this recording issue on your PC. Try installing the latest graphics driver for your GPU if you haven’t updated it in a while (or ever). This guide tells you [how to update a PC’s graphics driver in Windows](http://www.makeuseof.com/update-graphics-drivers-in-windows-10/).
 
 ![The NVIDIA graphics driver download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/nvidia-driver-download.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Enable the Windows Game Recording and Broadcasting Policy
 
@@ -84,11 +80,13 @@ No advertising on the website.
 2. Double-click **Administrative Templates** \> **Windows Components**.
 3. Select **Windows Game Recording and Broadcasting** in Group Policy’s sidebar.
 4. Then double-click on the **Enables or disables Windows Game Recording and Broadcasting** policy.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Group Policy Editor window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/group-policy-editor.jpg)
 5. Click **Enabled** if that policy is disabled.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Select **Apply** to enable the recording policy and **OK** to close the window.  
 ![The Enables or disables Windows Game Recording and Broadcasting policy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-game-and-recording-policy-window.jpg)
 7. Close Group Policy Editor, bring up your Start menu and select **Power** \> **Restart**.
@@ -108,16 +106,14 @@ No advertising on the website.
 5. Click the Start menu’s Power button and select **Restart**.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Get Recording Again With the Xbox Game Bar
 
  The potential solutions covered here are widely confirmed to resolve the “PC doesn't meet the hardware requirements for captures” by users who’ve needed to fix that issue. So, it’s most likely applying the potential fixes above will resolve that Game Bar recording issue on your Windows laptop or desktop. Then you can record video while gaming with the Game Bar’s recording feature again.
 
  The error message highlights a PC doesn’t meet system requirements for Game Bar recording. Yet, this error often arises for users who’ve utilized Game Bar’s recording on their PCs before. This is how you can fix the “PC doesn't meet the hardware requirements for captures” error in Windows 10 and 11\.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -125,4 +121,22 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-elevating-your-youtube-presence-with-ideal-video-formats/"><u>[New] 2024 Approved Elevating Your YouTube Presence with Ideal Video Formats</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-turning-views-into-vouchers-youtube-marketing/"><u>[Updated] Turning Views Into Vouchers YouTube Marketing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/framefusion-pro-8-crafting-digital-masterpieces/"><u>FrameFusion Pro 8 Crafting Digital Masterpieces</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-apple-iphone-6s-plus-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass Apple iPhone 6s Plus Passcode Easily Video Inside</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-convert-youtube-sounds-to-wider-reach-mp3-for-mac-users/"><u>In 2024, Convert YouTube Sounds to Wider Reach MP3 for Mac Users</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-direct-platform-comparison-choosing-between-obs-and-twitch-studio/"><u>In 2024, Direct Platform Comparison Choosing Between OBS & Twitch Studio</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/master-your-media-best-6-video-apps-for-macos-big-sur-users-for-2024/"><u>Master Your Media Best 6 Video Apps for macOS Big Sur Users for 2024</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/maximizing-your-software-access-a-step-by-step-guide-on-legally-obtaining-anydvd-full-version-and-understanding-piracy-risks/"><u>Maximizing Your Software Access: A Step-by-Step Guide on Legally Obtaining AnyDVD Full Version and Understanding Piracy Risks</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/resolved-why-your-pc-cant-recognize-the-wireless-network-pci-card-tl-wn722n/"><u>Resolved: Why Your PC Can't Recognize the Wireless Network PCI Card (TL-WN722N)</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-link-loss-in-winvpn-a-step-by-step-solution/"><u>Restoring Link Loss in WinVPN: A Step-By Step Solution</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-overcoming-windows-terminal-access-issues/"><u>Troubleshooting: Overcoming Windows Terminal Access Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/tutorial-navigating-to-windows-11-phone-dialer/"><u>Tutorial: Navigating to Windows 11 Phone Dialer</u></a></li>
+<li><a href="https://windows11.techidaily.com/uncover-the-magic-of-reading-comics-on-windows-11/"><u>Uncover the Magic of Reading Comics on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-and-fixing-windows-roblox-code-403-issue/"><u>Understanding & Fixing Windows Roblox Code 403 Issue</u></a></li>
+</ul></div>
 

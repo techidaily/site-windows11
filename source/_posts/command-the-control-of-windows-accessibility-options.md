@@ -1,7 +1,7 @@
 ---
 title: Command the Control of Windows' Accessibility Options
-date: 2024-08-08T05:57:47.083Z
-updated: 2024-08-09T05:57:47.083Z
+date: 2025-01-05T19:45:37.554Z
+updated: 2025-01-10T19:02:03.589Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/bd73d50e5d9ed4daeccbe66a94668b925bf784c3c
  On Windows, you can enable or disable Filter Keys in a few different ways. This guide shall walk you through all of them in detail.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. How to Enable or Disable Filter Keys With a Keyboard Shortcut
 
  The quickest way to enable or disable Filter Keys on Windows is with your keyboard. So, let’s start with that.
@@ -33,13 +34,18 @@ thumbnail: https://thmb.techidaily.com/bd73d50e5d9ed4daeccbe66a94668b925bf784c3c
 2. Click**Yes** to enable the Filter Keys.  
 ![Turn Filter Keys On or Off via the Keyboard Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/turn-filter-keys-on-or-off-via-the-keyboard-shortcut.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the other hand, if you want to disable Filter Keys, click on **Disable this keyboard shortcut in Ease of Access keyboard settings** . Then, disable the toggle next to Filter keys.
 
  Like using keyboard shortcuts on Windows? Why not check our [ultimate guide to Windows keyboard shortcuts](https://www.makeuseof.com/windows-11-keyboard-shortcuts/) ?
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. How to Enable or Disable Filter Keys via the Settings App
 
  Another quick way to turn Filter Keys on or off on Windows is via the Settings app. For that, you will need to visit the Accessibility tab in the Settings app. Here are the steps you can follow.
@@ -48,14 +54,12 @@ thumbnail: https://thmb.techidaily.com/bd73d50e5d9ed4daeccbe66a94668b925bf784c3c
 2. Select**Accessibility** from the left sidebar.
 3. Under the**Interaction** section, click on**Keyboard** .
 4. Use the toggle next to the**Filter keys** to enable or disable it. You can click on Filter keys to further customize the feature to your liking.  
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Turn Filter Keys On or Off via the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/turn-filter-keys-on-or-off-via-the-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. How to Enable or Disable Filter Keys Using the Control Panel
 
  Although Microsoft plans to retire Control Panel at some point in the future, you can use it to configure most of the settings on your Windows computer for now.
@@ -70,10 +74,11 @@ thumbnail: https://thmb.techidaily.com/bd73d50e5d9ed4daeccbe66a94668b925bf784c3c
 6. Select the**Make computer easier to use** option.
 7. Use the checkbox next to**Turn on Filter Keys** to enable or disable the feature.
 8. Click**Apply** followed by**OK** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![Turn Filter Keys On or Off via the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/turn-filter-keys-on-or-off-via-the-control-panel.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. How to Enable or Disable Filter Keys From the Sign-In Screen
 
@@ -85,24 +90,17 @@ thumbnail: https://thmb.techidaily.com/bd73d50e5d9ed4daeccbe66a94668b925bf784c3c
 
  Similarly, you can also enable or disable Sticky Keys from the sign-in screen. For more information on this, check our guide on [different ways to turn Sticky Keys on or off on Windows 11](https://www.makeuseof.com/windows-11-sticky-keys-on-off/) .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ## Enabling or Disabling Filter Keys on Windows Is Easy
 
  As we just saw, enabling or disabling Filter Keys on your Windows 10 or 11 computer should be a quick process, regardless of the method you use.
 
  Filter Keys isn’t the only accessibility feature available in Windows. If you need some extra help using your computer, there are plenty of useful accessibility options on Windows.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -111,6 +109,22 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-elevate-video-production-excellence-with-kinemasters-green-screen-guide/"><u>[Updated] In 2024, Elevate Video Production Excellence with Kinemaster's Green Screen Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-redefine-video-communication-with-your-webcam/"><u>[Updated] Redefine Video Communication with Your Webcam</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-zte-nubia-flip-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From ZTE Nubia Flip 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/disabling-closed-captions-in-amazon-prime-streaming/"><u>Disabling Closed Captions in Amazon Prime Streaming</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-mute-games-recommended-by-windows-11/"><u>How To Mute Games Recommended by Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-the-fixes-resolving-bootmgr-error-messages-on-your-pc/"><u>Master the Fixes: Resolving BOOTMGR Error Messages on Your PC</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-the-art-of-b-roll-filming-techniques/"><u>Mastering the Art of B Roll Filming Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-use-of-microsoft-family-safety/"><u>Mastering the Use of Microsoft Family Safety</u></a></li>
+<li><a href="https://windows11.techidaily.com/real-time-speech-conversion-using-whisper-desktop/"><u>Real-Time Speech Conversion: Using Whisper Desktop</u></a></li>
+<li><a href="https://windows11.techidaily.com/suppress-windows-extra-audio-functionality/"><u>Suppress Windows Extra Audio Functionality</u></a></li>
+<li><a href="https://windows11.techidaily.com/surge-speed-settings-preventing-unexpected-download-plunges/"><u>Surge Speed Settings: Preventing Unexpected Download Plunges</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-to-disable-discord-auto-updates-at-bootup/"><u>Techniques to Disable Discord Auto-Updates at Bootup</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-essential-steps-to-open-windows-media-player/"><u>The Essential Steps to Open Windows Media Player</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-top-5-outstanding-17-inch-laptops-to-elevate-your-tech-game/"><u>Unveiling the Top 5 Outstanding 17-Inch Laptops to Elevate Your Tech Game</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-top-5-ai-youtube-shorts-generators-to-create-diverse-and-engaging-videos-for-2024/"><u>Updated Top 5 AI YouTube Shorts Generators to Create Diverse and Engaging Videos for 2024</u></a></li>
+</ul></div>
 

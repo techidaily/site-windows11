@@ -1,7 +1,7 @@
 ---
 title: "Optimal Settings: Where to Store Your Games on Xbox"
-date: 2024-12-30T00:06:30.762Z
-updated: 2025-01-03T21:01:40.363Z
+date: 2025-01-09T20:56:41.081Z
+updated: 2025-01-10T16:11:12.586Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/c9e9de36eb357f7db5b739ff1ada424f8276ace68
 
  To restart, press the**Alt + F4** hotkeys to open the Shut Down Windows prompt, click the drop-down icon, choose**Restart** from the context menu, and then click**OK.** After restart, launch the Xbox app and check if you can choose a different drive to install games. If not, then it's time to dive into the advanced troubleshooting methods.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Change the Installation Directory in the Xbox App Settings
 
  There are two places from where you can change the installation drive on the Xbox app. One is while installing the game, whereas the other is the Xbox settings menu.
@@ -45,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/c9e9de36eb357f7db5b739ff1ada424f8276ace68
 ![Change Folder in Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/change-folder.jpg)
 4. Choose the location where you want to install the game and then click the**Select Folder** option.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Customize the System Settings
 
  If editing the Xbox app settings wasn't helpful, you can edit the system settings and check if it makes a difference. Here's what you need to do:
@@ -59,25 +59,13 @@ thumbnail: https://thmb.techidaily.com/c9e9de36eb357f7db5b739ff1ada424f8276ace68
 ![Where new content is saved option in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/where-new-content-is-saved.png)
 4. Click the drop-down icon under the**New** **apps** **will save to** section, choose the drive where you want to install the game, and then click**Apply.**  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![New apps will save to section in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/new-apps-will-save-to-section.jpg)
 
  That's it! Restart your computer and check if the problem continues.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Restart Important Xbox Services
 
 ![Restart Service option in Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restart-service.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  There are certain Xbox services that must be running for you to use the Xbox app properly. If any of these services fail to start properly, you might face the problem at hand.
 
@@ -92,7 +80,7 @@ Xbox Live Auth Manager
 Xbox Live Networking Service`
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Reinstall the Gaming Services App
@@ -110,6 +98,10 @@ Xbox Live Networking Service`
 ![Delete option in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/delete-option.jpg)
 4. Click**Yes** to confirm your selection.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Next, delete the**GamingServicesNet** folder as well in the left sidebar.
 
  Now, open the elevated PowerShell window (see how to[open Windows PowerShell as an administrator](https://www.makeuseof.com/windows-powershell-always-open-as-administrator/) ), type the following command, and press**Enter** .
@@ -119,6 +111,10 @@ Xbox Live Networking Service`
 ![Remove Gaming Services command in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/remove-gaming-services.jpg)
 
  After uninstalling the Gaming Services app, restart your computer. Then, open the Microsoft Store, search for and[download the Gaming Services](https://apps.microsoft.com/store/detail/gaming-services/9MWPM2CQNLHN?hl=en-us&gl=us) app again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Repair the Xbox App
 
@@ -138,6 +134,10 @@ To update the Xbox app, follow the below steps:
  The Microsoft Store will now automatically download updates for installed apps, including the Xbox app.
 
  While you're at installing updates, we'd also recommend[downloading any available Windows updates](https://www.makeuseof.com/tag/update-windows-software-guide/) . To do so, launch the Settings app, choose**Windows Update** from the left sidebar, and then click the**Check for Updates** button to install any available update on your computer. Following this, you will be able to choose a drive to install games on the Xbox app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Change the Download Location of the Xbox App
 
@@ -160,19 +160,22 @@ To update the Xbox app, follow the below steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-exclusive-review-top-10-budget-friendly-video-meetup-apps-for-companies-and-schools/"><u>[New] Exclusive Review Top 10 Budget-Friendly Video Meetup Apps for Companies & Schools</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-cutting-edge-settings-for-online-broadcasts/"><u>2024 Approved Cutting-Edge Settings for Online Broadcasts</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-short-tale-on-wintoys-unveiling-a-compelling-windows-application/"><u>A Short Tale on 'WinToys': Unveiling a Compelling Windows Application</u></a></li>
-<li><a href="https://win-popular.techidaily.com/c-improve-overall-well-being-within-a-year/"><u>C. Improve Overall Well-Being Within a Year.</u></a></li>
-<li><a href="https://windows11.techidaily.com/command-center-for-direct-access-to-windows-11s-appsfolders/"><u>Command Center for Direct Access to Windows 11'S AppsFolders</u></a></li>
-<li><a href="https://windows11.techidaily.com/crafting-unique-room-backgrounds-with-windows-spotlight-pics/"><u>Crafting Unique Room Backgrounds with Windows Spotlight Pics</u></a></li>
-<li><a href="https://windows11.techidaily.com/customize-pc-audio-with-windows-11s-volume-mixer-tutorial/"><u>Customize PC Audio with Windows 11'S Volume Mixer Tutorial</u></a></li>
-<li><a href="https://windows11.techidaily.com/decode-and-resolve-uninitialized-disk-message-on-pc/"><u>Decode and Resolve Uninitialized Disk Message on PC</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/duas-formas-simples-de-subir-o-volume-em-sua-gravacao-e-os-topos-quatro-ferramentas-mais-populares/"><u>Duas Formas Simples De Subir O Volume Em Sua Gravação E Os Topos Quatro Ferramentas Mais Populares</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719271997711-enable-high-contrast-mode-go-to-ease-of-access-settings-and-enable-high-contrast-mode-if-it-improves-visibility/"><u>Enable High Contrast Mode: Go to 'Ease of Access' Settings and Enable High Contrast Mode if It Improves Visibility.</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-samsung-galaxy-m34-5g-is-unlocked-by-drfone-android/"><u>How To Check if Your Samsung Galaxy M34 5G Is Unlocked</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-enjoy-hulu-on-demand-with-your-lg-smart-television-easy-steps/"><u>How to Enjoy Hulu On Demand with Your LG Smart Television - Easy Steps</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-fast-fixes-syncing-iphone-photos-with-computer/"><u>In 2024, Fast Fixes Syncing iPhone Photos with Computer</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Infinix Zero 5G 2023 Turbo? | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-mastering-gesture-control-a-comprehensive-overview-for-2024/"><u>[New] Mastering Gesture Control A Comprehensive Overview for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-ancient-artifacts-iphone-x-selfies/"><u>[Updated] 2024 Approved Ancient Artifacts – iPhone X Selfies</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-superior-top-ten-nintendo-switch-combat-games-max-156/"><u>[Updated] 2024 Approved Superior Top Ten Nintendo Switch Combat Games (Max 156)</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-audio-accomplishment-iphone-as-a-podcast-hub/"><u>[Updated] Audio Accomplishment IPhone as a Podcast Hub</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-windows-junk-uninstall-list-revealed/"><u>Essential Windows Junk: Uninstall List Revealed</u></a></li>
+<li><a href="https://windows11.techidaily.com/ftdibussys-dissected-why-it-causes-disturbances-in-windows-memory/"><u>Ftdibus.sys Dissected: Why It Causes Disturbances in Windows Memory</u></a></li>
+<li><a href="https://fox-where.techidaily.com/guide-pratique-localisation-du-dossier-programdata-dans-windows-11-resolu/"><u>Guide Pratique : Localisation Du Dossier 'ProgramData' Dans Windows 11 - Résolu!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721480680894-issues-with-your-iphones-flashlight-try-these-12-remedies-to-restore-illumination/"><u>Issues with Your iPhone's Flashlight? Try These 12 Remedies to Restore Illumination.</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-cortana-archive-windows-based-steps/"><u>Master Cortana Archive: Windows-Based Steps</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-11-folder-access-top-techniques-explored/"><u>Mastering Windows 11 Folder Access: Top Techniques Explored</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-wpm-in-windows-11-a-step-by-step-guide/"><u>Mastering WPM in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/no-more-upgrades-try-these-windows-solutions/"><u>No More Upgrades? Try These Windows Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/reimagine-windows-11-notepad-aesthetics-and-readability/"><u>Reimagine Windows 11 Notepad: Aesthetics & Readability</u></a></li>
+<li><a href="https://network-issues.techidaily.com/say-goodbye-to-gpu-shuffling-now-fixes-apply-to-win11/"><u>Say Goodbye to GPU Shuffling - Now Fixes Apply to Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/swiftly-syncing-spotify-on-windows-11-systems/"><u>Swiftly Syncing Spotify on Windows 11 Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/unsupported-devices-heres-how-to-elevate-with-win11-22h2/"><u>Unsupported Devices? Here’s How to Elevate with Win11 22H2</u></a></li>
 </ul></div>
 

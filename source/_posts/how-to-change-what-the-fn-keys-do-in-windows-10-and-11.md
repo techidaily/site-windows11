@@ -1,7 +1,7 @@
 ---
 title: How to Change What the Fn Keys Do in Windows 10 and 11
-date: 2024-12-27T21:48:46.383Z
-updated: 2025-01-04T03:35:01.642Z
+date: 2025-01-09T17:51:25.394Z
+updated: 2025-01-10T20:30:40.335Z
 tags:
   - windows10
   - windows11
@@ -44,22 +44,18 @@ Here is how to proceed:
 ![Hardware and Sound in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/hardware-and-sound.jpg)
 3. Click on**Windows Mobility Center** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Windows mobility center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/hardware-and-sound-windows-mobility-center.jpg)
 4. In the following window, look for the Fn key row section and expand the drop-down under it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. If you wish to choose the F keys for basic functions, choose**Function key** .
 6. Select**Multimedia key** if you want to use the F keys to perform functions that typically require pressing the Fn key.  
 ![Multimedia key in Windows Mobility Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/windows-mobility-center-multimedia-key-1.jpg)
 
  If you own other devices, then you might want to look for similar options in the System or keyboard settings. You can also search the manufacturer’s official website for information regarding such customizations.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. How to Modify the Function Keys Settings in the BIOS
 
@@ -92,10 +88,6 @@ Similarly, if you have an Acer device, follow these steps:
 ![Recovery settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/update-and-security-recovery.jpg)
 3. Choose Restart now.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Restart now button in Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/restart-now.jpg)
 
 If you are a Windows 11 user, follow these steps:
@@ -113,12 +105,16 @@ If you are a Windows 11 user, follow these steps:
 3. In the following window, head over to the**Configuration** tab.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Select the**Hotkey Mode** and click on**Enabled** or**Disabled** .  
 ![hotkey-mode-disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/hotkey-mode-disabled.jpg)
 5. Click**Save** and then press**Exit** to sign out of BIOS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Enable the Fn Lock
 
@@ -127,6 +123,10 @@ If you are a Windows 11 user, follow these steps:
  In most keyboards, the Fn lock is associated with the Esc key, but it can be different in your device. Typically, these keys have a lock icon on them. You can use the manufacturer’s website to find the lock on your device if you cannot locate a key with a lock icon.
 
  Once you have found the key, hold the Fn key and press the lock key. This will enable the function. You can follow the same steps for disabling it in the future.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is It a Good Idea To Change Fn Key Settings?
 
@@ -143,7 +143,7 @@ If you are a Windows 11 user, follow these steps:
  Ultimately, whether it is a good idea to change the Fn key settings or not will depend on how you use your computer and what you prefer. We recommend weighing the pros and cons and consider your usage patterns before you make a decision.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Use the Function Keys Like a Pro
@@ -165,20 +165,17 @@ If you are a Windows 11 user, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-immersive-gameplay-capture-roblox-and-macos-synergy-for-2024/"><u>[New] Immersive Gameplay Capture Roblox & macOS Synergy for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-faster-than-ever-revolutionary-methods-to-speed-up-fb-videos/"><u>[New] In 2024, Faster Than Ever Revolutionary Methods to Speed Up FB Videos</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-digital-domination-diaries/"><u>[Updated] In 2024, Digital Domination Diaries</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-instagram-to-tik-tok-a-social-pivot-blueprint/"><u>2024 Approved Instagram to Tik Tok - A Social Pivot Blueprint</u></a></li>
-<li><a href="https://windows11.techidaily.com/best-data-shields-on-windows-encryption-apps-analysis-150-chars/"><u>Best Data Shields on Windows: Encryption Apps Analysis (150 Chars)</u></a></li>
-<li><a href="https://windows11.techidaily.com/calibrating-your-laptops-touch-response-for-maximum-comfort/"><u>Calibrating Your Laptop's Touch Response for Maximum Comfort</u></a></li>
-<li><a href="https://techtrends.techidaily.com/cat5-versus-cat6-cables-advantages-limitations-and-when-to-use-each/"><u>Cat5 Versus Cat6 Cables: Advantages, Limitations, and When to Use Each</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comprehensive-walkthrough-for-recording-and-sending-voice-messages-on-iphones/"><u>Comprehensive Walkthrough for Recording and Sending Voice Messages on iPhones</u></a></li>
-<li><a href="https://windows11.techidaily.com/conquering-folder-tab-glitches-in-windows-11/"><u>Conquering Folder Tab Glitches in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/convenient-tips-for-changing-filter-key-options-in-windows/"><u>Convenient Tips for Changing Filter Key Options in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/customize-thumbnail-heights-in-windows-11-ui/"><u>Customize Thumbnail Heights in Windows 11 UI</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/cutting-edge-tools-for-youtube-content-capture/"><u>Cutting-Edge Tools for YouTube Content Capture</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-display-discrepancies-winning-windows-with-wisdom/"><u>Decoding Display Discrepancies: Winning Windows with Wisdom</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-whos-spreading-the-word-identifying-people-who-shared-your-post-on-facebook/"><u>Discover Who's Spreading the Word: Identifying People Who Shared Your Post on Facebook</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-a-guide-on-starting-private-live-streams-on-youtube/"><u>New A Guide on Starting Private Live Streams on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-add-timestamps-youtube-video/"><u>[New] In 2024, How to Add Timestamps YouTube Video?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-verifying-realness-in-instagrams-visual-identity-expressions/"><u>[New] Verifying Realness in Instagram's Visual Identity Expressions</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-the-process-of-verifying-your-youtube-id/"><u>2024 Approved Navigating the Process of Verifying Your YouTube ID</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-premier-screen-capture-device-essential-for-video-sharers/"><u>2024 Approved Premier Screen Capture Device Essential for Video Sharers</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-flawed-setups-a-guide-to-windo-package-fixing/"><u>Fixing Flawed Setups: A Guide to Windo Package Fixing</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-honor-x50i-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Honor X50i FRP In 3 Different Ways</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigational-aids-shortcut-mastery-with-windows-narrator/"><u>Navigational Aids: Shortcut Mastery with Windows Narrator</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premium-picks-recommended-portals-for-acquiring-snapalert-melodies-for-2024/"><u>Premium Picks Recommended Portals for Acquiring SnapAlert Melodies for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-grammarly-steps-to-reactivate-it/"><u>Reviving Grammarly: Steps to Reactivate It</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/step-by-step-guide-to-installing-windows-11-without-tpm-and-bypassing-secure-boot-requirements-effortlessly/"><u>Step-by-Step Guide to Installing Windows 11 Without TPM and Bypassing Secure Boot Requirements Effortlessly</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-windows-10-resolving-error-0x80042306-with-system-restore/"><u>Troubleshooting Windows 10: Resolving Error 0X80042306 with System Restore</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unraveling-the-mystery-of-non-exporting-srt-in-premiere/"><u>Unraveling the Mystery of Non-Exporting SRT in Premiere</u></a></li>
 </ul></div>
 

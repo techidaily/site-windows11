@@ -1,7 +1,7 @@
 ---
 title: "Decoding Dism: A Practical Guide to Fixing Win11 OS"
-date: 2024-08-08T05:56:34.795Z
-updated: 2024-08-09T05:56:34.795Z
+date: 2025-01-04T18:15:32.002Z
+updated: 2025-01-10T16:04:40.017Z
 tags:
   - windows10
   - windows11
@@ -29,8 +29,9 @@ thumbnail: https://thmb.techidaily.com/13a1f9ec7eefb2f2d2c19f961783b576aae349686
  If you can boot into Windows 11, you can run the DISM command from an elevated PowerShell console or Command Prompt. If not, you’ll need to [boot into the Windows Recovery Environment](boot%20into%20the%20Windows%20Recovery%20Environment) and launch Command Prompt from **Advanced Options** to run DISM.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Check Your System Health Using the DISM CheckHealth Command
 
  You can check for any file corruption using the DISM CheckHealth command. It is a diagnostic tool used to detect system image corruption and report the same. However, it doesn’t perform any repair.
@@ -41,12 +42,14 @@ thumbnail: https://thmb.techidaily.com/13a1f9ec7eefb2f2d2c19f961783b576aae349686
 2. Right-click on **Command Prompt** and select **Run as administrator**.  
 ![DISM scan health powershell command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/dism-clean-health-powershell-command.jpg)
 3. In the Command Prompt window, type the following command and press **Enter**:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `DISM /Online /Cleanup-Image /CheckHealth`
 4. In the above command, the **/Online** parameter specifies the scan must be performed on the currently running operating system. The **/Cleanup-Image** parameter specifies the operation is related to Windows image repair.
 5. When executed, the command will show the report as “**The component stored has been corrupted**” or “**No component store corrupted detected.**” depending on whether a component store corruption is found.  
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![DISM powershell CheckHealth command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/dism-powershell-checkhealth-command.jpg)
 6. If you use PowerShell, use the following command instead:  
 `Repair-WindowsImage -Online -CheckHealth`
@@ -54,9 +57,6 @@ thumbnail: https://thmb.techidaily.com/13a1f9ec7eefb2f2d2c19f961783b576aae349686
 
  If the image is repairable, you can use the RestoreHealth command to use Windows Update to fix any corruption. However, for a non-repairable image, you may need to perform a clean install to fix your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Perform an Advanced System Image Scan with the ScanHealth Command
 
 ![DISM scan health command PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/dism-scan-health-command-powershell.jpg)
@@ -71,12 +71,13 @@ thumbnail: https://thmb.techidaily.com/13a1f9ec7eefb2f2d2c19f961783b576aae349686
 3. This process may take some time to complete. Once done, it will report any issues with the component store.
 4. If an issue is detected, run the DISM RestoreHealth command to repair your Windows image.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Run the DISM RestoreHealth Command to Repair the Windows System Image
 
 ![DISM scan health restore health command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dism-scan-health-restore-health-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The DISM RestoreHealth command uses Windows Update to provide the necessary files to fix file corruption and repair the Windows 11 system image. However, you must be connected to the internet so that the DISM tool can download and restore the files needed to perform a repair.
 
@@ -97,11 +98,13 @@ thumbnail: https://thmb.techidaily.com/13a1f9ec7eefb2f2d2c19f961783b576aae349686
 
 1. Press **Win + E** to open **File Explorer**.
 2. Open your installation media drive, open the **Sources** folder and make sure the **install.wim** file exists. Also, note the driver letter assigned to your installation media. In this instance, our installation media is assigned the drive letter **(I:)**.  
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![install wim file in Windows 11 installation media](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/install-wim-file-in-windows-11-installation-media.jpg)
 3. Next, type the following command to run the **DISM RestoreHealth** command with the installation media as a repair source:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `DISM /Online /Cleanup-Image /RestoreHealth /Source:I\Sources\install.wim /LimitAccess`
 4. In the above command, replace the placeholder **:I** with your installation media drive letter. Also, the **LimitAccess** command is an optional parameter that restricts DISM access to the specified source and prevents it from using **Windows Update** as a repair source.
 5. Once the process is complete, you can close Command Prompt and run the **System File Checker** utility to complete the repair process.
@@ -109,6 +112,10 @@ thumbnail: https://thmb.techidaily.com/13a1f9ec7eefb2f2d2c19f961783b576aae349686
 ## Repair Your Windows Installation Using the System File Checker (SFC) Utility
 
 ![run system file checker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/run-system-file-checker.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you have successfully repaired your Windows 11 system image using the DISM RestoreHealth command, run the System File Checker (SFC) utility. It will scan your Windows installation for system file corruption and fix them automatically.
 
@@ -124,17 +131,11 @@ thumbnail: https://thmb.techidaily.com/13a1f9ec7eefb2f2d2c19f961783b576aae349686
 
  After the process is complete, restart your computer and check for any improvements. If the issue persists, run the **sfc /scannow** command again to see if that helps fix the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ## Repair and Recover Your Windows System Image Using DISM and SFC
 
  DISM makes it easy to repair a corrupt Windows image. It works both online using Windows Update and offline with a WIM file. The steps to use DISM may look complicated at first glance; however, it only takes two commands and an elevated Command Prompt to repair your Windows 11 image and installation.
 
  In this article, we’ll show you how you can use the DISM and System File Checker utility to repair your damaged Windows 11 image and installation.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -142,4 +143,21 @@ thumbnail: https://thmb.techidaily.com/13a1f9ec7eefb2f2d2c19f961783b576aae349686
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-elevate-your-gameplay-records-with-advanced-methods-on-w11/"><u>[New] 2024 Approved Elevate Your Gameplay Records with Advanced Methods on W11</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-top-five-mac-screen-seize-techniques-char-limit-156/"><u>[Updated] In 2024, Top Five Mac Screen Seize Techniques (Char Limit 156)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-secure-your-photography-leading-software-insights/"><u>[Updated] Secure Your Photography - Leading Software Insights</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/embedded-recorder-usage-in-huaweis-mate-series-and-the-p-lineup-for-2024/"><u>Embedded Recorder Usage in Huawei's Mate Series and the P Lineup for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/evaluating-the-significance-of-audio-device-isolation-in-windows/"><u>Evaluating the Significance of Audio Device Isolation in Windows</u></a></li>
+<li><a href="https://article-files.techidaily.com/full-scene-preview-a-complete-ppro-manual-for-2024/"><u>Full Scene Preview A Complete PPro Manual for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-a1x-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Oppo A1x 5G PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-apple-iphone-14-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your Apple iPhone 14 When You Forget the Passcode?</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-winerror-fixes-for-oculus-app-installation/"><u>Mastering WinError Fixes for Oculus App Installation</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/recover-disappearing-watch-icon-for-fb-users/"><u>Recover Disappearing Watch Icon for FB Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/synchronize-access-controls-with-powertoys-locksmith/"><u>Synchronize Access Controls with PowerToys' Locksmith</u></a></li>
+<li><a href="https://win11.techidaily.com/synchronized-closure-strategies-for-multiple-windows-programs/"><u>Synchronized Closure Strategies for Multiple Windows Programs</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshoot-non-functional-shift-in-windows/"><u>Troubleshoot Non-Functional Shift in Windows</u></a></li>
+</ul></div>
 

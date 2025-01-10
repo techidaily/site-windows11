@@ -1,7 +1,7 @@
 ---
 title: Simplify Storage Management in Windows 10 & 11 via Context Menu Tool
-date: 2024-12-30T16:32:54.318Z
-updated: 2025-01-03T17:53:19.716Z
+date: 2025-01-08T18:06:19.967Z
+updated: 2025-01-10T16:43:00.402Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/b820d864536876d7d0a61d1c45147aa7dcf60bfd6
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Add a Visual Disk Space Analyzer Tool to Explorer’s Context Menu With RidNacs
 
  RidNacs is a freeware disk analyzer app with which you can scan whole drives, folders, or removable storage devices (USB sticks). This tool displays storage usage reports with percentage bars that give users a clear picture of what’s hogging the most space. You can add the RidNacs analyzer tool to Explorer’s context menu like this:
@@ -41,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/b820d864536876d7d0a61d1c45147aa7dcf60bfd6
 ![The Install button for RidNacs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/setup-ridnac.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now you start analyzing folder storage space usage on your PC with RidNacs. Open the Explorer file manager window, and right-click a folder to select**Show more options** . Click the**Analyze Disk Space Usage with RidNacs** option on the classic context menu to start the scan.
@@ -50,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/b820d864536876d7d0a61d1c45147aa7dcf60bfd6
 
 ![The RidNacs window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/ridnacs-window.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can select other directories or a whole drive to scan within the RidNacs window. To do so, click**File** and the**Choose Directory** option. Then choose another folder or an entire drive to scan and click**OK** .
 
  RidNacs doesn’t have lots of customization settings. However, you can change the percentage bar style. To do so, click the**Preferences** button. Then select a different color option on the Percentage bar style. Select**Apply** \>**OK** to save the new bar style setting.
@@ -57,11 +65,7 @@ thumbnail: https://thmb.techidaily.com/b820d864536876d7d0a61d1c45147aa7dcf60bfd6
 ![The Preferences window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/preferences-window.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add a Visual Disk Space Analyzer Tool to Explorer’s Context Menu With Disk Savvy
@@ -91,7 +95,7 @@ thumbnail: https://thmb.techidaily.com/b820d864536876d7d0a61d1c45147aa7dcf60bfd6
 ![A Disk Space Usage Per File Extension graph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disk-space-usage-window.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Disk Savvy also has a feature that displays all the top (biggest) files within an analyzed folder. To utilize that feature, click the**Top Files** button. Then select an option like**View Top Images Sorted By File Size** or**View Top Music Files Sorted By the File Size** to see what the biggest ones are.
@@ -99,10 +103,6 @@ thumbnail: https://thmb.techidaily.com/b820d864536876d7d0a61d1c45147aa7dcf60bfd6
  This software can analyze multiple folders at once. To select multiple folders in the Disk Savvy window, click**Default profiles** on the left and the**+** **Add** **input** button for directories. Then select the**Add Input Directory** option, click the**ellipsis** button, choose a folder to add, and press the**OK** buttons. Click**Analyze** to scan all selected folders.
 
 ![Add Input Directory option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-input-directory.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can save and export disk usage reports to various file formats. To do so, click the**Save** option. Select a file extension option on the**Report format** drop-down menu; click the**Report type** drop-down menu to choose an option there, and press the**Save** button. You can view the report by opening it from the default Documents folder save location.
 
@@ -127,24 +127,19 @@ thumbnail: https://thmb.techidaily.com/b820d864536876d7d0a61d1c45147aa7dcf60bfd6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-hacking-the-art-of-high-quality-twitch-video-captures/"><u>[Updated] In 2024, Hacking the Art of High-Quality Twitch Video Captures</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-screen-recording-simplified-unlocking-five-key-techniques-for-minecraft-on-a-mac/"><u>[Updated] Screen Recording Simplified Unlocking Five Key Techniques for Minecraft on a Mac</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-6-ways-to-screen-record-netflix-on-mac/"><u>2024 Approved 6 Ways to Screen Record Netflix on Mac</u></a></li>
-<li><a href="https://windows11.techidaily.com/7-ways-to-get-the-most-out-of-windows-11/"><u>7 Ways to Get the Most Out of Windows 11</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/building-brands-through-memes/"><u>Building Brands Through Memes</u></a></li>
-<li><a href="https://windows11.techidaily.com/clear-sighted-making-your-windows-11-taskbar-glossy/"><u>Clear-Sighted: Making Your Windows 11 Taskbar Glossy</u></a></li>
-<li><a href="https://windows11.techidaily.com/clearing-up-the-confusion-of-microsoft-store-error-0x80072efd/"><u>Clearing Up the Confusion of Microsoft Store Error 0X80072EFD</u></a></li>
-<li><a href="https://windows11.techidaily.com/clearing-windows-arp-caches-made-simple/"><u>Clearing Windows ARP Caches Made Simple</u></a></li>
-<li><a href="https://windows11.techidaily.com/detailed-steps-for-running-sfc-in-windows-os/"><u>Detailed Steps for Running SFC in Windows OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/discover-how-to-optimize-win11-taskbar/"><u>Discover How to Optimize Win11 Taskbar</u></a></li>
-<li><a href="https://windows11.techidaily.com/discovering-surface-laptop-studio-2-near-flawless-for-makers/"><u>Discovering Surface Laptop Studio 2: Near-Flawless for Makers</u></a></li>
-<li><a href="https://windows11.techidaily.com/discreet-toolbar-tactics-concealing-items-in-windows-11/"><u>Discreet Toolbar Tactics: Concealing Items in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/display-number-and-caps-lock-status-in-taskbar-tray-win11/"><u>Display Number and Caps Lock Status in Taskbar Tray Win11</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/free-top-12-best-idle-games-you-can-try-on-pc/"><u>FREE Top 12 Best Idle Games You Can Try on PC</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/friendship-and-farms-the-10-favorite-farming-titles-for-2024/"><u>Friendship & Farms The 10 Favorite Farming Titles for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-motorola-edge-40-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Motorola Edge 40 is off? | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-direct-connectivity-ios-and-android-file-relay/"><u>In 2024, Direct Connectivity IOS & Android File Relay</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Honor V Purse? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/srt-mastery-free-and-best-websites-in-top-8-lists/"><u>SRT Mastery Free & Best Websites in Top 8 Lists</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-10-online-photo-editing-tools-to-unblur-photos-for-2024/"><u>[New] 10 Online Photo Editing Tools to Unblur Photos for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-mastering-minecraft-the-best-practices-to-record-gameplay-for-2024/"><u>[Updated] Mastering Minecraft The Best Practices to Record Gameplay for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-pursuing-prolonged-iphone-night-sky-captures/"><u>[Updated] Pursuing Prolonged iPhone Night Sky Captures</u></a></li>
+<li><a href="https://windows11.techidaily.com/effective-techniques-for-deleting-hyperlinks-within-microsoft-excel-worksheets/"><u>Effective Techniques for Deleting Hyperlinks Within Microsoft Excel Worksheets</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effortlessly-snip-your-screen-two-ultimate-techniques-for-taking-screenshots-on-an-hp-laptop-or-desktop/"><u>Effortlessly Snip Your Screen: Two Ultimate Techniques for Taking Screenshots on an HP Laptop or Desktop</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhanced-microsoft-excel-python-interpreter-latest-upgrade-improvements/"><u>Enhanced Microsoft Excel Python Interpreter: Latest Upgrade Improvements</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-clarity-in-ms-excel-visualizations-how-to-title-your-x-and-y-axes-effectively/"><u>Enhancing Clarity in MS Excel Visualizations - How to Title Your X & Y Axes Effectively</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-tips-for-effective-searches-with-vlookup-functionality-in-microsoft-excel-sheets/"><u>Expert Tips for Effective Searches with VLOOKUP Functionality in Microsoft Excel Sheets</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-the-capabilities-of-function-keys-in-microsoft-excel-a-comprehensive-guide/"><u>Exploring the Capabilities of Function Keys in Microsoft Excel: A Comprehensive Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-the-versatility-of-hyperlink-in-excel-6-essential-applications/"><u>Exploring the Versatility of Hyperlink in Excel: 6 Essential Applications</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/section-2a-understanding-interneurons/"><u>Section 2A: Understanding Interneurons</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-next-gen-virtual-reality-experience-psvr-amidst-news-on-release-price-points-and-technical-specifications/"><u>The Next-Gen Virtual Reality Experience: PSVR Amidst News on Release, Price Points, and Technical Specifications</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-13-pro-max-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://win-guides.techidaily.com/understanding-http-404-errors-dealing-with-page-not-found-messages-online/"><u>Understanding HTTP 404 Errors: Dealing with 'Page Not Found' Messages Online</u></a></li>
 </ul></div>
 

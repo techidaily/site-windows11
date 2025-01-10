@@ -1,7 +1,7 @@
 ---
 title: Configuring Your Internet Gateway in Win 11
-date: 2024-08-08T05:57:27.562Z
-updated: 2024-08-09T05:57:27.562Z
+date: 2025-01-05T18:22:44.506Z
+updated: 2025-01-10T18:50:05.921Z
 tags:
   - windows10
   - windows11
@@ -35,12 +35,13 @@ thumbnail: https://thmb.techidaily.com/a50833de398a016d5f4384db8ba343a7a22c031d1
 
  Lastly, [residential proxies](https://www.makeuseof.com/what-is-a-residential-proxy/) are hosted on computers and smartphones. They are the most secure and reliable example of proxy servers. You can use them for web scrapping, social media marketing, bypassing geo-blocking, or any other operation requiring high anonymity.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Various Ways to Check Your Proxy Server Settings on Windows 11
 
  There are various methods to check your proxy server settings on Windows 11\. Let's explore each of them in detail.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. How to Check Your Proxy Server Settings Using the Settings App
 
@@ -49,16 +50,10 @@ thumbnail: https://thmb.techidaily.com/a50833de398a016d5f4384db8ba343a7a22c031d1
 1. Press **Win + I** to open the Settings app.
 2. Choose **Network & interne**t from the left sidebar and **Proxy** from the right pane.
 3. Click the **Set up** button next to **Use a proxy server**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Set up button in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/set-up-button.jpg)
 
  You'll see the proxy server details in the **Edit proxy server** window that crops up.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. How to Check Your Proxy Server Settings Using Internet Options
 
  The Internet Options menu on Windows allows you to configure internet-related settings on your computer. To view your proxy server settings, follow the below instructions:
@@ -70,15 +65,13 @@ thumbnail: https://thmb.techidaily.com/a50833de398a016d5f4384db8ba343a7a22c031d1
  You'll get the details of your proxy server in the **Proxy Server** section.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Check Your Proxy Server Settings Using Different Browsers
 
  You also use your browser to view your proxy server settings. To check in Google Chrome, type **chrome://net-internals/#proxy** in the address bar and press **Enter**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![Proxy checking command in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/proxy-checking-command.jpg)
 
  In Microsoft Edge, type **edge: //net-internals/#proxy** and hit **Enter**.
@@ -86,6 +79,10 @@ thumbnail: https://thmb.techidaily.com/a50833de398a016d5f4384db8ba343a7a22c031d1
  And to check in Mozilla Firefox, type **about:preferences#advanced** in the URL bar and press **Enter**. Then, scroll down and click the **Settings** button next to **Configure how Firefox connects to the internet**.
 
 ![Connections server section in Firefox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/connections-server.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  A **Connection Settings** window will crop up where you can view and configure the proxy server settings.
 
@@ -99,6 +96,10 @@ thumbnail: https://thmb.techidaily.com/a50833de398a016d5f4384db8ba343a7a22c031d1
 
 ![Command Prompt with command to check proxy server settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/command-prompt-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To check your proxy server settings using PowerShell, launch Windows PowerShell as an administrator (see how to [run Windows PowerShell with administrative rights](https://www.makeuseof.com/windows-11-powershell-administrator/)), type the following command, and hit **Enter**.
 
 `Get-ItemProperty -Path 'HKCU:\Software\Microsoft\Windows\CurrentVersion\Internet Settings' | findstr ProxyServer`
@@ -108,13 +109,18 @@ thumbnail: https://thmb.techidaily.com/a50833de398a016d5f4384db8ba343a7a22c031d1
  PowerShell will display the proxy server details in the result.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Reset the WinHTTP Proxy Settings
 
  WinHTTP or Windows HTTP Services allows the desktop applications and Windows services to communicate with the HTTP server. However, there may be times when you need to reset the WinHTTP proxy.
 
  If you face connectivity issues when updating Windows or using Microsoft Store or other UWP apps, try resetting the WinHTTP proxy. Here are the methods to do that.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Reset the WinHTTP Proxy Settings Using Command Prompt
 
@@ -122,16 +128,10 @@ thumbnail: https://thmb.techidaily.com/a50833de398a016d5f4384db8ba343a7a22c031d1
 
 `netsh winhttp reset proxy`
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![Direct access (no proxy server) message in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/direct-access-no-proxy-server.jpg)
 
  Once the command is successfully executed, you will see a message that says **Direct access (no proxy server)**.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Reset the WinINET Proxy Settings Using Internet Options
 
  Most UWP apps use the WinINET library instead of WinHTTP. So, to reset the WinINET proxy using the Internet Options, follow these steps:
@@ -141,6 +141,10 @@ thumbnail: https://thmb.techidaily.com/a50833de398a016d5f4384db8ba343a7a22c031d1
 3. Check the **Automatically detect settings** box.
 4. Uncheck the **Use a proxy server for your LAN (These settings will not apply to dial-up or the VPN connection)** box. Then, click **OK** to save the changes.  
 ![Automatically detect settings box in Internet Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/automatically-detect-settings-box.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You've successfully reset the WinINET proxy.
 
@@ -152,39 +156,21 @@ thumbnail: https://thmb.techidaily.com/a50833de398a016d5f4384db8ba343a7a22c031d1
 
 ## FAQ
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Q: Does Windows 11 Have a Proxy Server?
 
  Windows 11 doesn't come with a proxy server built-in, but you can [add your own server](https://www.makeuseof.com/tag/create-online-proxy-server-minutes/) settings to route your internet traffic via your proxy. You can configure a proxy server on your PC using the Settings app.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ### Q: Should I Set Proxy On or Off?
 
  Whether to enable or disable your proxy server depends on how you want to access the internet. If you want to route your internet data via a proxy server, you should keep the option enabled on your PC. If you don't want to route your internet traffic, you can [turn off your proxy server](https://www.makeuseof.com/windows-11-disable-proxy/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Q: Are Proxy Servers Safe?
 
  There are both good as well as bad [proxy servers out there](https://www.makeuseof.com/tag/best-free-online-proxy-server/). As long as you get your proxy server from a trusted company, your data should be safe with it. You shouldn't trust any random proxy server on the web.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -192,4 +178,19 @@ Key features:
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-revolutionize-your-snapchat-with-smart-boomerangs/"><u>[New] In 2024, Revolutionize Your Snapchat with Smart Boomerangs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tips-and-tricks-for-professional-audio-in-audacity/"><u>[New] Tips and Tricks for Professional Audio in Audacity</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-safe-techniques-for-extracting-and-converting-youtube-audio-into-mp3/"><u>[Updated] 2024 Approved Safe Techniques for Extracting and Converting YouTube Audio Into MP3</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-get-your-editing-mojo-back-with-this-final-cut-pro-overview-for-2024/"><u>[Updated] Get Your Editing Mojo Back with This Final Cut Pro Overview for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-ultimate-audio-and-video-showcase-excellent-webcams-for-podcasts/"><u>[Updated] Ultimate Audio & Video Showcase Excellent Webcams for Podcasts</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-voice-typing-malfunction-error-code-0x80049dd3-on-windows-11/"><u>Fixing Voice Typing Malfunction (Error Code: 0X80049DD3) on Windows 11</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-the-complete-playbook-for-instagram-revenue-generation/"><u>In 2024, The Complete Playbook for Instagram Revenue Generation</u></a></li>
+<li><a href="https://windows11.techidaily.com/integrating-dns-client-service-in-windows-11-with-precision/"><u>Integrating DNS Client Service in Windows 11 with Precision</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-guide-to-inspecting-windows-11-history/"><u>Mastery Guide to Inspecting Windows 11 History</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-to-rectify-non-registered-hdds/"><u>Techniques to Rectify Non-Registered HDDs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-easy-guide-to-enhancing-images-via-iphone-cropping/"><u>The Easy Guide to Enhancing Images via iPhone Cropping</u></a></li>
+</ul></div>
 

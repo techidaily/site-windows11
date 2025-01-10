@@ -1,7 +1,7 @@
 ---
 title: Cutting-Edge Windows 11 Shortcut Personalization Techniques
-date: 2024-08-08T05:55:42.522Z
-updated: 2024-08-09T05:55:42.522Z
+date: 2025-01-04T20:29:58.969Z
+updated: 2025-01-10T18:07:02.946Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/da7fa3270346efb8a59ee9a2227fafe39fab3e809
 
  As a result, it’s better to check out some of the third-party keyboard shortcut software packages for Windows 11\. WinHotKey and HotkeyP are among those apps that enable you to set up keyboard shortcuts for your favorite software, documents, and folders. This is how you can set up custom hotkeys with WinHotKey and HotkeyP.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Download and Install WinHotKey
 
  WinHotKey is a freely available app for setting up new keyboard shortcuts. That software is compatible with most Windows desktop platforms as well. It has a quick and easy setup and takes up very little drive storage space. You can download and install WinHotKey as follows.
@@ -30,26 +34,26 @@ thumbnail: https://thmb.techidaily.com/da7fa3270346efb8a59ee9a2227fafe39fab3e809
 4. Double-click the WinHotKey setup wizard to open its window.  
 ![The WinHotKey setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/WinHotKey-setup-wizard.png)
 5. Select the **Next** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click the **I accept the agreement** radio button, and press the **Next** button again.
 7. Press the **Browse** button to choose an installation folder.  
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Browse button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/The-Browse-button.png)
 8. Select the **Next** option to install the software.
 9. After installing, select the option to set up a WinHotKey desktop shortcut. Then you can click that shortcut to launch the software.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Set Up Software Hotkeys
 
  The WinHotKey Configuration includes a list of [default Windows hotkeys](https://www.makeuseof.com/tag/windows-shortcuts-101-ultimate-keyboard-shortcut-guide/). However, you can’t edit those default keyboard shortcuts in any way. What you can do is add new custom hotkeys for opening software to that list. You can set up new custom keyboard shortcuts for launching software like this.
 
 1. Press the **New Hotkey** button at the top left of the WinHotKey Configuration window.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The WinHotKey Configuration window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/winhotkey-configuration-window.png)
 2. Type an optional description for the hotkey in the text box on the **General** tab if you wish.
 3. Select the **Launch an application** option on the drop-down menu.
@@ -57,16 +61,22 @@ thumbnail: https://thmb.techidaily.com/da7fa3270346efb8a59ee9a2227fafe39fab3e809
 ![The Browse for application window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/browse-for-application-window.png)
 5. Select an app for the hotkey to launch.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Click the **OK** button.
 2. Now select a keyboard key for the shortcut on the **Along with the key** drop-down menu.  
 ![Along with the key drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/along-with-the-key-drop-down-menu.png)
 3. You can also select additional keys for the hotkey by clicking the **Alt**, **Shift**, and **Ctrl** checkboxes. The Windows checkbox is selected by default, but you can deselect that option.
 4. To further configure the keyboard shortcut, click the **Advanced** button. You can enter additional parameters and change how the software window opens on the Launch: Advanced window.  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The Launch: Advanced window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/launch-advanced-window.png)
 5. Click the **OK** button to exit the Launch: Advanced window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Then press the **OK** button on the New Hotkey window to add the keyboard shortcut.
 
  Thereafter, the WinHotKey Configuration window will include your custom hotkey.
@@ -87,8 +97,9 @@ thumbnail: https://thmb.techidaily.com/da7fa3270346efb8a59ee9a2227fafe39fab3e809
 * Optimize Drives: dfrgui
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Set Up Folder, Document, and Window Control Hotkeys
 
  Aside from software shortcuts, you can establish hotkeys for opening folders and document files much the same. Instead of selecting **Launch an Application** on the New Hotkey window, select either the **Open a Folder** or **Open a Document** option. Then click **Browse** to select a document’s or folder’s path, configure a key combination, and press the **OK** button.
@@ -104,18 +115,6 @@ thumbnail: https://thmb.techidaily.com/da7fa3270346efb8a59ee9a2227fafe39fab3e809
 1. Bring up the [HotkeyP Softpedia page](https://www.softpedia.com/get/System/OS-Enhancements/HotkeyP.shtml).
 2. Click HotkeyP’s **Free Download** button.
 3. Select **External Mirror – X64** to download the ZIP file. A Sourceforce page will open from which HotkeyP will automatically download.  
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Extract Compressed tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/extract-compressed-zip-folder.jpg)
 4. Double-click **HotkeyP.exe** file inside the extracted **hotkeyp\_64bit** directory.
 
@@ -137,16 +136,10 @@ thumbnail: https://thmb.techidaily.com/da7fa3270346efb8a59ee9a2227fafe39fab3e809
 
  To set up some system, multimedia, window, and display hotkeys with HotkeyP, click the **<** button on the Hot Key window. Move your cursor over the **Windows**, **Display**, **Multimedia**, or **System** submenu. Select a function (or action) to assign to the hotkey. For example, you can [set up a hotkey that shuts down Windows](http://www.makeuseof.com/tag/how-to-shutdown-or-sleep-windows-10-with-a-keyboard-shortcut/) by selecting **Shutdown** on the **System** menu.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The Shutdown option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-shutdown-option.jpg)
 
  You can change general software settings for HotkeyP by clicking the **Options** button. That will bring up an Options window that includes numerous miscellaneous software. Make sure the **Start automatically at Windows startup** checkbox is selected on the **General** tab. Then HotKeyP will automatically start in the background.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![The Start automatically checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-start-automatically-checkbox.jpg)
 
 ## Set Up All the Windows Software HotKeys You Need With WinHotKey
@@ -155,12 +148,30 @@ thumbnail: https://thmb.techidaily.com/da7fa3270346efb8a59ee9a2227fafe39fab3e809
 
  As a result, it’s better to check out some of the third-party keyboard shortcut software packages for Windows 11\. WinHotKey and HotkeyP are among those apps that enable you to set up keyboard shortcuts for your favorite software, documents, and folders. This is how you can set up custom hotkeys with WinHotKey and HotkeyP.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-cutting-edge-design-inspirations-for-distinctive-tiktok-presence/"><u>[New] 2024 Approved Cutting-Edge Design Inspirations for Distinctive TikTok Presence</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-enrich-your-screen-time-integrating-facebook-live-into-roku/"><u>[New] 2024 Approved Enrich Your Screen Time Integrating Facebook LIVE Into Roku</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-from-youtube-to-igtv-top-methods-unveiled/"><u>[New] From YouTube to IGTV Top Methods Unveiled</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cod-modern-warfare-fps-comprehensive-update-for-smooth-gaming/"><u>COD: Modern Warfare FPS - Comprehensive Update for Smooth Gaming</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/easy-and-professional-transform-any-picture-collection-into-a-mac-compatible-photo-album-using-flipbuilders-image-mac-converter/"><u>Easy and Professional: Transform Any Picture Collection Into a Mac-Compatible Photo Album Using FlipBuilder's Image Mac Converter!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-technology-with-tom-the-ultimate-hardware-guide/"><u>Exploring Technology with Tom - The Ultimate Hardware Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-epson-wf-3520-software-drivers-compatible-with-windows-pcs/"><u>Get the Newest Epson WF-3520 Software Drivers Compatible with Windows PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-for-reviving-your-windows-11-password/"><u>Methods for Reviving Your Windows 11 Password</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-common-pin-hurdles-in-modern-windows-os-win10win11/"><u>Navigating Common PIN Hurdles in Modern Windows OS (Win10/Win11)</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-chrome-setup-in-windows-11-systems/"><u>Seamless Chrome Setup in Windows 11 Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/transforming-old-drives-step-by-step-for-windows-rejuvenation/"><u>Transforming Old Drives: Step-by-Step for Windows Rejuvenation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/uncovering-your-macs-secret-a-step-by-step-guide-to-reveal-hidden-files-using-terminal/"><u>Uncovering Your Mac's Secret: A Step-by-Step Guide to Reveal Hidden Files Using Terminal</u></a></li>
+<li><a href="https://extra-information.techidaily.com/understanding-and-adhering-to-soundtracks-legal-requirements-on-instagram/"><u>Understanding and Adhering to Soundtracks' Legal Requirements on Instagram</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-the-mystery-of-error-code-9999-in-win-based-audacity/"><u>Unraveling the Mystery of Error Code 9999 in Win-Based Audacity</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-the-mystery-of-windows-11s-elevation-failures/"><u>Unraveling the Mystery of Windows 11’S Elevation Failures</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-watchlist-7-tasks-to-inspect-for-hidden-viruses/"><u>Windows Watchlist: 7 Tasks to Inspect for Hidden Viruses</u></a></li>
+</ul></div>
 

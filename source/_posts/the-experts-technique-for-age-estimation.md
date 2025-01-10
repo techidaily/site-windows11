@@ -1,7 +1,7 @@
 ---
 title: The Expert's Technique for Age Estimation
-date: 2025-01-01T20:33:27.150Z
-updated: 2025-01-04T04:28:48.036Z
+date: 2025-01-09T16:36:26.335Z
+updated: 2025-01-10T16:10:45.791Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/83810aeb2f4e9067a8450e307f943cc7eb4a02a55
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Use the Serial Number to Check the Warranty Status
 
@@ -58,13 +62,13 @@ thumbnail: https://thmb.techidaily.com/83810aeb2f4e9067a8450e307f943cc7eb4a02a55
 wmic bios get serial number
 4. The output will display your device's serial number. Use the same to check your device's warranty status and more using the steps in the first method.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Check the BIOS Version Using the System Information Utility
 
 ![system information bios version details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-information-bios-version-details.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you need to know the manufacturing date, check the BIOS version. You can [use the System Information utility on Windows to check the BOS version](https://www.makeuseof.com/windows-11-check-system-information/), including the date it was installed.
 
@@ -76,6 +80,10 @@ wmic bios get serial number
 
 ![command prompt check bios version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/command-prompt-check-bios-version.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also view the BIOS version using Command Prompt. [Open Command Prompt](https://www.makeuseof.com/windows-11-open-command-prompt/) and type the following command. Press Enter to execute.
 
 systeminfo.exe
@@ -83,10 +91,6 @@ systeminfo.exe
  The above command will execute the system information command-line version and show all the essential details of your computer. Locate the BIOS Version entry and check the date.
 
  Important to note that if your system has received a BIOS update, the date will reflect the latest update date and not the manufacturer date.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Check the Windows Installation Method Using the Command Prompt
 
@@ -100,17 +104,9 @@ systeminfo | find /I "install date"
 
  The command will filter and only display the original install date from the System Information summary page.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Check Your CPU Details
 
 ![task manager cpu details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/task-managar-cpu-details.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Another way to get a rough idea about your laptop's age is to check the CPU's make. Some laptops have a CPU and GPU sticker near the trackpad. If no sticker is found, you can use the Task Manager utility to check the CPU model.
 
@@ -121,7 +117,7 @@ systeminfo | find /I "install date"
 ![Hp support assistant battery health](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/hp-support-assistant-battery-health.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Laptop manufacturers like HP, Dell, Lenovo, and Asus offer free applications to maintain your devices. For example, HP's Support Assistant lets you access your product information, including model name, product ID, serial number, and Warranty Status.
@@ -133,6 +129,10 @@ systeminfo | find /I "install date"
  You can use the above method to identify the age of a factory-built desktop computer. However, the same doesn't apply to a custom-built PC.
 
  You can run the System Information utility on the PC to extract CPU, GPU, memory, storage drive, and network component information. For everything else, you'll need to perform a manual inspection to find the serial number and see the condition.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The PC Components or Laptop Age is Not Everything
 
@@ -155,20 +155,24 @@ systeminfo | find /I "install date"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-top-tier-funny-editing-tool/"><u>[New] In 2024, Top-Tier Funny Editing Tool</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-critical-asmr-video-elements-to-note/"><u>[Updated] In 2024, Critical ASMR Video Elements to Note</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-elevate-your-brand-with-these-essential-fb-strategies-for-all/"><u>[Updated] In 2024, Elevate Your Brand with These Essential FB Strategies (for All)</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/best-audio-modification-methods-for-youtube-stars-for-2024/"><u>Best Audio Modification Methods for YouTube Stars for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/blur-the-scene-expert-tips-for-hiding-distractions-during-google-meets/"><u>Blur the Scene: Expert Tips for Hiding Distractions During Google Meets</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/cpu-face-off-determining-the-superiority-between-amd-and-intel-chips/"><u>CPU Face-Off: Determining the Superiority Between AMD and Intel Chips</u></a></li>
-<li><a href="https://windows11.techidaily.com/create-a-convenient-windows-environment-portable-software-icons/"><u>Create a Convenient Windows Environment: Portable Software Icons</u></a></li>
-<li><a href="https://article-files.techidaily.com/harnessing-lightrooms-power-for-spectacular-hdr-results/"><u>Harnessing Lightroom's Power for Spectacular HDR Results</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-hevc-h-265-files-on-moto-g84-5g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How do you play HEVC/H.265 files on Moto G84 5G?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-tecno-spark-10-4g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Tecno Spark 10 4G Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-new-territory-altering-default-app-choices-in-windows-11/"><u>Navigating New Territory: Altering Default App Choices in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/reimagining-fn-key-usage-within-windows-11-platform/"><u>Reimagining FN Key Usage Within Windows 11 Platform</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-unraveling-failed-system-call-issues-in-win1011/"><u>Steps to Unraveling 'Failed System Call' Issues in Win10/11</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-storage-type-ssd-vs-hdd/"><u>Unveiling Storage Type: SSD vs HDD</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-tips-avoiding-discords-auto-start-and-update-checks/"><u>Windows Tips: Avoiding Discord's Auto-Start & Update Checks</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-tiktoks-viral-rhymes-a-guide-to-popular-rap-songs/"><u>[Updated] In 2024, TikTok's Viral Rhymes A Guide to Popular Rap Songs</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-samsung-galaxy-xcover-7-frp-bypass-by-drfone-android/"><u>About Samsung Galaxy XCover 7 FRP Bypass</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/elevate-views-prime-seo-equipment-for-videos-for-2024/"><u>Elevate Views Prime SEO Equipment for Videos for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-the-brilliance-of-the-google-pixel-3xl-a-new-era-for-android-enthusiasts/"><u>Exploring the Brilliance of the Google Pixel 3XL: A New Era for Android Enthusiasts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fascinating-topic-titling-system-for-2024/"><u>Fascinating Topic Titling System for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/guiding-users-through-privilege-related-setup-hiccups/"><u>Guiding Users Through Privilege-Related Setup Hiccups</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-realme-11-proplus-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Realme 11 Pro+ Phone Screen?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/modify-winterrals-theme-picture/"><u>Modify WinTerral's Theme Picture</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-windows-11s-bluetooth-connectivity-glitches-expert-advice/"><u>Overcome Windows 11'S Bluetooth Connectivity Glitches: Expert Advice</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fixes-to-overcome-the-errortoomanypatterns-in-wsl/"><u>Quick Fixes to Overcome the ERROR_TOO_MANY_PATTERNS in WSL</u></a></li>
+<li><a href="https://windows11.techidaily.com/razer-synapse-issues-step-by-step-troubleshooting-for-w11w10/"><u>Razer Synapse Issues: Step-by-Step Troubleshooting for W11/W10</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-unsuccessful-discord-updates-for-windows-users/"><u>Resolving Unsuccessful Discord Updates for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-windows-printer-service-offline-errors/"><u>Resolving Windows Printer Service Offline Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/seven-strong-points-that-make-windows-10-preferable-over-win11/"><u>Seven Strong Points That Make Windows 10 Preferable over Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-art-of-note-management-on-obsidian-canvas/"><u>The Art of Note Management on Obsidian Canvas</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210192621-9781614483328-the-lightworkers-healing-method/"><u>The Lightworkers Healing Method | Free Book</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-ultimate-mac-video-editor-mkvtoolnix-features-and-benefits-2023/"><u>Updated In 2024, The Ultimate Mac Video Editor MKVtoolnix Features and Benefits 2023</u></a></li>
+<li><a href="https://windows11.techidaily.com/voice-commands-mastery-keyboard-shortcut-compendium-on-win-11/"><u>Voice Commands Mastery: Keyboard Shortcut Compendium on Win 11</u></a></li>
 </ul></div>
 

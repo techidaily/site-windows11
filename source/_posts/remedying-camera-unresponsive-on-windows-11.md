@@ -1,7 +1,7 @@
 ---
 title: Remedying Camera Unresponsive on Windows 11
-date: 2024-12-28T00:36:52.241Z
-updated: 2025-01-04T00:52:40.575Z
+date: 2025-01-05T18:13:41.468Z
+updated: 2025-01-10T18:29:23.231Z
 tags:
   - windows10
   - windows11
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Apply Some Preliminary Checks
 
  Start diagnosing the problem by applying the following preliminary checks first, as they may resolve the issue immediately:
@@ -38,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
 
  If none of the above checks help resolve the error, move on to the main fixes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Ensure the External Camera Is Properly Connected
 
 ![Logitech webcam on monitor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/logitech-webcam-on-monitor.jpg)
@@ -51,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
  Also, you can unplug the cable from the port the camera is currently connected to and connect it to another port to eliminate issues with its port. Likewise, you should disconnect and reconnect the camera from your device to ensure it's not a temporary glitch causing the error under discussion.
 
  If the above tweaks don't fix the issue or you're experiencing the error on a laptop featuring an integrated webcam, move on to the next step.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Ensure That the Camera Isn't Disabled in Windows Settings
 
@@ -69,17 +65,21 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
 4. If the primary camera is disabled here, click the **Enable** button to enable it again.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Enable the Camera in the Bluetooth and Devices Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/2-enable-the-camera-in-the-bluetooth-and-devices-tab-of-the-windows-settings-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In case the camera is already enabled, continue to the next step.
 
  If no camera is listed under **Connected cameras**, the system has failed to detect any camera on your device. If that is the case, recheck the camera connection.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Run the Camera and Microsoft Store Apps Troubleshooters
@@ -88,13 +88,13 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
 
 ![The Camera troubleshooting window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/camera-troubleshooter-window.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Windows also offers another troubleshooter called Windows Store Apps, which helps scan and fix problems with Microsoft Store apps (formerly known as Windows Store). Since the Camera app is a Microsoft Store app, running this troubleshooter might also help resolve issues with it.
 
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-windows-store-apps-troubleshooter.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Therefore, follow our guide on [how to run any troubleshooter in Windows 10 and 11](https://www.makeuseof.com/run-troubleshooter-windows-10-11/) to run the Camera and Windows Store Apps troubleshooter.
 
@@ -114,13 +114,13 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
 
 ![Update the Relevant Camera Driver From Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/4-update-the-relevant-camera-driver-from-windows-device-manager.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If updating the driver doesn't help, right-click on the driver again and choose **Uninstall device**. Then, restart your device, and Windows will install the most recent driver for you.
 
 ![Uninstall the Camera Driver From Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/5-uninstall-the-camera-driver-from-windows-device-manager.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Roll back the driver update if you have encountered the issue under discussion after updating the driver. To do so, right-click the driver and select **Properties**. Navigate to the **Driver** tab and click **Roll Back Driver**.
 
@@ -152,22 +152,14 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-monetization-verification-maximizing-streamer-incomes/"><u>[New] 2024 Approved Monetization Verification Maximizing Streamer Incomes</u></a></li>
-<li><a href="https://windows11.techidaily.com/bring-forth-the-forgotten-floppy-drive-sdds-in-winos/"><u>Bring Forth the Forgotten Floppy Drive, SDDs in WinOS</u></a></li>
-<li><a href="https://windows11.techidaily.com/disabling-windows-watcher-functionality/"><u>Disabling Windows Watcher Functionality</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/fresh-filmmakers-footnotes-unveiling-video-quality-terms/"><u>Fresh Filmmaker's Footnotes Unveiling Video Quality Terms</u></a></li>
-<li><a href="https://article-helps.techidaily.com/ideal-image-to-animation-suite-for-macwindows-users-for-2024/"><u>Ideal Image-to-Animation Suite for Mac/Windows Users for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-14-pro-drfone-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-lava-blaze-curve-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Lava Blaze Curve 5G to Mac? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-poco-m6-pro-5g-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Poco M6 Pro 5G Through Google Earth?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-tecno-phantom-v-fold-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Tecno Phantom V Fold Phone Pattern Lock</u></a></li>
-<li><a href="https://windows11.techidaily.com/lock-it-down-steps-to-activate-windows-controlled-access/"><u>Lock It Down: Steps to Activate Window’s Controlled Access</u></a></li>
-<li><a href="https://windows11.techidaily.com/pro-level-text-workflow-unleash-the-power-of-snipping-tool-on-win-11/"><u>Pro-Level Text Workflow: Unleash the Power of Snipping Tool on Win 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/reshaping-administration-workflow-in-the-windows-ecosystem/"><u>Reshaping Administration Workflow in the Windows Ecosystem</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-windows-update-issues-0xca00a009/"><u>Streamlining Windows Update Issues: 0XCA00A009</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-the-net-requirement-issue-in-windows-apps/"><u>Tackling the .NET Requirement Issue in Windows Apps</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-hidden-language-of-windows-update-identifiers/"><u>The Hidden Language of Windows Update Identifiers</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/445261-9780974470658-the-yamas-amp-niyamas/"><u>The Yamas &amp; Niyamas | Free Book</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/king-the-secrets-behind-youtube-shorts-success-for-2024/"><u>Unlocking the Secrets Behind YouTube Shorts Success for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-from-idea-to-airwaves-crafting-compelling-podcast-scripts/"><u>[New] In 2024, From Idea to Airwaves Crafting Compelling Podcast Scripts</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/he-ultimate-guide-to-student-centric-historical-yt-channels/"><u>[New] The Ultimate Guide to Student-Centric Historical YT Channels</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-elevate-your-biz-game-utilizing-snapchat-features/"><u>[Updated] 2024 Approved Elevate Your Biz Game Utilizing Snapchat Features</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/a-comprehensive-guide-to-understanding-and-utilizing-claude-erp-machine-learning-technology/"><u>A Comprehensive Guide to Understanding and Utilizing Claude Erp Machine Learning Technology</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-outlooks-restricted-folder-access-on-desktop-computers/"><u>Fixing Outlook's Restricted Folder Access on Desktop Computers</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Xiaomi Redmi Note 12 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/safe-journey-in-windows-11-the-top-8-slippery-slope/"><u>Safe Journey in Windows 11: The Top 8 Slippery Slope</u></a></li>
+<li><a href="https://windows11.techidaily.com/upgrade-video-quality-from-yesteryears-using-madvr-windows-edition/"><u>Upgrade Video Quality From Yesteryears Using MadVR, Windows Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-the-game-of-cutting-top-8-video-edits-for-pc/"><u>Winning the Game of Cutting: Top 8 Video Edits for PC</u></a></li>
 </ul></div>
 

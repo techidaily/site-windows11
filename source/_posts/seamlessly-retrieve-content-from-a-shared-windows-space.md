@@ -1,7 +1,7 @@
 ---
 title: Seamlessly Retrieve Content From a Shared Windows Space
-date: 2024-12-28T04:34:53.978Z
-updated: 2025-01-03T20:57:51.535Z
+date: 2025-01-07T21:16:40.477Z
+updated: 2025-01-10T23:30:27.069Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/f93e229fc5f13225e3ec37018bd561a2847508d52
 
  If all your devices are on the same network, check if your Wi-Fi router is functioning properly or experiencing issues.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Ask the Owner to Change the Permissions
 
  While setting up a shared folder, Windows allows you to set custom permissions, such as allowing or denying full control, read and write permissions, etc.
@@ -50,16 +54,8 @@ thumbnail: https://thmb.techidaily.com/f93e229fc5f13225e3ec37018bd561a2847508d52
 ![Shared Folder Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/shared-folder-context-menu.jpg)
 3. In the**Properties** window, click on**Sharing > Advanced Sharing** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Sharing Folder Sharing Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sharing-folder-sharing-options.jpg)
 4. Click**Permissions** to edit all the sharing permissions. If you have not allowed**Everyone** to access the files, make sure to click**Add...** and add the user manually.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Edit the permissions as needed, and then click**OK** to apply the changes.
 
@@ -77,16 +73,24 @@ Follow this step-by-step guide to restart the networking services:
 ![Services App In Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/services-app-in-windows-search.jpg)
 2. Choose**Open** to launch the Services app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Find the**Function Discovery Provider Host** service and right-click on it.
 4. Select**Restart** from the context menu that appears.  
 ![Services App On Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/services-app-on-windows.jpg)
 5. Repeat the same procedure (right-click and select**Restart**) with the following services, one by one:**Network Connections** **SSDP Discovery** **TCP/IP NetBIOS Helper** **UPnP Device Host**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  These services are responsible for various networking functions on Windows. Restarting them can help resolve issues that may be causing problems with accessing shared folders.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Turn on Network Discovery in Windows Settings
 
@@ -100,20 +104,20 @@ To turn on Network discovery, follow these steps:
 3. On the left-hand pane, click**Change advanced sharing settings** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Under**Private networks** , turn**On** the**Network discovery** option.  
 ![Windows Advanced Sharing Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-advanced-sharing-settings.jpg)
 5. Turn**On** the**File and printer sharing** option as well.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you want to disable login abilities for accessing the shared folder, toggle**Password protected sharing** to**Off** .
 
  Once you change these settings, you should have no trouble getting access to shared folders.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Check the Windows Firewall Settings
 
@@ -152,10 +156,6 @@ Here's how to reset the network settings on Windows:
 
  This command is helpful in solving many common networking issues, such as when your computer fails to connect to a network or when the internet connection is not stable. So, the next time you face a network-related error, you now have a handy command for troubleshooting.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Troubleshooting Shared Folders on Windows
 
  Hopefully, you have fixed the shared folder access problems by now. If not, it's possible there is a deeper issue with your network or the configuration of your server. In such cases, it's best to seek help from a technical support professional.
@@ -175,19 +175,17 @@ Here's how to reset the network settings on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-harnessing-youtubes-power-for-maximum-earnings-via-adsense/"><u>[New] 2024 Approved Harnessing YouTube's Power for Maximum Earnings via AdSense</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-a-step-by-step-guide-to-outstanding-color-grading-top-11/"><u>[New] A Step-by-Step Guide to Outstanding Color Grading (Top 11)</u></a></li>
-<li><a href="https://windows11.techidaily.com/5-key-steps-to-resolve-hypervisor-error-bsod-in-winos/"><u>5 Key Steps to Resolve Hypervisor Error BSOD in WINOS</u></a></li>
-<li><a href="https://windows11.techidaily.com/adopting-a-black-background-on-windows-calculator/"><u>Adopting a Black Background on Windows Calculator</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/astrological-flair-crafting-bios-for-each-zodiac-house-for-2024/"><u>Astrological Flair Crafting Bios for Each Zodiac House for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/beneath-radar-outstanding-windows-11-customization/"><u>Beneath Radar: Outstanding Windows 11 Customization</u></a></li>
-<li><a href="https://windows11.techidaily.com/converting-batch-files-into-executable-formats-on-pcs/"><u>Converting Batch Files Into Executable Formats on PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/deciphering-windows-blue-screen-code-0x0000003b-breakdown-and-fixes/"><u>Deciphering Windows Blue Screen: Code 0X0000003B Breakdown & Fixes</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/effortless-guide-transforming-mkv-files-into-compact-flv-format-in-minutes/"><u>Effortless Guide: Transforming MKV Files Into Compact FLV Format in Minutes</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-15-pro-max-with-7-methods-drfone-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone 15 Pro Max With 7 Methods | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Honor X7b | Dr.fone</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/premiere-pro-202n-crashes-resolved-fix-your-hanging-issues-now/"><u>Premiere Pro 202N Crashes Resolved - Fix Your Hanging Issues Now</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-allure-of-the-ice-a-critical-look-at-nhl-19s-web-based-gameplay/"><u>The Allure of the Ice: A Critical Look at NHL '19’S Web-Based Gameplay</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722958150228-wind-speeds-over-5msec-are-generally-not-recommended-during-the-concrete-curing-period/"><u>Wind Speeds over 5M/Sec Are Generally Not Recommended During the Concrete Curing Period</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-how-to-download-youtube-srt-subtitles-with-3-actionable-ways-in-2024/"><u>[New] How to Download YouTube SRT Subtitles with 3 Actionable Ways, In 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastered-listings-top-8-free-uhd-video-players-cross-platform-for-windows-pcandmac/"><u>2024 Approved Mastered Listings - Top 8 FREE UHD Video Players (Cross-Platform) for Windows PC&Mac</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-guide-installing-new-hp-printer-drivers-for-windows-11-systems/"><u>Easy Guide: Installing New HP Printer Drivers for Windows 11 Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/fix-or-send-handling-xbox-series-x-issues/"><u>Fix or Send? Handling Xbox Series X Issues</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-oppo-find-x6-devices-by-drfone-android/"><u>How to Reset Gmail Password on Oppo Find X6 Devices</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-poco-x6-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Poco X6 FRP Locks</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Realme Narzo N53? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-over-window-colors-and-style-in-terminal/"><u>Mastery over Window Colors & Style in Terminal</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-windows-11-install-quick-keyboard-shortcuts/"><u>Navigating Windows 11: Install Quick Keyboard Shortcuts</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-common-hurdles-in-launching-obs-windows/"><u>Overcoming Common Hurdles in Launching OBS (Windows)</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-address-non-definable-values-in-winos/"><u>Strategies to Address Non-Definable Values in WinOS</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-and-repair-graphics-driver-crashed-errors-in-valorant-fast/"><u>Troubleshoot and Repair 'Graphics Driver Crashed' Errors in Valorant Fast</u></a></li>
 </ul></div>
 

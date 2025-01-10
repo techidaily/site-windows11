@@ -1,7 +1,7 @@
 ---
 title: Navigating Without PowerShell on Windows System
-date: 2024-12-28T20:02:13.628Z
-updated: 2025-01-03T17:48:15.820Z
+date: 2025-01-08T23:17:03.144Z
+updated: 2025-01-10T16:49:49.820Z
 tags:
   - windows10
   - windows11
@@ -39,11 +39,11 @@ thumbnail: https://thmb.techidaily.com/6fd0cef62e823c305fb86e64196b6559e3c33c787
 8. Click**OK** to save the changes.  
 ![Enable PowerShell on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Enable-PowerShell-on-Windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Restart your computer after this (see[how to restart a Windows computer](https://www.makeuseof.com/windows-restart-methods/) ) and then try to launch PowerShell using the search menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Launch PowerShell Using Run Command or File Explorer
 
@@ -52,14 +52,10 @@ thumbnail: https://thmb.techidaily.com/6fd0cef62e823c305fb86e64196b6559e3c33c787
 ![Open PowerShell via Run Command on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-PowerShell-via-Run-Command-on-Windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also open PowerShell from the File Explorer address bar. To do so, press**Win + E** to open File Explorer. Type**PowerShell** in the address bar and press**Enter** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Create a Desktop Shortcut for PowerShell
 
@@ -73,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/6fd0cef62e823c305fb86e64196b6559e3c33c787
 ![Create Desktop Shortcut for PowerShell on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Create-Desktop-Shortcut-for-PowerShell-on-Windows.jpg)
 
  You can then use the newly created desktop shortcut to launch PowerShell. For added convenience, you can assign a keyboard shortcut to PowerShell. To learn more about this, check our guide on[how to assign keyboard shortcuts to programs in Windows](https://www.makeuseof.com/windows-keyboard-shortcuts-programs/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Scan Your Computer for Corrupted System Files
 
@@ -98,7 +98,7 @@ To run the SFC scan on Windows:
  Wait for the command to execute successfully, and then restart your PC. Following that, see if Windows can find PowerShell on your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Update Windows PowerShell
@@ -113,6 +113,10 @@ To update PowerShell on Windows:
 4. Type the following command and press**Enter** .  
 `winget install --id Microsoft.Powershell --source winget`  
 ![Update PowerShell on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Update-PowerShell-on-Windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Windows will download and install the most recent version of PowerShell. Following that, you should be able to access PowerShell.
 
@@ -132,10 +136,6 @@ To create a new user account on Windows, use these steps.
 ![Microsoft Account Sign-In](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Microsoft-Account-Sign-In.jpg)
 
  Sign in with your newly created account, and see if Windows can find PowerShell now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Access Windows PowerShell Again
 
@@ -158,20 +158,24 @@ To create a new user account on Windows, use these steps.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-spark-interest-everyones-free-with-our-youtube-banner-samples/"><u>2024 Approved Spark Interest - Everyone's Free With Our YouTube Banner Samples!</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/windowsmac3/"><u>最高の無料ビデオコンバーター：WindowsとMac両方に対応した人気ツールベスト3 - 使いやすさで選ぶ!</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-comprehensive-walkthrough-for-clean-booting-windows-11/"><u>A Comprehensive Walkthrough for Clean Booting Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/adding-faithful-functions-to-windows-ui-tools/"><u>Adding Faithful Functions to Windows' UI Tools</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-windows-1110-malwarebytes-functional-flaws/"><u>Addressing Windows 11/10 Malwarebytes Functional Flaws</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/advanced-tactics-preserving-the-integrity-of-whatsapp-talks-for-2024/"><u>Advanced Tactics Preserving the Integrity of WhatsApp Talks for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/breaking-through-disabled-script-barrier-4-key-techniques-to-load-ps-successfully/"><u>Breaking Through Disabled Script Barrier: 4 Key Techniques to Load PS Successfully</u></a></li>
-<li><a href="https://windows11.techidaily.com/confirm-if-your-system-is-a-win11-recipe/"><u>Confirm if Your System Is a Win11 Recipe</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/conquering-viewersphere-channels-that-rule-the-net/"><u>Conquering Viewersphere Channels that Rule the Net</u></a></li>
-<li><a href="https://windows11.techidaily.com/curing-windows-security-hiccups-in-win-11-system/"><u>Curing Windows Security Hiccups in Win 11 System</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-and-correcting-unspecified-obs-recording-glitches/"><u>Decoding and Correcting Unspecified OBS Recording Glitches</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-oppo-reno-10-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Oppo Reno 10 5GMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-interactive-overlays-redefining-experience/"><u>In 2024, Interactive Overlays Redefining Experience</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-vivo-v30-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Vivo V30 FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Vivo V29e? | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-crafting-your-own-google-vr-glasses/"><u>[Updated] 2024 Approved Crafting Your Own Google VR Glasses</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-audience-centric-video-structure-chapter-addition-for-maximum-viewership-on-youtube/"><u>[Updated] Audience-Centric Video Structure Chapter Addition for Maximum Viewership on YouTube</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-detailed-analysis-djis-raptor-4-vr-goggle-features/"><u>2024 Approved A Detailed Analysis DJi's Raptor 4 VR Goggle Features</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1723808350523-download-music-from-youtube-easily-and-quickly/"><u>Download Music From YouTube. Easily & Quickly</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1725287068195-dvdwindows-11/"><u>DVDコピーに特化したWindows 11の高度なバックアップテクニックトリプル！</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/enhancing-productivity-a-guide-to-ez-grabbers-use/"><u>Enhancing Productivity A Guide to EZ Grabber's Use</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-advice-7-innovative-fixes-for-rename-issue-in-win-11/"><u>Expert Advice: 7 Innovative Fixes for Rename Issue in Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/implementing-access-barriers-for-insiders-in-windows-11/"><u>Implementing Access Barriers for Insiders in Windows 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-honor-x50-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Honor X50 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-of-secure-file-management-using-powertoys/"><u>Mastery of Secure File Management Using PowerToys</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-imessage-on-non-ios-devices-tips-and-tricks/"><u>Navigating iMessage on Non-iOS Devices: Tips and Tricks</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-missing-update-files-issue-error-code-0x80070003-in-windows/"><u>Resolving Missing Update Files Issue (Error Code 0X80070003) in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/show-more-pins-strategies-for-start-screen/"><u>Show More Pins: Strategies for Start Screen</u></a></li>
+<li><a href="https://windows11.techidaily.com/smart-strategies-for-merging-content-on-win-11/"><u>Smart Strategies for Merging Content on Win 11</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/step-by-step-tutorial-on-self-guided-iphone-data-deletion/"><u>Step-by-Step Tutorial on Self-Guided iPhone Data Deletion</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategic-approaches-to-shutting-down-your-computer/"><u>Strategic Approaches to Shutting Down Your Computer</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/the-smart-approach-to-customer-onboarding-insights-into-automation-driving-factors-and-obstacles/"><u>The Smart Approach to Customer Onboarding: Insights Into Automation Driving Factors & Obstacles</u></a></li>
+<li><a href="https://windows11.techidaily.com/triumph-over-glitches-the-ultimate-guide-for-eradicating-error-0x800700e9-on-xbox-game-pass-and-windows-11/"><u>Triumph Over Glitches: The Ultimate Guide for Eradicating Error 0X800700E9 on Xbox Game Pass & Windows 11</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-samsung-galaxy-s21-fe-5g-2023-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Samsung Galaxy S21 FE 5G (2023).</u></a></li>
 </ul></div>
 

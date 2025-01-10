@@ -1,7 +1,7 @@
 ---
 title: Powerful Tools to Simultaneously Release Numerous Zip Archives
-date: 2025-01-01T03:37:49.862Z
-updated: 2025-01-04T00:13:24.126Z
+date: 2025-01-06T21:32:32.377Z
+updated: 2025-01-10T18:27:01.490Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/0838ac8f5f2d8f067138531cc9f4dfd905cfa9adb
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Simultaneously Extract Multiple ZIP Archives With 7-Zip
 
  7-Zip is one of the [best file compression and extraction tools](https://www.makeuseof.com/tag/the-top-3-file-compression-extraction-softwares/) for Windows. That software is freely available and widely compatible with Windows platforms dating back to 2000\. You can batch extract multiple archives to different folders with that software as follows.
@@ -33,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/0838ac8f5f2d8f067138531cc9f4dfd905cfa9adb
 2. Click **Download** for the 64-bit 7-Zip software.  
 ![The 7-Zip download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/7-zip-download-page.jpg)
 3. Click the pinned taskbar shortcut for [opening Windows File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) and go to the folder your browser downloaded 7-Zip to.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Double-click the **7z2301-x64** file.
 5. Click **Install** to install 7-Zip in the directory specified within the **Destination folder** box.
@@ -50,16 +58,12 @@ thumbnail: https://thmb.techidaily.com/0838ac8f5f2d8f067138531cc9f4dfd905cfa9adb
 ![The Extract window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-extract-window.jpg)
 6. Select **OK** to extract the selected ZIP archives.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This will extract all the selected ZIP archives to different subfolders. Those extracted subfolders will have the same names as the ZIP files you extracted. Close out of 7-Zip and then bring up the directory you selected to extract the archives in to open the extracted folders from there.
 
  The "**\*\\**" in 7-Zip’s **Extract** window means the archives get extracted to new folders. If you prefer to extract all selected archives to the same subfolder, delete the "**\*\\"** from the text box. Input a new folder name at the end of the chosen path. Then 7-Zip will batch extract all the ZIP files to the new folder added in the **Extract to** box.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Simultaneously Extract Multiple ZIP Archives With ExtractNow
@@ -74,19 +78,11 @@ thumbnail: https://thmb.techidaily.com/0838ac8f5f2d8f067138531cc9f4dfd905cfa9adb
 ![The ExtractNow Setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/extractnow-setup-window.jpg)
 6. Click **Close** to open ExtractNow.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now it's time to use the app:
 
 1. Right-click inside the ExtractNow window and select **Add archives**.  
 ![The Add archives option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/add-archives-option.jpg)
 2. Select multiple ZIP archives by holding the **Ctrl** key and clicking **Open**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. Click **Extract** to unzip the ZIP files.  
 ![The Extract option in ExtractNow](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/extract-button4.jpg)
@@ -95,7 +91,7 @@ thumbnail: https://thmb.techidaily.com/0838ac8f5f2d8f067138531cc9f4dfd905cfa9adb
 ![The Browse for Folder window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/browse-for-folder.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  By default, this software will always ask you where to extract files. However, you can change ExtractNow to automatically unzip ZIP files without asking via its settings. To do so, click the **Settings** button and select the **Destination** tab. Then select the **Automatically extract archives to** radio button.
@@ -105,6 +101,10 @@ thumbnail: https://thmb.techidaily.com/0838ac8f5f2d8f067138531cc9f4dfd905cfa9adb
  If you want to set a location to always extract selected ZIPs, click the **Browse for Folder** button; select a directory within the Browse for Folder window and click **OK**. Then select **OK** on the Settings window to save options.
 
  ExtractNow also has lots of other settings you can configure. Check out the [ExtractNow manual](https://extractnow.com/#/documentation) for details about what all those settings do.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Batch Extract ZIP Files Quicker in Windows
 
@@ -122,20 +122,24 @@ thumbnail: https://thmb.techidaily.com/0838ac8f5f2d8f067138531cc9f4dfd905cfa9adb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-precision-editing-harnessing-photoshops-eraser/"><u>[New] Precision Editing Harnessing Photoshop’s Eraser</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-critical-review-of-vlcs-capture-tools/"><u>[Updated] 2024 Approved Critical Review of VLC's Capture Tools</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-key-steps-to-screen-record-on-your-phone/"><u>[Updated] 2024 Approved Key Steps to Screen Record on Your Phone</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoiding-lag-pro-level-valorant-fps-strategies/"><u>Avoiding Lag: Pro-Level Valorant FPS Strategies</u></a></li>
-<li><a href="https://windows11.techidaily.com/bridge-ios-and-windows-using-apple-calendar-effortlessly/"><u>Bridge iOS and Windows: Using Apple Calendar Effortlessly</u></a></li>
-<li><a href="https://windows11.techidaily.com/clearing-up-xbox-mic-blockages-for-flawless-windows-11-operation/"><u>Clearing Up Xbox Mic Blockages for Flawless Windows 11 Operation</u></a></li>
-<li><a href="https://windows11.techidaily.com/compreranble-windows-11-sticky-features-across-devices/"><u>Compreranble Windows 11 Sticky Features Across Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/curing-non-detection-of-unknown-usbs-on-windows-11/"><u>Curing Non-Detection of Unknown USBs on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-and-fixing-windows-error-0x800704b3-on-pcslaptops/"><u>Decoding & Fixing Windows Error 0X800704B3 on PCs/Laptops</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-os-issues-mastering-the-art-of-finding-and-fixing-error-messages-using-commands/"><u>Decoding OS Issues: Mastering the Art of Finding & Fixing Error Messages Using Commands</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Vivo Y36 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-nokia-xr21-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Nokia XR21 Phone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-moto-g-5g-2023-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto G 5G (2023) Phone without Any Data Loss</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-vivo-y100-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Vivo Y100 5G? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/proven-methods-to-prevent-photos-app-freezes-in-windows-10-for-2024/"><u>Proven Methods to Prevent Photos App Freezes in Windows 10 for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-eight-supercharged-tablet-models-to-enhance-every-photo-you-edit/"><u>[Updated] Eight Supercharged Tablet Models to Enhance Every Photo You Edit</u></a></li>
+<li><a href="https://windows11.techidaily.com/1-mastering-image-to-excel-conversion-a-step-by-step-guide-for-microsoft-windows/"><u>1. Mastering Image-to-Excel Conversion: A Step-by-Step Guide for Microsoft Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/1-seamless-integration-microsoft-office-and-libreoffice-working-together-smoothly/"><u>1. Seamless Integration: Microsoft Office and LibreOffice Working Together Smoothly</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-achieving-visual-harmony-in-your-fb-videos-with-proper-ratio-adjustments/"><u>2024 Approved Achieving Visual Harmony in Your FB Videos with Proper Ratio Adjustments</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-explore-the-power-of-pip-on-modern-edge-browser/"><u>2024 Approved Explore the Power of PIP on Modern Edge Browser</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/crafting-squares-for-viral-videos-in-a-social-media-world-for-2024/"><u>Crafting Squares for Viral Videos in a Social Media World for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/effective-strategies-for-tracking-edits-and-modifications-in-real-time-with-excel-online/"><u>Effective Strategies for Tracking Edits and Modifications in Real-Time with Excel Online</u></a></li>
+<li><a href="https://win-forum.techidaily.com/efficiently-manage-your-pc-how-to-erase-windows-1/"><u>Efficiently Manage Your PC: How to Erase Windows 1</u></a></li>
+<li><a href="https://win-blog.techidaily.com/helldivers-2-launch-problems-fixing-the-black-screen-dilemma/"><u>Helldivers 2 Launch Problems - Fixing the Black Screen Dilemma</u></a></li>
+<li><a href="https://windows11.techidaily.com/honesty-required-secure-your-exclusive-50-discount-on-microsoft-365-today/"><u>Honesty Required: Secure Your Exclusive 50% Discount on Microsoft 365 Today!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/interactive-guide-mastering-your-arlo-smart-home-safety/"><u>Interactive Guide: Mastering Your Arlo Smart Home Safety</u></a></li>
+<li><a href="https://windows11.techidaily.com/no-more-surprises-how-microsoft-excel-stops-forcing-dates-on-you/"><u>No More Surprises: How Microsoft Excel Stops Forcing Dates on You</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-creating-and-personalizing-your-own-signature-block-in-excel/"><u>Step-by-Step Guide: Creating & Personalizing Your Own Signature Block in Excel</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-properly-formatting-telephone-digits-in-excel-spreadsheets/"><u>Step-by-Step Guide: Properly Formatting Telephone Digits in Excel Spreadsheets</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-removing-a-pivottable-from-your-microsoft-excel-spreadsheet/"><u>Step-by-Step Guide: Removing a PivotTable From Your Microsoft Excel Spreadsheet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/timeline-reveal-preparing-for-android-15-on-oneplus-devices-when-can-you-expect-an-update-to-oxygenos-n/"><u>Timeline Reveal: Preparing for Android 15 on OnePlus Devices - When Can You Expect an Update to OxygenOS N?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-strategies-to-overcome-the-battle-royales-blackout-problem-on-warzone/"><u>Top Strategies to Overcome the Battle Royale's Blackout Problem on Warzone</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-secrets-of-locating-data-positions-with-excel-match-function-a-comprehensive-guide/"><u>Unveiling the Secrets of Locating Data Positions with Excel MATCH Function: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/1728483270819-windows-11-c/"><u>Windows 11 Cドライブ容量オーバーヒート解決策</u></a></li>
 </ul></div>
 

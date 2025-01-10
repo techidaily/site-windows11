@@ -1,7 +1,7 @@
 ---
 title: Display Windows Notes Prominently and Consistently
-date: 2024-08-08T05:56:16.146Z
-updated: 2024-08-09T05:56:16.146Z
+date: 2025-01-04T18:53:21.480Z
+updated: 2025-01-10T19:35:08.961Z
 tags:
   - windows10
   - windows11
@@ -22,9 +22,6 @@ thumbnail: https://thmb.techidaily.com/c375ce1878aec11dc45365bef1d03270965b9669f
 
  In this guide, we show you how to keep Sticky Notes always on top using Microsoft PowerToys and DeskPins.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ## 1\. Use Microsoft PowerToys to Keep Sticky Notes Always on Top
 
 [Microsoft PowerToys](https://www.makeuseof.com/tag/windows-10-powertoys/) features a collection of advanced Windows customization utilities. You can use it to disable sleep mode on your PC, resize images, perform bulk renaming using search-replace, and keep apps always on top.
@@ -38,10 +35,12 @@ thumbnail: https://thmb.techidaily.com/c375ce1878aec11dc45365bef1d03270965b9669f
 3. In the PowerToys Settings window, open the**Always on Top** tab**.**  
 ![power toys always on top](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/power-toys-always-on-top.jpg)
 4. Next, toggle the**Enable Always on Top** switch and set it to**On** .
-5. Next, under**Activation** , note down the**Activation shortcut** . By default, it is set to**Win + Ctrl + T** . To change the shortcut combo, click the**Edit** button (Pencil icon) and make changes.  
+
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Next, under**Activation** , note down the**Activation shortcut** . By default, it is set to**Win + Ctrl + T** . To change the shortcut combo, click the**Edit** button (Pencil icon) and make changes.  
 ![power toys always on top border off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/power-toys-always-on-top-border-off.jpg)
 6. Under**Appearances & behavior** , toggle the**Shows a border around the Pinned window** to disable the highlighted border for the pinned app.
 7. Next, open the Sticky Notes app. To do this, press the**Win** key**,** type**sticky notes** and open the app.
@@ -52,8 +51,9 @@ thumbnail: https://thmb.techidaily.com/c375ce1878aec11dc45365bef1d03270965b9669f
  Impressed with PowerToys yet? Here are some more [impressive things you can do with Microsoft Toys on Windows](https://www.makeuseof.com/best-things-you-can-do-windows-powertoys/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Use DeskPins to Pin Sticky Notes
 
  DeskPins is a third-party open-source utility to pin app windows on Windows OS. It officially supports Windows 10 and earlier editions; however, we also tested it and found it working on Windows 11.
@@ -65,38 +65,38 @@ To pin Sticky Notes using DeskPins:
 1. Go to the [DeskPins page](https://efotinis.neocities.org/deskpins/) and download the latest version available.
 2. Run the installer and keep all the options selected.
 3. Once installed, search for**DeskPins** and click on the**App** icon to launch the app.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![desk pins system tray](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-system-tray.jpg)
 4. Next, open the**system tray** (up arrow icon in the bottom left corner of your desktop) and click on the**DeskPins** icon to activate a Pin.  
 ![desk pins pin windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-pin-windows.jpg)
 5. Next, click on the**Sticky Note** app window to keep it always on top.
-6. Click the**Pin** icon to unpin the window.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+6. Click the**Pin** icon to unpin the window.
+
 ![desk pins pin windows options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-pin-windows-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can further customize the app with Hotkeys, set auto pin rules, and customize pin color and tracking rate. To do this, right-click on the**DeskPins** icon and select**Options** to access the customization features.
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Keep Sticky Notes Always on Top in Windows 10 and 11
 
  The Sticky Notes app is an excellent productivity tool if you need to continuously jot down ideas and notes. With PowerToys’s Always On Top feature, the app can stay pinned forever on your desktop and not get lost with the other hundred apps in the background. Alternatively, use DeskPins if you find PowerToys overkill for this task.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -105,6 +105,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-cost-efficient-top-screen-recorder-apps-for-chromeos-for-2024/"><u>[New] Cost-Efficient Top Screen Recorder Apps for ChromeOS for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-peoples-take-on-vllo/"><u>2024 Approved The People's Take on VLLO</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-itel-p40plus-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Itel P40+</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-scripts-to-discover-your-computers-ip-and-mac-addresses/"><u>Essential Scripts to Discover Your Computer's IP & MAC Addresses</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Tecno Spark 10C? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719348868755-is-your-pc-compatible-with-windows-11-see-here/"><u>Is Your PC Compatible with Windows 11? See Here</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/overcoming-known-graphic-drivers-problems-effective-solutions-revealed/"><u>Overcoming 'Known Graphic Drivers Problems': Effective Solutions Revealed</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-overlapping-icons-on-pc/"><u>Solving Overlapping Icons on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/stepwise-installation-of-dolby-atmos-audio-on-windows-devices/"><u>Stepwise Installation of Dolby Atmos Audio on Windows Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-sticky-note-access-code-for-windows-11/"><u>Unveiling the Sticky Note Access Code for Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/what-users-dislike-in-windows-11-most/"><u>What Users Dislike in Windows 11 Most</u></a></li>
+</ul></div>
 

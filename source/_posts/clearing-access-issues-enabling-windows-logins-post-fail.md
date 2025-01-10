@@ -1,7 +1,7 @@
 ---
 title: "Clearing Access Issues: Enabling Windows Logins Post-Fail"
-date: 2024-08-08T05:55:58.125Z
-updated: 2024-08-09T05:55:58.125Z
+date: 2025-01-05T21:50:07.571Z
+updated: 2025-01-10T18:11:23.654Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/ffb0273089dad909d1970227a2adf2a6505fbce5d
 
  Windows may show this error for various reasons, including a temporary glitch, corrupted login PIN, or incorrect account configuration. Here, we guide you through a few troubleshooting steps to resolve the error and regain access to your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Causes the "Sign-In Option Is Disabled Because of Failed Sign-In Attempts" Error?
 
  The error message indicates the possible causes for the error are multiple failed sign-in attempts or repeated shutdowns. However, in most instances, the error pops up without reason, even when you are using the correct PIN.
@@ -33,9 +37,9 @@ thumbnail: https://thmb.techidaily.com/ffb0273089dad909d1970227a2adf2a6505fbce5d
  Fortunately, you can fix this error by resetting the login PIN and a registry tweak to disable the account lockout option. Follow all the steps in the given order, and you should be able to fix the error and log in to your Windows computer.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Keep Your Device Powered On for Two Hours
 
  If you don't have an alternate sign-in option enabled or have forgotten the password, you'll need to wait for two hours and then try to sign in again with the sign-in PIN. Make sure your PC remains turned on for two hours for it to work.
@@ -44,9 +48,6 @@ thumbnail: https://thmb.techidaily.com/ffb0273089dad909d1970227a2adf2a6505fbce5d
 
  That said, if you can't wait for two hours, try to log in using an alternate sign-in option, such as a password or biometric authentication. To use the alternate sign-in option, click the dotted icon under the Sign-in options in the error screen to log in with your password.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Reset the Account Password from the Sign-In Screen
 
  If you have forgotten your password, you can reset your sign-in password from the sign-in screen. To confirm the authenticity of the user, Windows will need you to answer the security questions correctly to perform a reset.
@@ -57,14 +58,13 @@ thumbnail: https://thmb.techidaily.com/ffb0273089dad909d1970227a2adf2a6505fbce5d
 
 1. On the login screen, type any password and hit **Enter**. Windows will show the password as incorrect; click **OK**.
 2. Next, click the **Reset password** option.  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![reset account password security question windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/reset-account-password-security-question-windows.jpg)
 3. Now, you must answer the three security questions and press **Enter**. If the password is correct, a password reset option will appear.  
+
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![reset account password windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/reset-account-password-windows.jpg)
 4. Enter your new password and then re-enter the password to confirm the same.
 5. Press **Enter** to sign-in to your user account.
@@ -87,9 +87,6 @@ thumbnail: https://thmb.techidaily.com/ffb0273089dad909d1970227a2adf2a6505fbce5d
 2. Type **lusrmgr.msc** and click **OK**. This will open the **Local User and Groups** snap-in.
 3. Double-click on the **Users** folder.
 4. Locate and right-click on your user account name.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![local users and groups account properties windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/local-users-and-groups-account-peroperties-windows.jpg)
 5. Next, select **Properties**.  
 ![local users and groups unselect account is disabled account is locked out](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/local-users-and-groups-unselect-account-is-disabled-account-is-locked-out.jpg)
@@ -141,20 +138,20 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 3. Next, in Group Policy Editor, navigate to the following location:  
 `Computer Configuration\Windows Settings\Security Settings\Account Policies\Account Lockout Policy`
 4. In the right pane, double-click on **Account lockout threshold**.  
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![account lockout threshold gpedit windows modify](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/account-lockout-threshold-gpedit-windows-modify.jpg)
 5. Type **0** in the **Account will not lock out** field.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![account lockout threshold gpedit windows modify o value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/account-lockout-threshold-gpedit-windows-modify-o-value.jpg)
 6. Click **Apply** and **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Edit the Account Lockout Policy Using Registry Editor
 
  You can also configure the account lockout policy on your machine via the Windows Registry. It is also helpful if you are using the Windows Home edition without Group Policy Editor.
@@ -170,9 +167,11 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 4. In the right pane, locate and right-click on **MaxDenials**.  
 ![modify Maxdenials registry DWORD value registry editor 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/modify-maxdenials-registry-dword-value-registry-editor-1.jpg)
 5. Select **Modify**.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![modify Maxdenials registry DWORD value registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/modify-maxdenials-registry-dword-value-registry-editor.jpg)
 6. Type **0** in the **Value data** field and click **OK** to save the changes.
 7. Close Registry Editor and reboot your computer to apply the changes.
@@ -187,12 +186,27 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 
  Windows may show this error for various reasons, including a temporary glitch, corrupted login PIN, or incorrect account configuration. Here, we guide you through a few troubleshooting steps to resolve the error and regain access to your computer.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-top-8-cameras-unmatched-live-stream-quality-for-2024/"><u>[New] Top 8 Cameras Unmatched Live Stream Quality for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-top-funny-image-processing-app-for-2024/"><u>[New] Top Funny Image Processing App for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-syma-x5c-exploration-top-choice-for-novice-aerial-enthusiasts/"><u>[Updated] Syma X5C Exploration Top Choice for Novice Aerial Enthusiasts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-tutorial-on-clearing-internet-explorer-edge-and-other-caches-in-windows-10-systems/"><u>Comprehensive Tutorial on Clearing Internet Explorer, Edge, and Other Caches in Windows 10 Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/exiting-others-user-sessions-on-win-11/"><u>Exiting Others' User Sessions on Win 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-ai-through-the-eyes-of-10-leading-international-technology-visionaries/"><u>Exploring AI Through the Eyes of 10 Leading International Technology Visionaries</u></a></li>
+<li><a href="https://win-info.techidaily.com/guide-relocating-esxi-servers-and-vms-across-different-vsphere-cluster-environments/"><u>Guide: Relocating ESXi Servers & VMs Across Different vSphere Cluster Environments</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-stop-the-license-will-expire-warning-in-win11/"><u>How to Stop the License Will Expire Warning in Win11</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Pause Life360 Location Sharing For Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/priority-accessibility-attach-google-mail-taskbar-ready/"><u>Priority Accessibility: Attach Google Mail Taskbar-Ready</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-methodology-for-full-uninstallation-of-wsl/"><u>Step-by-Step Methodology for Full Uninstallation of WSL</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-pin-verification-hurdles-for-windows-1011-systems/"><u>Tackling PIN Verification Hurdles for Windows 10/11 Systems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unveil-clear-photos-from-iphone-with-our-free-red-eye-corrector-guide/"><u>Unveil Clear Photos From iPhone with Our FREE Red-Eye Corrector Guide</u></a></li>
+</ul></div>
 

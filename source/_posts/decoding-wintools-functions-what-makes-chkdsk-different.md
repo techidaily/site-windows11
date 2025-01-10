@@ -1,7 +1,7 @@
 ---
 title: "Decoding Wintools Functions: What Makes CHKDSK Different?"
-date: 2024-08-08T05:55:47.175Z
-updated: 2024-08-09T05:55:47.175Z
+date: 2025-01-08T23:33:12.385Z
+updated: 2025-01-10T23:16:33.011Z
 tags:
   - windows10
   - windows11
@@ -17,8 +17,9 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
 ## Decoding Wintools Functions: What Makes CHKDSK Different?
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is CHKDSK and When Should You Use It?](#what-is-chkdsk-and-when-should-you-use-it)
@@ -27,8 +28,9 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
 * [What Order Should You Run CHKDSK, SFC, and DISM In?](#what-order-should-you-run-chkdsk-sfc-and-dism-in)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * CHKDSK scans your hard drive for errors and bad sectors, and you should run it if your computer isn't booting properly.
@@ -49,24 +51,22 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
 
  To prevent future errors and potential data loss, it's worth running CHKDSK manually as part of your PC maintenance routine. You can use one of the following methods:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Run CHKDSK Through File Explorer
 
  You can run CHKDSK from the command prompt. If you're uncomfortable using the Command Prompt, open **File Explorer**, click **This PC**, right-click the drive you want to check and select **Properties**.
 
  Select the **Tools** tab and then select **Check** in the **Error-checking** section.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![Launch the Check Disk tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-error-checking.jpg)
 
  If Windows determines that everything is running smoothly, it will suggest that you don't need to scan the drive. To run CHKDSK anyway, select **Scan drive**.
 
  The scan may take anywhere from a few minutes to half an hour, depending on the size and state of your drive. Once complete, CHKDSK will either tell you that no errors were found, or if it does find any, it will suggest you fix them.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. Run CHKDSK From the Command Prompt
 
  For greater control over the disk-checking process, you should run CHKDSK from an elevated Command Prompt. Follow these steps to continue:
@@ -75,11 +75,12 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
 2. Type "cmd" in Run and press the **Ctrl** \+ **Shift** \+ **Enter** keys together to open Command Prompt as an administrator.
 3. Click **Yes** in the User Account Control prompt.
 4. In the Command Prompt window, type **chkdsk,** then space, followed by the drive letter you want to check. For example, **chkdsk c:** to scan your C: drive.  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![CHKDSK scan in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chkdsk-scan.jpg)
 5. Press **Enter** to scan for errors in read-only mode, which means no changes will be made.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To make changes, you can use parameters with the CHKDSK command. Here are two you can use to fix problems:
 
@@ -112,9 +113,6 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
 
 ![Screenshot of complete sfc scan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-complete-sfc-scan.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is DISM and When Should You Use It?
 
 **DISM (Deployment Image Servicing and Management)** is the most powerful of the three Windows diagnostic tools. Although you shouldn't usually need to use the tools, it's the one to turn to when you're experiencing frequent crashes, freezes, and errors, but SFC either can't repair your system files or is unable to run at all.
@@ -140,6 +138,10 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
 
 ![dism scan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dism-scan.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once the scan and repairs are complete, restart your PC and run SFC again to replace your corrupt or missing system files.
 
 ## What Order Should You Run CHKDSK, SFC, and DISM In?
@@ -152,12 +154,31 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
 
  If you're still having trouble, perform a System Restore. This will restore your system files, settings, and programs to a time when they worked properly. If your system wasn't damaged when the restore point was created, it may solve your corruption problems.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-elite-free-screen-partnership-adventures/"><u>[New] In 2024, Elite Free Screen Partnership Adventures</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-unlock-the-potential-of-your-online-social-presence-for-2024/"><u>[New] Unlock the Potential of Your Online Social Presence for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-facebook-short-videos-and-everything-about-them/"><u>[Updated] 2024 Approved Facebook Short Videos and Everything About Them</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-igtv-content-size-requirements/"><u>[Updated] In 2024, IGTV Content Size Requirements</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/all-about-iphone-x-unlock-chip-you-need-to-know-by-drfone-ios/"><u>All About iPhone X Unlock Chip You Need to Know</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-iphone-x-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone X with a Broken Screen?</u></a></li>
+<li><a href="https://windows11.techidaily.com/invisible-file-handling-sneaking-zips-into-picture-files-on-windows/"><u>Invisible File Handling: Sneaking Zips Into Picture Files on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-and-enhance-the-ultimate-guide-to-windows-11s-start-screen/"><u>Optimize and Enhance: The Ultimate Guide to Windows 11’S Start Screen</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-closed-folder-woes-on-double-click-in-winxpxo11/"><u>Overcoming Closed Folder Woes on Double-Click in WinXP/XO11</u></a></li>
+<li><a href="https://fox-info.techidaily.com/premiere-pro-tricks-rescuing-washed-out-iphone-hdr-footage-for-2024/"><u>Premiere Pro Tricks Rescuing Washed-Out iPhone HDR Footage for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/proactive-device-management-in-windows-11-essential-uptime-verification-steps/"><u>Proactive Device Management in Windows 11: Essential Uptime Verification Steps</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-access-keys-the-artists-best-friend-in-3d-paint/"><u>Quick-Access Keys: The Artist's Best Friend in 3D Paint</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-to-updating-your-intel-iris-plus-graphics-630640-series/"><u>Step-by-Step Guide to Updating Your Intel Iris Plus Graphics - 630/640 Series</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-5-gratis-car-performance-enhancers-for-windows-pcs/"><u>Top 5 Gratis Car Performance Enhancers for Windows PCs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-list-of-2023s-most-popular-mechanical-keyboards-reviewed-by-zdnet/"><u>Ultimate List of 2023'S Most Popular Mechanical Keyboards Reviewed by ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-the-potential-creating-custom-lock-patterns-for-windows-11/"><u>Unlock the Potential: Creating Custom Lock Patterns for Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-storage-explained-c-and-d-distinctions/"><u>Windows Storage Explained: C & D Distinctions</u></a></li>
+</ul></div>
 

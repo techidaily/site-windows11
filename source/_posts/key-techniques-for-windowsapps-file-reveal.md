@@ -1,7 +1,7 @@
 ---
 title: Key Techniques for WindowsApps File Reveal
-date: 2024-12-31T19:19:05.042Z
-updated: 2025-01-03T16:06:00.327Z
+date: 2025-01-09T17:58:01.708Z
+updated: 2025-01-10T22:35:34.276Z
 tags:
   - windows10
   - windows11
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/8c939daafbcd042f39c237e82182653fc156f3f06
 
  There are many ways to access the WindowsApps folder and bypass the protection to gain access to the necessary files.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1\. How to Access WindowsApps via File Explorer
 
  You can easily find the WindowsApps folder in the Windows File Explorer by unhiding the respective folder first. However, to access the folder and make changes to the files—you need to gain some extra rights by changing the ownership.
@@ -51,23 +55,15 @@ thumbnail: https://thmb.techidaily.com/8c939daafbcd042f39c237e82182653fc156f3f06
 ![Program Files Directory In Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Program-Files-Directory-In-Explorer.jpg)
 2. Now, click the **View** options button at the top of the File Explorer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Click or hover over the **Show** button and select the **Hidden items** option to enable it.  
 ![File Explorer View Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/file-explorer-view-options.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  That's it. Now, you can see theWindowsApps folder in the same directory.
 
  If you try to open it, you'll see an information popup saying, "You have been denied permission." So, to actually access that folder and gain exclusive read and write rights—you've got to do a bit more.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Change Ownership Properties to Get Access
@@ -82,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/8c939daafbcd042f39c237e82182653fc156f3f06
 3. Now, under the **Properties** window. Click the **Security** tab and then the **Advanced** option locatedright at the bottom.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![WindowsApps Security Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/WindowsApps-Security-Properties.jpg)
@@ -91,10 +87,6 @@ thumbnail: https://thmb.techidaily.com/8c939daafbcd042f39c237e82182653fc156f3f06
 5. Now, click **Advanced > Find Now > Administrator on the following screen**.  
 ![Advanced Security Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/advanced-security-properties.jpg)
 6. Finally, click **OK** to select the Administrator as the owner and again **OK** to save the changes.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![User Group Selection Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/User-Group-Selection-Window.jpg)
 7. Then, tick the checkbox before the **Replace owner on sub containers and objects** text.
@@ -122,7 +114,7 @@ thumbnail: https://thmb.techidaily.com/8c939daafbcd042f39c237e82182653fc156f3f06
 ![PowerShell In Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/PowerShell-In-Windows-Search.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4\. In Powershell, run the following command and press the Enter key:
@@ -154,7 +146,15 @@ thumbnail: https://thmb.techidaily.com/8c939daafbcd042f39c237e82182653fc156f3f06
 ![Take Ownership Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Take-Ownership-Context-Menu.jpg)
 7. In the Command Prompt, you must [give User Account Control Administrator rights](https://www.makeuseof.com/tag/user-account-control-windows-10/) for the registry hack to work. After that, please wait a few minutes for the window to close. Soon, it will display success messages constantly in the Command Prompt.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once finished, you'll no longer face the "You've been denied permission" error on clicking the WindowsApps folder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Enjoy Unrestricted Access to the WindowsApps Folder
 
@@ -176,22 +176,22 @@ thumbnail: https://thmb.techidaily.com/8c939daafbcd042f39c237e82182653fc156f3f06
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-full-length-video-view-remove-youtube-preview/"><u>[New] Full-Length Video View Remove YouTube Preview</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-mac-users-choice-why-screenflow-dominates-the-market/"><u>[New] Mac Users' Choice Why ScreenFlow Dominates the Market</u></a></li>
-<li><a href="https://windows11.techidaily.com/7-top-choices-no-cost-win-compatible-players/"><u>7 Top Choices: No-Cost Win-Compatible Players</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-comprehensive-fix-manual-for-widespread-rainmeter-problems/"><u>A Comprehensive Fix Manual for Widespread Rainmeter Problems</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-realme-12-proplus-5g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Realme 12 Pro+ 5G</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-high-cpu-consumption-on-host-systems/"><u>Addressing High CPU Consumption on Host Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/breaking-the-cycle-how-to-fix-your-disconnected-ps4-remote-control-on-windows/"><u>Breaking the Cycle: How to Fix Your Disconnected PS4 Remote Control on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/deciphering-windows-process-aggregatorhostexe-use-and-risks/"><u>Deciphering Windows Process AggregatorHost.exe: Use and Risks</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-frequent-rainmeter-anomalies-in-windows-environment/"><u>Decoding Frequent Rainmeter Anomalies in Windows Environment</u></a></li>
-<li><a href="https://windows11.techidaily.com/decreasing-high-cpu-usage-in-wmi/"><u>Decreasing High Cpu Usage in WMI</u></a></li>
-<li><a href="https://windows11.techidaily.com/defeating-defunct-windows-security-hurdles-in-win-11/"><u>Defeating Defunct Windows Security Hurdles in Win 11</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-a-step-by-step-approach-to-discord-messaging/"><u>In 2024, A Step-by-Step Approach to Discord Messaging</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/leading-artificial-intelligence-tools-simplifying-notes-capture/"><u>Leading Artificial Intelligence Tools Simplifying Notes Capture</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/transformative-tools-for-uploading-videos-to-twitter/"><u>Transformative Tools for Uploading Videos to Twitter</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-motorola-moto-g24-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Motorola Moto G24 Auto Does Not Work | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/what-to-do-when-youre-not-getting-emails-on-yahoo-a-step-by-step-guide/"><u>What to Do When You're Not Getting Emails on Yahoo - A Step-by-Step Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/what-to-look-forward-to-at-the-samsung-unpacked-showdown-of-2025-dates-news-and-rumors-revealed/"><u>What to Look Forward to At The Samsung Unpacked Showdown of 2025 - Dates, News & Rumors Revealed</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-essential-pc-cam-solutions-10-picks-on-windows-10/"><u>[New] Essential PC Cam Solutions - 10 Picks on Windows 10</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-comprehensive-look-at-lg-bp350-display-specifications/"><u>[Updated] In 2024, Comprehensive Look at LG BP350 Display Specifications</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/amazons-echo-fourth-generation-unveiled-an-in-depth-review/"><u>Amazon's Echo Fourth Generation Unveiled: An In-Depth Review</u></a></li>
+<li><a href="https://article-helps.techidaily.com/expert-steps-for-secure-and-swift-video-transfers-iphone-macconnection-for-2024/"><u>Expert Steps for Secure & Swift Video Transfers IPhone-macConnection for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/gain-listener-traffic-advanced-techniques-in-podcast-seo-for-2024/"><u>Gain Listener Traffic Advanced Techniques in Podcast SEO for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-on-isolating-month-and-year-values-from-date-entries-in-ms-excel-efficiently/"><u>Guide on Isolating Month and Year Values From Date Entries in MS Excel Efficiently</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-altering-your-spreadsheets-cell-address-style-in-microsoft-excel/"><u>Guide: Altering Your Spreadsheet's Cell Address Style in Microsoft Excel</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-creating-cross-sheet-references-within-your-microsoft-excel-workbooks/"><u>Guide: Creating Cross-Sheet References Within Your Microsoft Excel Workbooks</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-demonstrating-data-alterations-using-microsoft-excel-on-your-pc/"><u>Guide: Demonstrating Data Alterations Using Microsoft Excel on Your PC</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Vivo Y78 5G? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-nubia-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Nubia?</u></a></li>
+<li><a href="https://windows11.techidaily.com/massive-microsoft-excel-online-edition-update-transforms-functionality/"><u>Massive Microsoft Excel Online Edition Update Transforms Functionality</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-conditional-logic-a-step-by-step-guide-to-microsoft-excels-if-statement/"><u>Mastering Conditional Logic: A Step-by-Step Guide to Microsoft Excel's IF Statement</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-currency-exchange-a-step-by-step-guide-to-converting-money-with-microsoft-excel/"><u>Mastering Currency Exchange: A Step-by-Step Guide to Converting Money with Microsoft Excel</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-data-type-templates-in-microsoft-excel-a-step-by-step-guide/"><u>Mastering Data Type Templates in Microsoft Excel: A Step-by-Step Guide</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-s-top-free-webm-video-editing-tools-you-need-to-know/"><u>New 2024 Approved S Top Free WebM Video Editing Tools You Need to Know</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-macs-concealed-files-a-step-by-step-guide-using-terminal/"><u>Unveiling Mac's Concealed Files: A Step-by-Step Guide Using Terminal</u></a></li>
 </ul></div>
 

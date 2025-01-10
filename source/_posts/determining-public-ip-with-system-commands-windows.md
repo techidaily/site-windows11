@@ -1,7 +1,7 @@
 ---
 title: Determining Public IP with System Commands, Windows
-date: 2024-08-08T05:56:04.825Z
-updated: 2024-08-09T05:56:04.825Z
+date: 2025-01-04T16:31:10.524Z
+updated: 2025-01-10T20:19:00.764Z
 tags:
   - windows10
   - windows11
@@ -20,16 +20,13 @@ thumbnail: https://thmb.techidaily.com/e6c4e66a053f4adf51b38aa148d1e7f1b0fe37b06
 
  While checking your private IP address is easy, knowing your public IP address can be necessary for many tasks, including remote access, server hosting, network troubleshooting, and geolocation services. Here we show you a few ways to retrieve your public IPv4/IPv6 information on Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## How to Check Your Private IP Address on Windows
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![command prompt ipconfig private ip address](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/command-prompt-ipconfig-private-ip-address.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Windows offers multiple ways to view your network information, including the IP address. For instance, you can easily [check your IP address from the Settings app](https://www.makeuseof.com/tag/find-ip-address-windows-10/). You can also use the Network and Sharing Center in Control Panel or dig a little bit in the Task Manager’s Performance tab to access your system’s network details.
 
@@ -48,15 +45,16 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  If you need to share the output for troubleshooting purposes, you can export the output to a text file. In Command Prompt, run **ipconfig > NetworkInfo.txt** to save the output to a **NetworkInfo.text** file. By default, it is saved to the **C:\\Users\\Username** directory.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Get Your Public IP Address on Windows
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![Command Prompt running Curl command showing Public IP Address on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/command-prompt-public-ip-address-curl.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Unlike the private IP address, the **ipconfig** command cannot retrieve the public IP address of your ISP. Instead, you’ll need to [use the curl command-line utility to make HTTP requests](https://www.makeuseof.com/curl-how-make-http-requests/) using a third-party service, like ifconfig.me, to obtain IP address mapping information.
 
@@ -75,8 +73,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  If you check your public IPv6 address again after a few hours or days—depending on the router's configuration—you may notice a different IPv6 address. Due to privacy concerns, your router dynamically assigns and changes the IPv6 address for all connected devices.
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Online Tools to Get Your Public IP Address
 
 ![whatismyip online public ip address tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/whatismyip-online-public-ip-address-tool.jpg)
@@ -90,15 +89,14 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 * **Use a search engine**: If you don’t want to remember another website to do basic stuff, try your search engine. Type “What’s my IP” in Google or Bing search to get your public IPv4/IPv6 address quickly.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Many Ways to Check Your Public IP Address on Windows
 
  Whether you want to perform remote access or set up a gaming server, you may need to share your public IP address to allow others to connect to your network. Fortunately, plenty of web services allow you to check your network details using Command Prompt and online tools.
 
  While checking your private IP address is easy, knowing your public IP address can be necessary for many tasks, including remote access, server hosting, network troubleshooting, and geolocation services. Here we show you a few ways to retrieve your public IPv4/IPv6 information on Windows.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -106,4 +104,25 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-mastering-dialogue-engaging-your-youtube-fans/"><u>[New] In 2024, Mastering Dialogue Engaging Your YouTube Fans</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-boosting-vimeo-video-playback-tips-and-tricks/"><u>[Updated] Boosting Vimeo Video Playback Tips and Tricks</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-decoding-popularity-a-truthful-look-at-reels-on-instagram-for-2024/"><u>[Updated] Decoding Popularity A Truthful Look at Reels on Instagram for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-twister-timber-titmice/"><u>2024 Approved Twister Timber Titmice</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-vivo-v29-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Vivo V29 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cod-modern-warfare-precision-fixes-unveiled-a-deep-dive-into-fps-drop-enhancements-and-gameplay-tweaks/"><u>COD: Modern Warfare Precision Fixes Unveiled: A Deep Dive Into FPS Drop Enhancements and Gameplay Tweaks</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/come-ripristinare-una-partizione-di-disco-cancellata-per-errore-su-windows-11/"><u>Come Ripristinare Una Partizione Di Disco Cancellata per Errore Su Windows 11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722994687503-fixing-the-issue-nier-automata-freezing-glitch-resolved/"><u>Fixing the Issue: NieR: Automata Freezing Glitch Resolved</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-your-honor-x50-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Honor X50 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-bottleneck-detection-in-windows/"><u>Mastering Bottleneck Detection in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-disk-space-protecting-files-while-freeing-up-in-win11-max-156-chars/"><u>Optimizing Disk Space: Protecting Files While Freeing Up in Win11 (Max 156 Chars)</u></a></li>
+<li><a href="https://windows11.techidaily.com/stop-disabled-pop-up-from-invalid-adobe/"><u>Stop Disabled Pop-Up From Invalid Adobe</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-significance-of-bsod-in-hardware-troubleshooting/"><u>The Significance of BSoD in Hardware Troubleshooting</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-profiles-in-windows-1111-amidst-errors/"><u>Unlocking Profiles in Windows 11/11 Amidst Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/unseen-steps-eliminating-security-qanda-for-windows-11-admin/"><u>Unseen Steps: Eliminating Security Q&A for Windows 11 Admin</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-terminal-default-setting-restoration-guide/"><u>Win11 Terminal: Default Setting Restoration Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/wordsmithing-wonders-selective-windows-aid/"><u>Wordsmithing Wonders: Selective Windows Aid</u></a></li>
+</ul></div>
 

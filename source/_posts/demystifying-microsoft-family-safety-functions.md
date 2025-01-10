@@ -1,7 +1,7 @@
 ---
 title: Demystifying Microsoft Family Safety Functions
-date: 2024-08-08T05:56:36.717Z
-updated: 2024-08-09T05:56:36.717Z
+date: 2025-01-05T18:30:53.324Z
+updated: 2025-01-10T20:30:00.981Z
 tags:
   - windows10
   - windows11
@@ -20,18 +20,23 @@ thumbnail: https://thmb.techidaily.com/1b75e252ed41838e8d5bba451afdfa23d376fd039
 
  If you are using a Microsoft product, then you are in luck. To counter and protect yourself from all the wrong sides of the Internet, Microsoft introduced the Family Safety feature back in 2011\. Here, we take a detailed look at what Family Safety is, and all the different features it has to offer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## What Is Microsoft Family Safety?
 
 ![microsoft family safety](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microsoft-family-safety.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you have a family, then it makes perfect sense you'd want to [protect your children online](https://www.makeuseof.com/child-online-safety-tips/) in every way. In this case, Microsoft's Family Safety will be of huge help.
 
  It's a unique tool available for all Microsoft users which works by limiting your online or offline interaction on all your Microsoft devices, helping plan shared tasks, and all the more. Best of all, you can get started for free on the [Microsoft Family Safety website](https://www.microsoft.com/en-us/microsoft-365/family-safety) .
 
  Let's look at the features that make Microsoft Family Safety possible, one by one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Content Filters
 
@@ -45,9 +50,6 @@ Here's how you can set up one through Content Filters:
 * Block specific URLs through Blocked Sites.
 * If you like, you can also toggle on the**Only use allowed websites** feature to provide access to specific websites. In this case, simply mention all the 'allowed' websites in the**Allowed sites** section below, and you will be good.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![content filter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/content-filters.jpg)
 
  Alternatively, you can access your account through the Family Setup app on your smartphone. Here's how:
@@ -78,8 +80,9 @@ Here's how you can enable Screen Time:
  You will get a new dialog box to choose a new day and time from there. Set your new screen time limit by clicking on**Done** . That's it; the screen time feature will be enabled on your PC from here on.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Find Your Family
 
 ![find your family](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/find-your-family.jpg)
@@ -131,9 +134,6 @@ Here's how you can add money to your account:
 3. Choose the amount you'd like to add and click**Next** .
 4. Select a payment form and click**Add a way to pay** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![spending](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/spending.jpg)
 
  As soon as you do this, your account will receive a new payment. From hereon, your family members are free to make purchases under the pre-set budget set by you.
@@ -141,14 +141,11 @@ Here's how you can add money to your account:
  Of course, if there's a deeper financial problem causing bad spending habits, this will be a band-aid over a bigger issue. As such, check out [how to break bad online shopping habits](https://www.makeuseof.com/ways-break-bad-online-shopping-habits/) for more tips on toning the spending down.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Family Notebook
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![family notebook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/family-notebook.jpg)
 
  You can plan and manage all your task or activities for days (or even weeks) from a single, personal app on your smartphone. However, if you're already a die-hard Microsoft user, why not make the most out of Family Notebook and its handy features?
@@ -162,20 +159,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  To get a full overview of Family Notebook, check out [Microsoft's short blog on Family Notebook](https://blogs.windows.com/windowsexperience/2018/05/14/windows-10-tip-organize-your-busy-lives-with-a-family-notebook-in-onenote/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Learning All About Microsoft Family Safety
 
  Family Safety is Microsoft's attempt to help you take back control of how your family enjoys or uses different Microsoft products. With a little effort and understanding, you, too, can limit how you or your family members interact with the internet through their Microsoft products, and use technology in a more healthy, efficient manner.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -184,6 +179,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://solve-luxury.techidaily.com/iuoajoocueodioodroodvoocuowvvuixoeodhplusodvoocvplusobruajseobhdog56c05qoe5b6m44kc5a6j5ywo5ocn44gv5asj44kp44kk44gplus44gb44kt44gl77yf44cnig/"><u>「ストレージ対象データの扱い: 破棄後も安全性は変わりませんか？」</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-to-supercharge-your-enterprise-eight-essential-uses/"><u>ChatGPT to Supercharge Your Enterprise: Eight Essential Uses</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-oneplus-ace-3-by-drfone-android/"><u>Delete Gmail Account With/Without Password On OnePlus Ace 3</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-guide-to-controlling-user-profiles-in-windows/"><u>Expert Guide to Controlling User Profiles in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-abnormal-display-of-text-on-pcs/"><u>Fixing Abnormal Display of Text on PCs</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-redmi-note-13-pro-5g-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Redmi Note 13 Pro 5G.</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-infinix-gt-10-pro-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Infinix GT 10 Pro FRP Without Computer</u></a></li>
+<li><a href="https://windows11.techidaily.com/key-strategies-top-tips-for-maximizing-wsl-2-performance/"><u>Key Strategies: Top Tips for Maximizing WSL 2 Performance</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/al-explanation-designer-for-2024/"><u>Lyrical Explanation Designer for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-unresizable-gifs-in-windows-11s-discord-woes/"><u>Navigating Through Unresizable GIFs in Windows 11'S Discord Woes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/peering-behind-the-scenes-of-youtube-reviews-for-2024/"><u>Peering Behind the Scenes of YouTube Reviews for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-repairing-windows-fragmented-file-issue/"><u>Steps for Repairing Windows Fragmented File Issue</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/troubleshooting-guide-resolving-windows-10-system-image-recovery-issues/"><u>Troubleshooting Guide: Resolving 'Windows 10 System Image Recovery' Issues</u></a></li>
+</ul></div>
 

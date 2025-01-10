@@ -1,7 +1,7 @@
 ---
 title: Craft an Individualized Look for Your Schedule in Windows Outlook
-date: 2024-08-08T05:58:22.924Z
-updated: 2024-08-09T05:58:22.924Z
+date: 2025-01-05T16:26:39.203Z
+updated: 2025-01-10T23:14:59.053Z
 tags:
   - windows10
   - windows11
@@ -24,10 +24,11 @@ thumbnail: https://thmb.techidaily.com/734ba7f5cb5c21a47d1f0b28c0f28b69fa0ec9621
 
  Microsoft Outlook, now part of the Microsoft 365 Suite, has been the most popular desktop email client for over two decades. Its success, in my opinion, comes down to its overall simplicity and intuitive email/calendar features that have boosted productivity.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![personalized outlook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/personalized-outlook.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Unsurprisingly, Microsoft aims to retain the next wave of users by ensuring their continued adoption of its software. Through the Outlook for Windows preview app, the developers of Microsoft 365 aim to step towards embracing modernity while improving the ingenuity of core Outlook features. The new Outlook preview app is sleek, functional, and makes it really easy to [personalize your Outlook experience](https://www.makeuseof.com/how-to-personalize-outlook-experience-windows/). It also has unique features such as [Gmail account integration into Outlook](https://www.makeuseof.com/add-gmail-accounts-outlook-app-on-windows/), and users can even directly integrate Skype and Microsoft Teams.
 
@@ -53,14 +54,15 @@ thumbnail: https://thmb.techidaily.com/734ba7f5cb5c21a47d1f0b28c0f28b69fa0ec9621
 
 1. First, select the **Calendar** icon from the left sidebar.
 2. Select the **View** tab from the Ribbon.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![calendar monthly view outlook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/calendar-month-view-outlook.jpg)
 3. Choose between **Day, Work week, Week,** or **Month** to adjust the view accordingly.
 4. You can also choose **Split view** to display calendars associated with different email accounts separately.
 5. To view upcoming events more detailedly, you can increase the **Time scale** to make more room for details.
 6. Once you’ve organized a view to your preference, you can save it as the default view the next time. To do so, select **Saved views** and then **Save the current view**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Filter Meetings and Events in Outlook Calendar
 
@@ -71,17 +73,14 @@ thumbnail: https://thmb.techidaily.com/734ba7f5cb5c21a47d1f0b28c0f28b69fa0ec9621
 * What category the meeting belongs to
 * Whether the event is repetitive or set as private
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![meetings filter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/meetings-filter.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To access the filter options for your Outlook Calendar, select the **Calendar** icon from the left sidebar and then click on the **View** tab from the Ribbon. Select the **Filter** button and choose the required filter criteria from the dropdown menu.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ## How to Manage Calendar Time Settings in Outlook
 
  You can personalize various date and time settings in the Outlook Preview Calendar for better calendar optimization. This customization allows you to set your work week, define your preferred meeting hours, and choose whether or not to display week numbers.
@@ -97,9 +96,6 @@ thumbnail: https://thmb.techidaily.com/734ba7f5cb5c21a47d1f0b28c0f28b69fa0ec9621
 4. Under the **Calendar appearance** section, you can change your work week, adjust meeting hours, and more.
 5. Finally, select the **Save** button to confirm your changes.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Add Time Zones in Outlook Calendar
 
  If you frequently have to deal with clients and colleagues in a different time zone, you can easily add multiple time zones to your calendar. Doing so helps ensure you stay on track and never miss anything significant due to confusing time zone conversions.
@@ -116,9 +112,6 @@ thumbnail: https://thmb.techidaily.com/734ba7f5cb5c21a47d1f0b28c0f28b69fa0ec9621
 7. You can also add a label to make identifying the newly added time zone easier.
 8. Finally, select the **Save** button to confirm your changes.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Add Shared Calendars in Outlook
 
  Outlook preview allows [sharing your entire Outlook calendar](https://www.makeuseof.com/how-to-share-calendar-outlook/) with other people and giving them view or edit access. It can be beneficial for small teams that are working closely.
@@ -134,15 +127,18 @@ thumbnail: https://thmb.techidaily.com/734ba7f5cb5c21a47d1f0b28c0f28b69fa0ec9621
 5. Select the required level of access and click on **Share**.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Make Your Calendar Smarter
 
  Thanks to the incredible customization options available in the Outlook preview, you can get more organized and productive. Microsoft has added plenty of exciting features in the new Outlook preview app and has given its users something exciting to look forward to.
 
  Read on as we discuss how to customize the Outlook calendar to suit your needs.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -150,4 +146,19 @@ thumbnail: https://thmb.techidaily.com/734ba7f5cb5c21a47d1f0b28c0f28b69fa0ec9621
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-narrowing-down-to-top-8-exceptional-online-platforms-for-free-srt/"><u>[New] In 2024, Narrowing Down to Top 8 Exceptional Online Platforms for Free SRT</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-mobile-panorama-tips-for-skyward-shots/"><u>[Updated] 2024 Approved Mobile Panorama Tips for Skyward Shots</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-xiaomi-redmi-note-12-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Xiaomi Redmi Note 12 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-comprehensive-srt-format-conversion-guide/"><u>In 2024, Comprehensive SRT Format Conversion Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/lastpass-executives-assure-users-of-no-breached-accounts-following-recent-security-warnings-insights-from-zdnet/"><u>LastPass Executives Assure Users of No Breached Accounts Following Recent Security Warnings: Insights From ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/leverage-ifttt-to-optimize-to-do-usage/"><u>Leverage IFTTT to Optimize To-Do Usage</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ering-a-new-world-in-visual-storytelling-spotlighting-the-top-10-budget-friendly-youtube-sites-for-2024/"><u>Pioneering a New World in Visual Storytelling Spotlighting the Top 10 Budget-Friendly YouTube Sites for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/reignite-non-operational-usb-connections-microsoft-os/"><u>Reignite Non-Operational USB Connections, Microsoft OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-the-0x80004005-problem-in-windows-virtualbox/"><u>Resolving the 0X80004005 Problem in Windows Virtualbox</u></a></li>
+<li><a href="https://video-capture.techidaily.com/ultimate-nintendo-switch-fighter-showcase-max-156/"><u>Ultimate Nintendo Switch Fighter Showcase (Max 156)</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-the-secrets-of-your-system-quick-guide-for-model-names/"><u>Unlock the Secrets of Your System: Quick Guide for Model Names</u></a></li>
+</ul></div>
 

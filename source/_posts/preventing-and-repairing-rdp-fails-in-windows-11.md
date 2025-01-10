@@ -1,7 +1,7 @@
 ---
 title: Preventing and Repairing RDP Fails in Windows 11
-date: 2024-12-31T17:29:21.814Z
-updated: 2025-01-04T01:43:07.876Z
+date: 2025-01-08T23:22:54.052Z
+updated: 2025-01-10T16:53:08.136Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/40db9e7f14d32360658bd45a85fa8baf591a4c124
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Select the "Allow Remote Connections" Setting
 
  First, check the basic settings required for remote connections are enabled. The**Allow the remote connection** setting needs to be enabled on the host computer (the remote one you’re trying to connect to). This is how you can select the**Allow remote connection** setting in Windows 10 and 11:
@@ -38,15 +42,19 @@ thumbnail: https://thmb.techidaily.com/40db9e7f14d32360658bd45a85fa8baf591a4c124
 ![The Allow remote connections option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/remote-tab.jpg)
 7. Click**Apply** and**OK** to save the new remote connection settings.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you don’t see the**Allow connections only from computers** option, that probably means the Windows platform isn’t a Pro or Enterprise edition. You can only enable remote connections on host computers with Windows Pro and Enterprise. However, you can still connect to host PCs with Windows Home client PCs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Disable Network Layer Authentication
 
  There’s an **Allow connections only from computers running Remote Desktop with Network Level Authentication** setting just below the**Allow Remote connection** radio button. Selecting that option implements tighter Network Layer Authentication security for remote connections. However, some users confirm that disabling NLA by unticking that checkbox can fix the “internal error has occurred” error. So, deselect that option if you’ve got it selected.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Start or Restart the Remote Desktop Connection Service
 
@@ -65,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/40db9e7f14d32360658bd45a85fa8baf591a4c124
 7. Then you can exit the window by clicking**OK** or**X** .
 8. If Remote Desktop Services is already running, you can try restarting it instead. Right-click**Remote Desktop Services** to view its context menu and select**Restart** from there.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Select the "Reconnect if the Connection Is Dropped" Setting
 
  Some Remote Desktop Connection users have confirmed that selecting a**Reconnect if the connection is dropped** setting in that app can resolve this error. That simple potential resolution is certainly worth a try. You can select that**Reconnect** setting like this:
@@ -74,18 +86,10 @@ thumbnail: https://thmb.techidaily.com/40db9e7f14d32360658bd45a85fa8baf591a4c124
 ![The Remote Desktop Connections app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/remote-desktop-connections.jpg)
 3. Select the**Experience** tab.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Experience tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/experience-tab.jpg)
 4. Then select the**Reconnect if the connection is dropped** checkbox.
 
 5. Press the**Connect** button.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Set an Automatic DNS Server
 
@@ -115,15 +119,15 @@ thumbnail: https://thmb.techidaily.com/40db9e7f14d32360658bd45a85fa8baf591a4c124
 ![The Security policy settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/security-policies.jpg)
 6. Select the**Enabled** radio button for that policy.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Choose**RDP** in the**Security Layer** drop-down menu.  
 ![The Security Layer RDP option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/rdp-option.jpg)
 8. Click**Apply** \>**OK** inside the**Require use of specific security layer** for remote (RDP) connections policy window.
 
 9. Restart Windows and then open the Remote Desktop Connection app to check if that fixes the issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Turn Off UDP on the Client via Group Policy
 
@@ -136,17 +140,17 @@ thumbnail: https://thmb.techidaily.com/40db9e7f14d32360658bd45a85fa8baf591a4c124
 3. Select that policy’s**Enabled** option.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Turn Off UDP On Client window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-udp-client-window.jpg)
 4. Click**Apply** to set the new**Turn off UDP** on Client policy.
 
-5. Select**OK** in the**Turn off UDP on Client** window and exit Group Policy Editor.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Select**OK** in the**Turn off UDP on Client** window and exit Group Policy Editor.
 
 ## 8\. Disconnect a Domain Account
 
@@ -157,10 +161,6 @@ thumbnail: https://thmb.techidaily.com/40db9e7f14d32360658bd45a85fa8baf591a4c124
 3. Click**Access work or school** to view connected domain accounts.  
 ![Domain account settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/access-work-or-school-accounts.jpg)
 4. Select**Disconnect** for a domain account.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Press your Start menu’s**Restart** button.
 6. Then try connecting to the remote computer with RDC again.
@@ -177,7 +177,7 @@ thumbnail: https://thmb.techidaily.com/40db9e7f14d32360658bd45a85fa8baf591a4c124
 ![Domain account settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/access-work-or-school-accounts.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Re-establish Remote PC Access on Windows
@@ -199,14 +199,20 @@ thumbnail: https://thmb.techidaily.com/40db9e7f14d32360658bd45a85fa8baf591a4c124
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guide-to-getting-1000-subscribers-for-your-youtube-channel/"><u>[New] In 2024, Guide to Getting 1000 Subscribers for Your YouTube Channel</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-avoid-oversaturated-greenscreen-effective-strategies-for-mac-editors/"><u>[Updated] 2024 Approved Avoid Oversaturated Greenscreen Effective Strategies for Mac Editors</u></a></li>
-<li><a href="https://windows11.techidaily.com/boosting-windows-vram-a-step-by-step-guide/"><u>Boosting Windows VRAM: A Step-by-Step Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/constructing-a-contextual-update-prompt-mechanism/"><u>Constructing a Contextual Update Prompt Mechanism</u></a></li>
-<li><a href="https://windows11.techidaily.com/detecting-correct-credentials-vs-error-logins-on-your-winpc/"><u>Detecting Correct Credentials vs Error Logins on Your WinPC</u></a></li>
-<li><a href="https://windows11.techidaily.com/disable-auto-updates-in-windows-and-office-instantly/"><u>Disable Auto-Updates in Windows & Office Instantly</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Xiaomi 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-honor-x7b-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Honor X7b | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-max-entertainment-prime-selections-for-your-screen/"><u>The Ultimate Guide to Max Entertainment: Prime Selections for Your Screen</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-top-15-latest-innovations-in-tiktok-world/"><u>[New] 2024 Approved Top 15 Latest Innovations in TikTok World</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-optimizing-your-fb-video-ads-20-best-tips-for-success/"><u>[New] Optimizing Your FB Video Ads 20 Best Tips for Success</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/break-free-from-routine-with-these-unique-snapchat-ideas-for-2024/"><u>Break Free From Routine with These Unique Snapchat Ideas for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-overcoming-lol-launch-lag/"><u>Guide to Overcoming LOL Launch Lag</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-postpone-windows-10-shutdown-during-active-processes/"><u>Guide to Postpone Windows 10 Shutdown During Active Processes</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-oppo-a1x-5g-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Oppo A1x 5G Phones? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/modify-default-task-manager-viewport-in-win11/"><u>Modify Default Task Manager Viewport in Win11</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/navigating-uncertainty-identifying-common-dangers-in-crypto-investment-insights-from-yl-software/"><u>Navigating Uncertainty: Identifying Common Dangers in Crypto Investment - Insights From YL Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-usb-device-errors-on-windows-pcs/"><u>Overcoming USB Device Errors on Windows PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/restoring-steam-offline-status-on-pc/"><u>Restoring Steam Offline Status on PC</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/est-film-alternates-ranked-7-picks-for-2024/"><u>Six Best Film Alternates Ranked #7 Picks for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/stop-spontaneous-scrolls-a-winworlders-guide/"><u>Stop Spontaneous Scrolls: A Winworlder's Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-windows-update-failures-error-x712/"><u>Tackling Windows Update Failures: Error X712</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-8-essential-gadgets-for-seamless-business-travels-insights-from-zdnet/"><u>Top 8 Essential Gadgets for Seamless Business Travels: Insights From ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-1110-hacks-swift-recovery-of-synapse-functions/"><u>Windows 11/10 Hacks: Swift Recovery of Synapse Functions</u></a></li>
 </ul></div>
 

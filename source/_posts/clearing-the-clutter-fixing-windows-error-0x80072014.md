@@ -1,7 +1,7 @@
 ---
 title: "Clearing the Clutter: Fixing Windows Error 0X80072014"
-date: 2024-08-08T05:56:57.246Z
-updated: 2024-08-09T05:56:57.246Z
+date: 2025-01-03T17:15:55.911Z
+updated: 2025-01-10T16:02:45.709Z
 tags:
   - windows10
   - windows11
@@ -24,24 +24,21 @@ thumbnail: https://thmb.techidaily.com/d24bf389d1254603d8aad9f86f16f5f0cd9be072e
 
  Running an SFC scan can fix the error by fixing any corrupt system files associated with the proper functioning of the ACL. If the files are missing, a DISM scan will replace them using a cached Windows system image file. If these two scans don't work, the problem could be related to hard disk errors, which you can fix with a CHKDSK scan.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![DISM scan health restore health command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dism-scan-health-restore-health-command-prompt.jpg)
 
  The above-mentioned tools are [built into Windows to help repair corrupt or damaged files](https://www.makeuseof.com/windows-built-in-repair-tools), and you should familiarize yourself with how and when to use them.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Close All Universal Windows Platform (UWP) Apps
 
  Sometimes, UWP apps can lock resources when they're running in their sand-boxed environment. They're not supposed to, but when they do, you can get the “access control entry is corrupt” error message. To fix this, close the UWP app you suspect is the culprit and then update or reinstall it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Change Ownership of the Affected File or Folder
 
@@ -50,23 +47,24 @@ thumbnail: https://thmb.techidaily.com/d24bf389d1254603d8aad9f86f16f5f0cd9be072e
 1. Right-click the file or folder and select **Properties**.  
 ![the context menu in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-context-menu-in-windows-11.jpg)
 2. Select the **Security** tab and then click on **Advanced** at the bottom to open the **Advanced Securities** window for the file.  
+
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![the Security tab of a file on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-security-tab-of-a-file-on-windows.jpg)
 3. Next to the **Owner**, check to see if your username is listed as the owner of the file or folder. If it isn't, that may be the problem. So, click on the **Change** link next to it to open the Select User or Group window.  
 ![the Advanced Settings window of a file on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-advanced-settings-window-of-a-file-on-windows.jpg)
 4. Click **Advanced** to open the **Select User or Group (Advanced)** window.  
+
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![the Select User or Group window of a file on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-select-user-or-group-window-of-a-file-on-windows.jpg)
 5. Click **Find Now** to search for the available users on your Windows computer.  
 ![the advanced Select User or Group window of a file on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-advanced-select-user-or-group-window-of-a-file-on-windows.jpg)
 6. In the search results at the bottom, select your username and click **OK**.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![the advanced Select User or Group window of a file on Windows with a list user on the PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/the-advanced-select-user-or-group-window-of-a-file-with-a-list-of-users-on-windows.jpg)
 7. Back in the **Select User or Group** window, click **OK**.
 8. In the **Advanced Securities** window, click **Apply** and then **OK**.
@@ -80,8 +78,9 @@ thumbnail: https://thmb.techidaily.com/d24bf389d1254603d8aad9f86f16f5f0cd9be072e
  Try to access the file or folder (provided it is in a publicly available directory), and if the error doesn't pop up, you can migrate the necessary files from the old account to the new one.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Restore the Access Control List
 
  If none of the solutions above have worked, then it might be time to restore the ACL itself. To do that, first, [back up your Windows 10 computer](https://www.makeuseof.com/tag/ultimate-windows-10-data-backup-guide/) or [back up your Windows 11 computer](https://www.makeuseof.com/windows-11-create-complete-backup/).
@@ -94,12 +93,29 @@ thumbnail: https://thmb.techidaily.com/d24bf389d1254603d8aad9f86f16f5f0cd9be072e
 
  We're going to show you how to get rid of the “access control entry is corrupt” error on your Windows computer.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-streamlining-video-playback-with-safaris-pip/"><u>[Updated] 2024 Approved Streamlining Video Playback with Safari's PIP</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-medium-article-imagery-scales/"><u>[Updated] In 2024, Medium Article Imagery Scales</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-xiaomi-redmi-k70e-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Xiaomi Redmi K70E Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/firefox-error-solved-understanding-and-fixing-secerrorunknownissuer/"><u>Firefox Error Solved: Understanding and Fixing SEC_ERROR_UNKNOWN_ISSUER</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-oppo-find-x6-pro-is-unlocked-by-drfone-android/"><u>How To Check if Your Oppo Find X6 Pro Is Unlocked</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-emulate-macos-layout-in-windows-top-5-strategies/"><u>How to Emulate macOS Layout in Windows: Top 5 Strategies</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-google-pixel-7a-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Google Pixel 7a Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-the-soon-to-end-license-alert-in-winoses/"><u>Overcoming the Soon-to-End License Alert in WinOSes</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/repairing-broken-windows-11-taskbar/"><u>Repairing Broken Windows 11 Taskbar</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-restarting-windows-default-settings/"><u>Steps for Restarting Windows Default Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-re-capturing-run-timeline/"><u>Tips for Re-Capturing Run Timeline</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-windows-11s-swift-access-shortcuts/"><u>Unlocking Windows 11'S Swift Access Shortcuts</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-best-4-windows-compatible-webp-image-vendors/"><u>Unveiling The Best 4 Windows-Compatible WebP Image Vendors</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-full-potential-of-windows-snip-and-sketch-capabilities/"><u>Unveiling the Full Potential of Windows' Snip and Sketch Capabilities.</u></a></li>
+</ul></div>
 

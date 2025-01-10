@@ -1,7 +1,7 @@
 ---
 title: Ejecting Unsolicited Windows Updates
-date: 2024-07-29T04:23:44.513Z
-updated: 2024-07-30T04:23:44.513Z
+date: 2025-01-08T19:54:10.878Z
+updated: 2025-01-10T23:08:29.068Z
 tags:
   - windows10
   - windows11
@@ -30,9 +30,9 @@ thumbnail: https://thmb.techidaily.com/650f46c8db195bf984ecb592d4a15814bfd7afa08
 4. Select this option to restart your computer and install the pending updates.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Install Pending Updates
 
  If your computer keeps reminding you to update and shuts down, check for pending updates. It is possible that the updates were not installed properly and Windows is now asking you to complete them.
@@ -56,9 +56,11 @@ DbSchema database designer for all databases, schema design in the team, schema 
 3. On the next page, click **Other trouble-shooters**.  
 ![Other troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/other-troubleshooters.jpg)
 4. Look for **Windows Update** and click **Run** next to it.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Run Windows Update Troubleshooter-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-windows-update-troubleshooter-1.jpg)
 
  Follow the instructions on the screen to let Windows Update Troubleshooter detect and fix problems. After running the troubleshooter, restart your computer and check if it solves the issue.
@@ -78,11 +80,13 @@ net stop msiserver`
 5. After that, open File Explorer and navigate to this path:  
 `C:\Windows\SoftwareDistribution`
 6. In the SoftwareDistribution folder, select all the files and delete them permanently.  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Clear SoftwareDistribution Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/clear-softwaredistribution-folder.jpg)
 7. When a permissions pop-up appears, select the checkbox and click **Continue**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. After you delete the Software Distribution folder, you must restart the services you stopped. To do so, go back to the Command Prompt window and run the following command:  
 `net start wuauserv  
 net start bits  
@@ -93,6 +97,10 @@ net start msiserver`
 
  ​​​​
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Disable Windows Update
 
  If you keep encountering the issue, disable the Windows Update service. This will stop Windows from automatically downloading updates and showing the message.
@@ -102,9 +110,6 @@ net start msiserver`
 1. Press **Win + R** on your keyboard to open the Run command window.
 2. Type **services.msc** in the dialog box and press Enter. This will open the Services console.
 3. Search for **Windows Update**, right-click on it, and select **Stop**.  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stop Windows Update Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/stop-windows-update-service.jpg)
 4. Now double-click on **Windows Update** to open the Properties window.
 5. On the **General** tab, click the **Startup type** drop-down and select **Disabled**.  
@@ -119,8 +124,9 @@ net start msiserver`
  ​​​​​After restarting, you should no longer see the “Update and Restart” or “Update and Shut Down” message.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Reset the Windows Update Components
 
  If none of the solutions above work, reset Windows Update components. It deletes all the temporary download files and resets the registry keys containing information about Windows Update. This process also clears any corrupted files associated with updates and allows Windows to download the updates again.
@@ -192,16 +198,11 @@ net start cryptsvc`
 
  The script will start resetting the Windows Update components and may take a few minutes to complete. Once done, restart your computer and this should solve the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ## Resolving Incorrect Notifications for Updates and Restarts
 
  Now that you know how to fix incorrect notifications for updates and restarts, you can avoid this issue in the future. Make sure Windows Update is configured correctly and reset components. Also, keep your computer updated with the latest security patches. Doing this will also ensure smooth system operation.
 
  However, you may sometimes encounter the same message prompting even after performing these actions. Read this guide to resolve this issue and stop getting such annoying notifications.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -209,3 +210,21 @@ net start cryptsvc`
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-the-backward-playbook-youtubes-video-flip/"><u>[New] 2024 Approved The Backward Playbook YouTube's Video Flip</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-drone-trailblazers-the-most-attentive-models/"><u>2024 Approved Drone Trailblazers The Most Attentive Models</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-how-to-loop-a-youtube-video-the-ultimate-guide/"><u>2024 Approved How to Loop a YouTube Video The Ultimate Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pixel-perfect-viewing-comparing-worlds-top-8k-televisions/"><u>2024 Approved Pixel-Perfect Viewing Comparing World's Top 8K Televisions</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-explorer-exploration-shun-common-pitfalls/"><u>Efficient Explorer Exploration: Shun Common Pitfalls</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-connectivity-expert-instructions-for-dns-configuration/"><u>Elevate Connectivity: Expert Instructions for DNS Configuration</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevating-poorly-performing-ccleaner-in-win11/"><u>Elevating Poorly Performing CCleaner in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-windows-experience-selecting-top-free-car-upgraders/"><u>Enhance Windows Experience: Selecting Top Free Car Upgraders</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-and-easy-methods-for-sharing-images-via-imessage/"><u>Quick and Easy Methods for Sharing Images via iMessage</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/transformative-design-robust-m1-powerhouse-a-detailed-review-of-apples-new-imac-experience/"><u>Transformative Design, Robust M1 Powerhouse: A Detailed Review of Apple's New iMac Experience</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/troubleshooting-scanners-how-to-fix-blurry-image-output-tips-from-yl-computing/"><u>Troubleshooting Scanners: How to Fix Blurry Image Output - Tips From YL Computing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-why-your-microphone-may-fail-to-capture-sound/"><u>Troubleshooting: Why Your Microphone May Fail to Capture Sound</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-nokia-c12-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Nokia C12 Users</u></a></li>
+</ul></div>
+

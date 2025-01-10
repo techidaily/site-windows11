@@ -1,7 +1,7 @@
 ---
 title: "Synchronize Your Files: Collective Directory Creation in Win11+11"
-date: 2024-12-30T19:57:31.042Z
-updated: 2025-01-03T19:07:39.881Z
+date: 2025-01-09T23:33:23.127Z
+updated: 2025-01-10T16:56:12.455Z
 tags:
   - windows10
   - windows11
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/2ceae87a9b9364e8de7f8199f6943542799e9e444
 6. Then, type **md** following the names of the folders in one command and execute it. For instance, if we want to create folders for the first 4 months of the year. We will execute the command as:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `md january february march april`  
@@ -60,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/2ceae87a9b9364e8de7f8199f6943542799e9e444
 ![Windows Terminal (Admin)](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/windows-terminal.jpg)
 2. Select Yes in the UAC prompt.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![UAC prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win11-terminal-uac.jpg)
 3. Now, execute the command mentioned below and change the \[Location\] with your targeted location for creating the folders.  
 `cd [Location]`
@@ -73,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/2ceae87a9b9364e8de7f8199f6943542799e9e444
 5. Once done, execute the following command. Replace the \[foldername\] with the names you want to give the folders.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `md "[foldername]", "[foldername]", "[foldername]", "[foldername]"`
@@ -81,11 +77,11 @@ thumbnail: https://thmb.techidaily.com/2ceae87a9b9364e8de7f8199f6943542799e9e444
 `md "january", "february", "march", "april"`  
 ![File names command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win11-terminal-md-files.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Finally, close the Powershell window and check if the folders have been created.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Use the Notepad to Create Multiple Folders at Once
 
@@ -108,6 +104,10 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
 
 ![Notepad file name](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/notepad-file-name.jpg)
 6. Expand the dropdown for Save as type and choose **All files**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7. Click **OK** and close the Notepad.
 8. Now, navigate to the location of the folder and open the bat file. Opening it should create the folders and their subfolders for you.
@@ -134,17 +134,17 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
 ![Clicking Yes in the UAC prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/folder-frenzy-agreement.jpg)
 4. Once the Folder Frenzy dialog launches, type the names of the folders you want to create and click on the **Create Folder** button. These folders will be created in the Folder Frenzy file.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Create folder in Folder Frenzy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/folder-frenzy-create-folder.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  From here, you can even take a step further and learn [how to launch multiple programs with one shortcut on Windows](https://www.makeuseof.com/tag/launch-multiple-programs-single-shortcut-using-batch-file/) to increase your productivity at work or school. In case you no longer need the tool after creating bulk folders, you can uninstall it. This won't automatically delete the folders you have created using the tool, unless the uninstallation process explicitly offers to do so and you confirm that action.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Create Multiple Folders in a Few Clicks on Windows
 
@@ -164,19 +164,21 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-optimal-free-webcam-video-grabber-app/"><u>[Updated] 2024 Approved Optimal Free Webcam Video Grabber App</u></a></li>
-<li><a href="https://windows11.techidaily.com/8-red-flags-before-factory-resetting-your-machine/"><u>8 Red Flags Before Factory Resetting Your Machine</u></a></li>
-<li><a href="https://windows11.techidaily.com/accelerate-launch-times-for-windows-11-apps/"><u>Accelerate Launch Times for Windows 11 Apps</u></a></li>
-<li><a href="https://windows11.techidaily.com/accelerate-win-valorant-loading-times-quickly/"><u>Accelerate Win-Valorant Loading Times Quickly</u></a></li>
-<li><a href="https://windows11.techidaily.com/bold-windows-11-remove-curved-edges/"><u>Bold Windows 11: Remove Curved Edges</u></a></li>
-<li><a href="https://windows11.techidaily.com/boost-productivity-and-grades-essential-study-methods-on-a-windows-pc/"><u>Boost Productivity and Grades: Essential Study Methods on a Windows PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/combatting-procedure-call-failures-in-malwarebytes-for-windows-os/"><u>Combatting Procedure Call Failures in Malwarebytes for Windows OS</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comprehensive-evaluation-of-netgear-c3700-dual-band-cabledsl-modem-router/"><u>Comprehensive Evaluation of Netgear C3700 Dual-Band Cable/DSL Modem-Router</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-essential-10-online-subtitle-cutting-apps/"><u>In 2024, Essential 10 Online Subtitle Cutting Apps</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-exclusive-list-of-8-best-apps-to-enhance-facebook-likes/"><u>In 2024, Exclusive List of 8 Best Apps To Enhance Facebook Likes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revamping-windows-11-the-ultimate-customization-manual/"><u>Revamping Windows 11: The Ultimate Customization Manual</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/rmvb-wifi/"><u>RMVB 프리미퓰어 모비딩 크론 공유 - 무료 WiFi업무용 변환 도구</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/transferencia-sencilla-del-sistema-operativo-windows-a-un-disco-duro-ssd-en-equipos-lenovo/"><u>Transferencia Sencilla Del Sistema Operativo Windows a Un Disco Duro SSD en Equipos Lenovo</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Meizu 21 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-essential-streamers-for-remote-church-attendance/"><u>[New] 2024 Approved Essential Streamers for Remote Church Attendance</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-step-by-step-guide-downloading-and-installing-obs-for-macos/"><u>[New] Step-by-Step Guide Downloading & Installing OBS for macOS</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-masterclass-in-monochrome-magic-a-professionals-guide/"><u>[Updated] 2024 Approved Masterclass in Monochrome Magic A Professional's Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-best-practices-for-saving-screen-and-webcam-chats/"><u>[Updated] Best Practices for Saving Screen and Webcam Chats</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-channel-changing-ideas-inspiring-videos-to-enhance-creativity-for-2024/"><u>[Updated] Channel-Changing Ideas Inspiring Videos to Enhance Creativity for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/fast-track-obtaining-adobe-reader-from-the-microsoft-shop/"><u>Fast Track: Obtaining Adobe Reader From the Microsoft Shop</u></a></li>
+<li><a href="https://windows11.techidaily.com/fine-tune-taskbar-length-on-windows-11/"><u>Fine-Tune Taskbar Length on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/guiding-through-application-launch-with-insufficient-qt-support/"><u>Guiding Through Application Launch with Insufficient Qt Support</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-successfully-uninstall-epic-games-hub-in-w11/"><u>How to Successfully Uninstall Epic Games Hub in W11</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-digital-replay-engine-how-to-download-and-preserve-lives/"><u>In 2024, Digital Replay Engine How to Download and Preserve Lives</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-tecno-pova-5-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Tecno Pova 5 Device SIM</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-freeframe-studio-gameplay-capture-made-simple-in-24/"><u>In 2024, FreeFrame Studio Gameplay Capture Made Simple in '24</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premier-platform-for-seminar-titles/"><u>In 2024, Premier Platform for Seminar Titles</u></a></li>
+<li><a href="https://windows11.techidaily.com/making-your-win11-taskbar-slim-a-visual-guide/"><u>Making Your Win11 Taskbar Slim: A Visual Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/propel-system-performance-quickly-enter-disk-editor-settings-on-windows-11/"><u>Propel System Performance: Quickly Enter Disk Editor Settings on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-route-to-enabling-the-dark-mode-in-notepad-on-win-11/"><u>Quick Route to Enabling the Dark Mode in Notepad on Win 11</u></a></li>
 </ul></div>
 

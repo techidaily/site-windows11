@@ -1,7 +1,7 @@
 ---
 title: Fixing Reference Mistake for Token in Windows 10/11
-date: 2024-12-28T20:09:08.521Z
-updated: 2025-01-04T01:26:21.810Z
+date: 2025-01-07T21:54:25.706Z
+updated: 2025-01-10T20:23:00.014Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. End and Restart File Explorer
@@ -46,14 +46,6 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 7. Input **Explorer.exe** inside the **Open** text box.  
 ![The Create new task window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/create-new-task.jpg)
 8. Select **Create this task with administrative privileges** and click **OK** to restart Explorer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Reregister Windows DLL Files
 
@@ -79,6 +71,10 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 
 ![The sfc /scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sfc-scannow-command5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Go Back to a Previous Windows Build Version
 
  If the “reference a token” error occurs after a recent Windows feature update, restoring the previous build version might resolve that issue. However, you can only restore a previous build version for a limited period. This is how you can restore a previous Windows build version:
@@ -90,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 
  If that option is grayed out, you can also try restoring the previous Windows build from the **Advanced options** menu. Open recovery options in Settings as outlined in steps one and two above and click **Restart** **now**. Then select **Troubleshoot** \> **Advanced** options and the **Go back** **to previous build** option if available.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Go Back to a Previous Restore Point
 
  System Restore is another tool that can resolve system file issues causing the “reference a token” error, but only if you have that utility enabled on your PC. If there’s a suitable restore point on your PC, you can roll back Windows to a previous point in time that predates the token reference error. Doing so might undo updates and other system changes that triggered the issue.
@@ -99,7 +99,7 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
  To apply this resolution, check out our [article about creating and utilizing restore points](https://www.makeuseof.com/windows-11-create-restore-point/). Choose a restore point that will roll Windows back to when you didn’t need to fix the token reference error. However, note that a system restore point will remove software packages installed after its date.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Reset Windows
@@ -107,7 +107,7 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
  Resetting Windows 11/10 is a last resort for fixing the “reference a token” error that will probably work. It’s best to save this probable resolution until last because you’ll need to reinstall all third-party UWP and desktop apps installed before the reset. You can apply this possible resolution as instructed within method one of our [how to factory reset Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/#:~:text=To%20run%20a%20Windows%20factory,%3E%20Update%20%26%20Security%20%3E%20Recovery.) guide.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Get the “Reference a Token” Error Sorted Out
@@ -126,14 +126,20 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/updated-pinnacle-ai-image-manipulation-suite/"><u>[Updated] Pinnacle AI Image Manipulation Suite</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-simple-guide-to-resolving-windows-error-0xc0000001/"><u>A Simple Guide to Resolving Windows Error 0xC0000001</u></a></li>
-<li><a href="https://windows11.techidaily.com/accessing-control-panel-with-ease-on-pcs/"><u>Accessing Control Panel with Ease on PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/cutting-edge-computing-10-non-windows-app-favorites/"><u>Cutting-Edge Computing: 10 Non-Windows App Favorites</u></a></li>
-<li><a href="https://windows11.techidaily.com/discovering-windows-11-browser-configuration/"><u>Discovering Windows 11 Browser Configuration</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Tecno Spark 20C | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-14-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 14 Lock Screen with Notifications?</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-transcribe-speaking-to-writing-free-of-charge/"><u>In 2024, Transcribe Speaking to Writing Free of Charge</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-nubia-z50-ultra-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Nubia Z50 Ultra</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-top-5-screen-recorder-for-chromebook-free-extensions/"><u>[New] 2024 Approved Top 5 Screen Recorder for Chromebook Free Extensions</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-minimca-manorettes-simple-and-sleek-homes-in-mc-world/"><u>[Updated] 2024 Approved MiniMCA Manorettes Simple & Sleek Homes in MC World</u></a></li>
+<li><a href="https://fox-access.techidaily.com/enhancing-video-creativity-with-effective-filmora-strategies/"><u>Enhancing Video Creativity with Effective Filmora Strategies</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-guide-to-enhancing-video-controls-and-performance-for-2024/"><u>Expert Guide to Enhancing Video Controls and Performance for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-to-disabling-tailored-content-feed-for-you-on-instagram/"><u>Guide to Disabling Tailored Content Feed for You on Instagram</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-the-complete-manual-for-modifying-cover-images/"><u>In 2024, The Complete Manual for Modifying Cover Images</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/is-je-gisterige-opgeloste-iphone-de-datum-van-de-tweef-bijna-onvergetelijk-is/"><u>Is Je Gisterige Opgeloste iPhone De Datum Van De Tweef Bijna Onvergetelijk Is?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/managing-and-expanding-storage-capacity-for-the/"><u>Managing & Expanding Storage Capacity for The</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-integrating-windows-calculator-into-microsoft-excel-2013s-quick-access-bar/"><u>Step-by-Step Guide: Integrating Windows Calculator Into Microsoft Excel 2013'S Quick Access Bar</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-using-excels-fill-handler-for-quick-sequential-data-entry/"><u>Step-by-Step Guide: Using Excel's Fill Handler for Quick Sequential Data Entry</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-tutorial-on-setting-fixed-columns-and-rows-in-microsoft-excel/"><u>Step-by-Step Tutorial on Setting Fixed Columns & Rows in Microsoft Excel</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-tutorial-constructing-self-updating-overview-charts-using-excel/"><u>Step-by-Step Tutorial: Constructing Self-Updating Overview Charts Using Excel</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-7-critical-microsoft-excel-tools-you-need-for-effective-budget-management/"><u>Top 7 Critical Microsoft Excel Tools You Need for Effective Budget Management</u></a></li>
+<li><a href="https://windows11.techidaily.com/transitioning-from-hours-to-fractions-a-step-by-step-guide-on-converting-time-to-decimal-format-in-excel/"><u>Transitioning From Hours to Fractions: A Step-by-Step Guide on Converting Time to Decimal Format in Excel</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-directx-issues-in-battlefield-2042-a-step-by-step-guide/"><u>Troubleshooting DirectX Issues in Battlefield 2042 – A Step-by-Step Guide</u></a></li>
 </ul></div>
 

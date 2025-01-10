@@ -1,7 +1,7 @@
 ---
 title: Customize Windows 11 Notifications to Exclude Extras
-date: 2024-08-08T05:57:08.955Z
-updated: 2024-08-09T05:57:08.955Z
+date: 2025-01-05T20:06:47.830Z
+updated: 2025-01-10T18:19:33.415Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/097da45e601814f3f9c7530b7e6070342fc3124e5
 
  Tips and suggestions provide quick guides to Windows and its features. But if you find them annoying, you can turn them off. Here are two easy methods to turn off tips and suggestions notifications on Windows 11\.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. How to Turn Off Tips and Suggestions Using System Settings
 
  To turn off tips and suggestions on your computer, you can use the System Settings. This is the easiest and quickest way to mute these notifications. Here's how to do it:
@@ -31,16 +35,14 @@ thumbnail: https://thmb.techidaily.com/097da45e601814f3f9c7530b7e6070342fc3124e5
 1. Press **Win + I** to open the Settings window.
 2. From the left panel, click on the **System** tab.
 3. In the System Settings sub-panel, click on the **Notifications** section.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![Open System Notification Section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/open-system-notification-section.jpg)
 4. Next, scroll down to the bottom and expand **Additional settings**.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Get tips and suggestions when using Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/get-tips-and-suggestions-when-using-windows.jpg)
 5. You will see a checkbox labeled **Get tips and suggestions when using Windows**. Uncheck it to turn off this feature.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now, you will not see any tips and suggestions notifications on your computer. If later you wish to re-enable this feature, follow the same steps outlined above and check the "Get tips and suggestions when using Windows" checkbox. Doing this will enable tips and suggestions notifications on your computer.
 
@@ -62,15 +64,13 @@ thumbnail: https://thmb.techidaily.com/097da45e601814f3f9c7530b7e6070342fc3124e5
  This will turn off tips and suggestions notifications in Windows 11\. To enable these notifications once again, delete the file you just created. Alternatively, double-click on it and click **No** in the confirmation dialog.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Disable Tips and Suggestions Notifications in Windows 11
 
  If you prefer to disable tips and suggestions notifications on your computer completely, there are several options available. You can utilize the Group Policy Editor, modify the registry editor, or create a REG file. Let's explore each method in detail to disable this feature.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 1\. Disable Tips and Suggestions Notifications Using Group Policy Editor
 
  To turn off notifications for tips and suggestions, access the Group Policy Editor. This tool is available for Windows Pro, Education, and Enterprise users. However, it won't work if you use Windows Home Edition.
@@ -84,9 +84,18 @@ Computer Configuration > Administrative Templates > Windows Components > Cloud C
 4. On the right side of the window, double-click on the **Do not show Windows tips** policy.  
 ![Do not Show Windows Tips](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/do-not-show-windows-tips.jpg)
 5. From the box that appears, select the **Enabled** radio button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click **Apply** \> **OK** to save the changes.
 
  Now, tips and suggestions notifications will be completely disabled on your computer. To re-enable the feature, follow the same steps and select the **Not Configured** or **Disabled** radio button instead.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Disable Tips and Suggestions Notifications Using the Registry Editor
 
@@ -108,9 +117,6 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\CloudContent
 
  After restarting, tips and suggestions notifications will be disabled on your computer. If you want to enable the feature, follow the same steps and change the Value data to **0**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Disable Tips and Suggestions Notifications Using a REG File
 
  You can also create a REG file to turn off tips and suggestions notifications on your Windows PC. This method is quite similar to the one we discussed above. However, the process is easier for those with little experience editing registry files.
@@ -128,16 +134,11 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\CloudContent
 
  That’s it! Tips and suggestions feature is now disabled on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Stop the Windows Tips and Suggestions Notifications
 
  We hope that this article helped you understand how to turn off or disable tips and suggestions notifications in Windows 11\. All it takes are a few clicks or a simple REG file to enable or disable this feature.
 
  In this article, we’ll discuss how to turn off or disable tips and suggestions notifications on Windows 11\.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -145,4 +146,20 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\CloudContent
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-mac-high-quality-video-and-audible-recording/"><u>[Updated] 2024 Approved Mac High-Quality Video & Audible Recording</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-access-tons-of-free-vocal-textures-for-2024/"><u>[Updated] Access Tons of Free Vocal Textures for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-expertise-for-changing-meet-usernames-laptopmobile/"><u>[Updated] Expertise for Changing Meet Usernames (Laptop/Mobile)</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/como-recuperar-documentos-eliminados-inadvertidamente-desde-el-contenedor-de-eliminacion-rapida-de-microsoft-onedrive/"><u>Cómo Recuperar Documentos Eliminados Inadvertidamente Desde El Contenedor De Eliminación Rápida De Microsoft OneDrive</u></a></li>
+<li><a href="https://windows11.techidaily.com/faster-printouts-with-easy-windows-troubleshooting/"><u>Faster Printouts with Easy WIndows Troubleshooting</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-motorola-razr-40-ultra-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Motorola Razr 40 Ultra FRP?</u></a></li>
+<li><a href="https://windows11.techidaily.com/new-era-of-productivity-microsofts-ai-integration-in-windows-11-taskbar/"><u>New Era of Productivity: Microsoft's AI Integration in Windows 11 Taskbar</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-windows-for-productivity-add-software-actions/"><u>Optimizing Windows for Productivity: Add Software Actions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/painting-with-light-an-experts-guide-to-color-grading/"><u>Painting with Light An Expert's Guide to Color Grading</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/recordingease-minimalistic-win-11-screen-captures/"><u>RecordingEase Minimalistic Win 11 Screen Captures</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-7-windows-cryptography-tools-under-156-chars/"><u>Top 7 Windows Cryptography Tools (Under 156 Chars)</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/upgrade-your-projects-free-reactive-design-tools-by-creative-tim-including-bootstrap-3-react-and-reactstrap-integration/"><u>Upgrade Your Projects: Free Reactive Design Tools by Creative Tim, Including Bootstrap 3, React, and Reactstrap Integration</u></a></li>
+</ul></div>
 

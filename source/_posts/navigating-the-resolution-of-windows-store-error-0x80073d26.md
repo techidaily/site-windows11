@@ -1,7 +1,7 @@
 ---
 title: Navigating the Resolution of Windows Store Error 0X80073D26
-date: 2024-12-27T18:04:20.349Z
-updated: 2025-01-04T00:33:27.671Z
+date: 2025-01-07T22:29:46.058Z
+updated: 2025-01-10T19:02:56.007Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/e0fa0d67e26442f6514904daf3cc23134382c2cc5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Run the Windows Store App Troubleshooting Tool
 
  This isn’t the most likely solution for error 0x80073D26, but it’s worth trying since Microsoft Store is a UWP app. Running the Windows Store App troubleshooter might detect a Microsoft Store issue and provide a fix. These are the steps for running the Windows Store App troubleshooting utility:
@@ -37,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/e0fa0d67e26442f6514904daf3cc23134382c2cc5
 5. Apply all troubleshooting suggestions provided within Windows Store Apps window.  
 
 ![The Windows Store Apps window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-store-app-troubleshooter.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can run the same troubleshooter tool in Windows 10, but the steps for accessing it are a bit different. Click **Update & Security** \> **Troubleshoot** \> **Additional troubleshooters** in Windows 10’s Settings app. Then select **Windows Store Apps** \> **Run the troubleshooter** to get troubleshooting.
 
@@ -60,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/e0fa0d67e26442f6514904daf3cc23134382c2cc5
 
 6. Exit Registry Editor and restart your PC.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Reinstall the Microsoft Gaming Service
 
  One of Microsoft’s official resolutions for error 0x80073D26 is to reinstall Gaming Service. This potential solution involves entering three PowerShell commands that will remove the Gaming Service app along with associated registry entries. These are the steps for applying this potential fix:
@@ -77,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/e0fa0d67e26442f6514904daf3cc23134382c2cc5
 5. Then input these separate commands, pressing **Return** after each:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServices" -recurse  
@@ -90,10 +94,6 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
 `start ms-windows-store://pdp/?productid=9MWPM2CQNLHN`
 8. Then click the **Get** button for installing Gaming Service.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Perform Some Generic Windows Fixes for Errors
 
  Windows is by no means impervious to errors. Fortunately, there are some tricks you can apply to almost every error, including this one.
@@ -102,10 +102,14 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
 
 ![The Reset button for Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-button-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To begin with, try repairing system files to see if there are any issues. You can do that by executing a System File Checker scan within the Command Prompt. That tool will check for and repair corrupted system files detected when you run its command. To apply this potential fix, follow the instructions in our [how to run the System File Checker tool](https://www.makeuseof.com/system-file-checker-sfc-windows/) guide.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Set Windows to Clean Boot
@@ -113,7 +117,7 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
 ![The Services tab in MSConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-services-tab.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Another possibility is that a software conflict might be causing error 0x80073D26 to occur on your PC. Setting Windows to clean boot by disabling third-party startup items will likely eliminate such a potential cause. That will stop third-party apps and services that could be conflicting with the Microsoft Store from automatically starting.
@@ -129,7 +133,7 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
  There isn’t a standard uninstall option available for Microsoft Store. So, you’ll have to reinstall that app with two PowerShell commands. Our guide about [how to reinstall the Microsoft Store](https://www.makeuseof.com/remove-reinstall-microsoft-store-windows-11/) tells you how to apply this potential fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Perform an In-Place Windows Upgrade
@@ -143,10 +147,6 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
 ![The Windows 11 Setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-11-setup-window2.jpg)
 
  You can also perform a Windows 10 in-place upgrade much the same. One difference is that you’ll need to download a Windows 10 Setup file by clicking **Download tool** on the [Microsoft Windows 10 download webpage](https://www.microsoft.com/en-gb/software-download/windows10). Then select **Upgrade this PC** now in the Windows 10 Setup wizard to install the latest version of the OS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Enjoy the Best Xbox Game Pass Games Available on the Microsoft Store
 
@@ -164,24 +164,22 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-expert-insights-bridging-obs-and-facebook-live-streaming/"><u>[New] Expert Insights Bridging OBS and Facebook Live Streaming</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-behind-the-scenes-of-youtube-income-generation/"><u>[Updated] In 2024, Behind the Scenes of YouTube Income Generation</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypassing-the-windows-lsa-disablement-warning/"><u>Bypassing the Windows LSA Disablement Warning</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/convertissez-vos-videos-en-un-clin-doeil-avec-movavi-achetez-votre-licence-standard-des-maintenant/"><u>Convertissez Vos Vidéos en Un Clin D'œil Avec Movavi : Achetez Votre Licence Standard Dès Maintenant</u></a></li>
-<li><a href="https://windows11.techidaily.com/extend-the-time-windows-11-spends-in-shutdown-with-ongoing-jobs/"><u>Extend the Time Windows 11 Spends in Shutdown with Ongoing Jobs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-embed-google-play-into-your-win11/"><u>How to Embed Google Play Into Your Win11</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-7-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 7 to other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/improve-file-selection-techniques-activating-windows-11-boxes/"><u>Improve File Selection Techniques: Activating Windows 11 Boxes</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-on-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock on Apple iPhone 14 Pro</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-watching-dragon-ball-series-properly/"><u>Mastering the Art of Watching Dragon Ball Series Properly</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-the-nuances-of-widget-alerts-in-windows/"><u>Navigating the Nuances of Widget Alerts in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-missed-files-in-steam-and-windows-11/"><u>Overcoming Missed Files in Steam & Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-xc0f1103f-flaw-with-nvidias-windows-software/"><u>Overcoming XC0F1103F Flaw with Nvidia's Windows Software</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-google-pixel-7a-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Google Pixel 7a</u></a></li>
-<li><a href="https://windows11.techidaily.com/remedy-the-already-in-use-local-device-name-mistake-on-pcs/"><u>Remedy the 'Already in Use' Local Device Name Mistake on PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719349405273-say-no-to-incompatibility-quick-solutions-for-vistawindows-7-users/"><u>Say No to Incompatibility: Quick Solutions for Vista/Windows 7 Users.</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/outube-makeup-craft-color-correction-essentials/"><u>The YouTube Makeup Craft Color Correction Essentials</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-strategies-to-overcome-dota-2-slowdowns/"><u>Top Strategies to Overcome Dota 2 Slowdowns</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlock-the-potential-of-painting-with-microsoft-paint-on-windows-11/"><u>Unlock the Potential of Painting with Microsoft Paint on Windows 11</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-cutting-edge-tools-for-unique-youtube-channel-names-for-2024/"><u>[Updated] Cutting-Edge Tools for Unique YouTube Channel Names for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-home-filmmaking-mastery-with-5-easy-diy-hacks/"><u>[Updated] Home Filmmaking Mastery with 5 Easy DIY Hacks</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-samsung-galaxy-a15-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-best-youtube-shorts-video-editing-apps-for-ios-and-android/"><u>In 2024, Best YouTube Shorts Video Editing Apps for iOS and Android</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Realme C67 5G? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-from-apple-iphone-15-pro-max-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide from Apple iPhone 15 Pro Max iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/innovative-uses-of-chatgpt-that-can-transform-your-remote-working-experience/"><u>Innovative Uses of ChatGPT That Can Transform Your Remote Working Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-multiview-tech-with-windows/"><u>Mastering Multiview Tech with Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/mending-the-could-not-call-runtime-problem-in-malwarebytes-windows/"><u>Mending the Could Not Call Runtime Problem in Malwarebytes Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-no-script-zone-essential-4-steps-for-ps-execution-restoration/"><u>Navigating the No-Script Zone: Essential 4 Steps for PS Execution Restoration</u></a></li>
+<li><a href="https://windows11.techidaily.com/reverting-lost-presets-for-win-11-sleep-mode/"><u>Reverting Lost Presets for Win 11 Sleep Mode</u></a></li>
+<li><a href="https://windows11.techidaily.com/scripting-changes-to-fn-key-settings-in-win-1011/"><u>Scripting Changes to FN Key Settings in Win 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-choosing-between-snipping-tool-and-printscreen/"><u>The Ultimate Guide to Choosing Between Snipping Tool and PrintScreen</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-and-fixing-winscomrssvdll-errors-in-windows-78/"><u>Understanding and Fixing WinscomrssvDll Errors in Windows 7/8</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-samsung-galaxy-f14-5g-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Samsung Galaxy F14 5G Device</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-video-editing-for-beginners-a-microsoft-guide-for-windows-users/"><u>Updated In 2024, Video Editing for Beginners A Microsoft Guide for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-11s-error-740-a-strategic-plan-for-correction-and-compensation/"><u>Win 11’S Error 740: A Strategic Plan for Correction and Compensation</u></a></li>
 </ul></div>
 

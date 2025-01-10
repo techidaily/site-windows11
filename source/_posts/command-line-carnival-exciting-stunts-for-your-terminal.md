@@ -1,7 +1,7 @@
 ---
 title: "Command Line Carnival: Exciting Stunts for Your Terminal"
-date: 2024-08-08T05:57:23.669Z
-updated: 2024-08-09T05:57:23.669Z
+date: 2025-01-05T21:45:54.615Z
+updated: 2025-01-10T20:20:59.695Z
 tags:
   - windows10
   - windows11
@@ -19,8 +19,9 @@ thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453
  Command Prompt holds almost endless possibilities, and it's doubtful many know the full extent of what a few lines of code can accomplish. Whether you're a Command Prompt expert or you just like to pull it up to show off, here are 5 fun or interesting things you can see in Command Prompt, right now.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Customize Your Look
 
 ![screenshot of a customized command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_customized_cmd.jpg)
@@ -31,15 +32,16 @@ thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453
 
 ![screenshot of cmd properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_cmd_properties_window.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Font**, **Layout** and **Colors** have more immediate options, such as changing text size and colors. Head into **Terminal** to alter some elements of the text cursor.
 
  You can make some pretty ridiculous Command Prompts this way, or further refine the window to your exact needs. The features are so extensive that it might be worth brushing up on [customizing the command prompt](https://www.makeuseof.com/windows-customize-command-prompt/) if it's something that interests you.
 
 ## 2\. Watch Star Wars on Command Prompt
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![screenshot of the cmd telnet star wars recreation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_cmd_telnet_starwars_recreation.jpg)
 
  This one has the potential to lead to a lot of fun, and even some curious looks from anyone who might not be privy to how Command Prompt works.
@@ -48,9 +50,6 @@ thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453
 
  In Windows 10 or 11, press **Win + Q**, type in **telnet**, and then select **Turn Windows features on or off**. Scroll down to the **Telnet Client** entry, check the box, and click **OK.** Afterward, you can close this window.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![screenshot of the windows features window showing telnet client selected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_windows_features_telnet_client.jpg)
 
  Now, here's the fun part. Run the following commands, hitting **Enter** after each one:
@@ -61,13 +60,11 @@ thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453
  Lean back and enjoy a bizarre recreation of Star Wars!
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. More Telnet Fun: Command Prompt Aquarium
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![screenshot of a cmd window showing telnet aquarium](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_cmd_telnet_aquarium.jpg)
 
  You may have noticed other fun options when running the **telnet telehack.com** command.
@@ -77,6 +74,10 @@ thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453
  Most notable next to the ASCII recreation of Star Wars is the **aquarium** command.
 
  Input this command instead of **starwars** from the previous section to be treated to an ASCII aquarium so nice, it may as well be your screen saver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Change the Window Title
 
@@ -88,9 +89,6 @@ thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453
 
  It's relatively useless outside organizing multiple Command Prompts, but it's a fun detail to keep in mind.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ## 5\. Trace Where Your Data Goes
 
  This one is as fun as it is interesting, and it has legitimate uses in networking and troubleshooting.
@@ -103,6 +101,10 @@ thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453
 
 [Consider reading more about Traceroute](https://www.makeuseof.com/traceroute-what-is-it/), as it can be helpful in network troubleshooting as well.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Shut Down Your Computer Without the Mouse or Power Button
 
 ![screenshot of the shutdown command in the command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_shutdown_command_cmd.jpg)
@@ -113,16 +115,11 @@ thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453
 
  Is there much purpose to this command? If you're working with batch files, maybe, but the average user might just prefer to shut down their computer the usual way. This command might not have much practical use, but it's a fun trick all the same.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fun With Command Prompt
 
  Despite being one of the most plain-looking interfaces imaginable, a user can still very easily have some fun with the Command Prompt. The items listed here don't even scratch the surface of the hacks and tricks you can pull off with Command Prompt.
 
  Regardless, fun is important, and if you can find it in the most unlikely places, why not?
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -130,4 +127,25 @@ thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-premier-fb-viewing-sites-ranked-1-10-for-2024/"><u>[New] Premier FB Viewing Sites Ranked #1-10 for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-strategic-hash-tags-to-launch-you-into-six-figures-for-2024/"><u>[Updated] Strategic Hash Tags to Launch You Into Six Figures for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/could-macos-be-the-next-big-thing-in-gaming/"><u>Could MacOS Be the Next Big Thing in Gaming?</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/discovering-gems-20-underrated-tiktok-raps/"><u>Discovering Gems 20 Underrated TikTok Raps</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-hp-officejet-pro-9015-printer-driver/"><u>Download & Update HP OfficeJet Pro 9015 Printer Driver</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/expert-tips-for-retrieving-lost-data-recovering-overwritten-documents-on-microsoft-windows-systems/"><u>Expert Tips for Retrieving Lost Data: Recovering Overwritten Documents on Microsoft Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/from-cr2-to-jpg-on-windows-a-comprehensive-conversion-guide/"><u>From CR2 to JPG on Windows: A Comprehensive Conversion Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/iosandroid-tips-attaching-audio-posters-on-facebook-for-2024/"><u>IOS/Android Tips Attaching Audio Posters on Facebook for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/mending-file-history-setting-glitch-in-windows-os/"><u>Mending File History Setting Glitch in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/precision-in-diagnosis-navigating-through-windows-error-messages-with-command-line-skills/"><u>Precision in Diagnosis: Navigating Through Windows Error Messages with Command Line Skills</u></a></li>
+<li><a href="https://windows11.techidaily.com/rewind-and-restore-key-applications-for-changing-createdmodified-dates/"><u>Rewind and Restore: Key Applications for Changing Created/Modified Dates</u></a></li>
+<li><a href="https://windows11.techidaily.com/supercharge-win11s-notepad-with-astute-mentor/"><u>Supercharge Win11's Notepad with Astute Mentor</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailor-made-window-ordering-powertoy-guide-to-win-os-snaps/"><u>Tailor-Made Window Ordering: PowerToy Guide to Win OS Snaps</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-shortcut-compendium-windows-narrators-command-guide/"><u>The Ultimate Shortcut Compendium: Windows Narrator's Command Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-infinix-smart-7-hd-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Infinix Smart 7 HD Android SIM Unlock APK</u></a></li>
+<li><a href="https://windows11.techidaily.com/what-is-winservicesexe-insights-for-windows-users/"><u>What Is WinServices.exe? Insights for Windows Users</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+</ul></div>
 

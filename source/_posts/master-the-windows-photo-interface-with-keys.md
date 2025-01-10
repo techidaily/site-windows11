@@ -1,7 +1,7 @@
 ---
 title: Master the Windows Photo Interface with Keys
-date: 2024-12-30T18:45:17.948Z
-updated: 2025-01-04T00:42:12.221Z
+date: 2025-01-08T18:43:18.613Z
+updated: 2025-01-10T20:52:10.180Z
 tags:
   - windows10
   - windows11
@@ -25,17 +25,9 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## All the Keyboard Shortcuts for Windows Photos
 
  The following keyboard shortcuts will help you use Photos more efficiently:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Play or Pause the Video
 
@@ -49,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 
  The shortcut to show or hide commands in the Photos app is the**Spacebar** while viewing a photo. Keep in mind that it only works while viewing a photo.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Scroll Up, Down, Left, or Right
 
  The shortcut to scroll up, down, left, or right in the Photos app is the**Arrow** key. The up and down arrow keys will scroll vertically and the left and right arrow keys will scroll horizontally.
@@ -60,10 +56,6 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 ### 6\. Reset Zoom on a Photo
 
  In the Photos app, the shortcut to reset zoom is the**Ctrl + 0** (zero) key. This will reset the zoom level to its default settings.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 7\. Return to the Previous Screen
 
@@ -77,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 
  In the Photos app, the shortcut to print is the**Ctrl + P** key. This will open up a print dialogue box, allowing you to select the printer, paper size, quality, and other options before printing.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 10\. Copy
 
  The shortcut to copy in the Photos app is the**Ctrl + C** key. This will copy the current photo or video to the clipboard, so it can be pasted into another location.
@@ -89,10 +77,6 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 
  The shortcut to enhance a photo in the Photos app is the**Ctrl + E** key. This will open up an "Auto Enhance" window, allowing you to apply various adjustments such as brightness, contrast, and color.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 12\. Undo Changes
 
  In the Photos app, the shortcut to undo changes is the**Ctrl + Z** key. This will undo any changes made to the currently selected photo or video.
@@ -100,6 +84,10 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 ### 13\. Redo Changes
 
  The shortcut to redo changes in the Photos app is the**Ctrl + Y** key. This will redo any changes that were undone with the Ctrl + Z key.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 14\. View Original
 
@@ -110,7 +98,7 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
  The shortcut to start a slide show in the Photos app is the**F5** key. This will open up a full-screen slideshow of all the images and videos in the current folder.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 16\. Stop a Slide Show
@@ -121,20 +109,32 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 
  The shortcut to view file info in the Photos app is the**Alt + Enter** key. This will open up a window with detailed information about the selected photo or video, such as its size, and more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 18\. Set As Lock Screen
 
  The shortcut to set a photo or video as the lock screen in the Photos app is the**Ctrl + L** key. This will open up a window where you can select the image or video to be used as your lock screen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 19\. Create a New Album
 
  In the Photos app, the shortcut for creating a new album is the**Ctrl + N** key. This will open up a window where you can enter the name and description of the new album.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 20\. Remove the Album
 
  The shortcut to remove an album in the Photos app is the**Ctrl + R** key. This will delete the selected album and all of its contents.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 21\. Move Within the Photo
@@ -150,7 +150,7 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
  In the Photos app, the shortcut to show the next or previous item is the Left or right arrow keys. It is only possible to do this with a single item or slide show.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 24\. Resize Crop or Selective Focus Area
@@ -162,7 +162,7 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
  The shortcut to move the crop or selective focus area in the Photos app is the**Ctrl + Arrow** keys. Holding down the Ctrl key while using the arrow keys will allow you to move the crop or selective focus area.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Photos App Has More to Offer
@@ -184,22 +184,15 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-maximizing-earnings-on-youtube-universal-device-accessibility/"><u>[Updated] 2024 Approved Maximizing Earnings on YouTube Universal Device Accessibility</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-harness-the-power-of-engagement-in-instagram-videos/"><u>[Updated] In 2024, Harness the Power of Engagement in Instagram Videos</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-turbocharge-your-photos-windows-11-edition-for-2024/"><u>[Updated] Turbocharge Your Photos Windows 11 Edition for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/advanced-security-automating-passwords-in-windows-texts/"><u>Advanced Security: Automating Passwords in Windows Texts</u></a></li>
-<li><a href="https://tools.techidaily.com/apowersoft/data-recovery/"><u>ApowerRecover</u></a></li>
-<li><a href="https://windows11.techidaily.com/archiving-acumen-covertly-concealing-zip-in-photos-win11/"><u>Archiving Acumen: Covertly Concealing ZIP in Photos (Win11)</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypassing-low-end-specs-for-effective-game-capture/"><u>Bypassing Low-End Specs for Effective Game Capture</u></a></li>
-<li><a href="https://windows11.techidaily.com/conquer-compatibility-issues-windows-troubleshooting-blueprint/"><u>Conquer Compatibility Issues: Windows Troubleshooting Blueprint</u></a></li>
-<li><a href="https://windows11.techidaily.com/cool-off-cycles-in-the-world-of-computers/"><u>Cool-Off Cycles in the World of Computers</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-failed-windows-update-with-error-code-0x800f0845/"><u>Correcting Failed Windows Update with Error Code 0X800f0845</u></a></li>
-<li><a href="https://windows11.techidaily.com/cutting-down-the-memory-usage-of-your-security-app/"><u>Cutting Down the Memory Usage of Your Security App</u></a></li>
-<li><a href="https://windows11.techidaily.com/deciphering-system-errors-win-os-and-df-conundrums-solved/"><u>Deciphering System Errors: Win OS and DF Conundrums Solved</u></a></li>
-<li><a href="https://driver-error.techidaily.com/essential-fixes-for-hardware-devices-in-windows-manager/"><u>Essential Fixes for Hardware Devices in Windows Manager</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-on-poco-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Videos Not Playing on Poco ?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-investigating-authenticitys-role-in-social-media-selfie-presentation/"><u>In 2024, Investigating Authenticity’s Role in Social Media Selfie Presentation</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/subtitle-making-from-compressed-file-extraction/"><u>Subtitle Making From Compressed File Extraction</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/compatible-with-hp-g2-thunderbolt-chargers-driver-software-downloads-120w-230w/"><u>Compatible with HP G2 Thunderbolt Chargers: Driver Software Downloads (120W, 230W)</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-apple-homepod-mini-evaluation-sound-quality-and-intelligent-assistant-features/"><u>Comprehensive Apple HomePod Mini Evaluation: Sound Quality & Intelligent Assistant Features</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortless-unit-transformation-techniques-with-microsoft-excel-tutorials/"><u>Effortless Unit Transformation Techniques with Microsoft Excel Tutorials</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-vivo-v30-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-navigating-and-interpreting-twitter-archives/"><u>In 2024, Navigating and Interpreting Twitter Archives</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-depth-guide-to-3d-color-grading-using-ps-luts-for-2024/"><u>In-Depth Guide to 3D Color Grading Using PS Luts for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-excels-essential-logical-operators-if-and-or-xor-and-not/"><u>Mastering Excel's Essential Logical Operators: IF, AND, OR, XOR, and NOT</u></a></li>
+<li><a href="https://windows11.techidaily.com/microsoft-excels-latest-update-introduces-advanced-data-consolidation-features/"><u>Microsoft Excel's Latest Update Introduces Advanced Data Consolidation Features</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-old-data-in-excel-a-step-by-step-guide/"><u>Restoring Old Data in Excel: A Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/xbox-one-control-to-windows-compatibility/"><u>Xbox One Control to Windows Compatibility</u></a></li>
 </ul></div>
 

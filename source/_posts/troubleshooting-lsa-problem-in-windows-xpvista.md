@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting LSA Problem in Windows XP/Vista
-date: 2024-12-28T03:45:02.938Z
-updated: 2025-01-03T21:02:56.051Z
+date: 2025-01-09T18:50:52.293Z
+updated: 2025-01-10T16:36:13.405Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/2df210d64d34d4b3dc09759541c3c9d53d18577f1
 
  As the error message suggests, you first restart your Windows system. This minor step can fix several system-level errors and is worth a try. Restarting your computer involves shutting down all running programs and starting it up again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Scan for Malicious Programs
 
  If restarting the computer doesn't solve the issue, check your system for malicious software. Malware infections may corrupt system files and prevent LSA protection from working.
@@ -47,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/2df210d64d34d4b3dc09759541c3c9d53d18577f1
 4. Click **Scan options** on the right side of the screen.  
 ![Full Scan Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/full-scan-windows-security.jpg)
 5. Select **Full scan** and click **Scan now**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now wait for the scan to finish. If malicious programs are detected, Windows Security will remove them from your system automatically.
 
@@ -65,19 +73,15 @@ Administrative Templates > System > Local Security Authority
 ![Change the Group Policy Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/change-the-group-policy-settings.jpg)
 6. Now, in the window that appears, alter the settings from **Not Configured** to **Enabled**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Under the Options section, click the drop-down menu for **Configure LSASS to run as a protected process** and select **Enabled with UEFI Lock**.  
 ![Set as Enabled with UEFI Lock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-as-enabled-with-uefi-lock.jpg)
 8. Now click **Apply > OK** to save the changes.
 
- After making the above changes, restart your computer and check if the error is resolved.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ After making the above changes, restart your computer and check if the error is resolved.
 
 ## 4\. Tweak the Registry Editor
 
@@ -93,14 +97,14 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 ![Change RunAsPPL regsitry values](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/change-runasppl-regsitry-values.jpg)
 6. Change the Value data from 0 to **2** and click **OK**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Similarly, find the **RunAsPPLBoot** key and set its value to **2**.  
  If you don't find the **RunAsPPL** and **RunAsPPLBoot** keys in the LSA folder, you'll need to create them manually. To do this, right-click on the LSA folder and select **New > DWORD (32-bit) Value**. Name the new value **RunAsPPL** and set its value to 2\. Then repeat this process for the **RunAsPPLBoot** key.
 
  Once you're done, close the Registry Editor and restart your computer. This should fix the problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Reset the Windows Security App
 
@@ -115,21 +119,17 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 ![Reset Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-windows-security.jpg)
 7. If the confirmation window pops up, click **Reset** to continue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Wait for the reset process to finish and restart your computer. After restarting, check if the error is still present.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Perform Some Generic Fixes
 
  There are also some generic fixes to resolve the issue. First, [run the System File Checker](https://www.makeuseof.com/system-file-checker-sfc-windows/) command to repair incorrect or damaged system files. You may also want to use the Deployment Image Servicing and Management tool to diagnose issues with local system images. If the problem persists, try [updating Windows to the latest version](https://www.makeuseof.com/update-windows-manually/) to resolve any glitches or bugs.
 
  Some antivirus and security programs can be too aggressive in protecting your system. They could prevent access to the LSA feature, leading to this problem. To be sure, you can [temporarily disable your security software](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) and check if it solves the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixing the LSA Protection Error on Windows
 
@@ -147,24 +147,17 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-achieving-youtube-earnings-excellence-strategies-and-beyond-for-2024/"><u>[New] Achieving YouTube Earnings Excellence - Strategies and Beyond for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-graph-gala-2017-an-illuminated-expedition-into-yt-data/"><u>[Updated] Graph Gala 2017 An Illuminated Expedition Into YT Data</u></a></li>
-<li><a href="https://windows11.techidaily.com/becoming-an-admin-in-pc-command-console/"><u>Becoming an Admin in PC Command Console</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypassing-windows-11-mode-switch-failures/"><u>Bypassing Windows 11 Mode Switch Failures</u></a></li>
-<li><a href="https://windows11.techidaily.com/captivating-holiday-vistas-through-designed-panes/"><u>Captivating Holiday Vistas Through Designed Panes</u></a></li>
-<li><a href="https://windows11.techidaily.com/clearing-up-storage-alerts-and-errors-on-windows/"><u>Clearing Up Storage Alerts & Errors on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/compulsory-uninstall-guide-for-windows-11-printers/"><u>Compulsory Uninstall Guide for Windows 11 Printers</u></a></li>
-<li><a href="https://windows11.techidaily.com/confronting-and-overcoming-failed-capture-issues-in-windows/"><u>Confronting and Overcoming Failed Capture Issues in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/conquer-win11s-startup-configuration-for-unmatched-performance/"><u>Conquer Win11's Startup Configuration for Unmatched Performance</u></a></li>
-<li><a href="https://windows11.techidaily.com/cursor-on-display-redeeming-darkened-win1011-screens/"><u>Cursor on Display: Redeeming Darkened Win10/11 Screens</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-windows-11-editions-matching-home-to-pro-features/"><u>Decoding Windows 11 Editions: Matching Home to Pro Features</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-picks-leading-severe-weather-trackers-for-your-smartphone/"><u>Expert Picks: Leading Severe Weather Trackers for Your Smartphone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-lava-yuva-2-pro-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Lava Yuva 2 Pro Devices</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Oppo K11 5G | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Samsung Galaxy S23? | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-unlocking-subtitles-from-srt-proven-techniques-revealed/"><u>In 2024, Unlocking Subtitles From SRT Proven Techniques Revealed</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/leveraging-seo-in-youtube-a-title-and-tags-guidebook-for-2024/"><u>Leveraging SEO in Youtube A Title & Tags Guidebook for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-windows-11s-security-restrictions-with-rufus-expertise/"><u>Navigating Windows 11'S Security Restrictions with Rufus Expertise</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolving-blurry-image-issues-in-call-of-duty-warzone-on-your-computer/"><u>Resolving Blurry Image Issues in Call of Duty: Warzone on Your Computer</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-facebook-live-mastery-making-the-most-of-real-time-sharing/"><u>[Updated] Facebook Live Mastery Making the Most of Real-Time Sharing</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-what-is-virtual-reality-and-how-does-it-work-in-2024/"><u>[Updated] What Is Virtual Reality and How Does It Work, In 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-elevate-your-aspects-a-beginner-cookbook-for-asmr-filmmaking/"><u>2024 Approved Elevate Your Aspects A Beginner' Cookbook for ASMR Filmmaking</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oneplus-12-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on OnePlus 12 Devices | Dr.fone</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/get-your-free-trial-of-dex-e-3-dj-mixer-pro-upgrade-for-just-49-by-jan-15-2018-with-promo-code/"><u>Get Your Free Trial of DEX E 3 DJ Mixer Pro - Upgrade for Just $49 by Jan 15, 2018 with Promo Code!</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-unleash-your-footage-a-gopro-quik-review-and-top-pc-editing-alternatives-for-2024/"><u>New Unleash Your Footage A GoPro Quik Review & Top PC Editing Alternatives for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-overcome-iphone-photographic-transfer-issues-on-w11-systems/"><u>Strategies to Overcome iPhone Photographic Transfer Issues on W11 Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-overcome-zero-x-error-in-the-microsoft-email-on-windows-11/"><u>Strategies to Overcome Zero X Error in the Microsoft Email on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-your-pc-toggle-folders-visibility-windows-11/"><u>Streamline Your PC: Toggle Folders Visibility (Windows 11)</u></a></li>
+<li><a href="https://windows11.techidaily.com/strengthen-your-safe-space-top-5-corrections-in-windows-features/"><u>Strengthen Your Safe Space: Top 5 Corrections in Windows Features</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-infinix-smart-7-hd-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Infinix Smart 7 HD without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-win1011-audio-error-xc00d36b4/"><u>Troubleshooting Win10/11 Audio Error XC00D36B4</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Windows Rebirth Techniques: Three Simple Resets"
-date: 2025-01-02T18:50:13.667Z
-updated: 2025-01-03T20:03:10.011Z
+date: 2025-01-09T16:33:30.008Z
+updated: 2025-01-10T17:19:23.332Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/e663bf23b6887cb8279b82d66477ecb71e4a937f5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Before You Reset Windows, Make Sure You Back Up
 
  Before we look at how to factory reset Windows, you should ensure you have a recent backup of your data. Performing a factory reset will wipe out all your installed programs, and in some cases, your files. You don't want to leave anything behind.
@@ -43,16 +39,12 @@ thumbnail: https://thmb.techidaily.com/e663bf23b6887cb8279b82d66477ecb71e4a937f5
 
 ![Windows 10 Reset This PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Windows-10-Reset-This-PC.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you're on Windows 11, head to **Settings > System > Recovery**. Click **Reset PC** next to **Reset this PC** to get started. The steps from here are the same for Windows 11 and Windows 10\. If you run into trouble, see how to [factory reset Windows 11 without an admin password](https://www.makeuseof.com/windows-11-factory-reset-without-admin-password/).
 
 ![Reset This PC Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Reset-This-PC-Windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Keep Your Files or Remove Everything?
@@ -67,6 +59,10 @@ thumbnail: https://thmb.techidaily.com/e663bf23b6887cb8279b82d66477ecb71e4a937f5
 
 ![Windows 11 Factory Reset Keep Files Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Windows-11-Factory-Reset-Keep-Files-Option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Cloud Download vs. Local Reinstall
 
  You'll next have to choose how you want to reinstall Windows. There are two ways: **Cloud download** or **Local reinstall**.
@@ -80,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/e663bf23b6887cb8279b82d66477ecb71e4a937f5
 ![Windows 10 Cloud Reinstall Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/Windows-10-Cloud-Reinstall-Option.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Options When Resetting Windows 10 and 11
@@ -107,6 +103,10 @@ thumbnail: https://thmb.techidaily.com/e663bf23b6887cb8279b82d66477ecb71e4a937f5
 
  Make sure you [take the recommended steps after reinstalling Windows 10](https://www.makeuseof.com/tag/post-installation-windows-10/) if you're sticking with that OS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Reinstall Windows Manually Using Windows Installation Media
 
  If you're not using Windows 10 or 11, want to factory reset Windows 10 or 11 without the Settings menu, or don't want to use the other methods for some reason, you can always factory reset Windows using installation media. This allows you to install a fresh copy of Windows on your computer and wipe out everything currently on it.
@@ -118,7 +118,7 @@ thumbnail: https://thmb.techidaily.com/e663bf23b6887cb8279b82d66477ecb71e4a937f5
 ![Create installation media for Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/muo-windows-install-usb-media2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you need to reinstall Windows 8.1 from scratch for some reason, you can use [Microsoft's Windows 8.1 download tool](https://www.microsoft.com/en-us/software-download/windows8ISO). This lets you download an [ISO to burn onto a flash drive](https://www.makeuseof.com/tag/10-tools-make-bootable-usb-iso-file/) or DVD so you can reinstall Windows. Simply insert the USB drive or disc containing your installation media, then [boot from the removable device](https://www.makeuseof.com/tag/how-to-change-the-boot-order-on-your-pc-so-you-can-boot-from-usb/). You'll be greeted with the Windows setup screen, which you can proceed through to install a clean copy. Remember that doing this will remove everything currently on the drive where you install Windows.
@@ -126,6 +126,10 @@ thumbnail: https://thmb.techidaily.com/e663bf23b6887cb8279b82d66477ecb71e4a937f5
  Since Windows 7 has been out of support for years, Microsoft no longer offers an official Windows 7 download. We recommend that you [upgrade to a modern version of Windows](https://www.makeuseof.com/why-you-shouldnt-use-old-windows/); don't download Windows 7 from a random website, as it may contain malware.
 
  Note that the methods in #1 above allow you to reinstall Windows in effectively the same way without manually creating a USB installer, so they're much more convenient.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Factory Reset Windows 10 or 11 From Boot Using Advanced Methods
 
@@ -146,10 +150,6 @@ thumbnail: https://thmb.techidaily.com/e663bf23b6887cb8279b82d66477ecb71e4a937f5
  You can also type "create a recovery drive" into the Start menu to access a tool that lets you make your own. However, this requires a fair bit of space, and you'll have to do it before you have a problem. If you haven't already made one, you're best off making a new Windows install disk, as described in #2\.
 
  To cover all the bases: there is no way to factory reset Windows from the BIOS. While you can reset the BIOS to its default options, you can't factory reset Windows itself through the BIOS. There's also no way to factory reset your laptop without turning it on; you need power to perform all the above operations.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## If You're on an Older Version of Windows 10
 
@@ -179,24 +179,19 @@ thumbnail: https://thmb.techidaily.com/e663bf23b6887cb8279b82d66477ecb71e4a937f5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-how-to-convert-instagram-video-to-mp4-2-proven-ways/"><u>[Updated] 2024 Approved How to Convert Instagram Video to MP4 [ 2 Proven Ways]</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-analyzing-video-success-self-vs-rivals-in-the-youtube-arena/"><u>[Updated] In 2024, Analyzing Video Success Self Vs. Rivals in the YouTube Arena</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-elevate-your-vlogging-skills-with-pro-gopro-tips/"><u>2024 Approved Elevate Your Vlogging Skills with Pro GoPro Tips</u></a></li>
-<li><a href="https://windows11.techidaily.com/6-different-ways-to-open-programs-on-windows/"><u>6 Different Ways to Open Programs on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/6-precise-ways-to-determine-your-windows-hardware-identity/"><u>6 Precise Ways to Determine Your Window's Hardware Identity</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-parsing-misstep-code-0xc00ce556/"><u>Addressing Parsing Misstep: Code 0xC00CE556</u></a></li>
-<li><a href="https://howto.techidaily.com/android-screen-stuck-general-realme-12-proplus-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Realme 12 Pro+ 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoid-scanning-issues-with-your-geforce-experience-on-windows/"><u>Avoid Scanning Issues with Your GeForce Experience on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/backup-your-cortana-data-for-future-reference-windows/"><u>Backup Your Cortana Data for Future Reference (Windows)</u></a></li>
-<li><a href="https://windows11.techidaily.com/boosting-alerts-instant-battery-charged-notifications-in-win11/"><u>Boosting Alerts: Instant Battery Charged Notifications in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/bygone-brilliance-reviving-retro-gameplay-with-dosbox-x/"><u>Bygone Brilliance: Reviving Retro Gameplay with DOSBox-X</u></a></li>
-<li><a href="https://windows11.techidaily.com/clearing-the-clutter-fixing-windows-error-0x80072014/"><u>Clearing the Clutter: Fixing Windows Error 0X80072014</u></a></li>
-<li><a href="https://windows11.techidaily.com/configuring-terminal-in-win11-start-fresh/"><u>Configuring Terminal in Win11: Start Fresh</u></a></li>
-<li><a href="https://fox-info.techidaily.com/design-dynamics-the-role-of-color-integration/"><u>Design Dynamics The Role of Color Integration</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-guide-responding-to-hanging-windows-10-issues-quickly-and-effectively/"><u>Expert Guide: Responding to Hanging Windows 10 Issues Quickly and Effectively</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-enhanced-audio-experience-top-5-game-headsets-for-streaming/"><u>In 2024, Enhanced Audio Experience Top 5 Game Headsets for Streaming</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-stitching-photographs-into-an-eye-catching-canvas/"><u>In 2024, Stitching Photographs Into an Eye-Catching Canvas</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/lowering-obs-video-bandwidth/"><u>Lowering OBS Video Bandwidth</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-srt-editing-on-macos-a-comprehensive-guide/"><u>Mastering SRT Editing on macOS A Comprehensive Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-essential-compendium-of-affordable-rich-graphics-resources-online-for-2024/"><u>[Updated] The Essential Compendium of Affordable, Rich Graphics Resources Online for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/60716028-expedite-channel-growth-surpass-the-10k-view-threshold-now/"><u>Expedite Channel Growth Surpass the 10K View Threshold Now!</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-open-windows-powershell-as-an-administrator-in-windows-11/"><u>How to Open Windows PowerShell as an Administrator in Windows 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-action-recorders-with-front-view-panels/"><u>In 2024, Best Action Recorders with Front View Panels</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-vivo-v27-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Vivo V27 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-past-fatal-error-code-0x800f0831-with-ease/"><u>Navigating Past Fatal Error Code 0X800f0831 with Ease</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-troubles-in-windows-discord-searches/"><u>Navigating Troubles in Windows Discord Searches</u></a></li>
+<li><a href="https://some-tips.techidaily.com/nvidia-and-snowflake-unite-forces-on-groundbreaking-llm-ai-initiative-insights-from-techs-latest-collaboration-zdnet/"><u>Nvidia and Snowflake Unite Forces on Groundbreaking LLM-AI Initiative: Insights From Tech's Latest Collaboration | ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-hidden-network-setup-issue/"><u>Overcoming Windows' Hidden Network Setup Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/recover-access-to-windows-router-configuration/"><u>Recover Access to Windows Router Configuration</u></a></li>
+<li><a href="https://program-issues.techidaily.com/successful-fix-for-mir4-performance-issues-in-pc-environments/"><u>Successful Fix for MIR4 Performance Issues in PC Environments</u></a></li>
+<li><a href="https://techtrends.techidaily.com/switching-onoff-the-touchscreen-typing-feature-in-microsofts-latest-operating-system/"><u>Switching On/Off the Touchscreen Typing Feature in Microsoft's Latest Operating System</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-list-of-9-reasons-for-transitioning-to-modern-outlook/"><u>The Ultimate List of 9 Reasons for Transitioning to Modern Outlook</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-poco-m6-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Poco M6 5G? | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Crafting Shortcuts: A Guide for WinOS Users"
-date: 2024-08-08T05:56:44.244Z
-updated: 2024-08-09T05:56:44.244Z
+date: 2025-01-07T23:16:26.063Z
+updated: 2025-01-10T17:46:15.494Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/c62b5284641027dfddd7dff7e86c9bcc06523e51b
 
  Did you know that you can set a keyboard shortcut for just about any program in Windows? When you want to open a specific program in a hurry, all you need to do is quickly press a few keys and you’re in. Here’s how.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Assign a Keyboard Shortcut to a Shortcut Link on Your Desktop
 
  One of the best ways to [improve your productivity](https://www.makeuseof.com/how-to-improve-productivity-mini-habits/) is to navigate using as few clicks and keystrokes as possible. One way to do that is by setting up keyboard shortcuts. If you’re interested, check out our [ultimate guide to Windows keyboard shortcuts](https://www.makeuseof.com/tag/windows-shortcuts-101-ultimate-keyboard-shortcut-guide/).
@@ -34,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/c62b5284641027dfddd7dff7e86c9bcc06523e51b
 2. Under the **Shortcut** tab, in the **Shortcut key** field, simply type the shortcut you want to assign to the program and click the OK button.
 
 ![Add a keyboard shortcut via the desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/01-add-keyboard-shortcut-desktop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Windows shortcuts must take the form:
 
@@ -50,11 +58,13 @@ thumbnail: https://thmb.techidaily.com/c62b5284641027dfddd7dff7e86c9bcc06523e51b
 1. Open the Start menu.
 2. Find the item to which you want to assign a keyboard shortcut.
 3. Right-click it and go to **More > Open file location**.  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![Setting up a keyboard shortcut via the Start menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/02-start-menu-keyboard-shortcut.jpg)
 4. Right-click on the shortcut and select **Properties**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. In the **Shortcut key** field, type in the keyboard shortcut you want to have assigned to the program.
 
 ## 3\. How to Set up a Keyboard Shortcut for a Shortcut Link on the Taskbar
@@ -63,29 +73,13 @@ thumbnail: https://thmb.techidaily.com/c62b5284641027dfddd7dff7e86c9bcc06523e51b
 
 1. Right-click on an item appearing on the Taskbar.
 2. Right-click on the program and click on **Properties**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![Setting up a keyboard shortcut via the Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/03-taskbar-keyboard-shortcut.jpg)
 3. Add a keyboard shortcut to the **Shortcut key** field.
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. How to Remove Previously Assigned Keyboard Shortcuts
 
  To remove a keyboard shortcut, navigate to the program shortcut’s properties and delete the entry in the **Shortcut key** field. This should reset it to **None** and remove the associated keyboard shortcut.
@@ -104,28 +98,20 @@ Key features:
 2. In the left pane, scroll down to **Keyboard Manager**.
 3. Make sure the checkbox labeled **Enable Keyboard Manager** is enabled.
 4. Click on **Remap a shortcut**.  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Remap shortcut in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/04-powertoys-remap-shortcut.jpg)
 5. Then click on the **Add shortcut mapping** button.  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![05-powertoys-shortcut-mapping](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/05-powertoys-shortcut-mapping.jpg)
 
 1. Under **Shortcut**, click on the button with the pen icon. Then press the shortcut key combo you want to set.  
 ![Simple way to creating keyboard shortcuts - PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/06-set-up-keyboard-shortcut.jpg)
 2. Under **Action**, click on the drop-down and select **Run Program**.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Microsoft PowerToys keyboard shortcut setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/07-powertoys-shortcut-action.jpg)
 3. Under **App**, either enter the path of the program you want to add to this shortcut, or click the **Select program** button to browse and select an application.  
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![PowerToys shortcut program path](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/08-powertoys-shortcut-program-path.jpg)
 4. If you leave the **Start in** field blank, the shortcut will work throughout the Windows environment. If you select a path here, the shortcut will only work when you are in that environment or program.
 5. The **If running** field tells Windows how to handle the command if the program is already open and running. You can set this to one of several options: show the open window; open another instance of the program (if possible); close the program; do nothing; or end the entire program task.
@@ -136,12 +122,26 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  Did you know that you can set a keyboard shortcut for just about any program in Windows? When you want to open a specific program in a hurry, all you need to do is quickly press a few keys and you’re in. Here’s how.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/wisting-the-tape-youtube-video-rotation-techniques-unveiled/"><u>[New] Twisting the Tape YouTube Video Rotation Techniques Unveiled</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/cyberpower-backup-units-face-fire-risk-users-warn/"><u>CyberPower Backup Units Face Fire Risk, Users Warn</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Apple iPhone XR? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/locating-open-tcp-ports-in-windows-os/"><u>Locating Open TCP Ports in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-system-problem-zerosevennine/"><u>Overcoming System Problem ZeroSevenNine</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-how-to-correct-windows-11s-keyboard-type-trouble-code-0x80049dd3/"><u>Quick Guide: How to Correct Windows 11'S Keyboard Type Trouble (Code: 0X80049DD3)</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-resurrect-your-disconnected-controller/"><u>Steps to Resurrect Your Disconnected Controller</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-soldering-irons-find-your-perfect-match/"><u>Top-Rated Soldering Irons: Find Your Perfect Match</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-techniques-overcoming-recurring-device-hang-ups/"><u>Troubleshooting Techniques: Overcoming Recurring Device Hang-Ups</u></a></li>
+<li><a href="https://windows11.techidaily.com/visual-illusion-blending-image-and-archive-data-without-notice-win1011/"><u>Visual Illusion: Blending Image and Archive Data without Notice WIN10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-offline-the-essential-manual/"><u>Win11 Offline: The Essential Manual</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mp3-aif-convert-movavi/"><u>무료 MP3 변환 AIF 파일을 쉽게 Convert하는 Movavi - 인터넷 속에서</u></a></li>
+</ul></div>
 

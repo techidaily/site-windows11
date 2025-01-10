@@ -1,7 +1,7 @@
 ---
 title: Comprehending Windows' Role in Memory Reservation
-date: 2024-08-08T05:57:32.280Z
-updated: 2024-08-09T05:57:32.280Z
+date: 2025-01-03T20:10:40.306Z
+updated: 2025-01-10T22:03:43.792Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/d8236c8823bf190018d4a9a0035905199e51992e3
 
  But what is Hardware Reserved Memory? Can you check how much memory is reserved on your computer and can you adjust the value?
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## What Is Hardware Reserved Memory?
 
  Windows saves a part of the available RAM, so your hardware components have enough resources to work properly. This is known as Hardware Reserved Memory, and Windows allocates it to hardware devices such as the network adapter, Bluetooth devices, sound card, and GPU, among other hardware devices.
@@ -43,16 +40,10 @@ thumbnail: https://thmb.techidaily.com/d8236c8823bf190018d4a9a0035905199e51992e3
 
  If Windows reserves too much of your RAM, you might deal with longer boot-up times or even Windows crashing and freezing as it doesn’t have enough resources to keep all processes running.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Adjust the Hardware Reserved Memory on Windows
 
  In general, the value for Hardware Reserved Memory should be a few hundred megabytes. The 32-bit version of Windows can reserve up to 3.5 GB of RAM, while the 64-bit system usually needs around 1GB. If the value is around a couple of GB, or even more, you’ll have to adjust the value. Fortunately, Windows has a few ways you can do it.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Update Your Drivers
 
  Outdated or corrupt [computer drivers](https://www.makeuseof.com/computer-drivers-what-are-they-why-should-you-update/) will increase the amount of memory Windows reserves to keep your hardware devices running smoothly. Updating the drivers, especially the GPU drivers, might help Windows reduce the amount of reserved memory.
@@ -61,11 +52,12 @@ thumbnail: https://thmb.techidaily.com/d8236c8823bf190018d4a9a0035905199e51992e3
 
 ![Disable device through Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-device-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When disabling hardware devices, make sure you no longer need them, as you might be causing issues within your system.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. Install 64-Bit Windows
 
  There are a few [differences between 32-bit and 64-bit Windows](https://www.makeuseof.com/tag/difference-32-bit-64-bit-windows/) , including the amount of Hardware Reserved Memory. As we’ve mentioned, a 64-bit Windows assigns less RAM to the Hardware Reserved Memory, so updating from 32-bit to the 64-bit Windows version should reduce the amount of reserved memory.
@@ -75,11 +67,20 @@ thumbnail: https://thmb.techidaily.com/d8236c8823bf190018d4a9a0035905199e51992e3
 ![Check Windows version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-64bit-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Set a Preferred GPU
 
  There’s a chance your computer has two GPUs, and one of them is better when managing high-intensive graphics tasks. Instead of using the integrated graphics card to process complex tasks, you should [choose a preferred GPU for games or editing software](https://www.makeuseof.com/windows-10-choose-preferred-gpu/) to reduce the memory reserved by Windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Run the Hardware and Devices Troubleshooter
 
@@ -90,10 +91,11 @@ thumbnail: https://thmb.techidaily.com/d8236c8823bf190018d4a9a0035905199e51992e3
 3. In the Hardware and Devices window, click**Advanced** , and check the**Apply repairs automatically** option.
 4. Click**Next** to start the process.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Running the hardware and devices troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/hardware-devices-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Edit Your System Configuration
 
@@ -106,12 +108,13 @@ thumbnail: https://thmb.techidaily.com/d8236c8823bf190018d4a9a0035905199e51992e3
 5. Check**Maximum memory** and edit the value.
 6. Click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Change boot settings in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/boot-settings-1.jpg)
 
  Keep in mind this will have a direct impact on how much memory Windows reserves to keep your system running properly. Don’t set a value too low to make sure Windows has enough resources.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Restore the BIOS to Its Default Settings
 
@@ -121,23 +124,17 @@ thumbnail: https://thmb.techidaily.com/d8236c8823bf190018d4a9a0035905199e51992e3
 
  If you can’t access BIOS during the startup screen, there are more [methods you could try to enter BIOS](https://www.makeuseof.com/tag/enter-bios-computer/) and reset it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ## Manage the Hardware Reserved Memory on Windows
 
  Hopefully, our guide helped you know more about your computer’s hardware reserved memory. The truth is, you may not even think about it until it negatively impacts your system’s performance, but if this happens, the tips above should help you manage the situation.
 
  But there are so many system tricks that you could use to avoid having Windows take too much of your resources. If you’re looking for a permanent fix, you might have to upgrade your computer’s hardware.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -146,6 +143,18 @@ thumbnail: https://thmb.techidaily.com/d8236c8823bf190018d4a9a0035905199e51992e3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/essential-video-converter-software-for-pc-users/"><u>Essential Video Converter Software for PC Users</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/guia-paso-a-paso-para-convertir-archivos-avi-a-ogv-gratis-por-internet-usando-movavi/"><u>Guía Paso a Paso Para Convertir Archivos AVI a OGV Gratis Por Internet Usando Movavi</u></a></li>
+<li><a href="https://windows11.techidaily.com/harness-the-power-of-windows-11-a-guide-to-7-effective-techniques/"><u>Harness the Power of Windows 11: A Guide to 7 Effective Techniques</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-flash-dead-samsung-galaxy-a54-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Samsung Galaxy A54 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-zte-blade-a73-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead ZTE Blade A73 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transferring-tactics-swiftly-send-files-to-devices/"><u>In 2024, Transferring Tactics Swiftly Send Files to Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionary-apples-on-device-ai-realitymix-surpasses-gpt-4-in-performance-insights/"><u>Revolutionary Apple's On-Device AI, RealityMix, Surpasses GPT-4 in Performance - Insights</u></a></li>
+<li><a href="https://windows11.techidaily.com/setting-up-your-windows-11-pc-as-an-invisible-network-hub/"><u>Setting Up Your Windows 11 PC as an Invisible Network Hub</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleash-faster-system-restoration-via-customized-troubleshooter-keys/"><u>Unleash Faster System Restoration via Customized Troubleshooter Keys</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-the-another-users-ms-error-issue/"><u>Unraveling the Another User’s MS Error Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-mystery-behind-disabled-hard-drives-on-your-win-11-system/"><u>Unveiling the Mystery Behind Disabled Hard Drives on Your Win 11 System</u></a></li>
+</ul></div>
 

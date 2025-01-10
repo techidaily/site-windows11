@@ -1,7 +1,7 @@
 ---
 title: "Hacked Scans Halt: Evaluating Window's Biometric Security Now"
-date: 2025-01-01T19:29:04.306Z
-updated: 2025-01-03T22:50:29.098Z
+date: 2025-01-06T17:23:22.288Z
+updated: 2025-01-10T20:04:50.053Z
 tags:
   - windows10
   - windows11
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/de25cad762d1b1da1023e95cc7ce6ed0cc716ab65
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Can People Hack Windows Hello Fingerprint Scanners?
 
@@ -55,14 +51,22 @@ thumbnail: https://thmb.techidaily.com/de25cad762d1b1da1023e95cc7ce6ed0cc716ab65
 
  The hackers believed the Surface Pro would be the hardest device to crack, but they were surprised to find the Surface Pro lacked a lot of security measures for checking valid fingerprints. In fact, they discovered that they only had to dodge past one defense, then tell the Surface Pro that the fingerprint scan was successful, and the device let them in.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Do These Hacks Mean for You?
 
 ![Professional Thinking With Laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/professional-thinking-with-laptop.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  These hacks may sound pretty scary if you use fingerprints to log into your laptop. However, it's essential to remember some crucial things before you forgo fingerprint scans entirely.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. The Attacks Were Performed by Skilled Hackers
@@ -70,22 +74,22 @@ thumbnail: https://thmb.techidaily.com/de25cad762d1b1da1023e95cc7ce6ed0cc716ab65
  The reason threats like [ransomware as a service](https://www.makeuseof.com/what-is-ransomware-as-a-service/) are so deadly is that anyone with minimal cybersecurity can use them. However, the above hacks require a high level of expertise, with a deep understanding of how devices authenticate fingerprints and how to avoid them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. The Attacks Require the Attacker to Physically Interact With the Device
 
  The hackers must have physical contact with the device to perform the above hacks. In the report, the hackers stated they might be able to create USB devices that can perform the attack once plugged in, but that means a potential attacker needs to plug something into your PC to hack it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. The Attacks Only Work on Specific Devices
 
  You'll notice that each attack had to take a different path to achieve the same goal. Every device is unique, and a hack that works on one device may not work on another. As such, you shouldn't believe that Windows Hello has now been blown wide open on every device; it's just these three that failed.
 
  While these hacks may sound scary, they'll be challenging to perform against actual targets. The hacker will likely have to steal the device to perform these hacks, which would undoubtedly alert the previous owner.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Stay Safe From Fingerprint Hacking
 
@@ -98,10 +102,6 @@ thumbnail: https://thmb.techidaily.com/de25cad762d1b1da1023e95cc7ce6ed0cc716ab65
 ### 1\. Do Not Leave Devices Unattended and Unprotected
 
  Because a hacker will need to interact with your device physically, you should ensure it doesn't fall into the wrong hands. For computers, you can [take steps to stop it from being stolen](https://www.makeuseof.com/tag/stop-entire-desktop-pc-home-office-stolen/). If you're using a laptop, never leave it alone in a public space, and use an [anti-theft laptop bag](https://www.makeuseof.com/tag/anti-theft-laptop-bags/) to stop people from tearing your bag open.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Use a Different Login Method
 
@@ -121,18 +121,24 @@ thumbnail: https://thmb.techidaily.com/de25cad762d1b1da1023e95cc7ce6ed0cc716ab65
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-ins-and-outs-of-quantum-hdr/"><u>[Updated] Exploring the Ins and Outs of Quantum HDR</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-superior-sound-recorders-for-scholarly-discussions-for-2024/"><u>[Updated] Superior Sound Recorders for Scholarly Discussions for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-exploring-the-monetization-framework-of-tseries-via-youtube/"><u>2024 Approved Exploring the Monetization Framework of TSeries via YouTube</u></a></li>
-<li><a href="https://windows11.techidaily.com/5-key-fixes-to-stop-rpc-failures-in-windows/"><u>5 Key Fixes to Stop RPC Failures in Windows</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/fixing-the-problem-hidden-thumbnails-in-youtube-shorts/"><u>Fixing the Problem Hidden Thumbnails in YouTube Shorts</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/must-visit-websites-for-obtaining-desired-youtube-ringtones-for-2024/"><u>Must-Visit Websites for Obtaining Desired YouTube Ringtones for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/spiritual-soundtracks-where-to-find-christian-tunes-for-2024/"><u>Spiritual Soundtracks Where to Find Christian Tunes for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/understanding-the-red-x-on-your-pcs-file-system/"><u>Understanding the Red X on Your PC's File System</u></a></li>
-<li><a href="https://windows11.techidaily.com/understanding-your-devices-through-windows-live-panels/"><u>Understanding Your Devices Through Windows Live Panels</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-speed-tackling-torrent-stagnation-in-windows/"><u>Unlocking Speed: Tackling Torrent Stagnation in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/unraveling-access-denial-in-windows-11-with-these-5-steps/"><u>Unraveling Access Denial in Windows 11 with These 5 Steps</u></a></li>
-<li><a href="https://driver-error.techidaily.com/wacom-unplugged-no-more-devices-dance-together/"><u>Wacom Unplugged No More! Devices Dance Together</u></a></li>
-<li><a href="https://windows11.techidaily.com/win11-tips-implementing-scheduled-file-purging/"><u>Win11 Tips: Implementing Scheduled File Purging</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-double-delight-endless-looping-of-youtube-videos-for-tvs/"><u>[Updated] 2024 Approved Double Delight Endless Looping of YouTube Videos for TVs</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-samsung-galaxy-m34-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Samsung Galaxy M34 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-poco-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/action-cam-aesthetics-top-15-high-impact-gopro-lut-choices-for-2024/"><u>Action Cam Aesthetics Top 15 High-Impact GOPRO LUT Choices for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/guaranteeing-presence-of-startup-applications/"><u>Guaranteeing Presence of Startup Applications</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-no-audio-output-device-is-installed-error-on-windows/"><u>How to Fix the No Audio Output Device Is Installed Error on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/ifas-premier-laptop-showcase-the-ultimate-finds/"><u>IFA's Premier Laptop Showcase - The Ultimate Finds</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-quick-and-easy-increase-or-decrease-story-video-speed/"><u>In 2024, Quick and Easy Increase or Decrease Story Video Speed</u></a></li>
+<li><a href="https://windows11.techidaily.com/lost-thumbnail-images-on-windows-11-a-step-by-step-resolution/"><u>Lost Thumbnail Images on Windows 11: A Step-by-Step Resolution</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximizing-charge-readiness-notification-tips-for-win11-users/"><u>Maximizing Charge Readiness: Notification Tips for Win11 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/personalizing-permanent-trash-settings-in-windows-1011/"><u>Personalizing Permanent Trash Settings in Windows 10/11</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/quick-guide-extract-vimeo-videos-as-mp4s-for-2024/"><u>Quick Guide Extract Vimeo Videos as MP4s for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-hidden-value-in-preserving-your-windows-11-notification-alerts/"><u>The Hidden Value in Preserving Your Windows 11 Notification Alerts</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-accessing-photos-via-windows-11s-explorer/"><u>Tips for Accessing Photos via Windows 11'S Explorer</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transform-your-verbal-input-into-written-content-in-ms-word-for-2024/"><u>Transform Your Verbal Input Into Written Content in MS Word for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-how-to-stop-oxygen-not-included-from-crashing/"><u>Troubleshooting Tips: How to Stop 'Oxygen Not Included' From Crashing</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-windows-1110-stop-pin-connection-hurdle/"><u>Troubleshooting Windows 11/10: Stop PIN Connection Hurdle</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-potential-learning-board-games-and-creating-images-via-my-bots/"><u>Unlock Potential: Learning Board Games & Creating Images via My Bots</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/vertical-video-mastery-best-editing-apps-for-iphone-and-android/"><u>Vertical Video Mastery Best Editing Apps for iPhone and Android</u></a></li>
 </ul></div>
 

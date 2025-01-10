@@ -1,7 +1,7 @@
 ---
 title: "Tackling Sound Glitches on Windows 11: Error 0XC00D36B4"
-date: 2024-12-30T00:23:13.039Z
-updated: 2025-01-03T21:57:25.380Z
+date: 2025-01-03T21:40:07.514Z
+updated: 2025-01-10T18:19:26.396Z
 tags:
   - windows10
   - windows11
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/724743278e3cc8c3d6bd3e09a36a5228f2284123f
 
  Below, we have listed different troubleshooting methods that can help you fix the problem in no time, regardless of the cause. Choose the solution that is most appropriate for your situation.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check the File Format of the File You're Playing
 
  Different media players and codecs support different file formats, and if the file you are trying to play is in an unsupported format, the player will fail to play it, leading to the problem at hand.
@@ -54,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/724743278e3cc8c3d6bd3e09a36a5228f2284123f
 
  We covered how to use this handy tool in our guide on[fixing no audio on Windows](https://www.makeuseof.com/tag/no-sound-7-tips-fix-audio-issues-windows-10/) , so check that out for further details.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Re-enable Windows Media Player
 
  In some cases, while the Media Player is waiting for a missing codec or a corrupt file to load, it may become unresponsive, triggering the error code 0xc00d36b4\. If this happens, it is best to force close the media player and re-enable it to fix the problem.
@@ -71,15 +79,11 @@ Here is how you can do that:
 ![Disable Windows Media Player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/disable-windows-media-player.jpg)
 7. Confirm your action in the User Account Control prompt and restart your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8. Upon reboot, restart the service by following the same steps mentioned above.
 9. Finally, restart your computer again and check if the issue is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Uninstall Nero Codecs
@@ -95,6 +99,10 @@ Here is how you can do that:
 ![Uninstall the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/win11-uninstall-program.jpg)
 5. Once done, restart your computer and check if the issue is resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Disable Copy Protection
 
  In some cases, users noticed that the copy protection feature was preventing certain files from being played. This feature is typically used to prevent unauthorized copying and distribution of copyrighted content but can also cause conflicts with the relevant hardware and software.
@@ -109,7 +117,7 @@ Here is how you can do that:
 3. Head over to the**Rip Music** tab and uncheck the box associated with**Copy protect music** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Uncheck the Copy protect music option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/copy-protect-music.jpg)
@@ -121,19 +129,11 @@ Here is how you can do that:
 
  This typically happens when the drivers are either corrupt or outdated. Fortunately, both of these issues can be fixed by[updating the audio drivers on Windows](https://www.makeuseof.com/update-audio-drivers-windows/) . The easiest way of doing this is by using the Device Manager utility that comes with Windows by default.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Reinstall Windows Media Player
 
  Finally, you can try reinstalling the Windows Media Player which will clear out any issues within the media player itself that may be contributing to the issue.
 
  Alternatively, you can also consider switching to a third-party media player that offers a similar functionality until Microsoft releases an official fix for this issue. We have discussed some of the[best free media players for Windows](https://www.makeuseof.com/tag/top-5-free-media-players-for-windows/) in our previous guide which you can head over to, to make an informed decision.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Audio Issues in Windows, Resolved
 
@@ -156,19 +156,17 @@ Here is how you can do that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-thriving-in-digital-discussions-essential-strategies-for-proficient-zoom-chats/"><u>[New] 2024 Approved Thriving in Digital Discussions Essential Strategies for Proficient ZOOM Chats</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/udio-mastery-your-guide-to-youtube-soundtracking/"><u>[New] Audio Mastery Your Guide to Youtube Soundtracking</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/deal-mics-for-bloggers-educators-and-entertainment-clips-for-2024/"><u>[New] Ideal Mics for Bloggers, Educators, & Entertainment Clips for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-ultimate-guide-to-mark-banishing-tools-in-tiktok-videos/"><u>[New] In 2024, Ultimate Guide to Mark-Banishing Tools in TikTok Videos</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-from-setup-to-sharing-comprehensive-guide-for-instagram-and-obs-integration-for-2024/"><u>[Updated] From Setup to Sharing Comprehensive Guide for Instagram & OBS Integration for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-step-by-step-guide-to-structuring-chatgpt-conversations/"><u>A Step-by-Step Guide to Structuring ChatGPT Conversations</u></a></li>
-<li><a href="https://windows11.techidaily.com/effortless-guide-establishing-your-safe-sandbox-environment/"><u>Effortless Guide: Establishing Your Safe Sandbox Environment</u></a></li>
-<li><a href="https://windows11.techidaily.com/elevate-task-execution-speed-with-customized-windows-cmds/"><u>Elevate Task Execution Speed with Customized Windows Cmds</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719258336470-escalate-emulation-faster-yuzu-win-users/"><u>Escalate Emulation: Faster Yuzu, WIN Users!</u></a></li>
-<li><a href="https://windows11.techidaily.com/fasten-outlook-pace-on-pc-essential-tips/"><u>Fasten Outlook Pace on PC - Essential Tips</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-dxgierrordevicehung-in-win1011/"><u>Overcoming DXGI_ERROR_DEVICE_HUNG in Win10/11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-solving-hp-laserjet-p2035-driver-issues-on-windows-computers/"><u>Troubleshooting and Solving HP LaserJet P2035 Driver Issues on Windows Computers</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/unraveling-the-mystery-of-online-video-sharing/"><u>Unraveling the Mystery of Online Video Sharing</u></a></li>
-<li><a href="https://windows11.techidaily.com/winning-back-chrome-color-loss/"><u>Winning Back Chrome Color Loss</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/capture-the-best-print-with-webs-leading-services-in-24/"><u>Capture the Best, Print with Web's Leading Services in '24</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/cutting-edge-screen-time-youtubes-top-movies-list-for-2024/"><u>Cutting Edge Screen Time YouTube's Top Movies List for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/direct-video-transmission-from-twitters-to-whatsapp/"><u>Direct Video Transmission From Twitters to WhatsApp</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-motorola-edgeplus-2023-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Edge+ (2023) without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-honor-play-40c-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Honor Play 40C Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-itel-a70-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Itel A70 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-intel-hd-error-in-meeting-minimum-requirements/"><u>Navigating Through Intel HD Error in Meeting Minimum Requirements</u></a></li>
+<li><a href="https://windows11.techidaily.com/securely-resetting-dns-on-the-latest-windows-version/"><u>Securely Resetting DNS on the Latest Windows Version</u></a></li>
+<li><a href="https://windows11.techidaily.com/skyrocket-success-in-windows-11-with-these-top-5-apps/"><u>Skyrocket Success in Windows 11 With These Top 5 Apps</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210712314-9781640035256-when-your-mind-steals-your-souls-reward/"><u>When Your Mind Steals Your Soul's Reward | Free Book</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-11-setting-up-microsoft-pc-manager/"><u>Win 11: Setting Up Microsoft PC Manager</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-tricks-bringing-off-screen-apps-back-to-life-with-6-tips/"><u>Windows Tricks: Bringing Off-Screen Apps Back to Life with 6 Tips</u></a></li>
 </ul></div>
 

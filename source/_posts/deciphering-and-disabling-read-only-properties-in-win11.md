@@ -1,7 +1,7 @@
 ---
 title: Deciphering and Disabling Read-Only Properties in Win11
-date: 2024-08-08T05:57:04.976Z
-updated: 2024-08-09T05:57:04.976Z
+date: 2025-01-09T23:07:07.840Z
+updated: 2025-01-10T19:34:07.037Z
 tags:
   - windows10
   - windows11
@@ -26,11 +26,19 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 
  As you now understand why folders in your computer are reverting to read-only mode, let's look at some ways to fix it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Turn Off Folder Protection
 
  Do you use folder lock software to protect your data, but some of those protected folders become read-only at random? If so, the restrictions are likely imposed by the folder lock software. Thus, by turning off the security limitations for those folders, you might be able to fix the problem right away.
 
  If you don't use any folder lock software or turning off the protection doesn't help, move on to the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Rule Out a Folder-Specific Issue
 
@@ -40,10 +48,11 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 2. Right-click on it and select **Properties**.
 3. In the **General** tab, uncheck the box for **Read-only**.
 4. Click **Apply** and hit **OK**.  
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Unchecking the Box for Read-Only Option in the General Tab of Properties Window of the File on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/1-Unchecking-the-Box-for-Read-Only-Option-in-the-General-Tab-of-Properties-Window-of-the-File-on-Windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If removing the attribute this way does not solve the problem, or if the problem involves multiple files, keep applying the remaining fixes.
 
@@ -57,9 +66,6 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 2. In the **Properties** window, click the **Security** tab.
 3. Choose your username from the available options.
 4. Check the **Permissions for Users** section after selecting your account.  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Checking the Permissions Window in the Security Tab in the File’s Properties on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-2-Checking-the-Permissions-Window-in-the-Security-Tab-in-the-File’s-Properties-on-Windows.jpg)
 
  You can't make changes to the files if you only have read-only permissions. If you believe the access was restricted by mistake, ask the administrator to grant you access.
@@ -73,17 +79,11 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 ![Clicking on Edit Button under Security Tab in Properties Window on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-3-Clicking-on-Edit-Button-under-Security-Tab-in-Properties-Window-on-Windows.jpg)
 5. Choose the user you want to grant access to.
 6. In the **Permissions for Users** window, check the box next to **Full control** under **Allow** column.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Checking the Box Next to Full Control under Allow Column in the Permissions for Users Window in Security Tab on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-4-Checking-the-Box-Next-to-Full-Control-under-Allow-Column-in-the-Permissions-for-Users-Window-in-Security-Tab-on-Windows.jpg)
 7. After clicking **Apply**, hit **OK**.
 
  If you have multiple personal accounts on your computer, you can change permissions for each account using the administrator account similarly.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Disable Ransomware Protection in the Windows Security Settings
 
  To combat ransomware threats and safeguard users' data, Microsoft has introduced a ransomware protection feature. By using this feature, users can prevent third-party apps from changing their files and folders without their permission.
@@ -95,12 +95,13 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 3. Click on **Manage ransomware protection**.  
 ![Opening Manage Ransomware Protection Option under Virus and Threat Protection in Windows Security App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-5-Opening-Manage-Ransomware-Protection-Option-under-Virus-and-Threat-Protection-in-Windows-Security-App-on-Windows.jpg)
 4. Turn off the toggle under **Controlled folder access**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![Disabling Ransomware Protection by Turning Off the Toggle under Controlled Folder Access in Windows Security App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-6-Disabling-Ransomware-Protection-by-Turning-Off-the-Toggle-under-Controlled-Folder-Access-in-Windows-Security-App-on-Windows.jpg)
 
  If disabling this feature doesn't resolve the problem, you may need to reset the entire Windows Defender Firewall settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Reset the Windows Defender Firewall Settings
 
@@ -115,9 +116,6 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 6. When the confirmation pop-up appears, select **Yes**.  
 ![Clicking on the Yes Button after Clicking on the Restore Defaults Button on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-8-Clicking-on-the-Yes-Button-after-Clicking-on-the-Restore-Defaults-Button-on-Windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Disable Antivirus and Other Security Software
 
  If the folders that revert to read-only mode reside on the same drive where your operating system is installed, Microsoft Defender might temper the folder permissions.
@@ -127,8 +125,9 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
  Whether disabling the built-in or third-party security suites fixes the issue or not, you should enable them again to keep your device protected from viruses.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Forcefully Remove the Read-Only Attribute
 
  If none of the fixes have resolved the issue of folders reverting to read-only mode, you should remove the read-only attribute forcibly using Command Prompt. Here's how:
@@ -140,8 +139,13 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 ![Removing the Read-Only Attribute by Running the Command in Windows Command Prompt App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-9-Removing-the-Read-Only-Attribute-by-Running-the-Command-in-Windows-Command-Prompt-App-on-Windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Run the SFC and CHKDSK Scans
 
  Corrupted system files and bad hard drive sectors can also alter the folder's permission access. Run the SFC and Chkdsk scans to ensure that's not the case. SFC can help you search for and fix corrupted system files, whereas Chkdsk can find bad sectors on your hard drive that could be causing the issue.
@@ -153,15 +157,13 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
  If the issue under discussion occurred after installing a Windows update, you should uninstall it and revert to the previous version of Windows. Check out our article on [manually uninstalling Windows 10 and 11 updates](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) if you're unfamiliar with the process.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 10\. Relocate the Folders to Another Drive
 
  While it may initially seem strange, relocating the folders whose permissions get restricted to another drive also resolved the issue for some users. Therefore, move your folders from one drive to another, remove the read-only attribute, and see if they revert to read-only again. If relocating the folder to a different drive does not resolve the issue, go to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 11\. Go to Previous Restore Point
 
  A System Restore allows Windows users to restore their system to its current state if they accidentally mess something up in the future. It's a quick way to undo changes that mess up your system.
@@ -176,12 +178,29 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 
  In this article, we'll explain why your folders revert to read-only mode and what you can do to prevent it.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-keep-it-lighthearted-a-straightforward-guide-to-posting-gifs-on-instagram-for-2024/"><u>[New] Keep It Lighthearted A Straightforward Guide to Posting GIFs on Instagram for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-expert-director-of-visuals-and-music-for-2024/"><u>[Updated] Expert Director of Visuals and Music for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722167606350-50-mobile-discounts-and-expert-insights-on-cracking-ransomware-codes-podcast-with-chatgpt/"><u>$50 Mobile Discounts & Expert Insights on Cracking Ransomware Codes - Podcast with ChatGPT</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/digital-doppelganger-designs-sketching-an-animated-self/"><u>Digital Doppelganger Designs Sketching an Animated Self</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210966387-9781088236185-el-retorno/"><u>El Retorno | Free Book</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-photo-fusion-at-home-and-online-synergy-guide/"><u>In 2024, Photo Fusion at Home & Online Synergy Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/keeping-calculator-top-displayed-in-windows/"><u>Keeping Calculator Top-Displayed in Windows</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/quick-steps-to-disconnect-and-erase-apple-account-on-iphone/"><u>Quick Steps to Disconnect and Erase Apple Account on iPhone</u></a></li>
+<li><a href="https://windows11.techidaily.com/reestablishing-active-slack-signals-in-windows-11/"><u>Reestablishing Active Slack Signals in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/setting-up-microsofts-defender-on-edge-win-11-guide/"><u>Setting Up Microsoft's Defender on Edge: Win 11 Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-your-browsing-with-mouse-gestures-in-microsoft-edge/"><u>Streamline Your Browsing with Mouse Gestures in Microsoft Edge</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/streammastery-101-the-beginners-path-to-livestrancing-podcasts/"><u>StreamMastery 101 The Beginner's Path to Livestrancing Podcasts</u></a></li>
+<li><a href="https://windows11.techidaily.com/subtlety-shifts-concealing-win-11s-control/"><u>Subtlety Shifts: Concealing Win 11'S Control</u></a></li>
+<li><a href="https://fox-making.techidaily.com/understanding-the-regulatory-landscape-of-crypto-trading-and-investment-opportunities-with-yl-software-insights/"><u>Understanding the Regulatory Landscape of Crypto Trading and Investment Opportunities with YL Software Insights</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-wasd-segregating-sounds-effectively/"><u>Windows WASD: Segregating Sounds Effectively?</u></a></li>
+</ul></div>
 

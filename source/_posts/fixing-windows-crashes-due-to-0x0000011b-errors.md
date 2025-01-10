@@ -1,7 +1,7 @@
 ---
 title: Fixing Windows Crashes Due to 0X0000011B Errors
-date: 2025-01-01T00:41:28.497Z
-updated: 2025-01-03T17:37:43.361Z
+date: 2025-01-05T23:16:23.188Z
+updated: 2025-01-10T19:40:21.467Z
 tags:
   - windows10
   - windows11
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/142f97e5dde3eaa8c469e7fcae52ffd9c48a3f3c6
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Restart the Print Spooler Service
@@ -44,16 +44,16 @@ thumbnail: https://thmb.techidaily.com/142f97e5dde3eaa8c469e7fcae52ffd9c48a3f3c6
 ![print spooler service startup type automatic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/print-spooler-service-startup-type-automatic.jpg)
 5. In the**Properties** dialog, open the**General** tab.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![restart print spooler service 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/restart-print-spooler-service-1.jpg)
 6. Click the**Startup type** drop-down and set it to**Automatic** .
 
 7. Click**Apply** and**OK** to save the changes.
 8. Right-click on**Print** **Spooler** again and click**Restart** .
 9. Once the Print Spooler service is up and running, create a new print job and check for any improvements.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Install All the Pending Windows Updates
 
@@ -69,6 +69,10 @@ To check and install Windows updates:
 4. Click on**Download & install** to install the updates.
 5. Once installed, restart your PC and check for any improvements.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Install the Printer Manually via the Local Port
 
  A little complicated, yet a working solution to fix the operation failed error 0x0000011B is to[add your printer manually to Windows](https://www.makeuseof.com/windows-11-add-wired-wireless-printer/) for the local port. Here’s how to do it.
@@ -83,7 +87,7 @@ To check and install Windows updates:
 ![add local printer network printer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/add-local-printer-network-printer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Under**Choose a printer por** t, select**Create a new port.**  
@@ -103,10 +107,6 @@ To check and install Windows updates:
 5. Click**Next** and wait for the installation to complete.
 
  Your newly added printer will now appear under**Device and Printer** in**Control Panel** and the**Settings** app. Give a new print job to see if the error is resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Disable the CVE-2021-1678 Registry Fix
 
@@ -134,7 +134,7 @@ Next, follow these steps to disable CVE-2021-1678 mitigation:
 8. Close**Registry Editor** and restart your PC to apply the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 9. After the restart, try to use your shared printer and check if the error is resolved.
@@ -152,10 +152,6 @@ To uninstall Windows updates:
 ![control panel uninstall programs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/control-panel-uninstall-programs.jpg)
 3. Next, click on**Programs** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![control panel uninstall programs view installed updatges](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/control-panel-uninstall-programs-view-installed-updatges.jpg)
 4. Click on**View installed updates** under**Programs and Features** . This will open the**Uninstall updates** section in the**Settings** app. Alternatively, go to **Settings > Windows Update > Update history > Uninstall updates** to access the same.  
 
@@ -163,10 +159,14 @@ To uninstall Windows updates:
 5. Locate the problematic update (**KB5005565**) and click on**Uninstall** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Click**Uninstall** again to confirm the action. Wait for the update to uninstall and restart your PC to apply the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixing the 0x0000011b Printing Error on Windows
 
@@ -187,18 +187,17 @@ To uninstall Windows updates:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-stream-smarter-with-float-mastery-over-pip-on-netflix/"><u>[New] 2024 Approved Stream Smarter with Float Mastery Over PIP on Netflix</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-photo-pinnacle-top-tripods-for-android-and-iphones/"><u>[Updated] 2024 Approved Photo Pinnacle Top Tripods for Android & iPhones</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-earnings-insights-for-video-content-surpassing-1-million-views/"><u>[Updated] In 2024, Earnings Insights for Video Content Surpassing 1 Million Views</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-enhancing-viewer-engagement-with-smart-end-screen-techniques/"><u>[Updated] In 2024, Enhancing Viewer Engagement with Smart End Screen Techniques</u></a></li>
-<li><a href="https://windows11.techidaily.com/8-strategies-for-enhancing-windows-11-wi-fi-connectivity/"><u>8 Strategies for Enhancing Windows 11 Wi-Fi Connectivity</u></a></li>
-<li><a href="https://windows11.techidaily.com/boost-windows-11-notepad-using-ai-mentor/"><u>Boost Windows 11 Notepad Using AI Mentor</u></a></li>
-<li><a href="https://windows11.techidaily.com/clearing-obstructions-uninstalling-programs-on-win-11/"><u>Clearing Obstructions: Uninstalling Programs on Win 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/concealing-windows-firewall-areas-a-step-by-step-guide/"><u>Concealing Windows Firewall Areas: A Step-by-Step Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/context-menu-augmentation-with-disk-space-visualization-tools/"><u>Context Menu Augmentation with Disk Space Visualization Tools</u></a></li>
-<li><a href="https://windows11.techidaily.com/customizing-interval-for-automatic-logoff/"><u>Customizing Interval for Automatic Logoff</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-for-restoring-your-broken-hp-visual-output-resolved/"><u>Expert Tips for Restoring Your Broken HP Visual Output [RESOLVED]</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-a-lost-apple-iphone-se-for-free-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track a Lost Apple iPhone SE for Free? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-vn-video-editor-pc-review-is-it-the-right-choice-for-you/"><u>Updated In 2024, VN Video Editor PC Review Is It the Right Choice for You?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-efficient-media-transformation-with-actionable-steps-from-xml/"><u>[New] Efficient Media Transformation with Actionable Steps From XML</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-cutting-edge-tools-for-optimal-yt-titles/"><u>[New] In 2024, Cutting-Edge Tools for Optimal YT Titles</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-instagram-video-dimension-guide-for-best-video-format-2023/"><u>[New] In 2024, Instagram Video Dimension [Guide for Best Video Format 2023]</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/beyond-the-iconic-macbook-discovering-a-phenomenal-performance-leader-in-todays-laptops-review/"><u>Beyond the Iconic MacBook: Discovering a Phenomenal Performance Leader in Today’s Laptops Review</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-guide-to-customizing-windows-11-default-apps/"><u>Essential Guide to Customizing Windows 11 Default Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/fix-filenames-5-windows-utilities-for-date-manipulation/"><u>Fix Filenames: 5 Windows Utilities for Date Manipulation</u></a></li>
+<li><a href="https://windows11.techidaily.com/has-windows-subsystem-shifted-linux-desktops/"><u>Has Windows Subsystem Shifted Linux Desktops?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hp-touchbook-with-companion-wireless-mouse-and-office-365-suite-complete-tech-bundle-at-400-special-offer/"><u>HP Touchbook with Companion Wireless Mouse & Office 365 Suite - Complete Tech Bundle at $400 Special Offer</u></a></li>
+<li><a href="https://windows11.techidaily.com/secrets-for-locating-vanished-registry-management-utility/"><u>Secrets for Locating Vanished Registry Management Utility</u></a></li>
+<li><a href="https://extra-information.techidaily.com/streamlining-conversions-mp4-files-with-vlc-media-player/"><u>Streamlining Conversions MP4 Files with VLC Media Player</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-pubg-save-settings-breakdown-on-win-oses/"><u>Tackling PUBG Save Settings Breakdown on Win OSes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-resolving-display-driver-stopped-responding-issues-on-your-computer/"><u>Understanding and Resolving ‘Display Driver Stopped Responding’ Issues on Your Computer</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Getting Acquainted with Windows 11 Controls
-date: 2024-12-31T22:22:49.510Z
-updated: 2025-01-04T00:11:19.440Z
+date: 2025-01-05T16:29:56.987Z
+updated: 2025-01-10T19:48:52.438Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/36b09f7ccaa9c81816aab7eda16cf8f7440a1a40a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Does the Enhanced Settings Homepage Do on Windows 11?
@@ -38,13 +38,13 @@ thumbnail: https://thmb.techidaily.com/36b09f7ccaa9c81816aab7eda16cf8f7440a1a40a
 ![settings homepage in windows11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/settings-homepage-win11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Additionally, you can manage your Microsoft 365 account settings and even analyze OneDrive usage with a glance. The cards are grouped into different categories: recommended settings, cloud storage, Microsoft 365, and more. We can expect Microsoft to gradually add more cards to the homepage.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is It Easier to Manage Windows 11's Settings?
@@ -66,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/36b09f7ccaa9c81816aab7eda16cf8f7440a1a40a
  Moreover, the cards or the features aren’t static; they’ll change and update based on how you interact with your device settings. This means the homepage will automatically adjust to your preferences and usage, so it's always relevant to your needs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Get the Windows 11 Enhanced Settings Update
@@ -76,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/36b09f7ccaa9c81816aab7eda16cf8f7440a1a40a
  Head over to [how to enable the home section in the Settings app in Windows 11](https://www.makeuseof.com/enable-home-section-settings-app-windows-11/) for more information.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Device Management Made Easy With Windows 11
@@ -95,20 +95,17 @@ thumbnail: https://thmb.techidaily.com/36b09f7ccaa9c81816aab7eda16cf8f7440a1a40a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-professional-secrets-to-flawless-photo-cropping-online/"><u>[New] 2024 Approved Professional Secrets to Flawless Photo Cropping Online</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-instant-insights-switching-up-your-facebook-profile-coverage-easily/"><u>[New] Instant Insights Switching Up Your Facebook Profile Coverage Easily</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-from-wardrobe-to-webcam-your-macootd-tiktok-adventure-for-2024/"><u>[Updated] From Wardrobe to Webcam Your MacOOTD TikTok Adventure for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-how-to-create-a-square-video-for-instragram-in-imovie/"><u>[Updated] How to Create a Square Video for Instragram in iMovie?</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-the-complete-roadmap-downloading-editing-and-customizing-whatsapp-tones/"><u>2024 Approved The Complete Roadmap Downloading, Editing & Customizing WhatsApp Tones</u></a></li>
-<li><a href="https://windows11.techidaily.com/5-ways-to-fix-the-hypervisorerror-blue-screen-on-windows-11-and-11/"><u>5 Ways to Fix the HYPERVISOR_ERROR Blue Screen on Windows 11 & 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/activating-customizable-rgb-in-windows-11-os/"><u>Activating Customizable RGB in Windows 11 OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/activating-windows-11-heres-how-to-verify/"><u>Activating Windows 11? Here's How to Verify</u></a></li>
-<li><a href="https://win-blog.techidaily.com/addressed-league-of-legends-online-connection-challenges/"><u>Addressed League of Legends Online Connection Challenges</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-the-hotspot-offline-error-in-windows-11/"><u>Addressing the Hotspot Offline Error in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/best-wsl-2-methods-for-efficient-windows-coding/"><u>Best WSL 2 Methods for Efficient Windows Coding</u></a></li>
-<li><a href="https://windows11.techidaily.com/combating-computer-chaos-fixing-windows-non-responsive-keys/"><u>Combating Computer Chaos: Fixing Windows' Non-Responsive Keys</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-future-adopting-macos-11-big-sur-for-growth/"><u>In 2024, Unveiling The Future Adopting macOS 11 Big Sur for Growth</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-sony-xperia-5-v-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Sony Xperia 5 V Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/windows105/"><u>おすすめ動画プレーヤーランキング：Windows10で使える上級者向けの5個入り！</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-dispelling-darkness-enhancing-youtube-views/"><u>[New] 2024 Approved Dispelling Darkness, Enhancing Youtube Views</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-top-picks-for-instant-recorder-performance/"><u>[Updated] In 2024, Top Picks for Instant Recorder Performance</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-step-by-step-methodology-for-video-filter-addition-on-tech-devices/"><u>[Updated] Step-by-Step Methodology for Video Filter Addition on Tech Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/democratizing-discussions-sharing-your-gpt-conversations/"><u>Democratizing Discussions: Sharing Your GPT Conversations</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-timecode-alignment-and-text-modification-in-srt-using-macos/"><u>In 2024, Mastering Timecode Alignment & Text Modification in SRT Using macOS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-turning-popular-sounds-on-tiktok-into-personal-cellphone-alarms/"><u>In 2024, Turning Popular Sounds on TikTok Into Personal Cellphone Alarms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/las-5-editoras-de-formatos-mov-totalmente-gratuitas-guia-completa-para-su-seleccion-en-2024/"><u>Las 5 Editoras De Formatos MOV Totalmente Gratuitas: Guía Completa Para Su Selección en 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/microsoft-store-troubleshoot-guide-for-error-x80072f30/"><u>Microsoft Store Troubleshoot Guide for Error X80072F30</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-eradicating-installer-problems-on-windows-11/"><u>Strategies for Eradicating Installer Problems on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/sustained-calculator-visibility-on-windows-os/"><u>Sustained Calculator Visibility on Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-and-solving-windows-exit-point-error/"><u>Unraveling and Solving Windows Exit Point Error</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-tips-for-better-mouseclicklock-implementation/"><u>Unveiling Tips for Better MouseClickLock Implementation</u></a></li>
 </ul></div>
 

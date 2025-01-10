@@ -1,7 +1,7 @@
 ---
 title: Effortlessly Access the Microsoft Store
-date: 2024-07-29T04:24:18.752Z
-updated: 2024-07-30T04:24:18.752Z
+date: 2025-01-03T22:54:57.904Z
+updated: 2025-01-10T17:43:09.255Z
 tags:
   - windows10
   - windows11
@@ -35,21 +35,14 @@ To run the Windows Store apps troubleshooter, use these steps:
 1. Press**Win + I** to open the Settings app.
 2. In the**System** tab, navigate to**Troubleshoot > Other troubleshooters** .
 3. Click the**Run** button next to**Windows Store Apps** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![Run Windows Store Apps Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-windows-store-apps-troubleshooter.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After running the troubleshooter, try signing into the Microsoft Store again.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## 3\. Clear Microsoft Store Cache
 
  Like most apps, Microsoft Store collects cache data on your computer to speed up loading times and enhance app performance. However, if this data becomes corrupted, it could lead to many issues, including this one.
@@ -66,14 +59,15 @@ To repair the Microsoft Store app on Windows:
 2. Select**Installed apps** from the list.
 3. Scroll through the list to locate the**Microsoft Store** app. Click the**three-dot menu icon** next to it and select**Advanced options** .
 4. Under the**Reset** section, click the**Repair** button.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![Repair or Reset Microsoft Store on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-or-reset-microsoft-store-on-windows.jpg)
 
  A checkmark should appear next to the Repair button once the process is complete.
 
  If you cannot sign in even after attempting a repair, you can try[resetting the Microsoft Store app on Windows](https://www.makeuseof.com/windows-10-11-reset-microsoft-store/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Correct Date and Time on Your PC
 
@@ -85,9 +79,6 @@ To repair the Microsoft Store app on Windows:
 4. Enable the toggle next to**Set time automatically** .  
 ![Enable Automatic Date and Time on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-automatic-date-and-time-on-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Make Sure Microsoft Store Install Service Is Running
 
  Microsoft Store Install Service is a small program that supports the Microsoft Store and facilitates the installation of apps. Although this service runs automatically on demand, it may fail to work if you have previously disabled it.
@@ -100,14 +91,12 @@ To configure the Microsoft Store Install Service on Windows:
 4. Click the drop-down menu next to**Startup type** to select**Manual** .
 5. Click the**Start** button if the service is not running.
 6. Hit**Apply** followed by**OK** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Configure Microsoft Store Install Service on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/configure-microsoft-store-install-service-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Temporarily Disable Your VPN
 
  Although a VPN connection protects your privacy, issues with your VPN servers can sometimes prevent apps like Microsoft Store from working correctly. When this happens, you will likely encounter sign-in errors in the Microsoft Store. You can temporarily disable your VPN connection to see if that helps.
@@ -116,13 +105,14 @@ To configure the Microsoft Store Install Service on Windows:
 
  Once you have successfully signed into Microsoft Store, you can choose to re-enable your VPN connection if you want.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Re-Register Microsoft Store via PowerShell
 
  Another thing you can do to resolve this particular issue is re-register the Microsoft Store on your system. This will help you eliminate corrupt app data and restore Microsoft Store to its working state. You can refer to our guide to find detailed instructions on[how to re-register Microsoft Store apps on Windows](https://www.makeuseof.com/reregister-microsoft-store-apps-windows/) .
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ## 9\. Reinstall Microsoft Store
 
  If re-registering Microsoft Store does not help, you can consider uninstalling it from your system and installing it again. This should give the app a clean start and resolve any issues that may have been preventing you from signing in. If you need help with this, check our guide on[how to remove and reinstall Microsoft Store on Windows](https://www.makeuseof.com/remove-reinstall-microsoft-store-windows-11/) .
@@ -136,20 +126,22 @@ To configure the Microsoft Store Install Service on Windows:
 ![Check for Windows Update-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-for-windows-update-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Regain Access to the Microsoft Store on Windows
 
  Such sign-in issues with the Microsoft Store can be pretty frustrating. Hopefully, one or more of the fixes mentioned above helped you resolve the underlying issue, and you could sign in to the Microsoft Store without any problems.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -158,4 +150,19 @@ To configure the Microsoft Store Install Service on Windows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-effortless-entry-to-entertainment-the-ifunny-app-experience/"><u>[New] 2024 Approved Effortless Entry to Entertainment The iFunny App Experience</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-navigating-through-social-streams-securing-your-status-videos/"><u>[New] In 2024, Navigating Through Social Streams Securing Your Status Videos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-guard-your-camera-top-10-shields-reviewed/"><u>[Updated] 2024 Approved Guard Your Camera - Top 10 Shields Reviewed</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-privishield-shield-and-cam-cover/"><u>[Updated] 2024 Approved PriviShield Shield & Cam Cover</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-mastering-tv-saves-win-friendly-options-available/"><u>[Updated] Mastering TV Saves Win-Friendly Options Available</u></a></li>
+<li><a href="https://windows11.techidaily.com/double-click-magic-apks-in-windows-11/"><u>Double-Click Magic: APKs in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortless-arrow-navigation-post-fixes/"><u>Effortless Arrow Navigation Post-Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/enabling-effortless-cross-platform-file-exchange/"><u>Enabling Effortless Cross-Platform File Exchange</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-printer-functionality-in-windows-11-today/"><u>Enhance Printer Functionality in Windows 11 Today</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-your-view-remove-windows-overscan-effects/"><u>Enhance Your View: Remove Windows Overscan Effects</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/how-to-enjoy-anime-remotely-as-a-group-best-online-viewing-options/"><u>How to Enjoy Anime Remotely as a Group: Best Online Viewing Options</u></a></li>
+<li><a href="https://howto.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-honor-100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Honor 100 Pro | Dr.fone</u></a></li>
+</ul></div>
 

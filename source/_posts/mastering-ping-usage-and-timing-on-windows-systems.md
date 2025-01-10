@@ -1,7 +1,7 @@
 ---
 title: "Mastering Ping: Usage & Timing on Windows Systems"
-date: 2024-12-28T23:32:08.362Z
-updated: 2025-01-03T16:55:36.999Z
+date: 2025-01-05T23:30:24.290Z
+updated: 2025-01-10T21:22:44.885Z
 tags:
   - windows10
   - windows11
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Does the Ping Command Do?](#what-does-the-ping-command-do)
@@ -35,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 
  The ping command is commonly used to troubleshoot network problems and assess the health of a network connection. Learn how the ping command works, how to use it on Windows, and examples of a few scenarios you can use it for.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Does the Ping Command Do?
 
  The ping command is a network utility tool used to test the availability of a host, usually a server or computer, locally or over the internet.
@@ -42,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
  When you use the ping command, your device periodically sends packets of data (also known as echo request messages) to the specified IP address (or domain name) and waits for a response from the server each time. If your device receives a response back, the server is considered online. If the server fails to respond, the signal is considered lost, indicating a server problem.
 
  Besides checking if a host is reachable, the command keeps track of the round-trip time. This is the time a message takes to go from a source computer to a destination server and then return to the source, along with a response from the destination server. This data can help you analyze how stable your connection to a server is.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Syntax of the Ping Command
 
@@ -57,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 
  Besides this basic parameter required for the Ping test to execute correctly, you can also use other parameters listed on the [Microsoft website](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/ping) to customize the test further.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Use the Ping Command on Windows
 
  To run the ping command on Windows, follow the steps below:
@@ -70,24 +70,28 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 ![Opening the Windows PowerShell utility from the Run dialogue box in Windows.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/opening-the-windows-powershell-utility-from-the-run-dialogue-box-in-windows.jpg)
 3. Type the following command after entering the IP address or domain name of the server you wish to ping: Ping <targetname>
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Press **Enter** and let your device ping the server four times. Then, it will compile the results.  
 ![Running the ping command in Windows PowerShell.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/running-the-ping-command-in-windows-powershell.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Alternatively, you can perform the test in Command Prompt. Simply press **Win + R,** type **“cmd**,**”** and click **OK**. Then, type the command and press Enter.
 
 ![Running the Command Prompt app from the Run dialog box in Windows.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/running-the-command-prompt-app-from-the-run-dialog-box-in-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you are an administrator of a locked corporate-owned PC, you might need to run PowerShell or Command Prompt with administrative privileges to run the ping test. To do so, type **"Command Prompt"** or **"PowerShell"** in Windows Search, right-click on the utility, and select **"Run as administrator**.**"**
 
 ![Running the Windows PowerShell as an administrator on Windows.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/running-the-windows-powershell-as-an-administrator-on-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then, click **"Yes"** in the **UAC (User Account Control)** window.
 
@@ -100,10 +104,6 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
  The **TTL** (Time to Live) value is the lifespan of the packet in the network, after which it's discarded after a certain number of hops through routers. The common benchmark is 64, but TTL can be higher if the data packet is sent through a complex network. But a drastically longer one deserves a closer look to ensure your network is functioning smoothly.
 
  If the ping doesn't go through correctly in the test, and you see a "request timed out" error, it indicates an issue with your internet connection.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How Do You Stop the Ping Command?
 
@@ -131,21 +131,16 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/xpert-picks-laptops-that-transform-raw-footage-for-2024/"><u>[New] Expert Picks Laptops That Transform Raw Footage for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mirth-merger-image-composer/"><u>[New] Mirth Merger Image Composer</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-top-five-protocols-for-documenting-youtube-live-broadcasts/"><u>[Updated] In 2024, Top Five Protocols for Documenting YouTube LIVE Broadcasts</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-from-iphone-6s-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password From iPhone 6s</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-comprerant-users-resourceful-approach-to-processes-and-themes-in-windows-11/"><u>A Compreran't User's Resourceful Approach to Processes and Themes in Windows 11</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-oneplus-12-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your OnePlus 12? | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-install-hp-laserjet-p3015-driver-on-windows-step-by-step-guide/"><u>Download and Install HP LaserJet P3015 Driver on Windows: Step-by-Step Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/effortless-email-management-gmail-in-outlook-windows-edition/"><u>Effortless Email Management: Gmail in Outlook, Windows Edition</u></a></li>
-<li><a href="https://windows11.techidaily.com/erase-your-black-screen-and-clear-cursor-issues-in-win11/"><u>Erase Your Black Screen & Clear Cursor Issues in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/harmonious-hardware-connections-android-pc-junctions/"><u>Harmonious Hardware Connections: Android-PC Junctions</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-a-step-by-step-roadmap-for-masterful-instagram-photos/"><u>In 2024, A Step-by-Step Roadmap for Masterful Instagram Photos</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-effective-ways-of-extracting-snapchat-videos/"><u>In 2024, Effective Ways of Extracting Snapchat Videos</u></a></li>
-<li><a href="https://windows11.techidaily.com/mending-the-gap-enabling-smooth-steam-connection/"><u>Mending the Gap: Enabling Smooth Steam Connection</u></a></li>
-<li><a href="https://extra-information.techidaily.com/proven-techniques-for-stunning-timelapses-in-gopro-studio/"><u>Proven Techniques for Stunning Timelapses in GoPro Studio</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-comprehensive-manual-for-component-settings-in-w11/"><u>The Comprehensive Manual for Component Settings in W11</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-layers-impact-on-linux-dominance/"><u>Windows Layer's Impact on Linux Dominance</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-effortlessly-post-tiktok-videos-on-twitter-for-2024/"><u>[Updated] Effortlessly Post TikTok Videos on Twitter for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722973691790-enhance-gaming-performance-on-windows-free-nvidia-game-ready-drivers-for-windows-11-and-10-users/"><u>Enhance Gaming Performance on Windows - Free Nvidia Game Ready Drivers for Windows 11 & 10 Users!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/epson-l31-printer-drivers-update-download-for-windows-operating-systems-windows-11-8-and-7/"><u>Epson L31# Printer Drivers Update – Download for Windows Operating Systems (Windows 11, 8 & 7)</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-improve-network-stability-in-windows-11-systems/"><u>How to Improve Network Stability in Windows 11 Systems</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-spotify-promos-your-comprehensive-guide/"><u>In 2024, Mastering Spotify Promos Your Comprehensive Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unleash-artistry-a-curated-list-of-premium-3d-animation-software/"><u>In 2024, Unleash Artistry A Curated List of Premium 3D Animation Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/keeping-apps-fixed-in-task-manager-on-pc/"><u>Keeping Apps Fixed in Task Manager on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-windows-11-a-detailed-guide-to-its-auto-hdr-function/"><u>Navigating Windows 11: A Detailed Guide to Its Auto HDR Function</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/optimize-your-grip-proper-techniques-for-handling-iphones-and-airpods-revealed/"><u>Optimize Your Grip: Proper Techniques for Handling iPhones & AirPods Revealed</u></a></li>
+<li><a href="https://windows11.techidaily.com/restarting-progress-solving-qbittorrent-pauses-on-windows/"><u>Restarting Progress: Solving qBittorrent Pauses on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/what-to-do-if-the-mail-and-calendar-app-wont-open-in-windows-11/"><u>What to Do if the Mail and Calendar App Won’t Open in Windows 11</u></a></li>
 </ul></div>
 

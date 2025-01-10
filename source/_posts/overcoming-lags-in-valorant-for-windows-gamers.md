@@ -1,7 +1,7 @@
 ---
 title: Overcoming Lags in Valorant for Windows Gamers
-date: 2024-12-28T18:22:02.632Z
-updated: 2025-01-03T23:18:18.238Z
+date: 2025-01-04T19:39:15.811Z
+updated: 2025-01-10T21:38:04.129Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/c662b1f4b263fbd42169b1603658323aeb42e5641
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Don't Let Valorant Limit Your Frame Rate
 
  Valorant comes with settings built into it that limit your FPS in various situations. These settings allow you to limit your FPS when the game is idle when you scroll through menus, when the game is minimized, or when you are using the laptop battery as the primary power source. You can also set it to limit your FPS at all times.
@@ -42,15 +38,11 @@ thumbnail: https://thmb.techidaily.com/c662b1f4b263fbd42169b1603658323aeb42e5641
 ![Open General Settings in the Video Tab of Valorant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/2-open-general-settings-in-the-video-tab-of-valorant.jpg)
 3. Turn off the options next to **Limit FPS on Battery** and **Limit FPS Always**. Also, increase the maximum frame rate.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Turn on the **Limit FPS in Menus** and **Limit FPS in Background** options.  
 ![Enable and Disable Selective Options in General Settings in the Video Tab of Valorant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-enable-and-disable-selective-options-in-general-settings-in-the-video-tab-of-valorant.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Change the Screen Resolution Settings in Valorant
@@ -77,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/c662b1f4b263fbd42169b1603658323aeb42e5641
  To turn off this feature in Windows settings, check out [what hardware-accelerated GPU scheduling means and how to disable it](https://www.makeuseof.com/hardware-accelerated-gpu-scheduling-disable-windows/). If you follow the steps and discover that the hardware-accelerated GPU scheduling setting is already disabled, try turning it on and see if it improves or worsens your FPS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Turn Any Active In-Game Overlays Off
@@ -85,10 +77,6 @@ thumbnail: https://thmb.techidaily.com/c662b1f4b263fbd42169b1603658323aeb42e5641
  Do you use in-game overlays with Valorant, such as the Discord overlay? While overlays can help you quickly open apps or chats, they also put more strain on your hardware. The additional load can reduce the GPU resources allocated to Valorant, causing the FPS to drop significantly.
 
  If you use any such overlay or keep more than one overlay enabled while playing Valorant, turn them off to see how much of an impact it has on your game's performance.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Apply Some Windows-Specific Fixes
 
@@ -102,14 +90,26 @@ thumbnail: https://thmb.techidaily.com/c662b1f4b263fbd42169b1603658323aeb42e5641
 ![Enable Game Mode in the Gaming Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/9-enable-game-mode-in-the-gaming-tab-of-the-windows-settings-app.jpg)
 4. [Update your graphics driver](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) to the latest version. Also, [update your copy of Windows](https://www.makeuseof.com/update-windows-manually/) to take care of any minor glitches that might be causing the issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Boost the performance of Valorant by setting the **Graphics preference** settings to **High**. This ensures you're [using your preferred graphics card on Windows](https://www.makeuseof.com/windows-10-choose-preferred-gpu/) when running Valorant.  
 ![Set Valorants Graphics Preference to High in the Graphics Settings of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/10-set-valorants-graphics-preference-to-high-in-the-graphics-settings-of-the-windows-settings-app.jpg)
 6. Set Valorant's process priority to high. To do that, open Task Manager, navigate to the **Details** tab, right-click the **Valorant** process, and select **High** from the **Set priority** menu.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Set Valorants Process Priority to High in the Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/11-set-valorants-process-priority-to-high-in-the-windows-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Optimize Your Graphics Card Software
@@ -138,17 +138,20 @@ thumbnail: https://thmb.techidaily.com/c662b1f4b263fbd42169b1603658323aeb42e5641
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-duality-of-delivery-engaging-audiences-through-alternative-perspectives-for-reaction-videos/"><u>[New] In 2024, Duality of Delivery Engaging Audiences Through Alternative Perspectives for Reaction Videos</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-small-scale-success-with-the-safest-online-meeting-tools-for-2024/"><u>[New] Small-Scale Success with the Safest Online Meeting Tools for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-streamline-your-media-files-8-pro-convertors-sub-to-srt-style/"><u>2024 Approved Streamline Your Media Files 8 Pro Convertors, Sub to Srt Style</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-understanding-and-implementing-cc-licenses-wisely/"><u>2024 Approved Understanding & Implementing CC Licenses Wisely</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-incorrect-profile-errors-windows-1011-guide/"><u>Addressing Incorrect Profile Errors: Windows 10/11 Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoid-installation-issues-fixing-zero-error-on-win11/"><u>Avoid Installation Issues: Fixing Zero Error on Win11</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/garmin-vivomove-hr-a-trendy-smartwatch-designed-to-motivate-and-monitor-your-active-routine/"><u>Garmin Vivomove HR - A Trendy Smartwatch Designed to Motivate and Monitor Your Active Routine</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-enabling-or-disabling-wi-fi-cost-tracking-in-windows-11/"><u>Guide: Enabling or Disabling Wi-Fi Cost Tracking in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-multi-screen-brightness-best-tools-to-light-up-your-windows-monitors/"><u>Navigating Multi-Screen Brightness: Best Tools to Light Up Your Windows Monitors</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/raspberry-pi-reveals-plans-for-ipo-on-the-london-stock-exchange/"><u>Raspberry Pi Reveals Plans for IPO on the London Stock Exchange</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-solution-to-cease-iomap64-syscall-freezes-on-windows/"><u>Step-by-Step Solution to Cease IOMap64 Syscall Freezes on Windows</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-intellectual-property-who-holds-the-rights-to-artificial-intelligence-generated-content/"><u>Understanding Intellectual Property: Who Holds the Rights to Artificial Intelligence Generated Content?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-the-art-of-hue-adjustment-in-post-production/"><u>[New] In 2024, The Art of Hue Adjustment in Post-Production</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-inside-stardust-a-comprehensive-guide-to-mastery-in-stardew-and-its-intriguing-ginger-isle-for-2024/"><u>[New] Inside Stardust A Comprehensive Guide to Mastery in Stardew and Its Intriguing Ginger Isle for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-dynamic-presenters-discourse-analysis-8th-ver/"><u>2024 Approved Dynamic Presenter's Discourse Analysis 8Th Ver</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/1728490919068-outlook/"><u>透過二元搬迁方式将Outlook数据库移动到新电脑</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/conquer-common-issues-essential-windows-10-fixes/"><u>Conquer Common Issues Essential Windows 10 Fixes</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/tial-video-gear-for-youtube-starters/"><u>Essential Video Gear for YouTube Starters</u></a></li>
+<li><a href="https://windows11.techidaily.com/executing-an-instant-in-place-windows-11-boost/"><u>Executing an Instant, In-Place Windows 11 Boost</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-your-mouses-dizzy-spins-in-windows/"><u>Fixing Your Mouse's Dizzy Spins in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-for-controlling-visual-cues-in-windows-11-search/"><u>Guide for Controlling Visual Cues in Windows 11 Search</u></a></li>
+<li><a href="https://blog-min.techidaily.com/movavitsmp4/"><u>Movaviで対話式オンラインツール：TSからMP4へ自由転換！</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-windows-game-launch-issues-for-epic/"><u>Navigating Windows Game Launch Issues for Epic</u></a></li>
+<li><a href="https://windows11.techidaily.com/startup-guide-for-windows-11s-immediate-help-tool/"><u>Startup Guide for Windows 11'S Immediate Help Tool</u></a></li>
+<li><a href="https://windows11.techidaily.com/stealthy-system-settings-hiding-windows-11-power-command/"><u>Stealthy System Settings: Hiding Windows 11 Power Command</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/steam-stability-solved-effective-ways-to-prevent-sudden-crashes/"><u>Steam Stability Solved: Effective Ways to Prevent Sudden Crashes!</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11s-triple-widget-setup-made-simple/"><u>Windows 11'S Triple Widget Setup Made Simple</u></a></li>
 </ul></div>
 

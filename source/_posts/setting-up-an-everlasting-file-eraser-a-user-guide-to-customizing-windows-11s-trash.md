@@ -1,7 +1,7 @@
 ---
 title: "Setting up an Everlasting File Eraser: A User Guide to Customizing Windows 11'S Trash"
-date: 2024-12-31T00:59:01.086Z
-updated: 2025-01-03T18:51:38.968Z
+date: 2025-01-07T22:46:21.056Z
+updated: 2025-01-10T22:36:07.136Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Standard Deletion vs. Permanent Erasure: What's Wrong With the Default Recycle Bin?
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
  The Recycle Bin is based on the standard file deletion method. It enables users to delete files either by emptying the bin or bypassing it by pressing the**Shift + Delete** hotkey. Users can also select a**Don’t move files to the Recycle Bin** option for standard file deletion.
 
 ![The Recycle Bin Properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/recycle-bin-properties-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Yet, the Recycle Bin’s standard deletion method merely removes a hard drive reference pointer for a file. Doing so marks the drive space a deleted file occupies as available, but the data remains intact until it gets overwritten. This means that non-overwritten files removed with standard deletion can still be recovered with data recovery software. Our data recovery software guide tells you about some of the[best tools you can use for restoring files](https://www.makeuseof.com/best-data-recovery-software/) .
 
@@ -65,21 +69,17 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 
 ![The Free File Wiper bin icon on the desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/free-file-wiper-bin-icon.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can change the wipe method for that bin via its context menu. Right-click the**Free File Wiper** system tray icon and select the**Wipe method** submenu. Then choose one of the five options available there.**Maniacal erase** is the most thorough shredding option with several passes.
 
  Free File Wiper's context menu also includes other options. There you can select alternative transparency levels for the bin icon. Click**Autostart with Windows** to add Free File Wiper to the startup items.
 
 ![The Wipe method option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/wipe-method-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You’ll also notice that the menu includes an**Integrate in explorer “Send to” menu** selected by default. That option adds Free File Wiper menu to the**Send to** submenu on the classic context menu when selected. It enables you to right-click a file and select**Show more options** \>**Send to** \>**Free File Wiper** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Add a File Deletion Bin to the Desktop With Multi Trash
 
@@ -96,14 +96,10 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 8. Double-click the Multi Trash gadget, which will probably be on page two of that window, to add it to the desktop.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Multi Trash gadget](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/multi-trash-button.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Multi Trash is set to its Recycle Bin by default. However, you can change its function by clicking the arrows on that gadget. Click that gadget’s**left arrow** to turn it into a Shred bin.
 
@@ -118,6 +114,10 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 ![The Multi Trash window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/multi-trash-settings.jpg)
 
  Of course, the biggest beauty of Multi Trash is that it’s a 3-in-1 file deletion tool. You can also set it to be a recycle or standard deletion bin for different files. However, only the Shred bin securely erases files beyond recovery. So, use the Shred bin to erase files that include more confidential info.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Delete Your Files More Securely on the Windows 10 and 11 Desktop
 
@@ -140,20 +140,14 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-essential-guide-to-using-obs-for-youtube-and-twitch-for-2024/"><u>[New] Essential Guide to Using OBS for YouTube & Twitch for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-best-practices-for-capturing-vimeo-content/"><u>[Updated] 2024 Approved Best Practices for Capturing Vimeo Content</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-examining-if-reviewers-get-payed/"><u>2024 Approved Examining if Reviewers Get Payed</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1725284534902-dvd/"><u>最新無料DVDコピーツールの使い方とエラー対処ガイド</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-history-of-the-windows-taskbar-from-1985-to-2023/"><u>A History of the Windows Taskbar From 1985 to 2023</u></a></li>
-<li><a href="https://windows11.techidaily.com/advanced-cpu-utilization-checkers/"><u>Advanced CPU Utilization Checkers</u></a></li>
-<li><a href="https://windows11.techidaily.com/building-your-signature-input-scheme-on-win11/"><u>Building Your Signature Input Scheme on Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/classic-revival-atlasos-for-outdated-pcs/"><u>Classic Revival: AtlasOS for Outdated PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/cross-language-build-system-setup/"><u>Cross-Language Build System Setup</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-the-ten-step-window-repair-journey/"><u>Decoding the Ten-Step Window Repair Journey</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-huawei-nova-y71-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Huawei Nova Y71 | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-11-best-bridge-cameras-ultimate-review/"><u>In 2024, 11 Best Bridge Cameras [Ultimate Review]</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-streamlining-your-podcast-production-process/"><u>In 2024, Streamlining Your Podcast Production Process</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719208597283-unravel-complex-windows-issues-help-at-hand/"><u>Unravel Complex Windows Issues: Help at Hand</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/worldwide-morning-tributes-expressing-good-morning-in-10-languages/"><u>Worldwide Morning Tributes: Expressing 'Good Morning' In 10 Languages</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-youtube-editing-made-easy-with-the-8-best-no-cost-software-options/"><u>[Updated] YouTube Editing Made Easy with The 8 Best No-Cost Software Options</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-cutting-edge-creativity-high-quality-ae-samples-without-fee/"><u>2024 Approved Cutting-Edge Creativity High-Quality AE Samples Without Fee</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-samsung-galaxy-s24plus-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Samsung Galaxy S24+ 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-your-kotion-each-g2000-microphones-audio-input-functionality/"><u>How to Restore Your Kotion EACH-G2000 Microphone's Audio Input Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/making-windows-11-writable-safe-hardware-dialog-easy-access/"><u>Making Windows 11' Writable, Safe Hardware Dialog Easy Access</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-computer-crisis-management-with-tools/"><u>Mastering Computer Crisis Management with Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/propel-windows-video-workflow-adopt-distributed-power-by-tdarr-technology/"><u>Propel Window's Video Workflow: Adopt Distributed Power by Tdarr Technology</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-unfunctional-enter-key-in-windows-os/"><u>Resolving Unfunctional Enter Key in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-whisper-techniques-concealing-commands-effectively/"><u>Window's Whisper Techniques: Concealing Commands Effectively</u></a></li>
 </ul></div>
 

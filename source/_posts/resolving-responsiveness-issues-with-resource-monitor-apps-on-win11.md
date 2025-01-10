@@ -1,7 +1,7 @@
 ---
 title: Resolving Responsiveness Issues with Resource Monitor Apps on Win11
-date: 2024-12-29T17:45:16.785Z
-updated: 2025-01-04T02:34:09.385Z
+date: 2025-01-07T21:52:43.166Z
+updated: 2025-01-10T23:33:39.429Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/b5d7a060863d8900073e79dab85dc7e851c9bee60
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Causes the Resource Monitor App to Stop Working?
@@ -62,10 +62,6 @@ To change the DPI scale to its default settings, follow these steps:
 
  Once you have made the changes, close the Settings window and run the Resource Monitor app to see if the problem is resolved.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Run the System File Checker
 
  If restarting your computer and changing the DPI settings didn't work, running an SFC scan can often detect and repair any corrupted system files that might be causing problems.
@@ -78,8 +74,16 @@ To do this, follow these steps:
 ![Run SFC Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-sfc-command.jpg)
 4. Now in the elevated Command Prompt window, type in the command below and press Enter:  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 sfc /scannow
 5. Wait for the process to complete, then restart your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Check for Windows Updates
 
@@ -95,7 +99,7 @@ sfc /scannow
  If there are any updates available, it will download and install them automatically. After the download completes, install the updates and restart your computer. After that, check to see if Resource Monitor is working.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Uninstall the Latest Windows Updates
@@ -110,10 +114,6 @@ sfc /scannow
 
 ![Uninstall the latest Windows Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-the-latest-windows-update.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then select any recent updates that you want to uninstall. After that, restart your computer and check if Resource Monitor is now working properly.
 
 ## 6\. Create a New User Account
@@ -127,11 +127,11 @@ sfc /scannow
 ![Create a New User Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/create-a-new-user-account.jpg)
 5. On the Microsoft account page, click **I don't have this person's sign-in information** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then follow the instructions to add a new user account and then sign in with that account. Now open Resource Monitor and see if it's working properly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Troubleshoot in Clean Boot State
 
@@ -149,14 +149,14 @@ In such a case, you need to perform a clean boot as instructed below:
 ![Hide all Microsoft services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Hide-all-Microsoft-services.jpg)
 6. Then click**Disable All** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Go to the Startup tab and click the**Open Task Manager** link
 8. Disable any services or programs that are active in Startup apps.
 
  Once you have done this, close Task Manager, then click**OK** on the MSConfig window to save these changes. Now restart your computer for them to take effect, then try using Resource Monitor to see if they work now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Resolve Resource Monitor Issues in Windows 11
 
@@ -177,19 +177,20 @@ In such a case, you need to perform a clean boot as instructed below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-audience-allure-powerful-hashtags-that-transform-youtube-shorts-for-2024/"><u>[New] Audience Allure Powerful Hashtags That Transform YouTube Shorts for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-unboxing-premium-game-devices-youtube-edition/"><u>[Updated] Unboxing Premium Game Devices YouTube Edition</u></a></li>
-<li><a href="https://windows11.techidaily.com/7-essential-steps-to-resolve-chrome-profile-errors/"><u>7 Essential Steps to Resolve Chrome Profile Errors</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-chase-credit-card-options-ranked-and-analyzed-on-zdnet/"><u>Best Chase Credit Card Options Ranked & Analyzed on ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/comprehensive-fixes-for-connecting-your-asus-pce-ac56-to-windows-operating-systems/"><u>Comprehensive Fixes for Connecting Your ASUS PCE-AC56 to Windows Operating Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-enable-driver-verification-on-windows-11-pcs/"><u>How to Enable Driver Verification on Windows 11 PCs</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-get-the-latest-razer-naga-mouse-drivers-for-windows-a-comprehensive-tutorial/"><u>How to Get the Latest Razer Naga Mouse Drivers for Windows – A Comprehensive Tutorial</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-infinix-smart-7-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Infinix Smart 7 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mac-mastery-steps-to-activate-and-use-both-displays-simultaneeously/"><u>Mac Mastery: Steps to Activate and Use Both Displays Simultaneeously</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-windows-based-itunes-freeze-problems/"><u>Overcoming Windows-Based iTunes Freeze Problems</u></a></li>
-<li><a href="https://windows11.techidaily.com/regain-usb-connectivity-in-windows-os-amidst-issues/"><u>Regain USB Connectivity in Windows OS Amidst Issues</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/unlocking-network-growth-share-igtv-videos-and-fb/"><u>Unlocking Network Growth Share IGTV Videos & FB</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/updated-2024-approved-what-is-chatgpt/"><u>Updated 2024 Approved What Is ChatGPT?</u></a></li>
-<li><a href="https://windows11.techidaily.com/which-browser-takes-up-less-memory-and-cpu-on-windows-macos/"><u>Which Browser Takes Up Less Memory and CPU On Windows, macOS?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-the-converters-cornerstone-for-srt-transformations/"><u>[New] 2024 Approved The Converter's Cornerstone for SRT Transformations</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-streamline-your-tiktok-lives-4-essential-desktop-practices/"><u>[New] In 2024, Streamline Your TikTok Lives 4 Essential Desktop Practices</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-revealed-top-5-ingenious-whatsapp-shortcuts-for-2024/"><u>[Updated] Revealed Top 5 Ingenious WhatsApp Shortcuts for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-tips-troubleshooting-missing-steam-controllers/"><u>Essential Tips: Troubleshooting Missing Steam Controllers</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-your-unresponsive-xbox-controllers-on-pc/"><u>Fixing Your Unresponsive Xbox Controllers on PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-xiaomi-redmi-note-13-proplus-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Xiaomi Redmi Note 13 Pro+ 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-magic-6-lite-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Honor Magic 6 Lite Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-unlock-pin-related-bluetooth-disconnects-in-win11win10/"><u>How To Unlock PIN-Related Bluetooth Disconnects in Win11/Win10</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-easily-getting-outlook-preview-on-winoss/"><u>Navigate Easily: Getting Outlook Preview on WinOSs</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-code-0x0000004e-anomalies/"><u>Navigating Through Code 0X0000004E Anomalies</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-direct3d-initialization-failure/"><u>Overcoming Direct3D Initialization Failure</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ng-stories-that-resonate-with-a-digital-audience-yt/"><u>Sharing Stories that Resonate with a Digital Audience YT.</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-nvidia-connection-failures-in-10-and-11-editions/"><u>Streamlining Nvidia Connection Failures in 10 & 11 Editions</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/techniques-to-optimize-low-light-footage-quality/"><u>Techniques to Optimize Low Light Footage Quality</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-specific-error-recovery-reinstating-non-functional-software/"><u>Win-Specific Error Recovery: Reinstating Non-Functional Software</u></a></li>
 </ul></div>
 

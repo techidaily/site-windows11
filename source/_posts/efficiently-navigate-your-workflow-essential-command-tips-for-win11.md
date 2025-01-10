@@ -1,7 +1,7 @@
 ---
 title: "Efficiently Navigate Your Workflow: Essential Command Tips for Win11"
-date: 2024-07-29T04:23:27.067Z
-updated: 2024-07-30T04:23:27.067Z
+date: 2025-01-08T16:02:20.800Z
+updated: 2025-01-10T21:01:05.941Z
 tags:
   - windows10
   - windows11
@@ -20,15 +20,16 @@ thumbnail: https://thmb.techidaily.com/255abe49d787e06c0ed6c6f504e1d68fdfd70d280
 
  However, it’s not ideal to manually input NirCmd commands to carry out Windows tasks. It’s much better to create Windows 11/10 desktop and hotkey shortcuts for activating the NirCmd tasks whenever needed. This is how you can set up several handy Windows command shortcuts with NirCmd.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Set Up NirCmd Command Desktop Shortcuts
 
  You can set up NirCmd command shortcuts by creating Windows desktop shortcuts for them. Then you can assign hotkeys for activating the NirCmd commands to their Windows desktop shortcuts. However, first, you must download and extract the NirCmd command-line utility as follows:
 
 1. Open this [NirCmd download webpage](https://www.nirsoft.net/utils/nircmd2.html) in browser software.
 2. Then scroll right to the bottom of that page and click the **Download\_NirCmd\_64-bit** link there.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![The Download_NirCmd 64-bit link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/download-nircmd-link.jpg)
 3. Next, [open File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) and go to the directory where the NirCmd ZIP archive has been downloaded.
 4. Follow the instructions in our [how-to unzip files](https://www.makeuseof.com/unzip-files-windows-10/) guide to extract the nircmd.zip archive. Extract the NirCmd folder to this user directory path:  
@@ -37,15 +38,14 @@ thumbnail: https://thmb.techidaily.com/255abe49d787e06c0ed6c6f504e1d68fdfd70d280
  Now that you’ve downloaded and extracted the NirCmd utility, you can set up desktop shortcuts for executing the commands below. These are the steps for creating a Windows desktop shortcut for a NirCmd command:
 
 1. Click any area of your Windows desktop with the mouse’s right button and select the **New** and **Shortcut** options.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![The Shortcut option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/shortcut-option.jpg)
 2. Then input (or copy and paste) one of the NirCmd commands below in the item location box as follows:  
-`C:\Users\nircmd-x64\nircmd.exe NirCmd command`  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+`C:\Users\nircmd-x64\nircmd.exe NirCmd command`  
 ![The Create Shortcut window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/create-shortcut-wizard.jpg)
 3. Click **Next** to continue to the final step in the shortcut wizard.
 4. Input a suitable name for your NirCmd command shortcut and select **OK**.
@@ -56,16 +56,14 @@ thumbnail: https://thmb.techidaily.com/255abe49d787e06c0ed6c6f504e1d68fdfd70d280
 
  Of course, that desktop shortcut will only work if you extract NirCmd to the Users folder as instructed above. You can extract NirCmd anywhere you wish, but the full path of that software’s extracted file must be included in the item location box before the command. You can see the full path for the nircmd.exe file by right-clicking it and selecting **Properties**.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A NirCmd file path](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/path-location.jpg)
 
  When you’ve created desktop shortcuts for the commands below, go ahead and try them out. Double-clicking the desktop shortcuts will execute the NirCmd commands they’re based on.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Set Up NirCmd Command Keyboard Shortcuts
 
  It’s more convenient to have hotkeys for executing the NirCmd commands. You can create NirCmd command hotkeys for desktop shortcuts like this:
@@ -96,15 +94,16 @@ thumbnail: https://thmb.techidaily.com/255abe49d787e06c0ed6c6f504e1d68fdfd70d280
 
 `nircmd.exe win center alltop`
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Log Out of Windows
 
  A hotkey for [signing out of your Windows user account](https://www.makeuseof.com/windows-11-how-to-sign-out/) would be useful. You can create such a keyboard shortcut with this NirCmd command:
 
 `nircmd.exe exitwin logoff`
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Read Out the Copied Clipboard Item
 
  This NirCmd command will read out the most recently copied text item on the Windows clipboard. Creating a hotkey for it will give you a convenient way to check what text you’ve copied to the clipboard. The NirCmd command for reading a copied clipboard item aloud is:
@@ -125,8 +124,6 @@ keywords: Win11 Commands Guide,Productivity in Win11,Win11 Task Efficiency,Optim
 thumbnail: https://thmb.techidaily.com/255abe49d787e06c0ed6c6f504e1d68fdfd70d2804f8cd2447f9f7cced35cd22.jpg
 ---
 
-
-
 ### 5\. Activate Your Windows 11/10 Screensaver
 
  Do you have a screensaver set that you love viewing? If so, set up a NirCmd command shortcut that enables you to immediately activate that screensaver. You can create a desktop and keyboard shortcut for activating the screensaver with this NirCmd command:
@@ -134,8 +131,9 @@ thumbnail: https://thmb.techidaily.com/255abe49d787e06c0ed6c6f504e1d68fdfd70d280
 `nircmd.exe screensaver`
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 6\. Close All Open File Explorer Windows
 
  This NirCmd command shortcut closes all open File Explorer windows. It will come in handy when you need to close lots of Explorer folder windows. The NirCmd command for closing all open File Explorer windows is:
@@ -143,8 +141,9 @@ thumbnail: https://thmb.techidaily.com/255abe49d787e06c0ed6c6f504e1d68fdfd70d280
 `nircmd.exe win close class CabinetWClass`
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 7\. Keep the Calculator on Top of All Windows
 
  The pre-installed Calculator app is one many users no doubt need when browsing the web or utilizing other software packages. You can create a NirCmd command shortcut that always keeps Calculator on top of other windows when you’re utilizing that app. To do so, you’ll need to input this command within a desktop shortcut’s item location box:
@@ -163,11 +162,33 @@ thumbnail: https://thmb.techidaily.com/255abe49d787e06c0ed6c6f504e1d68fdfd70d280
 
  However, it’s not ideal to manually input NirCmd commands to carry out Windows tasks. It’s much better to create Windows 11/10 desktop and hotkey shortcuts for activating the NirCmd tasks whenever needed. This is how you can set up several handy Windows command shortcuts with NirCmd.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-best-ios-and-android-photo-editing-face-tools/"><u>[New] Best iOS and Android Photo-Editing Face Tools</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-mastering-virtual-space-essential-guidelines-9-must-know/"><u>[New] In 2024, Mastering Virtual Space Essential Guidelines (9 Must Know)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-4k-camera-guide-top-6-dslrs-reviewed/"><u>[New] Ultimate 4K Camera Guide Top 6 DSLRs Reviewed</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-the-complete-guide-to-cashing-in-on-tiktok-in-8-steps/"><u>[Updated] In 2024, The Complete Guide to Cashing In on TikTok in 8 Steps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-review-free-meme-makers-to-use-for-2024/"><u>A Review Free Meme Makers to Use for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-realme-gt-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/future-ready-portability-top-windows-laptop-selection-guide/"><u>Future-Ready Portability: Top Windows Laptop Selection Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-alpine-adventure-2022s-spectacular-snowboard-cross-olympic-moments/"><u>In 2024, Alpine Adventure 2022'S Spectacular Snowboard Cross Olympic Moments</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-hits-and-tags-mastering-the-language-of-virality-in-youtube-shorts/"><u>In 2024, Hits & Tags Mastering the Language of Virality in YouTube Shorts</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instasoul-unleash-your-essence-through-100-dynamic-captions/"><u>InstaSoul Unleash Your Essence Through 100 Dynamic Captions</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-single-user-policy-settings-in-the-latest-windows-11/"><u>Optimizing Single-User Policy Settings in the Latest Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/pathways-to-perfectly-understand-and-erase-your-windows-logs/"><u>Pathways to Perfectly Understand & Erase Your Windows Logs</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-disabling-techniques-for-office-and-os-updates/"><u>Quick Disabling Techniques for Office and OS Updates</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-steps-to-enhance-laptop-efficiency-on-two-displays/"><u>Quick Steps to Enhance Laptop Efficiency on Two Displays</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-constant-bios-entry-on-windows-pcs/"><u>Resolving Constant BIOS Entry on Windows PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/secure-boot-woes-overcome-support-issues-with-top-fixes/"><u>Secure Boot Woes: Overcome Support Issues with Top Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/snip-tool-engagement-in-windows-11-for-immediate-use/"><u>Snip Tool Engagement in Windows 11 for Immediate Use</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-w7-soundscape-via-new-idt-drivers-implementation/"><u>Upgrade W7 Soundscape via New IDT Drivers Implementation</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-mastery-unveiling-the-best-techniques-for-credential-management/"><u>Win11 Mastery: Unveiling the Best Techniques for Credential Management</u></a></li>
+</ul></div>
+

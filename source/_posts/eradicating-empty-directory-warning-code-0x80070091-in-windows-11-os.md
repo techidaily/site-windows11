@@ -1,7 +1,7 @@
 ---
 title: Eradicating Empty Directory Warning Code 0X80070091 in Windows 11 OS
-date: 2024-07-29T04:23:55.508Z
-updated: 2024-07-30T04:23:55.508Z
+date: 2025-01-05T23:20:29.847Z
+updated: 2025-01-10T20:45:40.635Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/9a7e28e8568427a787263a138246015aa54bad807
  The 0x80070091 message suggests that the error occurs because a folder isn’t empty. Yet, you should be able to erase directories that contain files without any issues. Furthermore, that error can also arise for empty folders. If you’re seeing the same folder error 0x80070091 in Windows, try applying these potential fixes.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Try Erasing the Folder With the Command Prompt
 
  The Command Prompt gives users another way to delete folders in Windows 11/10\. So, you might be able to erase an affected folder without issues by using the Command Prompt. Using the Command Prompt might be more of a workaround, but at least you’ll get the folder deleted if works.
@@ -37,20 +38,22 @@ thumbnail: https://thmb.techidaily.com/9a7e28e8568427a787263a138246015aa54bad807
 
 ![The delete folder command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/delete-folder-command.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Restart Windows File Explorer
 
  Restarting File Explorer can resolve issues that occur with that file manager. However, closing and reopening the Explorer window doesn’t restart the file manager. You’ll need to restart the Explorer process via Task Manager like this:
 
 1. To view Task Manager, press**Ctrl** +**Shift** +**Esc** simultaneously.
 2. Select File Explorer on the**Processes** tab.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Restart option for File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/restart-options-for-file-explorer.jpg)
 3. Press the**Restart** button for the selected Explorer process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Scan System Files With an SFC Scan
 
@@ -66,45 +69,30 @@ thumbnail: https://thmb.techidaily.com/9a7e28e8568427a787263a138246015aa54bad807
 2. Type in this Check Disk command and press**Enter:**  
 `chkdsk /f /r C:`
 3. Press**Y** to schedule the scan for a restart.  
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The chkdsk scan command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chkdsk-scan-command.jpg)
 4. Click**Start** and select**Power** \>**Restart** to reboot.
 
  If the folder the 0x80070091 error occurs for isn’t on the C: drive, you’ll need to modify the above command. Replace**C:** with the letter of the storage drive that includes the affected folder.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Modify the Affected Folder’s Permissions
 
  Error 0x80070091 can arise because of insufficient folder permission. You might need to set an affected folder to full permission to resolve error 0x80070091\. To do that, change the folder’s permission settings as follows:
 
 1. Open Explorer and right-click the affected folder to select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![The Properties option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/properties-option.jpg)
 2. Click the window’s**Security** tab.
 3. Next, press the**Advanced** button.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![The Security tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/security-tab.jpg)
 4. Click**Change** beside the owner’s name.  
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![The Advanced Security Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/advanced-security-settings-window.jpg)
 5. Enter your Windows user account name inside the object name text box.  
 ![The Select a User or Group window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/select-a-user-or-group.jpg)
@@ -122,6 +110,11 @@ thumbnail: https://thmb.techidaily.com/9a7e28e8568427a787263a138246015aa54bad807
 3. Select the most thorough**Full Scan** option, which could take more than an hour to finish.  
 ![The Full scan option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/full-scan-option.jpg)
 4. Press**Scan now** to start the antivirus scanning.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Then wait to see if the scan detects anything, and select**Remove** if it does.
 6. Click**Start actions** to apply.
 
@@ -135,8 +128,6 @@ thumbnail: https://thmb.techidaily.com/9a7e28e8568427a787263a138246015aa54bad807
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +135,20 @@ thumbnail: https://thmb.techidaily.com/9a7e28e8568427a787263a138246015aa54bad807
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-joyful-sign-uplogout-flowchart/"><u>[New] 2024 Approved Joyful Sign-Up/Logout Flowchart</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-quick-fortnite-tile-sketch-a-30-second-guide/"><u>[New] In 2024, Quick Fortnite Tile Sketch A 30-Second Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-unlock-game-changing-potential-try-our-top-ranked-free-voice-alteration-tool-for-2024/"><u>[Updated] Unlock Game-Changing Potential Try Our Top-Ranked Free Voice Alteration Tool for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-easy-entry-level-choices-for-gopro-accessories/"><u>2024 Approved Easy Entry-Level Choices for GoPro Accessories</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevating-ssd-speed-in-windows-using-ssd-fresh/"><u>Elevating SSD Speed in Windows Using SSD Fresh</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-alt-code-function-on-windows-46-characters/"><u>Enhancing ALT Code Function on Windows (46 Characters)</u></a></li>
+<li><a href="https://windows11.techidaily.com/enlighten-your-way-to-printer-success-on-windows-11/"><u>Enlighten Your Way to Printer Success on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-advice-for-resolving-cc-problems-in-the-latest-os/"><u>Essential Advice for Resolving CC Problems in the Latest OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-disabled-internet-router-configuration/"><u>Fixing Disabled Internet Router Configuration</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-from-apple-iphone-11-pro-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock From Apple iPhone 11 Pro You Should Try Out</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/losung-fur-das-zuruckholen-von-geleasten-dateien-von-der-usb-flache-ins-papierkorbverzeichnis-umwandeln/"><u>Lösung Für Das Zurückholen Von Geleasten Dateien: Von Der USB-Fläche Ins Papierkorbverzeichnis Umwandeln</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-itel-a60s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-poco-c51-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Poco C51 | Dr.fone</u></a></li>
+</ul></div>
 

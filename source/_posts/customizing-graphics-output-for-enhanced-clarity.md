@@ -1,7 +1,7 @@
 ---
 title: Customizing Graphics Output for Enhanced Clarity
-date: 2024-08-08T05:56:30.964Z
-updated: 2024-08-09T05:56:30.964Z
+date: 2025-01-05T17:58:12.352Z
+updated: 2025-01-10T22:30:22.932Z
 tags:
   - windows10
   - windows11
@@ -21,15 +21,17 @@ thumbnail: https://thmb.techidaily.com/1f664839b3fc6a46ff6691f07770bf51fb0f595ee
  Whether it's due to vision problems or if you simply want more control over how things look onscreen, these solutions are sure to help.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is DPI Scaling on Windows?
 
  DPI stands for "dots per inch" and it refers to the number of individual dots that can be packed into an inch of space on your screen. The higher the number, the sharper and clearer the display. But here's the thing, sometimes you might want your text and images to be bigger, while at other times, you might want them smaller. That's where DPI scaling comes in; it's your very own personal adjustment tool.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Change Display DPI Scaling via Windows Settings
 
  The Settings app is the simplest and easiest way to change display scaling in Windows 11\. Here's how to do it.
@@ -39,17 +41,19 @@ thumbnail: https://thmb.techidaily.com/1f664839b3fc6a46ff6691f07770bf51fb0f595ee
 3. Click**Display** on the right side.
 4. Scroll down to the**Scale and layout** section.
 5. Next to the**Scale** option, click the dropdown menu and change the scaling.  
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Change DPI Scale in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/change-dpi-scale-in-settings.jpg)
 6. Select the one that best fits your needs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After you've made your changes, close the window and restart your computer, so the changes take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Change Display DPI Scaling Using the Registry Editor
 
  If the Settings app isn't working, or you don't have access to it, you can change the scaling through the Registry Editor. But keep in mind that it can be a bit tricky, and you should [back up your registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before making any changes.
@@ -65,9 +69,6 @@ HKEY_CURRENT_USER\Control Panel\Desktop
  If you don't see the LogPixels DWORD key, you need to manually create it. For this, right-click on the empty space in the right pane and select**New > DWORD (32-bit) Value** . Upon creating the DWORD key, give it the name**LogPixels** and save it. Now click twice on the key you just created, and a pop-up will appear.
 
 1. Choose one of the following Value data fields and set the base to**Decimal** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Change Display DPI Scaling in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/change-display-dpi-scaling-in-windows.jpg)  
 | Value data | DPI scale                  |  
 | ---------- | -------------------------- |  
@@ -83,25 +84,24 @@ HKEY_CURRENT_USER\Control Panel\Desktop
 3. Next, double-click**Win8DpiScaling** in the right pane. If you don't see the Win8DpiScaling DWORD key there, you must create it manually in the same way as you created LogPixels.  
 ![Change Display DPI Scaling Using Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/change-display-dpi-scaling-using-registry.jpg)
 4. In the pop-up menu, set the Value data to**0** if you set Logpixels to 96, or**1** if you used any other value.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Select**Hexadecimal** as the base and click**OK** .
 
  After performing the above steps, restart your computer to take effect the changes. If you ever need to restore the default settings, just open Registry Editor and go to the same location. Then double-click on Win8DpiScaling and change the Value data to 0.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## Scale the Display DPI on Windows
 
  If you're in search of ways to give your screen a sharper and crisper look, change the DPI scaling! You can customize different elements displayed on your device like text size, icons, and more so that it's easier for you to read and navigate.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -110,6 +110,22 @@ HKEY_CURRENT_USER\Control Panel\Desktop
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/updated-keep-your-content-clout-authentic-resist-the-like-lie-in/"><u>[Updated] Keep Your Content Clout Authentic Resist the Like Lie-In</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/complete-iphone-file-recovery-solution-for-mac-users-secure-your-deleted-images-footage-and-contact-details-again/"><u>Complete iPhone File Recovery Solution for Mac Users: Secure Your Deleted Images, Footage, and Contact Details Again</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/developing-your-own-chatbot-app-a-comprehensive-walkthrough/"><u>Developing Your Own Chatbot App: A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-nokia-c12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://win-guides.techidaily.com/guia-facil-y-paso-a-paso-para-duplicar-un-disco-duro-usando-un-pendrive-bootable/"><u>Guía Fácil Y Paso a Paso Para Duplicar Un Disco Duro Usando Un Pendrive Bootable</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-samsung-galaxy-m14-5g-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Samsung Galaxy M14 5G Phone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-install-and-activate-defender-application-guard-on-edge-for-enhanced-safety/"><u>How to Install and Activate Defender Application Guard on Edge for Enhanced Safety</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-unlink-your-onedrive-from-your-microsoft-account-on-windows/"><u>How to Unlink Your OneDrive From Your Microsoft Account on Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovations-in-dialogue-the-top-4-differences-between-claude-and-chatgpt/"><u>Innovations in Dialogue: The Top 4 Differences Between Claude and ChatGPT</u></a></li>
+<li><a href="https://windows11.techidaily.com/masterful-mix-select-5-free-pc-audio-programs/"><u>Masterful Mix: Select 5 FREE PC Audio Programs</u></a></li>
+<li><a href="https://windows11.techidaily.com/secure-pathway-to-start-elevated-powershell-on-win11-systems/"><u>Secure Pathway to Start Elevated PowerShell on Win11 Systems</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/secure-your-data-easy-backup-solutions-for-windows-781011-users-stress-free-methods/"><u>Secure Your Data: Easy Backup Solutions for Windows 7/8/10/11 Users - Stress-Free Methods</u></a></li>
+<li><a href="https://windows11.techidaily.com/setting-up-defender-application-guard-for-secure-edge-use-in-win-11/"><u>Setting Up Defender Application Guard for Secure Edge Use in Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/stay-ahead-of-the-game-with-w11-pro-special-deals/"><u>Stay Ahead of the Game with W11 Pro Special Deals</u></a></li>
+</ul></div>
 

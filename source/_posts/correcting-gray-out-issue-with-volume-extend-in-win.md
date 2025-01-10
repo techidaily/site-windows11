@@ -1,7 +1,7 @@
 ---
 title: Correcting Gray Out Issue with Volume Extend in Win
-date: 2024-08-08T05:56:59.140Z
-updated: 2024-08-09T05:56:59.140Z
+date: 2025-01-07T16:06:55.734Z
+updated: 2025-01-10T17:13:25.104Z
 tags:
   - windows10
   - windows11
@@ -31,8 +31,9 @@ thumbnail: https://thmb.techidaily.com/b8cf7f364a0eb33deca5de4b670b31137b8637ef9
  Now that you know all the possible culprits behind the issue, let's check out all the solutions that can help fix it.
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Convert the Partition to an NTFS File System
 
  Windows only supports certain [file systems](https://www.makeuseof.com/tag/from-fat-to-ntfs-to-zfs-file-systems-demystified-makeuseof-explains/) for partitions. If the partition you want to extend is formatted in a file system incompatible with Windows, you will not be able to extend it.
@@ -43,16 +44,18 @@ thumbnail: https://thmb.techidaily.com/b8cf7f364a0eb33deca5de4b670b31137b8637ef9
 
 1. Right-click on the partition and select **Format**.
 2. Choose **NTFS** from the File system drop-down menu. Then, click **OK**.  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![File system option in Disk Management tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/file-system-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The formatting process may take some time, depending on the amount of data on the partition. Once done, restart your computer and check if the issue is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Delete a Partition and Create Unallocated Space
 
  The "extend volume" option will gray out if there is no unallocated space next to the partition you want to extend. To create unallocated space, you will have to delete a partition that is next to the partition you want to extend.
@@ -66,26 +69,26 @@ thumbnail: https://thmb.techidaily.com/b8cf7f364a0eb33deca5de4b670b31137b8637ef9
 1. Press the **Win** key to open the Start Menu, type **Command** **Prompt**, and choose **Run as administrator** from the right pane. If this method doesn't work, check out other [ways to launch Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/).
 2. Type **DiskPart** and press **Enter**.
 3. Type **list disk** and press **Enter**. This command will display all the available disks.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![list disk command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/list-disk-command-2.jpg)
 4. Select the disk that you want to extend. For example, if you want to extend disk 0, type **select disk 0** and press **Enter**.
-5. Type **list partition** and press **Enter**. This will list all the partitions on the disk.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Type **list partition** and press **Enter**. This will list all the partitions on the disk.  
 ![list partition command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/list-partition.jpg)
 6. In the Type column, look for the partition that says **Recovery**. Note the partition number. For example, if the partition number is 4, type **select partition 4** and press **Enter**. This will select the recovery partition.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. To delete the recovery partition, type **delete partition override** and press **Enter**.  
 ![delete partition override command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-partition-override.jpg)
 
  You will see the message **DiskPart successfully deleted the selected partition**. This indicates that the recovery partition has been deleted.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![DiskPart successfully deleted the selected partition message in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/diskpart-successfully-deleted-the-selected-partition.jpg)
 
  Next, open the Disk Management tool, and you will see an unallocated space next to the partition you want to extend. Right-click on the partition, choose **Extend** **Volume**, and then click **Next**.
@@ -100,12 +103,28 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  If this is happening to you, try the below solutions for a grayed-out "extend volume" option on Windows
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-quick-route-to-your-latest-fb-video-viewings/"><u>[New] 2024 Approved Quick Route to Your Latest FB Video Viewings</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unleashing-creative-naming-top-10-ai-podcast-names/"><u>[New] Unleashing Creative Naming Top 10 AI Podcast Names</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-embrace-tranquility-top-10-stress-free-games/"><u>[Updated] Embrace Tranquility Top 10 Stress-Free Games</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-kickstarting-a-successful-social-good-campaign-online-for-2024/"><u>[Updated] Kickstarting a Successful Social Good Campaign Online for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/asrock-ab350-pro4-motherboard-drivers-free-downloads-and-compatibility-with-windows/"><u>ASRock AB350 Pro4 Motherboard Drivers: Free Downloads & Compatibility with Windows</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-desktop-organization-notes-on-w11w10/"><u>Mastering Desktop Organization: Notes on W11/W10</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-windows-11-overheating-issues/"><u>Preventing Windows 11 Overheating Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/rebooting-trust-how-to-rectify-windows-safety-setbacks/"><u>Rebooting Trust: How to Rectify Windows Safety Setbacks</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-image-access-via-file-explorer-in-windows-11/"><u>Streamline Image Access via File Explorer in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/tame-the-tech-tyranny-restoring-sound-on-your-pc/"><u>Tame the Tech Tyranny: Restoring Sound on Your PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-and-repairing-faults-identified-during-power-on-self-test-post/"><u>Understanding and Repairing Faults Identified During Power-On Self Test (POST)</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/visionalign-studio/"><u>VisionAlign Studio</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-the-screen-shot-game-snipping-tool-or-printscreen/"><u>Winning the Screen Shot Game: Snipping Tool or Printscreen?</u></a></li>
+</ul></div>
 

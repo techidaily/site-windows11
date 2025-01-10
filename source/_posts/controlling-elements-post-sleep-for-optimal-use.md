@@ -1,7 +1,7 @@
 ---
 title: Controlling Elements Post-Sleep for Optimal Use
-date: 2024-08-08T05:56:09.601Z
-updated: 2024-08-09T05:56:09.601Z
+date: 2025-01-07T16:03:34.016Z
+updated: 2025-01-10T23:33:04.664Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/ab11097b735383eb1301c6c7953b6d3e90027241d
  Windows gives you complete control over devices that can wake your computer from a sleep state. In this guide, we will discuss how you can manage those devices.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Check Which Devices Are Capable of Waking Your Windows PC From Sleep Mode
 
  Not every device connected to your system can wake Windows from sleep mode. You can use Command Prompt or Windows PowerShell to determine which of your devices supports waking the computer.
@@ -32,16 +33,14 @@ thumbnail: https://thmb.techidaily.com/ab11097b735383eb1301c6c7953b6d3e90027241d
 3. Select**Yes** when the User Account Control (UAC) prompt appears.
 4. Type the following command and press**Enter** to view a list of devices on your system that can wake Windows from any sleep state.  
 `powercfg -devicequery wake_from_any`  
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Devices That Can Wake Windows From Sleep Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Devices-That-Can-Wake-Windows-From-Sleep-Mode.jpg)
 
  On this list, you'll see devices like your keyboard, mouse, network adapter, and more.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Check Which Devices Are Allowed to Wake Your Windows PC From Sleep Mode
 
  Command Prompt or PowerShell can also tell you which devices are permitted to wake your Windows PC from sleep mode. Here's how to find out.
@@ -50,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/ab11097b735383eb1301c6c7953b6d3e90027241d
 2. Type the following command and press**Enter** to view a list of devices that are allowed to wake your computer from sleep mode.  
 `powercfg -devicequery wake_armed`  
 ![Devices Are Allowed to Wake Your Windows PC From Sleep Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Devices-Are-Allowed-to-Wake-Your-Windows-PC-From-Sleep-Mode.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Find Out What Woke Your Windows PC From Sleep Mode
 
@@ -66,8 +69,9 @@ thumbnail: https://thmb.techidaily.com/ab11097b735383eb1301c6c7953b6d3e90027241d
  If you see something like**Wake History Count - 0** , it means that Windows doesn't have a record of wake history. This can happen if you've recently rebooted your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Allow or Deny a Device Permission to Wake Your Windows PC From Sleep Mode
 
  Once you know which devices are waking up your computer without your consent, you can take the necessary steps to prevent them from doing so.
@@ -80,9 +84,6 @@ To allow or deny a device permission to wake your computer:
 4. In the Properties window, switch to the**Power Management** tab.
 5. Check or uncheck the**Allow this device to wake the computer** checkbox to allow or disallow the permission.
 6. Click**OK** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Allow or Disallow Device to Wake Computer on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Allow-or-Disallow-Device-to-Wake-Computer-on-Windows.jpg)
 
  You can repeat the above steps to configure power management settings for more devices if you want.
@@ -90,20 +91,18 @@ To allow or deny a device permission to wake your computer:
  Aside from your devices, your network connections, scheduled tasks, and background wake timers can also wake Windows from sleep mode. If you want to stop that from happening, check our guide on [how to prevent your Windows computer from waking up randomly](https://www.makeuseof.com/tag/stop-windows-computer-randomly-waking/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Manage Your Computer’s Sleep
 
  Now you know what devices can wake your computer from a sleep state and how to prevent them from doing so. That said, putting your computer in sleep mode may not always be the best option for your laptop. Sometimes, it’s better to shut it down completely.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -112,6 +111,20 @@ To allow or deny a device permission to wake your computer:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-loom-lens-illuminating-your-recording-journey-for-2024/"><u>[New] Loom Lens Illuminating Your Recording Journey for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nveiling-the-secrets-to-removing-green-screen-effects-on-mac-for-2024/"><u>[New] Unveiling the Secrets to Removing Green Screen Effects on Mac for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-boost-video-appeal-with-these-20-best-thumbnail-fonts/"><u>[Updated] Boost Video Appeal with These 20 Best Thumbnail Fonts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-simplifying-large-screen-viewing-for-youtubers/"><u>2024 Approved Simplifying Large-Screen Viewing for YouTubers</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-windows-strategies-for-device-id-discovery/"><u>Essential Windows Strategies for Device ID Discovery</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/harmonic-hits-how-to-choose-the-perfect-song-for-ig-videos-for-2024/"><u>Harmonic Hits How to Choose the Perfect Song for IG Videos for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-unreachable-error-connecting-to-game-servers-on-windows/"><u>How to Fix Unreachable Error: Connecting to Game Servers on Windows</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-facebooks-most-impressive-new-additions-decoded/"><u>In 2024, Facebook's Most Impressive New Additions Decoded</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-intrusive-windows-store-operations/"><u>Overcoming Intrusive Windows Store Operations</u></a></li>
+<li><a href="https://windows11.techidaily.com/regain-classic-text-bar-with-icons-for-windows-11s-search/"><u>Regain Classic Text Bar with Icons for Windows 11'S Search</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/snooze-sequences-for-kids-critical-look-at-bedtime-storytelling-vids-for-2024/"><u>Snooze Sequences for Kids Critical Look at Bedtime Storytelling Vids for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-essential-guide-to-win10s-video-grabbing-software/"><u>The Essential Guide to Win10's Video Grabbing Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-gpu-potentials-on-pc-the-ultimate-6-windows-apps/"><u>Unlocking GPU Potentials on PC: The Ultimate 6 Windows Apps</u></a></li>
+</ul></div>
 

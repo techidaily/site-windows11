@@ -1,7 +1,7 @@
 ---
 title: "Mastery in Mending Windows Update Failures: 0X712"
-date: 2024-12-29T02:22:31.272Z
-updated: 2025-01-04T03:28:48.954Z
+date: 2025-01-09T23:16:24.789Z
+updated: 2025-01-10T18:50:55.297Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Use the Windows Troubleshooter
 
  Before jumping onto major fixes, leverage the in-built troubleshooter on Windows 10 and 11\. It tries to find out existing problems with Windows Update and try to fix them. Repeat the following steps:
@@ -38,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
 6. Wait for the Windows Update troubleshooter to identify problems. Click on the**Next** button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Close the troubleshooter window and reattempt the Windows update installation.
@@ -67,10 +71,6 @@ Repeat the following steps to start the necessary services:
 ![Disabling Windows Update Services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disabling-windows-update-services.jpg)
 4. Click on the**OK** button and close the Properties windows. Now, right-click on the service and select the**Start** option from the context menu.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Similarly, set all the services as automatic and manually start them.
 6. **Close** the Services window and reattempt the Windows update.
 
@@ -87,6 +87,10 @@ Repeat the following steps to start the necessary services:
 
 6. Lastly, click on the**Delete files** button.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Rename the SoftwareDistribution Folder
 
  Windows update stores its content in the SoftwareDistribution folder. Since it is located inside the Windows folder in the C drive, you mustn’t delete it. Instead, you can rename the folder to force the update service to recreate the folder again.
@@ -99,22 +103,18 @@ Repeat the following steps:
 ![Rename the SoftwareDistribution Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rename-the-softwaredistribution-folder.jpg)
 3. Once these services stop running, type**cls** in the command prompt windows. Then enter the following commands:  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  ren C:\\Windows\\SoftwareDistribution SoftwareDistribution.old ren C:\\Windows\\System32\\catroot2 Catroot2.old  
 ![Rename the SoftwareDistribution Folder 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rename-the-softwaredistribution-folder-2.jpg)
 4. Both the above commands rename the**SoftwareDistribution** folder and**Catroot2** folder.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Now, you need to restart all the Windows services you stopped in step 3\. Enter the following commands:  
 net start wuauserv net start cryptSvc net start bits net start msiserver  
 ![Rename the SoftwareDistribution Folder 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rename-the-softwaredistribution-folder-3.jpg)
 6. Lastly,**restart** your system and visit the following folder location:**C:\\Windows** . You will notice that there is a new SoftwareDistribution folder in that location.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Open the Windows update in Settings and try to download and install updates.
 
@@ -130,6 +130,10 @@ Retrace the following steps to delete the pending.xml file:
 4. Press the**Shift** key and click on the**Delete** option.
 5. Restart your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Manually Download Windows Updates
 
  If you are unable to download a specific Windows update using the Settings page, consider a direct download and install approach. Visit the Microsoft Update Catalog website and search for the KB update you want to download. However, you first have to check the corresponding update number which is failing to download and install on your system.
@@ -137,16 +141,12 @@ Retrace the following steps to delete the pending.xml file:
 ![Manually Download Windows Updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/manually-download-windows-updates.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Reset Windows
 
  Resetting Windows is the last resort you have if none of the above methods work in your favor. However, before learning[how to perform a Windows system reset](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) , try out general fixes such as[SFC, CHKDSK, and DISM](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) scans on your system. Also,[disable Windows Defender](https://www.makeuseof.com/how-to-turn-off-windows-defender/) and try updating your system before hitting the reset button.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Update Windows Without Hiccups
 
@@ -167,18 +167,24 @@ Retrace the following steps to delete the pending.xml file:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-inside-the-tech-what-is-virtual-reality-gear-in-2024/"><u>[New] Inside the Tech What Is Virtual Reality Gear, In 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/he-complete-rundown-of-essential-youtube-video-downloading-apps-android/"><u>[New] The Complete Rundown of Essential YouTube Video Downloading Apps (Android)</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/comparing-cortana-and-siri-an-in-depth-look-at-microsofts-answer-engine/"><u>Comparing Cortana and Siri: An In-Depth Look at Microsoft's Answer Engine</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-targus-docking-station-drivers-fast-setup/"><u>Download Targus Docking Station Drivers - Fast Setup</u></a></li>
-<li><a href="https://win-answers.techidaily.com/euro-truck-simulator-2-how-to-fix-and-prevent-common-pc-crash-issues/"><u>Euro Truck Simulator 2: How to Fix and Prevent Common PC Crash Issues</u></a></li>
-<li><a href="https://windows11.techidaily.com/fast-track-to-windows-11-arm-with-easy-iso-setup-instructions/"><u>Fast Track to Windows 11 ARM with Easy ISO Setup Instructions</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-obtain-the-latest-canon-mg3022-driver-version/"><u>How to Obtain the Latest Canon MG3022 Driver Version</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-elevate-your-game-on-instagram-5-key-tactics-for-top-tier-influencers/"><u>In 2024, Elevate Your Game on Instagram 5 Key Tactics for Top-Tier Influencers</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-the-maze-of-non-downloading-on-windows-devices/"><u>Navigating the Maze of Non-Downloading on Windows Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-fixes-restoring-windows-defender-threat-shield-functionality/"><u>Quick Fixes: Restoring Windows Defender Threat Shield Functionality</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-troubled-windows-registry-with-effective-solutions/"><u>Tackling Troubled Windows Registry with Effective Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/the-path-to-precision-crafting-win11-self-extractables/"><u>The Path to Precision: Crafting Win11 Self-Extractables</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/oung-entrepreneur-writes-his-own-financial-story-for-2024/"><u>The Young Entrepreneur’ Writes His Own Financial Story for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-premium-pick-of-budget-friendly-vectors-and-graphic-sites/"><u>[New] Premium Pick of Budget-Friendly Vectors & Graphic Sites</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-integrating-media-files-for-direct-transfer-to-iphone-for-2024/"><u>[Updated] Integrating Media Files for Direct Transfer to iPhone for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-your-digital-journey-to-youtube-and-facebook-video-gems/"><u>2024 Approved Your Digital Journey to YouTube and Facebook Video Gems</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/como-optimizar-la-conversion-de-video-de-webm-a-mp4-premium-en-sistemas-windows-11macos/"><u>Cómo Optimizar La Conversión De Video: De WebM a MP4 Premium en Sistemas Windows 11/macOS</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hp-printer-p1102w-compatible-with-windows-os/"><u>HP Printer P1102w Compatible with Windows OS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-complete-guide-to-screen-capturing-in-minecraft/"><u>In 2024, Complete Guide to Screen Capturing in Minecraft</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-honor-magic-6-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Honor Magic 6 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-vivo-y100t-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Vivo Y100t</u></a></li>
+<li><a href="https://windows11.techidaily.com/keeping-winrunhist-intact-for-future-use/"><u>Keeping WinRunHist Intact for Future Use</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windowed-discords-search-tweaks/"><u>Mastering Windowed Discord's Search Tweaks</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-to-fix-windows-update-code-error-0x8024800c/"><u>Methods to Fix Windows Update: Code Error 0X8024800C</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-discrepancy-in-windows-11s-power-life-predictor/"><u>Overcoming Discrepancy in Windows 11'S Power Life Predictor</u></a></li>
+<li><a href="https://windows11.techidaily.com/re-estaminig-balanced-sound-from-both-sides-of-win-audio-device/"><u>Re-Estaminig Balanced Sound From Both Sides of Win Audio Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-8-compatible-windows-and-android-programs/"><u>Top 8 Compatible Windows and Android Programs</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-stardew-valley-not-starting-up/"><u>Troubleshooting Guide: Stardew Valley Not Starting Up?</u></a></li>
+<li><a href="https://windows11.techidaily.com/wake-up-call-reviving-sleeping-pcs-with-inputs-on-1011/"><u>Wake-Up Call: Reviving Sleeping PCs with Inputs on 10/11</u></a></li>
+<li><a href="https://win-special.techidaily.com/1728467494574-windows-server-2019/"><u>Windows Server 2019 - 裸のハードディスクによるシステムバックアップと復元</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-back-your-disconnected-wi-fi/"><u>Winning Back Your Disconnected Wi-Fi</u></a></li>
+<li><a href="https://windows11.techidaily.com/wintools-comparison-how-chkdsk-and-sfc-differ-from-dissect/"><u>WinTools Comparison: How CHKDSK and SFC Differ From Dissect</u></a></li>
 </ul></div>
 

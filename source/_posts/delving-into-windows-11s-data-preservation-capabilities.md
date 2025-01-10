@@ -1,7 +1,7 @@
 ---
 title: Delving Into Windows 11'S Data Preservation Capabilities
-date: 2024-08-08T05:57:44.226Z
-updated: 2024-08-09T05:57:44.226Z
+date: 2025-01-07T19:50:33.517Z
+updated: 2025-01-10T17:43:36.848Z
 tags:
   - windows10
   - windows11
@@ -24,25 +24,14 @@ thumbnail: https://thmb.techidaily.com/0bfbb82ab5214d9df42dfb4686963b4575f40401c
 
  Windows 11 already has a backup section in the Settings app that offers the option to save all your device preferences, remember your apps and settings, and store all your personal files in [OneDrive](https://www.makeuseof.com/link-onedrive-microsoft-account-windows-10/). The Windows Backup app brings all these options under one shed as an app. So, it becomes easier for users to select what to back up without opening the Settings app.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Windows Backup page in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-backup-page-in-the-settings-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After backing up all the necessary files and settings, you can restore it using the OOBE experience page. It appears after you sign in to your Microsoft Account while installing or resetting your Windows PC.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Use the Windows Backup App
 
  Windows Backup App was previously available in the [Canary](https://www.makeuseof.com/what-is-windows-insider-canary-channel/) and Dev Insider channels. But now it is available for the Beta channel as well. You must update to the Insider build 22631.2262 to get access to the Windows Backup app if you have enrolled your PC in the Dev channel. Just check for the latest Windows update and install it on your PC.
@@ -58,27 +47,31 @@ thumbnail: https://thmb.techidaily.com/0bfbb82ab5214d9df42dfb4686963b4575f40401c
 3. Click on the **arrow** icon next to the Folders option. Enable the **toggles** of all the folders that you want to select for backup.  
 ![Configuring Windows Backup app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/configuring-windows-backup-app.jpg)
 4. After that, you can pick the types of settings, credentials, and apps to back up using the rest of the options listed in the app.
-5. Lastly, click on the **Backup** button to start the process. It will take a while to upload all the files and settings.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Lastly, click on the **Backup** button to start the process. It will take a while to upload all the files and settings.  
 ![Windows Backup in progress](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-backup-in-progress.jpg)
 6. Click on the **Close** button to terminate the app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The backup part is complete now. Whenever you reset your PC or install Windows on a new PC, you can import this backup in one go. The setup page will ask you to sign in to your account while installing Windows 11\.
 
  After you sign in, you will see an option to restore data from your older PC. If you use your Microsoft Account on other PCs and have enabled backups on them, you will see the option to restore data from those devices too. Complete the device setup and then log in to your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Install Old Apps Using Microsoft Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-old-apps-using-microsoft-account.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You will see all the pinned app icons in the Start menu, and Taskbar, and can click on the icon to restore the app. Windows will direct you to the official website to download and install the apps that aren’t available on the Microsoft Store. You can even restore all the Store apps by launching the Microsoft Store app and selecting the Restore All option.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Windows Backup App vs. Legacy Backup Options
 
  The Windows Backup app relies on cloud storage to store all your data. It makes it more convenient to access files via OneDrive and restore all your personal settings and apps.
@@ -90,15 +83,14 @@ thumbnail: https://thmb.techidaily.com/0bfbb82ab5214d9df42dfb4686963b4575f40401c
  But you may have to upgrade to the paid tier of OneDrive if your personal files take up too much space. Another caveat is that is super easy to restore the Microsoft Store apps but all the third-party software will still be missing from the picture. After restoring the data, you will have to install all these apps manually.
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Your Windows Backup Made Easy
 
  You can use the Windows Backup app or hop into the Settings app and configure the backup settings from there. Transitioning to a new PC is significantly easy with the cloud backup and Microsoft Account linking approach. However, you will need to upgrade storage (in some cases) and reinstall third-party software manually.
 
  Instead of manually copying every file or creating a gigantic system image, you can manage backups of most of the personal data of your Windows PC within a single app. Wondering how the app works and what data it can back up? Let's find out.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -106,4 +98,24 @@ thumbnail: https://thmb.techidaily.com/0bfbb82ab5214d9df42dfb4686963b4575f40401c
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-embrace-the-big-picture-facebooks-full-screen-feature-explained/"><u>[New] 2024 Approved Embrace the Big Picture Facebook's Full Screen Feature Explained</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-sculptors-of-immersive-digital-universes/"><u>[New] 2024 Approved Sculptors of Immersive Digital Universes</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-digital-cutting-edge-streamlined-strategies-for-editing-videos-on-vimeo-for-2024/"><u>[New] Digital Cutting Edge Streamlined Strategies for Editing Videos on Vimeo for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-deciding-the-right-direction-fb-video-posts/"><u>[Updated] In 2024, Deciding the Right Direction FB Video Posts</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-rethinking-recipes-squared-up-tutorials-for-youtube-and-facebook-success/"><u>[Updated] Rethinking Recipes Squared-Up Tutorials for YouTube and Facebook Success</u></a></li>
+<li><a href="https://windows11.techidaily.com/file-explorer-misses-out-on-sd-card-heres-fixing-it/"><u>File Explorer Misses Out on SD Card - Here's Fixing It</u></a></li>
+<li><a href="https://windows11.techidaily.com/getting-started-with-the-windows-11-voice-chat/"><u>Getting Started with the Windows 11 Voice Chat</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-dodge-perpetual-network-logon-errors-in-windows/"><u>How to Dodge Perpetual Network Logon Errors in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-overcome-invalid-session-from-vac-steam-alert/"><u>How To Overcome Invalid Session From VAC Steam Alert</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-your-apple-iphone-se-2020-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your Apple iPhone SE (2020) Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-vivo-v27e-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Vivo V27e FRP?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/iphone-hdr-masterclass-from-basics-to-brilliance-for-2024/"><u>IPhone HDR Masterclass From Basics to Brilliance for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/leveraging-the-benefits-of-windows-11s-auto-hdr/"><u>Leveraging the Benefits of Windows 11'S Auto HDR</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/protezione-anti-duplicazione-per-masterizzare-dvd-scarica-gratis-imgburn-ed-esegui-backup-di-file-iso/"><u>Protezione Anti-Duplicazione per Masterizzare DVD: Scarica Gratis ImgBurn Ed Esegui Backup Di File ISO</u></a></li>
+<li><a href="https://windows11.techidaily.com/rectifying-sound-error-error-0xc00d36b4-in-win11/"><u>Rectifying Sound Error: Error 0XC00D36B4 in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-code-0x0001-issue-geforce-software-w11/"><u>Solving Code 0X0001 Issue: GeForce Software W11</u></a></li>
+</ul></div>
 

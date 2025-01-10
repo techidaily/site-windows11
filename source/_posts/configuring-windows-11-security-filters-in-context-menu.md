@@ -1,7 +1,7 @@
 ---
 title: Configuring Windows 11 Security Filters in Context Menu
-date: 2024-08-08T05:57:52.782Z
-updated: 2024-08-09T05:57:52.782Z
+date: 2025-01-03T18:26:20.813Z
+updated: 2025-01-10T21:16:43.253Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e
  It would be better if users could select a context menu option for blocking programs’ connectivity. Such a shortcut would enable us to set up outbound firewall rules more quickly. You can add firewall context menu options for both blocking and restoring apps’ internet access with OneClickFirewall and (Right Click) Allow, Block or Remove.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Add Firewall Block Options With OneClickFirewall
 
  OneClickFirewall is a freely available software that adds a couple of firewall context menu options. One is a**Block Internet Access** option that establishes a rule blocking the right-clicked program. The other option removes the rule when selected. This is how you can add those firewall block options to the context menu with OneClickFirewall.
@@ -31,27 +32,32 @@ thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e
 2. Select the**Click here to download the file** link.
 3. Open Windows File Explorer (see [how to open File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) ) to bring up the folder that contains the downloaded OneClickFirewall ZIP archive.
 4. Then extract the file as covered within our guide for [how to unzip](https://www.makeuseof.com/unzip-files-windows-10/) [archives in Windows](https://www.makeuseof.com/unzip-files-windows-10/) .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![The Extract All context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/extract-all-option2.jpg)
 5. Bring up the extracted OneClickFirewall folder.
-6. Select the**OneClickFirewall-1.0.0.2.exe** to bring up its setup wizard.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+6. Select the**OneClickFirewall-1.0.0.2.exe** to bring up its setup wizard.  
 ![The OneClickFirewall setup wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/oneclickfirewall-window.jpg)
 7. Click**Next** \>**Install** to add new firewall options to the context menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Select**Finish** to exit the OneClickFirewall wizard.
 
  Now you can block software internet access from the classic context menu in Windows 11\. Bring up a software installation folder in File Explorer. Then right-click the program’s EXE (application) file to select**Show more options** . Select the new**Block Internet Access** option to set up an outbound rule.
 
  You’ll see the outbound rule in the Windows Defender Firewall with Advanced Security window. To view it, click the**Search** box button on the taskbar; and input**Windows Defender Firewall** inside the search box. Select the**Windows Defender Firewall with Advanced Security** search result. You can see the new rule by clicking**Outbound Rules** in the firewall app that opens.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Outbound rules in the Windows Defender With Advanced Security app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/outbound-rules.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can remove the outbound rule by right-clicking it in the Windows Defender Firewall window and selecting**Disable Rule** . However, now you can also remove the rule via Explorer’s context menu.
 
@@ -59,9 +65,6 @@ thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e
 
  If you decide you don’t want to keep the firewall context menu options, you can remove them by uninstalling OneClickFirewall. Remove OneClickFirewall with one of the methods in our guide on [how to uninstall Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) .
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Add Firewall Block Options With the Right Click App
 
  The Right Click app (full name (Right Click) Allow, Block or Remove - Windows Firewall) is an alternative to OneClickFirewall that adds similar context menu options for blocking and allowing programs through the firewall. However, this software also adds an option for removing software from the firewall. You can add firewall block options to the context menu with Right Click like this:
@@ -72,11 +75,12 @@ thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e
 4. Extract the **Tweaking.com-Right-Click\_Allow\_Block\_or\_Remove-Windows\_Firewall.zip** archive.
 5. Open the extracted directory for Right Click.
 6. Double-click**Right\_Click\_Options.exe** to bring up a**Right Click Menu Options** window.  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Add Right Click Menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/add-right-click-menu-option.jpg)
 7. Select the**Add Right Click Menu** option, and click**OK** on the dialog box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now it’s time to check out the new**Tweaking - Windows Firewal** l submenu on the context menu. Right-click any software to apply a firewall block and select Show more options. Move the cursor over the**Tweaking – Allow in Windows Firewall** submenu. Selecting**Block in Windows Firewall** will apply an outbound rule in the Windows Defender Firewall app the same as OneClickFirewall.
 
@@ -98,8 +102,6 @@ thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -107,6 +109,17 @@ thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-mastering-videographic-success-stories-for-client-praise-for-2024/"><u>[New] Mastering Videographic Success Stories for Client Praise for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-beat-the-blank-screen-overcoming-top-vlogging-anxieties/"><u>[Updated] 2024 Approved Beat the Blank Screen Overcoming Top Vlogging Anxieties</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-camera-apps-0xa00f429f-error-in-windows-10-and-11/"><u>How to Fix the Camera App’s 0xA00F429F Error in Windows 10 & 11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/micro-movie-plot-draft-for-2024/"><u>Micro-Movie Plot Draft for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/start-menu-no-more-unwanted-advertisements/"><u>Start Menu, No More Unwanted Advertisements!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-easy-way-to-personalize-taskbar-color-in-windows-11/"><u>The Easy Way to Personalize Taskbar Color in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-keyboard-quest-6-ways-to-find-out-your-pcs-model/"><u>The Ultimate Keyboard Quest - 6 Ways to Find Out Your PC's Model</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722899615669-top-5-apple-watch-discounts-snag-them-now/"><u>Top 5 Apple Watch Discounts - Snag Them Now</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-tickout-restoring-clock-consistency/"><u>Windows Tickout: Restoring Clock Consistency</u></a></li>
+</ul></div>
 

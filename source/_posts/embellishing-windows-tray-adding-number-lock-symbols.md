@@ -1,7 +1,7 @@
 ---
 title: "Embellishing Windows Tray: Adding Number Lock Symbols"
-date: 2024-07-29T04:23:19.033Z
-updated: 2024-07-30T04:23:19.033Z
+date: 2025-01-04T21:23:52.131Z
+updated: 2025-01-10T21:49:40.220Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/cb70e57700d07e1f21d91f89b112cf1e7299f5606
  Does your keyboard lack indicator lights for its lock keys? If so, you can add lock button indicators to Windows 11’s system tray to make up for your keyboard’s lack. This is how you can add new lock key indicators to Windows 11’s system tray with TrayStatus, AddLED, and Keyboard LEDs.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Add Num, Caps, and Scroll Lock Indicators With TrayStatus
 
  TrayStatus lets you add lock key statuses, alongside a variety of system performance indicators, to the system tray.
@@ -37,9 +38,6 @@ thumbnail: https://thmb.techidaily.com/cb70e57700d07e1f21d91f89b112cf1e7299f5606
 4. Go through the setup, then select the **Use Trial Version** radio button and click **Next**.
 5. ![The Use Trial Version radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-use-trial-version-radio-button.jpg)
 6. Click **Install** in the next window.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![The Install option for TrayStatus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-install-option.jpg)
 7. Press **Finish** with the **Launch Now** checkbox selected to run SystemTray.
 
@@ -49,16 +47,14 @@ thumbnail: https://thmb.techidaily.com/cb70e57700d07e1f21d91f89b112cf1e7299f5606
 
  To add a Scroll Lock indicator and others, right-click the TrayStatus Caps Lock icon in the system tray and select **Settings**. Click the **Status Indicators** tab and select **Show Scroll Lock Status**. You can also choose to show Ctrl, Alt, Win, Shift, RAM, CPU, and hard drive indicators on the system tray from there. The RAM and CPU indicators are handy for [checking system resource usage in Windows 11](https://www.makeuseof.com/windows-11-check-ram-gpu-cpu-usage/).
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Status Indicators tab in TrayStatus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/indicator-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click on the drop-down menu to select **Light Icons** or **Dark Icons** options. Light is better for dark Windows themes. However, dark indicators will likely be more visible on a light Windows taskbar. Select **Apply** to set your new settings.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Add Num, Caps, and Scroll Lock Indicators With AddLEDs
 
  AddLEDs is an alternative to TrayStatus that should work ok on Windows platforms from 7 to 11\. This freeware software adds Scroll, Num, and Caps Lock indicators along with two others for network and disk usage.
@@ -72,9 +68,6 @@ thumbnail: https://thmb.techidaily.com/cb70e57700d07e1f21d91f89b112cf1e7299f5606
 
  You will now see five new indicators appear within the Windows system tray area. The **1**, **a**, and **S** icons are the **Num**, **Caps**, and **Scroll Lock** indicators. The flashing **D** and **N** icons are indicators for disk and network activity.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![AddLEDs' system tray indicators](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/addled-indicators.jpg)
 
  If you prefer to remove a few indicators, right-click one of the AddLEDs icons in the system tray. Then move the mouse cursor over **Show** to deselect the selected indicator options there.
@@ -85,9 +78,6 @@ thumbnail: https://thmb.techidaily.com/cb70e57700d07e1f21d91f89b112cf1e7299f5606
 
  To set a beep sound for your lock keys, select the **Others** submenu on AddLEDs' context menu. Click **Sound** to enable that option. Then you’ll hear a beep whenever you press the lock keys.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ## How to Add Num, Caps, and Scroll Lock Indicators With Keyboard LEDs
 
  The Keyboard LEDs software adds an all-in-one system tray indicator for the Caps, Num, and Scroll lock keys. It also enables users to set an on-screen display indicator for lock keys that’s visible in the bottom-right corner of the desktop. This is how you can add Num, Caps, and Scroll Lock indicators to Windows 11 (and older platforms) with Keyboard LEDs like this:
@@ -98,28 +88,28 @@ thumbnail: https://thmb.techidaily.com/cb70e57700d07e1f21d91f89b112cf1e7299f5606
 4. Click **Next** \> **I agree** to reach the installer location settings.
 5. Select **Browse** if you would prefer to choose a folder location for Keyboard LED.
 6. Then click **Install** to add Keyboard LEDs to your PC.  
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Keyboard LED Setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/keyboard-led-setup.jpg)
 7. Select the **Finish** option with the **Run Keyboard** LEDs checkbox checked.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  What looks more like a battery icon with three boxes will appear in your system tray after starting Keyboard LEDs. Those boxes go red when you turn on Num, Caps, and Scroll Lock. The left box is for Num, the central box is for Caps, and the right one is the Scroll Lock indicator.
 
 ![Keyboard LEDs' system tray indicators](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/keyboard-led-indicator.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To configure the indicators, right-click the Keyboard LEDs icon to select **Settings**. You can choose different colors for each indicator box by clicking the color drop-down menus for the **Led 1**, **2**, and **3** drop-down menus. Click the button drop-down menus to change the lock key indicator for each box.
 
 ![The Keyboard LEDs window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/keyboard-led-window.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Select the **On Screen Display** checkbox and its **Caps**, **Scroll**, and **Num Lock** settings to see the alternative lock key indicators. Enabling that setting adds text-based indicators just above the system tray area, as in the snapshot below. Those indicators tell you if their lock keys are turned on or off.
 
@@ -133,11 +123,27 @@ thumbnail: https://thmb.techidaily.com/cb70e57700d07e1f21d91f89b112cf1e7299f5606
 
  Does your keyboard lack indicator lights for its lock keys? If so, you can add lock button indicators to Windows 11’s system tray to make up for your keyboard’s lack. This is how you can add new lock key indicators to Windows 11’s system tray with TrayStatus, AddLED, and Keyboard LEDs.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-sharpscope-zoommax7-precision-in-size-adjustment-for-2024/"><u>[New] SharpScope ZoomMax7 Precision in Size Adjustment for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-tailored-guide-for-selective-youtube-content-download/"><u>[Updated] 2024 Approved Tailored Guide for Selective YouTube Content Download</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-elevating-clarity-optimal-speech-to-text-with-google/"><u>[Updated] In 2024, Elevating Clarity Optimal Speech-to-Text with Google</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-leveraging-zoom-for-optimal-productivity-in-win11-environments/"><u>[Updated] Leveraging Zoom for Optimal Productivity in Win11 Environments</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-from-footage-to-feature-making-youtube-thumbnails-mobile/"><u>In 2024, From Footage to Feature Making YouTube Thumbnails (Mobile)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphones-silent-mode-solved-restore-sms-and-call-functionality-with-these-eight-tips/"><u>IPhone's Silent Mode Solved: Restore SMS & Call Functionality with These Eight Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/leading-the-pack-best-windows-11-for-fps-tracking/"><u>Leading the Pack: Best Windows 11 for FPS Tracking</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-directdraw-repair-techniques-on-the-latest-version-of-windows/"><u>Mastering DirectDraw Repair Techniques on the Latest Version of Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fixes-resetting-and-restoring-search-on-windows-11-settings-ui/"><u>Quick Fixes: Resetting and Restoring Search on Windows 11 Settings UI</u></a></li>
+<li><a href="https://windows11.techidaily.com/tactical-plan-to-vanquish-wows-deadly-error-132-in-osxwin/"><u>Tactical Plan to Vanquish WoW's Deadly Error #132 in OSX/Win</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-complete-guide-to-windows-11-personalization/"><u>The Complete Guide to Windows 11 Personalization</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleashing-creativity-with-magix-video-pro-x-for-2024/"><u>Unleashing Creativity with Magix Video Pro X for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/update-user-folder-names-with-ease-on-win11/"><u>Update User Folder Names with Ease on Win11</u></a></li>
+</ul></div>
+

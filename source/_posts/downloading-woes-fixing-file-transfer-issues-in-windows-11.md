@@ -1,7 +1,7 @@
 ---
 title: "Downloading Woes: Fixing File Transfer Issues in Windows 11"
-date: 2024-07-29T04:24:22.810Z
-updated: 2024-07-30T04:24:22.810Z
+date: 2025-01-07T22:31:46.407Z
+updated: 2025-01-10T16:12:16.913Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/3cd047344d86e8920c72e515095d66dfd7e255dbc
 
  Not being able to download files with browsers is a serious Windows issue. If you can’t download files with Edge or any other of your installed browsers, this is how you can fix files not downloading on a Windows 10 or 11 PC.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Free Up Drive Storage Space
 
  First, we recommend you check how much free space is available on your PC’s hard drive. You might not be able to download any files because your PC’s hard drive has hardly any free space left on it. Check out [how to check your local drive storage](https://www.makeuseof.com/windows-11-check-locak-drive-storage-space/) for several methods on how to view how much space is left on a drive.
@@ -32,22 +29,21 @@ thumbnail: https://thmb.techidaily.com/3cd047344d86e8920c72e515095d66dfd7e255dbc
 ![The Disk Clean-up window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disk-clean-up-tool.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Run the SFC and DISM Command-Line Tools
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/sfc-scannow.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Another possibility is that something has gone wrong with Windows' system files. So, try [repairing corrupted Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/), specifically the System File Checker and the Deployment Image Servicing and Management command-line tools.
 
  The SFC tool patches up corrupted files and DISM addresses system image issues.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Select a Different Download Location in Your Browser
 
  Most Windows browsers download files to the Downloads user folder by default. There could be an issue with that folder. In this case, selecting a different download location with browser settings might work for some users.
@@ -55,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/3cd047344d86e8920c72e515095d66dfd7e255dbc
  Our article about [changing the default download location in browsers](https://www.makeuseof.com/change-default-download-location-popular-browsers/) tells you how to apply this potential resolution with Firefox, Chrome, Edge, Opera, and Vivaldi.
 
 ![The Downloads location setting in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/download-location-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Change the Current Location in the Website Data Settings
 
@@ -64,9 +64,6 @@ thumbnail: https://thmb.techidaily.com/3cd047344d86e8920c72e515095d66dfd7e255dbc
 2. Enter **internet options** in the search box.
 3. Click **Internet Options** to view the Internet Properties window.
 4. Next, click **Settings** on the **General** tab.  
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The General tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/general-tab.jpg)
 5. If the current location is not set to your local C: drive, click on the **Move folder** button.  
 ![The Website Data Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/current-location.jpg)
@@ -75,20 +72,30 @@ thumbnail: https://thmb.techidaily.com/3cd047344d86e8920c72e515095d66dfd7e255dbc
 
  We also recommend checking some security settings in Internet Properties. Click **Custom level** on the **Security** tab. Make sure the **File download** and **Font download** options are enabled there. If they’re not, select the **Enable** radio buttons for those settings and click **OK**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Run an Antivirus Scan
 
  Malware is another potential cause for your browsers not downloading files since it can cause many kinds of internet-related issues. If you have third-party antivirus software installed, run an antivirus scan with that app to check for and purge malware. Or you can run a manual antivirus can with Windows Security like this:
 
 1. Double-click Windows Security’s shield icon inside the system tray.
 2. Click **Scan options** on the View & threat protection tab.  
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Scan options navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/scan-options.jpg)
 3. Select **Full scan** for the most thorough antivirus scanning.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click **Scan now** to start the scanning.  
 ![full-scan-options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/full-scan-options.jpg)
 5. Select **Start actions** to eradicate detected malware.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Disable Any Active Third-Party Antivirus Utilities
 
@@ -106,9 +113,6 @@ thumbnail: https://thmb.techidaily.com/3cd047344d86e8920c72e515095d66dfd7e255dbc
 
  If disabling Windows Defender Firewall works, it’s not a good idea to leave it off. Resetting that firewall to its default configuration will likely disable the rules causing the issue. To do that, click the **Restore defaults** in the Windows Defender Firewall Control Panel applet. Then click the **Restore defaults** button.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ## 8\. Reset Your Browser Software
 
  You can reinstall your browser when you can’t download anything (unless you still have its setup file). However, you can still reset your web browser, which is like reinstalling.
@@ -119,26 +123,21 @@ thumbnail: https://thmb.techidaily.com/3cd047344d86e8920c72e515095d66dfd7e255dbc
 
 1. Type **edge://settings/** into Edge’s address bar and hit **Enter**.
 2. Click **Reset settings** in the sidebar.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![The Reset settings tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/reset-settings-tab.jpg)
 3. Press the **Restore settings** button.
-4. Click **Reset** inside the confirmation prompt.
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. Click **Reset** inside the confirmation prompt.
+
 ## 9\. Factory Reset Window
 
  If you still can’t download files after applying all the other resolutions above, there could be a deeper Windows issue that needs addressing. Resetting Windows involves a full reinstallation and will usually fix most system issues. It’s not an ideal resolution because you will need to reinstall all of your third-party software after applying it.
 
  However, the "Reset this PC" tool does have an option for keeping user files. So, there’s no need to back up your user files before a reset. Follow the instructions in this [how to factory reset Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) article to apply this potential fix with the Reset this PC utility.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![The Reset this PC window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/reset-this-pc.jpg)
 
 ## Download Files Again on Your Windows PC
@@ -149,11 +148,31 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Not being able to download files with browsers is a serious Windows issue. If you can’t download files with Edge or any other of your installed browsers, this is how you can fix files not downloading on a Windows 10 or 11 PC.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-ending-echoes-reconnecting-audio-to-obs-for-2024/"><u>[Updated] Ending Echoes Reconnecting Audio to OBS for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-streamline-your-gamers-channel-with-template-guidance/"><u>[Updated] Streamline Your Gamers' Channel with Template Guidance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-video-upgrade-with-enhancer-22/"><u>2024 Approved The Ultimate Video Upgrade with Enhancer 2.2</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-word-lookups-for-newbies-to-win11/"><u>Efficient Word Lookups for Newbies to Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortlessly-access-the-microsoft-store/"><u>Effortlessly Access the Microsoft Store</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevating-low-sound-levels-for-external-speakers/"><u>Elevating Low Sound Levels for External Speakers</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-boltguns-lags-winning-techniques-for-windows-users/"><u>Eliminating Boltgun's Lags: Winning Techniques for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-win1011-error-0xc0000001/"><u>Eliminating Win10/11 Error 0xC0000001</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-night-vision-with-dark-mode-for-notepad-on-win-11/"><u>Enhance Night Vision with Dark Mode for Notepad on Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-speech-recognition-in-windows-pc/"><u>Enhance Speech Recognition in Windows PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/escalate-typing-pace-via-windows-powertoys/"><u>Escalate Typing Pace via Windows' PowerToys</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-mastering-twitter-setup-a-step-by-step-guide/"><u>In 2024, Mastering Twitter Setup A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/kostenlose-upgrade-moglichkeit-wechsle-deinen-notebook-ssd-ohne-software-neukonfiguration/"><u>Kostenlose Upgrade-Möglichkeit: Wechsle Deinen Notebook-SSD Ohne Software-Neukonfiguration</u></a></li>
+<li><a href="https://extra-information.techidaily.com/optimizing-your-podcasts-rss-feed-performance-and-structure/"><u>Optimizing Your Podcast's RSS Feed Performance and Structure</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/photo-finesse-leading-edits-for-social-media-savvy-for-2024/"><u>Photo Finesse Leading Edits for Social Media Savvy for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/shining-up-your-videos-on-android-for-2024/"><u>Shining Up Your Videos on Android for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-task-execution-fast-track-windows-outlook/"><u>Streamline Task Execution: Fast-Track Windows Outlook</u></a></li>
+</ul></div>
+

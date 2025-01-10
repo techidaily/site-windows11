@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Cannot Reach Server Error in Win 10 & 11 for MB
-date: 2024-12-29T04:27:05.925Z
-updated: 2025-01-04T00:14:50.061Z
+date: 2025-01-09T23:14:59.335Z
+updated: 2025-01-10T19:10:20.230Z
 tags:
   - windows10
   - windows11
@@ -34,7 +34,11 @@ thumbnail: https://thmb.techidaily.com/ef0c500c1ff8cdea11d6b2ce7132e969a27a23353
 ![The Run this program as an administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-this-program-as-an-administrator-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Check That the Malwarebytes Service Is Enabled and Running
@@ -48,12 +52,16 @@ thumbnail: https://thmb.techidaily.com/ef0c500c1ff8cdea11d6b2ce7132e969a27a23353
 4. Then click on the**Startup type** drop-down menu to open it and select**Automatic** from there.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Select**Start** to run the Malwarebytes Services.  
 ![The Malwarebytes Service window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/malwarebytes-service-window.jpg)
 6. Click the service’s**Apply** and**OK** options.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Check That the Windows Management Instrumentation Is Enabled and Running
 
@@ -93,10 +101,6 @@ Here is how you can repair Malwarebytes with its support tool:
 ![The Scan now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/scan-now-button.jpg)
 4. Press**Scan now** to start a Microsoft Defender scan.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Reinstall Malwarebytes
 
  Users have also resolved the "unable to connect to service" error by reinstalling Malwarebytes. The Malwarebytes Support Tool includes a Clean option for uninstalling and reinstalling the software. This is how you can reinstall Malwarebytes with its support tool:
@@ -108,17 +112,13 @@ Here is how you can repair Malwarebytes with its support tool:
 4. Select**OK** to restart the PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click**Yes** in the window that pops up after the restart.
 6. Select**Yes** in the Reinstall Malwarebytes for Windows popup dialog box that opens.
 7. Click the**Personal Computer** option.
 8. Finally, select**Yes** to reinstall Malwarebytes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Now You Can (Probably) Utilize Malwarebytes
 
@@ -141,24 +141,22 @@ Here is how you can repair Malwarebytes with its support tool:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-often-can-creators-expect-to-be-paid-by-youtube-in-2024/"><u>[New] How Often Can Creators Expect to Be Paid by YouTube, In 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-broadcast-battles-tech-titans-tussle-for-top-spot/"><u>[Updated] 2024 Approved Broadcast Battles Tech Titans Tussle for Top Spot</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-flight-pioneers-face-off-dji-vs-gopro/"><u>[Updated] Flight Pioneers Face Off DJI vs GoPro</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-ultimate-playwriting-workshop/"><u>[Updated] In 2024, Ultimate Playwriting Workshop</u></a></li>
-<li><a href="https://windows11.techidaily.com/5-steps-to-reclaim-your-windows-daylight-look/"><u>5 Steps to Reclaim Your Windows' Daylight Look</u></a></li>
-<li><a href="https://windows11.techidaily.com/alternative-pathway-for-opening-file-explorer-through-onedrive/"><u>Alternative Pathway for Opening File Explorer Through OneDrive</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ing-a-wealthy-beauty-channel-host-for-2024/"><u>Becoming a Wealthy Beauty Channel Host for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/best-practices-for-disabling-noncritical-windows-11-services/"><u>Best Practices for Disabling Noncritical Windows 11 Services</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/boost-your-videos-clarity-and-appeal-using-winxvideo-ai-technology/"><u>Boost Your Videos' Clarity & Appeal Using Winxvideo AI Technology</u></a></li>
-<li><a href="https://windows11.techidaily.com/breathe-life-into-dead-wi-fi-connections-on-windows-10-with-this-list/"><u>Breathe Life Into Dead Wi-Fi Connections on Windows 10 with This List</u></a></li>
-<li><a href="https://windows11.techidaily.com/circumventing-endless-credential-entry-alerts-in-windows/"><u>Circumventing Endless Credential Entry Alerts in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/controlling-elements-post-sleep-for-optimal-use/"><u>Controlling Elements Post-Sleep for Optimal Use</u></a></li>
-<li><a href="https://windows11.techidaily.com/controlling-heat-levels-on-your-windows-11-pc/"><u>Controlling Heat Levels on Your Windows 11 PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-windows-11s-failed-device-connection-attempts/"><u>Correcting Windows 11'S Failed Device Connection Attempts</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719356403176-cross-language-build-system-setup/"><u>Cross-Language Build System Setup:</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-nokia-g42-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Nokia G42 5G Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-motorola-g24-power-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Motorola G24 Power</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-iphone-13-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 13 Data From iOS iTunes Backup | Dr.fone</u></a></li>
-<li><a href="https://fox-search.techidaily.com/ubersicht-der-sieben-techniken-zum-austausch-von-daten-zwischen-iphone-geraten-einschliesslich-bluetooth-und-alternativen-losungen/"><u>Übersicht Der Sieben Techniken Zum Austausch Von Daten Zwischen iPhone-Geräten, Einschließlich Bluetooth Und Alternativen Lösungen</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-steps-to-initiate-and-join-an-android-based-zoom-meeting/"><u>[New] In 2024, Steps to Initiate and Join an Android-Based Zoom Meeting</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/5-best-distance-wifi-routers-to-upgrade-your-home-network/"><u>5 Best Distance WiFi Routers to Upgrade Your Home Network</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-beginners-guide-to-inshot-and-laptop-editing/"><u>A Beginner's Guide to Inshot and Laptop Editing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/examining-realities-intertwined-what-is-mixed-reality/"><u>Examining Realities Intertwined What Is Mixed Reality?</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-strategies-for-overcoming-steam-service-errors-on-windows-11/"><u>Expert Strategies for Overcoming Steam Service Errors on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/harness-windows-11s-in-built-color-control-feature/"><u>Harness Windows 11’S In-Built Color Control Feature</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-address-the-d3dx9-34dll-is-not-detected-issue-effectively/"><u>How to Address the 'D3dx9_ 34.dll Is Not Detected' Issue Effectively</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-fix-wininetdll-not-found-or-missing-errors/"><u>How to Fix Wininet.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/managing-screen-transition-aesthetics-on-pcs/"><u>Managing Screen Transition Aesthetics on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-dialer-in-windows-11-os/"><u>Mastering the Dialer in Windows 11 OS</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-major-players-in-digital-media-facebook-twitter-instagram-and-youtube-strategies/"><u>Mastering the Major Players in Digital Media: Facebook, Twitter, Instagram, and YouTube Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-chatgpt-for-educational-papers/"><u>Navigating ChatGPT for Educational Papers</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-silence-the-rhythm-an-expert-approach-to-drum-free-song-editing-online/"><u>New In 2024, Silence the Rhythm An Expert Approach to Drum-Free Song Editing Online</u></a></li>
+<li><a href="https://windows11.techidaily.com/quash-the-quirks-no-more-wandering-windows/"><u>Quash the Quirks: No More Wandering Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-power-of-a-fresh-start-for-your-windows-apps/"><u>The Power of a Fresh Start for Your Windows Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-7-decisions-to-make-before-acquiring-a-windows-model/"><u>Top 7 Decisions to Make Before Acquiring a WIndows Model</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-hidden-issues-causing-adobe-ps-not-launched/"><u>Unveiling Hidden Issues Causing Adobe PS Not Launched</u></a></li>
 </ul></div>
 

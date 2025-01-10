@@ -1,7 +1,7 @@
 ---
 title: "Eliminating Voice Typing Glitches in Windows 11 (Error Code: 0X80049DD3)"
-date: 2024-07-29T04:23:13.016Z
-updated: 2024-07-30T04:23:13.016Z
+date: 2025-01-05T19:23:34.205Z
+updated: 2025-01-10T17:15:09.494Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/3dae50570edf845253cb7d1a2a03642e6fd28847b
 
  As a result, users can’t input text with voice typing. Sure, you can always use your keyboard for word processing; but those who need to fix this issue no doubt prefer speech-to-text dictation. This is how you can fix the 0x80049dd Voice Typing error in Windows 11.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Run the Recording Audio and Speech Troubleshooters
 
  Windows 11 includes two troubleshooters that could come in handy for fixing the 0x80049dd3 error. The Recording Audio troubleshooter can resolve sound recording issues. Or you can try running the Speech troubleshooter, which is a slightly more specific one for fixing microphone-related errors. You can open the recording troubleshooting tool in the following steps:
@@ -32,11 +29,17 @@ thumbnail: https://thmb.techidaily.com/3dae50570edf845253cb7d1a2a03642e6fd28847b
 3. Next, click**Other trouble-shooters** to view that part of Settings.  
 ![The Run button for the Recording Audio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/run-button-for-recording-audio.jpg)
 4. Select the Recording Audio troubleshooter’s**Run** option.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![The Run button for the Recording Audio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/run-button-for-recording-audio.jpg)
 5. Click**Apply this fix** for any solutions suggested by the Recording Audio troubleshooter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Speech troubleshooter is available in Windows 11’s Control Panel. This is how you can access that troubleshooter:
 
@@ -44,9 +47,6 @@ thumbnail: https://thmb.techidaily.com/3dae50570edf845253cb7d1a2a03642e6fd28847b
 2. Type the search phrase**Control Panel** into the text box.
 3. Select**Control Panel** to view its window.
 4. Click**Large icons** on the Control Panel’s**View by** menu.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![The Troubleshooting navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-troubleshooting-option.jpg)
 5. Select**Troubleshooting** to bring up that applet.
 6. Next, click the**View all** link on the left of the Troubleshooting applet.
@@ -55,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/3dae50570edf845253cb7d1a2a03642e6fd28847b
 8. Press the Speech troubleshooter’s**Next** button to detect and fix issues.  
 ![The Speech troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-speech-troubleshooter.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Check for Windows 11 Updates
 
  Microsoft has reputedly acknowledged error 0x80049dd3, which means the big M may have released a patch update that addresses it. Windows is usually automatically updated, but there might still be some available updates your PC is missing. So, check for and install all available Windows 11 updates like this:
@@ -62,15 +66,19 @@ thumbnail: https://thmb.techidaily.com/3dae50570edf845253cb7d1a2a03642e6fd28847b
 1. To access the Settings app, hold the**Windows** key and press**I** simultaneously.
 2. Next, click**Windows Update** to view that tab’s options.
 3. Press**Check for updates** to see what Windows 11 updates, if any, are available.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ![The Check for updates option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-check-for-updates-button.jpg)
 4. Click the**Download and install** buttons for any available Windows 11 updates. That includes the Windows 11 22H2 build update if it is available for you.
 5. Select**Advanced options** \>**Optional updates** to view other patches.  
 ![The Download & install button for optional updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-download--install-button.jpg)
 6. Then select the checkboxes for updates listed there, and click the**Download and install** options.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Check the Settings for Your Microphone
 
@@ -79,14 +87,13 @@ thumbnail: https://thmb.techidaily.com/3dae50570edf845253cb7d1a2a03642e6fd28847b
 1. Open up Settings from the Start menu or with that app’s**Windows** +**I** keyboard shortcut.
 2. Then select**Privacy & security** in Settings.
 3. Next, click the**Microphone** navigation option.  
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Microphone navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/microphone-navigation-option.jpg)
 4. Toggle on the**Microphone access** option if it is disabled.  
+
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![The microphone access settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/microphone-access-settings.jpg)
 5. Turn on the**Let apps access your microphone** setting.
 6. Make sure the microphone access options for all apps you need to utilize the mic with are turned on.
@@ -99,10 +106,11 @@ thumbnail: https://thmb.techidaily.com/3dae50570edf845253cb7d1a2a03642e6fd28847b
 
  If Driver Booster, or alternative software, shows your microphone’s driver needs updating, you can select to update it from there. Our[guide to updating drivers with Driver Booster 8](https://www.makeuseof.com/update-windows-drivers-driver-booster-8/) (now version 10) tells you how to update device drivers with that software.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Driver Booster software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-driver-booster-software.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Set Up a New User Account
 
@@ -112,21 +120,17 @@ thumbnail: https://thmb.techidaily.com/3dae50570edf845253cb7d1a2a03642e6fd28847b
 2. Next, click the**Accounts** tab.
 3. Select the**Family & other users** navigation option.
 4. Click**Add account** for the**Add other user** option.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Add account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-add-account-button.jpg)
 5. Select the **I don’t have this person’s sign-in information** option on the Microsoft account window.  
+
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![The I don't have this person's sign-in information option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-i-dont-have-sign-in-information-option.jpg)
 
 1. Next, click**Add a user** without a Microsoft account.
 2. Fill in the user account name and password boxes.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The username and password account fields](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-user-account-fields.jpg)
 3. Select**Next** to set up the account.
 4. Click the new account’s down arrow in Settings to expand it.
@@ -141,9 +145,6 @@ thumbnail: https://thmb.techidaily.com/3dae50570edf845253cb7d1a2a03642e6fd28847b
 
 `C:\Users\<Old_Username>\nC:\Users\<New_Username>`
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## 6\. Reset Your Network Connection
 
  Network connectivity issues are another potential cause for error 0x80049dd3\. So, resetting network components could help some users resolve this issue. You can reset your network adapter via Settings in the following steps:
@@ -166,8 +167,6 @@ thumbnail: https://thmb.techidaily.com/3dae50570edf845253cb7d1a2a03642e6fd28847b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -175,4 +174,24 @@ thumbnail: https://thmb.techidaily.com/3dae50570edf845253cb7d1a2a03642e6fd28847b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-maximizing-your-content-instagrams-video-time-restrictions/"><u>[Updated] Maximizing Your Content Instagram's Video Time Restrictions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-stay-incognito-how-to-stream-unnoticed-on-instagram/"><u>[Updated] Stay Incognito How to Stream Unnoticed on Instagram</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/find-the-perfect-phone-shot-blur/"><u>Find the Perfect Phone Shot Blur</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-internal-audio-problems-in-audacity-for-windows-1111/"><u>Fixing Internal Audio Problems in Audacity for Windows 11/11</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/gestion-des-donnees-perdues-de-pallworld-un-guide-dassistance-complete-et-detaillee/"><u>Gestion Des Données Perdues De PallWorld: Un Guide D'assistance Complète Et Détaillée</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/high-speed-screen-grabber-with-audible-narration/"><u>High-Speed Screen Grabber with Audible Narration</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-asus-rog-phone-7-ultimate-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Asus ROG Phone 7 Ultimate Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-honor-magic5-ultimate-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Honor Magic5 Ultimate Through Google Earth?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-guide-to-creating-click-enticing-youtube-thumbnails/"><u>In 2024, The Ultimate Guide to Creating Click-Enticing YouTube Thumbnails</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-error-0x80070570-restoring-broken-files-on-windows-11/"><u>Mastering Error 0X80070570: Restoring Broken Files on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-fixing-uninstall-glitches-on-windows-11/"><u>Mastering the Art of Fixing Uninstall Glitches on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-for-correcting-a-dysfunctional-delete-key/"><u>Methods for Correcting a Dysfunctional Delete Key</u></a></li>
+<li><a href="https://windows11.techidaily.com/rethinking-taskbar-design-top-strategies-to-elevate-windows-11-experience/"><u>Rethinking Taskbar Design: Top Strategies to Elevate Windows 11 Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-spotify-links-on-windows-11-pcs/"><u>Streamlining Spotify Links on Windows 11 PCs</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-meizu-21-pro-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Meizu 21 Pro Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-update-how-to-use-the-widget-toolbar/"><u>Windows 11 Update: How to Use the Widget Toolbar</u></a></li>
+<li><a href="https://windows11.techidaily.com/zero-to-win-efficiently-handling-app-issues-in-windows-11/"><u>Zero-to-Win: Efficiently Handling App Issues in Windows 11</u></a></li>
+</ul></div>
 

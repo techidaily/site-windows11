@@ -1,7 +1,7 @@
 ---
 title: "Title: Manage Icons Gaps to Create a Neat Windows UI"
-date: 2024-12-28T04:42:31.727Z
-updated: 2025-01-03T19:49:58.340Z
+date: 2025-01-09T17:47:04.806Z
+updated: 2025-01-10T23:14:30.008Z
 tags:
   - windows10
   - windows11
@@ -38,10 +38,19 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 ![The WindowMetrics key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/windowsmetrics-key.jpg)
 5. Double-click the**WindowMetrics** key's**IconSpacing** string, which changes the horizontal spacing for desktop icons.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Then erase the current**\-1125** number from the Value data box.
 2. Enter a replacement value with a minus (-) sign in front of it. For example, entering**\-1180** will slightly increase the horizontal spacing.  
 ![The Edit String window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/edit-string-window.jpg)
 3. Press the**OK** button to close IconString’s Edit String window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Next, double-click the**IconVerticalSpacing** string setting, with which you can modify vertical icon spacing.
 5. Clear the current value, and then input another number with a minus sign in front of it. If you want the vertical spacing to be the same as the horizontal, enter a number there that matches the IconSpacing value.
 6. Click the Edit String window’s**OK** button.
@@ -52,11 +61,11 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 
 ![New desktop icon spacing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/new-icon-spacing.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now you might wonder how you can restore the default desktop icon spacing. The default spacing value for both the strings is**\-1125** , which amounts to 75 pixels. So, return to the WindowMetric registry key and enter**\-1125** for both the**IconString** and**IconVerticalSpacing** string values. Thereafter, restart your PC to restore the default spacing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Change Desktop Icon Spacing With Winaero Tweaker
 
@@ -68,6 +77,10 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 4. Right-click the winaerotweaker.zip file and select its**Extract All** option.  
 ![The Extract All button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/extract-all-button4.jpg)
 5. Select the checkbox for the**Show extracted files when complete** setting on the Extract Compressed (Zipped) Folders window.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![The Extract Compressed window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/the-extract-compressed-window3.jpg)
 
@@ -85,10 +98,6 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 ![The Icons option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/icons-option.jpg)
 5. Then drag the slider for the**Vertical spacing** bar left or right to adjust the amount of vertical space for desktop icons.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Press the**Apply changes** button.
 7. Click the**Sign out now** option to restart your PC and apply the icon spacing changes.
 
@@ -103,10 +112,6 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
  There you can select a different icon font from a wide variety of alternatives in the**Font** menu. The**Font style** menu there includes 12 different styles for icon fonts to choose from. Input a higher or lower value in the**Size** box to increase or decrease the font size. You can also select**Strikeout** and**Underline** text effect options there.
 
  Click**OK** when you’ve customized the desktop icon font, and then select the**Apply Changes** and**Sign out** now options.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Change Desktop Icon Spacing With DesktopOK
 
@@ -123,20 +128,16 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 ![The Windows-Metrics option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-metrics-option.jpg)
 3. Select**Windows-Metrics** on the**Tools** menu.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click**Yes** on the confirmation dialog prompt.
 5. Drag the**Horizontal Space** bar’s slider to change horizontal desktop icon spacing.  
 ![The spacing bars](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/spacing-bars.jpg)
 6. Then drag the**Vertical Space** bar’s slider to adjust vertical icon spacing.
 
- You can also change desktop icon sizes from the Windows-Metrics window. Click the**Desktop icon size** drop-down menu to choose an alternative size from there. If you select the largest icon sizes, you’ll need to increase the spacing between them to prevent them overlapping.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ You can also change desktop icon sizes from the Windows-Metrics window. Click the**Desktop icon size** drop-down menu to choose an alternative size from there. If you select the largest icon sizes, you’ll need to increase the spacing between them to prevent them overlapping.
 
 ## How Much Icon Space Do You Want on Your Desktop?
 
@@ -157,20 +158,18 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/rom-playtime-to-profits-ryan-kajis-youtube-cash-crusade-for-2024/"><u>[New] From Playtime to Profits Ryan Kaji's YouTube Cash Crusade for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/aking-your-footage-up-a-notch-advanced-techniques-for-360-videos-on-youtube-for-2024/"><u>[New] Taking Your Footage Up a Notch Advanced Techniques for 360° Videos on YouTube for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-best-youtube-video-to-text-converters-online/"><u>2024 Approved Best YouTube Video to Text Converters Online</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/embrace-change-upgrading-from-windows-7-to-11/"><u>Embrace Change: Upgrading From Windows 7 To 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhancing-it-task-management-windows-11-troubleshooter-buttons-guide/"><u>Enhancing IT Task Management: Windows 11 Troubleshooter Buttons Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-xiaomi-redmi-13c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Xiaomi Redmi 13C | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-version-of-sapphire-drivers-free-downloads-and-tutorials-for-windows-pcs/"><u>Get the Latest Version of Sapphire Drivers - Free Downloads and Tutorials for Windows PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gratis-online-converter-von-aifc-to-m4a-mit-movavi-beginnen-sie-jetzt/"><u>Gratis Online Converter Von AIFC-to-M4A Mit Movavi - Beginnen Sie Jetzt</u></a></li>
-<li><a href="https://windows11.techidaily.com/insight-into-application-usage-on-windows-pc/"><u>Insight Into Application Usage on Windows PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastery-over-malfunctioning-windows-easy-fixes-at-hand/"><u>Mastery Over Malfunctioning Windows: Easy Fixes at Hand!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-motorola-moto-g-5g-2023-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Motorola Moto G 5G (2023) Phone Now with These Tips</u></a></li>
-<li><a href="https://windows11.techidaily.com/recovering-faulty-tab-key-on-your-pc/"><u>Recovering Faulty Tab Key on Your PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/reinstating-unblocked-access-for-microsoft-store-app-in-win11/"><u>Reinstating Unblocked Access for Microsoft Store App in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-file-management-through-explores-sidebar/"><u>Streamlining File Management Through Explore's Sidebar</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11-personalization-transforming-ordinary-into-extraordinary/"><u>Windows 11 Personalization: Transforming Ordinary Into Extraordinary</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-audiovisual-alchemy-formulating-your-youtube-playlist/"><u>[Updated] Audiovisual Alchemy Formulating Your YouTube Playlist</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-oppo-k11-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Oppo K11 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/9-ways-to-change-themes-on-windows-11/"><u>9 Ways to Change Themes On Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crack-the-ransomware-code-for-just-050-mobile-strategies-and-chatgpt-insights-shared-in-our-exclusive-podcast/"><u>Crack the Ransomware Code for Just $0.50 - Mobile Strategies & ChatGPT Insights Shared in Our Exclusive Podcast!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/getting-the-most-out-of-pc-hdr-videos-for-2024/"><u>Getting the Most Out of PC HDR Videos for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-create-your-own-facebook-avatar/"><u>How to Create Your Own Facebook Avatar</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-investigating-authenticitys-role-in-social-media-selfie-presentation/"><u>In 2024, Investigating Authenticity’s Role in Social Media Selfie Presentation</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/instant-admin-access-to-command-prompt-in-windows/"><u>Instant Admin Access to Command Prompt in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-camera-fix-up-windows-11s-error-code-a00f4289-demystified/"><u>Mastering Camera Fix-Up: Windows 11'S Error Code A00F4289 Demystified</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamlessly-navigate-anywhere-the-art-of-cross-border-mouse-usage/"><u>Seamlessly Navigate Anywhere - The Art of Cross-Border Mouse Usage</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-system-performance-with-lav-filters-in-windows/"><u>Streamlining System Performance with LAV Filters in Windows</u></a></li>
 </ul></div>
 

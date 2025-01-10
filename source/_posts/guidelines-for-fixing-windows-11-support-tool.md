@@ -1,7 +1,7 @@
 ---
 title: Guidelines for Fixing Windows 11 Support Tool
-date: 2024-12-31T17:44:30.132Z
-updated: 2025-01-03T23:17:42.821Z
+date: 2025-01-04T21:24:09.543Z
+updated: 2025-01-10T19:22:38.651Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Begin With Some General Fixes
 
  Here are some quick tips on how to fix the Get Help app not working issues quickly:
@@ -32,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 * **Restart the Get Help app:**[Open the Task Manager](https://www.makeuseof.com/how-to-access-task-manager-on-windows-11/) and right-click on the Get Help app. Then click on **End task** and start the app again. This simple trick effectively addresses temporary glitches within the application.  
 ![Get Help End Task Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-help-end-task-option.jpg)
 * **Reboot your computer:** Rebooting a computer often resolves many problems by clearing your system's memory and terminating problematic processes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * **Update your Windows version:** Older versions of Windows may contain bugs that may prevent the Get Help app from functioning correctly. So, always [ensure your Windows version is up-to-date](https://www.makeuseof.com/update-windows-manually/).
 
@@ -56,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 4. Now, scroll to the bottom and click **Repair**. If the repair fails, you can use the **Reset** option.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Get Help Repair Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-help-repair-option.jpg)
@@ -99,14 +99,18 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 ![Services Command On Run App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/services-command-on-run.jpg)
 2. Now press **Enter** to launch the Services app.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. You'll see a list of all the services currently available in your system. Locate the **Diagnostic Policy Service** and right-click on its name.
 4. Select **Restart** from its context menu.  
 ![Diagnostic Policy Service Restart Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/diagnostic-policy-service-restart-option.jpg)
 5. Similarly, repeat the steps to restart the **Windows Management Instrumentation** service.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Install the Microsoft Edge WebView2 Runtime
 
@@ -121,13 +125,13 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 ![Microsoft Edge Developer Site Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/microsoft-edge-developer-site-screenshot.jpg)
 3. Once you download the setup file, run it and follow the instructions.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. After installing the Microsoft Edge WebView2 Runtime, check if the Get Help app functions correctly.
 
  If you see an error saying "**Setup failed**," "please re-download the correct version again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Uninstall and Reinstall the Get Help App
 
@@ -138,14 +142,10 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 ![Get Help In Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-help-in-store.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  A fresh installation should resolve all the issues with the app. And now, you can go back to troubleshooting without any hassle.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## No More Blank Screen in the Get Help App
 
@@ -165,21 +165,22 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-deciphering-youtubes-featured-comment-selection/"><u>[New] 2024 Approved Deciphering YouTube's Featured Comment Selection</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-leveraging-instagrams-video-features-a-how-to-guide/"><u>[New] 2024 Approved Leveraging Instagram's Video Features A How-To Guide</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-radial-blur-made-easy-pro-techniques-in-adobe-ps-for-2024/"><u>[New] Radial Blur Made Easy Pro Techniques in Adobe PS for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-end-to-end-walkthrough-of-videoshows-24-upgrade/"><u>[Updated] 2024 Approved End-to-End Walkthrough of VideoShow's '24 Upgrade</u></a></li>
-<li><a href="https://windows11.techidaily.com/5-key-adjustments-for-a-mac-look-in-windows-environment/"><u>5 Key Adjustments for a Mac Look in Windows Environment</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-step-by-step-guide-to-modifying-windows-file-attributes/"><u>A Step-by-Step Guide to Modifying Windows File Attributes</u></a></li>
-<li><a href="https://windows11.techidaily.com/bluetooth-recovery-guide-9-steps-to-patch-up-your-pcs-link/"><u>Bluetooth Recovery Guide: 9 Steps to Patch Up Your PC's Link</u></a></li>
-<li><a href="https://windows11.techidaily.com/configuring-dolby-atmos-in-windows-1111-systems/"><u>Configuring Dolby Atmos in Windows 11/11 Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/contrasting-windows-download-options-cloud-vs-physical-media/"><u>Contrasting Windows Download Options: Cloud Vs. Physical Media</u></a></li>
-<li><a href="https://windows11.techidaily.com/crossing-the-troubled-seas-of-windows-11-with-xbox-errors/"><u>Crossing the Troubled Seas of Windows 11 with Xbox Errors</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/deciding-on-an-upgrade-m3-macbook-air-versus-m2-in-depth-review-for-prospective-buyers-cnet/"><u>Deciding on an Upgrade? M3 MacBook Air Versus M2 – In-Depth Review for Prospective Buyers | CNET</u></a></li>
-<li><a href="https://windows11.techidaily.com/digital-illusions-sketching-secrets-for-windows-users/"><u>Digital Illusions: Sketching Secrets for Windows Users</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harness-power-of-persuasion-with-these-tips-for-reddit-for-2024/"><u>Harness Power of Persuasion with These Tips for Reddit for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/laugh-loop-meme-treasures-for-diverse-events/"><u>Laugh Loop Meme Treasures for Diverse Events</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-15-pro-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone 15 Pro</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-y36-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-from-basic-to-breathtaking-elevate-your-tiktok-videos-today/"><u>[New] In 2024, From Basic to Breathtaking Elevate Your TikTok Videos Today</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-quick-fixes-to-resume-paused-stream-on-facebook/"><u>[New] Quick Fixes to Resume Paused Stream on Facebook</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-4-seamless-steps-to-posting-and-uploading-gifs-on-instagram/"><u>[Updated] In 2024, 4 Seamless Steps to Posting & Uploading GIFs on Instagram</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-maintaining-continuous-connections-on-snapchat-tips-and-tricks/"><u>[Updated] In 2024, Maintaining Continuous Connections on Snapchat Tips & Tricks</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-leaders-in-virtual-marvel-universe-creation/"><u>2024 Approved Leaders in Virtual Marvel Universe Creation</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-silent-sounds-windows-audio-glitches/"><u>Fixing Silent Sounds: Windows Audio Glitches</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-batch-heic-image-change-to-jpeg-in-windows-11/"><u>Guide to Batch HEIC Image Change to JPEG in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-administrator-has-set-policies-to-prevent-this-installation-windows-error/"><u>How to Fix the “Administrator Has Set Policies to Prevent This Installation” Windows Error</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-this-non-genuine-adobe-app-will-be-disabled-soon-pop-up-on-windows/"><u>How to Fix the “This Non-Genuine Adobe App Will Be Disabled Soon” Pop-Up on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-prevent-search-bar-spontaneity-in-windows-11/"><u>How to Prevent Search Bar Spontaneity in Windows 11</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-nvidia-geforce-rtx-2080-super-graphics-driver-download-for-windows-1011/"><u>Latest NVIDIA GeForce RTX 2080 Super Graphics Driver Download for Windows 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinstating-functionality-to-window-bar-taskbar/"><u>Reinstating Functionality to Window Bar (Taskbar)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/restarting-location-services-on-an-iphone-a-comprehensive-fix-guide/"><u>Restarting Location Services on an iPhone: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/simple-steps-to-fix-windows-server-2/"><u>Simple Steps to Fix Windows Server 2</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-to-elevate-task-prominence-and-reduce-window-chaos-on-win-11/"><u>Tips to Elevate Task Prominence and Reduce Window Chaos on Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-microsofts-error-code-0x8007251d-on-windows/"><u>Troubleshooting Microsoft's Error Code 0X8007251d on Windows</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-motorola-moto-g-5g-2023-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Motorola Moto G 5G (2023) fingerprint</u></a></li>
 </ul></div>
 

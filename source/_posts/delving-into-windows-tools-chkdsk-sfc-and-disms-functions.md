@@ -1,7 +1,7 @@
 ---
 title: "Delving Into Windows Tools: CHKDSK, SFC & DISM's Functions"
-date: 2024-08-08T05:55:51.916Z
-updated: 2024-08-09T05:55:51.916Z
+date: 2025-01-04T17:16:06.188Z
+updated: 2025-01-10T19:10:20.473Z
 tags:
   - windows10
   - windows11
@@ -16,12 +16,20 @@ thumbnail: https://thmb.techidaily.com/7190f701d24b2bca2702a5bcd803eaeb74415822a
 
 ## Delving Into Windows Tools: CHKDSK, SFC & DISM's Functions
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is CHKDSK and When Should You Use It?](#what-is-chkdsk-and-when-should-you-use-it)
 * [What Is SFC Scannow and When Should You Use It?](#what-is-sfc-scannow-and-when-should-you-use-it)
 * [What Is DISM and When Should You Use It?](#what-is-dism-and-when-should-you-use-it)
 * [What Order Should You Run CHKDSK, SFC, and DISM In?](#what-order-should-you-run-chkdsk-sfc-and-dism-in)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -32,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/7190f701d24b2bca2702a5bcd803eaeb74415822a
  When your PC starts reporting errors, slowing down, or misbehaving, you can use Windows's built-in diagnostic tools to try and fix the problem. CHKDSK, SFC, and DISM check the health of your hard drive and repair corrupt files, but the three tools work in different ways and target different areas of your system.
 
  CHKDSK, SFC, and DISM are system tools, and you can run all three. However, this can be time-consuming and unnecessary for your specific problem, so it's best to know when and how to use this trio of troubleshooting tools.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is CHKDSK and When Should You Use It?
 
@@ -49,18 +61,12 @@ thumbnail: https://thmb.techidaily.com/7190f701d24b2bca2702a5bcd803eaeb74415822a
 
  Select the **Tools** tab and then select **Check** in the **Error-checking** section.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Launch the Check Disk tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-error-checking.jpg)
 
  If Windows determines that everything is running smoothly, it will suggest that you don't need to scan the drive. To run CHKDSK anyway, select **Scan drive**.
 
  The scan may take anywhere from a few minutes to half an hour, depending on the size and state of your drive. Once complete, CHKDSK will either tell you that no errors were found, or if it does find any, it will suggest you fix them.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. Run CHKDSK From the Command Prompt
 
  For greater control over the disk-checking process, you should run CHKDSK from an elevated Command Prompt. Follow these steps to continue:
@@ -80,9 +86,9 @@ thumbnail: https://thmb.techidaily.com/7190f701d24b2bca2702a5bcd803eaeb74415822a
  If you cannot run these commands because "the volume is in use by another process," Command Prompt will offer to schedule the scan for when your PC restarts. This should, however, only happen once. If the tool pops up whenever you boot your PC, you can [stop CHKDSK from running at every startup](https://www.makeuseof.com/tag/stuck-chkdsk-use-fix-right-way/) manually.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is SFC Scannow and When Should You Use It?
 
  Whereas CHKDSK finds and fixes errors in the file system of your hard drive, **SFC (System File Checker)** specifically scans and repairs Windows system files. If it detects a file has been corrupted or modified, SFC automatically replaces that file with the correct version.
@@ -105,14 +111,8 @@ DbSchema database designer for all databases, schema design in the team, schema 
 * **Windows Resource Protection found corrupt files and successfully repaired them.** This should hopefully mean that your problems have been solved.
 * **Windows Resource Protection found corrupt files but was unable to fix some of them.** This means that system files are to blame, but SFC can't replace them. Try running the tool again in Safe Mode. If you still get the same result, don't despair: it's time to use DISM.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Screenshot of complete sfc scan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-complete-sfc-scan.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## What Is DISM and When Should You Use It?
 
 **DISM (Deployment Image Servicing and Management)** is the most powerful of the three Windows diagnostic tools. Although you shouldn't usually need to use the tools, it's the one to turn to when you're experiencing frequent crashes, freezes, and errors, but SFC either can't repair your system files or is unable to run at all.
@@ -141,10 +141,9 @@ DbSchema database designer for all databases, schema design in the team, schema 
  Once the scan and repairs are complete, restart your PC and run SFC again to replace your corrupt or missing system files.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Order Should You Run CHKDSK, SFC, and DISM In?
 
  Now that you understand what CHKDSK, SFC, and DISM do, running one or more of these Windows troubleshooting tools will hopefully help you fix your PC.
@@ -155,12 +154,31 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  If you're still having trouble, perform a System Restore. This will restore your system files, settings, and programs to a time when they worked properly. If your system wasn't damaged when the restore point was created, it may solve your corruption problems.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-ragnors-rebirth-warriors-alliance/"><u>[Updated] 2024 Approved Ragnor's Rebirth Warriors Alliance</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-top-6-minecraft-village-house-ideas/"><u>[Updated] 2024 Approved Top 6 Minecraft Village House Ideas</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-streamlined-video-tools-for-twitter-sharing/"><u>[Updated] Streamlined Video Tools for Twitter Sharing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/creating-personalized-screensavers-for-win11/"><u>Creating Personalized Screensavers for Win11</u></a></li>
+<li><a href="https://article-posts.techidaily.com/cutting-edge-live-upgrades-the-top-9-webcam-filter-guide-for-2024/"><u>Cutting-Edge Live Upgrades The Top 9 Webcam Filter Guide for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dns-failures-and-how-to-overcome-them-with-4-strategies/"><u>DNS Failures and How to Overcome Them (with 4 Strategies)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/glitch-video-editing-on-a-budget-top-free-and-affordable-options-for-windows-and-mac/"><u>Glitch Video Editing on a Budget Top Free and Affordable Options for Windows and Mac</u></a></li>
+<li><a href="https://windows11.techidaily.com/ideal-choices-premium-windows-systems-for-switch-gaming/"><u>Ideal Choices: Premium Windows Systems for Switch Gaming</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-motorola-moto-g73-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Motorola Moto G73 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-1drive-operation-restoration-in-windows-os/"><u>Mastering 1Drive Operation Restoration in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-inter-system-file-transfer-with-nearby-share-protocols/"><u>Mastering Inter-System File Transfer with Nearby Share Protocols</u></a></li>
+<li><a href="https://windows11.techidaily.com/mending-windows-x709-problems/"><u>Mending Windows X709 Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/recovering-lost-dependency-msvcr71/"><u>Recovering Lost Dependency: MSVCR71</u></a></li>
+<li><a href="https://windows11.techidaily.com/reducing-the-heat-lowering-cpu-consumption-in-setups/"><u>Reducing the Heat: Lowering CPU Consumption in Setups</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-development-essential-wsl-2-tips-for-pcs/"><u>Streamlining Development: Essential WSL 2 Tips for PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/unmasking-windows-not-found-top-fixes-and-strategies/"><u>Unmasking Windows 'Not Found': Top Fixes and Strategies</u></a></li>
+<li><a href="https://windows11.techidaily.com/what-is-the-0x0000003b-bsod-in-windows-heres-how-to-fix-it/"><u>What Is the 0X0000003B BSOD in Windows? Here's How to Fix It</u></a></li>
+</ul></div>
 

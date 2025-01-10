@@ -1,7 +1,7 @@
 ---
 title: Fixing Unclickable Recycling Symbol in Windows 11
-date: 2025-01-01T03:17:11.975Z
-updated: 2025-01-03T20:50:54.010Z
+date: 2025-01-05T17:12:18.640Z
+updated: 2025-01-10T19:15:00.759Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Bring Back the Recycle Bin Using the Group Policy Editor
 
  The Group Policy Editor lets you show or hide the Recycle Bin icon from the desktop. Check if you have modified and accidentally disabled the Recycle Bin group policy recently. If so you can set the Remove Recycle Bin icon from the desktop policy to "Not Configured" which will restore it.
@@ -37,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f
 2. Type **gpedit.msc** and click **OK** to open the **Group Policy Editor**.  
 ![gpedit msc windows 11 run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/gpedit-msc-windows-11-run.jpg)
 3. Next, navigate to the following location:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 `User Configuration > Administrative Templates > Desktop`
 4. In the right pane, locate and double-click on the **Remove Recycle Bin icon from the desktop** option to open its properties.  
@@ -57,17 +65,21 @@ thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f
 4. Click on **Desktop icon settings** under the **Related settings** section.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. In the **Desktop Icon Settings** dialog, select **Recycle Bin**.  
 ![enable recycle bin desktop icon settings windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/enable-recycle-bin-desktop-icon-settings-windows-11.jpg)
 6. Click **Apply** and **OK** to save the changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you can’t access Group Policy Editor or if the issue persists, you can use the Registry Editor to fix this problem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Modify the Recycle Bin Registry Settings
@@ -86,26 +98,14 @@ thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f
 ![registry editor nonnum new dword value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/registry-editor-nonnum-new-dword-value.jpg)
 5. If it does not exist, you’ll need to create a new value. To do this, right-click on the **NonEnum** subkey folder in the left pane and select **New > DWORD (32-bit) Value**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Rename the value as **{645FF040-5081-101B-9F08-00AA002F954E}**.
 7. Next, double-click on the new DWORD value to open its properties.  
 ![registry editor nonnum new dword value edit 0](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/registry-editor-nonnum-new-dword-value-edit-0.jpg)
 8. Type **0** in the Value data field and click **OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 9. Close Registry Editor and restart your computer. Sometimes, you’ll need to restart your computer for the new registry modifications to work.
 
  If the issue persists, try to [create a new user account with administrative rights](https://www.makeuseof.com/windows-11-create-local-user-account/), [perform a system restore](https://www.makeuseof.com/use-system-restore-windows/), or [repair corrupted Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Get Access to the Recycle Bin Desktop Icon Setting Again
 
@@ -123,20 +123,19 @@ thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/updated-supreme-speakers-showcase-selector/"><u>[Updated] Supreme Speakers' Showcase Selector</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-the-high-demand-of-ntoskrnlexe-processes/"><u>Addressing the High Demand of Ntoskrnl.exe Processes</u></a></li>
-<li><a href="https://windows11.techidaily.com/bestow-magical-menus-on-your-pc/"><u>Bestow Magical Menus on Your PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/cant-choose-a-drive-to-install-games-on-the-xbox-app-for-windows-try-these-fixes/"><u>Can't Choose a Drive to Install Games on the Xbox App for Windows? Try These Fixes</u></a></li>
-<li><a href="https://windows11.techidaily.com/clear-the-way-to-privacy-with-simple-steps-for-ms-defender/"><u>Clear the Way to Privacy with Simple Steps for MS Defender</u></a></li>
-<li><a href="https://extra-information.techidaily.com/delving-deeper-into-vlc-players-unseen-functions/"><u>Delving Deeper Into VLC Player's Unseen Functions</u></a></li>
-<li><a href="https://windows11.techidaily.com/delving-into-windows-11s-data-preservation-capabilities/"><u>Delving Into Windows 11'S Data Preservation Capabilities</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oneplus-nord-n30-se-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from OnePlus Nord N30 SE to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719366391353-keyboards-on-the-ropes-reclaim-your-arrows/"><u>Keyboards on the Ropes? Reclaim Your Arrows!</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/making-a-splash-with-youtube-ad-banners-and-thumbnails/"><u>Making a Splash with YouTube Ad Banners & Thumbnails</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/the-complete-walkthrough-rectifying-apex-legends-leaf-error-for-a-seamless-gaming-experience/"><u>The Complete Walkthrough: Rectifying Apex Legends 'Leaf' Error for a Seamless Gaming Experience</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/the-essential-iphone-screen-recording-manual-for-2024/"><u>The Essential iPhone Screen Recording Manual for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-display-quality-meets-great-deal-the-ultra-thin-laptop-you-dont-want-to-miss-out-on/"><u>Unbeatable Display Quality Meets Great Deal - The Ultra-Thin Laptop You Don't Want to Miss Out On!</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96386079-9781926845555-why-not/"><u>Why Not? | Free Book</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11-update-error-code-0x80240034-explained-and-how-to-fix-it-successfully/"><u>Windows 11 Update Error Code 0X80240034 Explained and How to Fix It Successfully</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-cutting-edge-engines-the-quintessential-qxp-motors-guide-for-2024/"><u>[New] Cutting-Edge Engines The Quintessential QXP Motors Guide for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-digital-dominance-top-youtube-watch-count-chronicles/"><u>[Updated] 2024 Approved Digital Dominance Top YouTube Watch Count Chronicles</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-effortlessly-access-your-most-watched-fb-movies-post-2023/"><u>[Updated] 2024 Approved Effortlessly Access Your Most-Watched FB Movies Post-2023</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-a-year-in-review-how-vivacut-is-shaping-the-future-of-video-editing/"><u>[Updated] A Year In Review How VivaCut Is Shaping the Future of Video Editing</u></a></li>
+<li><a href="https://windows11.techidaily.com/file-trailblazing-in-windows-11-the-top-6-techniques-to-duplicate-paths/"><u>File Trailblazing in Windows 11: The Top 6 Techniques to Duplicate Paths</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-firmware-installing-hp-laserjet-m506-drivers-easily/"><u>Get the Latest Firmware: Installing HP LaserJet M506 Drivers Easily</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-merge-adjacent-and-non-adjacent-partitions-in-windows/"><u>How to Merge Adjacent and Non-Adjacent Partitions in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-execution-codewords-for-apps/"><u>Navigating Through Execution Codewords for Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-virtualbox-usb-connectivity-glitches-and-errors/"><u>Navigating Through VirtualBox USB Connectivity Glitches & Errors</u></a></li>
+<li><a href="https://driver-install.techidaily.com/officejet-pro-printer-drivers-download/"><u>Officejet Pro Printer Drivers Download</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-file-limit-anomaly-in-windows/"><u>Overcoming File Limit Anomaly in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-windows-troubleshooting-with-8-tips/"><u>Streamlining Windows Troubleshooting with 8 Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-nvidia-cp-non-saving-on-win11/"><u>Troubleshooting Nvidia CP Non-Saving on Win11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/video-trimming-tutorial-mastering-edit-techniques-with-vlc-media-player/"><u>Video Trimming Tutorial: Mastering Edit Techniques with VLC Media Player</u></a></li>
 </ul></div>
 

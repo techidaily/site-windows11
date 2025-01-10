@@ -1,7 +1,7 @@
 ---
 title: Deciphering Minimum/Max CPU in Power Preferences
-date: 2024-08-08T05:56:47.141Z
-updated: 2024-08-09T05:56:47.141Z
+date: 2025-01-04T22:53:49.971Z
+updated: 2025-01-10T22:00:17.517Z
 tags:
   - windows10
   - windows11
@@ -21,14 +21,18 @@ thumbnail: https://thmb.techidaily.com/0d94a1daa7c27cd73a9d8298e21e0d777d1adaffd
  Whichever you're trying to do, we're here to help by showing you how to add or remove them in the Power Options menu.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Show or Hide the Minimum or Maximum Processor State Using Command Prompt
 
  To use Command Prompt to show or hide these power states, press**Win + R** to open Windows Run. Then, enter**cmd** in the text box and hit the**Enter** key on your keyboard. You can also use one of the many [ways to open the Command Prompt on Windows](https://www.makeuseof.com/windows-open-command-prompt-powershell/) .
 
 ![Cmd in Run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/win11-cmd.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To show the minimum processor state, enter the below command:
 
@@ -48,19 +52,17 @@ To hide the maximum processor state, enter the below command:
 
  After you have typed in the command you want in the CMD window, hit the**Enter** key on your keyboard to run it.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Show or Hide the Minimum or Maximum Processor State Using the Registry Editor
 
  You can also show or hide these options using the Registry Editor. However, before you do so, create a restore point as a backup in case you make a mistake and need to return your Windows computer to a previously-working state. Check out [how to create a restore point in Command Prompt](https://www.makeuseof.com/windows-create-restore-point-command-prompt-powershell/) for more information.
 
  After creating the system restore point, press**Win + R** to open the Run dialog box. Then, enter**regedit** in the text box and hit the**Enter** key to open the Registry Editor.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Regedit in Run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/regedit-11-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  On the UAC prompt, click**Yes** to continue.
 
@@ -70,16 +72,14 @@ To hide the maximum processor state, enter the below command:
 
  Right-click the**Attributes** value in the right panel and select**Modify** .
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![modifying the attributes value in the windows registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/regedit-modify-attributes.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then, set**Value data** to**1** to hide the minimum processor state. To show it, set**Value data** to**2** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![modifying the attributes dword in the windows registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/win-attributes-dword.jpg)
 
  For the maximum processor state, enter the below file path in the Registry Editor's address bar to get to its key:
@@ -89,20 +89,18 @@ To hide the maximum processor state, enter the below command:
  Double-click the**Attributes** entry to modify it, and then change**Value data** to**1** to hide the maximum processor state or**2** to show it.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Add or Remove the Minimum and Maximum Processor States From Power Options
 
  Setting the minimum or maximum processor state on your Windows computer is vital to helping you get the performance you want from it. If you can’t see these options in the Power Options menu, you can easily reveal them with either Command Prompt or the Registry Editor. And after you’re done tweaking the states, you can hide them for their protection.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -111,6 +109,21 @@ To hide the maximum processor state, enter the below command:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-simplified-guide-to-connecting-zoom-and-gmail-services/"><u>[New] Simplified Guide to Connecting Zoom and Gmail Services</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-tecno-spark-20-proplus-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Tecno Spark 20 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-swiftly-adjust-video-speeds-a-users-guide-to-youtube-features/"><u>In 2024, Swiftly Adjust Video Speeds A User's Guide to YouTube Features</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximizing-pin-security-windows-10-and-11-expansion-guide/"><u>Maximizing PIN Security: Windows 10 & 11 Expansion Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/peering-inside-windows-11-understanding-its-registry-essence/"><u>Peering Inside Windows 11: Understanding Its Registry Essence</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ps5-unique-game-selection-discover-your-favorites/"><u>PS5 Unique Game Selection - Discover Your Favorites!</u></a></li>
+<li><a href="https://windows11.techidaily.com/simplifying-heic-files-into-desired-jpegs-on-pc/"><u>Simplifying Heic Files Into Desired JPEGs on PC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solve-absent-signal-proc-in-windows-devices/"><u>Solve Absent Signal Proc in Windows Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-for-making-taskmanager-top-priority-window/"><u>Techniques for Making TaskManager Top-Priority Window</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-12-prominent-honor-v-purse-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Honor V Purse Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-misrepresented-cpu-metrics-in-system-monitoring/"><u>Troubleshooting Misrepresented CPU Metrics in System Monitoring</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-windows-bar-icon-disappearance/"><u>Troubleshooting Windows Bar Icon Disappearance</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/tutorial-comment-sauvegarder-en-bulle-une-multitude-de-correspondances-dans-outlook/"><u>Tutorial: Comment Sauvegarder en Bulle Une Multitude De Correspondances Dans Outlook</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-ai-uncomplicated-way/"><u>Understanding AI, Uncomplicated Way</u></a></li>
+</ul></div>
 

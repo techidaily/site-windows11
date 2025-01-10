@@ -1,7 +1,7 @@
 ---
 title: Eliminating 'Cannot View' Messages From Your Microsoft Office Mail
-date: 2024-07-29T04:23:58.895Z
-updated: 2024-07-30T04:23:58.895Z
+date: 2025-01-03T17:44:10.098Z
+updated: 2025-01-10T20:59:20.034Z
 tags:
   - windows10
   - windows11
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/0275b65ec50c26c096fbd58891ad5416742f7595b
 
  To avoid this, ensure that the appropriate app or software for the file format is available on your computer. After that, Outlook should be able to preview your files without any problems.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Disable Preview Handler in PowerToys
 
  Using Microsoft PowerToys is an excellent way to[boost your productivity on Windows computers](https://www.makeuseof.com/set-up-windows-pc-maximum-productivity/) . However, these PowerToys utilities can sometimes interfere with app processes and prevent apps from working properly.
@@ -38,8 +42,9 @@ thumbnail: https://thmb.techidaily.com/0275b65ec50c26c096fbd58891ad5416742f7595b
 ![Disable Preview Handlers in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disable-preview-handlers-in-powertoys.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Enable Attachment Preview in Outlook
 
  It's possible that Outlook is failing to preview attachments because the file previewer feature is disabled in the app. To overrule this possibility, you need to check the attachment handling settings in Outlook.
@@ -51,10 +56,11 @@ thumbnail: https://thmb.techidaily.com/0275b65ec50c26c096fbd58891ad5416742f7595b
 5. In the**Attachment Handling** tab, clear the**Turn off Attachment Preview** checkbox.
 6. Click on**Attachment and Document Previewers** and make sure all the previewers are active. Then, click**OK** .
 7. Restart the Outlook app after this and see if you can preview attachments.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Attachment Handling in Outlook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/attachment-handling-in-outlook.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Change Outlook User Interface Settings
 
@@ -64,16 +70,10 @@ thumbnail: https://thmb.techidaily.com/0275b65ec50c26c096fbd58891ad5416742f7595b
 2. Select**Options** from the left column.
 3. In the Outlook Options window, navigate to the**General** tab.
 4. Under the**User Interface Settings** section, select**Optimize for compatibility** option.  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![Optimize Outlook for Compatibility](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/optimize-outlook-for-compatibility.jpg)
 
  Restart the Outlook app after this and check if the issue is still there.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Clear Outlook Cache
 
  Outlook, like most apps, stores cache files on your computer to reduce loading times. Although this data is supposed to improve app performance, it’s not uncommon for it to become corrupted over time. When this happens, Outlook may malfunction or throw strange errors. You can try deleting the Outlook cache and see if that helps.
@@ -84,9 +84,6 @@ To delete Outlook cache data on Windows, use these steps:
 2. Select**Run** from the list.
 3. Type**%localappdata%\\Microsoft\\Outlook** in the text box and press**Enter** .
 4. In the**RoamCache** folder that appears, select all the files and click the**trash icon** at the top to delete them.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Delete Outlook Cache Data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/delete-outlook-cache-data.jpg)
 
 ## 6\. Enable Windows Firewall
@@ -101,6 +98,10 @@ To delete Outlook cache data on Windows, use these steps:
 4. Choose a network profile.
 5. Enable the toggle for**Windows Defender Firewall** .  
 ![Enable Microsoft Defender Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-microsoft-defender-firewall.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Modify Registry Files
 
@@ -118,20 +119,19 @@ To delete Outlook cache data on Windows, use these steps:
 {65235197-874B-4A07-BDC5-E65EA825B718} = Microsoft PowerPoint previewer  
 {84F66100-FF7C-4fb4-B0C0-02CD7FB668FE} = Microsoft Word previewer  
 {DC6EFB56-9CFA-464D-8880-44885D7DC193} = Adobe PDF Preview Handler for Vista`  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Preview Handlers in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/preview-handlers-in-registry.jpg)
 6. If any of the above-mentioned values are missing, right-click on an empty spot and select**New > String Value** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Double-click on the newly created string value.
 8. Enter the name of the application handler in the**Value data** field and click**OK** .
 9. Right-click on the string value, select**Rename** and type the value associated with the application handler.
 10. Exit the Registry Editor window and restart your PC.  
 ![Edit String in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/edit-string-in-registry.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## 8\. Run the Microsoft Office Repair Tool
 
  Microsoft Office includes a repair tool for fixing Office apps on Windows. So, if nothing works, you can run this tool to repair the Outlook app. Here's how:
@@ -145,22 +145,20 @@ To delete Outlook cache data on Windows, use these steps:
  Wait for the process to finish and check if you can preview files. If you can't, repeat the above steps to perform an**Online Repair** . As suggestive of its name, this process does necessitate an active internet connection on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Preview Your Outlook Attachments Again on Windows
 
  One of these eight fixes should take care of the “this file cannot be previewed” error in Outlook. If not, you can consider reinstalling the Outlook app as a last resort.
 
  If you're tired of dealing with the Outlook app's recurring problems, there are plenty of excellent email clients for Windows.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -169,4 +167,24 @@ To delete Outlook cache data on Windows, use these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-faithful-melodies-downloaded-tips-for-personalization/"><u>[Updated] In 2024, Faithful Melodies Downloaded Tips for Personalization</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-demystifying-twitter-archives-for-users-and-analysts/"><u>2024 Approved Demystifying Twitter Archives for Users & Analysts</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-how-to-convert-your-instagram-followers-into-earnings/"><u>2024 Approved How to Convert Your Instagram Followers Into Earnings</u></a></li>
+<li><a href="https://windows11.techidaily.com/easy-steps-for-activating-outlook-preview-in-windows-11-os/"><u>Easy Steps for Activating Outlook Preview in Windows 11 OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficiently-run-windows-11-news-and-video-sites-without-strain/"><u>Efficiently Run Windows 11 News & Video Sites without Strain</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortless-telnet-configuration-for-win11-users/"><u>Effortless Telnet Configuration for Win11 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevating-your-app-setup-game-with-winstall-on-windows-11/"><u>Elevating Your App Setup Game with Winstall on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-unexpected-closure-notifications-from-roblox-games/"><u>Eliminating Unexpected Closure Notifications From Roblox Games</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-windows-0x800704b3-network-hurdles/"><u>Eliminating Windows' 0X800704B3 Network Hurdles</u></a></li>
+<li><a href="https://windows11.techidaily.com/elusive-archive-tucked-away-zip-and-images-on-windows-11/"><u>Elusive Archive Tucked Away: ZIP & Images on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-windows-event-viewer-functionality/"><u>Enhancing Windows Event Viewer Functionality</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premier-streamers-ultimate-concert-selection/"><u>In 2024, Premier Streamers Ultimate Concert Selection</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/lyrx-karaoke-software-for-windows-download-and-test-yourself-no-cost-involved-pcdj/"><u>LYRX Karaoke Software for Windows - Download & Test Yourself, No Cost Involved! | PCDJ</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-top-10-free-video-editing-software-for-rotating-and-flipping-clips-for-2024/"><u>New Top 10 Free Video Editing Software for Rotating and Flipping Clips for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/shop-now-and-save-big-exclusive-offer-on-85-inch-tcl-tv-up-to-25-off-ending-labor-day-zdnet-shops/"><u>Shop Now and Save Big – Exclusive Offer on 85-Inch TCL TV, Up to 25% Off Ending Labor Day | ZDNET Shops.</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726221098061-ai/"><u>원통스위치를 위해 인터넷으로 제공되는 무료 AI 데이터 매니폴드</u></a></li>
+</ul></div>
 

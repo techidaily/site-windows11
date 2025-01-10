@@ -1,7 +1,7 @@
 ---
 title: "Key Fixes for Creative Block: Photoshop Stuck in Windows 10/11"
-date: 2025-01-01T22:29:31.897Z
-updated: 2025-01-04T04:29:54.927Z
+date: 2025-01-07T22:24:54.125Z
+updated: 2025-01-10T22:17:20.293Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/0177669a9f7e47198243a9fecb2a2f8d7897c9576
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Run the Adobe Photoshop App as an Administrator
 
  Some Photoshop users have said running that app with admin rights fixed it not opening. To do that, you’ll either need to temporarily select Photoshop to run with admin rights or set the app to always run as administrator.
@@ -38,12 +34,16 @@ thumbnail: https://thmb.techidaily.com/0177669a9f7e47198243a9fecb2a2f8d7897c9576
 ![The Run this program as an administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-this-program-as-administrator3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Start Photoshop Without Plugins
 
  Third-party plugins can generate Photoshop startup issues. If you utilize Photoshop with plugins, try disabling them. To do so, hold the **Shift** when you click to run Photoshop. Then select **Yes** to skip the loading of optional plugins.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Terminate Background Adobe Processes
 
@@ -53,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/0177669a9f7e47198243a9fecb2a2f8d7897c9576
 2. If Adobe Photoshop is within the **Apps** section of the **Processes** tab, right-click on it and select **End task**.  
 ![The End task option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/end-task-context-menu-option.png)
 3. Then scroll down through the **Background processes** section to see if there are any Adobe Photoshop processes there.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Adobe Photoshop processes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/adobe-photoshop-processes.jpg)
 4. Select Adobe Photoshop background processes and click **End task** to terminate them. Disable all Photoshop processes you can find.
@@ -73,8 +69,16 @@ thumbnail: https://thmb.techidaily.com/0177669a9f7e47198243a9fecb2a2f8d7897c9576
 ![The Manage ransomware protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/manage-ransomware-option.jpg)
 4. Click the switch for the **Controlled folder access** option to disable that setting if it’s turned on.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Controlled Folder Access setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/controlled-folder-access-option.jpg)
 5. Then try launching Adobe Photoshop with controlled folder access disabled.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Disable Your PC’s Display Adapter
 
@@ -91,6 +95,10 @@ thumbnail: https://thmb.techidaily.com/0177669a9f7e47198243a9fecb2a2f8d7897c9576
 
  You can always re-enable the graphics adapter when you’re not utilizing Photoshop. To do so, right-click your graphics card in Device Manager and select Enable device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Clear Photoshop’s Font Cache
 
  A corrupted font cache is another potential cause for Adobe Photoshop not starting on your PC. Deleting the CT Font Cache folder will remedy that by clearing corrupted cache data. This is how you can clear Photoshop’s font cache like this:
@@ -100,13 +108,13 @@ thumbnail: https://thmb.techidaily.com/0177669a9f7e47198243a9fecb2a2f8d7897c9576
 ![The Roaming subfolder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-roaming-subfolder.jpg)
 3. Open the Adobe > Photoshop subfolders from the Roaming directory.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Right-click the CT Font Cache subfolder and select **Delete** (the trash can on Windows 11's context menu).  
 ![The Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-delete-option4.jpg)
 5. Double-click the Recycle Bin desktop shortcut and select **Empty Recycle Bin**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Reinstall Photoshop
 
@@ -114,15 +122,7 @@ thumbnail: https://thmb.techidaily.com/0177669a9f7e47198243a9fecb2a2f8d7897c9576
 
 ![The Programs and Features applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/uninstall-option-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When you’ve uninstalled Photoshop, restart your PC. Then open the Adobe Creative Cloud app. Install Adobe Photoshop from the Creative Cloud app.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Edit Your Images in Adobe Photoshop Again
 
@@ -140,24 +140,15 @@ thumbnail: https://thmb.techidaily.com/0177669a9f7e47198243a9fecb2a2f8d7897c9576
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-best-youtube-video-reaction-ideas/"><u>[New] 2024 Approved Best YouTube Video Reaction Ideas</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/1716069518437-new-in-2024-capture-your-screen-on-chromebook-methods-4-you/"><u>[New] In 2024, Capture Your Screen on Chromebook Methods 4 You!</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/1715860553764-updated-capturing-screens-with-internal-recorder-on-mate-1020-and-p-series-p20-p10-smartphones/"><u>[Updated] Capturing Screens with Internal Recorder on Mate 10/20 & P Series (P20, P10) Smartphones.</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-expert-tips-download-youtube-playlists-in-minutes-for-2024/"><u>[Updated] Expert Tips Download YouTube Playlists in Minutes for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-digital-identification-showdown-iphone-x-and-galaxy-edition/"><u>[Updated] In 2024, Digital Identification Showdown IPhone X and Galaxy Edition</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-preeminent-audio-editing-tools-compilation-for-2024/"><u>[Updated] Preeminent Audio Editing Tools Compilation for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/6-expert-windows-programs-for-video-editors/"><u>6 Expert Windows Programs for Video Editors</u></a></li>
-<li><a href="https://windows11.techidaily.com/6-underestimated-downsides-of-saving-on-activation-keys/"><u>6 Underestimated Downsides of Saving on Activation Keys</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-compreenasian-approach-to-fixing-winget-on-windows-11/"><u>A Compreenasian Approach to Fixing Winget on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-one-side-output-in-windows-10-headphones/"><u>Addressing One Side Output in Windows 10 Headphones</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoid-panic-recover-lost-data-with-these-steps/"><u>Avoid Panic, Recover Lost Data with These Steps</u></a></li>
-<li><a href="https://windows11.techidaily.com/chkdsk-sfc-and-dism-windows-tools-unveiled-and-explained/"><u>CHKDSK, SFC & DISM: Windows Tools Unveiled and Explained</u></a></li>
-<li><a href="https://windows11.techidaily.com/cut-through-the-frustration-swift-solutions-for-ms-teams-error-80080300-in-win11/"><u>Cut Through the Frustration: Swift Solutions for MS Teams Error 80080300 in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/decreasing-cpu-load-in-setup-hosts/"><u>Decreasing CPU Load in Setup Hosts</u></a></li>
-<li><a href="https://windows11.techidaily.com/delving-into-the-spiritual-command-center-of-windows-11/"><u>Delving Into the Spiritual Command Center of Windows 11</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-verizon-iphone-14-pro-by-drfone-ios/"><u>In 2024, How to Unlock Verizon iPhone 14 Pro</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/spark-conversations-with-these-10-youtube-reaction-ideas-for-2024/"><u>Spark Conversations with These 10 YouTube Reaction Ideas for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/streamlined-techniques-for-capturing-stories-on-instagram-for-2024/"><u>Streamlined Techniques for Capturing Stories on Instagram for 2024</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/wmv-mov/"><u>영상 유형 WMV, MOV에 대한 제공 무료 전환기 - 온라인 사용자가 만들기</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-aerial-capture-face-off-dji-mavic-2-vs-hero6-black/"><u>2024 Approved Aerial Capture Face-Off DJi Mavic 2 vs Hero6 Black</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-uncovering-basics-of-asmr-audio-experiences/"><u>2024 Approved Uncovering Basics of ASMR Audio Experiences</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-sign-off-strangers-on-windows-11/"><u>Guide to Sign Off Strangers on Windows 11</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-bring-your-vision-to-life-advanced-video-editing-techniques-for-home-movie-makers/"><u>In 2024, Bring Your Vision to Life Advanced Video Editing Techniques for Home Movie Makers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-samsung-galaxy-a24-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Samsung Galaxy A24 is off? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-transformative-techniques-for-high-quality-mp4s-from-instagram/"><u>In 2024, Transformative Techniques for High-Quality MP4s From Instagram</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcome-update-issue-windows-11-error-code-0x800f0922/"><u>Overcome Update Issue: Windows 11 Error Code 0X800F0922</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-securing-computer-against-unauthorized-usb-clip-attacks/"><u>Steps for Securing Computer Against Unauthorized USB Clip Attacks</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-on-iphone-se-2022-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock on iPhone SE (2022)</u></a></li>
+<li><a href="https://windows11.techidaily.com/unjamming-windows-tackling-access-issues-head-on/"><u>Unjamming Windows: Tackling Access Issues Head-On</u></a></li>
 </ul></div>
 

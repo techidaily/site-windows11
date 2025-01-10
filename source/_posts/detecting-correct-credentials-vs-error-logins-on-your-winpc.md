@@ -1,7 +1,7 @@
 ---
 title: Detecting Correct Credentials vs Error Logins on Your WinPC
-date: 2024-08-08T05:56:46.220Z
-updated: 2024-08-09T05:56:46.220Z
+date: 2025-01-03T21:32:23.935Z
+updated: 2025-01-10T18:07:06.222Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/df2009c639407c10216adf3ab20aeaa652a10152c
 
  While physically monitoring your computer all the time is not feasible for most people, the built-in Windows log utility, Event Viewer, can reveal the recent activities on your computer, including login attempts. Here we show you how to audit failed and successful login attempts in Windows using Event Viewer and other methods.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Enable Logon Auditing via Group Policy Editor
 
  You need to enable logon auditing in Group Policy Editor to be able to view login audit in Event Viewer. While this feature may be enabled by default on some computers, you can also enable logon auditing manually by following these steps.
@@ -35,27 +39,13 @@ thumbnail: https://thmb.techidaily.com/df2009c639407c10216adf3ab20aeaa652a10152c
 3. Next, navigate to the following location:  
 `Computer Configuration > Windows Settings > Security Settings > Local Policies > Audit Policy`
 4. In the right pane, right-click on**Audit logon events** and select**Properties** .  
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![group policy editor audit logon events properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/group-policy-editor-audit-logon-events-properties.jpg)
 5. In the**Properties** dialog, select**Success** and**Failure** options under the**Audit these attempts** section.  
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![group policy editor audit logon events properties enable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/group-policy-editor-audit-logon-events-properties-enable.jpg)
 6. Click**Apply** and**OK** to save the changes.
 
  Close Group Policy Editor and move to the next set of steps to view login attempts in Event Viewer.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to View Failed and Successful Login Attempts in Event Viewer
 
  The [Event Viewer](https://www.makeuseof.com/windows-event-viewer-guide/) lets you view Windows logs for the application, security, system, and other events. While a useful application to troubleshoot system issues, you can use it to audit login events on your Windows PC.
@@ -65,11 +55,13 @@ thumbnail: https://thmb.techidaily.com/df2009c639407c10216adf3ab20aeaa652a10152c
 1. Press the**Win key** and type**event viewer.** Alternatively, click on**Search** in the taskbar and type**event viewer.**
 2. Click on**Event Viewer** from the search result to open it.
 3. In the left pane, expand the**Windows Logs** section.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![event viewer security logon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/event-viewer-security-logon.jpg)
 4. Next, select**Security** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. In the right pane, locate the**Event 4624** entry. It is a user logon event ID, and you may find multiple instances of this ID in the event log.
 6. To find failed login attempts, locate**Event ID 2625** entries instead.
 7. Next, select the**Event 4624** entry you want to view, and Event Viewer will display all the related information in the bottom section. Alternatively, right-click on the event entry and select**Properties** to view detailed information in a new window.
@@ -86,12 +78,17 @@ thumbnail: https://thmb.techidaily.com/df2009c639407c10216adf3ab20aeaa652a10152c
 
 ![event viewer security logon event properties details 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/event-viewer-security-logon-event-properties-details-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, scroll down to the**New Logon** section and locate the**Security ID** . This will show the user account that was affected by the logon.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![event viewer security logon event failed attemptjpg](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/event-viewer-security-logon-event-failed-attemptjpg.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Similarly, for failed login attempts, review**Event ID 4625** . In the**Properties** dialog, you can find reasons for the failed login attempt and the affected user account. If you find multiple instances of unsuccessful attempts, consider learning [how to limit the number of failed login attempts to protect your Windows PC](https://www.makeuseof.com/how-limit-number-failed-login-attempts-windows-10/) .
 
@@ -111,10 +108,11 @@ thumbnail: https://thmb.techidaily.com/df2009c639407c10216adf3ab20aeaa652a10152c
 
 ## How to View the Last Logon History Using Command Prompt
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![view specific user last login attempt command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/view-specific-user-last-login-attempt-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can use the Command Prompt to view the last login attempt. It is a handy way to find user-based login attempts without having to go through all the logon events in Event Viewer.
 
@@ -139,8 +137,6 @@ To view the login history of a specific user using Command Prompt:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -148,6 +144,21 @@ To view the login history of a specific user using Command Prompt:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-essential-tools-and-techniques-enhancing-your-market-research-skills/"><u>[New] In 2024, Essential Tools & Techniques Enhancing Your Market Research Skills</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-new-users-on-the-road-to-zoom-room-mastery/"><u>[New] In 2024, New Users on the Road to Zoom Room Mastery</u></a></li>
+<li><a href="https://os-tips.techidaily.com/access-iphones-covert-rain-sounds-a-guide-to-improving-your-sleep-quality/"><u>Access iPhone's Covert Rain Sounds: A Guide to Improving Your Sleep Quality</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ai-helpers-face-off-deciding-between-alexa-and-google-assistant-for-your-home/"><u>AI Helpers Face-Off: Deciding Between Alexa and Google Assistant for Your Home</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/complete-exploration-of-sierra-icloud-documentdesktop-views/"><u>Complete Exploration of Sierra iCloud Document/Desktop Views</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-pro-screen-recording-tool-for-successful-youtubers/"><u>In 2024, Pro Screen Recording Tool for Successful YouTubers</u></a></li>
+<li><a href="https://windows11.techidaily.com/lockdown-the-background-on-your-modern-windows-11/"><u>Lockdown the Background on Your Modern Windows 11</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-chromebook-hacks-running-windows-and-mac-video-editing-software-seamlessly-for-2024/"><u>New Chromebook Hacks Running Windows and Mac Video Editing Software Seamlessly for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/personalizing-the-windows-11-task-manager-homepage/"><u>Personalizing the Windows 11 Task Manager Homepage</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/seeing-clearly-in-color-top-ranked-web-printers-of-24/"><u>Seeing Clearly in Color: Top-Ranked Web Printers of '24</u></a></li>
+<li><a href="https://win11.techidaily.com/shortening-windows-screen-saver-timeout/"><u>Shortening Windows Screen Saver Timeout</u></a></li>
+<li><a href="https://windows11.techidaily.com/smooth-save-experience-top-6-strategies-to-tackle-ppt-errors/"><u>Smooth Save Experience: Top 6 Strategies to Tackle PPT Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-to-correcting-winrars-incorrect-file-hashes/"><u>Solutions to Correcting WinRAR's Incorrect File Hashes</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-to-erase-office-365-error-30015-26-on-pcs/"><u>Solutions to Erase Office 365 Error 30015-26 on PCs</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Curtailing Windows Updates and Restarts
-date: 2024-08-08T05:56:10.541Z
-updated: 2024-08-09T05:56:10.541Z
+date: 2025-01-09T20:26:10.737Z
+updated: 2025-01-10T19:47:02.807Z
 tags:
   - windows10
   - windows11
@@ -41,11 +41,6 @@ thumbnail: https://thmb.techidaily.com/d108669ab03559524bb77121c4032c30df350e077
 
  This will search for available updates and install them if there are any. If you see no updates, continue to the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ## 3\. Run the Windows Update Troubleshooter
 
  Windows operating system comes with troubleshooting tools specific to each problem. To solve update-related issues, use the Windows Update troubleshooter. This tool detects corrupted, or faulty files associated with updates and fixes them automatically.
@@ -55,14 +50,19 @@ The powerful video editing program for your Windows PC</a>
 1. Right-click on **Start** and select **Settings** from the menu list.
 2. Select **Windows Update** in the left sidebar, then click **Troubleshoot**.
 3. On the next page, click **Other trouble-shooters**.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Other troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/other-troubleshooters.jpg)
 4. Look for **Windows Update** and click **Run** next to it.  
 ![Run Windows Update Troubleshooter-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-windows-update-troubleshooter-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Follow the instructions on the screen to let Windows Update Troubleshooter detect and fix problems. After running the troubleshooter, restart your computer and check if it solves the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Clear the Software Distribution Folder
 
@@ -91,9 +91,6 @@ net start msiserver`
 
  ​​​​
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## 5\. Disable Windows Update
 
  If you keep encountering the issue, disable the Windows Update service. This will stop Windows from automatically downloading updates and showing the message.
@@ -106,9 +103,6 @@ net start msiserver`
 ![Stop Windows Update Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/stop-windows-update-service.jpg)
 4. Now double-click on **Windows Update** to open the Properties window.
 5. On the **General** tab, click the **Startup type** drop-down and select **Disabled**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![Disable Windows Update Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/disable-windows-update-service.jpg)
 6. Click **Apply** \> **OK** to save the changes.
 7. Now close the window and restart your computer.
@@ -120,8 +114,9 @@ net start msiserver`
  ​​​​​After restarting, you should no longer see the “Update and Restart” or “Update and Shut Down” message.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Reset the Windows Update Components
 
  If none of the solutions above work, reset Windows Update components. It deletes all the temporary download files and resets the registry keys containing information about Windows Update. This process also clears any corrupted files associated with updates and allows Windows to download the updates again.
@@ -189,20 +184,24 @@ net start cryptsvc`
 5. Save the file as **ResetWindowsUpdate.bat** and close Notepad.  
 ![Reset Windows Update Components](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reset-windows-update-components.jpg)
 6. Now right-click on the .bat file and select **Run as administrator**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. When the UAC window appears, select **Yes** to continue.
 
  The script will start resetting the Windows Update components and may take a few minutes to complete. Once done, restart your computer and this should solve the issue.
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Resolving Incorrect Notifications for Updates and Restarts
 
  Now that you know how to fix incorrect notifications for updates and restarts, you can avoid this issue in the future. Make sure Windows Update is configured correctly and reset components. Also, keep your computer updated with the latest security patches. Doing this will also ensure smooth system operation.
 
  However, you may sometimes encounter the same message prompting even after performing these actions. Read this guide to resolve this issue and stop getting such annoying notifications.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -210,4 +209,21 @@ net start cryptsvc`
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-mastering-the-power-of-hashtags-on-instagram-now/"><u>[New] 2024 Approved Mastering the Power of #Hashtags on Instagram Now</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-streamline-your-media-with-top-8-convertors-1-8/"><u>[New] Streamline Your Media with Top 8 Convertors #1-8</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-deciphering-the-best-recorder-with-active-in-mind-for-2024/"><u>[Updated] Deciphering the Best Recorder with Active in Mind for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-conquer-the-vr-world-your-first-vr-adventure/"><u>[Updated] In 2024, Conquer the VR World Your First VR Adventure</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-sync-apps-for-microsoft-office-holders/"><u>Essential Sync Apps for Microsoft Office Holders</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-sleep-issues-on-windows-11-keys-and-mice/"><u>Fixing Sleep Issues on Windows 11: Keys & Mice</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-optimizing-your-live-broadcasts-with-obs-and-zoom/"><u>In 2024, Optimizing Your Live Broadcasts with OBS & Zoom</u></a></li>
+<li><a href="https://windows11.techidaily.com/lowering-cpuram-in-windows-w11-news-apps/"><u>Lowering CPU/RAM in Windows W11 News Apps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-setting-up-the-iconic-19-core-addon-in-kodi-version-19-matrix/"><u>Step-by-Step Guide: Setting Up the Iconic 19 Core Addon in Kodi Version 19 Matrix</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-track-down-where-your-windows-programs-live/"><u>Strategies to Track Down Where Your Windows Programs Live</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ost-benefit-analysis-should-you-sign-up-for-youtube-premium-for-2024/"><u>The Cost-Benefit Analysis Should You Sign Up for YouTube Premium for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-non-apple-non-anker-magsafe-wallet-deal-of-the-year-my-comprehensive-review/"><u>Top Non-Apple, Non-Anker MagSafe Wallet Deal of the Year: My Comprehensive Review</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transform-your-broadcasts-with-manycam-the-leading-tool-for-live-video-software-and-online-webcams/"><u>Transform Your Broadcasts with ManyCam: The Leading Tool for Live Video Software and Online Webcams</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mastering Fixes for No Sufficient Privileges in Windows Installer
-date: 2024-12-29T19:01:21.138Z
-updated: 2025-01-03T22:49:45.707Z
+date: 2025-01-09T22:01:16.995Z
+updated: 2025-01-10T20:38:12.338Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Run the Affected Software’s Setup File With Admin Rights
@@ -37,19 +37,11 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 
 ![The Run as administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/run-as-administrator-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Unblock the Setup File
 
  In addition, check if the installer file is blocked before running it. To do that, right-click the program’s setup file and select **Properties**.
 
  If you can see an **Unblock** option on the **General** tab, deselect the checkbox and select **Apply**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Take Ownership of the Software’s Installation Directory
 
@@ -63,9 +55,17 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 
 ![The Take Ownership option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/take-ownership-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Try Installing it in a Different Folder
 
  You might be able to bypass the “installer has insufficient privileges” error by selecting to install the software in a different directory. Many users install software packages in the Program Files folder. So, try selecting to install a program at a completely different folder path from the one specified in the error message.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Start or Restart Windows Installer
 
@@ -75,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 2. Right-click Windows Installer and select **Start** if that service isn’t on and running.  
 ![windows installer option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-installer-option.jpg)
 3. If Windows Installer is running, select its **Restart** context menu option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Alternatively, you can double-click the **Windows Installer** service to view its properties window and restart it from there. Click **Start** if the service is already stopped, or, select **Stop > Start** to restart.
 
@@ -99,10 +103,6 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 5. Click **Apply** \> **OK** to save the policy setting you’ve selected.  
 ![The Enabled radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-enabled-radio-button.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once done, repeat steps three to five above for all the User Account Control policy settings. Exit Group Policy Editor and restart your PC after disabling all UAC policy settings.
 
 ## 8\. Turn Off Third-Party Security Apps
@@ -118,7 +118,11 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Try Installing Software After Clean Booting
@@ -129,10 +133,6 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 
 ![The Services tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-services-tab.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 10\. Uninstall Older Software Versions
 
  The “installer has insufficient privileges” has been reported to occur by users trying to install new versions of software already on their PCs.
@@ -142,7 +142,7 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-uninstall-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Get Your Windows 11/10 Software Installed
@@ -163,21 +163,18 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-streamlining-sound-recording-a-filmmakers-handbook-on-voice-overs/"><u>[Updated] 2024 Approved Streamlining Sound Recording A Filmmaker's Handbook on Voice-Overs</u></a></li>
-<li><a href="https://windows11.techidaily.com/ai-driven-evolution-in-windows-software-design/"><u>AI-Driven Evolution in Windows Software Design</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/behind-the-hype-a-comprehensive-review-of-the-gaming-capabilities-of-asus-rt-ac88u/"><u>Behind the Hype: A Comprehensive Review of the Gaming Capabilities of Asus RT-AC88U</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixes-for-stumbling-windows-discord-search-bar/"><u>Fixes for Stumbling Windows Discord Search Bar</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-flawed-setups-a-guide-to-windows-package-woes/"><u>Fixing Flawed Setups: A Guide to Windows Package Woes</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Realme 10T 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-start-a-stream-reap-riches-vlog-money-secrets/"><u>In 2024, Start a Stream, Reap Riches Vlog Money Secrets</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-the-path-to-youtube-stardom-utilizing-sony-vegas-for-professional-cuts/"><u>In 2024, The Path to YouTube Stardom Utilizing Sony Vegas for Professional Cuts</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-twitters-new-era-of-videography-aspect-ratios-mandatory/"><u>In 2024, Twitter's New Era of Videography Aspect Ratios Mandatory</u></a></li>
-<li><a href="https://windows11.techidaily.com/insights-on-how-to-utilize-execution-nicknames/"><u>Insights on How to Utilize Execution Nicknames</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/leveraging-the-power-of-nvenc-in-handbrake-a-step-by-step-guide-to-faster-video-encode-settings/"><u>Leveraging the Power of NVENC in HandBrake: A Step-by-Step Guide to Faster Video Encode Settings</u></a></li>
-<li><a href="https://windows11.techidaily.com/methods-for-lowering-tiworkerexe-process-resource-use/"><u>Methods for Lowering TiWorker.exe Process Resource Use</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/securisation-et-clonage-de-disque-windows-11-vers-ssd-guide-complet/"><u>Sécurisation Et Clonage De Disque Windows 11 Vers SSD : Guide Complet</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/shape-your-online-presence-changing-backdrops-in-google-meet/"><u>Shape Your Online Presence Changing Backdrops in Google Meet</u></a></li>
-<li><a href="https://windows11.techidaily.com/smart-task-management-microsofts-ai-copilot-for-windows-11-enhances-workflow/"><u>Smart Task Management: Microsoft's AI Copilot for Windows 11 Enhances Workflow</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-security-beyond-bitlocker-top-4-choices/"><u>Windows Security Beyond BitLocker: Top 4 Choices</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/reaking-down-the-barriers-to-knowing-your-fans/"><u>[New] Breaking Down the Barriers to Knowing Your Fans</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-unleashing-your-contents-potential-journey-towards-gaining-sponsorship-revenue/"><u>2024 Approved Unleashing Your Content's Potential Journey Towards Gaining Sponsorship Revenue</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-resolve-blue-screens-resulting-from-unhandled-exceptions/"><u>How to Resolve Blue Screens Resulting From Unhandled Exceptions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-a-superior-fpv-drone-setup-choosing-right-propellers/"><u>In 2024, Crafting a Superior FPV Drone Setup Choosing Right Propellers</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-oppo-reno-11-5g-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Oppo Reno 11 5G</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-art-of-running-tiny-tinas-wonderlands-without-a-glitch-on-windowspc/"><u>Master the Art of Running Tiny Tina's Wonderlands without a Glitch on Windows/PC</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/maximizing-exposure-submitting-to-apple-for-2024/"><u>Maximizing Exposure Submitting to Apple for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-for-correcting-roblox-windows-problems/"><u>Methods for Correcting Roblox Windows Problems</u></a></li>
+<li><a href="https://windows11.techidaily.com/recovering-internet-router-settings-on-windows-pc/"><u>Recovering Internet Router Settings on Windows PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/refining-malfunctional-fixes-within-windows-1011-diagnostics/"><u>Refining Malfunctional Fixes Within Windows 10/11 Diagnostics</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/riparazione-guida-per-il-riavvio-del-sistema-non-funzionante-sistema-f11-su-windows-7-8-e-10/"><u>Riparazione Guida per Il Riavvio Del Sistema Non Funzionante (Sistema F11) Su Windows 7, 8 E 10</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-complete-guide-for-professional-livestreaming-using-zoom-on-youtube/"><u>The Complete Guide for Professional Livestreaming Using Zoom on YouTube</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-future-is-here-windows-11-changes-to-file-explorer/"><u>The Future Is Here: Windows 11 Changes to File Explorer</u></a></li>
 </ul></div>
 

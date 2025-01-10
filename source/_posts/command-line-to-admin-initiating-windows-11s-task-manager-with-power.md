@@ -1,7 +1,7 @@
 ---
 title: "Command Line to Admin: Initiating Windows 11'S Task Manager with Power"
-date: 2024-08-08T05:57:42.324Z
-updated: 2024-08-09T05:57:42.324Z
+date: 2025-01-09T20:29:54.157Z
+updated: 2025-01-10T22:04:19.222Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/1b75e252ed41838e8d5bba451afdfa23d376fd039
 
  However, in some cases, you may need elevated privileges to access some of the more advanced features and capabilities of Task Manager. In this article, you will find a detailed tutorial on how to run Task Manager as an administrator in Windows 11.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. How to Open Task Manager as an Administrator Through Taskbar Search
 
  Taskbar search is an easy way to quickly launch programs, open documents, or search the web without having to manually type in commands. To use this tool, follow these steps:
@@ -33,18 +30,15 @@ thumbnail: https://thmb.techidaily.com/1b75e252ed41838e8d5bba451afdfa23d376fd039
 3. Click the**Run as administrator** option on the right side of the Start menu.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. How to Open Task Manager as an Administrator Through the Start Menu
 
  Another handy tool on your Windows computer is the Start menu. You can use it for many things, including running Task Manager as an administrator. This is how you do it:
 
 1. Click on**Start** and select**All apps** in the upper right corner.
 2. Scroll down to the bottom and select**Windows Tools** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![Open Task Manager Using Start menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-task-manager-using-start-menu.jpg)
 3. On the next page, right-click on**Task Manager** and select**Run as administrator** .
 
@@ -58,8 +52,9 @@ thumbnail: https://thmb.techidaily.com/1b75e252ed41838e8d5bba451afdfa23d376fd039
 3. This will launch Task Manager with administrative privileges.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. How to Open Task Manager as an Administrator With Windows File Explorer
 
  If you're deeply buried in your file system, you don’t have to come out of it to launch Task Manager with administrative rights. In File Explorer, just use the address bar to do it. Here's how:
@@ -67,24 +62,9 @@ thumbnail: https://thmb.techidaily.com/1b75e252ed41838e8d5bba451afdfa23d376fd039
 1. Right-click on Start and select**File Explorer** or press**Win + E** on your keyboard.
 2. In the address bar, type**C:\\Windows\\System32** and press**Enter** .
 3. Then, use the search bar to find "**taskmgr** ".  
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Open Task Manager from File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-task-manager-from-file-explorer.jpg)
 4. Once you find the executable file, right-click on it and select**Run as administrator** .
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## 5\. How to Open Task Manager as an Administrator via Control Panel
 
  In Windows 11, you can also open Task Manager with administrator privileges from the Control Panel. It's one of the easiest and most straightforward ways to accomplish this. Here are the steps you need to take:
@@ -96,24 +76,37 @@ thumbnail: https://thmb.techidaily.com/1b75e252ed41838e8d5bba451afdfa23d376fd039
 ![Open Task Manager Using Start menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-task-manager-using-start-menu.jpg)
 5. Then right-click on**Task Manager** and select**Run as administrator** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. How to Open Task Manager as an Administrator With a Desktop Shortcut
 
  If you frequently need to open Task Manager with admin rights, create a shortcut to Task Manager. Here's how you can do it.
 
 1. Right-click on your desktop and select**New > Shortcut** .
 2. Then type the following path in the text box and click**Next** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![Open Task Manager With Desktop Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-task-manager-with-desktop-shortcut.jpg)  
 C:\WINDOWS\system32\taskmgr.exe
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Now you need to give your shortcut a name and click**Finish** .
 4. Your shortcut will appear on your desktop. Right-click on the shortcut and select**Properties** .
 5. Click**Advanced** on the Shortcut tab.
 6. Check the**Run as administrator** box and click**OK** .  
 ![Creating shortcut to open Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/creating-shortcut-to-open-task-manager.jpg)
 7. Now double-click on the shortcut to open Task Manager with admin rights.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. How to Open Task Manager as an Administrator via Command Prompt or PowerShell
 
@@ -132,21 +125,15 @@ The Task Manager will open with full administrator rights.
 2. Click on the Task Manager icon you just pinned.
 3. Then right-click on**Task Manager** and then select**Run as administrator** .
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Getting the Most Out of Elevated Task Manager
 
  It's easy to run the Task Manager Panel, but some tasks may require elevated access. Here are seven ways to open Task Manager as an administrator. Let us know which one is more helpful to you.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -155,6 +142,20 @@ The Task Manager will open with full administrator rights.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-full-featured-sierra-drives-files-and-more/"><u>[New] Full-Featured Sierra Drives, Files, and More</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/outube-seo-mastery-balancing-titles-and-tags-for-2024/"><u>[New] YouTube SEO Mastery Balancing Titles and Tags for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-recording-webinars-on-a-budget-friendly-platform/"><u>[Updated] 2024 Approved Recording Webinars on a Budget-Friendly Platform</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-crafting-engaging-life-journeys-in-video-formats-for-2024/"><u>[Updated] Crafting Engaging Life Journeys in Video Formats for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-leading-ipad-audio-recorder-software-list-3/"><u>[Updated] In 2024, Leading iPad Audio Recorder Software List #3</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gestion-de-conversions-dvd-and-video-par-digiarty-solutions-logiciel-specialisees/"><u>Gestion De Conversions DVD & Vidéo Par Digiarty : Solutions Logiciel Spécialisées</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-set-your-preferred-theme-and-font-in-the-windows-11-notepad/"><u>How to Set Your Preferred Theme and Font in the Windows 11 Notepad</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-3-ways-of-how-to-get-someones-apple-id-off-iphone-6-plus-without-password-by-drfone-ios/"><u>In 2024, 3 Ways of How to Get Someones Apple ID Off iPhone 6 Plus without Password</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-powershell-activating-script-policies/"><u>Mastering Windows PowerShell: Activating Script Policies</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-microsoft-windows-update-setbacks-0xca00a009/"><u>Navigating Microsoft Windows Update Setbacks: 0XCA00A009</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-ui-error-2-groovy-black-ops-cold-war-27711-is-fixed/"><u>Overcome UI Error 2 Groovy, Black Ops Cold War: 27711 Is Fixed!</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-for-windows-users-converting-your-mp3s-into-professional-audio-cds-using-imgburn/"><u>The Ultimate Guide for Windows Users: Converting Your MP3s Into Professional Audio Cds Using ImgBurn</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-mastering-cross-device-sticky-note-functionality/"><u>Windows 11: Mastering Cross-Device Sticky Note Functionality</u></a></li>
+</ul></div>
 

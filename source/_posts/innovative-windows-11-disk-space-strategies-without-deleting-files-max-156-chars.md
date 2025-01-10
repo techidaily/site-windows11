@@ -1,7 +1,7 @@
 ---
 title: Innovative Windows 11 Disk Space Strategies Without Deleting Files (Max 156 Chars)
-date: 2024-12-31T23:25:34.745Z
-updated: 2025-01-03T16:53:23.082Z
+date: 2025-01-08T22:47:51.379Z
+updated: 2025-01-10T18:22:46.749Z
 tags:
   - windows10
   - windows11
@@ -31,11 +31,11 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 
 ![The Compress this drive to save disk space checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/compress-this-drive-to-save-space-option.jpg)
 
- Exactly how much drive space NTFS compression will free up can be variable. If you have many uncompressed user document files on your drive, then NTFS will likely free up at least a few gigabytes of storage space. However, this compression won’t free up so much space if there aren’t many user files on your PC’s drive. The only way to find out is to try it on at least one large folder.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Exactly how much drive space NTFS compression will free up can be variable. If you have many uncompressed user document files on your drive, then NTFS will likely free up at least a few gigabytes of storage space. However, this compression won’t free up so much space if there aren’t many user files on your PC’s drive. The only way to find out is to try it on at least one large folder.
 
 ## 2\. Disable System Restore
 
@@ -55,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 
  If you prefer to keep **System Restore** on, you can still at least reduce that utility’s disk usage. To do so, drag the **Max Usage** bar’s slider left on the System Protection window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Convert Your Saved Video Files Into the MP4 Format
 
  Video files can take up lots of hard drive space, especially for longer clips. If you have lots of AVI and MOV files saved, converting them to the MP4 format will free up some storage space on your hard drive. MP4 is a compressed video format that preserves a good degree of picture quality.
@@ -70,6 +74,10 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 ![The Choose File button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/from-a-device-option.jpg)
 5. Press **Open** to add the selected videos.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click **Start** to convert the video to MP4\.
 7. Select **Download** to save the converted MP4 videos.
 
@@ -84,7 +92,7 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 ![The image format conversion web app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/image-format-conversion-tool.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Reduce the Recycle Bin’s Size
@@ -100,11 +108,11 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 4. Click **Apply** and **OK** in the Recycle Bin Properties window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Create ZIP Archives for Storing Files
@@ -115,10 +123,6 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 
 ![The Compress to ZIP file option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/compress-to-zip-file-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Save Files to a Cloud Storage Service
 
  Cloud storage enables you to save your user files with online storage providers. OneDrive, Dropbox, and Google Drive are the big three cloud storage providers that offer free storage ranging from two to 15 gigabytes. OneDrive is the cloud storage included with Windows 11\. However, Google Drive offers the most space with 15 gigabytes of free cloud storage.
@@ -128,7 +132,7 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 ![Google Drive cloud storage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/google-drive-storage.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Utilize Third-Party Web Apps and Portable Programs
@@ -142,10 +146,6 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
  Utilizing portable apps is another good way to save drive space, because you don't need to install them. You can even run the portable apps from a USB stick instead of your PC’s local drive. To do so, download the files for portable app versions to your USB stick from their websites.
 
  You can also [add a portable app menu to Windows 11](https://www.makeuseof.com/windows-add-portable-software-menu/#) with software like LiberKey and SyMenu. The [PortableApps](https://portableapps.com/) program also enables you to install and access many portable apps from a dedicated menu.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Free Up Your Windows Drive Space Without Deleting a Thing
 
@@ -165,16 +165,20 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-precision-in-action-3-methods-for-gaming-footage/"><u>[New] In 2024, Precision in Action 3 Methods for Gaming Footage</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-visual-branding-in-small-business-marketing/"><u>[New] In 2024, Visual Branding in Small Business Marketing</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-unraveling-successs-secrets-how-to-amass-more-subscribers-on-youtube-for-2024/"><u>[Updated] Unraveling Success's Secrets How to Amass More Subscribers on YouTube for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-video-affiliates-a-roadmap-to-financial-growth/"><u>[Updated] Video Affiliates A Roadmap to Financial Growth</u></a></li>
-<li><a href="https://windows11.techidaily.com/breached-byte-bastion-maintain-reflect-then-switch/"><u>Breached Byte Bastion: Maintain, Reflect, Then Switch</u></a></li>
-<li><a href="https://windows11.techidaily.com/customizing-home-screen-preferences-on-w11-os/"><u>Customizing Home Screen Preferences on W11 OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/design-dilemma-overcoming-unexpected-screen-shades/"><u>Design Dilemma: Overcoming Unexpected Screen Shades</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-updated-amd-radeon-pro-w5700-driver-for-enhanced-performance-on-windows-platforms/"><u>Download Updated AMD Radeon Pro W5700 Driver for Enhanced Performance on Windows Platforms</u></a></li>
-<li><a href="https://review-topics.techidaily.com/reinstall-your-drivers-with-device-manager-in-windows-10-by-drivereasy-guide/"><u>Reinstall your drivers with Device Manager in Windows 10</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719270325227-seeking-help-navigate-through-windows-troubles-easily/"><u>Seeking Help? Navigate Through Windows Troubles Easily</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/senior-years-enhanced-by-new-linguistic-skills/"><u>Senior Years, Enhanced by New Linguistic Skills</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-elite-action-cameras-for-thrill-seekers/"><u>[New] 2024 Approved Elite Action Cameras for Thrill Seekers</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-blue-bands-promise-tips-for-longevity/"><u>[Updated] 2024 Approved The Blue Bands Promise Tips for Longevity</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-elevate-your-video-visibility-ethically-one-million-in-views-for-2024/"><u>[Updated] Elevate Your Video Visibility Ethically One Million in Views for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-samsung-galaxy-m54-5g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Samsung Galaxy M54 5G Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-navigating-through-channels-aesthetics-with-these-tools/"><u>In 2024, Navigating Through Channels' Aesthetics with These Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-excel-tips-how-to-create-bullet-point-items-in-your-spreadsheets-easily/"><u>Mastering Excel Tips: How To Create Bullet Point Items In Your Spreadsheets Easily</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-excel-a-step-by-step-guide-to-using-exponents/"><u>Mastering Excel: A Step-by-Step Guide to Using Exponents</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-microsoft-excel-a-comprehensive-guide-to-utilizing-round-functions/"><u>Mastering Microsoft Excel: A Comprehensive Guide to Utilizing Round Functions</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-pictorial-data-representation-embedding-pictures-into-ms-excel-worksheets/"><u>Mastering Pictorial Data Representation: Embedding Pictures Into MS Excel Worksheets</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-quick-freezing-of-selected-row-groups-in-ms-excel-a-step-by-step-guide/"><u>Mastering the Quick Freezing of Selected Row Groups in MS Excel: A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-guide-fixed-and-the-specific-features-of-excel-like-cell-dimensions-setting-fixed-columns-and-rows/"><u>Mastering, Guide, Fixed, and the Specific Features of Excel Like Cell Dimensions, Setting Fixed Columns, and Rows.</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-fcpx-on-a-budget-10-essential-free-plugins/"><u>New 2024 Approved FCPX on a Budget 10 Essential Free Plugins</u></a></li>
+<li><a href="https://windows11.techidaily.com/one-click-syncing-of-ms-excel-workbooks-with-onedrive-explained/"><u>One-Click Syncing of MS Excel Workbooks with OneDrive Explained</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/say-goodbye-to-crashes-fnaf-pc-version-corrects-the-infamous-security-breach-issue/"><u>Say Goodbye to Crashes: FNAF PC Version Corrects the Infamous 'Security Breach' Issue</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-fix-for-pc-users-experiencing-game-crashes-with-madden-20-edition/"><u>Step-by-Step Fix for PC Users Experiencing Game Crashes with Madden '20 Edition</u></a></li>
 </ul></div>
 

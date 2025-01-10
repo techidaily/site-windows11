@@ -1,7 +1,7 @@
 ---
 title: "Revel in Easy Entry: Unlocking Windows 11'S Application Archive"
-date: 2024-12-29T00:04:21.628Z
-updated: 2025-01-03T22:46:53.094Z
+date: 2025-01-04T22:37:07.744Z
+updated: 2025-01-10T18:03:39.093Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/3ad4f7e8b48f19c37105255d0826afad52f6608be
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Open AppsFolder Using Run Command
 
  You can use the Run command to quickly open programs and files on your computer. Here's how to do it:
@@ -32,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/3ad4f7e8b48f19c37105255d0826afad52f6608be
 1. Press **Win + R** to [open the Run command](https://www.makeuseof.com/windows-open-run-command-dialog-box/).
 2. Type **shell:AppsFolder** into the text field and hit Enter.  
 ![Open AppsFolder Using Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-appsfolder-using-run-command.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The AppsFolder opens up in its own window, where you can view and manage the applications installed on your computer.
 
@@ -57,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/3ad4f7e8b48f19c37105255d0826afad52f6608be
 3. Type **shell:AppsFolder** in the dialog box and click **OK**.  
 ![Open AppsFolder Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-appsfolder-using-task-manager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The AppsFolder window shows all the programs and apps installed on your computer.
 
 ## 4\. How to Open AppsFolder Using Command Prompt
@@ -69,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/3ad4f7e8b48f19c37105255d0826afad52f6608be
 ![Open AppsFolder Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-appsfolder-using-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. How to Open AppsFolder Using Windows PowerShell
@@ -94,11 +98,11 @@ thumbnail: https://thmb.techidaily.com/3ad4f7e8b48f19c37105255d0826afad52f6608be
 
 ![Name the Desktop Shortcut key-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/name-the-desktop-shortcut-key-1.jpg)
 
- You'll see an Apps Folder shortcut icon appear on your desktop. Double-click it to open the AppsFolder window and manage your apps.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ You'll see an Apps Folder shortcut icon appear on your desktop. Double-click it to open the AppsFolder window and manage your apps.
 
 ## 7\. How to Open AppsFolder Using a Shortcut Key
 
@@ -110,14 +114,10 @@ thumbnail: https://thmb.techidaily.com/3ad4f7e8b48f19c37105255d0826afad52f6608be
 ![Open AppsFolder Using Shortcut Key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-appsfolder-using-shortcut-key.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The shortcut key will appear next to the **Ctrl + Alt** options. You can now quickly open the AppsFolder with this keyboard shortcut.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Getting to the AppsFolder Quickly on Windows
 
@@ -135,24 +135,19 @@ thumbnail: https://thmb.techidaily.com/3ad4f7e8b48f19c37105255d0826afad52f6608be
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-8-budget-friendly-cross-platform-video-conferencing-tools-revealed-for-2024/"><u>[New] 8 Budget-Friendly, Cross-Platform Video Conferencing Tools Revealed for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-apples-finest-free-apps-to-perfect-your-selfies/"><u>[New] Apple's Finest FREE Apps to Perfect Your Selfies</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/kyrocket-your-channels-reach-secure-a-10k-views-milestone-for-2024/"><u>[New] Skyrocket Your Channel's Reach Secure a 10K Views Milestone for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-top-10-most-immersive-youtube-vr-films/"><u>[Updated] In 2024, Top 10 Most Immersive YouTube VR Films</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-oneplus-nord-n30-5g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your OnePlus Nord N30 5G | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/7-methods-for-correcting-unreachable-display-responses-in-windows/"><u>7 Methods for Correcting Unreachable Display Responses in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-faulty-alerts-from-windows-10s-shield/"><u>Addressing Faulty Alerts From Windows 10'S Shield</u></a></li>
-<li><a href="https://windows11.techidaily.com/batch-folder-generation-in-windows-11-for-efficiency-boost/"><u>Batch Folder Generation in Windows 11 for Efficiency Boost</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-asus-rog-phone-7-ultimate-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Asus ROG Phone 7 Ultimate Fingerprint Lock</u></a></li>
-<li><a href="https://windows11.techidaily.com/boosting-print-speed-on-pcs-tips-for-windows-users/"><u>Boosting Print Speed on PCs: Tips for Windows Users</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/bring-back-the-colors-in-twitch-streams/"><u>Bring Back the Colors in Twitch Streams</u></a></li>
-<li><a href="https://windows11.techidaily.com/clearing-windows-java-installation-roadblocks/"><u>Clearing Windows Java Installation Roadblocks</u></a></li>
-<li><a href="https://windows11.techidaily.com/converting-your-notepad-to-nighttime-mode-with-ease-on-windows-11/"><u>Converting Your Notepad to Nighttime Mode with Ease on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/coordinating-connections-dual-net-usage-on-a-single-windows-pc/"><u>Coordinating Connections: Dual Net Usage on a Single Windows PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/credential-control-in-win11-quick-ways-to-unlock-passwords/"><u>Credential Control in Win11: Quick Ways to Unlock Passwords</u></a></li>
-<li><a href="https://windows11.techidaily.com/decrease-resource-load-managing-news-app-consumption/"><u>Decrease Resource Load: Managing News App Consumption</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/explore-our-handpicked-selection-of-heartwarming-family-flicks-on-amazon-prime-video-july-edition/"><u>Explore Our Handpicked Selection of Heartwarming Family Flicks on Amazon Prime Video - July Edition</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exploring-the-latest-upgrades-in-new-visionos-2-revealed-at-apples-worldwide-developers-conference-insights-and-curiosities/"><u>Exploring the Latest Upgrades in New VisionOS 2 Revealed at Apple's Worldwide Developers Conference - Insights and Curiosities</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-4-effective-methods-fake-gps-location-on-apple-iphone-14ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Effective Methods Fake GPS Location on Apple iPhone 14/iPad | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-most-effective-macos-sierra-video-coders-for-2024/"><u>[New] Most Effective MacOS Sierra Video Coders for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-streamlining-podcast-feed-creation-techniques-for-2024/"><u>[New] Streamlining Podcast Feed Creation Techniques for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-fine-tuning-snapchat-video-velocity/"><u>[New] The Ultimate Guide Fine-Tuning Snapchat Video Velocity</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-harnessing-the-power-of-post-production-colors/"><u>[Updated] Harnessing the Power of Post-Production Colors</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-androids-leading-video-tiles-ranked-8-freepaid-collage-creators/"><u>[Updated] In 2024, Android's Leading Video Tiles Ranked #8-Free/Paid Collage Creators</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dive-into-the-asus-zenbook-s16s-performance-an-in-depth-test-of-its-built-in-amd-ryzen-ai-nine-series-cpu/"><u>Dive Into the Asus Zenbook S16's Performance: An In-Depth Test of Its Built-In AMD RYZEN AI Nine Series CPU</u></a></li>
+<li><a href="https://windows11.techidaily.com/filter-outuseless-windows-updates/"><u>Filter Outuseless Windows Updates</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-motorola-edgeplus-2023-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Motorola Edge+ (2023) Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-windows-11-8-key-avoidances-for-smooth-sailing/"><u>Navigating Windows 11: 8 Key Avoidances for Smooth Sailing</u></a></li>
+<li><a href="https://windows11.techidaily.com/reversing-the-trend-of-failed-ea-server-connectivity/"><u>Reversing the Trend of Failed EA Server Connectivity</u></a></li>
+<li><a href="https://windows11.techidaily.com/speeding-up-sluggish-excel-troubleshooting-steps-for-windows-users/"><u>Speeding Up Sluggish Excel: Troubleshooting Steps for Windows Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-your-ipods-delayed-operating-system-installation-using-these-6-methods/"><u>Troubleshoot Your iPod's Delayed Operating System Installation Using These 6 Methods</u></a></li>
+<li><a href="https://windows11.techidaily.com/validating-or-rejecting-window-login-attempts-with-precision/"><u>Validating or Rejecting Window Login Attempts with Precision</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-back-lost-apps-expert-methods-for-off-screen-window-restoration/"><u>Win Back Lost Apps: Expert Methods for Off-Screen Window Restoration</u></a></li>
 </ul></div>
 

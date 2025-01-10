@@ -1,7 +1,7 @@
 ---
 title: "Reawaken Your Computer's USB: A Quick Fix Guide, Windows"
-date: 2025-01-03T00:12:43.649Z
-updated: 2025-01-03T23:11:43.651Z
+date: 2025-01-06T18:55:19.222Z
+updated: 2025-01-10T19:26:44.316Z
 tags:
   - windows10
   - windows11
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Think Your USB Port Is Not Working? Test It
 
@@ -46,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 
  Finally, grab a USB cable (or flash drive) and gently wiggle it around. If the drive is moving and feels loose---typically this will be up and down---then you have a problem.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Fix a Broken USB Port on PC and Laptop
 
  We'll look at some software fixes in a moment, but first, what if the USB port is loose?
@@ -62,10 +62,6 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 
  Of course, you could take this to an expert for repair, but there will be associated costs with this. If you want to do it yourself, make sure you [learn how to solder](http://www.makeuseof.com/tag/learn-solder-simple-tips-projects/). If you're not sure, check out the software fixes first.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Can Restarting a Computer Fix Broken USB Ports?
 
  "Have you tried turning it off and back on again?"
@@ -75,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
  With your unrecognized USB device correctly inserted into the suspect USB port, restart your computer. Once the operating system has rebooted, it should detect the USB device. If not, it's worth looking at the device in the Windows device manager.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Check USB Ports on Windows 10 With Device Manager
@@ -92,16 +88,20 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 ![Find the USB Host Controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/muo-diy-fix-USB-ports-device-mgr-host-controller.png)
 4. Right-click USB Host Controller (and any duplicates) and select **Uninstall**  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Uninstall USB Host Controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/muo-diy-fix-USB-ports-device-mgr-host-controller-uninstall.png)
 5. Restart your computer
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. If no USB Host Controller is listed, click **Scan for hardware changes** on the toolbar
 
  If you're using a USB mouse and keyboard, it will be disabled while the USB Host Controllers are uninstalled.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Have Power Settings Stopped Your USB Ports Working?
 
@@ -128,10 +128,6 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 
  You should find that any USB ports that were not working have now been fixed.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## USB Port Still Not Working? Reset the BIOS/UEFI Settings
 
  Your BIOS/UEFI exists to help provide a low-level interface between the hardware, software, and firmware on your computer. In other words, it helps all the major components of your PC combine and work together. In terms of specific functions, it helps you carry out the boot-up process, hardware initialization, system configuration, firmware updates, and so on.
@@ -139,6 +135,10 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
  It's no wonder, then, that any tampered settings in your BIOS or UEFI will leave a variety of problems in its wake, including a malfunctioning USB port. So if you've reason to believe something has gone wrong with the BIOS/UEFI settings, we suggest resetting its settings.
 
  Check out [how to enter the BIOS settings on Windows](https://www.makeuseof.com/tag/enter-bios-computer/) for instructions. If it was indeed a faulty BIOS/ UEFI stopping your USB port from working properly, then everything will be back to normal after a reset.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## You've Fixed Your Broken USB Port
 
@@ -156,22 +156,24 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-restoring-hidden-watch-icon-for-optimal-experience/"><u>[New] In 2024, Restoring Hidden Watch Icon for Optimal Experience</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-ultimate-free-drawing-tools-top-mac-apps-listed/"><u>[New] Ultimate Free Drawing Tools Top Mac Apps Listed</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-accessing-shared-media-in-facebook-messenger-how-for-2024/"><u>[Updated] Accessing Shared Media in Facebook Messenger How for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/7-curious-design-choices-that-differ-from-w10/"><u>7 Curious Design Choices That Differ From W10</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-simple-guide-for-correcting-lsassexe-issue/"><u>A Simple Guide for Correcting 'lsass.exe' Issue</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-screen-flickers-on-microsoft-os/"><u>Addressing Screen Flickers on Microsoft OS</u></a></li>
-<li><a href="https://driver-install.techidaily.com/boosting-wifi-with-easy-bluetooth-driver-updates/"><u>Boosting WiFi with Easy Bluetooth Driver Updates</u></a></li>
-<li><a href="https://windows11.techidaily.com/controlling-application-spaces-in-windows-task-mgr/"><u>Controlling Application Spaces in Windows Task Mgr</u></a></li>
-<li><a href="https://windows11.techidaily.com/deciphering-the-code-of-high-quality-visuals-with-windows-11-hdr/"><u>Deciphering the Code of High-Quality Visuals with Windows 11 HDR</u></a></li>
-<li><a href="https://windows11.techidaily.com/demystifying-microsoft-family-safety-functions/"><u>Demystifying Microsoft Family Safety Functions</u></a></li>
-<li><a href="https://windows11.techidaily.com/disabling-microsoft-store-failure-codes-x800704cf/"><u>Disabling Microsoft Store Failure Codes X800704CF</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-enable-disable-and-change-safari-location-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>How to Enable, Disable, and Change Safari Location on Apple iPhone X | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-oneplus-nord-n30-5g-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass OnePlus Nord N30 5G FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Samsung Galaxy M34 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-optimize-tasks-the-8-superior-facebook-schedulers/"><u>In 2024, Optimize Tasks The 8 Superior Facebook Schedulers</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719355454943-opera-installer-dilemma-on-windows-solutions-now/"><u>Opera Installer Dilemma on Windows - Solutions Now</u></a></li>
-<li><a href="https://ai-video.techidaily.com/updated-in-2024-top-7-online-auto-subtitle-translators-for-content-creators/"><u>Updated In 2024, Top 7 Online Auto Subtitle Translators for Content Creators</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-apowersoft-capture-app-reviewed/"><u>[New] 2024 Approved Apowersoft Capture App Reviewed</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-find-the-top-8-video-communication-apps-for-android-groups-for-2024/"><u>[New] Find the Top 8 Video Communication Apps for Android Groups for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-picture-in-progressive-screen-mastery-for-chrome-users-across-platforms/"><u>[Updated] 2024 Approved Picture in Progressive Screen Mastery for Chrome Users Across Platforms</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-say-no-to-latency-turn-on-av1-in-youtube-settings/"><u>[Updated] In 2024, Say No to Latency Turn On AV1 in YouTube Settings</u></a></li>
+<li><a href="https://discover-help.techidaily.com/choosing-the-ideal-voice-assistant-a-comparative-review-of-apples-homepod-and-amazons-echo/"><u>Choosing the Ideal Voice Assistant: A Comparative Review of Apple's HomePod and Amazon's Echo</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/611466-9781770700222-death/"><u>Death | Free Book</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-mac-gif-mastery-find-the-best-10-recorders/"><u>In 2024, Mac GIF Mastery Find the Best 10 Recorders</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-your-journey-to-glamorous-guruship-launching-an-aesthetic-channel/"><u>In 2024, Your Journey to Glamorous Guruship Launching an Aesthetic Channel</u></a></li>
+<li><a href="https://windows11.techidaily.com/integrating-unique-lock-patterns-in-windows-11-systems/"><u>Integrating Unique Lock Patterns in Windows 11 Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/preserve-your-tailored-powertoys-environment-at-new-devices/"><u>Preserve Your Tailored PowerToys Environment at New Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/supercharge-ssds-in-windows-mastery-of-ssd-fresh/"><u>Supercharge SSDs in Windows - Mastery of SSD Fresh</u></a></li>
+<li><a href="https://windows11.techidaily.com/swift-solutions-for-stuck-windows-update-fixers/"><u>Swift Solutions for Stuck Windows Update Fixers</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-6-brightness-tools-for-windows-multi-screen-setups/"><u>Top 6 Brightness Tools for Windows Multi-Screen Setups</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-unretrievable-graphics-settings-via-geforce-experience-windows-11/"><u>Troubleshooting Unretrievable Graphics Settings via GeForce Experience, Windows 11</u></a></li>
+<li><a href="https://win-special.techidaily.com/troubleshooting-overcoming-installation-lockup-in-version-906-of-emeditor-software/"><u>Troubleshooting: Overcoming Installation Lockup in Version 9.06 of EmEditor Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/uncovering-the-invisible-workers-in-win11/"><u>Uncovering the Invisible Workers in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-the-masters-realm-command-center-admin-panel/"><u>Unlocking The Master's Realm: Command Center Admin Panel</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-wacatacbml-mystery-and-removal-guide-for-windows-pcs/"><u>Unveiling: The Wacatac.B!ml Mystery & Removal Guide for Windows PCs</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-selecting-the-premier-windows-application-for-auditory-emptying-in-videos/"><u>Updated In 2024, Selecting the Premier Windows Application for Auditory Emptying in Videos</u></a></li>
 </ul></div>
 

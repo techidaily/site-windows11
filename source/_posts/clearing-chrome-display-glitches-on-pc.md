@@ -1,7 +1,7 @@
 ---
 title: Clearing Chrome Display Glitches on PC
-date: 2024-08-08T05:57:54.667Z
-updated: 2024-08-09T05:57:54.667Z
+date: 2025-01-06T22:18:59.980Z
+updated: 2025-01-10T20:18:07.816Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/b4ed3f08ab6e820bb58ff66c5f5e67696c65d753e
 
  If you don't want to give up on your favorite browser just yet, this guide will walk you through some quick fixes for resolving the Google Chrome black screen issue.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix the Google Chrome Black Screen Issue With a Quick Workaround
 
  An easy way to fix Google Chrome black screen issue on Windows is to resize the browser window. This is a temporary fix that you can use if you don’t have time to figure out what’s causing the problem.
@@ -33,11 +30,12 @@ thumbnail: https://thmb.techidaily.com/b4ed3f08ab6e820bb58ff66c5f5e67696c65d753e
 
 ![Force Close Chrome Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/force-close-chrome-using-task-manager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Relaunch Chrome after a moment and see if the black screen issue is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## 1\. Run the Program Compatibility Troubleshooter
 
  An app or program could fail to load properly on your computer if the compatibility mode settings are incorrect. If you suspect that to be the case, run the Program Compatibility Troubleshooter by following the steps below.
@@ -47,16 +45,14 @@ thumbnail: https://thmb.techidaily.com/b4ed3f08ab6e820bb58ff66c5f5e67696c65d753e
 3. Click**Run compatibility troubleshooter** .
 4. Select**Try recommended settings** .
 5. Click**Test the program** to open Chrome in compatibility mode.  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Run Chrome in Compatibility Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/run-chrome-in-compatibility-mode.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If Google Chrome opens and functions normally, return to the troubleshooter and select**Yes, save these settings for this program** option. Following that, Google Chrome will open with the saved compatibility settings, and the issue will be resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Disable Hardware Acceleration
 
  When you enable [hardware acceleration](https://www.makeuseof.com/what-is-hardware-acceleration/) in Chrome, the browser uses your GPU instead of your CPU for tasks that require a lot of graphical processing power. However, this feature can sometimes fail to work and cause problems.
@@ -81,16 +77,14 @@ To disable extensions in Google Chrome:
 1. Open Google Chrome and click the**three-dot menu icon** in the top right corner.
 2. Hover the cursor over**More tools** and then select**Extensions** from the submenu.
 3. Use the toggles to disable all your extensions.  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![Disable Chrome Extensions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-chrome-extensions.jpg)
 
  Restart Chrome after this and see if the black screen issue occurs again. If this solves your problem, it means one of the extensions you disabled was the culprit. To find out which extension was causing the problem, you can re-enable your extensions one by one. Once you find the problematic extension, you can consider updating it or removing it from Chrome.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Reset Chrome Flags
 
  Have you recently altered any of the Chrome Flags? If so, you could encounter issues as these features are not as thoroughly tested as other parts of the browser. If you suspect that the black screen issue in Google Chrome is caused by a Chrome flag, here's how you can reset Chrome flags.
@@ -98,9 +92,6 @@ To disable extensions in Google Chrome:
 1. In Google Chrome, type**chrome://flags** in the address bar at the top and press**Enter** .
 2. Click the**Reset all** button in the top right corner.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![Reset Chrome Flags](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-chrome-flags.jpg)
 
  Restart Chrome after this and check if the black screen issue is resolved.
@@ -117,7 +108,15 @@ To disable extensions in Google Chrome:
 4. Select the**Reset settings** option to confirm.  
 ![Reset Google Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-google-chrome.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Check out [how to fix issues in Chrome and Firefox with a browser reset](http://www.makeuseof.com/tag/reset-chrome-firefox/) for more information.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Reinstall Google Chrome
 
@@ -141,14 +140,11 @@ To uninstall Google Chrome on your Windows computer, use these steps.
 
  If you've gone tired of such issues with Google Chrome, it might be a good idea to try a different browser, such as Microsoft Edge or Firefox.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -157,6 +153,24 @@ To uninstall Google Chrome on your Windows computer, use these steps.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-mapping-your-marketing-journey-on-youtube/"><u>[New] Mapping Your Marketing Journey on YouTube</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-nighttime-nirvana-with-asmr-select-artists/"><u>[Updated] Nighttime Nirvana with ASMR Select Artists</u></a></li>
+<li><a href="https://windows11.techidaily.com/fix-unsynchronized-file-uploads-in-chrome-win-edition/"><u>Fix Unsynchronized File Uploads in Chrome, Win Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/fix-your-teammers-disconnected-screens/"><u>Fix Your Teammers’ Disconnected Screens</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-audio-issues-how-to-restore-sounds-in-google-chrome/"><u>Fixing Audio Issues: How to Restore Sounds in Google Chrome</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-iphone-se-2020-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone SE (2020) After Forgetting the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-honor-90-gt-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Honor 90 GT? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-submission-a-podcasters-guide/"><u>In 2024, Streamlining Submission A Podcaster's Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-mouse-drivers-for-efficient-windows-use/"><u>Mastering Mouse Drivers for Efficient Windows Use</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximizing-efficiency-with-customized-troubleshooters-shortcuts/"><u>Maximizing Efficiency with Customized Troubleshooters Shortcuts</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-admin-controlled-feature-malfunctions-on-windows-11/"><u>Overcoming Admin Controlled Feature Malfunctions on Windows 11</u></a></li>
+<li><a href="https://video-capture.techidaily.com/panopticam-review-breakdown/"><u>PanoptiCam Review Breakdown</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/poweradd-pilot-pro2-reviewed-exceptional-capacity-to-keep-all-your-gadgets-juiced-up/"><u>POWERADD Pilot Pro2 Reviewed - Exceptional Capacity to Keep All Your Gadgets Juiced Up</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/premier-baking-studio-best-cookies-to-try-and-buy/"><u>Premier Baking Studio Best Cookies to Try and Buy</u></a></li>
+<li><a href="https://windows11.techidaily.com/speedy-windows-discord-cutting-down-latency-issues/"><u>Speedy Windows Discord: Cutting Down Latency Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/tweaking-taskbar-width-in-win11/"><u>Tweaking Taskbar Width in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-global-communication-navigating-languages-with-shortcuts-on-windows/"><u>Unlock Global Communication: Navigating Languages with Shortcuts on Windows</u></a></li>
+</ul></div>
 

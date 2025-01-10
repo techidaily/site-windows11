@@ -1,7 +1,7 @@
 ---
 title: Navigating Through Memory Diagnostic Failures
-date: 2025-01-01T19:30:43.053Z
-updated: 2025-01-03T18:01:26.909Z
+date: 2025-01-04T18:37:28.159Z
+updated: 2025-01-10T20:19:31.278Z
 tags:
   - windows10
   - windows11
@@ -25,13 +25,13 @@ thumbnail: https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc7
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Causes the Windows Memory Diagnostic Hardware Problems Were Detected Error?
 
  This error is often triggered after a blue screen of death (BSOD) or the system freezing issues. The reason for the error can vary and include faulty memory slots and memory sticks. It can also be a false positive due to a Windows OS glitch.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Check for Overclocking Issues
 
@@ -60,14 +60,10 @@ thumbnail: https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc7
 5. It will scan your computer for issues, which may take a few minutes. If an issue is detected, select to automatically apply the repair.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. If the suggested problem is unrelated to memory, you can skip it to see the next problem. The troubleshooter will detect additional issues. If an issue is found, apply the fixes and check for any improvements.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Remove and Reinsert Your Memory Sticks
 
@@ -97,10 +93,18 @@ thumbnail: https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc7
 ![memtest86 plus create bootable usb drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/memtest86-plus-create-bootable-usb-drive.jpg)
 4. Click **Next** and wait for the installer to create a bootable drive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Next, if you haven’t already, [disable Secure Boot on your Windows computer](https://www.makeuseof.com/tag/disable-secure-uefi-dual-boot/).
 6. Next, power off your computer. You may also need to clear your motherboard CMOS to reset your BIOS to factory default settings. You can also [reset BIOS to its default configuration](https://www.makeuseof.com/tag/reset-bios-default-settings-computer/) from the BIOS menu.  
 ![memtest86 plus memory integrity test in progress](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/memtest86-plus-memory-integrity-test-in-progress.png)
 7. Next, plug the Memtest86+ bootable USB drive into your computer and turn it on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 8. Boot into the Boot Menu and select the bootable USB drive as the boot device. The hotkey key to enter the Boot Menu may vary depending on your computer manufacturer. You can press **F9** on an **HP** computer, **F12** on a **Dell** computer and so on to access the **Boot Menu**.
 9. Memtest86+ will automatically start the memory integrity check. Let Memtest86+ complete at least 2 passes; the more, the better. Press the **Esc** key to stop the test if there are no errors after multiple passes.
@@ -110,7 +114,7 @@ thumbnail: https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc7
  Not all the errors detected by the Memtest86+ are due to faulty hardware. Some errors may occur due to compatibility issues. Check your RAM module and the motherboard specifications to determine any compatibility issues. You can also test the RAM modules by inserting them into a different motherboard and see if it works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Perform a Repair Reinstall or Clean Install Windows
@@ -118,10 +122,6 @@ thumbnail: https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc7
  If the Windows Memory Diagnostic tool continues to show the hardware problem was detected error, even after the Memtest86+ passed the test, check if the problem is due to issues with the Windows operating system.
 
  To fix critical issues with your Windows image, you can perform a [repair reinstall of Windows 11 without deleting apps](https://www.makeuseof.com/windows-11-reinstall-without-deleting-apps/). If that does not work, perform a clean install. This will reinstall the operating system but delete all your apps and data from the computer. So, backup any data you need before attempting a clean install.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixing the Memory Diagnostic Tool "Hardware Problem Detected" Error
 
@@ -141,18 +141,22 @@ thumbnail: https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-strategies-for-keeping-your-youtube-video-under-cc-accessible/"><u>[New] In 2024, Strategies for Keeping Your YouTube Video Under CC Accessible</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-simplified-techniques-for-capturing-vimeo-content/"><u>[New] Simplified Techniques for Capturing Vimeo Content</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-unlocking-the-code-a-guide-to-your-own-special-tiktok-hash/"><u>[Updated] 2024 Approved Unlocking the Code A Guide to Your Own Special TikTok Hash</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-first-frame-wins-fundamental-cinematography-for-newcomers-for-2024/"><u>[Updated] First Frame Wins Fundamental Cinematography for Newcomers for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-experts-guide-to-infinite-space-utilization/"><u>2024 Approved Expert's Guide to Infinite Space Utilization</u></a></li>
-<li><a href="https://windows11.techidaily.com/accelerate-vm-performance-on-windows-6-precise-tips-and-tricks/"><u>Accelerate VM Performance on Windows: 6 Precise Tips & Tricks</u></a></li>
-<li><a href="https://windows11.techidaily.com/boost-your-productivity-with-w11-desktop-organization/"><u>Boost Your Productivity with W11 Desktop Organization</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-leading-psp-ios-game-simulators-our-2023s-choices/"><u>In 2024, Leading PSP iOS Game Simulators - Our 2023'S Choices</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-ais-pitfalls-the-risks-of-chatbots-in-windows-keys/"><u>Navigating AI's Pitfalls: The Risks of Chatbots in Windows Keys</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimize-pc-performance-top-6-monitoring-apps-recommended-for-win/"><u>Optimize PC Performance: Top 6 Monitoring Apps Recommended for Win</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-vivo-s18-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Vivo S18 to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-for-controlling-file-compression-in-windows-11/"><u>Strategies for Controlling File Compression in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-phasing-out-of-microsofts-windows-xp-7-and-81-lifeline/"><u>The Phasing Out of Microsoft's Windows XP, 7 & 8.1 Lifeline</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-pathway-to-preserving-instagram-videos-with-ease-pcmac-methodology/"><u>[New] In 2024, Pathway to Preserving Instagram Videos with Ease (PC/Mac Methodology)</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-streamline-your-projects-with-these-9-budget-friendly-editors/"><u>[New] In 2024, Streamline Your Projects with These 9 Budget-Friendly Editors</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-innovative-ways-to-record-without-background-sounds/"><u>[New] Innovative Ways to Record Without Background Sounds</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streaming-stats-how-much-does-pewdiepie-earn/"><u>[Updated] Streaming Stats How Much Does PewDiePie Earn?</u></a></li>
+<li><a href="https://windows11.techidaily.com/guiding-principles-to-consider-in-a-new-os-rollout/"><u>Guiding Principles to Consider in a New OS Rollout</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xr-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XR without Passcode or Face ID</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-batch-conversion-heic-to-jpeg-in-windows-11/"><u>Mastering the Art of Batch Conversion: Heic to JPEG in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-background-run-of-microsoft-edge-on-win11/"><u>Navigating the Background Run of Microsoft Edge on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-windows-launch-directly-engage-file-explorer-through-onedrive/"><u>Optimizing Windows Launch: Directly Engage File Explorer Through OneDrive</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-game-pass-service-halt-in-win-os/"><u>Overcoming Game Pass Service Halt in Win OS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/pioneering-camera-spin-top-professionals-360cameras-of-2023/"><u>Pioneering Camera Spin Top Professionals’ 360°Cameras of 2023</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/progressive-visual-reveal-for-2024/"><u>Progressive Visual Reveal for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/re-initiate-audio-playback-on-frozen-systems/"><u>Re-Initiate Audio Playback on Frozen Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/solve-your-windows-dilemma-help-strategies-revealed/"><u>Solve Your Windows Dilemma: Help Strategies Revealed!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unleash-the-full-potential-of-your-iphone-with-secret-voice-control-tricks-learn/"><u>Unleash the Full Potential of Your iPhone with Secret Voice Control Tricks - Learn</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-outlook-preview-features-on-windows-11-platforms/"><u>Unveiling Outlook Preview Features on Windows 11 Platforms</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-intuitive-vocal-modification-mechanisms-an-insight-into-operational-aspects-standards-and-workarounds/"><u>Updated 2024 Approved Intuitive Vocal Modification Mechanisms An Insight Into Operational Aspects, Standards, and Workarounds</u></a></li>
 </ul></div>
 

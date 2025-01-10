@@ -1,7 +1,7 @@
 ---
 title: "Win 11'S Blanked Outspots: How to Replace Them"
-date: 2024-12-27T22:07:26.282Z
-updated: 2025-01-04T01:48:10.407Z
+date: 2025-01-07T21:57:46.928Z
+updated: 2025-01-10T21:40:50.603Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/72ad6224a96d1332d870ccac31eeed89a25da9895
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Enable Show Desktop Icons
 
  On Windows 11, you can show or hide desktop icons with a couple of clicks. So, if you’ve accidentally hidden your desktop icons, getting them back is fairly easy.
@@ -34,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/72ad6224a96d1332d870ccac31eeed89a25da9895
 ![Show Desktop Icons on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Show-Desktop-Icons-on-Windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Check Desktop Icon Settings
@@ -50,14 +54,10 @@ thumbnail: https://thmb.techidaily.com/72ad6224a96d1332d870ccac31eeed89a25da9895
 ![Desktop Icon Settings Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Desktop-Icon-Settings-Window.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you complete the above steps, your icons should appear on the desktop.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Restart Windows Explorer
 
@@ -71,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/72ad6224a96d1332d870ccac31eeed89a25da9895
  Your taskbar will disappear for a brief moment and then reappear. Following this, your desktop icons should be visible.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Rebuild Icon Cache
@@ -124,11 +124,7 @@ To rebuild icon cache on Windows 11:
 ![Enable Desktop Icons on Windows 11 via Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Enable-Deskop-Icons-on-Windows-11-via-Group-Policy-Editor-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Perform a System Restore
@@ -144,6 +140,10 @@ Follow these steps to perform a system restore on Windows:
 5. Select a restore point before the issue first appeared and hit**Next** .
 6. Click on**Finish** .  
 ![System Restore Dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/System-Restore-Dialog.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Wait for Windows to reboot and revert to the specified restore point. Following that, your desktop icons should appear.
 
@@ -178,18 +178,21 @@ Follow these steps to perform a system restore on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ecoming-a-skin-deep-sage-setting-up-your-beauty-channel/"><u>[New] Becoming a Skin-Deep Sage Setting Up Your Beauty Channel</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-top-5-mkv-player-picks-for-macos-enthusiasts/"><u>[New] In 2024, Top 5 MKV Player Picks for macOS Enthusiasts</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-examining-the-economic-impact-of-mr-beast/"><u>[Updated] Examining the Economic Impact of Mr. Beast</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-top-10-best-text-effects-for-your-video/"><u>[Updated] Top 10 Best Text Effects for Your Video</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-unleash-your-podcast-potential-with-cutting-edge-techniques/"><u>2024 Approved Unleash Your Podcast Potential with Cutting-Edge Techniques</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoid-disruption-fixing-windows-minecraft-errors/"><u>Avoid Disruption - Fixing Windows Minecraft Errors</u></a></li>
-<li><a href="https://windows11.techidaily.com/conquering-the-runtimeexception-a-users-guide-for-windows/"><u>Conquering the 'RuntimeException': A User's Guide for Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-another-program-uses-device-in-windows-sound-system/"><u>Correcting 'Another Program Uses Device' In Windows Sound System</u></a></li>
-<li><a href="https://windows11.techidaily.com/cutting-edge-tips-for-individualized-pattern-security-on-windows/"><u>Cutting-Edge Tips for Individualized Pattern Security on Windows</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/digital-dominion-rise-as-a-youtube-guru-for-2024/"><u>Digital Dominion Rise as a YouTube Guru for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-motorola-moto-g-5g-2023-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Motorola Moto G 5G (2023) Phone Now with These Tips</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/mastering-smart-exposure-the-ultimate-guide-to-hdr-tech-in-cameras-for-2024/"><u>Mastering Smart Exposure The Ultimate Guide to HDR Tech in Cameras for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719340671976-run-a-zero-cost-locally-accessible-gpt-on-your-pc-use-gpt4all/"><u>Run a Zero-Cost, Locally Accessible GPT on Your PC – Use GPT4All</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-eliminating-unsteadiness-from-high-altitude-cinematography/"><u>[New] Eliminating Unsteadiness From High-Altitude Cinematography</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-exclusive-youtube-snippet-access-high-quality-free-download/"><u>[New] Exclusive YouTube Snippet Access - High Quality, Free Download</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-no-cost-to-you-heres-a-list-of-7-free-editing-apps/"><u>[Updated] 2024 Approved No Cost to You? Here's a List of 7 Free Editing Apps</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-digital-resurrection-breathing-life-into-old-vhs-images/"><u>[Updated] In 2024, Digital Resurrection Breathing Life Into Old VHS Images</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-uncover-and-revive-inaudible-fb-video-posts-the-ultimate-list-of-12-fixes/"><u>[Updated] In 2024, Uncover & Revive Inaudible FB Video Posts – The Ultimate List of 12 Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/1-mastering-excel-a-step-by-step-guide-on-implementing-the-less-than-or-equal-to-operator/"><u>1. Mastering Excel: A Step-by-Step Guide on Implementing the 'Less than or Equal To' Operator</u></a></li>
+<li><a href="https://windows11.techidaily.com/ditch-the-expensive-software-mastering-project-management-with-just-excel/"><u>Ditch the Expensive Software - Mastering Project Management with Just Excel</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/learn-grow-thrive-with-mondly-in-ukraine/"><u>Learn, Grow, Thrive with Mondly in Ukraine</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-cell-references-seamlessly-linking-data-across-excel-workbooks/"><u>Mastering Cell References: Seamlessly Linking Data Across Excel Workbooks</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-number-formatting-how-to-precisely-add-prefixes-like-zeroes-in-excel-cells/"><u>Mastering Number Formatting: How To Precisely Add Prefixes Like Zeroes in Excel Cells</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-hidden-feature-starting-word-excel-and-powerpoint-with-enhanced-security-settings/"><u>Mastering the Hidden Feature: Starting Word, Excel, and PowerPoint with Enhanced Security Settings</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/navigating-stardew-the-complete-guide-to-ginger-for-2024/"><u>Navigating Stardew The Complete Guide to Ginger for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-dividing-data-across-several-excel-sheet-columns/"><u>Step-by-Step Guide: Dividing Data Across Several Excel Sheet Columns</u></a></li>
+<li><a href="https://win-community.techidaily.com/troubleshooting-a-non-functional-disk-drive-insights-from-yl-computings-expertise/"><u>Troubleshooting a Non-Functional Disk Drive: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-insights-in-numbers-a-guide-to-excel-quick-analysis-for-impactful-data-graphs-and-charts/"><u>Unlocking Insights in Numbers: A Guide to Excel Quick Analysis for Impactful Data Graphs and Charts</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/your-pathway-to-profit-the-most-straightforward-top-10-business-channels-on-youtube/"><u>Your Pathway to Profit The Most Straightforward Top 10 Business Channels on YouTube</u></a></li>
 </ul></div>
 

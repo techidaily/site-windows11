@@ -1,7 +1,7 @@
 ---
 title: Reviving Disconnected Steam Friends List (Wins11)
-date: 2024-12-28T00:16:18.043Z
-updated: 2025-01-03T18:09:29.611Z
+date: 2025-01-05T17:05:54.346Z
+updated: 2025-01-10T18:28:57.057Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Restart Steam
@@ -37,14 +37,10 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
 
 ![End Steam Client process from running](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/steam-task-manager-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Restart Steam and check if the issue is now fixed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Check Steam Friends & Chat Settings
@@ -58,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
 5. Restart Steam and check if you can connect to the network.
 
 ![Steam friends and chat settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/friends-chat-settings-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Opt Out of Steam’s Beta Participation
 
@@ -78,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
  Click **Apply** and **OK** to save the new settings and restart Steam.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Delete the Steam Appdata Folder
@@ -106,7 +106,7 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
 ![Delete Steam web cache](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/delete-steam-cache-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Get Back to Playing With Your Friends
@@ -125,18 +125,16 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-budding-buyers-guide-monetization-platforms-for-novice-channels/"><u>[New] 2024 Approved Budding Buyers Guide Monetization Platforms for Novice Channels</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-flashy-fiddles-short-form-melodic-roles/"><u>[New] In 2024, Flashy Fiddles Short Form Melodic Roles</u></a></li>
-<li><a href="https://windows11.techidaily.com/achieve-peak-performance-self-update-system-with-new-amd-drivers/"><u>Achieve Peak Performance: Self-Update System with New AMD Drivers</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-latency-issues-when-connecting-external-monitors/"><u>Addressing Latency Issues When Connecting External Monitors</u></a></li>
-<li><a href="https://windows11.techidaily.com/altering-start-page-in-windows-11-task-manager/"><u>Altering Start Page in Windows 11 Task Manager</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypassing-need-old-password-error-in-microsoft-windows/"><u>Bypassing 'Need Old Password' Error in Microsoft Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypassing-os-admin-error-run-blocked-apps/"><u>Bypassing OS Admin Error: Run Blocked Apps</u></a></li>
-<li><a href="https://windows11.techidaily.com/cant-open-the-credential-manager-on-windows-try-these-fixes/"><u>Can’t Open the Credential Manager on Windows? Try These Fixes</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ags-hack-skyrocket-your-video-popularity-for-2024/"><u>Hashtags Hack Skyrocket Your Video Popularity for 2024</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/identifying-gpu-overheat-expert-tips-and-solutions-yl-computings-guide/"><u>Identifying GPU Overheat: Expert Tips and Solutions - YL Computing's Guide</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/navigating-video-dimensions-a-focused-look-at-aspect-ratios-for-2024/"><u>Navigating Video Dimensions A Focused Look at ASPECT RATIOS for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/reinstall-hardware-drivers-with-device-manager-in-windows-11107-by-drivereasy-guide/"><u>Reinstall hardware drivers with Device Manager in Windows 11/10/7</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/value-in-the-air-the-cheapest-yet-effective-drones/"><u>Value in the Air The Cheapest Yet Effective Drones</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/hoosing-superior-tools-for-vocal-change-in-content-making-for-2024/"><u>[New] Choosing Superior Tools for Vocal Change in Content Making for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-extensive-review-gopro-hero4-slr4-black-edition/"><u>[New] Extensive Review GoPro Hero4 SLR4 Black Edition</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-capturing-your-laptop-simple-lenovo-steps/"><u>[Updated] 2024 Approved Capturing Your Laptop Simple Lenovo Steps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-unlock-the-potential-of-pc-games-recording-in-win10/"><u>2024 Approved Unlock the Potential of PC Games Recording in Win10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/guiding-through-windows-7-screenshake-solutions/"><u>Guiding Through Windows 7 Screenshake Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gaming-melodies-legal-downloadable-links/"><u>In 2024, Gaming Melodies Legal, Downloadable Links</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-honor-x9b-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Honor X9b Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimal-pc-protection-activating-tpm-and-secure-boot-in-win-11/"><u>Optimal PC Protection: Activating TPM & Secure Boot in Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/simplified-steps-to-alter-your-cursors-look/"><u>Simplified Steps to Alter Your Cursor's Look</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-upgraded-widget-choice-interface-in-win11/"><u>Unlocking Upgraded Widget Choice Interface in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/your-guide-to-next-gen-computing-at-ifa-2023/"><u>Your Guide to Next-Gen Computing at IFA 2023</u></a></li>
 </ul></div>
 

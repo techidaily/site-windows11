@@ -1,7 +1,7 @@
 ---
 title: "Lowering Memory Usage: Enhancing Platform User Service Efficiency"
-date: 2024-12-28T23:18:31.911Z
-updated: 2025-01-03T20:41:02.824Z
+date: 2025-01-07T19:35:44.433Z
+updated: 2025-01-10T22:49:04.055Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/8984f3e954dc5418ee2dd74f85120f2ef763c0382
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Disable Connected Devices Platform User Service
 
  The simplest way to stop Connected Devices Platform User Service from using too much RAM is to disable it. However, this might cause some unexpected behavior on your computer. And if that happens, you can always enable it again.
@@ -38,13 +42,13 @@ thumbnail: https://thmb.techidaily.com/8984f3e954dc5418ee2dd74f85120f2ef763c0382
 ![the-connected-device-platform-user-service-properties-windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/the-connected-device-platform-user-service-properties-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now, check Task Manager to see if the service is still consuming too much RAM.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Remove the ActivitiesCache.db file
@@ -59,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/8984f3e954dc5418ee2dd74f85120f2ef763c0382
 
  Once you do, restart your computer and see if Connected Devices Platform User Service is still causing RAM consumption issues.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Check for Issues With Your Computer's Hardware
 
  Sometimes, the problem could arise due to one of your connected devices experiencing a problem. To check if your connected devices are functioning properly, open Device Manager by pressing **Win + R**, enter **devmgmt.msc** in the text box, and then hit the **Enter** key on your keyboard.
@@ -70,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/8984f3e954dc5418ee2dd74f85120f2ef763c0382
 ![devmgmt.msc in Run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/devmgmt-msc.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In Device Manager, double-click the device you suspect is causing issues. This will open its properties window.
@@ -79,13 +79,13 @@ thumbnail: https://thmb.techidaily.com/8984f3e954dc5418ee2dd74f85120f2ef763c0382
 
 ![the-properties-window-of-a-device-on-windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/the-properties-window-of-a-device-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If it doesn't, you will see an error message and a code. Take note of both so you can start troubleshooting the problem. You can start by using [one of the troubleshooters on Windows](https://www.makeuseof.com/run-troubleshooter-windows-10-11/) to check for and fix the hardware problem you're seeing.
 
  If all the steps above don't work then you might need to [use a system restore point](https://www.makeuseof.com/use-system-restore-windows/) that you created before it started using too much RAM. And if that doesn't work as well, you might have to reset your Windows computer
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Free Your RAM From Connected Devices Platform User Service
 
@@ -103,22 +103,24 @@ thumbnail: https://thmb.techidaily.com/8984f3e954dc5418ee2dd74f85120f2ef763c0382
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-best-8-3d-gold-text-effect-websites/"><u>[New] 2024 Approved Best 8 3D Gold Text Effect Websites</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-best-budget-friendly-digital-screen-reader/"><u>[New] Best Budget-Friendly Digital Screen Reader</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-socialvideo-saver-messenger-edition-for-2024/"><u>[New] SocialVideo Saver – Messenger Edition for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1-top-7-usb-iso-tools-for-quick-disc-imaging-and-extraction/"><u>1. Top 7 USB ISO Tools For Quick Disc Imaging & Extraction</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-novel-approach-to-combining-data-units-on-windows-11/"><u>A Novel Approach to Combining Data Units on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-windows-photos-problem-package-not-registered/"><u>Addressing Windows Photos Problem - Package Not Registered</u></a></li>
-<li><a href="https://windows11.techidaily.com/advanced-windows-techniques-for-diverse-partition-merging/"><u>Advanced Windows Techniques for Diverse Partition Merging</u></a></li>
-<li><a href="https://windows11.techidaily.com/augmenting-macos-capabilities-via-windows-applications/"><u>Augmenting macOS Capabilities via Windows Applications</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoiding-unable-to-start-application-error-xc000003e-in-windows-11/"><u>Avoiding Unable to Start Application Error Xc000003e in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/circumventing-office-activation-barriers-on-desktops/"><u>Circumventing Office Activation Barriers on Desktops</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-xiaomi-redmi-note-12t-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Xiaomi Redmi Note 12T Pro Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/configuring-advanced-windows-index-features/"><u>Configuring Advanced Windows Index Features</u></a></li>
-<li><a href="https://windows11.techidaily.com/dissecting-windows-11s-user-identity-framework/"><u>Dissecting Windows 11'S User Identity Framework</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Itel P55+? | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/screenflix-recorder-insider-report/"><u>ScreenFlix Recorder Insider Report</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/targeted-thought-leadership-with-profound-fb-video-strategies-for-2024/"><u>Targeted Thought Leadership with Profound FB Video Strategies for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/ultimate-guide-to-sharper-meeting-experience-with-google-for-2024/"><u>Ultimate Guide to Sharper Meeting Experience with Google for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-elite-performers-top-picks-from-skate-highlights/"><u>[New] 2024 Approved Elite Performers Top Picks From Skate Highlights</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-ultimate-4-facebook-film-compiler/"><u>[New] 2024 Approved Ultimate 4 Facebook Film Compiler</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-leveraging-url-posts-for-maximum-impact-on-insta-storypost/"><u>[Updated] In 2024, Leveraging URL Posts for Maximum Impact on Insta Story/Post</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-lightning-fast-method-to-claim-tiktok-treasures/"><u>2024 Approved Lightning-Fast Method to Claim TikTok Treasures</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-step-by-step-path-turning-gifs-into-stickers-across-social-media-messaging/"><u>2024 Approved Step-by-Step Path Turning GIFs Into Stickers Across Social Media Messaging</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-play-8t-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mp4-wmv-mov/"><u>無傷で高品質に変換可能な動画方法とソフトウェア解説 - MP4, WMV, MOV</u></a></li>
+<li><a href="https://windows11.techidaily.com/expanded-access-microsoft-now-supports-more-devices-with-windows-11-upgrade/"><u>Expanded Access: Microsoft Now Supports More Devices with Windows 11 Upgrade</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-windows-11-on-arm-a-comprehensive-guide-and-its-differences-from-traditional-windows-systems/"><u>Exploring Windows 11 on ARM: A Comprehensive Guide & Its Differences From Traditional Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/financial-support-for-individuals-and-businesses/"><u>Financial Support for Individuals and Businesses</u></a></li>
+<li><a href="https://facebook.techidaily.com/five-regretful-moments-that-reflect-facebooks-user-relationship-history/"><u>Five Regretful Moments That Reflect Facebook’s User Relationship History</u></a></li>
+<li><a href="https://windows11.techidaily.com/from-doubts-to-discovery-why-the-old-concerns-of-switching-from-windows-to-linux-have-been-disproven/"><u>From Doubts to Discovery: Why the Old Concerns of Switching From Windows to Linux Have Been Disproven</u></a></li>
+<li><a href="https://windows11.techidaily.com/getting-started-with-arm-technology-an-unboxing-and-review-of-the-dell-inspiron-14-plus-7441/"><u>Getting Started with ARM Technology: An Unboxing and Review of the Dell Inspiron 14 Plus (7441)</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-cybercriminals-exploit-windows-updates-to-bypass-security-fixes/"><u>How Cybercriminals Exploit Windows Updates to Bypass Security Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-windows-booting-issues-a-step-by-step-guide/"><u>How to Fix Windows Booting Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-turn-your-android-device-into-a-windows-11-camera-a-step-by-step-guide/"><u>How to Turn Your Android Device Into a Windows 11 Camera: A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/is-windows-11-update-24h2-compatible-with-your-system-detailed-insights/"><u>Is Windows 11 Update 24H2 Compatible with Your System? Detailed Insights</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-process-of-pairing-samsung-headphones-and-laptop-for-optimal-audio-experience/"><u>Step-by-Step Process of Pairing Samsung Headphones and Laptop for Optimal Audio Experience</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-7-system-enhancement-lenovo-ideapad-y470/"><u>Windows 7 System Enhancement: Lenovo IdeaPad Y470</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Innovative Techniques for Enhancing Comics Experience on Win11
-date: 2025-01-01T01:47:03.915Z
-updated: 2025-01-03T20:04:04.603Z
+date: 2025-01-09T22:50:12.438Z
+updated: 2025-01-10T20:11:30.359Z
 tags:
   - windows10
   - windows11
@@ -37,14 +37,6 @@ thumbnail: https://thmb.techidaily.com/499d16f8fa9d73db2896cc95dd1103614d6afb1a8
 
 ![The New > Folder options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-new-folder-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Read Comic Books With Cover
 
  Now you’ve got some comics to read; it’s time to open them in Windows 11\. Cover is a Microsoft Store app with which you can open and read comics. That app supports all major comic file formats, which makes it a good enough choice. Cover is freely available up to a point, as the free app version comes with a 25-comic limit. These are the steps for installing and opening a comic in Cover:
@@ -59,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/499d16f8fa9d73db2896cc95dd1103614d6afb1a8
 7. Click the**Add local folder** option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. Next, select the Comic Books folder previously set up that includes some comics.
@@ -71,22 +63,26 @@ thumbnail: https://thmb.techidaily.com/499d16f8fa9d73db2896cc95dd1103614d6afb1a8
 ![The page scroll bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/page-scroll-bar.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It’s best to read comics in a maximized Cover window since the text might otherwise be a bit small. Click the comic and select its**Two Page** and**Fit width** options to view double pages across the full width of the window. Then you can scroll down the pages with the mouse and flick through pages by pressing the arrow keys.
 
 ![The Fit width option in Cover](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/fit-width-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Cover has a**Night Mode** option you can adjust brightness with and enable a night filter. Click the comic and press the**Night mode** button to bring up the**Brightness** bar. Then you can drag the bar’s slider down. Or click the**Night filter** button to dim the light for comics in Cover.
 
 ![The Night Mode option in Cover](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-night-mode-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As you’re limited to a 25-comic library in Cover, you’ll probably need to erase some comics you’ve read to view new ones at some stage. To do that, open a comic’s source folder in File Explorer. Right-click a comic file in that folder and select**Delete** . Then click the**See more** button at the top right of the Cover app to select**Refresh** library.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Read Comic Books With YACReader
 
@@ -108,17 +104,21 @@ thumbnail: https://thmb.techidaily.com/499d16f8fa9d73db2896cc95dd1103614d6afb1a8
 ![The Open option in YACReader](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-open-option.jpg)
 6. Press the**Next** and**Previous** arrow buttons on the toolbar to turn the comic’s pages.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The comics will also be a little small in a non-maximized YACReader window, as in Cover. So, it’s recommended to maximize the app’s window. Click the**Double-page mode** button to view two pages in a single window. Selecting the**Fit to Width** option will give you a view of the comic that’s not too small or big.
 
 ![The toolbar in YACReader](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/yacreaders-toolbar.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can save pages in YACReader by clicking the**Set** bookmark button. Select the**Show bookmarks** option to view thumbnails for your saved pages. You can select a bookmarked page to open from there.
 
 ![The YACReader bookmarks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/yacreader-bookmarks.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  YACReader’s**Show go to flow** option is one of its more unique features. Pressing that button brings up a box that displays page thumbnail previews you can flick through and open pages with. That’s a useful feature for selecting specific pages in a comic.
 
@@ -142,7 +142,7 @@ thumbnail: https://thmb.techidaily.com/499d16f8fa9d73db2896cc95dd1103614d6afb1a8
 ![A Star Wars comic open in a browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/star-wars-comic.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Get Stuck Into Comics in Windows 11
@@ -164,24 +164,18 @@ thumbnail: https://thmb.techidaily.com/499d16f8fa9d73db2896cc95dd1103614d6afb1a8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-mobile-music-mutators-essential-app-list/"><u>[New] Mobile Music Mutators Essential App List</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-az-screen-logger-full-review-backup-selection/"><u>[Updated] AZ Screen Logger Full Review, Backup Selection</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-dive-into-editing-a-complete-look-at-final-cut-pro/"><u>[Updated] Dive Into Editing A Complete Look at Final Cut Pro</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-exploration-of-distinct-video-camera-kinds/"><u>2024 Approved Exploration of Distinct Video Camera Kinds</u></a></li>
-<li><a href="https://windows11.techidaily.com/6-ways-to-fix-minecrafts-exit-code-1-on-windows/"><u>6 Ways to Fix Minecraft's Exit Code: 1 on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-graphics-problem-3-for-windows-11-users/"><u>Addressing Graphics Problem #3 for Windows 11 Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-windows-store-failure-code-0x800704cf/"><u>Addressing Windows Store Failure Code 0X800704CF</u></a></li>
-<li><a href="https://windows11.techidaily.com/balancing-cpu-and-memory-use-after-news-downloads/"><u>Balancing CPU & Memory Use After News Downloads</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypassing-license-validity-time-out-alerts-on-win10w11/"><u>Bypassing License Validity Time-Out Alerts on Win10/W11</u></a></li>
-<li><a href="https://windows11.techidaily.com/clear-the-hurdle-of-ms-teams-error-80080300-with-actionable-steps/"><u>Clear the Hurdle of MS Teams Error 80080300 with Actionable Steps</u></a></li>
-<li><a href="https://windows11.techidaily.com/deciphering-and-remedying-wins-error-messages/"><u>Deciphering & Remedying WINS Error Messages</u></a></li>
-<li><a href="https://windows11.techidaily.com/deciphering-vintage-of-a-windows-pc/"><u>Deciphering Vintage of a Windows PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/deciphring-and-diagnosing-predominant-windows-anydesk-problems/"><u>Deciphring and Diagnosing Predominant Windows AnyDesk Problems</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/explore-the-ultimate-selection-find-dells-greatest-deals-of-cyber-monday-across-best-buy-amazon-newegg-et-al-insights/"><u>Explore the Ultimate Selection: Find Dell's Greatest Deals of Cyber Monday Across Best Buy, Amazon, Newegg, Et Al. - Insights</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-lava-storm-5g-is-unlocked-by-drfone-android/"><u>How To Check if Your Lava Storm 5G Is Unlocked</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-elevating-your-footage-imovie-videos-for-youtube-enthusiasts/"><u>In 2024, Elevating Your Footage IMovie Videos for YouTube Enthusiasts</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1691963-9780804152358-shamanism-as-a-spiritual-practice-for-daily-life/"><u>Shamanism As a Spiritual Practice for Daily Life | Free Book</u></a></li>
-<li><a href="https://review-topics.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-comprehensive-gadget-analysis-t172386287985311/"><u>Tom's Tech Review: Comprehensive Gadget Analysis</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-unveiling-the-methodology-for-quality-ps3-game-screenings/"><u>[Updated] In 2024, Unveiling the Methodology for Quality PS3 Game Screenings</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1-dettagli-tecnici-e-funzionalita-di-winxvideo-ai-per-la-post-produzione-video-professionale/"><u>1. Dettagli Tecnici E Funzionalità Di WinXVideo AI per La Post-Produzione Video Professionale</u></a></li>
+<li><a href="https://extra-information.techidaily.com/drone-racing-mastery-basic-knowledge-and-quintessential-fpv-models/"><u>Drone Racing Mastery Basic Knowledge & Quintessential FPV Models</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exclusive-review-how-sturdy-and-easy-to-carry-is-the-kensun-tire-pump/"><u>Exclusive Review: How Sturdy & Easy to Carry Is the Kensun Tire Pump?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-bypassing-windows-11s-security-barrier/"><u>Guide to Bypassing Windows 11'S Security Barrier</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-se-2020-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone SE (2020) without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-microsoft-excel-a-comprehensive-guide-to-using-the-substitute-function/"><u>Mastering Microsoft Excel: A Comprehensive Guide to Using the SUBSTITUTE Function</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-edge-2023-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after Edge 2023 has been deleted.</u></a></li>
+<li><a href="https://windows11.techidaily.com/revamped-microsoft-office-web-suite-experience-the-latest-aesthetic-upgrade/"><u>Revamped Microsoft Office Web Suite: Experience the Latest Aesthetic Upgrade</u></a></li>
+<li><a href="https://windows11.techidaily.com/single-page-layout-mastering-the-art-of-condensing-excel-spreadsheets/"><u>Single-Page Layout: Mastering the Art of Condensing Excel Spreadsheets</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-adding-a-summary-row-at-the-end-of-your-microsoft-excel-tables/"><u>Step-by-Step Guide: Adding a Summary Row at the End of Your Microsoft Excel Tables</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-extracting-data-from-microsoft-excels-status-bar/"><u>Step-by-Step Guide: Extracting Data From Microsoft Excel's Status Bar</u></a></li>
+<li><a href="https://facebook.techidaily.com/swifter-alternatives-best-lite-android-apps-out-there/"><u>Swifter Alternatives: Best Lite Android Apps Out There</u></a></li>
 </ul></div>
 

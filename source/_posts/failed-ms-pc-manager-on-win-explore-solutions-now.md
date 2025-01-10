@@ -1,7 +1,7 @@
 ---
 title: Failed MS PC Manager on Win? Explore Solutions Now
-date: 2024-12-29T19:35:18.105Z
-updated: 2025-01-03T16:57:02.809Z
+date: 2025-01-07T18:40:26.095Z
+updated: 2025-01-10T21:11:48.822Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/d04a298cb4efeef55fca68d7eaf14aa0f3c43f69f
 
  If you still can't install the application after a system restart, try the next solution on the list.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Temporarily Disable Your Antivirus
 
  Most antivirus programs come with a security feature that stops installing malicious applications onto the computer. Unfortunately, they can sometimes block trusted applications like the Microsoft PC Manager. If this is the case with you as well, consider disabling the antivirus program temporarily as a solution.
@@ -46,12 +50,16 @@ thumbnail: https://thmb.techidaily.com/d04a298cb4efeef55fca68d7eaf14aa0f3c43f69f
 7. Disable the toggle next**Real-time protection.**  
 ![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/real-time-protection-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you're using a third-party antivirus program, you can disable it by right-clicking on its icon in the system tray and choosing the "Disable" option from the context menu. You can also go through the antivirus support pages to learn more about how to disable it.
 
  After disabling the security program, give a quick restart to your computer and check if the problem continues.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Use the Program Troubleshooter
@@ -70,19 +78,11 @@ thumbnail: https://thmb.techidaily.com/d04a298cb4efeef55fca68d7eaf14aa0f3c43f69f
 
 ![Program Compatibility Troubleshooter in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Program-Compatiblity-Troubleshooter.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If running the built-in troubleshooter wasn't helpful, download and run the Program Install and Uninstall troubleshooter from[Windows Support](https://support.microsoft.com/en-us/topic/fix-problems-that-block-programs-from-being-installed-or-removed-cca7d1b6-65a9-3d98-426b-e9f927e1eb4d) .
 
 ## 4 . Clear the Temp Folder
 
 ![Delete content of the Temp folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Temp-folder.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Programs and apps installed on your store temporary files in the Temp folder. But for various reasons, the Temp folder can get corrupted and cause the issue at hand.
 
@@ -96,7 +96,7 @@ To delete the Temp folder, follow the below instructions:
 4. Press the**Shift + Delete** hotkeys to clear the Temp folder's content permanently.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5 . Download Any Available Windows Updates
@@ -110,7 +110,7 @@ To delete the Temp folder, follow the below instructions:
 ![The Check for updates button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-check-for-updates-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Windows will now look for and download any available updates. Once the update is installed, restart your computer and check for the issue.
@@ -156,17 +156,18 @@ Next, follow the on-screen to complete the reset process.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-the-secret-to-skyrocketing-revenue-crafting-engaging-video-trailers/"><u>[New] In 2024, The Secret to Skyrocketing Revenue Crafting Engaging Video Trailers</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/astering-youtube-channel-descriptions-for-2024/"><u>[New] Mastering YouTube Channel Descriptions for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-capturing-moments-dslr-setup-for-online-streaming-pcmac-for-2024/"><u>[Updated] Capturing Moments DSLR Setup for Online Streaming (PC/Mac) for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-capturing-every-victory-pro-gaming-tips-for-w11-users/"><u>[Updated] In 2024, Capturing Every Victory Pro Gaming Tips for W11 Users</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-narrative-mastery-essential-tactics-for-youtube-success/"><u>[Updated] Narrative Mastery Essential Tactics for YouTube Success</u></a></li>
-<li><a href="https://windows11.techidaily.com/convenience-at-a-click-discover-how-to-enable-gestures-on-edge-windows-11/"><u>Convenience at a Click: Discover How to Enable Gestures on Edge (Windows 11)</u></a></li>
-<li><a href="https://windows11.techidaily.com/enforcing-originality-windows-screensaver-non-alterability/"><u>Enforcing Originality: Windows Screensaver Non-Alterability</u></a></li>
-<li><a href="https://windows11.techidaily.com/epic-backup-strategies-to-avoid-loss/"><u>Epic Backup Strategies to Avoid Loss</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-windows-11-version-22h2-update-not-installing/"><u>How to Fix the Windows 11 Version 22H2 Update Not Installing</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/microsoft-introduces-obligatory-feedback-form-for-closing-your-onedrive-account/"><u>Microsoft Introduces Obligatory Feedback Form for Closing Your OneDrive Account</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-overcome-onedrive-errors-on-w11-systems/"><u>Strategies to Overcome OneDrive Errors on W11 Systems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-concept-of-the-paperclip-maximizer-and-its-connection-to-machine-learning-progress/"><u>The Concept of the Paperclip Maximizer and Its Connection to Machine Learning Progress</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-dissecting-youtube-policies-and-creative-commons-licensing-dichotomy/"><u>[New] 2024 Approved Dissecting YouTube Policies and Creative Commons Licensing Dichotomy</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-perfecting-sound-on-snapchat-master-your-vocal-effects-in-minutes/"><u>[New] In 2024, Perfecting Sound on Snapchat Master Your Vocal Effects in Minutes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-novice-guide-to-earning-on-periscope-live-streaming/"><u>[Updated] Novice Guide to Earning on Periscope Live Streaming</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pigments-and-perceptions-mastering-image-colorization/"><u>In 2024, Pigments & Perceptions Mastering Image Colorization</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-thriving-in-the-digital-age-mastering-facebook-interaction/"><u>In 2024, Thriving in the Digital Age Mastering Facebook Interaction</u></a></li>
+<li><a href="https://windows11.techidaily.com/reconnecting-to-ea-servers-after-connection-failures-in-windows/"><u>Reconnecting to EA Servers After Connection Failures in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-the-empty-folder-message-on-windows-11/"><u>Remedying the Empty Folder Message on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/resuscitation-guide-bring-back-function-of-wsreset-on-pcs/"><u>Resuscitation Guide: Bring Back Function of WSReset on PCs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/section-2a-understanding-brand-loyalty-and-equity-building-strategies/"><u>Section 2A: Understanding Brand Loyalty and Equity Building Strategies</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/simplify-your-multitasking-using-shortcut-keys-for-macs-screen-capture-for-2024/"><u>Simplify Your Multitasking Using Shortcut Keys for Mac's Screen Capture for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-resolve-error-0x0000011b-on-windows-11/"><u>Steps to Resolve Error 0X0000011B on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-essential-guide-to-choosing-top-fps-counter-software-for-windows-11/"><u>The Essential Guide to Choosing Top FPS Counter Software for Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11s-restricted-interface-an-overview/"><u>Windows 11'S Restricted Interface: An Overview</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Quick Guide to Uninstalling and Reinstalling on Windows 11
-date: 2024-12-28T00:47:12.411Z
-updated: 2025-01-03T19:49:49.848Z
+date: 2025-01-09T22:40:08.192Z
+updated: 2025-01-10T21:15:48.617Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Reset an App on Windows 11
@@ -35,12 +35,16 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 
 ![the installed apps screen in the windows 11 settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/installed-apps-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Scroll through the list of apps on your computer until you get to the one you want. Once you’ve found it, click on the**three horizontal dots** on its right and select**Advanced options** from the menu.
 
 ![selecting advanced options for spotify in the installed apps page in the settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/spotify-advanced-options.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Scroll down to the**Reset** section. Here, you can also repair the Windows app to try and fix it without losing any data. If you haven’t tried that already, see[how to repair apps on Windows](https://www.makeuseof.com/windows-repair-apps-programs/) to give it a shot.
@@ -49,11 +53,11 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 
 ![reseting an app in the Windows settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/reseting-spotify.jpg)
 
- Confirm you want to reset the app by clicking**Reset** again in the pop-up.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Confirm you want to reset the app by clicking**Reset** again in the pop-up.
 
 ## How to Reset an App on Windows 10
 
@@ -65,14 +69,10 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 
 ![the alarm clock advanced options in the windows 10 settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/alarm-clock-windows-10-advanced-options.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You will find the button to reset the app in the**Reset** section of its advanced settings, and you should click it. Finally, confirm that this is what you want to do by clicking**Reset** in the pop-up as well.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Windows Apps Just Need a Reset Sometimes
@@ -96,24 +96,20 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-ranking-the-most-accessible-video-chat-applications-top-10-for-businesses-and-schools/"><u>[New] In 2024, Ranking the Most Accessible Video Chat Applications Top 10 For Businesses & Schools</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-the-efficiency-of-apple-macbook-air-with-m1-for-editors/"><u>[New] In 2024, The Efficiency of Apple MacBook Air with M1 for Editors</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-master-the-art-of-livestream-recession-with-these-24-dynamic-tips/"><u>[New] Master the Art of Livestream Recession with These 24 Dynamic Tips</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-taking-photos-steadily-on-one-leg-in-2024/"><u>[Updated] Taking Photos Steadily on One Leg, In 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-the-file-error-puzzle-finding-solution-for-0x80070570-on-windows-11/"><u>Decoding the File Error Puzzle - Finding Solution for 0X80070570 on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/ditch-the-dated-wallpapers-triple-technique-trick/"><u>Ditch the Dated Wallpapers: Triple Technique Trick</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-craft-the-perfect-projector-screen-at-home-a-complete-guide/"><u>How to Craft the Perfect Projector Screen at Home – A Complete Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-an-attempt-was-made-to-reference-a-token-error-in-windows-1110/"><u>How to Fix the “An Attempt Was Made to Reference a Token” Error in Windows 11/10</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-your-game-from-crashing-the-ultimate-guide-for-fixes-in-modern-warfare-2/"><u>How to Stop Your Game From Crashing: The Ultimate Guide for Fixes in Modern Warfare 2</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-to-windows-ease-of-access-in-5-steps/"><u>Navigating to Windows Ease of Access in 5 Steps</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719373513910-reawaken-chrome-on-win11-essential-troubleshooting-steps/"><u>Reawaken Chrome on Win11 – Essential Troubleshooting Steps.</u></a></li>
-<li><a href="https://windows11.techidaily.com/reignite-your-windows-11-search-top-11-fixes-here/"><u>Reignite Your Windows 11 Search: Top 11 Fixes Here</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719374357320-seven-big-mistakes-new-users-could-make-in-windows-11-to-avoid/"><u>Seven Big Mistakes New Users Could Make in Windows 11 - To Avoid!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-fix-google-meet-mic-not-working-in-windows-1110-environments/"><u>Step-by-Step Fix: Google Meet Mic Not Working in Windows 11/10 Environments</u></a></li>
-<li><a href="https://windows11.techidaily.com/time-is-money-restoring-windows-server-time-quickly/"><u>Time Is Money: Restoring Windows Server Time Quickly</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-12-prominent-honor-magic-vs-2-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Honor Magic Vs 2 Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-lightning-mode-functionality-explanation-and-usage-guide/"><u>Understanding Lightning Mode: Functionality Explanation and Usage Guide</u></a></li>
-<li><a href="https://win-dash.techidaily.com/update-your-surface-book-drivers-seamlessly-beginners-guide-to-easy-download/"><u>Update Your Surface Book Drivers Seamlessly – Beginner's Guide to Easy Download</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-overhaul-pretend-its-windows-98-edition/"><u>Windows Overhaul: Pretend It's Windows 98 Edition</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-free-money-tips-for-reddit-novices-13-best-ways-for-2024/"><u>[New] Free Money Tips for Reddit Novices (13 Best Ways!) For 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-efficiently-transmit-via-obs-on-fb-live/"><u>[Updated] 2024 Approved Efficiently Transmit via OBS on FB Live</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/einen-link-zu-ihren-onedrive-dateien-entfernen-schnelle-und-einfache-schritte/"><u>Einen Link Zu Ihren OneDrive-Dateien Entfernen – Schnelle Und Einfache Schritte</u></a></li>
+<li><a href="https://windows11.techidaily.com/expedite-foreign-speech-hotkey-mastery-for-windows-language-switching/"><u>Expedite Foreign Speech: Hotkey Mastery for Windows Language Switching</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-cast-to-fire-stick-from-an-android-phone/"><u>How to Cast to Fire Stick From an Android Phone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-tecno-spark-20-pro-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Tecno Spark 20 Pro Activity | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-infinix-smart-8-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Infinix Smart 8 to iPod | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mitigating-error-code-0x80300024-on-a-pc/"><u>Mitigating Error Code: 0X80300024 on a PC</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigate-through-windows-10s-media-importation-elegantly-for-2024/"><u>Navigate Through Windows 10'S Media Importation Elegantly for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-top-rated-free-video-cutting-software-for-divx-files-for-2024/"><u>New Top-Rated Free Video Cutting Software for Divx Files for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-default-settings-for-system-backups-in-windows/"><u>Restoring Default Settings for System Backups in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-package-could-not-be-registered-errors-in-windows-photos/"><u>Tackling 'Package Could Not Be Registered' Errors in Windows Photos</u></a></li>
+<li><a href="https://windows11.techidaily.com/taming-technology-troubles-fixing-absentee-tab-functionality/"><u>Taming Technology Troubles: Fixing Absentee Tab Functionality</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/troubleshooting-tips-solving-windows-tenths-inaccessible-boot-device-error-for-smooth-operation/"><u>Troubleshooting Tips: Solving Windows Tenth's 'Inaccessible Boot Device' Error for Smooth Operation</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-woes-unsticking-opera-installation/"><u>Windows Woes: Unsticking Opera Installation</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "DirectX Essentials: Downloading, Installing Made Easy for PC Users"
-date: 2024-08-08T05:56:31.888Z
-updated: 2024-08-09T05:56:31.888Z
+date: 2025-01-09T23:09:49.395Z
+updated: 2025-01-10T19:01:03.141Z
 tags:
   - windows10
   - windows11
@@ -16,9 +16,6 @@ thumbnail: https://thmb.techidaily.com/8b5881e327b9c1ba2eb90535b5e52b8fb37d29efd
 
 ## DirectX Essentials: Downloading, Installing Made Easy for PC Users
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Is DirectX?](#what-is-directx)
@@ -28,8 +25,9 @@ thumbnail: https://thmb.techidaily.com/8b5881e327b9c1ba2eb90535b5e52b8fb37d29efd
 * [Should I Uninstall or Reinstall DirectX?](#should-i-uninstall-or-reinstall-directx)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * DirectX is a set of APIs in Windows that handles graphics in games, allowing developers to create titles that work on different computers.
@@ -37,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/8b5881e327b9c1ba2eb90535b5e52b8fb37d29efd
 * You don't need to download DirectX separately as it is part of Windows and you will get updates through Windows Update. Multiple versions of DirectX may be installed to support different games.
 
  If you game on Windows, you've probably heard of DirectX. But what does DirectX actually do, and do you need to update it or tweak any options? Let's go over how to check what version of DirectX you have, and whether you need to take any action with it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is DirectX?
 
@@ -46,9 +48,6 @@ thumbnail: https://thmb.techidaily.com/8b5881e327b9c1ba2eb90535b5e52b8fb37d29efd
 
  Note that DirectX isn't the only graphics API. We've [compared DirectX to OpenGL](https://www.makeuseof.com/opengl-vs-directx-game-development-best/), one of the most popular alternative graphics APIs.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## What Version of DirectX Do I Have?
 
  At the time of writing, the latest version of DirectX is DirectX 12 (more specifically, its DirectX 12 Ultimate revision), which is only available on Windows 10 and Windows 11\. If you're on an older, unsupported Windows version, your gaming experience won't be ideal.
@@ -57,19 +56,11 @@ thumbnail: https://thmb.techidaily.com/8b5881e327b9c1ba2eb90535b5e52b8fb37d29efd
 
  You'll see a window titled **DirectX Diagnostic Tool** a moment later.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![DirectX Tool Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/directx-tool-windows-11.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  On the **System** tab, at the bottom of the **System Information** box, you'll see **DirectX Version** where you can confirm what you have installed. If you're on Windows 11 or Windows 10, you should see **DirectX 12** here. Check for Windows updates if not.
 
@@ -78,13 +69,18 @@ thumbnail: https://thmb.techidaily.com/8b5881e327b9c1ba2eb90535b5e52b8fb37d29efd
  You may [need to upgrade your PC's hardware](https://www.makeuseof.com/tag/upgrades-will-improve-pc-performance/) to take advantage of DirectX 12 Ultimate if your current build doesn't support it.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Do I Download DirectX?
 
  In modern versions of Windows, you don't need to download DirectX directly. As it's part of Windows, you'll get updates via Windows Update when any are available. This means you don't need to worry about installing DirectX updates manually when you run a new game, either.
 
  As long as you haven't disabled Windows Update, you should always be current with your installed version of DirectX. You can always [manually check for Windows updates](https://www.makeuseof.com/update-windows-manually/) if you like.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Do I Have So Many DirectX Versions Installed?
 
@@ -100,9 +96,6 @@ thumbnail: https://thmb.techidaily.com/8b5881e327b9c1ba2eb90535b5e52b8fb37d29efd
 
  While games should always install what they need, you can also run [Microsoft's DirectX End-User Runtime tool](https://www.microsoft.com/en-us/download/details.aspx?id=35) to install legacy DirectX libraries on your system. This won't affect the modern version of DirectX you're using, but could be a time-saver to install all these libraries at once if you play lots of older games.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Should I Uninstall or Reinstall DirectX?
 
  There's no official way to uninstall or reinstall DirectX. You can't remove it from the **Apps** panel of the **Settings** app in Windows. But there's no reason you would need to, as it's not a normal program. It's a core part of how Windows displays graphics.
@@ -113,12 +106,23 @@ thumbnail: https://thmb.techidaily.com/8b5881e327b9c1ba2eb90535b5e52b8fb37d29efd
 
  We've covered what DirectX is, how to check which version you have installed, and how to get the latest updates. This powerful library of graphics tools is part of the reason why Windows is such a popular platform for gaming. It's a normal part of your computer if you play games, and in most cases, you shouldn't have to do anything to manage DirectX.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-discover-the-ace-of-virtual-worlds-top-oculus-headsets/"><u>[New] 2024 Approved Discover the Ace of Virtual Worlds Top Oculus Headsets</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-elevate-your-video-quality-game-complete-guide-to-enhancer-22/"><u>[Updated] In 2024, Elevate Your Video Quality Game Complete Guide to Enhancer 2.2</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-samsung-bd-j5900-review-for-2024/"><u>[Updated] Samsung BD-J5900 Review for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-transforming-your-channel-url-step-by-step-instructions/"><u>In 2024, Transforming Your Channel URL Step-by-Step Instructions</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-fixing-nvidia-cp-errors-in-ws1110/"><u>Mastering the Art of Fixing Nvidia CP Errors in WS11/10</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-to-correctly-handle-windows-updater-issue-error-0x80070003/"><u>Step-by-Step Guide to Correctly Handle Windows' Updater Issue (Error 0X80070003)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723007959503-unstoppable-tf2-gaming-no-more-crashes-expert-hacks-revealed/"><u>Unstoppable TF2 Gaming: No More Crashes - Expert Hacks Revealed!</u></a></li>
+<li><a href="https://windows11.techidaily.com/wake-lock-woes-keyboard-mouse-in-win11/"><u>Wake Lock Woes: Keyboard, Mouse in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-sign-in-how-to-delete-your-email/"><u>Windows Sign In: How to Delete Your Email</u></a></li>
+</ul></div>
 

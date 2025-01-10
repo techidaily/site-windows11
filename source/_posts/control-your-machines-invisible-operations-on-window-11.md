@@ -1,7 +1,7 @@
 ---
 title: Control Your Machine's Invisible Operations on Window 11
-date: 2024-08-08T05:57:07.995Z
-updated: 2024-08-09T05:57:07.995Z
+date: 2025-01-09T21:57:00.759Z
+updated: 2025-01-10T16:58:45.659Z
 tags:
   - windows10
   - windows11
@@ -28,19 +28,16 @@ thumbnail: https://thmb.techidaily.com/3f22ae9e837b10e05053cf12480b5c15e8d166c20
 2. Open the **Apps** tab in the left pane.
 3. Click on **Installed apps** in the right pane and search to locate the app for which you want to change the background permission.
 4. Click the **three-dots menu** icon next to the app name and select **Advanced options.** If the option is not available, then the app does not support the background app permission management feature.  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![advanced options windows 11 settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/advanced-options-windows-11-settings.jpg)
 5. Scroll down to the **Background apps permissions** section.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![background app permission never](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/background-app-permission-never.png)
 6. Click the drop-down for **Let this app run in background** and select **Never**. This should disable the app from running in the background.
 
  By default, the background permission for the app is set to **Power optimized(recommended)**. This means Windows will decide when the app can run in the background to save more power. If you set it to **Always**, the app will continuously run in the background irrespective of your power status.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. How to Disable Background Apps via Power & Battery Settings
 
@@ -51,22 +48,15 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. Press **Win + X** to open the **WinX** men and select **Settings**.
 2. In the **System** tab, scroll down and click on **Power & battery.**
 3. Scroll down to the Battery section and click on **Battery usage.**  
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![power and battery usage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/power-and-batter-usage.png)
 4. Click the drop-down for **Battery levels** and select **Last 7 days.** Windows will load all the apps using the battery power in the last seven days.  
 ![manage background activity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/manage-background-activity.png)
 5. To change the background app permission, click the **three-dots menu** beside the app name, and click on **Manage background productivity**. This option is only available for Microsoft Store apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click the **drop-down** (**Power optimized**) under the **Background apps permissions** section and select **Never**. This will disable the app from running in the background.
 7. Repeat the steps for all the apps that can drain your battery or affect system performance.
 
@@ -82,9 +72,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 1. Press **Win + R** to open the **Run** dialog.
 2. Type **notepad** and click **OK** to open the text editor app.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![disable background apps windows 11 registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disable-background-apps-windows-11-registry-editor.jpg)
 3. In the Notepad file, copy and paste the following content:  
 `Windows Registry Editor Version 5.00  
@@ -106,16 +93,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  If you need to turn on background apps for the current user, then save the following script as **enable\_background\_apps.reg** and run it as administrator.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![reg file content background app disable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/reg-file-content-background-app-disable.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 `Windows Registry Editor Version 5.00  
 [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications]  
 "GlobalUserDisabled"=-  
 [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Search]  
 "BackgroundAppGlobalToggle"=-`
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. How to Disable Background Apps for All Users Using Registry Editor
 
@@ -133,9 +125,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 6. Right-click on the **AppPrivacy** key and select **New > DWORD (32-bit) Value**. Rename the value as **LetAppsRunInBackground.**  
 ![registry editor create new value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/registry-editor-create-new-value.png)
 7. Right-click on the **LetAppsRunInBackground** value and select **Modify**.  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![registry editor data 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/registry-editor-data-2.png)
 8. Type **2** in the **Value data** field and click **OK** to save the changes.
 9. Close the Registry Editor and restart your PC to apply the changes.
@@ -143,8 +132,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  This should disable Microsoft Store apps from running in the background. To enable the background apps, modify the **LetAppsRunInBackground** value and set it to **0**.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. How to Disable Background Apps Using the Group Policy Editor
 
  Alternatively, you can also use the Group Policy Editor to configure background apps settings on your computer network. This is useful for system administrators having to configure multiple systems.
@@ -157,9 +147,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. In the Group Policy Editor, navigate to the following location:  
 `Computer Configuration\Administrative Templates\Windows Components\App Privacy​`
 3. In the right pane, locate and double-click on **Let Windows apps run in the background** policy.  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![disable background app group policy editor policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/disable-background-app-group-policy-editor-policy.png)
 4. In the new window that appears, select **Enabled**.
 5. Next, under the **Options** section, click the drop-down for **Default for all apps** and select **Force Deny**.  
@@ -171,8 +158,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  On the contrary, setting this policy to **Force Deny** will prevent the app from running in the background, with no option for the employees to change the policy.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Disabling Background Apps in Windows 11
 
  Windows allows you to configure background app permission for the Microsoft Store apps. You can disable these apps to conserve battery and avoid unnecessary data usage on a metered connection.
@@ -181,12 +169,31 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Fortunately, Windows lets you change the background permission for individual Microsoft Store apps. Here we show you how to disable individual or all background apps in Windows 11\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-iphones-panoramic-videos-explained-for-fb-sharing/"><u>[Updated] 2024 Approved IPhone's Panoramic Videos Explained for FB Sharing</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-enhance-info-blocks-templates-for-youtube-titles/"><u>[Updated] Enhance Info Blocks Templates for YouTube Titles</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-kickstart-your-film-journey-essential-camera-shot-knowledge/"><u>[Updated] Kickstart Your Film Journey Essential Camera Shot Knowledge</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/elevating-vision-a-compre-written-by-jovita-lara-msn-student-arizona-state-university/"><u>Elevating Vision A Compre Written By Jovita Lara, MSN Student (Arizona State University)</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-stalled-windows-outlook-conditional-rules/"><u>Fixing Stalled Windows Outlook Conditional Rules</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-a-device-which-does-not-exist-was-specified-error-in-windows-10-and-11/"><u>How to Fix the “A Device Which Does Not Exist Was Specified” Error in Windows 10 & 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-microphone-not-working-with-the-xbox-app-on-windows-11-and-11/"><u>How to Fix the Microphone Not Working With the Xbox App on Windows 11 & 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-reduce-clutter-disabling-explorer-tabs/"><u>How to Reduce Clutter: Disabling Explorer Tabs</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-ipod-and-apple-iphone-15-the-right-way-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock On iPod and Apple iPhone 15 The Right Way</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-upload-ps4-screenshots-to-social-media-a-step-by-step-guide/"><u>In 2024, Upload PS4 Screenshots to Social Media A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/learn-to-circumvent-windows-11-lock-without-fuss/"><u>Learn to Circumvent Windows 11 Lock Without Fuss</u></a></li>
+<li><a href="https://windows11.techidaily.com/securing-a-smooth-setup-for-microsoft-works-in-w11/"><u>Securing a Smooth Setup for Microsoft Works in W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-ensure-precise-cpu-usage-readings-from-task-manager/"><u>Strategies to Ensure Precise CPU Usage Readings From Task Manager</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-oneplus-12-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-ranked-virtual-programming-classes/"><u>Top-Ranked Virtual Programming Classes</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-creating-safe-hardware-uninstaller-quick-access/"><u>Windows 11: Creating Safe Hardware Uninstaller Quick Access</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/treasure-trove-of-free-marketing-50plus-youtube-ads-ready-to-go-in-2024/"><u>Your Treasure Trove of Free Marketing 50+ YouTube Ads Ready to Go, In 2024</u></a></li>
+</ul></div>
 

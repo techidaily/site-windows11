@@ -1,7 +1,7 @@
 ---
 title: "Design Dilemma: Overcoming Unexpected Screen Shades"
-date: 2024-08-08T05:57:39.350Z
-updated: 2024-08-09T05:57:39.350Z
+date: 2025-01-05T18:46:43.786Z
+updated: 2025-01-10T16:05:45.161Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/6af9f284b317fd0fc6915e0019f4adbc9dd81ab60
 
  So, let’s dive in and explore all the solutions to a pink or purple desktop on Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Quick Fixes for a Windows Desktop That Turns Pink or Purple
 
 ![An illustration of someone configuring settings on a PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/An-illustration-of-someone-configuring-settings-on-a-PC.jpg)
@@ -33,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/6af9f284b317fd0fc6915e0019f4adbc9dd81ab60
 
  In some cases, restarting your Windows device could help. Perform any one of the many [ways to restart a Windows PC](https://www.makeuseof.com/windows-restart-methods/) and see if that fixes this.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Restart File Explorer
 
  The issue at hand might be caused by a faulty app on your device. Now, a quick solution here would be to close a few active programs and restart the File Explorer.
@@ -46,10 +40,11 @@ Let’s take a look at the steps for restarting File Explorer:
 2. Navigate to the**Processes** tab.
 3. Right-click on**Windows Explorer** and then select**Restart** .
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Restarting the Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Restarting-the-Windows-File-Explorer.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Disable the Color Filters
 
@@ -62,14 +57,12 @@ In this instance, here’s how you can resolve the problem:
 3. Click**Color filters** on the left-hand side.
 4. Turn off the**Turn on color filters** button on the right-hand side. Finally, uncheck the**Allow the shortcut key to toggle filter on or off** box.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Turning off the Turn on color filters button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Turning-off-the-Turn-on-color-filters-button.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Configure the Night Light Settings
 
  In some cases, the issue might be caused by the way you've configured the night light settings.
@@ -85,6 +78,10 @@ To get rid of the problem, follow these steps:
 
 ![Turning off the Night light button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Turning-off-the-Night-light-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, follow these steps if you want to tweak some additional night light settings:
 
 1. Navigate to the**Display settings** window as per the previous steps.
@@ -92,9 +89,6 @@ To get rid of the problem, follow these steps:
 3. Drag the**Strength** slider button and place it wherever you like. Bear in mind that dragging the button to the left-hand side will reduce the strength of the night light colors.
 4. If you want to schedule the night light settings, turn on the**Schedule night light** button and pick the relevant option below it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![Adjusting the Night light colors strength](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Adjusting-the-Night-light-colors-strength.jpg)
 
 ## 5\. Update or Reinstall the Windows Display Drivers
@@ -107,10 +101,11 @@ Let’s first check out how you can update the display drivers:
 2. Double-click the**Display adapters** option to expand it.
 3. Right-click your PC’s display adapter and select**Update driver** .
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Updating the Display drivers on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/7-Updating-the-Display-drivers-on-Windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  On the next screen, select**Search automatically for updated driver software** and then follow the on-screen instructions.
 
@@ -124,10 +119,11 @@ Let’s first check out how you can update the display drivers:
 
 ## 6\. Use the Built-In Windows Troubleshooters
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![A person using a Windows computer on a brown desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-person-using-a-Windows-computer-on-a-brown-desk.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Still struggling to resolve the "desktop color" issue? The Windows built-in troubleshooters could help! However, you should pick a relevant troubleshooter depending on the nature of the problem.
 
@@ -142,14 +138,11 @@ Let’s first check out how you can update the display drivers:
 5. Click the**Hardware and Devices troubleshooter** and then press the**Run the troubleshooter** button.
 6. Follow the on-screen instructions and then restart your PC to save these changes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![Running the Hardware and Devices Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Running-the-Hardware-and-Devices-Troubleshooter.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the issue persists, run the System Maintenance troubleshooter through these steps:
 
@@ -159,6 +152,10 @@ No advertising on the website.
 4. Press the**Next** button and then follow the on-screen instructions.
 
 ![Running the System Maintenance Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Running-the-System-Maintenance-Troubleshooter-on-Windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Scan and Remove Malware From Your PC
 
@@ -175,9 +172,6 @@ Here are the steps you need to follow:
 
 ![Scanning a PC with the Windows Security tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/Scanning-a-PC-with-the-Windows-Security-tool.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 8\. Use a System Restore Point
 
  Did you start experiencing the “desktop color” issue recently? If so, then you could tackle the problem by using a system restore point.
@@ -201,14 +195,11 @@ Here are the steps you need to follow:
 
  Want to quickly access the Windows desktop? There are a lot of different methods you can try to quickly bring up all your shortcuts, no matter how many windows you have open.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -217,6 +208,17 @@ Here are the steps you need to follow:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-elite-women-gaming-leaders-top-10-on-yt/"><u>[Updated] 2024 Approved Elite Women Gaming Leaders Top 10 On YT</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-revamping-videography-the-story-of-nikon-1j5s-4k-achievement/"><u>[Updated] Revamping Videography The Story of Nikon 1J5’s 4K Achievement</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-sparkle-with-style-personalize-brands-using-pre-set-graphics/"><u>[Updated] Sparkle with Style Personalize Brands Using Pre-Set Graphics</u></a></li>
+<li><a href="https://solve-help.techidaily.com/decoding-system-instability-a-comprehensive-guide-by-yl-software-experts/"><u>Decoding System Instability: A Comprehensive Guide by YL Software Experts</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-non-initialization-of-qt-engine-in-software-applications/"><u>Fixing Non-Initialization of Qt Engine in Software Applications</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-on-apple-iphone-13-mini-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock On Apple iPhone 13 mini?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-top-pfr-rate-for-sluggish-film-speed/"><u>In 2024, Top PFR Rate for Sluggish Film Speed</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-multi-os-environments-windows-host-for-linux-virtual-machines/"><u>Mastering Multi-OS Environments: Windows Host for Linux Virtual Machines</u></a></li>
+<li><a href="https://windows11.techidaily.com/proactive-pc-management-utilizing-command-prompt-for-timely-detection-and-correction-of-windows-errors/"><u>Proactive PC Management: Utilizing Command Prompt for Timely Detection & Correction of Windows Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-11-addressing-discord-installation-issues/"><u>Win 11: Addressing Discord Installation Issues</u></a></li>
+</ul></div>
 

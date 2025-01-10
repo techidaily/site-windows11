@@ -1,7 +1,7 @@
 ---
 title: Ensuring Clear Voice Commands with Xbox & Windows
-date: 2024-07-29T04:24:05.270Z
-updated: 2024-07-30T04:24:05.270Z
+date: 2025-01-06T18:38:15.230Z
+updated: 2025-01-10T18:40:40.946Z
 tags:
   - windows10
   - windows11
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/5dd2f6cde3d323e673a6ae6de82e04690c6752ca5
 ![The Large icons option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/large-icons-option.jpg)
 4. Select**Troubleshooting** to open that applet in the Control Panel.
 5. Click**View** **all** to see a list of troubleshooters.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ![view-all-option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/view-all-option.jpg)
 6. Then click**Recording Audio** to open that troubleshooter.  
 ![The Recording Audio troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/troubleshooter-list.jpg)
@@ -54,17 +51,16 @@ thumbnail: https://thmb.techidaily.com/5dd2f6cde3d323e673a6ae6de82e04690c6752ca5
 ![The Microphone navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/microphone-navigation-option.jpg)
 4. Turn on the**Microphone access** setting if necessary.
 5. If**Let apps access your microphone is** disabled, turn on that setting.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Let apps access your microphone setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/let-apps-access-microphone-setting.jpg)
 6. Then scroll down and click the toggle switch for the Xbox app to turn on its mic access.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The microphone permission setting for the Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/xbox-app.jpg)
 7. Restart Windows before opening the Xbox app to check if the issue persists.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Change the Default Format Output Option
 
  Many users have confirmed that changing the default format for their microphone devices fixes the mic not working with the Xbox app. Those users switched the default format to a**DVD Quality** setting. You can select that default microphone output format in Windows like this:
@@ -76,10 +72,19 @@ thumbnail: https://thmb.techidaily.com/5dd2f6cde3d323e673a6ae6de82e04690c6752ca5
 5. Right-click the input microphone you try to utilize with the Xbox app and select**Properties** .  
 ![The Uninstall device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/device-manager-window.jpg)
 6. Click**Advanced** in the properties window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Then select the**2-channel, 16-bit, 48000 Hz (DVD Quality)** option in the drop-down menu.  
 ![The Default Format setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/default-format-setting.jpg)
 8. Press**Apply** to save the new default format output setting.
 9. Click**OK** to exit the**Advanced** tab and properties window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Select the Right Audio Input Device in the Xbox App
 
@@ -88,31 +93,32 @@ thumbnail: https://thmb.techidaily.com/5dd2f6cde3d323e673a6ae6de82e04690c6752ca5
 1. Start the Xbox app.
 2. Click your user profile name in the top-left corner of the app’s window.
 3. Select**Settings** to bring up a window.  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Settings menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/settings-menu-option.jpg)
 4. Click**Audio** on the left of the Settings window.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Audio tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-audio-tab.jpg)
 5. Then select the microphone you want to use with the Xbox app in the Input device menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you set the**Default** input option, you’ll need to make sure you’re using your PC’s default microphone. To do that, go to the**Recording** tab as instructed in steps one to four of the previous resolution. Then select the microphone to utilize with the Xbox app there and click**Set Default** .
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Reset the Xbox App
 
  The Xbox app, like others, has a**Reset** troubleshooting option you can select in Settings. That option clears the app’s data to fix issues. You can select that option to apply this potential solution by following the instructions in our[how to reset apps on Windows](https://www.makeuseof.com/windows-reset-app/) article.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Reset app button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reset-app-button.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Reinstall the Driver for the Audio Input Device
 
  A faulty or corrupted audio input device driver is another potential cause for the microphone not working with the Xbox app. Though that would also probably cause issues with using the same microphone with other apps. In this scenario, reinstalling the driver for the audio input device could be a solution, and some users have confirmed that. Try reinstalling the driver for your Xbox app microphone like this:
@@ -120,27 +126,27 @@ thumbnail: https://thmb.techidaily.com/5dd2f6cde3d323e673a6ae6de82e04690c6752ca5
 1. Open Device Manager by pressing**Win + X** and selecting**Device Manager** .
 2. Extend**Audio inputs and outputs** by double-clicking that category.
 3. Right-click the microphone you need to utilize with the Xbox app and select**Uninstall** **device** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![The Uninstall device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/device-manager-window.jpg)
 4. Click**Uninstall** to confirm and remove the device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Then reboot your Windows 11/10 PC for automatic driver reinstallation.
 
 ## 8\. Reinstall the Xbox App
 
  The last troubleshooting method for this microphone issue is to try reinstalling the Xbox app. The app you’re using might be an outdated version, or there could be other issues with it that only reinstallation will resolve. You can remove the Xbox app in Settings as outlined in method two in[how to uninstall Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![The Uninstall option for the Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-uninstall-option.jpg)
 
  After uninstalling the Xbox app, open its[Microsoft Store page](https://apps.microsoft.com/store/detail/xbox/9MV0B5HZVK9Z) ; select the**Get in Store** **app** option to bring up the Microsoft Store; then click**Get** on the Xbox app page.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Utilize Your Microphone in the Xbox App Again
 
  Lots of users have fixed the microphone not working in the Xbox app by applying the potential resolutions outlined here. So, it’s a good bet one of them will work on your Windows PC too. Then you can get back to your Xbox party chatting again.
@@ -151,8 +157,6 @@ thumbnail: https://thmb.techidaily.com/5dd2f6cde3d323e673a6ae6de82e04690c6752ca5
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,4 +164,26 @@ thumbnail: https://thmb.techidaily.com/5dd2f6cde3d323e673a6ae6de82e04690c6752ca5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-setting-up-video-size-on-youtube-complete-tutorial/"><u>[New] In 2024, Setting Up Video Size on YouTube Complete Tutorial</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-unwind-the-mind-the-ultimate-chill-list-for-2024/"><u>[New] Unwind the Mind The Ultimate Chill List for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-use-3d-camera-tracking-effects-in-after-effects/"><u>2024 Approved How to Use 3D Camera Tracking Effects in After Effects</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-promoting-dialogue-enriching-conversations-in-the-youtube-community/"><u>2024 Approved Promoting Dialogue Enriching Conversations in the YouTube Community</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-vivo-s17e-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Vivo S17e Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/access-free-kid-friendly-dance-tracks-on-youtube-enjoy-hands-free-video-viewing-anywhere/"><u>Access Free Kid-Friendly Dance Tracks on YouTube - Enjoy Hands-Free Video Viewing Anywhere!</u></a></li>
+<li><a href="https://windows11.techidaily.com/drive-dynamics-streamlining-storage-space-in-win11/"><u>Drive Dynamics: Streamlining Storage Space in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-internet-safety-in-windows-11-trusted-site-listing/"><u>Elevate Internet Safety in Windows 11: Trusted Site Listing</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-usability-and-style-for-windows-1011-in-8-ways/"><u>Elevate Usability and Style for Windows 10/11 in 8 Ways</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-window-management-crafting-unique-snapping-patterns/"><u>Elevate Window Management: Crafting Unique Snapping Patterns</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-we-encountered-an-error-oculus-w11w10-guide/"><u>Eliminating We Encountered an Error: Oculus W11/W10 Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/empowering-windows-11-android-phone-webcam-utilization/"><u>Empowering Windows 11: Android Phone Webcam Utilization</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-pc-gaming-with-streamlined-directx-maintenance/"><u>Enhance PC Gaming with Streamlined DirectX Maintenance</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-qbittorrent-performance-after-a-halt/"><u>Enhancing qBittorrent Performance After a Halt</u></a></li>
+<li><a href="https://windows11.techidaily.com/enriching-folder-management-custom-move-and-copy-commands-in-windows/"><u>Enriching Folder Management: Custom Move and Copy Commands in Windows</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-maximizing-potential-key-know-how-for-technological-progress/"><u>In 2024, Maximizing Potential Key Know-How for Technological Progress</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-stepwise-approach-to-perfect-videography-adding-filters-on-devices/"><u>In 2024, Stepwise Approach to Perfect Videography Adding Filters on Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-over-glitches-fixing-geforce-experience-setup-fails/"><u>Mastery over Glitches: Fixing GeForce Experience Setup Fails</u></a></li>
+</ul></div>
 

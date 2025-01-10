@@ -1,7 +1,7 @@
 ---
 title: "Easing Out of the Eclipse: Ending Dark Mode Anomaly"
-date: 2024-07-29T04:23:13.851Z
-updated: 2024-07-30T04:23:13.851Z
+date: 2025-01-08T19:24:46.199Z
+updated: 2025-01-10T20:31:13.559Z
 tags:
   - windows10
   - windows11
@@ -56,14 +56,12 @@ thumbnail: https://thmb.techidaily.com/0ef39d9a604e71499226be4f237e87d1b86c04c6f
 3. Click **High contrast** on the left.
 4. **Turn off** the button below the **Turn on high contrast** option and check if this resolves the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Turning off the button below the Turn on high contrast option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/turning-off-the-button-below-the-turn-on-high-contrast-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Edit the Relevant Registry Files
 
  Editing some Registry files could also help you tackle the issue at hand. But to be on the safe side, [back up the Registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) first before you proceed. This tool is sensitive and could wreak havoc on your PC if you tweak the wrong keys.
@@ -78,18 +76,20 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Themes\Personalize
 
  Next, double-click on the **AppsUseLightTheme** value on the right-hand side pane.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Clicking the AppsUseLightTheme value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/clicking-the-appsuselighttheme-value.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Type **0** in the **Value data** box and then click **OK**.
 
  From there, set the **Value data** as **0** for the **ColorPrevalence**, **EnableTransparency**, and **SystemUsesLightTheme** values. When you finish, restart your device and check if this resolves the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Disable Third-Party Apps Like the Auto Dark Mode Tool
 
  Apps like the [Microsoft Auto Dark Mode](https://apps.microsoft.com/store/detail/auto-dark-mode/XP8JK4HZBVF435) tool switch between dark and light modes at scheduled times. If you’ve configured its settings unknowingly, then it might end up enabling the dark mode feature unexpectedly.
@@ -97,8 +97,9 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Themes\Personalize
  To resolve the issue, the best solution would be to disable this tool (and any other similar third-party app). Alternatively, you can configure the tool’s settings to your liking. That way, your device will only go into dark mode when you want it to.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Perform Some Generic Windows-Based Fixes
 
  Still struggling to resolve the issue? Perhaps the error is caused by corrupted system files. In this case, the best solution is to [repair corrupted Windows files using its built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/).
@@ -106,20 +107,18 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Themes\Personalize
  And if all else fails, [update your Windows device](https://www.makeuseof.com/update-windows-manually/) and see if that helps.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## No More Getting Stuck in Dark Mode
 
  There’s no denying that the Windows dark mode option is quite convenient. However, being unable to switch from dark to normal mode is quite unpleasant. If your device is stuck in dark mode, try any of the solutions we’ve covered.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -128,4 +127,18 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Themes\Personalize
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-go-beyond-stills-with-vimeo-animations-a-gif-guide/"><u>[Updated] 2024 Approved Go Beyond Stills with Vimeo Animations A GIF Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/front-runners-in-4k-gaming-graphics/"><u>Front-Runners in 4K Gaming Graphics</u></a></li>
+<li><a href="https://discover-community.techidaily.com/get-your-free-hd-dvd-creation-software-for-windows-systems-78110-why-pick-winxdvd/"><u>Get Your Free HD DVD Creation Software for Windows Systems (7/8.1/10) - Why Pick WinXDVD?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-effortlessly-enhance-your-watchlist-mastering-dual-display-in-netflix/"><u>In 2024, Effortlessly Enhance Your Watchlist - Mastering Dual Display in Netflix</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-maximizing-allure-essential-strategies-for-stellar-instagram-unboxing-videos/"><u>In 2024, Maximizing Allure Essential Strategies for Stellar Instagram Unboxing Videos</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-top-15-snapchat-post-tips-for-max-impact/"><u>In 2024, Top 15 Snapchat Post Tips for Max Impact</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-component-services-accessibility-in-w11/"><u>Mastering Component Services Accessibility in W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-group-policies-a-threefold-pathway-guide/"><u>Mastering Windows Group Policies: A Threefold Pathway Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-in-managing-windows-11-tpm-issues/"><u>Mastery in Managing Windows 11 TPM Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/zero-cost-hardware-recreation-in-windows/"><u>Zero-Cost Hardware Recreation in Windows</u></a></li>
+</ul></div>
 

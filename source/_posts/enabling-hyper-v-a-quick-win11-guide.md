@@ -1,7 +1,7 @@
 ---
 title: "Enabling Hyper-V: A Quick Win11 Guide"
-date: 2024-07-29T04:23:56.345Z
-updated: 2024-07-30T04:23:56.345Z
+date: 2025-01-06T18:20:13.635Z
+updated: 2025-01-10T22:15:56.749Z
 tags:
   - windows10
   - windows11
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/24b4a5d68fd5e6bea75410f8f6c4c82cdd5bcbea3
 * Offers disaster recovery features including live migration and failover clustering for increased uptime.
 * Create and run virtual machines in isolation for improved security.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Prerequisites to Enable Hyper-V on Windows 11
 
 ![check Windows 11 edition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/check-Windows-11-edition.png)
@@ -49,6 +45,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  In addition, you need to enable Hardware Virtualization in BIOS. It is an essential feature to run virtual machines on your Windows system but often disabled by default.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Enable Hardware Virtualization in BIOS
 
  On compatible systems, you can enable Hardware Virtualization in BIOS. The below steps are for an HP computer. If you are using a custom-made PC or laptop from another manufacturer, refer to the user manual for detailed instruction. If not, refer to our general guide to [enter the BIOS on Windows](https://www.makeuseof.com/tag/enter-bios-computer/).
@@ -58,23 +58,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. Shut down your PC if it is powered on.
 2. Press the **Power** button to power on the system and start pressing the **Esc** key to view the **Startup Menu.**
 3. In the **Startup Menu**, press **F10** to enter the **BIOS setup.**  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![Startup menu hp laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/Startup-menu-hp-laptop.jpg)
 4. In the BIOS Setup Utility, use the arrow key and open the **Configuration** tab.
 5. Next, use the down arrow key to highlight the **Virtualization Technology** option.  
@@ -85,14 +68,8 @@ Key features:
 
  After restart, you can enable Hyper-V on Windows 11\. Here’s how to do it.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Turn On Hyper-V in Windows 11 Via Control Panel
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![enable hyper v windows features control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/enable-hyper-v-windows-features-control-panel.png)
 
  You can enable Hyper-V using the Windows Features dialog. You can access Windows Features to [add or remove optional features in Windows 11](https://www.makeuseof.com/how-to-add-remove-optional-features-windows-11/) from the Control Panel. Here’s how to do it.
@@ -107,15 +84,13 @@ Key features:
 
  After the restart, search for **Hyper-V** and click on **Hyper-V Manager** to create virtual machines in Windows 11\.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Add Hyper-V to Windows 11 Using Command Prompt
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enable hyper v command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/enable-hyper-v-command-prompt.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Command Prompt offers a fast and efficient way to perform repetitive tasks. You can use the DISM (Deployment Image Servicing and Management) command-line tool to access and install optional Windows features via Command Prompt.
 
@@ -128,6 +103,10 @@ Key features:
 4. Once the operation is completed successfully, you will need to restart your PC. So, press **Y** on your keyboard to confirm the action.
 
  After your PC restarts, you can open and [use the Hyper-V Manager to create virtual machines](https://www.makeuseof.com/tag/create-virtual-machine-using-windows-10-hyper-v/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Enable Hyper-V Using PowerShell
 
@@ -145,6 +124,10 @@ Key features:
 3. PowerShell will run the cmdlet and initiate the Hyper-V enabling process. If successful, you will be asked to restart your PC.
 4. Type **Y** to confirm, and your PC will restart to apply the changes and enable a new feature.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Disable Hyper-V in Windows 11
 
  While Hyper-V is safe to enable and use, you can disable it as easily using PowerShell. Useful if the virtualization tool causes conflict with your antivirus solution and other apps.
@@ -157,9 +140,6 @@ Key features:
 * Wait for the success message to appear and close PowerShell.
 * Restart your PC to apply the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Configure Hyper-V Settings
 
 ![hyper v manager windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hyper-v-manager-windows-11.jpg)
@@ -170,14 +150,19 @@ Key features:
 * **Virtual Switch Manager:** It lets you create External, Internal, or Private switches. Virtual switches are bound to the physical network adapter to access the network.
 * **Integration services:** You can choose from and enable/disable a host of integration services, including Heartbeat, Key-Value pair exchange, Time synchronization, and Volume shadow copy requestor (VSS) to enhance the performance and functionality of your virtual machine.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Windows admin center console home](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-admin-center-console-home.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  While the MMC-based Hyper-V manager is functional and built into the OS, consider using the relatively new Windows Admin Center. It is a browser-based management app that lets you manage your servers, virtual machines, local users and groups, and more.
 
  Download [Windows Admin Center](https://www.microsoft.com/en-in/windows-server/windows-admin-center) from the official Microsoft page and run the installer to give it a go. Once installed, open the app, and it will launch in your default browser, giving you access to a host of management tools.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Many Ways to Enable Hyper-V in Windows 11
 
@@ -187,11 +172,29 @@ Key features:
 
  In this article, we show you the how to enable Hyper-V in Windows 11 and create virtual machines without third-party tools.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-crafting-dynamic-gifs-from-video-an-illustrative-tutorial/"><u>[New] 2024 Approved Crafting Dynamic Gifs From Video An Illustrative Tutorial</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nnovative-strategies-for-iphoneipad-screenshots-in-media-for-2024/"><u>[New] Innovative Strategies for iPhone/iPad Screenshots in Media for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-powerdirector-pro-detailed-reviews-and-step-by-step-guides/"><u>[Updated] PowerDirector Pro Detailed Reviews and Step-by-Step Guides</u></a></li>
+<li><a href="https://windows11.techidaily.com/dual-display-designs-selective-screen-splendor-in-win-1011/"><u>Dual-Display Designs: Selective Screen Splendor in Win 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-data-management-controlling-ntfs-compression/"><u>Efficient Data Management: Controlling NTFS Compression</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficiently-managing-frame-rates-to-reduce-delay/"><u>Efficiently Managing Frame Rates to Reduce Delay</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/effortless-web-based-mpeg-file-conversion-without-costs-try-now/"><u>Effortless Web-Based MPEG File Conversion Without Costs – Try Now!</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-multisystem-video-processing-on-a-single-windows-setup-with-tdarr/"><u>Elevate Multisystem Video Processing on a Single Windows Setup with Tdarr</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-user-not-valid-error-on-windows-11-and-11/"><u>Eliminating 'User Not Valid' Error on Windows 11 & 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhanced-docker-functionality-via-optimized-wsl-2-use/"><u>Enhanced Docker Functionality via Optimized WSL 2 Use</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-new-ray-ban-stories-details-and-price/"><u>Facebook's New Ray-Ban Stories - Details and Price?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/master-image-security-with-best-watermarks-software-for-2024/"><u>Master Image Security with Best Watermarks Software for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/omplete-guide-to-successful-youtube-eluding-these-8-common-slips/"><u>The Complete Guide to Successful YouTube Eluding These 8 Common Slips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-key-to-unhindered-play-fixing-intermittent-ps4-connection-in-windows/"><u>The Key to Unhindered Play: Fixing Intermittent PS4 Connection in Windows</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-unveiling-the-latest-gadgets-and-hardware-insights/"><u>Tom's Tech Review: Unveiling the Latest Gadgets and Hardware Insights</u></a></li>
+</ul></div>
+

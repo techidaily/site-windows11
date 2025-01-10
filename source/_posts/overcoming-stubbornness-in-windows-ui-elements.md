@@ -1,7 +1,7 @@
 ---
 title: Overcoming Stubbornness in Windows UI Elements
-date: 2024-12-29T17:02:47.072Z
-updated: 2025-01-03T23:51:10.606Z
+date: 2025-01-03T18:23:22.979Z
+updated: 2025-01-10T18:12:46.339Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Run System File and Image Repair Commands
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
  Follow the instructions in our article about [repairing corrupted Windows files](https://www.makeuseof.com/windows-built-in-repair-tools/) to run the SFC and DISM command-line tools.
 
 ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/sfc-scannow-command2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Disable the Remove Task Manager Policy
 
@@ -56,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 
  If this policy is not enabled, try turning it on and off. Click **Enabled** and **Apply** to activate the policy. Then select **Disabled**/**Not configured** to disable it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Initiate an Antivirus Scan
 
  Malware can sometimes be the reason for the Task Manager not working. Task Manager is targeted by malware because it’s an important system utility. So, [run an antivirus scan](https://www.makeuseof.com/scan-for-viruses-without-buying-antivirus-software/) with Windows Security or third-party security software to check for and purge malware from your PC. Select the most thorough antivirus scanning option in whatever option you utilize.
@@ -67,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 ![The antivirus scan options in Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/scan-now-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Edit the Policies Key
@@ -81,10 +81,6 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 ![The New > Key options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/new-key-options.jpg)
 4. Enter **System** in the new key’s text box.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Right-click **System** and select **New** \> **DWORD**.
 
 1. Input **DisableTaskMgr** inside the DWORD’s text box.
@@ -93,7 +89,7 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 3. The value for the **DisableTaskMrg** DWORD should be **0**. If it’s set any differently, erase the number in the **Value** box and input **0**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Click **OK** to set the **DisableTaskMgr** value.  
@@ -101,7 +97,7 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 5. Now close the Registry Editor. To ensure the changes take effect, [restart your Windows PC](https://www.makeuseof.com/windows-restart-methods/) after editing the registry.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Run the PowerShell Command for Re-Registering Apps
@@ -124,10 +120,6 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 
 ![The Add account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/add-account-button.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Restore Windows to an Earlier Time
 
  The System Restore tool can address some of the potential causes for Task Manager not working if you have it enabled. Much depends on whether you can select a restoration point that will roll Windows back to a date when Task Manager worked okay. If you can, rolling Windows back to an earlier time is worth a try when other potential solutions are ineffective.
@@ -136,6 +128,10 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 
 ![The System Restore window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/system-restore-window.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Reset Your Window PC
 
  This final resolution for the Task Manager not working is the most nuclear of the lot. Resetting Windows 11/10 will restore the platform to factory default settings by reinstalling it, which will obliterate malware and repair system file issues. It’s recommended as a last resort since resetting Windows will wipe out all the software you’ve installed.
@@ -143,6 +139,10 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
  You can apply this potential resolution with the Reset this PC tool, as covered in this article about [resetting Windows 10 or 11](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/#:~:text=To%20access%20this%20Windows%20reinstall,this%20PC%20to%20get%20started.). There’s no need to back up user files since you can select a **Keep my files** option within the Reset this PC window. Make sure the **Reinstall preinstalled apps** option is selected to retain the software bundled with your PC.
 
 ![The Reset this PC tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/reset-this-pc-tool.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Use Task Manager Within Windows Again
 
@@ -160,21 +160,18 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-the-power-of-pixels-a-review-of-the-4k-cg318-4k-monitor/"><u>[New] In 2024, The Power of Pixels A Review of the 4K CG318-4K Monitor</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unveiling-10plus-proven-techniques-for-selecting-the-finest-cricket-broadcasts/"><u>[New] Unveiling 10+ Proven Techniques for Selecting the Finest Cricket Broadcasts</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-essential-recording-steps-for-youtube-audio-extraction/"><u>[Updated] 2024 Approved Essential Recording Steps for YouTube Audio Extraction</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-step-into-success-the-essentials-you-need-to-know-about-fb-stories/"><u>[Updated] In 2024, Step Into Success The Essentials You Need to Know About FB Stories</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-unfollower-detection-on-instagram/"><u>2024 Approved Unfollower Detection on Instagram</u></a></li>
-<li><a href="https://windows11.techidaily.com/approaches-to-fix-failed-launch-of-lunar-client-in-windows/"><u>Approaches to Fix Failed Launch of Lunar Client in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/breaking-through-qbittorrent-lag-a-windows-guide/"><u>Breaking Through qBittorrent Lag: A Windows Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/diminishing-high-cpu-impact-of-tiworkerexe-applications/"><u>Diminishing High CPU Impact of TiWorker.exe Applications</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fixing-reset-failure-error-on-pcs-effective-strategies-explored/"><u>Fixing 'Reset Failure' Error on PCs – Effective Strategies Explored</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-add-a-hidden-items-context-menu-option-in-windows-10-and-11/"><u>How to Add a Hidden Items Context Menu Option in Windows 10 & 11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-your-itel-p55plus-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Itel P55+ Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/launching-the-system-rescue-console-easily/"><u>Launching the System Rescue Console Easily</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-complete-guide-to-quick-typing-in-gmail-learn-30-crucial-shortcuts/"><u>The Complete Guide to Quick-Typing in Gmail: Learn 30 Crucial Shortcuts</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-premier-selection-of-cost-free-high-efficiency-driver-utilities/"><u>The Premier Selection of Cost-Free, High-Efficiency Driver Utilities</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-choosing-a-cost-effective-smartwatch-a-look-at-beantechs-bitwatch-s1plus/"><u>The Ultimate Guide to Choosing a Cost-Effective Smartwatch - A Look at Beantech's Bitwatch S1+</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-the-stalled-windows-system-insight/"><u>Troubleshooting the Stalled Windows System Insight</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-basics-to-details-dji-inspire-2-explained/"><u>[New] From Basics to Details DJI Inspire 2 Explained</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-achieve-seamless-transitions-premiere-videos-on-youtube/"><u>[Updated] In 2024, Achieve Seamless Transitions Premiere Videos on YouTube</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-ultimate-guide-to-premiere-pro-planning-and-templates/"><u>[Updated] The Ultimate Guide to Premiere Pro Planning & Templates</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-next-level-gaming-with-msis-new-range-of-240hz-qd-oled-monitors-34-and-27-inch-1440p-ultra-fast-screens-enhanced-by-usb-c-connectivity/"><u>Experience Next-Level Gaming with MSI's New Range of 240Hz QD-OLED Monitors – 34 and 27 Inch 1440P Ultra-Fast Screens Enhanced by USB-C Connectivity</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On OnePlus Nord 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/is-the-intel-unison-app-not-working-on-windows-11-heres-how-to-fix-it/"><u>Is the Intel Unison App Not Working on Windows 11? Here's How to Fix It</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/logitech-g230-microphone-malfunction-discover-proven-repair-methods/"><u>Logitech G230 Microphone Malfunction? Discover Proven Repair Methods!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/perfect-picture-playback-selecting-the-top-8k-panels-for-2024/"><u>Perfect Picture Playback Selecting the Top 8K Panels for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/postponing-edges-tab-transition-on-windows-11/"><u>Postponing Edge's Tab Transition on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/proven-strategies-for-combining-diverse-windows-partitions/"><u>Proven Strategies for Combining Diverse Windows Partitions</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-display-driver-startup-issue-in-windows-11/"><u>Remedying Display Driver Startup Issue in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-lost-wi-fi-connection-on-windows-11-devices/"><u>Restoring Lost Wi-Fi Connection on Windows 11 Devices</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/cs-for-transforming-youtube-list-layouts-for-2024/"><u>Tactics for Transforming YouTube List Layouts for 2024</u></a></li>
 </ul></div>
 

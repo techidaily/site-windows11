@@ -1,7 +1,7 @@
 ---
 title: "Dealing with Active Directory Printer Problems: A Guide For WIN 10 Users"
-date: 2024-08-08T05:58:01.254Z
-updated: 2024-08-09T05:58:01.254Z
+date: 2025-01-05T21:38:53.536Z
+updated: 2025-01-10T22:21:14.409Z
 tags:
   - windows10
   - windows11
@@ -20,25 +20,20 @@ thumbnail: https://thmb.techidaily.com/85e69845f10f793c5b081e6eac45cea976095820d
 
  This error means that the software can’t detect a connected printer. It’s a widely reported issue to occur for MS Office applications but can affect a wide range of apps. These are the best ways to fix the “Active Directory Domain Services” error in Windows 10 and 11\.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Run the Printer Troubleshooter
 
  Windows has a Printer troubleshooter to help you fix printing issues. So, we recommend you try troubleshooting the “Active Directory Domain Services” error with that printer. You can open the Printer troubleshooting tool from Settings by following the instructions in our guide to [running troubleshooters on Windows 10 and 11](https://www.makeuseof.com/run-troubleshooter-windows-10-11/).
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Run button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-button.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When you’ve opened the Printer troubleshooter, select the printer model to fix and click **Next**. Then select **Apply this fix** for all possible resolutions suggested within the troubleshooter.
 
 ![The Printer troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/printer-troubleshooter.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ## 2\. Start or Restart Windows’ Print Spooler Service
 
  The Print Spooler service manages the printing queue. You might need to fix the “Active Directory Domain Services” error because that service has stopped running. Even if it is already running, restarting that service could also feasibly resolve this error. This is how you can start or restart the Print Spooler in Windows:
@@ -49,10 +44,12 @@ thumbnail: https://thmb.techidaily.com/85e69845f10f793c5b081e6eac45cea976095820d
 4. Double-click **Print Spooler** to view properties for that service.  
 ![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/services-window.jpg)
 5. Select the **Startup type** menu’s **Automatic** option if a different setting is set there.
-6. Click **Run** to start Print Spooler if it’s stopped.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+6. Click **Run** to start Print Spooler if it’s stopped.  
 ![The Print Spooler Properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/print-spooler-service-window.jpg)
 7. Select **Apply** and **OK** to save all the Print Spooler options you’ve just selected.
 
@@ -67,14 +64,20 @@ thumbnail: https://thmb.techidaily.com/85e69845f10f793c5b081e6eac45cea976095820d
 3. Right-click your printer and select **Uninstall device**.  
 ![The Uninstall device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/uninstall-device-option.jpg)
 4. Select **Uninstall** on the confirmation window.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Remove device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/remove-device-option.jpg)
 5. To reinstall a driver, right-click the printer in Device Manager and select **Search automatically for updated driver software** option. Windows will detect a printer driver available on your PC and install it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also reinstall a driver by downloading it from the device manufacturer’s website. Open the driver download page on your printer manufacturer’s website. Then select your printer model there and download the latest driver for it. Double-click the printer driver package you downloaded to bring up a setup wizard and select to install it from there.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Manually Add a Printer
 
  The Control Panel includes a Devices and Printers applet from which you can manually add printers. You can remove a printer and then manually add it from there to see if that fixes the “Active Directory Domain Services” error. Doing so will effectively reinstall the printer on your PC. Follow these steps to manually add the affected printer:
@@ -82,17 +85,23 @@ thumbnail: https://thmb.techidaily.com/85e69845f10f793c5b081e6eac45cea976095820d
 1. Press **Windows** key + **R**, enter **Control Panel** in Run’s **Open** box, and click **OK**.
 2. Then click **Devices and Printers** or **View devices and printers** within the Control Panel.
 3. If you can see it listed, right-click the printer you can't print with and select **Remove device**.  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The Remove device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/remove-device-option.jpg)
 4. Click **Yes** to remove the printer.
 5. Make sure the printer you want to add is connected to the PC.
 6. Press the **Add a printer** button in the Devices and Printers applet.  
 ![The Add a printer option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/add-a-printer.jpg)
 7. Select the printer you just removed and click **Next**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Add a device window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/add-a-device.jpg)
 8. If the printer you need isn’t available for selection within the wizard, click the printer that I want isn’t listed. Then select a suitable option for finding the printer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Edit Three Registry Keys' Permissions
 
@@ -105,18 +114,12 @@ thumbnail: https://thmb.techidaily.com/85e69845f10f793c5b081e6eac45cea976095820d
 ![The Permissions option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/permissions-option.jpg)
 4. Next, select the user profile in which the error occurs within the **Group** box.
 5. Then select the **Full Control** checkbox within the **Allow** column.  
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![The Full Control checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/full-control-checkbox.jpg)
 6. Repeat step five for all groups and user names shown within the **Security** tab.
 7. Click **Apply** to save the key’s new permission settings.
 8. Repeat the previous five steps for the **PrinterPorts** and **Windows** registry keys.
 9. Close out of Registry Editor and restart your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Try Printing With a Pre-Installed Windows App
 
  Windows includes some pre-installed apps with which you can print documents and images. Some of those pre-installed apps might be able to find your printer without issues. Users confirm finding a printer and printing with Notepad can resolve the “Active Directory Domain Services” error. This is how you can find a printer in Notepad:
@@ -125,26 +128,23 @@ thumbnail: https://thmb.techidaily.com/85e69845f10f793c5b081e6eac45cea976095820d
 2. Input a **Notepad** search phrase, and select that app’s result.
 3. Enter some text into Notepad.
 4. Then click **File** on Notepad’s menu bar.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![The Print option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/print-option.jpg)
 5. Select **Print** to bring up the **General** tab.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click the **Find Printer** button.  
 ![The Find Printer button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/print-window.jpg)
 7. If you can find the printer with Notepad, print the text you entered with that app.
 8. Then return to the software in which the “Active Directory Domain Services” error occurs to see if it can now find your printer.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## Get Printing Again on Windows
 
  The resolutions in this guide have worked for many users who’ve needed to fix the “Active Directory Domain Services” error on Windows PCs. So, maybe one of those possible fixes will work for you as well. Then you can print everything you need to with your preferred software packages in Windows again.
 
  This error means that the software can’t detect a connected printer. It’s a widely reported issue to occur for MS Office applications but can affect a wide range of apps. These are the best ways to fix the “Active Directory Domain Services” error in Windows 10 and 11\.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -152,4 +152,19 @@ thumbnail: https://thmb.techidaily.com/85e69845f10f793c5b081e6eac45cea976095820d
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-exhaustive-overview-insights-into-googles-podcast-application/"><u>[Updated] 2024 Approved Exhaustive Overview Insights Into Google's Podcast Application</u></a></li>
+<li><a href="https://facebook.techidaily.com/effective-methods-to-customize-fb-navigation-paths/"><u>Effective Methods to Customize FB Navigation Paths</u></a></li>
+<li><a href="https://article-files.techidaily.com/essential-tips-for-deactivating-an-inactive-linkedin-profile/"><u>Essential Tips for Deactivating an Inactive LinkedIn Profile</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-xs-max-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone XS Max without Losing Any Content? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-in-moving-between-focused-and-unfocused-states-within-windows-terminal/"><u>Mastery in Moving Between Focused and Unfocused States Within Windows Terminal</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-through-time-windows-11-file-history-essentials/"><u>Navigate Through Time: Windows 11 File History Essentials</u></a></li>
+<li><a href="https://extra-support.techidaily.com/organizing-overflow-of-tiktok-saves-for-effective-edits-for-2024/"><u>Organizing Overflow of TikTok Saves for Effective Edits for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/prime-5-podcast-options-for-your-iphone-experience-for-2024/"><u>Prime 5 Podcast Options for Your iPhone Experience for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-fix-windows-11-assistive-application/"><u>Strategies to Fix Windows 11 Assistive Application</u></a></li>
+<li><a href="https://windows11.techidaily.com/tweaking-device-settings-on-windows-11-a-step-by-step-guide/"><u>Tweaking Device Settings on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-breaks-boundaries-with-iosmacwindows-pc-support/"><u>Windows Breaks Boundaries with iOS/Mac/Windows PC Support</u></a></li>
+</ul></div>
 

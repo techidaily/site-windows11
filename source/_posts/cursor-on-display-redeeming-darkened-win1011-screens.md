@@ -1,7 +1,7 @@
 ---
 title: "Cursor on Display: Redeeming Darkened Win10/11 Screens"
-date: 2024-08-08T05:57:30.418Z
-updated: 2024-08-09T05:57:30.418Z
+date: 2025-01-04T18:11:39.255Z
+updated: 2025-01-10T19:41:23.711Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
 
  Finding yourself stuck with a Windows 10/11 black screen with a cursor is frustrating, but this article is here to help you with this issue. But how can you [fix Windows stuck on a black screen with just a cursor](https://www.passfab.com/windows-repair/how-to-fix-windows-11-black-screen-with-cursor.html) ?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Is My Windows 10/11 Stuck on a Black Screen With Cursor?
 
  This issue is characterized by a blank black screen with nothing but a cursor on display. You can’t use your PC, you can’t log in, and may not be able to shut down your device.
@@ -32,42 +36,37 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
 
  This first method is the easiest on this list, enabling you to rely on third-party tools to handle the job for you. You can download and use [PassFab FixUWin](https://www.passfab.com/products/fix-windows.html) for free, enabling you to try it out and get started without having to commit to purchasing a copy for yourself.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ### Step 1: Download & Install PassFab FixUWin
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![download fixuwin on website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/download-fixuwin.jpg)
 
  Head to the PassFab website and go to the FixUWin page. Click on**Free Trial** to download an executable file for your new software.
 
  Launch the executable file and click on**Install** once it opens, and wait for the install to finish before clicking on**Start** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 2: Create a New Windows Boot Disk/Drive
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![fixuwin create boot disk window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/fixuwin-create-boot-disk.jpg)
 
  You need a black CD/DVD or a USB drive to use PassFab FixUWin to fix Windows 10/11 black screen with a cursor. Insert your disk or drive into your computer and select**Create Boot Disk Now** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![fixuwin select drive and windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/fixuwin-select-drive-and-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Choose the version of Windows that matches the machine you are trying to fix and select the drive or disk you want to turn into a boot device before clicking**Next** and accepting the prompt that comes up.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fixuwin creating boot drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/fixuwin-creating-boot-drive.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 It will take a few minutes to create your new boot device.
 
@@ -86,8 +85,9 @@ It will take a few minutes to create your new boot device.
  PassFab is currently offering discounts of up to 80% across its range of software tools and utilities to celebrate Thanksgiving and Black Friday 2022\. This makes it possible to get your hands on a copy of [PassFab FixUWin](https://www.passfab.com/products/fix-windows.html) for just $39.95 per year.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 2: Reset Your PC
 
  Windows 10 and 11 both come with a feature to enable you to reset the operating system and all of its features. Open the Start Menu, type Reset This PC, and choose the first option from the list. Click**Get Started** in the Reset PC section and follow the prompts to reset your machine.
@@ -102,14 +102,11 @@ It will take a few minutes to create your new boot device.
 
 [PassFab FixUWin](https://www.passfab.com/products/fix-windows.html) is a simple tool that can fix an array of Windows issues with ease. You just need to press the button to get the software started, and it can fix problems like blank screens without any work on your part. What’s best, though, is that all of PassFab’s excellent tools are available at incredible discounts to celebrate Black Friday.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -118,6 +115,24 @@ It will take a few minutes to create your new boot device.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-step-by-step-screen-and-video-capture-on-android/"><u>[New] In 2024, Step-by-Step Screen and Video Capture on Android</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-broadcast-tools-battle-wirecast-versus-obs-in-detail/"><u>[Updated] Broadcast Tools Battle Wirecast versus OBS in Detail</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-step-up-your-game-expert-tips-on-producing-compelling-slow-motion-photos-and-videos-for-instagram-for-2024/"><u>[Updated] Step Up Your Game Expert Tips on Producing Compelling Slow Motion Photos and Videos for Instagram for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/advance-repair-for-bad-and-corrupt-video-files-of-samsung-galaxy-s23plus-by-stellar-video-repair-mobile-video-repair/"><u>Advance Repair for Bad and Corrupt Video Files of Samsung Galaxy S23+</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-guide-to-device-tweaks-in-the-latest-windows-version/"><u>Expert Guide to Device Tweaks in the Latest Windows Version</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-utorrent-connectivity-problems-on-pcs/"><u>Fixing uTorrent Connectivity Problems on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-missing-tabs-in-windows-11-file-explorer/"><u>How to Fix Missing Tabs in Windows 11 File Explorer</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-nokia-c300-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Nokia C300 Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-honor-x50-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-infinix-hot-30i-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Infinix Hot 30i to iPod | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/keep-your-pc-fresh-implementing-auto-file-cleanup-in-winos/"><u>Keep Your PC Fresh: Implementing Auto-File Cleanup in WINOS</u></a></li>
+<li><a href="https://windows11.techidaily.com/minimizing-distractions-with-wins-management-on-win-11/"><u>Minimizing Distractions with Wins Management on Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/old-meets-new-a-windows-11-transformation-into-98-style/"><u>Old Meets New: A Windows 11 Transformation Into 98 Style</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fixes-for-loading-issues-on-discord-software/"><u>Quick Fixes for Loading Issues on Discord Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-linguistic-leap-translating-words-via-windows-1011-hotkeys/"><u>Quick Linguistic Leap: Translating Words via Windows 10/11 Hotkeys</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/restore-pro-cleaning-up-corrupt-media/"><u>Restore Pro: Cleaning Up Corrupt Media</u></a></li>
+<li><a href="https://win-superb.techidaily.com/windows-11-update-fees-by-microsoft-to-kick-off-next-year-explore-the-potential-price-breakdown-and-implications/"><u>Windows 11 Update Fees by Microsoft to Kick Off Next Year; Explore the Potential Price Breakdown and Implications</u></a></li>
+</ul></div>
 

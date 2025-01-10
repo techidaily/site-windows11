@@ -1,7 +1,7 @@
 ---
 title: "The Nostalgic Pathway: Transform Windows 11 to '98"
-date: 2024-12-27T20:59:13.599Z
-updated: 2025-01-04T03:26:43.976Z
+date: 2025-01-05T20:47:20.389Z
+updated: 2025-01-10T23:32:06.827Z
 tags:
   - windows10
   - windows11
@@ -25,13 +25,13 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Things You'll Need to Make a Retro Windows 11
 
 ![screenshot of different programs downloaded in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_downloaded_files_in_windows_11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This process may not be for the faint of heart. We'll need several different tools to make sure we apply a classic theme over every inch we can, and at least one of these tools is a premium offering with a free trial.
 
@@ -40,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 ### WindowsBlinds 11 and Skin Pack
 
  Head over to the[WindowBlinds 11 product page](https://www.stardock.com/products/windowblinds/) to download the first program. You'll also need a user-made skin pack to go with it, which can be found at the[WinCustomize website](https://www.wincustomize.com/explore/windowblinds/9233/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Winaero Tweaker
 
@@ -57,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 
  RetroBar is pretty self-explanatory. It's going to be crucial to get our taskbar looking just right, as well as restore classic functionality. This is another program that you might find useful aside from its classic look. Find it on[the RetroBar GitHub page](https://github.com/dremin/RetroBar) and download it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Desktop Sidebar
 
  This one might be optional if you don't care for the mostly forgotten Channel Bar, but if you do, head over to[the download page for Desktop Sidebar](http://www.oldversion.com/windows/desktop-sidebar-1-03-build-42) to add it to the collection.
@@ -66,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
  Last, but very important, is the sound pack. We can import this directly as a sound scheme, although it's going to require some work later on. Download[this sound pack on Blockland Glass](https://blocklandglass.com/addons/addon.php?id=524) and we can finally begin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Install WindowBlinds 11 and Skin Pack
@@ -74,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 ![screenshot of windowblinds 11 selecting the classic theme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_windowblinds11_classic_theme.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Install WindowBlinds 11 using its .exe file, and after it has finished installing, simply double-click the**Windows 98 Classic.wba** file that you downloaded earlier. This will load the skin into WindowBlinds 11.
@@ -101,12 +101,16 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 
 This gives us a fairly authentic-looking Start Menu and icon.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Install RetroBar
 
 ![screenshot of the retrobar settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_retrobar_settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  RetroBar will make an immediate difference, as soon as you run it. You'll notice that it automatically changes your taskbar to a classic style, with individual tabs for programs.
@@ -116,7 +120,7 @@ This gives us a fairly authentic-looking Start Menu and icon.
  From here you can make some changes if you'd like, however, it launches with a Windows 98 theme applied out of the box, so there's not too much you'll need to do here.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Install Classic Sounds
@@ -140,6 +144,10 @@ This gives us a fairly authentic-looking Start Menu and icon.
 ## 5\. Desktop Sidebar
 
 ![screenshot of the windows sidebar with options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_windows_side_bar_options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Let's recreate something a bit more obscure. Using Desktop Sidebar, we're able to imitate the Windows 98 Channel Bar. Run the .exe for Desktop Sidebar to install it.
 
@@ -166,10 +174,6 @@ However, there is one icon you can only change using Winaero Tweaker.
 
  Search for the term libraries and open**Customize Libraries Item.** From here you can hit**Browse** and replace the Libraries icon with a Windows 98 equivalent. This icon appears frequently throughout Windows, so setting it to a classic look goes far in keeping up the classic theme.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Performance Tweaks for Authenticity
 
 ![screenshot of the power settings in windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_power_settings_in_windows.jpg)
@@ -183,10 +187,6 @@ However, there is one icon you can only change using Winaero Tweaker.
 ![screenshot of windows 11 desktop with classic skin applied](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_windows_11_with_skin_applied-2.jpg)
 
  The finished product feels very convincing when browsing and navigating menus. You'll feel right at home if you grew up on these classic Windows versions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What's New Is Old on Windows
 
@@ -211,21 +211,24 @@ However, there is one icon you can only change using Winaero Tweaker.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-full-featured-mac-video-and-audio-recorder-for-2024/"><u>[Updated] Full-Featured Mac Video & Audio Recorder for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-converting-youtube-journeys-into-animated-expressions-a-comprehensive-guide-for-mobiledesktop-users/"><u>[Updated] In 2024, Converting YouTube Journeys Into Animated Expressions A Comprehensive Guide for Mobile/Desktop Users</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-unleash-creative-power-instagrams-top-10-grid-makers/"><u>[Updated] Unleash Creative Power Instagram's Top 10 Grid Makers</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-transforming-live-engagements-into-lasting-media/"><u>2024 Approved Transforming Live Engagements Into Lasting Media</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-closer-look-at-devhome-enhancing-windows-11-performance/"><u>A Closer Look at DevHome: Enhancing Windows 11 Performance</u></a></li>
-<li><a href="https://windows11.techidaily.com/ace-your-development-setup-with-top-wsl-2-tricks/"><u>Ace Your Development Setup with Top WSL 2 Tricks</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-mcuicnt-file-execution-failure-on-windows/"><u>Addressing McUICnt File Execution Failure on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/clearing-up-the-confusing-blue-screen-error-0x8007007e/"><u>Clearing Up the Confusing Blue Screen Error: 0X8007007E</u></a></li>
-<li><a href="https://windows11.techidaily.com/converting-heic-photos-to-jpeg-on-windows-1011/"><u>Converting HEIC Photos to JPEG on Windows 10/11</u></a></li>
-<li><a href="https://windows11.techidaily.com/cooling-down-your-windows-11-computer/"><u>Cooling Down Your Windows 11 Computer</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-and-rectifying-the-pink-screen-dilemma/"><u>Decoding and Rectifying the Pink Screen Dilemma</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effortless-methods-to-increase-complexity-on-your-apple-watch-insights/"><u>Effortless Methods to Increase Complexity on Your Apple Watch - Insights</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-cutting-edge-approaches-to-mov-file-recordings-on-windows-10/"><u>In 2024, Cutting-Edge Approaches to MOV File Recordings on Windows 10</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/the-ultimate-list-facebooks-top-10-vids-for-2024/"><u>The Ultimate List Facebook's Top 10 Vids for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ated-free-tools-to-extract-youtube-text-tracks-for-2024/"><u>Top-Rated Free Tools to Extract YouTube Text Tracks for 2024</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/zwei-strategien-zur-uberwindung-von-bitlocker-wiederherstellungsschlusselfehlern-in-windows-11-schritt-fur-schritt-leitfaden/"><u>Zwei Strategien Zur Überwindung Von BitLocker-Wiederherstellungsschlüsselfehlern in Windows 11 - Schritt-Für-Schritt-Leitfaden</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-how-to-make-macbook-pro-video-tutorials-easy/"><u>[New] 2024 Approved How to Make Macbook Pro Video Tutorials Easy</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-bringing-your-vision-alive-transferring-vids-from-premiere/"><u>[Updated] In 2024, Bringing Your Vision Alive Transferring Vids From Premiere</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unleashing-brand-potential-with-essential-phrases/"><u>[Updated] Unleashing Brand Potential with Essential Phrases</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/complete-tutorial-on-converting-and-watching-mtsm2ts-hd-videos-on-an-ipad-device/"><u>Complete Tutorial on Converting and Watching MTS/M2TS HD Videos on an iPad Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-updated-drivers-for-nvidia-rtx-nc60-super-on-windows-11-enhance-your-gaming-experience/"><u>Download Updated Drivers for Nvidia RTX nC60 Super on Windows 11 - Enhance Your Gaming Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-guide-to-github-desktop-usage-for-novice-windows-11-users/"><u>Essential Guide to GitHub Desktop Usage for Novice Windows 11 Users</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-apple-iphone-6s-location-on-viber-drfone-by-drfone-virtual-ios/"><u>How to Change/Fake Your Apple iPhone 6s Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>How To Teleport Your GPS Location On Apple iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-convenient-method-to-design-original-shorts-thumbnails/"><u>In 2024, Convenient Method to Design Original Shorts Thumbnails</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-fn-button-a-comprehensive-guidebook/"><u>Navigating the Fn Button: A Comprehensive Guidebook</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-the-wacatacbml-scourge-in-windows-environments/"><u>Navigating Through the Wacatac.B!ml Scourge in Windows Environments</u></a></li>
+<li><a href="https://video-capture.techidaily.com/step-by-step-guide-to-transforming-youtube-clips-into-flac-audio-format-with-minimal-hassle/"><u>Step-by-Step Guide to Transforming YouTube Clips Into FLAC Audio Format with Minimal Hassle</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-overcome-game-hub-connectivity-issues/"><u>Strategies to Overcome Game Hub Connectivity Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlined-workflows-with-uwp-app-shortcuts-on-windows-11/"><u>Streamlined Workflows with UWP App Shortcuts on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/sync-solutions-for-win1011-users-with-adobe-not-available/"><u>Sync Solutions for Win10/11 Users with Adobe Not Available</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-persistent-ms-teams-authentication-problems/"><u>Tackling Persistent MS Teams Authentication Problems</u></a></li>
+<li><a href="https://article-posts.techidaily.com/top-30-whatsapp-biographies-for-every-astrology-follower-for-2024/"><u>Top 30 WhatsApp Biographies for Every Astrology Follower for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-windows-11-for-5ghz-wi-fi-issues/"><u>Troubleshooting Windows 11 for 5GHz Wi-Fi Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-windows-potential-from-esd-to-iso-file-transformation/"><u>Unlocking Windows' Potential: From ESD to ISO File Transformation</u></a></li>
 </ul></div>
 

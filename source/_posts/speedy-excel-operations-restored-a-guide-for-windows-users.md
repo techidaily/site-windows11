@@ -1,7 +1,7 @@
 ---
 title: "Speedy Excel Operations Restored: A Guide for Windows Users"
-date: 2024-12-28T20:11:59.874Z
-updated: 2025-01-03T23:41:50.896Z
+date: 2025-01-07T17:34:24.043Z
+updated: 2025-01-10T19:50:00.641Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Run Excel in Safe Mode
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
  Restart Excel on your PC and enable your add-ins one at a time. Try using Excel after enabling each add-in and observe its performance. Once you identify the faulty add-in, consider removing it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Optimize Excel for Compatibility
@@ -82,26 +82,22 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 
 ![Enable Manual Calculation in Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/enable-manual-calculation-in-excel.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Reduce the Size of Your Excel File
 
  The larger your spreadsheet, the more calculations and operations Excel has to perform. This can have a negative impact on Excel's performance and lead to various problems. To avoid this, you can try reducing the size of your Excel workbook by decreasing the number of sheets, removing unnecessary formatting, and compressing any pictures within your workbook.
 
  Another thing you can do is save your Excel file in binary (.xslb) format. To do so, press **F12** on your keyboard to bring up the **Save As** dialog in Excel. Click the drop-down menu next to **Save as type** to select **Excel Binary Workbook (\*.xslb)** and click the **Save** button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Save As Dialog in Excel
 
 ![Save As Dialog in Excel](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/save-as-dialog-in-excel.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Update Microsoft Excel
@@ -112,6 +108,10 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 2. Select **Account** from the left sidebar.
 3. Click **Update Options > Update Now**.  
 ![Update Microsoft Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/update-microsoft-excel.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Wait for Microsoft Office to update Excel along with other Office apps and check if that fixes the problem.
 
@@ -127,10 +127,6 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 6. Select the **Quick Repair** option and then click **Repair**.  
 ![Repair Microsoft Office](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/repair-microsoft-office.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Allow the repair tool to fix any issues with Excel. If the issue remains even after that, you can perform an **Online Repair** instead. This will allow the tool to perform a more comprehensive repair to resolve any issues.
 
 ## 8\. Try Some Generic Windows Fixes
@@ -140,6 +136,10 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 * **Close Background Apps:** Running an excessive number of apps and programs simultaneously can strain system resources, leading to slow performance in Excel. Try [closing apps and programs](https://www.makeuseof.com/windows-close-apps-programs/) you don’t need to free up system resources and see if that helps.
 * **Repair Your Excel File:** If Excel experiences lag only when you work on a specific workbook, there might be an issue with that file itself. In that case, you can try [repairing the Excel workbook](https://www.makeuseof.com/repair-courrpted-excel-workbook/) to solve the problem.
 * **Speed Up Your Windows PC:** Issues with your Windows computer can make it seem like there's a problem with Excel. If your [Windows computer is running slowly or lagging](https://www.makeuseof.com/ways-to-fix-slow-lagging-windows-11/), try changing the power plan or freeing up storage space to fix the problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Experience a Lag-Free Excel Again on Windows
 
@@ -157,22 +157,19 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-golden-5-premier-macsierra-dvd-makers/"><u>[New] 2024 Approved Golden 5 Premier MacSierra Dvd Makers</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/1716069515113-new-2024-approved-no-money-down-best-free-video-chat-platforms/"><u>[New] 2024 Approved No Money Down? Best Free Video Chat Platforms!</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/he-ultimate-selection-identifying-best-12-vloggers-camera-choices/"><u>[New] The Ultimate Selection Identifying Best 12 Vloggers' Camera Choices</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-from-unnoticed-to-noteworthy-building-a-viral-fb-presence/"><u>[Updated] In 2024, From Unnoticed to Noteworthy Building a Viral FB Presence</u></a></li>
-<li><a href="https://windows11.techidaily.com/activating-telnet-on-windows-3-key-methods/"><u>Activating Telnet on Windows: 3 Key Methods</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-non-operational-state-of-ccleaner-on-win1011-systems/"><u>Addressing Non-Operational State of CCleaner on Win10/11 Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-unavailable-display-settings-in-nvidia-software/"><u>Addressing Unavailable Display Settings in Nvidia Software</u></a></li>
-<li><a href="https://windows11.techidaily.com/bring-back-sound-on-systems-running-low-volume-errors/"><u>Bring Back Sound on Systems Running Low Volume Errors</u></a></li>
-<li><a href="https://windows11.techidaily.com/concealing-windows-11s-taskbar-search-function/"><u>Concealing Windows 11'S Taskbar Search Function</u></a></li>
-<li><a href="https://windows11.techidaily.com/create-your-own-windows-speech-recognition-app-with-autohotkey-and-whisper/"><u>Create Your Own Window's Speech Recognition App with AutoHotkey and Whisper</u></a></li>
-<li><a href="https://windows11.techidaily.com/cutting-edge-windows-11-shortcut-personalization-techniques/"><u>Cutting-Edge Windows 11 Shortcut Personalization Techniques</u></a></li>
-<li><a href="https://windows11.techidaily.com/ditch-default-home-port-on-w11-settings-interface/"><u>Ditch Default Home Port on W11 Settings Interface</u></a></li>
-<li><a href="https://fox-that.techidaily.com/expert-advice-safely-refreshing-your-ios-devices-system/"><u>Expert Advice: Safely Refreshing Your iOS Device's System</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-nokia-150-2023-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Nokia 150 (2023) without App | Dr.fone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-simplify-avi-video-editing-16-top-avi-cutters-for-trimming-and-cutting-cross-platform-compatibility/"><u>New 2024 Approved Simplify AVI Video Editing 16 Top AVI Cutters for Trimming and Cutting Cross-Platform Compatibility</u></a></li>
-<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Infinix Hot 30 5G | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/universal-unlock-pattern-for-nokia-c22-by-drfone-android/"><u>Universal Unlock Pattern for Nokia C22</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-chapter-insertion-in-youtube-videos-an-all-inclusive-handbook/"><u>[Updated] Mastering Chapter Insertion in YouTube Videos An All-Inclusive Handbook</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-palette-perfection-the-colorists-manual/"><u>[Updated] Palette Perfection The Colorist's Manual</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/discover-the-most-effective-iphone/"><u>Discover the Most Effective iPhone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-play-7t-by-fonelab-android-recover-video/"><u>How to recover old videos from your Play 7T</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-deciding-the-best-for-screens-is-obs-more-effective-than-fraps/"><u>In 2024, Deciding the Best for Screens Is OBS More Effective than Fraps?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/solving-the-issue-unsuccessful-attempts-at-launching-the-witcher-3-wild-hunt/"><u>Solving the Issue: Unsuccessful Attempts at Launching The Witcher 3: Wild Hunt</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-to-intensifying-excel-grid-lines/"><u>Step-by-Step Guide to Intensifying Excel Grid Lines</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-combining-multiple-charts-with-excels-overlay-feature/"><u>Step-by-Step Guide: Combining Multiple Charts with Excel's Overlay Feature</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-renaming-series-within-an-ms-excel-dataset/"><u>Step-by-Step Guide: Renaming Series Within an MS Excel Dataset</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-tutorial-on-arranging-data-values-within-microsoft-excel/"><u>Step-by-Step Tutorial on Arranging Data Values Within Microsoft Excel</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211247369-9781507209677-the-little-book-of-self-care-for-taurus/"><u>The Little Book of Self-Care for Taurus | Free Book</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-13-essential-microsoft-excel-datetime-formulas-every-user-must-master/"><u>Top 13 Essential Microsoft Excel Date/Time Formulas Every User Must Master</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-6-tips-for-creating-simple-and-legible-excel-sheets/"><u>Top 6 Tips for Creating Simple and Legible Excel Sheets</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-elevating-your-video-projects-with-audio-synchronization-in-magix-pro/"><u>Updated 2024 Approved Elevating Your Video Projects with Audio Synchronization in Magix Pro</u></a></li>
 </ul></div>
 

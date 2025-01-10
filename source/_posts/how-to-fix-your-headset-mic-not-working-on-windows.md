@@ -1,7 +1,7 @@
 ---
 title: How to Fix Your Headset Mic Not Working on Windows
-date: 2024-12-29T01:18:44.881Z
-updated: 2025-01-03T17:31:47.125Z
+date: 2025-01-03T19:29:58.487Z
+updated: 2025-01-10T22:11:47.682Z
 tags:
   - windows10
   - windows11
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/d02f0d2061399f021d19d9bbfd673d9a86e502373
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Perform Some Preliminary Checks
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/d02f0d2061399f021d19d9bbfd673d9a86e502373
  If none of the above checks and fixes work, apply the remaining fixes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Ensure That the Microphone Isn't Muted
@@ -61,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/d02f0d2061399f021d19d9bbfd673d9a86e502373
 
  If you don't have the Realtek audio console installed on your device, you can download it from the [Microsoft Store](https://apps.microsoft.com/store/detail/realtek-audio-control/9P2B8MCSVPLN?hl=en-us&gl=us).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Ensure That the Microphone Is Properly Plugged In
 
  If your headset has a 3.5mm audio cable, plug it into the microphone jack. When plugging it in, you may also need to select the microphone and speaker options from the pop-ups on your desktop. So, be careful when you do that.
@@ -74,12 +78,16 @@ thumbnail: https://thmb.techidaily.com/d02f0d2061399f021d19d9bbfd673d9a86e502373
 ![Green and Black Razer Headset Sitting on Mousepad on Gamer’s Desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/green-and-black-razer-headset-sitting-on-mousepad-on-gamer-s-desk.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Is your headset already unmuted and correctly plugged in? If that is the case, ensure your microphone is not faulty, which could be why it isn't picking up your voice. The easiest way to find that out is to connect your headset to a different device (assuming you have one) and see if it works there.
 
  If your headset mic also doesn't work on your other device, it could be faulty. If that is the case, you should have your hardware inspected by a nearby technician. However, if the other device detects the microphone, your hardware isn't faulty; probably misconfigured OS settings are to blame.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Select the Right Microphone and Test It
 
@@ -89,17 +97,9 @@ thumbnail: https://thmb.techidaily.com/d02f0d2061399f021d19d9bbfd673d9a86e502373
 
 ![Select the Main Headset Microphone in Sound Settings of the Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/select-the-main-headset-microphone-in-sound-settings-of-the-settings-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After that, test the microphone by clicking the **Start test** button. If your microphone successfully records the sound, the headset is now configured correctly.
 
 ![Test the Headset Microphone in the Sound Properties Windows of the Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/test-the-headset-microphone-in-the-sound-properties-windows-of-the-settings-app.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Make the Headset Microphone Your Default Audio Input Device
 
@@ -127,12 +127,12 @@ thumbnail: https://thmb.techidaily.com/d02f0d2061399f021d19d9bbfd673d9a86e502373
 ![Go to the Microphone Option Under App Permissions in the Privacy and Security Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/8-go-to-the-microphone-option-under-app-permissions-in-the-privacy-and-security-tab-of-the-windows-settings-app.jpg)
 4. Turn on the toggle next to **Microphone access**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. After that, locate the app where the headset microphone isn't working and turn on the toggle next to it.  
 ![Turn On the Toggle Next to App to Enable Microphone Access in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/9-turn-on-the-toggle-next-to-app-to-enable-microphone-access-in-windows-settings-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Select the Correct Microphone in the App's Settings
 
@@ -156,24 +156,20 @@ thumbnail: https://thmb.techidaily.com/d02f0d2061399f021d19d9bbfd673d9a86e502373
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-transforming-instagram-vids-into-a-backup-solution-via-computers-and-macs-for-2024/"><u>[New] Transforming Instagram Vids Into a Backup Solution via Computers & Macs for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-harnessing-the-power-of-personal-success-stories-in-videos/"><u>[Updated] Harnessing the Power of Personal Success Stories in Videos</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-stepwise-guide-to-travel-back-in-time-with-facebooks-archive-laptop-and-mobile/"><u>[Updated] In 2024, Stepwise Guide to Travel Back in Time with Facebook's Archive (Laptop & Mobile)</u></a></li>
-<li><a href="https://windows11.techidaily.com/10-must-have-microsoft-store-apps-for-a-new-windows-pc/"><u>10 Must-Have Microsoft Store Apps for a New Windows PC</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Oppo A78 5G | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/adding-tools-to-clipboard-access-for-easier-compatibility-fixes/"><u>Adding Tools to Clipboard Access for Easier Compatibility Fixes</u></a></li>
-<li><a href="https://windows11.techidaily.com/best-practices-for-turning-off-your-pc-safely/"><u>Best Practices for Turning Off Your PC Safely</u></a></li>
-<li><a href="https://windows11.techidaily.com/compre-written-guide-to-repair-xbox-live-glitches/"><u>Compre Written Guide To Repair Xbox Live Glitches</u></a></li>
-<li><a href="https://windows11.techidaily.com/configuring-windows-11-security-filters-in-context-menu/"><u>Configuring Windows 11 Security Filters in Context Menu</u></a></li>
-<li><a href="https://windows11.techidaily.com/determining-hddssd-in-windows-a-step-by-step-guide/"><u>Determining HDD/SSD in Windows: A Step-by-Step Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/disabling-admin-settings-causing-windows-security-failsafe/"><u>Disabling Admin Settings Causing Windows Security Failsafe</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719374504396-dive-into-the-depth-of-complete-screenshots-via-windows-snipping-tool/"><u>Dive Into the Depth of Complete Screenshots via Windows' Snipping Tool.</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/exclusive-notice-updated-legal-info/"><u>Exclusive Notice: Updated Legal Info</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-htc-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your HTC Phone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1723808150529-install-essential-dell-drivers-on-your-windows-operating-system-easily/"><u>Install Essential Dell Drivers on Your Windows # Operating System Easily!</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/mastering-photo-repair-top-10-tools-for-pc-users-and-mac-owners/"><u>Mastering Photo Repair: Top 10 Tools for PC Users & Mac Owners</u></a></li>
-<li><a href="https://article-tips.techidaily.com/peering-into-the-digital-universe-what-is-vr/"><u>Peering Into the Digital Universe What Is VR?</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719369938575-run-a-free-locally-stored-gpt-on-your-pc-with-gpt4all/"><u>Run a Free, Locally-Stored GPT on Your PC with GPT4All.</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/the-definitive-guide-for-pc-mac-and-smartphone-movie-logging-for-2024/"><u>The Definitive Guide for PC, Mac, and Smartphone Movie Logging for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-dimming-down-music-effortlessly-on-computers-macos-and-windows/"><u>[New] Dimming Down Music Effortlessly on Computers (macOS & Windows)</u></a></li>
+<li><a href="https://games-able.techidaily.com/eliminating-steam-cloud-connectivity-fails/"><u>Eliminating Steam Cloud Connectivity Fails</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-geforce-experience-error-code-0x0001-in-windows-10-and-11/"><u>How to Fix the GeForce Experience Error Code 0X0001 in Windows 10 & 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-share-games-on-ps4-2021-easy-guide/"><u>How to Share Games on PS4 — 2021 Easy Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-critique-of-the-gopro-hero5-camera-sessions/"><u>In 2024, Critique of the GoPro Hero5 Camera Sessions</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-poco-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Poco Pattern Lock Screen</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Samsung Galaxy A23 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-kinemaster-guide-to-green-screening/"><u>In 2024, The Ultimate KineMaster Guide to Green Screening</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-and-fixing-windows-update-problems/"><u>Navigating and Fixing Windows Update Problems</u></a></li>
+<li><a href="https://windows11.techidaily.com/notepaddarkmodetoggleprocedurewinos/"><u>NotepadDarkModeToggleProcedureWinOS</u></a></li>
+<li><a href="https://windows11.techidaily.com/one-command-for-closing-all-windows-tasks-instantly/"><u>One Command for Closing All Windows Tasks Instantly</u></a></li>
+<li><a href="https://windows11.techidaily.com/revitalizing-the-file-explorer-ui/"><u>Revitalizing the File Explorer UI</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-win11-overcoming-errors-in-team-communication-app/"><u>Streamlining Win11: Overcoming Errors in Team Communication App</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-complete-walkthrough-to-jdk-installation-on-windows-11/"><u>The Complete Walkthrough to JDK Installation on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/win-strategies-eradicating-disk-read-failures/"><u>Win Strategies: Eradicating Disk Read Failures</u></a></li>
 </ul></div>
 

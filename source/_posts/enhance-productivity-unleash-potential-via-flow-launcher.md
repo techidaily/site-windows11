@@ -1,7 +1,7 @@
 ---
 title: "Enhance Productivity: Unleash Potential via Flow Launcher"
-date: 2024-07-29T04:24:13.799Z
-updated: 2024-07-30T04:24:13.799Z
+date: 2025-01-07T22:59:15.470Z
+updated: 2025-01-10T22:23:12.999Z
 tags:
   - windows10
   - windows11
@@ -20,28 +20,23 @@ thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2
 
 Here's how to get the most from this popular productivity tool.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Install Flow Launcher
 
  You will need to download and install Flow Launcher from[GitHub](https://github.com/Flow-Launcher/Flow.Launcher/releases/tag/v1.9.5) , rather than through the Microsoft Store. You can choose between an installed version and a portable one. We have used the installed version for this guide.
 
 1. Download the**Flow-Launcher-Setup.exe** file from the GitHub page. After downloading the file, double-click it to begin the setup.
 2. Follow the steps to install Flow Launcher, choosing the language, hotkeys, and any other settings.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![the flow launcher installation steps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/flowlauncher-install.jpg)
 3. If your chosen hotkey fails to register, it means it is already in use by another app or service. You'll need to pick an alternative one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  With the setup complete, you're almost ready to begin using Flow Launcher to get things done more efficiently. But before you do, it is worth changing a few settings. Right-click the Flow Launcher icon in the system tray and choose**Settings** .
 
  In the**General** tab, uncheck the box next to**Hide Flow Launcher when focus is lost** . This stops the search box from automatically closing when not in use. You can still hide and reveal the box using the hotkey you set up earlier.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Editing the flow launcher settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/flowlauncher-settings.jpg)
 
  You can also change the number of results shown in the search box when you begin typing. Ranging from the default 5 to as many as 17\. Showing 8-10 search results should be the most efficient amount for most people.
@@ -52,9 +47,6 @@ Here's how to get the most from this popular productivity tool.
 
  If you are looking for even more ways to[improve productivity in Windows](https://www.makeuseof.com/set-up-windows-pc-maximum-productivity/) , we have some helpful ideas.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Launch Apps With Flow Launcher
 
  Flow Launcher makes it easy to search for and open almost anything, including apps. No need to hunt through the Start Menu apps list; just search, click, and open.
@@ -64,6 +56,10 @@ Here's how to get the most from this popular productivity tool.
 3. As soon as you see the required app in the list, you can click it to open it or press the displayed shortcut, e.g.**Alt + 2** .
 
 ![launching an app with Flow Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/flowlauncher-searchapp.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Search Files More Effectively
 
@@ -82,16 +78,18 @@ Here's how to get the most from this popular productivity tool.
 * You can even use it to perform simple calculations. Type**5\*5** to see what 5 multiplied by 5 equals. Other mathematical symbols you can use include + (plus), - (minus), and /(divided by).
 * If you want to search in a specific directory, type the directory name between percentage symbols, e.g.**%programfiles%\\** . You will also need to include a trailing backslash.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![searching for directories in flowlauncher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/flowlauncher-searchdirectory.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When you start using Flow Launcher, you might see a result such as**Allow Web Searches Plugin** . This will activate an existing plugin available within Flow Launcher. You can also download and install extra plugins from the store.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Add Extra Features With Flow Launcher Plugins
 
  There are several plugins already installed and activated in Flow Launcher. You can enable and disable these whenever you like in the settings. You can also easily add extra plugins to further increase the scope of the utility.
@@ -101,6 +99,10 @@ Here's how to get the most from this popular productivity tool.
 3. Click the plugin name and then click the**Install** button.
 4. The Flow Launcher window will open with a search for that plugin. Click the result and agree to the installation in the popup message.
 5. The plugin will be added to the plugin list, where you can enable and disable it as required.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Uninstalling Flow Launcher
 
@@ -112,14 +114,11 @@ Here's how to get the most from this popular productivity tool.
 
  Flow Launcher is an outwardly simple tool that might have you wondering why you need another search box. But dig a little deeper, and you should quickly see how powerful and helpful it can be. If you are looking for ways to improve your productivity in Windows 10 or 11 this is a brilliant place to start.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -128,4 +127,18 @@ Here's how to get the most from this popular productivity tool.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-how-to-prevent-and-mend-live-stream-glitches-fb/"><u>[New] 2024 Approved How to Prevent & Mend Live Stream Glitches (FB)</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-strategies-for-amplifying-your-yt-viewership-quickly/"><u>[Updated] In 2024, Strategies for Amplifying Your YT Viewership Quickly</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-vanguard-of-virtual-fame-instagrams-25-luminaries/"><u>[Updated] The Vanguard of Virtual Fame Instagram's 25 Luminaries</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-techniques-overcoming-wwe-2k23-crash-issues-in-windows/"><u>Efficient Techniques: Overcoming WWE 2K23 Crash Issues in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficiently-altering-windows-group-policies/"><u>Efficiently Altering Windows Group Policies</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-your-windows-experience-with-tpm-and-secure-boot-setup/"><u>Elevate Your Windows Experience with TPM & Secure Boot Setup</u></a></li>
+<li><a href="https://windows11.techidaily.com/enabling-end-task-feature-for-optimized-window-management-in-windows-11-ui/"><u>Enabling End Task Feature for Optimized Window Management in Windows 11 UI</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-virtual-machine-speed-in-windows-a-6-step-guide/"><u>Enhance Virtual Machine Speed in Windows - A 6-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/new-world-performance-tuning-strategies-to-correct-game-lags-and-connection-faults/"><u>New World Performance Tuning: Strategies to Correct Game Lags and Connection Faults</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/izing-content-editing-youtube-descriptions-and-titles-for-growth/"><u>Optimizing Content Editing YouTube Descriptions & Titles for Growth</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/world-record-thermal-runoff-achieved-by-splave-with-ryzene-9-3900xt-and-liquid-nitrogen-cooling/"><u>World Record Thermal Runoff Achieved by Splave with Ryzene 9 3900XT and Liquid Nitrogen Cooling</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Disable the App Open Tracker in Windows 10
-date: 2024-08-08T05:56:35.758Z
-updated: 2024-08-09T05:56:35.758Z
+date: 2025-01-07T16:14:37.239Z
+updated: 2025-01-10T16:43:19.227Z
 tags:
   - windows10
   - windows11
@@ -21,17 +21,15 @@ thumbnail: https://thmb.techidaily.com/22c39789b5fe1ed667e7cca081a20115c82b1e475
  If you're uncomfortable with Windows monitoring your application usage, there are a few ways to disable app launch tracking on your Windows PC.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. How to Disable App Launch Tracking Through Windows Settings
 
  To disable app launch tracking, open the Start menu and type **Settings** in the search bar. Select the **Settings** option in the search results. In the left-side menu, click the **Privacy & security** tab. Then click **General** under the Windows permissions section.
 
  On the next page, locate **Let Windows improve Start and search results by tracking app launches** and toggle it off.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Disable App Launch Tracking through Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/disable-app-launch-tracking-through-windows-settings.jpg)
 
  After making the changes, Windows will stop tracking and recording your app launches.
@@ -39,8 +37,9 @@ thumbnail: https://thmb.techidaily.com/22c39789b5fe1ed667e7cca081a20115c82b1e475
  If you ever need to re-enable the feature, repeat the same steps and toggle the switch back on. This will enable Windows to start tracking and recording your app launches.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. How to Disable App Launch Tracking Using the Group Policy Editor
 
  You can also disable app launch tracking using the Group Policy Editor. But this method is only available in the Pro and Enterprise versions.
@@ -52,20 +51,19 @@ thumbnail: https://thmb.techidaily.com/22c39789b5fe1ed667e7cca081a20115c82b1e475
 3. In the Group Policy Editor window, navigate to the following path:  
 `User Configuration > Administrative Templates > Windows Components > Edge UI​`
 4. Go to the right side of the window and double-click on **Turn off tracking of app usage**.  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Disable App Launch Tracking using Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/disable-app-launch-tracking-using-group-policy-editor.jpg)
 5. On the next page, check the **Enabled** box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click **Apply** \> **OK** to save your changes.
 
  This way, you can disable app launch tracking using the group policy editor.
 
  To enable the feature again, follow the same steps and navigate to _User Configuration > Administrative Templates > Windows Components > Edge UI_. Then double-click on **Turn off tracking of app usage** and check the **Not Configured** or **Disabled** option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. How to Disable App Launch Tracking Through the Registry Editor
 
  Registry Editor is another method to disable app launch tracking. The process is tricky as you need to manually modify the registry keys and one wrong move can cause serious problems. So, we suggest you [create a backup of the registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before changing it.
@@ -81,15 +79,20 @@ thumbnail: https://thmb.techidaily.com/22c39789b5fe1ed667e7cca081a20115c82b1e475
 6. Name it **Advanced** and press the Enter key.
 7. Now, right-click on the **Advanced** folder and choose **New** \> **DWORD (32-bit) Value**.
 8. Name it **Start\_TrackProgs** and hit Enter.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Disable App Launch Tracking through the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/disable-app-launch-tracking-through-the-registry-editor.jpg)
 9. Double-click on the **Start\_TrackProgs** DWORD and set its value to **0**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you're done, close the Registry Editor and restart your computer. Now, Windows won't track or record app launches.
 
  If you ever want to turn back on app launch tracking, double-click on the **Start\_TrackProgs** DWORD in Registry Editor and set its value to **1**. After that, restart your system for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Windows Won’t Track or Monitor the Apps You Use
 
@@ -97,12 +100,33 @@ thumbnail: https://thmb.techidaily.com/22c39789b5fe1ed667e7cca081a20115c82b1e475
 
  If you're uncomfortable with Windows monitoring your application usage, there are a few ways to disable app launch tracking on your Windows PC.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-snapshot-savvy-learn-to-pin-on-snapchat/"><u>[New] 2024 Approved Snapshot Savvy Learn to Pin on Snapchat</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-9-fitness-trends-to-captivate-your-online-audience-with-action-for-2024/"><u>[New] 9 Fitness Trends to Captivate Your Online Audience with Action for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-a-step-by-step-manual-to-freeze-backgrounds-in-affinity-photo-for-2024/"><u>[New] A Step-by-Step Manual to Freeze Backgrounds in Affinity Photo for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-to-blending-multiple-exposures-into-a-single-hdr-in-lightroom/"><u>[New] The Ultimate Guide to Blending Multiple Exposures Into a Single HDR in Lightroom</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-the-best-photography-enhancers-for-ios-and-android-guide/"><u>[Updated] In 2024, The Best Photography Enhancers for iOS & Android Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-strategies-to-procure-perfect-photographic-archives/"><u>2024 Approved Strategies to Procure Perfect Photographic Archives</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-cease-built-in-desktop-keyboard-in-windows-os/"><u>Guide to Cease Built-In Desktop Keyboard in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-clearing-winsec-error-limited-administrator/"><u>Guide to Clearing WinSec Error - 'Limited Administrator'</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-guarantee-windows-screensaver-immobility/"><u>How to Guarantee Windows Screensaver Immobility</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-tackle-winservicesexe-malfunctions/"><u>How To Tackle WinServices.exe Malfunctions</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-servers-problems-quick-and-effective-tips/"><u>Navigating Through Servers Problems: Quick & Effective Tips</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-sync-up-5-essential-apps-for-making-lip-sync-videos/"><u>New Sync Up! 5 Essential Apps for Making Lip Sync Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/rejuvenating-pcs-essential-13-tricks-for-restoring-systems/"><u>Rejuvenating PCs: Essential 13 Tricks for Restoring Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-mystery-repairing-msvcr80dll-file-is-missing-or-lost-issues/"><u>Solving the Mystery: Repairing 'Msvcr80.dll' File Is Missing or Lost Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-art-of-crafting-a-better-windows-11/"><u>The Art of Crafting a Better Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshoot-error-non-working-windows-11-voice-access/"><u>Troubleshoot Error: Non-Working Windows 11 Voice Access</u></a></li>
+<li><a href="https://windows11.techidaily.com/why-does-tasker-show-other-processes/"><u>Why Does Tasker Show Other Processes?</u></a></li>
+</ul></div>
 

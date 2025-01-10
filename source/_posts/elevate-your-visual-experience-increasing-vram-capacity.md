@@ -1,7 +1,7 @@
 ---
 title: "Elevate Your Visual Experience: Increasing VRAM Capacity"
-date: 2024-07-29T04:23:30.368Z
-updated: 2024-07-30T04:23:30.368Z
+date: 2025-01-08T18:16:17.295Z
+updated: 2025-01-10T19:42:07.609Z
 tags:
   - windows10
   - windows11
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/1c03d365cac6fcf7e3665fd76e7449b8b7d6ebbb0
  But what even is this, and how can you increase VRAM? Read on for everything you need to know about video RAM in Windows 10 and 11.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is Dedicated Video RAM (VRAM)?
 
  Video RAM (or VRAM, pronounced "VEE-ram") is a special type of RAM that works with your computer's graphics processing unit, or GPU.
@@ -32,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/1c03d365cac6fcf7e3665fd76e7449b8b7d6ebbb0
  Your video RAM holds information that the GPU needs, including game textures and lighting effects. This allows the GPU to quickly access the info and output video to your monitor.
 
  Using video RAM for this task is much faster than using your system RAM because video RAM is right next to the GPU in the graphics card. VRAM is built for this high-intensity purpose and it's thus "dedicated."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Check Your VRAM in Windows 10 and Windows 11
 
@@ -43,18 +48,12 @@ thumbnail: https://thmb.techidaily.com/1c03d365cac6fcf7e3665fd76e7449b8b7d6ebbb0
 4. On the resulting menu, select the monitor you'd like to view settings for (if necessary). Then click the**Display adapter properties** text at the bottom.
 5. In a new window, you'll see your current video RAM listed next to**Dedicated Video Memory** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Windows 10 Video RAM Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/Windows-10-Video-RAM-Information.png)
 
  To reach this menu on Windows 11, go to**Settings > System > Display > Advanced display** . Then choose a display and click**Display adapter properties** .
 
  Under**Adapter Type** , you'll see the name of your**Nvidia** or**AMD** graphics card, depending on what device you have. If you see**AMD Accelerated Processing Unit** or**Intel HD Graphics** (more likely), you're[using integrated graphics](https://www.makeuseof.com/tag/can-shared-graphics-finally-compete-with-a-dedicated-graphics-card/) . We cover more on this below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## How to Increase VRAM in Windows
 
  The best way to increase your video RAM is to purchase a new or better graphics card. If you're using integrated graphics and suffer from poor performance, upgrading to a dedicated card (even one of[the best budget graphics cards](https://www.makeuseof.com/tag/best-budget-graphics-card/) ) will do wonders for your video output.
@@ -68,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/1c03d365cac6fcf7e3665fd76e7449b8b7d6ebbb0
  These should contain an option to adjust how much memory you allocate to the GPU. The default is usually**128MB** ; try upping this to**256MB** or**512MB** if you have enough to spare.
 
  Not every CPU or BIOS has this option, though. If you can't change it, there's a workaround that might help you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Faking a VRAM Increase in Windows
 
@@ -85,15 +88,15 @@ Head to the following location:
 
  Select**New > DWORD (32-bit) Value** . Name this**DedicatedSegmentSize** and give it a value, making sure to select the**Decimal** option. In megabytes, the minimum value is**0** (disabling the entry) and the maximum is**512** . Set this value, restart your computer, and see if it helps a game run better. If not, try a higher value and repeat.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Registry Intel Edit VRAM Value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/Registry-Intel-Edit-VRAM-Value.png)
 
  These methods aren't guaranteed to fix your video memory issues, but they're still worth a try if you run into problems. If you don't have a lot of system RAM and are having trouble running games with integrated graphics, try adding additional RAM or[freeing up RAM](https://www.makeuseof.com/tag/5-ways-clear-memory-increase-ram-windows-computer/) for the integrated graphics to use. With integrated graphics, your system will use your standard RAM, instead of dedicated video RAM in a graphics card, so you need plenty to run games smoothly.
 
  Like with most hardware tasks, upgrading your RAM or video card is often difficult on a laptop but simple to do on a desktop.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Kinds of Tasks Need Video RAM?
 
@@ -109,9 +112,6 @@ Head to the following location:
 
  Specific games can also require different amounts of VRAM depending on their graphical fidelity. An older cartoony game like Team Fortress 2 isn't too graphically demanding, but a title with lots of advanced lighting effects and detailed textures, like Cyberpunk 2077, needs more resources.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![cyberpunk 2077 xbox series x](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/11/cyberpunk-2077.jpg)
 
  Conversely, a cheap card with just 2GB of VRAM (or even integrated graphics with 8GB+ of system RAM) is sufficient for playing PC titles from 20-plus years ago. Games back then had nowhere near modern amounts of RAM at their disposal.
@@ -132,6 +132,10 @@ Head to the following location:
 
  Extremes aren't the concern with VRAM. You don't need an $800, top-of-the-line card with 12GB of VRAM to play 2D indie platformers. Really, you only need to worry about how much VRAM to get when a card you want to buy is available in multiple VRAM configurations. VRAM isn't the only[factor that should go into your GPU decision](https://www.makeuseof.com/tag/5-things-know-buying-graphics-card/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Common Video RAM Concerns
 
  Remember that just like normal RAM, more VRAM doesn't always mean better performance. If your card has 4GB of VRAM and you're playing a game that only uses 2GB, upgrading to an 8GB card isn't going to do anything noticeable.
@@ -142,9 +146,6 @@ Head to the following location:
 
  The best way to find out which specific graphics card and amount of video RAM is right for you is to talk to someone knowledgeable. Ask a friend who knows about the latest graphics cards, or post on a forum like Reddit or Tom's Hardware asking if a specific card would work for your needs.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Understanding VRAM With Integrated Graphics
 
  So far, our discussion has assumed that you have a dedicated graphics card in your PC. Most people who build their own computer or buy a prebuilt gaming PC have a desktop with a video card. Some beefier laptops even include a dedicated graphics card.
@@ -163,14 +164,11 @@ Head to the following location:
 
  So if you're looking to increase gaming and graphical performance, you'll likely need to upgrade your graphics card, processor, and/or RAM first—the VRAM should sort itself out when you do all this.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -179,4 +177,26 @@ Head to the following location:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-automating-youtube-playback-in-social-networks-a-focus-on-facebook-for-2024/"><u>[New] Automating Youtube Playback in Social Networks A Focus on Facebook for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-simplified-guide-to-iphone-screen-adjustment/"><u>[New] Simplified Guide to iPhone Screen Adjustment</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/op-100-films-distilled-youtube-channels-guide-for-2024/"><u>[New] Top 100 Films Distilled YouTube Channels Guide for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/endless-minecraft-crashes-try-these-6-simple-steps-for-a-smooth-gaming-experience/"><u>Endless Minecraft Crashes? Try These 6 Simple Steps for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-record-audio-while-screen-recording-in-the-windows-11-snipping-tool/"><u>How to Record Audio While Screen Recording in the Windows 11 Snipping Tool</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-xiaomi-redmi-a2plus-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Xiaomi Redmi A2+ Phone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-perfecting-the-pause-how-to-craft-exceptional-slow-motion-videos/"><u>In 2024, Perfecting the Pause How to Craft Exceptional Slow Motion Videos</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/lg-24lh4830-pu-smart-tv-review/"><u>LG 24LH4830-PU Smart TV Review</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-windows-11-like-a-pro-essential-search-hacks-revealed/"><u>Navigate Windows 11 Like a Pro: Essential Search Hacks Revealed</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-system-errors-fixes-for-win11-fs-failures/"><u>Navigating System Errors: Fixes for Win11 FS Failures</u></a></li>
+<li><a href="https://windows11.techidaily.com/opera-stuck-quick-window-fixes-to-unlock/"><u>Opera Stuck? Quick Window Fixes to Unlock</u></a></li>
+<li><a href="https://windows11.techidaily.com/propel-your-workspace-ahead-with-w11s-auto-organization-magic/"><u>Propel Your Workspace Ahead with W11's Auto-Organization Magic</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-start-launching-the-command-prompt-in-various-versions-of-windows-os/"><u>Quick Start: Launching the Command Prompt in Various Versions of Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/solve-windows-color-control-woes-efficiently/"><u>Solve Window's Color Control Woes Efficiently</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-overcome-xbox-service-disconnect-error/"><u>Steps to Overcome Xbox Service Disconnect Error</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-your-user-experience-with-these-5-tips/"><u>Streamline Your User Experience with These 5 Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-win-rpc-errors-a-5-step-guide/"><u>Troubleshooting Win RPC Errors - A 5-Step Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-xiaomi-redmi-note-12-proplus-5g-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Xiaomi Redmi Note 12 Pro+ 5G Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-mastery-how-to-install-and-uninstall-optional-add-ons-successfully/"><u>Windows Mastery: How to Install and Uninstall Optional Add-Ons Successfully</u></a></li>
+</ul></div>
 

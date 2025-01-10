@@ -1,7 +1,7 @@
 ---
 title: "Seamless Windows Upgrades: Mastering the Installation of Elusive Features"
-date: 2025-01-02T20:02:36.434Z
-updated: 2025-01-03T23:59:05.547Z
+date: 2025-01-04T17:59:54.184Z
+updated: 2025-01-10T16:08:25.472Z
 tags:
   - windows10
   - windows11
@@ -38,10 +38,6 @@ To use the DISM tool, follow these steps:
 3. Type**dism /online /cleanup-image /restorehealth** and press**Enter** .  
 ![DISM Windows Utility Overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/dism-windows-utility.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This will start the DISM tool and begin scanning your system for any corrupt or missing files. If it finds any issues with your computer, it will automatically repair them.
 
  Once the process is complete, you can restart your computer and try installing the optional feature again. If DISM does not work or throws an error code, make sure to go through the[DISM not working fixes](https://www.makeuseof.com/windows-11-dism-error-2-fix/) .
@@ -60,7 +56,7 @@ To check your system using SFC, follow these steps:
 3. Once SFC scans for errors, make sure to restart your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Want to know the best part?
@@ -104,10 +100,6 @@ Follow these steps to run the update troubleshooter on Windows:
 ![Troubleshooter Settings In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/troubleshooter-settings-in-windows.jpg)
 3. Click**Run** next to**Windows Update** to run the troubleshooter.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Other Troubleshooters In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/other-troubleshooters-in-windows.jpg)
 4. Follow the prompts to complete the troubleshooting process.
 
@@ -116,7 +108,7 @@ Follow these steps to run the update troubleshooter on Windows:
  The troubleshooter will begin scanning your system for any issues with the update process and will offer suggestions for how to fix them. So, you just need to follow the prompts, and then try[installing the optional features](https://www.makeuseof.com/how-to-add-remove-optional-features-windows-11/) again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Update Windows to the Latest Version
@@ -132,7 +124,7 @@ Here's how you can update Windows to the latest version:
 ![Windows Update In Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-update-in-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That's it. Now, you can install any update that is available for your computer.
@@ -140,7 +132,7 @@ Here's how you can update Windows to the latest version:
  By default, Windows automatically downloads and installs updates, but you can also check for updates manually by following the steps above.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Restart the Windows Module Installer Service
@@ -154,6 +146,10 @@ Here's how you can update Windows to the latest version:
 3. Scroll down and find the**Windows Module Installer** service.
 4. Right-click on the service and select**Restart** .  
 ![Windows Modules Installer Service In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-modules-installer-service.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When you reset the module installer service, Windows tries to stop it and then start it again, which can help reset the installation process of optional features and fix any issues that might be causing problems.
 
@@ -171,6 +167,10 @@ Here's how you can update Windows to the latest version:
 Get-WindowsOptionalFeature -Online  
 ![Get Optional Feature Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/get-optional-feature-command.jpg)  
  This command will show you the**FeatureName** and**State** of every optional Windows feature that you can use. Make sure to copy the "**FeatureName** " of the feature that you want to enable on Windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. To turn on a certain feature, use the following command and replace "**FEATURENAME** " with the feature's name that you copied earlier:  
 Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME  
@@ -202,20 +202,21 @@ Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-metaverse-giggle-guide-generating-20plus-amusing-virtual-creations/"><u>[New] 2024 Approved Metaverse Giggle Guide Generating 20+ Amusing Virtual Creations</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-cut-through-clutter-expert-tips-on-editing-overflowing-tiktoks/"><u>[Updated] In 2024, Cut Through Clutter Expert Tips on Editing Overflowing TikToks</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-image-editing-ditching-backgrounds-in-affinity-photo/"><u>2024 Approved Streamline Image Editing Ditching Backgrounds in Affinity Photo</u></a></li>
-<li><a href="https://windows11.techidaily.com/automate-image-display-7-clever-strategies-for-windows-11/"><u>Automate Image Display: 7 Clever Strategies for Windows 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comment-liberer-son-contenu-avi-pour-lecran-par-conversion-gratuite-en-mkv-via-vlc-et-handbrake/"><u>Comment Libérer Son Contenu AVI Pour L'Écran Par Conversion Gratuite en MKV Via VLC Et Handbrake</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhancing-remote-access-stability-a-step-by-step-approach/"><u>Enhancing Remote Access Stability: A Step-by-Step Approach</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-motorola-edge-40-neo-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Motorola Edge 40 Neo</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-upgrade-to-virtualbox-70-on-windows-11/"><u>How to Upgrade to VirtualBox 7.0 on Windows 11</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-leaders-in-affordable-web-based-photography-tools/"><u>In 2024, Leaders in Affordable Web-Based Photography Tools</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-windows-efficiently-techniques-bypassing-ls-command/"><u>Navigating Windows Efficiently: Techniques Bypassing LS Command</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-invalid-temp-directories-in-windows-11/"><u>Resolving Invalid Temp Directories in Windows 11</u></a></li>
-<li><a href="https://howto.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-nubia-red-magic-8s-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-4-benefits-of-owning-a-playstation-5-is-it-worth-the-purchase/"><u>Top 4 Benefits of Owning a PlayStation 5 - Is It Worth the Purchase?</u></a></li>
-<li><a href="https://windows11.techidaily.com/turbocharging-windows-solid-state-drives-utilizing-fresh-tools/"><u>Turbocharging Windows' Solid State Drives - Utilizing Fresh Tools</u></a></li>
-<li><a href="https://windows11.techidaily.com/unraveling-the-mystery-of-non-existent-mmc-snaps/"><u>Unraveling the Mystery of Non-Existent MMC Snaps</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-record-whole-page-visuals/"><u>[New] In 2024, Record Whole Page Visuals</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevate-your-youtube-traffic-best-hash-tactics-explained/"><u>[Updated] 2024 Approved Elevate Your YouTube Traffic Best Hash Tactics Explained</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-control-a-roku-tv-without-a-remote/"><u>How to Control a Roku TV Without a Remote</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-realme-c51-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/is-social-media-saturation-arriving-with-facebook/"><u>Is Social Media Saturation Arriving with Facebook?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-nokia-c22-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-corruption-write-restoration-in-windows-systems/"><u>Preventing Corruption: Write Restoration in Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/repairing-lopsided-one-side-windows-headphone-sounds/"><u>Repairing Lopsided One-Side Windows Headphone Sounds</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-usb30-device-failure-on-windows-oses/"><u>Resolving USB3.0 Device Failure on Windows OSes</u></a></li>
+<li><a href="https://common-error.techidaily.com/searching-for-hidden-tool-to-manage-screen-contrast/"><u>Searching for Hidden Tool to Manage Screen Contrast</u></a></li>
+<li><a href="https://windows11.techidaily.com/skyrocketing-yuzu-speeds-on-windows-devices/"><u>Skyrocketing Yuzu Speeds on Windows Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-folder-integration-overcoming-onedrives-error/"><u>Streamlining Folder Integration: Overcoming OneDrive's Error</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-teen-dramas-and-comedies-streaming-on-netflix-today/"><u>Top-Rated Teen Dramas and Comedies Streaming on Netflix Today</u></a></li>
+<li><a href="https://windows11.techidaily.com/turn-on-windows-11s-direct-image-viewing/"><u>Turn On Windows 11'S Direct Image Viewing</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-full-potential-of-windows-11-calendar/"><u>Unlocking Full Potential of Windows 11 Calendar</u></a></li>
 </ul></div>
 

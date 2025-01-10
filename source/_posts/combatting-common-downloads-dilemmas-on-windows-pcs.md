@@ -1,7 +1,7 @@
 ---
 title: Combatting Common Downloads Dilemmas on Windows PCs
-date: 2024-08-08T05:56:19.899Z
-updated: 2024-08-09T05:56:19.899Z
+date: 2025-01-03T16:18:06.568Z
+updated: 2025-01-10T17:04:44.319Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/71b29e512538a1ca57df111d49f95a750cd58f363
 
  Not being able to download files with browsers is a serious Windows issue. If you can’t download files with Edge or any other of your installed browsers, this is how you can fix files not downloading on a Windows 10 or 11 PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Free Up Drive Storage Space
 
  First, we recommend you check how much free space is available on your PC’s hard drive. You might not be able to download any files because your PC’s hard drive has hardly any free space left on it. Check out [how to check your local drive storage](https://www.makeuseof.com/windows-11-check-locak-drive-storage-space/) for several methods on how to view how much space is left on a drive.
@@ -28,23 +32,14 @@ thumbnail: https://thmb.techidaily.com/71b29e512538a1ca57df111d49f95a750cd58f363
 
 ![The Disk Clean-up window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disk-clean-up-tool.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Run the SFC and DISM Command-Line Tools
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/sfc-scannow.jpg)
 
  Another possibility is that something has gone wrong with Windows' system files. So, try [repairing corrupted Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/), specifically the System File Checker and the Deployment Image Servicing and Management command-line tools.
 
  The SFC tool patches up corrupted files and DISM addresses system image issues.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Select a Different Download Location in Your Browser
 
  Most Windows browsers download files to the Downloads user folder by default. There could be an issue with that folder. In this case, selecting a different download location with browser settings might work for some users.
@@ -52,6 +47,14 @@ thumbnail: https://thmb.techidaily.com/71b29e512538a1ca57df111d49f95a750cd58f363
  Our article about [changing the default download location in browsers](https://www.makeuseof.com/change-default-download-location-popular-browsers/) tells you how to apply this potential resolution with Firefox, Chrome, Edge, Opera, and Vivaldi.
 
 ![The Downloads location setting in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/download-location-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Change the Current Location in the Website Data Settings
 
@@ -61,59 +64,46 @@ thumbnail: https://thmb.techidaily.com/71b29e512538a1ca57df111d49f95a750cd58f363
 2. Enter **internet options** in the search box.
 3. Click **Internet Options** to view the Internet Properties window.
 4. Next, click **Settings** on the **General** tab.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![The General tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/general-tab.jpg)
 5. If the current location is not set to your local C: drive, click on the **Move folder** button.  
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Website Data Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/current-location.jpg)
 6. Select a folder on your PC’s C: drive and click **OK**.
 7. Then click **Yes** on the logoff prompt.
 
  We also recommend checking some security settings in Internet Properties. Click **Custom level** on the **Security** tab. Make sure the **File download** and **Font download** options are enabled there. If they’re not, select the **Enable** radio buttons for those settings and click **OK**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Run an Antivirus Scan
 
  Malware is another potential cause for your browsers not downloading files since it can cause many kinds of internet-related issues. If you have third-party antivirus software installed, run an antivirus scan with that app to check for and purge malware. Or you can run a manual antivirus can with Windows Security like this:
 
 1. Double-click Windows Security’s shield icon inside the system tray.
 2. Click **Scan options** on the View & threat protection tab.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Scan options navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/scan-options.jpg)
 3. Select **Full scan** for the most thorough antivirus scanning.
 4. Click **Scan now** to start the scanning.  
 ![full-scan-options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/full-scan-options.jpg)
 5. Select **Start actions** to eradicate detected malware.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Disable Any Active Third-Party Antivirus Utilities
 
  Third-party antivirus apps shouldn't stop you from downloading any files. However, they can interfere with downloads when set to the highest protection settings. To check if a third-party security app is causing this issue, right-click on its antivirus system tray icon and select an option for temporarily disabling its shield. Then try to download a file in your browser again.
 
 ![Disable Avast antivirus temporarily](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/disable-avast.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If this works, you can’t risk leaving antivirus protection off for too long. Consider uninstalling your antivirus utility and re-enabling real-time protection in the pre-installed Windows Security app. Or look for some settings in your security software to reduce the level of its antivirus protection.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Temporarily Turn Off the Windows Firewall Utility
 
  Windows Defender Firewall is a security utility that monitors inbound and outbound network traffic on your PC. This tool can affect file downloads when set to block connections. So, try [turning off Windows Defender Firewall](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) to see if that makes a difference.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Turn off Windows Defender Firewall (not recommended) radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-firewall-options.jpg)
 
  If disabling Windows Defender Firewall works, it’s not a good idea to leave it off. Resetting that firewall to its default configuration will likely disable the rules causing the issue. To do that, click the **Restore defaults** in the Windows Defender Firewall Control Panel applet. Then click the **Restore defaults** button.
@@ -140,6 +130,14 @@ thumbnail: https://thmb.techidaily.com/71b29e512538a1ca57df111d49f95a750cd58f363
 
 ![The Reset this PC window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/reset-this-pc.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Download Files Again on Your Windows PC
 
  Those potential resolutions will address most of the possible causes for your Windows browsers not downloading files when there’s nothing wrong with your internet connection. Go through all those troubleshooting methods to find one that fixes files not downloading on your PC.
@@ -148,12 +146,31 @@ thumbnail: https://thmb.techidaily.com/71b29e512538a1ca57df111d49f95a750cd58f363
 
  Not being able to download files with browsers is a serious Windows issue. If you can’t download files with Edge or any other of your installed browsers, this is how you can fix files not downloading on a Windows 10 or 11 PC.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-boosting-engagement-interpreting-youtube-video-data/"><u>[New] 2024 Approved Boosting Engagement Interpreting YouTube Video Data</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-instagram-soundtracks-download-and-design-your-own/"><u>[New] Instagram Soundtracks Download & Design Your Own</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-keeping-secrets-on-screen-tips-for-private-content-reduction/"><u>[Updated] 2024 Approved Keeping Secrets on Screen Tips for Private Content Reduction</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-masterclass-splitting-your-screen-for-maximum-impact-on-facebook-live/"><u>[Updated] 2024 Approved Masterclass Splitting Your Screen for Maximum Impact on Facebook Live</u></a></li>
+<li><a href="https://windows11.techidaily.com/delving-into-ais-weak-spot-the-art-of-prompt-injection/"><u>Delving Into AI's Weak Spot: The Art of Prompt Injection</u></a></li>
+<li><a href="https://windows11.techidaily.com/implementing-python-on-windows-for-optimized-file-transfer/"><u>Implementing PYTHON on Windows for Optimized File Transfer</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-motorola-g54-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Motorola G54 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-slow-download-issues-with-ease-win/"><u>Overcoming Slow Download Issues with Ease (Win)</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fixes-for-disrupted-voice-command-functionality-on-win11/"><u>Quick Fixes for Disrupted Voice Command Functionality on Win11</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategic-tech-investment-cpu-or-gpu-first/"><u>Strategic Tech Investment: CPU or GPU First?</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-no-network-signal-on-pc/"><u>Tackling No Network Signal on PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tech-tales-of-triumph-repairing-your-pc-with-chatai/"><u>Tech Tales of Triumph - Repairing Your PC with ChatAI</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-path-to-a-fortified-pc-with-windows-11-and-tpmsecure-boot/"><u>The Path to a Fortified PC with Windows 11 & TPM/Secure Boot</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-oneplus-by-drfone-android/"><u>Top 10 Password Cracking Tools For OnePlus</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-woos-resolve-opera-download-hitch/"><u>Windows Woos: Resolve Opera Download Hitch</u></a></li>
+<li><a href="https://windows11.techidaily.com/winfix-guide-reviving-dormant-wsreset-service-process/"><u>Winfix Guide: Reviving Dormant WSReset Service Process</u></a></li>
+</ul></div>
 

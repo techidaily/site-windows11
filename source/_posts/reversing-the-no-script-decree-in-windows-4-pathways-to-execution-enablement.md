@@ -1,7 +1,7 @@
 ---
 title: "Reversing the No-Script Decree in Windows: 4 Pathways to Execution Enablement"
-date: 2024-12-31T19:02:28.213Z
-updated: 2025-01-04T01:45:27.387Z
+date: 2025-01-05T22:49:24.425Z
+updated: 2025-01-10T21:22:01.310Z
 tags:
   - windows10
   - windows11
@@ -38,19 +38,15 @@ thumbnail: https://thmb.techidaily.com/8e847bcd25e1bb956f9c0d5ed5c3e1ee40f922a7b
 
 ![Selecting the Windows PowerShell (Admin) option on the Quick Access Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/selecting-the-windows-powershell-admin-option-on-the-quick-access-menu.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  And if that doesn’t help, check out [the various ways to open Windows PowerShell](https://www.makeuseof.com/windows-open-command-prompt-powershell/). But you should only focus on the methods that show you how to run the tool with administrative privileges.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Change the Execution Policy in PowerShell
 
  In some instances, changing the execution policy could help. But before we explore the solutions, let’s first take you through what the execution policy is and how it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What Is the Execution Policy, and How Does It Work?
 
@@ -94,10 +90,6 @@ thumbnail: https://thmb.techidaily.com/8e847bcd25e1bb956f9c0d5ed5c3e1ee40f922a7b
 
 ![Displaying the list of execution policies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/displaying-the-list-of-execution-policies.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This should show you how the execution policies are configured for different users and systems.
 
  To can change the execution policy to “Unrestricted” for the current active user, type the following command and press **Enter**:
@@ -113,7 +105,7 @@ thumbnail: https://thmb.techidaily.com/8e847bcd25e1bb956f9c0d5ed5c3e1ee40f922a7b
  When you finish running the command, close PowerShell and restart your PC to save these changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Change the Execution Policy to "ByPass"
@@ -134,6 +126,10 @@ thumbnail: https://thmb.techidaily.com/8e847bcd25e1bb956f9c0d5ed5c3e1ee40f922a7b
 
 ![A lady using a Windows PC while holding a cup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-lady-using-a-Windows-PC-while-holding-a-cup.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Local Group Policy Editor (LGPE) also makes it easy for you to change the execution policy. In fact, this tool can also help you configure various system settings or troubleshoot tons of PC issues.
 
  Remember, the main aim is to change the execution policy such that you’ll be able to run your PowerShell scrips without a hassle. And by so doing, you’ll get rid of the “running scripts is disabled” error on PowerShell.
@@ -152,9 +148,17 @@ thumbnail: https://thmb.techidaily.com/8e847bcd25e1bb956f9c0d5ed5c3e1ee40f922a7b
 
  From there, click **Apply** and then click **OK** to save these changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Change the Execution Policy Using the Registry Editor
 
 ![A lady using her Windows PC while sitting on bed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-lady-using-her-Windows-PC-while-sitting-on-bed.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the other methods didn’t help, then try changing the execution policy using the Registry Editor. However, you need to be careful when editing Registry keys. If you tweak the wrong keys, then you might end up damaging your PC.
 
@@ -182,10 +186,6 @@ thumbnail: https://thmb.techidaily.com/8e847bcd25e1bb956f9c0d5ed5c3e1ee40f922a7b
 
  After entering your preferred value in the "Value data" section, press **OK** to save the changes. Finally, close the Registry Editor and then restart your device.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Run Your PowerShell Scripts Without Any Restrictions
 
  It can be quite frustrating when you suddenly can’t execute certain commands on Windows PowerShell. But if you come across the “scripts is disabled” error, the solutions we’ve covered should help.
@@ -206,18 +206,16 @@ thumbnail: https://thmb.techidaily.com/8e847bcd25e1bb956f9c0d5ed5c3e1ee40f922a7b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-enhancing-iphones-in-night-mode-silhouettes-for-2024/"><u>[New] Enhancing iPhones in Night Mode Silhouettes for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-pro-tips-top-11-inexpensive-youtube-naming-tools/"><u>[Updated] 2024 Approved Pro Tips Top 11 Inexpensive YouTube Naming Tools</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-optimized-approach-to-delete-unwanted-youtube-posts/"><u>[Updated] Optimized Approach to Delete Unwanted YouTube Posts</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-ranking-the-finest-windows-11-video-grabbers-for-2024/"><u>[Updated] Ranking the Finest Windows 11 Video Grabbers for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-perfecting-your-google-podcast-submission-process/"><u>2024 Approved Perfecting Your Google Podcast Submission Process</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/eliminate-troubleshooting-roadblocks-for-compatibility-issues/"><u>Eliminate Troubleshooting Roadblocks for Compatibility Issues</u></a></li>
-<li><a href="https://windows11.techidaily.com/fasten-up-your-windows-devices-with-top-fixes-for-slow-web-linkage/"><u>Fasten Up Your Windows Devices with Top Fixes for Slow Web Linkage</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-rectify-non-existent-lock-screen-countdown/"><u>How to Rectify Non-Existent Lock Screen Countdown</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-epic-playground-the-top-10-alternatives-to-grand-theft-auto-v/"><u>In 2024, Epic Playground The Top 10 Alternatives to Grand Theft Auto V</u></a></li>
-<li><a href="https://windows11.techidaily.com/remedial-tactics-for-loading-errors-in-discord-software/"><u>Remedial Tactics for Loading Errors in Discord Software</u></a></li>
-<li><a href="https://windows11.techidaily.com/stopping-google-chrome-alerts-tips-for-windows/"><u>Stopping Google Chrome Alerts: Tips for Windows</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-5-from-zte-axon-40-lite-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from ZTE Axon 40 Lite to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-ultimate-selection-of-zero-cost-online-terminal-access/"><u>[New] Ultimate Selection of Zero-Cost Online Terminal Access</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-tailored-techniques-to-cut-off-unwanted-youtube-content-on-devices/"><u>[Updated] 2024 Approved Tailored Techniques to Cut Off Unwanted YouTube Content on Devices</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-excel-2010-vba-runtime-error-9-subscript-out-of-range-stellar-by-stellar-guide/"><u>Fixed Excel 2010 VBA Runtime Error 9 Subscript Out of Range | Stellar</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-probing-financial-depths-an-analysis-of-mr-beasts-wealth/"><u>In 2024, Probing Financial Depths An Analysis of Mr. Beast's Wealth</u></a></li>
+<li><a href="https://windows11.techidaily.com/leveraging-charging-notifications-in-modern-windows-os/"><u>Leveraging Charging Notifications in Modern Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-backspace-failures-in-windows-environments/"><u>Overcoming Backspace Failures in Windows Environments</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pushing-the-boundaries-with-sony-discovering-4k-on-smartphones-for-2024/"><u>Pushing the Boundaries with Sony - Discovering 4K on Smartphones for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/reducing-unrealcefsubprocess-power-footprint-on-windows-os/"><u>Reducing UnrealCEFSubprocess Power Footprint on Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/reigniting-your-wifi-detection-capabilities-in-win11/"><u>Reigniting Your Wifi Detection Capabilities in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-keeping-calculator-visible-at-top/"><u>Strategies for Keeping Calculator Visible at Top</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upgrade-to-next-gen-search-perplexity-ai-unveiled/"><u>Upgrade to Next-Gen Search: Perplexity AI Unveiled</u></a></li>
 </ul></div>
 

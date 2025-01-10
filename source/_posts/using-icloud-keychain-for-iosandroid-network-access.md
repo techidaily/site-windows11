@@ -1,7 +1,7 @@
 ---
 title: Using iCloud Keychain for iOS/Android Network Access
-date: 2025-01-01T03:14:17.125Z
-updated: 2025-01-03T22:07:47.448Z
+date: 2025-01-04T20:55:02.953Z
+updated: 2025-01-10T16:42:41.962Z
 tags:
   - windows10
   - windows11
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 
  Windows Network Share utilizes the SMB protocol internally to make files, directories, or, entire drives available for read/write access for devices on the local network. While it's super easy and swift to set up, it's also a common target for adversaries. So, it's wise that you learn [how the SMB protocol works and some common SMB vulnerabilities](https://www.makeuseof.com/what-is-smb-protocol-and-what-are-its-risks/) to ensure that your network perimeter isn't breached.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Share a Windows Drive on Your Local Network
 
  To access your computer's files, you need to share them on the local network. For the demonstration, I'll be sharing a drive on the local network. If you wish to share a folder or a single file instead, you can follow the same steps but with only the folder(s) and file(s) selected.
@@ -48,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 4. Click on **Advanced Settings** in the new pop-up menu, check the **Share this folder** box, and wait, it's not over yet. Now to prevent unsolicited access to your locally shared drives, click on **Permissions**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. In the new menu that pops up, click on **Add**. Yet another box should pop up. Here, type in the username of your user account. Use a dedicated user account only for network access or use your primary account's username and press **Enter**. You should find your name is present on the list of users with permission to the shared drive.  
@@ -56,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 6. Finally, click on your account name, and in the **Permissions for <account name>** section, check the **Full Control** box and hit **Apply**.  
 
 ![Adding permissions to the user account and confimring changes by pressing on Apply](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/adding-permissions-to-the-user-account-and-confimring-changes-by-pressing-on-apply.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  That's all the steps to share your drive on the local network. However, if you run into any trouble, it's recommended you check out the [dedicated guide on enabling Windows Network Share](https://www.makeuseof.com/how-network-file-share-windows-10/).
 
@@ -73,18 +73,18 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 ![Selecting Network Share on Files app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/selecting-network-share-on-files-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Selecting SMB Protocol](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/selecting-smb-protocol.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Manually adding the device and account details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/manually-adding-the-device-and-account-details.jpg)
 
 ![Access established to the drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/access-established-to-the-drive.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -108,11 +108,11 @@ Close
 
 ![Typing in user account credentials](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/typing-in-user-account-credentials.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Access established to the drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/access-established-to-the-drive.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![The shared drive being listed on the Browse Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-shared-drive-being-listed-on-the-browse-menu.jpeg)
 
@@ -121,7 +121,7 @@ Close
  Now you should be able to view the files on the shared drive. You can now download, upload or modify the local files on your Windows PC with ease and without having to download any third-party application.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Access Your PC Files on iOS/Android Without Third-Party Apps
@@ -140,17 +140,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-enhancing-community-management-with-discord-roles/"><u>[Updated] 2024 Approved Enhancing Community Management with Discord Roles</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-elevate-console-experience-with-personalized-audio-settings-for-2024/"><u>[Updated] Elevate Console Experience with Personalized Audio Settings for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/conquering-access-denial-during-system-installation/"><u>Conquering Access Denial During System Installation</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/estrategia-de-optimizacion-seo-con-el-softwre-xdvd-windows-guia-completa/"><u>Estrategia De Optimización SEO Con El Softwre XDVD Windows - Guía Completa</u></a></li>
-<li><a href="https://windows11.techidaily.com/graphics-driver-restart-procedure-in-windows-11/"><u>Graphics Driver Restart Procedure in Windows 11</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/masters-blueprint-for-navigating-high-stakes-language-exams/"><u>Master's Blueprint for Navigating High-Stakes Language Exams</u></a></li>
-<li><a href="https://win-able.techidaily.com/optimizing-your-experience-with-total-war-warhammer-ii-eliminating-crashing-troubles-once-and-for-all/"><u>Optimizing Your Experience with Total War: WARHAMMER II - Eliminating Crashing Troubles Once & for All</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-samsung-galaxy-xcover-6-pro-tactical-edition-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Samsung Galaxy XCover 6 Pro Tactical Edition? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/revive-your-audio-technica-experience-with-our-driver-update-guide/"><u>Revive Your Audio-Technica Experience with Our Driver Update Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/saving-screen-time-by-hushing-file-explorer-tabs/"><u>Saving Screen Time by Hushing File Explorer Tabs</u></a></li>
-<li><a href="https://windows11.techidaily.com/taming-the-typhoon-of-erratic-windows-mouse-wheel/"><u>Taming the Typhoon of Erratic Windows Mouse Wheel</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooters-guide-unlocking-photoshop-on-windows-1011/"><u>Troubleshooters' Guide: Unlocking Photoshop on Windows 10/11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-channel-identity-made-simple-with-these-top-11-zero-cost-tools/"><u>[New] In 2024, Channel Identity Made Simple with These Top 11 Zero-Cost Tools</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-expert-guide-to-instagram-data-decoding-and-actionable-strategies/"><u>[New] In 2024, Expert Guide to Instagram Data Decoding and Actionable Strategies</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-the-ultimate-12-selection-of-smart-flip-screen-vlog-cameras/"><u>[Updated] 2024 Approved The Ultimate 12 Selection of Smart Flip-Screen Vlog Cameras</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/5-chatgpt-prompts-for-expediting-mundane-hr-tasks/"><u>5 ChatGPT Prompts for Expediting Mundane HR Tasks</u></a></li>
+<li><a href="https://win-top.techidaily.com/facil-y-gratuita-sincronizacion-entre-ordenadores-pasos-simples-para-compartir-archivos/"><u>Fácil Y Gratuita Sincronización Entre Ordenadores: Pasos Simples Para Compartir Archivos</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-nokia-xr21-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Nokia XR21 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/luminaries-in-augmented-sight-technology-for-2024/"><u>Luminaries in Augmented Sight Technology for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximizing-monitors-choosing-personalized-themes-in-win-1011/"><u>Maximizing Monitors: Choosing Personalized Themes in Win 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/mending-disconnected-spotify-sessions-in-w10w11/"><u>Mending Disconnected Spotify Sessions in W10/W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/peering-into-major-complaints-about-windows-11-launch/"><u>Peering Into Major Complaints About Windows 11 Launch</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-file-naming-powertoys-batch-renamer-tool/"><u>Quick File Naming: PowerToys Batch Renamer Tool</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-recovery-reviving-a-vanished-windows-update/"><u>Quick Recovery: Reviving a Vanished Windows Update</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-the-mystery-of-error-0x0000004e-on-windows/"><u>Solving the Mystery of Error 0X0000004E on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/stealthy-shutdown-auto-restart-guide-for-windows-pcs/"><u>Stealthy Shutdown: Auto-Restart Guide for Windows PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-your-workspace-integrating-directories-into-taskbar-menu/"><u>Streamlining Your Workspace: Integrating Directories Into Taskbar Menu</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-gear-and-components-insights/"><u>Tom's Tech Review: Gear & Components Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-steps-for-non-responsive-nvidia-cp/"><u>Troubleshooting Steps for Non-Responsive NVidia CP</u></a></li>
 </ul></div>
 

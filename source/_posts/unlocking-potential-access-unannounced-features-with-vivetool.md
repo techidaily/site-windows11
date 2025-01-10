@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Potential: Access Unannounced Features with ViVeTool"
-date: 2025-01-02T01:20:44.759Z
-updated: 2025-01-03T20:57:36.729Z
+date: 2025-01-07T20:15:47.053Z
+updated: 2025-01-10T18:28:25.813Z
 tags:
   - windows10
   - windows11
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/b8cf7f364a0eb33deca5de4b670b31137b8637ef9
  If you want to use ViVeTool on your daily driver, go through the [Windows data backup and recovery options](https://www.makeuseof.com/tag/ultimate-windows-10-data-backup-guide/) and proceed with the steps below. Ideally, use a virtual machine to test new features, and if found to be stable, apply them to your daily driver.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Download and Install the ViVeTool GUI Version
@@ -57,11 +57,11 @@ thumbnail: https://thmb.techidaily.com/b8cf7f364a0eb33deca5de4b670b31137b8637ef9
 ![download vivetool gui zip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/download-vivetool-gui-zip.jpg)
 2. Download the latest version of the **Setup.exe file** available. You can also download a portable version if you prefer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Run the setup file and keep the default settings. Follow the on-screen instructions to install the app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Install Unreleased Features Using ViVeTool on Windows
 
@@ -72,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/b8cf7f364a0eb33deca5de4b670b31137b8637ef9
 2. Click the **Select Build** drop-down in the top-left corner and select your **Windows build.** You can [check Windows 11 build and version](https://www.makeuseof.com/check-build-and-version-windows-11/) using the **Settings app**. ViVeTool GUI will now start looking for all the available features for the selected build. This may take a few minutes, so wait till the list is populated.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. ViVeTool GUI categorizes the available features into different categories, including **Always Disabled**, **Always Enabled**, **Disabled by Default**, **Enabled by Default**, and **Modifiable**. You can expand the category and select the feature to install.
@@ -80,12 +80,12 @@ thumbnail: https://thmb.techidaily.com/b8cf7f364a0eb33deca5de4b670b31137b8637ef9
 ![activate feature vivetool gui](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/activate-feature-vivetool-gui.jpg)
 5. Click the **Perform Action** drop-down select **Activate** to enable the feature. Wait for the success message and click **Close**.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![revert to default values feature vivetool gui](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/revert-to-default-values-feature-vivetool-gui.jpg)
 6. If the changes are not immediately visible, [restart Windows Explorer](https://www.makeuseof.com/ways-to-restart-file-explorer-windows-10/) to apply the changes. In some instances, you may need to restart your PC to make the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To revert the changes or disable a feature, you can use the Deactivate Feature option available in ViVeTool. Here's how to disable a feature using ViVeTool:
 
@@ -119,6 +119,10 @@ thumbnail: https://thmb.techidaily.com/b8cf7f364a0eb33deca5de4b670b31137b8637ef9
 ![vivetool zip extract folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/vivetool-zip-extract-folder.jpg)
 5. Right-click on the **Zip** file and select **Extract** **all**. Select a destination and click **Extract**. Take note of the extraction folder.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Next, press the **Win** key and type **cmd**.
 2. Right-click on **Command Prompt** and select **Run as administrator.**  
 ![command prompt vivetool change directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/command-prompt-vivetool-change-directory.jpg)
@@ -134,25 +138,21 @@ thumbnail: https://thmb.techidaily.com/b8cf7f364a0eb33deca5de4b670b31137b8637ef9
 ![command prompt vivetool enable feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/command-prompt-vivetool-enable-feature.jpg)
 2. For example, to enable the tab feature in File Explorer, the feature ID is id:37634385\. So, the full command will look like this:  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `ViVeTool.exe /enable /id:37634385`
 3. If you want to disable a feature, then the command will look something like this:  
 `ViVeTool.exe /disable /id:featureID`
 4. Once the command is executed, type exit and press Enter to close the Command Prompt.
 5. Restart your PC to apply the changes. After the PC restarts, the changes should be visible.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why Does Enabling a Feature in ViVeTool Not Do Anything?
 
  You may not be able to enable all the features present in ViVeTool. Almost all the hidden features are OS build-dependent. This means if you enable a feature using ViVeTool, but the changes don’t take effect, it is likely because the feature is not supported by the Windows OS build version you are running.
 
  In other instances, it may be due to the feature state being set to **Always Disabled** or **Enabled** during compilation. In this instance, even if ViVeTool successfully processes your request, you are unlikely to see any real changes, as the feature is hard-coded to remain on or off.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## ViVeTool's Supported Commands
 
@@ -191,20 +191,17 @@ thumbnail: https://thmb.techidaily.com/b8cf7f364a0eb33deca5de4b670b31137b8637ef9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-adding-dimension-incor-written-by-john-doe-for-tech-today-magazine-february-15-2023/"><u>[New] Adding Dimension Incor Written by John Doe for Tech Today Magazine, February 15, 2023</u></a></li>
-<li><a href="https://windows11.techidaily.com/best-android-apps-for-windows-computer-enthusiasts/"><u>Best Android Apps for Windows Computer Enthusiasts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/bringing-ai-home-gpt-4s-universal-reach/"><u>Bringing AI Home: GPT-4's Universal Reach</u></a></li>
-<li><a href="https://windows11.techidaily.com/effective-solutions-to-the-display-startup-failure-issue/"><u>Effective Solutions to the “Display Startup Failure” Issue</u></a></li>
-<li><a href="https://windows11.techidaily.com/getting-ahead-with-vivetool-on-windows-future-features/"><u>Getting Ahead with ViVeTool on Windows: Future Features</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-infinix-note-30-vip-racing-edition-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Infinix Note 30 VIP Racing Edition Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/image-jest-inc-punpictures-pro-for-2024/"><u>Image Jest Inc PunPictures Pro for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-investigating-instagrams-videography-cap/"><u>In 2024, Investigating Instagram's Videography Cap</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/integrating-image-browsing-into-file-explorer/"><u>Integrating Image Browsing Into File Explorer</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/overcoming-the-game-breaking-crash-issue-in-the-surge-2/"><u>Overcoming the Game-Breaking Crash Issue in The Surge 2.</u></a></li>
-<li><a href="https://windows11.techidaily.com/shedding-windows-history-lightly-with-these-triads/"><u>Shedding Windows History Lightly with These Triads</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-for-restoring-bluetooth-visibility-win/"><u>Steps for Restoring Bluetooth Visibility WIN</u></a></li>
-<li><a href="https://change-location.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo S17e | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/winning-at-win-11-games-easy-steps-for-enhancing-fun-and-performance/"><u>Winning at Win 11 Games: Easy Steps for Enhancing Fun and Performance</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-dslr-vs-mirrorless-optimal-choice-for-video-production/"><u>[New] In 2024, DSLR vs Mirrorless Optimal Choice for Video Production</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-aspect-ratio-mistake-in-windows-10/"><u>Correcting Aspect Ratio Mistake in Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/descubra-e-instale-o-capcut-para-windows-uso-facil-do-editor-de-videos-mais-popular/"><u>Descubra E Instale O CapCut Para Windows: Uso Fácil Do Editor De Vídeos Mais Popular</u></a></li>
+<li><a href="https://windows11.techidaily.com/fix-installation-failed-for-discord-on-windows-11-and-11/"><u>Fix 'Installation Failed' For Discord on Windows 11 & 11</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/immerse-projects-in-audible-experience-via-premiere-pro-for-2024/"><u>Immerse Projects in Audible Experience via Premiere Pro for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-y27-4gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo Y27 4GFRP Lock</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximizing-mouse-cursor-visibility-and-clarity-windows-edition/"><u>Maximizing Mouse Cursor Visibility and Clarity - Windows Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-error-signals-in-windows-a-guide-to-using-command-prompt-for-diagnostics/"><u>Navigating Error Signals in Windows: A Guide to Using Command Prompt for Diagnostics</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premier-gif-application-selection-for-iphone-users/"><u>Premier GIF Application Selection for iPhone Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-for-emulating-android-environment-within-windows-11/"><u>Step-by-Step Tutorial for Emulating Android Environment Within Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-tutorial-for-configuring-a-game-controller-steering-wheel-on-windows-or-mac/"><u>The Ultimate Tutorial for Configuring a Game Controller Steering Wheel on Windows or Mac</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-system-deciphering-report-creation-and-analysis/"><u>Windows System Deciphering: Report Creation & Analysis</u></a></li>
 </ul></div>
 

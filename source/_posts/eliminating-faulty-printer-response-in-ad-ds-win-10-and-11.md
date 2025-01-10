@@ -1,7 +1,7 @@
 ---
 title: Eliminating Faulty Printer Response in AD DS, WIN 10 & 11
-date: 2024-07-29T04:24:26.529Z
-updated: 2024-07-30T04:24:26.529Z
+date: 2025-01-05T23:13:00.600Z
+updated: 2025-01-10T23:23:42.125Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 
  This error means that the software can’t detect a connected printer. It’s a widely reported issue to occur for MS Office applications but can affect a wide range of apps. These are the best ways to fix the “Active Directory Domain Services” error in Windows 10 and 11\.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Run the Printer Troubleshooter
 
  Windows has a Printer troubleshooter to help you fix printing issues. So, we recommend you try troubleshooting the “Active Directory Domain Services” error with that printer. You can open the Printer troubleshooting tool from Settings by following the instructions in our guide to [running troubleshooters on Windows 10 and 11](https://www.makeuseof.com/run-troubleshooter-windows-10-11/).
@@ -32,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
  When you’ve opened the Printer troubleshooter, select the printer model to fix and click **Next**. Then select **Apply this fix** for all possible resolutions suggested within the troubleshooter.
 
 ![The Printer troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/printer-troubleshooter.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Start or Restart Windows’ Print Spooler Service
 
@@ -44,17 +45,15 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 ![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/services-window.jpg)
 5. Select the **Startup type** menu’s **Automatic** option if a different setting is set there.
 6. Click **Run** to start Print Spooler if it’s stopped.  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Print Spooler Properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/print-spooler-service-window.jpg)
 7. Select **Apply** and **OK** to save all the Print Spooler options you’ve just selected.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If Print Spooler is already running, restart that service. To do so, right-click **Print Spooler** in the Services window and select **Restart**. Or select the **Stop** and **Start** options within that service’s properties window.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Uninstall and Reinstall Your Printer’s Driver
 
  A faulty printer driver is a possible cause for the “Active Directory Domain Services” error on your PC. To address such a potential cause, try reinstalling your printer’s driver like this:
@@ -64,15 +63,14 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 3. Right-click your printer and select **Uninstall device**.  
 ![The Uninstall device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/uninstall-device-option.jpg)
 4. Select **Uninstall** on the confirmation window.  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![The Remove device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/remove-device-option.jpg)
 5. To reinstall a driver, right-click the printer in Device Manager and select **Search automatically for updated driver software** option. Windows will detect a printer driver available on your PC and install it.
 
  You can also reinstall a driver by downloading it from the device manufacturer’s website. Open the driver download page on your printer manufacturer’s website. Then select your printer model there and download the latest driver for it. Double-click the printer driver package you downloaded to bring up a setup wizard and select to install it from there.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Manually Add a Printer
 
@@ -81,21 +79,17 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 1. Press **Windows** key + **R**, enter **Control Panel** in Run’s **Open** box, and click **OK**.
 2. Then click **Devices and Printers** or **View devices and printers** within the Control Panel.
 3. If you can see it listed, right-click the printer you can't print with and select **Remove device**.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ![The Remove device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/remove-device-option.jpg)
 4. Click **Yes** to remove the printer.
 5. Make sure the printer you want to add is connected to the PC.
 6. Press the **Add a printer** button in the Devices and Printers applet.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![The Add a printer option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/add-a-printer.jpg)
 7. Select the printer you just removed and click **Next**.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![The Add a device window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/add-a-device.jpg)
 8. If the printer you need isn’t available for selection within the wizard, click the printer that I want isn’t listed. Then select a suitable option for finding the printer.
 
@@ -107,10 +101,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 2. Then navigate to this registry location:  
 `HKEY_CURRENT_USER\Software\Microsoft\Windows NT\CurrentVersion`
 3. Right-click the **Devices** registry key to select **Permissions**.  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Permissions option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/permissions-option.jpg)
 4. Next, select the user profile in which the error occurs within the **Group** box.
 5. Then select the **Full Control** checkbox within the **Allow** column.  
@@ -121,9 +111,9 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 9. Close out of Registry Editor and restart your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Try Printing With a Pre-Installed Windows App
 
  Windows includes some pre-installed apps with which you can print documents and images. Some of those pre-installed apps might be able to find your printer without issues. Users confirm finding a printer and printing with Notepad can resolve the “Active Directory Domain Services” error. This is how you can find a printer in Notepad:
@@ -132,15 +122,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. Input a **Notepad** search phrase, and select that app’s result.
 3. Enter some text into Notepad.
 4. Then click **File** on Notepad’s menu bar.  
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Print option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/print-option.jpg)
 5. Select **Print** to bring up the **General** tab.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click the **Find Printer** button.  
 ![The Find Printer button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/print-window.jpg)
 7. If you can find the printer with Notepad, print the text you entered with that app.
 8. Then return to the software in which the “Active Directory Domain Services” error occurs to see if it can now find your printer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get Printing Again on Windows
 
@@ -148,11 +144,28 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  This error means that the software can’t detect a connected printer. It’s a widely reported issue to occur for MS Office applications but can affect a wide range of apps. These are the best ways to fix the “Active Directory Domain Services” error in Windows 10 and 11\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-enhancing-package-revelation-7-ways-for-2024/"><u>[New] Enhancing Package Revelation 7 Ways for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-automatic-youtube-playback-made-simple-for-social-networking-sites-like-facebook/"><u>[Updated] Automatic YouTube Playback Made Simple for Social Networking Sites Like Facebook</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/advanced-pc-building-tips-from-toms-computer-experts/"><u>Advanced PC Building Tips From Tom's Computer Experts</u></a></li>
+<li><a href="https://win-able.techidaily.com/ark-the-island-escape-ultimate-guide-for-increasing-fps-on-pc-gaming-systems/"><u>ARK: The Island Escape – Ultimate Guide for Increasing FPS on PC Gaming Systems</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/chromatic-wonders-bridging-color-knowledge/"><u>Chromatic Wonders Bridging Color Knowledge</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortless-access-key-strategies-for-w11s-rdc/"><u>Effortless Access: Key Strategies for W11's RDC</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminate-unmet-windows-11-specifications-warning/"><u>Eliminate Unmet Windows 11 Specifications Warning</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-cannot-view-messages-from-your-microsoft-office-mail/"><u>Eliminating 'Cannot View' Messages From Your Microsoft Office Mail</u></a></li>
+<li><a href="https://windows11.techidaily.com/enabling-hyper-v-a-quick-win11-guide/"><u>Enabling Hyper-V: A Quick Win11 Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/eradicating-code-0x800700e1-complications-on-windows-11-pcs/"><u>Eradicating Code 0X800700E1 Complications on Windows 11 PCs</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/how-much-footage-does-instagram-allow-in-2024/"><u>How Much Footage Does Instagram Allow, In 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-downgrade-iphone-11-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 11 to an Older iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-6-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 6 To Other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-xiaomi-civi-3-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Xiaomi Civi 3 to Latest Samsung | Dr.fone</u></a></li>
+</ul></div>
+

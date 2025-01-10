@@ -1,7 +1,7 @@
 ---
 title: "Reviving BIOS Secure Boot: A Step-by-Step Guide for Windows Users"
-date: 2024-12-29T00:06:35.252Z
-updated: 2025-01-03T21:57:53.212Z
+date: 2025-01-08T17:01:04.794Z
+updated: 2025-01-10T22:03:59.507Z
 tags:
   - windows10
   - windows11
@@ -43,9 +43,17 @@ To set an administrator password in BIOS:
 ![bios set administrator password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bios-set-administrator-password.jpg)
 7. Next, press**F10** to save the changes and exit**BIOS** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Boot into**BIOS** again, and**Secure Boot** should be available for use.
 
  You can remove the administrator password after enabling Secure Boot. To do this, open the**Security** tab in BIOS and select**Administrator Password** . Next, enter your administrator password, but leave the**Enter New Password** and**Confirm New Password** fields blank. Press**Enter** again to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Disable Fast Boot in BIOS
 
@@ -65,10 +73,6 @@ To disable fast boot in BIOS:
 6. Press**F10** to save the changes and exit.
 7. After the computer restarts, boot into BIOS to see if you can access Secure Boot.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Restore the BIOS Security Settings to Factory Defaults
 
  You can restore BIOS security settings to factory defaults to enable secure boot. If you have made major changes to the BIOS security settings, a reset will remove the custom configuration and restore the factory default security settings. Most BIOS utilities allow you to perform a restore in the BIOS Security tab.
@@ -81,27 +85,19 @@ To restore BIOS Security settings to factory defaults:
 ![restore bios factory settings default](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restore-bios-factory-settings-default.jpg)
 4. Read the description in the**Security Feature Reset Request** dialog. Here you'll need to enter a pass code to complete the reset request.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. So, enter the shown**pass code** and press**Enter** .  
 ![restore bios factory settings default pass code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restore-bios-factory-settings-default-pass-code.jpg)
 6. Press**F10** to save the changes and exit**BIOS** .
 
-7. Boot into BIOS again and check if the greyed-out secure boot problem is resolved.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+7. Boot into BIOS again and check if the greyed-out secure boot problem is resolved.
 
 ## 4\. Update BIOS
 
 ![system information bios version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-information-bios.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If the issue persists, your problem may be due to outdated BIOS firmware. While you don't need to update your system BIOS as frequently, the newer version tends to bring bug fixes, performance improvements, and newer hardware support.
 
@@ -123,6 +119,10 @@ To restore BIOS Security settings to factory defaults:
 
  To update BIOS, run the firmware file and follow the on-screen instructions. Your computer will restart into the BIOS Update utility. Select**Apply Update Now** and wait for the update to finish installing. Once done, boot into BIOS and check if the Secure Boot option is available. Make sure to enable your antivirus and BitLocker protection again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Load the BIOS Defaults Settings
 
 ![load BIOS default settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/load-bios-default-settings.jpg)
@@ -138,7 +138,7 @@ To load BIOS defaults settings:
 5. Boot into**BIOS** again and check if the secure boot option is restored.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixing the Grayed Out Secure Boot Option in BIOS
@@ -160,20 +160,18 @@ To load BIOS defaults settings:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-innovative-approaches-to-achieve-stunning-gopro-time-lapse/"><u>[New] In 2024, Innovative Approaches to Achieve Stunning GoPro Time Lapse</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-revolutionizing-online-content-the-power-of-time-stamps/"><u>[Updated] Revolutionizing Online Content The Power of Time-Stamps</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-breaking-down-sony-bdp-s6700-updates/"><u>2024 Approved Breaking Down Sony BDP-S6700 Updates</u></a></li>
-<li><a href="https://article-tips.techidaily.com/30plus-metaverse-quotes-to-inspire-you-include-ar-and-vr/"><u>30+ Metaverse Quotes to Inspire You [Include AR & VR]</u></a></li>
-<li><a href="https://windows11.techidaily.com/5-creative-routes-to-activate-windows-utilities/"><u>5 Creative Routes to Activate Windows Utilities</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-guide-to-all-the-windows-photos-keyboard-shortcuts/"><u>A Guide to All the Windows Photos Keyboard Shortcuts</u></a></li>
-<li><a href="https://windows11.techidaily.com/adding-disk-usage-viewers-to-windows-menu-bar/"><u>Adding Disk Usage Viewers to Windows Menu Bar</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-absence-of-ubisoft-launcher-in-windows/"><u>Addressing Absence of Ubisoft Launcher in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/balancing-system-resources-with-microsoft-edge/"><u>Balancing System Resources with Microsoft Edge</u></a></li>
-<li><a href="https://windows11.techidaily.com/classic-expanse-a-win-11-explorer-journey/"><u>Classic Expanse: A Win 11 Explorer Journey</u></a></li>
-<li><a href="https://windows11.techidaily.com/combining-audioscapes-and-visuals-snipping-tool-guide-max-156/"><u>Combining Audioscapes & Visuals: Snipping Tool Guide (Max 156)</u></a></li>
-<li><a href="https://games-able.techidaily.com/comprehensive-review-of-the-innocn-ultrawide-40-144-hz-gaming-screen-a-spacious-and-responsive-choice-cnet/"><u>Comprehensive Review of the Innocn Ultrawide 40” 144 Hz Gaming Screen – A Spacious and Responsive Choice | CNET</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-xiaomi-redmi-note-13-5g-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Xiaomi Redmi Note 13 5G Phone? Unlock It Now</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-vivo-t2x-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Vivo T2x 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/1728487008789-windows-10/"><u>Windows 10ユーザー向け｜完全なディスクバックアップ方法ガイド</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-enthusiastic-exchanges-chatting-with-your-subscribers/"><u>[New] Enthusiastic Exchanges Chatting With Your Subscribers</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-spark-interest-fast-unique-bios-and-hashtags-for-tinder-success/"><u>[Updated] 2024 Approved Spark Interest Fast Unique Bios and Hashtags for Tinder Success</u></a></li>
+<li><a href="https://win-web3.techidaily.com/maximizing-efficiency-essential-data-retrieval-solutions-for-windows-10/"><u>Maximizing Efficiency: Essential Data Retrieval Solutions for Windows 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-runtime-issues-with-malwarebytes-in-modern-windows-systems/"><u>Overcoming Runtime Issues with Malwarebytes in Modern Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/path-retrieval-pro-unveiling-six-strategies-for-copying-windows-11-directory-structures/"><u>Path Retrieval Pro: Unveiling Six Strategies for Copying Windows 11 Directory Structures</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-lsasuxcomplision-error-on-windows-systems/"><u>Resolving LSASUX_COMPLISION ERROR on Windows Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/simple-steps-update-device-drivers-in-windows-7-8-and-10/"><u>Simple Steps: Update Device Drivers in Windows 7, 8 & 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-12-screen-recording-apps-explore-the-best-tools-by-movavi/"><u>Top 12 Screen Recording Apps: Explore the Best Tools by Movavi</u></a></li>
+<li><a href="https://win-dash.techidaily.com/top-no-cost-replacements-for-adobe-creative-suite-on-windows-pcs/"><u>Top No-Cost Replacements for Adobe Creative Suite on Windows PCs</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/transforming-text-into-interactive-digital-magazines-can-flipbuilder-make-your-pages-more-engaging-and-readable/"><u>Transforming Text Into Interactive Digital Magazines: Can FlipBuilder Make Your Pages More Engaging and Readable?</u></a></li>
+<li><a href="https://windows11.techidaily.com/transforming-vintage-films-with-a-windows-based-madvr-approach/"><u>Transforming Vintage Films with a Windows-Based MadVR Approach</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleashing-winmcs-potential-solving-wi-fi-issues/"><u>Unleashing WinMC's Potential: Solving Wi-Fi Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-nextgen-access-mastering-upcoming-features-with-vivetool/"><u>Windows NextGen Access: Mastering Upcoming Features with ViVeTool</u></a></li>
 </ul></div>
 
