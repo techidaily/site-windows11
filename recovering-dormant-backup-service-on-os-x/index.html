@@ -33,8 +33,8 @@
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/turn-off-firewall-settings.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/startup-tab.jpg">
-<meta property="article:published_time" content="2025-01-05T12:50:06.495Z">
-<meta property="article:modified_time" content="2025-01-10T14:33:19.639Z">
+<meta property="article:published_time" content="2025-01-12T01:55:18.522Z">
+<meta property="article:modified_time" content="2025-01-15T12:43:01.177Z">
 <meta property="article:author" content="Joseph">
 <meta property="article:tag" content="windows10">
 <meta property="article:tag" content="windows11">
@@ -720,15 +720,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2025-01-05 20:50:06</span>
-        <span class="mobile">2025-01-05 20:50:06</span>
+        <span class="desktop">2025-01-12 09:55:18</span>
+        <span class="mobile">2025-01-12 09:55:18</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2025-01-10 22:33:19</span>
-            <span class="mobile">2025-01-10 22:33:19</span>
+            <span class="desktop">2025-01-15 20:43:01</span>
+            <span class="mobile">2025-01-15 20:43:01</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -797,10 +797,6 @@
 <p> Disclaimer: This post includes affiliate links</p>
 <p> If you click on a link and make a purchase, I may receive a commission at no extra cost to you.</p>
 </blockquote>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h2 id="1-Enable-and-Start-Volume-Shadow-Copy-Services"><a href="#1-Enable-and-Start-Volume-Shadow-Copy-Services" class="headerlink" title="1. Enable and Start Volume Shadow Copy Services"></a>1. Enable and Start Volume Shadow Copy Services</h2><p> VSS errors can often arise because the Volume Shadow Copy and Microsoft Software Shadow Copy Provider services aren’t enabled or running. For example, many users have confirmed enabling those services can fix VSS error codes 0x81000202 and 0x81000203, which affect the System Restore tool. So, you may be able to resolve numerous Volume Shadow Copy errors by enabling VSS services like this:</p>
 <ol>
 <li>First, press the <strong>Windows</strong> logo key + <strong>S</strong> and enter a Services search phrase to find that app.</li>
@@ -813,22 +809,26 @@
                 ></li>
 <li>Click the drop-down menu labeled <strong>Startup type</strong> and select <strong>Automatic</strong> if the service is set differently.</li>
 </ol>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <p><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/startup-type-drop-down-menu.jpg"
                       alt="The Startup type drop-down menu"
                 ><br>5. Press <strong>Start</strong> in the Volume Shadow Copy Service window.</p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <ol start="6">
 <li>Click on the service window’s <strong>Apply</strong> and <strong>OK</strong> buttons to set the changed options.</li>
 <li>Repeat steps three to six for the Microsoft Software Shadow Copy Provider service.</li>
 <li>Also, check that the RPC Endpoint Mapper and DCOM Server Process dependency services for Volume Shadow Copy are enabled and running.</li>
 </ol>
 <p> Restart those shadow copy services if they’re already set as required. You can do that by right-clicking on those services and selecting the Restart context menu options for them.</p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <h2 id="2-Repair-Your-System-Files-With-the-SFC-and-DISM-Commands"><a href="#2-Repair-Your-System-Files-With-the-SFC-and-DISM-Commands" class="headerlink" title="2. Repair Your System Files With the SFC and DISM Commands"></a>2. Repair Your System Files With the SFC and DISM Commands</h2><p> Corrupted system files can affect Windows services, such as Volume Shadow Copy. So, some users may need to repair system files to fix the Volume Shadow Copy Service when it’s not working. You can do that by running System File Checker and Deployment Image Servicing Management scans, as covered in this article about <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-built-in-repair-tools/" >repairing corrupt Windows files <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
 <p><img  
                      lazyload
@@ -851,10 +851,6 @@
                       alt="Temporarily disable antivirus"
                 ></p>
 <p> Don’t leave your antivirus shield permanently disabled. If possible, select to disable it for a few hours before attempting the backup or system restoration operation again. Or manually re-enable your antivirus if you can’t select a temporary option.</p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h2 id="5-Disable-Any-Active-Firewalls"><a href="#5-Disable-Any-Active-Firewalls" class="headerlink" title="5. Disable Any Active Firewalls"></a>5. Disable Any Active Firewalls</h2><p> It’s also recommended to disable the firewall component of a third-party antivirus utility before attempting to perform a VSS operation. Turning off an antivirus shield won’t disable a firewall component. Look for firewall settings within your antivirus software’s tabs to see if it includes one. If it does, select to turn off the firewall.</p>
 <p> Try turning off the Windows firewall if you haven’t installed a third-party antivirus utility or firewall software. Check out this guide to <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/" >disabling Microsoft Defender Firewall <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> for instructions for turning off that security component.</p>
 <p><img  
@@ -864,11 +860,11 @@
                       alt="The Turn off Windows Defender Firewall option"
                 ></p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <h2 id="6-Set-Windows-to-Perform-a-Clean-Boot"><a href="#6-Set-Windows-to-Perform-a-Clean-Boot" class="headerlink" title="6. Set Windows to Perform a Clean Boot"></a>6. Set Windows to Perform a Clean Boot</h2><p><img  
@@ -880,6 +876,10 @@
 <p> Conflicting background apps or services are another potential cause of Volume Shadow Copy errors. Third-party backup utilities with snapshot managers are the most likely software packages to conflict with the Volume Shadow Copy Service. If you know you’ve installed a third-party backup manager, uninstalling it could be the best way to ensure it doesn’t cause any conflicts.</p>
 <p> However, you can <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/clean-boot-windows-11/" >perform a clean boot <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> to stop third-party apps and services from starting with Windows to prevent conflicts from arising. This involves disabling startup items and services with Task Manager and MSConfig and restarting Windows. Then try utilizing the Windows Backup and Restore or System Restore tools after clean booting your PC to see if the VSS error persists.</p>
 <p> If it does, this means something you disabled during the clean boot is causing the problem. Now you can slowly re-enable each app until the problem reappears, then either uninstall or update the offending app.</p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <h2 id="Back-up-and-Restore-Windows-Again"><a href="#Back-up-and-Restore-Windows-Again" class="headerlink" title="Back up and Restore Windows Again"></a>Back up and Restore Windows Again</h2><p> These solutions can potentially resolve many variable Volume Shadow Copy Service error messages and codes that pop up during system backup and restore operations. With Volume Shadow Copy fixed, you can back up and restore Windows with built-in system tools again.</p>
 <p><ins class="adsbygoogle"
       style="display:block"
@@ -889,19 +889,25 @@
       data-full-width-responsive="true"></ins></p>
 <p><span class="atpl-alsoreadstyle">Also read:</span></p>
 <div><ul>
-<li><a target="_blank" rel="noopener" href="https://facebook-video-share.techidaily.com/new-mastering-cost-effective-visual-integration-in-writing/"><u>[New] Mastering Cost-Effective Visual Integration in Writing</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://digital-screen-recording.techidaily.com/updated-in-2024-understanding-ios-video-recording/"><u>[Updated] In 2024, Understanding iOS Video Recording</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-approaches.techidaily.com/2024-approved-is-inshot-the-best-of-the-best-expert-reviews-speak-up/"><u>2024 Approved Is InShot The Best of the Best? Expert Reviews Speak Up</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-useful.techidaily.com/captivating-hd-zoological-wallpapers-exclusive-wildlife-artwork-and-background-images-from-yl-software/"><u>Captivating HD Zoological Wallpapers: Exclusive Wildlife Artwork and Background Images From YL Software</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Realme 12+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/minimizing-time-outs-and-lag-in-windows-discord-service/"><u>Minimizing Time-Outs and Lag in Windows Discord Service</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-access-errors-with-epic-launcher/"><u>Resolving Access Errors with Epic Launcher</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://solve-lab.techidaily.com/schneller-und-sicherer-weg-zur-datenwiederherstellung-auf-micro-sd-karten-expertenrat/"><u>Schneller Und Sicherer Weg Zur Datenwiederherstellung Auf Micro-SD-Karten – Expertenrat</u></a></li>
-<li><a href="https://windows11.techidaily.com/team-chat-freezing-heres-a-fix/"><u>Team Chat Freezing? Here’s a Fix</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://discover-guides.techidaily.com/transfer-data-effortlessly-three-techniques-for-iphone-backups-on-external-drives/"><u>Transfer Data Effortlessly: Three Techniques for iPhone Backups on External Drives</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshoot-no-display-on-pc-startup/"><u>Troubleshoot No-Display on PC Startup</u></a></li>
-<li><a href="https://windows11.techidaily.com/understanding-impactful-windows-11-service-disabling/"><u>Understanding Impactful Windows 11 Service Disabling</u></a></li>
-<li><a href="https://windows11.techidaily.com/upgrade-security-mastering-windows-11-password-change/"><u>Upgrade Security: Mastering Windows 11 Password Change</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fox-direct.techidaily.com/new-2024-approved-a-journey-through-colors-leading-tutorials-for-grading-and-correction/"><u>[New] 2024 Approved A Journey Through Colors Leading Tutorials for Grading & Correction</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fox-helps.techidaily.com/new-2024-approved-mastering-the-craft-of-in-depth-and-impactful-interviews/"><u>[New] 2024 Approved Mastering the Craft of In-Depth and Impactful Interviews</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fox-helps.techidaily.com/updated-superior-avi-media-player-ideal-for-all-devices/"><u>[Updated] Superior AVI Media Player - Ideal for All Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/audio-visual-verification-a-windows-users-pre-meet-checklist/"><u>Audio Visual Verification: A Windows User’s Pre-Meet Checklist</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://iphone-unlock.techidaily.com/complete-guide-for-apple-iphone-15-pro-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For Apple iPhone 15 Pro Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/crafting-the-perfect-keys-list-for-win11s-narrator-control/"><u>Crafting the Perfect Keys List for Win11's Narrator Control</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-prevalent-anydesk-errors-in-windows/"><u>Decoding Prevalent AnyDesk Errors in Windows</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-itel-p55t-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Itel P55T Phone | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-stop-recurring-disk-full-issues-in-windows/"><u>How to Stop Recurring Disk Full Issues in Windows</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://mondly-stories.techidaily.com/i-numeri-italiani-da-1-al-prolungamento-a-mille/"><u>I Numeri Italiani: Da 1 Al Prolungamento a Mille</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-xiaomi-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Xiaomi</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://network-issues.techidaily.com/1719974176310-quick-enhancement-update-intel-graphics-3000-to-boost-your-w10-display/"><u>Quick Enhancement: Update Intel Graphics 3000 to Boost Your W10 Display</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://youtube-blog.techidaily.com/-steps-to-live-stream-youtube-via-obs-for-novices/"><u>Quick Steps to Live Stream Youtube via OBS for Novices</u></a></li>
+<li><a href="https://windows11.techidaily.com/re-establishing-malwarebytes-service-connections-in-win-oses/"><u>Re-Establishing Malwarebytes' Service Connections in Win OSes</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://discover-deluxe.techidaily.com/the-ultimate-guide-to-picking-a-cryptocurrency-platform-insights-by-yl-software-experts/"><u>The Ultimate Guide to Picking a Cryptocurrency Platform - Insights by YL Software Experts</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-guide-vmware-crashes-bsod-on-win11/"><u>Troubleshooting Guide: VMware Crashes, BSOD on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/what-is-ftdibussys-on-windows-and-why-does-it-disable-memory-integrity/"><u>What Is ftdibus.sys on Windows and Why Does It Disable Memory Integrity?</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-unveiled-the-backup-and-sync-technological-advancements/"><u>Windows 11 Unveiled: The Backup & Sync Technological Advancements</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-window-wizardry-how-to-reactivate-off-screen-apps/"><u>Windows 11 Window Wizardry: How to Reactivate Off-Screen Apps</u></a></li>
 </ul></div>
 
 
@@ -914,11 +920,11 @@
         <li><strong>Title:</strong> Recovering Dormant Backup Service on OS X</li>
         <li><strong>Author:</strong> Joseph</li>
         <li><strong>Created at
-                :</strong> 2025-01-05 20:50:06</li>
+                :</strong> 2025-01-12 09:55:18</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2025-01-10 22:33:19
+                    :</strong> 2025-01-15 20:43:01
             </li>
         
         <li>
@@ -962,13 +968,13 @@
                     <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="prev"
                         rel="prev"
-                        href="/overcoming-boot-up-bottlenes-in-lol-world/"
+                        href="/diagnosing-partially-functioning-windows-earphones/"
                         >
                             <span class="left arrow-icon flex justify-center items-center">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </span>
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Overcoming Boot-Up Bottlenes in LOL World</span>
+                                <span class="post-nav-title-item">Diagnosing Partially Functioning Windows Earphones</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -978,10 +984,10 @@
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/the-nostalgic-pathway-transform-windows-11-to-98/"
+                        href="/mastery-in-mending-windows-update-failures-0x712/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">The Nostalgic Pathway: Transform Windows 11 to &#39;98</span>
+                                <span class="post-nav-title-item">Mastery in Mending Windows Update Failures: 0X712</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">
